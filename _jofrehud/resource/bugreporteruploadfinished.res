@@ -1,0 +1,45 @@
+#base "#bases/bugreport_label.res"
+"Resource\BugReporterUploadFinished.res"
+{
+	"FinishDialog"
+	{
+		"ControlName"		"Frame"
+		"fieldName"		"FinishDialog"
+		"xpos"		"361"
+		"ypos"		"305"
+		"wide"		"300"
+		"tall"		"140"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"settitlebarvisible"		"1"
+		"title"		"Bug Reporter"
+	}
+	"CloseBtn"
+	{
+		"ControlName"		"Button"
+		"fieldName"		"CloseBtn"
+		"xpos"		"116"
+		"ypos"		"96"
+		"wide"		"64"
+		"tall"		"24"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"labelText"		"#GameUI_OK"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+		"Command"		"Close"
+		"Default"		"1"
+	}
+	"InfoLabel"
+	{
+		"labelText"		"#GameUI_Bug_Successful"
+	}
+}

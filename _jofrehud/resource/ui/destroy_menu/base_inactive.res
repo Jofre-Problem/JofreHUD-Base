@@ -1,0 +1,1 @@
+#base "base/base_inactive.res"

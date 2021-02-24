@@ -1,0 +1,7 @@
+#base "base/label1_main.res"
+#base "base/label1_autoresize.res"
+#base "base/label1_north.res"
+#base "base/label1_tall24.res"
+#base "base/label1_paintb.res"
+#base "base/label1_wrap0.res"
+#base "base/divider1.res"

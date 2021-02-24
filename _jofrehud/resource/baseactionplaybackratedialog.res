@@ -1,0 +1,92 @@
+#base "#bases/baseaction_top.res"
+#base "#bases/baseaction_grip.res"
+#base "#bases/baseaction_sys.res"
+#base "#bases/baseaction_label.res"
+#base "#bases/1okbutton.res"
+#base "#bases/baseaction_min.res"
+"resource\BaseActionPlaybackRateDialog.res"
+{
+	"OK"
+	{
+		"xpos"		"16"
+		"ypos"		"178"
+	}
+	"Cancel"
+	{
+		"xpos"		"86"
+		"ypos"		"178"
+	}	
+	"ChangePlaybackRate"
+	{
+		"ControlName"		"Frame"
+		"fieldName"		"ChangePlaybackRate"
+		"xpos"		"69"
+		"ypos"		"346"
+		"wide"		"400"
+		"tall"		"300"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+	}
+	"Caption"
+	{
+		"xpos"		"44"
+		"ypos"		"4"
+		"wide"		"390"
+		"tall"		"23"
+	}
+
+	"ActionStop"
+	{
+		"ControlName"		"TextEntry"
+		"fieldName"		"ActionStop"
+		"xpos"		"232"
+		"ypos"		"97"
+		"wide"		"104"
+		"tall"		"24"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textHidden"		"0"
+		"editable"		"1"
+		"maxchars"		"-1"
+	}
+	"ActionStopType"
+	{
+		"ControlName"		"ComboBox"
+		"fieldName"		"ActionStopType"
+		"xpos"		"84"
+		"ypos"		"97"
+		"wide"		"142"
+		"tall"		"24"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textHidden"		"0"
+		"editable"		"0"
+		"maxchars"		"-1"
+	}
+	"PlaybackRate"
+	{
+		"ControlName"		"TextEntry"
+		"fieldName"		"PlaybackRate"
+		"xpos"		"83"
+		"ypos"		"131"
+		"wide"		"64"
+		"tall"		"24"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textHidden"		"0"
+		"editable"		"1"
+		"maxchars"		"-1"
+	}
+}

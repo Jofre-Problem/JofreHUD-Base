@@ -1,0 +1,1 @@
+#base "../disguise_menu/base/spy_blue.res"

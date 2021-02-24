@@ -1,0 +1,1 @@
+#base "../resource/#bases/ok_button.res"

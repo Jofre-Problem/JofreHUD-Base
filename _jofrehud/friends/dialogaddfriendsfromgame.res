@@ -1,0 +1,6 @@
+#base "../resource/#bases/1sysmenu.res"
+#base "base/label1_main.res"
+#base "base/label1_north.res"
+#base "base/label1_paintb.res"
+#base "base/label1_wrap1.res"
+#base "../#uni_base/filesv1/playerlist/playerlist_main.res"

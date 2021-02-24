@@ -1,0 +1,4 @@
+most resource files use the #base method from budhud for changes
+the only exception of this rule is the #base method from Flarepunch hud
+used only on very hard file to keep those things due to optimization
+ex. quests resource files

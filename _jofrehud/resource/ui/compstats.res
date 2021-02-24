@@ -1,0 +1,1 @@
+#base "../#bases/1rankpanel.res"

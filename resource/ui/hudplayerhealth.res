@@ -1,0 +1,6 @@
+	#base	"..\..\#users\custom\resource\ui\hudplayerhealth.res"
+	#base	"..\..\_jofrehud/_customization\UI\Styles/style_health.res"	
+	#base	"..\..\_stream\resource\ui\hudplayerhealth.res"
+	#base	"..\..\_jofrehud/_customization\healthcross.res"		
+	#base	"..\..\_jofrehud\resource\ui\hudplayerhealth.res"	
+	#base	"..\..\_tf2hud\resource\ui\hudplayerhealth.res"

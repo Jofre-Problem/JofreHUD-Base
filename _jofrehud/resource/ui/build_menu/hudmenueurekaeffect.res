@@ -1,0 +1,1 @@
+#base "base/hudmenueurekaeffect.res"

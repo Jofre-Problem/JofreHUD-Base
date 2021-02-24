@@ -1,0 +1,8 @@
+#base "../resource/#bases/1sysmenu.res"
+#base "base/okaybutton.res"
+#base "base/cancelbutton_main.res"
+#base "base/cancelbutton_main2.res"
+#base "base/cancelbutton_textalign_west.res"
+#base "base/cancelbutton_tabis2.res"
+#base "base/cancelbutton_command_close.res"
+#base "base/cancelbutton_label.res"

@@ -1,0 +1,15 @@
+hudanimations_manifest
+{
+	"file"		"scripts/hudanimations.txt"
+	"file"		"_jofrehud/scripts/hudanimations.txt"
+	"file"		"_jofrehud/_customization/scripts/_main.txt"
+	"file"		"_jofrehud/_customization/scripts/chat_bg.txt"
+	"file"		"_jofrehud/_customization/scripts/removescope.txt"
+	"file"		"_jofrehud/_customization/scripts/cart_glow_anim.txt"
+	"file"		"_jofrehud/_customization/scripts/uber_type.txt"
+	"file"		"_jofrehud/_customization/scripts/vida.txt"
+	"file"		"_jofrehud/_customization/scripts/municion.txt"
+	"file"		"_jofrehud/_customization/scripts/crosshair_on_scoreboard.txt"
+	"file"		"_jofrehud/_customization/scripts/scoreboard_slide.txt"
+	"file"		"scripts/hudanimations_tf.txt"
+}

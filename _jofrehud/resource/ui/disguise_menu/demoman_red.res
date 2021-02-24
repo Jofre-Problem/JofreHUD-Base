@@ -1,0 +1,1 @@
+#base "base/demoman_red.res"

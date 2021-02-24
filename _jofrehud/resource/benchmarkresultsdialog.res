@@ -1,0 +1,41 @@
+#base "#bases/bench_main.res"
+
+"Resource/BenchmarkResultsDialog.res"
+{
+	"BenchmarkResultsDialog"
+	{
+		"ControlName"		"CBenchmarkResultsDialog"
+		"fieldName"		"BenchmarkResultsDialog"
+		"xpos"		"320"
+		"ypos"		"256"
+		"wide"		"384"
+		"tall"		"256"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"settitlebarvisible"		"1"
+		"title"		"#GameUI_BenchmarkResults_Title"
+	}
+	"UploadCheck"
+	{
+		"ControlName"		"CheckButton"
+		"fieldName"		"UploadCheck"
+		"xpos"		"34"
+		"ypos"		"177"
+		"wide"		"300"
+		"tall"		"24"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"1"
+		"labelText"		"#GameUI_BenchmarkResults_UploadNow"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+		"Default"		"0"
+	}
+}

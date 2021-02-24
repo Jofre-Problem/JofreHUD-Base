@@ -1,0 +1,6 @@
+	#base	"..\..\#users\custom\resource\ui\charinfoloadoutsubpanel.res"
+	#base	"../../_jofrehud/resource/#beta\menu_reloadbutton.res"
+	#base	"../../_jofrehud/resource/#beta\char_classlabel.res"	
+	#base	"..\..\_stream\resource\ui\charinfoloadoutsubpanel.res"
+	#base	"..\..\_jofrehud\resource\ui\charinfoloadoutsubpanel.res"
+	#base	"..\..\_tf2hud\resource\ui\charinfoloadoutsubpanel.res"

@@ -1,0 +1,1 @@
+#base "demouipanel2_main.res"

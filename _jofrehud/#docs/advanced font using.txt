@@ -1,0 +1,4 @@
+most fonts are used on .otf and .ttf
+but there is a special type of font made by Valve
+the ".vfont" type
+benefits? idk

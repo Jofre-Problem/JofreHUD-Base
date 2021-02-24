@@ -1,0 +1,1 @@
+#base "../disguise_menu/base/scout_blue.res"

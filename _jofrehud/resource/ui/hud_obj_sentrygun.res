@@ -1,0 +1,1 @@
+#base "hud_obj_sentrygun_base.res"

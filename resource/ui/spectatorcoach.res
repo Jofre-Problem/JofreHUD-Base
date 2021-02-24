@@ -1,0 +1,4 @@
+	#base "../../_stream/resource/ui/spectatorcoach.res"
+	#base "../../_jofrehud/resource/#beta/spec.res"	
+	#base "../../_jofrehud/resource/ui/spectatorcoach.res"
+	#base	"../../_tf2hud/resource/ui/spectatorcoach.res"

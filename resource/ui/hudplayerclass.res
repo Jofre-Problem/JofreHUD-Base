@@ -1,0 +1,5 @@
+	#base	"..\..\#users\custom\resource\ui\hudplayerclass.res"
+	#base	"..\..\_stream\resource\ui\hudplayerclass.res"
+	#base 	"../../_jofrehud/_customization/resource\ui/hudplayerclass - transparent.res"	
+	#base	"..\..\_jofrehud\resource\ui\hudplayerclass.res"
+	#base	"..\..\_tf2hud\resource\ui\hudplayerclass.res"

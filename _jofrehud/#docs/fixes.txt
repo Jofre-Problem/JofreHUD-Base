@@ -1,0 +1,12 @@
+- matchmaking ping panel typo
+- "hudnumberfont" missing font
+- replay browser/main.res/ - "font"	""	(REALLY?"
+- missing font "MenuLarge" (xboxdialogs.res)
+- wrong number entry (ex. 0 0 0 0 0 ) on sourcescheme.res for xbox	MessageDialog.MatchmakingBGBlack
+- fixed wrong spell NULL from "friends/trackerdialog" 
+- fixed wrong wide value "f"	on a passtime file
+- combinepanelscheme - wrong color on border "ControlBG"
+- item_test scheme is broken, there are 2 sames borders
+- heartsetup - spadessetup /addons/ wrong field name on playerpositionlabel stuff
+-> divider0 wrong fieldname
+- customgamepage_filters double code! "addcurrentserverbutton" repeats himself 2 times?!!

@@ -1,0 +1,37 @@
+// Ubercharge Meters
+event HudMedicCharged
+{
+	RunEvent HudMedicRainbowCharged 	0.0
+
+	RunEvent HudMedicChargedLoop		0.6
+}
+
+event HudMedicRainbowCharged
+{
+	Animate	ChargeLabel 				FgColor		"0 255 0 255"		Linear 0.0 0.1
+	Animate	ChargeLabel 				FgColor		"72 255 255 255"			Linear 0.1 0.1
+	Animate	ChargeLabel 				FgColor		"0 0 255 255"			Linear 0.2 0.1
+	Animate	ChargeLabel 				FgColor		"255 0 255 255"		Linear 0.3 0.1
+	Animate	ChargeLabel 				FgColor		"255 0 0 255"			Linear 0.4 0.1
+	Animate	ChargeLabel 				FgColor		"Yellow"		Linear 0.5 0.1
+
+	Animate	ChargeMeter 				FgColor		"0 255 0 255"		Linear 0.0 0.1
+	Animate	ChargeMeter 				FgColor		"72 255 255 255"			Linear 0.1 0.1
+	Animate	ChargeMeter 				FgColor		"0 0 255 255"			Linear 0.2 0.1
+	Animate	ChargeMeter 				FgColor		"255 0 255 255"		Linear 0.3 0.1
+	Animate	ChargeMeter 				FgColor		"255 0 0 255"			Linear 0.4 0.1
+	Animate	ChargeMeter 				FgColor		"Yellow"		Linear 0.5 0.1
+
+	RunEvent HudMedicChargedLoop		0.6
+}
+
+
+event HudMedicChargedStop
+{
+	StopEvent HudMedicCharged			0.0
+	StopEvent HudMedicRainbowCharged	0.0
+	StopEvent HudMedicChargedLoop		0.0
+
+	Animate	ChargeMeter					FgColor		"W_ColorTheme4"	Linear 0.0 0.0001
+	Animate	ChargeLabel 				FgColor		"G_AmmoClipValue"		Linear 0.0 0.0001
+}
