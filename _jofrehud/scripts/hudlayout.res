@@ -21,7 +21,7 @@
 	HudDeathNotice
 	{
 		"xpos"	 "rs1-5" // 6 KF
-		"ypos"	 "30" // 7 KF
+		"ypos"	 "31" // 7 KF
 		"wide"	 "f0"
 		"tall"	 "p0.6"
 
