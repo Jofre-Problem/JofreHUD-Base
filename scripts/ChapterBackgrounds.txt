@@ -3,7 +3,7 @@
 	1	"background_2fort"
 	2	"background_gravelpit"
 	3	"background_upward"
-	4	"background_process"
+	4	"background_upward"
 	5	"background_mvm"
 }
 "BackgroundMaps"
@@ -11,6 +11,6 @@
 	1	"background_2fort"
 	2	"background_gravelpit"
 	3	"background_upward"
-	4	"background_process"
+	4	"background_upward"
 	5	"background_mvm"
 }

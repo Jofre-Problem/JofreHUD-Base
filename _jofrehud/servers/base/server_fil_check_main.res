@@ -49,7 +49,6 @@
 		"tall"		"24"
 		"AutoResize"		"0"
 		"PinCorner"		"2"
-		"visible"		"0"
 		"enabled"		"1"
 		"tabPosition"		"5"
 		"paintbackground"		"1"
