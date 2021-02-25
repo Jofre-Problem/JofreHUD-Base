@@ -1,4 +1,5 @@
 #base "#bases/buildmodedialog_base.res"
+#base "../../#uni_base/filesv1/divider1/divider1_main.res"
 "Resource\OptionsSubMouse.res"
 {
 	"ReverseMouse"
@@ -511,20 +512,12 @@
 	}
 	"Divider1"
 	{
-		"ControlName"		"Divider"
-		"fieldName"		"Divider1"
 		"xpos"		"35"
 		"ypos"		"140"
 		"wide"		"396"
-		"tall"		"2"
-		"autoResize"		"0"
-		"pinCorner"		"0"
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
 	}
 	"BuildModeDialog"
 	{

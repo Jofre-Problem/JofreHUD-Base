@@ -5,6 +5,7 @@
 #base "../base/connectbutton.res"
 #base "../base/internetgames.res"
 #base "../base/refreshquickbtn.res"
+#base "../../#uni_base/filesv1/divider1/divider1_main.res"
 "servers/InternetGamesPage.res"
 {
 	"RefreshQuickButton"
@@ -19,16 +20,10 @@
 	}
 	"Divider1"
 	{
-		"ControlName"		"Divider"
-		"fieldName"		"Divider1"
 		"xpos"		"8"
 		"wide"		"611"
-		"tall"		"2"
 		"autoResize"		"1"
 		"pinCorner"		"2"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
 	}
 	"WorkshopLabel"
 	{

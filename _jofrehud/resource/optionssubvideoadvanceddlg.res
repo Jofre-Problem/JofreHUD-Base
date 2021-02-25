@@ -1,5 +1,7 @@
 #base "#bases/buildmodedialog_base.res"
 #base "#bases/baseaction_frames.res"
+#base "../#uni_base/filesv1/divider1/divider1_main.res"
+#base "../#uni_base/filesv1/divider1/divider1_auto-pin0.res"
 "resource/OptionsSubVideoAdvancedDlg.res"
 {
 	"OptionsSubVideoAdvancedDlg"
@@ -480,18 +482,11 @@
 	}
 	"Divider1"
 	{
-		"ControlName"		"Divider"
-		"fieldName"		"Divider1"
 		"xpos"		"22"
 		"ypos"		"352"
 		"wide"		"438"
-		"tall"		"2"
-		"autoResize"		"0"
-		"pinCorner"		"0"
 		"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
-		"enabled"		"1"
-		"tabPosition"		"0"
 	}
 	"Label7"
 	{
