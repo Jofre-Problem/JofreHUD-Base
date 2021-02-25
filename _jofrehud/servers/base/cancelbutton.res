@@ -1,4 +1,6 @@
 #base "../../#uni_base/filesv1/cancelbutton/cancelbutton_main.res"
+#base "../../#uni_base/filesv1/cancelbutton/cancelbutton_west.res"
+#base "../../#uni_base/filesv1/cancelbutton/cancelbutton_def0.res"
 #base "../../#uni_base/filesv1/cancelbutton/cancelbutton_is-button.res"
 #base "../../#uni_base/filesv1/cancelbutton/cancelbutton_autoresize_pin.res"
 #base "../../#uni_base/filesv1/cancelbutton/cancelbutton_vis1.res"
@@ -16,9 +18,9 @@
 		"tabPosition"		"4"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Cancel"
-		"textAlignment"		"west"
+	//	"textAlignment"		"west"
 		"wrap"		"0"
 		"Command"		"Close"
-		"Default"		"0"
+	//	"Default"		"0"
 	}
 }
