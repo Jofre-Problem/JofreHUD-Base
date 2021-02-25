@@ -1,13 +1,1 @@
-"friends/AddFriendResultSubPanel.res"
-{
-	"Label1"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"Label1"
-		"PinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"wrap"		"0"
-	}
-}
+#base "../../#uni_base/filesv1/label1/label1_main.res"

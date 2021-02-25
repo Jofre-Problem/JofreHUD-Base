@@ -1,3 +1,6 @@
+#base "../../#uni_base/filesv1/label1/label1_west.res"
+#base "../../#uni_base/filesv1/label1/label1_main.res"
+#base "../../#uni_base/filesv1/label1/label1_autoresize.res"
 "Resource/bench_main.res"
 {
 	"Button1"
@@ -23,19 +26,12 @@
 	}
 	"Label1"
 	{
-		"ControlName"		"Label"
-		"fieldName"		"Label1"
 		"xpos"		"34"
 		"ypos"		"40"
 		"wide"		"320"
 		"tall"		"120"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
 		"tabPosition"		"0"
 		"labelText"		"#GameUI_BenchmarkResults_Info"
-		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"		"1"

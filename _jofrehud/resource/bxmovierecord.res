@@ -1,3 +1,5 @@
+#base "../#uni_base/filesv1/label1/label1_main.res"
+#base "../#uni_base/filesv1/label1/label1_autoresize.res"
 "resource/BxMovieRecord.res"
 {
 	"MovieRecord"
@@ -622,17 +624,10 @@
 	}
 	"Label1"
 	{
-		"ControlName"		"Label"
-		"fieldName"		"Label1"
 		"xpos"		"6"
 		"ypos"		"175"
 		"wide"		"119"
 		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
 		"labelText"		"Output Framerate"
 		"textAlignment"		"east"
 		"dulltext"		"0"

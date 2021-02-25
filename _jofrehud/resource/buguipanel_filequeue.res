@@ -1,4 +1,4 @@
-#base "buguipanel.res"
+#base "res_base/buguipanel.res"
 "Resource\BugUIPanel.res"
 {
 	"BugUIPanel"
