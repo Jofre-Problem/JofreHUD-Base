@@ -1,1 +1,1 @@
-#base "demouipanel2_main.res"
+#base "res_base/demouipanel2_main.res"

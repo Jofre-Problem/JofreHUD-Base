@@ -1,4 +1,4 @@
-#base "colorlevel_base_2.res"
+#base "res_base/colorlevel_base_2.res"
 "Resource/ColorOperationListPanel.res"
 {
 	"NewOperation"
