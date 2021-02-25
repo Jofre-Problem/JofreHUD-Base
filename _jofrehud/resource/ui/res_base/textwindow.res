@@ -6,7 +6,7 @@
 //#base "../../#jofre/socialmedia.res"
 #base "../base/1shadedbar.res"
 #base "../base/1menubg.res"
-//#base "../../#jofre/downbar.res"
+#base "../../#jofre/downbar.res"
 "Resource/UI/TextWindow.res"
 {
 	"ActiveTimerBG"

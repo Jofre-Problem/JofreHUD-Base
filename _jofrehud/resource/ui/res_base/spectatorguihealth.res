@@ -86,7 +86,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"CustomSeptimo"
-		"fgcolor"		"Black"
+		"fgcolor"		"TransparentBlack"
 		"pin_to_sibling"	"PlayerStatusHealthValueID3"
 	}
 	"PlayerStatusPlayerLevel"
