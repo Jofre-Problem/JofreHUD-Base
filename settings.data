@@ -317,6 +317,7 @@ Copy("4plug/4plug_overrides/Styles/TCB/mediccharge.res", "_jofrehud/_customizati
 Copy("4plug/empty_res.txt", "_jofrehud/_customization/resource/ui/huddamageaccount - style.res");
 Copy("4plug/4plug_overrides/Styles/def_hp.txt", "_jofrehud/_customization/scripts/vida.txt");
 Copy("4plug/4plug_overrides/Styles/def_ammo.txt", "_jofrehud/_customization/scripts/municion.txt");
+Copy("4plug/empty.txt", "_jofrehud/resource/clientscheme/magnum_scheme_sc.res");
 }
 #if UI Style == "Transparent Box"
 {
@@ -326,6 +327,7 @@ Copy("4plug/empty_res.txt", "_jofrehud/_customization/resource/ui/hudmediccharge
 
 Copy("4plug/4plug_overrides/Styles/transparent_box_hp.txt", "_jofrehud/_customization/scripts/vida.txt");
 Copy("4plug/4plug_overrides/Styles/def_ammo.txt", "_jofrehud/_customization/scripts/municion.txt");
+Copy("4plug/empty.txt", "_jofrehud/resource/clientscheme/magnum_scheme_sc.res");
 }
 #if UI Style == "Team Colored Text"
 {
@@ -335,6 +337,7 @@ Copy("4plug/4plug_overrides/Styles/TCT/hp_colored_text.res", "_jofrehud/_customi
 Copy("4plug/4plug_overrides/Styles/TCT/ammo_colored_text.res", "_jofrehud/_customization/resource/ui/hudammoweapons - style.res");
 Copy("4plug/4plug_overrides/Styles/TCT/mediccharge_tct.res", "_jofrehud/_customization/resource/ui/hudmediccharge - style.res");
 Copy("4plug/4plug_overrides/empty.txt", "_jofrehud/_customization/resource/ui/huddamageaccount - style.res");
+Copy("4plug/4plug_overrides/magnumhud/magnum_scheme_on.res", "_jofrehud/resource/clientscheme/magnum_scheme_sc.res");
 //ANIM
 Copy("4plug/4plug_overrides/empty.txt", "_jofrehud/_customization/scripts/uber_type.txt");
 Copy("4plug/4plug_overrides/Styles/TCT/anim_hp_colored_text.txt", "_jofrehud/_customization/scripts/vida.txt");
@@ -351,7 +354,7 @@ Copy("4plug/4plug_overrides/Styles/GRA/health.res", "_jofrehud/_customization/re
 Copy("4plug/4plug_overrides/Styles/GRA/ammo.res", "_jofrehud/_customization/resource/ui/hudammoweapons - style.res");
 Copy("4plug/4plug_overrides/Styles/GRA/empty.res", "_jofrehud/_customization/resource/ui/hudmediccharge - style.res");
 Copy("4plug/4plug_overrides/Styles/GRA/damage.res", "_jofrehud/_customization/resource/ui/huddamageaccount - style.res");
-
+Copy("4plug/empty.txt", "_jofrehud/resource/clientscheme/magnum_scheme_sc.res");
 Copy("4plug/4plug_overrides/Styles/def_hp.txt", "_jofrehud/_customization/scripts/vida.txt");
 Copy("4plug/4plug_overrides/Styles/def_ammo.txt", "_jofrehud/_customization/scripts/municion.txt");
 }
@@ -363,6 +366,7 @@ Copy("4plug/empty_res.txt", "_jofrehud/_customization/resource/ui/hudmediccharge
 Copy("4plug/empty_res.txt", "_jofrehud/_customization/resource/ui/huddamageaccount - style.res");
 Copy("4plug/4plug_overrides/Styles/def_hp.txt", "_jofrehud/_customization/scripts/vida.txt");
 Copy("4plug/4plug_overrides/Styles/def_ammo.txt", "_jofrehud/_customization/scripts/municion.txt");
+Copy("4plug/empty.txt", "_jofrehud/resource/clientscheme/magnum_scheme_sc.res");
 }
 #if MAIN MENU Character Image == "Enabled"
 {

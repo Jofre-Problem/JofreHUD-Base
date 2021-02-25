@@ -6,7 +6,7 @@
 	#base "../../_dlc/dlc_crosshair.res"	
 	#base "clientscheme/clientscheme_colors.res"
 	#base "clientscheme/clientscheme_borders.res"
-	#base "clientscheme/magnum_scheme.res"	
+	#base "clientscheme/magnum_scheme_sc.res"	
 	
 Scheme
 {
