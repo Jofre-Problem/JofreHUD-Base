@@ -1,6 +1,6 @@
 #base "#bases/buildmodedialog_base.res"
 #base "../../#uni_base/filesv1/divider1/divider1_main.res"
-"Resource\OptionsSubMouse.res"
+"Resource/OptionsSubMouse.res"
 {
 	"ReverseMouse"
 	{

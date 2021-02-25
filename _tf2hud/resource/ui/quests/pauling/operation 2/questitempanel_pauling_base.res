@@ -1,4 +1,4 @@
-//#base "..\..\QuestItemPanel_Base.res"
+//#base "../../QuestItemPanel_Base.res"
 
 "Resource/UI/econ/QuestItemPanel.res"
 {
@@ -17,48 +17,48 @@
 		{
 			"0"
 			{
-				"front"	"store\postcard_alamo"
-				"back"	"store\postcard_alamo"
+				"front"	"store/postcard_alamo"
+				"back"	"store/postcard_alamo"
 			}
 			"1"
 			{
-				"front"	"store\postcard_beach"
-				"back"	"store\postcard_beach"
+				"front"	"store/postcard_beach"
+				"back"	"store/postcard_beach"
 			}
 			"2"
 			{
-				"front"	"store\postcard_poopyjoe"
-				"back"	"store\postcard_poopyjoe"
+				"front"	"store/postcard_poopyjoe"
+				"back"	"store/postcard_poopyjoe"
 			}
 			"3"
 			{
-				"front"	"store\postcard_merasmus"
-				"back"	"store\postcard_merasmus"
+				"front"	"store/postcard_merasmus"
+				"back"	"store/postcard_merasmus"
 			}
 			"4"
 			{
-				"front"	"store\postcard_outletmall"
-				"back"	"store\postcard_outletmall"
+				"front"	"store/postcard_outletmall"
+				"back"	"store/postcard_outletmall"
 			}
 			"5"
 			{
-				"front"	"store\postcard_library"
-				"back"	"store\postcard_library"
+				"front"	"store/postcard_library"
+				"back"	"store/postcard_library"
 			}
 			"6"
 			{
-				"front"	"store\postcard_raccoon"
-				"back"	"store\postcard_raccoon"
+				"front"	"store/postcard_raccoon"
+				"back"	"store/postcard_raccoon"
 			}
 			"7"
 			{
-				"front"	"store\postcard_tomjones"
-				"back"	"store\postcard_tomjones"
+				"front"	"store/postcard_tomjones"
+				"back"	"store/postcard_tomjones"
 			}
 			"8"
 			{
-				"front"	"store\postcard_bombshop"
-				"back"	"store\postcard_bombshop"
+				"front"	"store/postcard_bombshop"
+				"back"	"store/postcard_bombshop"
 			}
 		}
 
@@ -125,7 +125,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"scaleImage"	"1"
-					"image"			"contracts\contracts_folder1_front"
+					"image"			"contracts/contracts_folder1_front"
 					"proportionaltoparent"	"1"
 				
 					"mouseinputenabled"	"0"

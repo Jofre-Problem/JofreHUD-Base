@@ -1,4 +1,4 @@
-"Resource\OptionsSubHaptics.res"
+"Resource/OptionsSubHaptics.res"
 {
 	"ForceMasterPreLabel"
 	{

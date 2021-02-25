@@ -1,4 +1,4 @@
-"Resource\HudLayout.res"
+"Resource/HudLayout.res"
 {
 	HudDeathNotice
 	{
@@ -7,7 +7,7 @@
 
 	HudVoiceStatus
 	{
-		"text_xpos"													"80008"		\\ Normal r-value does not work with this element
+		"text_xpos"													"80008"		// Normal r-value does not work with this element
 	}
 	
 	HudSpectatorExtras

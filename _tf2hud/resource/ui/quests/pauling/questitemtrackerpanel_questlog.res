@@ -1,4 +1,4 @@
-//#base "..\QuestItemTrackerPanel_QuestLog_Base.res"
+//#base "../QuestItemTrackerPanel_QuestLog_Base.res"
 
 "Resource/UI/HudAchievementTrackerItem.res"
 {	

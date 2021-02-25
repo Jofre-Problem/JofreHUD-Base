@@ -7,7 +7,7 @@
 #base "../../#uni_base/filesv1/label1/label1_west.res"
 #base "../../#uni_base/filesv1/label1/label1_main.res"
 #base "../../#uni_base/filesv1/label1/label1_autoresize.res"
-"resource\BaseActionTextMessageStartDialog.res"
+"resource/BaseActionTextMessageStartDialog.res"
 {
 	"OK"
 	{

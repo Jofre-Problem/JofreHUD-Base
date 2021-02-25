@@ -15,7 +15,7 @@
 
 				"PaperImage"
 				{
-					"image"			"contracts\halloween\contracts_papers3"
+					"image"			"contracts/halloween/contracts_papers3"
 				}
 			}
 		}

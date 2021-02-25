@@ -7,7 +7,7 @@
 #base "../../#uni_base/filesv1/label1/label1_main.res"
 #base "../../#uni_base/filesv1/label1/label1_autoresize.res"
 #base "../../#uni_base/filesv1/label1/label1_west.res"
-"resource\BaseActionScreenFadeStartDialog.res"
+"resource/BaseActionScreenFadeStartDialog.res"
 {
 	"OK"
 	{
