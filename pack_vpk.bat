@@ -16,13 +16,14 @@ move materials jofrehud/ > nul 2> nul
 move models jofrehud/ > nul 2> nul
 move scripts jofrehud/ > nul 2> nul
 move resource jofrehud/ > nul 2> nul
-move _jofrehud jofrehud/ > nul 2> nul
-move _tf2hud jofrehud/ > nul 2> nul
 move admin jofrehud/ > nul 2> nul
 move addons jofrehud/ > nul 2> nul
 move demo jofrehud/ > nul 2> nul
 move servers jofrehud/ > nul 2> nul
 move friends jofrehud/ > nul 2> nul
+move sound jofrehud/ > nul 2> nul
+move _jofrehud jofrehud/ > nul 2> nul
+move _tf2hud jofrehud/ > nul 2> nul
 move *.vdf jofrehud/ > nul 2> nul
 
 :: generating readme
@@ -42,9 +43,9 @@ move jofrehud_*.vpk ..
 :: regenerating folder structure
 echo regenerating folder structure
 del jofrehud/readme.txt > nul 2> nul
-move jofrehud/cfg ./ > nul 2> nul
 move jofrehud/_jofrehud ./ > nul 2> nul
 move jofrehud/_tf2hud ./ > nul 2> nul
+move jofrehud/cfg ./ > nul 2> nul
 move jofrehud/addons ./ > nul 2> nul
 move jofrehud/admin ./ > nul 2> nul
 move jofrehud/demo ./ > nul 2> nul
@@ -54,6 +55,7 @@ move jofrehud/materials ./ > nul 2> nul
 move jofrehud/models ./ > nul 2> nul
 move jofrehud/scripts ./ > nul 2> nul
 move jofrehud/resource ./ > nul 2> nul
+move jofrehud/servers ./ > nul 2> nul
 move jofrehud/sound ./ > nul 2> nul
 move jofrehud/info.vdf ./ > nul 2> nul
 rmdir jofrehud > nul 2> nul
@@ -68,6 +70,13 @@ move "resource"	"../../#disabled"
 move "scripts"	"../../#disabled"
 move "sound"	"../../#disabled"
 move "dev"		"../../#disabled"
+move "addons"		"../../#disabled"
+move "admin"		"../../#disabled"
+move "demo"		"../../#disabled"
+move "friends"		"../../#disabled"
+move "servers"		"../../#disabled"
+move "_jofrehud"		"../../#disabled"
+move "_tf2hud"		"../../#disabled"
 move "*.vdf"	"../../#disabled"
 if not exist "../../#disabled" mkdir "../../#disabled" echo backup folder doesnt exist, creating one
 echo moved the hud into the #disabled folder on your /tf/ folder
