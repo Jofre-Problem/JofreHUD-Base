@@ -1,4 +1,4 @@
-#base "toolperforce_base.res"
+#base "res_base/toolperforce_base.res"
 "resource/ToolPerforceQuery.res"
 {
 	"PerforceQuery"

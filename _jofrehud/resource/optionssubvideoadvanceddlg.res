@@ -2,6 +2,9 @@
 #base "#bases/baseaction_frames.res"
 #base "../#uni_base/filesv1/divider1/divider1_main.res"
 #base "../#uni_base/filesv1/divider1/divider1_auto-pin0.res"
+#base "../#uni_base/filesv1/label1/label1_main.res"
+#base "../#uni_base/filesv1/label1/label1_autoresize.res"
+#base "../#uni_base/filesv1/label1/label1_west.res"
 "resource/OptionsSubVideoAdvancedDlg.res"
 {
 	"OptionsSubVideoAdvancedDlg"
@@ -342,17 +345,12 @@
 	}
 	"Label1"
 	{
-		"ControlName"		"Label"
-		"fieldName"		"Label1"
 		"xpos"		"22"
 		"ypos"		"385"
 		"wide"		"288"
 		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
 		"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
-		"enabled"		"1"
 		"tabPosition"		"0"
 		"labelText"		"#GameUI_DX_Level"
 		"textAlignment"		"east"

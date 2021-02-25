@@ -1,5 +1,8 @@
 #base "../#bases/buildmodedialog_base.res"
 #base "../#bases/baseaction_frames.res"
+#base "../../#uni_base/filesv1/label1/label1_main.res"
+#base "../../#uni_base/filesv1/label1/label1_west.res"
+#base "../../#uni_base/filesv1/label1/label1_autoresize.res"
 "Resource\BugUIPanel.res"
 {
 	"BuildModeDialog"
@@ -616,19 +619,13 @@
 	}
 	"Label1"
 	{
-		"ControlName"		"Label"
-		"fieldName"		"Label1"
 		"xpos"		"10"
 		"ypos"		"35"
 		"wide"		"64"
 		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
 		"labelText"		"Title:"
-		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"		"0"

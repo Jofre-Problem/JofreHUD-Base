@@ -1,4 +1,7 @@
 #base "#bases/1grip.res"
+#base "../../#uni_base/filesv1/label1/label1_main.res"
+#base "../../#uni_base/filesv1/label1/label1_west.res"
+#base "../../#uni_base/filesv1/label1/label1_autoresize.res"
 "Resource/baseaction_grip.res"
 {
 	"TopLeftGrip"
@@ -59,19 +62,12 @@
 	}
 	"Label1"
 	{
-		"ControlName"		"Label"
-		"fieldName"		"Label1"
 		"xpos"		"17"
 		"ypos"		"37"
 		"wide"		"64"
 		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
 		"tabPosition"		"0"
 		"labelText"		"Name:"
-		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}

@@ -126,7 +126,7 @@
 	"ReceiveLabel"
 	{
 		"ControlName"		"Label"
-		"fieldName"		"Label1"
+		"fieldName"		"ReceiveLabel"
 		"xpos"		"246"
 		"ypos"		"70"
 		"wide"		"180"

@@ -1,4 +1,7 @@
 #base "#bases/1sysmenu.res"
+#base "../#uni_base/filesv1/label1/label1_main.res"
+#base "../#uni_base/filesv1/label1/label1_west.res"
+#base "../#uni_base/filesv1/label1/label1_autoresize.res"
 "Resource/ValveCDKeyEntryDialog.res"
 {
 	"CDKeyEntryDialog"
@@ -147,16 +150,10 @@
 	}
 	"Label1"
 	{
-		"ControlName"		"Label"
-		"fieldName"		"Label1"
 		"xpos"		"26"
 		"ypos"		"44"
 		"wide"		"344"
 		"tall"		"48"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
 		"tabPosition"		"0"
 		"labelText"		"#GameUI_EnterCDKey"
 		"textAlignment"		"north-west"

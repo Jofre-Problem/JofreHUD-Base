@@ -1,4 +1,4 @@
-#base "perfocclusion_base.res"
+#base "res_base/perfocclusion_base.res"
 "Resource/PerfPropFadeUIPanel.res"
 {
 	"VisualizeLabel"
