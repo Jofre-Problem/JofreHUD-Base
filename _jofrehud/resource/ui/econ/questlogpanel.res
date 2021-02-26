@@ -1,1 +1,1 @@
-#base "base/questlogpanel.res"
+#base "res_base/questlogpanel.res"

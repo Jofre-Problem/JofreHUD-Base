@@ -654,7 +654,17 @@ Scheme
 				tall		"47"
 			}
 		}	
-					
+		HDRDemoText
+		{
+			// note that this scales with the screen resolution
+			"1"
+			{
+				"name"		"Segoe UI"
+				"tall"		"24"
+				"weight"	"900"
+				"antialias" "1"
+			}
+		}					
 		///////////////////////////////////////
 		MenuSmallestFont
 		{
@@ -692,9 +702,10 @@ Scheme
 			{
 			"name"		"Segoe UI" [!$OSX]
 			"name"		"Segoe UI" [$OSX]
-			"tall""14"			
+			"tall"		"14"			
 			"weight"	"300"
-			"antialias""1"
+			"antialias"	"1"
+		//	"dropshadow" "1"
 			}
 		}
 		CreditsOutroText	//hl2

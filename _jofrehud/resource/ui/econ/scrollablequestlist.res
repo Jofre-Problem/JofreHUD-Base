@@ -1,1 +1,1 @@
-#base "base/scrollablequestlist.res"
+#base "res_base/scrollablequestlist.res"

@@ -1,1 +1,1 @@
-#base "base/questnotificationpanel_base.res"
+#base "res_base/questnotificationpanel_base.res"

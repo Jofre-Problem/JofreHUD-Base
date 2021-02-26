@@ -1,4 +1,4 @@
-#base "base/itemaddefault.res"
+#base "res_base/itemaddefault.res"
 "Resource/UI/QuestMapRewardItemPanel.res"
 {
 	"CashImage"

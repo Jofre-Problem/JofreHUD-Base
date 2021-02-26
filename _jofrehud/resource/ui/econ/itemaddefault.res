@@ -1,1 +1,1 @@
-#base "base/itemaddefault.res"
+#base "res_base/itemaddefault.res"

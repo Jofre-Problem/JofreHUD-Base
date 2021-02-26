@@ -1,4 +1,4 @@
-#base "base/questlogpanel.res"
+#base "res_base/questlogpanel.res"
 "Resource/UI/econ/QuestLogPanel.res"
 {
 	"QuestLog"

@@ -1,4 +1,4 @@
-#base "base/QuestNotificationPanel_base.res"
+#base "res_base/QuestNotificationPanel_base.res"
 
 "Resource/UI/QuestNotificationPanel_Pauling_standard.res"
 {

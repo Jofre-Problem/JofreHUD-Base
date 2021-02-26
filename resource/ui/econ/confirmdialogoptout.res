@@ -1,4 +1,3 @@
-	#base	"../../../#users/custom/resource/ui/econ/confirmdialogoptout.res"
-	#base	"../../../_stream/resource/ui/econ/confirmdialogoptout.res"
-	#base	"../../../_jofrehud/resource/ui/econ/confirmdialogoptout.res"
-	#base	"../../../_tf2hud/resource/ui/econ/confirmdialogoptout.res"
+#base "base/confirmdialog/confirmdialog_main1.res"
+#base "base/confirmdialog/cancelbtnhinticon.res"
+#base "base/confirmdialog/confirmdialog_base.res"
