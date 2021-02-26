@@ -163,50 +163,6 @@
 		"wide"			"0"
 		"tall"			"0"
 	}	
-	"Filler"		// else closed ContextMenu will stay on screen
-	{
-		ControlName				ImagePanel
-		fieldName				"Filler"
-		xpos					0
-		ypos					0
-		zpos					-1
-		wide					f0
-		tall					f0
-		proportionaltoparent		1
-		mouseinputenabled			0
-		fillColor				"0 0 0 1"		// needs some color
-	}
-
-	"DebugBottomLine"			// for adjusting backpack_panel height, should be barely visible
-	{
-		ControlName				ImagePanel
-		fieldName				"DebugBottomLine"
-		xpos					0
-		ypos					rs1
-		zpos					9999
-		wide					f0
-		tall					1
-		proportionaltoparent		1
-		mouseinputenabled			0
-		fillColor				"0 255 0 255"
-
-		visible				0
-	}
-
-	"Background"
-	{
-		ControlName				ImagePanel
-		fieldName				"Background"
-		xpos					cs-0.5
-		ypos					cs-0.43
-		zpos					-1
-		wide					550
-		tall					256
-		proportionaltoparent		1
-		fillColor				"Blank"
-		alpha		"70"
-	}
-	
 	
 	"SortByComboBox"
 	{
@@ -362,38 +318,6 @@
 		pin_to_sibling_corner 		PIN_CENTER_LEFT
 	}
 	
-	"PrevPageButton"
-	{
-		ControlName				CExButton
-		fieldName				"PrevPageButton"
-		xpos					2
-		ypos					0
-		zpos					1
-		wide					50
-		tall					263
-		visible					1
-		enabled					1
-
-		labelText				"<"
-		font					"NewIcons20"
-		textAlignment			east
-		textinsety				1
-
-		Command					"prevpage"
-
-		sound_released			"UI/drum_selected.wav"
-				
-		defaultFgColor_override			"W_ColorTheme2"
-		armedFgColor_override			"W_BorderArmed"
-		disabledFgColor2_override		"Blank"
-				
-		paintbackground					0
-
-		pin_to_sibling 					"Background"
-		pin_corner_to_sibling 			PIN_TOPRIGHT
-		pin_to_sibling_corner 			PIN_TOPLEFT
-	}
-	
 	"PrevPageShortCut"
 	{
 		ControlName		CExButton
@@ -403,37 +327,6 @@
 		Command			"prevpage"
 	}
 	
-	"NextPageButton"
-	{
-		ControlName				CExButton
-		fieldName				"NextPageButton"
-		xpos					2
-		ypos					0
-		zpos					1
-		wide					50
-		tall					263
-		visible					1
-		enabled					1
-
-		labelText				">"
-		font					"NewIcons20"
-		textAlignment			west
-		textinsety				1
-
-		Command					"nextpage"
-		
-		sound_released		"UI/drum_selected.wav"
-		
-		defaultFgColor_override			"W_ColorTheme2"
-		armedFgColor_override			"W_BorderArmed"
-		disabledFgColor2_override		"Blank"
-				
-		paintbackground					0
-		
-		pin_to_sibling 					"Background"
-		pin_corner_to_sibling 			PIN_CENTER_LEFT
-		pin_to_sibling_corner 			PIN_CENTER_RIGHT
-	}
 	
 	"NextPageShortCut"
 	{
