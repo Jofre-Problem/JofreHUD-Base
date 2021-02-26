@@ -12,6 +12,7 @@
 		"visible"		"1"
 		"PaintBackgroundType"	"0"
 		"paintbackground"	"0"
+		"border"		"noborder"
 	
 	"VolumeLabel"
 	{

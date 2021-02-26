@@ -1,16 +1,12 @@
 #base "../#bases/reload_scheme.res"
 #base "../#jofre/loadout_explanation.res"
 #base "../#jofre/loadout_bg.res"
-//#base "../../_customization//resource/ui/summersale_border.res"
 "Resource/UI/FullLoadoutPanel.res"
 {
 		"ClassLabel"
 		{
-			"ypos"		"rs1-30"
-			"xpos"		"cs-0.5"
-			"zpos"		"4000"
-			//"wide"					0
-			//"tall"					0
+			"wide"					0
+			"tall"					0
 		}			
 	// ---		
 		
@@ -76,38 +72,6 @@
 				inventory_image_type		1
 				allow_rot					0
 			}
-		}
-
-		"itemoptionpanels_kv"
-		{
-			ControlName				CExButton
-			xpos						0
-			ypos						0
-			zpos						1
-			wide						20
-			tall						20
-			autoResize				0
-			visible					0
-			enabled					1
-			tabPosition				0
-			labelText				"I"
-			font						"NewIcons18"
-			textAlignment			center
-			dulltext					0
-			brighttext				0
-			default					1
-			
-			paintbackground		0
-			paintborder				0
-			
-			sound_depressed		"UI/buttonclick.wav"
-			sound_released			"UI/buttonclickrelease.wav"
-			
-			border_default			"ReplayBalloonBorder"
-			border_armed			"ReplayBalloonBorder"
-			
-			defaultFgColor_override 	"W_ColorIcons1"
-			armedFgColor_override 		"W_ColorTheme1"
 		}
 	}
 

@@ -67,8 +67,8 @@
 	{
 		ControlName				CExButton
 		fieldName				"ScoutButton"
-		xpos					0
-		ypos					110
+		xpos					35
+		ypos					rs1
 		zpos					1051
 		wide					42
 		tall					p0.045

@@ -40,7 +40,6 @@
 		textAlignment			center
 
 		fgcolor_override	"W_ColorIcons1"
-		"bgcolor_override"	"W_ColorTheme1"
-		paintbackground	1
+		paintbackground	0
 	}		
 }
