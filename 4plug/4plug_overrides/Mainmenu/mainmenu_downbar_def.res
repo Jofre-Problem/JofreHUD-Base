@@ -85,7 +85,7 @@
 		}	
 	"MyHome"
 	{
-		"bgcolor_override"		"W_ColorTheme1"			
+	//	"bgcolor_override"		"W_ColorTheme1"			
 	}	
 		"IngameBar2"
 		{

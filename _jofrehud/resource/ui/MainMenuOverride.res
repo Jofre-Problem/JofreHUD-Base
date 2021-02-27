@@ -111,7 +111,7 @@
 		wide					20
 		tall					p0.0462
 		"bgcolor_override"		"Blank"
-		"paintBackgroundType"	"2"
+		"paintBackgroundType"	"0"
 
 		"SubButton"
 		{
@@ -145,8 +145,8 @@
 		zPos					1050
 		wide					28
 		tall					p0.0435
-		"bgcolor_override"		"W_ColorTheme1"
-		"paintBackgroundType"	"2"
+	//	"bgcolor_override"		"W_ColorTheme1"
+		"paintBackgroundType"	"0"
 
 		"SubButton"
 		{
@@ -180,8 +180,8 @@
 		zPos					1050
 		wide					28
 		tall					p0.0435
-		"bgcolor_override"		"W_ColorTheme1"
-		"paintBackgroundType"	"2"
+	//	"bgcolor_override"		"W_ColorTheme1"
+		"paintBackgroundType"	"0"
 		"SubButton"
 		{
 			ControlName				CExImageButton
@@ -214,8 +214,8 @@
 		zPos					1050
 		wide					28
 		tall					p0.0435
-		"bgcolor_override"		"W_ColorTheme1"
-		"paintBackgroundType"	"2"
+	//	"bgcolor_override"		"W_ColorTheme1"
+		"paintBackgroundType"	"0"
 		"SubButton"
 		{
 			ControlName				CExImageButton
@@ -1742,10 +1742,10 @@
 	}			
 	"RankPanel"
 	{
-			xpos					9998
-			ypos					r0
-			wide					f0	//f0
-			tall					f0
+			xpos					0
+			ypos					0
+			wide					0	//f0
+			tall					0
 	}	
 		
 
@@ -1753,7 +1753,6 @@
 	{
 		wide							0
 		tall							0
-		visible							0
 	}	
 	// Background	
 }
