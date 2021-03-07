@@ -608,6 +608,15 @@ Scheme
 				"tall"				"11"		
 				"antialias"			"1"
 			}
+		}		
+		"NewIcons10" 
+		{
+			"1"
+			{
+				"name"				"JofreIconsRe"
+				"tall"				"9"		
+				"antialias"			"1"
+			}
 		}			
 		"BetaFont"
 		{

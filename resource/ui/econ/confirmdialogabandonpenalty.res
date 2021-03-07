@@ -1,4 +1,4 @@
-#base "base/confirmdialog/confirmdialog_main1.res"
-#base "base/confirmdialog/abandonicon.res"
-#base "base/confirmdialog/cancelbtnhinticon.res"
-#base "base/confirmdialog/confirmdialog_base.res"
+	#base	"../../../#users/custom/resource/ui/econ/confirmdialogabandonpenalty.res"
+	#base	"../../../_stream/resource/ui/econ/confirmdialogabandonpenalty.res"
+	#base	"../../../_jofrehud/resource/ui/econ/confirmdialogabandonpenalty.res"
+	#base	"../../../_tf2hud/resource/ui/econ/confirmdialogabandonpenalty.res"

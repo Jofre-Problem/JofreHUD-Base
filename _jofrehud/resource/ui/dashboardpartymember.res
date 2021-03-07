@@ -28,9 +28,10 @@
 		proportionaltoparent		1
 		visible				1
 		mouseinputenabled			0
+		"textinsety"			"1"
 
 		labelText				"ú"
-		font					"NewIcons22"
+		font					"NewIcons11"
 		textAlignment			center
 
 		fgcolor_override			"W_ColorIcons1"

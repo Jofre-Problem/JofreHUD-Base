@@ -5,7 +5,7 @@
 // border = WBorder_1
 	"Workshop"		// open advanced options
 	{
-		font					"NewIcons11"	
+		font					"NewIcons15"	
 	}
 	"MyHome"		// open advanced options
 	{

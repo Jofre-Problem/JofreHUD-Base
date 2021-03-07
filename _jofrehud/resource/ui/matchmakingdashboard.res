@@ -5,15 +5,15 @@
 		"fieldName"				"MMDashboard"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"rs1-5"
-		"ypos"					"10"
+		"xpos"					"0"
+		"ypos"					"0"
 		"zpos"					"1003"
-		"wide"					"p0.95"
-		"tall"					"35"
+		"wide"					"f0"
+		"tall"					"22"
 		"keyboardinputenabled"	"0"
 
 		"collapsed_height"	"0"
-		"expanded_height"	"35"
+		"expanded_height"	"22"
 		"resize_time"		"0.2"
 	}
 
@@ -25,13 +25,25 @@
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"f0"
-		"tall"			"35"
+		"tall"			"22"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"pinCorner"		"2"
 		"autoResize"	"1"
-
+		"DownBar"				// background for the left side buttons
+		{
+			ControlName				ImagePanel
+			FieldName				"DownBar"
+			xPos					0
+			yPos					0
+			zPos					0
+			wide					f0
+			tall					13 //p0.05 = 1mm...
+			fillColor				"W_ColorTheme1"
+			mouseInputEnabled			0			// mouse input passes though to panels below	
+			"alpha"					"200"	
+		}
 		"Gradient"
 		{
 			"ControlName"		"ImagePanel"
@@ -89,14 +101,14 @@
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"p0.045"
-			"tall"			"20"
+			"tall"			"13"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labeltext"		"z"
-			"font"			"NewIcons12"
+			"font"			"NewIcons10"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -129,33 +141,60 @@
 
 		"PartySlot0"
 		{
-			wide					0
-			tall					0
+			"xpos"					"0"
+			"ypos"					"0"
+			"wide"					"13"
+			"tall"					"13"
 		}
 		"PartySlot1"
 		{
-			wide					0
-			tall					0
+			"xpos"					"0"
+			"ypos"					"0"
+			"wide"					"13"
+			"tall"					"13"
+			"pin_to_sibling" "PartySlot0"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
 		}
 		"PartySlot2"
 		{
-			wide					0
-			tall					0
+			"xpos"					"0"
+			"ypos"					"0"
+			"wide"					"13"
+			"tall"					"13"
+			"pin_to_sibling" "PartySlot1"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}
 		"PartySlot3"
 		{
-			wide					0
-			tall					0
+			"xpos"					"0"
+			"ypos"					"0"
+			"wide"					"13"
+			"tall"					"13"
+			"pin_to_sibling" "PartySlot2"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}		
 		"PartySlot4"
 		{
-			wide					0
-			tall					0
+			"xpos"					"0"
+			"ypos"					"0"
+			"wide"					"13"
+			"tall"					"13"
+			"pin_to_sibling" "PartySlot3"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}		
 		"PartySlot5"
 		{
-			wide					0
-			tall					0
+			"xpos"					"0"
+			"ypos"					"0"
+			"wide"					"13"
+			"tall"					"13"
+			"pin_to_sibling" "PartySlot4"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}		
 		"QueueContainer"
 		{
@@ -491,13 +530,13 @@
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"p0.045"
-			"tall"			"20"
+			"tall"			"13"
 			"autoResize"	"0"
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"font"			"NewIcons18"
+			"font"			"NewIcons11"
 			"textAlignment"	"center"
 			"textinsetx"	"0"
 			"dulltext"		"0"
@@ -551,13 +590,13 @@
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"p0.045"
-			"tall"			"20"
+			"tall"			"13"
 			"autoResize"	"0"
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"font"			"NewIcons18"
+			"font"			"NewIcons11"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -622,20 +661,19 @@
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"p0.045"
-			"tall"			"20"
+			"tall"			"13"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			font					"NewIcons12"
+			font					"NewIcons10"
 			textAlignment			center
 			labeltext				"Z"
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"find_game"
 			"proportionaltoparent"	"1"
-			"labelText"		""
 			"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"

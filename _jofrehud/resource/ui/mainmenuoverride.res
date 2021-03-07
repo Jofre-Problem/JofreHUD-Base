@@ -6,8 +6,8 @@
 	#base "../../_customization/resource/ui/mainmenu - downbartype.res"
 	#base "../../_customization/resource/ui/mainmenu_safemode.res"
 		
-	#base "../#jofre/dashboard_bg.res"
-	#base "../#jofre/loadout_explanation_bg.res"
+//	#base "../#jofre/dashboard_bg.res"
+//	#base "../#jofre/loadout_explanation_bg.res"
 
 //	#base "../#jofre/new_mm_panel1.res" :: check mainmenu - downbartype.res"
 
@@ -37,14 +37,14 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"NotificationNoYet"
 		"font"					"ItemTrackerScore_InGame"
-		"labelText"	"#MMenu_Notifications_Empty"
+		"labelText"				"#MMenu_Notifications_Empty"
 		"centerwrap"		"1"
-		"xpos""rs1-5"
-		"ypos""36"
-		"zpos""1001"
-		"wide"			"p0.085"
-		"tall"			"40"
-		"fgcolor_override" "W_BorderArmed"
+		"xpos""cs-0.5"
+		"ypos""0"
+		"zpos""3200"
+		"wide"			"p0.3"
+		"tall"			"13"
+		"fgcolor_override" "W_ColorIcons1"
 	}	
 	"Background"
 	{
@@ -316,7 +316,7 @@
 		tall					p0.045
 		textInsetx				"1"
 
-		labelText				"p"
+		labelText				"j"
 		textAlignment			center
 		
 		command				"engine workshop"
@@ -1239,7 +1239,7 @@
 	{
 		ControlName				EditablePanel
 		FieldName				"Notifications_ShowButtonPanel"
-		xPos					rs1-5
+		xPos					cs-0.5
 		yPos					35
 		zPos					1050
 		"wide"			"p0.085"
