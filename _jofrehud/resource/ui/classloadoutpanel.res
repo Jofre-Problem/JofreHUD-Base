@@ -1,6 +1,7 @@
 #base "../#bases/reload_scheme.res"
 #base "../#jofre/loadout_explanation.res"
 #base "../#jofre/loadout_bg.res"
+#base "base/classloadoutpanel.res"
 "Resource/UI/FullLoadoutPanel.res"
 {
 		"ClassLabel"
@@ -77,16 +78,12 @@
 
 	"classmodelpanel"		// player model
 	{
-		ControlName					CTFPlayerModelPanel
-		fieldName					"classmodelpanel"
 		xpos							cs-0.5
 		ypos							0
 		zpos							-1
 		wide							f0		// without side bars
 		tall							f0
 		proportionaltoparent		1
-		visible						1
-		enabled						1
 		
 		render_texture				0
 		fov							30

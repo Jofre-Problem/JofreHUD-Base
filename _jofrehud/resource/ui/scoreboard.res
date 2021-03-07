@@ -1,6 +1,7 @@
 //#base "../#jofre/partymembers.res"
 #base "../../_customization/resource/ui/summersale_border.res"
 #base "base/1shadedbar.res"
+#base "base/classmodelpanel.res"
 "Resource/UI/Scoreboard.res"
 {	
 	"scores"
@@ -442,7 +443,7 @@
 	{
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"BluePlayerList"
-		"xpos"			"cs-0.5-170"
+		"xpos"			"70"
 		"ypos"			"60"
 		"zpos"			"10"
 		"wide"			"p0.35"
@@ -517,9 +518,6 @@
 	}
 	"classmodelpanel"
 	{
-		"ControlName"	"CTFPlayerModelPanel"
-		"fieldName"		"classmodelpanel"
-		
 		"xpos"			"0"
 		"xpos_minmode"	"0"
 		"ypos"			"r300"
@@ -531,8 +529,6 @@
 		"tall_minmode"	"300"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
 		"paintbackground"	"1"
 		"bgcolor_override"	"200 0 0 0"
 		

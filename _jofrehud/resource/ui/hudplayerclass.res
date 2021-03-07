@@ -1,6 +1,7 @@
 //#base "../#jofre/partymembers.res"
 //#base "../../../4plug/DLC/1.res"  //Resolution crosshairs
 #base "../../../4plug/DLC/2.res"  //Crosshairs
+#base "base/classmodelpanel.res"
 "resource/ui/hudplayerclass.res"
 {
 	"PlayerStatusClassImageBG"
@@ -35,8 +36,6 @@
 	}		
 	"classmodelpanel"
 	{
-		"ControlName"	"CTFPlayerModelPanel"
-		"fieldName"		"classmodelpanel"
 		"zpos"			"-100"
 		"xpos"			"0"
 		"xpos_minmode"	"0"
@@ -49,8 +48,6 @@
 		"tall_minmode"	"300"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
 		"paintbackground"	"1"
 		"bgcolor_override"	"200 0 0 0"
 		

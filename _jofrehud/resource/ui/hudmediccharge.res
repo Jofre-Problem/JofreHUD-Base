@@ -1,5 +1,6 @@
 #base "../../#uni_base/filesv1/background/bg_main.res"
 #base "../#beta/spacer.res"
+#base "base/chargemeter.res"
 "Resource/UI/HudMedicCharge.res"
 {
 	"Background"
@@ -46,16 +47,11 @@
 	}
 	"ChargeMeter"
 	{
-		"ControlName"	"ContinuousProgressBar"
-		"fieldName"		"ChargeMeter"
-		"font"			"Default"
 		"xpos"			"0"
 		"ypos"			"rs1"
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"5"
-		"visible"		"1"
-		"enabled"		"1"
 		"fgcolor_override"		"W_ColorTheme4"
 		"bgcolor_override"		"0 0 0 140"	
 	}

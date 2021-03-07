@@ -333,7 +333,7 @@
 					"ypos"			"rs1"
 					"zpos"			"2"
 					"wide"			"p1"
-					"tall"			"1"
+					"tall"			"5"
 					"proportionaltoparent"	"1"
 
 					"ProgressBar"

@@ -1,4 +1,5 @@
 #base "base/huditemeffectmeter.res"
+#base "base/image/itemeffecticon.res"
 "Resource/UI/HudRocketPack.res"
 {
 	Spacer
@@ -6,8 +7,6 @@
 	}
 	"ItemEffectIcon"
 	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"ItemEffectIcon"
 		"xpos"			"r0"
 		"ypos"			"r0"
 		"zpos"			"0"

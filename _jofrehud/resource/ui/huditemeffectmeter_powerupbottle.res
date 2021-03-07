@@ -1,4 +1,4 @@
-
+#base "base/image/itemeffecticon.res"
 "Resource/UI/huditemeffectmeter_PowerupBottles.res"
 {
 	huditemeffectmeter
@@ -30,8 +30,6 @@
 	
 	"ItemEffectIcon"
 	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"ItemEffectIcon"
 		"xpos"			"15"
 		"ypos"			"4"
 		"zpos"			"1"
@@ -40,7 +38,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/ico_powerup_critboost_red"
-		"scaleImage"	"1"
 	}
 	
 	"ItemEffectMeterLabel"
