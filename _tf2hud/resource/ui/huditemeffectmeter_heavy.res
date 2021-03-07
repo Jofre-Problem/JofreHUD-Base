@@ -1,8 +1,8 @@
-"Resource/UI/HudItemEffectMeter_Scout.res"
+"Resource/UI/huditemeffectmeter_Scout.res"
 {
-	HudItemEffectMeter
+	huditemeffectmeter
 	{
-		"fieldName"		"HudItemEffectMeter"
+		"fieldName"		"huditemeffectmeter"
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r216"

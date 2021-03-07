@@ -1,4 +1,4 @@
-"resource/KeyBoardEditorPage.res"
+"resource/keyboardeditorpage.res"
 {
 	"Cancel"
 	{

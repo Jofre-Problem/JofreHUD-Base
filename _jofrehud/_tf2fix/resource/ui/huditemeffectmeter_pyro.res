@@ -1,8 +1,8 @@
-"Resource/UI/HudItemEffectMeter_Pyro.res"
+"Resource/UI/huditemeffectmeter_Pyro.res"
 {
-	HudItemEffectMeter
+	huditemeffectmeter
 	{
-		"fieldName"		"HudItemEffectMeter"
+		"fieldName"		"huditemeffectmeter"
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r214"	[$WIN32]

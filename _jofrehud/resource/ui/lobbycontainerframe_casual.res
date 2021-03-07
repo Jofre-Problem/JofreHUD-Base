@@ -1,5 +1,5 @@
 #base "res_base/lobbycontainerframe.res"
-#base "../#bases/1rankpanel.res"
+//#base "../#bases/1rankpanel.res"
 "Resource/UI/LobbyContainerFrame_Casual.res"
 {
 	"StartPartyButton"

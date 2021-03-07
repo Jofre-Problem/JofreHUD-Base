@@ -3,7 +3,7 @@
 	#base "../_customization/resource/font.res"
 	#base "../_customization/resource/scheme_4plug1.res"	
 	#base "base/scheme/_clientscheme.res"	
-	#base "../../_dlc/dlc_crosshair.res"	
+	#base "../home/dlc_crosshair.res"	
 	#base "clientscheme/clientscheme_colors.res"
 	#base "clientscheme/clientscheme_borders.res"
 	#base "clientscheme/magnum_scheme_sc.res"	
@@ -701,7 +701,10 @@ Scheme
 		"1"
 			{
 			"name"		"Segoe UI" [!$OSX]
-			"name"		"Segoe UI" [$OSX]
+			"name"		"Verdana
+			
+			
+			" [$OSX]
 			"tall"		"14"			
 			"weight"	"300"
 			"antialias"	"1"

@@ -69,6 +69,6 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"CustomSegundo"
-		"fgcolor"		"236 240 241 255"
+		"fgcolor"		"G_HealthValue"
 	}				
 }

@@ -1,5 +1,5 @@
 //#base "../#jofre/partymembers.res"
-#base "../../../4plug/DLC/1.res"  //Resolution crosshairs
+//#base "../../../4plug/DLC/1.res"  //Resolution crosshairs
 #base "../../../4plug/DLC/2.res"  //Crosshairs
 "resource/ui/hudplayerclass.res"
 {
@@ -32,12 +32,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"scaleImage"	"1"
-	}	
-		"PartySlot0"
-		{
-			"ypos"			"rs1-5"
-			"zpos"			"100"			
-		}			
+	}		
 	"classmodelpanel"
 	{
 		"ControlName"	"CTFPlayerModelPanel"

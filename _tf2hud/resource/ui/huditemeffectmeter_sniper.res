@@ -1,8 +1,8 @@
-"Resource/UI/HudItemEffectMeter_Sniper.res"
+"Resource/UI/huditemeffectmeter_Sniper.res"
 {
-	HudItemEffectMeter
+	huditemeffectmeter
 	{
-		"fieldName"		"HudItemEffectMeter"
+		"fieldName"		"huditemeffectmeter"
 		"visible"		"1"
 		"enabled"		"1"
 		"x_offset"		"40"

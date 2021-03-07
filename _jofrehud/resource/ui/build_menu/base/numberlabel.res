@@ -20,6 +20,6 @@
 		"dulltext"		"1"
 		"brighttext"	"0"
 		
-		"border"		"noborder"
+		"border"		"NoBorder"
 	}
 }

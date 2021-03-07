@@ -1,8 +1,8 @@
-"Resource/UI/HudItemEffectMeter_ParticleCannon.res"
+"Resource/UI/huditemeffectmeter_ParticleCannon.res"
 {
-	HudItemEffectMeter
+	huditemeffectmeter
 	{
-		"fieldName"		"HudItemEffectMeter"
+		"fieldName"		"huditemeffectmeter"
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r216"	[$WIN32]

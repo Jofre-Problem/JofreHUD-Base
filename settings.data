@@ -86,12 +86,6 @@ GlobalComboBox("MAIN MENU Character Image", "MAIN MENU Character Image")
 	Enabled
 	Disabled
 }
-[Name:MAIN MENU Task Bar Type, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
-GlobalComboBox("MAIN MENU Task Bar Type", "MAIN MENU Task Bar Type")
-{
-	Default
-	Concept (Cleaner)
-}
 [Name:MAIN MENU Advanced Dev Menu, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
 GlobalComboBox("MAIN MENU Advanced Dev Menu", "MAIN MENU Advanced Dev Menu")
 {
@@ -135,12 +129,6 @@ GlobalComboBox("Font Name Select", "Font Name Select")
 	L4D2
 	Verdana
 	Microsoft Sans Serif
-}
-[Name:Chapter Backgrounds Multiple, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
-GlobalComboBox("Chapter Backgrounds Multiple", "Chapter Backgrounds Multiple")
-{
-	Default
-	Disabled (Upward)
 }
 [Name:EXPERIMENTAL Cart BG Glow, Default:Lower, FG:#008E2A, BG:#00DC44, Border:0]
 GlobalComboBox("EXPERIMENTAL Cart BG Glow", "EXPERIMENTAL Cart BG Glow")
@@ -281,14 +269,6 @@ Copy("4plug/4plug_overrides/summersale/azul.res", "_jofrehud/_customization/reso
 #if Steam Summer Sale Border == "Neon"
 {
 Copy("4plug/4plug_overrides/summersale/neon.res", "_jofrehud/_customization/resource/ui/summersale_border.res");
-}
-#if Chapter Backgrounds Multiple == "Default"
-{
-Copy("4plug/4plug_overrides/ChapterBackgrounds_def.txt", "scripts/ChapterBackgrounds.txt");
-}
-#if Chapter Backgrounds Multiple == "Disabled (Upward)"
-{
-Copy("4plug/4plug_overrides/ChapterBackgrounds_upw.txt", "scripts/ChapterBackgrounds.txt");
 }
 #if UI Match Status == "No Name - Small"
 {

@@ -1,4 +1,4 @@
-#base "KeyBoardEditorPage_base.res"
+#base "keyboardeditorpage_base.res"
 "resource/KeyBoardEditorPanel.res"
 {
 	"KeyBoardEditorPanel"

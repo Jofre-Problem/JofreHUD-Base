@@ -386,7 +386,7 @@
 		"brighttext"	"0"
 		
 		"paintborder"	"1"
-		"border"		"noborder"
+		"border"		"NoBorder"
 		
 		"pin_to_sibling" "class_item_red_2"
 		"pin_corner_to_sibling" "PIN_CENTER_BOTTOM" // Corner of this Element
@@ -414,7 +414,7 @@
 		"brighttext"	"0"
 		
 		"paintborder"	"1"
-		"border"		"noborder"
+		"border"		"NoBorder"
 		
 		"pin_to_sibling" "class_item_red_5"
 		"pin_corner_to_sibling" "PIN_CENTER_BOTTOM" // Corner of this Element
@@ -442,7 +442,7 @@
 		"brighttext"	"0"
 		
 		"paintborder"	"1"
-		"border"		"noborder"
+		"border"		"NoBorder"
 		
 		"pin_to_sibling" "class_item_red_8"
 		"pin_corner_to_sibling" "PIN_CENTER_BOTTOM" // Corner of this Element

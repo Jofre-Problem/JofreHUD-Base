@@ -4,10 +4,10 @@
 	{
 		"ControlName"			"EditablePanel"
 		"fieldName" 			"HudChat"
-		"xpos" 			"2" // TLC
-		"xpos_minmode" 	"80" // TLC
-		"ypos" 			"250" // TLC
-		"ypos_minmode" 	"r114" // TLC
+		"xpos" 			"" // TLC
+		"xpos_minmode" 	"0" // TLC
+		"ypos" 			"0" // TLC
+		"ypos_minmode" 	"0" // TLC
 		"zpos" 			"9"
 		"wide"			"p0.32"
 		"wide_minmode"	"p0.32"

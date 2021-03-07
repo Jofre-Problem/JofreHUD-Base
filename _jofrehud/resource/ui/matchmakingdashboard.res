@@ -116,7 +116,7 @@
 			"armedFgColor_override"		"Yellow"
 			"depressedFgColor_override"	"W_ColorTheme4"
 			
-			"border_armed"		"noborder"	
+			"border_armed"		"NoBorder"	
 			"SubImage"
 			{
 				"wide"			"0"

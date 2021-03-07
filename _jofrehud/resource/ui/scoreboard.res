@@ -46,7 +46,6 @@
 			"tall"			"20"
 			fgcolor			"102 255 0 255"
 			"bgcolor_override"		"0 0 0 100"
-			"border"		"MaterialOscuro"
 		}		
 	"BlueScoreBG"
 	{
@@ -299,7 +298,7 @@
 			"tall"			"20"
 			fgcolor			"102 255 0 255"
 			"bgcolor_override"		"Black"
-			"border"		"noborder"
+			"border"		"NoBorder"
 	}
 	"ServerTimeLeftInsetBG"
 	{
@@ -355,7 +354,7 @@
 		"alpha"			"255"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"border"		"noborder"
+		"border"		"NoBorder"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"replay/thumbnails/null"
@@ -408,7 +407,7 @@
 		"ypos"			"60"
 		"zpos"			"10"
 		"wide"			"p0.35"
-		"tall"			"p0.8"
+		"tall"			"p0.4"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -443,11 +442,11 @@
 	{
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"BluePlayerList"
-		"xpos"			"c-350"
+		"xpos"			"cs-0.5-170"
 		"ypos"			"60"
 		"zpos"			"10"
 		"wide"			"p0.35"
-		"tall"			"p0.8"
+		"tall"			"p0.4"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -956,7 +955,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"paintbackgroundType"	"0"
-		"border"		"noborder"
+		"border"		"NoBorder"
 		"bgcolor_override"	"Blank"
 		"KILLSASSISTSDEATHS2"
 		{

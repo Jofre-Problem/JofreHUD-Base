@@ -11,7 +11,7 @@
 		"tall"			"f0"
 		"visible"		"1"
 
-		"border"		"Null"
+		"border"		"NoBorder"
 
 		"InnerShadow"
 		{

@@ -22,9 +22,9 @@
 		"visible"		"0"
 		"enabled"				"0"		
 	}	
-	HudItemEffectMeter
+	huditemeffectmeter
 	{
-		"fieldName"		"HudItemEffectMeter"
+		"fieldName"		"huditemeffectmeter"
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"0"

@@ -1,3 +1,4 @@
+#base "base/obj_bg.res"
 "Resource/UI/hud_obj_sentrygun.res"
 {
 	"BuildingStatusItem"
@@ -17,18 +18,8 @@
 	
 	"Background"
 	{
-		"ControlName"	"CIconPanel"
-		"fieldName"		"Background"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"-1"
-		"wide"			"120"
 		"tall"			"20"
-		"visible"		"0"
-		"enabled"		"1"
-		"scaleImage"	"1"	
 		"icon"			"obj_status_background_tall_disabled"
-		"iconColor"		"255 255 255 255"
 	}
 	
 	"Icon_Sentry_1"

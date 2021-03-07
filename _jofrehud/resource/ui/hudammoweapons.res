@@ -21,7 +21,7 @@ Resource/UI/HudAmmoWeapons.res
 		wide			80
 		tall			30
 		textAlignment	center	
-		font			CustomNoveno	
+		font			CustomNoveno
 		"bgcolor_override"	"Blank"
 		"pin_to_sibling"	"Spacer"
 		"pin_corner_to_sibling"	"PIN_TOPRIGHT"

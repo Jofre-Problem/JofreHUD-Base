@@ -105,7 +105,7 @@
 		"brighttext"	"0"
 		
 		"paintborder"	"1"
-		"border"		"noborder"
+		"border"		"NoBorder"
 	}
 	
 	"NumberLabel"
@@ -129,6 +129,6 @@
 		"brighttext"	"0"
 		
 		"paintborder"	"1"
-		"border"		"noborder"
+		"border"		"NoBorder"
 	}
 }

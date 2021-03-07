@@ -20,9 +20,20 @@
 			"PaintBackgroundType"	"0"
 			"paintbackground"		"1"
 			"bgcolor_override"				"W_ColorTheme2"	//"W_ColorTheme2"
-			"border"			"B_Icons1"
+		//	"border"			"B_Icons1"
 		}
-
+		"Linea"				// 
+		{
+			ControlName				ImagePanel
+			FieldName				"Linea"
+			xPos					0
+			yPos					0
+			zPos					1040
+			wide					2
+			tall					f0
+			fillColor				"W_ColorLinea1"
+			mouseInputEnabled			0			// mouse input passes though to panels below
+		}
 		"MOTD_HeaderContainer"
 		{
 			"ControlName"	"EditablePanel"

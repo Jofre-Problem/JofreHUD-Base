@@ -1,8 +1,8 @@
-"Resource/UI/HudItemEffectMeter_Raygun.res"
+"Resource/UI/huditemeffectmeter_Raygun.res"
 {
-	HudItemEffectMeter
+	huditemeffectmeter
 	{
-		"fieldName"		"HudItemEffectMeter"
+		"fieldName"		"huditemeffectmeter"
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r174"	[$WIN32]

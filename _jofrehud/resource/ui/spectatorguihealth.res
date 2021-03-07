@@ -1,1 +1,1 @@
-#base "res_base/SpectatorGUIHealth.res"
+#base "res_base/spectatorguihealth.res"

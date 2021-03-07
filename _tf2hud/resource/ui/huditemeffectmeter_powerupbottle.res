@@ -1,8 +1,8 @@
-"Resource/UI/HudItemEffectMeter_PowerupBottles.res"
+"Resource/UI/huditemeffectmeter_PowerupBottles.res"
 {
-	HudItemEffectMeter
+	huditemeffectmeter
 	{
-		"fieldName"		"HudItemEffectMeter"
+		"fieldName"		"huditemeffectmeter"
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r86"	[$WIN32]

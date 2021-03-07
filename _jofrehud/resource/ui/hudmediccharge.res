@@ -1,4 +1,4 @@
-//#base "../#beta/c_spacer.res"
+#base "../../#uni_base/filesv1/background/bg_main.res"
 #base "../#beta/spacer.res"
 "Resource/UI/HudMedicCharge.res"
 {

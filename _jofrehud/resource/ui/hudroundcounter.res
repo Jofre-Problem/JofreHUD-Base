@@ -1,4 +1,5 @@
 //#base "../#jofre/teamcolored-gradient.res"
+#base "../../#uni_base/filesv1/background/bg_main.res"
 "Resource/UI/HudRoundCounter.res"
 {
 	"RoundCounter"

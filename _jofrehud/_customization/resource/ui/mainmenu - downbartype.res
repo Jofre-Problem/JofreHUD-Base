@@ -1,19 +1,5 @@
 "_jofrehud/resource/#jofre/downbar.res"
 {
-	"DownImage"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"DownImage"
-		"xpos"			"0"
-		"ypos"			"r30"
-		"zpos"			"1"
-		"wide"			"f0"
-		"tall"			"10"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"gradient_pure_black"
-		"scaleImage"	"1"		
-	}
 	"DownBar2"				// background for the left side buttons
 	{
 		ControlName				EditablePanel
@@ -83,10 +69,10 @@
 			fillColor				"W_ColorIcons1"
 			mouseInputEnabled			0			// mouse input passes though to panels below
 		}	
-		"MyHome"
-		{
-		//	"bgcolor_override"		"W_ColorTheme1"			
-		}	
+	"MyHome"
+	{
+	//	"bgcolor_override"		"W_ColorTheme1"			
+	}	
 		"IngameBar2"
 		{
 			ControlName				ImagePanel

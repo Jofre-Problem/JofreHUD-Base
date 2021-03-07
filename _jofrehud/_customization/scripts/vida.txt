@@ -2,10 +2,8 @@ event HudHealthBonusPulse
 {
 	Animate	PlayerStatusHealthBonusImage		Alpha		"0"		Linear 0.0 0.0
 
-	Animate PlayerStatusHealthValueShadow				FgColor 	"Black" 	Linear 0.0 0.0
-	Animate BarShadow1		wide 9 Linear 0 0
-	Animate BarShadow2		wide 9 Linear 0.0 0.0
-	Animate BarShadow			BgColor 	"G_OverHeal" 	Linear 0.0 0.0
+	Animate PlayerStatusHealthValue				FgColor 	"G_OverHeal" 	Linear 0.0 0.0
+
 	RunEvent HudHealthBonusPulseLoop	0.4
 }
 
@@ -19,18 +17,16 @@ event HudHealthBonusPulseStop
 {
 	StopEvent HudHealthBonusPulse 0.0
 	StopEvent HudHealthBonusPulseLoop 0.0
-	Animate BarShadow			BgColor 	"0 0 0 200" 	Linear 0.0 0.0
-	Animate PlayerStatusHealthValueShadow 			FgColor 	"Black" 	Linear 0.0 0.0
+
+	Animate PlayerStatusHealthValue 			FgColor 	"G_HealthValue" 	Linear 0.0 0.0
 }
 
 event HudHealthDyingPulse
 {
 	Animate	PlayerStatusHealthBonusImage		Alpha		"0"		Linear 0.0 0.0
 
-	Animate PlayerStatusHealthValueShadow 			FgColor 	"Black" 	Linear 0.0 0.0
-	Animate BarShadow1		wide 24 Linear 0 0
-	Animate BarShadow2		wide 24 Linear 0.0 0.0
-	Animate BarShadow			BgColor 	"G_LowHealthValue" 	Linear 0.0 0.0
+	Animate PlayerStatusHealthValue 			FgColor 	"G_LowHealthValue"	Linear 0.0 0.0
+
 	RunEvent HudHealthDyingPulseLoop	0.25
 }
 
@@ -44,8 +40,6 @@ event HudHealthDyingPulseStop
 {
 	StopEvent HudHealthDyingPulse 0.0
 	StopEvent HudHealthDyingPulseLoop 0.0
-	Animate BarShadow			BgColor 	"0 0 0 200" 	Linear 0.0 0.0
-	Animate BarShadow1		wide 16 Linear 0 0
-	Animate BarShadow2		wide 16 Linear 0.0 0.0
-	Animate PlayerStatusHealthValueShadow				FgColor 	"Black" 	Linear 0.0 0.0
+
+	Animate PlayerStatusHealthValue				FgColor 	"G_HealthValue" 	Linear 0.0 0.0
 }

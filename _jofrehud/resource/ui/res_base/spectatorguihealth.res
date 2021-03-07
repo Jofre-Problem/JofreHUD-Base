@@ -36,7 +36,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"CustomSegundo"
-		"fgcolor"		"Black"
+		"fgcolor"		"TransparentBlack"
 		"pin_to_sibling"	"PlayerStatusHealthValue"
 	}
 	"PlayerStatusHealthValue2S"
@@ -53,7 +53,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"CustomSegundo"
-		"fgcolor"		"Black"
+		"fgcolor"		"TransparentBlack"
 		"pin_to_sibling"	"PlayerStatusHealthValueID2"
 	}
 	"PlayerStatusHealthValueID3"

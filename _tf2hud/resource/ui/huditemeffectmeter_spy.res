@@ -1,8 +1,8 @@
-"Resource/UI/HudItemEffectMeter_Spy.res"
+"Resource/UI/huditemeffectmeter_Spy.res"
 {
-	HudItemEffectMeter
+	huditemeffectmeter
 	{
-		"fieldName"		"HudItemEffectMeter"
+		"fieldName"		"huditemeffectmeter"
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r162"	[$WIN32]

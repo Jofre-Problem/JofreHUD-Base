@@ -1,8 +1,8 @@
-"Resource/UI/HudItemEffectMeter_Cleaver.res"
+"Resource/UI/huditemeffectmeter_Cleaver.res"
 {
-	HudItemEffectMeter
+	huditemeffectmeter
 	{
-		"fieldName"		"HudItemEffectMeter"
+		"fieldName"		"huditemeffectmeter"
 		"visible"		"1"
 		"enabled"		"1"
 		"x_offset"		"40"

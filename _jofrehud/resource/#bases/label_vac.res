@@ -47,6 +47,6 @@
 		"tileImage"		"0"
 		"tileHorizontally"		"0"
 		"tileVertically"		"0"
-		"border"		"noborder"
+		"border"		"NoBorder"
 	}
 }

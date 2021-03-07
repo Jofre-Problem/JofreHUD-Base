@@ -16,7 +16,7 @@
 		"iconColor"		"255 255 255 255"
 		
 		"paintborder"	"1"
-		"border"		"noborder"
+		"border"		"NoBorder"
 	}
 	"NumberBg2"
 	{

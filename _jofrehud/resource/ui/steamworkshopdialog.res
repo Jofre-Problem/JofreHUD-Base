@@ -52,7 +52,7 @@
 			"command"		"cancel"	
 			"sound_depressed"	"UI/button.wav"
 			"sound_released"	"UI/button2.wav"
-			"border"		"noborder"
+			"border"		"NoBorder"
 			"paintbackground"	"0"
 			
 			"fgcolor_override"			"red"

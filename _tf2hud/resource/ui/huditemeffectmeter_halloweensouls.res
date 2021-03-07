@@ -1,8 +1,8 @@
-"Resource/UI/HudItemEffectMeter_HalloweenSouls.res"
+"Resource/UI/huditemeffectmeter_HalloweenSouls.res"
 {
-	HudItemEffectMeter
+	huditemeffectmeter
 	{
-		"fieldName"		"HudItemEffectMeter"
+		"fieldName"		"huditemeffectmeter"
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"90"	[$WIN32]

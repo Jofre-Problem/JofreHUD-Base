@@ -25,7 +25,7 @@
 			"command"		"cancel"	
 			"sound_depressed"	"UI/button.wav"
 			"sound_released"	"UI/button2.wav"
-			"border"		"noborder"
+			"border"		"NoBorder"
 			"paintbackground"	"0"
 			
 			"fgcolor_override"			"red"
@@ -75,7 +75,7 @@
 			"command"		"cancel"	
 			"sound_depressed"	"UI/button.wav"
 			"sound_released"	"UI/button2.wav"
-			"border"		"noborder"
+			"border"		"NoBorder"
 			"paintbackground"	"0"
 			
 			"fgcolor_override"			"red"
@@ -130,7 +130,7 @@
 			"command"		"cancel"	
 			"sound_depressed"	"UI/button.wav"
 			"sound_released"	"UI/button2.wav"
-			"border"		"noborder"
+			"border"		"NoBorder"
 			"paintbackground"	"0"
 			
 			"fgcolor_override"			"red"
@@ -357,7 +357,7 @@
 		"tabPosition"		"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"border"				"noborder"
+		"border"				"NoBorder"
 		
 		"Background"
 		{

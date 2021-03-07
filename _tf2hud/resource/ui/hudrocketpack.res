@@ -1,9 +1,9 @@
-//#base "HudItemEffectMeter.res"
+//#base "huditemeffectmeter.res"
 "Resource/UI/HudRocketPack.res"
 {
-	HudItemEffectMeter
+	huditemeffectmeter
 	{
-		"fieldName"		"HudItemEffectMeter"
+		"fieldName"		"huditemeffectmeter"
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r95"	[$WIN32]

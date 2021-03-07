@@ -1,8 +1,8 @@
-"Resource/UI/HudItemEffectMeter_Pomson.res"
+"Resource/UI/huditemeffectmeter_Pomson.res"
 {
-	HudItemEffectMeter
+	huditemeffectmeter
 	{
-		"fieldName"		"HudItemEffectMeter"
+		"fieldName"		"huditemeffectmeter"
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r184"	[$WIN32]

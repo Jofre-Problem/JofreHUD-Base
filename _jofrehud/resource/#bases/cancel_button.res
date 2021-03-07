@@ -2,7 +2,7 @@
 #base "../../#uni_base/filesv1/cancelbutton/cancelbutton_is-button.res"
 #base "../../#uni_base/filesv1/cancelbutton/cancelbutton_autoresize_pin.res"
 #base "../../#uni_base/filesv1/cancelbutton/cancelbutton_vis1.res"
-"resource/KeyBoardEditorPage.res"
+"resource/keyboardeditorpage.res"
 {
 	"CancelButton"
 	{

@@ -1,1 +1,1 @@
-#base "../#bases/1rankpanel.res"
+//#base "../#bases/1rankpanel.res"

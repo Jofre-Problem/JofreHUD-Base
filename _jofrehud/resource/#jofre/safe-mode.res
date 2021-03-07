@@ -71,7 +71,7 @@
 			"proportionaltoparent"	"1"
 
 			"paintborder"	"1"
-			"border"		"noborder"
+			"border"		"NoBorder"
 
 			"TitleLabel"
 			{

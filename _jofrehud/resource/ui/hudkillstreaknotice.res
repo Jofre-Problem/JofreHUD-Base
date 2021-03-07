@@ -1,9 +1,9 @@
+#base "../#uni_base/filesv1/background/bg_main.res"
 "Resource/UI/HudKillStreakNotice.res"
 {	
 	"Background"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldName"		"Background"
 		"xpos"			"c-250"
 		"ypos"			"50"
 		"zpos"			"0"
@@ -11,7 +11,6 @@
 		"tall"			"50"
 		"autoResize"	"0"
 		"visible"		"1"
-		"enabled"		"1"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"	"27 27 27 160"	
 	}

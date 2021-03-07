@@ -8,7 +8,7 @@
 		"tall"			"35"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
-		"border"		"noborder"
+		"border"		"NoBorder"
 		"paintbackground"	"0"
 		"bgcolor_override"	"W_ColorLinea1"
 	}

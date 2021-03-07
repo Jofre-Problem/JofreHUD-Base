@@ -13,7 +13,7 @@
 #base "base/server_fil_check_vis0.res"
 #base "base/filterstring_main_v2.res"
 #base "base/internetgames.res"
-#base "../base/refreshquickbtn.res"
+#base "base/refreshquickbtn.res"
 "servers/InternetGamesPage.res"
 {
 	"RefreshQuickButton"

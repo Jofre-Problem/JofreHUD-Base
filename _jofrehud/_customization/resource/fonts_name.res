@@ -6,91 +6,91 @@ Scheme
 		{
 			"1"
 			{
-			"name"		"Microsoft Sans Serif"
+			"name"		"Verdana"
 			}
 		}			
 		"CustomSexto"
 		{
 			"1"
 			{
-			"name"		"Microsoft Sans Serif"
+			"name"		"Verdana"
 			}
 		}			
 		"CustomNoveno"
 		{
 			"1"
 			{
-			"name"		"Microsoft Sans Serif"
+			"name"		"Verdana"
 			}
 		}
 		"CustomNovenoBlur"
 		{
 			"1"
 			{
-			"name"		"Microsoft Sans Serif"
+			"name"		"Verdana"
 			}
-		}				
+		}			
 		"CustomOctavoBlur"
 		{
 			"1"
 			{
-			"name"		"Microsoft Sans Serif"
+			"name"		"Verdana"
 			}
 		}
 		"CustomSeptimo"
 		{
 			"1"
 			{
-			"name"		"Microsoft Sans Serif"
+			"name"		"Verdana"
 			}
 		}
 		"CustomSeptimoBlur"
 		{
 			"1"
 			{
-			"name"		"Microsoft Sans Serif"
+			"name"		"Verdana"
 			}
 		}
 		"CustomTercero"
 		{
 			"1"
 			{
-			"name"		"Microsoft Sans Serif"
+			"name"		"Verdana"
 			}
 		}		
 		"CustomCuarto"
 		{
 			"1"
 			{
-			"name"		"Microsoft Sans Serif"
+			"name"		"Verdana"
 			}
 		}	
 		"CustomSegundo"
 		{
 			"1"
 			{
-			"name"		"Microsoft Sans Serif"
+			"name"		"Verdana"
 			}
 		}	
 		"CustomPrimero"
 		{
 			"1"
 			{
-			"name"		"Microsoft Sans Serif"
+			"name"		"Verdana"
 			}
 		}	
 		"CustomQuinto"
 		{
 			"1"
 			{
-			"name"		"Microsoft Sans Serif"
+			"name"		"Verdana"
 			}
 		}
 		"CustomQuintoBlur"
 		{
 			"1"
 			{
-			"name"		"Microsoft Sans Serif"
+			"name"		"Verdana"
 			}
 		}
 	}

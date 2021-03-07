@@ -28,7 +28,7 @@
 		"paintborder"	"1"
 		"paintbackgroundtype"	"0"
 
-		"border_default"	"noborder"
-		"border_armed"		"noborder"
+		"border_default"	"NoBorder"
+		"border_armed"		"NoBorder"
 	}
 }

@@ -1,6 +1,7 @@
 //	#base "..\resource\#beta\c_spacer.res"
 	#base "../_customization/scripts/transparent.res"
 	#base "../_customization/scripts/damageindicator.res"
+	#base "../../ui_overrides/extrares_/4plug/general_1.res"
 "Resource\HudLayout.res"
 {
 	HudControlPointIcons
@@ -32,14 +33,14 @@
 		"CornerRadius"	"0" // 2 KF
 		"RightJustify"	"1"	// If 1, draw notices from the right
 		
-		"TextFont"		"CustomSegundo"
+		"TextFont"		"HudFontSmall"
 		
 		"TeamBlue"		"G_KillfeedBlue"
 		"TeamRed"		"G_KillfeedRed"
 		"IconColor"		"G_KillfeedIcon"
 		"LocalPlayerColor"	"HUDBlack"
 
-		"BaseBackgroundColor"	"Blank"
+		"BaseBackgroundColor"	"0 0 0 225"
 		"LocalBackgroundColor"	"255 255 255 214"//"G_Killfeed_Local"	
 	}
 //	"Spacer"
@@ -113,9 +114,9 @@
 		"MeterBG"		"Gray"
 	}
 	
-	HudItemEffectMeter
+	huditemeffectmeter
 	{
-		"fieldName"		"HudItemEffectMeter"
+		"fieldName"		"huditemeffectmeter"
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"0"
@@ -377,8 +378,6 @@
 		"fieldName"				"WinPanel"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"0"
-		"ypos"					"0"
 		"wide"					"f0"
 		"tall"					"f0"
 		"zpos"					"4"

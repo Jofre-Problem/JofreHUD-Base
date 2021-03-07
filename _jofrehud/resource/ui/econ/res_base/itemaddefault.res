@@ -1,3 +1,4 @@
+#base "../../../../#uni_base/filesv1/background/bg_main.res"
 "Resource/UI/econ/CyclingAdContainer.res"
 {
 	"ad"
@@ -11,7 +12,6 @@
 	"Background"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldname"		"Background"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"0"

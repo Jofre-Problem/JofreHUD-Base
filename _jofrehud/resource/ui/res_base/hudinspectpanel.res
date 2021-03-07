@@ -14,7 +14,7 @@
 		"paintbackground"		"0"
 		"PaintBackgroundType"	"0"
 		"paintborder"			"1"
-		"border"				"noborder"
+		"border"				"NoBorder"
 		
 		"model_ypos"			"18"
 		"model_center_x"		"1"

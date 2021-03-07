@@ -22,6 +22,6 @@
 		
 		"textinsetx"	"20"
 		
-		"border"		"noborder"
+		"border"		"NoBorder"
 	}
 }

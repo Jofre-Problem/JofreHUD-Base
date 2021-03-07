@@ -1,8 +1,8 @@
-"Resource/UI/HudItemEffectMeter_SodaPopper.res"
+"Resource/UI/huditemeffectmeter_SodaPopper.res"
 {
-	HudItemEffectMeter
+	huditemeffectmeter
 	{
-		"fieldName"		"HudItemEffectMeter"
+		"fieldName"		"huditemeffectmeter"
 		"visible"		"1"
 		"enabled"		"1"
 //		"x_offset"		"40"

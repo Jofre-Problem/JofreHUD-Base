@@ -1,10 +1,10 @@
-//#base "HudItemEffectMeter.res"
+//#base "huditemeffectmeter.res"
 
-"Resource/UI/HudItemEffectMeter_Pyro.res"
+"Resource/UI/huditemeffectmeter_Pyro.res"
 {
-	HudItemEffectMeter
+	huditemeffectmeter
 	{
-		"fieldName"		"HudItemEffectMeter"
+		"fieldName"		"huditemeffectmeter"
 		"xpos"			"r214"
 		"ypos_minbad"	"r70"
 	}
