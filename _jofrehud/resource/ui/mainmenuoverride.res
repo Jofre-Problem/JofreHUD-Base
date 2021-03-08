@@ -41,7 +41,7 @@
 		"centerwrap"		"1"
 		"xpos""cs-0.5"
 		"ypos""0"
-		"zpos""3200"
+		"zpos""2900"
 		"wide"			"p0.3"
 		"tall"			"13"
 		"fgcolor_override" "W_ColorIcons1"
@@ -363,7 +363,7 @@
 		sound_depressed			"UI/buttonclick.wav"
 		sound_released			"UI/buttonclickrelease.wav"
 		
-		border_armed		"WBorder_2"
+		border_armed		"LoadoutItemPopupBorder"
 	
 		paintBackground			0
 
@@ -492,7 +492,7 @@
 		font					"Blank"
 		textAlignment			center
 	
-		border_armed		"WBorder_2"
+		border_armed		"LoadoutItemPopupBorder"
 		command				"opentf2options"
 
 		sound_depressed			"UI/buttonclick.wav"
@@ -632,7 +632,7 @@
 		sound_depressed			"UI/buttonclick.wav"
 		sound_released			"UI/buttonclickrelease.wav"
 		
-		border_armed	"WBorder_2"
+		border_armed	"LoadoutItemPopupBorder"
 	
 		paintBackground			0
 		
@@ -715,7 +715,7 @@
 		ControlName				CExButton
 		FieldName				"OpenContracker"
 		xPos					2
-		yPos					20
+		yPos					13
 		zPos					1009
 		wide					42
 		tall					o1
@@ -729,7 +729,7 @@
 		sound_depressed			"UI/buttonclick.wav"
 		sound_released			"UI/buttonclickrelease.wav"
 		
-		border_armed			"WBorder_2"
+		border_armed			"LoadoutItemPopupBorder"
 //		tooltipText			"hi"
 	
 		paintBackground			0
@@ -812,7 +812,7 @@
 		sound_depressed			"UI/buttonclick.wav"
 		sound_released			"UI/buttonclickrelease.wav"
 		
-		border_armed			"WBorder_2"
+		border_armed			"LoadoutItemPopupBorder"
 	
 		paintBackground			0
 
@@ -913,7 +913,7 @@
 		sound_depressed			"UI/buttonclick.wav"
 		sound_released			"UI/buttonclickrelease.wav"
 		
-		border_armed			"WBorder_2"
+		border_armed			"LoadoutItemPopupBorder"
 		paintBackground			0
 
 		pin_to_sibling			"OpenDemo"
@@ -1240,8 +1240,8 @@
 		ControlName				EditablePanel
 		FieldName				"Notifications_ShowButtonPanel"
 		xPos					cs-0.5
-		yPos					35
-		zPos					1050
+		yPos					0
+		zPos					3000
 		"wide"			"p0.085"
 		"tall"			"40"
 		"tabPosition"	"1"	

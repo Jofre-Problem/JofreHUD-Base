@@ -1,13 +1,9 @@
-#base "../#jofre/w_icons.res"
-#base "../#jofre/w_op-panel.res"
+//#base "../#jofre/w_icons.res"
+//#base "../#jofre/w_op-panel.res"
 #base "../#jofre/charbg.res"
-#base "../#jofre/1ccvar.res"
+//#base "../#jofre/1ccvar.res"
 "Resource\UI\TFAdvancedOptionsDialog.res"
 {
-	"ImprovisedBG"
-	{
-		fillColor				"0 0 0 1"
-	}
 	"TFAdvancedOptionsDialog"
 	{
 		"ControlName"								"EditablePanel"
@@ -25,40 +21,14 @@
 		"settitlebarvisible"						""
 		"PaintBackgroundType"						"0"
 		"paintbackground"							"1"
-		"bgcolor_override"							"Blank"
-		"border"									"NoBorder"
+		"bgcolor_override"							"0 0 0 200"
+		"border"									"InnerShadowBorderThin"
 		
 		"control_w"									"500"
 		"control_h"									"25"
 		"slider_w"									"500"
 		"slider_h"									"25"
 	}
-	"InfoLabel"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"InfoLabel"
-		"font"										"InstructionalText"
-		"labelText"									"#TF_Quickplay_AdvancedOptions"
-		"textAlignment"								"west"
-		"xpos"										"40"
-		"ypos"										"5"
-		"zpos"										"2000"
-		"wide"										"p0.233"
-		"tall"										"25"
-		"autoResize"								"0"
-		"pinCorner"									"0"
-		"visible"									"1"
-		"enabled"									"1"
-		"fgcolor_override" 							"W_ColorTexto1"
-	}	
-	"CancelButton"
-	{
-		ypos		0
-		command		close
-		"pin_to_sibling" 							"WindowLeftBar"
-		"pin_corner_to_sibling" 					"PIN_BOTTOMRIGHT"
-		"pin_to_sibling_corner" 					"PIN_BOTTOMRIGHT"
-	}	
 	"TitleLabel"
 	{
 		"ControlName"								"CExLabel"
@@ -73,37 +43,17 @@
 		"tall"										"90"
 		"autoResize"								"0"
 		"pinCorner"									"0"
-		"visible"									"1"
-		"enabled"									"1"
+		"visible"									"0"
+		"enabled"									"0"
 		"fgcolor_override" 							"W_ColorTexto1"
 		"AllCaps" 									"1"
 		"wrap"										"1"
 	}
-	"MinimalLabel"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"MinimalLabel"
-		"font"										"HudFontSmallishBold"
-		"labelText"									"Minimal Mode:"
-		"textAlignment"								"west"
-		"xpos"										"10"
-		"ypos"										"110"
-		"zpos"										"2"
-		"wide"										"p0.233"
-		"tall"										"40"
-		"autoResize"								"0"
-		"pinCorner"									"0"
-		"visible"									"1"
-		"enabled"									"1"
-		"fgcolor_override" 							"W_ColorTexto1"
-		"AllCaps" 									"1"
-		"wrap"										"1"
-	}	
 	"Background2"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background2"
-		"xpos"		"218"
+		"xpos"		"cs-0.5"
 		"ypos"		"80"
 		"zpos"		"3"
 		"wide"		"485"
@@ -122,7 +72,7 @@
 	{
 		"ControlName"		"CPanelListPanel"
 		"fieldName"		"PanelListPanel"
-		"xpos"		"220"
+		"xpos"		"cs-0.5"
 		"ypos"		"80"
 		"zpos"		"20"
 		"wide"		"480"
@@ -134,7 +84,79 @@
 		"tabPosition"		"0"
 		"bgcolor_override"	"Blank"
 	}
+	"CancelButton"
+	{
+		"ControlName"								"CExButton"
+		"fieldName"									"CancelButton"
+		"xpos"										"cs-0.5-100"
+		"ypos"										"rs1-90"
+		"zpos"										"0"
+		"wide"										"p0.233"
+		"tall"										"25"
+		"autoResize"								"0"
+		"pinCorner"									"3"
+		"visible"									"1"
+		"enabled"									"1"
+		"tabPosition"								"0"
+		"labelText"									"#Cancel"
+		"font"										"HudFontSmallishBold"
+		"textAlignment"								"center"
+		"dulltext"									"0"
+		"brighttext"								"0"
+		"default"									"1"
+		"Command"									"cancel"
+		"AllCaps"									"1"
+		
+		"sound_depressed"							"UI/buttonclick.wav"
+		"sound_released"							"UI/buttonclickrelease.wav"
+		"border_default"	"MainMenuButtonDefault"
+		"border_armed"		"MainMenuButtonArmed"		
+		"paintbackground"							"0"
+		
+		"defaultFgColor_override"					"W_ColorIcons1"
+		"armedFgColor_override" 					"White"
+		"depressedFgColor_override" 				"W_ColorIcons1"
 	
+	}
+
+	"OkButton"
+	{
+		"ControlName"								"CExButton"
+		"fieldName"									"OkButton"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"0"
+		"wide"										"p0.233"
+		"tall"										"25"
+		"autoResize"								"0"
+		"pinCorner"									"3"
+		"visible"									"1"
+		"enabled"									"1"
+		"tabPosition"								"0"
+		"labelText"									"#GameUI_Ok"
+		"font"										"HudFontSmallishBold"
+		"textAlignment"								"center"
+		"dulltext"									"0"
+		"brighttext"								"0"
+		"default"									"1"
+		"Command"									"Ok"
+		"AllCaps"									"1"
+		"border_default"	"MainMenuButtonDefault"
+		"border_armed"		"MainMenuButtonArmed"		
+		"sound_depressed"							"UI/buttonclick.wav"
+		"sound_released"							"UI/buttonclickrelease.wav"
+		
+		"paintbackground"							"0"
+		
+		"defaultFgColor_override"					"W_ColorIcons1"
+		"armedFgColor_override" 					"White"
+		"depressedFgColor_override" 				"W_ColorIcons1"
+	
+		
+		"pin_to_sibling" 							"CancelButton"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+	}		
 	"TooltipPanel"
 	{
 		"ControlName"								"EditablePanel"
@@ -147,7 +169,7 @@
 		"visible"									"0"
 		"PaintBackgroundType"						"0"
 		"paintbackground"							"0"
-		"border"									"MainMenuButtonGlow2"
+		"border"									"LoadoutItemPopupBorder"
 		
 		"TipLabel"
 		{

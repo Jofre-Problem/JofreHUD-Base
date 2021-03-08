@@ -6,7 +6,7 @@
 		FieldName				"DownBar2"
 		xPos					0
 		yPos					0
-		zPos					1003
+		zPos					0
 		wide					f0
 		tall					p0.0015		//p0.05 = 1mm...		525+15=		1-  p0.0540		
 		bgcolor_override				"W_ColorIcons1"//"W_ColorIcons1"

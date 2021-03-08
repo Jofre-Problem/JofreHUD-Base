@@ -98,6 +98,7 @@
 		"mouseinputenabled"	"0"
 		
 		"bgcolor_override"	"W_ColorTheme1"
+		"alpha"	"220"
 	}
 	
 	"EntryShadow"
