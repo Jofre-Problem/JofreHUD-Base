@@ -96,6 +96,6 @@ Scheme
 	}
 	CustomFontFiles
 	{
-	"13"		"resource/font/Cerbetica.ttf"
+	"13"		"resource/font/cerbetica.ttf"
 	}			
 }

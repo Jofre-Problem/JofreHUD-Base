@@ -51,7 +51,7 @@
 		"brighttext"			"0"
 		"bgcolor_override"		"0 0 0 200"
  		"xpos"					"0"
-		"ypos"					"-40"
+		"ypos"					"-41"
 		"wide"					"140"
 		"tall"					"2"
 		"pin_to_sibling"	"Spacer"

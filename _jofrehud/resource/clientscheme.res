@@ -3784,8 +3784,8 @@ Scheme
 
 	CustomFontFiles
 	{
-	"97"		"resource/font/Blocks-Blocks.ttf"	
-	"98"		"resource/font/JofreIconsMaster.otf"	// aparentemente mejor 
-	"99"		"resource/font/FutureRotfix.otf"		
+	"97"		"resource/font/blocks-blocks.ttf"	
+	"98"		"resource/font/jofreiconsmaster.otf"	// aparentemente mejor 
+//	"99"		"resource/font/futurerotfix.otf"		
 	}	
 }

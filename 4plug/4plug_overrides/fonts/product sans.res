@@ -96,6 +96,6 @@ Scheme
 	}
 	CustomFontFiles
 	{
-	"13"		"resource/font/ProductSans-Regular.ttf"
+	"13"		"resource/font/productsans-regular.ttf"
 	}			
 }

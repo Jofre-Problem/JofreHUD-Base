@@ -96,6 +96,6 @@ Scheme
 	}
 	CustomFontFiles
 	{
-	"13"		"resource/font/CodeProBold.otf"
+	"13"		"resource/font/codeprobold.otf"
 	}		
 }

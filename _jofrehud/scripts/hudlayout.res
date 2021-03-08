@@ -1,7 +1,7 @@
 //	#base "..\resource\#beta\c_spacer.res"
 	#base "../_customization/scripts/transparent.res"
 	#base "../_customization/scripts/damageindicator.res"
-	#base "../../ui_overrides/extrares_/4plug/general_1.res"
+//	#base "../ui_overrides/extrares_/4plug/general_1.res"
 "Resource\HudLayout.res"
 {
 	HudControlPointIcons

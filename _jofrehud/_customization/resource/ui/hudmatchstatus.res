@@ -105,7 +105,7 @@
 				"enabled"		"1"
 				"PaintBackgroundType"	"0"
 				"proportionaltoparent"	"1"
-				"bgcolor_override"		"20 20 20 150"
+				"bgcolor_override"		"20 20 20 220"
 			}
 			"classimagebg"
 			{
@@ -114,8 +114,8 @@
 				"xpos"			"0"
 				"ypos"			"0"
 				"zpos"			"2"
-				"wide"			"f0"
-				"tall"			"25"
+				"wide"			"0"
+				"tall"			"0"
 				"visible"		"1"
 				"enabled"		"1"
 				"PaintBackgroundType"	"0"

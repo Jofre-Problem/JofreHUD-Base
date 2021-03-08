@@ -96,6 +96,6 @@ Scheme
 	}
 	CustomFontFiles
 	{
-	"99"		"resource/font/FutureRotfix.otf"		
+	"99"		"resource/font/futurerotfix.otf"		
 	}		
 }

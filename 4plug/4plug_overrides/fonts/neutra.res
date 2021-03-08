@@ -96,6 +96,6 @@ Scheme
 	}
 	CustomFontFiles
 	{
-	"13"		"resource/font/NeutraText-Bold_0.ttf"
+	"13"		"resource/font/neutratext-bold_0.ttf"
 	}	
 }

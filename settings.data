@@ -19,12 +19,6 @@ GlobalComboBox("CFG Advanced Scoreboard", "CFG Advanced Scoreboard")
 	Disabled
 	Enabled (Hurts FPS)
 }
-[Name:UI Match Status, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
-GlobalComboBox("UI Match Status", "UI Match Status")
-{
-	No Name - Small
-	Swissolo
-}
 [Name:UI Style, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
 GlobalComboBox("UI Style", "UI Style")
 {

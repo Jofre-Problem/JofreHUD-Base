@@ -29,7 +29,7 @@ Resource/UI/HudAmmoWeapons.res
 	}	
 	AmmoNoClipShadow
 	{
-		fgcolor			G_Shadow
+		fgcolor			"0 0 0 255"
 		xpos			0
 		ypos			0
 		zpos			4
@@ -57,7 +57,7 @@ Resource/UI/HudAmmoWeapons.res
 	}		
 	AmmoInClipShadow
 	{
-		fgcolor			G_Shadow
+		fgcolor			"0 0 0 255"
 		xpos			0
 		ypos			0
 		zpos			4
@@ -84,7 +84,7 @@ Resource/UI/HudAmmoWeapons.res
 	}		
 	AmmoInReserveShadow
 	{
-		fgcolor			G_Shadow
+		fgcolor			"0 0 0 255"
 		xpos			0
 		ypos			0
 		zpos			4
