@@ -37,7 +37,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"ServerReferencia"
-			"font"			"HudFontSmallest"
+			"font"			"ItemTrackerScore_InGame"
 			"labelText"		"#scoreboard_top_list"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -405,7 +405,7 @@
 	{
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"RedPlayerList"
-		"xpos"			"c50"
+		"xpos"			"c70"
 		"ypos"			"100"
 		"zpos"			"10"
 		"wide"			"p0.35"
@@ -444,7 +444,7 @@
 	{
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"BluePlayerList"
-		"xpos"			"70"
+		"xpos"			"60"
 		"ypos"			"100"
 		"zpos"			"10"
 		"wide"			"p0.35"
@@ -519,23 +519,24 @@
 	}
 	"classmodelpanel"
 	{
-		"xpos"			"0"
-		"xpos_minmode"	"0"
-		"ypos"			"rs1"
-		"ypos_minmode"	"rs1"
-		"zpos"			"2"		
-		"wide"			"340"
-		"wide_minmode"	"340"
-		"tall"			"300"
-		"tall_minmode"	"300"
+		"ControlName"	"CTFPlayerModelPanel"
+		"fieldName"		"classmodelpanel"
+		
+		"xpos"			"cs-0.5"
+		"ypos"			"rs1-70"
+		"zpos"			"0"		
+		"wide"			"200"
+		"tall"			"200"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"paintbackground"	"1"
-		"bgcolor_override"	"200 0 0 0"
+		"visible"		"1"
+		"enabled"		"1"
 		
 		"render_texture"	"0"
-		"fov"			"52"
+		"fov"			"12"
 		"allow_rot"		"1"
+
+		"disable_speak_event"	"1"
 				
 		"model"
 		{
@@ -544,17 +545,67 @@
 			"angles_x" "0"
 			"angles_y" "172"
 			"angles_z" "0"
-			"origin_x" "200"
-			"origin_y" "90"
-			"origin_z" "-60"
+			"origin_x" "380"	//distancia del modelo
+			"origin_y" "0"
+			"origin_z" "-70"
 			"frame_origin_x"	"0"
 			"frame_origin_y"	"0"
 			"frame_origin_z"	"0"
-			"spotlight" "1"
-			"fov"		"100"
+			"spotlight" "0"
 		
 			"modelname"		""
-
+			
+			"animation"
+			{
+				"name"		"PRIMARY"
+				"activity"	"ACT_MP_STAND_PRIMARY"
+				"default"	"1"
+			}
+			"animation"
+			{
+				"name"		"SECONDARY"
+				"activity"	"ACT_MP_STAND_SECONDARY"
+			}
+			"animation"
+			{
+				"name"		"MELEE"
+				"activity"	"ACT_MP_STAND_MELEE"
+			}
+			"animation"
+			{
+				"name"		"BUILDING"
+				"activity"	"ACT_MP_STAND_BUILDING"
+			}
+			"animation"
+			{
+				"name"		"PDA"
+				"activity"	"ACT_MP_STAND_PDA"
+			}
+			"animation"
+			{
+				"name"		"ITEM1"
+				"activity"	"ACT_MP_STAND_ITEM1"
+			}						
+			"animation"
+			{
+				"name"		"ITEM2"
+				"activity"	"ACT_MP_STAND_ITEM2"
+			}									
+			"animation"
+			{
+				"name"		"MELEE_ALLCLASS"
+				"activity"	"ACT_MP_STAND_MELEE_ALLCLASS"
+			}
+			"animation"
+			{
+				"name"		"PRIMARY2"
+				"activity"	"ACT_MP_STAND_PRIMARY"
+			}
+			"animation"
+			{
+				"name"		"SECONDARY2"
+				"activity"	"ACT_MP_STAND_SECONDARY2"
+			}
 		}
 
 		"customclassdata"
@@ -572,92 +623,92 @@
 			"Scout"
 			{
 				"fov"		"11"
-				"angles_x"	"-5"
-				"angles_y"	"200"
-				"angles_z"	"0"
-				"origin_x"	"825"
-				"origin_y"	"60"
-				"origin_z"	"-98"
+			"angles_x" "0"
+			"angles_y" "172"
+			"angles_z" "0"
+			"origin_x" "380"	//distancia del modelo
+			"origin_y" "0"
+			"origin_z" "-70"
 			}
 			"Sniper"
 			{
 				"fov"		"12"
-				"angles_x"	"0"
-				"angles_y"	"200"
-				"angles_z"	"0"
-				"origin_x"	"805"
-				"origin_y"	"58"
-				"origin_z"	"-108"
+			"angles_x" "0"
+			"angles_y" "172"
+			"angles_z" "0"
+			"origin_x" "380"	//distancia del modelo
+			"origin_y" "0"
+			"origin_z" "-70"
 			}
 			"Soldier"
 			{
 				"fov"		"13"
-				"angles_x"	"0"
-				"angles_y"	"190"
-				"angles_z"	"0"
-				"origin_x"	"805"
-				"origin_y"	"63"
-				"origin_z"	"-108"
+			"angles_x" "0"
+			"angles_y" "172"
+			"angles_z" "0"
+			"origin_x" "380"	//distancia del modelo
+			"origin_y" "0"
+			"origin_z" "-70"
 			}
 			"Demoman"
 			{
 				"fov"		"13"
-				"angles_x"	"-3"
-				"angles_y"	"200"
-				"angles_z"	"0"
-				"origin_x"	"805"
-				"origin_y"	"63"
-				"origin_z"	"-108"
+			"angles_x" "0"
+			"angles_y" "172"
+			"angles_z" "0"
+			"origin_x" "380"	//distancia del modelo
+			"origin_y" "0"
+			"origin_z" "-70"
 			}
 			"Medic"
 			{
 				"fov"		"13"
-				"angles_x"	"0"
-				"angles_y"	"200"
-				"angles_z"	"0"
-				"origin_x"	"805"
-				"origin_y"	"63"
-				"origin_z"	"-108"
+			"angles_x" "0"
+			"angles_y" "172"
+			"angles_z" "0"
+			"origin_x" "380"	//distancia del modelo
+			"origin_y" "0"
+			"origin_z" "-70"
 			}
 			"Heavy"
 			{
 				"fov"		"13"
-				"angles_x"	"0"
-				"angles_y"	"200"
-				"angles_z"	"0"
-				"origin_x"	"805"
-				"origin_y"	"63"
-				"origin_z"	"-108"
+			"angles_x" "0"
+			"angles_y" "172"
+			"angles_z" "0"
+			"origin_x" "380"	//distancia del modelo
+			"origin_y" "0"
+			"origin_z" "-70"
 			}
 			"Pyro"
 			{
 				"fov"		"13"
-				"angles_x"	"0"
-				"angles_y"	"210"
-				"angles_z"	"0"
-				"origin_x"	"805"
-				"origin_y"	"67"
-				"origin_z"	"-108"
+			"angles_x" "0"
+			"angles_y" "172"
+			"angles_z" "0"
+			"origin_x" "380"	//distancia del modelo
+			"origin_y" "0"
+			"origin_z" "-70"
 			}
 			"Spy"
 			{
 				"fov"		"12"
-				"angles_x"	"-3"
-				"angles_y"	"200"
-				"angles_z"	"0"
-				"origin_x"	"805"
-				"origin_y"	"60"
-				"origin_z"	"-108"
+			"angles_x" "0"
+			"angles_y" "172"
+			"angles_z" "0"
+			"origin_x" "380"	//distancia del modelo
+			"origin_y" "0"
+			"origin_z" "-70"
 			}
 			"Engineer"
 			{
 				"fov"		"12"
-				"angles_x"	"0"
-				"angles_y"	"200"
-				"angles_z"	"0"
-				"origin_x"	"805"
-				"origin_y"	"60"
-				"origin_z"	"-100"
+			"angles_x" "0"
+			"angles_y" "172"
+			"angles_z" "0"
+			"origin_x" "380"	//distancia del modelo
+			"origin_y" "0"
+			"origin_z" "-70"
 			}
 		}
 	}
@@ -1018,7 +1069,7 @@
 		}			
 		"AssistsLabel"
 		{
-			"font"			"Default"
+			"font"			"ItemTrackerScore_InGame"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"rs1-60"
@@ -1029,7 +1080,7 @@
 		}
 		"Assists"
 		{
-			"font"			"Default"
+			"font"			"ItemTrackerScore_InGame"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1042,7 +1093,7 @@
 		}		
 		"DestructionLabel"
 		{	
-			"font"		"Default"
+			"font"		"ItemTrackerScore_InGame"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1057,7 +1108,7 @@
 					
 		"Destruction"
 		{
-			"font"			"Default"
+			"font"			"ItemTrackerScore_InGame"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1071,7 +1122,7 @@
 		"CapturesLabel"
 		{
 
-			"font"		"Default"
+			"font"		"ItemTrackerScore_InGame"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1084,7 +1135,7 @@
 		}						
 		"DefensesLabel"
 		{
-			"font"		"Default"
+			"font"		"ItemTrackerScore_InGame"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1097,7 +1148,7 @@
 		}						
 		"DominationLabel"
 		{
-			"font"		"Default"
+			"font"		"ItemTrackerScore_InGame"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1110,7 +1161,7 @@
 		}						
 		"RevengeLabel"
 		{
-			"font"		"Default"
+			"font"		"ItemTrackerScore_InGame"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1123,7 +1174,7 @@
 		}					
 		"Captures"
 		{
-			"font"			"Default"
+			"font"			"ItemTrackerScore_InGame"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1136,7 +1187,7 @@
 		}						
 		"Defenses"
 		{
-			"font"			"Default"
+			"font"			"ItemTrackerScore_InGame"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1149,7 +1200,7 @@
 		}						
 		"Domination"
 		{
-			"font"			"Default"
+			"font"			"ItemTrackerScore_InGame"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1162,7 +1213,7 @@
 		}						
 		"Revenge"
 		{
-			"font"			"Default"
+			"font"			"ItemTrackerScore_InGame"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1175,7 +1226,7 @@
 		}						
 		"HealingLabel"
 		{
-			"font"		"Default"
+			"font"		"ItemTrackerScore_InGame"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1188,7 +1239,7 @@
 		}					
 		"InvulnLabel"
 		{
-			"font"		"Default"
+			"font"		"ItemTrackerScore_InGame"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1201,7 +1252,7 @@
 		}					
 		"TeleportsLabel"
 		{
-			"font"		"Default"
+			"font"		"ItemTrackerScore_InGame"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1214,7 +1265,7 @@
 		}						
 		"HeadshotsLabel"
 		{
-			"font"		"Default"
+			"font"		"ItemTrackerScore_InGame"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1227,7 +1278,7 @@
 		}						
 		"Healing"
 		{
-			"font"			"Default"
+			"font"			"ItemTrackerScore_InGame"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1240,7 +1291,7 @@
 		}						
 		"Invuln"
 		{
-			"font"			"Default"
+			"font"			"ItemTrackerScore_InGame"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1253,7 +1304,7 @@
 		}						
 		"Teleports"
 		{
-			"font"			"Default"
+			"font"			"ItemTrackerScore_InGame"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1266,7 +1317,7 @@
 		}					
 		"Headshots"
 		{
-			"font"			"Default"
+			"font"			"ItemTrackerScore_InGame"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1279,7 +1330,7 @@
 		}					
 		"BackstabsLabel"
 		{
-			"font"		"Default"
+			"font"		"ItemTrackerScore_InGame"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1292,7 +1343,7 @@
 		}
 		"Backstabs"
 		{
-			"font"			"Default"
+			"font"			"ItemTrackerScore_InGame"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1305,7 +1356,7 @@
 		}		
 		"BonusLabel"
 		{
-			"font"		"Default"
+			"font"		"ItemTrackerScore_InGame"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1318,7 +1369,7 @@
 		}
 		"Bonus"
 		{
-			"font"			"Default"
+			"font"			"ItemTrackerScore_InGame"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1331,7 +1382,7 @@
 		}
 		"SupportLabel"
 		{
-			"font"		"Default"
+			"font"		"ItemTrackerScore_InGame"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1344,7 +1395,7 @@
 		}
 		"Support"
 		{
-			"font"			"Default"
+			"font"			"ItemTrackerScore_InGame"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"

@@ -325,7 +325,7 @@
 		sound_released			"UI/buttonclickrelease.wav"
 		
 		defaultFgColor_override		"W_ColorIcons1"
-		armedFgColor_override		"W_ColorIconsArmed1"
+		armedFgColor_override		"58 35 100 255"
 	
 		paintBackground			0
 

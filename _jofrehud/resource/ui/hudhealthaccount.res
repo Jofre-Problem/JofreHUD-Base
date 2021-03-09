@@ -9,6 +9,6 @@
 		"PositiveColor"			"Green"
 		"NegativeColor"			"255 255 0 255"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"CustomPrimero"
+		"delta_item_font"		"CUstomQuinto"
 	}
 }

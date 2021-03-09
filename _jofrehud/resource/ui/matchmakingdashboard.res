@@ -51,17 +51,12 @@
 		{
 		"ControlName""ImagePanel"
 		"fieldName""SubImage"
-		"xpos""cs-0.5"
-		"ypos""rs1-5"
-		"zpos""1"
-		"wide""14"
-		"tall""14"
-		"visible""0"
-		"enabled""0"
-		"scaleImage""1"
-		"proportionaltoparent""1"
+		"xpos""0"
+		"ypos""0"
+		"zpos""0"
+		"wide""0"
+		"tall""0"
 		"image""glyph_quit"
-		"drawcolor_override" "Tanlight"
 		}
 	}	
 	"ReloadLabel"
@@ -160,10 +155,7 @@
 		"zpos""0"
 		"wide""0"
 		"tall""0"
-		"scaleImage""1"
-		"proportionaltoparent""1"
 		"image""glyph_quit"
-		"drawcolor_override" "Tanlight"
 		}
 	}
 	"StatusLabel"
@@ -210,10 +202,7 @@
 		"zpos""0"
 		"wide""0"
 		"tall""0"
-		"scaleImage""1"
-		"proportionaltoparent""1"
 		"image""glyph_quit"
-		"drawcolor_override" "Tanlight"
 		}
 	}	
 	"TopBar"

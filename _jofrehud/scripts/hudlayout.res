@@ -152,6 +152,8 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
+		"xpos"					"cs-0.5+10"
+		"ypos"					"c50"
 		"wide"					"50"
 		"tall"  				"45"
 		"visible" 				"1"
@@ -493,10 +495,10 @@
 	}
 	HudStalemate
 	{
-		"xpos"					"cs-0.5"
-		"ypos"					"65"
+		"xpos"					"0"
+		"ypos"					"0"
 		"wide"					"f0"
-		"tall"					"f0"
+		"tall"					"200"
 	}
 	HudBossHealth
 	{
