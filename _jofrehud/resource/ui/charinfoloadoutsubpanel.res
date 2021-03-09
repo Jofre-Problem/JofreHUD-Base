@@ -34,6 +34,14 @@
 		"tall""o1"
 		"party_slot"	"0"
 	}
+	"DownBar"
+	{
+		yPos					rs1+3
+	}
+	"QuitBar"		
+	{
+		yPos					rs1+3
+	}	
 	"Pantalla"
 	{
 		"ControlName"	"EditablePanel"
@@ -53,39 +61,37 @@
 			FieldName				"Conservador"
 			xPos					0
 			yPos					0
-			zPos					0
+			zPos					-2
 			wide					f0
 			tall					f0
 			image					"../console/background_upward"
 			"scaleimage"			"1"
-		}		
-	}	
-	"Pantalla2"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldname"		"Pantalla2"
-		"xpos"			"rs1"
-		"ypos"			"0"
-		"zpos"			"5"
-		"wide"			"250"
-		"tall"			"f0"
-		"visible"		"0"
-
-		"border"		"NoBorder"
-
-		"Left"				
+		}
+		"BGBG2"				
 		{
 			ControlName				ImagePanel
-			FieldName				"Left"
-			xPos					-250
+			FieldName				"BGBG2"
+			xPos					0
+			yPos					0
+			zPos					20
+			wide					f0
+			tall					f0
+			fillcolor				"W_ColorTheme4"
+			"alpha"					"50"
+		}					
+	}	
+		"BGBG"				
+		{
+			ControlName				ImagePanel
+			FieldName				"BGBG"
+			xPos					42
 			yPos					0
 			zPos					0
 			wide					f0
 			tall					f0
-			image					"../console/background_upward"
-			"scaleimage"			"1"
-		}		
-	}							
+			fillcolor				"W_ColorTheme1"
+			"alpha"					"230"
+		}							
 	// #region CLASS BUTTONS 
 	// #endregion
 	"ScoutButton"			// other classes pinned to this
