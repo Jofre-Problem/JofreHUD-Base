@@ -2,7 +2,8 @@
 #base "../#jofre/downbar.res"
 //#base "../#jofre/home.res"
 //#base "../#jofre/new_mm_panel1.res"
-//#base "../#jofre/v2/blur_bg.res"
+//#base "../#jofre/blur_bg.res"
+//#base "../#jofre/efecto-optico.res"
 //#base "../#jofre/socialmedia.res"
 //#base "../../#jofre/partymembers.res"
 #base "../../_customization/resource/ui/summersale_border.res"
@@ -32,49 +33,73 @@
 		"wide""42"
 		"tall""o1"
 		"party_slot"	"0"
-	}		
-		"ImprovisedBG2"				// 
+	}
+	"Pantalla"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldname"		"Pantalla"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"5"
+		"wide"			"42"
+		"tall"			"f0"
+		"visible"		"1"
+
+		"border"		"NoBorder"
+
+		"Conservador"				
 		{
 			ControlName				ImagePanel
-			FieldName				"ImprovisedBG2"
+			FieldName				"Conservador"
 			xPos					0
 			yPos					0
-			zPos					-2
-			wide					f0
-			tall					140
-			fillColor				"W_ColorTheme2"		// hides console and stuff
-			//"fillColor"				"W_ColorTheme4"
-			"alpha"					"250"
-			mouseInputEnabled			0			// mouse input passes though to panels below
-		}	
-		"ImprovisedBG3"				// 
-		{
-			ControlName				ImagePanel
-			FieldName				"ImprovisedBG3"
-			xPos					0
-			yPos					140
-			zPos					-2
+			zPos					0
 			wide					f0
 			tall					f0
-			fillColor				"W_ColorTheme4"		// hides console and stuff
-			//"fillColor"				"W_ColorTheme4"
-			"alpha"					"200"
-			mouseInputEnabled			0			// mouse input passes though to panels below
-		}			
+			image					"../console/background_upward"
+			"scaleimage"			"1"
+		}		
+	}	
+	"Pantalla2"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldname"		"Pantalla2"
+		"xpos"			"rs1"
+		"ypos"			"0"
+		"zpos"			"5"
+		"wide"			"250"
+		"tall"			"f0"
+		"visible"		"0"
+
+		"border"		"NoBorder"
+
+		"Left"				
+		{
+			ControlName				ImagePanel
+			FieldName				"Left"
+			xPos					-250
+			yPos					0
+			zPos					0
+			wide					f0
+			tall					f0
+			image					"../console/background_upward"
+			"scaleimage"			"1"
+		}		
+	}							
 	// #region CLASS BUTTONS 
 	// #endregion
 	"ScoutButton"			// other classes pinned to this
 	{
 		ControlName				CExButton
 		fieldName				"ScoutButton"
-		xpos					35
-		ypos					rs1
+		xpos					0
+		ypos					50
 		zpos					1051
 		wide					42
-		tall					p0.045
+		tall					o1
 
 		labelText				"a"
-		font					"NewIcons18"
+		font					"NewIcons25"
 		textAlignment			center
 		textinsety				-2		// tune icon position
 
@@ -97,10 +122,9 @@
 		ypos					0
 		zpos					1051
 		wide					42
-		tall					p0.045
-
+		tall					o1
 		labelText				"b"
-		font					"NewIcons18"
+		font					"NewIcons25"
 		textAlignment			center
 		
 		Command				"loadout soldier"
@@ -114,8 +138,8 @@
 		paintbackground 			0
 		
 		pin_to_sibling 			"ScoutButton"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}
 	
 	"PyroButton"
@@ -126,10 +150,10 @@
 		ypos					0
 		zpos					1051
 		wide					42
-		tall					p0.045
+		tall					o1
 
 		labelText				"c"
-		font					"NewIcons18"
+		font					"NewIcons25"
 		textAlignment			center
 
 		Command				"loadout pyro"
@@ -143,8 +167,8 @@
 		paintbackground 			0
 		
 		pin_to_sibling 			"SoldierButton"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}
 	
 	"DemomanButton"
@@ -155,10 +179,10 @@
 		ypos					0
 		zpos					1051
 		wide					42
-		tall					p0.045
+		tall					o1
 
 		labelText				"d"
-		font					"NewIcons18"
+		font					"NewIcons25"
 		textAlignment			center
 		
 		Command				"loadout demoman"
@@ -172,8 +196,8 @@
 		paintbackground 			0
 
 		pin_to_sibling 			"PyroButton"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}
 	
 	"HeavyButton"
@@ -184,10 +208,10 @@
 		ypos					0
 		zpos					1051
 		wide					42
-		tall					p0.045
+		tall					o1
 
 		labelText				"e"
-		font					"NewIcons18"
+		font					"NewIcons25"
 		textAlignment			center
 		
 		Command						"loadout heavy"
@@ -201,8 +225,8 @@
 		paintbackground 			0
 
 		pin_to_sibling 			"DemomanButton"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}
 	
 	"EngineerButton"
@@ -213,10 +237,10 @@
 		ypos					0
 		zpos					1051
 		wide					42
-		tall					p0.045
+		tall					o1
 		
 		labelText				"f"
-		font					"NewIcons18"
+		font					"NewIcons25"
 		textAlignment			center
 		
 		Command				"loadout engineer"
@@ -230,8 +254,8 @@
 		paintbackground 			0
 
 		pin_to_sibling 			"HeavyButton"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}
 	
 	"MedicButton"
@@ -242,10 +266,10 @@
 		ypos					0
 		zpos					1051
 		wide					42
-		tall					p0.045
+		tall					o1
 		
 		labelText				"g"
-		font					"NewIcons18"
+		font					"NewIcons25"
 		textAlignment			center
 		
 		Command				"loadout medic"
@@ -259,8 +283,8 @@
 		paintbackground 			0
 		
 		pin_to_sibling 			"EngineerButton"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}
 	
 	"SniperButton"
@@ -271,10 +295,10 @@
 		ypos					0
 		zpos					1051
 		wide					42
-		tall					p0.045
+		tall					o1
 
 		labelText				"h"
-		font					"NewIcons18"
+		font					"NewIcons25"
 		textAlignment			center
 		
 		Command						"loadout sniper"
@@ -288,8 +312,8 @@
 		paintbackground 			0
 		
 		pin_to_sibling 			"MedicButton"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}
 	
 	"SpyButton"
@@ -300,10 +324,10 @@
 		ypos					0
 		zpos					1051
 		wide					42
-		tall					p0.045
+		tall					o1
 
 		labelText				"i"
-		font					"NewIcons18"
+		font					"NewIcons25"
 		textAlignment			center
 
 		Command				"loadout spy"
@@ -317,8 +341,8 @@
 		paintbackground 			0
 		
 		pin_to_sibling 			"SniperButton"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}
 
 	// #endregion
@@ -333,9 +357,9 @@
 		ypos					0
 		zpos					1051
 		wide					42
-		tall					p0.045
+		tall					o1
 		
-		font					"NewIcons18"
+		font					"NewIcons25"
 		labelText				"["
 		textAlignment			center
 
@@ -349,8 +373,8 @@
 			defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"W_ColorIconsArmed1"
 		pin_to_sibling 			"CraftingButton"
-		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"					"PIN_TOPLEFT"		
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT	
 	}
 	
 	"CraftingButton"
@@ -361,9 +385,9 @@
 		ypos					0
 		zpos					1051
 		wide					42
-		tall					p0.045
+		tall					o1
 		
-		font					"NewIcons18"
+		font					"NewIcons25"
 		labelText				"À"
 		textAlignment			center
 
@@ -378,8 +402,8 @@
 		paintbackground			0
 		
 		pin_to_sibling 			"ArmoryButton"
-		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"					"PIN_TOPLEFT"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}
 	
 	"ArmoryButton"
@@ -390,9 +414,9 @@
 		ypos					0
 		zpos					1051
 		wide					42
-		tall					p0.045
+		tall					o1
 		
-		font					"NewIcons18"
+		font					"NewIcons25"
 		labelText				"Á"
 		textAlignment			center
 		
@@ -407,8 +431,8 @@
 		paintbackground			0
 
 		pin_to_sibling 			"PaintsButton"
-		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"					"PIN_TOPLEFT"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}
 	
 	"PaintsButton"
@@ -419,9 +443,9 @@
 		ypos					0
 		zpos					1051
 		wide					42
-		tall					p0.045
-
-		font					"NewIcons18"
+		tall					o1
+		
+		font					"NewIcons25"
 		labelText				"Â"
 		textAlignment			center
 
@@ -436,8 +460,8 @@
 		paintbackground			0
 
 		pin_to_sibling 			"TradeButton"
-		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"					"PIN_TOPLEFT"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}
 	
 	"TradeButton"
@@ -445,12 +469,12 @@
 		ControlName				CExButton
 		fieldName				"TradeButton"
 		xpos					rs1
-		ypos					rs1
+		ypos					100
 		zpos					1051
 		wide					42
-		tall					p0.045
-				
-		font					"NewIcons18"
+		tall					o1
+		
+		font					"NewIcons25"
 		labelText				"Ã"
 		textAlignment			center
 
@@ -477,7 +501,7 @@
 		ypos					0
 		zpos					5
 		wide					f0
-		tall					450		//  411 parent's height
+		tall					480		//  411 parent's height
 		//proportionaltoparent	1	// requires reload on launch
 		visible				0
 

@@ -1,6 +1,6 @@
 #base "../#bases/reload_scheme.res"
 //#base "../#jofre/downbar.res"
-#base "../#jofre/charbg.res"
+//#base "../#jofre/charbg.res"
 #base "../#jofre/home.res"
 "Resource/UI/CharInfoPanel.res"
 {
@@ -44,7 +44,20 @@
 		labelText			"&E"
 		Command			"close"
 	}
-	
+	"Back"
+	{
+	"ControlName"			"CExLabel"
+	"fieldName"				"Back"
+	"font"					"CustomCuarto"
+	"labelText"				"Back (&E)"
+	"textAlignment"			"west"
+	"xpos"			"5"
+	"ypos"			"rs1"
+	"zpos"			"2000"
+	"wide"			"150"
+	"tall"			"p0.0525"
+	"fgcolor_override" "W_ColorIcons1"
+	}	
 
 	// #region CONTENT 
 

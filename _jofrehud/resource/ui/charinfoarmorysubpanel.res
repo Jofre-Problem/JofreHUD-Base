@@ -14,9 +14,9 @@
 
 		// Model panels
 		
-		thumbnail_bgcolor			"W_ColorTheme2"
-		thumbnail_bgcolor_mouseover	"W_ColorTheme4"
-		thumbnail_bgcolor_selected	"W_ColorLinea1"
+		thumbnail_bgcolor			"Blank"
+		thumbnail_bgcolor_mouseover	"Blank"
+		thumbnail_bgcolor_selected	"Blank"
 		
 		thumbnails_rows			4
 		thumbnails_columns		4
@@ -66,7 +66,7 @@
 		zpos					-1
 		wide					290
 		tall					223
-		fillColor				"W_ColorTheme2"
+		fillColor				"Blank"
 	}
 	"CaratLabel"
 	{

@@ -4,14 +4,14 @@
 	{
 		ControlName				CExButton
 		fieldName				"BackButton"
-		xpos					5
-		yPos					rs1-3
+		xpos					0
+		yPos					rs1-25
 		zPos					1051
-		wide					25
-		tall					16
+		wide					42
+		tall					o1
 		"pinCorner"		"0"
 		labelText				"ï"
-		font					"NewIcons15"
+		font					"NewIcons25"
 		textAlignment			center
 
 		Command				"close"			// "Unknown command close" but it works
@@ -28,18 +28,19 @@
 	{
 		ControlName			CExLabel
 		fieldName			"HomeReference"
-		xpos					5
-		yPos					rs1-3
+		xpos					0
+		yPos					0
 		zPos					1050
-		wide					25
-		tall					16
+		wide					42
+		tall					o1
 		
 		"pinCorner"		"0"
 		labelText				"î"
-		font					"NewIcons15"
+		font					"NewIcons25"
 		textAlignment			center
 
 		fgcolor_override	"W_ColorIcons1"
 		paintbackground	0
+		"pin_to_sibling"		"BackButton"
 	}		
 }

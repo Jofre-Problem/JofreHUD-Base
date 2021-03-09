@@ -1,14 +1,15 @@
 #base "../#bases/reload_scheme.res"
 #base "../#jofre/loadout_explanation.res"
-#base "../#jofre/loadout_bg.res"
+//#base "../#jofre/loadout_bg.res"
 #base "base/classloadoutpanel.res"
+//#base "../#jofre/blur_bg.res"
 "Resource/UI/FullLoadoutPanel.res"
 {
-		"ClassLabel"
-		{
-			"wide"					0
-			"tall"					0
-		}			
+	//	"ClassLabel"
+	//	{
+	//		"wide"					0
+	//		"tall"					0
+	//	}			
 	// ---		
 		
 	"class_loadout_panel"
@@ -169,7 +170,7 @@
 	{
 		ControlName					CExButton
 		fieldName					"CharacterLoadoutButton"
-		xpos							rs1-45		// align with preset C
+		xpos							cs-0.5-16		// align with preset C
 		ypos							cs-5.9
 		zpos							2
 		wide							25
@@ -198,7 +199,7 @@
 	{
 		ControlName					CExButton
 		fieldName					"TauntLoadoutButton"
-		xpos							rs1-12		// align with preset C
+		xpos							cs-0.5+12		// align with preset C
 		ypos							cs-5.9
 		zpos							2
 		wide							25
@@ -222,37 +223,24 @@
 		defaultBgColor_override 	"W_ColorTheme1"
 		armedBgColor_override 		"W_BorderArmed"
 	}
-	"RedBluePanel"
-	{
-		"ControlName"		"EditablePanel"
-		"fieldName"		"RedBluePanel"
-		"xpos"			"rs1-5"
-		"ypos"			"110"
-		"zpos"			"0"
-		"wide"			"p0.085"
-		"tall"			"25"
-		"tabPosition"	"1"	
-		"bgcolor_override"		"W_ColorTheme1"
-		"PaintBackgroundType"	"2"
-	}	
 	"RedTeamButton"
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"RedTeamButton"
-		"xpos"				"rs1-47"
-		"ypos"				"cs-4.84"
-		"zpos"				"30"
+		"xpos"				"rs1-157"
+		"ypos"				"15"
+		"zpos"				"4000"
 		"wide"				"20"
-		"tall"				"20"
-		"autoResize"		"1"
-		"pinCorner"			"2"
+		"tall"				"13"
+		"autoResize"		"0"
+		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"O"
 		"textAlignment"		"center"
 		"scaleImage"		"1"
-		"font"				"NewIcons18"
+		"font"				"NewIcons10"
 		"command"			"sv_cheats 1; r_skin 0"
 		"fgcolor"					"red"
 		"defaultFgColor_override" 	"red"
@@ -264,38 +252,38 @@
 		"paintbackground"		"0"
 		"paintbackgroundtype"	"0"
 		"defaultBgColor_Override"	"0 0 0 0"
-		"paintborder"		"0"	
+		"paintborder"		"0"		
 	}	
 	"BlueTeamButton"
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"BlueTeamButton"
-		"xpos"				"rs1-15"
-		"ypos"				"cs-4.84"
-		"zpos"				"30"
+		"xpos"				"rs1-125"
+		"ypos"				"15"
+		"zpos"				"4000"
 		"wide"				"20"
-		"tall"				"20"
-		"autoResize"		"1"
-		"pinCorner"			"2"
+		"tall"				"13"
+		"autoResize"		"0"
+		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"O"
 		"textAlignment"		"center"
 		"scaleImage"		"1"
-		"font"				"NewIcons18"
+		"font"				"NewIcons10"
 		"command"			"sv_cheats 1; r_skin 1"
-		"fgcolor"					"blue"
-		"defaultFgColor_override" 	"blue"
-		"armedFgColor_override"		"0 0 255 150"
-		"depressedFgColor_override" "0 0 255 150"
+		"fgcolor"					"0 32 255 255"
+		"defaultFgColor_override" 	"0 32 255 255"
+		"armedFgColor_override"		"0 32 255 150"
+		"depressedFgColor_override" "0 32 255 150"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"keyboardinputenabled"	"0"
 		"paintbackground"		"0"
 		"paintbackgroundtype"	"0"
 		"defaultBgColor_Override"	"0 0 0 0"
-		"paintborder"		"0"		
+		"paintborder"		"0"			
 	}	
 	"ItemOptionsPanel"
 	{
@@ -346,7 +334,7 @@
 		"font"			"ItemFontAttribLarge"
 		"xpos"			"c-135"
 		"ypos"			"120"
-		"zpos"			"0"	
+		"zpos"			"20"	
 		"wide"			"270"
 		"tall"			"240"
 		"autoResize"	"0"
