@@ -28,7 +28,7 @@
 		{
 			"visible"		"0"
 			"wide"			"25"
-			"tall"			"50"
+			"tall"			"18"
 			"zpos"			"1"
 
 			"color_portrait_bg_red"				"162 64 63 205"
@@ -47,7 +47,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playername"
-				"font"			"Default"
+				"font"			"ItemTrackerScore_InGame"
 				"xpos"			"1"
 				"ypos"			"-1"
 				"zpos"			"8"
@@ -63,7 +63,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playernameshadow"
-				"font"			"Default"
+				"font"			"ItemTrackerScore_InGame"
 				"xpos"			"1"
 				"ypos"			"0"
 				"zpos"			"7"
@@ -84,8 +84,8 @@
 				"xpos"			"cs-0.5"
 				"ypos"			"7"
 				"zpos"			"7"
-				"wide"			"18"
-				"tall"			"18"
+				"wide"			"11"
+				"tall"			"o1"
 				"visible"		"1"
 				"enabled"		"1"
 				"image"			"../hud/class_scoutred"
@@ -105,7 +105,7 @@
 				"enabled"		"1"
 				"PaintBackgroundType"	"0"
 				"proportionaltoparent"	"1"
-				"bgcolor_override"		"20 20 20 220"
+				"bgcolor_override"		"20 20 20 150"
 			}
 			"classimagebg"
 			{

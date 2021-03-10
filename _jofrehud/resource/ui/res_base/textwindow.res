@@ -6,7 +6,7 @@
 //#base "../../#jofre/socialmedia.res"
 #base "../base/1shadedbar.res"
 #base "../base/1menubg.res"
-#base "../../#jofre/downbar.res"
+//#base "../../#jofre/downbar.res"
 "Resource/UI/TextWindow.res"
 {
 	"ActiveTimerBG"
@@ -20,7 +20,7 @@
 		"tall"				"f0"
 		"visible"			"1"
 		"enabled"			"1"
-		"fillcolor"				"0 0 0 200"
+		"fillcolor"				"0 0 0 0"
 	}
 	"info"
 	{
@@ -37,7 +37,7 @@
 		"tabPosition"			"0"
 		"settitlebarvisible"	"0"
 		"paintbackground"		"0"
-		"bgcolor_override"		"0 0 0 200"
+		"bgcolor_override"		"0 0 0 0"
 	}
 	
 	"TFMessageTitle"
