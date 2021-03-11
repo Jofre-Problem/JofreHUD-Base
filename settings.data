@@ -100,12 +100,6 @@ GlobalComboBox("MAIN MENU Preload", "MAIN MENU Preload")
 }
 
 
-[Name:Blur Main Fonts, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
-GlobalComboBox("Blur Main Fonts", "Blur Main Fonts")
-{
-	Disabled (Def Shadow)
-	Blur on
-}
 [Name:Font Name Select, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
 GlobalComboBox("Font Name Select", "Font Name Select")
 {

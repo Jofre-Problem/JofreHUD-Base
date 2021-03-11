@@ -1,22 +1,14 @@
+#base "../../#uni_base/filesv1/summarylabel/main.res"
 "AddOns/Hearts/HeartsSetupDialog.res"
 {
 	"SummaryLabel"
 	{
-		"ControlName"		"Label"
-		"fieldName"		"SummaryLabel"
 		"xpos"		"360"
 		"ypos"		"25"
 		"wide"		"200"
 		"tall"		"48"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
 		"tabPosition"		"0"
 		"labelText"		"#SteamAddOn_ReviewMoves"
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
 	}
 	"MoveHistoryPanel"
 	{

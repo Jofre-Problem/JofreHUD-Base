@@ -2,6 +2,13 @@ Scheme
 {
 	Fonts
 	{
+		"CustomNovenoBlur"
+		{
+			"1"
+			{
+			"blur"		"2"
+			}
+		}	
 		"CustomOctavoBlur"
 		{
 			"1"

@@ -1,3 +1,4 @@
+#base "../../#uni_base/filesv1/overlay/ov_main.res"
 "slideshow_display_screen.res"
 {	
 // SLIDESHOW IMAGE

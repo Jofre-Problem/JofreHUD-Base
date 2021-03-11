@@ -1,14 +1,9 @@
+#base "../../../../#uni_base/filesv1/image/main.res"
+#base "../../../../#uni_base/filesv1/image/main_vis1.res"
 "Resource/training/basictraining/classpanel.res"
 {
 	"Image"
 	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"Image"
-		"visible"		"1"
-		"enabled"		"1"
-		"tileImage"		"0"
-		"scaleImage"	"1"
-		"image"			"illustrations/training_basic"
 	}	
 
 	"SelectButton"

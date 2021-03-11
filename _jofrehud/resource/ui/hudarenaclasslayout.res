@@ -1,28 +1,16 @@
+#base "../../#uni_base/filesv1/background/ctf/image2.res"
+#base "../../#uni_base/filesv1/background/bg_is_ctf.res"
+#base "../../#uni_base/filesv1/background/bg_auto.res"
+#base "../../#uni_base/filesv1/background/bg_main.res"
+#base "../../#uni_base/filesv1/background/bg_pincorner.res"
+#base "../../#uni_base/filesv1/background/bg_scale.res"
+#base "../../#uni_base/filesv1/background/bg_vis1.res"
 "Resource/UI/HudArenaClassLayout.res"
 {
 	"background"
 	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"background"
-		"xpos"			"c-100"
-		"ypos"			"130"
-		"zpos"			"1"
 		"wide"			"0"
 		"tall"			"0"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../hud/color_panel_blu"
-		"scaleImage"	"1"	
-		"teambg_2"		"../hud/color_panel_red"
-		"teambg_3"		"../hud/color_panel_blu"
-			
-		"src_corner_height"		"23"			// pixels inside the image
-		"src_corner_width"		"23"
-				
-		"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"	
 	}
 	
 	"localPlayerBG"
