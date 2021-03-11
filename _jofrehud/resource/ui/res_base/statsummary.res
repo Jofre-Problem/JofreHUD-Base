@@ -8,31 +8,23 @@
 		"fieldName"	"TFStatsSummary"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"3000"
-		"wide"			"p2"
+		"zpos"			"1"
+		"wide"			"f0"
 		"tall"			"458"
 		"visible"		"1"
-	}
-	"SecondaryBarBG"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"SecondaryBarBG"
-		"xpos"				"0"
-		"ypos"				"0"
-		"zpos"				"0"
-		"wide"				"f0"
-		"tall"				"480"
-		"fillcolor"			"W_ColorTheme4"
 	}
 
 	"MainBackground"
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"MainBackground"
-		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"0"
-		"tall"			"0"
+			xPos					0
+			yPos					0
+			zPos					-2
+			wide					f0
+			tall					f0
+			image					"../console/background_upward"
+			"scaleimage"			"1"
 	}	
 	
 	"MapInfo"

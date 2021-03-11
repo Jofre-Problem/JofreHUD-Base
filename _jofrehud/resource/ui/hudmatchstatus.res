@@ -125,7 +125,7 @@
 			"font"			"CustomPrimero"
 			"fgcolor"		"TanLight"
 			"xpos"			"23"
-			"ypos"			"5"
+			"ypos"			"2"
 			"zpos"			"3"
 			"wide"			"45"
 			"tall"			"31"
@@ -139,7 +139,7 @@
 				"proportionaltoparent"	"1"
 
 				"xpos"			"cs-0.5"
-				"ypos"			"10"
+				"ypos"			"2"
 				"tall"			"10"
 				"font"			"CustomPrimero"
 				"font_minbad"	"CustomPrimero"

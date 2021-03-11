@@ -45,7 +45,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"ReasonLabel"
-		"font"			"CustomPrimero"
+		"font"			"ItemTrackerScore_InGame"
 		"xpos"			"cs-0.5"
 		"ypos"			"48"
 		"zpos"			"2"

@@ -27,13 +27,13 @@
 		"tall"	 "p0.6"
 
 		"MaxDeathNotices" "8" // 1 KF
-		"IconScale"		"0.3"
-		"LineHeight"	"16" // 3 KF
+		"IconScale"		"0.1"
+		"LineHeight"	"12" // 3 KF
 		"LineSpacing"	"1" // 4 KF
 		"CornerRadius"	"0" // 2 KF
 		"RightJustify"	"1"	// If 1, draw notices from the right
 		
-		"TextFont"		"HudFontSmall"
+		"TextFont"		"MenuKeys"
 		
 		"TeamBlue"		"G_KillfeedBlue"
 		"TeamRed"		"G_KillfeedRed"
