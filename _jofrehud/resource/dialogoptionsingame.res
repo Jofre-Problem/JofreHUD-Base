@@ -1,4 +1,7 @@
 #base "#bases/buildmode_base.res"
+#base "../friends/base/infotext_main.res"
+#base "../friends/base/infotext_autoresize.res"
+#base "../friends/base/infotext_enabled.res"
 "Resource/DialogOptionsIngame.re"
 {
 	"OptionsDialog"
@@ -14,22 +17,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-	}
-	"InfoText"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"InfoText"
-		"xpos"		"0"
-		"ypos"		"0"
-		"wide"		"64"
-		"tall"		"28"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"labelText"		"#GameUI_InfoText"
-		"textAlignment"		"center"
 	}
 	"CloseButton"
 	{
