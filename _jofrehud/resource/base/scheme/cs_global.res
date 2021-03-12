@@ -1,6 +1,7 @@
 #base "cs_windows.res"
 #base "font/default.res"
 #base "cs_global_tf.res"
+#base "../bs/frame_time.res"
 Scheme
 {
 	BaseSettings
@@ -43,8 +44,7 @@ Scheme
 		FrameTitleButton.BgColor		"Blank"
 		FrameTitleButton.DisabledFgColor	"255 255 255 192"
 		FrameTitleButton.DisabledBgColor	"Blank"
-		Frame.FocusTransitionEffectTime	"0.25"
-		Frame.TransitionEffectTime		"0.25"
+
 	//	Frame.AutoSnapRange				"0"
 	//	FrameSystemButton.FgColor		"Blank"
 	//	FrameSystemButton.BgColor		"Blank"

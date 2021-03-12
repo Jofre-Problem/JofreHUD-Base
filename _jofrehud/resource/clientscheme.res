@@ -65,8 +65,6 @@ Scheme
 
 		Frame.BgColor										"TransparentBlack"
 		Frame.OutOfFocusBgColor								"TransparentBlack"
-		Frame.FocusTransitionEffectTime	"0.2"			// time it takes for a window to fade in/out on focus/out of focus
-		Frame.TransitionEffectTime		"0.2"				[$WIN32]	// time it takes for a window to fade in/out on open/close
 		FrameGrip.Color1									"Blank"
 		FrameGrip.Color2									"Blank"
 		FrameTitleButton.FgColor							"Blank"

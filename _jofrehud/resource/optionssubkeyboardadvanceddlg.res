@@ -1,0 +1,5 @@
+#base "../#uni_base/filesv1/button2/main.res"
+#base "../#uni_base/filesv1/button2/wide_80.res"
+#base "../#uni_base/filesv1/button2/label/gameui-cancel.res"
+#base "../#uni_base/filesv1/button2/def/is-0.res"
+#base "../#uni_base/filesv1/button2/def/command-close.res"

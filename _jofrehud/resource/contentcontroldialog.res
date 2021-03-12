@@ -1,6 +1,7 @@
 #base "#bases/buildmode_base.res"
 #base "#bases/1okbutton.res"
-"Resource\ContentControlDialog.r"
+#base "base/password.res"
+"Resource\ContentControlDialog.res"
 {
 	"ContentControlDialog"
 	{
@@ -83,23 +84,6 @@
 		"labelText"		""
 		"textAlignment"		"west"
 		"dulltext"		"0"
-	}
-	"Password"
-	{
-		"ControlName"		"TextEntry"
-		"fieldName"		"Password"
-		"xpos"		"32"
-		"ypos"		"98"
-		"wide"		"166"
-		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"1"
-		"textHidden"		"1"
-		"editable"		"1"
-		"maxchars"		"-1"
 	}
 	"Password2"
 	{

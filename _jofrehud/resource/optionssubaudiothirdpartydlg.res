@@ -1,5 +1,10 @@
 #base "../#uni_base/filesv1/label1/label1_main.res"
 #base "../#uni_base/filesv1/label1/label1_autoresize.res"
+#base "../#uni_base/filesv1/button2/main.res"
+#base "../#uni_base/filesv1/button2/wide_80.res"
+#base "../#uni_base/filesv1/button2/label/gameui-close.res"
+#base "../#uni_base/filesv1/button2/def/is-1.res"
+#base "../#uni_base/filesv1/button2/def/command-close.res"
 "resource/OptionsSubAudioThirdPartyDlg.res"
 {
 	"Label1"
@@ -55,27 +60,6 @@
 		"brighttext"		"0"
 		"font"		"DefaultSmall"
 		"wrap"		"0"
-	}
-	"Button2"
-	{
-		"ControlName"		"Button"
-		"fieldName"		"Button2"
-		"xpos"		"400"
-		"ypos"		"170"
-		"wide"		"80"
-		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"1"
-		"labelText"		"#GameUI_Close"
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"wrap"		"0"
-		"Command"		"Close"
-		"Default"		"1"
 	}
 	"BinkImage"
 	{

@@ -19,11 +19,6 @@ Scheme
 	    "TFTextBlack"               "42 39 37 255"
 	    "TFMediumBrown"				"69 64 58 255"
 	}	
-	BaseSettings
-	{
-		Frame.FocusTransitionEffectTime	"0.25"	// time it takes for a window to fade in/out on focus/out of focus
-		Frame.TransitionEffectTime		"0.25"	
-	}
 	
 	Fonts
 	{
