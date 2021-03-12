@@ -1,18 +1,6 @@
+#base "../../#uni_base/filesv2/confirmdialog/main.res"
 "Resource/UI/YouTubeUploadDialog.res"
 {
-	"ConfirmDialog"
-	{
-		"ControlName"		"Frame"
-		"fieldName"		"ConfirmDialog"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"settitlebarvisible"	"0"
-		"PaintBackgroundType"	"0"
-	}
-	
 	"TitleLabel"
 	{
 		"ControlName"	"CExLabel"

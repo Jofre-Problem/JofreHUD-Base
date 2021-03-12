@@ -1,20 +1,16 @@
+#base "../../../#uni_base/filesv2/confirmdialog/main.res"
+#base "../../#uni_base/filesv2/confirmdialog/x_pos/cen_-162.res"
+#base "../../#uni_base/filesv2/confirmdialog/y_pos/_140.res"
+#base "../../#uni_base/filesv2/confirmdialog/tall_/_200.res"
+
 "Resource/UI/ConfirmDialog.res"
 {
 	"ConfirmDialog"
 	{
-		"ControlName"		"Frame"
-		"fieldName"		"ConfirmDialog"
-		"xpos"			"c-162"
+	//	"xpos"			"c-162"
 		"ypos"			"140"
 		"wide"			"324"
-		"tall"			"200"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"settitlebarvisible"	"0"
-		"PaintBackgroundType"	"0"
+	//	"tall"			"200"
 		"paintbackground"		"1"
 		"bgcolor_override"	"Econ.Dialog.BgColor"
 	}
