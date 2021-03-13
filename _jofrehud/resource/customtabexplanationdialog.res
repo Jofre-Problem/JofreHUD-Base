@@ -1,5 +1,5 @@
 #base "#bases/buildmodedialog_base.res"
-#base "#bases/baseaction_frames.res"
+#base "../#uni_base/filesv1/grip_/frames/main.res"
 "Resource/CustomTabExplanationDialog.res"
 {
 	"CustomTabExplanationDialog"

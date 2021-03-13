@@ -1,4 +1,4 @@
-#base "#bases/baseaction_frames.res"
+#base "../#uni_base/filesv1/grip_/frames/main.res"
 "resource/sfm_setprogressiverefinementdialog.res"
 {
 	"ProgressiveRefinementSettings"

@@ -1,4 +1,6 @@
-#base "#bases/baseaction_top.res"
+#base "../#uni_base/filesv1/top_bottom_horiz_left/main.res"
+#base "../#uni_base/filesv1/top_bottom_horiz_left/main2.res"
+#base "../#uni_base/filesv1/top_bottom_horiz_left/content/main2.res"
 "Resource/CreateMultiplayerGameG"
 {
 	"GameOptions"
@@ -14,37 +16,5 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-	}
-	"topHorizLeft"
-	{
-		"xpos"		"-6"
-		"ypos"		"-10"
-		"wide"		"22"
-		"tall"		"24"
-		"labelText"		"10"
-	}
-	"topVertLeft"
-	{
-		"xpos"		"-8"
-		"ypos"		"-7"
-		"wide"		"22"
-		"tall"		"24"
-		"labelText"		"10"
-	}
-	"bottomHorizRight"
-	{
-		"xpos"		"486"
-		"ypos"		"276"
-		"wide"		"22"
-		"tall"		"24"
-		"labelText"		"10"
-	}
-	"bottomVertRight"
-	{
-		"xpos"		"492"
-		"ypos"		"273"
-		"wide"		"22"
-		"tall"		"24"
-		"labelText"		"10"
 	}
 }

@@ -1,4 +1,5 @@
-#base "#bases/baseaction_top.res"
+#base "../#uni_base/filesv1/top_bottom_horiz_left/main.res"
+#base "../#uni_base/filesv1/top_bottom_horiz_left/main2.res"
 "Resource\OptionsSubVoice.res"
 {
 	"MicMeter"
@@ -141,30 +142,6 @@
 		"associate"		"VoiceReceive"
 		"dulltext"		"0"
 		"brighttext"		"0"
-	}
-	"topHorizLeft"
-	{
-		"xpos"		"13"
-		"ypos"		"163"
-		"labelText"		"40"
-	}
-	"topVertLeft"
-	{
-		"xpos"		"22"
-		"ypos"		"80"
-		"labelText"		"176"
-	}
-	"bottomHorizRight"
-	{
-		"xpos"		"321"
-		"ypos"		"197"
-		"labelText"		"176"
-	}
-	"bottomVertRight"
-	{
-		"xpos"		"160"
-		"ypos"		"248"
-		"labelText"		"176"
 	}
 	"TestMicrophone"
 	{

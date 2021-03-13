@@ -1,16 +1,6 @@
-#base "#bases/baseaction_grip.res"
-#base "#bases/baseaction_sys.res"
-#base "#bases/1okbutton.res"
-"resource\BaseActionPlaySoundStartDialog.res"
-{
-	"OK"
-	{
-		"xpos"		"16"
-		"ypos"		"146"
-	}
-	"Cancel"
-	{
-		"xpos"		"86"
-		"ypos"		"146"
-	}	
-}	
+#base "../#uni_base/filesv1/grip_/primary/main.res"
+#base "../#uni_base/filesv1/grip_/primary/content1.res"
+#base "../#uni_base/filesv1/grip_/sec/main.res"
+#base "../#uni_base/filesv1/grip_/sec/content1.res"
+#base "../#uni_base/filesv1/grip_/max-min/main.res"
+#base "../#uni_base/filesv1/grip_/max-min/content1.res"

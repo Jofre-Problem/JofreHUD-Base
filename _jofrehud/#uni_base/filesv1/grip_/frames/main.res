@@ -1,4 +1,4 @@
-"Resource/baseaction_label.res"
+"resource/BaseActionCDTrackStartDialog.res"
 {
 	"frame_topGrip"
 	{
@@ -6,7 +6,7 @@
 		"fieldName"		"frame_topGrip"
 		"xpos"		"8"
 		"ypos"		"0"
-		"wide"		"584"
+	//	"wide"		"584"
 		"tall"		"5"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -19,8 +19,6 @@
 		"ControlName"		"Panel"
 		"fieldName"		"frame_bottomGrip"
 		"xpos"		"8"
-		"ypos"		"475"
-		"wide"		"574"
 		"tall"		"5"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -35,7 +33,6 @@
 		"xpos"		"0"
 		"ypos"		"8"
 		"wide"		"5"
-		"tall"		"464"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -46,10 +43,8 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"frame_rightGrip"
-		"xpos"		"595"
 		"ypos"		"8"
 		"wide"		"5"
-		"tall"		"454"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -74,7 +69,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"frame_trGrip"
-		"xpos"		"592"
+	//	"xpos"		"592"
 		"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
@@ -89,7 +84,7 @@
 		"ControlName"		"Panel"
 		"fieldName"		"frame_blGrip"
 		"xpos"		"0"
-		"ypos"		"472"
+	//	"ypos"		"472"
 		"wide"		"8"
 		"tall"		"8"
 		"autoResize"		"0"
@@ -102,8 +97,6 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"frame_brGrip"
-		"xpos"		"582"
-		"ypos"		"462"
 		"wide"		"18"
 		"tall"		"18"
 		"autoResize"		"0"
@@ -118,7 +111,6 @@
 		"fieldName"		"frame_caption"
 		"xpos"		"0"
 		"ypos"		"0"
-		"wide"		"590"
 		"tall"		"23"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -191,7 +183,6 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"frame_close"
-		"xpos"		"575"
 		"ypos"		"8"
 		"wide"		"18"
 		"tall"		"18"
@@ -226,4 +217,4 @@
 		"wrap"		"0"
 		"Default"		"0"
 	}
-}
+}	
