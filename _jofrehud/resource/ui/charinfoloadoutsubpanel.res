@@ -518,10 +518,11 @@
 	{
 		ControlName				CBackpackPanel
 		fieldName				"backpack_panel"
-		xpos					40
-		ypos					0
-		tall		f0
-		zpos					5
+		"xpos"				"0"
+		"ypos"				"50"
+		"wide"				"f0"
+		"tall"				"430"
+		"zpos"				"500"
 		visible				0
 
 		// => resource\ui\econ\BackpackPanel.res

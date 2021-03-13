@@ -26,43 +26,48 @@ Scheme
 		{
 			"1"
 			{
-				"name"												"Verdana"
-				"tall"												"15"
-				"weight"											"500"
-				"yres"												"480 599"
-				"antialias"											"1"
+				"name"			"Verdana" // Chat font
+				"tall"			"12" // Chat fontsize
+				"weight"		"700" // Chat fontweight
+				"yres"			"480 599" // Chat yres
+				"dropshadow"	"1" // Chat shadow
+				"antialias"		"0" // Chat antialias
 			}
 			"2"
 			{
-				"name"												"Verdana"
-				"tall"												"17"
-				"weight"											"500"
-				"yres"												"600 767"
-				"antialias"											"1"
+				"name"			"Verdana" // Chat font
+				"tall"			"14" // Chat fontsize
+				"weight"		"700" // Chat fontweight
+				"yres"			"600 767" // Chat yres
+				"dropshadow"	"1" // Chat shadow
+				"antialias"		"0" // Chat antialias
 			}
 			"3"
 			{
-				"name"												"Verdana"
-				"tall"												"18"
-				"weight"											"500"
-				"yres"												"768 1023"
-				"antialias"											"1"
+				"name"			"Verdana" // Chat font
+				"tall"			"15" // Chat fontsize
+				"weight"		"700" // Chat fontweight
+				"yres"			"768 1023" // Chat yres
+				"dropshadow"	"1" // Chat shadow
+				"antialias"		"0" // Chat antialias
 			}
 			"4"
 			{
-				"name"												"Verdana"
-				"tall"												"20"
-				"weight"											"500"
-				"yres"												"1024 1199"
-				"antialias"											"1"
+				"name"			"Verdana" // Chat font
+				"tall"			"17" // Chat fontsize
+				"weight"		"700" // Chat fontweight
+				"yres"			"1024 1199" // Chat yres
+				"dropshadow"	"1" // Chat shadow
+				"antialias"		"0" // Chat antialias
 			}
 			"5"
 			{
-				"name"												"Verdana"
-				"tall"												"25"
-				"weight"											"500"
-				"yres"												"1200 10000"
-				"antialias"											"1"
+				"name"			"Verdana" // Chat font
+				"tall"			"22" // Chat fontsize
+				"weight"		"700" // Chat fontweight
+				"yres"			"1200 10000" // Chat yres
+				"dropshadow"	"1" // Chat shadow
+				"antialias"		"0" // Chat antialias
 			}
 		}
 	}

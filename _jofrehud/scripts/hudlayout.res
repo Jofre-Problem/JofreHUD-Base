@@ -35,10 +35,10 @@
 		
 		"TextFont"		"MenuKeys"
 		
-		"TeamBlue"		"G_KillfeedBlue"
-		"TeamRed"		"G_KillfeedRed"
+		"TeamBlue"		"83 155 242 255"
+		"TeamRed"		"243 82 82 255"
 		"IconColor"		"G_KillfeedIcon"
-		"LocalPlayerColor"	"HUDBlack"
+		"LocalPlayerColor"	"65 65 65 255"
 
 		"BaseBackgroundColor"	"0 0 0 225"
 		"LocalBackgroundColor"	"255 255 255 214"//"G_Killfeed_Local"	

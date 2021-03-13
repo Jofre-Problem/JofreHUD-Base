@@ -225,7 +225,7 @@
 
 		"FriendIcon"
 		{
-			"ControlName"	"ImagePanel"
+			"ControlName"	"Label"
 			"fieldName"		"FriendIcon"
 			"xpos"			"5"
 			"ypos"			"5"
@@ -234,8 +234,8 @@
 			"tall"			"60"
 			"visible"		"1"
 			"enabled"		"1"
-			"scaleImage"	"1"
-			"image"			"replay/thumbnails/friends"
+			"labeltext"		"á"
+			"font"			"NewIcons20"
 		}
 		"subbutton0"
 		{
@@ -276,7 +276,7 @@
 		
 		"ServerIcon"
 		{
-			"ControlName"	"ImagePanel"
+			"ControlName"	"Label"
 			"fieldName"		"ServerIcon"
 			"xpos"			"85"
 			"ypos"			"5"
@@ -285,8 +285,8 @@
 			"tall"			"60"
 			"visible"		"1"
 			"enabled"		"1"
-			"scaleImage"	"1"
-			"image"			"replay/thumbnails/server"
+			"labeltext"		"U"
+			"font"			"NewIcons20"
 		}
 		
 		"subbutton1"
@@ -328,7 +328,7 @@
 		
 		"SteamIcon"
 		{
-			"ControlName"	"ImagePanel"
+			"ControlName"	"Label"
 			"fieldName"		"SteamIcon"
 			"xpos"			"165"
 			"ypos"			"5"
@@ -337,8 +337,8 @@
 			"tall"			"60"
 			"visible"		"1"
 			"enabled"		"1"
-			"scaleImage"	"1"
-			"image"			"replay/thumbnails/steam"
+			"labeltext"		"x"
+			"font"			"NewIcons20"
 		}
 		
 		"subbutton2"
