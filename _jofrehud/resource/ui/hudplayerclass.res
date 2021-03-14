@@ -15,11 +15,11 @@
 	}
 	"PlayerStatusClassImage"
 	{
-		"xpos"			"20"
+		"xpos"			"r90"
 		"ypos"			"rs1"
 		"zpos"			"2"
-		"wide"			"0"
-		"tall"			"0"
+		"wide"			"30"
+		"tall"			"30"
 	}	
 	"classmodelpanelBG"
 	{

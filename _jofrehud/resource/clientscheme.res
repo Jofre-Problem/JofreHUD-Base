@@ -620,7 +620,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}	
 		/////////////////////////////////////
@@ -630,7 +631,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"15"
 				"antialias"	"1"
 			}
@@ -639,7 +641,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"15"
 				"antialias"	"1"
 			}
@@ -648,7 +651,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"15"
 				"antialias"	"1"
 			}
@@ -657,7 +661,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				tall		"47"
 			}
 		}	
@@ -692,23 +697,28 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}		
 		CenterPrintText
@@ -1276,30 +1286,24 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"24"
-				antialias "1"
-			
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"MenuClassBuckets"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"11"
-				antialias "1"
-			
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"MenuKeys"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"12"
-				antialias "1"
-			
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -1486,28 +1490,32 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"CompMatchStartTeamNames"
 		{
 			"1"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ControlPointTimer"
 		{
 			"1"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ControlPointTimerSmaller"
 		{
 			"1"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1515,7 +1523,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -1523,47 +1532,56 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ChatFont"
 		{
 			"1"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1571,21 +1589,24 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}			
 		CapPlayerFont
 		{
 			"1"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		CapPlayerFontSmall
 		{
 			"1"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1593,14 +1614,16 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}		
 		TFFontMedium
 		{
 			"1"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}		
 		
@@ -1608,7 +1631,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}		
 		
@@ -1616,61 +1640,56 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		MatchmakingDialogSessionOptionsTitle
 		{
 			"1"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		MatchmakingDialogMenuLarge
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"28"
-			
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		MatchmakingDialogMenuBrowserHostname
 		{
 			"1"			// brower item hostname
 			{
-				name		"Segoe UI"
-				tall		"22"
-				weight	"900"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		MatchmakingDialogMenuBrowserDetails
 		{
 			"1"			// browser item players and map name
 			{
-				name		"Segoe UI"
-				tall		"18"
-				weight	"900"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}		
 		MatchmakingDialogMenuMedium
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"22"
-				antialias 		1
-			
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		MatchmakingDialogMenuMediumSmall
 		{
 			"1"
 			{
-				name				"Segoe UI"
-				tall				20
-				
-				antialias		1
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1695,31 +1714,24 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"18"
-				
-
-				antialias 	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}			
 		"AchievementNotification"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"14"
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ImportToolSmallestBold"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"10"
-				weight	"600"
-
-				antialias 	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ImportToolSmallest"
@@ -1762,64 +1774,48 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"8"
-			
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ItemFontNameSmall"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"9"
-			
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ItemFontNameLarge"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"12"
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ItemFontNameLarger"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"18"
-			
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ItemFontAttribSmallest"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"7"
-			
-
-				antialias 	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		ItemFontAttribSmallv2
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"7"
-			
-
-				antialias 	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			
 		}
@@ -1827,33 +1823,24 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"8"
-			
-
-				antialias 	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ItemFontAttribLarge"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"11"
-			
-
-				antialias 	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}	
 		"ItemFontAttribLarger"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"14"
-			
-
-				antialias 	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -1861,11 +1848,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"9"
-			
-
-				antialias 	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1873,32 +1857,24 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"7"
-				weight	"0"
-				additive	"1"
-				antialias 	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"QuestObjectiveTracker_Desc"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"7"
-				weight	"0"
-				additive	"1"
-				antialias 	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"QuestObjectiveTracker_DescGlow"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"7"
-				weight	"0"
-				antialias 	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1906,10 +1882,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"7"
-				weight	"0"
-				antialias 	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1917,30 +1891,18 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"10"
-				
-				"yres"		"480 599"
-
-				antialias	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
-				name		"Segoe UI"
-				tall		"14"
-				
-
-				"yres"		"600 1023"
-				antialias	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
-				name		"Segoe UI"
-				tall		"18"
-				
-
-				"yres"		"1024 6000"
-				antialias	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1948,30 +1910,18 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"10"
-				weight	"800"
-				"yres"		"480 599"
-
-				antialias	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
-				name		"Segoe UI"
-				tall		"14"
-				weight	"800"
-
-				"yres"		"600 1023"
-				antialias	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
-				name		"Segoe UI"
-				tall		"18"
-				weight	"800"
-
-				"yres"		"1024 6000"
-				antialias	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -1979,11 +1929,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"16"
-				
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1991,10 +1938,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"20"
-				antialias "1"
-			
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -2002,30 +1947,18 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"10"
-				
-				"yres"		"480 599"
-
-				antialias	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
-				name		"Segoe UI"
-				tall		"14"
-				
-
-				"yres"		"600 1023"
-				antialias	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
-				name		"Segoe UI"
-				tall		"22"
-				
-
-				"yres"		"1024 6000"
-				antialias	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -2033,33 +1966,18 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"10"
-				
-				"yres"		"480 599"
-
-				antialias	"1"
-				"italic"	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
-				name		"Segoe UI"
-				tall		"14"
-				
-
-				"yres"		"600 1023"
-				antialias	"1"
-				"italic"	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
-				name		"Segoe UI"
-				tall		"22"
-				
-
-				"yres"		"1024 6000"
-				antialias	"1"
-				"italic"	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -2067,30 +1985,18 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"10"
-				weight	"800"
-				"yres"		"480 599"
-
-				antialias	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
-				name		"Segoe UI"
-				tall		"14"
-				weight	"800"
-
-				"yres"		"600 1023"
-				antialias	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
-				name		"Segoe UI"
-				tall		"18"
-				weight	"800"
-
-				"yres"		"1024 6000"
-				antialias	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -2098,11 +2004,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"13"
-				
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -2110,11 +2013,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"16"
-				
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -2122,11 +2022,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"10"
-				
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -2134,21 +2031,16 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"8"
-				
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"AdFont_PurchaseButton"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"8"
-				weight	"0"
-				antialias 	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -2156,10 +2048,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"8"
-				
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 
 			}
 		}
@@ -2168,12 +2058,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"9"
-				
-				antialias "1"
-
-				"italic"	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -2184,169 +2070,109 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"12"
-				weight	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"480 599"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
-				name		"Segoe UI"
-				tall		"12"
-				weight	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"600 767"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
-				name		"Segoe UI"
-				tall		"12"
-				weight	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"768 1023"
-				antialias	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
-				name		"Segoe UI"
-				tall		"14"
-				weight	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1024 1199"
-				antialias	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
-				name		"Segoe UI"
-				tall		"16"
-				weight	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1200 6000"
-				antialias	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ReplayBrowserSmallest"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"11"
-			
-
-				antialias 	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ReplaySmaller"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"12"
-				weight	"0"
-				"range"		"0x0000 0x017F"
-				"yres"	"480 599"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
-				name		"Segoe UI"
-				tall		"13"
-				weight	"0"
-				"range"		"0x0000 0x017F"
-				"yres"	"600 767"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
-				name		"Segoe UI"
-				tall		"14"
-				weight	"0"
-				"range"		"0x0000 0x017F"
-				"yres"	"768 1023"
-				antialias	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
-				name		"Segoe UI"
-				tall		"20"
-				weight	"0"
-				"range"		"0x0000 0x017F"
-				"yres"	"1024 1199"
-				antialias	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
-				name		"Segoe UI"
-				tall		"22"
-				weight	"0"
-				"range"		"0x0000 0x017F"
-				"yres"	"1200 6000"
-				antialias	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"6"
 			{
-				name		"Segoe UI"
-				tall		"12"
-				"range" 		"0x0000 0x00FF"
-				weight			0
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ReplayMediumSmall"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"11"
-			
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ReplayMedium"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"14"
-			
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ReplayMediumBig"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"18"
-				"tall_hidef"	"24"
-				
-			
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ReplayBrowserTab"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"24"
-			
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ReplayLarger"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"18"
-				"tall_hidef"	"24"
-				"tall_lodef"	"20"
-			
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -2357,22 +2183,16 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"14"
-			
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"EconFontMedium"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"24"
-			
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -2380,11 +2200,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"15"
-			
-				"range"		"0x0000 0x007F"
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 
 			}
 		}
@@ -2393,11 +2210,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"9"
-				
-
-				antialias 	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -2405,10 +2219,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"11"
-			
-				antialias 	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -2418,12 +2230,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"12"
-			
-
-				antialias "1"
-				dropshadow	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -2433,11 +2241,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"7"
-				
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -2445,11 +2250,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"10"
-				
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -2457,11 +2259,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"14"
-				
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -2469,9 +2268,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"30"
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"TextToolTipFont"			//Blank Font, but I dont want to have uselees fonr definitions :)
@@ -2518,11 +2316,10 @@ Scheme
 		}		
 		"ScoreboardSmallest"
 		{
-		"1"
+			"1"
 			{
-				name		"Segoe UI"
-				tall		"11"
-				antialias 	"1"		
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]	
 			}	
 		}
 				
@@ -2530,11 +2327,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"7"
-				blur		"3"
-				additive	"1"
-				antialias 	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 	

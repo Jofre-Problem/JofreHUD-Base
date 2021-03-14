@@ -29,7 +29,7 @@
 		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"replay/thumbnails/hp/cover"
+		"image"			"replay/thumbnails/null"
 		"scaleImage"		"1"	
 		"teambg_2"		"replay/thumbnails/hp/redteam2"
 		"teambg_3"		"replay/thumbnails/hp/bluteam2"		

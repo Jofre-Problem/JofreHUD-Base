@@ -216,7 +216,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetDataLabelTrue"
-		"font"			"CustomPrimero"
+		"font"			"Default"
 		"xpos"			"3"
 		"ypos"			"30"
 		"zpos"			"1"
@@ -231,7 +231,6 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"fgcolor"		"White"
-		"alpha"		"100"
 	}
 	"TargetDataLabelTrueShadow"
 	{	

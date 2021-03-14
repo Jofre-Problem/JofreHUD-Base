@@ -8,7 +8,7 @@
 		"delta_item_end_y"		"0"
 		"PositiveColor"			"Green"
 		"NegativeColor"			"red"
-		"delta_lifetime"		"1.5"
+		"delta_lifetime"		"1.85"
 		"delta_item_font"		"CustomCuarto"
 		"delta_item_font_big"	"CustomQuinto"		//for crits		
 	}

@@ -71,7 +71,7 @@
 			zPos					1
 			wide					25
 			tall					2 //p0.05 = 1mm...
-			fillColor				"red"
+			fillColor				"243 82 82 255"
 		}		
 		"Blue"				// background for the left side buttons
 		{
@@ -82,7 +82,7 @@
 			zPos					1
 			wide					25
 			tall					2 //p0.05 = 1mm...
-			fillColor				"blue"
+			fillColor				"83 155 242 255"
 		}			
 	"Background"
 	{

@@ -130,7 +130,7 @@
 		"tall"			"19"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"replay/thumbnails/white"
+		"image"			"replay/thumbnails/null"
 		"border"			"blurborder"
 		"scaleImage"	"1"
 	}
