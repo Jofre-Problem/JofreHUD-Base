@@ -4,7 +4,6 @@
 {
 "ControlName""CExLabel"
 "fieldName""MapLabel"
-"font""CustomNoveno"
 "xpos""0"
 "ypos""r20"
 "wide""f0"

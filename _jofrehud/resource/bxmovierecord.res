@@ -1,5 +1,7 @@
 #base "../#uni_base/filesv1/label1/label1_main.res"
 #base "../#uni_base/filesv1/label1/label1_autoresize.res"
+#base "../#uni_base/filesv1/layoff/main.res"
+#base "../#uni_base/filesv1/layoff/choosefilename.res"
 "resource/BxMovieRecord.res"
 {
 	"MovieRecord"

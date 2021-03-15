@@ -204,13 +204,8 @@
 	}
 	"TargetDataLabel"
 	{	
-		"ControlName"		"Label"
-		"fieldName"		"TargetDataLabel"
-		"font"			"CustomPrimero"
-		"xpos"			"9999"
-		"ypos"			"9999"
-		"visible"		"0"
-		"enabled"		"0"
+		"wide"			"0"
+		"tall"			"0"
 	}
 	"TargetDataLabelTrue"	//indica cuanto de uber y de metal tienen los demas	//bugeado con las otras clases
 	{	
@@ -236,7 +231,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetDataLabelTrueShadow"
-		"font"			"CustomPrimero"
+		"font"			"Default"
 		"xpos"			"0"
 		"ypos"			"-1"
 		"zpos"			"0"

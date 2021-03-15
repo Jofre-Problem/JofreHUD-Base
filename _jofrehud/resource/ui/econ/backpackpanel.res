@@ -134,25 +134,6 @@
 				"zpos"					"1"
 			}
 			
-			"BackpackSlotImage"	
-			{
-				"ControlName"	"CTFImagePanel"
-				"fieldName"		"BackpackSlotImage"
-				"xpos"			"0"
-				"ypos"			"0"
-				"zpos"			"-1"
-				"wide"			"54"
-				"tall"			"48"
-				"visible"		"1" // RBSS
-				"enabled"		"1"
-				"scaleImage"			"1"
-				"image"					"replay/thumbnails/backpackslot"
-				"mouseinputenabled" 	"0"
-				"Alpha"					"255"
-				"paintborder"			"1"
-				"border"				"G_BackpackOverlayBorder"
-			}
-			
 			"New"
 			{
 				"ControlName"	"CExLabel"

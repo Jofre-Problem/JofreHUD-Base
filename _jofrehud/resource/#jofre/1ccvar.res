@@ -218,7 +218,7 @@
 		"maxvalue"		"255"
 		"cvar_name"		"cl_crosshair_red"
 		"allowoutofrange"		"0"
-"zpos"		"5"
+		"zpos"		"5"
 			
 		"pin_to_sibling"		"CrossScaleSlide"
 		pin_corner_to_sibling		PIN_TOPLEFT

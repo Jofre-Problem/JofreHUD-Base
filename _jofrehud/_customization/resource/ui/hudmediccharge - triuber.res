@@ -31,8 +31,8 @@
 		"enabled"		"1"
 		"image"			"replay/thumbnails/null"
 		"scaleImage"		"1"	
-		"teambg_2"		"replay/thumbnails/hp/redteam2"
-		"teambg_3"		"replay/thumbnails/hp/bluteam2"		
+		"teambg_2"		"replay/thumbnails/materialpanelred"
+		"teambg_3"		"replay/thumbnails/materialpanelblu"		
 	}	
 	"UberCheck"
 	{

@@ -613,24 +613,7 @@
 			"fieldName"		"MOTD_CloseButton"
 			"xpos"			"r0"		
 		}	
-		"RankPanel"				// player's name, casual/competitive label, level/rank and stats
-		{
-				ControlName				CPvPRankPanel
-				FieldName				"RankPanel"
-				xPos					10
-				yPos					240
-				zPos					-100
-				wide					p0.2666	//f0
-				tall					50
-				mouseInputEnabled			0					// mouse input passes though to panels below
 
-				matchgroup				MatchGroup_Casual_12v12		// check out!
-				show_model				1					// check out!
-				show_type				1			
-
-				bgcolor_override		"W_ColorTheme1"
-				// check out!
-		}	
 
 		"MOTD_HeaderIcon"
 		{
@@ -773,7 +756,7 @@
 		"ypos"			"170"
 		"zpos"			"20"
 		"wide"			"p0.266"
-		"tall"			"50"
+		"tall"			"73"
 		"visible"		"1"
 
 		"bgcolor_override"		"W_ColorTheme1"
@@ -786,7 +769,7 @@
 			"ypos"			"0"
 			"zpos"			"500"
 			"wide"			"f10"
-			"tall"			"50"
+			"tall"			"73"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 
@@ -817,7 +800,7 @@
 
 				"Slider"
 				{
-					"fgcolor_override"	"TanDark"
+					"fgcolor_override"	"W_ColorIcons1"
 				}
 		
 				"UpButton"
@@ -835,7 +818,25 @@
 				}
 			}
 		}
-	}		
+	}	
+		"RankPanel"				// player's name, casual/competitive label, level/rank and stats
+		{
+				ControlName				CPvPRankPanel
+				FieldName				"RankPanel"
+				xPos					10
+				yPos					265
+				zPos					-100
+				wide					p0.2666	//f0
+				tall					50
+				mouseInputEnabled			0					// mouse input passes though to panels below
+
+				matchgroup				MatchGroup_Casual_12v12		// check out!
+				show_model				1					// check out!
+				show_type				1			
+
+				bgcolor_override		"W_ColorTheme1"
+				// check out!
+		}			
 		"EventLabel"
 		{
 				"ControlName"	"CExLabel"

@@ -3502,6 +3502,304 @@ Scheme
 		}
 
 // Backpack
+		// Standard ------------------------------------------------------------------------------------------------
+		BackpackItemBorder
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+		}
+		BackpackItemMouseOverBorder
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+		}
+		BackpackItemSelectedBorder
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "G_White"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "G_White"
+					"offset" "2 2"
+				}
+				"3"
+				{
+					"color" "G_White"
+					"offset" "3 3"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "185 185 185 255"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "185 185 185 255"
+					"offset" "1 1"
+				}
+				"3"
+				{
+					"color" "185 185 185 255"
+					"offset" "2 2"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "G_White"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "G_White"
+					"offset" "1 2"
+				}
+				"3"
+				{
+					"color" "G_White"
+					"offset" "2 3"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "185 185 185 255"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "185 185 185 255"
+					"offset" "1 2"
+				}
+				"3"
+				{
+					"color" "185 185 185 255"
+					"offset" "2 3"
+				}
+			}	
+		}
+		
+		BackpackItemGreyedOutBorder
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "G_Black"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "G_Black"
+					"offset" "2 2"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "G_Black"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "G_Black"
+					"offset" "1 1"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "G_Black"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "G_Black"
+					"offset" "1 2"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "G_Black"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "G_Black"
+					"offset" "1 2"
+				}
+			}	
+		}
+		
+		BackpackItemGreyedOutSelectedBorder
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "G_Black"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "G_Black"
+					"offset" "2 2"
+				}
+				"3"
+				{
+					"color" "G_Black"
+					"offset" "3 3"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "G_Black"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "G_Black"
+					"offset" "1 1"
+				}
+				"3"
+				{
+					"color" "G_Black"
+					"offset" "2 2"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "G_Black"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "G_Black"
+					"offset" "1 2"
+				}
+				"3"
+				{
+					"color" "G_Black"
+					"offset" "2 3"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "G_Black"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "G_Black"
+					"offset" "1 2"
+				}
+				"3"
+				{
+					"color" "G_Black"
+					"offset" "2 3"
+				}
+			}	
+		}		
 		// Unique ------------------------------------------------------------------------------------------------
 		BackpackItemBorder_Unique
 		{

@@ -3,6 +3,7 @@
 #base "../base/1footer.res"
 //#base "../../#jofre/downbar.res"
 //#base "../../#jofre/socialmedia.res"
+#base "../../#jofre/v2/newmm.res"
 "Resource/UI/MapInfoMenu.res"
 {
 	"mapinfo"
@@ -19,27 +20,14 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
-	"ActiveTimerBG"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"ActiveTimerBG"
-		"xpos"				"0"
-		"ypos"				"0"
-		"zpos"				"1"
-		"wide"				"f0"
-		"tall"				"f0"
-		"visible"			"1"
-		"enabled"			"1"
-		"fillcolor"				"0 0 0 0"
-	}	
 	"MapInfoTitle"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapInfoTitle"
-		"xpos"			"cs-0.5"
+		"xpos"			"120"
 		"ypos"			"120"
 		"zpos"			"1"
-		"wide"			"300"
+		"wide"			"180"
 		"tall"			"24"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -110,17 +98,17 @@
 		"scaleImage"	"1"		
 	}
 
-	"MapInfoContinue" [$WIN32]
+	"MapInfoContinue"
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"MapInfoContinue"
-		"xpos"			"cs-0.5"
-		"ypos"			"rs1-90"
+		"xpos"			"210"
+		"ypos"			"rs1"
 		"zpos"			"6"
-		"wide"			"105"
+		"wide"			"90"
 		"tall"			"20"
 		"autoResize"	"0"
-		"pinCorner"		"2"
+		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#TF_Continue"
@@ -130,10 +118,30 @@
 		"command"		"continue"
 		"default"		"1"
 		"wrap"			"0"
-		"font"			"CustomPrimero"
-		"fgcolor"		"Black"
+		"font"			"MenuSmallFont"
+		"fgcolor_override"		"W_ColorIcons1"
 	}
-	
+	"MapInfoBack"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"MapInfoBack"
+		"xpos"			"120"
+		"ypos"			"rs1"
+		"zpos"			"6"
+		"wide"			"90"
+		"tall"			"20"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"#TF_Back"
+		"textAlignment"	"center"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"command"		"back"
+		"font"			"MenuSmallFont"
+		"fgcolor_override"		"W_ColorIcons1"
+	}	
 	"MapInfoWatchIntro" [$WIN32]
 	{
 		"ControlName"	"CExButton"

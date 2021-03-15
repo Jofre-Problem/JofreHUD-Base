@@ -2,22 +2,9 @@
 #base "../base/1shadedbar.res"
 #base "../base/1menubg.res"
 #base "../base/1footer.res"
+#base "../../../#uni_base/filesv1/class/main.res"
 "Resource/UI/ClassSelection.res"
 {
-    "class"
-    {
-        "ControlName"   "Frame"
-        "fieldName"     "class"
-        "xpos"          "0"
-        "ypos"          "0"
-        "wide"          "f0"
-        "tall"          "480"
-        "autoResize"    "0"
-        "pinCorner"     "0"
-        "visible"       "1"
-        "enabled"       "1"
-        "tabPosition"   "0"
-    }
     "MainBG"
     {
         "ControlName"   "ImagePanel"
