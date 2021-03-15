@@ -424,6 +424,36 @@
  			"visible"		"0"
  		}
 	}
+	"Redivider"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Redivider"
+		"xpos"			"0"
+		"ypos"			"1"
+		"zpos"			"1"
+		"wide"			"p0.35"
+		"tall"			"p0.001"
+		"fillcolor"		"WhiteSolid"
+		"pin_to_sibling"	"RedPlayerList"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
+
+	}	
+	"BlueDivider"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"BlueDivider"
+		"xpos"			"0"
+		"ypos"			"1"
+		"zpos"			"1"
+		"wide"			"p0.35"
+		"tall"			"p0.001"
+		"fillcolor"		"WhiteSolid"
+		"pin_to_sibling"	"BluePlayerList"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
+
+	}		
 	"BlueScoreBG3"
 	{
 		"ControlName"		"CIconPanel"

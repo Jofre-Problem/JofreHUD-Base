@@ -71,7 +71,7 @@
 		"wrap"					"1"
 		"labelText"				"%status%"
 		"proportionaltoparent"	"1"
-		"font"					"ItemFontNameSmallest"
+		"font"					"PlayerPanelPlayerName"
 		"fgcolor_override"				"TanDark"
 		"mouseinputenabled"		"0"
 	}

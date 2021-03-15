@@ -6,7 +6,7 @@
 		"fieldName"		"Progress"
 		"xpos"      "5"
 		"ypos"      "35"
-		"wide"      "f+30"      
+		"wide"      "f+50"      
 		"tall"      "24"
 		"zpos"		"100"
 		"autoResize"		"0"
@@ -49,8 +49,7 @@
 		"auto_wide_tocontents"		"0"
 		"auto_tall_tocontents"		"0"
 		"use_proportional_insets"		"0"
-		"bgcolor_override"	"W_ColorTheme4"
-		"fgcolor_override"	"W_ColorTheme1"
+		"fgcolor_override"	"W_ColorIcons1"
 		"font"		"DefaultLarge"
 	}	
 }

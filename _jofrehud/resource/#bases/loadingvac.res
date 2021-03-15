@@ -18,8 +18,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"bgcolor_override"	"W_ColorTheme4"
-		"fgcolor_override"	"W_ColorTheme1"		
+		"fgcolor_override"	"W_ColorIcons1"		
 	}
 	"VACImage"
 	{

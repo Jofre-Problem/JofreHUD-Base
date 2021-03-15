@@ -79,13 +79,13 @@
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"150"
-		"autoResize"	"0"
+		"autoResize"	"3"	//if you ever change this value, fgcolor doesnt work
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"paintborder"	"0"
 		"textAlignment"	"northwest"
-		"fgcolor_override"	"W_ColorIcons1"
+		"fgcolor"	"W_ColorIcons1"
 	}
 
 	"HTMLMessage"

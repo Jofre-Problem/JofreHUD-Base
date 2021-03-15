@@ -8,31 +8,38 @@
 		"fieldName"	"TFStatsSummary"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"458"
 		"visible"		"1"
 	}
 
-	"MainBackground"
+	"NewMainBackground"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"NewMainBackground"
+		xPos					0
+		yPos					0
+		zPos					9
+		wide					f0
+		tall					f0
+		image					"replay/thumbnails/background_upward_widescreen"
+		"scaleimage"			"1"
+	}	
+	"MainBackground"	// hardcoded or something
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"MainBackground"
-			xPos					0
-			yPos					0
-			zPos					-2
-			wide					f0
-			tall					f0
-			image					"../console/background_upward"
-			"scaleimage"			"1"
-	}	
-	
+		xpos					"r0"
+		wide					0
+		tall					0
+	}		
 	"MapInfo"
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"MapInfo"
 		"xpos"				"0"
 		"ypos"				"-22"
+		"zpos"				"10"
 		"wide"				"f0"
 		"tall"				"480"
 		"visible"			"1"
@@ -50,14 +57,14 @@
 			"tall"				"f0"
 			"visible"			"1"
 			"enabled"			"1"
-			"bgcolor_override"	"W_ColorTheme4"
+			"bgcolor_override"	"Blank"//"W_ColorTheme4"
 		}
 	
 		"Background"
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"Background"
-			"xpos"			"-9999"
+			"xpos"			"r0"
 			"ypos"			"0"
 			"wide"			"0"
 			"tall"			"0"
@@ -260,7 +267,7 @@
 		"labelText"		"%maptype%"
 		"textAlignment"	"center"
 		"xpos"			"cs-0.5"
-		"ypos"			"140"
+		"ypos"			"110"
 		"zpos"			"50"
 		"wide"			"f0"
 		"tall"			"30"

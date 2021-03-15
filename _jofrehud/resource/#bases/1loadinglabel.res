@@ -24,7 +24,6 @@
 		"auto_wide_tocontents"		"0"
 		"auto_tall_tocontents"		"0"
 		"use_proportional_insets"		"0"
-		"bgcolor_override"	"W_ColorTheme4"
 		"fgcolor_override"	"W_ColorTheme1"
 	}
 }
