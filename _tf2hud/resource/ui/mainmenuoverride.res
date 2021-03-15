@@ -254,7 +254,7 @@
 
 	"RankModelPanel"
 	{
-		"ControlName"	"CPvPRankPanel"
+		"ControlName"	"Cpvprankpanel"
 		"fieldName"		"RankModelPanel"
 		"xpos"			"cs-0.5-256"
 		"ypos"			"cs-0.5-120"
@@ -344,7 +344,7 @@
 	
 	"RankPanel"
 	{
-		"ControlName"	"CPvPRankPanel"
+		"ControlName"	"Cpvprankpanel"
 		"fieldName"		"RankPanel"
 		"xpos"			"c-350"
 		"ypos"			"72"

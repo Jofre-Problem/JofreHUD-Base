@@ -132,9 +132,9 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetNameLabelBot"
-		"font"			"CustomSeptimo"
+		"font"			"CustomCuarto"
 		"xpos"			"40"
-		"ypos"			"1010"
+		"ypos"			"1014"
 		"zpos"			"1"
 		"wide"			"295"
 		"tall"			"24"
@@ -150,7 +150,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetNameLabelBotS"
-		"font"			"CustomSeptimo"
+		"font"			"CustomCuarto"
 		"xpos"			"0"
 		"ypos"			"-1"
 		"zpos"			"1"

@@ -38,13 +38,13 @@
 		"fieldName"				"NotificationNoYet"
 		"font"					"ItemTrackerScore_InGame"
 		"labelText"				"#MMenu_Notifications_Empty"
-		"centerwrap"		"1"
-		"xpos""cs-0.5"
-		"ypos""0"
-		"zpos""2900"
-		"wide"			"p0.3"
-		"tall"			"13"
-		"fgcolor_override" "W_ColorIcons1"
+		"centerwrap"			"1"
+		"xpos"					"cs-0.5"
+		"ypos"					"0"
+		"zpos"					"10001"
+		"wide"					"p0.3"
+		"tall"					"13"
+		"fgcolor_override" 		"W_ColorIcons1"
 	}	
 	"Background"
 	{
@@ -241,7 +241,7 @@
 
 	"RankModelPanel"			// contains rank medal model; can't click it because CycleRankTypeButton is on 
 	{
-		ControlName				CPvPRankPanel
+		ControlName				Cpvprankpanel
 		FieldName				"RankModelPanel"
 		xPos					0
 		yPos					-90
@@ -251,7 +251,7 @@
 
 		matchgroup				MatchGroup_Casual_12v12		// MatchGroup_Ladder_6v6 ?
 		show_progress			0					// check out!
-		// => resource\ui\PvPRankPanel.res
+		// => resource\ui\pvprankpanel.res
 	}
 
 	"CycleRankTypeButton"		// toggle between casual/comp medal (RankModelPanel) and stats (RankPanel)

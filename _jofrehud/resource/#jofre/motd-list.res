@@ -821,7 +821,7 @@
 	}	
 		"RankPanel"				// player's name, casual/competitive label, level/rank and stats
 		{
-				ControlName				CPvPRankPanel
+				ControlName				Cpvprankpanel
 				FieldName				"RankPanel"
 				xPos					10
 				yPos					265

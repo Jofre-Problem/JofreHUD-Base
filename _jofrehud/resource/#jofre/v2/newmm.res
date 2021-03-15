@@ -1,5 +1,5 @@
-//#base "../logo.res"
-#base "../../gamelogo.res"
+#base "../logo.res"
+//#base "../../gamelogo.res"
 "_jofrehud/resource/#jofre/charbg.res"
 {
 	"Wall"

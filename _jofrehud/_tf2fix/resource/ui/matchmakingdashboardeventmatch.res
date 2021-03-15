@@ -67,7 +67,7 @@
 	
 	"RankPanel"
 	{
-		"ControlName"	"CPvPRankPanel"
+		"ControlName"	"Cpvprankpanel"
 		"fieldName"		"RankPanel"
 		"xpos"			"-85"
 		"ypos"			"25"

@@ -1,8 +1,8 @@
-"Resource/UI/PvPRankPanel.res"
+"Resource/UI/pvprankpanel.res"
 {
 		"RankPanel"
 		{
-		"ControlName"		"CPvPRankPanel"
+		"ControlName"		"Cpvprankpanel"
 		"fieldName"			"RankPanel"
 		"visible"			"1"
 		"xpos"				"0"

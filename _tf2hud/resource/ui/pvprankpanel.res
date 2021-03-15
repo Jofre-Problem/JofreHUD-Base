@@ -1,4 +1,4 @@
-"Resource/UI/PvPRankPanel.res"
+"Resource/UI/pvprankpanel.res"
 {
 	"ModelContainer"
 	{

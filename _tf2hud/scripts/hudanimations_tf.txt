@@ -1728,21 +1728,21 @@ event DefaultAnimPvPRankLevelDownModel
 	PlaySound 0.15 "ui/mm_rank_down_medal_shoot_impact.wav"
 }
 
-event DefaultAnimCompetitiveGame_ShowPvPRankPanel
+event DefaultAnimCompetitiveGame_Showpvprankpanel
 {
 	Animate RankBorder ypos r0 Linear 0 0
 	Animate RankBorder ypos r65 Bias 0.90 0.2 0.3
 
 	Animate RankPanel ypos r0 Linear 0 0
 	Animate RankPanel ypos r285 Bias 0.90 0.2 0.3
-	RunEventChild RankPanel PvPRankPanelShowXPChange 0
+	RunEventChild RankPanel pvprankpanelShowXPChange 0
 
 	Animate RankModelPanel ypos r0 Linear 0 0
 	Animate RankModelPanel ypos r1095 Bias 0.90 0.2 0.3
-	RunEventChild RankModelPanel PvPRankPanelShowXPChange 0
+	RunEventChild RankModelPanel pvprankpanelShowXPChange 0
 }
 
-event DefaultAnimPvPRankPanelShowXPChange
+event DefaultAnimpvprankpanelShowXPChange
 {
 	FireCommand 0 "update_base_state"
 	FireCommand 1 "begin_xp_lerp"

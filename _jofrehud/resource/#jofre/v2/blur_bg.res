@@ -394,7 +394,7 @@
 		}			
 	"RankPanel"
 	{
-		"ControlName"		"CPvPRankPanel"
+		"ControlName"		"Cpvprankpanel"
 		"fieldName"			"RankPanel"
 		"visible"			"1"
 		"xpos"				"0"

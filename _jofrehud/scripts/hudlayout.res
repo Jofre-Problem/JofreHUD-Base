@@ -26,10 +26,10 @@
 		"wide"	 "f0"
 		"tall"	 "p0.6"
 
-		"MaxDeathNotices" "8" // 1 KF
+		"MaxDeathNotices" "10" // 1 KF
 		"IconScale"		"0.1"
 		"LineHeight"	"12" // 3 KF
-		"LineSpacing"	"1" // 4 KF
+		"LineSpacing"	"p0.0007" // 4 KF
 		"CornerRadius"	"0" // 2 KF
 		"RightJustify"	"1"	// If 1, draw notices from the right
 		
@@ -169,8 +169,8 @@
 	}
 	CDamageAccountPanel
 	{
-		"wide"					"f0"
-		"tall"					"f0"
+		"wide"					"p1"
+		"tall"					"p1"
 	}
 	
 	CMainTargetID
@@ -491,6 +491,7 @@
 		"ypos_lodef"	"0"
 		"wide"			"f0"
 		"tall"			"f0"
+		"alpha"			"170"
 		
 	}
 	HudStalemate
@@ -507,7 +508,7 @@
 	}
 	HudArenaPlayerCount
 	{
-		"ypos"			"-1"//"rs1+20"//"-1"
+		"ypos"			"0"//"rs1+20"//"-1"
 		"zpos"			"10"
 	}	
 	HudCrosshair

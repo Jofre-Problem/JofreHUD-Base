@@ -61,7 +61,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueID3"
 		"xpos"			"0"
-		"ypos"			"1010"
+		"ypos"			"1014"
 		"zpos"			"5"
 		"wide"			"40"
 		"tall"			"24"
@@ -69,7 +69,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"CustomSeptimo"
+		"font"			"CustomCuarto"
 		"fgcolor"		"236 240 241 255"
 	}
 	"PlayerStatusHealthValue3S"
@@ -85,7 +85,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"CustomSeptimo"
+		"font"			"CustomCuarto"
 		"fgcolor"		"TransparentBlack"
 		"pin_to_sibling"	"PlayerStatusHealthValueID3"
 	}
