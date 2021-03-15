@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-"$baseTexture" "vgui\replay\thumbnails\background_upward"
+"$baseTexture" "vgui\replay\thumbnails\background_upward_widescreen"
 "$vertexcolor" 1
 "$vertexalpha" 1
 "$ignorez" 1
