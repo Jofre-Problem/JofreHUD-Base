@@ -7,7 +7,7 @@
 		"ypos"			"0+p0.0001"
 		"zpos"			"9"
 		"wide"			"31"
-		"tall"			"20"
+		"tall"			"30"
 	
 		"background"
 		{
@@ -51,7 +51,7 @@
 		"ypos"			"0+p0.0001"
 		"zpos"			"5"
 		"wide"			"31"
-		"tall"			"20"
+		"tall"			"30"
 	
 		"background"
 		{

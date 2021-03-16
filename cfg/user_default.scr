@@ -24,25 +24,6 @@ DESCRIPTION INFO_OPTIONS
 		{ STRING }
 		{""}
 	}
-	"acategoryCUSTOMHUD"
-	{
-		"MagnumHUD Settings"
-		{ CATEGORY }
-	}
-	"echo Advanced Options Saved;"
-	{
-		"Captions"
-		"Which closecaptions to use"
-		{ LIST
-			"MagnumHUD" "magnum_cc_original"
-			"Common" "magnum_cc_common"
-			"Default" "magnum_cc_default"
-			"Utility" "magnum_cc_utilities"
-			"Voicelines" "magnum_cc_voice"
-			"Disabled" "magnum_cc_disable"
-		}
-		{"magnum_cc_original"}
-	}
 	
 	"jpeg_quality"
 	{
