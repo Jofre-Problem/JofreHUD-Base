@@ -7,7 +7,10 @@
 		OnlyInGame			1
 		"tooltip"			"#MMenu_CallVote"
 	}
-
+	"WorkshopButton"
+	{
+		"tooltip"			""		
+	}
 	"MutePlayers"
 	{
 		label				"Ä"

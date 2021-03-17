@@ -204,10 +204,10 @@
 	"RoundCounter"
 	{
 		"fieldName"		"RoundCounter"
-		"xpos"			"0"
+		"xpos"			"cs-0.5"
 		"ypos"			"0"
 		"zpos"			"1"		
-		"wide"			"f0"
+		"wide"			"300"
 	//	"tall"			"50"
 		"visible"		"1"
 		"enabled"		"1"

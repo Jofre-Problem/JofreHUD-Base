@@ -31,7 +31,7 @@ Resource/UI/HudAmmoWeapons.res
 	{
 		fgcolor			"0 0 0 255"
 		xpos			0
-		ypos			-2
+		ypos			"0"//-2
 		zpos			4
 		wide			80
 		tall			30
@@ -59,7 +59,7 @@ Resource/UI/HudAmmoWeapons.res
 	{
 		fgcolor			"0 0 0 255"
 		xpos			0
-		ypos			-2
+		ypos			"0"//-2
 		zpos			4
 		wide			80
 		tall			30
@@ -86,7 +86,7 @@ Resource/UI/HudAmmoWeapons.res
 	{
 		fgcolor			"0 0 0 255"
 		xpos			0
-		ypos			-2
+		ypos			"0"//-2
 		zpos			4
 		wide			40
 		tall			30

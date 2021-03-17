@@ -38,7 +38,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueShadow"
 		xpos			0
-		ypos			-2
+		ypos			"0"//-2
 		wide			80
 		tall			30
 		font			CustomNovenoBlur

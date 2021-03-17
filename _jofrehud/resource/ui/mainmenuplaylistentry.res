@@ -1,1 +1,1 @@
-#base "res_base/MainMenuPlayListEntry.res"
+#base "res_base/mainmenuplaylistentry.res"

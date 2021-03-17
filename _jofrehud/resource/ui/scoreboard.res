@@ -432,7 +432,7 @@
 		"ypos"			"1"
 		"zpos"			"1"
 		"wide"			"p0.35"
-		"tall"			"p0.002"
+		"tall"			"p0.0018"
 		"fillcolor"		"WhiteSolid"
 		"pin_to_sibling"	"RedPlayerList"
 		pin_corner_to_sibling		PIN_TOPLEFT
@@ -447,7 +447,7 @@
 		"ypos"			"1"
 		"zpos"			"1"
 		"wide"			"p0.35"
-		"tall"			"p0.002"
+		"tall"			"p0.0018"
 		"fillcolor"		"WhiteSolid"
 		"pin_to_sibling"	"BluePlayerList"
 		pin_corner_to_sibling		PIN_TOPLEFT

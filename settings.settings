@@ -10,8 +10,8 @@ UI Health Cross|Disabled
 UI Match Status|Swissolo
 Chapter Backgrounds Multiple|Default
 Steam Summer Sale Border|Portal Orange
-UI Circular Uber Charge|Enabled
-EXPERIMENTAL Cart BG Glow|OFF (Default)
+UI Circular Uber Charge|Disabled
+EXPERIMENTAL Cart BG Glow|ON (Needs Transparent V.)
 EXPERIMENTAL No Chat BG|OFF
 EXPERIMENTAL Crosshair in Scoreboard|OFF
 EXPERIMENTAL Scoreboard Slide In|OFF

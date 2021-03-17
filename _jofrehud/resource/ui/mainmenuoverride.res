@@ -298,28 +298,22 @@
 		"wide"			"0"
 		"tall"			"0"
 		"alpha"			"0"
-	}	
-	"WorkshopButton"
-	{
-		"wide"			"0"
-		"tall"			"0"
-		"alpha"			"0"
 	}		
-	"Workshop"		// open advanced options
+	"WorkshopButton"		// open advanced options
 	{
 		ControlName				CExButton
-		FieldName				"Workshop"
+		FieldName				"WorkshopButton"
 		xPos					0
 		yPos					rs1
 		zPos					1050
 		wide					35
 		tall					p0.045
 		textInsetx				"1"
-
+		font					"NewIcons15"
 		labelText				"j"
 		textAlignment			center
 		
-		command				"engine workshop"
+	//	command				"engine workshop"
 
 		sound_depressed			"UI/buttonclick.wav"
 		sound_released			"UI/buttonclickrelease.wav"

@@ -50,40 +50,57 @@
 			"scaleimage"		"1"
 		}
 	}
-		"DownBar"				// background for the left side buttons
-		{
-			ControlName				ImagePanel
-			FieldName				"DownBar"
-			xPos					cs-0.5
-			yPos					0
-			zPos					0
-			wide					50
-			tall					13 //p0.05 = 1mm...
-			fillColor				"W_ColorTheme1"
-			"alpha"					"200"	
-		}
-		"Red"				// background for the left side buttons
-		{
-			ControlName				ImagePanel
-			FieldName				"Red"
-			xPos					c0
-			yPos					0
-			zPos					1
-			wide					25
-			tall					2 //p0.05 = 1mm...
-			fillColor				"243 82 82 255"
-		}		
-		"Blue"				// background for the left side buttons
-		{
-			ControlName				ImagePanel
-			FieldName				"Blue"
-			xPos					c-25
-			yPos					0
-			zPos					1
-			wide					25
-			tall					2 //p0.05 = 1mm...
-			fillColor				"83 155 242 255"
-		}			
+	"BlueScoreBG"
+	{
+		"ControlName"		"CIconPanel"
+		"fieldName"		"BlueScoreBG"
+		"xpos"			"c-38"
+		"ypos"			"-4"
+		"wide"			"42"
+		"tall"			"14"
+		"proportionaltoparent"	"1"
+		"visible"		"1"
+		"enabled"		"1"
+		"PaintBackgroundType"	"2"
+		"border"		"MaterialBlue"
+		"paintbackground"	"0"
+
+	}
+
+	"RedScoreBG"
+	{
+		"ControlName"	"CIconPanel"
+		"fieldName"		"RedScoreBG"
+		"xpos"			"c-4"
+		"ypos"			"-4"
+		"wide"			"42"
+		"tall"			"14"
+		"proportionaltoparent"	"1"
+		"visible"		"1"
+		"enabled"		"1"
+		"PaintBackgroundType"	"2"
+		"border"		"MaterialRed"
+		"paintbackground"	"0"
+	}
+
+	"TimerBG"
+	{
+		"ControlName"		"CIconPanel"
+		"fieldName"		"TimerBG"
+		"xpos"			"c-37"
+		"ypos"			"-4"
+		"wide"			"74"
+		"tall"			"30"
+		"zpos"			"-1"
+		"proportionaltoparent"	"1"
+		"visible"		"1"
+		"enabled"		"1"
+
+		"PaintBackgroundType"	"2"
+		"border"		"MaterialOscuro"
+		"paintbackground"	"0"
+
+	}		
 	"Background"
 	{
 		"xpos"			"cs-0.5"
