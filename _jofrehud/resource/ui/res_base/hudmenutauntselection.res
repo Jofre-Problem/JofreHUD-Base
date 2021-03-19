@@ -1,6 +1,6 @@
 #base "../disguise_menu/base/number_bg_v2.res"
-#base "v2/mainbackground.res"
-#base "v2/divider.res"
+#base "../base/v2/mainbackground.res"
+#base "../base/v2/divider.res"
 "Resource/UI/HudMenuTauntSelection.res"
 {
 	"WheelImage"
