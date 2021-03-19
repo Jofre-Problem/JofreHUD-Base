@@ -1,3 +1,4 @@
+#base "../../#uni_base/filesv1/leftsidebg/main.res"
 "Resource/UI/HudObjectiveFlagPanel.res"
 {
 	"ObjectiveStatusFlagPanel"
@@ -20,19 +21,11 @@
 
 	"LeftSideBG"
 	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"LeftSideBG"
 		"xpos"			"c-140"
 		"ypos"			"r75"	[$WIN32]
 		"ypos"			"r96"	[$X360]
 		"zpos"			"1"
-		"wide"			"280"
-		"tall"			"80"
-		"visible"		"0"
-		"enabled"		"0"
-		"image"			"../hud/objectives_flagpanel_bg_left"
-		"scaleImage"	"1"
-
+		
 		"if_hybrid"
 		{
 			"visible"	"0"

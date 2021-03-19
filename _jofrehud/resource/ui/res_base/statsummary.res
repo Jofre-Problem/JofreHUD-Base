@@ -9,7 +9,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"f0"
-		"tall"			"458"
+		"tall"			"f0"
 		"visible"		"1"
 	}
 
@@ -88,23 +88,6 @@
 			"image"			""
 			"scaleImage"	"1"		
 		}
-		
-		"TeamSilhouette"
-		{
-			"ControlName"		"CTFImagePanel"
-			"fieldName"			"TeamSilhouette"
-			"xpos"				"cs-0.5"
-			"ypos"				"rs1"
-			"zpos"				"198"
-			"wide"				"600"
-			"tall"				"300"
-			"visible"			"1"
-			"enabled"			"1"
-			"image"				"replay/thumbnails/teamsilhouette"
-			"scaleImage"		"1"
-			"drawcolor"			"W_ColorTheme1"
-			"Alpha"				"255"
-		}	
 	
 		"ContributedLabel"
 		{
