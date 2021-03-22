@@ -55,42 +55,42 @@ Scheme
 		{
 			"1"
 			{
-			"name"		"TF2 Build"
+			"name"		"TF2 Secondary"
 			}
 		}		
 		"CustomCuarto"
 		{
 			"1"
 			{
-			"name"		"TF2 Build"
+			"name"		"TF2 Secondary"
 			}
 		}	
 		"CustomSegundo"
 		{
 			"1"
 			{
-			"name"		"TF2 Build"
+			"name"		"TF2 Secondary"
 			}
 		}	
 		"CustomPrimero"
 		{
 			"1"
 			{
-			"name"		"TF2 Build"
+			"name"		"TF2 Secondary"
 			}
 		}	
 		"CustomQuinto"
 		{
 			"1"
 			{
-			"name"		"TF2 Build"
+			"name"		"TF2 Secondary"
 			}
 		}
 		"CustomQuintoBlur"
 		{
 			"1"
 			{
-			"name"		"TF2 Build"
+			"name"		"TF2 Secondary"
 			}
 		}
 	}

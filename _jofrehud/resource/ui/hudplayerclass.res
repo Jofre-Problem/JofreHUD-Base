@@ -1,25 +1,27 @@
 //#base "../#jofre/partymembers.res"
 //#base "../../../4plug/DLC/1.res"  //Resolution crosshairs
-#base "../../../4plug/DLC/2.res"  //Crosshairs
+//#base "../../../4plug/DLC/2.res"  //Crosshairs
 #base "base/classmodelpanel.res"
 "resource/ui/hudplayerclass.res"
 {
 	"PlayerStatusClassImageBG"
 	{
-		"xpos"			"c-183"
-		"ypos"			"c90"
-		ypos_minmode		r100
+		"xpos"			"10"
+		"ypos"			"rs1-5"
 		"zpos"			"1"		
-		"wide"			"0"
-		"tall"			"0"
-	}
+		"wide"			"60"
+		"tall"			"20"
+		"image"			"replay/thumbnails/materialpanel"	
+		"teambg_2"		"replay/thumbnails/materialpanelred"
+		"teambg_3"		"replay/thumbnails/materialpanelblu"
+	}		
 	"PlayerStatusClassImage"
 	{
-		"xpos"			"r90"
-		"ypos"			"rs1"
+		"xpos"			"10"
+		"ypos"			"rs1-6"
 		"zpos"			"2"
-		"wide"			"30"
-		"tall"			"30"
+		"wide"			"50"
+		"tall"			"50"
 	}	
 	"classmodelpanelBG"
 	{

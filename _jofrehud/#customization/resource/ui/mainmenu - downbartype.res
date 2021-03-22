@@ -27,6 +27,7 @@
 		wide					f0
 		tall					"p0.04645"	//p0.0525 //p0.05 = 1mm...
 		bgcolor_override				"W_ColorTheme1"//"W_ColorTheme1"
+		"alpha"					"50"
 		mouseInputEnabled			0			// mouse input passes though to panels below
 		"PaintBackgroundType"	"0"
 	}	

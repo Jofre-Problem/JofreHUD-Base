@@ -22,8 +22,8 @@
 		"fieldName"		"TopBar"
 		"xpos"			"0"
 		"ypos"			"0"
-		"tall"			"0"	[$WIN32]
-		"tall"			"0"	[$X360]		
+		"tall"			"30"	[$WIN32]
+		"tall"			"30"	[$X360]		
 		"wide"			"f0"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -65,7 +65,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ReinforcementsLabel"
-		"xpos"			"cs-0.5"
+		"xpos"			"0"
 		"ypos"			"20"
 		"wide"			"300"
 		"tall"			"18"
@@ -74,8 +74,10 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
-		"textAlignment"		"center"
-		"font"			"ItemTrackerScore_InGame"
+		"textAlignment"		"west"
+		"font"			"CustomPrimero"
+		"bgcolor_override"	"0 0 0 100"
+		"textinsetx"		"10"
 	}
 	"BuyBackLabel"
 	{

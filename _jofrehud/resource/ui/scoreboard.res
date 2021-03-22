@@ -1,5 +1,5 @@
 //#base "../#jofre/partymembers.res"
-#base "../../_customization/resource/ui/summersale_border.res"
+#base "../../#customization/resource/ui/summersale_border.res"
 #base "base/1shadedbar.res"
 #base "base/classmodelpanel.res"
 "Resource/UI/Scoreboard.res"
@@ -501,8 +501,8 @@
 		"font"			"ScoreboardVerySmall"
 		"labelText"		"%spectators%"
 		"textAlignment"		"west"
-		"xpos"			"rs1"
-		"ypos"			"rs1-20"
+		"xpos"			"0"
+		"ypos"			"-10"
 		"zpos"			"4"
 		"wide"			"f0"
 		"tall"			"15"
@@ -510,7 +510,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		
+		"pin_to_sibling"	"BlueDivider"		
 		if_mvm
 		{
 			"ypos"		"428"
@@ -524,7 +524,7 @@
 		"labelText"		"%waitingtoplay%"
 		"textAlignment"		"west"
 		"xpos"			"0"
-		"ypos"			"rs1-40"
+		"ypos"			"-20"
 		"zpos"			"4"
 		"wide"			"f0"
 		"tall"			"15"
@@ -532,7 +532,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		
+		"pin_to_sibling"	"BlueDivider"
 		if_mvm
 		{
 			"visible"		"0"
@@ -1099,10 +1099,10 @@
 		}			
 		"AssistsLabel"
 		{
-			"font"			"ItemTrackerScore_InGame"
+			"font"			"ScoreboardVerySmall"
 			"textAlignment"		"east"
 			"xpos"			"0"
-			"ypos"			"rs1-60"
+			"ypos"			"r0"
 			"zpos"			"3"
 			"wide"			"p0.05"
 			"tall"			"10"
@@ -1110,7 +1110,7 @@
 		}
 		"Assists"
 		{
-			"font"			"ItemTrackerScore_InGame"
+			"font"			"ScoreboardVerySmall"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1123,7 +1123,7 @@
 		}		
 		"DestructionLabel"
 		{	
-			"font"		"ItemTrackerScore_InGame"
+			"font"		"ScoreboardVerySmall"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1138,7 +1138,7 @@
 					
 		"Destruction"
 		{
-			"font"			"ItemTrackerScore_InGame"
+			"font"			"ScoreboardVerySmall"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1152,7 +1152,7 @@
 		"CapturesLabel"
 		{
 
-			"font"		"ItemTrackerScore_InGame"
+			"font"		"ScoreboardVerySmall"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1165,7 +1165,7 @@
 		}						
 		"DefensesLabel"
 		{
-			"font"		"ItemTrackerScore_InGame"
+			"font"		"ScoreboardVerySmall"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1178,7 +1178,7 @@
 		}						
 		"DominationLabel"
 		{
-			"font"		"ItemTrackerScore_InGame"
+			"font"		"ScoreboardVerySmall"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1191,7 +1191,7 @@
 		}						
 		"RevengeLabel"
 		{
-			"font"		"ItemTrackerScore_InGame"
+			"font"		"ScoreboardVerySmall"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1204,7 +1204,7 @@
 		}					
 		"Captures"
 		{
-			"font"			"ItemTrackerScore_InGame"
+			"font"			"ScoreboardVerySmall"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1217,7 +1217,7 @@
 		}						
 		"Defenses"
 		{
-			"font"			"ItemTrackerScore_InGame"
+			"font"			"ScoreboardVerySmall"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1230,7 +1230,7 @@
 		}						
 		"Domination"
 		{
-			"font"			"ItemTrackerScore_InGame"
+			"font"			"ScoreboardVerySmall"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1243,7 +1243,7 @@
 		}						
 		"Revenge"
 		{
-			"font"			"ItemTrackerScore_InGame"
+			"font"			"ScoreboardVerySmall"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1256,7 +1256,7 @@
 		}						
 		"HealingLabel"
 		{
-			"font"		"ItemTrackerScore_InGame"
+			"font"		"ScoreboardVerySmall"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1269,7 +1269,7 @@
 		}					
 		"InvulnLabel"
 		{
-			"font"		"ItemTrackerScore_InGame"
+			"font"		"ScoreboardVerySmall"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1282,7 +1282,7 @@
 		}					
 		"TeleportsLabel"
 		{
-			"font"		"ItemTrackerScore_InGame"
+			"font"		"ScoreboardVerySmall"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1295,7 +1295,7 @@
 		}						
 		"HeadshotsLabel"
 		{
-			"font"		"ItemTrackerScore_InGame"
+			"font"		"ScoreboardVerySmall"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1308,7 +1308,7 @@
 		}						
 		"Healing"
 		{
-			"font"			"ItemTrackerScore_InGame"
+			"font"			"ScoreboardVerySmall"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1321,7 +1321,7 @@
 		}						
 		"Invuln"
 		{
-			"font"			"ItemTrackerScore_InGame"
+			"font"			"ScoreboardVerySmall"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1334,7 +1334,7 @@
 		}						
 		"Teleports"
 		{
-			"font"			"ItemTrackerScore_InGame"
+			"font"			"ScoreboardVerySmall"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1347,7 +1347,7 @@
 		}					
 		"Headshots"
 		{
-			"font"			"ItemTrackerScore_InGame"
+			"font"			"ScoreboardVerySmall"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1360,7 +1360,7 @@
 		}					
 		"BackstabsLabel"
 		{
-			"font"		"ItemTrackerScore_InGame"
+			"font"		"ScoreboardVerySmall"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1373,7 +1373,7 @@
 		}
 		"Backstabs"
 		{
-			"font"			"ItemTrackerScore_InGame"
+			"font"			"ScoreboardVerySmall"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1386,7 +1386,7 @@
 		}		
 		"BonusLabel"
 		{
-			"font"		"ItemTrackerScore_InGame"
+			"font"		"ScoreboardVerySmall"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1399,7 +1399,7 @@
 		}
 		"Bonus"
 		{
-			"font"			"ItemTrackerScore_InGame"
+			"font"			"ScoreboardVerySmall"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1412,7 +1412,7 @@
 		}
 		"SupportLabel"
 		{
-			"font"		"ItemTrackerScore_InGame"
+			"font"		"ScoreboardVerySmall"
 			"textAlignment"		"east"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -1425,7 +1425,7 @@
 		}
 		"Support"
 		{
-			"font"			"ItemTrackerScore_InGame"
+			"font"			"ScoreboardVerySmall"
 			"textAlignment"		"west"
 			"xpos"			"0"
 			"ypos"			"0"

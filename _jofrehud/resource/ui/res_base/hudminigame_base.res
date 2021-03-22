@@ -1,4 +1,5 @@
 #base "../../../#uni_base/filesv1/leftsidebg/main.res"
+#base "../../../#uni_base/filesv1/rightsidebg/main.res"
 "Resource/UI/HudMiniGame_Base.res"
 {
 	"LeftSideBG"
@@ -9,17 +10,8 @@
 
 	"RightSideBG"
 	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"RightSideBG"
 		"xpos"			"cs-0.5"
 		"ypos"			"r77"
-		"zpos"			"1"
-		"wide"			"280"
-		"tall"			"80"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../hud/objectives_flagpanel_bg_right"
-		"scaleImage"	"1"	
 	}
 		
 	"OutlineBG"

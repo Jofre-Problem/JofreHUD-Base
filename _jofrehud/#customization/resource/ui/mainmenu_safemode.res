@@ -4,29 +4,24 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"SafeMode"
-		"xpos"			"0"
-		"ypos"			"rs1-p0.0465"
-		"zpos"			"1038"
-		"wide"			"f0"
-		"tall"			"38"
-		"visible"		"1"
-		"enabled"		"1"
-		"bgcolor_override"	"0 0 0 232"
-		
-		"4plug"		
+		"xpos"			"rs1"
+		"ypos"			"90"
+		"zpos"			"999"
+		"wide"			"150"
+		"tall"			"330"
+		"bgcolor_override"	"Blank"
+
+		"BGBG2"				
 		{
-			ControlName				CEXLabel
-			FieldName				"4plug"
-			xPos					5
-			yPos					5
-			zPos					3002
+			ControlName				ImagePanel
+			FieldName				"BGBG2"
+			xPos					0
+			yPos					0
+			zPos					-10
 			wide					f0
-			tall					20	
-			font					"CustomQuinto"
-			fgcolor_override			"WhiteSolid"
-			labelText				"For enable this panel, check out 4plugsettings.exe on main folder -> MAIN MENU Advanced Dev Menu"
-			textAlignment			west
-		}
+			tall					f0
+			fillcolor				"0 0 0 230"
+		}				
 
 		"Background"		//Only not removed cuz save settings button
 		{

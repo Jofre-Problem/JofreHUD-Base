@@ -4,8 +4,14 @@ Resource/UI/HudAmmoWeapons.res
 {
 	"HudWeaponAmmoBG"
 	{
-		"xpos"			"r-10"
-		"xpos_minmode"	"r-10"		
+		"xpos"			"rs1-10"
+		"ypos"			"rs1-5"
+		"zpos"			"1"		
+		"wide"			"60"
+		"tall"			"20"
+		"image"			"replay/thumbnails/materialpanel"	
+		"teambg_2"		"replay/thumbnails/materialpanelred"
+		"teambg_3"		"replay/thumbnails/materialpanelblu"	
 	}
 	"HudWeaponLowAmmoImage"
 	{

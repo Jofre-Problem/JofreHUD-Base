@@ -7,9 +7,9 @@ Scheme
 	BaseSettings
 	{
 		//B
-		Button.BgColor					"W_ColorLinea1"
-		Button.ArmedTextColor			"W_ColorTheme1"
-		Button.ArmedBgColor				"W_BorderArmed"
+		Button.BgColor					"50 50 50 255"
+		Button.ArmedTextColor			"255 255 255 255"
+		Button.ArmedBgColor				"70 70 70 255"
 		Button.TextColor				"W_ColorTheme1"
 //		Button.DepressedTextColor		"W_ColorTheme3"
 //		Button.DepressedBgColor			"W_BorderArmedText"

@@ -1,5 +1,4 @@
 #base "base/scheme/_sourceschemebase.res"
-
 //#base "sourceschemebase.res"
 Scheme
 {
@@ -26,9 +25,9 @@ Scheme
         {
 			"1"
 			{
-			"name"           "Verdana" [$WINDOWS]
-			"name"           "Verdana" [$X360]
-			"name"           "Verdana" [$POSIX]
+			"name"           "TF2 Secondary" [$WINDOWS]
+			"name"           "TF2 Secondary" [$X360]
+			"name"           "TF2 Secondary" [$POSIX]
 			"tall"          "10" [$LINUX]
 			"tall"          "10" [$OSX]
 			"tall"           "10"
@@ -42,7 +41,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"		"Segoe UI"
+				"name"		"TF2 Secondary"
 			}
 		}
 		"MenuLarge"
@@ -57,7 +56,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"TF2 Secondary"
 			}
 		}
 
@@ -65,8 +64,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"TF2 Secondary" [$WINDOWS]
+				"name"		"TF2 Secondary" [$POSIX]
 				"tall"		"14"
 				"weight"	"500"
 			}
@@ -76,23 +75,23 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"TF2 Secondary"
 			}
 			"2"
 			{
-				"name"		"Segoe UI"
+				"name"		"TF2 Secondary"
 			}
 			"3"
 			{
-				"name"		"Segoe UI"
+				"name"		"TF2 Secondary"
 			}
 			"4"
 			{
-				"name"		"Segoe UI"
+				"name"		"TF2 Secondary"
 			}
 			"5"
 			{
-				"name"		"Segoe UI"
+				"name"		"TF2 Secondary"
 			}
 		}
 		

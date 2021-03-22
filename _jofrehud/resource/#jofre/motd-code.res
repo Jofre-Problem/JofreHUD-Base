@@ -62,7 +62,7 @@
 	{
 		"ControlName"		"CCvarSlider"
 		"fieldName"		"GammaSlider"
-		"xpos"		"50"
+		"xpos"		"55"
 		"ypos"		"r140"
 		"wide"		"p0.2"
 		"tall"		"10"

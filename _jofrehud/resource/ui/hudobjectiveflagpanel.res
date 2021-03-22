@@ -1,4 +1,6 @@
 #base "../../#uni_base/filesv1/leftsidebg/main.res"
+#base "../../#uni_base/filesv1/rightsidebg/main.res"
+#base "../../#uni_base/filesv1/rightsidebg/content1.res"
 "Resource/UI/HudObjectiveFlagPanel.res"
 {
 	"ObjectiveStatusFlagPanel"
@@ -25,6 +27,7 @@
 		"ypos"			"r75"	[$WIN32]
 		"ypos"			"r96"	[$X360]
 		"zpos"			"1"
+		"visible"		"0"
 		
 		"if_hybrid"
 		{
@@ -44,19 +47,7 @@
 
 	"RightSideBG"
 	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"RightSideBG"
-		"xpos"			"c-140"
-		"ypos"			"r75"	[$WIN32]
-		"ypos"			"r96"	[$X360]
-		"zpos"			"1"
-		"wide"			"280"
-		"tall"			"80"
-		"visible"		"0"
-		"enabled"		"0"
-		"image"			"../hud/objectives_flagpanel_bg_right"
-		"scaleImage"	"1"
-
+		"visible"		"0"	
 		"if_hybrid"
 		{
 			"visible"	"0"

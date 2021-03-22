@@ -20,7 +20,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"ReloadIcon"
-		"xpos"				"75"
+		"xpos"				"115"
 		"ypos"				"0"
 		"zpos"				"10"
 		"wide"				"15"
@@ -281,10 +281,10 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"ToggleChatButton"
-			"xpos"			"r112"
+			"xpos"			"78"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"p0.045"
+			"wide"			"15"
 			"tall"			"13"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -321,7 +321,25 @@
 				"enabled"		"0"
 			}						
 		}		
+		"ChatLabel"
+		{
+			"ControlName"			"CExLabel"
+			"fieldName"				"ChatLabel"
+			"font"					"ItemTrackerScore_InGame"
+			"labelText"				"Say hi!"
+			"xpos"					"0"
+			"ypos"					"0"
+			"zpos"					"0"
+			"textInsetY"			"2"
+			"textAlignment"			"west"
 
+			"wide"					"30"
+			"tall"					"13"
+			"fgcolor_override" 		"W_ColorIcons1"		
+			"pin_to_sibling" "ToggleChatButton"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"				
+		}
 
 		"PartySlot0"
 		{
@@ -714,7 +732,7 @@
 			"xpos"			"rs1"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"p0.045"
+			"wide"			"p0.025"
 			"tall"			"13"
 			"autoResize"	"0"
 			"pinCorner"		"3"
@@ -774,7 +792,7 @@
 			"xpos"			"rs1"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"p0.045"
+			"wide"			"p0.025"
 			"tall"			"13"
 			"autoResize"	"0"
 			"pinCorner"		"3"
@@ -845,7 +863,7 @@
 			"xpos"			"rs1-p0.045"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"p0.045"
+			"wide"			"p0.025"
 			"tall"			"13"
 			"autoResize"	"0"
 			"pinCorner"		"0"

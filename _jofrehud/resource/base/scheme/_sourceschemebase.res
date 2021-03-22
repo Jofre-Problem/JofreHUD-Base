@@ -24,3 +24,4 @@
 #base "colors/dullwhite.res"
 #base "colors/offwhite.res"
 #base "bs/borderdot.res"
+#base "!custom/tf2.res"

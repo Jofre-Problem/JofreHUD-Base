@@ -29,7 +29,7 @@
 			xPos					0
 			yPos					0
 			zPos					1040
-			wide					2
+			wide					p0.0015
 			tall					f0
 			fillColor				"W_ColorLinea1"
 			mouseInputEnabled			0			// mouse input passes though to panels below
@@ -716,22 +716,6 @@
 			"fieldName"		"MOTD_NextButton"
 			"xpos"			"r0"
 		}
-		"AmigosLabel"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"AmigosLabel"
-			"font"			"InstructionalText"
-			"labelText"		"#TF_Competitive_Friends"
-				"textAlignment"	"center"
-				"xpos"			"10"
-				"ypos"			"155"
-				"wide"			"p0.266"
-				"tall"			"15"
-			"visible"		"1"
-			"enabled"		"1"
-			"allcaps"		"1"
-			"fgcolor_override"	"W_ColorTexto1"
-		}		
 		"NewMOTDLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -753,14 +737,12 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"FriendsContainer"
 		"xpos"			"10"
-		"ypos"			"170"
+		"ypos"			"70"
 		"zpos"			"20"
 		"wide"			"p0.266"
-		"tall"			"73"
+		"tall"			"173"
 		"visible"		"1"
-
 		"bgcolor_override"		"W_ColorTheme1"
-
 		"SteamFriendsList"
 		{
 			"ControlName"	"CSteamFriendsListPanel"
@@ -769,23 +751,20 @@
 			"ypos"			"0"
 			"zpos"			"500"
 			"wide"			"f10"
-			"tall"			"73"
+			"tall"			"173"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
-
 			"columns_count"	"2"
 			"inset_x"		"0"
 			"inset_y"		"5"
 			"row_gap"		"5"
 			"column_gap"	"10"
 			"restrict_width"	"0"
-
 			"friendpanel_kv"
 			{
 				"wide"		"p0.125"
 				"tall"		"20"
 			}
-
 			"ScrollBar"
 			{
 				"ControlName"	"ScrollBar"
@@ -797,7 +776,6 @@
 				"zpos"			"1000"
 				"nobuttons"		"1"
 				"proportionaltoparent"	"1"
-
 				"Slider"
 				{
 					"fgcolor_override"	"W_ColorIcons1"
@@ -818,366 +796,6 @@
 				}
 			}
 		}
-	}	
-		"RankPanel"				// player's name, casual/competitive label, level/rank and stats
-		{
-				ControlName				Cpvprankpanel
-				FieldName				"RankPanel"
-				xPos					10
-				yPos					265
-				zPos					-100
-				wide					p0.2666	//f0
-				tall					50
-				mouseInputEnabled			0					// mouse input passes though to panels below
-
-				matchgroup				MatchGroup_Casual_12v12		// check out!
-				show_model				1					// check out!
-				show_type				1			
-
-				bgcolor_override		"W_ColorTheme1"
-				// check out!
-		}			
-		"EventLabel"
-		{
-				"ControlName"	"CExLabel"
-				"fieldName"		"EventLabel"
-				"font"			"InstructionalText"
-				"labelText"		"#MMenu_Update"
-				"textAlignment"	"center"
-				"xpos"			"10"
-				"ypos"			"60"
-				"wide"			"p0.266"
-				"tall"			"10"
-				"visible"		"1"
-				"enabled"		"1"
-				"allcaps"		"1"
-				"fgcolor_override"	"W_ColorTexto1"
-		}	
-		"EventPromoBG"				// 
-		{
-			ControlName				ImagePanel
-			FieldName				"EventPromoBG"
-			xPos					10
-			yPos					70
-			zPos					19
-			wide					p0.266
-			tall					75
-			fillColor				"W_ColorTheme1"
-			mouseInputEnabled			0			// mouse input passes though to panels below
-		}	
-	
-	"EventPromo"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldname"		"EventPromo"
-		"xpos"			"10"
-		"ypos"			"70"
-		"zpos"			"20"
-		"wide"			"p0.266"
-		"tall"			"75"
-		"visible"		"1"
-
-		"Background"
-		{
-			"ControlName"	"EditablePanel"
-			"fieldname"		"Background"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"0"
-			"wide"			"f0"
-//			"tall"			"120"
-			"tall"			"f0"
-			"visible"		"1"
-			"PaintBackgroundType"	"0"
-			"proportionaltoparent"	"1"
-
-			"paintborder"	"0"
-			"border"		"NoBorder"
-
-			"TitleLabel"
-			{
-				"ControlName"	"CExLabel"
-				"fieldName"		"TitleLabel"
-				"font"			"InstructionalText"
-				"labelText"		""
-				"textAlignment"	"west"
-				"xpos"			"12"
-				"ypos"			"0"
-				"wide"			"f0"
-				"tall"			"30"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"0"
-				"enabled"		"0"
-				"textinsetx"	"0"
-				"fgcolor_override"	"W_ColorIcons1"
-			}
-
-//			"ViewDetailsGlow"
-//			{
-//				"ControlName"	"Panel"
-//				"fieldName"		"ViewDetailsGlow"
-//				"xpos"			"p0.02"
-//				"ypos"			"27"
-//				"zpos"			"10"
-//				"wide"			"p0.48"
-//				"tall"			"26"
-//				"visible"		"0"
-//				"proportionaltoparent"	"1"
-//
-//				"paintborder"	"0"
-//				"border"	"MainMenuButtonGlow"
-//				"paintbackground"		"3"
-//				"bgcolor_override"	"238 103 17 255"
-//			}
-//
-//			"ViewDetailsButton"
-//			{
-//				"ControlName"	"EditablePanel"
-//				"fieldname"		"ViewDetailsButton"
-//				"xpos"			"p0.02"
-//				"ypos"			"27"
-//				"zpos"			"11"
-//				"wide"			"p0.48"
-//				"tall"			"26"
-//				"visible"		"1"
-//				"PaintBackgroundType"	"0"
-//				"proportionaltoparent"	"1"
-//
-//				"SubButton"
-//				{
-//					"ControlName"	"CExImageButton"
-//					"fieldName"		"SubButton"
-//					"xpos"			"cs-0.5"
-//					"ypos"			"0"
-//					"wide"			"f0"
-//					"tall"			"f0"
-//					"autoResize"	"0"
-//					"pinCorner"		"3"
-//					"visible"		"1"
-//					"enabled"		"1"
-//					"tabPosition"	"0"
-//					"use_proportional_insets" "1"
-//					"font"			"InstructionalText"
-//					"textAlignment"	"center"
-//					"dulltext"		"0"
-//					"brighttext"	"0"
-//					"default"		"1"
-//					"sound_depressed"	"UI/buttonclick.wav"
-//					"sound_released"	"UI/buttonclickrelease.wav"
-//					"labeltext"		"#MMenu_ViewUpdateDetails"
-//					"proportionaltoparent"	"1"
-//					"command"		"view_update_page"
-//					"actionsignallevel"	"4"
-//			
-//					"border_default"	"MainMenuButtonDefault"
-//					"border_armed"		"MainMenuButtonArmed"
-//					"paintbackground"	"0"
-//			
-//					"defaultFgColor_override" "46 43 42 255"
-//					"armedFgColor_override" "235 226 202 255"
-//					"depressedFgColor_override" "46 43 42 255"
-//			
-//					"image_drawcolor"	"117 107 94 255"
-//					"image_armedcolor"	"235 226 202 255"
-//				}
-//			}
-//
-//			"ViewWarButtonGlow"
-//			{
-//				"ControlName"	"Panel"
-//				"fieldName"		"ViewWarButtonGlow"
-//				"xpos"			"p0.5"
-//				"ypos"			"27"
-//				"zpos"			"10"
-//				"wide"			"124"
-//				"tall"			"26"
-//				"visible"		"0"
-//				"proportionaltoparent"	"1"
-//
-//				"paintborder"	"0"
-//				"border"	"MainMenuButtonGlow"
-//				"paintbackground"		"3"
-//				"bgcolor_override"	"238 103 17 255"
-//			}
-//
-//			"ViewWarButton"
-//			{
-//				"ControlName"	"EditablePanel"
-//				"fieldname"		"ViewWarButton"
-//				"xpos"			"p0.5"
-//				"ypos"			"27"
-//				"zpos"			"11"
-//				"wide"			"p0.48"
-//				"tall"			"26"
-//				"visible"		"1"
-//				"PaintBackgroundType"	"0"
-//				"proportionaltoparent"	"1"
-//
-//				"SubButton"
-//				{
-//					"ControlName"	"CExImageButton"
-//					"fieldName"		"SubButton"
-//					"xpos"			"cs-0.5"
-//					"ypos"			"0"
-//					"wide"			"f0"
-//					"tall"			"f0"
-//					"autoResize"	"0"
-//					"pinCorner"		"3"
-//					"visible"		"1"
-//					"enabled"		"1"
-//					"tabPosition"	"0"
-//					"use_proportional_insets" "1"
-//					"font"			"InstructionalText"
-//					"textAlignment"	"center"
-//					"dulltext"		"0"
-//					"brighttext"	"0"
-//					"default"		"1"
-//					"sound_depressed"	"UI/buttonclick.wav"
-//					"sound_released"	"UI/buttonclickrelease.wav"
-//					"labeltext"		"#MMenu_ViewWar"
-//					"proportionaltoparent"	"1"
-//					"command"		"view_war"
-//					"actionsignallevel"	"4"
-//			
-//					"border_default"	"MainMenuButtonDefault"
-//					"border_armed"		"MainMenuButtonArmed"
-//					"paintbackground"	"0"
-//			
-//					"defaultFgColor_override" "46 43 42 255"
-//					"armedFgColor_override" "235 226 202 255"
-//					"depressedFgColor_override" "46 43 42 255"
-//			
-//					"image_drawcolor"	"117 107 94 255"
-//					"image_armedcolor"	"235 226 202 255"
-//				}
-//			}
-			
-			"CyclingAd"
-			{
-				"ControlName"			"CCyclingAdContainerPanel"
-				"fieldName"				"CyclingAd"
-				"xpos"					"0"
-//				"ypos"					"p0.47"
-				"ypos"					"0"
-				"zpos"					"100"
-				"wide"					"f0"
-//				"tall"					"p0.5"
-				"tall"					"f0"
-				"visible"				"1"
-				"enabled"				"1"
-				"scaleImage"			"1"
-				"proportionaltoparent"	"1"
-
-				"bgcolor_override"		"Blank"
-
-				"items"
-				{
-					"0"
-					{
-						"item"		"Winter 2020 Cosmetic Key" 
-						"show_market"	"0"
-					}
-					"1"
-					{
-						"item"		"Winter 2020 Cosmetic Case"
-						"show_market"	"1"
-					}
-					"2"
-					{
-						"item"		"Winter 2020 War Paint Key"
-						"show_market"	"0"
-					}
-					"3"
-					{
-						"item"		"Winter 2020 War Paint Case"
-						"show_market"	"1"
-					}
-					"4"
-					{
-						"item"		"Taunt: The Pooped Deck"
-						"show_market"	"0"
-					}
-					"5"
-					{
-						"item"		"Taunt: Time Out Therapy"
-						"show_market"	"0"
-					}
-					"6"
-					{
-						"item"		"Taunt: Rocket Jockey"
-						"show_market"	"0"
-					}
-					"7"
-					{
-						"item"		"Taunt: The Boston Boarder"
-						"show_market"	"0"
-					}
-					"8"
-					{
-						"item"		"Taunt: Scorcher's Solo"
-						"show_market"	"0"
-					}
-					"9"
-					{
-						"item"		"Taunt: Texas Truckin"
-						"show_market"	"0"
-					}
-					"10"
-					{
-						"item"		"Taunt: Spin-to-Win"
-						"show_market"	"0"
-					}
-					"11"
-					{
-						"item"		"Taunt: The Fist Bump"
-						"show_market"	"0"
-					}
-					"12"
-					{
-						"item"		"Map Token Pier"
-						"show_market"	"0"
-					}
-					"13"
-					{
-						"item"		"Strange Filter: Pier (Community)"
-						"show_market"	"0"
-					}					
-					"14"
-					{
-						"item"		"Map Token SnowVille"
-						"show_market"	"0"
-					}
-					"15"
-					{
-						"item"		"Strange Filter: SnowVille (Community)"
-						"show_market"	"0"
-					}
-					"16"
-					{
-						"item"		"Map Token Snowfall"
-						"show_market"	"0"
-					}
-					"17"
-					{
-						"item"		"Strange Filter: Snowfall (Community)"
-						"show_market"	"0"
-					}
-					"18"
-					{
-						"item"		"Map Token Wutville"
-						"show_market"	"0"
-					}
-					"19"
-					{
-						"item"		"Strange Filter: Wutville (Community)"
-						"show_market"	"0"
-					}
-				}
-			}
-
-		} // Background
-
-	} // EventPromo			
+	}						
 	}
 }

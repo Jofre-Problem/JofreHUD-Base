@@ -50,39 +50,6 @@
 			"scaleimage"		"1"
 		}
 	}
-	"BlueScoreBG"
-	{
-		"ControlName"		"CIconPanel"
-		"fieldName"		"BlueScoreBG"
-		"xpos"			"c-38"
-		"ypos"			"-4"
-		"wide"			"42"
-		"tall"			"14"
-		"proportionaltoparent"	"1"
-		"visible"		"1"
-		"enabled"		"1"
-		"PaintBackgroundType"	"2"
-		"border"		"MaterialBlue"
-		"paintbackground"	"0"
-
-	}
-
-	"RedScoreBG"
-	{
-		"ControlName"	"CIconPanel"
-		"fieldName"		"RedScoreBG"
-		"xpos"			"c-4"
-		"ypos"			"-4"
-		"wide"			"42"
-		"tall"			"14"
-		"proportionaltoparent"	"1"
-		"visible"		"1"
-		"enabled"		"1"
-		"PaintBackgroundType"	"2"
-		"border"		"MaterialRed"
-		"paintbackground"	"0"
-	}
-
 	"TimerBG"
 	{
 		"ControlName"		"CIconPanel"
@@ -90,7 +57,7 @@
 		"xpos"			"c-37"
 		"ypos"			"-4"
 		"wide"			"74"
-		"tall"			"30"
+		"tall"			"15"
 		"zpos"			"-1"
 		"proportionaltoparent"	"1"
 		"visible"		"1"

@@ -89,10 +89,10 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusTimePanel"
-		"xpos"				"c-55"
+		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"2"
-		"wide"				"110"
+		"wide"				"f0"
 		"tall"				"150"
 		"visible"			"0"
 		"enabled"			"1"
@@ -103,11 +103,11 @@
 		"PositiveColor"			"0 255 0 255"
 		"NegativeColor"			"255 0 0 255"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"CustomPrimero"
+		"delta_item_font"		"CustomSegundo"
 
 		if_match
 		{
-			"xpos"					"cs-0.5"
+			"xpos"					"0"
 			"wide"					"130"
 			"delta_item_x"			"35"
 			"delta_item_start_y"	"12"
@@ -115,17 +115,17 @@
 			"PositiveColor"			"0 255 0 255"
 			"NegativeColor"			"255 0 0 255"
 			"delta_lifetime"		"1.5"
-			"delta_item_font"		"CustomPrimero"
+			"delta_item_font"		"CustomSegundo"
 		}
 		
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"CustomPrimero"
+			"font"			"CustomSegundo"
 			"fgcolor"		"TanLight"
-			"xpos"			"23"
-			"ypos"			"2"
+			"xpos"			"cs-0.5"
+			"ypos"			"0"
 			"zpos"			"3"
 			"wide"			"45"
 			"tall"			"31"
@@ -141,9 +141,7 @@
 				"xpos"			"cs-0.5"
 				"ypos"			"2"
 				"tall"			"10"
-				"font"			"CustomPrimero"
-				"font_minbad"	"CustomPrimero"
-				"font_lodef"	"CustomPrimero"
+				"font"			"CustomSegundo"
 			}
 		}	
 	}

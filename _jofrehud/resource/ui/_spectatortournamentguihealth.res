@@ -131,7 +131,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"replay/thumbnails/null"
-		"border"			"blurborder"
+		"border"			"noborder"
 		"scaleImage"	"1"
 	}
 
@@ -148,7 +148,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"			"180 180 180 55"
-		"border"			"blurborder"
+		"border"			"noborder"
 		"scaleImage"	"1"
 
 	}

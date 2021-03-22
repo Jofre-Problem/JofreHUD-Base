@@ -42,18 +42,4 @@
 		"enabled"		"1"
 		"tabPosition"		"0"
 	}
-	"ElementTreeToolbar"
-	{
-		"ControlName"		"CPropertiesTreeToolbar"
-		"fieldName"		""ElementTreeToolbar""
-		"xpos"		"0"
-		"ypos"		"0"
-		"wide"		"1157"
-		"tall"		"22"
-		"autoResize"		"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-	}
 }

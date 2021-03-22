@@ -1,0 +1,1 @@
+	#base	"../../../../resource/ui/hudammoweapons.res"

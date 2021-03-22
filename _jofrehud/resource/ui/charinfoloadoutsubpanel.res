@@ -6,7 +6,6 @@
 //#base "../#jofre/efecto-optico.res"
 //#base "../#jofre/socialmedia.res"
 //#base "../../#jofre/partymembers.res"
-#base "../../_customization/resource/ui/summersale_border.res"
 "Resource/UI/CharInfoLoadoutSubPanel.res"
 {
 	// can't change pos, width, height
@@ -22,17 +21,6 @@
 
 		itemcountcolor			"OrangeLight"		// check out!
 		itemcountcolor_noitems		"117 105 94 255"
-	}
-	"PartySlot0"
-	{
-		"ControlName""CDashboardPartyMember"
-		"fieldName""PartySlot0"
-		"xpos""cs-0.5"
-		"ypos""40"
-		"zpos""50"
-		"wide""42"
-		"tall""o1"
-		"party_slot"	"0"
 	}
 	"DownBar"
 	{

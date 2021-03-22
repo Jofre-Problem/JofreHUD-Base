@@ -10,3 +10,4 @@
 - heartsetup - spadessetup /addons/ wrong field name on playerpositionlabel stuff
 -> divider0 wrong fieldname
 - customgamepage_filters double code! "addcurrentserverbutton" repeats himself 2 times?!!
+- ElementTreeToolbar double "" BRUH

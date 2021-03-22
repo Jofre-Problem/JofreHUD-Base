@@ -3,8 +3,8 @@
 
 //	#base "../#jofre/downbar.res" :: check mainmenu - downbartype.res"
 
-	#base "../../_customization/resource/ui/mainmenu - downbartype.res"
-	#base "../../_customization/resource/ui/mainmenu_safemode.res"
+	#base "../../#customization/resource/ui/mainmenu - downbartype.res"
+	#base "../../#customization/resource/ui/mainmenu_safemode.res"
 		
 //	#base "../#jofre/dashboard_bg.res"
 //	#base "../#jofre/loadout_explanation_bg.res"
@@ -16,6 +16,10 @@
 //	#base "../#jofre/safe-mode.res"
 
 //	#base "../#bases/1rankpanel.res"
+
+	#base "../../#customization/resource/ui/summersale_border.res"
+
+
 "Resource/UI/MainMenuOverride.res"
 {
 	"MainMenuOverride"
@@ -23,13 +27,25 @@
 		"bgcolor_override"	"Blank"	
 	}
 
+	"PartySlot0"
+	{
+		"ControlName""CDashboardPartyMember"
+		"fieldName""PartySlot0"
+		"xpos""rs1-30"
+		"ypos""50"
+		"zpos""50"
+		"wide""42"
+		"tall""o1"
+		"party_slot"	"0"
+	}	
+
 	"TFLogoImage"
 	{
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"image"			"replay/thumbnails/null"
+	//	"image"			"replay/thumbnails/null"
 	}	
 				
 	"NotificationNoYet"
@@ -1217,18 +1233,6 @@
 		pin_corner_to_sibling		PIN_TOPLEFT
 		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}		
-	"ClickAwayPanel"  		// catches when player clicks away from something; needed to close context menus
-	{
-		ControlName				CExButton
-		FieldName				"ClickAwayPanel"
-		xPos					0
-		yPos					0
-		zPos					999				// below DashboardDimmer
-		wide					f0
-		tall					480
-		alpha					0
-	}
-	
 	"Notifications_ShowButtonPanel"	// notification alert
 	{
 		ControlName				EditablePanel
@@ -1597,12 +1601,6 @@
 		"visible"		"0"
 		"enabled"		"0"
 	}
-	"FriendsContainer"	
-	{
-		"wide"			"f0"
-		"tall"			"f0"
-		"xpos"		"r0"
-	}	
 	"BackgroundFooter"
 	{
 		"wide"			"0"
@@ -1672,7 +1670,11 @@
 		wide				0
 		tall				0
 	}
-	
+	"FriendsContainer"
+	{
+		"wide"			"0"
+		"tall"			"0"
+	}	
 	"MOTD_ShowButtonPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -1741,8 +1743,8 @@
 	{
 			xpos					0
 			ypos					0
-			wide					0	//f0
-			tall					0
+			wide					f0	//f0
+			tall					f0
 	}	
 		
 

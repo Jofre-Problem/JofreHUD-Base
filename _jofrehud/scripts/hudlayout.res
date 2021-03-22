@@ -1,7 +1,8 @@
 //	#base "..\resource\#beta\c_spacer.res"
-	#base "../_customization/scripts/transparent.res"
-	#base "../_customization/scripts/damageindicator.res"
-	#base "../../ui_overrides/extrares_/4plug/general_1.res"
+	#base "../#customization/scripts/transparent.res"
+	#base "../#customization/scripts/damageindicator.res"
+	#base "../#customization/!addons/#enabled/centered_health/hudlayout.res"
+	#base "../#customization/!addons/#enabled/jofre_hud/hudlayout.res"	
 "Resource\HudLayout.res"
 {
 	HudControlPointIcons
@@ -26,52 +27,23 @@
 		"wide"	 "f0"
 		"tall"	 "p0.6"
 
-		"MaxDeathNotices" "10" // 1 KF
-		"IconScale"		"0.1"
-		"LineHeight"	"12" // 3 KF
-		"LineSpacing"	"p0.0007" // 4 KF
-		"CornerRadius"	"0" // 2 KF
-		"RightJustify"	"1"	// If 1, draw notices from the right
+		"MaxDeathNotices" 							"12"
+		"IconScale"	  								"0.35"
+		"LineHeight"	  							"12"
+		"LineSpacing"	 							"0"
+		"CornerRadius"	  							"0"
+		"RightJustify"	  							"1"
 		
 		"TextFont"		"MenuKeys"
 		
 		"TeamBlue"		"83 155 242 255"
 		"TeamRed"		"243 82 82 255"
-		"IconColor"		"G_KillfeedIcon"
+		"IconColor"		"WhiteSolid"
 		"LocalPlayerColor"	"65 65 65 255"
 
-		"BaseBackgroundColor"	"0 0 0 225"
-		"LocalBackgroundColor"	"255 255 255 214"//"G_Killfeed_Local"	
+		"BaseBackgroundColor"						"0 0 0 100"
+		"LocalBackgroundColor"						"240 240 240 200"
 	}
-//	"Spacer"
-//	{
-//	}
-	HudWeaponAmmo
-	{
-		"xpos"	"0"	[$WIN32]
-		"xpos_minmode"	"0"	[$WIN32]
-		"ypos"	"0"	[$WIN32]
-		"ypos_minmode"	"0"	[$WIN32]
-		"xpos"	"0"	[$X360]
-		"ypos"	"0"	[$X360]
-		"wide"	"f0"
-		"tall"	"480"
-	}
-	
-	HudMedicCharge
-	{
-		"xpos"			"0"	[$WIN32]
-		"xpos_minmode"	"0"	[$WIN32]
-		"ypos"			"0"	[$WIN32]
-		"ypos_minmode"	"0"	[$WIN32]
-		"xpos"			"0"	[$X360]
-		"ypos"			"0"	[$X360]
-		"wide"			"f0"
-		"tall"			"480"
-		"zpos"			"2"
-	//	"pin_to_sibling"	"HudWeaponAmmo"	 //HELL		
-	}
-	
 	HudDemomanCharge
 	{
 		"xpos"			"0"	[$WIN32]
@@ -171,47 +143,6 @@
 	{
 		"wide"					"p1"
 		"tall"					"p1"
-	}
-	
-	CMainTargetID
-	{
-		"fieldName" 	"CMainTargetID"
-		"visible" 	"0"
-		"enabled" 	"1"
-		"xpos"		"c-126"
-		"ypos"		"275"
-		"wide"	 	"252"
-		"tall"	 	"50"
-		"priority"	"40"
-		"priority_lodef"	"5"
-	}
-	CSpectatorTargetID
-	{
-		"fieldName" 	"CSpectatorTargetID"
-		"visible" 	"0"
-		"enabled" 	"1"
-		"xpos"		"c-126"
-		"ypos"		"-1110-555" //-550
-		"wide"	 	"252"
-		"tall"	 	"1035"
-		"priority"	"40"
-		
-		"x_offset" "0"
-		"y_offset" "0"
-	
-	}
-	
-	CSecondaryTargetID
-	{
-		"fieldName" 	"CSecondaryTargetID"
-		"visible" 	"0"
-		"enabled" 	"1"
-		"xpos"		"c-126"
-		"ypos"		"-165"
-		"wide"	 	"252"
-		"tall"	 	"550"
-		"priority"	"35"
-
 	}
 	
 	HudTournament

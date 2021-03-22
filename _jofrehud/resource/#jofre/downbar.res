@@ -22,7 +22,7 @@
 		zPos					3001
 		wide					f0
 		tall					p0.0015		//p0.05 = 1mm...		525+15=		1-  p0.0540		
-		bgcolor_override				"W_ColorIcons1"//"W_ColorIcons1"
+		bgcolor_override				"Blank"//"W_ColorIcons1"
 		mouseInputEnabled			0			// mouse input passes though to panels below	
 
 		pin_to_sibling		"DownBar"	

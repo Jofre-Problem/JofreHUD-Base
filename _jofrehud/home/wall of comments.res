@@ -22,6 +22,21 @@ CmGunner13 :  WHEN FUCKING JOFRE FUCKING PROBLEM IS ON
 GrumpyyCat :  ggs
 CmGunner13 :  Yall are a different breed of retarded
 
+[Dead] Heatmaker :  it hurts to watch Jofre's fp perspective
+*DEAD* Funky The Notorious K.I.P :  time he was blind h
+*DEAD* Funky The Notorious K.I.P :  how was he still juking?
+[Dead] Heatmaker :  his frames are painted at this point, not generated
+
+Ignored alimoodymi :  i'm sad..
+Dust Biter :  why
+Ignored alimoodymi :  jofre is hee..
+Ignored alimoodymi :  !haletoggle
+Jofre Problem? :  what
+Ignored alimoodymi :  i won'
+Little Mr. Stormy :  does jofre have the ability to cause depression?
+Ignored alimoodymi :  i won't become be hale useless jofre.
+
+
 TRACKLIST:
 
 Troller Of Everything FULL MUSIC VIDEO

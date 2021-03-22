@@ -1,4 +1,4 @@
-#base "res_base/MatchMakingDashboardSidePanel.res"
+#base "res_base/matchmakingdashboardsidepanel.res"
 
 "Resource/UI/MatchMakingDashboardPlayList.res"
 {

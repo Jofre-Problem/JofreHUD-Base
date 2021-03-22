@@ -1,4 +1,4 @@
-#base "../../_customization/resource/ui/summersale_border.res"
+#base "../../#customization/resource/ui/summersale_border.res"
 "_jofrehud/resource/#jofre/nobar.res"
 {
 		"PartySlot1"
