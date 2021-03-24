@@ -6,6 +6,8 @@
 #base "../base/internetgames.res"
 #base "../base/refreshquickbtn.res"
 #base "../../#uni_base/filesv1/divider1/divider1_main.res"
+#base "#bases/buildmodedialog_base.res"
+#base "../../#uni_base/filesv1/divider2/main.res"
 "servers/InternetGamesPage.res"
 {
 	"RefreshQuickButton"
@@ -73,21 +75,15 @@
 	}
 	"Divider2"
 	{
-		"ControlName"		"Divider"
-		"fieldName"		"Divider2"
 		"xpos"		"192"
 		"wide"		"2"
 		"tall"		"24"
-		"autoResize"		"0"
 		"pinCorner"		"2"
-		"visible"		"0"
-		"enabled"		"0"
 		"if_workshop_enabled"
 		{
 			"visible"		"1"
 			"enabled"		"1"
 		}
-		"tabPosition"		"0"
 	}
 	"TagLabel"
 	{

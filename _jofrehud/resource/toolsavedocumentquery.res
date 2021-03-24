@@ -1,4 +1,12 @@
 #base "res_base/toolperforce_base.res"
+#base "../#uni_base/filesv1/cancel/main.res"
+#base "../#uni_base/filesv1/cancel/main2.res"
+#base "../#uni_base/filesv1/cancel/def-is0.res"
+#base "../#uni_base/filesv1/cancel/is-center.res"
+#base "../#uni_base/filesv1/cancel/wide-is64.res"
+#base "../#uni_base/filesv1/cancel/tall-is24.res"
+#base "../#uni_base/filesv1/cancel/label/cancel.res"
+#base "../#uni_base/filesv1/cancel/command/cancel.res"
 "resource/ToolSaveDocumentQuery.res"
 {
 	"SaveDocumentQuery"
@@ -45,26 +53,5 @@
 	{
 		"xpos"		"210"
 		"ypos"		"77"
-	}
-	"Cancel"
-	{
-		"ControlName"		"Button"
-		"fieldName"		"Cancel"
-		"xpos"		"350"
-		"ypos"		"77"
-		"wide"		"64"
-		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"labelText"		"Cancel"
-		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"wrap"		"0"
-		"Command"		"cancel"
-		"Default"		"0"
 	}
 }

@@ -1,5 +1,23 @@
+	#base "../../../#customization/resource/ui/summersale_border.res"
+
 "Resource/UI/pvprankpanel.res"
 {
+	"PartySlot0"
+	{
+		"ControlName""CDashboardPartyMember"
+		"fieldName""PartySlot0"
+		"xpos""cs-0.5"
+		"ypos""40"
+		"zpos""50"
+		"wide""42"
+		"tall""o1"
+		"party_slot"	"0"
+
+		if_mini
+		{
+			"visible"		"0"
+		}		
+	}	
 	"ModelContainer"
 	{
 		"ControlName"	"EditablePanel"
@@ -206,15 +224,15 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"NameLabel"
-			"xpos"			"-80"
-			"ypos"			"50"
+			"xpos"			"cs-0.5"
+			"ypos"			"100"
 			"wide"			"f0"
 			"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"
 			"font"			"CustomTercero"
 			"fgcolor_override"	"W_ColorIcons1"
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"labelText"		"%name%"
 			"proportionaltoparent"	"1"
 
@@ -235,7 +253,7 @@
 			"enabled"		"1"
 			"font"			"CustomPrimero"
 			"fgcolor_override"	"W_ColorIcons1"
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"labelText"		"%desc1%"
 			"proportionaltoparent"	"1"
 			"pin_to_sibling"		"NameLabel"
@@ -255,7 +273,7 @@
 			"enabled"		"1"
 			"font"			"CustomPrimero"
 			"fgcolor_override"	"W_ColorIcons1"
-			"textAlignment"	"east"
+			"textAlignment"	"center"
 			"labelText"		"%desc2%"
 			"proportionaltoparent"	"1"
 			"pin_to_sibling"		"DescLine1"

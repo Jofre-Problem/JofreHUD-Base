@@ -25,14 +25,14 @@ Scheme
         {
 			"1"
 			{
-			"name"           "TF2 Secondary" [$WINDOWS]
-			"name"           "TF2 Secondary" [$X360]
-			"name"           "TF2 Secondary" [$POSIX]
-			"tall"          "10" [$LINUX]
-			"tall"          "10" [$OSX]
-			"tall"           "10"
-			"tall_lodef" "10"
-			"tall_hidef" "10"
+			"name"           "Verdana" [$WINDOWS]
+			"name"           "Verdana" [$X360]
+			"name"           "Verdana" [$POSIX]
+			"tall"          "9" [$LINUX]
+			"tall"          "9" [$OSX]
+			"tall"           "9"
+			"tall_lodef" "30"	//probably the smaller ones
+			"tall_hidef" "30"	//probably....
 			"weight"         "0"
 			"outline"        "1"
 			}
@@ -100,7 +100,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -108,7 +109,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -116,7 +118,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 	}

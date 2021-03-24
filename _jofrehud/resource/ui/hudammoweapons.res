@@ -4,8 +4,8 @@ Resource/UI/HudAmmoWeapons.res
 {
 	"HudWeaponAmmoBG"
 	{
-		"xpos"			"rs1-10"
-		"ypos"			"rs1-5"
+		"xpos"			"r0+10"
+		"ypos"			"r0+10"
 		"zpos"			"1"		
 		"wide"			"60"
 		"tall"			"20"

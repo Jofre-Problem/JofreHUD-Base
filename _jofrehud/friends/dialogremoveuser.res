@@ -1,4 +1,10 @@
 #base "../resource/#bases/1sysmenu.res"
+#base "../#uni_base/filesv1/cancel/main.res"
+#base "../#uni_base/filesv1/cancel/main2.res"
+#base "../#uni_base/filesv1/cancel/def-is0.res"
+#base "../#uni_base/filesv1/cancel/is-center.res"
+#base "../#uni_base/filesv1/cancel/tall-is24.res"
+#base "../#uni_base/filesv1/cancel/command/close.res"
 "Friends/DialogRemoveUser.res"
 {
 	"DialogRemoveUser"

@@ -7,7 +7,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"10"
 				"weight"	"500"
 				"antialias" "1"
@@ -18,7 +19,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"7"
 				"weight"	"500"
 				"antialias" "1"
@@ -26,9 +28,10 @@ Scheme
 		}
 		"DefaultFixedOutline"
 		{
-		"1"
+			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"14"
 				"weight"	"0"
 				"antialias"	"1"
@@ -40,7 +43,8 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"14"
 				"weight"	"0"
 				"antialias"	"1"
@@ -52,7 +56,8 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"12"
 				"weight"	"0"
 				"antialias"	"1"
@@ -74,7 +79,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"24"
 				"weight"	"900"
 			}
@@ -84,7 +90,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"20"
 				"weight"	"900"
 			}
@@ -94,7 +101,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"18"
 				"weight"	"900"
 			}
@@ -106,7 +114,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"40"
 				"weight"	"900"
 			}
@@ -115,7 +124,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"41"
 				"weight"	"900"
 			}
@@ -124,7 +134,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"42"
 				"weight"	"900"
 			}
@@ -133,7 +144,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"43"
 				"weight"	"900"
 			}
@@ -142,7 +154,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"44"
 				"weight"	"900"
 			}
@@ -151,7 +164,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"45"
 				"weight"	"900"
 			}
@@ -160,7 +174,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"12"
 				"weight"	"0"
 				"antialias"	"1"
@@ -177,7 +192,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Segoe UI" [$WINDOWS]
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"10"
 				"weight"	"0"
 				"dropshadow" "1"

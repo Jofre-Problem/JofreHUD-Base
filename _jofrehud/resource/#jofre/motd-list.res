@@ -737,12 +737,12 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"FriendsContainer"
 		"xpos"			"10"
-		"ypos"			"70"
+		"ypos"			"65"
 		"zpos"			"20"
 		"wide"			"p0.266"
-		"tall"			"173"
+		"tall"			"223"
 		"visible"		"1"
-		"bgcolor_override"		"W_ColorTheme1"
+		"bgcolor_override"		"Blank"
 		"SteamFriendsList"
 		{
 			"ControlName"	"CSteamFriendsListPanel"
@@ -751,7 +751,7 @@
 			"ypos"			"0"
 			"zpos"			"500"
 			"wide"			"f10"
-			"tall"			"173"
+			"tall"			"223"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 			"columns_count"	"2"
@@ -772,7 +772,7 @@
 				"xpos"			"rs1+1"
 				"ypos"			"0"
 				"tall"			"f0"
-				"wide"			"5" // This gets slammed from client schme.  GG.
+				"wide"			"p0.01" // This gets slammed from client schme.  GG.
 				"zpos"			"1000"
 				"nobuttons"		"1"
 				"proportionaltoparent"	"1"

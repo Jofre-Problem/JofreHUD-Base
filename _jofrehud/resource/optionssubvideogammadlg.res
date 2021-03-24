@@ -1,0 +1,1 @@
+#base "../#uni_base/filesv1/imagepanel1/main.res"

@@ -26,7 +26,7 @@ Scheme
 		Replay.RenderDialog.BgColor							"LighterDarkBrown"
 		
 		Econ.Dialog.BgColor									"87 89 93 255"
-		Econ.Button.BgColor									"BlueLight"
+		Econ.Button.BgColor									"150 200 220 255"
 		Econ.Button.FgColor									"White"
 		Econ.Button.ArmedBgColor							"OrangeLight"
 		Econ.Button.ArmedFgColor							"White"
@@ -187,7 +187,7 @@ Scheme
 		HudCaptureProgressBar.InActive						"HudProgressBarInActive"
 
 		"FgColor"											"White"
-		"BgColor"											"BlackLightTransparent"
+		"BgColor"											"0 0 0 50"
 
 		"ViewportBG"										"Blank"
 		"TeamSpec"											"White"
@@ -200,16 +200,16 @@ Scheme
 
 		"ItemColor"											"OrangeLight"
 		"MenuColor"											"White"
-		"MenuBoxBg"											"BlackLightTransparent"
+		"MenuBoxBg"											"0 0 0 50"
 
 		"SelectionNumberFg"									"White"
 		"SelectionTextFg"									"White"
-		"SelectionEmptyBoxBg" 								"BlackLightTransparent"
-		"SelectionBoxBg" 									"BlackLightTransparent"
+		"SelectionEmptyBoxBg" 								"0 0 0 50"
+		"SelectionBoxBg" 									"0 0 0 50"
 		"SelectionSelectedBoxBg" 							"0 0 0 190"
 
 		"HintMessageFg"										"White"
-		"HintMessageBg" 									"BlackLightTransparent"
+		"HintMessageBg" 									"0 0 0 50"
 
 		"ProgressBarFg"										"RedLight"
 		// Top-left corner of the menu on the main screen
@@ -227,23 +227,12 @@ Scheme
 
 	//	"White"									"235 235 235 255"
 		"WhiteSolid"							"255 255 255 255"
-		"WhiteTransparent"						"235 235 235 180"
-		"WhiteMoreTransparent"					"235 235 235 150"
-		
-		"WhiteGray"								"185 185 185 255"
 		
 //"Black"									"18 18 18 255"
-		"BlackSolid"							"0 0 0 255"
-		"BlackTransparent"						"0 0 0 150"
-		"BlackLightTransparent"					"0 0 0 50"
 		
 		"Gray"									"50 50 50 255"
-		"GrayMedium"							"130 130 130 255"
-		"GrayDark"								"100 100 100 255"
-		"GrayTransparent"						"175 175 175 150"
 		
 	//	"Blue"									"66 133 244 255"
-		"BlueLight"								"150 200 220 255"
 		
 	//	"red"								"220 30 30 255"
 		"RedLight"								"245 70 70 255"
@@ -251,56 +240,6 @@ Scheme
 		"OrangeLight"							"255 200 55 255"
 		
 		"GreenLight"							"185 220 25 255"
-
-		///////////////////////////////////////////////////////////////////////////////
-		//////////////////////////// ITEM QUALITY COLORS //////////////////////////////
-		///////////////////////////////////////////////////////////////////////////////
-		
-		"Normal"									"235 235 235 50"
-		"Genuine"								"115 215 140 150"
-		"Unusual"								"215 145 255 150"
-		"Vintage"								"110 165 255 150"
-		"Unique"									"255 230 100 150"
-		"Community"								"145 225 100 150"
-		"Developer"								"255 090 205 150"
-		"SelfMade"								"145 225 100 150"
-		"Customized"							"110 165 255 150"
-		"Strange"								"255 165 105 150"
-		"Completed"								"215 145 255 150"
-		"Haunted"								"060 255 180 150"
-		"Collectors"							"245 070 070 150"
-		"PaintkitWeapon"						"235 235 235 150"
-
-		"GradedWeaponDefault"				"190 190 190 150"
-		"CivilianGrade"						"195 220 255 150"
-		"FreelanceGrade"						"115 200 255 150"
-		"MercenaryGrade"						"070 130 250 150"
-		"CommandoGrade"						"160 125 255 150"
-		"AssassinGrade"						"245 150 255 150"
-		"EliteGrade"							"255 130 130 150"
-		
-		"Normal_Hover"							"225 225 225 70"
-		"Genuine_Hover"						"105 205 130 180"
-		"Unusual_Hover"						"205 135 245 180"
-		"Vintage_Hover"						"100 155 245 180"
-		"Unique_Hover"							"245 220 090 180"
-		"Community_Hover"						"135 215 090 180"
-		"Developer_Hover"						"245 080 195 180"
-		"SelfMade_Hover"						"135 215 090 180"
-		"Customized_Hover"					"100 155 245 180"
-		"Strange_Hover"						"245 155 095 180"
-		"Completed_Hover"						"205 135 245 180"
-		"Haunted_Hover"						"050 245 170 180"
-		"Collectors_Hover"					"235 060 060 180"
-		"PaintkitWeapon_Hover"				"225 225 225 180"
-
-		"GradedWeaponDefault_Hover"		"180 180 180 180"
-		"CivilianGrade_Hover"				"185 210 245 180"
-		"FreelanceGrade"						"105 190 245 180"
-		"MercenaryGrade_Hover"				"060 120 240 180"
-		"CommandoGrade_Hover"				"150 115 245 180"
-		"AssassinGrade_Hover"				"235 140 245 180"
-		"EliteGrade_Hover"					"245 120 120 180"
 		
 		///////////////////////////////////////////////////////////////////////////////
 		//////////////////////////////// BASE COLORS //////////////////////////////////
@@ -670,7 +609,8 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"24"
 				"weight"	"900"
 				"antialias" "1"
@@ -680,8 +620,11 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				tall		"16"
+				"weight"	"900"
+				"antialias" "1"				
 			}
 		}							
 		///////////////////////////////////////
@@ -689,7 +632,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}			
 		"ChatMiniFont"
@@ -725,9 +669,9 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Trebuchet MS" [$WINDOWS]
 				"name"		"Helvetica" [!$WINDOWS]
-				"tall"		"14"
+				"tall"		"18"
 				"weight"	"400"
 				"antialias" "1"
 				"additive"	"1"
@@ -737,8 +681,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [!$OSX]
-				"name"		"Segoe UI" [$OSX]
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"9"
 				"weight"	"900"
 				"antialias" "1"
@@ -758,6 +702,7 @@ Scheme
 			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
+					"tall"		"14"			
 			}
 		}	
 		"HudHintTextLargeSmall"	//hl2
@@ -766,102 +711,71 @@ Scheme
 			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
+					"tall"		"14"			
 			}
 		}				
 		HudHintText
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"12"
-				weight	"700"
-				"yres"	"480 599"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
-				name		"Segoe UI"
-				tall		"13"	[$WIN32]
-				tall		"23"	[$X360]
-				weight	"700"
-				"yres"	"600 767"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
-				name		"Segoe UI"
-				tall		"14"
-				weight	"700"
-				"yres"	"768 1023"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
-				name		"Segoe UI"
-				tall		"20"
-				weight	"700"
-				"yres"	"1024 1199"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
-				name		"Segoe UI"
-				tall		"24"
-				weight	"700"
-				"yres"	"1200 10000"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudFontGiant"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"24"
-				"tall_lodef"	"80"
-			
-
-				antialias "1"
-				"yres"		"480 599"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
-				name		"Segoe UI"
-				tall		"32"
-			
-
-				antialias "1"
-				"yres"		"600 767"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
-				name		"Segoe UI"
-				tall		"44"
-			
-
-				antialias "1"
-				"yres"		"768 1023"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
-				name		"Segoe UI"
-				tall		"48"
-			
-
-				antialias "1"
-				"yres"		"1024 1199"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
-				name		"Segoe UI"
-				tall		"52"
-			
-
-				antialias "1"
-				"yres"		"1200 10000"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudFontGiantBold"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+		//		"name"		"Segoe UI" [$WINDOWS]
+		//		"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1014,51 +928,40 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"16"
-			
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"FontStorePrice"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"9"
-				weight	"0"
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"FontStoreOriginalPrice"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"9"
-				weight	"0"
-
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"FontStorePriceSmall"	//only used on mvm
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"6"
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"FontStorePromotion"	//unused
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"12"
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1116,7 +1019,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				tall		"18"
 				antialias "1"
 			}
@@ -1125,115 +1029,81 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"16"
-			
-
-				antialias "1"
+			//	name		"Segoe UI"
 			}
 		}
 		"SpectatorKeyHints"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"8"
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ClockSubText"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"9"
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ClockSubTextSuddenDeath"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"8"
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ClockSubTextTiny"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"8"
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudSelectionText"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"15"
-				weight	"700"
-				antialias 	"1"
-				"yres"		"1 599"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				additive	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
-				name		"Segoe UI"
-				tall		"15"	[$WIN32]
-				tall		"21"	[$X360]
-				weight	"700"
-				antialias 	"1"
-				"yres"		"600 767"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				additive	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
-				name		"Segoe UI"
-				tall		"18"
-				weight	"900"
-				antialias 	"1"
-				"yres"		"768 1023"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
-				name		"Segoe UI"
-				tall		"21"
-				weight	"900"
-				antialias 	"1"
-				"yres"		"1024 1199"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
-				name		"Segoe UI"
-				tall		"24"
-				weight	"1000"
-				antialias 	"1"
-				"yres"		"1200 10000"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		DebugOverlay
 		{
 			"1"	[$WIN32]
 			{
-				name		"Segoe UI"
-				tall		"14"
-				outline	"1"
-				"range"		"0x0000 0x017F" // Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"1"	[$X360]
 			{
-				name		"Segoe UI"
-				tall		"18"
-				weight	"200"
-				outline	"1"
+			{
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}		
 		TFTypeDeath
@@ -1262,9 +1132,8 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"16"
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1412,48 +1281,28 @@ Scheme
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"52"
-				"range" 	"0x0000 0x00FF"
-				
-				"yres"		"1 599"
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
-				name		"Segoe UI"
-				tall		"72"
-				"range" 	"0x0000 0x00FF"
-				
-				"yres"		"600 767"
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
-				name		"Segoe UI"
-				tall		"100"
-				"range" 	"0x0000 0x00FF"
-				
-				"yres"		"768 1023"
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
-				name		"Segoe UI"
-				tall		"140"
-				"range" 	"0x0000 0x00FF"
-				
-				"yres"		"1024 1199"
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
-				name		"Segoe UI"
-				tall		"180"
-				"range" 	"0x0000 0x00FF"
-				
-				"yres"		"1200 10000"
-				antialias "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"MatchSummaryTeamScores"
@@ -2262,19 +2111,16 @@ Scheme
 		{
 			"1"
 			{
-				name				"Segoe UI"
-				tall				10
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}			
 		"QuestMap_Small_Blur"
 		{
 			"1"
 			{
-				name		"Segoe UI"
-				tall		"30"
-				"antialias"	"1"
-				"scanlines"		"2"
-				"blur"			"3"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}					
 		"HudNumbers" //unused, change it! -- WIcon 25
@@ -2292,7 +2138,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Segoe UI"
+				"name"			"TF2 Build"
 				"tall"			"1"
 				"weight"		"100"
 				"additive"		"0"
@@ -2494,69 +2340,69 @@ Scheme
 		TFThinLineBorder
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
+			"backgroundtype"		"0"
 			
 			"image"					"../hud/tournament_panel_brown"
 			//"image"					"../hud/color_panel_browner"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
-			"draw_corner_width"		"8"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"8"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		TFFatLineBorderOpaque
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
+			"backgroundtype"		"0"
 			
 			"image"					"../hud/color_panel_brown_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
-			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		TFFatLineBorder
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
+			"backgroundtype"		"0"
 			
 			"image"					"../hud/color_panel_brown"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
-			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		TFFatLineBorderRedBGOpaque
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
+			"backgroundtype"		"0"
 			
 			"image"					"../hud/color_panel_red_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
-			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		TFFatLineBorderRedBGOpaque_Store
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
+			"backgroundtype"		"0"
 			
 			"image"					"../hud/color_panel_red_opaque"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
-			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"11"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		TFFatLineBorderRedBG
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
+			"backgroundtype"		"0"
 			
 			"image"					"../hud/color_panel_red"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
-			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		TFFatLineBorderRedBGMoreOpaque
 		{
@@ -2566,8 +2412,8 @@ Scheme
 			"image"					"../hud/color_panel_red_more_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
-			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		TFFatLineBorderBlueBG
 		{
@@ -2577,8 +2423,8 @@ Scheme
 			"image"					"../hud/color_panel_blu"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
-			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		TFFatLineBorderBlueBGMoreOpaque
 		{
@@ -2588,8 +2434,8 @@ Scheme
 			"image"					"../hud/color_panel_blu_more_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
-			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		TFFatLineBorderBlueBGOpaque
 		{
@@ -2599,8 +2445,8 @@ Scheme
 			"image"					"../hud/color_panel_blu_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
-			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		TFFatLineBorderClearBG
 		{
@@ -2610,10 +2456,9 @@ Scheme
 			"image"					"../hud/color_panel_clear"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
-			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
-
 		ToolTipBorder		//Not used
 		{
 			"inset" "0 0 1 1"

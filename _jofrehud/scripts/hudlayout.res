@@ -22,27 +22,27 @@
 
 	HudDeathNotice
 	{
-		"xpos"	 "rs1-5" // 6 KF
-		"ypos"	 "31" // 7 KF
-		"wide"	 "f0"
-		"tall"	 "p0.6"
+		"xpos"	 "r640"
+		"ypos"	 "64"
+		"wide"	 "628"
+		"tall"	 "468"
 
 		"MaxDeathNotices" 							"12"
 		"IconScale"	  								"0.35"
 		"LineHeight"	  							"12"
-		"LineSpacing"	 							"0"
+		"LineSpacing"	 							"-1"
 		"CornerRadius"	  							"0"
 		"RightJustify"	  							"1"
 		
-		"TextFont"		"MenuKeys"
+		"TextFont"		"CustomPrimero"
 		
-		"TeamBlue"		"83 155 242 255"
-		"TeamRed"		"243 82 82 255"
-		"IconColor"		"WhiteSolid"
-		"LocalPlayerColor"	"65 65 65 255"
+		"TeamBlue"		"25 150 255 255"
+		"TeamRed"		"255 35 30 255"
+		"IconColor"		"255 255 255 255"
+		"LocalPlayerColor"	"255 255 255 255"
 
-		"BaseBackgroundColor"						"0 0 0 100"
-		"LocalBackgroundColor"						"240 240 240 200"
+		"BaseBackgroundColor"	"32 32 32 0"
+		"LocalBackgroundColor"	"230 230 230 135"
 	}
 	HudDemomanCharge
 	{
@@ -321,9 +321,8 @@
 		"fieldName"				"HudVoiceStatus"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"r177"
-		"ypos"					"-45"
-		"ypos_minmode"			"-55"
+		"xpos" 					"5" 
+		"ypos" 					"-200" 
 		"zpos"					"100"
 		"wide"					"175"
 		"tall"					"400"

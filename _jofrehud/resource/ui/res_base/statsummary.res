@@ -216,7 +216,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"OnYourWayLabel"
-		"font"			"CustomSeptimo"
+		"font"			"CustomQuinto"
 		"labelText"		"#LoadingMap"
 		"textAlignment"		"center"
 		"xpos"			"cs-0.5"
@@ -246,11 +246,11 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapType"
-		"font"			"CustomSeptimo"
+		"font"			"CustomQuinto"
 		"labelText"		"%maptype%"
 		"textAlignment"	"center"
 		"xpos"			"cs-0.5"
-		"ypos"			"110"
+		"ypos"			"100"
 		"zpos"			"50"
 		"wide"			"f0"
 		"tall"			"30"

@@ -11,6 +11,105 @@
 #base "../../../#uni_base/filesv1/mapinfo/tab0.res"
 "Resource/UI/TeamMenu.res"
 {
+	"CrossScaleSlide"
+	{
+		"ControlName"		"CCvarSlider"
+		"fieldName"		"CrossScaleSlide"
+		"xpos"		"cs-0.5"
+		"ypos"		"c120"
+		"wide"		"p0.213"
+		"tall"		"20"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"11"
+		"leftText"		"0.00"
+		"rightText"		"25.00"
+		"minvalue"		"10"
+		"maxvalue"		"70"
+		"cvar_name"		"cl_crosshair_scale"
+		"allowoutofrange"		"1"
+	}
+
+
+	"REDPrimary"
+	{
+		"ControlName"		"CCvarSlider"
+		"fieldName"		"REDPrimary"
+		"xpos"		"0"
+		"ypos"		"10"
+		"wide"		"p0.213"
+		"tall"		"20"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"11"
+		"leftText"		"0.00"
+		"rightText"		"255.00"
+		"minvalue"		"0"
+		"maxvalue"		"255"
+		"cvar_name"		"cl_crosshair_red"
+		"allowoutofrange"		"0"
+		"zpos"		"5"
+			
+		"pin_to_sibling"		"CrossScaleSlide"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
+	}	
+
+	"GreenPrimary"
+	{
+		"ControlName"		"CCvarSlider"
+		"fieldName"		"GreenPrimary"
+		"xpos"		"0"
+		"ypos"		"10"
+		"wide"		"p0.213"
+		"tall"		"20"
+		"zpos"		"5"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"11"
+		"leftText"		"0.00"
+		"rightText"		"255.00"
+		"minvalue"		"0"
+		"maxvalue"		"255"
+		"cvar_name"		"cl_crosshair_green"
+		"allowoutofrange"		"0"
+		
+			"pin_to_sibling"		"REDPrimary"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT	
+		
+	}	
+
+	"BLUPrimary"
+	{
+		"ControlName"		"CCvarSlider"
+		"fieldName"		"BLUPrimary"
+		"xpos"		"0"
+		"ypos"		"10"
+		"wide"		"p0.213"
+		"tall"		"20"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"11"
+		"leftText"		"0.00"
+		"rightText"		"255.00"
+		"minvalue"		"0"
+		"maxvalue"		"255"
+		"cvar_name"		"cl_crosshair_blue"
+		"allowoutofrange"		"0"
+"zpos"		"5"
+		"pin_to_sibling"		"GreenPrimary"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT			
+	}		
 	"BlueCount"
 	{
 		"wide"			"0"

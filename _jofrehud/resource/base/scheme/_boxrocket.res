@@ -144,7 +144,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -152,7 +153,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -160,7 +162,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -168,7 +171,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -176,7 +180,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -184,7 +189,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -192,7 +198,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 	}

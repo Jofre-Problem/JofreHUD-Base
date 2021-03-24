@@ -30,8 +30,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [!$POSIX]
-				"name"		"Segoe UI" [$POSIX]
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"16"
 				"weight"	"500"
 			}
@@ -40,7 +40,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"16"
 				"weight"	"500"
 				"italic"	"0"
@@ -50,8 +51,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [!$POSIX]
-				"name"		"Segoe UI" [$POSIX]
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"16"
 				"weight"	"900"
 			}
@@ -60,8 +61,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [!$POSIX]
-				"name"		"Segoe UI" [$POSIX]
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"16"
 				"weight"	"900"
 				"italic"	"0"

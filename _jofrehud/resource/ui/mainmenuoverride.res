@@ -17,8 +17,6 @@
 
 //	#base "../#bases/1rankpanel.res"
 
-	#base "../../#customization/resource/ui/summersale_border.res"
-
 
 "Resource/UI/MainMenuOverride.res"
 {
@@ -27,17 +25,6 @@
 		"bgcolor_override"	"Blank"	
 	}
 
-	"PartySlot0"
-	{
-		"ControlName""CDashboardPartyMember"
-		"fieldName""PartySlot0"
-		"xpos""rs1-30"
-		"ypos""50"
-		"zpos""50"
-		"wide""42"
-		"tall""o1"
-		"party_slot"	"0"
-	}	
 
 	"TFLogoImage"
 	{

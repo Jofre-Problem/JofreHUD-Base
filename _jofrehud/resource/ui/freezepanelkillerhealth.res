@@ -1,32 +1,20 @@
-#base "res_base/spectatorguihealth_1.res"
-
+#base "../#beta/hp_player.res"
 "Resource/UI/FreezePanelKillerHealth.res"
 {
-	"PlayerStatusHealthBonusImage"
-	{
-		"xpos"			"cs-0.5"
-		"ypos"			"0"
-		"wide"			"256"
-		"tall"			"256"
-		"image"			"../hud/health_over_bg"
-		"proportionaltoparent"	"1"
-	}
-	"BuildingStatusHealthImageBG"
-	{
-		"xpos"			"cs-0.5"
-		"proportionaltoparent"	"1"
-	}
 	"PlayerStatusHealthValue"
 	{
-		"wide"			"f0"
-		"textinsety"	"-18"
-		"proportionaltoparent"	"1"
-		"textAlignment"		"center"
-	}
-	"PlayerStatusHealthValueShadow"
-	{
-		"wide"			"f0"
-		"proportionaltoparent"	"1"
-		"textAlignment"		"center"
-	}
+		"ControlName"	"Label"
+		"fieldName"		"PlayerStatusHealthValue"
+		"xpos"			"1"
+		"ypos"			"2"
+		"zpos"			"5"
+		"wide"			"40"
+		"tall"			"28"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"center"
+		"labelText"		"%Health%"
+		"font"			"CustomQuinto"
+		"fgcolor_override"		"220 220 220 255"		
+	}								
 }

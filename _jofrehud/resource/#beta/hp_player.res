@@ -1,46 +1,58 @@
 "Resource/UI/FreezePanelKillerHealth.res"
 {
-"PlayerStatusHealthImage"
-{
-"ControlName""ImagePanel"
-"fieldName""PlayerStatusHealthImage"
-"wide""0"
-"tall""0"
-"visible""0"
-"enabled""0"
-}
-"PlayerStatusHealthImageBG"
-{
-"ControlName""ImagePanel"
-"fieldName""PlayerStatusHealthImageBG"
-"wide""0" // 54
-"tall""0" // 54
-"visible""0"
-"enabled""0"
-}
-"PlayerStatusHealthBonusImage"
-{
-"ControlName""CExLabel"
-"fieldName""PlayerStatusHealthBonusImage"
-"xpos""-9999"
-"wide""0"
-"tall""0"
-"visible""0"
-"enabled""0"
-}
-
-"BuildingStatusHealthImageBG"
-{
-"ControlName""ImagePanel"
-"fieldName""BuildingStatusHealthImageBG"
-"xpos""8"
-"ypos""7"
-"zpos""2"
-"wide""19"
-"tall""19"
-"visible""1"
-"enabled""1"
-"image""../hud/health_equip_bg"
-"scaleImage""1"
-}
+	"PlayerStatusHealthImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthImage"
+		"xpos"			"9999"
+		"ypos"			"6"
+		"zpos"			"3"
+		"wide"			"200"
+		"tall"			"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+	}		
+	"PlayerStatusHealthImageBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthImageBG"
+		"xpos"			"9999"
+		"ypos"			"5"
+		"zpos"			"3"
+		"wide"			"22"
+		"tall"			"22"
+		"visible"		"0"
+		"enabled"		"0"
+		"image"			"../hud/health_bg"
+		"scaleImage"	"1"	
+	}	
+	"BuildingStatusHealthImageBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"BuildingStatusHealthImageBG"
+		"xpos"			"9999"
+		"ypos"			"2"
+		"zpos"			"3"
+		"wide"			"28"
+		"tall"			"28"
+		"visible"		"0"
+		"enabled"		"0"
+		"image"			"../hud/health_equip_bg"
+		"scaleImage"	"1"	
+	}	
+	"PlayerStatusHealthBonusImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthBonusImage"
+		"xpos"			"9999"
+		"ypos"			"5"
+		"zpos"			"3"
+		"wide"			"22"
+		"tall"			"22"
+		"visible"		"0"
+		"enabled"		"0"
+		"image"			"../hud/health_over_bg"
+		"scaleImage"	"1"	
+	}
 }

@@ -1,4 +1,3 @@
-#base "../#jofre/gradient.res"
 "Resource/UI/HudBossHealth.res"
 {
 	"BorderImage"
@@ -21,38 +20,19 @@
 	
 	"BossBG"
 	{
+		"ControlName"	"ImagePanel"
 		"fieldName"		"BossBG"
-		"xpos"			"15"
-		"ypos"			"16"
+		"xpos"			"14"
+		"ypos"			"15"
 		"zpos"			"0"
-		"wide"			"168"
-		"tall"			"8"
+		"wide"			"170"
+		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"src_corner_height"		"15"
-		"src_corner_width"		"15"			
-		"draw_corner_width"		"0"
-		"draw_corner_height" 	"0"			
-		"ControlName"	"CTFImagePanel"
-		"image"			"../hud/color_panel_brown"
-		"scaleImage"		"1"
-		"teambg_1"		"../hud/color_panel_brown"
-		"teambg_2"		"../hud/color_panel_red"
-		"teambg_2_lodef"	"../hud/color_panel_red"
-		"teambg_3"		"../hud/color_panel_blu"
-		"teambg_3_lodef"	"../hud/color_panel_blu"		
-
+		"scaleImage"	"1"
+		"fillcolor"		"32 32 32 255"
 	}
-	"Gradient"
-	{
-		"xpos"				"0"
-		"ypos"				"0"
-		"zpos"				"9"
-		"wide"				"168"
-		"tall"				"8+p0.04"
-		"pin_to_sibling"	"BossBG"
-	}	
-
+	
 	"HealthBarPanel"
 	{
 		"ControlName"		"EditablePanel"
@@ -61,10 +41,10 @@
 		"ypos"			"16"
 		"zpos"			"4"
 		"wide"			"168"
-		"tall"			"8"
+		"tall"			"18"
 		"visible"			"1"
 		"enabled"			"1"
-
+		
 		"BarImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -80,9 +60,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"image"			"../hud/halloween_bar"
-			"scaleImage"	"1"				
-			"drawcolor"		"255 0 255 255"
-					
+			"scaleImage"	"1"					
 		}
 	}				
 

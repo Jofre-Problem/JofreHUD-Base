@@ -17,7 +17,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"32"
 				"weight"	"400"
 				"antialias"	"1"

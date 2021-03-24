@@ -6,8 +6,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [!$POSIX]
-				"name"		"Segoe UI" [$POSIX]
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"12"
 				"weight"	"1000"
 			}

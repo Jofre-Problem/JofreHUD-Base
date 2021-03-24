@@ -1,4 +1,5 @@
 #base "#bases/buildmode_base.res"
+#base "../#uni_base/filesv1/helptext/main.res"
 "Resource\SteamPasswordDialog.res"
 {
 	"SteamPasswordDialog"
@@ -14,22 +15,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-	}
-	"HelpText"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"HelpText"
-		"xpos"		"30"
-		"ypos"		"48"
-		"wide"		"310"
-		"tall"		"90"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"textAlignment"		"west"
-		"dulltext"		"1"
 	}
 	"PasswordEdit"
 	{
