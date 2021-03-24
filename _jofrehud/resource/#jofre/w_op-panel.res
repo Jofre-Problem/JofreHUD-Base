@@ -11,7 +11,7 @@
 		tall					p0.954
 		"bgcolor_override"		"W_ColorTheme1"
 		"PaintBackgroundType"	"0"//"2"	
-		"border"		"B_Theme1"
+		"border"		"noborder"
 	}
 	"WindowLeftBar2"				// background for the left side buttons
 	{

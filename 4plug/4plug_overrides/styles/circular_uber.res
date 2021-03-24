@@ -13,7 +13,7 @@
 		"enabled"		"1"
 		"variable"		"charge"
 		"fg_image"		"replay/thumbnails/hp/cover"
-		"bg_image"		"replay/thumbnails/bg_blank"
+		"bg_image"		"replay/thumbnails/null"
 		"fgcolor_override"	"255 255 255 255"
 		"bgcolor_override"	"255 255 255 255"
 		"scaleImage"		"1"					

@@ -1101,7 +1101,6 @@ Scheme
 			}
 			"1"	[$X360]
 			{
-			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 			}

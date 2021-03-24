@@ -96,6 +96,10 @@ Scheme
 	}
 	CustomFontFiles
 	{
-	"13"		"resource/font/FiraSans-Bold.ttf"
+		"13"
+		{
+			"font" "resource/font/FiraSans-Bold.ttf"
+			"name" "Fira Sans Bold"
+		}
 	}			
 }

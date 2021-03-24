@@ -1220,113 +1220,6 @@
 		pin_corner_to_sibling		PIN_TOPLEFT
 		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}		
-	"Notifications_ShowButtonPanel"	// notification alert
-	{
-		ControlName				EditablePanel
-		FieldName				"Notifications_ShowButtonPanel"
-		xPos					cs-0.5
-		yPos					0
-		zPos					3000
-		"wide"			"p0.085"
-		"tall"			"40"
-		"tabPosition"	"1"	
-		"pinCorner"				"0"
-		paintBackground			1
-		paintBorder				0
-		"bgcolor_override"		"W_ColorTheme1"
-		"PaintBackgroundType"	"2"
-		
-		"SubImage"
-		{
-			"wide"			"0"
-			"tall"			"0"
-			"visible"		"0"
-			"enabled"		"0"
-		}	
-
-		"Notifications_ShowButtonPanel_SB"		// clickable button with the bell animation
-		{
-			ControlName				CExImageButton
-			fieldName				"Notifications_ShowButtonPanel_SB"
-			xpos					cs-0.5
-			ypos					rs1
-			zpos					1
-			wide					f0
-			tall					f0
-			proportionaltoparent		1
-
-			Command				"noti_show"
-			actionsignallevel			2
-
-			labelText				""
-			
-			sound_depressed			"UI/buttonclick.wav"
-			sound_released			"UI/buttonclickrelease.wav"
-			sound_armed				"UI/buttonrollover.wav"
-			
-			paintbackground			0
-			
-			image_drawcolor				"W_ColorIcons1"			// scheme colors don't work
-			image_armedcolor			"W_CerrarArmed"
-			
-			"SubImage"
-			{
-				ControlName				ImagePanel
-				fieldName				"SubImage"
-				xpos					cs-0.5
-				ypos					cs-0.5
-				wide					p0.4
-				tall					o1
-				proportionaltoparent		1
-				image					"replay/thumbnails/mainmenu/notification_bell"
-				scaleImage				1
-				"drawcolor_override"				"W_ColorIcons1"
-			}				
-		}
-
-
-		"NotificationCountBg"	// circle background for the count label
-		{
-			ControlName				ImagePanel
-			fieldName				"NotificationCountBg"
-			xpos					cs-0.5
-			ypos					cs-0.5
-			zpos					0
-			wide					p0.4
-			tall					o1
-			proportionaltoparent		1
-
-			image					"replay/thumbnails/mainmenu/notification_bell_message"
-			drawcolor				"W_BorderArmed"
-			scaleImage				1
-		}
-
-
-		"Notifications_CountLabel"
-		{
-			ControlName				CExLabel
-			fieldName				"Notifications_CountLabel"
-			xpos					2
-			ypos					2
-			zpos					2
-			wide					16
-			tall					o1
-			proportionalToParent		1
-			mouseInputEnabled			0
-
-			font					"ItemTrackerScore_InGame"
-			labelText				"%noticount%"
-			textAlignment			center
-			textInsetY				-2
-
-			fgcolor_override			"W_ColorTheme1"
-			paintBackground			0
-
-			pin_to_sibling			"NotificationCountBg"
-			pin_corner_to_sibling		PIN_TOPRIGHT
-			pin_to_sibling_corner		PIN_TOPRIGHT
-		}
-	}	
 
 	"StoreHasNewItemsImage"		//Possible use in the future
 	{
@@ -1347,20 +1240,6 @@
 	{
 		ControlName				EditablePanel
 		FieldName				"Notifications_Panel"
-		xPos					-2
-		yPos					30
-		zPos					2000
-		wide					210
-		tall					80
-		visible				0
-		
-		paintBackground			1
-		bgcolor_override			"W_ColorTheme1"
-		"border"				"G_TargetBorder"
-		
-		pin_to_sibling 			"Notifications_ShowButtonPanel"
-		pin_corner_to_sibling		PIN_BOTTOMRIGHT
-		pin_to_sibling_corner		PIN_BOTTOMRIGHT
 		
 		"Notifications_CloseButton"
 		{
@@ -1411,19 +1290,7 @@
 			
 			paintBackground			0
 		}
-		"juliaNotesBG"
-		{
-			"ControlName"		"ImagePanel"
-			"fieldName"		"juliaNotesBG"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"0"
-			"wide"			"320"
-			"tall"			"10"
-			"visible"		"1"
-			"enabled"		"1"
-			"fillcolor"		"W_ColorTheme1"
-		}		
+
 		"Notifications_Scroller"
 		{
 			ControlName				ScrollableEditablePanel
@@ -1511,7 +1378,7 @@
 		visible				0
 		
 		paintBackground			1
-		bgcolor_override			"0   0   0 150"
+		bgcolor_override			"W_ColorTheme1"
 		paintBorder				0
 		
 		"TipLabel"
@@ -1528,11 +1395,11 @@
 
 			auto_wide_tocontents 		1
 
-			font					"ItemFontAttribLarger"
+			font					"CustomSegundo"
 			labelText				"%tiptext%"
 			textAlignment			center
 			
-			fgcolor				"200 200 200 255"
+			fgcolor				"W_ColorIcons1"
 			paintBackground			0
 		}
 	}

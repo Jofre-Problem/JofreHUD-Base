@@ -1,4 +1,6 @@
-#base "../resource/#bases/1sysmenu.res"
+#base "../../resource/#bases/1sysmenu.res"
+#base "../../#uni_base/filesv1/refresh/main.res"
+#base "../../#uni_base/filesv1/maplabel/main.res"
 "Servers\DialogGameInfo.res"
 {
 	"DialogGameInfo"
@@ -30,19 +32,14 @@
 	}
 	"Refresh"
 	{
-		"ControlName"		"Button"
-		"fieldName"		"Refresh"
 		"xpos"		"218"
 		"wide"		"80"
 		"tall"		"24"
-		"autoResize"		"0"
 		"pinCorner"		"2"
 		"enabled"		"1"
 		"tabPosition"		"2"
 		"labelText"		"#ServerBrowser_Refresh"
 		"textAlignment"		"west"
-		"wrap"		"0"
-		"Default"		"0"
 	}
 	"AutoRetry"
 	{
@@ -128,19 +125,12 @@
 	}
 	"MapLabel"
 	{
-		"ControlName"		"Label"
-		"fieldName"		"MapLabel"
 		"xpos"		"16"
 		"ypos"		"114"
 		"wide"		"108"
 		"tall"		"20"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"enabled"		"1"
-		"tabPosition"		"0"
 		"labelText"		"#ServerBrowser_MapLabel"
 		"textAlignment"		"east"
-		"wrap"		"0"
 	}
 	"PlayersLabel"
 	{

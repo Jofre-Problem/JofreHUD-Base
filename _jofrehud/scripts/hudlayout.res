@@ -305,17 +305,17 @@
 		"tall"			"f0"
 		"PaintBackgroundType"	"0"
 	}
-	
-	WinPanel
+
+	PVEWinPanel
 	{
-		"fieldName"				"WinPanel"
+		"fieldName"				"PVEWinPanel"
 		"visible"				"1"
 		"enabled"				"1"
-		"wide"					"f0"
+		"xpos"					"c-150"
+		"ypos"					"c-180"
+		"wide"					"300"
 		"tall"					"f0"
-		"zpos"					"4"
-		"proportionaltoparent"	"1"
-	}
+	}	
 	HudVoiceStatus
 	{
 		"fieldName"				"HudVoiceStatus"
@@ -373,6 +373,8 @@
 	
 	WinPanel
 	{
+		"xpos"					"0"
+		"ypos"					"0"		
 		"fieldName"				"WinPanel"
 		"visible"				"1"
 		"enabled"				"1"
@@ -382,6 +384,8 @@
 	}
 	ArenaWinPanel
 	{
+		"xpos"					"0"
+		"ypos"					"0"		
 		"wide"					"f0"
 		"tall"					"480"
 		//"pin_to_sibling"	"WinPanel"	 //HELL				

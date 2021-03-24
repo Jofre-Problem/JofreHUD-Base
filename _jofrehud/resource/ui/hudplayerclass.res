@@ -6,22 +6,22 @@
 {
 	"PlayerStatusClassImageBG"
 	{
-		"xpos"			"10"
-		"ypos"			"rs1-5"
+		"xpos"			"c-225"
+		"ypos"			"rs1-80"
 		"zpos"			"1"		
 		"wide"			"60"
-		"tall"			"20"
+		"tall"			"10"
 		"image"			"replay/thumbnails/materialpanel"	
 		"teambg_2"		"replay/thumbnails/materialpanelred"
 		"teambg_3"		"replay/thumbnails/materialpanelblu"
 	}		
 	"PlayerStatusClassImage"
 	{
-		"xpos"			"10"
-		"ypos"			"rs1-6"
+		"xpos"			"70"
+		"ypos"			"rs1"
 		"zpos"			"2"
-		"wide"			"50"
-		"tall"			"50"
+		"wide"			"70"
+		"tall"			"o1"
 	}	
 	"classmodelpanelBG"
 	{

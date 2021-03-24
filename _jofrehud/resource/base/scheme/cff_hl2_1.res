@@ -2,6 +2,9 @@ Scheme
 {
 	CustomFontFiles
 	{
-		"1"		"resource/HALFLIFE2.ttf"
+		"1"
+		{	"font"	"resource/HALFLIFE2.ttf"
+			"name"	"HalfLife2"
+		}
 	}
 }

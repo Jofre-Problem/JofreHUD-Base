@@ -26,7 +26,7 @@ Resource/UI/HudAmmoWeapons.res
 		zpos			5
 		wide			80
 		tall			30
-		textAlignment	center	
+		textAlignment	east	
 		font			CustomNoveno
 		"bgcolor_override"	"Blank"
 		"pin_to_sibling"	"Spacer"
@@ -41,7 +41,7 @@ Resource/UI/HudAmmoWeapons.res
 		zpos			4
 		wide			80
 		tall			30
-		textAlignment	center		
+		textAlignment	east		
 		font			CustomNovenoBlur	
 		pin_to_sibling			AmmoNoClip	
 	}		
@@ -53,7 +53,7 @@ Resource/UI/HudAmmoWeapons.res
 		zpos			5
 		wide			80
 		tall			30
-		textAlignment	center	
+		textAlignment	east	
 		"bgcolor_override"	"Blank"		
 		font			CustomNoveno
 	//	labeltext		"#JPAMMO"	
@@ -69,7 +69,7 @@ Resource/UI/HudAmmoWeapons.res
 		zpos			4
 		wide			80
 		tall			30
-		textAlignment	center	
+		textAlignment	east	
 		font			CustomNovenoBlur
 		pin_to_sibling			AmmoInClip	
 	}		
@@ -82,7 +82,7 @@ Resource/UI/HudAmmoWeapons.res
 		wide			40
 		tall			30
 		"bgcolor_override"	"Blank"		
-		textAlignment	center	
+		textAlignment	west	
 		font			CustomSeptimo
 		"pin_to_sibling"	"Spacer"
 		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -96,7 +96,7 @@ Resource/UI/HudAmmoWeapons.res
 		zpos			4
 		wide			40
 		tall			30
-		textAlignment	center	
+		textAlignment	west	
 		font			"CustomSeptimoBlur"
 		pin_to_sibling			"AmmoInReserve"
 	}			

@@ -96,6 +96,9 @@ Scheme
 	}
 	CustomFontFiles
 	{
-	"13"		"resource/font/avenirltstd-black.ttf"
+		"13"	
+		{	"font"	"resource/font/avenirltstd-black.ttf"
+			"name"	"AvenirLTStd-Black"
+		}
 	}		
 }

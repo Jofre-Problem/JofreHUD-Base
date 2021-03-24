@@ -166,7 +166,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"%killername%"
-			"font"			"NotoBold16"
+			"font"			"CustomTercero"
 			"fgcolor_override"		"220 220 220 255"	
 			"textAlignment"		"Left"
 		}

@@ -22,12 +22,32 @@
 		"tall"			30
 		"font"			CustomNoveno
 		fgcolor			G_HealthValue
-		textAlignment	center
+		textAlignment	west
 		"pin_to_sibling"	"Spacer"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		"pin_to_sibling_corner" "PIN_TOPLEFT"
 		"bgcolor_override"		"Blank"
 	}
+	"PlayerStatusHealthImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthImage"
+		"xpos"			"40"
+		"ypos"			"0"
+		"wide"			"25"
+		"tall"			"o0.9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"pin_to_sibling"	"PlayerStatusHealthValue"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner" "PIN_TOPLEFT"		
+	}	
+	"PlayerStatusHealthImageBG"
+	{
+		"xpos"			"r-90"
+		"ypos"			"r-90"
+	}			
 	PlayerStatusMaxHealthValue
 	{
 		wide			0
@@ -43,7 +63,7 @@
 		tall			30
 		font			CustomNovenoBlur
 		fgcolor			G_Shadow
-		textAlignment	center
+		textAlignment	west
 		"pin_to_sibling"	"PlayerStatusHealthValue"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		"pin_to_sibling_corner"	"PIN_TOPLEFT"
@@ -267,26 +287,8 @@
 	
 	
 	// Unused Panels
-	"PlayerStatusHealthImage"
-	{
-		"xpos"			"c-180"
-		"xpos_minmode"	"c-180"
-		
-		"ypos"			"r-10"
-		"zpos"			"4"
-		"wide"			"24"
-		"tall"			"24"
-	}		
-	"PlayerStatusHealthImageBG"
-	{
-		"xpos"			"73"
-		"xpos_minmode"	"58"
-		
-		"ypos"			"r-10"
-		"zpos"			"3"
-		"wide"			"55"
-		"tall"			"55"
-	}	
+
+
 	"PlayerStatusHealthBonusImage"
 	{
 		"xpos"			"r-100"	[$WIN32]
