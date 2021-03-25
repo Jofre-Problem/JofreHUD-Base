@@ -348,7 +348,7 @@
 		xPos					0
 		yPos					0
 		zPos					1002
-		wide					42
+		wide					27
 		tall					o1
 		
 		labelText				""
@@ -410,7 +410,7 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					42
+		wide					27
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"Ú"
@@ -434,7 +434,7 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					42
+		wide					27
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"Û"
@@ -451,29 +451,6 @@
 		pin_corner_to_sibling		PIN_TOPLEFT
 		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}		
-	"AchievementsLabel"
-	{
-		ControlName				CExLabel
-		FieldName				"AchievementsLabel"
-		xPos					0
-		yPos					-14
-		wide					42
-		tall					o0.5
-		proportionalToParent		1
-		zpos			1010
-		font					"ControlPointTimerSmaller"
-		labelText				"#TF_Achievements_Title"
-	mouseinputenabled 		0
-		centerwrap					1
-		enabled					1
-		visible					1
-		
-		paintBackground			0
-			
-		pin_to_sibling			"Achievements"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
-	}
 
 	"TF2Settings"		// open advanced options
 	{
@@ -482,7 +459,7 @@
 		xPos					0
 		yPos					0
 		zPos					1002
-		wide					42
+		wide					27
 		tall					o1
 
 		labelText				""
@@ -522,7 +499,7 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					42
+		wide					27
 		tall					o1
 	mouseinputenabled 		0
 		labelText				"ô"
@@ -545,7 +522,7 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					42
+		wide					27
 		tall					o1
 	mouseinputenabled 		0
 		labelText				"õ"
@@ -568,7 +545,7 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					42
+		wide					27
 		tall					o1
 	mouseinputenabled 		0
 		labelText				"ö"
@@ -584,30 +561,6 @@
 		pin_corner_to_sibling		PIN_TOPLEFT
 		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}		
-	"AdvancedOptionsLabel"
-	{
-		ControlName				CExLabel
-		FieldName				"AdvancedOptionsLabel"
-		xPos					0
-		yPos					-14
-		wide					42
-		tall					o0.5
-		proportionalToParent		1
-		zpos				1010
-		font					"ControlPointTimerSmaller"
-		labelText				"#MMenu_AdvOptions"
-	mouseinputenabled 		0
-		centerwrap					1
-		enabled					1
-		visible					1
-		
-		paintBackground			0
-			
-		pin_to_sibling			"TF2Settings"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
-	}
-
 	"GeneralStoreButton"				// open Mann Co. Store
 	{
 		ControlName				CExButton
@@ -615,7 +568,7 @@
 		xPos					0
 		yPos					0
 		zPos					1002
-		wide					42
+		wide					27
 		tall					o1
 		"pinCorner"		"0"
 		"textinsetx"	"0"
@@ -637,30 +590,7 @@
 		pin_corner_to_sibling		PIN_TOPLEFT
 		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}
-	"OpenStoreLabel"
-	{
-		ControlName				CExLabel
-		FieldName				"OpenStoreLabel"
-		xPos					0
-		yPos					-14
-		wide					42
-		tall					o0.5
-		zpos					1010
-		proportionalToParent		1
-	mouseinputenabled 		0
-		font					"ControlPointTimerSmaller"
-		labelText				"#MMenu_Shop"
 
-		centerwrap					1
-		enabled					1
-		visible					1
-		
-		paintBackground			0
-			
-		pin_to_sibling			"GeneralStoreButton"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
-	}
 	"Store1"
 	{
 		ControlName				CExLabel
@@ -668,7 +598,7 @@
 		xPos					0
 		yPos					0
 		zPos					1051
-		wide					42
+		wide					27
 		tall					o1
 
 		labelText				"ÿ"
@@ -691,7 +621,7 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					42
+		wide					27
 		tall					o1
 	mouseinputenabled 		0
 		labelText				"þ"
@@ -712,9 +642,9 @@
 		ControlName				CExButton
 		FieldName				"OpenContracker"
 		xPos					2
-		yPos					13
+		yPos					60
 		zPos					1009
-		wide					42
+		wide					27
 		tall					o1
 		labelText				""
 		font					"Blank"
@@ -732,29 +662,6 @@
 		paintBackground			0
 
 	}
-	"Quest_Label"
-	{
-		ControlName				CExLabel
-		FieldName				"Quest_Label"
-		xPos					0
-		yPos					-14
-		wide					42
-		tall					o0.5
-		proportionalToParent		1
-		zpos					1010
-		font					"ControlPointTimerSmaller"
-		labelText				"Quest Log"
-
-		centerwrap					1
-		enabled					1
-		visible					1
-		
-		paintBackground			0
-		mouseinputenabled 		0
-		pin_to_sibling			"OpenContracker"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
-	}
 
 	"TestQuest"
 	{
@@ -763,7 +670,7 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					42
+		wide					27
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"ü"
@@ -772,6 +679,7 @@
 		paintBackground			0
 		fgcolor_override		"196 171 55 255"
 		"pin_to_sibling"		"OpenContracker"		
+		"textinsetx"			"-8"
 	}	
 	"TestQuest2"
 	{
@@ -780,7 +688,7 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					42
+		wide					27
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"û"
@@ -789,6 +697,7 @@
 		paintBackground			0
 		fgcolor_override		"201 122 35 255"
 		"pin_to_sibling"		"TestQuest"
+		"textinsetx"			"-8"		
 	}		
 	"OpenDemo"		// open achievements window
 	{
@@ -797,7 +706,7 @@
 		xPos					0
 		yPos					0
 		zPos					1002
-		wide					42
+		wide					27
 		tall					o1
 
 		labelText				""
@@ -824,7 +733,7 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					42
+		wide					27
 		tall					o1
 	mouseinputenabled 		0
 
@@ -838,9 +747,9 @@
 		paintBackground			0
 		"fgcolor_override"		"255 237 135 255"
 
-		pin_to_sibling			"Achievements"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
+		pin_to_sibling			"OpenDemo"
+		pin_corner_to_sibling		"1"
+		pin_to_sibling_corner		"1"
 	}	
 	"DemoNewIcons25"
 	{
@@ -849,7 +758,7 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					42
+		wide					27
 		tall					o1
 	mouseinputenabled 		0
 
@@ -863,32 +772,9 @@
 		paintBackground			0
 		"fgcolor_override"		"255 228 87 255"
 
-		pin_to_sibling			"Achievements"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
-	}	
-	"OpenDemoLabel"
-	{
-		ControlName				CExLabel
-		FieldName				"OpenDemoLabel"
-		xPos					0
-		yPos					-14
-		wide					42
-		tall					o0.5
-		proportionalToParent		1
-		zpos				1040
-		font					"ControlPointTimerSmaller"
-		labelText				"#TF_OptionCategory_DemoSupport"
-	mouseinputenabled 		0
-		centerwrap					1
-		enabled					1
-		visible					1
-		
-		paintBackground			0
-			
 		pin_to_sibling			"OpenDemo"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
+		pin_corner_to_sibling		"1"
+		pin_to_sibling_corner		"1"
 	}		
 
 	"OpenMinmode"		// open achievements window
@@ -898,7 +784,7 @@
 		xPos					0
 		yPos					0
 		zPos					1002
-		wide					42
+		wide					27
 		tall					o1
 
 		labelText				""
@@ -917,31 +803,6 @@
 		pin_corner_to_sibling		PIN_TOPLEFT
 		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}
-
-	"OpenMinmodeLabel"
-	{
-		ControlName				CExLabel
-		FieldName				"OpenMinmodeLabel"
-		xPos					0
-		yPos					-14
-		wide					42
-		tall					o0.5
-		proportionalToParent		1
-		mouseinputenabled 		0
-		font					"ControlPointTimerSmaller"
-		labelText				"Minmode"
-		zpos 					1040
-		centerwrap					1
-		enabled					1
-		visible					1
-		zpos				1040
-		paintBackground			0
-			
-		pin_to_sibling			"OpenMinmode"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
-	}		
-
 	"Minmode1"
 	{
 		ControlName				CExLabel
@@ -949,7 +810,7 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					42
+		wide					27
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"Ò"
@@ -961,9 +822,9 @@
 		
 		paintBackground			0
 		fgcolor_override		"12 165 223 255"	
-		pin_to_sibling			"OpenDemo"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
+		pin_to_sibling			"OpenMinmode"
+		pin_corner_to_sibling		"1"
+		pin_to_sibling_corner		"1"
 	}
 	"Minmode2"
 	{
@@ -972,7 +833,7 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					42
+		wide					27
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"Õ"
@@ -984,9 +845,9 @@
 		fgcolor_override		"WhiteSolid"
 		paintBackground			0
 			
-		pin_to_sibling			"OpenDemo"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
+		pin_to_sibling			"OpenMinmode"
+		pin_corner_to_sibling		"1"
+		pin_to_sibling_corner		"1"
 	}	
 	"YoutubeURL"
 	{
@@ -995,7 +856,7 @@
 		xPos					0
 		yPos					0
 		zPos					1002
-		wide					42
+		wide					27
 		tall					o1
 
 		font					"Blank"
@@ -1019,7 +880,7 @@
 		xPos					0
 		yPos					0
 		zPos					1049
-		wide					42
+		wide					27
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"s"
@@ -1042,7 +903,7 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					42
+		wide					27
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"t"
@@ -1058,29 +919,7 @@
 		pin_corner_to_sibling		PIN_TOPLEFT
 		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}
-	"YTLabel"
-	{
-		ControlName				CExLabel
-		FieldName				"YTLabel"
-		xPos					0
-		yPos					-14
-		wide					42
-		tall					o0.5
-		proportionalToParent		1
-		mouseinputenabled 		0
-		font					"ControlPointTimerSmaller"
-		labelText				"Youtube"
-		zpos 					1040
-		centerwrap					1
-		enabled					1
-		visible					1
-		zpos				1040
-		paintBackground			0
-			
-		pin_to_sibling			"YoutubeURL"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
-	}	
+
 
 	"ChromeURL"
 	{
@@ -1089,7 +928,7 @@
 		xPos					0
 		yPos					0
 		zPos					1002
-		wide					42
+		wide					27
 		tall					o1
 
 		font					"Blank"
@@ -1112,7 +951,7 @@
 		xPos					0
 		yPos					0
 		zPos					1049
-		wide					42
+		wide					27
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"Ö"
@@ -1135,7 +974,7 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					42
+		wide					27
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"×"
@@ -1158,7 +997,7 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					42
+		wide					27
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"u"
@@ -1181,7 +1020,7 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					42
+		wide					27
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"v"
@@ -1194,29 +1033,6 @@
 		paintBackground			0
 			
 		pin_to_sibling			"YoutubeURL"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
-	}		
-	"chrLabel"
-	{
-		ControlName				CExLabel
-		FieldName				"chrLabel"
-		xPos					0
-		yPos					-14
-		wide					42
-		tall					o0.5
-		proportionalToParent		1
-		mouseinputenabled 		0
-		font					"ControlPointTimerSmaller"
-		labelText				"Google Chrome"
-		zpos 					1040
-		centerwrap					1
-		enabled					1
-		visible					1
-		zpos				1040
-		paintBackground			0
-			
-		pin_to_sibling			"ChromeURL"
 		pin_corner_to_sibling		PIN_TOPLEFT
 		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}		
@@ -1369,18 +1185,30 @@
 			"ControlName"	"Label"
 			"fieldName"		"UHm"
 			"xpos"			"cs-0.5"
-			"ypos"			"rs1-50"
+			"ypos"			"rs1-40"
 			"wide"			"f0"
 			"tall"			"30"
 			"visible"		"1"
 			"enabled"		"1"
-			"font"			"CustomNovenoBlur"
+			"font"			"CustomSeptimoBlur"
 			"fgcolor_override"	"W_ColorTheme1"
 			"textAlignment"	"center"
 			"labelText"		"What are we going to do now?"
-			"proportionaltoparent"	"1"
-			}
-	
+		}
+	"Bg22"
+	{
+		"ControlName"	"ImagePanel"		
+		"fieldName"		"Bg22"
+		"xpos"			"0"
+		"ypos"			"13"
+		"zpos"			"3"
+		"wide"			"30"
+		"tall"			"p0.92"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"W_ColorTheme1"
+		"alpha"			"100"
+	}		
 	"TooltipPanel"		// when hovering a element that has tooltipText
 	{
 		ControlName				EditablePanel
@@ -1541,8 +1369,82 @@
 	}
 	"FriendsContainer"
 	{
-		"wide"			"0"
-		"tall"			"0"
+		"ControlName"	"EditablePanel"
+		"fieldname"		"FriendsContainer"
+		"xpos"			"27"
+		"ypos"			"13"
+		"zpos"			"20"
+		"wide"			"p0.16"
+		"tall"			"p0.962"
+		"visible"		"1"
+		"bgcolor_override"		"Blank"
+		"border"			"noborder"
+		"TitleLabel"
+		{
+			"wide"			"0"
+		}
+
+		"InnerShadow"
+		{
+			"wide"			"0"
+		}	
+		"BelowDarken"
+		{
+			"wide"			"0"
+		}			
+		"SteamFriendsList"
+		{
+			"ControlName"	"CSteamFriendsListPanel"
+			"fieldname"		"SteamFriendsList"
+			"xpos"			"cs-0.5"
+			"ypos"			"0"
+			"zpos"			"500"
+			"wide"			"f30"
+			"tall"			"p0.962"
+			"visible"		"1"
+			"proportionaltoparent"	"1"
+			"columns_count"	"1"
+			"inset_x"		"0"
+			"inset_y"		"5"
+			"row_gap"		"5"
+			"column_gap"	"10"
+			"restrict_width"	"0"
+			"friendpanel_kv"
+			{
+				"wide"		"p0.125"
+				"tall"		"20"
+			}
+			"ScrollBar"
+			{
+				"ControlName"	"ScrollBar"
+				"FieldName"		"ScrollBar"
+				"xpos"			"rs1+1"
+				"ypos"			"0"
+				"tall"			"f0"
+				"wide"			"p0.01" // This gets slammed from client schme.  GG.
+				"zpos"			"1000"
+				"nobuttons"		"1"
+				"proportionaltoparent"	"1"
+				"Slider"
+				{
+					"fgcolor_override"	"W_ColorIcons1"
+				}
+		
+				"UpButton"
+				{
+					"ControlName"	"Button"
+					"FieldName"		"UpButton"
+					"visible"		"0"
+				}
+		
+				"DownButton"
+				{
+					"ControlName"	"Button"
+					"FieldName"		"DownButton"
+					"visible"		"0"
+				}
+			}
+		}
 	}	
 	"MOTD_ShowButtonPanel"
 	{

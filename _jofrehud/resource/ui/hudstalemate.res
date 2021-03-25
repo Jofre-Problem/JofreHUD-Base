@@ -25,9 +25,9 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"StalemateLabel"
-		"font"			"ItemTrackerScore_InGame"
+		"font"			"CustomTercero"
 		"xpos"			"cs-0.5"
-		"ypos"			"30"
+		"ypos"			"r80"
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"50"
@@ -45,9 +45,9 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"ReasonLabel"
-		"font"			"ItemTrackerScore_InGame"
+		"font"			"CustomSegundo"
 		"xpos"			"cs-0.5"
-		"ypos"			"48"
+		"ypos"			"r50"
 		"zpos"			"2"
 		"wide"			"170"
 		"tall"			"20"

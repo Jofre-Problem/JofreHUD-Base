@@ -433,7 +433,7 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"wide"					"f0"
-		"tall"					"200"
+		"tall"					"f0"
 	}
 	HudBossHealth
 	{

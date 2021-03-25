@@ -53,7 +53,8 @@
 		"proportionaltoparent"	"1"
 		"font"					"TFFontMedium"
 		"mouseinputenabled"		"0"
-		"fgcolor_override"		"W_ColorIcons1"	
+		"fgcolor_override"		"W_ColorIcons1"
+		"alpha"					"220"
 	}
 
 	"StatusLabel"

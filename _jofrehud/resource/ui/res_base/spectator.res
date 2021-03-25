@@ -120,20 +120,25 @@
 		"fieldName"		"MapLabel"
 		"font"			"CustomTercero"
 		"font_hidef"		"HudFontMedium"
-		"xpos"			"rs1"	[$WIN32]
+		"textinsetx"	"5"		
+		"xpos"			"r260"
+		"ypos"			"0"
+		"wide"			"240"		
+		"xpos"			"r260"	[$WIN32]
 		"ypos"			"0"	[$WIN32]
 		"xpos"			"r285"	[$X360]
-		"ypos"			"32"	[$X360]
-		"wide"			"80"	[$WIN32]
-		"wide"			"40"	[$X360]
-		"tall"			"40"
-		"tall_hidef"		"0"
+		"ypos"			"0"	[$X360]
+		"wide"			"240"	[$WIN32]
+		"wide"			"240"	[$X360]
+		"tall"			"21"
+		"tall_hidef"		"21"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		""//"map: cp_bridge"
+		"labelText"		"map: cp_bridge"
 		"textAlignment"		"east"
+		"fgcolor_override"	"W_ColorTheme1"		
 	}
 	"ClassOrTeamLabel"
 	{

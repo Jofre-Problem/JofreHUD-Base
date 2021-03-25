@@ -50,30 +50,20 @@
 			"scaleimage"		"1"
 		}
 	}
-	"TimerBG"
-	{
-		"ControlName"		"CIconPanel"
-		"fieldName"		"TimerBG"
-		"xpos"			"c-37"
-		"ypos"			"-4"
-		"wide"			"74"
-		"tall"			"15"
-		"zpos"			"-1"
-		"proportionaltoparent"	"1"
-		"visible"		"1"
-		"enabled"		"1"
-
-		"PaintBackgroundType"	"2"
-		"border"		"MaterialOscuro"
-		"paintbackground"	"0"
-
-	}		
 	"Background"
 	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Background"
 		"xpos"			"cs-0.5"
 		"ypos"			"0"
-		"wide"			"0"
-		"tall"			"0"
-		"image"			"replay/thumbnails/null"
-	}
+		"zpos"			"5"
+		"wide"			"o3.833"
+		"tall"			"25"
+
+		"backgroundtype"		"2"
+		"proportionaltoparent"	"1"
+			
+		"image"					"../hud/comp_round_timer"
+		"scaleimage"			"1"
+	}	
 }
