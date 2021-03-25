@@ -36,13 +36,13 @@ Resource/UI/HudAmmoWeapons.res
 	AmmoNoClipShadow
 	{
 		fgcolor			"0 0 0 255"
-		xpos			0
-		ypos			"0"//-2
+		xpos			"-2"
+		ypos			"-2"//-2
 		zpos			4
 		wide			80
 		tall			30
 		textAlignment	east		
-		font			CustomNovenoBlur	
+		font			CustomNoveno
 		pin_to_sibling			AmmoNoClip	
 	}		
 	AmmoInClip
@@ -64,13 +64,13 @@ Resource/UI/HudAmmoWeapons.res
 	AmmoInClipShadow
 	{
 		fgcolor			"0 0 0 255"
-		xpos			0
-		ypos			"0"//-2
+		xpos			"-2"
+		ypos			"-2"//-2
 		zpos			4
 		wide			80
 		tall			30
 		textAlignment	east	
-		font			CustomNovenoBlur
+		font			CustomNoveno
 		pin_to_sibling			AmmoInClip	
 	}		
 	AmmoInReserve
@@ -91,13 +91,13 @@ Resource/UI/HudAmmoWeapons.res
 	AmmoInReserveShadow
 	{
 		fgcolor			"0 0 0 255"
-		xpos			0
-		ypos			"0"//-2
+		xpos			"-2"
+		ypos			"-2"//-2
 		zpos			4
 		wide			40
 		tall			30
 		textAlignment	west	
-		font			"CustomSeptimoBlur"
+		font			"CustomSeptimo"
 		pin_to_sibling			"AmmoInReserve"
 	}			
 }

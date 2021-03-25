@@ -57,11 +57,11 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueShadow"
-		xpos			0
-		ypos			"0"//-2
+		xpos			"-2"
+		ypos			"-2"//-2
 		wide			80
 		tall			30
-		font			CustomNovenoBlur
+		font			CustomNoveno
 		fgcolor			G_Shadow
 		textAlignment	west
 		"pin_to_sibling"	"PlayerStatusHealthValue"

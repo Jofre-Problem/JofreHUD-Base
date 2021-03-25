@@ -1364,7 +1364,22 @@
 			centerwrap				1
 		}
 	}
-
+		"UHm"
+		{
+			"ControlName"	"Label"
+			"fieldName"		"UHm"
+			"xpos"			"cs-0.5"
+			"ypos"			"rs1-50"
+			"wide"			"f0"
+			"tall"			"30"
+			"visible"		"1"
+			"enabled"		"1"
+			"font"			"CustomNovenoBlur"
+			"fgcolor_override"	"W_ColorTheme1"
+			"textAlignment"	"center"
+			"labelText"		"What are we going to do now?"
+			"proportionaltoparent"	"1"
+			}
 	
 	"TooltipPanel"		// when hovering a element that has tooltipText
 	{

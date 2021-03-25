@@ -7,7 +7,7 @@
 	"PlayerStatusClassImageBG"
 	{
 		"xpos"			"c-225"
-		"ypos"			"rs1-80"
+		"ypos"			"r0"
 		"zpos"			"1"		
 		"wide"			"60"
 		"tall"			"10"
@@ -17,10 +17,10 @@
 	}		
 	"PlayerStatusClassImage"
 	{
-		"xpos"			"70"
+		"xpos"			"r70"
 		"ypos"			"rs1"
 		"zpos"			"2"
-		"wide"			"70"
+		"wide"			"30"
 		"tall"			"o1"
 	}	
 	"classmodelpanelBG"

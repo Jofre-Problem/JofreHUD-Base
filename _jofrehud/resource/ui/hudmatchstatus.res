@@ -90,10 +90,10 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusTimePanel"
-		"xpos"				"0"
+		"xpos"				"c-30"
 		"ypos"				"0"
 		"zpos"				"2"
-		"wide"				"f0"
+		"wide"				"110"
 		"tall"				"150"
 		"visible"			"0"
 		"enabled"			"1"
@@ -108,8 +108,8 @@
 
 		if_match
 		{
-			"xpos"					"0"
-			"wide"					"130"
+			"wide"					"76"
+			"xpos"					"c-38"
 			"delta_item_x"			"35"
 			"delta_item_start_y"	"12"
 			"delta_item_end_y"		"50"

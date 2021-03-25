@@ -61,6 +61,24 @@
 		"enabled"		"1"
 		"tabPosition"		"0"
 	}
+	"G_Topbar"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"G_Topbar"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-10"
+		"tall"			"21"	
+		"wide"			"f0"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"	"1"
+		"Alpha"				"255"
+		"bgcolor_override"	"W_ColorTheme1"
+	}	
 	"ReinforcementsLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -100,39 +118,38 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"MapLabel"
-		"font"			"HudFontSmall"
+		"font"			"CustomTercero"
 		"font_hidef"		"HudFontMedium"
-		"xpos"			"r260"	[$WIN32]
-		"ypos"			"16"	[$WIN32]
+		"xpos"			"rs1"	[$WIN32]
+		"ypos"			"0"	[$WIN32]
 		"xpos"			"r285"	[$X360]
 		"ypos"			"32"	[$X360]
-		"wide"			"0"	[$WIN32]
-		"wide"			"0"	[$X360]
-		"tall"			"0"
+		"wide"			"80"	[$WIN32]
+		"wide"			"40"	[$X360]
+		"tall"			"40"
 		"tall_hidef"		"0"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"visible_minbad"		"0"
 		"enabled"		"1"
-		"labelText"		"map: cp_bridge"
+		"labelText"		""//"map: cp_bridge"
 		"textAlignment"		"east"
 	}
 	"ClassOrTeamLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ClassOrTeamLabel"
-		"xpos"			"c-85"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"170"
+		"tall"			"21"
 		"xpos_hidef"	"c-65"
 		"xpos_lodef"	"40"
-		"ypos"			"68"
 		"ypos_hidef"	"90"
 		"ypos_lodef"	"30"	
-		"wide"			"0"
 		"wide_hidef"	"130"
 		"wide_lodef"	"220"
-		"tall"			"0"
-		"tall_lodef"	"0"
+		"tall_lodef"	"40"
 		"zpos"			"2"
 		"autoResize"		"0"
 		"pinCorner"		"0"

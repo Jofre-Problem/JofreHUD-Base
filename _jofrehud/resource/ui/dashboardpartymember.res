@@ -1,5 +1,5 @@
 // Matchmaking party member
-
+#base "base/filesv1/emptyimage/main.res"
 "Resource/UI/DashboardPartyMember.res"
 {
 	"avatar"
@@ -19,7 +19,6 @@
 	"EmptyImage"
 	{
 		ControlName				Label
-		fieldName				"EmptyImage"
 		xpos					0
 		ypos					0
 		zpos					0
@@ -27,7 +26,6 @@
 		tall					f2
 		proportionaltoparent		1
 		visible				1
-		mouseinputenabled			0
 		"textinsety"			"1"
 
 		labelText				"ú"

@@ -25,7 +25,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"labelText"			"%metal%"
-		"textAlignment"		"center"
+		"textAlignment"		"east"
 		"fgcolor"			"235 220 50 255"
 		"font"				"CustomQuinto"
 		
@@ -45,7 +45,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"labelText"	 		"%metal%"
-		"textAlignment"	 	"center"
+		"textAlignment"	 	"east"
 		"fgcolor"	 		"Black"
 		"font"	 			"CustomQuintoBlur"	
 		

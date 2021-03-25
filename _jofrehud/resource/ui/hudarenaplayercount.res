@@ -1,33 +1,68 @@
 "Resource/UI/HudArenaPlayerCount.res"
 {
+	"Borders"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"Borders"
+		"xpos"			"c-38"
+		"ypos"			"0"
+		"zpos"			"100"
+		"wide"			"76"
+		"tall"			"21"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"paintborder"	"1"
+		"border"		"G_TargetBorder"
+	}
+	
+	"Gradient"
+	{
+		"ControlName"		"CTFImagePanel"
+		"fieldName"			"Gradient"
+		"xpos"				"c-38"
+		"ypos"				"0"
+		"zpos"				"99"
+		"wide"				"76"
+		"tall"				"21"
+		"visible"			"1"
+		"enabled"			"1"
+		"image"				"gradient_pure_black"
+		"scaleImage"		"1"
+		"alpha"				"200"
+	}
+		
 	"blueteam"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"blueteam"
-		"xpos"			"c-60"
+		"xpos"			"c-38"
 		"ypos"			"0"
 		"zpos"			"0"
-		"wide"			"60"
-		"tall"			"23"
+		"wide"			"38"
+		"tall"			"30"
 		"visible"		"1"
 	
 		"background"
 		{
 			"ControlName"	"CTFImagePanel"
 			"fieldName"		"background"
-			"xpos"			"5"
+			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"0"
-			"wide"			"50"
-			"tall"			"19"
+			"wide"			"38"
+			"tall"			"21"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/color_panel_blu"
+			"paintborder"	"0"
+			"border"		"G_TargetBorder"
 				
-			"src_corner_height"		"23"			// pixels inside the image
-			"src_corner_width"		"23"
+			"src_corner_height"		"20"			// pixels inside the image
+			"src_corner_width"		"20"
 					
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"0"	
@@ -37,11 +72,11 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"count"
-			"xpos"			"23"
+			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"2"
-			"wide"			"30"
-			"tall"			"19"
+			"wide"			"28"
+			"tall"			"21"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -49,86 +84,90 @@
 			"font"			"CustomQuinto"
 			"labelText"		"%blue_alive%"
 			"textAlignment"	"center"
-			"fgcolor"		"235 235 235 255"
-		}	
+			"fgcolor"		"WhiteSolid"
+			"textinsety"	"-1"
+		}
 		"countshadow"
 		{
-			"ControlName"		"CExLabel"
-			"fieldName"		"countshadow"
-			"xpos"			"24"
-			"ypos"			"8"
-			"zpos"			"1"
-			"wide"			"30"
-			"tall"			"25"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"0"
-			"enabled"		"0"
-			"font"			"HudFontMedium"
-			"labelText"		"%blue_alive%"
-			"textAlignment"	"center"
-			"fgcolor"		"Black"
-		}
-		
+			"wide"			"0"
+		}	
 		"playerimage"
 		{
-			"ControlName"	"ImagePanel"		
-			"fieldName"		"playerimage"
-			"xpos"			"12"
-			"ypos"			"2"
-			"zpos"			"3"
-			"wide"			"8"
-			"tall"			"16"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			"capture_icon_white"
-			"scaleImage"	"1"
-		}
-		
-		"ImageBack"
-		{
-			"ControlName"   "ImagePanel"           
-			"fieldName"     "ImageBack"
-			"xpos"          "5"
-			"ypos"          "0"
-			"zpos"          "-1"
-			"wide"          "50"
-			"tall"          "19"
-			"visible"       "1"
-			"enabled"       "1"
-			"fillcolor"     "32 32 32 255"
-			"scaleImage"    "1"
-		}
+			"wide"			"0"
+		}				
 	}
+	
+	"PlayerIconBg"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"PlayerIconBg"
+		"xpos"			"c-10"
+		"ypos"			"0"
+		"zpos"			"2"
+		"wide"			"20"
+		"tall"			"21"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/color_panel_brown_opaque"
+		"paintborder"	"0"
+		"border"		"G_TargetBorder"
+			
+		"src_corner_height"		"20"			// pixels inside the image
+		"src_corner_width"		"20"
+				
+		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"0"	
+	}
+	
+	"PlayerIcon"
+	{
+		"ControlName"	"ImagePanel"		
+		"fieldName"		"PlayerIcon"
+		"xpos"			"c-4"
+		"ypos"			"2"
+		"zpos"			"3"
+		"wide"			"8"
+		"tall"			"16"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"capture_icon_white"
+		"scaleImage"	"1"
+	}	
+	
+	
 
 	"redteam"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"redteam"
-		"xpos"			"c0"
+		"xpos"			"c"
 		"ypos"			"0"
 		"zpos"			"0"
-		"wide"			"60"
-		"tall"			"23"
+		"wide"			"38"
+		"tall"			"30"
 		"visible"		"1"
 	
 		"background"
 		{
 			"ControlName"	"CTFImagePanel"
 			"fieldName"		"background"
-			"xpos"			"5"
+			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"0"
-			"wide"			"50"
-			"tall"			"19"
+			"wide"			"38"
+			"tall"			"21"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/color_panel_red"
+			"paintborder"	"0"
+			"border"		"G_TargetBorder"
 				
-			"src_corner_height"		"23"			// pixels inside the image
-			"src_corner_width"		"23"
+			"src_corner_height"		"20"			// pixels inside the image
+			"src_corner_width"		"20"
 					
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"0"	
@@ -138,11 +177,11 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"count"
-			"xpos"			"23"
+			"xpos"			"10"
 			"ypos"			"0"
 			"zpos"			"2"
-			"wide"			"30"
-			"tall"			"19"
+			"wide"			"28"
+			"tall"			"21"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -150,55 +189,16 @@
 			"font"			"CustomQuinto"
 			"labelText"		"%red_alive%"
 			"textAlignment"	"center"
-			"fgcolor"		"235 235 235 255"
-		}	
+			"fgcolor"		"WhiteSolid"
+			"textinsety"	"-1"
+		}		
 		"countshadow"
 		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"countshadow"
-			"xpos"			"24"
-			"ypos"			"0"
-			"zpos"			"1"
-			"wide"			"30"
-			"tall"			"19"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"0"
-			"enabled"		"0"
-			"font"			"HudFontMedium"
-			"labelText"		"%red_alive%"
-			"textAlignment"	"center"
-			"fgcolor"		"Black"
+			"wide"			"0"
 		}
-	
 		"playerimage"
 		{
-			"ControlName"	"ImagePanel"		
-			"fieldName"		"playerimage"
-			"xpos"			"12"
-			"ypos"			"2"
-			"zpos"			"3"
-			"wide"			"8"
-			"tall"			"16"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			"capture_icon_white"
-			"scaleImage"	"1"
-		}
-		
-		"ImageBack2"
-		{
-			"ControlName"   "ImagePanel"           
-			"fieldName"     "ImageBack2"
-			"xpos"          "5"
-			"ypos"          "0"
-			"zpos"          "-1"
-			"wide"          "50"
-			"tall"          "19"
-			"visible"       "1"
-			"enabled"       "1"
-			"fillcolor"     "32 32 32 255"
-			"scaleImage"    "1"
-		}
+			"wide"			"0"
+		}						
 	}
 }
