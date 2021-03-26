@@ -667,7 +667,7 @@
 	{
 		ControlName				CExLabel
 		FieldName				"TestQuest"
-		xPos					0
+		xPos					2
 		yPos					0
 		zPos					1050
 		wide					27
@@ -679,13 +679,12 @@
 		paintBackground			0
 		fgcolor_override		"196 171 55 255"
 		"pin_to_sibling"		"OpenContracker"		
-		"textinsetx"			"-8"
 	}	
 	"TestQuest2"
 	{
 		ControlName				CExLabel
 		FieldName				"TestQuest2"
-		xPos					0
+		xPos					2
 		yPos					0
 		zPos					1050
 		wide					27
@@ -696,8 +695,7 @@
 		textAlignment			center
 		paintBackground			0
 		fgcolor_override		"201 122 35 255"
-		"pin_to_sibling"		"TestQuest"
-		"textinsetx"			"-8"		
+		"pin_to_sibling"		"TestQuest"		
 	}		
 	"OpenDemo"		// open achievements window
 	{
@@ -1371,10 +1369,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"FriendsContainer"
-		"xpos"			"27"
+		"xpos"			"30"
 		"ypos"			"13"
 		"zpos"			"20"
-		"wide"			"p0.16"
+		"wide"			"p0.4"
 		"tall"			"p0.962"
 		"visible"		"1"
 		"bgcolor_override"		"Blank"
@@ -1396,10 +1394,10 @@
 		{
 			"ControlName"	"CSteamFriendsListPanel"
 			"fieldname"		"SteamFriendsList"
-			"xpos"			"cs-0.5"
+			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"500"
-			"wide"			"f30"
+			"wide"			"f0"
 			"tall"			"p0.962"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
@@ -1409,25 +1407,27 @@
 			"row_gap"		"5"
 			"column_gap"	"10"
 			"restrict_width"	"0"
+
 			"friendpanel_kv"
 			{
-				"wide"		"p0.125"
+				"wide"		"p0.13"
 				"tall"		"20"
 			}
 			"ScrollBar"
 			{
 				"ControlName"	"ScrollBar"
 				"FieldName"		"ScrollBar"
-				"xpos"			"rs1+1"
+				"xpos"			"0"
 				"ypos"			"0"
 				"tall"			"f0"
-				"wide"			"p0.01" // This gets slammed from client schme.  GG.
+				"wide"			"p0.006" // This gets slammed from client schme.  GG.
 				"zpos"			"1000"
 				"nobuttons"		"1"
 				"proportionaltoparent"	"1"
 				"Slider"
 				{
 					"fgcolor_override"	"W_ColorIcons1"
+					"alpha"				"180"
 				}
 		
 				"UpButton"

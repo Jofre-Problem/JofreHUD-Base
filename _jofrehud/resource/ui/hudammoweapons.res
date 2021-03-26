@@ -36,8 +36,8 @@ Resource/UI/HudAmmoWeapons.res
 	AmmoNoClipShadow
 	{
 		fgcolor			"0 0 0 255"
-		xpos			"-2"
-		ypos			"-2"//-2
+		xpos			"-2-p0.001"
+		ypos			"-2-p0.001"//-2
 		zpos			4
 		wide			80
 		tall			30
@@ -64,8 +64,8 @@ Resource/UI/HudAmmoWeapons.res
 	AmmoInClipShadow
 	{
 		fgcolor			"0 0 0 255"
-		xpos			"-2"
-		ypos			"-2"//-2
+		xpos			"-2-p0.001"
+		ypos			"-2-p0.001"//-2
 		zpos			4
 		wide			80
 		tall			30
@@ -91,8 +91,8 @@ Resource/UI/HudAmmoWeapons.res
 	AmmoInReserveShadow
 	{
 		fgcolor			"0 0 0 255"
-		xpos			"-2"
-		ypos			"-2"//-2
+		xpos			"-2-p0.001"
+		ypos			"-2-p0.001"//-2
 		zpos			4
 		wide			40
 		tall			30

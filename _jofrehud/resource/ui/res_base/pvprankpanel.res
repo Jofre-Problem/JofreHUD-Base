@@ -231,10 +231,11 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"font"			"CustomTercero"
-			"fgcolor_override"	"W_ColorIcons1"
+			"fgcolor_override"	"WhiteSolid"
 			"textAlignment"	"center"
 			"labelText"		"%name%"
 			"proportionaltoparent"	"1"
+			"alpha"			"200"
 
 			if_mini
 			{
@@ -256,6 +257,7 @@
 			"textAlignment"	"center"
 			"labelText"		"%desc1%"
 			"proportionaltoparent"	"1"
+			"alpha"			"200"		
 			"pin_to_sibling"		"NameLabel"
 			pin_corner_to_sibling		PIN_TOPLEFT
 			pin_to_sibling_corner		PIN_BOTTOMLEFT
@@ -278,7 +280,8 @@
 			"proportionaltoparent"	"1"
 			"pin_to_sibling"		"DescLine1"
 			pin_corner_to_sibling		PIN_TOPLEFT
-			pin_to_sibling_corner		PIN_BOTTOMLEFT			
+			pin_to_sibling_corner		PIN_BOTTOMLEFT
+			"alpha"			"200"			
 		}
 
 		"StatsContainer"

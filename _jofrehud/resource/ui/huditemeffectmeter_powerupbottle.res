@@ -1,17 +1,18 @@
 #base "base/image/itemeffecticon.res"
+#base "base/meters/itemeffectmeterlabel.res"
+#base "base/meters/itemeffectmeter.res"
+#base "base/meters/itemeffectmeter/vis0.res"
+#base "base/meters/huditemeffectmeter/main_main.res"
+#base "base/meters/huditemeffectmeter/main_fg.res"
+#base "base/meters/itemeffectmetercount/main.res"
 "Resource/UI/huditemeffectmeter_PowerupBottles.res"
 {
 	huditemeffectmeter
 	{
-		"fieldName"		"huditemeffectmeter"
-		"visible"		"1"
-		"enabled"		"1"
 		"xpos"			"c-190"
 		"ypos"			"r19"
 		"wide"			"60"
 		"tall"			"20"
-		"MeterFG"		"White"
-		"MeterBG"		"Gray"
 	}
 	
 	"ItemEffectMeterBG"
@@ -42,62 +43,23 @@
 	
 	"ItemEffectMeterLabel"
 	{
-		"ControlName"			"CExLabel"
-		"fieldName"				"ItemEffectMeterLabel"
 		"xpos"					"12"
 		"ypos"					"32"
-		"zpos"					"2"
 		"wide"					"56"
 		"tall"					"25"
-		"autoResize"			"1"
-		"pinCorner"				"2"
 		"visible"				"0"
-		"enabled"				"1"
-		"tabPosition"			"0"
-		"labelText"				"#TF_Ball"
-		"textAlignment"			"north"
-		"centerwrap"			"1"
-		"dulltext"				"0"
-		"brighttext"			"0"
-		"font"					"TFFontSmall"
 	}
 
 	"ItemEffectMeter"
 	{	
-		"ControlName"			"ContinuousProgressBar"
-		"fieldName"				"ItemEffectMeter"
-		"font"					"Default"
-		"xpos"					"25"
-		"ypos"					"23"
-		"zpos"					"2"
-		"wide"					"40"
-		"tall"					"6"				
-		"autoResize"			"0"
-		"pinCorner"				"0"
-		"visible"				"0"
-		"enabled"				"0"
-		"textAlignment"			"Left"
-		"dulltext"				"0"
-		"brighttext"			"0"
 	}					
 	
 	"ItemEffectMeterCount"
 	{
-		"ControlName"			"CExLabel"
-		"fieldName"				"ItemEffectMeterCount"
 		"xpos"					"30"
 		"ypos"					"0"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"18"	
-		"pinCorner"				"2"
-		"visible"				"1"
-		"enabled"				"1"
-		"tabPosition"			"0"
-		"labelText"				"%progresscount%"
-		"textAlignment"			"west"
-		"dulltext"				"0"
-		"brighttext"			"0"
-		"font"					"CustomPrimero"
 	}
 }

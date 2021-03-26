@@ -3,13 +3,14 @@
 	"avatar"
 	{
 		"fieldName"	"avatar"
-		"xpos"		"1"
+		"xpos"		"6"
 		"ypos"		"1"
 		"wide"		"o1"
 		"tall"		"f2"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"		"0"
 		"scaleImage"	"1"
+		"border"		"G_TargetBorder"
 	}
 
 	"InteractButton"
@@ -39,7 +40,7 @@
 	{
 		"ControlName"			"Label"
 		"fieldName"				"NameLabel"
-		"xpos"					"rs1"
+		"xpos"					"rs1+7"
 		"ypos"					"0"
 		"zpos"					"100"
 		"wide"					"f22"
@@ -53,14 +54,14 @@
 		"proportionaltoparent"	"1"
 		"font"					"TFFontMedium"
 		"mouseinputenabled"		"0"
-		"fgcolor_override"		"W_ColorIcons1"
-		"alpha"					"220"
+		"fgcolor_override"		"W_ColorTheme4"
+		"alpha"					"150"
 	}
 
 	"StatusLabel"
 	{
 		"fieldName"				"StatusLabel"
-		"xpos"					"rs1"
+		"xpos"					"rs1+7"
 		"ypos"					"8"
 		"zpos"					"100"
 		"wide"					"f22"
