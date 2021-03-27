@@ -1,1 +1,1 @@
-#base "replayinputpanel_base.res"
+#base "base/dlg/content1.res"

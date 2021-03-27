@@ -21,7 +21,6 @@
 		"outoffocus_bgcolor_override"	"G_MenuBg"
 		
 		"title"			"#CharInfoAndSetup"
-		"title_font"	"G_FontNone"
 		"titletextinsetX"	"40"
 		"titletextinsetY"	"0"
 		"titlebarfgcolor_override"				"200 187 161 255"

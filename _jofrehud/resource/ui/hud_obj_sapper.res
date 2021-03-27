@@ -1,5 +1,7 @@
 #base "hud_obj_sentrygun_base.res"
-
+#base "base/filesv1/icon/main.res"
+#base "base/filesv1/icon/vis1.res"
+#base "base/filesv1/icon/enabled1.res"
 
 "Resource/UI/hud_obj_sapper.res"
 {
@@ -17,15 +19,11 @@
 	"Icon"
 	{
 		"ControlName"	"CIconPanel"
-		"fieldName"		"Icon"
 		"xpos"			"6"
 		"ypos"			"225"
 		"zpos"			"5"
 		"wide"			"16"
 		"tall"			"16"
-		"visible"		"1"
-		"enabled"		"1"
-		"scaleImage"	"1"	
 		"icon"			"spy_sapper"
 		"iconColor"		"255 255 255 255"
 	}

@@ -1,1 +1,1 @@
-#base "replayinputpanel_base.res"
+#base "base/replayinputpanel_base.res"
