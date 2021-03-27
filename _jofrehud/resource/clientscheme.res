@@ -672,7 +672,7 @@ Scheme
 				"name"		"Trebuchet MS" [$WINDOWS]
 				"name"		"Helvetica" [!$WINDOWS]
 				"tall"		"14"
-				"weight"	"400"
+				"weight"	"900"
 				"antialias" "1"
 				"additive"	"1"
 			}

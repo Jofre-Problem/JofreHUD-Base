@@ -5,7 +5,7 @@
 #base "../../#uni_base/filesv1/classimage/main.res"
 #base "../../#uni_base/filesv1/classimage/content1.res"
 #base "../../#uni_base/filesv1/classimage/enabled1.res"
-
+#base "../base/servername.res"
 #base "base/filesv1/mapname/main.res"
 #base "base/filesv1/mapname/is-cex.res"
 #base "base/filesv1/mapname/tall-24.res"
