@@ -9,6 +9,16 @@
 #base "../../../#uni_base/filesv1/mapinfo/vis0.res"
 #base "../../../#uni_base/filesv1/mapinfo/enabled0.res"
 #base "../../../#uni_base/filesv1/mapinfo/tab0.res"
+#base "../base/team/main.res"
+#base "../base/filesv1/mapname/main.res"
+#base "../base/filesv1/mapname/is-label.res"
+#base "../base/filesv1/mapname/wide-90.res"
+#base "../base/filesv1/mapname/tall-24.res"
+#base "../base/filesv1/mapname/vis0.res"
+#base "../base/filesv1/mapname/auto-pin.res"
+#base "../base/filesv1/mapname/west.res"
+#base "../base/filesv1/mapname/dull0.res"
+#base "../base/filesv1/mapname/bright1.res"
 "Resource/UI/TeamMenu.res"
 {
 	"CrossScaleSlide"
@@ -120,19 +130,6 @@
 		"wide"			"0"
 		"tall"			"0"
 	}	
-	"team"
-	{
-		"ControlName"	"CTeamMenu"
-		"fieldName"		"team"
-		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"f0"
-		"tall"			"480"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-	}
 	"bluedoor"
 	{
 		"ControlName"	"CModelPanel"

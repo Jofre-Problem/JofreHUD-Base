@@ -1,4 +1,4 @@
-#base "../resource/#bases/buildmode_base.res"
+#base "../#uni_base/filesv1/builddialog/main.res"
 #base "../base/password.res"
 #base "base/cancelbutton_main.res"
 #base "base/cancelbutton_main2.res"

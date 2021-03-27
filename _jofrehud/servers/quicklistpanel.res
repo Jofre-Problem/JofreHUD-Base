@@ -1,0 +1,7 @@
+#base "../base/filesv1/mapname/main.res"
+#base "../base/filesv1/mapname/is-label.res"
+#base "../base/filesv1/mapname/vis1.res"
+#base "../base/filesv1/mapname/auto-pin.res"
+#base "../base/filesv1/mapname/west.res"
+#base "../base/filesv1/mapname/dull0.res"
+#base "../base/filesv1/mapname/bright0.res"

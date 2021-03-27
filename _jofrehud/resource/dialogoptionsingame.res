@@ -1,4 +1,5 @@
-#base "#bases/buildmode_base.res"
+#base "../#uni_base/filesv1/builddialog/main.res"
+#base "../#uni_base/filesv1/builddialog/main2.res"
 #base "../friends/base/infotext_main.res"
 #base "../friends/base/infotext_autoresize.res"
 #base "../friends/base/infotext_enabled.res"
