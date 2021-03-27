@@ -1,0 +1,1 @@
+#base "base/itemrename/content1.res"

@@ -5,8 +5,32 @@
 #base "../#uni_base/filesv1/cancel/is-center.res"
 #base "../#uni_base/filesv1/cancel/tall-is24.res"
 #base "../#uni_base/filesv1/cancel/command/close.res"
+#base "../#uni_base/filesv1/warninglabel/is-label.res"
+#base "../#uni_base/filesv1/warninglabel/main.res"
+#base "../#uni_base/filesv1/warninglabel/vis1.res"
+#base "../#uni_base/filesv1/warninglabel/auto0.res"
+#base "../#uni_base/filesv1/warninglabel/pin0.res"
+#base "../#uni_base/filesv1/warninglabel/west.res"
 "Friends/DialogRemoveUser.res"
 {
+	"WarningLabel"
+	{
+	//	"ControlName"		"Label"
+	//	"fieldName"		"WarningLabel"
+		"xpos"		"24"
+		"ypos"		"40"
+		"wide"		"396"
+		"tall"		"24"
+	//	"autoResize"		"0"
+	//	"pinCorner"		"0"
+	//	"visible"		"1"
+	//	"enabled"		"1"
+		"tabPosition"		"0"
+		"labelText"		"You are about to remove johnc from your contact list."
+	//	"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+	}	
 	"DialogRemoveUser"
 	{
 		"ControlName"		"Frame"
@@ -62,24 +86,7 @@
 		"Command"		"Close"
 		"Default"		"0"
 	}
-	"WarningLabel"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"WarningLabel"
-		"xpos"		"24"
-		"ypos"		"40"
-		"wide"		"396"
-		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"labelText"		"You are about to remove johnc from your contact list."
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
-	}
+
 	"InfoLabel"
 	{
 		"ControlName"		"Label"

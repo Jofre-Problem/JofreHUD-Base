@@ -1,10 +1,10 @@
+#base "../../#uni_base/filesv1/hudchat/main.res"
+#base "../../#uni_base/filesv1/hudchathistory/main.res"
 "Resource/UI/BaseChat.res"
 {
 	"HudChat"
 	{
-		"ControlName"			"EditablePanel"
-		"fieldName" 			"HudChat"
-		"xpos" 			"" // TLC
+		"xpos" 			"0" // TLC
 		"xpos_minmode" 	"0" // TLC
 		"ypos" 			"0" // TLC
 		"ypos_minmode" 	"0" // TLC
@@ -16,7 +16,6 @@
 		"PaintBackgroundType" "0"
 		"paintbackground"	"0"
 		"paintborder"		"0"
-		"border"			"NoBorder"
 	}
 
 	ChatInputLine
@@ -57,21 +56,10 @@
 
 	"HudChatHistory"
 	{
-		"ControlName"			"RichText"
-		"fieldName"				"HudChatHistory"
 		"xpos"					"0"
 		"ypos"					"0"
 		"wide"			"p0.32"
 		"wide_minmode"	"p0.32"
 		"tall"					"p0.2"
-		"wrap"					"1"
-		"autoResize"			"1"
-		"pinCorner"				"1"
-		"visible"				"1"
-		"enabled"				"1"
-		"labelText"				""
-		"textAlignment"			"south-west"
-		"font"					"ChatFont"
-		"maxchars"				"-1"
 	}
 }

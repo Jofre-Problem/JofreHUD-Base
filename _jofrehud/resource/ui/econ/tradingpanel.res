@@ -1,4 +1,5 @@
 #base "../../#bases/reload_scheme.res"
+#base "../../../#uni_base/filesv1/hudchathistory/main.res"
 "Resource/UI/TradingPanel.res"
 {
 	"trading_panel"
