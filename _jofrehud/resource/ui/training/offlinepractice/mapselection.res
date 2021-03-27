@@ -1,5 +1,27 @@
+#base "../../../../#uni_base/filesv1/mapnamelabel/main.res"
+#base "../../../../#uni_base/filesv1/mapnamelabel/center.res"
 "Resource/training/offlinepractice/mapselection.res"
 {
+	"MapNameLabel"
+	{
+		"ControlName"	"CExLabel"
+	//	"fieldName"		"MapNameLabel"
+		"font"			"HudFontMedium"
+		"labelText"		"%mapname%"
+	//	"textAlignment"	"center"
+		"xpos"			"60"
+		"ypos"			"145"
+		"zpos"			"2"
+		"wide"			"330"
+		"tall"			"40"
+		"autoResize"	"1"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"wrap"			"0"
+		"fgcolor_override"	"246 237 211 255"
+	}
+
 	"MapImagePanel"
 	{
 		"ControlName"	"ImagePanel"
@@ -97,26 +119,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}	
 	
-	"MapNameLabel"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"MapNameLabel"
-		"font"			"HudFontMedium"
-		"labelText"		"%mapname%"
-		"textAlignment"	"center"
-		"xpos"			"60"
-		"ypos"			"145"
-		"zpos"			"2"
-		"wide"			"330"
-		"tall"			"40"
-		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"wrap"			"0"
-		"fgcolor_override"	"246 237 211 255"
-	}
-	
+
 	"CurPageLabel"
 	{
 		"ControlName"	"CExLabel"
