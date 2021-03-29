@@ -1,3 +1,4 @@
+#base "base/filesv1/killstreakicon/main.res"
 "Resource/UI/winpanel.res"
 {
 	"TeamScoresPanel"
@@ -771,7 +772,6 @@
 	"KillStreakIcon"
 	{
 		"ControlName"	"CTFImagePanel"
-		"fieldName"		"KillStreakIcon"
 		"xpos"			"c-116"
 		"ypos"			"c218"
 		"zpos"			"9"
@@ -780,9 +780,7 @@
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
 		"tabPosition"	"0"	
-		"image"			"../hud/leaderboard_streak"
 		"PaintBackgroundType"	"0"
 	}
 }

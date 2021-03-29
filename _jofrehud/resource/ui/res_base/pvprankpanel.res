@@ -362,10 +362,10 @@
 					{
 						"ControlName"	"ProgressBar"
 						"fieldName"		"ProgressBar"
-						"xpos"			"0"
+						"xpos"			"cs-0.5"
 						"ypos"			"rs1"
-						"wide"			"f0"
-						"tall"			"p0.04645"
+						"wide"			"p0.1"
+						"tall"			"5"
 						"zpos"			"1"
 						"proportionaltoparent"	"1"
 						"progress"		"1"
@@ -380,8 +380,8 @@
 						"fieldName"		"ContinuousProgressBar"
 						"xpos"			"cs-0.5"
 						"ypos"			"rs1"
-						"wide"			"f0"
-						"tall"			"p0.04645"
+						"wide"			"p0.28"
+						"tall"			"5"
 						"zpos"			"10"
 						"proportionaltoparent"	"1"
 						"progress"		"0"
@@ -394,13 +394,13 @@
 					{
 						"Controlname"	"EditablePanel"
 						"fieldName"		"Frame"
-						"xpos"			"0"
-						"ypos"			"0"
-						"wide"			"0"
-						"tall"			"0"
+						"xpos"			"cs-0.5"
+						"ypos"			"rs1"
+						"wide"			"p0.283"
+						"tall"			"6"
 						"zpos"			"5"
 						"proportionaltoparent"	"1"
-						"border"		"InnerShadowBorderThin"
+						"border"		"G_TargetBorder"
 					}
 				}
 			}

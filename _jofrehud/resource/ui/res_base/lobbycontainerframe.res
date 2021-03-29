@@ -1,3 +1,5 @@
+#base "../base/filesv1/notifipresentpanel/main.res"
+#base "../base/filesv1/notifipresentpanel/content1.res"
 "Resource/UI/LobbyContainerFrame.res"
 {
 	"LobbyContainerFrame"
@@ -182,19 +184,6 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}
-
-	"NotificationsPresentPanel"
-	{
-		"ControlName"	"CNotificationsPresentPanel"
-		"fieldName"		"NotificationsPresentPanel"
-		"xpos"			"r200"
-		"ypos"			"10"
-		"zpos"			"10000"
-		"wide"			"190"
-		"tall"			"50"
-		"visible"		"0"
-		"enabled"		"1"
 	}
 
 	"MatchmakingBanPanel"

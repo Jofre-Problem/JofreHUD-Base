@@ -25,7 +25,151 @@
 		"bgcolor_override"	"Blank"	
 	}
 
+	"MMBackgroundPanel"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldname"		"MMBackgroundPanel"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-300"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"PaintBackgroundType"	"0"
 
+		"SubButton"
+		{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"SubButton"
+			"xpos"			"9999"
+			"ypos"			"9999"
+			"wide"			"1"
+			"tall"			"1"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"textinsetx"	"25"
+			"use_proportional_insets" "1"
+			"font"			""
+			"textAlignment"	"west"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"default"		"1"
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+			
+			"border_default"	"MainMenuButtonDefault"
+			"border_armed"		"MainMenuButtonArmed"
+			"paintbackground"	"0"
+			
+			"defaultFgColor_override" "46 43 42 255"
+			"armedFgColor_override" "235 226 202 255"
+			"depressedFgColor_override" "46 43 42 255"
+			
+			"image_drawcolor"	"117 107 94 255"
+			"image_armedcolor"	"235 226 202 255"
+
+			"SubImage"
+			{
+				"ControlName"	"ImagePanel"
+				"fieldName"		"SubImage"
+				"xpos"			"6"
+				"ypos"			"6"
+				"zpos"			"1"
+				"wide"			"14"
+				"tall"			"14"
+				"visible"		"1"
+				"enabled"		"1"
+				"scaleImage"	"1"
+			}
+		}
+	"MMBackground1"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"MMBackground1"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-300"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/mainmenu/mm_background"
+		"scaleImage"	"1"
+	}
+	"MMBackground2"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"MMBackground2"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-300"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/mainmenu/mm_background2"
+		"scaleImage"	"1"
+	}
+	"MMBackground3"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"MMBackground3"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-300"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/mainmenu/mm_background3"
+		"scaleImage"	"1"
+	}
+	"MMBackground4"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"MMBackground4"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-300"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/mainmenu/mm_background4"
+		"scaleImage"	"1"
+	}
+	"MMBackground5"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"MMBackground5"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-300"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/mainmenu/mm_background5"
+		"scaleImage"	"1"
+	}
+	"MMBackground6"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"MMBackground6"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-300"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/mainmenu/mm_background6"
+		"scaleImage"	"1"
+	}
+	}
 	"TFLogoImage"
 	{
 		"wide"			"0"
@@ -53,7 +197,7 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"Background"
-		"xpos"			"0"
+		"xpos"			"9999"
 		"ypos"			"0"
 		"zpos"			"0"
 		"wide"			"f0"
@@ -108,14 +252,16 @@
 	{
 		ControlName				EditablePanel
 		FieldName				"MyHome"
-		xPos					225
-		yPos					rs1
+		xPos					0
+		yPos					0
 		zPos					1050
-		wide					20
-		tall					p0.0462
+		wide					28
+		tall					p0.0435
 		"bgcolor_override"		"Blank"
 		"paintBackgroundType"	"0"
-
+		pin_to_sibling		"NewUserForumsButton"	
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	
 		"SubButton"
 		{
 			ControlName				CExImageButton
@@ -309,10 +455,10 @@
 		xPos					0
 		yPos					rs1
 		zPos					1050
-		wide					35
-		tall					p0.045
+		wide					30
+		tall					25
 		textInsetx				"1"
-		font					"NewIcons15"
+		font					"NewIcons20"
 		labelText				"j"
 		textAlignment			center
 		
@@ -321,8 +467,8 @@
 		sound_depressed			"UI/buttonclick.wav"
 		sound_released			"UI/buttonclickrelease.wav"
 		
-		defaultFgColor_override		"W_ColorIcons1"
-		armedFgColor_override		"58 35 100 255"
+		defaultFgColor_override		"58 35 100 255"
+		armedFgColor_override		"W_ColorIcons1"
 	
 		paintBackground			0
 
@@ -642,7 +788,7 @@
 		ControlName				CExButton
 		FieldName				"OpenContracker"
 		xPos					2
-		yPos					60
+		yPos					15
 		zPos					1009
 		wide					27
 		tall					o1
@@ -1050,6 +1196,7 @@
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
 	}	
+
 	"Notifications_Panel"
 	{
 		ControlName				EditablePanel
@@ -1201,12 +1348,23 @@
 		"ypos"			"13"
 		"zpos"			"3"
 		"wide"			"30"
-		"tall"			"p0.92"
+		"tall"			"p0.98"
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"W_ColorTheme1"
 		"alpha"			"100"
 	}		
+		"QuitBar"		
+		{
+		ControlName				ImagePanel
+		FieldName				"QuitBar"
+		xPos					0
+		yPos					cs-0.5+13
+		zPos					1040
+		wide					30
+		tall					p0.001 //p0.525
+		fillColor				"W_ColorIcons1"
+	}	
 	"TooltipPanel"		// when hovering a element that has tooltipText
 	{
 		ControlName				EditablePanel
@@ -1372,8 +1530,8 @@
 		"xpos"			"30"
 		"ypos"			"13"
 		"zpos"			"20"
-		"wide"			"p0.4"
-		"tall"			"p0.962"
+		"wide"			"p0.975"
+		"tall"			"p1"
 		"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"border"			"noborder"
@@ -1398,7 +1556,7 @@
 			"ypos"			"0"
 			"zpos"			"500"
 			"wide"			"f0"
-			"tall"			"p0.962"
+			"tall"			"p0.975"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 			"columns_count"	"1"
@@ -1410,7 +1568,7 @@
 
 			"friendpanel_kv"
 			{
-				"wide"		"p0.13"
+				"wide"		"p0.16"
 				"tall"		"20"
 			}
 			"ScrollBar"
@@ -1420,7 +1578,7 @@
 				"xpos"			"0"
 				"ypos"			"0"
 				"tall"			"f0"
-				"wide"			"p0.006" // This gets slammed from client schme.  GG.
+				"wide"			"p0.003" // This gets slammed from client schme.  GG.
 				"zpos"			"1000"
 				"nobuttons"		"1"
 				"proportionaltoparent"	"1"

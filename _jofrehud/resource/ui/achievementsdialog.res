@@ -1,3 +1,4 @@
+#base "base/filesv1/percentagebar/main.res"
 //------------------------------------
 // Achievements Dialog
 //------------------------------------
@@ -112,16 +113,10 @@
 	
 	"PercentageBar" //dark grey current completed
 	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"PercentageBar"
 		"xpos"		"23"
 		"ypos"		"67"
-		"wide"		"0"
 		"tall"		"16"
 		"fillcolor"	"W_ColorTheme4"
-		"zpos"	"-1"
-		"visible"		"0"
-		"enabled"		"1"
 	}
 	
 	"PercentageText" //Percent Text inside the percentage field

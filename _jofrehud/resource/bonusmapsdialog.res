@@ -1,0 +1,1 @@
+#base "ui/base/filesv1/percentagebar/main.res"

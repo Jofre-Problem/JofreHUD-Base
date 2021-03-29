@@ -226,7 +226,7 @@
 			tall					13 //p0.05 = 1mm...
 			fillColor				"W_ColorTheme1"
 			mouseInputEnabled			0			// mouse input passes though to panels below	
-			"alpha"					"200"	
+			"alpha"					"240"	
 		}
 		"Gradient"
 		{

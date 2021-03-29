@@ -3,6 +3,8 @@
 #base "../../../#uni_base/filesv1/classimage/content1.res"
 #base "../../../#uni_base/filesv1/classimage/vis1.res"
 #base "../../../#uni_base/filesv1/classimage/enabled1.res"
+#base "../base/filesv1/discardbtn/main.res"
+#base "../base/filesv1/discardbtn/content2.res"
 "Resource/UI/ItemPickupPanel.res"
 {
 	"item_pickup"
@@ -249,55 +251,7 @@
 		"Command"		"changeloadout"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}
-	
-	"DiscardButton"
-	{
-		"ControlName"	"CExImageButton"
-		"fieldName"		"DiscardButton"
-		"xpos"			"c224"
-		"ypos"			"155"
-		"zpos"			"10"
-		"wide"			"20"
-		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"labelText"		""
-		"font"			"HudFontSmallBold"
-		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"Command"		"discarditem"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
-
-		"defaultBgColor_override" "117 107 94 255"
-		"armedBgColor_override" "145 73 59 255"
-		"depressedBgColor_override" "117 107 94 255"
-			
-		"image_drawcolor"	"235 226 202 255"		
-		"image_armedcolor"	"235 226 202 255"		
-		
-		"SubImage"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"SubImage"
-			"xpos"			"cs-0.5"
-			"ypos"			"cs-0.5"
-			"zpos"			"1"
-			"wide"			"p1"
-			"tall"			"p1"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			"icon_trash_on"
-			"scaleImage"	"1"
-			"paintbackgroundtype" "0"
-			"proportionaltoparent"	"1"
-		}				
-	}		
+	}	
 	"DiscardButtonTooltip"
 	{
 		"ControlName"	"EditablePanel"

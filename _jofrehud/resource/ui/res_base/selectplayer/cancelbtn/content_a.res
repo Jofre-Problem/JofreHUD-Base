@@ -1,0 +1,27 @@
+"Resource/UI/SelectPlayerDialog.res"
+{
+    "CancelButton"
+    {
+        "ControlName"   "CExButton"
+        "fieldName"     "CancelButton"
+        "xpos"          "150"
+        "ypos"          "250"
+        "zpos"          "1"
+        "wide"          "100"
+        "tall"          "25"
+        "autoResize"    "0"
+        "pinCorner"     "3"
+        "visible"       "1"
+        "enabled"       "1"
+        "tabPosition"   "0"
+        "labelText"     "#Cancel"
+        "font"          "HudFontSmallBold"
+        "textAlignment" "center"
+        "dulltext"      "0"
+        "brighttext"    "0"
+        "default"       "1"
+        "Command"       "cancel"
+        "sound_depressed"   "UI/buttonclick.wav"
+        "sound_released"    "UI/buttonclickrelease.wav"
+    }
+}

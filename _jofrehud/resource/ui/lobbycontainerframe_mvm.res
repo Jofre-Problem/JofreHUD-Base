@@ -1,5 +1,5 @@
 #base "res_base/lobbycontainerframe.res"
-
+#base "base/filesv1/learnmore/main.res"
 "Resource/UI/LobbyContainerFrame_MvM.res"
 {
 	"OptionsButton"
@@ -11,31 +11,16 @@
 	
 	"LearnMoreButton"
 	{
-		"ControlName"	"CExImageButton"
-		"fieldName"		"LearnMoreButton"
 		"xpos"			"c106"
 		"ypos"			"385"
 		"zpos"			"2"
 		"wide"			"195"
-		"tall"			"25"
-		"autoResize"	"0"
-		//"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
 		"labelText"		"#TF_MvM_LearnMore"
-		"font"			"HudFontSmallBold"
-		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
 		"Command"		"learn_more"
 
 		"NavUp"			"PracticeButton"
 		"NavLeft"		"BackButton"
 		"NavRight"		"NextButton"
-
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
 	}
 
 	"PlayNowButton"

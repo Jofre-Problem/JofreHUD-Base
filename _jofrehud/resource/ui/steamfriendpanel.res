@@ -30,7 +30,7 @@
 		"paintbackground"	"1"
 
 		"defaultBgColor_override"	"Blank"
-		"armedBgColor_override"	"94 150 49 5"
+		"armedBgColor_override"		"64 64 64 200"
 
 		"border_default"	"NoBorder"
 		"border_armed"		"FriendHighlightBorder"
@@ -54,7 +54,7 @@
 		"proportionaltoparent"	"1"
 		"font"					"TFFontMedium"
 		"mouseinputenabled"		"0"
-		"fgcolor_override"		"W_ColorTheme4"
+		"fgcolor_override"		"WhiteSolid"
 		"alpha"					"150"
 	}
 

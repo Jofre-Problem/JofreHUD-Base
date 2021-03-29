@@ -1,21 +1,7 @@
 #base "../../#bases/reload_scheme.res"
+#base "base/bgimage/main.res"
 "Resource/UI/econ/QuestEditorPanel.res"
 {
-	"BGImage"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"BGImage"
-		"xpos"			"cs-0.5"
-		"ypos"			"0"
-		"zpos"			"1"
-		"wide"			"o1"
-		"tall"			"p0.75"
-		"visible"		"0"
-		"enabled"		"0"
-		"image"			"item_carousel_bg"
-		"scaleImage"	"1"
-		"proportionaltoparent" "1"
-	}
 
 	"ItemName"
 	{		

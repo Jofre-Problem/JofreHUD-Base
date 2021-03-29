@@ -1,0 +1,11 @@
+#base "base/filesv1/avatarbgpanel/main.res"
+#base "base/filesv1/avatarbgpanel/contentwith5.res"
+#base "base/filesv1/avatarbgpanel/bgcolor.res"
+#base "base/filesv1/avatarimage/main.res"
+#base "base/filesv1/avatarimage/enabled.res"
+#base "base/filesv1/avatarimage/color.res"
+#base "base/filesv1/avatarimage/contentwith32.res"
+
+#base "base/filesv1/distancelabel/main.res"
+#base "res_base/base/spectator_extra.res"
+#base "res_base/hudinspectpanel.res"

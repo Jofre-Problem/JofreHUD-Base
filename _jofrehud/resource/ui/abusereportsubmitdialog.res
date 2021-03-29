@@ -1,1 +1,6 @@
 #base "../../#uni_base/filesv1/playerlabel/main.res"
+#base "base/filesv1/desclabel/main.res"
+#base "base/filesv1/discardbtn/main.res"
+#base "base/filesv1/discardbtn/content1.res"
+#base "base/filesv1/avatarimage/main.res"
+#base "base/filesv1/avatarimage/enabled.res"

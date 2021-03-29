@@ -171,7 +171,11 @@
 			"tall"			"448"
 		}
 	}	
-
+	"ServerName"
+	{
+		"wide"		"0"
+		"tall"		"0"
+	}
 	"BlueTeamLabel"
 	{
 			"wide"			"0"

@@ -285,7 +285,6 @@
 	"KillStreakIcon"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"KillStreakIcon"
 		"xpos"			"10"
 		"xpos_minmode"	"30"
 		"ypos"			"20"
@@ -294,8 +293,6 @@
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
-		"enabled"		"0"
-		"image"			"../hud/leaderboard_streak"
 		"scaleImage"	"0"
 	}
 	
@@ -329,8 +326,6 @@
 	}
 	"AvatarImage"
 	{
-		"ControlName"	"CAvatarImagePanel"
-		"fieldName"		"AvatarImage"
 		"xpos"			"6"
 		"xpos_minmode"	"6"
 		"ypos"			"6"	[$WIN32]
@@ -338,10 +333,5 @@
 		"zpos"			"99"
 		"wide"			"11"
 		"tall"			"11"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			""
-		"scaleImage"	"1"	
-		"color_outline"	"52 48 45 255"
 	}	
 }

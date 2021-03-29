@@ -1,1 +1,3 @@
 #base "../../#uni_base/filesv2/confirmdialog/main.res"
+#base "base/filesv1/subtitlelabel/main.res"
+#base "base/filesv1/subtitlelabel/content1.res"

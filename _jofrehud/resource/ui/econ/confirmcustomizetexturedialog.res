@@ -1,4 +1,1 @@
-"Resource/UI/econ/ConfirmCustomizeTextureDialog.res"
-{
-
-}
+#base "base/mouseoveritem/content1.res"

@@ -11,3 +11,4 @@
 -> divider0 wrong fieldname
 - customgamepage_filters double code! "addcurrentserverbutton" repeats himself 2 times?!!
 - ElementTreeToolbar double "" BRUH
+- w1 on "loadingimage"

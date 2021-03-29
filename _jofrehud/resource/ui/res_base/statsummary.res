@@ -241,7 +241,21 @@
 		"AllCaps"			"1"
 		"fgcolor_override"	"W_ColorTheme1"
 	}
-
+	"LoadingThing"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"		"LoadingThing"
+		"font"			"HudFontGiant"
+		"labelText"			"Loading..."
+		"textAlignment"		"south"
+		"xpos"				"0"
+		"ypos"				"13"
+		"zpos"				"91"
+		"wide"				"f0"
+		"tall"				"25"
+		"AllCaps"			"1"
+		"fgcolor_override"	"W_ColorTheme1"
+	}
 	"MapType"
 	{
 		"ControlName"	"CExLabel"

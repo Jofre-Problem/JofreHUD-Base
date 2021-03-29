@@ -41,8 +41,8 @@
 	{
 		ControlName				CExButton
 		FieldName				"BrowseServers"
-		xPos					35+10
-		yPos					rs1
+		xPos					c-85
+		yPos					rs1-6
 		zPos					1050
 		wide					28
 		tall					p0.0435
@@ -69,8 +69,8 @@
 	{
 		ControlName				CExButton
 		FieldName				"CharacterSetupButton"
-		xPos					70+10
-		yPos					rs1
+		xPos					0
+		yPos					0
 		zPos					1050
 		wide					28
 		tall					p0.0435
@@ -94,14 +94,17 @@
 
 		paintBackground			0
 		"navRight"		"Settings"
+		pin_to_sibling		"BrowseServers"	
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
 	}
 	
 	"Settings"		// open options window
 	{
 		ControlName				CExButton
 		FieldName				"Settings"
-		xPos					105+10
-		yPos					rs1
+		xPos					0
+		yPos					0
 		zPos					1050
 		wide					28
 		tall					p0.0435
@@ -124,14 +127,17 @@
 		"pinCorner"		"0"
 		"textinsetx"	"0"				
 		"navRight"		"ToggleConsole"
+		pin_to_sibling		"CharacterSetupButton"	
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
 	}
 
 	"ToggleConsole"		// toggle console
 	{
 		ControlName				CExButton
 		FieldName				"ToggleConsole"
-		xPos					150
-		yPos					rs1
+		xPos					0
+		yPos					0
 		zPos					1050
 		wide					28
 		tall					p0.0435
@@ -150,14 +156,18 @@
 
 		paintBackground			0
 		"navRight"		"NewUserForumsButton"
+
+		pin_to_sibling		"Settings"	
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"				
 	}
 
 	"NewUserForumsButton"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"NewUserForumsButton"
-		xPos					185
-		yPos					rs1
+		xPos					0
+		yPos					0
 		zPos					1052
 		wide					28
 		tall					25
@@ -181,6 +191,9 @@
 		"alpha"				"0"	
 		"image_drawcolor"	"Blank"
 	
+		pin_to_sibling		"ToggleConsole"	
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -200,8 +213,8 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"NewusersLabel"
-		xPos					175+10
-		yPos					rs1
+		xPos					0
+		yPos					0
 		zPos					1051
 		wide					33
 		tall					p0.0435
@@ -216,5 +229,7 @@
 		"font"					"NewIcons17"		
 
 		"mouseinputenabled"		"0"		// fix fix fix
+
+		"pin_to_sibling"	"NewUserForumsButton"
 	}		
 }	
