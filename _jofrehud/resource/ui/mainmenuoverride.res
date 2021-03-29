@@ -284,110 +284,6 @@
 			paintbackground			0
 		}
 	}
-		
-	"CallVote"			// call a vote
-	{
-		ControlName				EditablePanel
-		FieldName				"CallVote"
-		xPos					"275"//210 - 33
-		yPos					rs1
-		zPos					1050
-		wide					28
-		tall					p0.0435
-	//	"bgcolor_override"		"W_ColorTheme1"
-		"paintBackgroundType"	"0"
-
-		"SubButton"
-		{
-			ControlName				CExImageButton
-			fieldName				"SubButton"
-			xpos					0
-			ypos					0
-			wide					f0
-			tall					f0
-			proportionaltoparent		1
-
-		//	font					"NewIcons18"
-			textAlignment			center
-			
-			sound_depressed			"UI/buttonclick.wav"
-			sound_released			"UI/buttonclickrelease.wav"
-							
-		defaultFgColor_override		"W_ColorIcons1"
-		armedFgColor_override		"W_ColorIconsArmed1"
-
-			paintbackground			0
-		}
-	}
-
-	"MutePlayers"			// open the menu to mute players
-	{
-		ControlName				EditablePanel
-		FieldName				"MutePlayers"
-		xPos					310
-		yPos					rs1
-		zPos					1050
-		wide					28
-		tall					p0.0435
-	//	"bgcolor_override"		"W_ColorTheme1"
-		"paintBackgroundType"	"0"
-		"SubButton"
-		{
-			ControlName				CExImageButton
-			fieldName				"SubButton"
-			xpos					0
-			ypos					0
-			wide					f0
-			tall					f0
-			proportionaltoparent		1
-
-		//	font					"NewIcons18"
-			textAlignment			center
-			
-			sound_depressed			"UI/buttonclick.wav"
-			sound_released			"UI/buttonclickrelease.wav"
-						
-		defaultFgColor_override		"W_ColorIcons1"
-		armedFgColor_override		"W_ColorIconsArmed1"
-
-			paintbackground			0
-		}
-	}
-
-	"ReportPlayer"			// open the menu to report players
-	{
-		ControlName				EditablePanel
-		FieldName				"ReportPlayer"
-		xPos					345
-		yPos					rs1
-		zPos					1050
-		wide					28
-		tall					p0.0435
-	//	"bgcolor_override"		"W_ColorTheme1"
-		"paintBackgroundType"	"0"
-		"SubButton"
-		{
-			ControlName				CExImageButton
-			fieldName				"SubButton"
-			xpos					0
-			ypos					0
-			wide					f0
-			tall					f0
-			proportionaltoparent		1
-
-		//	font					"NewIcons18"
-			textAlignment			center
-			
-			sound_depressed			"UI/buttonclick.wav"
-			sound_released			"UI/buttonclickrelease.wav"
-						
-		defaultFgColor_override		"W_ColorIcons1"
-		armedFgColor_override		"W_ColorIconsArmed1"
-
-			paintbackground			0
-		}
-	}
-
 	"RankModelPanel"			// contains rank medal model; can't click it because CycleRankTypeButton is on 
 	{
 		ControlName				Cpvprankpanel
@@ -423,31 +319,6 @@
 		"tall"			"0"
 		"alpha"			"0"
 	}
-
-	"CallVoteButton"
-	{
-		"wide"			"0"
-		"tall"			"0"
-		"alpha"			"0"
-	}
-	"MutePlayersButton"
-	{
-		"wide"			"0"
-		"tall"			"0"
-		"alpha"			"0"
-	}
-	"RequestCoachButton"
-	{
-		"wide"			"0"
-		"tall"			"0"
-		"alpha"			"0"
-	}	
-	"ReportPlayerButton"
-	{
-		"wide"			"0"
-		"tall"			"0"
-		"alpha"			"0"
-	}		
 	"WorkshopButton"		// open advanced options
 	{
 		ControlName				CExButton
@@ -1530,7 +1401,7 @@
 		"xpos"			"30"
 		"ypos"			"13"
 		"zpos"			"20"
-		"wide"			"p0.975"
+		"wide"			"p0.2"
 		"tall"			"p1"
 		"visible"		"1"
 		"bgcolor_override"		"Blank"
