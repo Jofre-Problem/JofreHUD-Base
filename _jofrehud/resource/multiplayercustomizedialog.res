@@ -15,7 +15,7 @@
 #base "../#uni_base/filesv1/cancel/label/gameuicancel.res"
 #base "../#uni_base/filesv1/advanced/main.res"
 #base "res_base/multiplayercustomizedialog.res"
-"Resource\MultiplayerCustomizeDi"
+"Resource/MultiplayerCustomizeDi"
 {
 	"NameLabel"
 	{

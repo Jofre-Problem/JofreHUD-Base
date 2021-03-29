@@ -247,7 +247,7 @@
 		"fieldName"		"LoadingThing"
 		"font"			"HudFontGiant"
 		"labelText"			"Loading..."
-		"textAlignment"		"south"
+		"textAlignment"		"north-west"
 		"xpos"				"0"
 		"ypos"				"13"
 		"zpos"				"91"

@@ -14,38 +14,15 @@
 			font					"NewIcons17"
 		}
 	}
-	"CallVote"			// call a vote
-	{
-		"SubButton"
-		{
-			font					"NewIcons17"
-		}
-	}
-
-	"MutePlayers"			// open the menu to mute players
-	{
-		"SubButton"
-		{
-			font					"NewIcons17"
-		}
-	}
-
-	"ReportPlayer"			// open the menu to report players
-	{
-		"SubButton"
-		{
-			font					"NewIcons17"
-		}
-	}	
 	"BrowseServers"			// open server browser; other buttons pinned to this
 	{
 		ControlName				CExButton
 		FieldName				"BrowseServers"
-		xPos					c-85
-		yPos					rs1-6
+		xPos					rs1
+		yPos					60
 		zPos					1050
-		wide					28
-		tall					p0.0435
+		wide					15
+		tall					15
 
 
 		labelText				"}"
@@ -60,6 +37,7 @@
 		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"W_ColorIconsArmed1"
 		
+	//	bgcolor_override	"W_ColorTheme1"
 		paintBackground			0
 		
 		"navRight"		"CharacterSetupButton"
@@ -72,8 +50,9 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					28
-		tall					p0.0435
+		wide					15
+		tall					15
+
 		
 
 		"use_proportional_insets" "0"
@@ -95,8 +74,8 @@
 		paintBackground			0
 		"navRight"		"Settings"
 		pin_to_sibling		"BrowseServers"	
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT	
 	}
 	
 	"Settings"		// open options window
@@ -106,8 +85,9 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					28
-		tall					p0.0435
+		wide					15
+		tall					15
+
 
 		labelText				"Í"
 		font					"NewIcons17"
@@ -128,8 +108,8 @@
 		"textinsetx"	"0"				
 		"navRight"		"ToggleConsole"
 		pin_to_sibling		"CharacterSetupButton"	
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
+			pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT		
 	}
 
 	"ToggleConsole"		// toggle console
@@ -139,8 +119,9 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					28
-		tall					p0.0435
+		wide					15
+		tall					15
+
 		
 		labelText				"_"
 		font					"NewIcons17"
@@ -158,8 +139,8 @@
 		"navRight"		"NewUserForumsButton"
 
 		pin_to_sibling		"Settings"	
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"				
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT		
 	}
 
 	"NewUserForumsButton"
@@ -169,8 +150,9 @@
 		xPos					0
 		yPos					0
 		zPos					1052
-		wide					28
-		tall					25
+		wide					15
+		tall					15
+
 
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -192,8 +174,8 @@
 		"image_drawcolor"	"Blank"
 	
 		pin_to_sibling		"ToggleConsole"	
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT		
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -216,8 +198,9 @@
 		xPos					0
 		yPos					0
 		zPos					1051
-		wide					33
-		tall					p0.0435
+		wide					15
+		tall					15
+
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"x"

@@ -7,11 +7,11 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Windows_Notification"
-			"xpos"		"0"
+			"xpos"		"11"
 			"ypos"		"0"
 			"zpos"		"-1000"
 			"wide"		"p0.29"
-			"tall"		"p0.953"
+			"tall"		"f0"
 			"autoResize"		"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -33,6 +33,9 @@
 			tall					f0
 			fillColor				"W_ColorLinea1"
 			mouseInputEnabled			0			// mouse input passes though to panels below
+			pin_to_sibling		"Windows_Notification"
+		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"			
 		}
 		"MOTD_HeaderContainer"
 		{
@@ -57,7 +60,8 @@
 			"tabPosition"		"0"
 			"PaintBackgroundType"	"0"
 			"paintbackground"		"1"
-			"bgcolor_override"				"W_ColorTheme1"
+			"bgcolor_override"				"W_ColorTheme3"
+			"pin_to_sibling"						"Windows_Notification"				
 		}	
 	
 		"OpenDev"
@@ -77,7 +81,7 @@
 			labelText				"¿"
 			font					"NewIcons20"
 			textAlignment			center
-		
+		"pin_to_sibling"						"ButtonsPanel"	
 			command				"OpenLoadSingleplayerCommentaryDialog"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -294,7 +298,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			labelText				"\"
+			labelText				"/"
 			font					"NewIcons20"
 			textAlignment			center
 		
@@ -611,7 +615,55 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"MOTD_CloseButton"
-			"xpos"			"r0"		
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"10"
+			"wide"			"11"
+			"tall"			"f0"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"labeltext"		"m"
+			"font"			"NewIcons11"
+			"textAlignment"	"center"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"default"		"0"
+			"actionsignallevel"	"2"
+
+			"navDown"			"MOTD_URLButton"
+			"navActivate"		"<QuickplayButton"
+
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+			"Command"		"motd_hide"
+			
+			"paintbackground"	"0"
+			
+			//"defaultFgColor_override" "235 226 202 255"
+			//"armedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "46 43 42 255"
+			"armedFgColor_override" "235 226 202 255"
+			"depressedFgColor_override" "46 43 42 255"
+			
+			"image_drawcolor"	"235 226 202 255"
+			"image_armedcolor"	"200 80 60 255"
+			"SubImage"
+			{
+				"ControlName"	"ImagePanel"
+				"fieldName"		"SubImage"
+				"xpos"			"0"
+				"ypos"			"0"
+				"zpos"			"1"
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"1"
+				"enabled"		"1"
+				"image"			"close_button"
+				"scaleImage"	"1"
+			}				
 		}	
 
 
@@ -731,71 +783,5 @@
 			"enabled"		"1"
 			"fgcolor_override"	"W_ColorTexto1"
 		}		
-
-	"FriendsContainer"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldname"		"FriendsContainer"
-		"xpos"			"10"
-		"ypos"			"65"
-		"zpos"			"20"
-		"wide"			"p0.266"
-		"tall"			"223"
-		"visible"		"1"
-		"bgcolor_override"		"Blank"
-		"SteamFriendsList"
-		{
-			"ControlName"	"CSteamFriendsListPanel"
-			"fieldname"		"SteamFriendsList"
-			"xpos"			"cs-0.5"
-			"ypos"			"0"
-			"zpos"			"500"
-			"wide"			"f10"
-			"tall"			"223"
-			"visible"		"1"
-			"proportionaltoparent"	"1"
-			"columns_count"	"2"
-			"inset_x"		"0"
-			"inset_y"		"5"
-			"row_gap"		"5"
-			"column_gap"	"10"
-			"restrict_width"	"0"
-			"friendpanel_kv"
-			{
-				"wide"		"p0.125"
-				"tall"		"20"
-			}
-			"ScrollBar"
-			{
-				"ControlName"	"ScrollBar"
-				"FieldName"		"ScrollBar"
-				"xpos"			"rs1+1"
-				"ypos"			"0"
-				"tall"			"f0"
-				"wide"			"p0.01" // This gets slammed from client schme.  GG.
-				"zpos"			"1000"
-				"nobuttons"		"1"
-				"proportionaltoparent"	"1"
-				"Slider"
-				{
-					"fgcolor_override"	"W_ColorIcons1"
-				}
-		
-				"UpButton"
-				{
-					"ControlName"	"Button"
-					"FieldName"		"UpButton"
-					"visible"		"0"
-				}
-		
-				"DownButton"
-				{
-					"ControlName"	"Button"
-					"FieldName"		"DownButton"
-					"visible"		"0"
-				}
-			}
-		}
-	}						
 	}
 }

@@ -1,4 +1,4 @@
-"resource\BxClipBrowserClientArea.res"
+"resource/BxClipBrowserClientArea.res"
 {
 	"BxClipBrowserClientArea"
 	{

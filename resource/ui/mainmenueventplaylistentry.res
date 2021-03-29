@@ -1,5 +1,2 @@
-	#base	"../../#users/custom/resource/ui/mainmenueventplaylistentry.res"
-	#base	"../../_stream/resource/ui/mainmenueventplaylistentry.res"
-	#base	"../../_jofrehud/resource/ui/mainmenueventplaylistentry.res"
-	#base	"../../_jofrehud/_tf2fix/resource/ui/mainmenueventplaylistentry.res"
-//	#base	"../../_tf2hud/resource/ui/mainmenueventplaylistentry.res"
+#base "../../_jofrehud/resource/ui/res_base/mainmenuplaylistentry.res"
+#base "base/filesv1/gradient/main.res"

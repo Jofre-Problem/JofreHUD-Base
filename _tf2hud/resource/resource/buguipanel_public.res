@@ -1,4 +1,4 @@
-"Resource\BugUIPanel_Public.res"
+"Resource/BugUIPanel_Public.res"
 {
 	"BugUIPanel"
 	{

@@ -72,7 +72,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"
-		"image"			"contracts\contracts_base1"
+		"image"			"contracts/contracts_base1"
 		"proportionaltoparent"	"1"
 
 		"mouseinputenabled"	"0"

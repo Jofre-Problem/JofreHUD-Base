@@ -1,0 +1,1 @@
+#base "../base/filesv1/durationlabel/main.res"

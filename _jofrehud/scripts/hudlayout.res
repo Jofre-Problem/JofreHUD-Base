@@ -1,11 +1,14 @@
-//	#base "..\resource\#beta\c_spacer.res"
+//	#base "../resource/#beta/c_spacer.res"
 	#base "../#customization/scripts/transparent.res"
 	#base "../#customization/scripts/damageindicator.res"
 	#base "../#customization/!addons/#enabled/centered_health/hudlayout.res"
-	#base "../#customization/!addons/#enabled/jofre_hud/hudlayout.res"	
+	#base "../#customization/!addons/#enabled/jofre_hud/hudlayout.res"
 
 	#base "../#uni_base/filesv1/hudchat/main.res"
-"Resource\HudLayout.res"
+	#base "../resource/ui/base/filesv1/huditemeffectmeter/main_fg.res"
+	#base "../resource/ui/base/filesv1/huditemeffectmeter/main_main.res"
+	#base "../resource/ui/base/filesv1/freezepanel/main.res"
+"Resource/HudLayout.res"
 {
 	HudControlPointIcons
 	{
@@ -54,7 +57,7 @@
 		"ypos_minmode"	"0"	[$WIN32]
 		"xpos"			"0"	[$X360]
 		"ypos"			"0"	[$X360]
-		"zpos"			"1"			\\ draw in front of ammo
+		"zpos"			"1"			// draw in front of ammo
 		"wide"			"f0"
 		"wide_minmode"	"f0"
 		"tall"			"f0"
@@ -84,19 +87,6 @@
 		"wide"			"30"
 		"tall"			"8"
 		"zpos"			"1"
-		"MeterFG"		"White"
-		"MeterBG"		"Gray"
-	}
-	
-	huditemeffectmeter
-	{
-		"fieldName"		"huditemeffectmeter"
-		"visible"		"1"
-		"enabled"		"1"
-		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"f0"
-		"tall"			"f0"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
@@ -174,7 +164,7 @@
 	//	"pin_to_sibling"	"HudTournament"	 //HELL		
 	}
 	
-	\\ Spy
+	// Spy
 	DisguiseStatus
 	{
 		"xpos"		"0"	[$WIN32]
@@ -244,7 +234,7 @@
 		"tall"		"480"
 	}
 	
-	\\ Engineer
+	// Engineer
 	BuildingStatus_Engineer
 	{
 		"xpos"		"-8"
@@ -291,9 +281,9 @@
 		"tall"					"200"
 		"visible"				"1"
 		"enabled"				"1"
-		"separator_width"		"3"	\\ distance between the icons (including their backgrounds)
+		"separator_width"		"3"	// distance between the icons (including their backgrounds)
 		"separator_height"		"3"
-		"height_offset"			"0"	[$WIN32] \\ distance from the bottom of the panel
+		"height_offset"			"0"	[$WIN32] // distance from the bottom of the panel
 	}
 	
 	"ItemAttributeTracker"

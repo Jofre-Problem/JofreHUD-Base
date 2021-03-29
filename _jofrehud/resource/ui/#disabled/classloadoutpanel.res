@@ -148,7 +148,7 @@
 			fgcolor					"117 107 94 255"
 		}
 
-		// => resource\ui\econ\ItemModelPanel.res "MainContentsContainer"
+		// => resource/ui/econ/ItemModelPanel.res "MainContentsContainer"
 	}
 	
 	"loadout_preset_panel"		// no idea how to move this ? buttons off center ?
@@ -162,7 +162,7 @@
 		enabled						1
 		paintbackground			0
 
-		// => resource\ui\loadoutpresetpanel.res
+		// => resource/ui/loadoutpresetpanel.res
 		// Button.BgColor, ButtonBorder in scheme
 	}
 
@@ -299,7 +299,7 @@
 		paintbackground			0
 		border						"LoadoutItemPopupBorder"
 
-		// => resource\ui\ItemOptionsPanel.res
+		// => resource/ui/ItemOptionsPanel.res
 	}
 	
 	

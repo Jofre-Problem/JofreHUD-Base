@@ -1,5 +1,5 @@
 #base "#bases/buildmodedialog_base.res"
-"Resource\FogUIPanel.res"
+"Resource/FogUIPanel.res"
 {
 	"FogUIPanel"
 	{

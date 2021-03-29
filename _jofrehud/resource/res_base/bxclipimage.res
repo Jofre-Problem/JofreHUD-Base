@@ -1,5 +1,5 @@
 #base "../../#uni_base/filesv1/clipname/main.res"
-"resource\BxClipImagePanel.res"
+"resource/BxClipImagePanel.res"
 {
 	"ClipImagePanel"
 	{

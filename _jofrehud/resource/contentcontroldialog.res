@@ -10,7 +10,7 @@
 #base "../#uni_base/filesv1/cancel/label/gameuicancel.res"
 #base "../#uni_base/filesv1/cancel/tall-is24.res"
 #base "../#uni_base/filesv1/cancel/wide-is64.res"
-"Resource\ContentControlDialog.res"
+"Resource/ContentControlDialog.res"
 {
 	"Ok"
 	{

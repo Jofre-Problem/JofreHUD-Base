@@ -1,4 +1,4 @@
-"Resource\MultiplayerCustomizeDi"
+"Resource/MultiplayerCustomizeDi"
 {
 	"MultiplayerCustomizeDialog"
 	{

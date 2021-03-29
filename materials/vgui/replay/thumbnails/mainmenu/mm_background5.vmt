@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "vgui\replay\thumbnails\mainmenu\mm_background5"
+	"$basetexture" "vgui/replay/thumbnails/mainmenu/mm_background5"
 	"$vertexcolor" 1
 	"$vertexalpha" 1
 	"$ignorez" 1

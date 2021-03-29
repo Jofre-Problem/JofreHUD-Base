@@ -72,7 +72,7 @@
 		tall					o1
 
 		font					"NewIcons15"
-		labelText				"\"
+		labelText				"/"
 		zpos 					1040
 		enabled					1
 		visible					1

@@ -499,7 +499,7 @@
 		//proportionaltoparent	1	// requires reload on launch
 		visible				0
 
-		// => resource\ui\ClassLoadoutPanel.res
+		// => resource/ui/ClassLoadoutPanel.res
 	}
 
 	"backpack_panel"
@@ -513,10 +513,10 @@
 		"zpos"				"500"
 		visible				0
 
-		// => resource\ui\econ\BackpackPanel.res
+		// => resource/ui/econ/BackpackPanel.res
 	}
 
-	// crafting_panel => resource\ui\CraftingPanel.res
+	// crafting_panel => resource/ui/CraftingPanel.res
 
 	"armory_panel"
 	{
@@ -529,7 +529,7 @@
 		tall					411
 		visible				0
 
-		// => resource\ui\CharInfoArmorySubPanel.res
+		// => resource/ui/CharInfoArmorySubPanel.res
 	}
 
 	"InspectionPanel"		// warpaints, drawn over other charinfo panels
@@ -543,10 +543,10 @@
 		visible				0
 		paintbackground			0
 
-		// => resource\ui\econ\InspectionPanel.res
+		// => resource/ui/econ/InspectionPanel.res
 	}
 
-	// trading panel => resource\ui\econ\TradingStartDialog.res
+	// trading panel => resource/ui/econ/TradingStartDialog.res
 
 	// #endregion
 	

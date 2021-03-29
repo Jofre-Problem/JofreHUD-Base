@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "vgui\replay\thumbnails\steam_summersale\s_border_orange"
+	"$baseTexture" "vgui/replay/thumbnails/steam_summersale/s_border_orange"
 	"$vertexcolor" "1"
 	"$no_fullbright" "1"
 	"$ignorez" "1"

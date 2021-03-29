@@ -1,4 +1,4 @@
-"Resource\BugReporterUploadProgress.res"
+"Resource/BugReporterUploadProgress.res"
 {
 	"ProgressDialog"
 	{

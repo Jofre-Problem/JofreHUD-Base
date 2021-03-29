@@ -1,4 +1,4 @@
-"resource\BxClipEditorStoryboardPage.res"
+"resource/BxClipEditorStoryboardPage.res"
 {
 	"Storyboard"
 	{

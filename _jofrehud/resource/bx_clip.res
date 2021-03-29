@@ -1,4 +1,4 @@
-"resource\Bx_clip.res"
+"resource/Bx_clip.res"
 {
 	"ClipImagePanel"
 	{

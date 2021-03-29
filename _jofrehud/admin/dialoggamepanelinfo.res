@@ -3,7 +3,7 @@
 #base "base/serverlog.res"
 #base "base/playerlist.res"
 #base "../#uni_base/filesv1/budgetpanel/main.res"
-"Admin\DialogGamePanelInfo.res"
+"Admin/DialogGamePanelInfo.res"
 {
 	"ChatPanel"
 	{

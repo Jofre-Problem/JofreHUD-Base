@@ -2,7 +2,7 @@
 #base "base/bx/clipslider_time1.res"
 #base "base/bx/clipslider_wide1544.res"
 #base "base/bx/clipslider_xpos20.res"
-"resource\BxClipEditorTimelinePage.res"
+"resource/BxClipEditorTimelinePage.res"
 {
 	"Timeline"
 	{

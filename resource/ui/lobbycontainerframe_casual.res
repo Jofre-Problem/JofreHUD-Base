@@ -1,5 +1,0 @@
-	#base	"../../#users/custom/resource/ui/lobbycontainerframe_casual.res"
-	#base	"../../_stream/resource/ui/lobbycontainerframe_casual.res"
-	#base	"../../_jofrehud/resource/ui/lobbycontainerframe_casual.res"
-	#base	"../../_jofrehud/_tf2fix/resource/ui/lobbycontainerframe_casual.res"	
-//	#base	"../../_tf2hud/resource/ui/lobbycontainerframe_casual.res"

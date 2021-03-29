@@ -1,5 +1,5 @@
 #base "#bases/bugreport_label.res"
-"Resource\BugReporterUploadFinished.res"
+"Resource/BugReporterUploadFinished.res"
 {
 	"FinishDialog"
 	{

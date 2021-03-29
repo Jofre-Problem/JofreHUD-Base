@@ -63,139 +63,130 @@
 			"paintbackground"	"0"	
 		}
 
-		"RankModel"
+		"RankModel"				// image scales with panel
 		{
-			"ControlName"	"CBaseModelPanel"
-			"fieldName"		"RankModel"
-			"xpos"			"cs-0.5"
-			"ypos"			"cs-0.5"
-			"zpos"			"0"		
-			"wide"			"f0"
-			"tall"			"f0"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fov"			"75"
-			"proportionaltoparent"	"1"
+			ControlName				CBaseModelPanel
+			fieldName				"RankModel"
+			xpos					cs-0.5
+			ypos					cs-0.5
+			zpos					0
+			wide					30	//pin 1 same wide as JofreBar on mainmenu
+			tall					30
+			proportionaltoparent		1
 
-			if_mini
+			paintbackground			0
+			fov					33		// zoom in
+			render_texture			0
+
+			"if_mini"
 			{
-				"xpos"		"cs-0.5-228"
-				"ypos"		"cs-0.5"
-				"wide"		"200"
-				"tall"		"200"
 			}
-
-			"paintbackground"	"0"
-
-			"render_texture"	"0"
 		
 			"model"
 			{
-				"force_pos"		"1"
-				"modelname"	""
-				"skin"		"0"
-				"angles_x"	"0"
-				"angles_y"	"180"
-				"angles_z"	"0"
-				"origin_x"		"165"
-				"origin_y"		"0"
-				"origin_z"		"5"
-				"spotlight"	"1"
+				force_pos				1
+				modelname				""
+				skin					0
+				spotlight				1
 
-				if_mini
+				angles_x				0
+				angles_y				180
+				angles_z				0
+				origin_x				80		// distance; lower values make the medal bounce more when clicked
+				origin_y				0		// horizontal
+				origin_z				0		// vertical
+
+				"if_mini"		// ?
 				{
-					"origin_x"		"55"
 				}
 
 				"animation"
 				{
-					"sequence"	"idle"
-					"default"	"1"
+					sequence				"idle"
+					default				1
 				}
 			}
 		
-			"lights"
+			"lights"			// this is interesting
 			{
 				"default"
 				{
-					"name"			"directional"
-					"color"			"0.5 0.5 0.5"
-					"direction"		"0.60 0.65 0.2"
+					name					"directional"
+					color					"0.5 0.5 0.5"
+					direction				"0.60 0.65 0.2"
 				}
 			}
 		}
 
+
 		"AboveModelParticlePanel"
 		{
-			"ControlName"	"CTFParticlePanel"
-			"fieldName"		"AboveModelParticlePanel"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"1"
-			"wide"			"f0"
-			"tall"			"f0"
-			"visible"		"1"
-			"proportionaltoparent"	"1"
+			ControlName				CTFParticlePanel
+			fieldName				"AboveModelParticlePanel"
+			xpos					cs-0.5
+			ypos					cs-0.5
+			zpos					1
+			wide					f0
+			tall					f0
+			proportionaltoparent		1
 
-			"paintbackground"	"0"
+			paintbackground			0
 
-			if_mini
+			"if_mini"
 			{
-				"xpos"		"cs-0.5-228"
+				xpos					cs-0.5-228
 			}
 
 			"ParticleEffects"
 			{
 				"0"
 				{
-					"particle_xpos" "c0"
-					"particle_ypos" "c0"
-					"particle_scale"	"5"
-					"particleName"	"rankup_glitter"
-					"start_activated" "0"
-					"loop"	"0"
+					particle_xpos			c0
+					particle_ypos			c0
+					particle_scale			3
+					particleName			"rankup_glitter"
+					start_activated			0
+					loop					0
 				}
 				"1"
 				{
-					"particle_xpos"	"c0"
-					"particle_ypos"	"c0"
-					"particle_scale" "4"
-					"particleName"	"badgepress_base"
-					"start_activated" "0"
-					"loop"	"0"
+					particle_xpos			c0
+					particle_ypos			c0
+					particle_scale			2
+					particleName			"badgepress_base"
+					start_activated 			0
+					loop					0
 				}
 				"2"
 				{
-					"particle_xpos" "c-8"
-					"particle_ypos" "c0"
-					"particle_scale" "4"
-					"particleName"	"rankdown_base"
-					"start_activated" "0"
-					"loop"	"0"
+					particle_xpos			c-8
+					particle_ypos			c0
+					particle_scale			2
+					particleName			"rankdown_base"
+					start_activated 			0
+					loop					0
 				}
 			}
-
-			"paintbackground"	"1"
 		}
 
-		"MedalButton"
-		{
-			"ControlName"	"Button"
-			"fieldName"		"MedalButton"
-			"xpos"			"cs-0.5"
-			"ypos"			"cs-0.5+2"
-			"zpos"			"100"
-			"wide"			"o1"
-			"tall"			"42"
-			"proportionaltoparent"	"1"
-			"command"	"medal_clicked"
-			"actionsignallevel"	"2"
-			"labelText"	""
 
-			"paintbackground"	"0"
-			"backgroundenabled"	"0"
+		"MedalButton"			// hitbox round
+		{
+			ControlName				Button
+			fieldName				"MedalButton"
+			xpos					cs-0.5
+			ypos					cs-0.5
+			zpos					100
+			wide					p0.6
+			tall					p0.6
+			proportionaltoparent		1
+
+			command				"medal_clicked"
+			actionsignallevel			2
+			labeltext				""
+
+			paintbackground			0
+			backgroundenabled			0		// check out!
 		}
 	}
 
@@ -365,7 +356,7 @@
 						"xpos"			"cs-0.5"
 						"ypos"			"rs1"
 						"wide"			"p0.1"
-						"tall"			"5"
+						"tall"			"3"
 						"zpos"			"1"
 						"proportionaltoparent"	"1"
 						"progress"		"1"
@@ -381,7 +372,7 @@
 						"xpos"			"cs-0.5"
 						"ypos"			"rs1"
 						"wide"			"p0.28"
-						"tall"			"5"
+						"tall"			"3"
 						"zpos"			"10"
 						"proportionaltoparent"	"1"
 						"progress"		"0"
@@ -394,12 +385,12 @@
 					{
 						"Controlname"	"EditablePanel"
 						"fieldName"		"Frame"
-						"xpos"			"cs-0.5"
-						"ypos"			"rs1"
-						"wide"			"p0.283"
-						"tall"			"6"
+						"xpos"			"cs-0.5-p0.001"
+						"ypos"			"rs1+p0.001"
+						"wide"			"p0.282"
+						"tall"			"4"
 						"zpos"			"5"
-						"proportionaltoparent"	"1"
+						"proportionaltoparent"	"0"
 						"border"		"G_TargetBorder"
 					}
 				}

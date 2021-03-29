@@ -1,0 +1,5 @@
+#base "base/filesv1/filenamelabel/main.res"
+#base "base/filesv1/filenamelabel/control-label.res"
+#base "base/filesv1/filenamelabel/tab0.res"
+#base "base/filesv1/filenamelabel/tall24.res"
+#base "base/filesv1/filenamelabel/west.res"

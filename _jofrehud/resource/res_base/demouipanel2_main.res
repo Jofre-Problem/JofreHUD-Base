@@ -1,4 +1,4 @@
-"Resource\DemoUIPanel2.res"
+"Resource/DemoUIPanel2.res"
 {
 	"DemoPlayPauseResume"
 	{

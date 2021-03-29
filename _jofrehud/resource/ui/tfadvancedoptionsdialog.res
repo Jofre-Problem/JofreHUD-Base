@@ -2,7 +2,7 @@
 //#base "../#jofre/w_op-panel.res"
 #base "../#jofre/charbg.res"
 //#base "../#jofre/1ccvar.res"
-"Resource\UI\TFAdvancedOptionsDialog.res"
+"Resource/UI/TFAdvancedOptionsDialog.res"
 {
 	"TFAdvancedOptionsDialog"
 	{

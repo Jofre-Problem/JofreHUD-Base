@@ -32,7 +32,7 @@
 
 		"stampimages"
 		{
-			"image"	"contracts\halloween\accepted"
+			"image"	"contracts/halloween/accepted"
 		}
 
 		"resultstring"

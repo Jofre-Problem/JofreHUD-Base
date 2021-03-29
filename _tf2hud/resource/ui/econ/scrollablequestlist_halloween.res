@@ -38,7 +38,7 @@
 
 	"BackgroundFolderImage"
 	{
-		"image"			"contracts\halloween\contracts_base1"
+		"image"			"contracts/halloween/contracts_base1"
 	}
 
 	"EmptyLabel"

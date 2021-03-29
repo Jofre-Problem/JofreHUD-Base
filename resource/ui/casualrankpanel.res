@@ -1,4 +1,2 @@
-	#base	"..\..\#users\custom\resource\ui\casualrankpanel.res"
-	#base	"..\..\_stream\resource\ui\casualrankpanel.res"
-	#base	"..\..\_jofrehud\resource\ui\casualrankpanel.res"
-//	#base	"..\..\_tf2hud\resource\ui\casualrankpanel.res" //not really needed
+#base "../../_jofrehud/resource/ui/res_base/pvprankpanel.res"
+#base "../../_tf2hud/resource/ui/pvprankpanel.res"

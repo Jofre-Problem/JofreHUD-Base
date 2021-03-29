@@ -1,4 +1,4 @@
-"Admin\DialogAdminServer.res"
+"Admin/DialogAdminServer.res"
 {
 	"FavoriteGames"
 	{

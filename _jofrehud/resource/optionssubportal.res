@@ -1,5 +1,5 @@
 #base "#bases/buildmodedialog_base.res"
-"Resource\OptionsSubPortal.res"
+"Resource/OptionsSubPortal.res"
 {
 	"PortalFunnel"
 	{

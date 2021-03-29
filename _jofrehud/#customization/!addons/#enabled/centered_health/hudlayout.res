@@ -1,4 +1,4 @@
-"Resource\HudLayout.res"
+"Resource/HudLayout.res"
 {
 	CMainTargetID
 	{

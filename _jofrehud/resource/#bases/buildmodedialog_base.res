@@ -1,4 +1,4 @@
-"Resource\ContentControlDialog.r"
+"Resource/ContentControlDialog.r"
 {
 	"BuildModeDialog"
 	{

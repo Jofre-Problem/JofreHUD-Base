@@ -3,7 +3,7 @@
 
 //	#base "../#jofre/downbar.res" :: check mainmenu - downbartype.res"
 
-	#base "../../#customization/resource/ui/mainmenu - downbartype.res"
+//	#base "../../#customization/resource/ui/mainmenu - downbartype.res"
 	#base "../../#customization/resource/ui/mainmenu_safemode.res"
 		
 //	#base "../#jofre/dashboard_bg.res"
@@ -255,13 +255,13 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					28
-		tall					p0.0435
+		wide					15
+		tall					15
 		"bgcolor_override"		"Blank"
 		"paintBackgroundType"	"0"
 		pin_to_sibling		"NewUserForumsButton"	
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT		
 		"SubButton"
 		{
 			ControlName				CExImageButton
@@ -289,14 +289,14 @@
 		ControlName				Cpvprankpanel
 		FieldName				"RankModelPanel"
 		xPos					0
-		yPos					-90
+		yPos					16
 		zPos					1090
-		wide					50				// needs top be bigger to not cut off spark particles
-		tall					o1
+		wide					30				// needs top be bigger to not cut off spark particles
+		tall					30
 
 		matchgroup				MatchGroup_Casual_12v12		// MatchGroup_Ladder_6v6 ?
 		show_progress			0					// check out!
-		// => resource\ui\pvprankpanel.res
+		// => resource/ui/pvprankpanel.res
 	}
 
 	"CycleRankTypeButton"		// toggle between casual/comp medal (RankModelPanel) and stats (RankPanel)
@@ -324,13 +324,13 @@
 		ControlName				CExButton
 		FieldName				"WorkshopButton"
 		xPos					0
-		yPos					rs1
+		yPos					rs1-30
 		zPos					1050
 		wide					30
 		tall					25
 		textInsetx				"1"
 		font					"NewIcons20"
-		labelText				"j"
+		labelText				"K"
 		textAlignment			center
 		
 	//	command				"engine workshop"
@@ -338,8 +338,8 @@
 		sound_depressed			"UI/buttonclick.wav"
 		sound_released			"UI/buttonclickrelease.wav"
 		
-		defaultFgColor_override		"58 35 100 255"
-		armedFgColor_override		"W_ColorIcons1"
+		defaultFgColor_override		"W_ColorIcons1"
+		armedFgColor_override		"W_ColorTheme4"
 	
 		paintBackground			0
 
@@ -357,7 +357,71 @@
 			"enabled"		"0"
 		}	
 	}
+	"MOTD_ShowButtonPanel"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"MOTD_ShowButtonPanel"
+		"xpos"			"0"
+		"ypos"			"rs1"
+		"zpos"			"3000"
+		wide					30
+		tall					25
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 
+		"MOTD_ShowButtonPanel_SB"
+		{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"MOTD_ShowButtonPanel_SB"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"1"
+		wide					30
+		tall					25
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+		textInsetx				"1"
+		font					"NewIcons20"
+		labelText				"j"
+		textAlignment			center
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"default"		"1"
+
+		defaultFgColor_override		"58 35 100 255"
+		armedFgColor_override		"W_ColorIcons1"
+		
+		//	"depressedFgColor_override" "W_ColorTheme1"
+			"actionsignallevel" "2"
+			"Command"		"motd_show"
+
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+			"paintbackground" "0"
+			"image_drawcolor"	"235 226 202 255"
+			"image_armedcolor"	"W_ColorTheme4"
+
+			"SubImage"
+			{
+				"ControlName"	"ImagePanel"
+				"fieldName"		"SubImage"
+				"xpos"			"0"
+				"ypos"			"0"
+				"zpos"			"1"
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
+				"image"			"replay/thumbnails/null"
+				"scaleImage"	"1"
+			}
+		}
+	}
 	"Achievements"		// open achievements window
 	{
 		ControlName				CExButton
@@ -658,8 +722,8 @@
 	{
 		ControlName				CExButton
 		FieldName				"OpenContracker"
-		xPos					2
-		yPos					15
+		xPos					p0.003
+		yPos					46
 		zPos					1009
 		wide					27
 		tall					o1
@@ -1144,7 +1208,7 @@
 				tall					f0
 				proportionalToParent		1
 
-				// => resource\ui\econ\NotificationToastControl.res
+				// => resource/ui/econ/NotificationToastControl.res
 			}
 
 			"VerticalScrollBar"
@@ -1211,20 +1275,20 @@
 			"textAlignment"	"center"
 			"labelText"		"What are we going to do now?"
 		}
-	"Bg22"
-	{
-		"ControlName"	"ImagePanel"		
-		"fieldName"		"Bg22"
-		"xpos"			"0"
-		"ypos"			"13"
-		"zpos"			"3"
-		"wide"			"30"
-		"tall"			"p0.98"
-		"visible"		"1"
-		"enabled"		"1"
-		"fillcolor"		"W_ColorTheme1"
-		"alpha"			"100"
-	}		
+		"JofreBar"
+		{
+			"ControlName"	"ImagePanel"		
+			"fieldName"		"JofreBar"
+			"xpos"			"0"
+			"ypos"			"13"
+			"zpos"			"3"
+			"wide"			"30"
+			"tall"			"p0.98"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"W_ColorTheme1"
+			"alpha"			"100"
+		}		
 		"QuitBar"		
 		{
 		ControlName				ImagePanel
@@ -1400,8 +1464,8 @@
 		"fieldname"		"FriendsContainer"
 		"xpos"			"30"
 		"ypos"			"13"
-		"zpos"			"20"
-		"wide"			"p0.2"
+		"zpos"			"-20"
+		"wide"			"p1" // apparently at higher wide gives more smooth...???
 		"tall"			"p1"
 		"visible"		"1"
 		"bgcolor_override"		"Blank"
@@ -1475,70 +1539,7 @@
 			}
 		}
 	}	
-	"MOTD_ShowButtonPanel"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"MOTD_ShowButtonPanel"
-		"xpos"			"rs1"
-		"ypos"			"rs1"
-		"zpos"			"3000"
-		wide					35
-		tall					p0.045
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
 
-		"MOTD_ShowButtonPanel_SB"
-		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"MOTD_ShowButtonPanel_SB"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"1"
-		wide					35
-		tall					p0.045
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"labelText"		"@"
-			"font"			"NewIcons12"
-			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
-			
-		defaultFgColor_override		"W_ColorIcons1"
-		armedFgColor_override		"W_ColorIcons1"
-		
-		//	"depressedFgColor_override" "W_ColorTheme1"
-			"actionsignallevel" "2"
-			"Command"		"motd_show"
-
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-			"paintbackground" "0"
-			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"W_ColorTheme4"
-
-			"SubImage"
-			{
-				"ControlName"	"ImagePanel"
-				"fieldName"		"SubImage"
-				"xpos"			"0"
-				"ypos"			"0"
-				"zpos"			"1"
-				"wide"			"0"
-				"tall"			"0"
-				"visible"		"0"
-				"enabled"		"0"
-				"image"			"replay/thumbnails/null"
-				"scaleImage"	"1"
-			}
-		}
-	}			
 	"RankPanel"
 	{
 			xpos					0

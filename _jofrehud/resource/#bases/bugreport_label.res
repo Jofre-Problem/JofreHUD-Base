@@ -1,4 +1,4 @@
-"Resource\bugreport_label.res"
+"Resource/bugreport_label.res"
 {
    	"InfoLabel"
 	{

@@ -90,7 +90,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"image"		"resource\VAC_shield"
+		"image"		"resource/VAC_shield"
 		"scaleImage"		"0"
 	}
 }

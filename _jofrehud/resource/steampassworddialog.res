@@ -1,6 +1,6 @@
 #base "#bases/buildmode_base.res"
 #base "../#uni_base/filesv1/helptext/main.res"
-"Resource\SteamPasswordDialog.res"
+"Resource/SteamPasswordDialog.res"
 {
 	"SteamPasswordDialog"
 	{
