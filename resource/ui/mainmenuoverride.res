@@ -1,5 +1,5 @@
-	#base	"../../#users/custom/resource/ui/mainmenuoverride.res"
-	#base	"../../_stream/resource/ui/mainmenuoverride.res"	
+	#base	"../../_stream/resource/ui/mainmenuoverride.res"
+	#base	"../../_jofrenew/resource/ui/mainmenuoverride.res"	
 	#base 	"../../_jofrehud/#customization/resource/ui/mainmenu_player.res"
 	#base 	"../../_jofrehud/#customization/resource/ui/mainmenu_safemode.res"	
 	#base 	"../../_jofrehud/#customization/resource/ui/mainmenu_budhud_particle.res"	

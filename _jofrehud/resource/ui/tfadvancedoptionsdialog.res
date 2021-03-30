@@ -66,7 +66,7 @@
 		"paintbackgroundType"	"2"
 		"bgcolor_override"	"Blank"
 		"proportionalToParent"	"1"
-		"border"		"MaterialOscuro"		
+		"border"		"MainMenuButtonDefault"		
 	}	
 	"PanelListPanel"
 	{

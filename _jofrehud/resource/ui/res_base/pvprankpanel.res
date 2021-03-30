@@ -391,7 +391,7 @@
 						"tall"			"4"
 						"zpos"			"5"
 						"proportionaltoparent"	"0"
-						"border"		"G_TargetBorder"
+						"border"		"SteamWorkshopBorder"
 					}
 				}
 			}

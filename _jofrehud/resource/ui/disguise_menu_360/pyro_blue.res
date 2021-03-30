@@ -1,1 +1,0 @@
-#base "../disguise_menu/base/pyro_blue.res"

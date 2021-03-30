@@ -1,5 +1,5 @@
-	#base	"../../#users/custom/resource/ui/classloadoutpanel.res"
-	#base	"../../_jofrehud/resource/#beta/menu_reloadbutton.res"
 	#base	"../../_stream/resource/ui/classloadoutpanel.res"
+	#base	"../../_jofrehud/resource/#beta/menu_reloadbutton.res"
+	#base	"../../_jofrenew/resource/ui/classloadoutpanel.res"
 	#base	"../../_jofrehud/resource/ui/classloadoutpanel.res"
 	#base	"../../_tf2hud/resource/ui/classloadoutpanel.res"

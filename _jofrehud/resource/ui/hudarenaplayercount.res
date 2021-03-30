@@ -14,7 +14,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"paintborder"	"1"
-		"border"		"G_TargetBorder"
+		"border"		"SteamWorkshopBorder"
 	}
 	
 	"Gradient"
@@ -59,7 +59,7 @@
 			"enabled"		"1"
 			"image"			"../hud/color_panel_blu"
 			"paintborder"	"0"
-			"border"		"G_TargetBorder"
+			"border"		"SteamWorkshopBorder"
 				
 			"src_corner_height"		"20"			// pixels inside the image
 			"src_corner_width"		"20"
@@ -112,7 +112,7 @@
 		"enabled"		"1"
 		"image"			"../hud/color_panel_brown_opaque"
 		"paintborder"	"0"
-		"border"		"G_TargetBorder"
+		"border"		"SteamWorkshopBorder"
 			
 		"src_corner_height"		"20"			// pixels inside the image
 		"src_corner_width"		"20"
@@ -164,7 +164,7 @@
 			"enabled"		"1"
 			"image"			"../hud/color_panel_red"
 			"paintborder"	"0"
-			"border"		"G_TargetBorder"
+			"border"		"SteamWorkshopBorder"
 				
 			"src_corner_height"		"20"			// pixels inside the image
 			"src_corner_width"		"20"

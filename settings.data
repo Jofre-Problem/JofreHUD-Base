@@ -37,24 +37,7 @@ GlobalComboBox("ADDON Transparent", "ADDON Transparent")
 }
 
 Banner("4plug/4plug_main/transparentv.png", "auto", "topleft");
-[Name:ADDON Transparent Class Model, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
-GlobalComboBox("ADDON Transparent Class Model", "ADDON Transparent Class Model")
-{
-	Off
-	On
-}
-[Name:UI Health Cross, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
-GlobalComboBox("UI Health Cross", "UI Health Cross")
-{
-	Disabled
-	Enabled
-}
-[Name:UI Circular Uber Charge, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
-GlobalComboBox("UI Circular Uber Charge", "UI Circular Uber Charge")
-{
-	Disabled
-	Enabled
-}
+
 [Name:UI Damage Float Damage, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
 GlobalComboBox("UI Damage Float Damage", "UI Damage Float Damage")
 {
@@ -67,13 +50,6 @@ GlobalComboBox("UI Damage Value", "UI Damage Value")
 	Normal
 	Disabled
 }
-[Name:UI Damage Position X, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
-GlobalComboBox("UI Damage Position X", "UI Damage Position X")
-{
-	Left
-	Center
-	Right
-}
 [Name:MAIN MENU Character Image, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
 GlobalComboBox("MAIN MENU Character Image", "MAIN MENU Character Image")
 {
@@ -85,12 +61,6 @@ GlobalComboBox("MAIN MENU Particle", "MAIN MENU Particle")
 {
 	Disabled
 	Enabled (Possibly hurt FPS)
-}
-[Name:MAIN MENU Preload, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
-GlobalComboBox("MAIN MENU Preload", "MAIN MENU Preload")
-{
-	Disabled
-	Enabled (Possibly longer load time)
 }
 
 

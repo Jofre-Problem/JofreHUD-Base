@@ -10,7 +10,7 @@
 		"NegativeColor"			"red"
 		"delta_lifetime"		"1.85"
 		"delta_item_font"		"CustomCuarto"
-		"delta_item_font_big"	"CustomQuinto"		//for crits		
+		"delta_item_font_big"	"CustomSeptimo"		//for crits		
 	}
 	
 	"DamageAccountValue"

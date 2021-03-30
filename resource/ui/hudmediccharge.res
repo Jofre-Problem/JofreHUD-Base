@@ -1,5 +1,5 @@
-	#base	"../../#users/custom/resource/ui/hudmediccharge.res"
 	#base	"../../_stream/resource/ui/hudmediccharge.res"
+	#base	"../../_jofrenew/resource/ui/hudmediccharge.res"
 	#base 	"../../_jofrehud/#customization/!addons/#enabled/tf2_def_hud/hudmediccharge.res"		
 	#base 	"../../_jofrehud/#customization/resource/ui/hudmediccharge - triuber.res"
 	#base 	"../../_jofrehud/#customization/resource/ui/hudmediccharge - style.res"

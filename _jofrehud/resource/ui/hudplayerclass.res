@@ -11,7 +11,7 @@
 		"zpos"			"1"		
 		"wide"			"60"
 		"tall"			"10"
-		"image"			"replay/thumbnails/materialpanel"	
+		"image"			"replay/thumbnails/panels/material_generic"	
 		"teambg_2"		"replay/thumbnails/materialpanelred"
 		"teambg_3"		"replay/thumbnails/materialpanelblu"
 	}		
@@ -213,7 +213,7 @@
 			"teambg_3_lodef"		"../hud/color_panel_blu"
 			"proportionaltoparent"	"1"
 			"paintborder"			"1"
-			"border"				"G_TargetBorder"
+			"border"				"SteamWorkshopBorder"
 			"src_corner_height"		"23"
 			"src_corner_width"		"23"
 			"draw_corner_width"		"0"

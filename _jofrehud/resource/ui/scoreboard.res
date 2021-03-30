@@ -108,19 +108,17 @@
 
 	"RedTeamImage"
 	{
-		"xpos"			"rs1-60"
-		"ypos"			"55"
-		"wide"			"45"
+		"xpos"			"rs1"
+		"ypos"			"0"
+		"wide"			"0"
 		"tall"			"o1"
-		"border"		"MaterialRed"	
 	}
 	"BlueTeamImage"
 	{
-		"xpos"			"70"
-		"ypos"			"55"
-		"wide"			"45"
-		"tall"			"o1"
-		"border"		"MaterialBlue"		
+		"xpos"			"5"
+		"ypos"			"0"
+		"wide"			"0"
+		"tall"			"o1"		
 	}	
 	"RedLeaderAvatar"
 	{
@@ -769,11 +767,11 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"PlayerNameLabel"
-		"font"			"CustomSegundo"
+		"font"			"CustomTercero"
 		"labelText"		"%playername%"
 		"textAlignment"		"center"
 		"xpos"			"cs-0.5"
-		"ypos"			"25"
+		"ypos"			"100"
 		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"15"
@@ -1034,7 +1032,7 @@
 		"ControlName""CDashboardPartyMember"
 		"fieldName""PartySlot0"
 		"xpos""cs-0.5"
-		"ypos""50"
+		"ypos""40"
 		"zpos""50"
 		"wide""42"
 		"tall""o1"

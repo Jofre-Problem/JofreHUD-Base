@@ -15,7 +15,7 @@
 		"enabled"		"1"
 		"fillcolor"		"W_ColorTheme1"
 		"alpha"			"100"
-		"border"		"G_TargetBorder"
+		"border"		"SteamWorkshopBorder"
 	}
 		"NetGraph Slider"
 		{

@@ -1,1 +1,0 @@
-#base "../disguise_menu/base/soldier_blue.res"

@@ -1,26 +1,16 @@
 ADDON Transparent|On
-UI Damage Float Damage|Normal
-Blur Main Fonts|Blur on
-Font Name Select|TF2
-MAIN MENU Character Image|Disabled
-UI Damage Value|Normal
-UI Damage Position X|Center
-UI Style|Default
-UI Health Cross|Disabled
-UI Match Status|Swissolo
-Chapter Backgrounds Multiple|Default
-Steam Summer Sale Border|Portal Orange
-UI Circular Uber Charge|Disabled
-EXPERIMENTAL Cart BG Glow|ON (Needs Transparent V.)
-EXPERIMENTAL No Chat BG|OFF
-EXPERIMENTAL Crosshair in Scoreboard|OFF
-EXPERIMENTAL Scoreboard Slide In|OFF
-EXPERIMENTAL Scope Removal|ON
-Damage Indicator|Stock
-EXPERIMENTAL Square Shadows|OFF
-ADDON Transparent Class Model|Off
+Steam Summer Sale Border|Neon
 CFG Advanced Scoreboard|Disabled
-MAIN MENU Task Bar Type|Default
+UI Style|Default
+UI Damage Float Damage|Normal
+UI Damage Value|Normal
+MAIN MENU Character Image|Enabled
 MAIN MENU Particle|Disabled
-MAIN MENU Preload|Disabled
-MAIN MENU Advanced Dev Menu|Disabled
+Font Name Select|TF2
+EXPERIMENTAL Cart BG Glow|OFF (Default)
+EXPERIMENTAL No Chat BG|OFF
+EXPERIMENTAL Crosshair in Scoreboard|ON
+EXPERIMENTAL Scoreboard Slide In|ON
+EXPERIMENTAL Scope Removal|OFF
+EXPERIMENTAL Square Shadows|OFF
+Damage Indicator|Stock

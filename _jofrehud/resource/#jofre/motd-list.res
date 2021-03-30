@@ -7,10 +7,10 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Windows_Notification"
-			"xpos"		"11"
+			"xpos"		"0"
 			"ypos"		"0"
 			"zpos"		"-1000"
-			"wide"		"p0.29"
+			"wide"		"p0.33"
 			"tall"		"f0"
 			"autoResize"		"0"
 			"pinCorner"		"0"
@@ -30,7 +30,7 @@
 			yPos					0
 			zPos					1040
 			wide					p0.0015
-			tall					f0
+			tall					f13
 			fillColor				"W_ColorLinea1"
 			mouseInputEnabled			0			// mouse input passes though to panels below
 			pin_to_sibling		"Windows_Notification"
@@ -48,7 +48,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"ButtonsPanel"
-			"xpos"		"10"
+			"xpos"		"15"
 			"ypos"		"25"
 			"zpos"		"10"
 			"wide"		"p0.266"
@@ -60,8 +60,7 @@
 			"tabPosition"		"0"
 			"PaintBackgroundType"	"0"
 			"paintbackground"		"1"
-			"bgcolor_override"				"W_ColorTheme3"
-			"pin_to_sibling"						"Windows_Notification"				
+			"bgcolor_override"				"W_ColorTheme3"			
 		}	
 	
 		"OpenDev"
@@ -81,7 +80,6 @@
 			labelText				"¿"
 			font					"NewIcons20"
 			textAlignment			center
-		"pin_to_sibling"						"ButtonsPanel"	
 			command				"OpenLoadSingleplayerCommentaryDialog"
 			"dulltext"		"0"
 			"brighttext"	"0"

@@ -1,7 +1,7 @@
 "_jofrehud/resource/#jofre/desktop icons black.res"
 {
 // Blank is a blank font
-// NewIcons17 is default font
+// NewIcons18 is default font
 // border = WBorder_1
 	"Workshop"		// open advanced options
 	{
@@ -11,22 +11,22 @@
 	{
 		"SubButton"
 		{
-			font					"NewIcons17"
+			font					"NewIcons20"
 		}
 	}
 	"BrowseServers"			// open server browser; other buttons pinned to this
 	{
 		ControlName				CExButton
 		FieldName				"BrowseServers"
-		xPos					rs1
-		yPos					60
+		xPos					0
+		yPos					cs-0.5+28
 		zPos					1050
-		wide					15
-		tall					15
+		wide					30
+		tall					o1
 
 
 		labelText				"}"
-		font					"NewIcons15"
+		font					"NewIcons20"
 		textAlignment			center
 		
 		command				"OpenServerBrowser"
@@ -50,8 +50,8 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					15
-		tall					15
+		wide					30
+		tall					o1
 
 		
 
@@ -60,7 +60,7 @@
 		"textinsetx"	"0"		
 		
 		labelText				"="
-		font					"NewIcons17"
+		font					"NewIcons20"
 		textAlignment			center
 		
 		command				"engine open_charinfo; hideconsole"		// open backpack directly (default engine open_charinfo)
@@ -75,7 +75,7 @@
 		"navRight"		"Settings"
 		pin_to_sibling		"BrowseServers"	
 		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT	
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}
 	
 	"Settings"		// open options window
@@ -85,12 +85,12 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					15
-		tall					15
+		wide					30
+		tall					o1
 
 
 		labelText				"Í"
-		font					"NewIcons17"
+		font					"NewIcons20"
 		textAlignment			center
 		
 		command				"OpenOptionsDialog"
@@ -119,12 +119,12 @@
 		xPos					0
 		yPos					0
 		zPos					1050
-		wide					15
-		tall					15
+		wide					30
+		tall					o1
 
 		
 		labelText				"_"
-		font					"NewIcons17"
+		font					"NewIcons20"
 		textAlignment			center
 		
 		command				"engine con_enable 1; toggleconsole"		// making sure it's enabled
@@ -150,8 +150,8 @@
 		xPos					0
 		yPos					0
 		zPos					1052
-		wide					15
-		tall					15
+		wide					30
+		tall					o1
 
 
 		"autoResize"	"0"
@@ -198,8 +198,8 @@
 		xPos					0
 		yPos					0
 		zPos					1051
-		wide					15
-		tall					15
+		wide					30
+		tall					o1
 
 		"visible"		"1"
 		"enabled"		"1"
@@ -209,7 +209,7 @@
 		
 		"fgcolor_override"		"W_ColorIcons1"
 		"bgcolor_override"		"Blank"
-		"font"					"NewIcons17"		
+		"font"					"NewIcons20"		
 
 		"mouseinputenabled"		"0"		// fix fix fix
 

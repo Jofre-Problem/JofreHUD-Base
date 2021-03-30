@@ -508,15 +508,6 @@ Scheme
 				"tall"				18	
 				"antialias"			"1"
 			}
-		}	
-		"NewIcons17" 
-		{
-			"1"
-			{
-				"name"				"JofreIconsRe"
-				"tall"				17	
-				"antialias"			"1"
-			}
 		}		
 		"NewIcons15" 
 		{

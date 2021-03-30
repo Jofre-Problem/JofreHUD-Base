@@ -28,7 +28,7 @@
 		"bgcolor_override"	"Blank"
 		"proportionalToParent"	"1"
 
-		"border"		"MaterialOscuro"
+		"border"		"MainMenuButtonDefault"
 		"paintbackground"	"0"
 	}
 	

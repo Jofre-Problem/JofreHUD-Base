@@ -9,7 +9,7 @@ Resource/UI/HudAmmoWeapons.res
 		"zpos"			"1"		
 		"wide"			"60"
 		"tall"			"20"
-		"image"			"replay/thumbnails/materialpanel"	
+		"image"			"replay/thumbnails/panels/material_generic"	
 		"teambg_2"		"replay/thumbnails/materialpanelred"
 		"teambg_3"		"replay/thumbnails/materialpanelblu"	
 	}

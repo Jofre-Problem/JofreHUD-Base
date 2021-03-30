@@ -10,7 +10,7 @@
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"		"0"
 		"scaleImage"	"1"
-		"border"		"G_TargetBorder"
+		"border"		"SteamWorkshopBorder"
 	}
 
 	"InteractButton"

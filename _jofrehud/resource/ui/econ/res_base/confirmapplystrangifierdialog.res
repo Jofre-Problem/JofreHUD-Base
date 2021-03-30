@@ -1,3 +1,4 @@
+#base "../../base/filesv1/itemrename/mouseoveritem.res"
 "Resource/UI/ConfirmApplyStrangifierDialog.res"
 {
 	"ConfirmApplyStrangifierDialog"
@@ -13,46 +14,6 @@
 		"paintbackgroundtype"	"0"
 		"settitlebarvisible"	"0"
 		"border"				"GrayDialogBorder"
-	}
-
-	"mouseoveritempanel"
-	{
-		"ControlName"	"CItemModelPanel"
-		"fieldName"		"mouseoveritempanel"
-		"xpos"			"c-70"
-		"ypos"			"270"
-		"zpos"			"100"
-		"wide"			"300"
-		"tall"			"300"
-		"visible"		"0"
-		"bgcolor_override"		"Blank"
-		"noitem_textcolor"		"117 107 94 255"
-		"PaintBackgroundType"	"2"
-		"paintborder"	"1"
-		
-		"text_ypos"			"20"
-		"text_center"		"1"
-		"model_hide"		"1"
-		"resize_to_text"	"1"
-		"padding_height"	"15"
-		
-		"attriblabel"
-		{
-			"font"			"HudFontSmallest"
-			"xpos"			"0"
-			"ypos"			"30"
-			"zpos"			"2"
-			"wide"			"140"
-			"tall"			"60"
-			
-			
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		"%attriblist%"
-			"textAlignment"	"center"
-			"fgcolor"		"117 107 94 255"
-			"centerwrap"	"1"
-		}
 	}
 
 	"TitleLabel"

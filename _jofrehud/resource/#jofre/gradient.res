@@ -9,6 +9,6 @@
 		"image"				"gradient_pure_black"
 		"scaleImage"		"1"
 		"proportionaltoparent"	"1"
-		"border"		"G_TargetBorder"
+		"border"		"SteamWorkshopBorder"
 	}	
 }

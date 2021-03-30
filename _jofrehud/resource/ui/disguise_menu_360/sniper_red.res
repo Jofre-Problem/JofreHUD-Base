@@ -1,1 +1,0 @@
-#base "../disguise_menu/base/sniper_red.res"

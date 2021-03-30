@@ -1,6 +1,9 @@
 #base "../../#jofre/w_icons.res"
 #base "../../#jofre/w_op-panel.res"
 #base "../../#jofre/charbg.res"
+#base "../base/filesv2/footerline/main.res"
+#base "../base/filesv2/bgfooter/main.res"
+#base "../base/filesv2/bgheader/main.res"
 "Resource/UI/replaybrowser/mainpanel.res"
 {
 	"HomeReference"
@@ -81,50 +84,6 @@
 		"clientinsetx_override"			"0"
 		"sheetinset_bottom"				"40"
 	}
-	
-	"BackgroundHeader"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"BackgroundHeader"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"-2"
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"image"			"loadout_header"
-		"tileImage"		"1"
-	}				
-	"BackgroundFooter"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"BackgroundFooter"
-		"xpos"			"0"
-		"ypos"			"420"
-		"zpos"			"1"
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"image"			"loadout_bottom_gradient"
-		"tileImage"		"1"
-	}				
-	"FooterLine"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"FooterLine"
-		"xpos"			"0"
-		"ypos"			"420"
-		"zpos"			"2"
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"image"			"loadout_solid_line"
-		"scaleImage"	"1"
-	}				
-	
 	"Sheet"
 	{
 		"ControlName"	"EditablePanel"

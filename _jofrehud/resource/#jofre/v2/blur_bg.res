@@ -409,36 +409,7 @@
 				show_model				1					// check out!
 				show_type				1			
 	}
-				
-	"BlurMainBG"
-	{
-	"ControlName""ImagePanel"
-	"fieldName""BlurMainBG"
-	"xpos""0"
-	"ypos""0"
-	"zpos""-10"
-	"wide""160"
-	"tall""f0"
-	"image""replay/thumbnails/hp/REFRACTblur"
-	"visible""1"
-	"enabled""1"
-	"scaleimage""1"
-	}
 	
-	"BlurMainBG2"
-	{
-	"ControlName""ImagePanel"
-	"fieldName""BlurMainBG2"
-	"xpos""rs1"
-	"ypos""0"
-	"zpos""-10"
-	"wide""160"
-	"tall""f0"
-	"image""replay/thumbnails/hp/REFRACTblur"
-	"visible""1"
-	"enabled""1"
-	"scaleimage""1"
-	}	
 	"Background"
 	{
 		"ControlName"	"EditablePanel"
@@ -453,7 +424,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"paintbackground"	"1"
-		"border"	"G_TargetBorder"
+		"border"	"SteamWorkshopBorder"
 		"bgcolor_override"	"W_ColorTheme2Blur"
 	}
 	"Background2"
@@ -470,7 +441,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"paintbackground"	"1"
-		"border"	"G_TargetBorder"
+		"border"	"SteamWorkshopBorder"
 		"bgcolor_override"	"W_ColorTheme2Blur"
 	}
 }

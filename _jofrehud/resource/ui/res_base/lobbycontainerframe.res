@@ -1,5 +1,9 @@
 #base "../base/filesv1/notifipresentpanel/main.res"
 #base "../base/filesv1/notifipresentpanel/content1.res"
+#base "../base/filesv1/sheet/main.res"
+#base "../base/filesv2/footerline/main.res"
+#base "../base/filesv2/bgfooter/main.res"
+#base "../base/filesv2/bgheader/main.res"
 "Resource/UI/LobbyContainerFrame.res"
 {
 	"LobbyContainerFrame"
@@ -35,85 +39,14 @@
 		"NavToRelay"			"BackButton"
 	}
 	
-	"BackgroundHeader"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"BackgroundHeader"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"-2"
-		"wide"			"f0"
-		"tall"			"120"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"loadout_header"
-		"tileImage"		"1"
-	}				
-	"BackgroundFooter"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"BackgroundFooter"
-		"xpos"			"0"
-		"ypos"			"420"
-		"zpos"			"1"
-		"wide"			"f0"
-		"tall"			"60"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"loadout_bottom_gradient"
-		"tileImage"		"1"
-	}				
-	"FooterLine"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"FooterLine"
-		"xpos"			"0"
-		"ypos"			"420"
-		"zpos"			"2"
-		"wide"			"f0"
-		"tall"			"10"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"loadout_solid_line"
-		"scaleImage"	"1"
-	}				
-	
 	"Sheet"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"Sheet"
-		"tabxindent"	"80"
-		"tabxdelta"		"10"
-		"tabwidth"		"240"
-		"tabheight"		"34"
-		"transition_time" "0"
-		
-		"HeaderLine"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"HeaderLine"
-			"xpos"			"0"
-			"ypos"			"32"
-			"zpos"			"5"
-			"wide"			"f0"
-			"tall"			"10"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			"loadout_solid_line"
-			"scaleImage"	"1"
-		}				
+	{				
 		
 		"tabskv"
 		{
-			"textinsetx"		"40"
 			"font"				"HudFontMediumBold"
-			"selectedcolor"		"200 187 161 255"
-			"unselectedcolor"	"130 120 104 255"	
-			"defaultBgColor_override"	"46 43 42 255"
-			"paintbackground"	"0"
 			"activeborder_override"	"OutlinedGreyBox"
 			"normalborder_override" "OutlinedDullGreyBox"
-			"mouseinputenabled"	"0"
 		}
 	}
 

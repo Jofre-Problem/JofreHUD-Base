@@ -11,7 +11,7 @@
 		"tall"			"15"
 		"visible"			"1"
 		"enabled"			"1"
-		"border"		"G_TargetBorder"
+		"border"		"SteamWorkshopBorder"
 		"Label"
 		{	
 			"ControlName"	"CExLabel"
