@@ -11,24 +11,15 @@
 #base "../../../#uni_base/filesv1/mapinfo/pin0.res"
 #base "../../../#uni_base/filesv1/mapinfo/vis1.res"
 #base "../../../#uni_base/filesv1/mapinfo/enabled1.res"
+#base "../base/filesv1/rankpanel/main.res"
+#base "../base/filesv1/rankpanel/cpvp.res"
+#base "../base/filesv1/rankpanel/full.res"
+#base "../base/filesv1/rankpanel/show.res"
+#base "../base/filesv1/rankpanel/matchgroup_12.res"
 "Resource/UI/MapInfoMenu.res"
 {
 	"RankPanel"
 	{
-		"ControlName"	"Cpvprankpanel"
-		"fieldName"		"RankPanel"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"-52"
-		"wide"			"f0"
-		"tall"			"f0"
-		"visible"		"1"
-		"proportionaltoparent"	"1"
-		"mouseinputenabled"	"0"
-
-		"matchgroup"	"MatchGroup_Casual_12v12"
-
-		"show_model"	"0"
 		"show_type"		"1"
 	}
 	"MapInfoTitle"

@@ -1,5 +1,6 @@
 // Matchmaking party member
 #base "base/filesv1/emptyimage/main.res"
+#base "base/filesv1/spinner/main.res"
 "Resource/UI/DashboardPartyMember.res"
 {
 	"avatar"
@@ -152,20 +153,11 @@
 
 	"Spinner"
 	{
-		ControlName					CTFLogoPanel
-		fieldName					"Spinner"
 		xpos							1
 		ypos							1
-		zpos							104
 		wide							f2
 		tall							f2
-		proportionaltoparent		1
-		visible						1
-		mouseinputenabled			0
-		alpha							200
-
 		radius						26
 		velocity						60
-		fgcolor_override			"OrangeLight"
 	}
 }

@@ -1,5 +1,9 @@
 #base "res_base/matchmakingdashboardsidepanel.res"
-
+#base "base/filesv1/rankpanel/main.res"
+#base "base/filesv1/rankpanel/cpvp.res"
+#base "base/filesv1/rankpanel/content1.res"
+#base "base/filesv1/rankpanel/show.res"
+#base "base/filesv1/rankpanel/matchgroup_12.res"
 "Resource/UI/MatchMakingDashboardEventMatch.res"
 {
 	"EventMatch"
@@ -65,25 +69,6 @@
 		"mouseinputenabled"	"0"
 
 		"matchgroup"	"MatchGroup_Casual_12v12"
-	}
-	
-	"RankPanel"
-	{
-		"ControlName"	"Cpvprankpanel"
-		"fieldName"		"RankPanel"
-		"xpos"			"-85"
-		"ypos"			"25"
-		"zpos"			"100"
-		"wide"			"330"
-		"tall"			"92"
-		"visible"		"1"
-		"proportionaltoparent"	"1"
-		"mouseinputenabled"	"0"
-
-		"matchgroup"	"MatchGroup_Casual_12v12"
-
-		"show_model"	"0"
-		"show_name"		"0"
 	}
 
 	"ModeImageGroup"
