@@ -421,8 +421,8 @@
 	{
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"RedPlayerList"
-		"xpos"			"c70"
-		"ypos"			"100"
+		"xpos"			"rs1"
+		"ypos"			"rs1-50"
 		"zpos"			"10"
 		"wide"			"p0.35"
 		"tall"			"p0.39"
@@ -490,8 +490,8 @@
 	{
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"BluePlayerList"
-		"xpos"			"60"
-		"ypos"			"100"
+		"xpos"			"0"
+		"ypos"			"rs1-50"
 		"zpos"			"10"
 		"wide"			"p0.35"
 		"tall"			"p0.39"

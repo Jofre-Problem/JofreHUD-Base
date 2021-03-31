@@ -1,3 +1,4 @@
+#base "base/filesv1/gradient/main2.res"
 "Resource/UI/HudBossHealth.res"
 {
 	"BorderImage"
@@ -37,17 +38,11 @@
 	
 	"Gradient"
 	{
-		"ControlName"		"CTFImagePanel"
-		"fieldName"			"Gradient"
 		"xpos"				"15"
 		"ypos"				"16"
 		"zpos"				"49"
 		"wide"				"168"
 		"tall"				"10"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"gradient_pure_black"
-		"scaleImage"		"1"
 		"alpha"				"200"
 	}
 	

@@ -4,8 +4,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"Logo"
-		"xpos"			"130"
-		"ypos"			"30"
+		"xpos"			"cs-0.5"
+		"ypos"			"rs1-50"
 		"wide"			"160"
 		"tall"			"40"
 		"zpos"			"50"

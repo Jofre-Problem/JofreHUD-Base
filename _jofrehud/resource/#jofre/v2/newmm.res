@@ -2,26 +2,11 @@
 //#base "../../gamelogo.res"
 "_jofrehud/resource/#jofre/charbg.res"
 {
-	"Wall"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"Wall"
-		"xpos"			"120"
-		"ypos"			"0"
-		"zpos"			"-1"
-		"wide"			"180"
-		"tall"			"f0"
-		"visible"		"1"
-		"enabled"		"1"
-		"fillcolor"		"W_ColorTheme1"
-		"alpha"			"100"
-		"border"		"SteamWorkshopBorder"
-	}
 		"NetGraph Slider"
 		{
 			"ControlName"		"CCvarSlider"
 			"fieldName"		"NetGraph Slider"
-			"xpos"		"135"
+			"xpos"		"cs-0.5"
 			"ypos"		"c25"
 			"wide"		"p0.18"
 			"tall"		"20"

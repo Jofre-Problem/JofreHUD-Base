@@ -9,7 +9,7 @@
 		"ypos_lodef"			"r74"
 		"ypos_hidef"			"r65"
 		"zpos"			"5"
-		"wide"			"f0"
+		"wide"			"0"
 		"tall"			"50"
 		"autoResize"	"0"
 		"pinCorner"		"0"

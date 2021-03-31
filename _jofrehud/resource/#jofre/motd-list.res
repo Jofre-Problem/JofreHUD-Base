@@ -10,17 +10,17 @@
 			"xpos"		"0"
 			"ypos"		"0"
 			"zpos"		"-1000"
-			"wide"		"p0.33"
-			"tall"		"f0"
+			"wide"			"p0.3"
+			"tall"			"p0.485"
 			"autoResize"		"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"PaintBackgroundType"	"0"
+			"PaintBackgroundType"	"2"
 			"paintbackground"		"1"
 			"bgcolor_override"				"W_ColorTheme2"	//"W_ColorTheme2"
-		//	"border"			"B_Icons1"
+			"alpha"				"170"
 		}
 		"Linea"				// 
 		{
@@ -44,31 +44,13 @@
 			"xpos"			"r0"
 			"tall"			"0"
 		}
-		"ButtonsPanel"
-		{
-			"ControlName"	"EditablePanel"
-			"fieldName"		"ButtonsPanel"
-			"xpos"		"15"
-			"ypos"		"25"
-			"zpos"		"10"
-			"wide"		"p0.266"
-			"tall"		"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
-			"PaintBackgroundType"	"0"
-			"paintbackground"		"1"
-			"bgcolor_override"				"W_ColorTheme3"			
-		}	
 	
 		"OpenDev"
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"OpenDev"
-			"xpos"										"0"
-			"ypos"										"-1"
+			"xpos"										"15"
+			"ypos"										"26"
 			"zpos"										"20"
 			"wide"										"20"
 			"tall"										"20"
@@ -91,7 +73,6 @@
 			
 			"paintbackground"							"0"
 			
-			"pin_to_sibling"							"ButtonsPanel"
 			
 			"defaultFgColor_override"					"W_ColorIcons1"
 			"armedFgColor_override" 					"W_BorderArmed"
@@ -296,7 +277,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			labelText				"/"
+			labelText				"\"
 			font					"NewIcons20"
 			textAlignment			center
 		
@@ -688,7 +669,7 @@
 			"textAlignment"	"west"
 				"xpos"			"10"
 				"ypos"			"7"
-			"wide"			"300"
+			"wide"			"p0.3"
 			"tall"			"10"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -775,7 +756,7 @@
 				"textAlignment"	"east"
 				"xpos"			"0"
 				"ypos"			"5"
-				"wide"			"p0.272"
+			"wide"			"p0.285"
 				"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"

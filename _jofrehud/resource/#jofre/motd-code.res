@@ -4,16 +4,39 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_Panel"
-		"xpos"			"rs1"
-		"ypos"			"13"
+		"xpos"			"rs1-1"
+		"ypos"			"14"
 		"zpos"			"100"
-		"wide"			"p0.33"
-		"tall"			"f0"
+		"wide"			"p0.3"
+		"tall"			"p0.485"
 		"visible"		"1"
 		"PaintBackgroundType"	"0"
 		"paintbackground"	"0"
 		"border"		"NoBorder"
 	
+
+	"GammaSlider"
+	{
+		"ControlName"		"CCvarSlider"
+		"fieldName"		"GammaSlider"
+		"xpos"		"57"
+		"ypos"		"58"
+		"wide"		"p0.2"
+		"tall"		"10"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"11"
+		"leftText"		"1.6"
+		"rightText"		"2.6"
+		"minvalue"		"0"
+		"maxvalue"		"2.6"
+		"cvar_name"		"mat_monitorgamma"
+		"allowoutofrange"		"0"
+
+	}	
+		
 	"VolumeLabel"
 	{
 		"ControlName"		"Label"
@@ -58,28 +81,6 @@
 		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}			
 
-	"GammaSlider"
-	{
-		"ControlName"		"CCvarSlider"
-		"fieldName"		"GammaSlider"
-		"xpos"		"65"
-		"ypos"		"r100"
-		"wide"		"p0.2"
-		"tall"		"10"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"11"
-		"leftText"		"1.6"
-		"rightText"		"2.6"
-		"minvalue"		"0"
-		"maxvalue"		"2.6"
-		"cvar_name"		"mat_monitorgamma"
-		"allowoutofrange"		"0"
-
-	}	
-	
 	"GammaLabel"
 	{
 		"ControlName"		"Label"
@@ -148,6 +149,120 @@
 		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	
 	}	
+	"NetLabel"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"NetLabel"
+		"xpos"		"30"
+		"ypos"		"5"
+		"wide"		"22"
+		"tall"		"o1"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"NET"
+		"textAlignment"		"center"
+		"pin_to_sibling"	"NetSlider"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"	
+		"fgcolor_override"		"W_ColorIcons1"
+		"font"					"CustomPrimero"		
+		
+	}	
+	"NetSlider"
+	{
+		"ControlName"		"CCvarSlider"
+		"fieldName"		"NetSlider"
+		"xpos"		"0"
+		"ypos"		"15"
+		"wide"		"p0.2"
+		"tall"		"10"
+		"leftText"		"0.00"
+		"rightText"		"4.00"
+		"minvalue"		"0"
+		"maxvalue"		"4"
+		"cvar_name"		"net_graph"
+
+		"pin_to_sibling"	"FovSlider"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
+	
+	}	
+	"ChatLabel"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"ChatLabel"
+		"xpos"		"30"
+		"ypos"		"5"
+		"wide"		"22"
+		"tall"		"o1"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"z"
+		"textAlignment"		"center"
+		"pin_to_sibling"	"ChatSlider"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"	
+		"fgcolor_override"		"W_ColorIcons1"
+		"font"					"NewIcons22"		
+		
+	}	
+	"ChatSlider"
+	{
+		"ControlName"		"CCvarSlider"
+		"fieldName"		"ChatSlider"
+		"xpos"		"0"
+		"ypos"		"15"
+		"wide"		"p0.2"
+		"tall"		"10"
+		"leftText"		"0.00"
+		"rightText"		"15.00"
+		"minvalue"		"0"
+		"maxvalue"		"15"
+		"cvar_name"		"hud_saytext_time"
+
+		"pin_to_sibling"	"NetSlider"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
+	
+	}		
+	"DeathLabel"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"DeathLabel"
+		"xpos"		"30"
+		"ypos"		"5"
+		"wide"		"22"
+		"tall"		"o1"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"0"
+		"textAlignment"		"center"
+		"pin_to_sibling"	"DeathSlider"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"	
+		"fgcolor_override"		"W_ColorIcons1"
+		"font"					"NewIcons22"		
+		
+	}	
+	"DeathSlider"
+	{
+		"ControlName"		"CCvarSlider"
+		"fieldName"		"DeathSlider"
+		"xpos"		"0"
+		"ypos"		"15"
+		"wide"		"p0.2"
+		"tall"		"10"
+		"leftText"		"0.00"
+		"rightText"		"6.00"
+		"minvalue"		"0"
+		"maxvalue"		"6"
+		"cvar_name"		"hud_deathnotice_time"
+
+		"pin_to_sibling"	"ChatSlider"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
+	
+	}			
 	"ViewmodelSlider"
 	{
 		"ControlName"		"CCvarSlider"

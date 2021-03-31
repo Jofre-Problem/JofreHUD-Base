@@ -17,14 +17,3 @@
 #base "../#uni_base/filesv1/cancel/wide-is64.res"
 #base "../#uni_base/filesv1/advanced/main.res"
 #base "res_base/multiplayercustomizedialog.res"
-"Resource/OptionsSubMultiplayer.res"
-{
-	"AdvCrosshairImage"
-	{
-		"image"		"replay/thumbnails/crosshair_bg"
-	}
-	"CrosshairImage"
-	{
-		"image"		"replay/thumbnails/crosshair_bg"
-	}
-}

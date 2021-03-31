@@ -13,14 +13,32 @@
 #base "../../../#uni_base/filesv1/mapinfo/enabled1.res"
 "Resource/UI/MapInfoMenu.res"
 {
+	"RankPanel"
+	{
+		"ControlName"	"Cpvprankpanel"
+		"fieldName"		"RankPanel"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-52"
+		"wide"			"f0"
+		"tall"			"f0"
+		"visible"		"1"
+		"proportionaltoparent"	"1"
+		"mouseinputenabled"	"0"
+
+		"matchgroup"	"MatchGroup_Casual_12v12"
+
+		"show_model"	"0"
+		"show_type"		"1"
+	}
 	"MapInfoTitle"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapInfoTitle"
-		"xpos"			"120"
-		"ypos"			"80"
+		"xpos"			"cs-0.5"
+		"ypos"			"160"
 		"zpos"			"1"
-		"wide"			"180"
+		"wide"			"f0"
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -29,7 +47,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"HudFontSmall"
+		"font"			"CustomSeptimo"
 		"fgcolor_override"		"W_ColorIcons1"
 		"textinsetx"	"0"
 	}

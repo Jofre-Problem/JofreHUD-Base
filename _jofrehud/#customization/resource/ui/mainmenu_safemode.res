@@ -4,23 +4,33 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"SafeMode"
-		"xpos"			"rs1"
-		"ypos"			"90"
-		"zpos"			"999"
-		"wide"			"150"
-		"tall"			"330"
-		"bgcolor_override"	"Blank"
+		"xpos"			"rs1-1"
+		"ypos"			"rs1-1"
+		"zpos"			"100"
+		"wide"			"p0.3"
+		"tall"			"p0.485"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"				"Blank"	//"W_ColorTheme2"
 
-		"BGBG2"				
+		"Windows_Notification"
 		{
-			ControlName				ImagePanel
-			FieldName				"BGBG2"
-			xPos					0
-			yPos					0
-			zPos					-10
-			wide					f0
-			tall					f0
-			fillcolor				"0 0 0 230"
+			"ControlName"	"EditablePanel"
+			"fieldName"		"Windows_Notification"
+			"xpos"		"0"
+			"ypos"		"0"
+			"zpos"		"-1000"
+			"wide"			"p0.3"
+			"tall"			"p0.485"
+			"autoResize"		"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"		"0"
+			"PaintBackgroundType"	"2"
+			"paintbackground"		"1"
+			"bgcolor_override"				"W_ColorTheme2"	//"W_ColorTheme2"
+			"alpha"				"220"
 		}				
 
 		"Background"		//Only not removed cuz save settings button
