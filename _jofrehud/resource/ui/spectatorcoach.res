@@ -7,7 +7,5 @@
 #base "base/filesv1/avatarimage/contentwith32.res"
 
 #base "base/filesv1/distancelabel/main.res"
-#base "res_base/base/spectator_extra.res"
-#base "res_base/hudinspectpanel.res"
-#base "res_base/spec/main.res"
+#base "res_base/spectatorcoach.res"
 #base "base/filesv1/directionlabel/main.res"

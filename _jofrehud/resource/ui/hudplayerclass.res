@@ -2,6 +2,7 @@
 //#base "../../../4plug/DLC/1.res"  //Resolution crosshairs
 //#base "../../../4plug/DLC/2.res"  //Crosshairs
 #base "base/classmodelpanel.res"
+#base "../../home/crosshair.res"
 "resource/ui/hudplayerclass.res"
 {
 	"PlayerStatusClassImageBG"

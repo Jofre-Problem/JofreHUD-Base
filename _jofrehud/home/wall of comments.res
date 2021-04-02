@@ -59,6 +59,11 @@ CmGunner13 :  ( ° ͜ʖ °)
 *DEAD* Funky The Notorious K.I.P :  Jofre do you live in Uzbekistan jesus christ 
 *DEAD* Funky The Notorious K.I.P :  that ping
 
+[Dead] Marci  Owo :  siempre me miran a mi y nunca a jofre :c
+[Dead] Little Mr. Stormy :  conozco jofre
+[Dead] Little Mr. Stormy :  peru tu quien eres
+[Dead] Marci  Owo :  soy nuevo en este server xd pense que solo hablaban ingles aca
+
 TRACKLIST:
 
 Troller Of Everything FULL MUSIC VIDEO

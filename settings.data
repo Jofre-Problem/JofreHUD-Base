@@ -24,7 +24,6 @@ GlobalComboBox("UI Style", "UI Style")
 {
 	Default
 	Gradient Numbers
-	Team Colored Text
 	Transparent Box
 }
 [Border:0, FG:#1C1B1C]
@@ -72,7 +71,6 @@ GlobalComboBox("Font Name Select", "Font Name Select")
 	Product Sans
 	Avenir
 	Cerbetica
-	Code Pro
 	Montserrat
 	Renogare
 	Roboto

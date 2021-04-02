@@ -421,6 +421,17 @@ Scheme
 	}	
 	Fonts
 	{
+		"xHair"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"13"
+				"weight"	"1"
+				"additive"	"0"
+				"outline" "1"
+			}
+		}		
 		"Default"
 		{
 			"1"
@@ -2112,11 +2123,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"blocks blocks"
-				"tall"		"200"
-				"antialias" "1"
-				"additive"	"0"
-				"antialias" "1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"Blank" //backup

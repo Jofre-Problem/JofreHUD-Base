@@ -1,4 +1,4 @@
-#base "res_base/spectator.res"
+#base "res_base/spectatortournament.res"
 "Resource/UI/SpectatorTournament.res"
 {
 	"specgui"

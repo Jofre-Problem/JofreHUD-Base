@@ -28,12 +28,12 @@ Scheme
 			"name"           "Verdana" [$WINDOWS]
 			"name"           "Verdana" [$X360]
 			"name"           "Verdana" [$POSIX]
-			"tall"          "9" [$LINUX]
-			"tall"          "9" [$OSX]
-			"tall"           "9"
+			"tall"          "15" [$LINUX]
+			"tall"          "15" [$OSX]
+			"tall"           "15"
 			"tall_lodef" "30"	//probably the smaller ones
 			"tall_hidef" "30"	//probably....
-			"weight"         "0"
+			"weight"         "600"
 			"outline"        "1"
 			}
 		}	
