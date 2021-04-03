@@ -103,17 +103,6 @@
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}	
-	CHealthAccountPanel
-	{
-		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"cs-0.5+10"
-		"ypos"					"c50"
-		"wide"					"50"
-		"tall"  				"45"
-		"visible" 				"1"
-		"enabled" 				"1"
-		"PaintBackgroundType"	"2"
-	}
 	HudScopeCharge
 	{
 		"xpos"	 "cs-0.5+128"

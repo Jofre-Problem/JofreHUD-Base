@@ -10,7 +10,7 @@
 		"ypos"			"r67"
 		"ypos_lodef"		"28"
 		"ypos_hidef"		"35"
-		"wide"			"145"
+		"wide"			"0"
 		"wide_hidef"	"230"
 		"wide_lodef"	"240"
 		"tall"			"64"
@@ -27,5 +27,5 @@
 		"font_hidef"	"HudFontSmall"
 		"font_lodef"	"DefaultVerySmall"
 		"wrap"			"1"
-	}
+		}
 }	

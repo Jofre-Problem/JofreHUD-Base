@@ -28,22 +28,7 @@
 		"paintbackground"		"0"
 		"bgcolor_override"		"0 0 0 0"
 	}
-						
-	"TextBG"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"TextBG"
-		"xpos"										"c-100"
-		"ypos"										"c-100"
-		"zpos"										"1"
-		"wide"										"200"
-		"tall"										"230"
-		"visible"									"1"
-		"enabled"									"1"
-		"paintbackground"							"1"
-		"bgcolor_override"							"15 15 15 255"
-	}
-	
+
 	"TFTextMessage"
 	{
 		"ControlName"								"CExRichText"
@@ -64,25 +49,6 @@
 		
 		"pin_to_sibling"							"TextBG"
 		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
-	}
-	
-	"TitleBG"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"TitleBG"
-		"xpos"										"0"
-		"ypos"										"2"
-		"zpos"										"1"
-		"wide"										"200"
-		"tall"										"30"
-		"visible"									"1"
-		"enabled"									"1"
-		"paintbackground"							"1"
-		"bgcolor_override"							"15 15 15 255"
-		
-		"pin_to_sibling"							"TextBG"
-		"pin_corner_to_sibling"						"PIN_CENTER_BOTTOM"
 		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
 	}
 	
