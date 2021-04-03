@@ -1,2 +1,2 @@
-#base "../_jofrehud/resource/vtfpicker.res"
-#base "../_tf2hud/root/resource/vtfpicker.res"
+#base "../_jofrehud/resource/vmtpicker.res"
+#base "../_tf2hud/root/resource/vmtpicker.res"
