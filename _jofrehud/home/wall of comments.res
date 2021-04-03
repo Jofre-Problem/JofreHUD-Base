@@ -64,6 +64,12 @@ CmGunner13 :  ( ° ͜ʖ °)
 [Dead] Little Mr. Stormy :  peru tu quien eres
 [Dead] Marci  Owo :  soy nuevo en este server xd pense que solo hablaban ingles aca
 
+
+Marquito :  wrong sniper
+[Dead] Marquito :  got the wrong one
+[Dead] Marquito :  keep fragging jofre
+
+
 TRACKLIST:
 
 Troller Of Everything FULL MUSIC VIDEO
