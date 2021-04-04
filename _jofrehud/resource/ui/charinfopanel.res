@@ -1,5 +1,5 @@
 #base "../#bases/reload_scheme.res"
-#base "../#jofre/multiple-bg.res"
+//#base "../#jofre/multiple-bg.res"
 #base "base/filesv1/notifipresentpanel/main.res"
 #base "base/filesv1/notifipresentpanel/content1.res"
 #base "base/filesv1/sheet/main.res"

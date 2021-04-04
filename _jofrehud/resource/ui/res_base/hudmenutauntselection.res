@@ -1,22 +1,7 @@
-#base "../disguise_menu/base/number_bg_v2.res"
 #base "../base/v2/mainbackground.res"
 #base "../base/v2/divider.res"
 "Resource/UI/HudMenuTauntSelection.res"
 {
-	"WheelImage"
-	{
-		ControlName				ImagePanel
-		fieldName				"WheelImage"
-		xpos					cs-0.5
-		ypos					cs-0.5
-		zpos					5
-		wide					o1
-		tall					300
-
-		image					"replay/thumbnails/hud/SelectionWheel9"
-		scaleImage				1
-		drawcolor				"32 32 32 255"
-	}
 	"MainBackground"	
 	{
 		"wide"		"0"
@@ -49,18 +34,6 @@
 	}
 	
 	"TitleLabelDropshadow"
-	{	
-		"wide"		"0"
-		"tall"		"0"
-	}
-
-	"WeaponTauntLabel"
-	{	
-		"wide"		"0"
-		"tall"		"0"
-	}
-	
-	"CancelLabel"
 	{	
 		"wide"		"0"
 		"tall"		"0"
@@ -101,17 +74,7 @@
 		}
 	}
 
-	"NumberBg1"	
-	{
-		"wide"		"0"
-		"tall"		"0"
-	}
-	
-	"NumberLabel1"
-	{	
-		"wide"		"0"
-		"tall"		"0"
-	}
+
 	"TauntModelPanel2"
 	{
 		"ControlName"	"CItemModelPanel"
@@ -147,17 +110,7 @@
 		}
 	}
 
-	"NumberBg2"
-	{
-		"wide"		"0"
-		"tall"		"0"
-	}
-	
-	"NumberLabel2"
-	{	
-		"wide"		"0"
-		"tall"		"0"
-	}
+
 
 	"TauntModelPanel3"
 	{
@@ -194,17 +147,7 @@
 		}
 	}
 	
-	"NumberBg3"
-	{
-		"wide"		"0"
-		"tall"		"0"
-	}
 	
-	"NumberLabel3"
-	{	
-		"wide"		"0"
-		"tall"		"0"
-	}
 
 	"TauntModelPanel4"
 	{
@@ -241,17 +184,7 @@
 		}
 	}
 
-	"NumberBg4"
-	{
-		"wide"		"0"
-		"tall"		"0"
-	}
-	
-	"NumberLabel4"
-	{	
-		"wide"		"0"
-		"tall"		"0"
-	}
+
 
 	"TauntModelPanel5"
 	{
@@ -288,17 +221,7 @@
 		}
 	}
 
-	"NumberBg5"
-	{
-		"wide"		"0"
-		"tall"		"0"
-	}
-	
-	"NumberLabel5"
-	{	
-		"wide"		"0"
-		"tall"		"0"
-	}
+
 
 	"TauntModelPanel6"
 	{
@@ -335,17 +258,6 @@
 		}
 	}
 
-	"NumberBg6"
-	{
-		"wide"		"0"
-		"tall"		"0"
-	}
-	
-	"NumberLabel6"
-	{	
-		"wide"		"0"
-		"tall"		"0"
-	}
 
 	"TauntModelPanel7"
 	{
@@ -382,17 +294,6 @@
 		}
 	}
 
-	"NumberBg7"
-	{
-		"wide"		"0"
-		"tall"		"0"
-	}
-	
-	"NumberLabel7"
-	{	
-		"wide"		"0"
-		"tall"		"0"
-	}
 
 	"TauntModelPanel8"
 	{
@@ -429,15 +330,4 @@
 		}
 	}
 
-	"NumberBg8"
-	{
-		"wide"		"0"
-		"tall"		"0"
-	}
-	
-	"NumberLabel8"
-	{	
-		"wide"		"0"
-		"tall"		"0"
-	}
 }

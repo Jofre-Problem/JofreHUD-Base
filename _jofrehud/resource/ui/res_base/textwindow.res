@@ -46,10 +46,6 @@
 		"textAlignment"								"center"
 		"centerwrap"								"1"
 		"fgcolor"									"160 160 160 255"
-		
-		"pin_to_sibling"							"TextBG"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
 	}
 	
 	"TFMessageTitle"
@@ -70,10 +66,6 @@
 		"font"										"HudFontSmallBold"
 		"fgcolor"									"160 160 160 255"
 		"AllCaps"	 								"1"
-		
-		"pin_to_sibling"							"TitleBG"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
 	}
 	
 	"ok"
@@ -110,10 +102,6 @@
 		"defaultBgColor_override"					"50 50 50 255"
 		"armedBgColor_override"						"70 70 70 255"
 		"depressedBgColor_override"					"70 70 70 255"
-		
-		"pin_to_sibling"							"TextBG"
-		"pin_corner_to_sibling"						"PIN_CENTER_BOTTOM"
-		"pin_to_sibling_corner"						"PIN_CENTER_BOTTOM"
 	}
 
 	"HTMLMessage"
@@ -130,10 +118,6 @@
 		"visible"		 							"1"
 		"enabled"		 							"1"
 		"tabPosition"	 							"0"
-		
-		"pin_to_sibling"							"ok"
-		"pin_corner_to_sibling"						"PIN_CENTER_BOTTOM"
-		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
 	}
 	
 	"MessageTitle"

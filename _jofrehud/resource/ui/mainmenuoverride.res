@@ -17,7 +17,7 @@
 
 //	#base "../#bases/1rankpanel.res"
 	
-	#base "../#jofre/multiple-bg.res"
+//	#base "../#jofre/multiple-bg.res"
 	#base "base/filesv2/footerline/main.res"
 	#base "base/filesv2/bgfooter/main.res"
 	#base "base/filesv1/itemrename/mouseoveritem.res"

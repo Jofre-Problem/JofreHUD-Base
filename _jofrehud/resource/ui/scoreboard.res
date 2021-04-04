@@ -16,6 +16,7 @@
 #base "base/filesv1/mapname/bright0.res"
 #base "base/filesv1/mapname/label-maptext.res"
 
+
 "Resource/UI/Scoreboard.res"
 {	
 	"scores"
@@ -445,31 +446,12 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"Redivider"
 		"xpos"			"0"
-		"ypos"			"1"
+		"ypos"			"rs1-50"
 		"zpos"			"1"
-		"wide"			"p0.35"
+		"wide"			"f0"
 		"tall"			"p0.0018"
 		"fillcolor"		"WhiteSolid"
-		"pin_to_sibling"	"RedPlayerList"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
-
 	}	
-	"BlueDivider"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"BlueDivider"
-		"xpos"			"0"
-		"ypos"			"1"
-		"zpos"			"1"
-		"wide"			"p0.35"
-		"tall"			"p0.0018"
-		"fillcolor"		"WhiteSolid"
-		"pin_to_sibling"	"BluePlayerList"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
-
-	}		
 	"BlueScoreBG3"
 	{
 		"ControlName"		"CIconPanel"

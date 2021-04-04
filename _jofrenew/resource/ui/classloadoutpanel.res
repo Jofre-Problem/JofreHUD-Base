@@ -6,8 +6,4 @@
 		"infocus_bgcolor_override" "Blank"
 		"outoffocus_bgcolor_override" "Blank"
 	}
-	"MMBackgroundPanel"
-	{
-		"ypos"			"-50"
-	}
 }

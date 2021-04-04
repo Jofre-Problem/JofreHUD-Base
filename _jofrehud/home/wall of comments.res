@@ -69,6 +69,36 @@ Marquito :  wrong sniper
 [Dead] Marquito :  got the wrong one
 [Dead] Marquito :  keep fragging jofre
 
+Actual Ass CmGunner13 :  hey jofre
+Actual Ass CmGunner13 :  you should rtd
+[RTD] Jofre Problem? rolled: blind.
+Actual Ass CmGunner13 :  ^
+*DEAD* W+M1 Heatmaker :  LMAO
+Actual Ass CmGunner13 :  !
+[TBC] You gained 1 Gimgim for killing CmGunner13.
+W+M1 Heatmaker :  bruh.
+[Team] The Greatest Man Who Ever Lived :  Y
+Actual Ass CmGunner13 :  WHAT
+W+M1 Heatmaker :  BRO.
+[VSH 2] Queue You gained 0 queue points because you toggled Boss Selection as off.
+[VSH 2] Queue You scored 22 points.
+The Greatest Man Who Ever Lived :  HAHAHAHAHAHA
+[VSH] CmGunner13: remove customs huds
+[RTD] Jofre Problem? died during their roll.
+Fisherman Euro :  !firstperson
+[VSH] CmGunner13: remove customs hudes
+[VSH] CmGunner13: remove right fucking now
+Fisherman Euro :  !firstperson
+(Voice) CmGunner13: Spy!
+[VSH] Heatmaker: AYO GET THIS MAN JOFRE A FUCKING CONTRACT
+The Greatest Man Who Ever Lived :  i didn't even believe it happened
+[VSH] Heatmaker: HE'S SURGICAL WITH THE PISS RIFLE
+Actual Ass CmGunner13 :  HES NOT GOOD 
+[VSH 2] You can turn boss themes on/off with /halemusic.
+Actual Ass CmGunner13 :  HE JUST USES HUDS THAT MAKE WEAPONS GONE
+
+Marquito :  when u read jofre disconnecteed
+Marquito :  and u think he really did
 
 TRACKLIST:
 

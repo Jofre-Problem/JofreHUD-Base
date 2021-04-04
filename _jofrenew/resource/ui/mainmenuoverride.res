@@ -17,7 +17,7 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"Background"
-		"xpos"			"9999"
+		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"0"
 		"wide"			"f0"
@@ -1269,7 +1269,7 @@
 		"fieldname"		"FriendsContainer"
 		"xpos"			"30"
 		"ypos"			"13"
-		"zpos"			"-20"
+		"zpos"			"100"
 		"wide"			"p1" // apparently at higher wide gives more smooth...???
 		"tall"			"p1"
 		"visible"		"1"

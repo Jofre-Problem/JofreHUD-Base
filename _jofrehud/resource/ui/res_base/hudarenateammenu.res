@@ -1,7 +1,7 @@
 #base "../../#bases/1sysmenu.res"
 #base "../base/1shadedbar.res"
 #base "../base/1menubg.res"
-#base "../base/1footer.res"
+
 #base "../base/team/main.res"
 #base "../../../#uni_base/filesv1/mapinfo/main.res"
 #base "../../../#uni_base/filesv1/mapinfo/_content.res"
@@ -42,8 +42,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"1"
-		"labelText"		"&1"	[$WIN32]
-		"labelText"		""		[$X360]
 		"textAlignment"	"south-west"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -68,8 +66,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"2"
-		"labelText"		"&2"	[$WIN32]
-		"labelText"		""		[$X360]
 		"textAlignment"	"south-west"
 		"dulltext"		"0"
 		"brighttext"	"0"
