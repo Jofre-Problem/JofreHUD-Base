@@ -10,7 +10,7 @@
 		"wide"		"20"
 		"tall"		"20"
 		"visible"	"1"
-		"enabled"	"1"
+		"enabled"	"1"		
 	}
 	
 	"Countdown"

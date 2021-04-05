@@ -475,8 +475,9 @@ Scheme
 			"1"
 			{
 				"name"				"JofreIconsRe"
-				"tall"				"32"				
+				"tall"				"37"				
 				"antialias"			"1"
+				"weight"		"400"				
 			}
 		}			
 		"NewIcons25" 

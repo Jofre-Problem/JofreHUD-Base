@@ -46,9 +46,9 @@
 	}	
 	"PlayerStatusHealthImageBG"
 	{
-		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"26"
+		"xpos"			"2"
+		"ypos"			"2"
+		"wide"			"29"
 		"tall"			"O1"		
 		"pin_to_sibling"	"PlayerStatusHealthImage"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"

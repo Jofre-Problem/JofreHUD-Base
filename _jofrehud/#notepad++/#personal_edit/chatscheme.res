@@ -15,19 +15,19 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"TF2 Secondary"" // Chat font
+				"name"			"TF2 Secondary" // Chat font
 			}
 			"3"
 			{
-				"name"			"TF2 Secondary"" // Chat font
+				"name"			"TF2 Secondary"// Chat font
 			}
 			"4"
 			{
-				"name"			"TF2 Secondary"" // Chat font
+				"name"			"TF2 Secondary" // Chat font
 			}
 			"5"
 			{
-				"name"			"TF2 Secondary"" // Chat font
+				"name"			"TF2 Secondary" // Chat font
 			}
 		}
 	}

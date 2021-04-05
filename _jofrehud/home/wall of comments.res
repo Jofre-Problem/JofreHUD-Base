@@ -46,7 +46,6 @@ Lycanroc's current health is: 748 of 10339
 [Dead] Marquito :  yes
 (Voice) Jofre Problem?: Thanks!
 [Dead] CmGunner13 :  LOL
-
 [RTD] Jofre Problem? rolled: lucky sandvich.
 [RTD] You now have: 1029 HP!
 [TBC] You just gained 6 Gimgims!

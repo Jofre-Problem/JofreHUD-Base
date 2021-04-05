@@ -47,49 +47,100 @@
 		"killstreak_image_width" "15"
 		"bgcolor_override"	"0 0 0 75"
 	}
-
-		"ServerReferencia"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"ServerReferencia"
-			"font"			"ItemTrackerScore_InGame"
-			"labelText"		"#scoreboard_top_list"
-			"textAlignment"	"center"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"1"
-			"wide"			"f0"
-			"tall"			"13"
-			"centerwrap"	"1"
-			fgcolor			"102 255 0 255"
-			"bgcolor_override"		"0 0 0 220"
-		}		
+	"Borders"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"Borders"
+		"xpos"				"cs-0.5"
+		"ypos"				"129"
+		"zpos"				"19"
+		"wide"				"600"
+		"tall"				"20"
+		"paintborder"		"1"
+		"border"			"SteamWorkshopBorder"
+		"visible"			"1"
+		"enabled"			"1"
+	}
 	"BlueScoreBG"
 	{
-		"wide"			"0"
-		"tall"			"0"
-	}
-	"RedScoreBG"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"RedScoreBG"
-		"xpos"			"cs-0.5+30"
-		"ypos"			"r95"
-		"zpos"			"100"
-		"wide"			"5"
+		"ControlName"	"EditablePanel"
+		"fieldName"		"BlueScoreBG"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"290"
 		"tall"			"20"
+		"zpos"			"2"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"scaleImage"		"0"
-		"image"			"replay/thumbnails/null"		
-		"fillcolor"		"239 59 43 255"
-
-		if_mvm
-		{
-			"visible"		"0"
-		}
+		"visible"		"1"
+		"enabled"		"1"
+		"paintbackground"	"1"
+		"bgcolor_override"	"G_TeamBlue"
+		"pin_to_sibling"	"Borders"
+	}
+	"BlueTeamPlayerCount"
+	{
+		"font"			"CustomSegundo"
+		"textAlignment"		"center"
+		"xpos"			"0"
+		"ypos"			"0" 
+		"zpos"			"1000"
+		"wide"			"290"
+		"tall"			"20"
+		"fgcolor_override"		"WhiteSolid"
+		"pin_to_sibling"	"BlueScoreBG"
+		"pin_corner_to_sibling"	"PIN_CENTER_BOTTOM"
+		"pin_to_sibling_corner"	"PIN_CENTER_BOTTOM"
+	}	
+	"RedScoreBG"
+	{
+		"ControlName"	"EditablePanel"
+		"xpos"			"20"
+		"ypos"			"0"
+		"wide"			"290"
+		"tall"			"20"
+		"zpos"			"2"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"paintbackground"	"1"
+		"bgcolor_override"	"G_TeamRed"
+		"pin_to_sibling"	"BlueScoreBG"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
+	}
+	"RedTeamPlayerCount"
+	{
+		"font"			"CustomSegundo"
+		"textAlignment"		"center"
+		"xpos"			"0"
+		"ypos"			"0" 
+		"zpos"			"1000"
+		"wide"			"290"
+		"tall"			"20"
+		"fgcolor_override"		"WhiteSolid"
+		"pin_to_sibling"	"RedScoreBG"
+		"pin_corner_to_sibling"	"PIN_CENTER_BOTTOM"
+		"pin_to_sibling_corner"	"PIN_CENTER_BOTTOM"
+	}		
+	"PlayersBg"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"PlayersBg"
+		"xpos"			"cs-0.5"
+		"ypos"			"150"
+		"zpos"			"0"
+		"wide"			"600"
+		"tall"			"p0.45"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"paintbackground"		"1"
+		"bgcolor_override"		"G_PanelBg"
+		"paintborder"			"1"
+		"border"				"SteamWorkshopBorder"
 	}
 
 	"BlueLeaderAvatarBG"
@@ -120,34 +171,6 @@
 		"ypos"			"0"
 		"wide"			"0"
 		"tall"			"o1"		
-	}	
-	"RedLeaderAvatar"
-	{
-		"ControlName"		"CAvatarImagePanel"
-		"fieldName"		"RedLeaderAvatar"
-		"xpos"			"580"
-		"ypos"			"16"
-		"zpos"			"5"
-		"wide"			"45"
-		"tall"			"45"
-		"visible"		"0"
-		"enabled"		"1"
-		"image"			""
-		"scaleImage"	"1"	
-		"color_outline"	"52 48 45 255"
-	}
-	"RedLeaderAvatarBG"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"RedLeaderAvatarBG"
-		"xpos"			"578"
-		"ypos"			"14"
-		"zpos"			"4"
-		"wide"			"49"
-		"tall"			"49"
-		"visible"		"0"
-		"PaintBackgroundType"	"2"
-		"bgcolor_override"	"117 107 94 255"
 	}
 	"MainBG"
 	{
@@ -177,60 +200,42 @@
 	}
 	"BlueTeamLabel"
 	{
-			"wide"			"0"
-			"tall"			"10"
+		"ControlName"	"CExLabel"
+		"fieldName"		"BlueTeamLabel"
+		"labelText"		"%blueteamname%"	
+		"font"			"CustomSegundo"
+		"textinsetx"	"5"
+		"textAlignment"	"west"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"40"
+		"wide"			"140"
+		"tall"			"20"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor_override"	"G_White"
+		"pin_to_sibling"	"Borders"		
 	}							
 	"BlueTeamScore"
 	{
-		"font"			"CustomOctavo"
-		"textAlignment"		"center"
-		"xpos"			"-60"
-		"ypos"			"10" 
+		"font"			"CustomSexto"
+		"textAlignment"		"west"
+		"xpos"			"-15"
+		"ypos"			"0" 
 		"zpos"			"1000"
-		"wide"			"p0.07"	
-		"tall"			"40"
+		"wide"			"100"
+		"tall"			"20"
 		"fgcolor_override"		"WhiteSolid"
-		"border"		"MaterialBlue"
-		"pin_to_sibling"	"BlueScoreBG3"		
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		"pin_to_sibling"	"BlueScoreBG"
 	}
 	"BlueTeamScoreDropshadow"
 	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"BlueTeamScoreDropshadow"
-		"font"			"ScoreboardTeamScoreNew"
-		"fgcolor"		"Black"
-		"labelText"		"%blueteamscore%"
-		"textAlignment"		"east"
-		"xpos"			"176"
-		"ypos"			"13" 
-		"zpos"			"4"
-		"wide"			"0"
-		"tall"			"55"
-		"autoResize"	"0"
-		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"0"
-		
-		if_mvm
-		{
-			"visible"		"0"
-		}
 	}							
 
-	"BlueTeamPlayerCount"
-	{
-		"font"			"CustomSegundo"
-		"textAlignment"		"center"
-		"xpos"			"0"
-		"ypos"			"0" 
-		"zpos"			"1000"
-		"wide"			"p0.35"		//p0.85 - 1 = p0.15 / 2 = p0.075
-		"tall"			"20"
-		"fgcolor_override"		"WhiteSolid"
-		"pin_to_sibling"	"BlueScoreBG3"
-	}								
+
 	"RedTeamLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -252,43 +257,48 @@
 		{
 			"visible"		"0"
 		}
-	}							
-	"RedTeamScore"
+	}	
+	"G_Slash"
 	{
-		"font"			"CustomOctavo"
-		"textAlignment"		"center"
-		"xpos"			"0"
-		"ypos"			"10" 
-		"zpos"			"1000"
-		"wide"			"p0.07"	
-		"tall"			"40"
-		"fgcolor_override"		"WhiteSolid"
-		"centerwrap"	"1"
-		"pin_to_sibling"	"RedScoreBG3"
-		"border"		"MaterialRed"
-	}
-	"RedTeamScoreDropshadow"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"RedTeamScoreDropshadow"
-		"font"			"CustomOctavo"
-		"fgcolor"		"Black"
-		"labelText"		"%redteamscore%"
-		"textAlignment"		"west"
-		"xpos"			"369"
-		"ypos"			"13"
-		"zpos"			"4"
-		"wide"			"0"
-		"tall"			"55"
+		"ControlName"	"CExLabel"
+		"fieldName"		"G_Slash"
+		"font"			"NewIcons57"
+		"labelText"		"/"
+		"textAlignment"	"west"
+		"xpos"			"cs-0.5"
+		"ypos"			"129"
+		"wide"			"20"
+		"tall"			"20"
+		"zpos"			"3"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor"		"G_TeamBlue"
 		
 		if_mvm
 		{
-			"visible"		"0"
+			"xpos"		"510" [$WINDOWS]
+			"xpos"		"509" [!$WINDOWS]
+			"ypos"		"83"
+			"fgcolor"	"G_TeamRed"
 		}
+	}							
+	"RedTeamScore"
+	{
+		"font"			"CustomSexto"
+		"textAlignment"		"west"
+		"xpos"			"-15"
+		"ypos"			"0" 
+		"zpos"			"1000"
+		"wide"			"100"
+		"tall"			"20"
+		"fgcolor_override"		"WhiteSolid"
+		"pin_to_sibling"	"RedScoreBG"
+	}
+	"RedTeamScoreDropshadow"
+	{
+		"wide"			"0"
 	}							
 
 	"ServerLabel"
@@ -308,16 +318,19 @@
 	}			
 	"TimerBG"		//pin1 
 	{
-		"ControlName"		"EditablePanel"
+			"ControlName"	"CExLabel"
 			"fieldName"		"TimerBG"
-			"xpos"			"cs-0.5"
-			"ypos"			"r0"	//disabled for now
+			"font"			"ItemTrackerScore_InGame"
+			"labelText"		"#scoreboard_top_list"
+			"textAlignment"	"center"
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"1"
-			"wide"			"p0.405"
-			"tall"			"20"
+			"wide"			"f0"
+			"tall"			"13"
+			"centerwrap"	"1"
 			fgcolor			"102 255 0 255"
-			"bgcolor_override"		"Black"
-			"border"		"NoBorder"
+			"bgcolor_override"		"G_PanelBg"
 	}
 	"ServerTimeLeftInsetBG"
 	{
@@ -363,7 +376,7 @@
 	}
 	"ServerTimeLeftValue"
 	{
-		"ControlName"		"ctfImagePanel"
+		"ControlName"		"ImagePanel"
 		"fieldName"		"ServerTimeLeftValue"
 		"xpos"			"0"
 		"ypos"			"0"
@@ -388,24 +401,15 @@
 
 	"VerticalLine"
 	{
-		"visible"		"0"
-		"enabled"		"0"
-	}	
-	"RedScoreBG3"
-	{
-		"ControlName"		"CIconPanel"
-		"fieldName"		"RedScoreBG3"
 		"xpos"			"0"
-		"ypos"			"30"
-		"wide"			"p0.35"
-		"tall"			"20"
+		"ypos"			"13"
+		"wide"			"f0"
+		"tall"			"p0.0018"
+		"fillcolor"		"Red"
+		"zpos"			"3"
 		"visible"		"1"
-		"enabled"		"1"
-		"PaintBackgroundType"	"2"
-		"border"		"MaterialRed"
-		"paintbackground"	"0"
-		"pin_to_sibling"	"RedPlayerList"
-	}			
+		"PaintBackgroundType"	"1"
+	}		
 	"RedTeamPlayerCount"
 	{
 		"font"			"CustomSegundo"
@@ -422,11 +426,11 @@
 	{
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"RedPlayerList"
-		"xpos"			"rs1"
-		"ypos"			"rs1-50"
+		"xpos"			"0"
+		"ypos"			"-20"
 		"zpos"			"10"
-		"wide"			"p0.35"
-		"tall"			"p0.39"
+		"wide"			"290"
+		"tall"			"p0.45"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -436,47 +440,18 @@
 		"textcolor"		"red"
 		"linegap"		"0"
 		//"show_columns"	"1"
- 		if_mvm
- 		{
- 			"visible"		"0"
- 		}
+ 		"pin_to_sibling"	"RedScoreBG"	
 	}
-	"Redivider"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"Redivider"
-		"xpos"			"0"
-		"ypos"			"rs1-50"
-		"zpos"			"1"
-		"wide"			"f0"
-		"tall"			"p0.0018"
-		"fillcolor"		"WhiteSolid"
-	}	
-	"BlueScoreBG3"
-	{
-		"ControlName"		"CIconPanel"
-		"fieldName"		"BlueScoreBG3"
-		"xpos"			"0"
-		"ypos"			"30"
-		"wide"			"p0.35"
-		"tall"			"20"
-		"visible"		"1"
-		"enabled"		"1"
-		"PaintBackgroundType"	"2"
-		"border"		"MaterialBlue"
-		"paintbackground"	"0"
-		"pin_to_sibling"	"BluePlayerList"
 
-	}		
 	"BluePlayerList"
 	{
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"BluePlayerList"
 		"xpos"			"0"
-		"ypos"			"rs1-50"
+		"ypos"			"0"
 		"zpos"			"10"
-		"wide"			"p0.35"
-		"tall"			"p0.39"
+		"wide"			"290"
+		"tall"			"p0.45"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -487,6 +462,7 @@
 		"linegap"		"0"		
 		//"show_columns"	"1"
 
+		"pin_to_sibling"	"PlayersBG"
 		if_mvm
 		{
 			"visible"		"0"
@@ -770,22 +746,14 @@
 	}
 	"HorizontalLine"
 	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"HorizontalLine"
-		"xpos"			"115"
-		"ypos"			"397"
+		"xpos"			"0"
+		"ypos"			"rs1-50"
+		"wide"			"f0"
+		"tall"			"p0.0018"
+		"fillcolor"		"WhiteSolid"
 		"zpos"			"3"
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"tabPosition"	"0"	
-		"fillcolor"		"127 127 127 153"
-		"PaintBackgroundType"	"0"
-		
-		if_mvm
-		{
-			"visible"		"1"
-		}
+		"visible"		"1"
+		"PaintBackgroundType"	"1"
 	}
 	"PlayerScoreLabel"
 	{
@@ -805,208 +773,6 @@
 		if_mvm
 		{
 			"visible"		"0"
-		}
-	}
-
-	"LocalPlayerDuelStatsPanel"
-	{
-		"ControlName"		"EditablePanel"
-		"fieldName"		"LocalPlayerDuelStatsPanel"
-		"xpos"			"0"
-		"ypos"			"r183"	//480 350 53   130
-		"zpos"			"3"
-		"wide"			"600"
-		"tall"			"53"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		
-		if_mvm
-		{
-			"visible"		"0"
-		}
-
-		"DuelingLabel"
-		{
-			"ControlName"		"CExLabel"
-			"fieldName"		"DuelingLabel"
-			"font"			"ScoreboardSmall"
-			"labelText"		"#TF_ScoreBoard_Dueling"
-			"textAlignment"		"center"
-			"xpos"			"250"
-			"ypos"			"2"
-			"zpos"			"3"
-			"wide"			"100"
-			"tall"			"20"
-
-		}
-
-		"DuelingIcon"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"DuelingIcon"
-			"xpos"			"284"
-			"ypos"			"15"
-			"zpos"			"2"
-			"wide"			"32"
-			"tall"			"32"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			"../backpack/player/items/crafting/icon_dueling"
-			"scaleImage"	"1"
-		}
-
-		"LocalPlayerData"
-		{
-			"ControlName"		"EditablePanel"
-			"fieldName"		"LocalPlayerData"
-			"xpos"			"0"
-			"ypos"			"0"
-			"wide"			"200"
-			"tall"			"53"
-
-	
-			"AvatarBGPanel"
-			{
-				"ControlName"	"EditablePanel"
-				"fieldName"		"AvatarBGPanel"
-				"xpos"			"157"
-				"ypos"			"7"
-				"zpos"			"-1"
-				"wide"			"36"
-				"tall"			"36"
-				"visible"		"1"
-				"PaintBackgroundType"	"2"
-				"bgcolor_override"	"117 107 94 255"
-			}
-			"AvatarImage"
-			{
-				"ControlName"	"CAvatarImagePanel"
-				"fieldName"		"AvatarImage"
-				"xpos"			"159"
-				"ypos"			"9"
-				"zpos"			"0"
-				"wide"			"32"
-				"tall"			"32"
-				"visible"		"1"
-				"enabled"		"1"
-				"image"			""
-				"scaleImage"	"1"	
-				"color_outline"	"52 48 45 255"
-			}
-			"AvatarTextLabel"
-			{	
-				"ControlName"	"CExLabel"
-				"fieldName"		"AvatarTextLabel"
-				"fgcolor"		"TanLight"
-				"xpos"			"50"
-				"ypos"			"7"
-				"zpos"			"2"
-				"wide"			"100"
-				"tall"			"18"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
-				"wrap"			"0"
-				"labelText"		"%playername%"
-				"textAlignment"	"east"
-				"font"			"HudFontSmallest"
-			}
-			"Score"
-			{
-				"ControlName"	"CExLabel"
-				"fieldName"		"Score"
-				"labelText"		"%score%"
-				"textAlignment"	"east"
-				"xpos"			"50"
-				"ypos"			"23"
-				"zpos"			"3"
-				"wide"			"100"
-				"tall"			"20"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
-				"font"			"ScoreboardMedium"
-			}
-		}
-
-		"OpponentData"
-		{
-			"ControlName"		"EditablePanel"
-			"fieldName"		"OpponentData"
-			"xpos"			"410"
-			"ypos"			"0"
-			"wide"			"200"
-			"tall"			"53"
-
-	
-			"AvatarBGPanel"
-			{
-				"ControlName"	"EditablePanel"
-				"fieldName"		"AvatarBGPanel"
-				"xpos"			"7"
-				"ypos"			"7"
-				"zpos"			"-1"
-				"wide"			"36"
-				"tall"			"36"
-				"visible"		"1"
-				"PaintBackgroundType"	"2"
-				"bgcolor_override"	"117 107 94 255"
-			}
-			"AvatarImage"
-			{
-				"ControlName"	"CAvatarImagePanel"
-				"fieldName"		"AvatarImage"
-				"xpos"			"9"
-				"ypos"			"9"
-				"zpos"			"0"
-				"wide"			"32"
-				"tall"			"32"
-				"visible"		"1"
-				"enabled"		"1"
-				"image"			""
-				"scaleImage"	"1"	
-				"color_outline"	"52 48 45 255"
-			}
-			"AvatarTextLabel"
-			{	
-				"ControlName"	"CExLabel"
-				"fieldName"		"AvatarTextLabel"
-				"fgcolor"		"TanLight"
-				"xpos"			"50"
-				"ypos"			"7"
-				"zpos"			"2"
-				"wide"			"100"
-				"tall"			"18"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
-				"wrap"			"0"
-				"labelText"		"%playername%"
-				"textAlignment"	"west"
-				"font"			"HudFontSmallest"
-			}
-			"Score"
-			{
-				"ControlName"	"CExLabel"
-				"fieldName"		"Score"
-				"labelText"		"%score%"
-				"textAlignment"	"west"
-				"xpos"			"50"
-				"ypos"			"23"
-				"zpos"			"3"
-				"wide"			"200"
-				"tall"			"20"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
-				"font"			"ScoreboardMedium"
-			}
 		}
 	}
 	"PartySlot0"
@@ -1069,7 +835,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor"		"245 245 245 255"
-			"bgcolor_override"	"0 0 0 220"
+			"bgcolor_override"	"G_PanelBg"
 		}			
 		"KillsLabel"
 		{

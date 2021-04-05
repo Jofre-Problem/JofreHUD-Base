@@ -1,4 +1,5 @@
 #base "../../#customization/!addons/#matchstatus/hudmatchstatus.res"
+#base "../../#customization/!addons/#matchstatus/def.res"
 "Resource/UI/HudMatchStatus.res"
 {
 	"HudMatchStatus"
