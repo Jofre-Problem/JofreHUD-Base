@@ -29,7 +29,7 @@
 		"CornerRadius"	  							"0"
 		"RightJustify"	  							"1"
 		
-		"TextFont"		"CustomPrimero"
+		"TextFont"		"Default"
 		
 		"TeamBlue"		"25 150 255 255"
 		"TeamRed"		"255 35 30 255"

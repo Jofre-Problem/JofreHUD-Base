@@ -20,7 +20,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"ReloadIcon"
-		"xpos"				"115"
+		"xpos"				"115+60"
 		"ypos"				"0"
 		"zpos"				"10"
 		"wide"				"15"
@@ -215,19 +215,7 @@
 
 		"pinCorner"		"2"
 		"autoResize"	"1"
-		"DownBar"				// background for the left side buttons
-		{
-			ControlName				ImagePanel
-			FieldName				"DownBar"
-			xPos					0
-			yPos					0
-			zPos					0
-			wide					f0
-			tall					13 //p0.05 = 1mm...
-			fillColor				"W_ColorTheme1"
-			mouseInputEnabled			0			// mouse input passes though to panels below	
-			"alpha"					"240"	
-		}
+
 		"Gradient"
 		{
 			"ControlName"		"ImagePanel"
@@ -281,7 +269,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"ToggleChatButton"
-			"xpos"			"78"
+			"xpos"			"78+60"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"15"
@@ -321,25 +309,7 @@
 				"enabled"		"0"
 			}						
 		}		
-		"ChatLabel"
-		{
-			"ControlName"			"CExLabel"
-			"fieldName"				"ChatLabel"
-			"font"					"ItemTrackerScore_InGame"
-			"labelText"				"Say hi!"
-			"xpos"					"0"
-			"ypos"					"0"
-			"zpos"					"0"
-			"textInsetY"			"2"
-			"textAlignment"			"west"
 
-			"wide"					"30"
-			"tall"					"13"
-			"fgcolor_override" 		"W_ColorIcons1"		
-			"pin_to_sibling" "ToggleChatButton"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"				
-		}
 
 		"PartySlot0"
 		{
@@ -350,7 +320,7 @@
 		}
 		"PartySlot1"
 		{
-			"xpos"					"0"
+			"xpos"					"60"
 			"ypos"					"0"
 			"wide"					"13"
 			"tall"					"13"

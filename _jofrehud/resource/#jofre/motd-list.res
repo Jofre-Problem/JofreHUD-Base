@@ -50,7 +50,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"OpenDev"
 			"xpos"										"15"
-			"ypos"										"26"
+			"ypos"										"10"
 			"zpos"										"20"
 			"wide"										"20"
 			"tall"										"20"
@@ -662,20 +662,7 @@
 		
 		"MOTD_Label"
 		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"MOTD_Label"
-			"font"			"InstructionalText"
-			"labelText"		"%motddate%"
-			"textAlignment"	"west"
-				"xpos"			"10"
-				"ypos"			"7"
-			"wide"			"p0.3"
-			"tall"			"10"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor_override"		"W_ColorTexto1"
+			"tall"			"0"
 		}
 		
 		"MOTD_TitleImageBg"
@@ -746,21 +733,6 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"MOTD_NextButton"
 			"xpos"			"r0"
-		}
-		"NewMOTDLabel"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"NewMOTDLabel"
-			"font"			"InstructionalText"
-			"labelText"		"#MMenu_News"
-				"textAlignment"	"east"
-				"xpos"			"0"
-				"ypos"			"5"
-			"wide"			"p0.285"
-				"tall"			"15"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor_override"	"W_ColorTexto1"
-		}		
+		}	
 	}
 }

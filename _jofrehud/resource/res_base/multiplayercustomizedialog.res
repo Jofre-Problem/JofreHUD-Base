@@ -96,7 +96,6 @@
 	{
 		"ControlName"		"CLabeledCommandComboBox"
 		"fieldName"		"SpraypaintList"
-		"ypos"		"58"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"

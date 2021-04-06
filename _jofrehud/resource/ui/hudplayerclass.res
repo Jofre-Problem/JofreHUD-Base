@@ -3,7 +3,7 @@
 //#base "../../../4plug/DLC/2.res"  //Crosshairs
 	#base "base/classmodelpanel.res"
 	#base "../../home/crosshair.res"
-	#base "../../#customization/scripts/transparent.res"
+
 "resource/ui/hudplayerclass.res"
 {
 	"PlayerStatusClassImageBG"

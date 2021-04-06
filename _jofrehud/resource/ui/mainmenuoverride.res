@@ -29,4 +29,4 @@
 //	#base "base/filesv1/rankpanel/show.res"
 	#base "base/filesv1/rankpanel/matchgroup_12.res"
 
-	#base "../../home/crosshair.res"
+//	#base "../../home/crosshair.res"

@@ -2279,7 +2279,6 @@
 			}				
 		}
 	}
-	
 	"BackgroundFooter"
 	{
 		"ControlName"	"ImagePanel"

@@ -45,7 +45,7 @@
 		"stats_width"		"30"
 		"killstreak_width"	"15"
 		"killstreak_image_width" "15"
-		"bgcolor_override"	"0 0 0 75"
+		"bgcolor_override"	"0 0 0 0"
 	}
 	"Borders"
 	{
@@ -67,7 +67,7 @@
 		"fieldName"		"BlueScoreBG"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"290"
+		"wide"			"292"
 		"tall"			"20"
 		"zpos"			"2"
 		"autoResize"	"0"
@@ -95,9 +95,9 @@
 	"RedScoreBG"
 	{
 		"ControlName"	"EditablePanel"
-		"xpos"			"20"
+		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"290"
+		"wide"			"308"
 		"tall"			"20"
 		"zpos"			"2"
 		"autoResize"	"0"
@@ -275,14 +275,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor"		"G_TeamBlue"
-		
-		if_mvm
-		{
-			"xpos"		"510" [$WINDOWS]
-			"xpos"		"509" [!$WINDOWS]
-			"ypos"		"83"
-			"fgcolor"	"G_TeamRed"
-		}
 	}							
 	"RedTeamScore"
 	{
@@ -312,7 +304,7 @@
 			"ypos"			"28"
 			"zpos"			"1"
 			"wide"			"p0.85"
-			"tall"			"10"
+			"tall"			"21"
 			fgcolor			"102 255 0 255"
 			"bgcolor_override"		"TransparentBlack"
 	}			
@@ -327,7 +319,7 @@
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"f0"
-			"tall"			"13"
+			"tall"			"21"
 			"centerwrap"	"1"
 			fgcolor			"102 255 0 255"
 			"bgcolor_override"		"G_PanelBg"
@@ -402,31 +394,19 @@
 	"VerticalLine"
 	{
 		"xpos"			"0"
-		"ypos"			"13"
+		"ypos"			"21"
 		"wide"			"f0"
 		"tall"			"p0.0018"
 		"fillcolor"		"Red"
 		"zpos"			"3"
 		"visible"		"1"
 		"PaintBackgroundType"	"1"
-	}		
-	"RedTeamPlayerCount"
-	{
-		"font"			"CustomSegundo"
-		"textAlignment"		"center"
-		"xpos"			"0"
-		"ypos"			"0" 
-		"zpos"			"1000"
-		"wide"			"p0.35"	
-		"tall"			"20"
-		"fgcolor_override"		"WhiteSolid"	
-		"pin_to_sibling"	"RedScoreBG3"
-	}		
+	}
 	"RedPlayerList"
 	{
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"RedPlayerList"
-		"xpos"			"0"
+		"xpos"			"-20"
 		"ypos"			"-20"
 		"zpos"			"10"
 		"wide"			"290"
@@ -839,14 +819,14 @@
 		}			
 		"KillsLabel"
 		{
-			"xpos"			"0"
-			"ypos"			"0"
-			"tall"			"10"
+			"xpos"			"cs-0.5"
+			"ypos"			"rs1-93"
+			"tall"			"20"
 			"zpos"			"-41"
-			"bgcolor_override"	"0 0 0 180"
-			"wide"			"f0"
+			"bgcolor_override"	"G_PanelBg"
+			"wide"			"600"
 			"font"			"Blank"
-			"pin_to_sibling"	"AssistsLabel"
+			"border"	"SteamWorkshopBorder"
 		}	
 
 		"Kills"
@@ -866,11 +846,12 @@
 			"font"			"ScoreboardVerySmall"
 			"textAlignment"		"east"
 			"xpos"			"0"
-			"ypos"			"r0"
+			"ypos"			"0"
 			"zpos"			"3"
 			"wide"			"p0.05"
 			"tall"			"10"
 			"visible"	"1"
+			"pin_to_sibling"	"KillsLabel"			
 		}
 		"Assists"
 		{
@@ -894,9 +875,9 @@
 			"zpos"			"3"
 			"wide"			"p0.05"
 			"tall"			"10"
-			pin_to_sibling		"Assists"
-			"pin_corner_to_sibling"					"PIN_TOPLEFT"
-			"pin_to_sibling_corner"					"PIN_TOPRIGHT"	
+			pin_to_sibling		"AssistsLabel"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
 		}												
 											
 					
@@ -923,9 +904,9 @@
 			"zpos"			"3"
 			"wide"			"p0.05"
 			"tall"			"10"
-			pin_to_sibling		"Destruction"
-			"pin_corner_to_sibling"					"PIN_TOPLEFT"
-			"pin_to_sibling_corner"					"PIN_TOPRIGHT"	
+			pin_to_sibling		"Assists"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}						
 		"DefensesLabel"
 		{
@@ -936,9 +917,9 @@
 			"zpos"			"3"
 			"wide"			"p0.05"
 			"tall"			"10"
-			pin_to_sibling		"Captures"
-			"pin_corner_to_sibling"					"PIN_TOPLEFT"
-			"pin_to_sibling_corner"					"PIN_TOPRIGHT"	
+			pin_to_sibling		"CapturesLabel"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
 		}						
 		"DominationLabel"
 		{
@@ -949,9 +930,9 @@
 			"zpos"			"3"
 			"wide"			"p0.05"
 			"tall"			"10"
-			pin_to_sibling		"Defenses"
-			"pin_corner_to_sibling"					"PIN_TOPLEFT"
-			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+				pin_to_sibling		"Captures"
+				"pin_corner_to_sibling"					"PIN_TOPLEFT"
+				"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}						
 		"RevengeLabel"
 		{
@@ -962,9 +943,9 @@
 			"zpos"			"3"
 			"wide"			"p0.05"
 			"tall"			"10"
-			pin_to_sibling		"Domination"
-			"pin_corner_to_sibling"					"PIN_TOPLEFT"
-			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+			pin_to_sibling		"DominationLabel"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
 		}					
 		"Captures"
 		{
@@ -1027,7 +1008,7 @@
 			"zpos"			"3"
 			"wide"			"p0.05"
 			"tall"			"10"
-			pin_to_sibling		"Revenge"
+			pin_to_sibling		"Domination"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
 			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}					
@@ -1040,9 +1021,9 @@
 			"zpos"			"3"
 			"wide"			"p0.05"
 			"tall"			"10"
-			pin_to_sibling		"Healing"
-			"pin_corner_to_sibling"					"PIN_TOPLEFT"
-			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+			pin_to_sibling		"HealingLabel"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT	
 		}					
 		"TeleportsLabel"
 		{
@@ -1053,7 +1034,7 @@
 			"zpos"			"3"
 			"wide"			"p0.05"
 			"tall"			"10"
-			pin_to_sibling		"Invuln"
+			pin_to_sibling		"Healing"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
 			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}						
@@ -1066,9 +1047,9 @@
 			"zpos"			"3"
 			"wide"			"p0.05"
 			"tall"			"10"
-			pin_to_sibling		"Teleports"
-			"pin_corner_to_sibling"					"PIN_TOPLEFT"
-			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+			pin_to_sibling		"TeleportsLabel"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
 		}						
 		"Healing"
 		{
@@ -1130,8 +1111,8 @@
 			"ypos"			"0"
 			"zpos"			"3"
 			"wide"			"p0.05"
-			"tall"			"10"
-			pin_to_sibling		"Headshots"
+			"tall"			"10"	
+			pin_to_sibling		"Teleports"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
 			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}
@@ -1157,9 +1138,9 @@
 			"zpos"			"3"
 			"wide"			"p0.05"
 			"tall"			"10"
-			pin_to_sibling		"Backstabs"
-			"pin_corner_to_sibling"					"PIN_TOPLEFT"
-			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+			pin_to_sibling		"BackstabsLabel"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
 		}
 		"Bonus"
 		{

@@ -96,10 +96,10 @@
 //"defaultBgColor_override""192 28 0 150"
 "defaultBgColor_override""Blank"
 
-"FgColor" "Blanco"
-"defaultFgColor_override" "Blanco"
+"FgColor" "WhiteSolid"
+"defaultFgColor_override" "WhiteSolid"
 "armedFgColor_override" "HudProgressBarInActive"
-"depressedFgColor_override" "Blanco"
+"depressedFgColor_override" "WhiteSolid"
 
 "paintbackground""0"
 "image_drawcolor""Tanlight"

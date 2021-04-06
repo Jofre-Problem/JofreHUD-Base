@@ -10,9 +10,24 @@
 		"tall"			"0"
 		"visible"		"0"
 		"enabled"		"0"
-	//	"image"			"replay/thumbnails/null"
+		"image"			"replay/thumbnails/null"
 	}	
+		"ChatLabel"
+		{
+			"ControlName"			"CExLabel"
+			"fieldName"				"ChatLabel"
+			"font"					"ItemTrackerScore_InGame"
+			"labelText"				"Say hi!"
+			"xpos"					"140"
+			"ypos"					"0"
+			"zpos"					"0"
+			"textInsetY"			"2"
+			"textAlignment"			"west"
 
+			"wide"					"30"
+			"tall"					"11"
+			"fgcolor_override" 		"W_ColorIcons1"			
+		}	
 	"Background"
 	{
 		"ControlName"	"ScalableImagePanel"
@@ -67,43 +82,23 @@
 		{
 			"image"		""
 		}			
-	}	
-	"MyHome"		// open advanced options
+	}
+	"BackgroundFooter"				// background for the left side buttons
 	{
-		ControlName				EditablePanel
-		FieldName				"MyHome"
+		ControlName				ImagePanel
+		FieldName				"BackgroundFooter"
 		xPos					0
 		yPos					0
-		zPos					1050
-		wide					30
-		tall					o1
-		"bgcolor_override"		"Blank"
-		"paintBackgroundType"	"0"
-		pin_to_sibling		"NewUserForumsButton"	
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT		
-		"SubButton"
-		{
-			ControlName				CExImageButton
-			fieldName				"SubButton"
-			xpos					0
-			ypos					0
-			wide					f0
-			tall					f0
-			proportionaltoparent		1
-
-		//	font					"NewIcons18"
-			textAlignment			center
-			
-			sound_depressed			"UI/buttonclick.wav"
-			sound_released			"UI/buttonclickrelease.wav"
-							
-			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"W_ColorIconsArmed1"
-
-			paintbackground			0
-		}
-	}
+		zPos					0
+		wide					f0
+		tall					13 //p0.05 = 1mm...
+		fillColor				"W_ColorTheme1"
+		image					""
+	}		
+	"RankPanel"
+	{
+		zPos					4090
+	}	
 	"RankModelPanel"			// contains rank medal model; can't click it because CycleRankTypeButton is on 
 	{
 		ControlName				Cpvprankpanel
@@ -1092,7 +1087,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"fillcolor"		"W_ColorTheme1"
-			"alpha"			"170"
+			"alpha"			"220"
 		}		
 		"QuitBar"		
 		{
@@ -1268,10 +1263,10 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"FriendsContainer"
 		"xpos"			"30"
-		"ypos"			"13"
+		"ypos"			"rs1"
 		"zpos"			"100"
 		"wide"			"p1" // apparently at higher wide gives more smooth...???
-		"tall"			"p1"
+		"tall"			"230"
 		"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"border"			"noborder"
@@ -1296,7 +1291,7 @@
 			"ypos"			"0"
 			"zpos"			"500"
 			"wide"			"f0"
-			"tall"			"p0.975"
+			"tall"			"230"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 			"columns_count"	"1"

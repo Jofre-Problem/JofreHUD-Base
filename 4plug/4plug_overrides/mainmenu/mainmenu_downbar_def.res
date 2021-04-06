@@ -69,10 +69,6 @@
 			fillColor				"W_ColorIcons1"
 			mouseInputEnabled			0			// mouse input passes though to panels below
 		}	
-	"MyHome"
-	{
-	//	"bgcolor_override"		"W_ColorTheme1"			
-	}	
 		"IngameBar2"
 		{
 			ControlName				ImagePanel

@@ -7,13 +7,6 @@
 	{
 		font					"NewIcons15"	
 	}
-	"MyHome"		// open advanced options
-	{
-		"SubButton"
-		{
-			font					"NewIcons20"
-		}
-	}
 	"BrowseServers"			// open server browser; other buttons pinned to this
 	{
 		ControlName				CExButton
