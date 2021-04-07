@@ -1,4 +1,4 @@
-#base "../../resource/base/scheme/!custom/tf2.res"
+// #base "../../resource/base/scheme/!custom/tf2.res"
 // Hello user sawing this. 
 // You may wonder why I am leaving a message
 // This is pretty much for leave some commentary about the edits
@@ -11,23 +11,35 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Secondary" // Chat font
+				"name"			"CustomNotoMono" // Chat font
 			}
 			"2"
 			{
-				"name"			"TF2 Secondary" // Chat font
+				"name"			"CustomNotoMono" // Chat font
 			}
 			"3"
 			{
-				"name"			"TF2 Secondary"// Chat font
+				"name"			"CustomNotoMono"// Chat font
 			}
 			"4"
 			{
-				"name"			"TF2 Secondary" // Chat font
+				"name"			"CustomNotoMono"
 			}
 			"5"
 			{
-				"name"			"TF2 Secondary" // Chat font
+				"name"			"CustomNotoMono"
+			}
+		}
+	}
+	CustomFontFiles
+	{
+		"98" 
+		{
+			"font" "resource/CustomNotoMono.otf"
+			"name" "CustomNotoMono"
+			"english" 
+			{
+				"range" "0x021 0xFFFF" 
 			}
 		}
 	}

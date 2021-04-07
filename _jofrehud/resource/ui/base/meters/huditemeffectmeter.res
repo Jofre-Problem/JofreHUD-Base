@@ -13,10 +13,9 @@
 	"ItemEffectMeterLabel"
 	{
 	}
-
 	"ItemEffectMeter"
 	{	
-		"bgcolor_override"		"0 0 0 200"
+		"bgcolor_override"		"0 0 0 220"
  		"xpos"					"-40"
 		"ypos"					"-41"
 		"wide"					"140"//"140"
@@ -32,7 +31,7 @@
 		"font"					"Default"
 		"xpos"					"0"
 		"ypos"					"0"
-		"zpos"					"100"
+		"zpos"					"10"
 		"wide"					"140"
 		"tall"					"6"			
 		"visible"				"1"

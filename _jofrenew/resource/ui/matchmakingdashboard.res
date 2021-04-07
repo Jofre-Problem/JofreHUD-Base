@@ -16,20 +16,7 @@
 		"expanded_height"	"22"
 		"resize_time"		"0.2"
 	}
-	"BackgroundFooter"				// background for the left side buttons
-	{
-		ControlName				ImagePanel
-		FieldName				"BackgroundFooter"
-		xPos					0
-		yPos					0
-		zPos					-120
-		wide					f0
-		tall					13 //p0.05 = 1mm...
-		fillColor				"W_ColorTheme1"
-		image					""
-		visible					1
-		enabled					1
-	}	
+
 	"ReloadIcon"
 	{
 		"ControlName"	"CExImageButton"
@@ -333,7 +320,7 @@
 		}
 		"PartySlot1"
 		{
-			"xpos"					"60"
+			"xpos"					"0"
 			"ypos"					"0"
 			"wide"					"13"
 			"tall"					"13"

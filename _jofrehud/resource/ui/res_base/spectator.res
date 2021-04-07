@@ -8,7 +8,8 @@
 #base "spec/maplabel.res"
 
 #base "spec/classorteamlabel.res"
-#base "spec/more.res"
+#base "spec/switchcammodelabel.res"
+#base "spec/switchcammodekeylabel.res"
 #base "spec/cycletargetfwdlabel.res"
 #base "spec/cycletargetfwdkeylabel.res"
 #base "spec/cycletargetrevkeylabel.res"

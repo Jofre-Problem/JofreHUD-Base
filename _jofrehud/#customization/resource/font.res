@@ -39,7 +39,7 @@ Scheme
 		{
 			"1"
 			{
-				"tall"			"38"
+				"tall"			"40"
 				"antialias" 	"1"
 			}
 		}
@@ -47,7 +47,7 @@ Scheme
 		{
 			"1"
 			{
-				"tall"			"38"
+				"tall"			"40"
 				"antialias" 	"1"
 			}
 		}

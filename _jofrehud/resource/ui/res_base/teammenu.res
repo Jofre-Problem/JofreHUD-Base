@@ -21,23 +21,6 @@
 #base "../base/filesv1/mapname/bright1.res"
 "Resource/UI/TeamMenu.res"
 {
-	"Background"
-	{
-		"ControlName"	"CExLabel"
-		"labelText"		""
-		"fieldName"		"Background"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"-10"		
-		"wide"			"f0"
-		"tall"			"480"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"paintbackground"	"1"
-		"bgcolor_override"	"G_TransparentMenuBG"
-	}	
 	"MapInfo"
 	{
 		"ControlName"	"HTML"

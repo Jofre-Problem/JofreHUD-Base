@@ -37,7 +37,7 @@
 		"LocalPlayerColor"	"255 255 255 255"
 
 		"BaseBackgroundColor"	"32 32 32 0"
-		"LocalBackgroundColor"	"230 230 230 135"
+		"LocalBackgroundColor"	"230 230 230 40"
 	}
 	HudDemomanCharge
 	{

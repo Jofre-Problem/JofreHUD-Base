@@ -4,6 +4,28 @@
 	{
 		"bgcolor_override"	"Blank"	
 	}
+	"TFCharacterImage"
+	{
+		"xpos"			"c-250"
+		"ypos"			"-80"
+		"zpos"			"-99"
+		"wide"			"600"
+		"tall"			"600"
+	}	
+	"BackgroundFooter"				// background for the left side buttons
+	{
+		ControlName				ImagePanel
+		FieldName				"BackgroundFooter"
+		xPos					0
+		yPos					0
+		zPos					-120
+		wide					f0
+		tall					13 //p0.05 = 1mm...
+		fillColor				"W_ColorTheme1"
+		image					""
+		visible					1
+		enabled					1
+	}		
 	"TFLogoImage"
 	{
 		"wide"			"0"

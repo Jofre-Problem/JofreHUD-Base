@@ -353,8 +353,8 @@
 					{
 						"ControlName"	"ProgressBar"
 						"fieldName"		"ProgressBar"
-						"xpos"			"13"
-						"ypos"			"3"
+						"xpos"			"cs-0.5"
+						"ypos"			"60"
 						"wide"			"60"
 						"tall"			"6"
 						"zpos"			"1"
@@ -369,8 +369,8 @@
 					{
 						"ControlName"	"ContinuousProgressBar"
 						"fieldName"		"ContinuousProgressBar"
-						"xpos"			"13"
-						"ypos"			"3"
+						"xpos"			"0"
+						"ypos"			"0"
 						"wide"			"60"
 						"tall"			"6"
 						"zpos"			"10"
@@ -379,6 +379,7 @@
 
 						"fgcolor_override"	"W_BorderArmed"
 						"bgcolor_override"	"W_BotonArmed"
+						"pin_to_sibling"	"ProgressBar"
 					}
 
 					"Frame"

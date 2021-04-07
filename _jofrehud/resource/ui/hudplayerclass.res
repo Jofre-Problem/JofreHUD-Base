@@ -9,9 +9,9 @@
 	"PlayerStatusClassImageBG"
 	{
 		"xpos"			"0"
-		"ypos"			"r10"
+		"ypos"			"r20"
 		"zpos"			"1"		
-		"wide"			"60"
+		"wide"			"90"
 		"tall"			"50"
 		"image"				"../hud/character_red_bg_clipped"	
 		"teambg_2"			"../hud/character_red_bg_clipped"
@@ -24,16 +24,16 @@
 		"xpos"			"10"
 		"ypos"			"rs1"
 		"zpos"			"2"
-		"wide"			"30"
+	//	"wide"			"30"
 		"tall"			"o1"
 	}	
 	"classmodelpanelBG"
 	{
 		"xpos"			"0"
-		"ypos"			"r10"
+		"ypos"			"rs1-10"
 		"zpos"			"-10"		
-		"wide"			"60"
-		"tall"			"50"
+	//	"wide"			"60"
+	//	"tall"			"50"
 	}		
 	"classmodelpanel"
 	{

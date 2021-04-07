@@ -3,7 +3,7 @@
 	"Spacer"
 	{	
 		"ypos"					"c135"
-		"wide"					"p0.45"
+		"wide"					"p0.15"
 		"tall"					"60"
 		"ControlName"			"EditablePanel"
 		"fieldName"				"Spacer"
