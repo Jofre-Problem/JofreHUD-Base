@@ -317,8 +317,8 @@ Scheme
 		
 		"LowHealthRed"		"244 67 54 255"
 		"ProgressOffWhite"	"240 240 240 255" 
-		"ProgressBackground"	"18 18 18 255"
-		"HealthBgGrey"		"18 18 18 255"
+	//	"ProgressBackground"	"18 18 18 255"
+				"HealthBgGrey"		"18 18 18 255"
 		
 		"ProgressOffWhiteTransparent"	"240 240 240 128"	
 		
@@ -436,6 +436,7 @@ Scheme
 		{
 			"1"
 			{
+				"font"		"CustomNotoMono"
 				"tall"		"12"
 				"weight"	"800"
 			}
@@ -469,7 +470,37 @@ Scheme
 				"tall"		"12"
 				"weight"	"800"
 			}
-		}	
+		}
+		"CustomNotoMonoSmall"
+		{
+			"1"
+			{
+				"name" "CustomNotoMono"
+				"tall" "10"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"CustomNotoMonoMedium"
+		{
+			"1"
+			{
+				"name" "CustomNotoMono"
+				"tall" "12"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"CustomNotoMonoLarge"
+		{
+			"1"
+			{
+				"name" "CustomNotoMono"
+				"tall" "14"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}		
 		"NewIcons57" 
 		{
 			"1"
@@ -3351,8 +3382,15 @@ Scheme
 
 	CustomFontFiles
 	{
-	"97"		"resource/font/blocks-blocks.ttf"	
-	"98"		"resource/font/jofreiconsmaster.otf"	// aparentemente mejor 
-//	"99"		"resource/font/futurerotfix.otf"		
+		"97"		"resource/font/jofreiconsmaster.otf"	// aparentemente mejor 
+		"98" 
+		{
+			"font" "resource/CustomNotoMono.otf"
+			"name" "CustomNotoMono"
+			"english" 
+			{
+				"range" "0x021 0xFFFF" 
+			}
+		}
 	}	
 }

@@ -1,59 +1,14 @@
-#base "hud_obj_sentrygun_base.res"
-
-"Resource/UI/hud_obj_sentrygun_disp.res"
-{
-	"BuildingStatusItem"
-	{
-		"tall"			"20"
-	}
-	
-	"Icon_Sentry_1"
-	{
-		"xpos"			"6"
-		"ypos"			"0"
-		"zpos"			"5"
-		"wide"			"15"
-		"tall"			"15"
-	}
-	
-	"NotBuiltPanel"
-	{
-		"ypos"			"0"
-	}
-	
-	"BuiltPanel"
-	{
-		"ypos"			"0"
-		
-		"Icon_Upgrade_4"
-		{
-			"ControlName"	"CIconPanel"
-			"fieldName"		"Icon_Upgrade_4"
-			"xpos"			"23"
-			"ypos"			"4"
-			"zpos"			"1"
-			"wide"			"8"
-			"tall"			"8"
-			"visible"		"1"
-			"enabled"		"1"
-			"scaleImage"	"1"	
-			"icon"			"obj_status_upgrade_1"
-			"iconColor"		"255 255 255 255"
-		}
-		
-		"BuildingPanel"
-		{
-			"ypos"			"0"
-		}
-		
-		"RunningPanel"
-		{
-			"ypos"			"0"
-			
-			"Upgrade"
-			{	
-				"visible"	"0"
-			}
-		}
-	}
-}
+#base "res_base/obj/buildingstatusitem.res"
+#base "res_base/obj/bg.res"
+#base "res_base/obj/iconsentry1.res"
+#base "res_base/obj/notbuiltpanel.res"
+#base "res_base/obj/builtpanel/main.res"
+#base "res_base/obj/builtpanel/icon_upgrade_1.res"
+#base "res_base/obj/builtpanel/health.res"
+#base "res_base/obj/builtpanel/alerttray.res"
+#base "res_base/obj/builtpanel/alerttray_2.res"
+#base "res_base/obj/builtpanel/wrenchicon.res"
+#base "res_base/obj/builtpanel/sappericon.res"
+#base "res_base/obj/buildingpanel/main.res"
+#base "res_base/obj/runningpanel/main.res"
+#base "res_base/obj/runningpanel/base_sentry.res"
