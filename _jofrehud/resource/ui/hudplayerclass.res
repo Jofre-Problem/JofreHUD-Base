@@ -8,18 +8,20 @@
 {
 	"PlayerStatusClassImageBG"
 	{
-		"xpos"			"c-225"
-		"ypos"			"r0"
+		"xpos"			"0"
+		"ypos"			"r10"
 		"zpos"			"1"		
 		"wide"			"60"
-		"tall"			"10"
-		"image"			"replay/thumbnails/panels/material_generic"	
-		"teambg_2"		"replay/thumbnails/materialpanelred"
-		"teambg_3"		"replay/thumbnails/materialpanelblu"
+		"tall"			"50"
+		"image"				"../hud/character_red_bg_clipped"	
+		"teambg_2"			"../hud/character_red_bg_clipped"
+		"teambg_2_lodef"	"../hud/character_red_bg_lodef_clipped"
+		"teambg_3"			"../hud/character_blue_bg_clipped"
+		"teambg_3_lodef"	"../hud/character_blue_bg_lodef_clipped"
 	}		
 	"PlayerStatusClassImage"
 	{
-		"xpos"			"r70"
+		"xpos"			"10"
 		"ypos"			"rs1"
 		"zpos"			"2"
 		"wide"			"30"
@@ -27,20 +29,15 @@
 	}	
 	"classmodelpanelBG"
 	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"classmodelpanelBG"
 		"xpos"			"0"
-		"ypos"			"r0"
-		"zpos"			"50"		
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"scaleImage"	"1"
+		"ypos"			"r10"
+		"zpos"			"-10"		
+		"wide"			"60"
+		"tall"			"50"
 	}		
 	"classmodelpanel"
 	{
-		"zpos"			"-100"
+		"zpos"			"0"
 		"xpos"			"0"
 		"xpos_minmode"	"0"
 		"ypos"			"r300"

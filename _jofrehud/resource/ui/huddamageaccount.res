@@ -8,7 +8,7 @@
 		"delta_item_end_y"		"0"
 		"PositiveColor"			"Green"
 		"NegativeColor"			"red"
-		"delta_lifetime"		"1.85"
+		"delta_lifetime"		"2.1"
 		"delta_item_font"		"CustomCuarto"
 		"delta_item_font_big"	"CustomSeptimo"		//for crits		
 	}
@@ -18,7 +18,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"			"DamageAccountValue"
 		"xpos"				"20"
-		"ypos"				"-26"
+		"ypos"				"30"
 		"zpos"				"2"
 		"wide"				"140"
 		"tall"				"20"
@@ -27,7 +27,7 @@
 		"labelText"			"%metal%"
 		"textAlignment"		"east"
 		"fgcolor"			"235 220 50 255"
-		"font"				"CustomQuinto"
+		"font"				"CustomSeptimo"
 		
 		"pin_to_sibling"	"Spacer"
 		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -37,8 +37,8 @@
 	{
 		"ControlName"	 	"CExLabel"
 		"fieldname"	 		"DamageAccountValueShadow"
-		"xpos"	 			"0"
-		"ypos"	 			"0"
+		"xpos"	 			"2"
+		"ypos"	 			"2"
 		"textinsety"		"1"
 		"wide"	 			"140"
 		"tall"	 			"20"
@@ -47,7 +47,7 @@
 		"labelText"	 		"%metal%"
 		"textAlignment"	 	"east"
 		"fgcolor"	 		"Black"
-		"font"	 			"CustomQuintoBlur"	
+		"font"	 			"CustomSeptimo"	
 		
 		"pin_to_sibling" 		"DamageAccountValue"
 		"pin_corner_to_sibling" "3"

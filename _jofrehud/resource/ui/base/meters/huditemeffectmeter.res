@@ -17,12 +17,28 @@
 	"ItemEffectMeter"
 	{	
 		"bgcolor_override"		"0 0 0 200"
- 		"xpos"					"0"
+ 		"xpos"					"-40"
 		"ypos"					"-41"
-		"wide"					"71"//"140"
-		"tall"					"4"//"2"
+		"wide"					"140"//"140"
+		"tall"					"6"//"2"
 		"pin_to_sibling"	"Spacer"
-		"pin_corner_to_sibling"	"PIN_CENTER_BOTTOM"
-		"pin_to_sibling_corner"	"PIN_CENTER_BOTTOM"		
-	}					
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	
+	}
+	"OutlineBorder"
+	{	
+		"ControlName"			"EditablePanel"
+		"fieldName"				"OutlineBorder"
+		"font"					"Default"
+		"xpos"					"0"
+		"ypos"					"0"
+		"zpos"					"100"
+		"wide"					"140"
+		"tall"					"6"			
+		"visible"				"1"
+		"enabled"				"1"
+		"paintborder"			"1"
+		"border"				"SteamWorkshopBorder"
+		"pin_to_sibling"		"ItemEffectMeter"
+	}				
 }

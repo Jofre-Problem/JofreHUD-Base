@@ -4,7 +4,7 @@
 	{
 		"xpos" 			"0" // TLC
 		"xpos_minmode" 	"0" // TLC
-		"ypos" 			"13" // TLC
+		"ypos" 			"21" // TLC
 		"zpos" 			"9"
 		"wide"			"p0.32"
 		"wide_minmode"	"p0.32"

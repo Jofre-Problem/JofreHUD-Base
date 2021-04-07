@@ -99,6 +99,29 @@ Actual Ass CmGunner13 :  HE JUST USES HUDS THAT MAKE WEAPONS GONE
 Marquito :  when u read jofre disconnecteed
 Marquito :  and u think he really did
 
+Marci  Owo :  no jofreyn XD
+Jofre Problem? :  :)
+*DEAD* W+M1 Heatmaker :  he finna solo you jofre
+[TBC] You gained 1 Gimgim for killing Marci  Owo.
+Marci  Owo :  JAJAJAJAJAJA
+
+*DEAD* W+M1 Heatmaker :  bruh it's just battle of the lag between charms and jofre
+
+[Dead] The Notorious K.I.P :  Jofre quick activate the Afganistan wifi!
+
+The Notorious K.I.P :  5k
+[VSH 2] Queue You gained 0 queue points because you toggled Boss Selection as off.
+[VSH 2] Queue You scored 25 points.
+Superman [Exødus] :  lag sniper
+
+*DEAD* Jofre Problem? :  cool
+(Voice) Marquito: Thanks!
+Time Machine Demon :  deal with it
+[Dead] The Notorious K.I.P :  rip Jofre 
+*DEAD* Jofre Problem? :  yes
+(Voice) Marquito: Thanks!
+[Dead] The Notorious K.I.P :  he was solo'd by a tryhard
+
 TRACKLIST:
 
 Troller Of Everything FULL MUSIC VIDEO

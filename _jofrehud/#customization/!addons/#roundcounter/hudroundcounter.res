@@ -67,108 +67,45 @@
 		"scaleimage"			"1"
 	}
 	
-	"BgColor"
+	"LeftSideBG"
 	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"BgColor"
-		"xpos"			"cs-0.5"
-		"ypos"			"0"
+		"ControlName"	"ImagePanel"
+		"fieldName"		"LeftSideBG"
+		"xpos"			"cs-5-7"
+		"ypos"			"-7"
 		"zpos"			"1"
-		"wide"			"76"
-		"tall"			"23"
+		"wide"			"60"
+		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"G_PanelBg"
-		"proportionaltoparent"	"1"
-	}
-	
-	"Borders"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"Borders"
-		"xpos"			"cs-0.5"
-		"ypos"			"0"
-		"zpos"			"10"
-		"wide"			"76"
-		"tall"			"23"
-		"visible"		"1"
-		"enabled"		"1"
-		"paintborder"	"1"
-		"border"		"SteamWorkshopBorder"
-		"proportionaltoparent"	"1"
-	}
-	
-	"Gradient"
-	{
-		"ControlName"		"CTFImagePanel"
-		"fieldName"			"Gradient"
-		"xpos"				"cs-0.5"
-		"ypos"				"0"
-		"zpos"				"9"
-		"wide"				"76"
-		"tall"				"23"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"gradient_pure_black"
-		"scaleImage"		"1"
-		"alpha"				"200"
-		"proportionaltoparent"	"1"
-	}
-	
-	"BlueBG"
-	{
-		"ControlName"	"ScalableImagePanel"
-		"fieldName"		"BlueBG"
-		"xpos"			"cs-1"
-		"ypos"			"0"
-		"zpos"			"2"
-		"wide"			"38"
-		"tall"			"8"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../hud/objectives_timepanel_blue_bg"	
+		"image"			"../hud/objectives_flagpanel_bg_left"
 		"scaleImage"	"1"	
-		"src_corner_height"		"23"
-		"src_corner_width"		"23"
-		"draw_corner_width"		"0"
-		"draw_corner_height" 	"0"
-		"proportionaltoparent"	"1"
 	}
-	
-	"RedBG"
+		
+	"RightSideBG"
 	{
-		"ControlName"	"ScalableImagePanel"
-		"fieldName"		"RedBG"
-		"xpos"			"cs"
-		"ypos"			"0"
-		"zpos"			"2"
-		"wide"			"38"
-		"tall"			"8"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../hud/objectives_timepanel_red_bg"
-		"scaleImage"	"1"	
-		"src_corner_height"		"23"
-		"src_corner_width"		"23"
-		"draw_corner_width"		"0"
-		"draw_corner_height" 	"0"
-		"proportionaltoparent"	"1"
+		"ControlName"	"ImagePanel"
+		"fieldName"		"RightSideBG"
+		"xpos"			"cs-5-7"
+		"ypos"			"-7"
+		"zpos"			"1"
+		"wide"			"60"
+		"tall"			"30"
+		"image"			"../hud/objectives_flagpanel_bg_right"
+		"scaleImage"	"1"
 	}
-	
-	"TopBG"
+	"BackgroundFooter"				// background for the left side buttons
 	{
-		"ControlName"		"CTFImagePanel"
-		"fieldName"			"TopBG"
-		"xpos"				"cs-0.5"
-		"ypos"				"0"
-		"zpos"				"9"
-		"wide"				"76"
-		"tall"				"8"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"gradient_pure_black"
-		"scaleImage"		"1"
-		"alpha"				"200"
-		"proportionaltoparent"	"1"
-	}
+		ControlName				ImagePanel
+		FieldName				"BackgroundFooter"
+		xPos					c-303
+		yPos					17
+		zPos					-120
+		wide					53
+		tall					1 //p0.05 = 1mm...
+		fillColor				"W_ColorTheme1"
+		image					""
+		visible					1
+		enabled					1
+	}	
 }

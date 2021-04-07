@@ -83,21 +83,10 @@
 			"image"		""
 		}			
 	}
-	"BackgroundFooter"				// background for the left side buttons
-	{
-		ControlName				ImagePanel
-		FieldName				"BackgroundFooter"
-		xPos					0
-		yPos					0
-		zPos					0
-		wide					f0
-		tall					13 //p0.05 = 1mm...
-		fillColor				"W_ColorTheme1"
-		image					""
-	}		
+	
 	"RankPanel"
 	{
-		zPos					4090
+		zPos					-100
 	}	
 	"RankModelPanel"			// contains rank medal model; can't click it because CycleRankTypeButton is on 
 	{
@@ -1265,7 +1254,7 @@
 		"xpos"			"30"
 		"ypos"			"rs1"
 		"zpos"			"100"
-		"wide"			"p1" // apparently at higher wide gives more smooth...???
+		"wide"			"p0.3" // apparently at higher wide gives more smooth...???
 		"tall"			"230"
 		"visible"		"1"
 		"bgcolor_override"		"Blank"
