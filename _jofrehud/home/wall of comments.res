@@ -124,6 +124,18 @@ Time Machine Demon :  deal with it
 
 Spongette Ylse :  pray for jofre
 
+Superman [Exødus] :  jofre only likes maps he can abuse his shit packet lose on
+
+Jofre Problem? :  xd
+Jofre Problem? :  stoled kill
+Chilling :  We dont care J 
+Chilling :  B)
+Jofre Problem? :  not talking to you dummy
+Chilling :  Shhh
+Chilling :  Ik u love me
+Chilling :  B)
+Jofre Problem? :  homo
+
 TRACKLIST:
 
 Troller Of Everything FULL MUSIC VIDEO

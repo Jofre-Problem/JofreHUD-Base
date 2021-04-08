@@ -13,7 +13,7 @@
 	}
 	"BGFrame"
 	{	
-		"wide"			"0"
+	//	"wide"			"0"
 	}		
 	"TeamStatus"
 	{
