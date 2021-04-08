@@ -122,6 +122,8 @@ Time Machine Demon :  deal with it
 (Voice) Marquito: Thanks!
 [Dead] The Notorious K.I.P :  he was solo'd by a tryhard
 
+Spongette Ylse :  pray for jofre
+
 TRACKLIST:
 
 Troller Of Everything FULL MUSIC VIDEO
