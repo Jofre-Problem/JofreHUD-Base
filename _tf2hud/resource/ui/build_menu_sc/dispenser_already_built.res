@@ -1,4 +1,4 @@
-#base "base_already_built.res"
+//#base "base_already_built.res"
 
 "Resource/UI/destroy_menu/dispenser_already_built.res"
 {

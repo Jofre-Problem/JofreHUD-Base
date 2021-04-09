@@ -1,9 +1,9 @@
+#base "base/filesv1/armory_panel/main2.res"
 "Resource/UI/CharInfoArmorySubPanel.res"
 {
 	"armory_panel"
 	{
 		"ControlName"	"Frame"
-		"fieldName"		"armory_panel"
 		"wide"			"f0"
 		"zpos"			"501"
 		"visible"		"1"

@@ -1,4 +1,4 @@
-#base "default.res"
+//#base "default.res"
 
 "classes/medic.res"
 {

@@ -1,4 +1,4 @@
-#base QuestLogPanel.res
+//#base QuestLogPanel.res
 
 "Resource/UI/econ/QuestLogPanel.res"
 {

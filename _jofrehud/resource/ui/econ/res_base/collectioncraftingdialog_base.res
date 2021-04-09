@@ -1,5 +1,6 @@
 #base "../../base/filesv1/dimmer/main.res"
 #base "../../base/filesv1/dimmer/content1.res"
+#base "../base/bg/main.res"
 "Resource/UI/econ/StrangeCountTransferDialog.res"
 {
 	"CollectionCraftingPanel"
@@ -182,16 +183,9 @@
 
 	"BG"
 	{
-		"fieldName"				"BG"
-		"ControlName"			"EditablePanel"
-		"visible"				"1"
-		"enabled"				"1"
-		"xpos"					"cs-0.5"
-		"ypos"					"0"
 		"zpos"					"1"
 		"wide"					"p1"
 		"tall"					"300"
-		"proportionaltoparent"	"1"
 
 		"Border"
 		{

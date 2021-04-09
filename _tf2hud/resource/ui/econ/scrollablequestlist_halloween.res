@@ -1,4 +1,4 @@
-#base ScrollableQuestList.res
+//#base ScrollableQuestList.res
 
 "Resource/UI/econ/ScrollableQuestList.res"
 {

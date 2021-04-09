@@ -1,4 +1,4 @@
-#base "HudItemEffectMeter.res"
+//#base "HudItemEffectMeter.res"
 
 "Resource/UI/HudItemEffectMeter_Pyro.res"
 {

@@ -1,4 +1,11 @@
 #base "../../../../#bases/reload_scheme.res"
+#base "base/showexplanationbtn.res"
+#base "../vjofre/itempreviewbtn_1.res"
+#base "../vjofre/storepreviewitem_1.res"
+#base "../vjofre/previewbg_1.res"
+#base "../vjofre/curpagelabel_1.res"
+#base "../vjofre/cartfeatureditemsymbol.res"
+#base "../vjofre/nextpagebtn_1.res"
 #base "../../../base/filesv1/itemrename/mouseoveritem.res"
 "Resource/UI/StorePage_New.res"
 {
@@ -167,93 +174,6 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}		
 	
-	"CurPageLabel"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"CurPageLabel"
-		"font"			"HudFontSmallBold"
-		"labelText"		"%backpackpage%"
-		"textAlignment"	"center"
-		"xpos"			"c6"
-		"ypos"			"270"
-		"zpos"			"5"
-		"wide"			"40"
-		"tall"			"20"
-		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
-	}
-	
-	"NextPageButton"
-	{
-		"ControlName"	"CExButton"
-		"fieldName"		"NextPageButton"
-		"xpos"			"c51"
-		"ypos"			"270"
-		"zpos"			"5"
-		"wide"			"20"
-		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"labelText"		">"
-		"font"			"HudFontSmallBold"
-		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"Command"		"nextpage"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
-	}	
-	
-	"ItemPreviewButton"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"ItemPreviewButton"
-		"xpos"			"c195"
-		"ypos"			"12"
-		"zpos"			"-11"
-		"wide"			"110"
-		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"border"		"StorePreviewTabSelected"
-		
-		"SubButton"
-		{
-			"ControlName"	"CExButton"
-			"fieldName"		"SubButton"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"1"
-			"wide"			"110"
-			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"labelText"		"#Store_PreviewItem"
-			"font"			"HudFontSmallestBold"
-			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
-			"Command"		"show_preview"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-			"paintbackground" "0"
-			"armedFgColor_override" "200 80 60 255"
-			"defaultFgColor_override" "235 226 202 255"
-		}
-	}	
-
 	"ItemDetailsButton"
 	{
 		"ControlName"	"EditablePanel"
@@ -297,33 +217,6 @@
 			"defaultFgColor_override" "235 226 202 255"
 		}
 	}	
-
-	"PreviewBG"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"PreviewBG"
-		"xpos"			"c80"
-		"ypos"			"30"
-		"zpos"			"-10"
-		"wide"			"225"
-		"tall"			"280"
-		"visible"		"1"
-		"enabled"		"1"
-		"PaintBackgroundType"	"2"
-		"paintborder"	"1"
-		"border"		"StorePreviewBorder"
-	}
-	
-	"storepreviewitem"
-	{
-		"ControlName"	"CStorePreviewItemPanel"
-		"fieldName"		"storepreviewitem"
-		"xpos"			"c40"
-		"ypos"			"30"
-		"zpos"			"2"
-		"wide"			"305"
-		"tall"			"295"
-	}
 
 	"PriceLabel"
 	{
@@ -540,46 +433,6 @@
 		"enabled"		"1"
 		"image"			"store_cart"
 		"scaleImage"	"1"
-	}
-	
-	"CartFeaturedItemSymbol"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"CartFeaturedItemSymbol"
-		"xpos"			"c-225"
-		"ypos"			"243"
-		"zpos"			"14"
-		"wide"			"24"
-		"tall"			"24"
-		"visible"		"0"
-		"enabled"		"1"
-		"image"			"store_special"
-		"scaleImage"	"1"
-	}
-
-	"ShowExplanationsButton"
-	{
-		"ControlName"	"CExButton"
-		"fieldName"		"ShowExplanationsButton"
-		"xpos"			"c50"
-		"ypos"			"15"
-		"zpos"			"100"
-		"wide"			"20"
-		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"labelText"		"?"
-		"font"			"HudFontSmallBold"
-		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
-		"Command"		"show_explanations"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
 	}
 
 	"StartExplanation"

@@ -1,4 +1,6 @@
 #base "../../../../../#bases/reload_scheme.res"
+#base "../v1/base/showexplanationbtn.res"
+#base "../vjofre/cartfeatureditemsymbol.res"
 "Resource/UI/StorePage.res"
 {
 	"StorePage"
@@ -744,47 +746,6 @@
 		"enabled"		"1"
 		"image"			"store_cart"
 		"scaleImage"	"1"
-	}
-	
-	"CartFeaturedItemSymbol"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"CartFeaturedItemSymbol"
-		"xpos"			"c-225"
-		"ypos"			"243"
-		"zpos"			"14"
-		"wide"			"24"
-		"tall"			"24"
-		"visible"		"0"
-		"enabled"		"1"
-		"image"			"store_special"
-		"scaleImage"	"1"
-	}
-	
-
-	"ShowExplanationsButton"
-	{
-		"ControlName"	"CExButton"
-		"fieldName"		"ShowExplanationsButton"
-		"xpos"			"c50"
-		"ypos"			"15"
-		"zpos"			"100"
-		"wide"			"20"
-		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"labelText"		"?"
-		"font"			"HudFontSmallBold"
-		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
-		"Command"		"show_explanations"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
 	}
 
 	"StartExplanation"

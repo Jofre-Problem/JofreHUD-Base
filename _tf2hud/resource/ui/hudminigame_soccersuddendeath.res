@@ -1,4 +1,4 @@
-#base "HudMiniGame_Soccer.res"
+//#base "HudMiniGame_Soccer.res"
 
 "Resource/UI/HudMiniGame_SuddenDeath.res"
 {

@@ -1,3 +1,6 @@
+#base "../../friends/base/namelabel_main_.res"
+#base "../../friends/base/namelabel_wrap.res"
+#base "../../#uni_base/filesv3/namelabel/%name.res"
 "Resource/UI/SteamFriendPanel.res"
 {	
 	"avatar"
@@ -38,19 +41,13 @@
 
 	"NameLabel"
 	{
-		"ControlName"			"Label"
-		"fieldName"				"NameLabel"
 		"xpos"					"rs1+7"
 		"ypos"					"0"
 		"zpos"					"100"
 		"wide"					"f22"
 		"tall"					"10"
 		"textAlignment"			"north-west"
-		"visible"				"1"
-		"enabled"				"1"
 		"proportionaltoparent"	"1"
-		"wrap"					"0"
-		"labelText"				"%name%"
 		"proportionaltoparent"	"1"
 		"font"					"TFFontMedium"
 		"mouseinputenabled"		"0"

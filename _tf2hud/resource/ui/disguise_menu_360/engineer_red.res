@@ -1,4 +1,4 @@
-#base "base.res"
+//#base "base.res"
 
 "Resource/UI/disguise_menu/engineer_red.res"
 {

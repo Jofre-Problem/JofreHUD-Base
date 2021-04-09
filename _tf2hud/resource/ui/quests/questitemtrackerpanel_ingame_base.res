@@ -1,4 +1,4 @@
-#base "QuestItemTrackerPanel_Base.res"
+//#base "QuestItemTrackerPanel_Base.res"
 
 "Resource/UI/HudAchievementTrackerItem.res"
 {	

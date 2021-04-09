@@ -6,3 +6,10 @@
 #base "../#uni_base/filesv1/cancel/label/cancel.res"
 #base "../#uni_base/filesv1/cancel/tall-is24.res"
 #base "../#uni_base/filesv1/cancel/wide-is64.res"
+
+#base "../friends/base/namelabel_main.res"
+#base "../friends/base/namelabel_main2.res"
+#base "../friends/base/namelabel_autoresize0.res"
+#base "../friends/base/namelabel_pincorner.res"
+#base "../friends/base/namelabel_tall24_.res"
+#base "../friends/base/namelabel_wrap.res"

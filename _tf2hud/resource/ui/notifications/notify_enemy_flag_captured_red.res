@@ -1,4 +1,4 @@
-#base "base_notification.res"
+//#base "base_notification.res"
 
 "Resource/UI/notifications/notify_enemy_flag_captured_red.res"
 {	

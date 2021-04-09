@@ -1,4 +1,4 @@
-#base "base_notification.res"
+//#base "base_notification.res"
 
 "Resource/UI/notifications/notify_passtime_no_disguise.res"
 {	

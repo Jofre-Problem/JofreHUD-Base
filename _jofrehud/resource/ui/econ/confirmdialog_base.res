@@ -1,7 +1,7 @@
 #base "../../../#uni_base/filesv2/confirmdialog/main.res"
-#base "../../#uni_base/filesv2/confirmdialog/x_pos/cen_-162.res"
-#base "../../#uni_base/filesv2/confirmdialog/y_pos/_140.res"
-#base "../../#uni_base/filesv2/confirmdialog/tall_/_200.res"
+#base "../../../#uni_base/filesv2/confirmdialog/x_pos/cen_-162.res"
+#base "../../../#uni_base/filesv2/confirmdialog/y_pos/_140.res"
+#base "../../../#uni_base/filesv2/confirmdialog/tall_/_200.res"
 
 "Resource/UI/ConfirmDialog.res"
 {

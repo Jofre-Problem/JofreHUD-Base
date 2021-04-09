@@ -4,7 +4,6 @@
 	"armory_panel"
 	{
 		ControlName				Frame
-		fieldName				"armory_panel"
 		ypos					60
 		wide					f0
 		tall					411
