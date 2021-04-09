@@ -1,14 +1,11 @@
+#base "../base/questnotifipanel/main.res"
 "Resource/UI/QuestNotificationPanel_base.res"
 {
 	"QuestNotificationPanel"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldName"		"QuestNotificationPanel"
-		"xpos"			"0"
 		"ypos"			"100"
 		"zpos"			"2"
-		"wide"			"f0"
-		"tall"			"f0"
 		"visible"		"0"
 		"proportionaltoparent"	"1"
 

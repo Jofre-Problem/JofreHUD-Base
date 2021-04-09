@@ -241,41 +241,6 @@
 		"red_active_xpos_minmode"	"52"
 	}
 	
-	"HudUpgradePanel"
-	{
-		"fieldName"		"HudUpgradePanel"
-		"visible"		"0"
-		"enable"		"1"
-		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"f0"
-		"tall"			"f0"		
-	}
-	
-	HudControlPointIcons
-	{
-		"xpos"					"0"
-		"ypos"					"410"
-		"wide"					"f0"
-		"tall"					"200"
-		"visible"				"1"
-		"enabled"				"1"
-		"separator_width"		"3"	// distance between the icons (including their backgrounds)
-		"separator_height"		"3"
-		"height_offset"			"0"	[$WIN32] // distance from the bottom of the panel
-	}
-	
-	"ItemAttributeTracker"
-	{
-		"fieldName" 	"ItemAttributeTracker"
-		"visible" 		"1"
-		"enabled" 		"1"
-		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"f0"
-		"tall"			"f0"
-		"PaintBackgroundType"	"0"
-	}
 
 	PVEWinPanel
 	{

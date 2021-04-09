@@ -1,16 +1,8 @@
+#base "base/filesv1/itemattributetracker/main.res"
 "Resource/UI/HudAchievementTrackerItem.res"
 {	
 	"ItemAttributeTracker"
 	{
-		"fieldName" 	"ItemAttributeTracker"
-		"visible" 		"1"
-		"enabled" 		"1"
-		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"f0"
-		"tall"			"f0"
-		"PaintBackgroundType"	"0"
-
 		"stats_buffer_width"	"30"
 	}
 

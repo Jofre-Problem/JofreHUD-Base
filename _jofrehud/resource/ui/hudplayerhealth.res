@@ -43,7 +43,11 @@
 		"pin_to_sibling"	"PlayerStatusHealthValue"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		"pin_to_sibling_corner" "PIN_TOPLEFT"		
-	}	
+	}
+	"PlayerStatusHealthBonusImage"
+	{
+
+	}		
 	"PlayerStatusHealthImageBG"
 	{
 		"xpos"			"2"
@@ -56,8 +60,18 @@
 	}			
 	PlayerStatusMaxHealthValue
 	{
-		wide			0
-		tall			0
+		"xpos"			"0"
+		"ypos"			"7"
+		"zpos"			"6"
+		"wide"			"44"
+		"tall"			"7"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%MaxHealth%"
+		"textAlignment"	"center"	
+		"font"			"DefaultSmall"
+		"fgcolor"		"TanDark"
+		"pin_to_sibling"	"PlayerStatusHealthImageBG"
 	}	
 	PlayerStatusHealthValueShadow
 	{
@@ -671,32 +685,5 @@
 		"pin_corner_to_sibling" "PIN_CENTER_RIGHT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_CENTER_LEFT" // Corner of Element you are pinning to
 	}
-	
-	
-	
-	
-	
-	// Unused Panels
 
-
-	"PlayerStatusHealthBonusImage"
-	{
-		"xpos"			"r-100"	[$WIN32]
-		"xpos_minmode"	"r-100"	[$WIN32]
-		"xpos"			"r-100"	[$X360]
-		
-		"ypos"			"33"	[$WIN32]
-		"ypos_minmode"	"40"	[$WIN32]
-		"ypos"			"43"	[$X360]
-		
-		"zpos"			"2"
-		
-		"wide"			"55"	[$WIN32]
-		"wide_minmode"	"40"	[$WIN32]
-		"wide"			"35"	[$X360]
-		
-		"tall"			"55"	[$WIN32]
-		"tall_minmode"	"40"	[$WIN32]
-		"tall"			"35"	[$X360]
-	}
 }

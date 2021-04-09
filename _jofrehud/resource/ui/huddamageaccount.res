@@ -1,4 +1,5 @@
 #base "../#beta/spacer.res"
+#base "base/filesv1/cdamage/main.res"
 "Resource/UI/HudDamageAccount.res"
 {
 	"CDamageAccountPanel"

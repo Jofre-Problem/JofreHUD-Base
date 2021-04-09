@@ -33,23 +33,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"image"			"replay/thumbnails/null"
-	}	
-		"ChatLabel"
-		{
-			"ControlName"			"CExLabel"
-			"fieldName"				"ChatLabel"
-			"font"					"ItemTrackerScore_InGame"
-			"labelText"				"Say hi!"
-			"xpos"					"140"
-			"ypos"					"0"
-			"zpos"					"0"
-			"textInsetY"			"2"
-			"textAlignment"			"west"
-
-			"wide"					"30"
-			"tall"					"11"
-			"fgcolor_override" 		"W_ColorIcons1"			
-		}	
+	}
 	"Background"
 	{
 		"ControlName"	"ScalableImagePanel"

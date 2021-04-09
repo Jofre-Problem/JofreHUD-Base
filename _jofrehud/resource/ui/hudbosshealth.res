@@ -1,67 +1,26 @@
-#base "base/filesv1/gradient/main2.res"
 "Resource/UI/HudBossHealth.res"
 {
 	"BorderImage"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BorderImage"	
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"5"
-		"wide"			"200"
-		"tall"			"50"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"tabPosition"	"0"
-		"image"			"../hud/halloween_bar_surround"
-		"scaleImage"	"1"					
-	}
-	
-	"Background"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"Background"	
-		"xpos"			"15"
-		"ypos"			"16"
-		"zpos"			"1"
-		"wide"			"168"
-		"tall"			"10"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"paintbackground"	"1"
-		"bgcolor_override"	"0 0 0 180"	
-	}
-	
-	"Gradient"
-	{
 		"xpos"				"15"
 		"ypos"				"16"
 		"zpos"				"49"
 		"wide"				"168"
 		"tall"				"10"
 		"alpha"				"200"
-	}
-	
-	"Border"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"Border"
-		"xpos"			"15"
-		"ypos"			"16"
-		"zpos"			"50"
-		"wide"			"168"
-		"tall"			"10"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"paintborder"	"1"
-		"border"		"SteamWorkshopBorder"		
+		"tabPosition"	"0"
+		"image"		"gradient_pure_black"
+		"scaleImage"	"1"	
+		"border"		"SteamWorkshopBorder"	
+		"bgcolor_override"	"0 0 0 250"					
 	}
+
 	
 	"HealthBarPanel"
 	{
@@ -74,8 +33,7 @@
 		"tall"			"10"
 		"visible"			"1"
 		"enabled"			"1"
-		"Alpha"	"255"
-		
+		"bgcolor_override"	"0 0 0 100"			
 		"BarImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -92,7 +50,7 @@
 			"tabPosition"	"0"
 			"image"			"../hud/halloween_bar"
 			"scaleImage"	"1"		
-			"drawcolor"		"200 0 200 255"
+			"drawcolor"		"200 0 200 255"			
 		}
 	}				
 

@@ -4,19 +4,20 @@ Resource/UI/HudAmmoWeapons.res
 {
 	"HudWeaponAmmoBG"
 	{
-		"xpos"			"r0+10"
-		"ypos"			"r0+10"
-		"zpos"			"1"		
-		"wide"			"60"
-		"tall"			"20"
-		"image"			"replay/thumbnails/panels/material_generic"	
-		"teambg_2"		"replay/thumbnails/materialpanelred"
-		"teambg_3"		"replay/thumbnails/materialpanelblu"	
+		"xpos"			"rs1+20"
+		"ypos"			"rs1+20"
+	//	"zpos"			"1"		
+	//	"wide"			"60"
+	//"tall"			"20"
 	}
 	"HudWeaponLowAmmoImage"
 	{
-		"xpos"			"r-10"
-		"xpos_minmode"	"r-10"			
+	//	"xpos"			"r-10"
+	//	"xpos_minmode"	"r-10"
+		"ypos"			"-5"
+		"pin_to_sibling"	"HudWeaponAmmoBG"
+		"alpha"			"90"
+
 	}
 	AmmoNoClip
 	{
@@ -82,7 +83,7 @@ Resource/UI/HudAmmoWeapons.res
 		wide			40
 		tall			30
 		"bgcolor_override"	"Blank"		
-		textAlignment	west	
+		textAlignment	west
 		font			CustomSeptimo
 		"pin_to_sibling"	"Spacer"
 		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -96,7 +97,7 @@ Resource/UI/HudAmmoWeapons.res
 		zpos			4
 		wide			40
 		tall			30
-		textAlignment	west	
+		textAlignment	west
 		font			"CustomSeptimo"
 		pin_to_sibling			"AmmoInReserve"
 	}			
