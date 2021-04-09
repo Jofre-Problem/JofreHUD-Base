@@ -1,4 +1,4 @@
-"Resource/NewOperationDialog.res"
+"Resource\NewOperationDialog.res"
 {
 	"NewOperation"
 	{

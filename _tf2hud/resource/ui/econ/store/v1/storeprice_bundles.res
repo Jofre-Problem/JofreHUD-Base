@@ -1,4 +1,4 @@
-//#base "StorePrice.res"
+#Base "StorePrice.res"
 
 "Resource/UI/StorePrice_New.res"
 {

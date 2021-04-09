@@ -1,4 +1,4 @@
-"Resource/SaveGamePanel.res"
+"Resource\SaveGamePanel.res"
 {
 	"SaveGamePanel"
 	{

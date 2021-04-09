@@ -1,4 +1,4 @@
-"Server/ServerConfigPanel_Valve.res"
+"Server\ServerConfigPanel_Valve.res"
 {
 
 	"mp_timelimitlabel"

@@ -1,4 +1,4 @@
-"Resource/askconnectpanel.res"
+"Resource\askconnectpanel.res"
 {
 	"AskConnectPanel"
 	{

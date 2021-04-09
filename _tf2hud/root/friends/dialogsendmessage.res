@@ -1,4 +1,4 @@
-"Resource/DialogSendMessage.res"
+"Resource\DialogSendMessage.res"
 {
 	"CancelButton"
 	{

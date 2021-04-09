@@ -1,4 +1,4 @@
-"Admin/PasswordPanel.res"
+"Admin\PasswordPanel.res"
 {
 	"oldrcontextentry"
 	{

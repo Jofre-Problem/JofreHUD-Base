@@ -1,4 +1,4 @@
-//#base "../QuestItemPanel_Base.res"
+#base "..\QuestItemPanel_Base.res"
 
 "Resource/UI/econ/QuestItemPanel.res"
 {
@@ -44,7 +44,7 @@
 		{
 			"0"
 			{
-				"front"	"contracts/halloween/contracts_folder1_front"
+				"front"	"contracts\halloween\contracts_folder1_front"
 				"back"	""
 			}
 		}
@@ -75,7 +75,7 @@
 				"enabled"		"1"
 				"scaleImage"	"1"
 				"alpha"			"0"
-				"image"			"contracts/halloween/contracts_hilight"
+				"image"			"contracts\halloween\contracts_hilight"
 				"proportionaltoparent"	"1"
 
 				"mouseinputenabled"	"0"
@@ -96,7 +96,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"scaleImage"	"1"
-					"image"			"contracts/halloween/contracts_papers1"
+					"image"			"contracts\halloween\contracts_papers1"
 					"proportionaltoparent"	"1"
 
 					"mouseinputenabled"	"0"
@@ -115,7 +115,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"scaleImage"	"1"
-					"image"			"contracts/halloween/contracts_papers_encoded"
+					"image"			"contracts\halloween\contracts_papers_encoded"
 					"proportionaltoparent"	"1"
 
 					"mouseinputenabled"	"0"
@@ -419,7 +419,7 @@
 
 				"FrontFolderImage"
 				{
-					"image"			"contracts/halloween/contracts_folder1_front"
+					"image"			"contracts\halloween\contracts_folder1_front"
 				}
 
 				"SleeveImage"
@@ -434,7 +434,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"scaleImage"	"1"
-					"image"			"contracts/halloween/contracts_scroll_sleeve"
+					"image"			"contracts\halloween\contracts_scroll_sleeve"
 					"proportionaltoparent"	"1"
 
 					"mouseinputenabled"	"0"

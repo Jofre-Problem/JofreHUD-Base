@@ -75,7 +75,7 @@
 		"Command"		"refresh"
 		"Default"		"0"
 	}
-	"AddCurrentServerButton"
+	"AddServerButton"
 	{
 		"ControlName"		"Button"
 		"fieldName"		"AddServerButton"

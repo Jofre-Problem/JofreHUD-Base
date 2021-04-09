@@ -1,4 +1,4 @@
-"resource/BaseActionZoomDialog.res"
+"resource\BaseActionZoomDialog.res"
 {
 	"Zoom FOV"
 	{

@@ -1,4 +1,4 @@
-"Admin/DialogAddServer.res"
+"Admin\DialogAddServer.res"
 {
 	"DialogAddServer"
 	{

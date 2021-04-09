@@ -1,4 +1,4 @@
-"Resource/OptionsSubMouse.res"
+"Resource\OptionsSubMouse.res"
 {
 	"ReverseMouse"
 	{

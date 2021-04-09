@@ -1,4 +1,4 @@
-"resource/BaseActionPlaybackRateDialog.res"
+"resource\BaseActionPlaybackRateDialog.res"
 {
 	"ChangePlaybackRate"
 	{

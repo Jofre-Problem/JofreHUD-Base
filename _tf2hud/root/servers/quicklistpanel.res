@@ -130,7 +130,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"image"			"../vgui/icon_con_high"
+		"image"			"..\vgui\icon_con_high"
 		"scaleImage"		"1"
 	}
 	"latencytext"
@@ -208,7 +208,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"image"			"servers/icon_replay"
+		"image"			"servers\icon_replay"
 		"scaleImage"		"1"
 	}
 }

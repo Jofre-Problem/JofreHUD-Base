@@ -137,12 +137,6 @@ Chilling :  B)
 Jofre Problem? :  homo
 
 Yonkerbonk :  christ, Jofre,
-(Voice) Chilling: Thanks!
-chazburger :  gg lol
-m :  nice
-[VSH 2] Queue You gained 0 queue points because you toggled Boss Selection as off.
-[VSH 2] Queue You scored 13 points.
-The Notorious K.I.P :  marquito roll instant win
 Yonkerbonk :  just straight gaming
 Jofre Problem? :  yeah?
 

@@ -1,4 +1,4 @@
-"resource/BaseActionSkipAheadDialog.res"
+"resource\BaseActionSkipAheadDialog.res"
 {
 	"SkipAhead"
 	{

@@ -1,4 +1,4 @@
-"resource/BaseActionCDTrackStartDialog.res"
+"resource\BaseActionCDTrackStartDialog.res"
 {
 	"PlayCDTrackStart"
 	{

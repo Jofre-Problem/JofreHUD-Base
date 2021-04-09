@@ -529,7 +529,7 @@
 						"keyboardinputenabled"	"0"
 
 						"alpha"			"255"
-						"image"			"../models/passtime/tv/passtime_tv_screen_static"
+						"image"			"..\models\passtime\tv\passtime_tv_screen_static"
 						"tileImage"	"1"
 					}
 
@@ -1499,7 +1499,7 @@
 						"keyboardinputenabled"	"0"
 
 						"alpha"			"255"
-						"image"			"../models/passtime/tv/passtime_tv_screen_static"
+						"image"			"..\models\passtime\tv\passtime_tv_screen_static"
 						"tileImage"	"1"
 					}
 				}
@@ -1520,7 +1520,7 @@
 					"keyboardinputenabled"	"0"
 
 					"alpha"		"50"
-					"image"			"../overlays/black_gradient"
+					"image"			"..\overlays\black_gradient"
 					"scaleimage"	"1"
 					"rotation"	"3"
 				}
@@ -1578,7 +1578,7 @@
 					"keyboardinputenabled"	"0"
 
 					"alpha"			"20"
-					"image"			"../models/passtime/tv/passtime_tv_screen_static"
+					"image"			"..\models\passtime\tv\passtime_tv_screen_static"
 					"tileImage"	"1"
 				}
 

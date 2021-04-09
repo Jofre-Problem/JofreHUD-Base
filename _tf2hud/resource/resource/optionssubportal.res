@@ -1,4 +1,4 @@
-"Resource/OptionsSubPortal.res"
+"Resource\OptionsSubPortal.res"
 {
 	"PortalFunnel"
 	{

@@ -1,4 +1,4 @@
-"Admin/ServerConfigPanel.res"
+"Admin\ServerConfigPanel.res"
 {
 	"ServerConfigPanel"
 	{

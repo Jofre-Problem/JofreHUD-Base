@@ -1,4 +1,4 @@
-"resource/BaseActionPauseDialog.res"
+"resource\BaseActionPauseDialog.res"
 {
 	"Pause"
 	{

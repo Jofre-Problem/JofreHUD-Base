@@ -1,4 +1,4 @@
-"resource/BaseActionPlayCommandsDialog.res"
+"resource\BaseActionPlayCommandsDialog.res"
 {
 	"PlayCommands"
 	{

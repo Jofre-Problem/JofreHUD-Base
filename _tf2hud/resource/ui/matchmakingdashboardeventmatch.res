@@ -1,4 +1,4 @@
-//#base "matchmakingdashboardsidepanel.res"
+#base "MatchMakingDashboardSidePanel.res"
 
 "Resource/UI/MatchMakingDashboardEventMatch.res"
 {
@@ -69,7 +69,7 @@
 	
 	"RankPanel"
 	{
-		"ControlName"	"Cpvprankpanel"
+		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankPanel"
 		"xpos"			"-85"
 		"ypos"			"25"

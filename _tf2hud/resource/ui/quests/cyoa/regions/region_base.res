@@ -56,7 +56,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"scaleImage"	"1"
-			"image"			"cyoa/cyoa_map_lvl2_bg_a"
+			"image"			"cyoa\cyoa_map_lvl2_bg_a"
 			"proportionaltoparent"	"1"
 
 			"mouseinputenabled"	"0"

@@ -1,4 +1,4 @@
-"resource/BaseActionScreenFadeStartDialog.res"
+"resource\BaseActionScreenFadeStartDialog.res"
 {
 	"ScreenFadeStart"
 	{

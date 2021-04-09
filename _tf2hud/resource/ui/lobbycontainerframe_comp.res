@@ -1,4 +1,4 @@
-//#base "LobbyContainerFrame.res"
+#base "LobbyContainerFrame.res"
 
 "Resource/UI/LobbyContainerFrame_Comp.res"
 {
@@ -10,7 +10,7 @@
 
 	"RankPanel"
 	{
-		"ControlName"	"Cpvprankpanel"
+		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankPanel"
 		"xpos"			"cs-0.5"
 		"ypos"			"-147"

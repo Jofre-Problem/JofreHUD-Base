@@ -1,4 +1,4 @@
-"Admin/DialogGamePanelInfo.res"
+"Admin\DialogGamePanelInfo.res"
 {
 	"Counter-Strike dedicated server"
 	{

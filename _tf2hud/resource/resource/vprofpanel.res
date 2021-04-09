@@ -1,4 +1,4 @@
-"Resource/VProfPanel.res"
+"Resource\VProfPanel.res"
 {
 	"VProfPanel"
 	{

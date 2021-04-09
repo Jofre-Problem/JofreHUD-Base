@@ -1,4 +1,4 @@
-"Admin/RulesPanel.res"
+"Admin\RulesPanel.res"
 {
 	"Rules list"
 	{

@@ -1,4 +1,4 @@
-"Resource/SaveGameDialog.res"
+"Resource\SaveGameDialog.res"
 {
 	"SaveGameDialog"
 	{

@@ -1,4 +1,4 @@
-"Resource/TxViewPanel.res"
+"Resource\TxViewPanel.res"
 {
 	"TxViewPanel"
 	{

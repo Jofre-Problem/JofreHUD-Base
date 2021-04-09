@@ -122,7 +122,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"scaleImage"	"1"
-					"image"			"contracts/contracts_papers1"
+					"image"			"contracts\contracts_papers1"
 					"proportionaltoparent"	"1"
 
 					"mouseinputenabled"	"0"
@@ -206,7 +206,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"scaleImage"	"1"
-					"image"			"contracts/contracts_staples1"
+					"image"			"contracts\contracts_staples1"
 					"proportionaltoparent"	"1"
 
 					"mouseinputenabled"	"0"
@@ -931,7 +931,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"scaleImage"	"1"
-					"image"			"contracts/contracts_folder1_back"
+					"image"			"contracts\contracts_folder1_back"
 					"proportionaltoparent"	"1"
 
 					"mouseinputenabled"	"0"
@@ -968,7 +968,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"scaleImage"	"1"
-					"image"			"contracts/contracts_folder1_front"
+					"image"			"contracts\contracts_folder1_front"
 					"proportionaltoparent"	"1"
 				
 					"mouseinputenabled"	"0"

@@ -1,4 +1,4 @@
-"Resource/BxClipPlayer.res"
+"Resource\BxClipPlayer.res"
 {
 	"Clip Player"
 	{

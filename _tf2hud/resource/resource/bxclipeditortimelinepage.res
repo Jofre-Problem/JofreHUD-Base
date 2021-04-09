@@ -1,4 +1,4 @@
-"resource/BxClipEditorTimelinePage.res"
+"resource\BxClipEditorTimelinePage.res"
 {
 	"Timeline"
 	{

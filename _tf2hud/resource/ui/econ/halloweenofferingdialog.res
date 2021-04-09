@@ -1,4 +1,4 @@
-//#base "CollectionCraftingDialog_Base.res"
+#base "CollectionCraftingDialog_Base.res"
 
 "Resource/UI/econ/HalloweenOfferingDialog.res"
 {
@@ -33,7 +33,7 @@
 
 		"stampimages"
 		{
-			"image"	"contracts/halloween/accepted"
+			"image"	"contracts\halloween\accepted"
 		}
 
 		"resultstring"

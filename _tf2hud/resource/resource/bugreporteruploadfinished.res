@@ -1,4 +1,4 @@
-"Resource/BugReporterUploadFinished.res"
+"Resource\BugReporterUploadFinished.res"
 {
 	"FinishDialog"
 	{

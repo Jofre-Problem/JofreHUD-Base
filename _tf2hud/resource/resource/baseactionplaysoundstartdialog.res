@@ -1,4 +1,4 @@
-"resource/BaseActionPlaySoundStartDialog.res"
+"resource\BaseActionPlaySoundStartDialog.res"
 {
 	"PlaySoundStart"
 	{

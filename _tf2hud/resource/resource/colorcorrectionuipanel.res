@@ -1,4 +1,4 @@
-"Resource/ColorCorrectionUIPanel.res"
+"Resource\ColorCorrectionUIPanel.res"
 {
 	"ColorCorrectionUIPanel"
 	{

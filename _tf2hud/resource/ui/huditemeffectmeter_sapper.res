@@ -1,15 +1,15 @@
-"Resource/UI/huditemeffectmeter_SodaPopper.res"
+"Resource/UI/HudItemEffectMeter_SodaPopper.res"
 {
-	huditemeffectmeter
+	HudItemEffectMeter
 	{
-		"fieldName"		"huditemeffectmeter"
+		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
 //		"x_offset"		"40"
 		"xpos"			"r258"	[$WIN32]
 		"ypos"			"r57"	[$WIN32]
-		"xpos_minbad"	"r52"	[$WIN32]
-		"ypos_minbad"	"r83"	[$WIN32]
+		"xpos_minmode"	"r52"	[$WIN32]
+		"ypos_minmode"	"r83"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r124"	[$X360]
 		"wide"			"100"
@@ -28,7 +28,7 @@
 		"wide"			"100"
 		"tall"			"50"
 		"visible"		"1"
-		"visible_minbad"	"0"
+		"visible_minmode"	"0"
 		"enabled"		"1"
 		"image"			"../hud/misc_ammo_area_horiz3_blue"
 		"scaleImage"	"1"	
@@ -50,10 +50,10 @@
 		"autoResize"			"1"
 		"pinCorner"				"2"
 		"visible"				"1"
-		"visible_minbad"		"1"
-		"ypos_minbad"			"1"
-		"xpos_minbad"			"0"
-		"textAlignment_minbad"			"west"
+		"visible_minmode"		"1"
+		"ypos_minmode"			"1"
+		"xpos_minmode"			"0"
+		"textAlignment_minmode"			"west"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"#TF_ENERGYDRINK"
@@ -70,11 +70,11 @@
 		"font"					"Default"
 		"xpos"					"47"
 		"ypos"					"23"
-		"ypos_minbad"			"0"
-		"xpos_minbad"			"0"
+		"ypos_minmode"			"0"
+		"xpos_minmode"			"0"
 		"zpos"					"2"
 		"wide"					"30"
-		"wide_minbad"			"50"
+		"wide_minmode"			"50"
 		"tall"					"5"				
 		"autoResize"			"0"
 		"pinCorner"				"0"

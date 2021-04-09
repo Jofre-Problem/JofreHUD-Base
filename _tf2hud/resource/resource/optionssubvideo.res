@@ -1,4 +1,4 @@
-"Resource/OptionsSubVideo.res"
+"Resource\OptionsSubVideo.res"
 {
 	"GammaButton"
 	{

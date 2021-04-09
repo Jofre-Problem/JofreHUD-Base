@@ -1,4 +1,4 @@
-"Admin/MOTDPanel.res"
+"Admin\MOTDPanel.res"
 {
 	"ServerMOTDText"
 	{

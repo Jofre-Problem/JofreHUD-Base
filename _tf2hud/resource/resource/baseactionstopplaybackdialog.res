@@ -1,4 +1,4 @@
-"resource/BaseActionStopPlaybackDialog.res"
+"resource\BaseActionStopPlaybackDialog.res"
 {
 	"StopPlayback"
 	{

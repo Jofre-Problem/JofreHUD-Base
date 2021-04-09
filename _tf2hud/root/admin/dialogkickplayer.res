@@ -1,4 +1,4 @@
-"Admin/DialogKickPlayer.res"
+"Admin\DialogKickPlayer.res"
 {
 	"DialogKickPlayer"
 	{

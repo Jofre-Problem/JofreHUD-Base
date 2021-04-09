@@ -1,4 +1,4 @@
-"Admin/RawLogPanel.res"
+"Admin\RawLogPanel.res"
 {
 	"ServerLog"
 	{

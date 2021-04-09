@@ -1,4 +1,4 @@
-"Resource/DialogFindBuddy.res"
+"Resource\DialogFindBuddy.res"
 {
 	"Frame"
 	{

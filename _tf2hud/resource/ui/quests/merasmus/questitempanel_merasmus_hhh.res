@@ -1,4 +1,4 @@
-//#base "QuestItemPanel_Merasmus_Base.res"
+#base "QuestItemPanel_Merasmus_Base.res"
 
 "Resource/UI/econ/QuestItemPanel_Pauling_Borneo.res"
 {
@@ -15,7 +15,7 @@
 
 				"PaperImage"
 				{
-					"image"			"contracts/halloween/contracts_papers1"
+					"image"			"contracts\halloween\contracts_papers1"
 				}
 			}
 		}

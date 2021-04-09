@@ -1,4 +1,4 @@
-"Resource/OptionsSubAudio.res"
+"Resource\OptionsSubAudio.res"
 {
 	"SFXSlider"
 	{

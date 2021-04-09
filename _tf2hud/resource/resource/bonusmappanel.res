@@ -1,4 +1,4 @@
-"Resource/BonusMapPanel.res"
+"Resource\BonusMapPanel.res"
 {
 	"BonusMapPanel"
 	{

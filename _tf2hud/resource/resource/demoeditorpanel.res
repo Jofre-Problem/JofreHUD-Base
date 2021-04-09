@@ -1,4 +1,4 @@
-"Resource/DemoEditorPanel.res"
+"Resource\DemoEditorPanel.res"
 {
 	"DemoEditorPanel"
 	{

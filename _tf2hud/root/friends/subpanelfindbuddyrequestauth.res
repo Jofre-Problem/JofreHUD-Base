@@ -1,4 +1,4 @@
-"Resource/SubPanelFindBuddyReque"
+"Resource\SubPanelFindBuddyReque"
 {
 	"EditBox"
 	{

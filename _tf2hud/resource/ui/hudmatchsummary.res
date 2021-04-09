@@ -66,7 +66,7 @@
 
 	"RankPanel"
 	{
-		"ControlName"	"CMinipvprankpanel"
+		"ControlName"	"CMiniPvPRankPanel"
 		"fieldName"		"RankPanel"
 		"xpos"			"cs-0.5"
 		"ypos"			"r0"
@@ -91,7 +91,7 @@
 
 	"RankModelPanel"
 	{
-		"ControlName"	"Cpvprankpanel"
+		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankModelPanel"
 		"xpos"			"cs-0.5"
 		"ypos"			"r1"

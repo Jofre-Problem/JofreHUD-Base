@@ -1,4 +1,4 @@
-"Resource/FogUIPanel.res"
+"Resource\FogUIPanel.res"
 {
 	"FogUIPanel"
 	{

@@ -1,9 +1,9 @@
-"resource/keyboardeditorpage.res"
+"resource/KeyBoardEditorPage.res"
 {
-	"keyboardeditorpage"
+	"KeyBoardEditorPage"
 	{
-		"ControlName"		"Ckeyboardeditorpage"
-		"fieldName"		"keyboardeditorpage"
+		"ControlName"		"CKeyBoardEditorPage"
+		"fieldName"		"KeyBoardEditorPage"
 		"xpos"		"0"
 		"ypos"		"14"
 		"wide"		"630"

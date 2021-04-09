@@ -1,4 +1,4 @@
-"Resource/SteamPasswordDialog.res"
+"Resource\SteamPasswordDialog.res"
 {
 	"SteamPasswordDialog"
 	{

@@ -1,4 +1,4 @@
-"resource/BaseActionTextMessageStartDialog.res"
+"resource\BaseActionTextMessageStartDialog.res"
 {
 	"TextMessageStart"
 	{

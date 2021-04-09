@@ -1,4 +1,4 @@
-"Resource/OptionsSubVoice.res"
+"Resource\OptionsSubVoice.res"
 {
 	"MicMeter"
 	{

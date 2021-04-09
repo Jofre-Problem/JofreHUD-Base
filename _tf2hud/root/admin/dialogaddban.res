@@ -1,4 +1,4 @@
-"Admin/DialogAddBan.res"
+"Admin\DialogAddBan.res"
 {
 	"DialogAddBan"
 	{

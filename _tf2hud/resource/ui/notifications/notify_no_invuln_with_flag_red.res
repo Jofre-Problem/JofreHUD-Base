@@ -1,4 +1,4 @@
-//#base "base_notification.res"
+#base "base_notification.res"
 
 "Resource/UI/notifications/notify_no_invuln_with_flag_red.res"
 {	

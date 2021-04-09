@@ -1,4 +1,4 @@
-"resource/BxClipBrowserPage.res"
+"resource\BxClipBrowserPage.res"
 {
 	"#BxToolClipBrowser"
 	{
