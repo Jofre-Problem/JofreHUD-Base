@@ -2,4 +2,8 @@
 
 ## TF2 Interface focused on a fully optimization of the game.
 
-A Windows OS Hud Theme
+An experimental OS Hud THemed
+Still on develepment.
+
+FOR LINUX USERS:
+There isnt a .sh for the autoupdate of files, so I recommend using winesonsole for execute it pretty normally.
