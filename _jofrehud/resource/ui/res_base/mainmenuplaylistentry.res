@@ -1,3 +1,9 @@
+#base "../base/filesv1/desclabel/main.res"
+#base "../base/filesv1/desclabel/content1.res"
+#base "../base/filesv1/desclabel/ext/vis1.res"
+#base "../base/filesv1/desclabel/ext/enabled1.res"
+#base "../base/filesv1/desclabel/ext/auto1.res"
+#base "../base/filesv1/desclabel/ext/pin0.res"
 "Resource/UI/mainmenuplaylistentry.res"
 {
 	"ModeImage"
@@ -157,24 +163,12 @@
 
 	"DescLabel"
 	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"DescLabel"
-		"font"			"MMenuPlayListDesc"
 		"labelText"		"%desc_token%"
 		"textAlignment"	"north-west"
 		"xpos"			"rs1"
 		"ypos"			"18"
-		"zpos"			"2"
 		"wide"			"125"
-		"tall"			"40"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "TanLight"
-		"proportionaltoparent" "1"
-		"mouseinputenabled"	"0"
 	}
 
 	"DescLabelShadow"

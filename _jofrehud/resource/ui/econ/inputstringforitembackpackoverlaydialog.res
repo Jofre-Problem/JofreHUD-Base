@@ -1,4 +1,10 @@
 #base "../base/filesv1/itemrename/mouseoveritem.res"
+#base "../base/filesv1/desclabel/main.res"
+#base "../base/filesv1/desclabel/ext/vis1.res"
+#base "../base/filesv1/desclabel/ext/enabled1.res"
+#base "../base/filesv1/desclabel/ext/auto1.res"
+#base "../base/filesv1/desclabel/ext/pin0.res"
+#base "../base/filesv1/desclabel/ext/center.res"
 "Resource/UI/econ/InputStringForItemBackpackOverlayDialog.res"
 {
 	"InputStringForItemBackpackOverlayDialog"
@@ -142,24 +148,7 @@
 		"proportionalToParent"	"1"
 	}
 
-	"DescLabel"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"DescLabel"
-		"font"			"HudFontSmallestBold"
-		"labelText"		"#ShuffleContents_Desc"
-		"textAlignment"	"center"
-		"xpos"			"10"
-		"ypos"			"r120"
-		"zpos"			"0"
-		"wide"			"f10"
-		"tall"			"60"
-		"autoResize"	"1"
-		"visible"		"1"
-		"enabled"		"1"
-		"centerwrap"	"1"
-		"proportionalToParent"	"1"
-	}
+
 
 	"ShuffleProgress"
 	{

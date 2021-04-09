@@ -1,5 +1,15 @@
+#base "../../base/filesv1/desclabel/main.res"
+#base "../../base/filesv1/desclabel/ext/vis1.res"
+#base "../../base/filesv1/desclabel/ext/enabled1.res"
+#base "../../base/filesv1/desclabel/ext/auto1.res"
+#base "../../base/filesv1/desclabel/ext/wide330.res"
+#base "../../base/filesv1/desclabel/ext/tall20.res"
+#base "../../base/filesv1/desclabel/ext/hudfontsmallest.res"
+#base "../../base/filesv1/desclabel/ext/pin0.res"
+#base "../../base/filesv1/desclabel/ext/center.res"
 "Resource/training/offlinepractice/practicemodeselection.res"
 {
+
 	"GameModeImagePanel"
 	{
 		"ControlName"	"ImagePanel"
@@ -120,25 +130,7 @@
 		"fgcolor_override"	"83 75 66 255"
 	}
 	
-	"DescLabel"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"DescLabel"
-		"font"			"HudFontSmallest"
-		"labelText"		"%description%"
-		"textAlignment"	"center"
-		"xpos"			"60"
-		"ypos"			"230"
-		"wide"			"330"
-		"tall"			"20"
-		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"wrap"			"0"
-		"fgcolor_override"	"83 75 66 255"
-	}
-	
+
 	"SelectCurrentGameModeButton"
 	{
 		"ControlName"		"CExButton"
