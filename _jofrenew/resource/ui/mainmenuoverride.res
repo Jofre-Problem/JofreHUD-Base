@@ -83,7 +83,217 @@
 			"image"		""
 		}			
 	}
-	
+	"CommentaryButton"
+	{
+		"wide"				"20"
+		"tall"				"20"
+		"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+		labelText				"¿"
+			font					"NewIcons20"
+			textAlignment			center
+			"paintbackground"		"0"
+			"defaultFgColor_override"					"W_ColorIcons1"
+			"armedFgColor_override" 					"W_BorderArmed"
+			"depressedFgColor_override" 				"W_ColorIcons1"			
+		"SubImage"
+		{
+			"wide"			"0"
+		}			
+	}
+	"AchievementsButton"
+	{
+		"wide"				"20"
+		"tall"				"20"
+		"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+		labelText				""
+			"paintbackground"		"0"		
+	}
+	"CoachPlayersButton"
+	{
+		"xpos"		"0"
+		"ypos"		"0"
+		"wide"				"20"
+		"tall"				"20"
+		"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			labelText				")"
+			font					"NewIcons20"
+			textAlignment			center
+			"paintbackground"		"0"
+			"pin_to_sibling"						"CommentaryButton"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
+				"defaultFgColor_override"					"W_ColorIcons1"
+			"armedFgColor_override" 					"W_BorderArmed"
+			"depressedFgColor_override" 				"W_ColorIcons1"			
+		"SubImage"
+		{
+			"wide"			"0"
+		}		
+	}
+	"ReplayButton"
+	{
+			"xpos"		"0"
+		"ypos"		"0"
+		"wide"				"20"
+		"tall"				"20"
+		"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			labelText				"`"
+			font					"NewIcons20"
+			textAlignment			center
+			"paintbackground"		"0"
+			"pin_to_sibling"						"CoachPlayersButton"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+			"defaultFgColor_override"					"W_ColorIcons1"
+			"armedFgColor_override" 					"W_BorderArmed"
+			"depressedFgColor_override" 				"W_ColorIcons1"				
+		"SubImage"
+		{
+			"wide"			"0"
+		}				
+	}				
+	"ReportBugButton"
+	{
+			"xpos"		"0"
+		"ypos"		"0"		
+		"wide"				"20"
+		"tall"				"20"
+		"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			labelText				"í"
+			font					"NewIcons20"
+			textAlignment			center
+			"paintbackground"		"0"
+			"pin_to_sibling"						"ReplayButton"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"	
+			"defaultFgColor_override"					"W_ColorIcons1"
+			"armedFgColor_override" 					"W_BorderArmed"
+			"depressedFgColor_override" 				"W_ColorIcons1"						
+		"SubImage"
+		{
+			"wide"			"0"
+		}				
+	}
+		"WatchStreamButton"
+		{
+			"xpos"										"0"
+			"ypos"										"0"
+			"zpos"										"20"
+			"wide"										"20"
+			"tall"										"20"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+		
+			"pin_to_sibling"						"ReportBugButton"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		"SubButton"
+		{
+			labelText				"\"
+			font					"NewIcons20"
+			textAlignment			center
+			"paintbackground"							"0"
+			"pinCorner"		"0"
+			"textinsetx"	"0"
+			"defaultFgColor_override"					"W_ColorIcons1"
+			"armedFgColor_override" 					"W_BorderArmed"
+			"depressedFgColor_override" 				"W_ColorIcons1"			
+			"SubImage"
+			{
+				"wide"			"0"
+			}		
+		}					
+		}
+		"OpenVR"
+		{
+			"ControlName"	"CExButton"
+			"fieldName"		"OpenVR"
+			"xpos"										"5"
+			"ypos"										"0"
+			"zpos"										"20"
+			"wide"										"22"
+			"tall"										"20"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			labelText				"i"
+			font					"NewIcons20"
+			textAlignment			center
+		
+			command				"engine vr_toggle"
+		
+			"sound_depressed"							"UI/buttonclick.wav"
+			"sound_released"							"UI/buttonclickrelease.wav"
+			
+			"paintbackground"							"0"
+		
+			"pin_to_sibling"						"WatchStreamButton"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+			
+			"defaultFgColor_override"					"W_ColorIcons1"
+			"armedFgColor_override" 					"W_BorderArmed"
+			"depressedFgColor_override" 				"W_ColorIcons1"
+		
+		}			
+		"OpenCursor"
+		{
+			"ControlName"	"CExButton"
+			"fieldName"		"OpenCursor"
+			"xpos"										"5"
+			"ypos"										"0"
+			"zpos"										"20"
+			"wide"										"22"
+			"tall"										"20"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			labelText				"$"
+			font					"NewIcons20"
+			textAlignment			center
+		
+			command				"engine toggle cl_software_cursor"
+		
+			"sound_depressed"							"UI/buttonclick.wav"
+			"sound_released"							"UI/buttonclickrelease.wav"
+			
+			"paintbackground"							"0"
+		
+			"pin_to_sibling"						"OpenVR"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+			
+			"defaultFgColor_override"					"W_ColorIcons1"
+			"armedFgColor_override" 					"W_BorderArmed"
+			"depressedFgColor_override" 				"W_ColorIcons1"			
+		}						
 	"RankPanel"
 	{
 		zPos					-100
@@ -92,10 +302,10 @@
 	{
 		ControlName				Cpvprankpanel
 		FieldName				"RankModelPanel"
-		xPos					5
-		yPos					rs1-10
+		xPos					10
+		yPos					rs1-5
 		zPos					1090
-		wide					40				// needs top be bigger to not cut off spark particles
+		wide					50				// needs top be bigger to not cut off spark particles
 		tall					o1
 
 		matchgroup				MatchGroup_Casual_12v12		// MatchGroup_Ladder_6v6 ?
@@ -128,7 +338,7 @@
 		ControlName				CExButton
 		FieldName				"WorkshopButton"
 		xPos					0
-		yPos					rs1-30
+		yPos					rs1-60
 		zPos					1050
 		wide					30
 		tall					25
@@ -226,116 +436,21 @@
 			}
 		}
 	}
-	"Achievements"		// open achievements window
-	{
-		ControlName				CExButton
-		FieldName				"Achievements"
-		xPos					0
-		yPos					0
-		zPos					1002
-		wide					27
-		tall					o1
-		
-		labelText				""
-		font					"Blank"
-		textAlignment			center
-		
-		command				"OpenAchievementsDialog"
 
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
-		
-		border_armed		"LoadoutItemPopupBorder"
-	
-		paintBackground			0
-
-		pin_to_sibling			"TF2Settings"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
-		"navUp"			""
-		"navLeft"		""
-		"navRight"		""
-		"border_default"	"NoBorder"
-		
-		"image_drawcolor"	"Blank"		
-		"SubImage"
-		{
-			"wide"			"0"
-			"tall"			"0"
-			"visible"		"0"
-			"enabled"		"0"
-		}		
-	}
 		"TF2SettingsButton"
 		{
 			"wide"			"0"
 			"tall"			"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}			
-		"AchievementsButton"
-		{
-			"wide"			"0"
-			"tall"			"0"
-			"visible"		"0"
-			"enabled"		"0"
-		}		
+		}
 		"SettingsButton"
 		{
 			"wide"			"0"
 			"tall"			"0"
 			"visible"		"0"
 			"enabled"		"0"
-		}	
-	
-	"Achi1"
-	{
-		ControlName				CExLabel
-		FieldName				"Achi1"
-		xPos					0
-		yPos					0
-		zPos					1050
-		wide					27
-		tall					o1
-		mouseinputenabled 		0
-		labelText				"Ú"
-		font					"NewIcons25"
-		textAlignment			center
-
-		enabled					1
-		visible					1
-		
-		paintBackground			0
-		fgcolor_override		"232 87 84 255"	
-
-		pin_to_sibling			"TF2Settings"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
-	}
-	"Achi2"
-	{
-		ControlName				CExLabel
-		FieldName				"Achi2"
-		xPos					0
-		yPos					0
-		zPos					1050
-		wide					27
-		tall					o1
-		mouseinputenabled 		0
-		labelText				"Û"
-		font					"NewIcons25"
-		textAlignment			center
-
-		enabled					1
-		visible					1
-		fgcolor_override		"219 149 55 255"
-		paintBackground			0
-			
-
-		pin_to_sibling			"TF2Settings"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
-	}		
+		}
 
 	"TF2Settings"		// open advanced options
 	{
@@ -388,7 +503,7 @@
 		tall					o1
 	mouseinputenabled 		0
 		labelText				"ô"
-		font					"NewIcons20"
+		font					"NewIcons18"
 		textAlignment			center
 
 		enabled					1
@@ -411,7 +526,7 @@
 		tall					o1
 	mouseinputenabled 		0
 		labelText				"õ"
-		font					"NewIcons20"
+		font					"NewIcons18"
 		textAlignment			center
 
 		enabled					1
@@ -434,7 +549,7 @@
 		tall					o1
 	mouseinputenabled 		0
 		labelText				"ö"
-		font					"NewIcons20"
+		font					"NewIcons18"
 		textAlignment			center
 
 		enabled					1
@@ -487,7 +602,7 @@
 		tall					o1
 
 		labelText				"ÿ"
-		font					"NewIcons20"
+		font					"NewIcons18"
 		textAlignment			center
 		mouseinputenabled 		0
 		enabled					1
@@ -510,7 +625,7 @@
 		tall					o1
 	mouseinputenabled 		0
 		labelText				"þ"
-		font					"NewIcons20"
+		font					"NewIcons18"
 		textAlignment			center
 
 		enabled					1
@@ -559,7 +674,7 @@
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"ü"
-		font					"NewIcons25"
+		font					"NewIcons22"
 		textAlignment			center
 		paintBackground			0
 		fgcolor_override		"196 171 55 255"
@@ -576,7 +691,7 @@
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"û"
-		font					"NewIcons25"
+		font					"NewIcons22"
 		textAlignment			center
 		paintBackground			0
 		fgcolor_override		"201 122 35 255"
@@ -605,7 +720,7 @@
 	
 		paintBackground			0
 
-		pin_to_sibling			"Achievements"
+		pin_to_sibling			"TF2Settings"
 		pin_corner_to_sibling		PIN_TOPLEFT
 		pin_to_sibling_corner		PIN_BOTTOMLEFT
 	}
@@ -621,7 +736,7 @@
 	mouseinputenabled 		0
 
 		labelText				"q"
-		font					"NewIcons20"
+		font					"NewIcons18"
 		textAlignment			center
 
 		enabled					1
@@ -646,7 +761,7 @@
 	mouseinputenabled 		0
 
 		labelText				"r"
-		font					"NewIcons20"
+		font					"NewIcons18"
 		textAlignment			center
 
 		enabled					1
@@ -697,7 +812,7 @@
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"Ò"
-		font					"NewIcons20"
+		font					"NewIcons18"
 		textAlignment			center
 
 		enabled					1
@@ -720,7 +835,7 @@
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"Õ"
-		font					"NewIcons20"
+		font					"NewIcons18"
 		textAlignment			center
 
 		enabled					1
@@ -767,7 +882,7 @@
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"s"
-		font					"NewIcons20"
+		font					"NewIcons18"
 		textAlignment			center
 
 		enabled					1
@@ -790,7 +905,7 @@
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"t"
-		font					"NewIcons20"
+		font					"NewIcons18"
 		textAlignment			center
 
 		enabled					1
@@ -838,7 +953,7 @@
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"Ö"
-		font					"NewIcons20"
+		font					"NewIcons18"
 		textAlignment			center
 
 		enabled					1
@@ -861,7 +976,7 @@
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"×"
-		font					"NewIcons20"
+		font					"NewIcons18"
 		textAlignment			center
 
 		enabled					1
@@ -884,7 +999,7 @@
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"u"
-		font					"NewIcons20"
+		font					"NewIcons18"
 		textAlignment			center
 
 		enabled					1
@@ -907,7 +1022,7 @@
 		tall					o1
 		mouseinputenabled 		0
 		labelText				"v"
-		font					"NewIcons20"
+		font					"NewIcons18"
 		textAlignment			center
 
 		enabled					1
@@ -940,56 +1055,6 @@
 	{
 		ControlName				EditablePanel
 		FieldName				"Notifications_Panel"
-		
-		"Notifications_CloseButton"
-		{
-			ControlName				CExButton
-			FieldName				"Notifications_CloseButton"
-			xPos					rs1
-			yPos					3
-			zPos					10
-			wide					16
-			tall					10
-			proportionalToParent		1
-
-			font					"Default"
-			labeltext				"x"
-			textAlignment			center
-			actionsignallevel			2
-
-			Command				"noti_hide"
-
-			sound_depressed			"UI/buttonclick.wav"
-			sound_released			"UI/buttonclickrelease.wav"
-		
-			defaultFgColor_override		"W_ColorIcons1"
-			defaultBgColor_override		"W_ColorTheme1"
-			armedBgColor_override		"W_CerrarArmed"
-			armedFgColor_override		"W_ColorTheme1"
-
-			paintBackground			1
-		}		
-	
-		"Notifications_TitleLabel"
-		{
-			ControlName				CExLabel
-			FieldName				"Notifications_TitleLabel"
-			xPos					8
-			yPos					3
-			"zpos"					"100"
-			wide					f30
-			tall					10
-			proportionalToParent		1
-
-			font					"Default"
-			labelText				"%notititle%"
-			textAlignment			west
-			wrap					0
-			textInsetY				2
-			fgcolor_override		"W_ColorIcons1"
-			
-			paintBackground			0
-		}
 
 		"Notifications_Scroller"
 		{
@@ -1021,47 +1086,6 @@
 				wide					2
 				proportionalToParent		1
 			}
-		}
-	}
-
-
-	"mouseoveritempanel"		// TODO
-	{
-		ControlName				CItemModelPanel
-		FieldName				"mouseoveritempanel"
-		xPos					c-70
-		yPos					270
-		zPos					100000
-		wide					300
-		tall					300
-		visible				0
-		bgcolor_override			"0 0 0 0"
-		noitem_textcolor			"White"
-		paintBackgroundType		2
-		paintBorder				1
-		border				"NotificationHighPriority"
-		
-		text_yPos				20
-		text_center				1
-		model_hide				1
-		resize_to_text			1
-		padding_height			15
-		
-		"attriblabel"
-		{
-			font					"ItemFontAttribLarge"
-			xPos					0
-			yPos					30
-			zPos					2
-			wide					140
-			tall					60
-			autoResize				0
-			visible				1
-			enabled				1
-			labelText				"%attriblist%"
-			textAlignment			center
-			fgcolor				"White"
-			centerwrap				1
 		}
 	}
 
@@ -1140,8 +1164,8 @@
 			"xpos"			"0"
 			"ypos"			"13"
 			"zpos"			"3"
-			"wide"			"30"
-			"tall"			"230"
+			"wide"			"27"
+			"tall"			"210"
 			"visible"		"1"
 			"enabled"		"1"
 			"fillcolor"		"W_ColorTheme1"
@@ -1154,8 +1178,8 @@
 		"font"			"NewIcons40"
 		"labelText"		"/"
 		"textAlignment"	"west"
-		"xpos"			"0-p0.001"
-		"ypos"			"3"
+		"xpos"			"0+p0.0015"
+		"ypos"			"0"
 		"wide"			"50"
 		"tall"			"30"
 		"zpos"			"3"
@@ -1194,34 +1218,7 @@
 		"zpoo"			"-5"		
 	//	"wide"			"0"
 	}	
-	"CommentaryButton"
-	{
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-	}	
-	"CoachPlayersButton"
-	{
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-	}	
-	"ReplayButton"
-	{
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-	}		
-	"ReportBugButton"
-	{
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-	}
+
 	"QuestLogButton"
 	{
 		"wide"			"0"
@@ -1230,20 +1227,6 @@
 		"enabled"		"0"
 	}
 
-	"BackToReplaysButton"
-	{
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-	}	
-	"RequestCoachButton"
-	{
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-	}		
 	"EventPromo"
 	{
 		visible 			0

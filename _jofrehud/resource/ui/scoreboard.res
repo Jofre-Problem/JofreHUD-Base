@@ -495,32 +495,32 @@
 
 	"ClassImage"
 	{
-		"xpos"			"25"
+		"xpos"			"10"
 		"ypos"			"rs1"
 		"zpos"			"2"
-		"wide"			"0"
-		"tall"			"0"
+		"wide"			"75"
+		"tall"			"o1"
 	}
 	"classmodelpanel"
 	{
-		"ControlName"	"CTFPlayerModelPanel"
-		"fieldName"		"classmodelpanel"
-		
-		"xpos"			"rs1+30"
-		"ypos"			"rs1-50"
-		"zpos"			"0"		
-		"wide"			"200"
-		"tall"			"200"
+		"zpos"			"0"
+		"xpos"			"0"
+		"xpos_minmode"	"0"
+		"ypos"			"r300"
+		"ypos_minmode"	"r300"
+		"zpos"			"2"		
+		"wide"			"340"
+		"wide_minmode"	"340"
+		"tall"			"300"
+		"tall_minmode"	"300"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"paintbackground"	"1"
+		"bgcolor_override"	"200 0 0 0"
 		
 		"render_texture"	"0"
-		"fov"			"12"
+		"fov"			"52"
 		"allow_rot"		"1"
-
-		"disable_speak_event"	"1"
 				
 		"model"
 		{
@@ -529,67 +529,17 @@
 			"angles_x" "0"
 			"angles_y" "172"
 			"angles_z" "0"
-			"origin_x" "380"	//distancia del modelo
-			"origin_y" "0"
-			"origin_z" "-70"
+			"origin_x" "200"
+			"origin_y" "40"
+			"origin_z" "-60"
 			"frame_origin_x"	"0"
 			"frame_origin_y"	"0"
 			"frame_origin_z"	"0"
-			"spotlight" "0"
+			"spotlight" "1"
+			"fov"		"100"
 		
 			"modelname"		""
-			
-			"animation"
-			{
-				"name"		"PRIMARY"
-				"activity"	"ACT_MP_STAND_PRIMARY"
-				"default"	"1"
-			}
-			"animation"
-			{
-				"name"		"SECONDARY"
-				"activity"	"ACT_MP_STAND_SECONDARY"
-			}
-			"animation"
-			{
-				"name"		"MELEE"
-				"activity"	"ACT_MP_STAND_MELEE"
-			}
-			"animation"
-			{
-				"name"		"BUILDING"
-				"activity"	"ACT_MP_STAND_BUILDING"
-			}
-			"animation"
-			{
-				"name"		"PDA"
-				"activity"	"ACT_MP_STAND_PDA"
-			}
-			"animation"
-			{
-				"name"		"ITEM1"
-				"activity"	"ACT_MP_STAND_ITEM1"
-			}						
-			"animation"
-			{
-				"name"		"ITEM2"
-				"activity"	"ACT_MP_STAND_ITEM2"
-			}									
-			"animation"
-			{
-				"name"		"MELEE_ALLCLASS"
-				"activity"	"ACT_MP_STAND_MELEE_ALLCLASS"
-			}
-			"animation"
-			{
-				"name"		"PRIMARY2"
-				"activity"	"ACT_MP_STAND_PRIMARY"
-			}
-			"animation"
-			{
-				"name"		"SECONDARY2"
-				"activity"	"ACT_MP_STAND_SECONDARY2"
-			}
+
 		}
 
 		"customclassdata"
@@ -607,92 +557,92 @@
 			"Scout"
 			{
 				"fov"		"11"
-			"angles_x" "0"
-			"angles_y" "172"
-			"angles_z" "0"
-			"origin_x" "380"	//distancia del modelo
-			"origin_y" "0"
-			"origin_z" "-70"
+				"angles_x"	"-5"
+				"angles_y"	"200"
+				"angles_z"	"0"
+				"origin_x"	"825"
+				"origin_y"	"60"
+				"origin_z"	"-98"
 			}
 			"Sniper"
 			{
 				"fov"		"12"
-			"angles_x" "0"
-			"angles_y" "172"
-			"angles_z" "0"
-			"origin_x" "380"	//distancia del modelo
-			"origin_y" "0"
-			"origin_z" "-70"
+				"angles_x"	"0"
+				"angles_y"	"200"
+				"angles_z"	"0"
+				"origin_x"	"805"
+				"origin_y"	"58"
+				"origin_z"	"-108"
 			}
 			"Soldier"
 			{
 				"fov"		"13"
-			"angles_x" "0"
-			"angles_y" "172"
-			"angles_z" "0"
-			"origin_x" "380"	//distancia del modelo
-			"origin_y" "0"
-			"origin_z" "-70"
+				"angles_x"	"0"
+				"angles_y"	"190"
+				"angles_z"	"0"
+				"origin_x"	"805"
+				"origin_y"	"63"
+				"origin_z"	"-108"
 			}
 			"Demoman"
 			{
 				"fov"		"13"
-			"angles_x" "0"
-			"angles_y" "172"
-			"angles_z" "0"
-			"origin_x" "380"	//distancia del modelo
-			"origin_y" "0"
-			"origin_z" "-70"
+				"angles_x"	"-3"
+				"angles_y"	"200"
+				"angles_z"	"0"
+				"origin_x"	"805"
+				"origin_y"	"63"
+				"origin_z"	"-108"
 			}
 			"Medic"
 			{
 				"fov"		"13"
-			"angles_x" "0"
-			"angles_y" "172"
-			"angles_z" "0"
-			"origin_x" "380"	//distancia del modelo
-			"origin_y" "0"
-			"origin_z" "-70"
+				"angles_x"	"0"
+				"angles_y"	"200"
+				"angles_z"	"0"
+				"origin_x"	"805"
+				"origin_y"	"63"
+				"origin_z"	"-108"
 			}
 			"Heavy"
 			{
 				"fov"		"13"
-			"angles_x" "0"
-			"angles_y" "172"
-			"angles_z" "0"
-			"origin_x" "380"	//distancia del modelo
-			"origin_y" "0"
-			"origin_z" "-70"
+				"angles_x"	"0"
+				"angles_y"	"200"
+				"angles_z"	"0"
+				"origin_x"	"805"
+				"origin_y"	"63"
+				"origin_z"	"-108"
 			}
 			"Pyro"
 			{
 				"fov"		"13"
-			"angles_x" "0"
-			"angles_y" "172"
-			"angles_z" "0"
-			"origin_x" "380"	//distancia del modelo
-			"origin_y" "0"
-			"origin_z" "-70"
+				"angles_x"	"0"
+				"angles_y"	"210"
+				"angles_z"	"0"
+				"origin_x"	"805"
+				"origin_y"	"67"
+				"origin_z"	"-108"
 			}
 			"Spy"
 			{
 				"fov"		"12"
-			"angles_x" "0"
-			"angles_y" "172"
-			"angles_z" "0"
-			"origin_x" "380"	//distancia del modelo
-			"origin_y" "0"
-			"origin_z" "-70"
+				"angles_x"	"-3"
+				"angles_y"	"200"
+				"angles_z"	"0"
+				"origin_x"	"805"
+				"origin_y"	"60"
+				"origin_z"	"-108"
 			}
 			"Engineer"
 			{
 				"fov"		"12"
-			"angles_x" "0"
-			"angles_y" "172"
-			"angles_z" "0"
-			"origin_x" "380"	//distancia del modelo
-			"origin_y" "0"
-			"origin_z" "-70"
+				"angles_x"	"0"
+				"angles_y"	"200"
+				"angles_z"	"0"
+				"origin_x"	"805"
+				"origin_y"	"60"
+				"origin_z"	"-100"
 			}
 		}
 	}
@@ -731,7 +681,7 @@
 		"wide"			"f0"
 		"tall"			"p0.0018"
 		"fillcolor"		"WhiteSolid"
-		"zpos"			"3"
+		"zpos"			"-20"
 		"visible"		"1"
 		"PaintBackgroundType"	"1"
 	}

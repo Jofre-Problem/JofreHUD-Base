@@ -6,8 +6,8 @@
 	{
 		"ControlName""CDashboardPartyMember"
 		"fieldName""PartySlot0"
-		"xpos""55"
-		"ypos""rs1-7"
+		"xpos""75"
+		"ypos""rs1-8"
 		"zpos""50"
 		"wide""42"
 		"tall""o1"
@@ -70,7 +70,7 @@
 			xpos					cs-0.5
 			ypos					cs-0.5
 			zpos					0
-			wide					40	//pin 1 same wide as JofreBar on mainmenu
+			wide					50	//pin 1 same wide as JofreBar on mainmenu
 			tall					o1
 			proportionaltoparent		1
 
@@ -215,7 +215,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"NameLabel"
-			"xpos"			"110"
+			"xpos"			"130"
 			"ypos"			"rs1-35"
 			"wide"			"f0"
 			"tall"			"15"
@@ -353,10 +353,10 @@
 					{
 						"ControlName"	"ProgressBar"
 						"fieldName"		"ProgressBar"
-						"xpos"			"110"
-						"ypos"			"rs1-5"
+						"xpos"			"130"
+						"ypos"			"rs1-9"
 						"wide"			"150"
-						"tall"			"6"
+						"tall"			"4"
 						"zpos"			"1"
 						"proportionaltoparent"	"1"
 						"progress"		"1"
@@ -372,7 +372,7 @@
 						"xpos"			"0"
 						"ypos"			"0"
 						"wide"			"150"
-						"tall"			"6"
+						"tall"			"4"
 						"zpos"			"10"
 						"proportionaltoparent"	"1"
 						"progress"		"0"

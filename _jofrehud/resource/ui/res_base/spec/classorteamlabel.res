@@ -5,8 +5,8 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"ClassOrTeamLabel"
 		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"170"
+		"ypos"			"15"
+		"wide"			"137"
 		"tall"			"21"
 		"zpos"			"2"
 		"autoResize"		"0"
@@ -14,8 +14,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#TF_Spectator_ChangeTeam"
-		"textAlignment"		"center"
-		"font"				"CustomPrimero"
-		"fgcolor_override"		"WhiteSolid"
+		"textAlignment"		"east"
+		"font"				"SpectatorKeyHints"
 	}
 }	
