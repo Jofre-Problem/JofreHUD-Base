@@ -6,7 +6,7 @@
 		"fieldName"		"MOTD_Panel"
 		"xpos"			"rs1-1"
 		"ypos"			"14"
-		"zpos"			"200"
+		"zpos"			"300"
 		"wide"			"p0.3"
 		"tall"			"p0.485"
 		"visible"		"1"

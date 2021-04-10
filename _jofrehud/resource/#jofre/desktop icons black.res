@@ -11,10 +11,10 @@
 	{
 		ControlName				CExButton
 		FieldName				"BrowseServers"
-		xPos					0
-		yPos					cs-0.5+28
-		zPos					1050
-		wide					30
+		"xpos"				"c-310"
+		yPos					90
+		zPos					10
+		wide					22
 		tall					o1
 
 
@@ -42,8 +42,8 @@
 		FieldName				"CharacterSetupButton"
 		xPos					0
 		yPos					0
-		zPos					1050
-		wide					30
+		zPos					10
+		wide					22
 		tall					o1
 
 		
@@ -67,8 +67,8 @@
 		paintBackground			0
 		"navRight"		"Settings"
 		pin_to_sibling		"BrowseServers"	
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 	}
 	
 	"Settings"		// open options window
@@ -77,8 +77,8 @@
 		FieldName				"Settings"
 		xPos					0
 		yPos					0
-		zPos					1050
-		wide					30
+		zPos					10
+		wide					22
 		tall					o1
 
 
@@ -101,8 +101,8 @@
 		"textinsetx"	"0"				
 		"navRight"		"ToggleConsole"
 		pin_to_sibling		"CharacterSetupButton"	
-			pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT		
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
 	}
 
 	"ToggleConsole"		// toggle console
@@ -111,8 +111,8 @@
 		FieldName				"ToggleConsole"
 		xPos					0
 		yPos					0
-		zPos					1050
-		wide					30
+		zPos					10
+		wide					22
 		tall					o1
 
 		
@@ -132,8 +132,8 @@
 		"navRight"		"NewUserForumsButton"
 
 		pin_to_sibling		"Settings"	
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT		
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
 	}
 
 	"NewUserForumsButton"
@@ -143,7 +143,7 @@
 		xPos					0
 		yPos					0
 		zPos					1052
-		wide					30
+		wide					22
 		tall					o1
 
 
@@ -166,9 +166,9 @@
 		"alpha"				"0"	
 		"image_drawcolor"	"Blank"
 	
-		pin_to_sibling		"ToggleConsole"	
+		pin_to_sibling		"ChromeURL"
 		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT		
+		pin_to_sibling_corner		PIN_BOTTOMLEFT	
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -191,7 +191,7 @@
 		xPos					0
 		yPos					0
 		zPos					1051
-		wide					30
+		wide					27
 		tall					o1
 
 		"visible"		"1"

@@ -2,7 +2,7 @@
 {
 	"TFCharacterImage"
 	{
-	//	"wide"			"0"
+		"wide"			"0"
 	//	"tall"			"0"
 	}	
 }

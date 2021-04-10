@@ -1,4 +1,4 @@
-	#base "../../../#customization/resource/ui/summersale_border.res"
+//	#base "../../../#customization/resource/ui/summersale_border.res"
 
 "Resource/UI/pvprankpanel.res"
 {
@@ -6,8 +6,8 @@
 	{
 		"ControlName""CDashboardPartyMember"
 		"fieldName""PartySlot0"
-		"xpos""55"
-		"ypos""rs1-7"
+		"xpos""cs-0.5"
+		"ypos""40"
 		"zpos""50"
 		"wide""42"
 		"tall""o1"
@@ -70,8 +70,8 @@
 			xpos					cs-0.5
 			ypos					cs-0.5
 			zpos					0
-			wide					40	//pin 1 same wide as JofreBar on mainmenu
-			tall					o1
+			wide					30	//pin 1 same wide as JofreBar on mainmenu
+			tall					30
 			proportionaltoparent		1
 
 			paintbackground			0
@@ -215,15 +215,15 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"NameLabel"
-			"xpos"			"110"
-			"ypos"			"rs1-35"
+			"xpos"			"cs-0.5"
+			"ypos"			"100"
 			"wide"			"f0"
 			"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"
 			"font"			"CustomTercero"
 			"fgcolor_override"	"WhiteSolid"
-			"textAlignment"	"west"
+			"textAlignment"	"center"
 			"labelText"		"%name%"
 			"proportionaltoparent"	"1"
 			"alpha"			"200"
@@ -245,7 +245,7 @@
 			"enabled"		"1"
 			"font"			"CustomPrimero"
 			"fgcolor_override"	"W_ColorIcons1"
-			"textAlignment"	"west"
+			"textAlignment"	"center"
 			"labelText"		"%desc1%"
 			"proportionaltoparent"	"1"
 			"alpha"			"200"		
@@ -266,7 +266,7 @@
 			"enabled"		"1"
 			"font"			"CustomPrimero"
 			"fgcolor_override"	"W_ColorIcons1"
-			"textAlignment"	"west"
+			"textAlignment"	"center"
 			"labelText"		"%desc2%"
 			"proportionaltoparent"	"1"
 			"pin_to_sibling"		"DescLine1"
@@ -353,9 +353,9 @@
 					{
 						"ControlName"	"ProgressBar"
 						"fieldName"		"ProgressBar"
-						"xpos"			"110"
-						"ypos"			"rs1-5"
-						"wide"			"150"
+						"xpos"			"cs-0.5"
+						"ypos"			"60"
+						"wide"			"60"
 						"tall"			"6"
 						"zpos"			"1"
 						"proportionaltoparent"	"1"
@@ -371,7 +371,7 @@
 						"fieldName"		"ContinuousProgressBar"
 						"xpos"			"0"
 						"ypos"			"0"
-						"wide"			"150"
+						"wide"			"60"
 						"tall"			"6"
 						"zpos"			"10"
 						"proportionaltoparent"	"1"

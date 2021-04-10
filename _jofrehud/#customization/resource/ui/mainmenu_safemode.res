@@ -4,34 +4,14 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"SafeMode"
-		"xpos"			"rs1-1"
-		"ypos"			"rs1-1"
-		"zpos"			"100"
-		"wide"			"p0.3"
-		"tall"			"p0.485"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"200"
+		"wide"			"f0"
+		"tall"			"420"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"				"Blank"	//"W_ColorTheme2"
-
-		"Windows_Notification"
-		{
-			"ControlName"	"EditablePanel"
-			"fieldName"		"Windows_Notification"
-			"xpos"		"0"
-			"ypos"		"0"
-			"zpos"		"-1000"
-			"wide"			"p0.3"
-			"tall"			"p0.485"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
-			"PaintBackgroundType"	"2"
-			"paintbackground"		"1"
-			"bgcolor_override"				"W_ColorTheme2"	//"W_ColorTheme2"
-			"alpha"				"220"
-		}				
+		"bgcolor_override"				"Blank"	//"W_ColorTheme2"			
 
 		"Background"		//Only not removed cuz save settings button
 		{
@@ -145,13 +125,20 @@
 		}
 		"InfoImage"
 		{
-			"xpos"					"r0"
-			"zpos"					"0"
-			"wide"					"0"
-			"tall"					"0"
-			"visible"				"0"
-			"enabled"				"0"
-		}	
+			"ControlName"			"ImagePanel"
+			"fieldName"				"InfoImage"
+			"xpos"					"0"
+			"ypos"					"0"
+			"zpos"					"10"
+			"wide"					"f0"
+			"tall"					"480"
+			"visible"				"1"
+			"enabled"				"1"
+			"image"					"replay/thumbnails/sunset_blur"
+			"scaleImage"			"1"
+			"proportionaltoparent"	"1"
+			"mouseinputenabled"		"0"
+		}
 	}	
 	
 }	

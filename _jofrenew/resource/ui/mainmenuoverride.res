@@ -2,37 +2,31 @@
 {
 	"MainMenuOverride"
 	{
-		"bgcolor_override"	"Blank"	
 	}
 	"TFCharacterImage"
 	{
 		"xpos"			"c-250"
 		"ypos"			"-80"
 		"zpos"			"-99"
-		"wide"			"600"
+	//	"wide"			"600"
 		"tall"			"600"
 	}	
-	"BackgroundFooter"				// background for the left side buttons
+	"BackgroundFooter"
 	{
-		ControlName				ImagePanel
-		FieldName				"BackgroundFooter"
-		xPos					0
-		yPos					0
-		zPos					-120
-		wide					f0
-		tall					13 //p0.05 = 1mm...
-		fillColor				"W_ColorTheme1"
-		image					""
-		visible					1
-		enabled					1
+		"zpos"		"-900"
+	//	"wide"			"0"
+	//	"tall"			"0"
+	//	"visible"		"0"
+	//	"enabled"		"0"
+		"alpha"		"232"
 	}		
 	"TFLogoImage"
 	{
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"image"			"replay/thumbnails/null"
+		"xpos"				"c-310"
+		"ypos"				"32"
+		"zpos"				"1"
+		"wide"				"160"
+		"tall"				"40"
 	}
 	"Background"
 	{
@@ -98,11 +92,11 @@
 	{
 		ControlName				Cpvprankpanel
 		FieldName				"RankModelPanel"
-		xPos					0
-		yPos					16
+		xPos					5
+		yPos					rs1-10
 		zPos					1090
-		wide					30				// needs top be bigger to not cut off spark particles
-		tall					30
+		wide					40				// needs top be bigger to not cut off spark particles
+		tall					o1
 
 		matchgroup				MatchGroup_Casual_12v12		// MatchGroup_Ladder_6v6 ?
 		show_progress			0					// check out!
@@ -171,11 +165,11 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_ShowButtonPanel"
-		"xpos"			"0"
-		"ypos"			"rs1"
+		"xpos"			"cs-0.5"
+		"ypos"			"rs1-60-p0.001"
 		"zpos"			"3000"
-		wide					30
-		tall					25
+		wide					13
+		tall					o1
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -188,15 +182,15 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"1"
-		wide					30
-		tall					25
+			wide					13
+			tall					o1
 			"autoResize"	"0"
-			"pinCorner"		"3"
+			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
 		textInsetx				"1"
-		font					"NewIcons20"
+		font					"NewIcons11"
 		labelText				"j"
 		textAlignment			center
 			"dulltext"		"0"
@@ -533,7 +527,7 @@
 		ControlName				CExButton
 		FieldName				"OpenContracker"
 		xPos					p0.002
-		yPos					46
+		yPos					15
 		zPos					1009
 		wide					27
 		tall					o1
@@ -1070,31 +1064,7 @@
 			centerwrap				1
 		}
 	}
-		"JofreBar"
-		{
-			"ControlName"	"ImagePanel"		
-			"fieldName"		"JofreBar"
-			"xpos"			"0"
-			"ypos"			"13"
-			"zpos"			"3"
-			"wide"			"30"
-			"tall"			"p0.98"
-			"visible"		"1"
-			"enabled"		"1"
-			"fillcolor"		"W_ColorTheme1"
-			"alpha"			"220"
-		}		
-		"QuitBar"		
-		{
-		ControlName				ImagePanel
-		FieldName				"QuitBar"
-		xPos					0
-		yPos					cs-0.5+13
-		zPos					1040
-		wide					30
-		tall					p0.001 //p0.525
-		fillColor				"W_ColorIcons1"
-	}	
+
 	"TooltipPanel"		// when hovering a element that has tooltipText
 	{
 		ControlName				EditablePanel
@@ -1162,7 +1132,42 @@
 		"tall"			"0"
 		"visible"		"0"
 		"enabled"		"0"
-	}
+	}		
+		"JofreBar"
+		{
+			"ControlName"	"ImagePanel"		
+			"fieldName"		"JofreBar"
+			"xpos"			"0"
+			"ypos"			"13"
+			"zpos"			"3"
+			"wide"			"30"
+			"tall"			"230"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"W_ColorTheme1"
+			"alpha"			"220"
+		}		
+	"G_Slash"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"G_Slash"
+		"font"			"NewIcons40"
+		"labelText"		"/"
+		"textAlignment"	"west"
+		"xpos"			"0-p0.001"
+		"ypos"			"3"
+		"wide"			"50"
+		"tall"			"30"
+		"zpos"			"3"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor"		"0 0 0 220"
+		pin_to_sibling		"JofreBar"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT
+	}				
 	"WatchStreamButton"
 	{
 		"wide"			"0"
@@ -1183,18 +1188,11 @@
 		"tall"			"0"
 		"visible"		"0"
 		"enabled"		"0"
-	}
-	"BackgroundFooter"
-	{
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-	}				
+	}			
 	"FooterLine"
 	{
 		"zpoo"			"-5"		
-		"wide"			"0"
+	//	"wide"			"0"
 	}	
 	"CommentaryButton"
 	{
@@ -1257,11 +1255,11 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"FriendsContainer"
-		"xpos"			"30"
-		"ypos"			"13"
+		"xpos"			"c-305"
+		"ypos"			"rs1-61"
 		"zpos"			"100"
 		"wide"			"p0.3" // apparently at higher wide gives more smooth...???
-		"tall"			"480-13"
+		"tall"			"200"
 		"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"border"			"noborder"
@@ -1286,7 +1284,7 @@
 			"ypos"			"0"
 			"zpos"			"500"
 			"wide"			"f0"
-			"tall"			"480-13"
+			"tall"			"200"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 			"columns_count"	"1"

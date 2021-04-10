@@ -1,3 +1,15 @@
+event MMenu_SafeMode_Blink
+{
+	Animate InfoImage	alpha 255 Linear	0.0 0.1 
+	Animate InfoImage	alpha 0 Linear		0.6 0.1
+
+	Animate InfoImage	alpha 255 Linear	10 0.1 
+	Animate InfoImage	alpha 0 Linear		10 0.1
+
+	Animate InfoImage	alpha 255 Linear		11 0.1
+
+	RunEvent MMenu_SafeMode_Blink 1
+}
 event DamagedPlayer
 {
 }

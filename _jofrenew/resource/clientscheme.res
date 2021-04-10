@@ -540,7 +540,16 @@ Scheme
 				"antialias"			"1"
 				"weight"		"400"				
 			}
-		}			
+		}	
+		"NewIcons40" 
+		{
+			"1"
+			{
+				"name"				"JofreIconsRe"
+				"tall"				"65"				
+				"antialias"			"1"				
+			}
+		}					
 		"NewIcons25" 
 		{
 			"1"

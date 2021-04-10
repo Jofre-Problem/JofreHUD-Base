@@ -5,7 +5,7 @@
 		"ControlName""CDashboardPartyMember"
 		"fieldName""PartySlot0"
 		"xpos""rs1-30"
-		"ypos""50"
+		"ypos""rs1"
 		"zpos""50"
 		"wide""42"
 		"tall""o1"

@@ -8,7 +8,7 @@
 		"ypos"			"420"
 		"zpos"			"2"
 		"wide"			"f0"
-		"tall"			"p0.005"
+		"tall"			"p0.001"
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"W_ColorIcons1"		
