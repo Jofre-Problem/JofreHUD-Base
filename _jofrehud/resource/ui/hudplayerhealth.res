@@ -200,7 +200,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusGasImage"
 		"xpos"			"117"
-		"xpos_minbad"	"102"
+		"xpos_minmode"	"102"
 		"ypos"			"0"
 		"zpos"			"7"
 		"pin_to_sibling" "suckmydickvalve"

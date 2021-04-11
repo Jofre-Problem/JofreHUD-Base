@@ -68,8 +68,8 @@ IF EXIST "dev/HLExtract.exe" (
 	
 	IF EXIST "dev/fart.exe" (
 		echo Removing minmode lines
-		dev/fart.exe -i -r -- %script_folder%/hudlayout.res _minmode _minbad
-		dev/fart.exe -i -r -- %resource_folder%/* _minmode _minbad
+		dev/fart.exe -i -r -- %script_folder%/hudlayout.res _minmode _minmode
+		dev/fart.exe -i -r -- %resource_folder%/* _minmode _minmode
 		dev/fart.exe -i -r -- %resource_folder%/* "#base" "//#base"		
 		echo Creating default animation events
 		dev/fart.exe -r -- %script_folder%/hudanimations_tf.txt "event " "event DefaultAnim"

@@ -1,6 +1,5 @@
 	#base "../#customization/resource/fonts_name.res"
 	#base "../#customization/resource/fonts_blur.res"
 	#base "../#customization/resource/font.res"
-	#base "../#customization/resource/scheme_4plug1.res"	
-	#base "base/scheme/_clientscheme.res"	
-	#base "../home/dlc_crosshair.res"
+	#base "../#customization/resource/scheme_4plug1.res"
+	#base "base/scheme/_clientscheme.res"
