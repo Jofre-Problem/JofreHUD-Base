@@ -170,6 +170,39 @@ The Notorious K.I.P :  thats cause Jofre has Plot armor
 Marquito :  Jofre is Jofre, it's an unfair comparison ngl
 
 
+(TEAM) Jofre Problem? :  alright, from 1 to 10, how good as sniper on vsh I am? and what could be improved?
+Nopy gaming :  LOL
+[Team] Nopy gaming :  idk, just be good, 
+---
+*DEAD* W+M1 Heatmaker :  also, learning to climb past 1 or 2 swings helps a lot
+*DEAD* W+M1 Heatmaker :  vikin is great with that
+*DEAD* W+M1 Heatmaker :  I think top 3 snipers ever in Brew Crew are 1) Viking 2) Jofre 3) Galaxy
+
+*DEAD*(TEAM) W+M1 Heatmaker :  I'd say just learn to chain your climbs together, it helps a lot to gain distance or confuse hales
+[Dead] jammy the jim :  panic
+*DEAD*(TEAM) W+M1 Heatmaker :  it's hard to master though
+*DEAD*(TEAM) Jofre Problem? :  chain climbs?
+[Dead] Nopy gaming :  !ff2boss
+[RTD] Trollacademy 130 rolled: timebomb.
+*DEAD*(TEAM) W+M1 Heatmaker :  yea like climbing the wall 3-4 times to make a lot of distance
+
+Jofre Problem? (17,101) got 5 points for killing fl0m1k (51,830)
+Jofre Problem? got 3 points (17,104) for MVP #2
+Red got 10 points for Round Win
+fl0m1k :  bruh
+[FF2] You earned 10 queue point(s).
+Chupa me Por favor :  flom1k realluy
+fun fart man :  !halenext
+fl0m1k :  camper
+SUFUSKI :  burh
+Chupa me Por favor :  with gentleass
+Chupa me Por favor :  you cant complain
+Jofre Problem? :  ok 
+Jofre Problem? :  !
+fl0m1k :  all of you are dead
+Chupa me Por favor :  and its a sniper lmfao
+
+
 TRACKLIST:
 
 Troller Of Everything FULL MUSIC VIDEO
