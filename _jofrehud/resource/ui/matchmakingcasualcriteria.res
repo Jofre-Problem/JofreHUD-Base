@@ -1,1 +1,7 @@
-#base "../#bases/1rankpanel.res"
+"Resource/UI/MatchmakingCasualCriteria.res"
+{
+		"RankPanel"
+		{
+			"wide"			"0"
+		}
+}

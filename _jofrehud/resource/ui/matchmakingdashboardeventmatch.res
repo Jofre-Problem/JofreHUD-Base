@@ -53,7 +53,10 @@
 		
 		"mouseinputenabled"	"0"
 	}
-
+	"RankPanel"
+	{
+		"wide"			"0"
+	}
 	"RankImage"
 	{
 		"ControlName"	"CTFLocalPlayerBadgePanel"

@@ -8,7 +8,7 @@
 		"ypos""5" //-5
 		"zpos""110"
 		"wide""52"  //+10
-		"tall""50"  //+12
+		"tall""o0.98"  //+12
 		"visible""1"
 		"enabled""1"
 		"scaleImage""1"

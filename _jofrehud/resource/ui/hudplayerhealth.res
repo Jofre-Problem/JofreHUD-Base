@@ -11,7 +11,7 @@
 		"ypos"			"0"		[$WIN32]
 		"ypos_minmode"	"0"		[$WIN32]
 		"ypos"			"0"		[$X360]
-		"zpos"			"2"
+		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"480"
 	}		
@@ -46,7 +46,9 @@
 	}
 	"PlayerStatusHealthBonusImage"
 	{
-
+		"ypos"	"rs1-10"
+		"xpos"	"15"
+		"zpos"	"0"
 	}		
 	"PlayerStatusHealthImageBG"
 	{

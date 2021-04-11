@@ -140,6 +140,36 @@ Yonkerbonk :  christ, Jofre,
 Yonkerbonk :  just straight gaming
 Jofre Problem? :  yeah?
 
+[Dead] The Notorious K.I.P :  dont worry chilling abput to get 11k damage ez
+
+[Dead] Chilling :  Where's my femboy when i need him
+[Dead] Chilling :  J
+Jofre Problem? :  xd
+Jofre Problem? :  you are
+Jofre Problem? :  chilling
+Chilling :  Stfu J
+
+[RTD] Jofre Problem? rolled: player shrink for 20 seconds.
+[Dead] The Notorious K.I.P :  nice roll
+[Dead] Marquito :  lol rtd
+[VSH 2] Queue You gained 0 queue points because you toggled Boss Selection as off.
+[VSH 2] Queue You scored 30 points.
+Little Mr. Stormy :  JOFREEE
+Chilling :  Not jofre
+Chilling :  That's chilling
+Marquito :  the god gamer
+Little Mr. Stormy :  whos chilling
+Chilling :  W h o 
+The Notorious K.I.P :  Jofre you scoundrel you've done it again
+
+☠️Hades☠ :  sniper provides suport from afar
+[VSH 2] Queue You gained 0 queue points because you toggled Boss Selection as off.
+[VSH 2] Queue You scored 16 points.
+Euro, Solo Rages: 1 :  I won't send a sniper to your house
+The Notorious K.I.P :  thats cause Jofre has Plot armor 
+Marquito :  Jofre is Jofre, it's an unfair comparison ngl
+
+
 TRACKLIST:
 
 Troller Of Everything FULL MUSIC VIDEO

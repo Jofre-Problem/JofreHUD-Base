@@ -12,9 +12,8 @@ Resource/UI/HudAmmoWeapons.res
 	}
 	"HudWeaponLowAmmoImage"
 	{
-	//	"xpos"			"r-10"
-	//	"xpos_minmode"	"r-10"
-		"ypos"			"-5"
+		"xpos"			"10"
+		"ypos"			"10"
 		"pin_to_sibling"	"HudWeaponAmmoBG"
 		"alpha"			"90"
 

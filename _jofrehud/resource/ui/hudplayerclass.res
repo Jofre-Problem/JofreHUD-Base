@@ -3,9 +3,41 @@
 //#base "../../../4plug/DLC/2.res"  //Crosshairs
 	#base "base/classmodelpanel.res"
 	#base "../../home/crosshair.res"
-
+	#base "../../#customization/resource/ui/summersale_border.res"
 "resource/ui/hudplayerclass.res"
 {
+	"SteamSummerBorder"
+	{
+		"wide"	"0"
+	}
+	"PartySlot0"
+	{
+		"xpos"	"110"
+		"ypos"	"rs1-21"
+		"wide"	"50"
+		"border"	"FriendHighlightBorder"
+	}
+	"PlayerStatusHealthValueBG"
+		{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"PlayerStatusHealthValueBG"
+		"xpos"			"103"
+		"ypos"			"r83"
+		"zpos"			"-1"
+		"wide"			"64"
+		"tall"			"121"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/misc_ammo_area_horiz1_blue"
+		"scaleImage"	"1"	
+		"teambg_2"		"../hud/death_panel_red_bg"
+		"teambg_3"		"../hud/color_panel_blu"	
+		"src_corner_height"		"1"			// pixels inside the image
+		"src_corner_width"		"1"
+				
+		"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"2"	
+	}	
 	"PlayerStatusClassImageBG"
 	{
 		"xpos"			"0"
