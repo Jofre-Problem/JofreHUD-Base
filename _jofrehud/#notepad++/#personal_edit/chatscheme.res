@@ -35,7 +35,7 @@ Scheme
 	{
 		"98" 
 		{
-			"font" "resource/CustomNotoMono.otf"
+			"font" "resource/font/CustomNotoMono.otf"
 			"name" "CustomNotoMono"
 			"english" 
 			{

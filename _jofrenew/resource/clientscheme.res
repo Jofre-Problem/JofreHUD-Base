@@ -2018,9 +2018,9 @@ Scheme
 	CustomFontFiles
 	{
 		"97"		"resource/font/jofreiconsmaster.otf"	// aparentemente mejor 
-		"98" 
+		"98"
 		{
-			"font" "resource/CustomNotoMono.otf"
+			"font" "resource/font/CustomNotoMono.otf"
 			"name" "CustomNotoMono"
 			"english" 
 			{
