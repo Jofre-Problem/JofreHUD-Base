@@ -17,8 +17,7 @@
 		"tabPosition"	"0"
 		"image"		"gradient_pure_black"
 		"scaleImage"	"1"	
-		"border"		"SteamWorkshopBorder"	
-		"bgcolor_override"	"0 0 0 250"					
+		"border"		"SteamWorkshopBorder"			
 	}
 
 	

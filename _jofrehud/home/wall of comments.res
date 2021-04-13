@@ -202,6 +202,12 @@ Jofre Problem? :  !
 fl0m1k :  all of you are dead
 Chupa me Por favor :  and its a sniper lmfao
 
+Jofre Problem? :  fun map
+Chupa me Por favor :  youre a sniper main of course its a fun one for you :(
+Jofre Problem? :  i dont think im enough good tho
+Chupa me Por favor :  bruh youre always mvp you fucker x)
+Jofre Problem? :  ah...yeah...
+
 
 TRACKLIST:
 

@@ -8,7 +8,7 @@
 		"ypos"		"0"
 		//forced to stay down... why valve
 		"wide"		"f+20"
-		"tall"		"665"
+		"tall"		"45"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"RoundedCorners"		"15"

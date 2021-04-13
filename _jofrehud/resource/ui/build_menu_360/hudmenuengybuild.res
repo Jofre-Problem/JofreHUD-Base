@@ -1,6 +1,10 @@
 #base "../build_menu/base/hudmenuengybuild.res"
 #base "../base/filesv3-hint/build.res"
 #base "../base/filesv3-hint/buttonlegend.res"
+#base "../base/filesv3-hint/cancel/main.res"
+#base "../base/filesv3-hint/cancel/is_label.res"
+#base "../base/filesv3-hint/cancel/vis1.res"
+#base "../base/filesv3-hint/cancel/pin0.res"
 "Resource/UI/build_menu_360/hudmenuengybuild.res"
 {
 	"active_selection_bg"

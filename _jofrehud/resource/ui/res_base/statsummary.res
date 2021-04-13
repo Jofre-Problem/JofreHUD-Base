@@ -2425,7 +2425,6 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"TipImage"
 		"xpos"			"c-285"
-		"ypos"			"270"
 		"zpos"			"12"
 		"wide"			"35"
 		"tall"			"35"

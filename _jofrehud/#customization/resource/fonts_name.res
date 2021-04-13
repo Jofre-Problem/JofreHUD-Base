@@ -29,7 +29,7 @@ Scheme
 			{
 			"name"		"Verdana"
 			}
-		}				
+		}			
 		"CustomOctavoBlur"
 		{
 			"1"
