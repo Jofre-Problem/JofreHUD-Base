@@ -980,9 +980,9 @@
 		"PaintBackgroundType"	"2"
 	}
 	
-	"HudMenuEngyBuild"
+	"hudmenuengybuild"
 	{
-		"fieldName" 	"HudMenuEngyBuild"
+		"fieldName" 	"hudmenuengybuild"
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-225"

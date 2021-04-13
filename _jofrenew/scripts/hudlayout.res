@@ -170,7 +170,7 @@
 	//	"pin_to_sibling"	"DisguiseStatus"	 //HELL			
 	}	
 	
-	"HudMenuEngyBuild"
+	"hudmenuengybuild"
 	{
 		"visible" 		"1"
 		"enabled" 		"1"
@@ -189,7 +189,7 @@
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
-	//	"pin_to_sibling"	"HudMenuEngyBuild"	 //HELL				
+	//	"pin_to_sibling"	"hudmenuengybuild"	 //HELL				
 	}
 
 	"HudEurekaEffectTeleportMenu"
@@ -200,7 +200,7 @@
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
-	//	"pin_to_sibling"	"HudMenuEngyBuild"	 //HELL			
+	//	"pin_to_sibling"	"hudmenuengybuild"	 //HELL			
 	}
 	
 	BuildingStatus_Spy

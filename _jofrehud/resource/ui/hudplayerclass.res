@@ -32,11 +32,6 @@
 	}	
 	"classmodelpanelBG"
 	{
-		"xpos"			"0"
-		"ypos"			"rs1-10"
-		"zpos"			"-10"		
-	//	"wide"			"60"
-	//	"tall"			"50"
 	}		
 	"classmodelpanel"
 	{

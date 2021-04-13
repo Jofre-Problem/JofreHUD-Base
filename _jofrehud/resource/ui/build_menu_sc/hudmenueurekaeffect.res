@@ -1,5 +1,5 @@
 #base "../build_menu/base/hudmenueurekaeffect.res"
 
-"Resource/UI/build_menu_360/HudMenuEngyBuild.res"
+"Resource/UI/build_menu_360/hudmenuengybuild.res"
 {
 }
