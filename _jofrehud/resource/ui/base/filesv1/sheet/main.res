@@ -17,7 +17,7 @@
 			"ypos"			"32"
 			"zpos"			"5"
 			"wide"			"f0"
-			"tall"			"0"
+			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"replay/replaybrowser_solidline"

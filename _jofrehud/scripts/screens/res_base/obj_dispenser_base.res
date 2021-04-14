@@ -1,4 +1,4 @@
-"obj_dispenser.res"
+"Resource/obj_dispenser.res"
 {
 	"MeterBG"
 	{

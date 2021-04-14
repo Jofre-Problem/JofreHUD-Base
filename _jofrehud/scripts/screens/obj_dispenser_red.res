@@ -1,5 +1,5 @@
 #base "res_base/obj_dispenser_base.res"
-"obj_dispenser.res"
+"Resource/obj_dispenser.res"
 {
 	"MeterBG"
 	{
