@@ -1238,11 +1238,11 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"FriendsContainer"
-		"xpos"			"c-305"
-		"ypos"			"rs1-61"
+		"xpos"			"0"
+		"ypos"			"13"
 		"zpos"			"100"
 		"wide"			"p0.3" // apparently at higher wide gives more smooth...???
-		"tall"			"200"
+		"tall"			"435"
 		"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"border"			"noborder"

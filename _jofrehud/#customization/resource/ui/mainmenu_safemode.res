@@ -125,19 +125,7 @@
 		}
 		"InfoImage"
 		{
-			"ControlName"			"ImagePanel"
-			"fieldName"				"InfoImage"
-			"xpos"					"0"
-			"ypos"					"0"
-			"zpos"					"10"
-			"wide"					"f0"
-			"tall"					"480"
-			"visible"				"1"
-			"enabled"				"1"
-			"image"					"replay/thumbnails/sunset_blur"
-			"scaleImage"			"1"
-			"proportionaltoparent"	"1"
-			"mouseinputenabled"		"0"
+			"wide"					"0"
 		}
 	}	
 	

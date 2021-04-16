@@ -32,7 +32,8 @@
 	}	
 	"classmodelpanelBG"
 	{
-	}		
+		"zpos"	"-100"
+			}		
 	"classmodelpanel"
 	{
 		"zpos"			"0"
@@ -40,7 +41,7 @@
 		"xpos_minmode"	"0"
 		"ypos"			"r300"
 		"ypos_minmode"	"r300"
-		"zpos"			"2"		
+		"zpos"			"20"		
 		"wide"			"340"
 		"wide_minmode"	"340"
 		"tall"			"300"

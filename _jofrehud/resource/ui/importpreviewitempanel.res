@@ -1,0 +1,1 @@
+#base "base/filesv2/classmodelpanel/content_import.res"

@@ -1,3 +1,5 @@
+#base "!custom/noto.res"
+
 #base "cs_border_1.res"
 #base "font/default_1.res"
 #base "bitmap.res"

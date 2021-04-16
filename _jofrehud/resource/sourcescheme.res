@@ -39,9 +39,10 @@ Scheme
 		}	
 		"MainMenuFont"
 		{
-			"1"	[$WIN32]
+			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"MenuLarge"
@@ -56,7 +57,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -64,8 +66,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary" [$WINDOWS]
-				"name"		"TF2 Secondary" [$POSIX]
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"14"
 				"weight"	"500"
 			}
@@ -75,23 +77,28 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -122,9 +129,5 @@ Scheme
 				"name"		"Helvetica" [$POSIX]
 			}
 		}
-	}
-	
-	CustomFontFiles
-	{
 	}
 }
