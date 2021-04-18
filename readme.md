@@ -2,8 +2,9 @@
 
 ## TF2 Interface focused on a fully optimization of the game.
 
-An experimental OS Hud THemed
-Still on develepment.
+After many tweaks and edits I made for make this a "perfect" hud, I decided to make it like the default one.
+This HUD is focused ENTIRELY on optimize the game, but there are some personal changes I made.
 
-FOR LINUX USERS:
-There isnt a .sh for the autoupdate of files, so I recommend using winesonsole for execute it pretty normally.
+Those changes are located inside "_jofrenew" folder. Which probably will be disabled by default.
+
+However, there are other changes that can be emulated as the orginal hud like the item effect metter.
