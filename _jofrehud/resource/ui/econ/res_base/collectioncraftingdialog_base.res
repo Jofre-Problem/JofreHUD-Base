@@ -1,6 +1,7 @@
 #base "../../base/filesv1/dimmer/main.res"
 #base "../../base/filesv1/dimmer/content1.res"
 #base "../base/bg/main.res"
+#base "../../base/filesv1/drawingpanel/main.res"
 "Resource/UI/econ/StrangeCountTransferDialog.res"
 {
 	"CollectionCraftingPanel"
@@ -209,10 +210,7 @@
 
 	"DrawingPanel"
 	{
-		"fieldName"				"DrawingPanel"
-		"ControlName"			"CDrawingPanel"
 		"visible"				"1"
-		"enabled"				"1"
 		"xpos"					"cs-0.5"
 		"ypos"					"60"
 		"zpos"					"5"

@@ -1,5 +1,6 @@
 #base "../../../../#uni_base/filesv1/mapnamelabel/main.res"
 #base "../../../../#uni_base/filesv1/mapnamelabel/center.res"
+#base "base_main.res"
 "Resource/training/offlinepractice/mapselection.res"
 {
 	"MapNameLabel"
@@ -68,58 +69,6 @@
 		"scaleImage"	"1"
 		"image"			"training/gradient_black"
 	}
-	
-	"PrevButton"
-	{
-		"ControlName"	"CExButton"
-		"fieldName"		"PrevButton"
-		"xpos"			"36"
-		"ypos"			"65"
-		"zpos"			"20"
-		"wide"			"18"
-		"tall"			"43"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"labelText"		"#TF_LessThan"
-		"font"			"HudFontSmallBold"
-		"textAlignment"	"center"
-		"textinsetx"	"0"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"Command"		"goprev"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
-	}	
-	
-	"NextButton"
-	{
-		"ControlName"	"CExButton"
-		"fieldName"		"NextButton"
-		"xpos"			"396"
-		"ypos"			"65"
-		"zpos"			"20"
-		"wide"			"18"
-		"tall"			"43"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"labelText"		"#TF_GreaterThan"
-		"font"			"HudFontSmallBold"
-		"textAlignment"	"center"
-		"textinsetx"	"0"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"Command"		"gonext"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
-	}	
-	
-
 	"CurPageLabel"
 	{
 		"ControlName"	"CExLabel"

@@ -5,3 +5,4 @@
 	#base "base/filesv1/rankpanel/full.res"
 	#base "base/filesv1/rankpanel/show.res"
 	#base "base/filesv1/rankpanel/matchgroup_6.res"
+	#base "base/filesv1/drawingpanel/main.res"

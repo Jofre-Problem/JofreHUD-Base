@@ -208,6 +208,63 @@ Jofre Problem? :  i dont think im enough good tho
 Chupa me Por favor :  bruh youre always mvp you fucker x)
 Jofre Problem? :  ah...yeah...
 
+Sad: Jofre, how you manage to hit shots with your ping amazes me
+
+Jofre Problem? :  damn my ping
+[Dead] SarCATstic :  when isnt it bad
+Jofre Problem? :  like not now
+[Dead] SarCATstic :  every time i see you play you're always stuttering
+[RTD] Jofre Problem? rolled: invisibility for 20 seconds.
+[TBC] You gained 1 Gimgim for killing keycrasher.
+Estranged: Hollywood. :  Jofre.mp4
+SarCATstic :  indeed
+Jofre Problem? :  really?
+( ͡° ͜ʖ ͡° )Monke :  jofre is just too powerful 
+
+
+[Dead] SarCATstic :  wait what climbing still works in the scared state?
+Jofre Problem? :  what
+[Dead] Chilling :  Wdym
+Jofre Problem? :  I mean, theorically yes
+[Dead] SarCATstic :  i saw jofre melee climb while he was stunned by the hale
+[Dead] SarCATstic :  unless that was just lag
+[Dead] Chilling :  Nah
+[Dead] Euro! :  prob
+[Dead] Chilling :  That's his lag
+[Dead] Euro! :  jofre is the definition of lag
+[Dead] SarCATstic :  ik
+Jofre Problem? :  YES
+[Dead] Chilling :  Cuz jofre always do that 2 on other's server m8
+[Dead] Euro! :  sorry jofre
+[Dead] Euro! :  you got 163 ping rn
+[RTD] Jofre Problem? rolled: drugged.
+[Dead] ( ͡° ͜ʖ ͡° )Monke :  no Biggest is definition of lag
+[TBC] You just gained 6 Gimgims!
+[VSH 2] Check out your VSH Achievements with /vshach.
+[Dead] ( ͡° ͜ʖ ͡° )Monke :  he goes to 250-350 ping
+[Dead] Euro! :  alright
+[Dead] Euro! :  yea
+[RTD] Jofre Problem?'s effect has worn off.
+[Dead] Chilling :  But biggest can get killed
+[RTD] You must wait 107 second(s).
+[Dead] Euro! :  I'm the definition of... (you better say annoying)
+*DEAD* penguin elkinsa :  lol
+[Dead] SarCATstic :  epic
+keycrasher :  ight, any last words?
+[Dead] Chilling :  Jofre, ju-
+Hermit/varmint :  yeet
+[Dead] Chilling :  Jofre wtf dude
+[Dead] SarCATstic :  you're the definition of person
+[RTD] Hermit/varmint rolled: dispenser pop-up for 20 seconds.
+[Dead] ( ͡° ͜ʖ ͡° )Monke :  jofre doesn't go hale as often as biggest
+
+*DEAD* Jofre Problem? :  xd
+*DEAD* Jofre Problem? :  solo rage
+Chilling :  Love u jofre *kiss*
+Chilling :  No homo
+*DEAD* Jofre Problem? :  I love you too
+*DEAD* Jofre Problem? :  No homo
+
 
 TRACKLIST:
 

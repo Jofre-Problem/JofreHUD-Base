@@ -1,6 +1,7 @@
 	
 	#base "clientscheme/clientscheme_colors.res"
-	#base "clientscheme/clientscheme_borders.res"
+//	#base "clientscheme/clientscheme_borders.res"
+	#base "clientscheme/clientscheme_fonts.res"
 	#base "clientscheme/magnum_scheme_sc.res"
 	
 Scheme
@@ -121,17 +122,6 @@ Scheme
 	}
 	Fonts
 	{
-		"xHair"
-		{
-			"1"
-			{
-				"name"		"Verdana"
-				"tall"		"13"
-				"weight"	"1"
-				"additive"	"0"
-				"outline" "1"
-			}
-		}		
 		"Default"
 		{
 			"1"
@@ -177,66 +167,6 @@ Scheme
 				"weight"	"800"
 			}
 		}
-		"CustomNotoMonoVerySmall"
-		{
-			"1"
-			{
-				"name" "CustomNotoMono"
-				"tall" "8"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"CustomNotoMonoSmall"
-		{
-			"1"
-			{
-				"name" "CustomNotoMono"
-				"tall" "10"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"CustomNotoMonoMedium"
-		{
-			"1"
-			{
-				"name" "CustomNotoMono"
-				"tall" "12"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"CustomNotoMonoLarge"
-		{
-			"1"
-			{
-				"name" "CustomNotoMono"
-				"tall" "14"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"CustomNotoMonoExtraLarge"
-		{
-			"1"
-			{
-				"name" "CustomNotoMono"
-				"tall" "16"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"CustomVerdanaSmall"
-		{
-			"1"
-			{
-				"name" "Verdana"
-				"tall" "7"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}	
 		"NewIcons57" 
 		{
 			"1"

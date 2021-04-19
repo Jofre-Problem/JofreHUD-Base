@@ -1,47 +1,14 @@
-"Resource/UI/notifications/base_notification.res"
-{
-	"Notification_Background"
-	{
-		"ControlName"	"CImagePanel"
-		"fieldName"		"Notification_Background"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"-1"
-		"wide"			"140"
-		"tall"			"44"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../hud/score_panel_blue_bg"
-		"scaleImage"	"1"
-	}
-	
-	"Notification_Icon"	
-	{
-		"ControlName"	"CIconPanel"
-		"fieldName"		"Notification_Icon"
-		"xpos"			"7"
-		"ypos"			"10"
-		"wide"			"20"
-		"tall"			"20"
-		"visible"		"1"
-		"enabled"		"1"
-		"scaleImage"	"1"	
-		"icon"			"ico_notify_sixty_seconds"
-	}
-	
-	"Notification_Label"
-	{	
-		"ControlName"	"CExLabel"
-		"fieldName"		"Notification_Label"
-		"font"			"Default"
-		"fgcolor_override" "WhiteSolid"
-		"xpos"			"20"
-		"ypos"			"10"
-		"wide"			"200"
-		"tall"			"20"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		"60 seconds until gates open"
-		"textAlignment"	"West"
-	}
-}
+#base "base/notifcation.res"
+#base "base/icon/xp_7.res"
+#base "base/icon/yp_9.res"
+#base "base/icon/wt_20.res"
+
+#base "base/bg/wide_140.res"
+#base "base/bg/tall_44.res"
+#base "base/bg/xp_0.res"
+
+#base "base/label/main.res"
+#base "base/label/yp_9.res"
+#base "base/label/wide_200.res"
+#base "base/label/tall_20.res"
+#base "base/label/west.res"

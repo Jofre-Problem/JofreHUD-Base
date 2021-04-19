@@ -5,216 +5,18 @@
 		"fieldName"				"MMDashboard"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"0"
-		"ypos"					"0"
-		"zpos"					"3001"
+		"xpos"					"cs-0.5"
+		"ypos"					"-5"
+		"zpos"					"10001"
 		"wide"					"f0"
-		"tall"					"22"
+		"tall"					"30"
 		"keyboardinputenabled"	"0"
 
 		"collapsed_height"	"0"
-		"expanded_height"	"22"
-		"resize_time"		"0.2"
+		"expanded_height"	"30"
+		"resize_time"		"0.1"
 	}
-	"BackgroundFooter"				// background for the left side buttons
-	{
-		ControlName				ImagePanel
-		FieldName				"BackgroundFooter"
-		xPos					0
-		yPos					0
-		zPos					-120
-		wide					f0
-		tall					13 //p0.05 = 1mm...
-		fillColor				"W_ColorTheme1"
-		image					""
-		visible					1
-		enabled					1
-	}	
-	"ReloadIcon"
-	{
-		"ControlName"	"CExImageButton"
-		"fieldName"		"ReloadIcon"
-		"xpos"				"93"
-		"ypos"				"0"
-		"zpos"				"10"
-		"wide"				"15"
-		"tall"				"13"
-		"font""NewIcons11"
-		"textAlignment""west"
-		"command""engine hud_reloadscheme"
-		"proportionaltoparent""1"
-		"labeltext""%"
-		"mouseinputenabled""1"
-		"keyboardinputenabled""0"
-		"actionsignallevel""2"
-		"RoundedCorners""0"
 
-		"sound_depressed""UI/buttonclick.wav"
-		"sound_released""UI/buttonclickrelease.wav"
-
-		"defaultBgColor_override""Blank"
-
-			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"W_BorderArmed"
-
-		"paintbackground""0"
-		"image_drawcolor""Tanlight"
-		"image_armedcolor""Tanlight"
-
-		"SubImage"
-		{
-		"ControlName""ImagePanel"
-		"fieldName""SubImage"
-		"xpos""0"
-		"ypos""0"
-		"zpos""0"
-		"wide""0"
-		"tall""0"
-		"image""glyph_quit"
-		}
-	}	
-	"ReloadLabel"
-	{
-		"ControlName""CExImageButton"
-		"fieldName""ReloadLabel"
-		"xpos""0"
-		"ypos""0"
-		"zpos""10"
-		"wide""35"
-		"tall""13"
-		"visible""1"
-		"enabled""1"
-		"font""ItemTrackerScore_InGame"
-		"textAlignment""west"
-		"command""engine hud_reloadscheme"
-		"proportionaltoparent""1"
-		"labeltext""Reload Hud"
-		"mouseinputenabled""1"
-		"keyboardinputenabled""0"
-		"actionsignallevel""2"
-		"RoundedCorners""0"
-
-		"sound_depressed""UI/buttonclick.wav"
-		"sound_released""UI/buttonclickrelease.wav"
-
-		"defaultBgColor_override""Blank"
-
-			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"W_BorderArmed"
-
-		"paintbackground""0"
-		"image_drawcolor""Tanlight"
-		"image_armedcolor""Tanlight"
-			"pin_to_sibling" "ReloadIcon"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	
-		
-		"SubImage"
-		{
-		"ControlName""ImagePanel"
-		"fieldName""SubImage"
-		"xpos""0"
-		"ypos""0"
-		"zpos""0"
-		"wide""0"
-		"tall""0"
-		"image""glyph_quit"
-		}
-	}		
-	"StatusIcon"
-	{
-		"ControlName"		"CExImageButton"
-		"fieldName"			"StatusIcon"
-		"xpos""0"
-		"ypos""0"
-		"zpos""10"
-		"wide""15"
-		"tall""13"
-		"visible""1"
-		"enabled""1"
-		"font""NewIcons11"
-		"textAlignment""west"
-		"command""engine showconsole; status"
-		"proportionaltoparent""1"
-		"labeltext""ý"
-		"mouseinputenabled""1"
-		"keyboardinputenabled""0"
-		"actionsignallevel""2"
-		"RoundedCorners""0"
-
-		"sound_depressed""UI/buttonclick.wav"
-		"sound_released""UI/buttonclickrelease.wav"
-
-		"defaultBgColor_override""Blank"
-
-			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"W_BorderArmed"
-			"pin_to_sibling" "ReloadLabel"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		"paintbackground""0"
-		"image_drawcolor""Tanlight"
-		"image_armedcolor""Tanlight"
-
-		"SubImage"
-		{
-		"ControlName""ImagePanel"
-		"fieldName""SubImage"
-		"xpos""0"
-		"ypos""0"
-		"zpos""0"
-		"wide""0"
-		"tall""0"
-		"image""glyph_quit"
-		}
-	}
-	"StatusLabel"
-	{
-		"ControlName"		"CExImageButton"
-		"fieldName"			"StatusLabel"
-		"xpos""0"
-		"ypos""0"
-		"zpos""10"
-		"wide""40"
-		"tall""13"
-		"visible""1"
-		"enabled""1"
-		"font""ItemTrackerScore_InGame"
-		"textAlignment""west"
-		"command""engine showconsole; status"
-		"proportionaltoparent""1"
-		"labeltext""Status"
-		"mouseinputenabled""1"
-		"keyboardinputenabled""0"
-		"actionsignallevel""2"
-		"RoundedCorners""0"
-
-		"sound_depressed""UI/buttonclick.wav"
-		"sound_released""UI/buttonclickrelease.wav"
-
-		"defaultBgColor_override""Blank"
-
-			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"W_BorderArmed"
-			"pin_to_sibling" "StatusIcon"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		"paintbackground""0"
-		"image_drawcolor""Tanlight"
-		"image_armedcolor""Tanlight"
-
-		"SubImage"
-		{
-		"ControlName""ImagePanel"
-		"fieldName""SubImage"
-		"xpos""0"
-		"ypos""0"
-		"zpos""0"
-		"wide""0"
-		"tall""0"
-		"image""glyph_quit"
-		}
-	}	
 	"TopBar"
 	{
 		"ControlName"	"EditablePanel"
@@ -223,7 +25,7 @@
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"f0"
-		"tall"			"22"
+		"tall"			"30"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 
@@ -245,7 +47,7 @@
 			"proportionaltoparent"	"1"
 			"scaleimage"	"1"
 			"mouseinputenabled"	"0"
-			"alpha"		"100"
+			"alpha"		"0"
 
 			"image"		"gradient_pure_black"
 		}
@@ -258,10 +60,10 @@
 			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"p1.1"
-			"tall"			"f5"
-			"visible"		"0"
-			"PaintBackgroundType"	"2"
-			"border"		"ReplayDefaultBorder"
+			"tall"			"25"
+			"visible"		"1"
+			"bgcolor_override"	"G_Footer"
+			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 		}
 
@@ -278,110 +80,183 @@
 			"PaintBackgroundType"	"2"
 			"border"		"OuterShadowBorder"
 			"proportionaltoparent"	"1"
+			"alpha"			"0"
 		}
+
 		"ToggleChatButton"
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"ToggleChatButton"
-			"xpos"			"78"
+			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"15"
-			"tall"			"13"
+			"wide"			"30"
+			"tall"			"25"
 			"autoResize"	"0"
-			"pinCorner"		"0"
+			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"labeltext"		"z"
-			"font"			"NewIcons10"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"toggle_chat"
 			"proportionaltoparent"	"1"
+			"labeltext"		""
 			"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
 			"roundedcorners"	"0"
-			"paintbackground"	"0"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"fgcolor"			"W_ColorIcons1"
-			"fgcolor_override"	"W_ColorIcons1"
-			"defaultFgColor_override"	"W_ColorIcons1"
-			"armedFgColor_override"		"Yellow"
-			"depressedFgColor_override"	"W_ColorTheme4"
-			
-			"border_armed"		"NoBorder"	
+
+			"image_drawcolor"	"205 167 211 255" // Button icon color
+			"image_armedcolor"	"255 255 255 255" // Button icon hover color
+
 			"SubImage"
 			{
-				"wide"			"0"
-				"tall"			"0"
-				"visible"		"0"
-				"enabled"		"0"
-			}						
-		}	
+				"ControlName"	"ImagePanel"
+				"fieldName"		"SubImage"
+				"xpos"			"cs-0.5"
+				"ypos"			"5"
+				"zpos"			"1"
+				"wide"			"20"
+				"tall"			"20"
+				"visible"		"1"
+				"enabled"		"1"
+				"scaleImage"	"1"
+				"proportionaltoparent"	"1"
+				"image"			"glyph_chat"
+			}
+		}
 
 		"PartySlot0"
 		{
-			"xpos"					"0"
-			"ypos"					"0"
-			"wide"					"13"
-			"tall"					"13"
+			"ControlName"	"CDashboardPartyMember"
+			"fieldName"		"PartySlot0"
+			"xpos"			"30"
+			"ypos"			"5"
+			"zpos"			"100"
+			"wide"			"o1"
+			"tall"			"20"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"proportionaltoparent"	"1"
+			"mouseinputenabled"	"1"
+			"keyboardinputenabled"	"0"
+
+			"party_slot"	"0"
 		}
+
 		"PartySlot1"
 		{
-			"xpos"					"0"
-			"ypos"					"0"
-			"wide"					"13"
-			"tall"					"13"
-			"pin_to_sibling" "PartySlot0"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
+			"ControlName"	"CDashboardPartyMember"
+			"fieldName"		"PartySlot1"
+			"xpos"			"50"
+			"ypos"			"5"
+			"zpos"			"100"
+			"wide"			"o1"
+			"tall"			"20"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"proportionaltoparent"	"1"
+			"mouseinputenabled"	"1"
+			"keyboardinputenabled"	"0"
+
+			"party_slot"	"1"
 		}
+
 		"PartySlot2"
 		{
-			"xpos"					"0"
-			"ypos"					"0"
-			"wide"					"13"
-			"tall"					"13"
-			"pin_to_sibling" "PartySlot1"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+			"ControlName"	"CDashboardPartyMember"
+			"fieldName"		"PartySlot2"
+			"xpos"			"70"
+			"ypos"			"5"
+			"zpos"			"100"
+			"wide"			"o1"
+			"tall"			"20"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"proportionaltoparent"	"1"
+			"mouseinputenabled"	"1"
+			"keyboardinputenabled"	"0"
+
+			"party_slot"	"2"
 		}
+
 		"PartySlot3"
 		{
-			"xpos"					"0"
-			"ypos"					"0"
-			"wide"					"13"
-			"tall"					"13"
-			"pin_to_sibling" "PartySlot2"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		}		
+			"ControlName"	"CDashboardPartyMember"
+			"fieldName"		"PartySlot3"
+			"xpos"			"90"
+			"ypos"			"5"
+			"zpos"			"100"
+			"wide"			"o1"
+			"tall"			"20"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"proportionaltoparent"	"1"
+			"mouseinputenabled"	"1"
+			"keyboardinputenabled"	"0"
+
+			"party_slot"	"3"
+		}
+
 		"PartySlot4"
 		{
-			"xpos"					"0"
-			"ypos"					"0"
-			"wide"					"13"
-			"tall"					"13"
-			"pin_to_sibling" "PartySlot3"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		}		
+			"ControlName"	"CDashboardPartyMember"
+			"fieldName"		"PartySlot4"
+			"xpos"			"110"
+			"ypos"			"5"
+			"zpos"			"100"
+			"wide"			"o1"
+			"tall"			"20"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"proportionaltoparent"	"1"
+			"mouseinputenabled"	"1"
+			"keyboardinputenabled"	"0"
+
+			"party_slot"	"4"
+		}
+
 		"PartySlot5"
 		{
-			"xpos"					"0"
-			"ypos"					"0"
-			"wide"					"13"
-			"tall"					"13"
-			"pin_to_sibling" "PartySlot4"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		}		
-		
+			"ControlName"	"CDashboardPartyMember"
+			"fieldName"		"PartySlot5"
+			"xpos"			"130"
+			"ypos"			"5"
+			"zpos"			"100"
+			"wide"			"o1"
+			"tall"			"20"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"proportionaltoparent"	"1"
+			"mouseinputenabled"	"1"
+			"keyboardinputenabled"	"0"
+
+			"party_slot"	"5"
+		}
+
 		"QueueContainer"
 		{
 			"ControlName"	"EditablePanel"
@@ -403,9 +278,8 @@
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
-				"visible"		"1"
+				"visible"		"0"
 				"proportionaltoparent"	"1"
-
 				"border"		"OuterShadowBorderThin"
 			}
 
@@ -420,10 +294,10 @@
 				"tall"			"f4"
 				"visible"		"1"
 				"proportionaltoparent"	"1"
-
-				"border"		"ReplayDefaultBorder"
+				"bgcolor_override"	"G_Footer"
+				"border"		"G_MenuBorder"
 			}
-
+			
 			"QueueLogoButton"
 			{
 				"ControlName"	"Button"
@@ -438,7 +312,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"labelText"		""
+				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
 				"dulltext"		"0"
@@ -451,24 +325,24 @@
 			
 				"paintbackground"	"0"
 				"paintborder"		"0"				
-			}		
+			}
 
 			"CTFLogoPanel"
 			{
 				"ControlName"	"CTFLogoPanel"
 				"fieldname"		"CTFLogoPanel"
 				"xpos"			"0"
-				"ypos"			"1"
+				"ypos"			"0"
 				"zpos"			"5"
 				"wide"			"o1"
 				"tall"			"f0"
 				"visible"		"1"
 				"proportionaltoparent"	"1"
 
-				"radius"		"10"
+				"radius"		"8"
 				"velocity"		"100"
 
-				"fgcolor_override"	"TFOrange"
+				"fgcolor_override"	"G_Highlight"
 			}
 
 			"QueueText"
@@ -483,7 +357,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"font"			"HudFontSmallestBold"
-				"fgcolor_override"	"Tanlight"
+				"fgcolor_override"	"G_FooterText"
 				"textAlignment"	"west"
 				"labelText"		"%queue_state%"
 				"proportionaltoparent"	"1"
@@ -505,7 +379,7 @@
 					}
 				}
 			}
-
+			
 			"MultiQueuesManageButton"
 			{
 				"ControlName"	"CExImageButton"
@@ -520,7 +394,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"labelText"		""
+				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
 				"dulltext"		"0"
@@ -547,7 +421,7 @@
 					"xpos"			"0"
 					"ypos"			"0"
 					"zpos"			"1"
-					"wide"			"14" 
+					"wide"			"14"
 					"tall"			"14"
 					"visible"		"1"
 					"enabled"		"1"
@@ -560,8 +434,8 @@
 			{
 				"ControlName"	"CExImageButton"
 				"fieldName"		"CloseButton"
-				"xpos"			"rs1-6"
-				"ypos"			"11"
+				"xpos"			"rs1-12"
+				"ypos"			"8"
 				"zpos"			"10"
 				"wide"			"14"
 				"tall"			"14"
@@ -570,7 +444,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"labelText"		""
+				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
 				"dulltext"		"0"
@@ -584,12 +458,13 @@
 			
 				"paintbackground"	"0"
 			
-				"defaultFgColor_override" "46 43 42 255"
-				"armedFgColor_override" "235 226 202 255"
-				"depressedFgColor_override" "46 43 42 255"
+				"defaultFgColor_override" "205 167 211 255" // Button text color
+				"armedFgColor_override"   "192 28 0 255"
+				"depressedFgColor_override" "192 28 0 255"
 			
 				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"200 80 60 255"
+				
 				"SubImage"
 				{
 					"ControlName"	"ImagePanel"
@@ -661,7 +536,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"font"			"HudFontSmallestBold"
-				"fgcolor_override"	"Tanlight"
+				"fgcolor_override"	"TanLight"
 				"textAlignment"	"west"
 				"labelText"		"#TF_MM_JoinPartyLobby_Prompt"
 				"proportionaltoparent"	"1"
@@ -715,21 +590,21 @@
 			"xpos"			"rs1"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"p0.025"
-			"tall"			"13"
+			"wide"			"30"
+			"tall"			"25"
 			"autoResize"	"0"
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"font"			"NewIcons11"
-			"textAlignment"	"center"
+			"font"			"CustomTercero"
+			"textAlignment"	"west"
 			"textinsetx"	"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"quit"
 			"proportionaltoparent"	"1"
-			"labeltext"		"N"
+			"labeltext"		""
 			"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
@@ -738,33 +613,30 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"armedBgColor_override"		"Blank"
-			"defaultBgColor_override"	"Blank"
-			"fgcolor"			"W_ColorIcons1"
-			"fgcolor_override"			"W_ColorIcons1"
-			
-			"defaultFgColor_override" "W_ColorIcons1"
-			"armedFgColor_override" "W_CerrarArmed"
-			"depressedFgColor_override" "W_ColorTexto1"
+			"armedBgColor_override"		"192 28 0 255"
+			"defaultBgColor_override"	"154 22 0 255"
 
-			"image_drawcolor"	"Tanlight"
-			"image_armedcolor"	"Tanlight"
+			"defaultFgColor_override" "255 228 225 255"
+			"armedFgColor_override" "255 255 255 255"
+			
+			"image_drawcolor"	"255 228 225 255"
+			"image_armedcolor"	"255 255 255 255"
 
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"cs-0.5"
-				"ypos"			"rs1-5"
+				"ypos"			"8"
 				"zpos"			"1"
-				"wide"			"0"
-				"tall"			"0"
-				"visible"		"0"
-				"enabled"		"0"
+				"wide"			"14"
+				"tall"			"14"
+				"visible"		"1"
+				"enabled"		"1"
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
 				"image"			"glyph_quit"
-				"drawcolor_override" "Tanlight"
+				"drawcolor_override" "255 255 255 255"
 			}
 		}
 
@@ -775,126 +647,171 @@
 			"xpos"			"rs1"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"p0.025"
-			"tall"			"13"
+			"wide"			"110"
+			"tall"			"25"
 			"autoResize"	"0"
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"font"			"NewIcons11"
-			"textAlignment"	"center"
+			"font"			"CustomTercero"
+			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"quit"
 			"proportionaltoparent"	"1"
-			"labeltext"		"P"
+			"labeltext"		"#TF_Disconnect"
 			"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
 			"RoundedCorners"	"0"
-			"textinsety"	"0"
-			"textinsetx"	"0"
+			"textinsety"	"5"
+			"textinsetx"	"25"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"armedBgColor_override"		"Blank"
-			"defaultBgColor_override"	"Blank"
-			"fgcolor"			"W_ColorIcons1"
-			"fgcolor_override"			"W_ColorIcons1"
-			
-			"defaultFgColor_override" "W_ColorIcons1"
-			"armedFgColor_override" "W_CerrarArmed"
-			"depressedFgColor_override" "W_ColorTexto1"
+			"armedBgColor_override"		"192 28 0 255"
+			"defaultBgColor_override"	"154 22 0 255"
 
-			"image_drawcolor"	"Tanlight"
-			"image_armedcolor"	"Tanlight"
+			"defaultFgColor_override" "255 228 225 255"
+			"armedFgColor_override" "255 255 255 255"
+			
+			"image_drawcolor"	"255 228 225 255"
+			"image_armedcolor"	"255 255 255 255"
 
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"6"
-				"ypos"			"rs1-5"
+				"ypos"			"8"
 				"zpos"			"1"
-				"wide"			"0"
-				"tall"			"0"
-				"visible"		"0"
-				"enabled"		"0"
+				"wide"			"14"
+				"tall"			"14"
+				"visible"		"1"
+				"enabled"		"1"
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
 				"image"			"glyph_disconnect"
-				"drawcolor_override" "Tanlight"
 			}
 		}
 
 		"ResumeButton"
 		{
-			"xpos"			"0"
+			"ControlName"	"CExImageButton"
+			"fieldName"		"ResumeButton"
+			"xpos"			"rs1-31-131"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"0"
-			"tall"			"0"
+			"wide"			"120"
+			"tall"			"25"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"0"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"font"			"CustomTercero"
+			"textAlignment"	"west"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"Command"		"resume_game"
+			"proportionaltoparent"	"1"
+			"labeltext"		"#MMenu_ResumeGame"
+			"mouseinputenabled"	"1"
+			"keyboardinputenabled"	"0"
+			"actionsignallevel"	"2"
+			"roundedcorners"	"1"
+			"textinsety"	"5"
+			"textinsetx"	"25"
+			"use_proportional_insets"	"1"
+
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+
+			"defaultFgColor_override" "205 167 211 255" // Button text color
+			"armedFgColor_override" "255 255 255 255" // Button hover text color
+			
+			"image_drawcolor"	"205 167 211 255" // Button icon color
+			"image_armedcolor"	"255 255 255 255" // Button icon hover color
+
+			"SubImage"
+			{
+				"ControlName"	"ImagePanel"
+				"fieldName"		"SubImage"
+				"xpos"			"6"
+				"ypos"			"8"
+				"zpos"			"1"
+				"wide"			"14"
+				"tall"			"14"
+				"visible"		"1"
+				"enabled"		"1"
+				"scaleImage"	"1"
+				"proportionaltoparent"	"1"
+				"image"			"icon_resume"
+				"image_drawcolor_override"	"205 167 211 255" // Button icon color
+				"image_armedcolor_override"	"255 255 255 255" // Button icon hover color
+			}
 		}
 
 		"FindAGameButton"
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"FindAGameButton"
-			"xpos"			"rs1-p0.045"
+			"xpos"			"rs1-31"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"p0.025"
-			"tall"			"13"
+			"wide"			"115"
+			"tall"			"25"
 			"autoResize"	"0"
-			"pinCorner"		"0"
+			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			font					"NewIcons10"
-			textAlignment			center
-			labeltext				"Z"
+			"font"			"CustomTercero"
+			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"find_game"
 			"proportionaltoparent"	"1"
+			"labeltext"		"#MMenu_FindAGame"
 			"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
 			"roundedcorners"	"1"
-			"textinsety"	"0"
-			"textinsetx"	"0"
+			"textinsety"	"5"
+			"textinsetx"	"25"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"armedBgColor_override"		"Blank"
-			"defaultBgColor_override"	"Blank"
+			"defaultBgColor_override"	"GreenSolid"
+			"armedBgColor_override"		"CreditsGreen"
 
-			"fgcolor"			"W_ColorIcons1"
-			
-			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"W_BorderArmed"
+			"defaultFgColor_override" "242 249 231 255"
+			"armedFgColor_override" "255 255 255 255"
+			"image_drawcolor"	"242 249 231 255"
+			"image_armedcolor"	"255 255 255 255"
 
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"6"
-				"ypos"			"10"
+				"ypos"			"8"
 				"zpos"			"1"
-				"wide"			"0"
-				"tall"			"0"
-				"visible"		"0"
-				"enabled"		"0"
+				"wide"			"14"
+				"tall"			"14"
+				"visible"		"1"
+				"enabled"		"1"
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
 				"image"			"glyph_multiplayer"
-				"drawcolor_override" "Tanlight"
 			}
 		}
 	}
 }
+
+

@@ -2,8 +2,8 @@ Scheme
 {
 	CustomFontFiles
 	{
-	"98" 
-	{
+		"98" 
+		{
 			"font" "resource/font/CustomNotoMono.otf"
 			"name" "CustomNotoMono"
 			"english" 

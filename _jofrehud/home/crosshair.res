@@ -11,7 +11,7 @@
 		"ypos"			"cs-0.5"
 		"wide"			"50"
 		"tall"			"o1"
-		"font"			"xHair"
+		"font"			"Default"	//"xHair"
 		"fgcolor"		"0 255 60 255"
 		"labelText"		"+"
 		"textAlignment"	"center"

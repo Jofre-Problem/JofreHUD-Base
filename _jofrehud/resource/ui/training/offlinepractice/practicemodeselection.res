@@ -7,6 +7,7 @@
 #base "../../base/filesv1/desclabel/ext/hudfontsmallest.res"
 #base "../../base/filesv1/desclabel/ext/pin0.res"
 #base "../../base/filesv1/desclabel/ext/center.res"
+#base "base_main.res"
 "Resource/training/offlinepractice/practicemodeselection.res"
 {
 
@@ -40,56 +41,6 @@
 		"scaleImage"	"1"
 		"image"			"illustrations/bg"
 	}
-	
-	"PrevButton"
-	{
-		"ControlName"	"CExButton"
-		"fieldName"		"PrevButton"
-		"xpos"			"36"
-		"ypos"			"105"
-		"zpos"			"20"
-		"wide"			"18"
-		"tall"			"43"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"labelText"		"#TF_LessThan"
-		"font"			"HudFontSmallBold"
-		"textAlignment"	"center"
-		"textinsetx"	"0"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"Command"		"goprev"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
-	}	
-	
-	"NextButton"
-	{
-		"ControlName"	"CExButton"
-		"fieldName"		"NextButton"
-		"xpos"			"396"
-		"ypos"			"105"
-		"zpos"			"20"
-		"wide"			"18"
-		"tall"			"43"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"labelText"		"#TF_GreaterThan"
-		"font"			"HudFontSmallBold"
-		"textAlignment"	"center"
-		"textinsetx"	"0"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"Command"		"gonext"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
-	}	
 	
 	"GameModeLabel"
 	{

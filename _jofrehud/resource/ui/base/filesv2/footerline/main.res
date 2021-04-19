@@ -6,13 +6,12 @@
 		"fieldName"		"FooterLine"
 		"xpos"			"0"
 		"ypos"			"420"
-		"zpos"			"2"
+		"zpos"			"-50"
 		"wide"			"f0"
-		"tall"			"p0.001"
+		"tall"			"10"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"W_ColorIcons1"		
-		"image"			""
+		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
 	}
 }

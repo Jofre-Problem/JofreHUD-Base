@@ -306,27 +306,6 @@
 		"wide"					"f0"
 		"tall"					"f0"
 	}
-	
-	WinPanel
-	{
-		"xpos"					"0"
-		"ypos"					"0"		
-		"fieldName"				"WinPanel"
-		"visible"				"1"
-		"enabled"				"1"
-		"zpos"					"10"
-		"wide"					"f0"
-		"tall"					"480"
-	}
-	ArenaWinPanel
-	{
-		"xpos"					"0"
-		"ypos"					"0"		
-		"wide"					"f0"
-		"tall"					"480"
-		//"pin_to_sibling"	"WinPanel"	 //HELL				
-	}
-	
 	HudSpellMenu
 	{
 		"wide"	 "f0"
@@ -352,35 +331,11 @@
 		"wide"					"f0"
 		"tall"					"480"
 	}
-	
-	"HudMenuTauntSelection"
-	{
-		"xpos"			"0"
-		"ypos"			"0"
-		"ypos_hidef"	"0"
-		"ypos_lodef"	"0"
-		"wide"			"f0"
-		"tall"			"f0"
-		"alpha"			"170"
-		
-	}
-	HudStalemate
-	{
-		"xpos"					"0"
-		"ypos"					"0"
-		"wide"					"f0"
-		"tall"					"f0"
-	}
 	HudBossHealth
 	{
 		"wide"			"f0"
 		"tall"			"f0"
 	}
-	HudArenaPlayerCount
-	{
-		"ypos"			"0"//"rs1+20"//"-1"
-		"zpos"			"10"
-	}	
 	HudCrosshair
 	{
 		"xpos"			"cs-0.5-p0.0005"	//p0.05 = 1 wide	- > 0.01

@@ -6,3 +6,4 @@
 #base "../../friends/base/namelabel_pincorner.res"
 #base "../../#uni_base/filesv3/namelabel/tall20.res"
 #base "base/filesv2/classmodelpanel/content_import.res"
+#base "base/filesv1/typelabel/main.res"

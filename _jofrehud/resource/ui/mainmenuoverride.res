@@ -11,7 +11,7 @@
 
 //	#base "../#jofre/new_mm_panel1.res" :: check mainmenu - downbartype.res"
 
-	#base "../#jofre/desktop icons black.res"
+//	#base "../#jofre/desktop icons black.res"
 	
 //	#base "../#jofre/safe-mode.res"
 
