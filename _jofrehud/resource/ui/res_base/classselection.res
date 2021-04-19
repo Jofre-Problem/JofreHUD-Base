@@ -2,6 +2,7 @@
 #base "../base/1shadedbar.res"
 #base "../base/1menubg.res"
 #base "../base/1footer.res"
+#base "../base/filesv2/localplayerbg/main.res"
 #base "../../../#uni_base/filesv1/class/main.res"
 "Resource/UI/ClassSelection.res"
 {
@@ -845,27 +846,10 @@
 	
 	"localPlayerBG"
 	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"localPlayerBG"
 		"xpos"			"c-35"
 		"ypos"			"345"
-		"zpos"			"2"
 		"wide"			"55"
 		"tall"			"80"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"1"
-		"image"			"../hud/color_panel_clear"
-		"scaleImage"	"1"	
-		"teambg_2"		"../hud/color_panel_clear"
-		"teambg_3"		"../hud/color_panel_clear"
-			
-		"src_corner_height"		"23"			// pixels inside the image
-		"src_corner_width"		"23"
-				
-		"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"	
 	}
 	
 	"countImage0" [$WIN32]

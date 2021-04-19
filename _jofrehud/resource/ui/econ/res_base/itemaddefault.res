@@ -1,4 +1,11 @@
 #base "../../../../#uni_base/filesv1/background/bg_main.res"
+#base "../../../../#uni_base/filesv1/background/controlname/editable.res"
+#base "../../../../#uni_base/filesv1/background/position/x_0.res"
+#base "../../../../#uni_base/filesv1/background/position/y_0.res"
+#base "../../../../#uni_base/filesv1/background/bg_vis1.res"
+#base "../../../../#uni_base/filesv1/background/bg_paintbgtype_0.res"
+
+#base "../../../../#uni_base/filesv1/background/position/wide_f0.res"
 "Resource/UI/econ/CyclingAdContainer.res"
 {
 	"ad"
@@ -11,13 +18,8 @@
 
 	"Background"
 	{
-		"ControlName"	"EditablePanel"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
 		"PaintBackgroundType"	"0"
 		"proportionaltoparent"	"1"
 

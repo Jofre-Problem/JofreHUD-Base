@@ -1,33 +1,6 @@
 #base "../../#uni_base/filesv1/background/bg_main.res"
-"Resource/UI/HudKillStreakNotice.res"
-{	
-	"Background"
-	{
-		"ControlName"	"EditablePanel"
-		"xpos"			"c-250"
-		"ypos"			"50"
-		"zpos"			"0"
-		"wide"			"500"
-		"tall"			"50"
-		"autoResize"	"0"
-		"visible"		"1"
-		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"27 27 27 160"	
-	}
-	
-	"SplashLabel"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"SplashLabel"
-		"font"			"HudFontSmallestBold"
-		"labelText"		""
-		"textAlignment" "center"
-		"xpos"			"c-250"
-		"ypos"			"50"
-		"zpos"			"2"
-		"wide"			"500"
-		"tall"			"50"
-		"autoResize"	"0"
-		"fgcolor"		"Tanlight"
-	}
-}
+#base "../../#uni_base/filesv1/background/bg_vis1.res"
+#base "../../#uni_base/filesv1/background/bg_enabled.res"
+#base "../../#uni_base/filesv1/background/controlname/editable.res"
+#base "../../#uni_base/filesv1/background/bg_auto.res"
+#base "../../#uni_base/filesv1/background/bg_paintbg_2.res"

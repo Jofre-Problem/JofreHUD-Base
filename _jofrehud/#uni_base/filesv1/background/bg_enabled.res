@@ -4,5 +4,6 @@
 	"Background"
 	{
 		"fieldName"		"Background"
+		"enabled"		"1"
 	}
 }

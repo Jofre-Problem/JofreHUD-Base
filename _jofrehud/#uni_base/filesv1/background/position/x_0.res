@@ -3,6 +3,6 @@
 {
 	"Background"
 	{
-		"fieldName"		"Background"
+		"xpos"	"0"
 	}
 }

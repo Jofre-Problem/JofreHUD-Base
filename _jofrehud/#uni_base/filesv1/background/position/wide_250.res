@@ -3,6 +3,6 @@
 {
 	"Background"
 	{
-		"fieldName"		"Background"
+		"wide"	"250"
 	}
 }

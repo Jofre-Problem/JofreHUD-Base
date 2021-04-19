@@ -3,6 +3,6 @@
 {
 	"Background"
 	{
-		"fieldName"		"Background"
+		"PaintBackgroundType"	"2"
 	}
 }

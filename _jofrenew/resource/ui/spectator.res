@@ -35,7 +35,7 @@
 		"labelText"			"#game_respawntime_in_secs"
 		"textAlignment"		"center"
 		"textinsety"		"2"
-		"font"				"G_FontMedium_2"
+		"font"				"CustomCuarto"
 		"fgcolor_override"	"G_White"
 	}
 
@@ -46,38 +46,25 @@
 	
 	"MapLabel"
 	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"MapLabel"
-		"font"			"G_FontSmall"
+		"font"			"CustomSegundo"
 		"textinsetx"	"5"
 		"xpos"			"r260"
 		"ypos"			"0"
 		"wide"			"240"
 		"tall"			"21"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		"" // map: cp_bridge
 		"textAlignment"		"east"
 		"fgcolor_override"	"G_White"
 	}
 	"ClassOrTeamLabel"
 	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"ClassOrTeamLabel"
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"170"
 		"tall"			"21"
 		"zpos"			"2"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
 		"labelText"		"#TF_Spectator_ChangeTeam"
 		"textAlignment"		"center"
-		"font"				"SpectatorKeyHints"
+		"font"				"CustomPrimero"
 		"fgcolor_override"		"G_White"
 	}
 	"SwitchCamModeKeyLabel"
