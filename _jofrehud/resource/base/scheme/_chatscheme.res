@@ -28,8 +28,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Verdana" // Chat font
-				"tall"			"12" // Chat fontsize
+				"tall"			"10" // Chat fontsize
 				"weight"		"700" // Chat fontweight
 				"yres"			"480 599" // Chat yres
 				"dropshadow"	"1" // Chat shadow
@@ -37,8 +36,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Verdana" // Chat font
-				"tall"			"14" // Chat fontsize
+				"tall"			"12" // Chat fontsize
 				"weight"		"700" // Chat fontweight
 				"yres"			"600 767" // Chat yres
 				"dropshadow"	"1" // Chat shadow
@@ -46,8 +44,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Verdana" // Chat font
-				"tall"			"15" // Chat fontsize
+				"tall"			"13" // Chat fontsize
 				"weight"		"700" // Chat fontweight
 				"yres"			"768 1023" // Chat yres
 				"dropshadow"	"1" // Chat shadow
@@ -55,8 +52,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Verdana" // Chat font
-				"tall"			"17" // Chat fontsize
+				"tall"			"15" // Chat fontsize
 				"weight"		"700" // Chat fontweight
 				"yres"			"1024 1199" // Chat yres
 				"dropshadow"	"1" // Chat shadow
@@ -64,8 +60,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Verdana" // Chat font
-				"tall"			"22" // Chat fontsize
+				"tall"			"20" // Chat fontsize
 				"weight"		"700" // Chat fontweight
 				"yres"			"1200 10000" // Chat yres
 				"dropshadow"	"1" // Chat shadow

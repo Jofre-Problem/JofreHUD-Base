@@ -1,4 +1,11 @@
 #base "../base/1footer.res"
+#base "../../../#uni_base/filesv1/maplabel/main.res"
+#base "../../../#uni_base/filesv1/maplabel/controlname/cex.res"
+#base "../../../#uni_base/filesv1/maplabel/contain/%maplabel.res"
+#base "../../../#uni_base/filesv1/maplabel/auto.res"
+#base "../../../#uni_base/filesv1/maplabel/pin.res"
+#base "../../../#uni_base/filesv1/maplabel/enabled.res"
+#base "../../../#uni_base/filesv1/maplabel/text/center.res"
 "Resource/UI/winpanel.res"
 {
 	"TFStatsSummary"
@@ -40,15 +47,10 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"MapLabel"
 		"font"			"HudFontMediumBigBold"
-		"labelText"		"%maplabel%"
-		"textAlignment"		"center" 
 		"xpos"			"5"
 		"ypos"			"92"
 		"zpos"			"50"
 		"tall"			"35"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"enabled"		"1"
 	}
 	"MapType"
 	{

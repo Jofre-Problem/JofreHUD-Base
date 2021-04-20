@@ -1,9 +1,9 @@
 "resource/SFM_AnimationSetPicker.res"
 {
-	"ServerName"
+	"servername"
 	{
 		"ControlName"		"Label"
-		"fieldName"		"ServerName"
+		"fieldName"		"servername"
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"		"west"

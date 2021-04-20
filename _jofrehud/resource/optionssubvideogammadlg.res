@@ -1,1 +1,18 @@
 #base "../#uni_base/filesv1/imagepanel1/main.res"
+
+#base "../#uni_base/filesv2/button1/main.res"
+
+#base "../#uni_base/filesv2/button1/position/wide80.res"
+#base "../#uni_base/filesv2/button1/position/tall24.res"
+#base "../#uni_base/filesv2/button1/extra/auto0.res"
+#base "../#uni_base/filesv2/button1/extra/pin0.res"
+#base "../#uni_base/filesv2/button1/vis1.res"
+#base "../#uni_base/filesv2/button1/enabled.res"
+#base "../#uni_base/filesv2/button1/direccion/west.res"
+#base "../#uni_base/filesv2/button1/extra/tab4.res"
+#base "../#uni_base/filesv2/button1/extra/wrap0.res"
+#base "../#uni_base/filesv2/button1/extra/dull0.res"
+#base "../#uni_base/filesv2/button1/extra/bright0.res"
+#base "../#uni_base/filesv2/button1/extra/cmd/close.res"
+#base "../#uni_base/filesv2/button1/extra/def0.res"
+#base "../#uni_base/filesv2/button1/label/vgui_cancel.res"

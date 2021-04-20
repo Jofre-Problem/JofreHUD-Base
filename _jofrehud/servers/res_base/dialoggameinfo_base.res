@@ -1,6 +1,8 @@
 #base "../../resource/#bases/1sysmenu.res"
 #base "../../#uni_base/filesv1/refresh/main.res"
 #base "../../#uni_base/filesv1/maplabel/main.res"
+#base "../../#uni_base/filesv1/maplabel/text/east.res"
+#base "../../#uni_base/filesv1/maplabel/position/tall20.res"
 "Servers/DialogGameInfo.res"
 {
 	"DialogGameInfo"
@@ -128,9 +130,9 @@
 		"xpos"		"16"
 		"ypos"		"114"
 		"wide"		"108"
-		"tall"		"20"
+	//	"tall"		"20"
 		"labelText"		"#ServerBrowser_MapLabel"
-		"textAlignment"		"east"
+	//	"textAlignment"		"east"
 	}
 	"PlayersLabel"
 	{
