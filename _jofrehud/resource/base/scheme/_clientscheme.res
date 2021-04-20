@@ -1,5 +1,5 @@
 //	#base "!custom/noto.res" // already defined but I forgot
-//	#base "font/default.res"
+	#base "font/default.res"
 	#base "cs_global_tf.res"
 	#base "cs_windows.res"
 	#base "bitmap.res"

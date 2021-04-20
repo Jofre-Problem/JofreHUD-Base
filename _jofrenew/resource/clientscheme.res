@@ -1,8 +1,8 @@
 	
 	#base "clientscheme/clientscheme_colors.res"
 //	#base "clientscheme/clientscheme_borders.res"
-	#base "clientscheme/clientscheme_fonts.res"
-	#base "clientscheme/magnum_scheme_sc.res"
+//	#base "clientscheme/clientscheme_fonts.res"
+//	#base "clientscheme/magnum_scheme_sc.res"
 	
 Scheme
 {
@@ -124,77 +124,7 @@ Scheme
 	{
 		"Default"
 		{
-			"1"
-			{
-				"font"		"CustomNotoMono" 
-				"tall"		"12"
-				"weight"	"800"
-			}
-			"2"
-			{
-				"font"		"CustomNotoMono"				
-				"tall"		"13"
-				"weight"	"800"
-			}
-			"3"
-			{
-				"font"		"CustomNotoMono"				
-				"tall"		"14"
-				"weight"	"800"
-			}
-			"4"
-			{
-				"font"		"CustomNotoMono"				
-				"tall"		"20"
-				"weight"	"800"
-			}
-			"5"
-			{
-				"font"		"CustomNotoMono"				
-				"tall"		"24"
-				"weight"	"800"
-			}
-			"6"
-			{
-				"font"		"CustomNotoMono"				
-				"tall"		"12"
-				"weight"	"800"
-			}
-			"7"
-			{
-				"font"		"CustomNotoMono"				
-				"tall"		"12"
-				"weight"	"800"
-			}
-		}
-		"NewIcons57" 
-		{
-			"1"
-			{
-				"name"				"JofreIconsRe"
-				"tall"				"37"				
-				"antialias"			"1"
-				"weight"		"400"				
-			}
-		}	
-		"NewIcons40" 
-		{
-			"1"
-			{
-				"name"				"JofreIconsRe"
-				"tall"				"65"				
-				"antialias"			"1"				
-			}
-		}					
-		"NewIcons25" 
-		{
-			"1"
-			{
-				"name"				"JofreIconsRe"
-				"tall"				"25"		
-				"antialias"			"1"
-			}
-		}	
+		}			
 		"NewIcons22" 
 		{
 			"1"
@@ -209,55 +139,10 @@ Scheme
 			"1"
 			{
 				"name"				"JofreIconsRe"
-				"tall"				20		
+				"tall"				"20"
 				"antialias"			"1"
 			}
-		}		
-		"NewIcons18" 
-		{
-			"1"
-			{
-				"name"				"JofreIconsRe"
-				"tall"				18	
-				"antialias"			"1"
-			}
-		}		
-		"NewIcons15" 
-		{
-			"1"
-			{
-				"name"				"JofreIconsRe"
-				"tall"				15	
-				"antialias"			"1"
-			}
-		}
-		"NewIcons12" 
-		{
-			"1"
-			{
-				"name"				"JofreIconsRe"
-				"tall"				"12"		
-				"antialias"			"1"
-			}
-		}		
-		"NewIcons11" 
-		{
-			"1"
-			{
-				"name"				"JofreIconsRe"
-				"tall"				"11"		
-				"antialias"			"1"
-			}
-		}		
-		"NewIcons10" 
-		{
-			"1"
-			{
-				"name"				"JofreIconsRe"
-				"tall"				"9"		
-				"antialias"			"1"
-			}
-		}			
+		}				
 		"BetaFont"
 		{
 			"1"
@@ -276,7 +161,6 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"		"15"
-				"antialias"	"1"
 			}
 		}	
 		"MenuMedium"	
@@ -286,7 +170,6 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"		"15"
-				"antialias"	"1"
 			}
 		}			
 		"MenuSmall"	
@@ -296,7 +179,6 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"		"15"
-				"antialias"	"1"
 			}
 		}
 		MatchmakingDialogMenuSmall
@@ -1883,70 +1765,5 @@ Scheme
 	CustomFontFiles
 	{
 		"97"		"resource/font/jofreiconsmaster.otf"	// aparentemente mejor 
-		"98"
-		{
-			"font" "resource/font/CustomNotoMono.otf"
-			"name" "CustomNotoMono"
-			"english" 
-			{
-				"range" "0x021 0xFFFF" 
-			}
-			"turkish"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-			"swedish"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-			"spanish"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-			"romanian"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-			"polish"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-			"norwegian"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-			"danish"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-			"hungarian"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-			"german"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-			"french"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-			"finnish"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-			"czech"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-			"bulgarian"
-			{
-				"range" "0x0000 0xFFFF"
-			}
-			"russian"
-			{
-				"range" "0x0000 0xFFFF"
-			}					
-		}
 	}	
 }
