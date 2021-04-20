@@ -1,5 +1,15 @@
+#base "../../#uni_base/filesv1/divider1/divider1_main.res"
+#base "../../#uni_base/filesv1/divider1/divider1_auto-pin0.res"
+
 "resource/infotargetpropertiessubpanel_target.res"
 {
+	"Divider1"
+	{
+		"xpos"		"19"
+		"ypos"		"63"
+		"wide"		"500"
+		"autoResize"		"1"
+	}
 	"InfoTarget"
 	{
 		"ControlName"		"EditablePanel"
@@ -340,19 +350,5 @@
 		"brighttext"		"0"
 		"wrap"		"0"
 	}
-	"Divider1"
-	{
-		"ControlName"		"Divider"
-		"fieldName"		"Divider1"
-		"xpos"		"19"
-		"ypos"		"63"
-		"wide"		"500"
-		"tall"		"2"
-		"autoResize"		"1"
-		"UnpinnedCornerOffsetX" "-20"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-	}
+
 }
