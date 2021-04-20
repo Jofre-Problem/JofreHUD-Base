@@ -7,4 +7,8 @@ This HUD is focused ENTIRELY on optimize the game, but there are some personal c
 
 Those changes are located inside "_jofrenew" folder. Which probably will be disabled by default.
 
-However, there are other changes that can be emulated as the orginal hud like the item effect metter.
+However, there are other changes that CANT be emulated as the orginal hud like the item effect metter.
+
+This is pretty much my base for future HUDS. You can grab all the optimization stuff I did here for actually added it to your own hud.
+
+But please, give credit.
