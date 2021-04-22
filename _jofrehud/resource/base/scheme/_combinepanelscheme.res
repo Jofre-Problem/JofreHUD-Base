@@ -12,3 +12,5 @@
 #base "colors/red.res"
 #base "colors/dullwhite.res"
 #base "colors/offwhite.res"
+
+#base "colors/orange.res"

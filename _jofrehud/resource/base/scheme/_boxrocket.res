@@ -21,6 +21,9 @@
 #base "colors/green.res"
 #base "colors/dullwhite.res"
 #base "colors/offwhite.res"
+
+#base "colors/orange.res"
+// added cuz due to mainmenu_cons.res has an entry of Orange
 //not deleted cuz mayaplugins
 Scheme
 {
