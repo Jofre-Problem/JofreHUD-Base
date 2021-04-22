@@ -9,6 +9,7 @@
 		"ypos"		"63"
 		"wide"		"500"
 		"autoResize"		"1"
+		"UnpinnedCornerOffsetX" "-20"
 	}
 	"InfoTarget"
 	{
