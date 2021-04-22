@@ -1,52 +1,6 @@
 #base "heavy_red_base_class.res"
 "Resource/UI/disguise_menu/heavy_red.res"
 {
-	"ClassLabel"
-	{	
-		"ControlName"	"CExLabel"
-		"fieldName"		"ClassLabel"
-		"font"			"NewIcons20"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"2"
-		"wide"			"40"
-		"tall"			"40"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		"e"
-		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"fgcolor_override"	"red"
-	}
-	
-	"ClassLabel2"
-	{	
-		"ControlName"	"CExLabel"
-		"fieldName"		"ClassLabel2"
-		"font"			"NewIcons20"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"1"
-		"wide"			"40"
-		"tall"			"40"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		"e"
-		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"fgcolor_override"	"Black"
-		
-		"pin_to_sibling" "ClassLabel"
-		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
-		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
-	}
-
 	"ItemNameLabel"
 	{	
 		"ControlName"	"CExLabel"

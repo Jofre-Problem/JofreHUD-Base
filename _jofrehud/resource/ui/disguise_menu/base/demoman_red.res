@@ -2,16 +2,6 @@
 
 "Resource/UI/disguise_menu/demoman_red.res"
 {
-	"ClassLabel"
-	{
-		"labelText"		"d"
-	}
-	
-	"ClassLabel2"
-	{
-		"labelText"		"d"
-	}
-	
 	"NewNumberLabel"
 	{
 		"labelText"		"1"

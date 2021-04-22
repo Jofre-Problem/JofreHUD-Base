@@ -1,10 +1,6 @@
-	#base "../#jofre/motd-list.res"
-	#base "../#jofre/motd-code.res"
-
 //	#base "../#jofre/downbar.res" :: check mainmenu - downbartype.res"
 
 //	#base "../../#customization/resource/ui/mainmenu - downbartype.res"
-	#base "../../#customization/resource/ui/mainmenu_safemode.res"
 		
 //	#base "../#jofre/dashboard_bg.res"
 //	#base "../#jofre/loadout_explanation_bg.res"

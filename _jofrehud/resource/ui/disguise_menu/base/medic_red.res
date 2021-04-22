@@ -2,15 +2,6 @@
 
 "Resource/UI/disguise_menu/medic_red.res"
 {
-	"ClassLabel"
-	{
-		"labelText"		"g"
-	}
-	
-	"ClassLabel2"
-	{
-		"labelText"		"g"
-	}
 	
 	"NewNumberLabel"
 	{

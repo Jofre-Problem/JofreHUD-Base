@@ -7,11 +7,10 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"1"
-		"wide"			"40"
+		"wide"			"45"
 		"tall"			"90"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
-		"icon"			"hud_menu_heavy_blu"
 	}
 }

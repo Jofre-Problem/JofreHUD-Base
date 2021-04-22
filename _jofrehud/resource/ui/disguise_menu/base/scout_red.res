@@ -2,15 +2,6 @@
 
 "Resource/UI/disguise_menu/scout_red.res"
 {
-	"ClassLabel"
-	{
-		"labelText"		"a"
-	}
-	
-	"ClassLabel2"
-	{
-		"labelText"		"a"
-	}
 	
 	"NewNumberLabel"
 	{

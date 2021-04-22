@@ -2,16 +2,6 @@
 
 "Resource/UI/disguise_menu/spy_red.res"
 {
-	"ClassLabel"
-	{
-		"labelText"		"i"
-		"fgcolor_override"	"blue"
-	}
-	
-	"ClassLabel2"
-	{
-		"labelText"		"i"
-	}
 	
 	"NewNumberLabel"
 	{
