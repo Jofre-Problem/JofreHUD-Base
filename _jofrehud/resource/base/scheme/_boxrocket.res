@@ -24,6 +24,8 @@
 
 #base "colors/orange.res"
 // added cuz due to mainmenu_cons.res has an entry of Orange
+
+
 //not deleted cuz mayaplugins
 Scheme
 {
@@ -117,7 +119,7 @@ Scheme
 		TimeCode.ClipBgColor		"255 255 255 63"
 		
 		IFM.CurrentTimeScrubber		"100 150 255 192"  // In the timeline views, the grabbable scrubber color
-		IFM.CurrentTimeScrubberOutline	"0 0 0 0"  // In the timeline views, the outline around the bar and scrubber
+		IFM.CurrentTimeScrubberOutline	"Blank"  // In the timeline views, the outline around the bar and scrubber
 		IFM.CurrentTimeBarColor		"100 150 255 192" 
 		
 		IFM.ClipTransitionBgColor	"180 180 255 192"

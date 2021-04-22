@@ -22,12 +22,12 @@ Scheme
 		
 		"W_ColorTheme2Blur"	"27 27 27 50"//"228 228 228 50"
 		//--------------------------------Phones? ok! (Android)
-		"A_ColorTheme1"	"218 220 224 255"
-		"A_ColorTheme2"	"241 243 244 255"
-		"A_ColorTheme3"	"26 115 232 255"
-		"A_ColorLinea1"	"196 197 198 255"
-		"A_ColorIcons1"	"102 102 102 255"
-		"A_ColorTexto1"	"32 33 36 255"
-		"A_ColorTexto1"	"97 97 97 255"
+	//	"A_ColorTheme1"	"218 220 224 255"
+	//	"A_ColorTheme2"	"241 243 244 255"
+	//	"A_ColorTheme3"	"26 115 232 255"
+	//	"A_ColorLinea1"	"196 197 198 255"
+	//	"A_ColorIcons1"	"102 102 102 255"
+	//	"A_ColorTexto1"	"32 33 36 255"
+	//	"A_ColorTexto1"	"97 97 97 255"
 	}
 }	
