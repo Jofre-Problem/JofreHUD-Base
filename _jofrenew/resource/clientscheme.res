@@ -121,28 +121,7 @@ Scheme
 		"MenuBoxBg"											"0 0 0 80"
 	}
 	Fonts
-	{
-		"Default"
-		{
-		}			
-		"NewIcons22" 
-		{
-			"1"
-			{
-				"name"				"JofreIconsRe"
-				"tall"				"22"		
-				"antialias"			"1"
-			}
-		}		
-		"NewIcons20" 
-		{
-			"1"
-			{
-				"name"				"JofreIconsRe"
-				"tall"				"20"
-				"antialias"			"1"
-			}
-		}				
+	{			
 		"BetaFont"
 		{
 			"1"
@@ -1760,10 +1739,5 @@ Scheme
 			"inset" 								"0 0 0 0"
 			"backgroundtype" 						"2"
 		}
-	}
-
-	CustomFontFiles
-	{
-		"97"		"resource/font/jofreiconsmaster.otf"	// aparentemente mejor 
 	}	
 }
