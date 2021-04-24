@@ -2,6 +2,9 @@
 #base "#bases/1progress.res"
 #base "#bases/1progress2.res"
 #base "#bases/1timere.res"
+#base "../#uni_base/filesv1/urllabel1/main.res"
+#base "../#uni_base/filesv1/urllabel1/main2.res"
+#base "../#uni_base/filesv1/urllabel1/tab0.res"
 "Resource/LoadingDialogErrorNoSteamConnection.res"
 {
 	"LoadingDialog"
@@ -20,26 +23,5 @@
 	}
 	"TimeRemainingLabel"
 	{
-	}
-	"URLLabel1"
-	{
-		"ControlName"		"URLLabel"
-		"fieldName"		"URLLabel1"
-		"xpos"		"27"
-		"ypos"		"111"
-		"wide"		"346"
-		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"labelText"		"#VAC_ConnectionIssuesSupportSite"
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"wrap"		"0"
-		"URLText"		"#VAC_ConnectionIssuesSupportURL"
-		"font"		"DefaultBold"
 	}
 }

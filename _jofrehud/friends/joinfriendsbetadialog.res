@@ -6,3 +6,5 @@
 #base "base/label1_wrap1.res"
 #base "base/divider1.res"
 #base "base/button1.res"
+
+#base "../#uni_base/filesv1/urllabel1/main.res"

@@ -13,3 +13,6 @@
 #base "../#uni_base/filesv2/button1/extra/cmd/close.res"
 #base "../#uni_base/filesv2/button1/extra/def1.res"
 #base "../#uni_base/filesv2/button1/label/vgui_close.res"
+#base "../#uni_base/filesv1/urllabel1/main.res"
+#base "../#uni_base/filesv1/urllabel1/main2.res"
+#base "../#uni_base/filesv1/urllabel1/tab0.res"
