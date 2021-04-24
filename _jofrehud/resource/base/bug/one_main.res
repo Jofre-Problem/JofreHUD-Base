@@ -121,7 +121,6 @@
 	"BugIncludeFile"
 	{
 		"xpos"		"10"
-		"ypos"		"292"
 		"wide"		"85"
 		"visible"		"1"
 		"labelText"		"Include file..."
@@ -130,7 +129,6 @@
 	"BugClearIncludedFiles"
 	{
 		"xpos"		"10"
-		"ypos"		"316"
 		"wide"		"85"
 		"visible"		"1"
 		"labelText"		"Clear files"
@@ -139,16 +137,14 @@
 	"BugPosition"
 	{
 		"xpos"		"420"
-		"ypos"		"182"
 		"tall"		"24"
-		"labelText"		"-1072.00 128.00 16.03"
+	//	"labelText"		"-1072.00 128.00 16.03"
 	}
 	"BugOrientation"
 	{
 		"xpos"		"420"
-		"ypos"		"207"
 		"tall"		"24"
-		"labelText"		"0.00 180.00 0.00"
+	//	"labelText"		"0.00 180.00 0.00"
 	}
 	"BugLevel"
 	{
