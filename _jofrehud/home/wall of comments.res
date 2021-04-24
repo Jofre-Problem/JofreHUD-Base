@@ -239,14 +239,10 @@ Jofre Problem? :  YES
 [Dead] Euro! :  you got 163 ping rn
 [RTD] Jofre Problem? rolled: drugged.
 [Dead] ( ͡° ͜ʖ ͡° )Monke :  no Biggest is definition of lag
-[TBC] You just gained 6 Gimgims!
-[VSH 2] Check out your VSH Achievements with /vshach.
 [Dead] ( ͡° ͜ʖ ͡° )Monke :  he goes to 250-350 ping
 [Dead] Euro! :  alright
 [Dead] Euro! :  yea
-[RTD] Jofre Problem?'s effect has worn off.
 [Dead] Chilling :  But biggest can get killed
-[RTD] You must wait 107 second(s).
 [Dead] Euro! :  I'm the definition of... (you better say annoying)
 *DEAD* penguin elkinsa :  lol
 [Dead] SarCATstic :  epic
@@ -255,7 +251,6 @@ keycrasher :  ight, any last words?
 Hermit/varmint :  yeet
 [Dead] Chilling :  Jofre wtf dude
 [Dead] SarCATstic :  you're the definition of person
-[RTD] Hermit/varmint rolled: dispenser pop-up for 20 seconds.
 [Dead] ( ͡° ͜ʖ ͡° )Monke :  jofre doesn't go hale as often as biggest
 
 *DEAD* Jofre Problem? :  xd

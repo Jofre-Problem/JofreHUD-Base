@@ -1,20 +1,8 @@
-#base "../#bases/buildmodedialog_base.res"
-#base "../../#uni_base/filesv1/grip_/frames/main.res"
 #base "../../#uni_base/filesv1/label1/label1_main.res"
 #base "../../#uni_base/filesv1/label1/label1_west.res"
 #base "../../#uni_base/filesv1/label1/label1_autoresize.res"
 "Resource/BugUIPanel.res"
 {
-	"frame_bottomGrip"
-	{
-		"ypos"		"475"
-		"wide"		"574"
-	}
-	"BuildModeDialog"
-	{
-		"xpos"		"20"
-		"ypos"		"78"
-	}
 	"BugUIPanel"
 	{
 		"ControlName"		"CBugUIPanel"

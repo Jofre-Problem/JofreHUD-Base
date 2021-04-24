@@ -22,7 +22,7 @@
 #base "colors/dullwhite.res"
 #base "colors/offwhite.res"
 
-#base "colors/orange.res"
+// #base "colors/orange.res"
 // added cuz due to mainmenu_cons.res has an entry of Orange
 
 
@@ -151,6 +151,10 @@ Scheme
 			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
+				"tall"		"32"
+				"weight"	"1000"
+				"outline"	"1"
+				"antialias" "1"			
 			}
 		}
 		
@@ -160,6 +164,9 @@ Scheme
 			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
+				"tall"		"12"
+				"weight"	"1000"
+				"antialias" "1"				
 			}
 		}
 
@@ -169,6 +176,10 @@ Scheme
 			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana"
+				"tall"		"12"
+				"weight"	"0"
+				"antialias" "1"				
 			}
 		}
 
@@ -178,6 +189,9 @@ Scheme
 			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
+				"tall"		"13"
+				"weight"	"0"
+				"antialias" "1"				
 			}
 		}
 
@@ -187,6 +201,9 @@ Scheme
 			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
+				"tall"		"14"
+				"weight"	"0"
+				"antialias" "1"				
 			}
 		}
 
@@ -196,6 +213,9 @@ Scheme
 			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
+				"tall"		"18"
+				"weight"	"0"
+				"antialias" "1"				
 			}
 		}
 
@@ -205,6 +225,9 @@ Scheme
 			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
+				"tall"		"22"
+				"weight"	"0"
+				"antialias" "1"				
 			}
 		}
 	}

@@ -2,7 +2,7 @@ Scheme
 {
 	Fonts
 	{
-		UIBold
+		"UIBold"
 		{
 			"1"
 			{

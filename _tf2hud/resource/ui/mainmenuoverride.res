@@ -119,7 +119,6 @@
 			}
 		}
 	}	
-
 	"mouseoveritempanel"
 	{
 		"ControlName"	"CItemModelPanel"

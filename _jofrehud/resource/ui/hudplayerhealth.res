@@ -1,6 +1,7 @@
 //#base "../#beta/c_spacer.res"
 #base "../#beta/spacer.res"
 #base "base/playerstatushealthvalue.res"
+	#base "../../#customization/scripts/transparent.res"
 "Resource/UI/HudPlayerHealth.res"
 {
 	"HudPlayerHealth"

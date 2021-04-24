@@ -17,8 +17,8 @@ Scheme
 
 		NewGame.TextColor			"White"
 		NewGame.FillColor			"Black"
-		NewGame.SelectionColor		"Orange"	[$WIN32]
-		NewGame.SelectionColor		"Black"	[$X360]
+		NewGame.SelectionColor		"255 155 0 255"
+		NewGame.SelectionColor		"Black"
 		NewGame.DisabledColor		"Blank"
 	}		
 }

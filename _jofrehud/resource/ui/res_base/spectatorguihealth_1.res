@@ -68,7 +68,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"CustomSegundo"
+		"font"			"CustomPrimero"
 		"fgcolor"		"G_HealthValue"
 	}				
 }

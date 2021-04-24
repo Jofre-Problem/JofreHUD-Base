@@ -8,11 +8,9 @@
 		"ypos"			"0"
 		"zpos"			"-2"
 		"wide"			"f0"
-		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"W_ColorTheme1"
-		"image"			""
+		"image"			"loadout_header"
 		"tileImage"		"1"
 	}	
 }
