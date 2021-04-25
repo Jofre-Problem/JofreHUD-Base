@@ -1,3 +1,5 @@
+#base "../../../#uni_base/filesv1/label2/position/wide80.res"
+#base "../../../#uni_base/filesv1/label2/text/west.res""
 "Resource\BugUIPanel.res"
 {
 	"BugDescription"
@@ -232,9 +234,9 @@
 	{
 		"xpos"		"10"
 		"ypos"		"65"
-		"wide"		"80"
+	//	"wide"		"80"
 		"labelText"		"Description:"
-		"textAlignment"		"west"
+	//	"textAlignment"		"west"
 	}
 	"Label3"
 	{

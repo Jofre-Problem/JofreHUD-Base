@@ -1,10 +1,3 @@
-#base "../#uni_base/filesv1/label1/label1_main.res"
-#base "../#uni_base/filesv1/label1/label1_autoresize.res"
-#base "../#uni_base/filesv1/button2/main.res"
-#base "../#uni_base/filesv1/button2/wide_80.res"
-#base "../#uni_base/filesv1/button2/label/gameui-close.res"
-#base "../#uni_base/filesv1/button2/def/is-1.res"
-#base "../#uni_base/filesv1/button2/def/command-close.res"
 
 #base "../#uni_base/filesv1/label2/main.res"
 #base "../#uni_base/filesv1/label2/auto.res"
@@ -13,6 +6,6 @@
 #base "../#uni_base/filesv1/label2/vis1.res"
 #base "../#uni_base/filesv1/label2/enabled.res"
 #base "../#uni_base/filesv1/label2/bright0.res"
-#base "../#uni_base/filesv1/label2/dull1.res"
+#base "../#uni_base/filesv1/label2/dull0.res"
 #base "../#uni_base/filesv1/label2/wrap0.res"
 #base "../#uni_base/filesv1/label2/text/north-west.res"

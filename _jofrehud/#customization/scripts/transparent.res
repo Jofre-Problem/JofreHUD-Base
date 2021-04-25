@@ -4,11 +4,11 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName" 	"Transparent"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"cs-0.5"
+		"ypos"			"cs-0.5"
 		"zpos"			"-100"
-		"wide"			"f0"
-		"tall"			"480"
+		"wide"			"p1"
+		"tall"			"p1"
 		"visible"		"1" // TVM
 		"enabled"		"1" // TVM
 		"image"			"replay/thumbnails/transparent"

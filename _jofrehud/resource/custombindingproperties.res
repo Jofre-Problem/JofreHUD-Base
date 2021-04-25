@@ -10,18 +10,14 @@
 #base "../#uni_base/filesv1/cancel/tall-is24.res"
 #base "../#uni_base/filesv1/cancel/wide-is64.res"
 
-"resource/CustomBindingProperties.res"
-{
-	"Label1"
-	{
-		"xpos"		"15"
-		"ypos"		"24"
-		"wide"		"372"
-		"tall"		"24"
-		"tabPosition"		"0"
-		"labelText"		"#KBCustomBindingName"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"wrap"		"0"
-	}
-}
+#base "../#uni_base/filesv1/label2/main.res"
+#base "../#uni_base/filesv1/label2/position/tall24.res"
+#base "../#uni_base/filesv1/label2/auto.res"
+#base "../#uni_base/filesv1/label2/pin.res"
+#base "../#uni_base/filesv1/label2/tab.res"
+#base "../#uni_base/filesv1/label2/vis1.res"
+#base "../#uni_base/filesv1/label2/enabled.res"
+#base "../#uni_base/filesv1/label2/bright0.res"
+#base "../#uni_base/filesv1/label2/dull0.res"
+#base "../#uni_base/filesv1/label2/wrap0.res"
+#base "../#uni_base/filesv1/label2/text/west.res"

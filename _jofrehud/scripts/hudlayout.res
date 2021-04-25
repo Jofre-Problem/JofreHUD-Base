@@ -14,4 +14,5 @@
 	#base "../resource/ui/econ/base/questnotifipanel/main.res"
 	#base "../resource/ui/econ/base/notifiqueuepanel/main.res"	
 	#base "../resource/ui/base/filesv1/cdamage/main.res"
-	#base "../resource/ui/base/filesv1/chealth/main.res"	
+	#base "../resource/ui/base/filesv1/chealth/main.res"
+	#base "../#customization/scripts/transparent.res"
