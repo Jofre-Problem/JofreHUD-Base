@@ -14,6 +14,16 @@
 #base "../#uni_base/filesv1/label2/vis1.res"
 #base "../#uni_base/filesv1/label2/enabled.res"
 #base "../#uni_base/filesv1/label2/text/north-west.res"
+
+#base "../#uni_base/filesv1/label3/main.res"
+#base "../#uni_base/filesv1/label3/auto.res"
+#base "../#uni_base/filesv1/label3/pín.res"
+#base "../#uni_base/filesv1/label3/tab.res"
+#base "../#uni_base/filesv1/label3/vis1.res"
+#base "../#uni_base/filesv1/label3/enabled.res"
+#base "../#uni_base/filesv1/label3/bright0.res"
+#base "../#uni_base/filesv1/label3/dull0.res"
+#base "../#uni_base/filesv1/label3/wrap0.res"
 "huh.res"
 {
 	"InfoLabel"

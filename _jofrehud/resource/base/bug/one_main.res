@@ -1,7 +1,14 @@
 #base "../../../#uni_base/filesv1/label2/position/wide80.res"
-#base "../../../#uni_base/filesv1/label2/text/west.res""
+#base "../../../#uni_base/filesv1/label2/text/west.res"
+
+#base "../../../#uni_base/filesv1/label3/text/west.res"
 "Resource\BugUIPanel.res"
 {
+	"Label3"
+	{
+		"xpos"		"320"
+		"labelText"		"Position:"
+	}
 	"BugDescription"
 	{
 		"xpos"		"100"
@@ -238,12 +245,7 @@
 		"labelText"		"Description:"
 	//	"textAlignment"		"west"
 	}
-	"Label3"
-	{
-		"xpos"		"320"
-		"labelText"		"Position:"
-		"textAlignment"		"west"
-	}
+
 	"Label4"
 	{
 		"xpos"		"320"
