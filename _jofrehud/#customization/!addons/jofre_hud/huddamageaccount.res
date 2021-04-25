@@ -1,0 +1,1 @@
+	#base	"../../../../../_jofrenew/resource/ui/huddamageaccount.res"

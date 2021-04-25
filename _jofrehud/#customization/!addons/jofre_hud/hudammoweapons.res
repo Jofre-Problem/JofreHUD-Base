@@ -1,1 +1,1 @@
-	#base	"../../../../resource/ui/hudammoweapons.res"
+	#base	"../../../../../_jofrenew/resource/ui/hudammoweapons.res"

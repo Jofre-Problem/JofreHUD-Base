@@ -1,1 +1,1 @@
-	#base	"../../../../resource/ui/hudplayerhealth.res"
+	#base	"../../../../../_jofrenew/resource/ui/hudplayerhealth.res"

@@ -1,1 +1,1 @@
-	#base	"../../../../resource/ui/hudplayerclass.res"
+	#base	"../../../../../_jofrenew/esource/ui/hudplayerclass.res"
