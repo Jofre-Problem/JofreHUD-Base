@@ -3,8 +3,32 @@
 #base "../../#uni_base/filesv1/maplabel/main.res"
 #base "../../#uni_base/filesv1/maplabel/text/east.res"
 #base "../../#uni_base/filesv1/maplabel/position/tall20.res"
+
+#base "../../#uni_base/filesv1/label1/main.res"
+#base "../../#uni_base/filesv1/label1/position/tall20.res"
+#base "../../#uni_base/filesv1/label1/auto.res"
+#base "../../#uni_base/filesv1/label1/pin.res"
+#base "../../#uni_base/filesv1/label1/enabled.res"
+#base "../../#uni_base/filesv1/label1/tab.res"
+#base "../../#uni_base/filesv1/label1/wrap0.res"
+#base "../../#uni_base/filesv1/label1/text/east.res"
 "Servers/DialogGameInfo.res"
 {
+	"Label1"
+	{
+	//	"ControlName"		"Label"
+	//	"fieldName"		"Label1"
+		"xpos"		"15"
+		"ypos"		"162"
+		"wide"		"108"
+	//	"tall"		"20"
+	//	"autoResize"		"0"
+	//	"pinCorner"		"0"
+	//	"enabled"		"1"
+	//	"tabPosition"		"0"
+	//	"textAlignment"		"east"
+	//	"wrap"		"0"
+	}
 	"DialogGameInfo"
 	{
 		"ControlName"		"CDialogGameInfo"
@@ -259,21 +283,7 @@
 		"textAlignment"		"west"
 		"wrap"		"0"
 	}
-	"Label1"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"Label1"
-		"xpos"		"15"
-		"ypos"		"162"
-		"wide"		"108"
-		"tall"		"20"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"textAlignment"		"east"
-		"wrap"		"0"
-	}
+
 	"SecureText"
 	{
 		"ControlName"		"Label"

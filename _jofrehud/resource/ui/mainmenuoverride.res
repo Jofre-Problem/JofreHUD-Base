@@ -20,8 +20,8 @@
 
 	#base "base/filesv1/rankpanel/main.res"
 	#base "base/filesv1/rankpanel/cpvp.res"
-	#base "base/filesv1/rankpanel/custom.res"
-	#base "base/filesv1/rankpanel/full.res"
+//	#base "base/filesv1/rankpanel/custom.res"
+//	#base "base/filesv1/rankpanel/full.res"
 //	#base "base/filesv1/rankpanel/show.res"
 	#base "base/filesv1/rankpanel/matchgroup_12.res"
 

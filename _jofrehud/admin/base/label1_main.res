@@ -1,10 +1,6 @@
-#base "../../#uni_base/filesv1/label1/label1_main.res"
-#base "../../#uni_base/filesv1/label1/label1_autoresize.res"
-"AddOns/Go/DialogGameGo.res"
-{
-	"Label1"
-	{
-		"dulltext"		"1"
-		"brighttext"		"0"
-	}
-}
+#base "../../#uni_base/filesv1/label1/main.res"
+#base "../../#uni_base/filesv1/label1/auto.res"
+#base "../../#uni_base/filesv1/label1/pin.res"
+#base "../../#uni_base/filesv1/label1/enabled.res"
+#base "../../#uni_base/filesv1/label1/dull1.res"
+#base "../../#uni_base/filesv1/label1/bright0.res"

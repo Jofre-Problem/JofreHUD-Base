@@ -16,3 +16,13 @@
 #base "../#uni_base/filesv2/button1/extra/dull0.res"
 #base "../#uni_base/filesv2/button1/extra/bright0.res"
 #base "../#uni_base/filesv2/button1/extra/def1.res"
+
+#base "../#uni_base/filesv1/label1/main.res"
+#base "../#uni_base/filesv1/label1/auto.res"
+#base "../#uni_base/filesv1/label1/pin.res"
+#base "../#uni_base/filesv1/label1/enabled.res"
+#base "../#uni_base/filesv1/label1/tab.res"
+#base "../#uni_base/filesv1/label1/dull0.res"
+#base "../#uni_base/filesv1/label1/bright0.res"
+#base "../#uni_base/filesv1/label1/wrap1.res"
+#base "../#uni_base/filesv1/label1/text/north-west.res"

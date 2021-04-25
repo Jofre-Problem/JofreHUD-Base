@@ -13,8 +13,33 @@
 #base "../../../#uni_base/filesv1/label2/dull0.res"
 #base "../../../#uni_base/filesv1/label2/wrap0.res"
 #base "../../../#uni_base/filesv1/label2/text/west.res"
+
+#base "../../../#uni_base/filesv1/label1/main.res"
+#base "../../../#uni_base/filesv1/label1/position/tall24.res"
+#base "../../../#uni_base/filesv1/label1/auto.res"
+#base "../../../#uni_base/filesv1/label1/pin.res"
+#base "../../../#uni_base/filesv1/label1/vis1.res"
+#base "../../../#uni_base/filesv1/label1/enabled.res"
+#base "../../../#uni_base/filesv1/label1/tab.res"
+#base "../../../#uni_base/filesv1/label1/wrap0.res"
+#base "../../../#uni_base/filesv1/label1/dull0.res"
+#base "../../../#uni_base/filesv1/label1/bright0.res"
 "Resource\BugUIPanel.res"
 {
+	"Label1"
+	{
+	//	"ControlName"		"Label"
+	//	"fieldName"		"Label1"
+	//	"tall"		"24"
+	//	"autoResize"		"0"
+	//	"pinCorner"		"0"
+	//	"visible"		"1"
+	//	"enabled"		"1"
+	//	"tabPosition"		"0"
+	//	"dulltext"		"0"
+	//	"brighttext"		"0"
+	//	"wrap"		"0"
+	}
 	"BugDescription"
 	{
 		"ControlName"		"TextEntry"
@@ -429,20 +454,7 @@
 		"wrap"		"0"
 		"Command"		"clearform"
 	}
-	"Label1"
-	{
-	//	"ControlName"		"Label"
-	//	"fieldName"		"Label1"
-		"tall"		"24"
-	//	"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"wrap"		"0"
-	}
+
 	"Label2"
 	{
 	}		

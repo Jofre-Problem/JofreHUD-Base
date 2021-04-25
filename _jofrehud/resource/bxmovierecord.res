@@ -1,5 +1,15 @@
-#base "../#uni_base/filesv1/label1/label1_main.res"
-#base "../#uni_base/filesv1/label1/label1_autoresize.res"
+#base "../#uni_base/filesv1/label1/main.res"
+#base "../#uni_base/filesv1/label1/position/tall24.res"
+#base "../#uni_base/filesv1/label1/auto.res"
+#base "../#uni_base/filesv1/label1/pin.res"
+#base "../#uni_base/filesv1/label1/vis1.res"
+#base "../#uni_base/filesv1/label1/enabled.res"
+#base "../#uni_base/filesv1/label1/tab.res"
+#base "../#uni_base/filesv1/label1/dull0.res"
+#base "../#uni_base/filesv1/label1/bright0.res"
+#base "../#uni_base/filesv1/label1/text/east.res"
+#base "../#uni_base/filesv1/label1/wrap0.res"
+
 #base "../#uni_base/filesv1/layoff/main.res"
 #base "../#uni_base/filesv1/layoff/choosefilename.res"
 
@@ -11,19 +21,3 @@
 #base "../#uni_base/filesv1/cancel/label/cancel.res"
 #base "../#uni_base/filesv1/cancel/tall-is24.res"
 #base "../#uni_base/filesv1/cancel/wide-is64.res"
-
-"resource/BxMovieRecord.res"
-{
-	"Label1"
-	{
-		"xpos"		"6"
-		"ypos"		"175"
-		"wide"		"119"
-		"tall"		"24"
-		"labelText"		"Output Framerate"
-		"textAlignment"		"east"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"wrap"		"0"
-	}	
-}	

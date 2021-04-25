@@ -11,3 +11,13 @@
 #base "../#uni_base/filesv1/label2/dull0.res"
 #base "../#uni_base/filesv1/label2/wrap0.res"
 #base "../#uni_base/filesv1/label2/text/east.res"
+
+#base "../#uni_base/filesv1/label1/main.res"
+#base "../#uni_base/filesv1/label1/auto.res"
+#base "../#uni_base/filesv1/label1/pin.res"
+#base "../#uni_base/filesv1/label1/enabled.res"
+#base "../#uni_base/filesv1/label1/tab.res"
+#base "../#uni_base/filesv1/label1/dull1.res"
+#base "../#uni_base/filesv1/label1/bright1.res"
+#base "../#uni_base/filesv1/label1/wrap1.res"
+#base "../#uni_base/filesv1/label1/text/west.res"

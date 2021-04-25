@@ -1,7 +1,1 @@
-"friends/AddFriendResultSubPanel.res"
-{
-	"Label1"
-	{
-		"wrap"		"1"
-	}
-}
+#base "../../#uni_base/filesv1/label1/wrap1.res"

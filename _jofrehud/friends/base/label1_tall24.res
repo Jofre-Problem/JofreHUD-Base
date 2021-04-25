@@ -1,7 +1,1 @@
-"friends/AddFriendResultSubPanel.res"
-{
-	"Label1"
-	{
-		"tall"		"24"
-	}
-}
+#base "../../#uni_base/filesv1/label1/position/tall24.res"

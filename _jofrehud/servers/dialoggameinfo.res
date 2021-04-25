@@ -14,3 +14,16 @@
 #base "base/infolabel_main2.res"
 #base "base/infolabel_ypos371.res"
 #base "base/playerlist_main.res"
+
+// might be a bad BAD idea
+
+#base "../#uni_base/filesv1/label1/main.res"
+#base "../#uni_base/filesv1/label1/position/tall20.res"
+#base "../#uni_base/filesv1/label1/auto.res"
+#base "../#uni_base/filesv1/label1/pin.res"
+#base "../#uni_base/filesv1/label1/enabled.res"
+#base "../#uni_base/filesv1/label1/tab.res"
+#base "../#uni_base/filesv1/label1/dull1.res"
+#base "../#uni_base/filesv1/label1/bright0.res"
+#base "../#uni_base/filesv1/label1/wrap0.res"
+#base "../#uni_base/filesv1/label1/text/east.res"

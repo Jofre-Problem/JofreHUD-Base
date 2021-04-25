@@ -1,7 +1,1 @@
-"friends/AddFriendResultSubPanel.res"
-{
-	"Label1"
-	{
-		"textAlignment"		"north-west"
-	}
-}
+#base "../../#uni_base/filesv1/label1/text/north-west.res"
