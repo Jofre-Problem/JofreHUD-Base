@@ -42,7 +42,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 			}
 		}
 		"MenuLarge"
@@ -58,7 +58,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 			}
 		}
 
@@ -67,7 +67,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"		"14"
 				"weight"	"500"
 			}
@@ -78,27 +78,27 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 			}
 			"4"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 			}
 			"5"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 			}
 		}
 		
@@ -108,7 +108,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 			}
 		}
 		
@@ -117,7 +117,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 			}
 		}
 		
@@ -126,7 +126,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 			}
 		}
 	}

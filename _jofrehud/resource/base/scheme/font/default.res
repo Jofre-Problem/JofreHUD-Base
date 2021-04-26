@@ -9,7 +9,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"		"12"
 				"antialias"	"1"
 				"underline" "1"
@@ -17,7 +17,7 @@ Scheme
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"		"11"
 				"range" 		"0x0000 0x00FF"
 				"antialias"	"1"
@@ -28,7 +28,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"14"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -37,7 +37,7 @@ Scheme
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"15"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -46,7 +46,7 @@ Scheme
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"16"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -56,7 +56,7 @@ Scheme
 			"4"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"21"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -66,7 +66,7 @@ Scheme
 			"5"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"23"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -76,7 +76,7 @@ Scheme
 			"6"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"13"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
@@ -87,7 +87,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -96,7 +96,7 @@ Scheme
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -105,7 +105,7 @@ Scheme
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -115,7 +115,7 @@ Scheme
 			"4"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"14"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -125,7 +125,7 @@ Scheme
 			"5"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"16"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -139,7 +139,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"15"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -148,7 +148,7 @@ Scheme
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"18"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -157,7 +157,7 @@ Scheme
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"19"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -167,7 +167,7 @@ Scheme
 			"4"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"25"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -177,7 +177,7 @@ Scheme
 			"5"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"25"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -187,7 +187,7 @@ Scheme
 			"6"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"17"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
@@ -195,7 +195,7 @@ Scheme
 			"7"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"17"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"

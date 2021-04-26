@@ -92,7 +92,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Courier New"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"400"
 				"antialias" "1"
@@ -103,7 +103,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Courier New"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"400"
 				"antialias" "1"
@@ -396,7 +396,7 @@ Scheme
 			"1"
 			{
 				"name"		"HalfLife2" [!$OSX]
-				"name"		"Helvetica Bold" [$OSX]
+				"name"		"Verdana" [$OSX]
 				"tall"		"16"	[$WIN32]
 				"tall"		"22"	[$X360]
 				"weight"	"1000"
@@ -428,7 +428,7 @@ Scheme
 			"1"	[$WIN32]
 			{
 				"name"		"Verdana" [!$OSX]
-				"name"		"Helvetica Bold" [$OSX]
+				"name"		"Verdana" [$OSX]
 				"tall"		"14"
 				"weight"	"1000"
 				"antialias" "1"
@@ -440,7 +440,7 @@ Scheme
 			"1"	[$WIN32]
 			{
 				"name"		"Verdana" [!$OSX]
-				"name"		"Helvetica" [$OSX]
+				"name"		"Verdana" [$OSX]
 				"tall"		"11"
 				"weight"	"0"
 				"antialias" "1"
@@ -514,7 +514,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Courier New"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"400"
 				"outline"	"1"
@@ -524,7 +524,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"		"Courier New"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"400"
 				"outline"	"1"
@@ -681,7 +681,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana" [!$OSX]
-				"name"		"Courier Bold" [$OSX]
+				"name"		"Verdana" [$OSX]
 				"tall"		"9"
 				"weight"	"900"
 				"antialias" "1"
@@ -693,7 +693,7 @@ Scheme
 			"1"
 			{
 				"name"		"Trebuchet MS" [!$OSX]
-				"name"		"Helvetica" [$OSX]
+				"name"		"Verdana" [$OSX]
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" "1"

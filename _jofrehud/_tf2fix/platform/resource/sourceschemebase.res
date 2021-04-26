@@ -239,7 +239,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Courier New"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"500"
 				"antialias" "1"
@@ -250,7 +250,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Courier New"
+				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"500"
 				"antialias" "1"
@@ -390,7 +390,7 @@ Scheme
 		{
 			"1"	[$POSIX]
 			{
-				"name"		"Helvetica Bold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"antialias" "1"
 			}

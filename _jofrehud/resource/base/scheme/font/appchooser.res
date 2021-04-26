@@ -7,7 +7,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"16"
 				"tall_hidef"	"24"
 				"weight"		"900"
@@ -20,7 +20,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Verdana" [$POSIX]
 				"tall"			"16"
 				"tall_hidef"	"24"
 				"weight"		"900"

@@ -773,7 +773,7 @@ Scheme
 			"1"
 			{
 				"name"		"Trebuchet MS" [$WINDOWS]
-				"name"		"Helvetica" [!$WINDOWS]
+				"name"		"Verdana" [!$WINDOWS]
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" "1"
@@ -1374,7 +1374,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"		"Courier New"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"400"
 				"outline"	"1"
@@ -1415,7 +1415,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Courier New"
+				"name"		"Verdana"
 				"tall"		"90"
 				"weight"	"900"
 				"range"		"0x0000 0x007F"	//	Basic Latin
