@@ -1,35 +1,17 @@
-	#base "../../../#customization/resource/ui/summersale_border.res"
-
-"Resource/UI/pvprankpanel.res"
+"Resource/UI/PvPRankPanel.res"
 {
-	"PartySlot0"
-	{
-		"ControlName""CDashboardPartyMember"
-		"fieldName""PartySlot0"
-		"xpos""75"
-		"ypos""rs1-8"
-		"zpos""50"
-		"wide""42"
-		"tall""o1"
-		"party_slot"	"0"
-
-		if_mini
-		{
-			"visible"		"0"
-		}		
-	}	
 	"ModelContainer"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ModelContainer"
 		"xpos"			"cs-0.5"
 		"ypos"			"cs-0.5"
-		"zpos"			"-1000"		
+		"zpos"			"3"		
 		"wide"			"f0"
 		"tall"			"f0"
 		"proportionaltoparent"	"1"
 		"actionsignallevel"	"2"
-		
+
 		"BelowModelParticlePanel"
 		{
 			"ControlName"	"CTFParticlePanel"
@@ -63,130 +45,139 @@
 			"paintbackground"	"0"	
 		}
 
-		"RankModel"				// image scales with panel
+		"RankModel"
 		{
-			ControlName				CBaseModelPanel
-			fieldName				"RankModel"
-			xpos					cs-0.5
-			ypos					cs-0.5
-			zpos					0
-			wide					50	//pin 1 same wide as JofreBar on mainmenu
-			tall					o1
-			proportionaltoparent		1
+			"ControlName"	"CBaseModelPanel"
+			"fieldName"		"RankModel"
+			"xpos"			"cs-0.5"
+			"ypos"			"cs-0.5"
+			"zpos"			"0"		
+			"wide"			"o1"
+			"tall"			"p0.12"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fov"			"70"
+			"proportionaltoparent"	"1"
 
-			paintbackground			0
-			fov					33		// zoom in
-			render_texture			0
-
-			"if_mini"
+			if_mini
 			{
+				"xpos"		"cs-0.5-228"
+				"ypos"		"cs-0.5"
+				"wide"		"200"
+				"tall"		"200"
 			}
+
+			"paintbackground"	"0"
+
+			"render_texture"	"0"
 		
 			"model"
 			{
-				force_pos				1
-				modelname				""
-				skin					0
-				spotlight				1
+				"force_pos"		"1"
+				"modelname"	""
+				"skin"		"0"
+				"angles_x"	"0"
+				"angles_y"	"180"
+				"angles_z"	"0"
+				"origin_x"		"45"
+				"origin_y"		"0"
+				"origin_z"		"0"
+				"spotlight"	"1"
 
-				angles_x				0
-				angles_y				180
-				angles_z				0
-				origin_x				80		// distance; lower values make the medal bounce more when clicked
-				origin_y				0		// horizontal
-				origin_z				0		// vertical
-
-				"if_mini"		// ?
+				if_mini
 				{
+					"origin_x"		"55"
 				}
 
 				"animation"
 				{
-					sequence				"idle"
-					default				1
+					"sequence"	"idle"
+					"default"	"1"
 				}
 			}
 		
-			"lights"			// this is interesting
+			"lights"
 			{
 				"default"
 				{
-					name					"directional"
-					color					"0.5 0.5 0.5"
-					direction				"0.60 0.65 0.2"
+					"name"			"directional"
+					"color"			"0.5 0.5 0.5"
+					"direction"		"0.60 0.65 0.2"
 				}
 			}
 		}
 
-
 		"AboveModelParticlePanel"
 		{
-			ControlName				CTFParticlePanel
-			fieldName				"AboveModelParticlePanel"
-			xpos					cs-0.5
-			ypos					cs-0.5
-			zpos					1
-			wide					f0
-			tall					f0
-			proportionaltoparent		1
+			"ControlName"	"CTFParticlePanel"
+			"fieldName"		"AboveModelParticlePanel"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"1"
+			"wide"			"f0"
+			"tall"			"f0"
+			"visible"		"1"
+			"proportionaltoparent"	"1"
 
-			paintbackground			0
+			"paintbackground"	"0"
 
-			"if_mini"
+			if_mini
 			{
-				xpos					cs-0.5-228
+				"xpos"		"cs-0.5-228"
 			}
 
 			"ParticleEffects"
 			{
 				"0"
 				{
-					particle_xpos			c0
-					particle_ypos			c0
-					particle_scale			3
-					particleName			"rankup_glitter"
-					start_activated			0
-					loop					0
+					"particle_xpos" "c0"
+					"particle_ypos" "c0"
+					"particle_scale"	"5"
+					"particleName"	"rankup_glitter"
+					"start_activated" "0"
+					"loop"	"0"
 				}
 				"1"
 				{
-					particle_xpos			c0
-					particle_ypos			c0
-					particle_scale			2
-					particleName			"badgepress_base"
-					start_activated 			0
-					loop					0
+					"particle_xpos"	"c0"
+					"particle_ypos"	"c0"
+					"particle_scale" "4"
+					"particleName"	"badgepress_base"
+					"start_activated" "0"
+					"loop"	"0"
 				}
 				"2"
 				{
-					particle_xpos			c-8
-					particle_ypos			c0
-					particle_scale			2
-					particleName			"rankdown_base"
-					start_activated 			0
-					loop					0
+					"particle_xpos" "c-8"
+					"particle_ypos" "c0"
+					"particle_scale" "4"
+					"particleName"	"rankdown_base"
+					"start_activated" "0"
+					"loop"	"0"
 				}
 			}
+
+			"paintbackground"	"1"
 		}
 
-
-		"MedalButton"			// hitbox round
+		"MedalButton"
 		{
-			ControlName				Button
-			fieldName				"MedalButton"
-			xpos					cs-0.5
-			ypos					cs-0.5
-			zpos					100
-			wide					p0.6
-			tall					p0.6
-			proportionaltoparent		1
+			"ControlName"	"Button"
+			"fieldName"		"MedalButton"
+			"xpos"			"cs-0.5"
+			"ypos"			"cs-0.5+2"
+			"zpos"			"100"
+			"wide"			"o1"
+			"tall"			"42"
+			"proportionaltoparent"	"1"
+			"command"	"medal_clicked"
+			"actionsignallevel"	"2"
+			"labeltext"	""
 
-			command				"medal_clicked"
-			actionsignallevel			2
-			labeltext				""
-
-			paintbackground			0
-			backgroundenabled			0		// check out!
+			"paintbackground"	"0"
+			"backgroundenabled"	"0"
 		}
 	}
 
@@ -195,10 +186,10 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGPanel"
 		"xpos"			"rs1"
-		"ypos"			"0"
+		"ypos"			"20"
 		"zpos"			"-1"
-		"wide"			"f0"
-		"tall"			"f0"
+		"wide"			"260"
+		"tall"			"f40"
 		"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"proportionaltoparent"	"1"
@@ -215,73 +206,100 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"NameLabel"
-			"xpos"			"130"
-			"ypos"			"rs1-35"
+			"xpos"			"65"
+			"ypos"			"5"
 			"wide"			"f0"
-			"tall"			"15"
+			"zpos"			"100"
+			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
-			"font"			"CustomTercero"
-			"fgcolor_override"	"WhiteSolid"
-			"textAlignment"	"west"
+			"font"			"HudFontSmallishBold"
+			"fgcolor_override"	"TanLight"
+			"textAlignment"	"north-west"
 			"labelText"		"%name%"
 			"proportionaltoparent"	"1"
-			"alpha"			"200"
 
 			if_mini
 			{
 				"visible"	"0"
 			}
 		}
+
 		"DescLine1"
 		{
 			"ControlName"	"CAutoFittingLabel"
 			"fieldName"		"DescLine1"
-			"xpos"			"0"
-			"ypos"			"0"
-			"wide"			"f0"
-			"tall"			"10"
+			"xpos"			"65"
+			"ypos"			"19"
+			"wide"			"195"
+			"zpos"			"100"
+			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
-			"font"			"CustomPrimero"
-			"fgcolor_override"	"W_ColorIcons1"
-			"textAlignment"	"west"
+			"font"			"HudFontSmallestBold"
+			"fgcolor_override"	"TanLight"
+			"textAlignment"	"north-west"
 			"labelText"		"%desc1%"
 			"proportionaltoparent"	"1"
-			"alpha"			"200"		
-			"pin_to_sibling"		"NameLabel"
-			pin_corner_to_sibling		PIN_TOPLEFT
-			pin_to_sibling_corner		PIN_BOTTOMLEFT
+
+			if_mini
+			{
+				"xpos"	"67"
+				"ypos"	"4"
+			}
+
+			"fonts"
+			{
+				"0"		"HudFontSmallestBold"
+				"1"		"StorePromotionsTitle"
+				"2"		"FontStorePrice"
+			}
 		}
 
 		"DescLine2"
 		{
 			"ControlName"	"CAutoFittingLabel"
 			"fieldName"		"DescLine2"
-			"xpos"			"0"
-			"ypos"			"0"
-			"wide"			"f0"
-			"tall"			"10"
+			"xpos"			"65"
+			"ypos"			"29"
+			"wide"			"195"
+			"zpos"			"100"
+			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
-			"font"			"CustomPrimero"
-			"fgcolor_override"	"W_ColorIcons1"
-			"textAlignment"	"west"
+			"font"			"HudFontSmallestBold"
+			"fgcolor_override"	"TanLight"
+			"textAlignment"	"north-west"
 			"labelText"		"%desc2%"
 			"proportionaltoparent"	"1"
-			"pin_to_sibling"		"DescLine1"
-			pin_corner_to_sibling		PIN_TOPLEFT
-			pin_to_sibling_corner		PIN_BOTTOMLEFT
-			"alpha"			"200"			
+
+			if_mini
+			{
+				"xpos"	"67"
+				"ypos"	"4"
+			}
+
+			"fonts"
+			{
+				"0"		"HudFontSmallestBold"
+				"1"		"StorePromotionsTitle"
+				"2"		"FontStorePrice"
+			}
+
+			"colors"
+			{
+				"1"		"CreditsGreen"
+				"2"		"TanLight"
+			}
 		}
 
 		"StatsContainer"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"StatsContainer"
-			"xpos"			"0"
+			"xpos"			"rs1-5"
 			"ypos"			"0"
-			"wide"			"f0"
+			"wide"			"f70"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
 
@@ -296,26 +314,28 @@
 			{
 				"Controlname"	"EditablePanel"
 				"fieldName"		"XPBar"
-				"xpos"			"0"
-				"ypos"			"0"
-				"wide"			"f0"
-				"tall"			"f0"
+				"xpos"			"cs-0.5"
+				"ypos"			"rs1-3"
+				"wide"			"p1"
+				"tall"			"30"
 				"proportionaltoparent"	"1"
+
+	
 
 				"CurrentXPLabel"
 				{
 					"ControlName"	"Label"
 					"fieldName"		"CurrentXPLabel"
-					"xpos"			"5"
-					"ypos"			"rs1-5"
-					"zpos"			"20"
-					"wide"			"0"
-					"tall"			"10"
+					"xpos"			"0"
+					"ypos"			"rs1"
+					"zpos"			"0"
+					"wide"			"100"
+					"tall"			"20"
 					"visible"		"1"
 					"enabled"		"1"
-					"font"			"TFFontMedium"
-					"fgcolor_override"	"W_ColorIcons1"
-					"textAlignment"	"west"
+					"font"			"ItemFontAttribSmall"
+					"fgcolor_override"	"TanLight"
+					"textAlignment"	"south-west"
 					"labelText"		"%current_xp%"
 					"proportionaltoparent"	"1"
 				}
@@ -324,16 +344,16 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"NextLevelXPLabel"
-					"xpos"			"-5"
-					"ypos"			"rs1-5"
-					"zpos"			"20"
-					"wide"			"0"
-					"tall"			"10"
+					"xpos"			"rs1"
+					"ypos"			"rs1"
+					"zpos"			"0"
+					"wide"			"100"
+					"tall"			"20"
 					"visible"		"1"
 					"enabled"		"1"
-					"font"			"TFFontMedium"
-					"fgcolor_override"	"W_ColorIcons1"
-					"textAlignment"	"east"
+					"font"			"ItemFontAttribSmall"
+					"fgcolor_override"	"TanLight"
+					"textAlignment"	"south-east"
 					"labelText"		"%next_level_xp%"
 					"proportionaltoparent"	"1"
 				}
@@ -343,20 +363,19 @@
 					"Controlname"	"EditablePanel"
 					"fieldName"		"ProgressBarsContainer"
 					"xpos"			"0"
-					"ypos"			"0"
-					"zpos"			"2"
+					"ypos"			"rs1-10"
 					"wide"			"p1"
-					"tall"			"f0"
+					"tall"			"7"
 					"proportionaltoparent"	"1"
 
 					"ProgressBar"
 					{
 						"ControlName"	"ProgressBar"
 						"fieldName"		"ProgressBar"
-						"xpos"			"130"
-						"ypos"			"rs1-9"
-						"wide"			"150"
-						"tall"			"4"
+						"xpos"			"0"
+						"ypos"			"cs-0.5"
+						"wide"			"f0"
+						"tall"			"f-2"
 						"zpos"			"1"
 						"proportionaltoparent"	"1"
 						"progress"		"1"
@@ -369,30 +388,27 @@
 					{
 						"ControlName"	"ContinuousProgressBar"
 						"fieldName"		"ContinuousProgressBar"
-						"xpos"			"0"
-						"ypos"			"0"
-						"wide"			"150"
-						"tall"			"4"
-						"zpos"			"10"
+						"xpos"			"cs-0.5"
+						"ypos"			"cs-0.5"
+						"wide"			"f2"
+						"tall"			"f2"
 						"proportionaltoparent"	"1"
 						"progress"		"0"
 
-						"fgcolor_override"	"W_BorderArmed"
-						"bgcolor_override"	"W_BotonArmed"
-						"pin_to_sibling"	"ProgressBar"
+						"fgcolor_override"	"CreditsGreen"
 					}
 
 					"Frame"
 					{
 						"Controlname"	"EditablePanel"
 						"fieldName"		"Frame"
-						"xpos"			"cs-0.5-p0.001"
-						"ypos"			"rs1+p0.001"
-						"wide"			"p0.282"
-						"tall"			"0"
+						"xpos"			"0"
+						"ypos"			"0"
+						"wide"			"f0"
+						"tall"			"f0"
 						"zpos"			"5"
-						"proportionaltoparent"	"0"
-						"border"		"SteamWorkshopBorder"
+						"proportionaltoparent"	"1"
+						"border"		"InnerShadowBorderThin"
 					}
 				}
 			}
@@ -402,12 +418,12 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"Stats"
 				"xpos"			"0"
-				"ypos"			"-5"
-				"wide"			"f5"
-				"tall"			"0"
-				"visible"		"1"
+				"ypos"			"5"
+				"wide"			"f0"
+				"tall"			"p0.45"
+				"visible"		"0"
 				"proportionaltoparent"	"1"
-				"bgcolor_override"	"Blank"
+				"bgcolor_override"	"0 0 0 150"
 
 				"if_mini"
 				{
@@ -421,8 +437,8 @@
 					"xpos"			"0"
 					"ypos"			"0"
 					"zpos"			"10"
-					"wide"			"0"
-					"tall"			"0"
+					"wide"			"f0"
+					"tall"			"f0"
 					"proportionaltoparent"	"1"
 					"border"		"InnerShadowBorder"
 				}
@@ -434,16 +450,16 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"GamesLabel"
-					"xpos"			"5"
+					"xpos"			"10"
 					"ypos"			"0"
 					"zpos"			"0"
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
 					"enabled"		"1"
-					"font"			"ControlPointTimer"
-					"fgcolor_override"	"W_ColorIcons1"
-					"textAlignment"	"west"
+					"font"			"HudFontSmallest"
+					"fgcolor_override"	"TanLight"
+					"textAlignment"	"north-west"
 					"labelText"		"%stat_games%"
 					"proportionaltoparent"	"1"
 				}
@@ -452,16 +468,16 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"KillsLabel"
-					"xpos"			"5"
+					"xpos"			"10"
 					"ypos"			"10"
 					"zpos"			"0"
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
 					"enabled"		"1"
-					"font"			"ControlPointTimer"
-					"fgcolor_override"	"W_ColorIcons1"
-					"textAlignment"	"west"
+					"font"			"HudFontSmallest"
+					"fgcolor_override"	"TanLight"
+					"textAlignment"	"north-west"
 					"labelText"		"%stat_kills%"
 					"proportionaltoparent"	"1"
 				}
@@ -470,16 +486,16 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"DeathsLabel"
-					"xpos"			"5"
+					"xpos"			"10"
 					"ypos"			"20"
 					"zpos"			"0"
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
 					"enabled"		"1"
-					"font"			"ControlPointTimer"
-					"fgcolor_override"	"W_ColorIcons1"
-					"textAlignment"	"west"
+					"font"			"HudFontSmallest"
+					"fgcolor_override"	"TanLight"
+					"textAlignment"	"north-west"
 					"labelText"		"%stat_deaths%"
 					"proportionaltoparent"	"1"
 				}
@@ -489,16 +505,16 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"DamageLabel"
-					"xpos"			"0"
+					"xpos"			"c-20"
 					"ypos"			"0"
 					"zpos"			"0"
-					"wide"			"f0"
+					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
 					"enabled"		"1"
-					"font"			"ControlPointTimer"
-					"fgcolor_override"	"W_ColorIcons1"
-					"textAlignment"	"east"
+					"font"			"HudFontSmallest"
+					"fgcolor_override"	"TanLight"
+					"textAlignment"	"north-west"
 					"labelText"		"%stat_damage%"
 					"proportionaltoparent"	"1"
 				}
@@ -507,16 +523,16 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"HealingLabel"
-					"xpos"			"0"
+					"xpos"			"c-20"
 					"ypos"			"10"
 					"zpos"			"0"
-					"wide"			"f0"
+					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
 					"enabled"		"1"
-					"font"			"ControlPointTimer"
-					"fgcolor_override"	"W_ColorIcons1"
-					"textAlignment"	"east"
+					"font"			"HudFontSmallest"
+					"fgcolor_override"	"TanLight"
+					"textAlignment"	"north-west"
 					"labelText"		"%stat_healing%"
 					"proportionaltoparent"	"1"
 				}
@@ -525,16 +541,16 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"SupportLabel"
-					"xpos"			"0"
+					"xpos"			"c-20"
 					"ypos"			"20"
 					"zpos"			"0"
-					"wide"			"f0"
+					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
 					"enabled"		"1"
-					"font"			"ControlPointTimer"
-					"fgcolor_override"	"W_ColorIcons1"
-					"textAlignment"	"east"
+					"font"			"HudFontSmallest"
+					"fgcolor_override"	"TanLight"
+					"textAlignment"	"north-west"
 					"labelText"		"%stat_support%"
 					"proportionaltoparent"	"1"
 				}
@@ -549,10 +565,10 @@
 					"zpos"			"0"
 					"wide"			"100"
 					"tall"			"20"
-					"visible"		"0"
+					"visible"		"1"
 					"enabled"		"1"
-					"font"			"ControlPointTimer"
-					"fgcolor_override"	"W_ColorIcons1"
+					"font"			"HudFontSmallest"
+					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north-west"
 					"labelText"		"%stat_score%"
 					"proportionaltoparent"	"1"

@@ -21,8 +21,11 @@ Scheme
 		Frame.AutoSnapRange				"0"
 		FrameSystemButton.FgColor		"Blank"
 		FrameSystemButton.BgColor		"Blank"
-		FrameSystemButton.Icon			"replay/thumbnails/null"
-		FrameSystemButton.DisabledIcon	"replay/thumbnails/null"
+	//	FrameSystemButton.Icon			"replay/thumbnails/null"
+	//	FrameSystemButton.DisabledIcon	"replay/thumbnails/null"
+		FrameSystemButton.Icon			""
+		FrameSystemButton.DisabledIcon	"""
+		
 	}
 	Fonts
 	{	

@@ -1,4 +1,3 @@
-#base "../../#customization/!addons/#enabled/centered_health/targetid.res"
 #base "base/filesv1/avatarimage/main.res"
 #base "base/filesv1/avatarimage/enabled.res"
 #base "base/filesv1/avatarimage/color.res"

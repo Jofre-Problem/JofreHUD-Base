@@ -1,5 +1,0 @@
-#BACKGROUNDS
--------------------------
-This HUD uses .VPK files for visual customization
-
-So you may see some files missing if you wanna edit backgrounds.

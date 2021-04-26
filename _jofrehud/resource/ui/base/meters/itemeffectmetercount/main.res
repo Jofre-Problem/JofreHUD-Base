@@ -17,6 +17,6 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"CustomPrimero"
+		"font"					"Default"
 	}
 }

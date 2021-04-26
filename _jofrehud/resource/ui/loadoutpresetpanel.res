@@ -7,7 +7,6 @@
 		{
 			"wide"	"25"
 			"tall"	"25"
-			"font"	"CustomTercero"
 		}
 	}
 }

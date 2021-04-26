@@ -1,1 +1,0 @@
-	#base	"../../../../../_jofrenew/resource/ui/hudammoweapons.res"

@@ -1,4 +1,3 @@
-#base "../../../#customization/!addons/#enabled/centered_health/spectatorguihealth.res"
 #base "spectatorguihealth_1.res"
 "Resource/UI/SpectatorGUIHealth.res"
 {
