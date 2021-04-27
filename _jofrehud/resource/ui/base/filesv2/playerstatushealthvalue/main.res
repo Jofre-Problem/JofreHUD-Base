@@ -1,11 +1,13 @@
-"Resource/baseaction_sys.res"
+"Resource/UI/CharInfoPanel.res"
 {
 	"PlayerStatusHealthValue"
 	{
-		"ControlName"	"CExLabel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthValue"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-	}
+		"textAlignment"	"center"
+		"fgcolor"		"TanDark"				
+	}				
 }
