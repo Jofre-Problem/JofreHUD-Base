@@ -24,7 +24,7 @@ Scheme
 	//	FrameSystemButton.Icon			"replay/thumbnails/null"
 	//	FrameSystemButton.DisabledIcon	"replay/thumbnails/null"
 		FrameSystemButton.Icon			""
-		FrameSystemButton.DisabledIcon	"""
+		FrameSystemButton.DisabledIcon	""
 		
 	}
 	Fonts

@@ -9,6 +9,7 @@
 //	#base "base/filesv1/rankpanel/full.res"
 //	#base "base/filesv1/rankpanel/show.res"
 //	#base "base/filesv1/rankpanel/matchgroup_12.res"
+	#base "base/filesv2/rankmodelpanel/main.res"
 	#base "../../#uni_base/filesv1/background/bg_main.res"
 	#base "../../#uni_base/filesv1/background/bg_vis0.res"
 	#base "../../#uni_base/filesv1/background/bg_enabled.res"
