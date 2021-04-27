@@ -2,7 +2,6 @@
 {
 	"RankPanel"
 	{
-		"show_model"	"0"
-		"show_name"		"0"
+		"visible"		"0"
 	}
 }	

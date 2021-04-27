@@ -2,7 +2,7 @@
 {
 	"PlayerStatusHealthValue"
 	{
-		"ControlName"	"ImagePanel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
 		"visible"		"1"
 		"enabled"		"1"
