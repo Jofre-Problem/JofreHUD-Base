@@ -3,8 +3,25 @@
 #base "../../../#uni_base/filesv2/confirmdialog/y_pos/_140.res"
 #base "../../../#uni_base/filesv2/confirmdialog/tall_/_200.res"
 
+#base "../base/filesv2/explanationlabel/main.res"
+#base "../base/filesv2/explanationlabel/font/econfont.res"
+#base "../base/filesv2/explanationlabel/label/%text.res"
+#base "../base/filesv2/explanationlabel/text/north.res"
+#base "../base/filesv2/explanationlabel/vis1.res"
+#base "../base/filesv2/explanationlabel/auto0.res"
+#base "../base/filesv2/explanationlabel/pin0.res"
+#base "../base/filesv2/explanationlabel/position/xpos40.res"
+#base "../base/filesv2/explanationlabel/position/ypos40.res"
+#base "../base/filesv2/explanationlabel/position/wide244.res"
+#base "../base/filesv2/explanationlabel/position/tall170.res"
 "Resource/UI/ConfirmDialog.res"
 {
+	"ExplanationLabel"
+	{
+		"centerwrap"	"1"
+		"fgcolor_override" "200 80 60 255"
+	}
+	
 	"ConfirmDialog"
 	{
 	//	"xpos"			"c-162"
@@ -33,26 +50,7 @@
 		"enabled"		"1"
 	}
 	
-	"ExplanationLabel"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"ExplanationLabel"
-		"font"			"EconFontSmall"
-		"labelText"		"%text%"
-		"textAlignment"	"north"
-		"xpos"			"40"
-		"ypos"			"50"
-		"zpos"			"1"
-		"wide"			"244"
-		"tall"			"170"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"centerwrap"	"1"
-		"fgcolor_override" "200 80 60 255"
-	}
-		
+
 	"CancelButton"
 	{
 		"ControlName"	"CExButton"

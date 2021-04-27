@@ -1,6 +1,13 @@
 #base "../../../../../#uni_base/filesv2/confirmdialog/main.res"
 #base "../../../../../#uni_base/filesv2/confirmdialog/y_pos/_140.res"
 #base "../../../../../#uni_base/filesv2/confirmdialog/tall_/_200.res"
+
+#base "../../../base/filesv2/explanationlabel/main.res"
+#base "../../../base/filesv2/explanationlabel/font/econfont.res"
+#base "../../../base/filesv2/explanationlabel/label/%text.res"
+#base "../../../base/filesv2/explanationlabel/text/north.res"
+#base "../../../base/filesv2/explanationlabel/position/ypos50.res"
+
 "Resource/UI/ConfirmDialog.res"
 {
 	"ConfirmDialog"
@@ -29,16 +36,6 @@
 	
 	"ExplanationLabel"
 	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"ExplanationLabel"
-		"font"			"EconFontSmall"
-		"labelText"		"%text%"
-		"ypos"			"50"
-		"zpos"			"1"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
 	}
 		
