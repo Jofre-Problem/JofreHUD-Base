@@ -1,6 +1,6 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"FooterLine"
+	"HeaderLine"
 	{
 		"xpos"			"0"
 		"wide"			"f0"
