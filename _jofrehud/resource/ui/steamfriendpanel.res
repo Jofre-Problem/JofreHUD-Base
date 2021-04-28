@@ -51,7 +51,7 @@
 		"proportionaltoparent"	"1"
 		"font"					"TFFontMedium"
 		"mouseinputenabled"		"0"
-		"fgcolor_override"		"WhiteSolid"
+		"fgcolor_override"		"HudWhite"
 		"alpha"					"150"
 	}
 

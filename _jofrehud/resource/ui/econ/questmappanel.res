@@ -618,7 +618,7 @@
 						"defaultBgColor_override"	"TanDark"
 						"armedBgColor_override"		"QuestMap_ActiveOrange"
 
-						"image_drawcolor"	"WhiteSolid"
+						"image_drawcolor"	"HudWhite"
 						"image_armedcolor"	"Blank"
 						"SubImage"
 						{
@@ -654,7 +654,7 @@
 						"defaultBgColor_override"	"TanDark"
 						"armedBgColor_override"		"QuestMap_ActiveOrange"
 
-						"image_drawcolor"	"WhiteSolid"
+						"image_drawcolor"	"HudWhite"
 						"image_armedcolor"	"Blank"
 						"SubImage"
 						{
@@ -690,7 +690,7 @@
 						"defaultBgColor_override"	"TanDark"
 						"armedBgColor_override"		"QuestMap_ActiveOrange"
 
-						"image_drawcolor"	"WhiteSolid"
+						"image_drawcolor"	"HudWhite"
 						"image_armedcolor"	"Blank"
 						"SubImage"
 						{

@@ -27,7 +27,7 @@
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 			"autoResize"	"0"
-			"drawcolor"	"WhiteSolid"
+			"drawcolor"	"HudWhite"
 		}
 		
 		"StarCostImage"

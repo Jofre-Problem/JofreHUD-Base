@@ -5,7 +5,9 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CostLabel"
 		"font"			"Default"
-		"fgcolor"		"WhiteSolid"
+		"fgcolor"		"HudWhite"
+		// HudWhite doesnt work
+		// wtf
 		"xpos"			"0"
 		"ypos"			"20"
 		"zpos"			"4"

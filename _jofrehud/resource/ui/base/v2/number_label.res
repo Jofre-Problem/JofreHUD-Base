@@ -5,7 +5,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"Default"
-		"fgcolor"		"Black"
+		"fgcolor"		"TanLight"
 		"xpos"			"0"
 		"ypos"			"98"
 		"zpos"			"1"

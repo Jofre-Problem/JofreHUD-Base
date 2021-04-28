@@ -9,18 +9,9 @@
 #base "../../_tf2hud/resource/ui/hudrocketpack.res"
 "Resource/UI/HudRocketPack.res"
 {
-	Spacer
-	{
-	}
 	"ItemEffectIcon"
 	{
-		"xpos"			"r0"
-		"ypos"			"r0"
-		"zpos"			"0"
 		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
 	}
 	"ItemEffectMeterLabel"
 	{
@@ -31,11 +22,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"center"
-		"font"			"CustomPrimero"
-
-		"pin_to_sibling"	"Spacer"
-		"pin_corner_to_sibling"	"PIN_CENTER_BOTTOM"
-		"pin_to_sibling_corner"	"PIN_CENTER_BOTTOM"
+		"font"			"Default"
 	}
 	"ItemEffectMeter"
 	{	
@@ -55,7 +42,7 @@
 		"tall"			"2"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"		"WhiteSolid"
+		"fgcolor_override"		"HudWhite"
 		"bgcolor_override"		"0 0 0 100"
 
 		"pin_to_sibling"	"ItemEffectMeter"

@@ -76,7 +76,7 @@
 			"enabled"		"1"
 			"labelText"		"%attriblist%"
 			"textAlignment"	"south"
-			"fgcolor"		"WhiteSolid"
+			"fgcolor"		"HudWhite"
 			"centerwrap"	"1"
 		}
 	}	

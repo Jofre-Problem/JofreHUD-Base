@@ -610,7 +610,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"WhiteSolid"
+			"image_armedcolor"	"HudWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -767,7 +767,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"WhiteSolid"
+			"image_armedcolor"	"HudWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -832,7 +832,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"WhiteSolid"
+			"image_armedcolor"	"HudWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -989,7 +989,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"WhiteSolid"
+			"image_armedcolor"	"HudWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1036,7 +1036,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"WhiteSolid"
+			"image_armedcolor"	"HudWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1211,7 +1211,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"WhiteSolid"
+			"image_armedcolor"	"HudWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1258,7 +1258,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"WhiteSolid"
+			"image_armedcolor"	"HudWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1433,7 +1433,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"WhiteSolid"
+			"image_armedcolor"	"HudWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1480,7 +1480,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"WhiteSolid"
+			"image_armedcolor"	"HudWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1655,7 +1655,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"WhiteSolid"
+			"image_armedcolor"	"HudWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1702,7 +1702,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"WhiteSolid"
+			"image_armedcolor"	"HudWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1877,7 +1877,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"WhiteSolid"
+			"image_armedcolor"	"HudWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1924,7 +1924,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"WhiteSolid"
+			"image_armedcolor"	"HudWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2099,7 +2099,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"WhiteSolid"
+			"image_armedcolor"	"HudWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2146,7 +2146,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"WhiteSolid"
+			"image_armedcolor"	"HudWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2321,7 +2321,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"WhiteSolid"
+			"image_armedcolor"	"HudWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2368,7 +2368,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"WhiteSolid"
+			"image_armedcolor"	"HudWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2542,7 +2542,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"WhiteSolid"
+			"image_armedcolor"	"HudWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"

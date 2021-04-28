@@ -5,7 +5,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"Default"
-		"fgcolor"		"WhiteSolid"
+	//	"fgcolor"		"HudWhite"
 		"xpos"			"10"
 		"ypos"			"40"
 		"zpos"			"1"

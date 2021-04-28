@@ -5,7 +5,7 @@ Scheme
 	{
 
 		Button.BgColor					"50 50 50 255"
-		Button.ArmedTextColor			"WhiteSolid"
+		Button.ArmedTextColor			"HudWhite"
 		Button.ArmedBgColor				"70 70 70 255"
 // TF		Button.DepressedTextColor		"W_ColorTheme1"
 // tf		Button.DepressedBgColor			"W_BorderArmed"	

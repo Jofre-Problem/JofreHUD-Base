@@ -37,7 +37,7 @@
 				"visible"		"1"
 				"labelText"		"%playername%"
 				"textAlignment"	"west"
-				"fgcolor_override"		"WhiteSolid"
+				"fgcolor_override"		"HudWhite"
 					
 				if_mvm
 				{
@@ -203,8 +203,8 @@
 				"visible"		"1"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"center"
-				"fgcolor"		"WhiteSolid"
-				"fgcolor_override"		"WhiteSolid"
+				"fgcolor"		"HudWhite"
+				"fgcolor_override"		"HudWhite"
 				"bgcolor_override"	"Blank"
 				
 				if_mvm
@@ -247,8 +247,8 @@
 				"visible"		"1"
 				"labelText"		"%chargeamount%"
 				"textAlignment"	"east"
-				"fgcolor"		"WhiteSolid"
-				"fgcolor_override"		"WhiteSolid"
+				"fgcolor"		"HudWhite"
+				"fgcolor_override"		"HudWhite"
 			}
 			
 			"specindex"
