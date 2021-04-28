@@ -7,7 +7,7 @@
 #base "../../../base/filesv2/explanationlabel/label/%text.res"
 #base "../../../base/filesv2/explanationlabel/text/north.res"
 #base "../../../base/filesv2/explanationlabel/position/ypos50.res"
-
+#base "../../../base/filesv2/explanationlabel/fgcolor_1.res"
 "Resource/UI/ConfirmDialog.res"
 {
 	"ConfirmDialog"
@@ -36,7 +36,7 @@
 	
 	"ExplanationLabel"
 	{
-		"fgcolor_override" "200 80 60 255"
+	//	"fgcolor_override" "200 80 60 255"
 	}
 		
 	"CancelButton"

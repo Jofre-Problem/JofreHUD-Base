@@ -1,3 +1,32 @@
+#base "../../base/filesv2/tooltippanel/main.res"
+#base "../../base/filesv2/tooltippanel/ctrl.res"
+#base "../../base/filesv2/tooltippanel/border.res"
+#base "../../base/filesv2/tooltippanel/position/ypos0.res"
+#base "../../base/filesv2/tooltippanel/position/zpos10k.res"
+#base "../../base/filesv2/tooltippanel/position/tall100.res"
+#base "../../base/filesv2/tooltippanel/position/wide100.res"
+
+#base "../../base/filesv2/tooltippanel/tiplabel/main.res"
+#base "../../base/filesv2/tooltippanel/tiplabel/fgcolor.res"
+#base "../../base/filesv2/tooltippanel/tiplabel/position/fontsmallest.res"
+#base "../../base/filesv2/tooltippanel/tiplabel/position/xpos20.res"
+#base "../../base/filesv2/tooltippanel/tiplabel/position/ypos10.res"
+#base "../../base/filesv2/tooltippanel/tiplabel/position/wide100.res"
+#base "../../base/filesv2/tooltippanel/tiplabel/position/tall30.res"
+#base "../../base/filesv2/tooltippanel/tiplabel/text/center.res"
+#base "../../base/filesv2/tooltippanel/tiplabel/text/wrap1.res"
+#base "../../base/filesv2/tooltippanel/tiplabel/text/centerwrap.res"
+
+#base "../../base/filesv2/tooltippanel/tiplabel/main.res"
+#base "../../base/filesv2/tooltippanel/tiplabel/fgcolor.res"
+#base "../../base/filesv2/tooltippanel/tiplabel/position/fontsmallest.res"
+#base "../../base/filesv2/tooltippanel/tiplabel/position/xpos20.res"
+#base "../../base/filesv2/tooltippanel/tiplabel/position/ypos10.res"
+#base "../../base/filesv2/tooltippanel/tiplabel/position/wide100.res"
+#base "../../base/filesv2/tooltippanel/tiplabel/position/tall30.res"
+#base "../../base/filesv2/tooltippanel/tiplabel/text/center.res"
+#base "../../base/filesv2/tooltippanel/tiplabel/text/wrap1.res"
+#base "../../base/filesv2/tooltippanel/tiplabel/text/centerwrap.res"
 "Resource/UI/econ/QuestLogPanel.res"
 {
 	"QuestLog"
@@ -56,40 +85,6 @@
 		}
 	}
 
-	"TooltipPanel"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"TooltipPanel"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"10000"
-		"wide"			"200"
-		"tall"			"100"
-		"visible"		"0"
-		"PaintBackgroundType"	"2"
-		"border"		"MainMenuBGBorder"
-		
-		"TipLabel"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"TipLabel"
-			"font"			"HudFontSmallest"
-			"labelText"		"%tiptext%"
-			"textAlignment"	"center"
-			"xpos"			"20"
-			"ypos"			"10"
-			"zpos"			"2"
-			"wide"			"100"
-			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor_override"	"235 226 202 255"
-			"wrap"			"1"
-			"centerwrap"	"1"
-		}
-	}
 
 	"MainContainer"
 	{

@@ -2,4 +2,4 @@
 #base "base/confirmdialog/cancelbtnhinticon.res"
 #base "base/confirmdialog/confirmdialog_base.res"
 #base "base/confirmdialog/confirmdialog_main1.res"
-#base "../ase/filesv2/optoutcheckbox/main.res"
+#base "../base/filesv2/optoutcheckbox/main.res"

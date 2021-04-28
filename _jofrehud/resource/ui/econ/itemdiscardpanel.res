@@ -2,3 +2,11 @@
 #base "../base/filesv1/discardbtn/content1.res"
 #base "../base/filesv1/discardbtn/content2.res"
 #base "../base/filesv2/modelpanel/main.res"
+
+#base "../base/filesv2/explanationlabel/main.res"
+#base "../base/filesv2/explanationlabel/font/hudfontsmallest.res"
+#base "../base/filesv2/explanationlabel/text/north.res"
+#base "../base/filesv2/explanationlabel/vis1.res"
+#base "../base/filesv2/explanationlabel/pin0.res"
+#base "../base/filesv2/explanationlabel/wrap.res"
+#base "../base/filesv2/explanationlabel/position/ypos40.res"

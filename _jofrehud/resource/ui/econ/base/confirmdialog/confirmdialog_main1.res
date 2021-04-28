@@ -1,5 +1,8 @@
 #base "../../../../../#uni_base/filesv2/confirmdialog/x_pos/cen_-150.res"
 #base "../../../../../#uni_base/filesv2/confirmdialog/wide_/_300.res"
+#base "../../../base/filesv2/explanationlabel/text/north-west.res"
+#base "../../../base/filesv2/explanationlabel/position/xpos60.res"
+#base "../../../base/filesv2/explanationlabel/position/wide220.res"
 "Resource/UI/ConfirmDialogAbandonNoPenalty.res"
 {
 	"ConfirmDialog"
@@ -17,9 +20,9 @@
 	
 	"ExplanationLabel"
 	{
-		"textAlignment"	"north-west"
-		"xpos"			"60"
-		"wide"			"220"
+	//	"textAlignment"	"north-west"
+	//	"xpos"			"60"
+	//	"wide"			"220"
 		"centerwrap"	"0"
 	}
 		

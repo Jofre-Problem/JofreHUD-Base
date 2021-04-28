@@ -1,55 +1,15 @@
-"Resource/UI/MatchMakingTooltip.res"
-{
-	"TooltipPanel"
-	{
-	//	"ControlName"	"EditablePanel"
-		"fieldName"		"TooltipPanel"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"30000"
-		"wide"			"300"
-		"tall"			"100"
-		"visible"		"0"
-		"PaintBackgroundType"	"2"
-		"border"		"MainMenuBGBorder"
-		"mouseinputenabled"	"0"
-		
-		"TipLabel"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"TipLabel"
+#base "base/filesv2/tooltippanel/main.res"
+#base "base/filesv2/tooltippanel/border.res"
+#base "base/filesv2/tooltippanel/position/ypos0.res"
+#base "base/filesv2/tooltippanel/position/tall100.res"
+#base "base/filesv2/tooltippanel/position/wide300.res"
 
-
-			if_small
-			{
-				"font"	"FontStoreOriginalPrice"
-			}
-
-			if_medium
-			{
-				"font"	"HudFontSmall"
-			}
-
-			if_large
-			{
-				"font"	"HudFontSmallBold"
-			}
-
-			"labelText"		"%tiptext%"
-			"textAlignment"	"center"
-			"xpos"			"10"
-			"ypos"			"10"
-			"zpos"			"2"
-			"wide"			"140"
-			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor_override"	"W_ColorIcons1"
-			"auto_wide_tocontents" "1"
-			"auto_tall_tocontents"	"1"
-			"wrap"	"1"
-		}
-	}	
-}
+#base "base/filesv2/tooltippanel/tiplabel/main.res"
+#base "base/filesv2/tooltippanel/tiplabel/fgcolor.res"
+#base "base/filesv2/tooltippanel/tiplabel/position/xpos10.res"
+#base "base/filesv2/tooltippanel/tiplabel/position/ypos10.res"
+#base "base/filesv2/tooltippanel/tiplabel/position/wide140.res"
+#base "base/filesv2/tooltippanel/tiplabel/position/tall30.res"
+#base "base/filesv2/tooltippanel/tiplabel/text/center.res"
+#base "base/filesv2/tooltippanel/tiplabel/text/auto_wide.res"
+#base "base/filesv2/tooltippanel/tiplabel/text/wrap1.res"

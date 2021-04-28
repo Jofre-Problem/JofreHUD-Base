@@ -210,7 +210,7 @@ Scheme
 	{
 		"40"
 		{
-			"font" "resource/font/DroidSansMono.ttf"
+			"font" "_jofrehud/DroidSansMono.ttf"
 			"name" "Droid Sans Mono"
 		}			
 	}	

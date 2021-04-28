@@ -4,7 +4,7 @@ Scheme
 	{
 		"98" 
 		{
-			"font" "resource/font/CustomNotoMono.otf"
+			"font" "_jofrehud/CustomNotoMono.otf"
 			"name" "CustomNotoMono"
 			"english" 
 			{

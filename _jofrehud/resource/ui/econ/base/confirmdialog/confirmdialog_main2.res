@@ -1,3 +1,8 @@
+#base "../../../base/filesv2/explanationlabel/text/north.res"
+#base "../../../base/filesv2/explanationlabel/position/xpos40.res"
+#base "../../../base/filesv2/explanationlabel/position/wide244.res"
+#base "../../../base/filesv2/explanationlabel/position/tall170.res"
+#base "../../../base/filesv2/explanationlabel/position/text/centerwrap.res"
 "Resource/UI/ConfirmDialog.res"
 {
 	"ConfirmDialog"
@@ -14,11 +19,11 @@
 	
 	"ExplanationLabel"
 	{
-		"textAlignment"	"north"
-		"xpos"			"40"
-		"wide"			"244"
-		"tall"			"170"
-		"centerwrap"	"1"
+	//	"textAlignment"	"north"
+	//	"xpos"			"40"
+	//	"wide"			"244"
+	//	"tall"			"170"
+	//	"centerwrap"	"1"
 	}
 		
 	"CancelButton"

@@ -1,1 +1,8 @@
 #base "base/filesv1/itemrename/mouseoveritem.res"
+#base "base/filesv2/tooltippanel/main.res"
+#base "base/filesv2/tooltippanel/ctrl.res"
+#base "base/filesv2/tooltippanel/border.res"
+#base "base/filesv2/tooltippanel/position/ypos0.res"
+#base "base/filesv2/tooltippanel/position/zpos100.res"
+#base "base/filesv2/tooltippanel/position/tall50.res"
+#base "base/filesv2/tooltippanel/position/wide140.res"
