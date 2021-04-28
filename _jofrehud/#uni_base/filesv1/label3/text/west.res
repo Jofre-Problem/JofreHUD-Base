@@ -1,6 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"MapLabel"
+	"Label3"
 	{
 		"textAlignment"		"west"
 	}	

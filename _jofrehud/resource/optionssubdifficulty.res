@@ -1,4 +1,3 @@
-
 #base "../#uni_base/filesv1/label2/main.res"
 #base "../#uni_base/filesv1/label2/auto.res"
 #base "../#uni_base/filesv1/label2/pin.res"
@@ -32,3 +31,14 @@
 #base "../#uni_base/filesv1/label3/bright0.res"
 #base "../#uni_base/filesv1/label3/dull0.res"
 #base "../#uni_base/filesv1/label3/wrap1.res"
+
+#base "../#uni_base/filesv1/label4/main.res"
+#base "../#uni_base/filesv1/label4/text/north-west.res"
+#base "../#uni_base/filesv1/label4/auto.res"
+#base "../#uni_base/filesv1/label4/pin.res"
+#base "../#uni_base/filesv1/label4/tab.res"
+#base "../#uni_base/filesv1/label4/vis1.res"
+#base "../#uni_base/filesv1/label4/enabled.res"
+#base "../#uni_base/filesv1/label4/bright0.res"
+#base "../#uni_base/filesv1/label4/dull0.res"
+#base "../#uni_base/filesv1/label4/wrap1.res"

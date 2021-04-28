@@ -2,13 +2,104 @@
 #base "../../../#uni_base/filesv1/label2/text/west.res"
 
 #base "../../../#uni_base/filesv1/label3/text/west.res"
+#base "../../../#uni_base/filesv1/label5/text/west.res"
+#base "../../../#uni_base/filesv1/label6/text/west.res"
+#base "../../../#uni_base/filesv1/label4/text/west.res"
+
+#base "../../../#uni_base/filesv1/label7/text/west.res"
+#base "../../../#uni_base/filesv1/label8/text/west.res"
+#base "../../../#uni_base/filesv1/label9/text/west.res"
+
+#base "../../../#uni_base/filesv1/label7/position/wide64.res"
+#base "../../../#uni_base/filesv1/label8/position/wide64.res"
+#base "../../../#uni_base/filesv1/label9/position/wide64.res"
 "Resource\BugUIPanel.res"
 {
+	"Label7"
+	{
+		"xpos"		"10"
+	//	"wide"		"64"
+		"labelText"		"Submitter:"
+	//	"textAlignment"		"west"
+	}	
+	"Label8"
+	{
+		"xpos"		"10"
+		"ypos"		"372"
+	//	"wide"		"64"
+		"labelText"		"Owner:"
+	//	"textAlignment"		"west"
+	}
+	"Label9"
+	{
+		"xpos"		"10"
+	//	"wide"		"64"
+		"labelText"		"Severity:"
+	//	"textAlignment"		"west"
+	}
+	"Label11"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"Label11"
+		"xpos"		"320"
+		"ypos"		"372"
+		"wide"		"90"
+		"tall"		"24"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"tabPosition"		"0"
+		"labelText"		"Priority:"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+	}	
+	"Label12"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"Label12"
+		"ypos"		"336"
+		"wide"		"90"
+		"tall"		"24"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+	}	
+	"Label13"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"Label13"
+		"xpos"		"320"
+		"wide"		"84"
+		"tall"		"24"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+	}	
 	"Label3"
 	{
 		"xpos"		"320"
 		"labelText"		"Position:"
 	}
+	"Label4"
+	{
+		"xpos"		"320"
+		"wide"		"92"
+		"labelText"		"Orientation:"
+		"textAlignment"		"west"
+	}		
 	"BugDescription"
 	{
 		"xpos"		"100"
@@ -246,101 +337,20 @@
 	//	"textAlignment"		"west"
 	}
 
-	"Label4"
-	{
-		"xpos"		"320"
-		"wide"		"92"
-		"labelText"		"Orientation:"
-		"textAlignment"		"west"
-	}	
+
 	"Label5"
 	{
 		"xpos"		"320"
 		"ypos"		"220"
 		"labelText"		"Map:"
-		"textAlignment"		"west"
 	}
 	"Label6"
 	{
 		"xpos"		"320"
 		"labelText"		"Build:"
-		"textAlignment"		"west"
+	//	"textAlignment"		"west"
 	}	
-	"Label7"
-	{
-		"xpos"		"10"
-		"wide"		"64"
-		"labelText"		"Submitter:"
-		"textAlignment"		"west"
-	}	
-	"Label8"
-	{
-		"xpos"		"10"
-		"ypos"		"372"
-		"wide"		"64"
-		"labelText"		"Owner:"
-		"textAlignment"		"west"
-	}
-	"Label9"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"Label9"
-		"xpos"		"10"
-		"wide"		"64"
-		"labelText"		"Severity:"
-		"textAlignment"		"west"
-	}
-	"Label11"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"Label11"
-		"xpos"		"320"
-		"ypos"		"372"
-		"wide"		"90"
-		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"tabPosition"		"0"
-		"labelText"		"Priority:"
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"wrap"		"0"
-	}	
-	"Label12"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"Label12"
-		"ypos"		"336"
-		"wide"		"90"
-		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"wrap"		"0"
-	}	
-	"Label13"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"Label13"
-		"xpos"		"320"
-		"wide"		"84"
-		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"wrap"		"0"
-	}	
+
 	"BuildModeDialog"
 	{
 		"ControlName"		"BuildModeDialog"

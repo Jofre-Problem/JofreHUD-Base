@@ -15,7 +15,6 @@
 
 #base "../#uni_base/filesv1/label3/main.res"
 #base "../#uni_base/filesv1/label3/auto.res"
-#base "../#uni_base/filesv1/label3/position/tall24.res"
 #base "../#uni_base/filesv1/label3/tab.res"
 #base "../#uni_base/filesv1/label3/vis1.res"
 #base "../#uni_base/filesv1/label3/enabled.res"
@@ -23,3 +22,12 @@
 #base "../#uni_base/filesv1/label3/dull0.res"
 #base "../#uni_base/filesv1/label3/wrap0.res"
 #base "../#uni_base/filesv1/label3/text/east.res"
+
+#base "../#uni_base/filesv1/label4/main.res"
+#base "../#uni_base/filesv1/label4/text/west.res"
+#base "../#uni_base/filesv1/label4/auto.res"
+#base "../#uni_base/filesv1/label4/tab.res"
+#base "../#uni_base/filesv1/label4/vis1.res"
+#base "../#uni_base/filesv1/label4/enabled.res"
+#base "../#uni_base/filesv1/label4/bright0.res"
+#base "../#uni_base/filesv1/label4/dull0.res"
