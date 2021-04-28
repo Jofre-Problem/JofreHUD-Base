@@ -13,8 +13,41 @@
 #base "../../../#uni_base/filesv1/label7/position/wide64.res"
 #base "../../../#uni_base/filesv1/label8/position/wide64.res"
 #base "../../../#uni_base/filesv1/label9/position/wide64.res"
+
+#base "../../../#uni_base/filesv1/label11/main.res"
+#base "../../../#uni_base/filesv1/label11/position/tall24.res"
+#base "../../../#uni_base/filesv1/label11/auto.res"
+#base "../../../#uni_base/filesv1/label11/pin.res"
+#base "../../../#uni_base/filesv1/label11/tab.res"
+#base "../../../#uni_base/filesv1/label11/bright0.res"
+#base "../../../#uni_base/filesv1/label11/dull0.res"
+#base "../../../#uni_base/filesv1/label11/wrap0.res"
+
+#base "../../../#uni_base/filesv1/label12/main.res"
+#base "../../../#uni_base/filesv1/label12/position/tall24.res"
+#base "../../../#uni_base/filesv1/label12/auto.res"
+#base "../../../#uni_base/filesv1/label12/pin.res"
+#base "../../../#uni_base/filesv1/label12/tab.res"
+#base "../../../#uni_base/filesv1/label12/bright0.res"
+#base "../../../#uni_base/filesv1/label12/dull0.res"
+#base "../../../#uni_base/filesv1/label12/wrap0.res"
+
+#base "../../../#uni_base/filesv1/label11/text/west.res"
+#base "../../../#uni_base/filesv1/label12/text/west.res"
 "Resource\BugUIPanel.res"
 {
+	"Label11"
+	{
+		"xpos"		"320"
+		"ypos"		"372"
+		"wide"		"90"
+		"labelText"		"Priority:"
+	}	
+	"Label12"
+	{
+		"ypos"		"336"
+		"wide"		"90"
+	}	
 	"Label7"
 	{
 		"xpos"		"10"
@@ -37,40 +70,7 @@
 		"labelText"		"Severity:"
 	//	"textAlignment"		"west"
 	}
-	"Label11"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"Label11"
-		"xpos"		"320"
-		"ypos"		"372"
-		"wide"		"90"
-		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"tabPosition"		"0"
-		"labelText"		"Priority:"
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"wrap"		"0"
-	}	
-	"Label12"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"Label12"
-		"ypos"		"336"
-		"wide"		"90"
-		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"wrap"		"0"
-	}	
+
 	"Label13"
 	{
 		"ControlName"		"Label"
