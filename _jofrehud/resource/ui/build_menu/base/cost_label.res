@@ -6,7 +6,7 @@
 		"fieldName"		"CostLabel"
 		"font"			"Default"
 		"fgcolor"		"HudWhite"
-		// HudWhite doesnt work
+		// Whitesolid doesnt work
 		// wtf
 		"xpos"			"0"
 		"ypos"			"20"
