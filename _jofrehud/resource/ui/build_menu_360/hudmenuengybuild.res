@@ -1,0 +1,10 @@
+#base "../base/filesv3-hint/build.res"
+#base "../base/filesv3-hint/buttonlegend.res"
+#base "../base/filesv3-hint/cancel/main.res"
+#base "../base/filesv3-hint/cancel/is_label.res"
+#base "../base/filesv3-hint/cancel/vis1.res"
+#base "../base/filesv3-hint/cancel/pin0.res"
+
+#base "../base/filesv3-hint/cancel-label/main.res"
+#base "../base/filesv3-hint/cancel-label/x_pos42.res"
+#base "../base/filesv3-hint/cancel-label/ypos151.res"
