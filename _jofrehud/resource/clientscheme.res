@@ -3,106 +3,6 @@ Scheme
 {
 	BaseSettings
 	{
-
-		Button.BgColor					"50 50 50 255"
-		Button.ArmedTextColor			"HudWhite"
-		Button.ArmedBgColor				"70 70 70 255"
-// TF		Button.DepressedTextColor		"W_ColorTheme1"
-// tf		Button.DepressedBgColor			"W_BorderArmed"	
-// tf		Button.FocusBorderColor			"W_BorderArmed"
-
-		CheckButton.Border1  								"Blank"			// left and top
-		CheckButton.Border2  								"Blank"			// bottom and right
-		
-		ComboBoxButton.ArrowColor							"White"
-		ComboBoxButton.ArmedArrowColor						"White"
-		ComboBoxButton.BgColor								"Blank"
-		ComboBoxButton.DisabledBgColor						"Blank"
-
-		Frame.BgColor										"TransparentBlack"
-		Frame.OutOfFocusBgColor								"TransparentBlack"
-		FrameGrip.Color1									"Blank"
-		FrameGrip.Color2									"Blank"
-		FrameTitleButton.FgColor							"Blank"
-		FrameTitleButton.BgColor							"Blank"
-		FrameTitleButton.DisabledFgColor					"Blank"
-		FrameTitleButton.DisabledBgColor					"Blank"
-		FrameTitleBar.TextColor								"OrangeLight"
-		FrameTitleBar.BgColor								"Blank"
-		FrameTitleBar.DisabledTextColor						"OrangeLight"
-		FrameTitleBar.DisabledBgColor						"Blank"
-
-	//	GraphPanel.FgColor									"OrangeLight"
-	//	GraphPanel.BgColor									"TransparentBlack"
-		
-		Label.TextDullColor									"255 0 0 255" // Gray
-		Label.TextColor										"White" // White
-		Label.TextBrightColor								"Blue" // White
-		Label.SelectedTextColor								"255 255 0 255" // White
-		Label.BgColor										"Blank" // Blank
-		Label.DisabledFgColor1								"Blank"		// text shadow
-		Label.DisabledFgColor2								"TanDark"	// text
-
-		ListPanel.TextColor									"OrangeLight"
-		ListPanel.BgColor									"Blank"
-		ListPanel.SelectedTextColor							"Black"
-		ListPanel.SelectedBgColor							"OrangeLight"
-		ListPanel.SelectedOutOfFocusBgColor					"OrangeLight"
-		ListPanel.EmptyListInfoTextColor					"OrangeLight"
-
-		Menu.TextColor										"White"
-		Menu.BgColor										"TransparentBlack"
-		Menu.TextInset										"6"
-
-
-		PropertySheet.TextColor								"White"
-		PropertySheet.SelectedTextColor						"OrangeLight"
-		PropertySheet.TransitionEffectTime					"0.2"
-
-		RadioButton.TextColor								"White"
-		RadioButton.SelectedTextColor						"OrangeLight"
-
-		RichText.TextColor									"Gray"
-		RichText.BgColor									"Blank"
-		RichText.SelectedTextColor							"Gray"
-		RichText.SelectedBgColor							"OrangeLight"
-
-		ScrollBarButton.BgColor				"Blank"
-//		ScrollBarButton.ArmedFgColor		"W_ColorTheme1"
-		ScrollBarButton.ArmedBgColor		"Blank"
-//		ScrollBarButton.DepressedFgColor	"W_ColorTheme1"
-		ScrollBarButton.DepressedBgColor	"Blank"
-
-		ScrollBarSlider.BgColor								"Blank"
-
-		SectionedListPanel.HeaderTextColor					"White"
-		SectionedListPanel.HeaderBgColor					"Blank"
-		SectionedListPanel.DividerColor						"Black"
-		SectionedListPanel.TextColor						"White"
-		SectionedListPanel.BrightTextColor					"OrangeLight"
-		SectionedListPanel.BgColor							"TransparentLightBlack"
-		SectionedListPanel.SelectedTextColor				"Black"
-		SectionedListPanel.SelectedBgColor					"OrangeLight"
-		SectionedListPanel.OutOfFocusSelectedTextColor		"Black"
-		SectionedListPanel.OutOfFocusSelectedBgColor		"255 255 255 30"
-
-	//	Slider.NobColor										"W_ColorIcons1"
-		Slider.TextColor									"127 140 127 255"
-	//	Slider.TrackColor									"W_BorderArmed"
-		Slider.DisabledTextColor1							"117 117 117 255"
-	//	Slider.DisabledTextColor2							"Blank"
-
-	//	TextEntry.TextColor									"W_ColorIcons1"
-
-		TextEntry.DisabledTextColor							"Gray"
-		TextEntry.DisabledBgColor							"Blank"
-	//	TextEntry.SelectedTextColor							"W_ColorTheme1"
-		TextEntry.OutOfFocusSelectedBgColor					"Blank"
-		TextEntry.FocusEdgeColor							"Blank"
-	//	TextEntry.SelectedBgColor		"W_BorderArmed"
-	//1	TextEntry.BgColor				"W_ColorTheme1"
-		
-		"MenuBoxBg"											"0 0 0 80"
 	}
 	Fonts
 	{			
@@ -116,7 +16,7 @@ Scheme
 		}	
 		/////////////////////////////////////
 		// TF2 MISSING FONT FOR ALL THESE YEARS, SERIOUSLY
-		// from the bottom of my heart, fuck you.
+		// from the bottom of my heart, **** you.
 		"HudMenuNumberFont"	
 		{
 			"1"
