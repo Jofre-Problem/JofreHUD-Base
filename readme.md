@@ -12,3 +12,10 @@ However, there are other changes that CANT be emulated as the orginal hud like t
 This is pretty much my base for future HUDS. You can grab all the optimization stuff I did here for actually added it to your own hud.
 
 But please, give credit.
+
+# Compatibility with other huds
+
+Well, I have tested and there is no way to make this hud work with another. Even if all the files are stored on "_jofrenew", aparrently only reads the clientscheme & gamemenu files, but not the /ui/ ones.
+
+This is a huge problem for me in order to testing. The only soluton (which is bad) I found is about link "_jofrenew" inside the "jofrehud" folder.
+
