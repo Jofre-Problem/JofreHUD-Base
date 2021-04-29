@@ -19,3 +19,4 @@ Well, I have tested and there is no way to make this hud work with another. Even
 
 This is a huge problem for me in order to testing. The only soluton (which is bad) I found is about link "_jofrenew" inside the "jofrehud" folder.
 
+However, so, the only solution is, put everything important on "_jofrenew" on you hud folder.grab and copy all "jofrehud" files on the hud, the annoying solution, cuz this will make me have duplicates of lot of #bases. oh well.
