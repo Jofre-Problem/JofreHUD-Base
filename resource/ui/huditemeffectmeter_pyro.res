@@ -8,13 +8,4 @@
 
 // same as huditemeffectmeter.res
 
-"Resource/UI/huditemeffectmeter_Pyro.res"
-{
-	huditemeffectmeter
-	{
-	}
-	ItemEffectMeter
-	{
-		"ypos"			"-22"
-	}
-}
+#base "../../_tf2hud/resource/ui/huditemeffectmeter.res"

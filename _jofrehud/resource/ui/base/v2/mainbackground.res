@@ -9,7 +9,7 @@
 		"zpos"			"0"
 		"wide"			"450"
 		"tall"			"170"
-		"visible"		"0"
+	//	"visible"		"0"
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"

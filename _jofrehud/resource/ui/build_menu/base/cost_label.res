@@ -4,12 +4,12 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CostLabel"
-		"font"			"Default"
-		"fgcolor"		"HudWhite"
+		"font"			"HudFontSmall"
+	//	"fgcolor"		"HudWhite"
 		// Whitesolid doesnt work
 		// wtf
-		"xpos"			"0"
-		"ypos"			"20"
+		"xpos"			"23"
+	//	"ypos"			"20"
 		"zpos"			"4"
 		"wide"			"38"
 		"tall"			"20"
@@ -18,12 +18,6 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"%metal%"
-		"textAlignment"	"center"	
-		
-		"auto_wide_tocontents"	"1"
-		
-		"textinsetx"	"20"
-		
-		"border"		"NoBorder"
+		"textAlignment"	"Left"
 	}
 }

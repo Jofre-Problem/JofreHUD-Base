@@ -1,12 +1,8 @@
 #base "../../base/v2/mainbackground.res"
 #base "../../base/v2/divider.res"
-#base "../../base/v2/center_anchor.res"
 #base "../../base/v2/title_v1.res"
 "Resource/UI/build_menu/HudMenuEngyDestroy.res"
 {
-	"CenterAnchor"
-	{
-	}
 	"DestroyIcon"	
 	{
 		"ControlName"	"CIconPanel"
