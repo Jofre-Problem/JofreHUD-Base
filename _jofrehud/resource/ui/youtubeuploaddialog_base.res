@@ -16,7 +16,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "W_ColorTheme1"
+	//	"fgcolor_override" "W_ColorTheme1"
 	}
 
 	"ConfirmButton"

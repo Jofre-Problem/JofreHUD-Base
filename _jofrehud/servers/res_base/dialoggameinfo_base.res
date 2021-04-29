@@ -131,7 +131,7 @@
 		"labelText"		"#ServerBrowser_ServerName"
 		"textAlignment"		"east"
 		"wrap"		"0"
-		"fgcolor"	"W_ColorTheme1"
+	//	"fgcolor"	"W_ColorTheme1"
 	}
 	"GameLabel"
 	{
@@ -147,7 +147,7 @@
 		"labelText"		"#ServerBrowser_GameLabel"
 		"textAlignment"		"east"
 		"wrap"		"0"
-		"fgcolor"	"W_ColorTheme1"		
+	//	"fgcolor"	"W_ColorTheme1"		
 	}
 	"MapLabel"
 	{

@@ -98,7 +98,7 @@
 		"proportionaltoparent"	"1"
 		"border"		"NoBorder"
 		"mouseinputenabled"	"0"
-		"bgcolor_override"		"W_ColorTheme1"		
+	//	"bgcolor_override"		"W_ColorTheme1"		
 	}
 
 	"FadeTransition"
@@ -116,7 +116,7 @@
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"		"0"
 		
-		"bgcolor_override"		"W_ColorTheme1"
+	//	"bgcolor_override"		"W_ColorTheme1"
 	}
 
 }

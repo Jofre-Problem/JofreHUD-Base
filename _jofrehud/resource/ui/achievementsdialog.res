@@ -116,7 +116,7 @@
 		"xpos"		"23"
 		"ypos"		"67"
 		"tall"		"16"
-		"fillcolor"	"W_ColorTheme4"
+	//	"fillcolor"	"W_ColorTheme4"
 	}
 	
 	"PercentageText" //Percent Text inside the percentage field
@@ -137,7 +137,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"		"0"
-		"fgcolor"	"W_ColorIcons1"		
+	//	"fgcolor"	"W_ColorIcons1"		
 		"fillcolor"	"255 255 255 255"
 		"font"		"AchievementItemDescription"	//"defaultlarg"
 	}
@@ -187,7 +187,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"		"0"
-		"fgcolor"	"W_ColorIcons1"
+	//	"fgcolor"	"W_ColorIcons1"
 		"fillcolor"	"255 255 255 255"
 		"font"		"AchievementItemDescription"	//"defaultlarg"
 	}

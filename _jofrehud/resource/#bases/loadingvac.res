@@ -18,7 +18,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"fgcolor_override"	"W_ColorIcons1"		
+	//	"fgcolor_override"	"W_ColorIcons1"		
 	}
 	"VACImage"
 	{

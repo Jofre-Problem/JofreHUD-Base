@@ -10,17 +10,9 @@ Scheme
 // TF		Button.DepressedTextColor		"W_ColorTheme1"
 // tf		Button.DepressedBgColor			"W_BorderArmed"	
 // tf		Button.FocusBorderColor			"W_BorderArmed"
-		Button.TextColor									"W_BorderArmed"
-		Button.SelectedTextColor						"W_ColorTheme3"
-		Button.SelectedOutOfFocusBgColor			"W_BorderArmedText"// selected, only specific buttons
 
-		CheckButton.TextColor								"W_ColorTheme1"
-		CheckButton.SelectedTextColor						"W_ColorIcons1"
-		CheckButton.BgColor									"W_ColorTheme3"		// bg inside checkbox
 		CheckButton.Border1  								"Blank"			// left and top
 		CheckButton.Border2  								"Blank"			// bottom and right
-		CheckButton.Check										"W_BorderArmed"				// check mark
-		CheckButton.HighlightFgColor						"W_ColorIcons1"				// ?
 		
 		ComboBoxButton.ArrowColor							"White"
 		ComboBoxButton.ArmedArrowColor						"White"
@@ -60,8 +52,6 @@ Scheme
 
 		Menu.TextColor										"White"
 		Menu.BgColor										"TransparentBlack"
-		Menu.ArmedTextColor		"W_BorderArmedText"
-		Menu.ArmedBgColor		"W_BorderArmed"
 		Menu.TextInset										"6"
 
 
@@ -83,7 +73,6 @@ Scheme
 //		ScrollBarButton.DepressedFgColor	"W_ColorTheme1"
 		ScrollBarButton.DepressedBgColor	"Blank"
 
-		ScrollBarSlider.FgColor								"W_ColorLinea1"
 		ScrollBarSlider.BgColor								"Blank"
 
 		SectionedListPanel.HeaderTextColor					"White"
@@ -103,15 +92,15 @@ Scheme
 		Slider.DisabledTextColor1							"117 117 117 255"
 	//	Slider.DisabledTextColor2							"Blank"
 
-		TextEntry.TextColor									"W_ColorIcons1"
+	//	TextEntry.TextColor									"W_ColorIcons1"
 
 		TextEntry.DisabledTextColor							"Gray"
 		TextEntry.DisabledBgColor							"Blank"
-		TextEntry.SelectedTextColor							"W_ColorTheme1"
+	//	TextEntry.SelectedTextColor							"W_ColorTheme1"
 		TextEntry.OutOfFocusSelectedBgColor					"Blank"
 		TextEntry.FocusEdgeColor							"Blank"
-		TextEntry.SelectedBgColor		"W_BorderArmed"
-		TextEntry.BgColor				"W_ColorTheme1"
+	//	TextEntry.SelectedBgColor		"W_BorderArmed"
+	//1	TextEntry.BgColor				"W_ColorTheme1"
 		
 		"MenuBoxBg"											"0 0 0 80"
 	}
