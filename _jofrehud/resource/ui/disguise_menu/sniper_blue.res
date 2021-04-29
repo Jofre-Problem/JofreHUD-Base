@@ -1,1 +1,0 @@
-#base "base/sniper_blue.res"

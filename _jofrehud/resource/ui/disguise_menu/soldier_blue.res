@@ -1,1 +1,0 @@
-#base "base/soldier_blue.res"

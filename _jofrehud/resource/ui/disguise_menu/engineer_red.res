@@ -1,1 +1,0 @@
-#base "base/engineer_red.res"

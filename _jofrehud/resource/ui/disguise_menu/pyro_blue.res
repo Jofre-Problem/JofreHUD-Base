@@ -1,1 +1,0 @@
-#base "base/pyro_blue.res"

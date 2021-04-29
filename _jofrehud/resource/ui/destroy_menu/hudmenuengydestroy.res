@@ -1,1 +1,0 @@
-#base "base/hudmenuengydestroy.res"

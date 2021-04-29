@@ -1,1 +1,0 @@
-#base "base/heavy_blue.res"

@@ -12,4 +12,5 @@
 #base "res_base/obj/builtpanel/sappericon.res"
 #base "res_base/obj/buildingpanel/main.res"
 #base "res_base/obj/runningpanel/main.res"
-#base "res_base/obj/runningpanel/upgrade.res"
+#base "res_base/obj/runningpanel/base_upgrade.res"
+#base "res_base/obj/runningpanel/base_upgrade_1.res"
