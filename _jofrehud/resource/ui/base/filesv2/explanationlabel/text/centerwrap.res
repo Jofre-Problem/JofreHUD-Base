@@ -1,6 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"MapLabel"
+	"ExplanationLabel"
 	{
 		"centerwrap"		"1"
 	}	

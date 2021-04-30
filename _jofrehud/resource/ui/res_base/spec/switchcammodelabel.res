@@ -1,9 +1,8 @@
+#base "new/switchcammodelabel.res"
 "Resource/UI/Spectator.res"
 {
 	"SwitchCamModeLabel"
 	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"SwitchCamModeLabel"
 		"xpos"			"r125"	[$WIN32]
 		"ypos"			"10"	[$WIN32]
 		"wide"			"125"	[$WIN32]

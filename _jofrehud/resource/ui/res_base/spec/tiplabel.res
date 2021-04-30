@@ -1,9 +1,8 @@
+#base "new/tiplabel.res"
 "Resource/UI/Spectator.res"
 {
 	"TipLabel"
 	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"TipLabel"
 		"xpos"			"15"
 		"xpos_hidef"	"60"
 		"xpos_lodef"	"45"

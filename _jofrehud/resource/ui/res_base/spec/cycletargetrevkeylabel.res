@@ -1,9 +1,8 @@
+#base "new/cycletargetrevkeylabel.res"
 "Resource/UI/Spectator.res"
 {
 	"CycleTargetRevKeyLabel"
 	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"CycleTargetRevKeyLabel"
 		"xpos"			"r200"	[$WIN32]
 		"ypos"			"30"	[$WIN32]
 		"wide"			"60"	[$WIN32]

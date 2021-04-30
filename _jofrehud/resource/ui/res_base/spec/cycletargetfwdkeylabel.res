@@ -1,9 +1,8 @@
+#base "new/cycletargetfwdkeylabel.res"
 "Resource/UI/Spectator.res"
 {
 	"CycleTargetFwdKeyLabel"
 	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"CycleTargetFwdKeyLabel"
 		"xpos"			"r200"	[$WIN32]
 		"ypos"			"20"	[$WIN32]
 		"wide"			"60"	[$WIN32]

@@ -1,9 +1,8 @@
+#base "new/classorteamlabel.res"
 "Resource/UI/Spectator.res"
 {
 	"ClassOrTeamLabel"
 	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"ClassOrTeamLabel"
 		"xpos"			"0"
 		"ypos"			"15"
 		"wide"			"137"

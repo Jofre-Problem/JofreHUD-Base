@@ -1,9 +1,8 @@
+#base "new/cycletargetfwdlabel.res"
 "Resource/UI/Spectator.res"
 {
 	"CycleTargetFwdLabel"
 	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"CycleTargetFwdLabel"
 		"xpos"			"80"
 		"ypos"			"5"		
 		"wide"			"125"	

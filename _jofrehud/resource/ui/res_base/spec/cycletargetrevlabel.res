@@ -1,9 +1,8 @@
+#base "new/cycletargetrevlabel.res"
 "Resource/UI/Spectator.res"
 {
 	"CycleTargetRevLabel"
 	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"CycleTargetRevLabel"
 		"xpos"			"80"
 		"ypos"			"25"	
 		"wide"			"125"
