@@ -6,6 +6,9 @@
 #base "../base/servername.res"
 // Label error ???
 
+#base "base/filesv1/verticalline/main.res"
+
+#base "base/filesv1/horizontalline/main.res"
 
 #base "base/filesv1/mapname/main.res"
 #base "base/filesv1/mapname/is-cex.res"
