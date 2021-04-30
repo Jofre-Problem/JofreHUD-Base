@@ -6,3 +6,13 @@
 #base "base/filesv2/tooltippanel/position/zpos100.res"
 #base "base/filesv2/tooltippanel/position/tall50.res"
 #base "base/filesv2/tooltippanel/position/wide140.res"
+
+
+#base "base/filesv2/classlabel/main.res"
+#base "base/filesv2/classlabel/cex.res"
+#base "base/filesv2/classlabel/font/hudfontsmallbold.res"
+#base "base/filesv2/classlabel/text/north-west.res"
+#base "base/filesv2/classlabel/zpos1.res"
+#base "base/filesv2/classlabel/tall25.res"
+#base "base/filesv2/classlabel/content1.res"
+#base "base/filesv2/classlabel/vis1.res"

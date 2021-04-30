@@ -7,3 +7,7 @@
 #base "base/filesv4-class/scout/extra/south-west.res"
 #base "base/filesv4-class/scout/extra/def0.res"
 #base "base/filesv4-class/scout/extra/scale1.res"
+#base "base/filesv2/classlabel/main.res"
+#base "base/filesv2/classlabel/font/hudfontsmallbold.res"
+#base "base/filesv2/classlabel/text/north.res"
+#base "base/filesv2/classlabel/zpos1.res"
