@@ -6,6 +6,7 @@
 #base "cff_hl2_1.res"
 #base "cff_hl2_ep2.res"
 #base "bs/mainmenu_cons.res"
+#base "bs/mainmenu_cons_extra.res"
 #base "bs/wizard.res"
 #base "bs/graphpanel.res"
 #base "colors/green.res"

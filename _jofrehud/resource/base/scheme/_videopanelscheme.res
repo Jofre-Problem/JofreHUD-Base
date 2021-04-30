@@ -10,6 +10,7 @@
 #base "font/gameui.res"
 #base "font/default_bold.res"
 #base "bs/mainmenu_cons.res"
+#base "bs/mainmenu_cons_extra.res"
 #base "bs/wizard.res"
 #base "border/titlebutton_1.res"
 #base "border/tabborder.res"

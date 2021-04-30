@@ -19,4 +19,3 @@
 	#base "colors/green.res"
 	#base "colors/orange.res"
 	#base "bs/borderdot.res"
-	#base "!custom/tf2.res"

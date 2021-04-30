@@ -115,7 +115,7 @@ Scheme
 
 
 		//P
-		Panel.FgColor					"Red"
+		Panel.FgColor					"255 0 0 255"
 		Panel.BgColor					"Blank"
 		PropertySheet.SelectedTextColor	"White"
 		PropertySheet.TransitionEffectTime	"0.25"
@@ -127,6 +127,7 @@ Scheme
 
 		//R
 		RichText.TextColor				"OffWhite"
+		// not defined OffWHite on clientscheme
 		RichText.SelectedTextColor		"Black"
 		RichText.SelectedBgColor		"Orange"
 		RichText.BgColor									"Black"
