@@ -260,6 +260,16 @@ Chilling :  No homo
 *DEAD* Jofre Problem? :  I love you too
 *DEAD* Jofre Problem? :  No homo
 
+Chinese Man#345 :  NOT THE SNIEPR MAP
+♦Failmann♦ :  5
+cool guy :  4 for ultimate fun
+[FF2] Type /ff2toggle to toggle your boss spawning preferences!
+Chupa me Por favor :  jofre's map
+Chinese Man#345 :  yes
+[MCE] Map voting has finished. The next map will be vsh_dustshowdown_panda. (Received 64% of 17 votes)
+Nekromer :  fun boss
+Chinese Man#345 :  the jofre deluxe
+
 
 TRACKLIST:
 
