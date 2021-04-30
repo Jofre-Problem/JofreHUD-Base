@@ -68,8 +68,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Droid Sans Mono"
-				"tall"		"13"
+				"name"		"Verdana"
+				"tall"		"12"
 				"weight"	"500"
 				"antialias"	"1"
 			}
@@ -208,10 +208,10 @@ Scheme
 	}
 	CustomFontFiles
 	{
-		"40"
-		{
-			"font" "_jofrehud/DroidSansMono.ttf"
-			"name" "Droid Sans Mono"
-		}			
+	//	"40"
+	//	{
+	//		"font" "_jofrehud/DroidSansMono.ttf"
+	//		"name" "Droid Sans Mono"
+	//	}			
 	}	
 }	

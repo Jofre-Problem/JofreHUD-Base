@@ -12,7 +12,7 @@
 		"ypos"		"0"
 		//forced to stay down... why valve
 		"wide"		"f+20"
-		"tall"		"665"//"40"//"665"
+		"tall"		"30"//"40"//"665"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"RoundedCorners"		"15"
@@ -23,8 +23,6 @@
 		"tabPosition"		"0"
 		"settitlebarvisible"		"1"
 		"title"		"#GameUI_Loading"
-		"bgcolor"				"Blank"
-		"bgcolor_override"		"Blank"
 	}
 	"CancelButton"
 	{
