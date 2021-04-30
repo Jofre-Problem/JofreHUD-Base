@@ -7,3 +7,4 @@
 	#base "base/filesv1/rankpanel/matchgroup_6.res"
 	#base "base/filesv1/drawingpanel/main.res"
 	#base "base/filesv2/rankmodelpanel/main.res"	
+	#base "base/filesv2/matchsummary/main.res"		

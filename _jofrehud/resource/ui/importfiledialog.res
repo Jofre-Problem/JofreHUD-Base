@@ -5,7 +5,11 @@
 #base "../../friends/base/namelabel_autoresize0.res"
 #base "../../friends/base/namelabel_pincorner.res"
 #base "../../#uni_base/filesv3/namelabel/tall20.res"
+#base "base/filesv1/title/main.res"
+#base "base/filesv2/workshopbg/main.res"
+#base "base/filesv2/bgbottom/main.res"
 #base "base/filesv2/classmodelpanel/content_import.res"
+
 #base "base/filesv1/typelabel/main.res"
 #base "../../#uni_base/filesv1/background/bg_main.res"
 #base "../../#uni_base/filesv1/background/bg_enabled.res"
