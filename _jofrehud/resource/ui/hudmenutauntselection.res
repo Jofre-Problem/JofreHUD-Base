@@ -1,5 +1,5 @@
 #base "res_base/hudmenutauntselection.res"
-#base "disguise_menu/base/number_bg_v2.res"
+// #base "base/build-more/numberbg/main.res"
 #base "base/build-more/cancellabel/main.res"
 #base "base/build-more/cancellabel/ctrl/cex.res"
 #base "base/build-more/cancellabel/autopin0.res"
