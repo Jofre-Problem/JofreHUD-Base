@@ -11,7 +11,6 @@
 #base "base/label1_west.res"
 #base "base/label1_tab.res"
 "Admin/VarEditDialog_ComboBox.res"
-
 {
 	"OKButton"
 	{

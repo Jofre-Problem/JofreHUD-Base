@@ -270,6 +270,24 @@ Chinese Man#345 :  yes
 Nekromer :  fun boss
 Chinese Man#345 :  the jofre deluxe
 
+[NE] Jofre Problem? has nominated vsh_dustshowdown_panda.
+[SM] Chupa me Por favor wants to rock the vote. (1 votes, 11 required)
+Chupa me Por favor :  rtv
+Tylenol has joined the game
+Chupa me Por favor :  stop fucking nominating sniper's map
+*DEAD* Spaaps :  !nominate
+Chinese Man#345 :  there is
+[NE] Spaaps has nominated vsh_weaponsdepot_final.
+Chinese Man#345 :  ive seen sniper
+
+たなか-さん (18,727) got 5 points for killing Jofre Problem? (20,685)
+[FF2] Damage dealt by you - 8172. You earned 14 points in this round
+たなか-さん :  anime wins again
+Chinese Man#345 :  hgoly shit
+たなか-さん :  yeah cunt
+Chinese Man#345 :  jofre big sex
+たなか-さん :  i keep getting shot
+
 
 TRACKLIST:
 

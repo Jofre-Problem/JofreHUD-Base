@@ -2,7 +2,7 @@
 #base "base/previewimage/bitmap.res"
 #base "base/filesv1/title/main.res"
 #base "base/filesv2/workshopbg/main.res"
-#base "base/filesv2/bgbottom/main.res"
+#base "base/filesv2/classusagepanel/main.res"
 #base "../../#uni_base/filesv1/background/bg_main.res"
 #base "../../#uni_base/filesv1/background/bg_vis1.res"
 #base "../../#uni_base/filesv1/background/bg_enabled.res"
