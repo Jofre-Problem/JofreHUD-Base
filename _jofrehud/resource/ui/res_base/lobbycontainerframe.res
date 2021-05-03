@@ -9,8 +9,22 @@
 #base "../base/filesv2/bgfooter/zpos_1.res"
 #base "../base/filesv2/bgheader/main.res"
 #base "../base/filesv2/bgheader/tall_120.res"
+	#base "../base/filesv1/backbutton/main.res"
+	#base "../base/filesv1/backbutton/ypos437.res"
+	#base "../base/filesv1/backbutton/zpos2.res"
+	#base "../base/filesv1/backbutton/pin3.res"
 "Resource/UI/LobbyContainerFrame.res"
 {
+	"BackButton"
+	{
+		"xpos"			"c-305"
+		"wide"			"180"
+		"tall"			"25"
+		"Command"		"back"
+
+		"NavUp"			"PlayNowButton"
+	}
+
 	"LobbyContainerFrame"
 	{
 		"ControlName"	"EditablePanel"
@@ -97,32 +111,6 @@
 		}
 	}
 
-	"BackButton"
-	{
-		"ControlName"	"CExButton"
-		"fieldName"		"BackButton"
-		"xpos"			"c-305"
-		"ypos"			"437"
-		"zpos"			"2"
-		"wide"			"180"
-		"tall"			"25"
-		"autoResize"	"0"
-		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"font"			"HudFontSmallBold"
-		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"Command"		"back"
-
-		"NavUp"			"PlayNowButton"
-		"NavRight"		"LearnMoreButton"
-
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
-	}
 
 	"MatchmakingBanPanel"
 	{

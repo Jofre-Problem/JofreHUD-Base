@@ -14,3 +14,9 @@
 #base "../base/filesv2/caratlabel/ypos20.res"
 #base "../base/filesv2/caratlabel/vis1.res"
 #base "../base/filesv2/caratlabel/fgcolor_200.res"
+
+	#base "../base/filesv1/backbutton/main.res"
+	#base "../base/filesv1/backbutton/def1.res"
+	#base "../base/filesv1/backbutton/content1.res"
+	#base "../base/filesv1/backbutton/main.res"
+	#base "../base/filesv1/backbutton/pin0.res"		

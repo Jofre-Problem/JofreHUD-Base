@@ -19,3 +19,14 @@
 
 #base "../../../#uni_base/filesv1/closebutton/image/main.res"
 #base "../../../#uni_base/filesv1/closebutton/image/wt14.res"
+
+#base "../base/filesv2/dialogframe/main.res"
+#base "../base/filesv2/dialogframe/dialogframe/wide480.res"
+#base "../base/filesv2/dialogframe/dialogframe/tall300.res"
+#base "../base/filesv2/dialogframe/dialogframe/yposc-200.res"
+#base "../base/filesv2/dialogframe/preview/main2.res"
+#base "../base/filesv2/dialogframe/itemname/main.res"
+#base "../base/filesv2/dialogframe/itemname/xpos240.res"
+
+#base "../base/filesv2/dialogframe/details/main.res"
+#base "../base/filesv2/dialogframe/details/scrollablechild.res"

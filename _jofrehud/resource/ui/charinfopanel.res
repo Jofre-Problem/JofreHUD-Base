@@ -10,4 +10,12 @@
 	#base "base/filesv2/footerline/main.res"
 	#base "base/filesv2/footerline/xpos0.res"
 	#base "base/filesv2/footerline/ypos420.res"
-	#base "base/filesv2/footerline/zpos2.res"	
+	#base "base/filesv2/footerline/zpos2.res"
+
+	#base "base/filesv1/backbutton/main.res"
+	#base "base/filesv1/backbutton/c-295.res"	
+	#base "base/filesv1/backbutton/def1.res"
+	#base "base/filesv1/backbutton/content1.res"
+	#base "base/filesv1/backbutton/ypos437.res"	
+	#base "base/filesv1/backbutton/zpos2.res"
+	#base "base/filesv1/backbutton/pin3.res"		
