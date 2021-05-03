@@ -1,4 +1,7 @@
 #base "itemrename/content1.res"
+#base "filesv1/confirmlabel/main.res"
+#base "filesv1/confirmlabel/position/tall20.res"
+#base "filesv1/confirmlabel/position/ypos80.res"
 "Resource/UI/ItemRenameInvalidDialog.res"
 {
 	// Need to be named ItemRenameConfirmationDialog, because it uses the same base confirmation dialog in code
@@ -16,25 +19,6 @@
 		"settitlebarvisible"	"0"
 		"border"				"GrayDialogBorder"
 	}
-
-	"ConfirmLabel"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"ConfirmLabel"
-		"font"			"HudFontSmall"
-		"textAlignment"	"center"
-		"xpos"			"20"
-		"ypos"			"80"
-		"zpos"			"0"
-		"wide"			"360"
-		"tall"			"20"
-		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
-	}
-	
 	"GivenName"
 	{
 		"ControlName"	"CExLabel"

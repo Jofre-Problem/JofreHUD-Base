@@ -1,4 +1,4 @@
-#base "base/mouseoveritem/content1.res"
+#base "../base/mouseoveritem/content1.res"
 #base "../../../#uni_base/filesv1/okbutton/ctrl/cex.res"
 #base "../../../#uni_base/filesv1/okbutton/main.res"
 #base "../../../#uni_base/filesv1/okbutton/position/wide130.res"
@@ -19,3 +19,10 @@
 #base "../../../#uni_base/filesv1/okbutton/font/hudfontsmallbold.res"
 #base "../../../#uni_base/filesv1/okbutton/position/xpos220.res"
 #base "../../../#uni_base/filesv1/okbutton/position/ypos200.res"
+
+
+#base "../base/filesv1/confirmlabel/main.res"
+#base "../base/filesv1/confirmlabel/position/tall60.res"
+#base "../base/filesv1/confirmlabel/position/ypos80.res"
+
+#base "base/subject_bg_icon/main.res"

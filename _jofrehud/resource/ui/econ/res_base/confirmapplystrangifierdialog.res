@@ -19,8 +19,18 @@
 #base "../../../#uni_base/filesv1/okbutton/font/hudfontsmallbold.res"
 #base "../../../#uni_base/filesv1/okbutton/position/xpos220.res"
 #base "../../../#uni_base/filesv1/okbutton/position/ypos200.res"
+#base "../../base/filesv1/confirmlabel/main.res"
+#base "../../base/filesv1/confirmlabel/position/tall100.res"
+#base "../../base/filesv1/confirmlabel/position/ypos80.res"
+#base "../../base/filesv1/confirmlabel/position/centerwrap1.res"
+
+#base "../base/subject_bg_icon/main.res"
 "Resource/UI/ConfirmApplyStrangifierDialog.res"
 {
+	"ConfirmLabel"
+	{
+		"labelText"		"#ToolStrangifierConfirm"
+	}	
 	"ConfirmApplyStrangifierDialog"
 	{
 		"fieldName"				"ConfirmApplyStrangifierDialog"
@@ -118,88 +128,8 @@
 			"allow_rot"				"0"
 		}
 	}	
-	"SubjectBG"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"SubjectBG"
-		"font"			"HudFontSmall"
-		"labelText"		""
-		"textAlignment"	"east"
-		"xpos"			"300"
-		"ypos"			"10"
-		"zpos"			"-1"
-		"wide"			"84"
-		"tall"			"64"
-		"autoResize"	"1"
-		
-		"visible"		"1"
-		"enabled"		"1"
-		"paintbackground" "0"
-		"border"		"BackpackItemBorder_Vintage"
-	}
-	"subject_icon"
-	{
-		"ControlName"	"ScalableImagePanel"
-		"fieldName"		"subject_icon"
-		"xpos"			"300"
-		"ypos"			"10"
-		"zpos"			"2"
-		"wide"			"16"
-		"tall"			"16"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"backpack_jewel_modify_target_b_g"
-		"tileImage"		"0"
-		"tileVertically" "0"
-		"drawcolor"		"71 98 145 255"
-	}	
-	"subject_modelpanel"
-	{		
-		"ControlName"	"CItemModelPanel"
-		"fieldName"		"subject_modelpanel"
-		"xpos"			"300"
-		"ypos"			"10"
-		"zpos"			"1"
-		"wide"			"84"
-		"tall"			"64"
-		"visible"		"1"
-		"bgcolor_override"		"Blank"
-		"noitem_textcolor"		"117 107 94 255"
-		"PaintBackgroundType"	"2"
-		"paintborder"	"0"
-		"model_xpos"	"2"
-		"model_ypos"	"5"
-		"model_wide"	"80"
-		"model_tall"	"54"
-		"text_ypos"		"100"		// Hide it off the bottom
-		"text_center"	"1"
-		"name_only"		"1"
-		"itemmodelpanel"
-		{
-			"use_item_rendertarget" "0"
-			"allow_rot"				"0"
-		}
-	}	
 	
-	"ConfirmLabel"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"ConfirmLabel"
-		"font"			"HudFontSmall"
-		"labelText"		"#ToolStrangifierConfirm"
-		"textAlignment"	"center"
-		"xpos"			"20"
-		"ypos"			"80"
-		"zpos"			"0"
-		"wide"			"360"
-		"tall"			"100"
-		"autoResize"	"1"
-		
-		"visible"		"1"
-		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
-		"centerwrap"	"1"
-	}
+
 
 	"CancelButton"
 	{

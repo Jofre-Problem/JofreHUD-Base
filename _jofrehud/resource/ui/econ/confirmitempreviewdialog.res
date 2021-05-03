@@ -19,3 +19,7 @@
 #base "../../../#uni_base/filesv1/okbutton/font/hudfontsmallbold.res"
 #base "../../../#uni_base/filesv1/okbutton/position/xpos220.res"
 #base "../../../#uni_base/filesv1/okbutton/position/ypos200.res"
+
+#base "../base/filesv1/confirmlabel/main.res"
+#base "../base/filesv1/confirmlabel/position/tall80.res"
+#base "../base/filesv1/confirmlabel/position/ypos100.res"

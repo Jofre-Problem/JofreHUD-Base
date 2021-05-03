@@ -3,3 +3,5 @@
 #base "../base/filesv1/progress/tab0.res"
 #base "../base/filesv1/progress/controlname.res"
 #base "base/filesv1/durationlabel/main.res"
+#base "base/filesv1/centerpositioner/main.res"
+#base "base/filesv1/genericwaitingdlg/main.res"
