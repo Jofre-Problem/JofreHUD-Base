@@ -10,11 +10,11 @@
 {
 	"Label1"
 	{
-		"xpos"		"14"
-		"ypos"		"60"
-		"wide"		"150"
-		"tall"		"15"
-		"zpos"		"1"
+	//	"xpos"		"14"
+	//	"ypos"		"60"
+	//	"wide"		"150"
+	//	"tall"		"15"
+	//	"zpos"		"1"
 	//	"tabPosition"		"0"
 		"labelText"		"#GameUI_LoadingDialog_ContentHosting"
 	//	"dulltext"		"1"

@@ -1,47 +1,80 @@
-#base "#bases/loading-cancel.res"
-#base "#bases/1bannerad.res"
-#base "#bases/1progress.res"
+#base "../#uni_base/filesv1/loadinglabel/ctrl/frame.res"
+#base "../#uni_base/filesv1/loadinglabel/main.res"
+#base "../#uni_base/filesv1/loadinglabel/position/x322.res"
+#base "../#uni_base/filesv1/loadinglabel/position/y249.res"
+#base "../#uni_base/filesv1/loadinglabel/position/w300.res"
+#base "../#uni_base/filesv1/loadinglabel/position/t74.res"
+
+#base "../#uni_base/filesv1/infolabel/main.res"
+#base "../#uni_base/filesv1/infolabel/ctrl/label.res"
+#base "../#uni_base/filesv1/infolabel/auto.res"
+#base "../#uni_base/filesv1/infolabel/pin.res"
+#base "../#uni_base/filesv1/infolabel/vis0.res"
+#base "../#uni_base/filesv1/infolabel/tab.res"
+#base "../#uni_base/filesv1/infolabel/enabled.res"
+#base "../#uni_base/filesv1/infolabel/bright0.res"
+#base "../#uni_base/filesv1/infolabel/dull0.res"
+#base "../#uni_base/filesv1/infolabel/text/west.res"
+#base "../#uni_base/filesv1/infolabel/special/x20.res"
+#base "../#uni_base/filesv1/infolabel/special/y34.res"
+#base "../#uni_base/filesv1/infolabel/special/w340.res"
+#base "../#uni_base/filesv1/infolabel/special/t24.res"
+#base "../#uni_base/filesv1/infolabel/special/null.res"
+
+#base "base/filesv1/progress/main.res"
+#base "base/filesv1/progress/tab0.res"
+#base "base/filesv1/progress/vis1.res"
+#base "base/filesv1/progress/controlname.res"
+#base "base/filesv1/progress/position/x20.res"
+#base "base/filesv1/progress/position/y34.res"
+#base "base/filesv1/progress/position/w340.res"
+#base "base/filesv1/progress/position/t24.res"
+
+#base "../#uni_base/filesv1/cancelbutton/cancelbutton_autoresize_pin.res"
+#base "../#uni_base/filesv1/cancelbutton/cancelbutton_is-button.res"
+#base "../#uni_base/filesv1/cancelbutton/cancelbutton_def0.res"
+#base "../#uni_base/filesv1/cancelbutton/cancelbutton_main.res"
+#base "../#uni_base/filesv1/cancelbutton/cancelbutton_vis0.res"
+#base "../#uni_base/filesv1/cancelbutton/cancelbutton_west.res"
+#base "../#uni_base/filesv1/cancelbutton/label/gameui_cancel.res"
+#base "../#uni_base/filesv1/cancelbutton/extra/bright0.res"
+#base "../#uni_base/filesv1/cancelbutton/cmd/cancel.res"
+#base "../#uni_base/filesv1/cancelbutton/extra/dull0.res"
+#base "../#uni_base/filesv1/cancelbutton/extra/tab0.res"
+#base "../#uni_base/filesv1/cancelbutton/position/x288.res"
+#base "../#uni_base/filesv1/cancelbutton/position/y34.res"
+#base "../#uni_base/filesv1/cancelbutton/position/w72.res"
+#base "../#uni_base/filesv1/cancelbutton/position/t24.res"
+
 #base "#bases/1divider.res"
-#base "#bases/1timere.res"
-#base "#bases/1progress2.res"
-#base "#bases/1loadinglabel.res"
-"Resource/LoadingDialogNoBannerSingle.res"
-{
-	"InfoLabel"
-	{
-		"labelText"		""
-	}
-	"progress"
-	{
-	}
-	"Divider1"
-	{
-	}
-	"Label1"
-	{
-	}
-	"SecondaryProgressLabel"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"SecondaryProgressLabel"
-		"xpos"		"20"
-		"ypos"		"90"
-		"wide"		"260"
-		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"labelText"		"Label"
-		"textAlignment"		"west"
-		"dulltext"		"1"
-		"brighttext"		"0"
-	}
-	"Progress2"
-	{
-	}
-	"TimeRemainingLabel"
-	{
-	}
-}
+
+#base "../#uni_base/filesv1/label1/main.res"
+#base "../#uni_base/filesv1/label1/auto.res"
+#base "../#uni_base/filesv1/label1/pin.res"
+#base "../#uni_base/filesv1/label1/vis0.res"
+#base "../#uni_base/filesv1/label1/enabled.res"
+#base "../#uni_base/filesv1/label1/tab.res"
+#base "../#uni_base/filesv1/label1/dull1.res"
+#base "../#uni_base/filesv1/label1/bright0.res"
+#base "../#uni_base/filesv1/label1/text/west.res"
+#base "../#uni_base/filesv1/label1/position/tall24.res"
+#base "../#uni_base/filesv1/label1/position/x20.res"
+#base "../#uni_base/filesv1/label1/position/w340.res"
+#base "../#uni_base/filesv1/label1/position/y109.res"
+#base "../#uni_base/filesv1/label1/label/gameui_loading.res"
+
+#base "../#uni_base/filesv1/bannerad/main.res"
+#base "../#uni_base/filesv1/bannerad/vis0.res"
+
+#base "../#uni_base/filesv1/secondaryprogresslabel/main.res"
+
+#base "../#uni_base/filesv1/progress2/main.res"
+#base "../#uni_base/filesv1/progress2/conten2.res"
+
+#base "../#uni_base/filesv1/timeremaininglabel/main.res"
+#base "../#uni_base/filesv1/timeremaininglabel/xpos20.res"
+#base "../#uni_base/filesv1/timeremaininglabel/ypos108.res"
+#base "../#uni_base/filesv1/timeremaininglabel/wide260.res"
+#base "../#uni_base/filesv1/timeremaininglabel/vis0.res"
+#base "../#uni_base/filesv1/timeremaininglabel/dull1.res"
+#base "../#uni_base/filesv1/timeremaininglabel/label/null.res"

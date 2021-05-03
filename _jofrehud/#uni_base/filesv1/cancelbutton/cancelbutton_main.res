@@ -4,6 +4,5 @@
 	"CancelButton"
 	{
 		"fieldName"		"CancelButton"
-		"enabled"		"1"
 	}
 }

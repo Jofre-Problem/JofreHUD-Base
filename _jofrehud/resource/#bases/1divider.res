@@ -7,6 +7,5 @@
 		"xpos"		"20"
 		"ypos"		"104"
 		"wide"		"340"
-		"visible"		"0"
 	}
 }
