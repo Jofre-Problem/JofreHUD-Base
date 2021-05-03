@@ -32,5 +32,11 @@
 
 #base "../../../#uni_base/filesv1/closebutton/cmd/vguicancel.res"
 
-#base "base/filesv1/backpack_panel/main.res"
-#base "base/filesv1/backpack_panel/main2.res"
+#base "../base/filesv1/backpack_panel/main.res"
+#base "../base/filesv1/backpack_panel/main2.res"
+
+#base "../base/filesv2/showexplanationbtn/main.res"
+#base "../base/filesv2/showexplanationbtn/def0.res"
+#base "../base/filesv2/showexplanationbtn/hudfontsmallbold.res"
+#base "../base/filesv2/showexplanationbtn/zpos100.res"
+#base "../base/filesv2/showexplanationbtn/wt20.res"

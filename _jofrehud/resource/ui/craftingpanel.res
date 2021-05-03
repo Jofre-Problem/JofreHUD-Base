@@ -16,3 +16,9 @@
 #base "base/filesv2/classlabel/tall25.res"
 #base "base/filesv2/classlabel/content1.res"
 #base "base/filesv2/classlabel/vis1.res"
+
+#base "base/filesv2/showexplanationbtn/main.res"
+#base "base/filesv2/showexplanationbtn/def1.res"
+#base "base/filesv2/showexplanationbtn/hudfontsmallbold.res"
+#base "base/filesv2/showexplanationbtn/zpos100.res"
+#base "base/filesv2/showexplanationbtn/wt20.res"

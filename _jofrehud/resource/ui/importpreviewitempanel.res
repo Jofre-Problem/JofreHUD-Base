@@ -7,3 +7,7 @@
 #base "base/filesv2/dialogframe/itemname/main.res"
 
 #base "base/filesv2/dialogframe/details/main.res"
+
+#base "base/filesv2/showexplanationbtn/main.res"
+#base "base/filesv2/showexplanationbtn/def1.res"
+#base "base/filesv2/showexplanationbtn/wt20.res"
