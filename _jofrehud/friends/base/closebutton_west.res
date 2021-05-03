@@ -1,7 +1,1 @@
-"friends/AddFriendResultSubPanel.res"
-{
-	"CloseButton"
-	{
-		"textAlignment"		"west"
-	}
-}
+#base "../../#uni_base/filesv1/closebutton/text/west.res"

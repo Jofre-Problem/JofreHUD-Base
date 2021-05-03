@@ -2,8 +2,45 @@
 #base "../../base/filesv1/dimmer/content1.res"
 #base "../base/bg/main.res"
 #base "../../base/filesv1/drawingpanel/main.res"
+
+#base "../../../../#uni_base/filesv1/closebutton/main.res"
+#base "../../../../#uni_base/filesv1/closebutton/vis1.res"
+#base "../../../../#uni_base/filesv1/closebutton/text/center.res"
+#base "../../../../#uni_base/filesv1/closebutton/enabled.res"
+#base "../../../../#uni_base/filesv1/closebutton/ctrl/ceximage.res"
+#base "../../../../#uni_base/filesv1/closebutton/position/tall20.res"
+#base "../../../../#uni_base/filesv1/closebutton/def0.res"
+
+#base "../../../../#uni_base/filesv1/closebutton/dull0.res"
+#base "../../../../#uni_base/filesv1/closebutton/bright0.res"
+#base "../../../../#uni_base/filesv1/closebutton/cmd/cancel.res"
+#base "../../../../#uni_base/filesv1/closebutton/sound.res"
+
+#base "../../../../#uni_base/filesv1/closebutton/image/main.res"
+
+#base "../../../../#uni_base/filesv1/closebutton/image/ypos0.res"
+#base "../../../../#uni_base/filesv1/closebutton/image/wtf0.res"
 "Resource/UI/econ/StrangeCountTransferDialog.res"
 {
+
+	"CloseButton"
+	{
+		"xpos"			"c250"
+		"ypos"			"38"
+		"zpos"			"20"
+		"wide"			"20"
+		"labelText"		""
+		"font"			"HudFontSmall"
+		"Command"		"cancel"
+		"proportionaltoparent" "1"
+		"actionsignallevel" "2"
+			
+
+		"pin_to_sibling"		"MainContainer"
+		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+		
+	}
 	"CollectionCraftingPanel"
 	{
 		"fieldName"				"CollectionCraftingPanel"
@@ -941,60 +978,6 @@
 		}
 	}
 
-	"CloseButton"
-	{
-		"ControlName"	"CExImageButton"
-		"fieldName"		"CloseButton"
-		"xpos"			"c250"
-		"ypos"			"38"
-		"zpos"			"20"
-		"wide"			"20"
-		"tall"			"20"
-		
-		
-		"visible"		"1"
-		"enabled"		"1"
-		
-		"labelText"		""
-		"font"			"HudFontSmall"
-		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"0"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
-		"Command"		"cancel"
-		"proportionaltoparent" "1"
-		"actionsignallevel" "2"
-			
-		"paintbackground"	"0"
-
-		"pin_to_sibling"		"MainContainer"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
-			
-		"defaultFgColor_override" "46 43 42 255"
-		"armedFgColor_override" "200 80 60 255"
-		"depressedFgColor_override" "46 43 42 255"
-			
-		"image_drawcolor"	"150 60 45 255"
-		"image_armedcolor"	"200 80 60 255"
-		"SubImage"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"SubImage"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"1"
-			"wide"			"f0"
-			"tall"			"f0"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			"close_button"
-			"scaleImage"	"1"
-			"proportionaltoparent" "1"
-		}				
-	}
 
 	"NextItemButton"
 	{

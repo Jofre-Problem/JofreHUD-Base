@@ -1,5 +1,12 @@
 #base "../base/filesv1/shade/main.res"
 #base "../base/filesv1/shade/content.res"
+
+#base "../../../#uni_base/filesv1/closebutton/main.res"
+#base "../../../#uni_base/filesv1/closebutton/vis1.res"
+#base "../../../#uni_base/filesv1/closebutton/text/east.res"
+#base "../../../#uni_base/filesv1/closebutton/font/hudfontsmallbold.res"
+#base "../../../#uni_base/filesv1/closebutton/ctrl/cex.res"
+#base "../../../#uni_base/filesv1/closebutton/extra/dash.res"
 "Resource/UI/matchmakingdashboardsidepanel.res"
 {
 
@@ -77,36 +84,6 @@
 		"alpha"		"255"
 
 		"image"		"gradient_pure_black"
-	}
-
-	"CloseButton"
-	{
-		"ControlName"	"CExButton"
-		"fieldName"		"CloseButton"
-		"xpos"			"rs1"
-		"labelText"		">"
-
-		if_left
-		{
-			"xpos"		"0"
-			"labelText"		"<"
-		}
-
-		"ypos"			"0"
-		"zpos"			"10000"
-		"wide"			"15"
-		"tall"			"f0"
-		"visible"		"1"
-		"proportionaltoparent"	"1"
-		"command"		"nav_close"
-
-		"textAlignment"	"east"
-		"font"			"HudFontSmallBold"
-
-		"armedBgColor_override"	"0 0 0 0"
-		"defaultBgColor_override"	"0 0 0 0"
-
-		"armedFgColor_override"	"Orange"
 	}
 
 	"ReturnButton"
