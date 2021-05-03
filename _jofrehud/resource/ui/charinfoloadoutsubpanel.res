@@ -1,5 +1,6 @@
 #base "../#bases/reload_scheme.res"
 #base "base/filesv1/armory_panel/main.res"
+#base "base/filesv1/armory_panel/main.res"
 #base "base/filesv4-class/scout/main.res"
 #base "base/filesv4-class/scout/sound.res"
 #base "base/filesv4-class/scout/extra/tab0.res"
@@ -13,4 +14,4 @@
 #base "base/filesv2/classlabel/zpos1.res"
 
 #base "base/filesv1/backpack_panel/main.res"
-#base "base/filesv1/backpack_panel/main2.res"
+#base "base/filesv1/class_loadout_panel/main.res"

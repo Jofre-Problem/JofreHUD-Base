@@ -26,3 +26,5 @@
 #base "base/filesv2/classlabel/content1.res"
 #base "base/filesv2/classlabel/vis1.res"
 #base "base/filesv2/classlabel/label/equiped.res"
+
+#base "base/filesv1/class_loadout_panel/main.res"
