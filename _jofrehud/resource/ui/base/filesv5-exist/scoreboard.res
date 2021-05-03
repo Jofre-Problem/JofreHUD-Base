@@ -1,5 +1,7 @@
-"resource/ui/replayinput.res"
+"Resource/UI/Scoreboard.res"
 {
 	"scores"
-	{}
+	{
+	
+	}
 }

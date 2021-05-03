@@ -24,11 +24,13 @@
 #base "../#uni_base/filesv1/label3/bright0.res"
 #base "../#uni_base/filesv1/label3/dull0.res"
 #base "../#uni_base/filesv1/label3/wrap0.res"
+
+#base "../#uni_base/filesv1/infolabel/vis0.res"
 "huh.res"
 {
 	"InfoLabel"
 	{
-		"visible"		"0"
+	//	"visible"		"0"
 	}
 	"PlayerList"
 	{	

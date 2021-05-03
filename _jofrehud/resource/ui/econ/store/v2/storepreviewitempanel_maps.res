@@ -17,3 +17,5 @@
 #base "../../../base/filesv2/dialogframe/preview/main.res"
 #base "../../../base/filesv2/dialogframe/footerbottom/main.res"
 #base "../../../base/filesv2/dialogframe/footertop/main.res"
+#base "../../../base/filesv2/classusageimage/main.res"
+#base "../../../base/filesv2/classusageimage/main2.res"

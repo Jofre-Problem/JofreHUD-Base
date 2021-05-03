@@ -1,3 +1,4 @@
+#base "../base/filesv5-exist/tfstats.res"
 #base "../base/1footer.res"
 #base "../../../#uni_base/filesv1/maplabel/main.res"
 #base "../../../#uni_base/filesv1/maplabel/controlname/cex.res"
@@ -6,6 +7,7 @@
 #base "../../../#uni_base/filesv1/maplabel/pin.res"
 #base "../../../#uni_base/filesv1/maplabel/enabled.res"
 #base "../../../#uni_base/filesv1/maplabel/text/center.res"
+
 "Resource/UI/winpanel.res"
 {
 	"TFStatsSummary"

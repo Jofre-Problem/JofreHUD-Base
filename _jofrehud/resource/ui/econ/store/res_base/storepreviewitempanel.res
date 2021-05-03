@@ -1,4 +1,4 @@
-#base "../base/filesv1/classusageimage/main.res"
+	#base "../base/filesv1/classusageimage/main.res"
 "Resource/UI/StorePreviewItemPanel.res"
 {
 	"storepreviewitem"

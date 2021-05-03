@@ -11,8 +11,28 @@
 #base "../#uni_base/filesv1/warninglabel/auto0.res"
 #base "../#uni_base/filesv1/warninglabel/pin0.res"
 #base "../#uni_base/filesv1/warninglabel/west.res"
+
+#base "../#uni_base/filesv1/infolabel/main.res"
+#base "../#uni_base/filesv1/infolabel/ctrl/label.res"
+#base "../#uni_base/filesv1/infolabel/auto.res"
+#base "../#uni_base/filesv1/infolabel/pin.res"
+#base "../#uni_base/filesv1/infolabel/vis1.res"
+#base "../#uni_base/filesv1/infolabel/enabled.res"
+#base "../#uni_base/filesv1/infolabel/tab.res"
+#base "../#uni_base/filesv1/infolabel/text/west.res"
+#base "../#uni_base/filesv1/infolabel/text/bright0.res"
+#base "../#uni_base/filesv1/infolabel/text/dull1.res"
+#base "../#uni_base/filesv1/infolabel/text/wrap1.res"
 "Friends/DialogRemoveUser.res"
 {
+	"InfoLabel"
+	{
+		"xpos"		"24"
+		"ypos"		"76"
+		"wide"		"396"
+		"tall"		"92"
+		"labelText"		"#TrackerUI_WarningNoLongerSeeYou"
+	}	
 	"WarningLabel"
 	{
 	//	"ControlName"		"Label"
@@ -87,23 +107,5 @@
 		"Default"		"0"
 	}
 
-	"InfoLabel"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"InfoLabel"
-		"xpos"		"24"
-		"ypos"		"76"
-		"wide"		"396"
-		"tall"		"92"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"labelText"		"#TrackerUI_WarningNoLongerSeeYou"
-		"textAlignment"		"west"
-		"dulltext"		"1"
-		"brighttext"		"0"
-		"wrap"			"1"
-	}
+
 }

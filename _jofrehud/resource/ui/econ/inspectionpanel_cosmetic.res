@@ -30,3 +30,5 @@
 
 #base "../base/filesv2/dialogframe/details/main.res"
 #base "../base/filesv2/dialogframe/details/scrollablechild.res"
+
+#base "../base/filesv2/classusageimage/main.res"

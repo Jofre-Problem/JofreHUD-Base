@@ -1,3 +1,5 @@
+#base "ui/base/filesv5-exist/mute.res"
+
 #base "../#uni_base/filesv1/playerlist/playerlist_main.res"
 #base "../#uni_base/filesv1/mutebutton/main.res"
 

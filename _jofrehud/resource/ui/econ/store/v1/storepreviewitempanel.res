@@ -3,3 +3,5 @@
 #base "../base/filesv1/paintnamelabel/main.res"
 #base "../base/filesv1/paintnamelabel/content2.res"
 #base "../res_base/storepreviewitempanel.res"
+#base "../../../base/filesv2/classusageimage/main.res"
+#base "../../../base/filesv2/classusageimage/main2.res"

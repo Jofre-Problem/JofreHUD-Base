@@ -8,3 +8,7 @@
 #base "../../#uni_base/filesv1/background/position/wide_f0.res"
 #base "../../#uni_base/filesv1/background/controlname/editable.res"
 #base "../../#uni_base/filesv1/background/bg_paintbg_2.res"
+
+#base "../../#uni_base/filesv1/infolabel/ctrl/cex.res"
+#base "../../#uni_base/filesv1/infolabel/main.res"
+#base "../../#uni_base/filesv1/infolabel/vis0.res"
