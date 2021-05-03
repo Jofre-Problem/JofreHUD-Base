@@ -1,10 +1,11 @@
+	#base "base/filesv5-exist/mainmenu.res"
+
+
 	#base "base/filesv2/footerline/main.res"
 	#base "base/filesv2/footerline/xpos0.res"
 	#base "base/filesv2/footerline/ypos420.res"
 	#base "base/filesv2/bgfooter/main.res"
 	#base "base/filesv1/itemrename/mouseoveritem.res"
-	#base "base/mainmenu.res"
-	//OBLIGATORY BASE OR ABOVE BREAKS
 	#base "base/filesv1/ranktooltip/main.res"
 	#base "base/filesv1/rankpanel/main.res"
 	#base "base/filesv1/rankpanel/cpvp.res"

@@ -11,3 +11,6 @@
 #base "base/filesv2/classlabel/font/hudfontsmallbold.res"
 #base "base/filesv2/classlabel/text/north.res"
 #base "base/filesv2/classlabel/zpos1.res"
+
+#base "base/filesv1/backpack_panel/main.res"
+#base "base/filesv1/backpack_panel/main2.res"

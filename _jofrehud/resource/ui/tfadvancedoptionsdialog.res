@@ -1,3 +1,5 @@
+#base "base/filesv5-exist/tfadvancedoptions.res"
+
 #base "base/filesv1/panellistpanel/main.res"
 #base "base/filesv1/panellistpanel/bg.res"
 #base "base/filesv2/tooltippanel/main.res"
@@ -16,10 +18,11 @@
 #base "base/filesv2/tooltippanel/tiplabel/text/center.res"
 #base "base/filesv2/tooltippanel/tiplabel/text/wrap1.res"
 
-#base "../../#uni_base/filesv1/okbutton/ctrl/cex.res"
-#base "../../#uni_base/filesv1/okbutton/main.res"
+
 #base "../../#uni_base/filesv1/okbutton/position/wide100.res"
 #base "../../#uni_base/filesv1/okbutton/position/tall25.res"
+
+
 #base "../../#uni_base/filesv1/okbutton/auto.res"
 #base "../../#uni_base/filesv1/okbutton/zpos1.res"
 #base "../../#uni_base/filesv1/okbutton/vis1.res"

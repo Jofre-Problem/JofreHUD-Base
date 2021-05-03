@@ -17,3 +17,5 @@
 #base "../base/filesv2/classlabel/tall25.res"
 #base "../base/filesv2/classlabel/content1.res"
 #base "../base/filesv2/classlabel/vis1.res"
+
+#base "../base/filesv1/backpack_panel/main.res"

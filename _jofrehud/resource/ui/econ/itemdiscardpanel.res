@@ -31,3 +31,6 @@
 #base "../../../#uni_base/filesv1/closebutton/position/tall25.res"
 
 #base "../../../#uni_base/filesv1/closebutton/cmd/vguicancel.res"
+
+#base "base/filesv1/backpack_panel/main.res"
+#base "base/filesv1/backpack_panel/main2.res"
