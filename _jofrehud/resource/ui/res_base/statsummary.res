@@ -8,8 +8,38 @@
 #base "../../../#uni_base/filesv1/maplabel/enabled.res"
 #base "../../../#uni_base/filesv1/maplabel/text/center.res"
 
+#base "../../../#uni_base/filesv1/closebutton/main.res"
+#base "../../../#uni_base/filesv1/closebutton/vis0.res"
+#base "../../../#uni_base/filesv1/closebutton/text/center.res"
+//#base "../../../#uni_base/filesv1/closebutton/enabled.res"
+#base "../../../#uni_base/filesv1/closebutton/ctrl/cex.res"
+#base "../../../#uni_base/filesv1/closebutton/tab.res"
+#base "../../../#uni_base/filesv1/closebutton/auto.res"
+#base "../../../#uni_base/filesv1/closebutton/dull0.res"
+#base "../../../#uni_base/filesv1/closebutton/bright0.res"
+#base "../../../#uni_base/filesv1/closebutton/cmd/vguicancel.res"
 "Resource/UI/winpanel.res"
 {
+	"CloseButton" [$WIN32]
+	{
+	//	"ControlName"		"Button"
+	//	"fieldName"		"CloseButton"
+		"xpos"			"r190"
+		"ypos"			"r50"
+		"zpos"			"6"
+		"wide"			"150"
+		"tall"			"30"
+	//	"autoResize"	"0"
+		"pinCorner"		"2"
+	//	"visible"		"0"
+		"enabled"		"0"
+	//	"tabPosition"	"0"
+	//	"labelText"		"#TF_Close"
+	//	"textAlignment"	"center"
+	//	"dulltext"		"0"
+	//	"brighttext"	"0"
+	//	"Command"		"vguicancel"
+	}	
 //	"MapLabel"
 //	{
 //		"ControlName"		"CExLabel"
@@ -2504,26 +2534,7 @@
 		"brighttext"	"0"
 		"Command"		"resetstatsbutton"
 	}
-	"CloseButton" [$WIN32]
-	{
-		"ControlName"		"Button"
-		"fieldName"		"CloseButton"
-		"xpos"			"r190"
-		"ypos"			"r50"
-		"zpos"			"6"
-		"wide"			"150"
-		"tall"			"30"
-		"autoResize"	"0"
-		"pinCorner"		"2"
-		"visible"		"0"
-		"enabled"		"0"
-		"tabPosition"	"0"
-		"labelText"		"#TF_Close"
-		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"Command"		"vguicancel"
-	}
+
 	"TitleBanner" [$X360]
 	{
 		"ControlName"	"ImagePanel"
