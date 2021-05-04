@@ -70,23 +70,7 @@
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"enabled"		"1"
-	}					
-
-	"MapType"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"MapType"
-		"font"			"HudFontMediumBigBold"
-		"labelText"		"%maptype%"
-		"textAlignment"	"center"
-		"zpos"			"50"
-		"wide"			"350"
-		"tall"			"35"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"1"
-	}						
+	}				
 	"StatData"
 	{
 		"ControlName"	"EditablePanel"
