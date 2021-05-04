@@ -17,16 +17,7 @@ Scheme
 {
 	BaseSettings
 	{
-		Label.TextDullColor				"DullWhite"
-		Label.TextColor					"OffWhite"
-		Label.TextBrightColor				"White"
-		Label.SelectedTextColor				"White"
-		Label.BgColor					"TransparentBlack"
-		Label.DisabledFgColor1			"117 117 117 255"
-		Label.DisabledFgColor2			"30 30 30 255"
-		TFColors.ChatTextYellow		"251 235 202 255"
-		TFColors.ChatTextTeamBlue	"153 204 255 255"
-		TFColors.ChatTextTeamRed	"255 63 53 255"
+		TextEntry.TextColor			"215 215 215 255"
 	}
 	Fonts
 	{
