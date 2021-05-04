@@ -11,26 +11,6 @@
 	huditemeffectmeter
 	{
 	}
-
-	"MaterialBackground"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"MaterialBackground"
-		"xpos"		"12"
-		"ypos"		"0"
-		"wide"		"80"
-		"tall"		"26"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"0"  //1
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"bgcolor_override"	"Blank"
-		"proportionalToParent"	"1"
-
-		"border"		"MainMenuButtonDefault"
-		"paintbackground"	"0"
-	}
 	
 	"ItemEffectMeterLabel"
 	{
@@ -43,10 +23,5 @@
 	
 	"ItemEffectMeterCount"
 	{
-		"xpos"					"55"
-		"ypos"					"3"
-		"zpos"					"2"
-		"wide"					"40"
-		"tall"					"20"	
 	}
 }
