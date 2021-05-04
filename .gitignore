@@ -1,4 +1,5 @@
 /#users/
 /_jofrenew/
+/sound/ui/*
 *.cache
 /scripts/hudanimations_manifest.txt
