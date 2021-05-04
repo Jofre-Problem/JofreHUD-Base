@@ -4,7 +4,7 @@ Scheme
 {
 	BaseSettings
 	{
-	//	TextEntry.CursorColor		"W_BorderArmed"
+		TextEntry.CursorColor		"215 215 215 255"
 
 		Button.DepressedTextColor		"50 50 50 255"
 		Button.DepressedBgColor			"70 70 70 255"
