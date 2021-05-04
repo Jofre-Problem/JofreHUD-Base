@@ -5,7 +5,7 @@
 		"ControlName"		"CTFFooter"
 		"fieldName"			"Footer"
 		"zpos"				"6"
-		"tall"				"0"
+		"tall"				"80"
 		"button_separator"	"10"
 		"button_separator_lodef"	"5"
 		"buttongap"			"50"
