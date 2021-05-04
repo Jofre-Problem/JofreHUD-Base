@@ -288,8 +288,30 @@ Chinese Man#345 :  hgoly shit
 Chinese Man#345 :  jofre big sex
 たなか-さん :  i keep getting shot
 
+Chilling :  stfu j
+Chilling :  and help us
+Jofre Problem? :  STFU D
+Chilling :  NO
+Chilling :  *kiss*
+
+
+Jofre Problem? :	LABVE ME
+party rocker house :	he didnt leave you
+UberMedicFully :	leave*
+party rocker house :	oh sorry
+party rocker house :	he didnt LABVE you
+
+FoxPoser :	Jofre your ping was very high
+FoxPoser :	you were laggin
+Jofre Problem? :	from 1 to 10, how worse i was lagging?
+UberMedicFully :	11
+FoxPoser :	8
+FoxPoser :	or 9
+FoxPoser :	you were like teleportin
+
 
 TRACKLIST:
+
 
 Troller Of Everything FULL MUSIC VIDEO
 

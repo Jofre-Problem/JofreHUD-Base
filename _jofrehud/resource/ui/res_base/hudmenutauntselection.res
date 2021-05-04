@@ -2,12 +2,6 @@
 #base "../base/v2/divider.res"
 "Resource/UI/HudMenuTauntSelection.res"
 {
-	"MainBackground"	
-	{
-		"wide"		"0"
-		"tall"		"0"
-	}
-
 	"IcoReelIcon"
 	{
 		"ControlName"	"CIconPanel"
