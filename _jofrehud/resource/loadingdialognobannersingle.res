@@ -38,6 +38,7 @@
 #base "../#uni_base/filesv1/cancelbutton/cancelbutton_west.res"
 #base "../#uni_base/filesv1/cancelbutton/label/gameui_cancel.res"
 #base "../#uni_base/filesv1/cancelbutton/extra/bright0.res"
+#base "../#uni_base/filesv1/cancelbutton/enabled.res"
 #base "../#uni_base/filesv1/cancelbutton/cmd/cancel.res"
 #base "../#uni_base/filesv1/cancelbutton/extra/dull0.res"
 #base "../#uni_base/filesv1/cancelbutton/extra/tab0.res"

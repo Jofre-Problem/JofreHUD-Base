@@ -2,6 +2,6 @@
 {
 	"CancelButton"
 	{
-		"ypos"		"249"
+		"ypos"		"64"
 	}
 }	

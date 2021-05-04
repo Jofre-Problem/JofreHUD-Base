@@ -10,6 +10,33 @@
 
 "Resource/UI/winpanel.res"
 {
+//	"MapLabel"
+//	{
+//		"ControlName"		"CExLabel"
+//	"fieldName"		"MapLabel"
+//		"font"			"HudFontMediumBigBold"
+//		"labelText"		"%maplabel%"
+//		"textAlignment"		"center"
+//		"xpos"			"c-25"
+//		"ypos"			"55"
+//		"zpos"			"50"
+//		"wide"			"350"
+//		"tall"			"35"
+//		"autoResize"	"0"
+//		"pinCorner"		"0"
+//		"visible"		"1"
+//		"enabled"		"1"
+//	}	
+	"MapLabel"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"		"MapLabel"
+		"font"			"HudFontMediumBigBold"
+		"xpos"			"c-25"
+		"ypos"			"55"
+		"wide"			"350"
+		"tall"			"35"
+	}	
 	"TFStatsSummary"
 	{
 		"ControlName"	"EditablePanel"
@@ -44,16 +71,7 @@
 		"pinCorner"		"0"
 		"enabled"		"1"
 	}					
-	"MapLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"MapLabel"
-		"font"			"HudFontMediumBigBold"
-		"xpos"			"5"
-		"ypos"			"92"
-		"zpos"			"50"
-		"tall"			"35"
-	}
+
 	"MapType"
 	{
 		"ControlName"	"CExLabel"

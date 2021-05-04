@@ -2,6 +2,6 @@
 {
 	"CancelButton"
 	{
-		"tall"		"220"
+		"wide"		"72"
 	}
 }	

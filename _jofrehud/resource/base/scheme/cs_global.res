@@ -123,7 +123,7 @@ Scheme
 //		PropertySheet.TextColor			"W_ColorTheme3"
 //		PropertySheet.SelectedTextColor	"W_ColorTheme3"
 	//	ProgressBar.BgColor				"W_ColorTheme2"
-		ProgressBar.FgColor				"40 34 30 255"
+	//	ProgressBar.FgColor				"40 34 30 255"
 
 		//R
 		RichText.TextColor				"OffWhite"
