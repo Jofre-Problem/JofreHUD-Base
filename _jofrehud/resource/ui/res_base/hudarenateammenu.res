@@ -1,5 +1,7 @@
 #base "../../#bases/1sysmenu.res"
 #base "../base/1shadedbar.res"
+#base "../base/filesv2/shadedbar/lodef.res"
+#base "../base/filesv2/shadedbar/fillcolor100.res"
 #base "../base/1menubg.res"
 
 #base "../base/team/main.res"
@@ -56,12 +58,5 @@
 		"brighttext"	"0"
 		"command"		"cancelmenu"
 		"font"			"MenuSmallFont"
-	}
-
-	
-	"ShadedBar"
-	{
-		"tall_lodef"			"74"
-		"tall_hidef"			"65"
 	}
 }

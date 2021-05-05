@@ -8,8 +8,8 @@
 #base "../base/filesv3-hint/cancel-label/main.res"
 #base "../base/filesv3-hint/cancel-label/x_pos40.res"
 #base "../base/filesv3-hint/cancel-label/ypos129.res"
-#base "../base/1shadedbar.res"
-
+#base "../base/filesv2/shadedbar/main_special.res"
+#base "../base/filesv2/shadedbar/disguise/main.res"
 #base "../base/build-more/mainbg/main.res"
 #base "../base/build-more/mainbg/position/wide470.res"
 #base "../base/build-more/mainbg/position/xpos0.res"

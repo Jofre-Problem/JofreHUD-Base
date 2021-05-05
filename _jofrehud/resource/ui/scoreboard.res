@@ -1,6 +1,6 @@
 #base "base/filesv5-exist/scoreboard.res"
 
-#base "base/1shadedbar.res"
+#base "base/filesv2/shadedbar/main_special.res"
 #base "base/classmodelpanel.res"
 #base "../../#uni_base/filesv1/classimage/main.res"
 #base "../../#uni_base/filesv1/classimage/content1.res"

@@ -1,4 +1,4 @@
-#base "../base/1shadedbar.res"
+#base "../base/filesv2/shadedbar/main_special.res"
 #base "../base/filesv3-hint/buttonlegend.res"
 #base "../base/filesv3-hint/prevhinticon.res"
 #base "../base/filesv3-hint/cancel/main.res"
@@ -39,3 +39,6 @@
 
 #base "../base/class_item/main.res"
 #base "../base/class_item/content1.res"
+
+#base "../base/filesv2/shadedbar/main_special.res"
+#base "../base/filesv2/shadedbar/disguise/main.res"

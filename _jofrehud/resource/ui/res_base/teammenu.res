@@ -1,6 +1,8 @@
 #base "../../#bases/1sysmenu.res"
 #base "../base/1menubg.res"
 #base "../base/1shadedbar.res"
+#base "../base/filesv2/shadedbar/lodef.res"
+#base "../base/filesv2/shadedbar/image.res"
 #base "../../../#uni_base/filesv1/mapinfo/main.res"
 #base "../../../#uni_base/filesv1/mapinfo/_content.res"
 #base "../../../#uni_base/filesv1/mapinfo/autores3.res"

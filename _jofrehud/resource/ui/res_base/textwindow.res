@@ -1,14 +1,7 @@
-//#base "../#jofre/new_mm_panel1.res"
-//#base "../#jofre/loadout_explanation_bg.res"
-//#base "../../#jofre/partymembers.res"
-//#base "../#jofre/w_op-panel.res"
-//#base "../../#jofre/v2/blur_bg.res"
-//#base "../../#jofre/socialmedia.res"
 #base "../base/1shadedbar.res"
 #base "../base/1menubg.res"
-//#base "../../#jofre/1ccvar.res"
+#base "../base/filesv2/shadedbar/image.res"
 
-//#base "../../#jofre/v2/newmm.res"
 "Resource/UI/TextWindow.res"
 {
 	"info"
