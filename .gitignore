@@ -2,5 +2,6 @@
 /_jofrenew/
 /cfg/
 /sound/ui/*
-*.cache
+/sound/sound.cache
+/_tf2hud/scripts/scripts/settings.scr
 /scripts/hudanimations_manifest.txt
