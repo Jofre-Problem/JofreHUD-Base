@@ -47,4 +47,21 @@ TF2:
 - vrcalibration.res (-> double font definitions)
 - build_menu/pipboy/base_already_built.res (-> double fgcolor definitions)
 - disguise_menu/hudmenuspydisguise.res (-> wrong fieldnames on line 347 & 363)
-- clientscheme.res (-> missing font definitions: HudMenuNumberFont (from build_menu files); MenuMedium
+- clientscheme.res (-> missing font definitions: HudMenuNumberFont (build_menu files); MenuMedium & MenuSmall & MatchmakingDialogMenuSmall & HDRDemoText & Ui (xboxdialog.res)
+
+HL2:
+- askconnectpanel.res (-> wrong fieldnames on line 25)
+- bxelementpropertiestree.res (-> this on line 48 (""ElementTreeToolbar"")
+- itemtest_scheme.res (-> duplicated defined border "ScrollBarButtonBorder" on lines 576 & 735)
+- optionssubaudiothirdpartydlg.res (-> wrong fieldname on line 46)
+- optionssubvideoadvanceddlg.res (-> wrong fieldname on line 762)
+- optionssubvideothirdpartydlg.res (-> wrong fieldname on line 46)
+- optionssubvoice.res (-> wrong fieldname on lines 24 & 109)
+- selectedhsvuipanel.res (-> undefined controlname on line 35)
+- replayperfomanceditor/main.res (-> no font defined on line 618 ("font"			"")
+
+PLATFORM:
+- friends/dialogsystemmessage.res (-> unicode "<0x00>" on last line of the file)
+- friends/subpanelfindbuddycomplete.res (-> unicode "<0x00>" on last line of the file & really weird space between lines)
+- friends/subpanelfindbuddyresults.res (-> unicode "<0x00>" on last line of the file & really weird space between lines)
+- friends/trackerdialog.res (-> unicode "<0x00>" on last line of the file)
