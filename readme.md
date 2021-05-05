@@ -57,6 +57,8 @@ HL2:
 - replayperfomanceditor/main.res (-> no font defined on line 618 ("font"			"")
 
 PLATFORM:
+- addons/hearts/* (-> wrong fieldname on "Divider0")
+- addons/spades/* (-> wrong fieldname on "Divider0")
 - friends/dialogsystemmessage.res (-> unicode "<0x00>" on last line of the file)
 - friends/subpanelfindbuddycomplete.res (-> unicode "<0x00>" on last line of the file & really weird space between lines)
 - friends/subpanelfindbuddyresults.res (-> unicode "<0x00>" on last line of the file & really weird space between lines)
