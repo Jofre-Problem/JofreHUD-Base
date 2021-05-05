@@ -109,7 +109,7 @@ Here is how a file looks for example:
 	#base "../_jofrehud/resource/clientscheme.res"
 	#base "../_tf2hud/resource/clientscheme.res"
   
-As well, you can grab all the optimization files that you may find neccesary. bUt please give credit.
+As well, you can grab all the optimization files that you may find neccesary. But please give credit.
 
 ## Need help on something?
 Here is my steam profile if you need any extra help or something!
