@@ -15,7 +15,6 @@ Before starting, this HUD files are from:
 - tf2_misc_dir
 - hl2_misc_dir
 - platform_misc_dir
-This being documented on "gameinfo.txt"
 
 Which has contains the following folders:(A - Z)
 - addons (platform)
@@ -45,6 +44,7 @@ TF2:
 - matchmakingpingpanel.res (-> typo on line 144 ("wide"		"250`")
 - selectplayerdialog_duel.res (-> wrong field name on line 353)
 - vrcalibration.res (-> double font definitions)
+- leaderboardpanel & lobbyleaderboard (-> LoadingImage has "wide "w1"; change to "o1"
 - build_menu/pipboy/base_already_built.res (-> double fgcolor definitions)
 - disguise_menu/hudmenuspydisguise.res (-> wrong fieldnames on line 347 & 363)
 - clientscheme.res (-> missing font definitions: HudMenuNumberFont (build_menu files); MenuMedium & MenuSmall & MatchmakingDialogMenuSmall & HDRDemoText & Ui (xboxdialog.res)
@@ -58,6 +58,7 @@ HL2:
 - optionssubvideothirdpartydlg.res (-> wrong fieldname on line 46)
 - optionssubvoice.res (-> wrong fieldname on lines 24 & 109)
 - selectedhsvuipanel.res (-> undefined controlname on line 35)
+- combinepanelscheme.res (-> used undefined color on line 588)
 - replayperfomanceditor/main.res (-> no font defined on line 618 ("font"			"")
 
 PLATFORM:
@@ -65,3 +66,8 @@ PLATFORM:
 - friends/subpanelfindbuddycomplete.res (-> unicode "<0x00>" on last line of the file & really weird space between lines)
 - friends/subpanelfindbuddyresults.res (-> unicode "<0x00>" on last line of the file & really weird space between lines)
 - friends/trackerdialog.res (-> unicode "<0x00>" on last line of the file)
+- servers/dialoggameinfo.res (-> unicode "<0x00>" on last line of the file)
+- servers/dialogserverpassword.res (-> unicode "<0x00>" on last line of the file)
+- servers/vacbannedconnrefuseddialog.res (-> unicode "<0x00>" on last line of the file)
+- resource/edittokendialog.res (-> unicode "<0x00>" on last line of the file)
+- resource/localizationdialog.res (-> unicode "<0x00>" on last line of the file)
