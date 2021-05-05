@@ -71,3 +71,43 @@ PLATFORM:
 - servers/vacbannedconnrefuseddialog.res (-> unicode "<0x00>" on last line of the file)
 - resource/edittokendialog.res (-> unicode "<0x00>" on last line of the file)
 - resource/localizationdialog.res (-> unicode "<0x00>" on last line of the file)
+
+## Compatibily with other HUDS
+I will asumme that you are not someone familiar with hud editing, but you would really like to add this to your HUD.
+First of everything you need a text editor.
+- Windows: NotePad++
+- Linux: Visual Studio Code or Sublime Text
+
+Now, you need to add the HUD files of your hud into this one.
+- Locate yourself inside of /jofrehud-master/
+- Create a folder called /_jofrenew/
+- Put all /resource/ & /scripts/ there. (Im asumming you already put the materials folder on the main folder.)
+> If you have files like "hudanimations_manifest.txt", you need to put it on the /scripts/ folder of the main folder, and do the required changes.
+
+Now what?
+There is a huge probability that your HUD uses custom fonts, you have to change the location of them:
+Example:
+
+	CustomFontFiles
+	{	
+	"20"	"_jofrenew/*your font*.ttf"
+	}	
+
+Inside of your clientscheme.res, or derivates of this.
+However, you can skip this by just installing the fonts.
+
+## For HUD Makers
+You can change the "_jofrenew" folder name in the one of your liking for your HUD. I will recommend using Visual Studio Code and replace it.
+Here is how a file looks for example:
+
+	#base "../_stream/resource/clientscheme.res"
+	#base "../_jofrenew/resource/clientscheme.res"
+	#base "../_jofrehud/resource/clientscheme.res"
+	#base "../_tf2hud/resource/clientscheme.res"
+  
+As well, you can grab all the optimization files that you may find neccesary. bUt please give credit.
+
+## Need help on something?
+Here is my steam profile if you need any extra help or something!
+https://steamcommunity.com/id/jofreproblem
+  
