@@ -82,7 +82,7 @@ First of everything you need a text editor.
 Now, you need to add the HUD files of your hud into this one.
 - Locate yourself inside of /jofrehud-master/
 - Create a folder called /_jofrenew/
-- Put all /resource/ & /scripts/ of your HUD there. (Im asumming you already put the /materials/ on the main folder.)
+- Put /resource/ & /scripts/ folders of your HUD there. (Im asumming you already put the /materials/ on the main folder.)
 > If you have files like "hudanimations_manifest.txt", you need to put it on the /scripts/ folder of the main folder, and do the required changes.
 
 Now what?
