@@ -41,4 +41,10 @@ Now, these are the following HUD fixes that I came across:
 
 TF2:
 - freezepanelkillerhealth.res (-> Wrong fieldname on BuildingStatusHealthImageBG)
-- ...
+- hudpasstimeballstatus.res (-> some labels contains "f" instead of "f0")
+- matchmakingpingpanel.res (-> typo on line 144 ("wide"		"250`")
+- selectplayerdialog_duel.res (-> wrong field name on line 353)
+- vrcalibration.res (-> double font definitions)
+- build_menu/pipboy/base_already_built.res (-> double fgcolor definitions)
+- disguise_menu/hudmenuspydisguise.res (-> wrong fieldnames on line 347 & 363)
+- clientscheme.res (-> missing font definitions: HudMenuNumberFont (from build_menu files); MenuMedium
