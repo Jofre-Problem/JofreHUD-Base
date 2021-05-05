@@ -72,6 +72,10 @@ PLATFORM:
 - resource/edittokendialog.res (-> unicode "<0x00>" on last line of the file)
 - resource/localizationdialog.res (-> unicode "<0x00>" on last line of the file)
 
+## HUD Changes
+The main changes that I have made are changing the font definitions to default OS system ones. Example: Windows -> Segoe UI & Linux -> Verdana
+My reason to do this, was because I have noticed a huge smooth due to this changes in my low-medium laptop, as well, other friends have notified the same results.
+
 ## Compatibily with other HUDS
 I will asumme that you are not someone familiar with hud editing, but you would really like to add this to your HUD.
 First of everything you need a text editor.
