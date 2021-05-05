@@ -4,9 +4,6 @@
 
 After many tweaks and edits I made for make this a "perfect" hud, I decided to make it like the default one.
 This HUD is focused ENTIRELY on optimize the game, but there are some personal changes I made.
-Those changes are located inside "_jofrenew" folder. Which probably will be disabled by default.
-This is pretty much my base for future HUDS. You can grab all the optimization stuff I did here for actually added it to your own hud.
-But please, give credit.
 
 NOTE: After all the attention that come with this project being published, im aware of the lack of information of the readme and no changelog, sorry about that.
 
@@ -109,9 +106,8 @@ Here is how a file looks for example:
 	#base "../_jofrehud/resource/clientscheme.res"
 	#base "../_tf2hud/resource/clientscheme.res"
   
-As well, you can grab all the optimization files that you may find neccesary. But please give credit.
+If you are interested in adding this to your own HUD, you can add whatever you see necessary, but please give the respective credit.
 
 ## Need help on something?
 Here is my steam profile if you need any extra help or something!
-https://steamcommunity.com/id/jofreproblem
-  
+https://steamcommunity.com/id/jofreproblem  
