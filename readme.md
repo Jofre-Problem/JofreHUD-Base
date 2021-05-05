@@ -4,9 +4,6 @@
 
 After many tweaks and edits I made for make this a "perfect" hud, I decided to make it like the default one.
 This HUD is focused ENTIRELY on optimize the game, but there are some personal changes I made.
-Those changes are located inside "_jofrenew" folder. Which probably will be disabled by default.
-This is pretty much my base for future HUDS. You can grab all the optimization stuff I did here for actually added it to your own hud.
-But please, give credit.
 
 NOTE: After all the attention that come with this project being published, im aware of the lack of information of the readme and no changelog, sorry about that.
 
@@ -29,7 +26,7 @@ Which has contains the following folders:(A - Z)
 - scripts (tf2 & hl2)
 - servers (platform)
 - sound (fix for missing "vo/null.wav")
-- _stream_ (grabbed from "budhud"; self explanatory)
+- _stream (grabbed from "budhud"; self explanatory)
 - _tf2hud (default tf2 & hl2 & platform files)
 - _jofrehud (basically all my work on this)
 - _jofrehud/_tf2fix (files that I have fixed from the TF2 Files, ex: typos; wrong fieldnames; etc)
@@ -85,7 +82,7 @@ First of everything you need a text editor.
 Now, you need to add the HUD files of your hud into this one.
 - Locate yourself inside of /jofrehud-master/
 - Create a folder called /_jofrenew/
-- Put all /resource/ & /scripts/ there. (Im asumming you already put the materials folder on the main folder.)
+- Put /resource/ & /scripts/ folders of your HUD there. (Im asumming you already put the /materials/ on the main folder.)
 > If you have files like "hudanimations_manifest.txt", you need to put it on the /scripts/ folder of the main folder, and do the required changes.
 
 Now what?
@@ -109,9 +106,8 @@ Here is how a file looks for example:
 	#base "../_jofrehud/resource/clientscheme.res"
 	#base "../_tf2hud/resource/clientscheme.res"
   
-As well, you can grab all the optimization files that you may find neccesary. bUt please give credit.
+If you are interested in adding this to your own HUD, you can add whatever you see necessary, but please give the respective credit.
 
 ## Need help on something?
 Here is my steam profile if you need any extra help or something!
-https://steamcommunity.com/id/jofreproblem
-  
+https://steamcommunity.com/id/jofreproblem  
