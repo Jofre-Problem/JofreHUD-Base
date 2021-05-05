@@ -8,7 +8,7 @@
 		"ypos"			"cs-0.5"
 		"zpos"			"1"
 		"wide"			"p0.75"
-		"tall"			"1"
+		"tall"			"o1"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"animated/tf2_logo_hourglass"
