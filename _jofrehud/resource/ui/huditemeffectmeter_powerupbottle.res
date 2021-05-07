@@ -39,11 +39,6 @@
 	}					
 	
 	"ItemEffectMeterCount"
-	{
-		"xpos"					"30"
-		"ypos"					"0"
-		"zpos"					"2"
-		"wide"					"40"
-		"tall"					"18"	
+	{	
 	}
 }

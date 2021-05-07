@@ -12,6 +12,5 @@
 	}
 	ItemEffectMeter
 	{
-		"ypos"			"-22"
 	}				
 }

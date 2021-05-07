@@ -1,4 +1,4 @@
-#base "base/meters/huditemeffectmeter_offset0.res"
+#base "base/meters/huditemeffectmeter_offset40.res"
 #base "base/meters/huditemeffectmeter.res"
 #base "base/meters/huditemeffectmeter/main_main.res"
 #base "base/meters/huditemeffectmeter/main_fg.res"
@@ -13,6 +13,5 @@
 
 	"ItemEffectMeter"
 	{	
-		"ypos"					"-30"
 	}					
 }

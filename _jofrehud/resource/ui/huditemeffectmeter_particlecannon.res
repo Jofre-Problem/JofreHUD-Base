@@ -13,16 +13,11 @@
 	}
 
 	
-	"ItemEffectMeterLabel"		// DRINK LABEL  - hidden
+	"ItemEffectMeterLabel"
 	{
-		"visible"				"0"
 	}
 
 	"ItemEffectMeter"
 	{	
-		"xpos"					"0"
-		"ypos"					"23"
-		"wide"					"140"
-		"tall"					"2"
 	}					
 }
