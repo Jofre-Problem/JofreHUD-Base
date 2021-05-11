@@ -360,7 +360,7 @@ Chupa me Por favor :  lol jofre dont lie
 *DEAD* Yes :  yes gaming
 *DEAD* たなか-さん :  jofre u are a pro
 >:3 :  absolette lie
->:3 :  he pro
+>:3 :  he pro 
 *DEAD* Yes :  i wanted 10k :(
 *DEAD* Jofre Problem? :  from 1 to 10, how good i am?
 *DEAD* Athy  ✨ :  This causes a memory leak..... too bad!
@@ -379,7 +379,13 @@ manly man :  schlongy dongy
 manly man :  noo 
 *DEAD* Jofre Problem? :  aww... thanks :>
 
+たなか-さん 	omg is that jofre
+たなか-さん 	hi jofre
+たなか-さん 	the man the myth the legend
+Spaaps 	jofre is nonexistent
+たなか-さん 	the sniper who gets 5k damage each round
 
+たなか-さん 	jofre the man the myth the legend did it again
 TRACKLIST:
 
 

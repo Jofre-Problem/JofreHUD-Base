@@ -17,18 +17,12 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Verdana" [$POSIX]
 				"tall"		"13"
-				"weight"	"0"
-				"range"		"0x0000 0x017F"
-				"yres"	"600 767"
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Verdana" [$POSIX]
 				"tall"		"14"
-				"weight"	"0"
-				"range"		"0x0000 0x017F"
-				"yres"	"768 1023"
 				"antialias"	"1"
 			}
 			"4"
@@ -36,9 +30,6 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Verdana" [$POSIX]
 				"tall"		"16"
-				"weight"	"0"
-				"range"		"0x0000 0x017F"
-				"yres"	"1024 1199"
 				"antialias"	"1"
 			}
 			"5"
@@ -46,9 +37,6 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Verdana" [$POSIX]
 				"tall"		"20"
-				"weight"	"0"
-				"range"		"0x0000 0x017F"
-				"yres"	"1200 6000"
 				"antialias"	"1"
 			}			
 		}

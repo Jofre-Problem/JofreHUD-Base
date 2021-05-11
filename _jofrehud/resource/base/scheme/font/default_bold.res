@@ -4,7 +4,7 @@ Scheme
 	{
 		"DefaultBold"
 		{
-			"1"	[$WIN32]
+			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Verdana" [$POSIX]

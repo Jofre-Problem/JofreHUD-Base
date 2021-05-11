@@ -2,7 +2,7 @@ Scheme
 {
 	Fonts
 	{
-		"ChapterTitle"	[$X360]
+		"ChapterTitle"
 		{
 			"1"
 			{
@@ -14,7 +14,7 @@ Scheme
 				"outline"		"1"
 			}
 		}
-		"ChapterTitleBlur"	[$X360]
+		"ChapterTitleBlur"
 		{
 			"1"
 			{

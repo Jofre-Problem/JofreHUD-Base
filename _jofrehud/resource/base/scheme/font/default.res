@@ -30,27 +30,18 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Verdana" [$POSIX]
 				"tall"			"14"
-				"weight"		"0"
-				"range"			"0x0000 0x017F"
-				"yres"			"480 599"
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Verdana" [$POSIX]
 				"tall"			"15"
-				"weight"		"0"
-				"range"			"0x0000 0x017F"
-				"yres"			"600 767"
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Verdana" [$POSIX]
 				"tall"			"16"
-				"weight"		"0"
-				"range"			"0x0000 0x017F"
-				"yres"			"768 1023"
 				"antialias"		"1"
 			}
 			"4"
