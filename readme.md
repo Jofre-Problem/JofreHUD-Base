@@ -43,6 +43,7 @@ TF2:
 - build_menu/pipboy/base_already_built.res (-> double fgcolor definitions)
 - disguise_menu/hudmenuspydisguise.res (-> wrong fieldnames on line 347 & 363)
 - clientscheme.res (-> missing font definitions: HudMenuNumberFont (build_menu files); MenuMedium & MenuSmall & MatchmakingDialogMenuSmall & HDRDemoText & Ui (xboxdialog.res)
+- supportnotificationdialog.res (-> wrong fieldname on titlelabel)
 
 HL2:
 - askconnectpanel.res (-> wrong fieldnames on line 25)

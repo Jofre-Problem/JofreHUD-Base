@@ -4,6 +4,12 @@
 #base "../base/filesv2/shadedbar/image.res"
 #base "../base/1menubg.res"
 #base "../base/1footer.res"
+#base "../../../#uni_base/filesv1/titlelabel/controlname/cex.res"
+#base "../../../#uni_base/filesv1/titlelabel/main.res"
+#base "../../../#uni_base/filesv1/titlelabel/auto.res"
+#base "../../../#uni_base/filesv1/titlelabel/pin.res"
+#base "../../../#uni_base/filesv1/titlelabel/tab.res"
+#base "../../../#uni_base/filesv1/titlelabel/vis0.res"
 "Resource/UI/IntroMenu.res"
 {
 	"intro"
@@ -24,17 +30,17 @@
 	
 	"titlelabel"
 	{
-		"ControlName"		"CExLabel"
-		"fieldName"			"titlelabel"
+	//	"ControlName"		"CExLabel"
+	//	"fieldName"			"titlelabel"
 		"xpos"				"0"
 		"ypos"				"0"
 		"wide"				"f0"
 		"tall"				"70"
-		"autoResize"		"0"
-		"pinCorner"			"0"
-		"visible"			"0"
+	//	"autoResize"		"0"
+	//	"pinCorner"			"0"
+	//	"visible"			"0"
 		"enabled"			"0"
-		"tabPosition"		"0"
+	//	"tabPosition"		"0"
 	}
 
 	"Skip" [$WIN32] 

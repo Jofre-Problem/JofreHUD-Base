@@ -14,6 +14,15 @@
 #base "../base/filesv2/explanationlabel/position/ypos40.res"
 #base "../base/filesv2/explanationlabel/position/wide244.res"
 #base "../base/filesv2/explanationlabel/position/tall170.res"
+#base "../../../#uni_base/filesv1/titlelabel/controlname/cex.res"
+#base "../../../#uni_base/filesv1/titlelabel/main.res"
+#base "../../../#uni_base/filesv1/titlelabel/auto1.res"
+#base "../../../#uni_base/filesv1/titlelabel/pin.res"
+#base "../../../#uni_base/filesv1/titlelabel/vis1.res"
+#base "../../../#uni_base/filesv1/titlelabel/enabled.res"
+#base "../../../#uni_base/filesv1/titlelabel/text/north.res"
+#base "../../../#uni_base/filesv1/titlelabel/dull0.res"
+#base "../../../#uni_base/filesv1/titlelabel/bright0.res"
 "Resource/UI/ConfirmDialog.res"
 {
 	"ExplanationLabel"
@@ -34,20 +43,13 @@
 	
 	"TitleLabel"
 	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"TitleLabel"
 		"font"			"EconFontMedium"
 		"labelText"		"#ConfirmTitle"
-		"textAlignment"	"north"
 		"xpos"			"0"
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"324"
 		"tall"			"25"
-		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
 	}
 	
 

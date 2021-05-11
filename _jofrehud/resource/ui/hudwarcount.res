@@ -4,3 +4,13 @@
 #base "../../#uni_base/filesv1/background/position/y_0.res"
 #base "../../#uni_base/filesv1/background/bg_is_ctf.res"
 #base "../../#uni_base/filesv1/background/ctf/image1.res"
+
+#base "../../#uni_base/filesv1/titlelabel/controlname/cex.res"
+#base "../../#uni_base/filesv1/titlelabel/main.res"
+#base "../../#uni_base/filesv1/titlelabel/auto1.res"
+#base "../../#uni_base/filesv1/titlelabel/pin2.res"
+#base "../../#uni_base/filesv1/titlelabel/vis1.res"
+#base "../../#uni_base/filesv1/titlelabel/enabled.res"
+#base "../../#uni_base/filesv1/titlelabel/text/north.res"
+#base "../../#uni_base/filesv1/titlelabel/dull0.res"
+#base "../../#uni_base/filesv1/titlelabel/bright0.res"

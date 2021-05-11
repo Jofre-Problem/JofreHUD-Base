@@ -2,6 +2,6 @@
 {
 	"TitleLabelDropshadow"
 	{	
-		"dulltext"	"1"
+		"dulltext"	"0"
 	}
 }	

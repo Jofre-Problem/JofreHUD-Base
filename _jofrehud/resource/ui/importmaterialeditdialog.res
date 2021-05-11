@@ -6,3 +6,8 @@
 #base "../../#uni_base/filesv1/background/controlname/editable.res"
 #base "../../#uni_base/filesv1/background/bg_pincorner.res"
 #base "../../#uni_base/filesv1/background/bg_tab.res"
+
+#base "../../#uni_base/filesv1/titlelabel/controlname/cex.res"
+#base "../../#uni_base/filesv1/titlelabel/main.res"
+#base "../../#uni_base/filesv1/titlelabel/text/east.res"
+#base "../../#uni_base/filesv1/titlelabel/text/centerwrap.res"

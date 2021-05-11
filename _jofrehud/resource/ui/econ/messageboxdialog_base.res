@@ -19,6 +19,14 @@
 #base "../base/filesv1/icon/main.res"
 #base "../base/filesv1/icon/vis0.res"
 #base "../base/filesv1/icon/enabled1.res"
+
+#base "../../../#uni_base/filesv1/titlelabel/controlname/label.res"
+#base "../../../#uni_base/filesv1/titlelabel/main.res"
+#base "../../../#uni_base/filesv1/titlelabel/auto1.res"
+#base "../../../#uni_base/filesv1/titlelabel/pin.res"
+#base "../../../#uni_base/filesv1/titlelabel/vis1.res"
+#base "../../../#uni_base/filesv1/titlelabel/enabled.res"
+#base "../../../#uni_base/filesv1/titlelabel/text/north.res"
 "Resource/UI/MessageBoxDialog.res"
 {
 	"Icon"
@@ -48,20 +56,13 @@
 	
 	"TitleLabel"
 	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"TitleLabel"
 		"font"			"EconFontMedium"
 		"labelText"		"#ConfirmTitle"
-		"textAlignment"	"north"
 		"xpos"			"0"
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"30"
-		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
 	}
 	
 

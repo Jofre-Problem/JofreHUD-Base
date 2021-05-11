@@ -1,5 +1,29 @@
+#base "../../../../#uni_base/filesv1/titlelabel/controlname/cex.res"
+#base "../../../../#uni_base/filesv1/titlelabel/main.res"
+#base "../../../../#uni_base/filesv1/titlelabel/auto.res"
+#base "../../../../#uni_base/filesv1/titlelabel/pin.res"
+#base "../../../../#uni_base/filesv1/titlelabel/vis1.res"
+#base "../../../../#uni_base/filesv1/titlelabel/enabled.res"
+#base "../../../../#uni_base/filesv1/titlelabel/text/north.res"
 "Resource/UI/SelectPlayerDialog.res"
 {
+    "TitleLabel"
+    {
+       // "ControlName"   "CExLabel"
+       // "fieldName"     "TitleLabel"
+        "font"          "HudFontMediumBold"
+     //   "textAlignment" "north"
+        "xpos"          "0"
+        "ypos"          "15"
+        "zpos"          "1"
+        "wide"          "400"
+        "tall"          "25"
+    //  "autoResize"    "0"
+     //   "pinCorner"     "0"
+      //  "visible"       "1"
+    //    "enabled"       "1"
+        "fgcolor_override" "200 80 60 255"
+    }
     "SelectPlayerDialog"
     {
         "fieldName"             "SelectPlayerDialog"
@@ -61,23 +85,7 @@
         }
     }
     
-    "TitleLabel"
-    {
-        "ControlName"   "CExLabel"
-        "fieldName"     "TitleLabel"
-        "font"          "HudFontMediumBold"
-        "textAlignment" "north"
-        "xpos"          "0"
-        "ypos"          "15"
-        "zpos"          "1"
-        "wide"          "400"
-        "tall"          "25"
-        "autoResize"    "0"
-        "pinCorner"     "0"
-        "visible"       "1"
-        "enabled"       "1"
-        "fgcolor_override" "200 80 60 255"
-    }
+
 
     "StatePanel0"
     {

@@ -16,3 +16,11 @@
 #base "base/filesv2/explanationlabel/position/wide220.res"
 #base "base/filesv2/explanationlabel/position/tall170.res"
 #base "base/filesv2/explanationlabel/fgcolor_1.res"
+
+#base "../../#uni_base/filesv1/titlelabel/controlname/cex.res"
+#base "../../#uni_base/filesv1/titlelabel/main.res"
+#base "../../#uni_base/filesv1/titlelabel/text/north.res"
+#base "../../#uni_base/filesv1/titlelabel/auto1.res"
+#base "../../#uni_base/filesv1/titlelabel/pin.res"
+#base "../../#uni_base/filesv1/titlelabel/vis1.res"
+#base "../../#uni_base/filesv1/titlelabel/enabled.res"

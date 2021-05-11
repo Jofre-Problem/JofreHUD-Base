@@ -19,4 +19,13 @@
 	#base "../base/filesv1/backbutton/def1.res"
 	#base "../base/filesv1/backbutton/content1.res"
 	#base "../base/filesv1/backbutton/main.res"
-	#base "../base/filesv1/backbutton/pin0.res"		
+	#base "../base/filesv1/backbutton/pin0.res"
+
+
+#base "../../#uni_base/filesv1/titlelabel/controlname/cex.res"
+#base "../../#uni_base/filesv1/titlelabel/main.res"
+#base "../../#uni_base/filesv1/titlelabel/text/west.res"
+#base "../../#uni_base/filesv1/titlelabel/auto.res"
+#base "../../#uni_base/filesv1/titlelabel/pin.res"
+#base "../../#uni_base/filesv1/titlelabel/vis1.res"
+#base "../../#uni_base/filesv1/titlelabel/enabled.res"
