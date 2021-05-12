@@ -1,4 +1,4 @@
-#base "../base/filesv5-exist/tfstats.res"
+//#base "../base/filesv5-exist/tfstats.res"
 #base "../base/1footer.res"
 #base "../../../#uni_base/filesv1/maplabel/main.res"
 #base "../../../#uni_base/filesv1/maplabel/controlname/cex.res"
@@ -18,8 +18,26 @@
 #base "../../../#uni_base/filesv1/closebutton/dull0.res"
 #base "../../../#uni_base/filesv1/closebutton/bright0.res"
 #base "../../../#uni_base/filesv1/closebutton/cmd/vguicancel.res"
+#base "../base/build-more/mainbg/main/field.res"
+#base "../base/build-more/mainbg/main/enabled.res"
+#base "../base/build-more/mainbg/image/content1.res"
+#base "../base/build-more/mainbg/image/scale.res"
+#base "../base/build-more/mainbg/position/xpos0.res"
+#base "../base/build-more/mainbg/position/ypos0.res"
 "Resource/UI/winpanel.res"
 {
+	"MainBackground"
+	{
+		"ControlName"		"ImagePanel"
+	//	"fieldName"		"MainBackground"
+	//	"xpos"			"0"
+	//	"ypos"			"0"
+		"wide"			"f0"
+		"tall"			"480"
+	//	"enabled"		"1"
+		"image"			""
+	//	"scaleImage"		"1"
+	}	
 	"CloseButton" [$WIN32]
 	{
 	//	"ControlName"		"Button"
@@ -59,8 +77,8 @@
 //	}	
 	"MapLabel"
 	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"MapLabel"
+	//	"ControlName"		"CExLabel"
+	//	"fieldName"		"MapLabel"
 		"font"			"HudFontMediumBigBold"
 		"xpos"			"c-25"
 		"ypos"			"55"
@@ -77,18 +95,7 @@
 		"tall"		"480"
 		"enabled"	"1"
 	}
-	"MainBackground"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"MainBackground"
-		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"f0"
-		"tall"			"480"
-		"enabled"		"1"
-		"image"			""
-		"scaleImage"		"1"
-	}
+
 	"OnYourWayLabel"
 	{
 		"ControlName"		"CExLabel"
