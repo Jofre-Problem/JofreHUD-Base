@@ -38,7 +38,7 @@
 		"image"			""
 	//	"scaleImage"		"1"
 	}	
-	"CloseButton" [$WIN32]
+	"CloseButton"
 	{
 	//	"ControlName"		"Button"
 	//	"fieldName"		"CloseButton"

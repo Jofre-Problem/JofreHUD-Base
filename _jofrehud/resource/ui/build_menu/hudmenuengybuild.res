@@ -10,10 +10,11 @@
 // hud_menu_item_bg
 
 #base "../base/build-more/itembg/main.res"
-#base "../base/build-more/itembg/content2.res"
+//#base "../base/build-more/itembg/content2.res"
+#base "../base/build-more/itembg/content1.res"
 // 4 14 0 98 105
-#base "../base/build-more/bgengineer/main.res"
-#base "../base/build-more/bgengineer/xpos405.res"
+//#base "../base/build-more/bgengineer/main.res"
+//#base "../base/build-more/bgengineer/xpos405.res"
 
 #base "../base/build-more/buildicon/main.res"
 #base "../base/build-more/buildiconshadow/main.res"
