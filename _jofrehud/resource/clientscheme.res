@@ -11,7 +11,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}	
 		/////////////////////////////////////
@@ -22,7 +22,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"15"
 			}
 		}	
@@ -31,7 +31,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"15"
 			}
 		}			
@@ -40,7 +40,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"15"
 			}
 		}
@@ -49,7 +49,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 				tall		"47"
 			}
 		}	
@@ -59,7 +59,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"24"
 				"weight"	"900"
 				"antialias" "1"
@@ -70,7 +70,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 				tall		"16"
 				"weight"	"900"
 				"antialias" "1"				
@@ -82,7 +82,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}			
 		"ChatMiniFont"
@@ -90,27 +90,27 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}		
 		CenterPrintText
@@ -131,7 +131,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"9"
 				"weight"	"900"
 				"antialias" "1"
@@ -142,7 +142,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudHintTextLarge"	//hl2
@@ -150,7 +150,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 					"tall"		"14"			
 			}
 		}	
@@ -159,7 +159,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 					"tall"		"14"			
 			}
 		}				
@@ -168,27 +168,27 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudFontGiant"
@@ -196,27 +196,27 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudFontGiantBold"
@@ -233,7 +233,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -242,7 +242,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudFontMediumBigBold"
@@ -250,7 +250,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}		
 		"HudFontMedium"
@@ -258,7 +258,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudFontMediumSecondary"
@@ -266,7 +266,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudFontMediumBold"
@@ -274,7 +274,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudFontMediumSmallBold"
@@ -282,7 +282,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudFontMediumSmall"
@@ -290,7 +290,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudFontMediumSmallSecondary"
@@ -298,7 +298,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudFontSmall"
@@ -306,7 +306,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}	
 		"HudFontSmallishBold"
@@ -314,7 +314,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudFontSmallBold"
@@ -322,7 +322,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudFontSmallBoldShadow"
@@ -330,7 +330,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudFontSmallest"
@@ -338,7 +338,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudFontSmallestShadow"
@@ -346,7 +346,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudFontSmallestBold"
@@ -354,7 +354,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"PerformanceModeSmall"	//unused
@@ -362,7 +362,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"StorePromotionsTitle"
@@ -370,7 +370,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"FontCartPrice"
@@ -378,7 +378,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"FontStorePrice"
@@ -386,7 +386,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"FontStoreOriginalPrice"
@@ -394,7 +394,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"FontStorePriceSmall"	//only used on mvm
@@ -402,7 +402,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"FontStorePromotion"	//unused
@@ -410,7 +410,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -469,7 +469,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 				tall		"18"
 				antialias "1"
 			}
@@ -486,7 +486,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ClockSubText"
@@ -494,7 +494,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ClockSubTextSuddenDeath"
@@ -502,7 +502,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ClockSubTextTiny"
@@ -510,7 +510,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"HudSelectionText"
@@ -518,27 +518,27 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		DebugOverlay
@@ -546,12 +546,12 @@ Scheme
 			"1"	[$WIN32]
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"1"	[$X360]
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}		
 		TFTypeDeath
@@ -581,7 +581,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -590,7 +590,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"MenuClassBuckets"
@@ -598,7 +598,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"MenuKeys"
@@ -606,7 +606,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -615,7 +615,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}		
 		
@@ -624,7 +624,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ChalkboardTitleBig"
@@ -632,7 +632,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ChalkboardTitleMedium"
@@ -640,7 +640,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ChalkboardText"
@@ -648,7 +648,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -657,7 +657,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ScoreboardSmall"
@@ -665,7 +665,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ScoreboardMediumSmall"
@@ -673,7 +673,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ScoreboardMedium"
@@ -681,7 +681,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ScoreboardTeamName"
@@ -689,7 +689,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ScoreboardTeamCountNew"
@@ -697,7 +697,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ScoreboardTeamNameNew"
@@ -705,7 +705,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ScoreboardTeamNameLarge"
@@ -713,7 +713,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -722,7 +722,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ScoreboardTeamScore"
@@ -730,27 +730,27 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"MatchSummaryTeamScores"
@@ -758,7 +758,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"MatchSummaryStatsAndMedals"
@@ -766,7 +766,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"MatchSummaryWinner" //only used on not used match status panel
@@ -774,7 +774,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"CompMatchStartTeamNames"
@@ -782,7 +782,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ControlPointTimer"
@@ -790,7 +790,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ControlPointTimerSmaller"
@@ -798,7 +798,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -807,7 +807,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -816,27 +816,27 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ChatFont"
@@ -844,27 +844,27 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -873,7 +873,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}			
 		CapPlayerFont
@@ -881,7 +881,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		CapPlayerFontSmall
@@ -889,7 +889,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -898,7 +898,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}		
 		TFFontMedium
@@ -906,7 +906,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}		
 		
@@ -915,7 +915,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}		
 		
@@ -924,7 +924,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		MatchmakingDialogSessionOptionsTitle
@@ -932,7 +932,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		MatchmakingDialogMenuLarge
@@ -940,7 +940,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		MatchmakingDialogMenuBrowserHostname
@@ -948,7 +948,7 @@ Scheme
 			"1"			// brower item hostname
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		MatchmakingDialogMenuBrowserDetails
@@ -956,7 +956,7 @@ Scheme
 			"1"			// browser item players and map name
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}		
 		MatchmakingDialogMenuMedium
@@ -964,7 +964,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		MatchmakingDialogMenuMediumSmall
@@ -972,7 +972,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -982,7 +982,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"TeamMenu"
@@ -990,7 +990,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}		
 		"IntroMenuCaption"
@@ -998,7 +998,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}			
 		"AchievementNotification"
@@ -1006,7 +1006,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ImportToolSmallestBold"
@@ -1014,7 +1014,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ImportToolSmallest"
@@ -1022,7 +1022,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"SpectatorVerySmall"
@@ -1030,7 +1030,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		// Used by scoreboard and spectator UI for names which don't map in the normal fashion
@@ -1039,17 +1039,17 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -1058,7 +1058,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ItemFontNameSmall"
@@ -1066,7 +1066,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ItemFontNameLarge"
@@ -1074,7 +1074,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ItemFontNameLarger"
@@ -1082,7 +1082,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ItemFontAttribSmallest"
@@ -1090,7 +1090,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		ItemFontAttribSmallv2
@@ -1098,7 +1098,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			
 		}
@@ -1107,7 +1107,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ItemFontAttribLarge"
@@ -1115,7 +1115,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}	
 		"ItemFontAttribLarger"
@@ -1123,7 +1123,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -1132,7 +1132,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1141,7 +1141,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"QuestObjectiveTracker_Desc"
@@ -1149,7 +1149,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"QuestObjectiveTracker_DescGlow"
@@ -1157,7 +1157,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1166,7 +1166,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1175,17 +1175,17 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1194,17 +1194,17 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -1213,7 +1213,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1222,7 +1222,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1231,17 +1231,17 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1250,17 +1250,17 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1269,17 +1269,17 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1288,7 +1288,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -1297,7 +1297,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1306,7 +1306,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -1315,7 +1315,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"AdFont_PurchaseButton"
@@ -1323,7 +1323,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1332,7 +1332,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 
 			}
 		}
@@ -1342,7 +1342,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -1354,27 +1354,27 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ReplayBrowserSmallest"
@@ -1382,7 +1382,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ReplaySmaller"
@@ -1390,32 +1390,32 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"4"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"5"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 			"6"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ReplayMediumSmall"
@@ -1423,7 +1423,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ReplayMedium"
@@ -1431,7 +1431,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ReplayMediumBig"
@@ -1439,7 +1439,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ReplayBrowserTab"
@@ -1447,7 +1447,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ReplayLarger"
@@ -1455,7 +1455,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		
@@ -1467,7 +1467,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"EconFontMedium"
@@ -1475,7 +1475,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1484,7 +1484,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 
 			}
 		}
@@ -1494,7 +1494,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1503,7 +1503,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1514,7 +1514,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1525,7 +1525,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1534,7 +1534,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1543,7 +1543,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 
@@ -1552,7 +1552,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"TextToolTipFont"			//Blank Font, but I dont want to have uselees fonr definitions :)
@@ -1560,7 +1560,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}			
 		"QuestMap_Small_Blur"
@@ -1568,7 +1568,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}					
 		"HudNumbers" //unused, change it! -- WIcon 25
@@ -1576,7 +1576,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		"ScoreboardSmallest"
@@ -1584,7 +1584,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]	
+				"name"		"Helvetica" [$POSIX]	
 			}	
 		}
 				
@@ -1593,7 +1593,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 	

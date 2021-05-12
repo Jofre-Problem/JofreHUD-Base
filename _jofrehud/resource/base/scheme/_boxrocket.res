@@ -150,7 +150,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"32"
 				"weight"	"1000"
 				"outline"	"1"
@@ -163,7 +163,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"12"
 				"weight"	"1000"
 				"antialias" "1"				
@@ -175,7 +175,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
@@ -188,7 +188,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"13"
 				"weight"	"0"
 				"antialias" "1"				
@@ -200,7 +200,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"14"
 				"weight"	"0"
 				"antialias" "1"				
@@ -212,7 +212,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"18"
 				"weight"	"0"
 				"antialias" "1"				
@@ -224,7 +224,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"22"
 				"weight"	"0"
 				"antialias" "1"				

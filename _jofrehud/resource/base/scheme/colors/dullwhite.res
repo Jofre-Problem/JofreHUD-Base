@@ -3,6 +3,6 @@ Scheme
 {
 	Colors
 	{	
-		"DullWhite"			"0 0 0 100"
+	//	"DullWhite"			"0 0 0 100"
 	}		
 }

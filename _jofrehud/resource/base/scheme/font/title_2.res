@@ -7,7 +7,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Helvetica" [$POSIX]
 				"tall"		"120"
 				"weight"	"400"
 				"antialias"	"1"
