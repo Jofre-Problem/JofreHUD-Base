@@ -386,6 +386,10 @@ Spaaps 	jofre is nonexistent
 たなか-さん 	the sniper who gets 5k damage each round
 
 たなか-さん 	jofre the man the myth the legend did it again
+
+*DEAD* たなか-さん :  joffre is a king handling whatever life throws at him
+*DEAD* たなか-さん :  bad internet and still gets 10k
+
 TRACKLIST:
 
 
