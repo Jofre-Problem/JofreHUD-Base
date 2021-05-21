@@ -8,6 +8,13 @@
 #base "base/filesv1/title/main.res"
 #base "base/filesv2/workshopbg/main.res"
 #base "base/filesv2/bgbottom/main.res"
+	#base "base/filesv2/classmodelpanel/main.res"
+	#base "base/filesv2/classmodelpanel/position/vis0.res"
+	#base "base/filesv2/classmodelpanel/position/enabled.res"
+	#base "base/filesv2/classmodelpanel/position/auto1.res"
+	#base "base/filesv2/classmodelpanel/position/pin0.res"	
+	#base "base/filesv2/classmodelpanel/position/render0.res"	
+	#base "base/filesv2/classmodelpanel/position/allow_manip.res"
 #base "base/filesv2/classmodelpanel/content_import.res"
 
 #base "base/filesv1/typelabel/main.res"

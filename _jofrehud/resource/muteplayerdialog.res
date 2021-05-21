@@ -23,14 +23,26 @@
 
 "Resource/PlayerListDialog.res"
 {
+// unstable file
 	"PlayerList"
 	{
-		"wide"		"p0.27"
-		"tall"		"220"
+		"xpos"		"28"
+		"ypos"		"38"
+		"wide"		"503"
+		"tall"		"279"
 	}
 	"MuteButton"
 	{
-		"xpos"		"20"
-		"ypos"		"10"
+		"xpos"		"270"
+		"ypos"		"340"
+		"wide"		"200"
+		"tall"		"25"
+	}
+	"Button1"
+	{
+		"xpos"		"352"
+		"ypos"		"380"
+		"wide"		"86"
+		"tall"		"24"
 	}	
 }

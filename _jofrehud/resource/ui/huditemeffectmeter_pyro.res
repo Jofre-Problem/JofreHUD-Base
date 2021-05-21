@@ -9,7 +9,6 @@
 {
 	HudItemEffectMeter
 	{
-		"fieldName"		"HudItemEffectMeter"
 		"xpos"			"r214"
 	}
 }

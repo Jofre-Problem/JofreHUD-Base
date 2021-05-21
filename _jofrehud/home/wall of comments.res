@@ -390,6 +390,66 @@ Spaaps 	jofre is nonexistent
 *DEAD* たなか-さん :  joffre is a king handling whatever life throws at him
 *DEAD* たなか-さん :  bad internet and still gets 10k
 
+
+[Dead] sock :  you know you cant kill jofre cuse he to lage
+*DEAD* Chilling :  M o v i s t a r   M o m e n t 
+*DEAD* Scout Fangirl Scooty :  lmfao 
+[Dead] sock :  his fuckin ping is 264
+[hop] Wonderland.tf | IL Jailbreak - jail_minecraft_dynf_v10d (29/32) [type !servers to join]
+[Dead] Suicidal Mirror :  Jofre has movistar servic
+[VSH 2] Type /haledmg for the customizeable damage tracker menu.
+[Dead] IM victim of pizza hate crime :  jofre has movistar ?
+[TBC] Welcome to The Brew Crew.
+[Dead] IM victim of pizza hate crime :  damn im running claro
+[Dead] IM victim of pizza hate crime :  this is sad
+[Dead] sock :  so jofre what does it look like when you play
+(Voice) Jofre Problem?: Thanks!
+[Dead] Suicidal Mirror :  I'm running kolbi
+[Dead] Suicidal Mirror :  lelw
+[Dead] sock :  code\
+*DEAD* Chilling :  MONKE SONG?
+[Dead] smashtrigger00 :  mmmmmmmmmmmmmmmmmmmmmmmmmmk
+[Dead] Code :  yesh
+*DEAD* Scout Fangirl Scooty :  code i think ur thinking of another scooty 
+[Dead] IM victim of pizza hate crime :  MONKE
+[Dead] Flametosser :  'oh yeah' - dk
+[Dead] sock :  can i eat you kid from any time?
+[Dead] Code :  most likely
+[Dead] Code :  'scooty'
+[Dead] sock :  sick
+[TBC] You just gained 6 Gimgims!
+[RTD] arsene124 rolled: low gravity for 20 seconds.
+[Dead] IM victim of pizza hate crime :  its jofre
+*DEAD* Scout Fangirl Scooty :  i know theres another scooty in the discord so ur prob thinking of him 
+[Dead] IM victim of pizza hate crime :  hes magically laggy
+[Dead] Code :  yes
+[Dead] IM victim of pizza hate crime :  his power is unmatched
+[Dead] sock :  hey scooty *turns fast * it eating time
+[Dead] sock :  ( ͡° ͜ʖ ͡°)
+[RTD] arsene124's effect has worn off.
+*DEAD* Scout Fangirl Scooty :  nasty 
+Jofre Problem? :  COMEW ON
+[Dead] sock :  not like that
+*DEAD* Chilling :  1 more shoot jofre
+*DEAD* Scout Fangirl Scooty :  jofre gonna get 9k 
+Jofre Problem? :  .......
+[Dead] sock :  like eating you limes
+*DEAD* Chilling :  JOFRE STOP MISSING 
+[VSH 2] Want to see whats new in V2.24? Type /halenew to check it out!
+[Dead] sock :  like i eat you not you r ass
+[Dead] IM victim of pizza hate crime :  deal with it
+*DEAD* Chilling :  Epic
+[Dead] sock :  pervert
+*DEAD* Scout Fangirl Scooty :  10k lets gooooo 
+[SM] ADMIN: Played sound to all players
+*DEAD* Chilling :  10k moment 
+[TBC] You gained 1 Gimgim for killing arsene124.
+[VSH 2] Queue You gained 0 queue points because you toggled Boss Selection as off.
+[VSH 2] Queue You scored 52 points.
+Scout Fangirl Scooty :  nice 
+sock :  10k lmao
+
+
 TRACKLIST:
 
 

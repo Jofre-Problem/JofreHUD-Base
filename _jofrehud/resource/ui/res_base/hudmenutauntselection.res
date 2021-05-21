@@ -9,8 +9,24 @@
 #base "../../../#uni_base/filesv1/titlelabel/text/left.res"
 #base "../../../#uni_base/filesv1/titlelabel/dull0.res"
 #base "../../../#uni_base/filesv1/titlelabel/bright0.res"
+
+#base "../base/build-more/titlelabelshadow/main.res"
+#base "../base/build-more/titlelabelshadow/dull1.res"
+#base "../base/build-more/titlelabelshadow/text/left.res"
+#base "../base/build-more/titlelabelshadow/position/tall38.res"
+#base "../base/build-more/titlelabelshadow/font/giantbold.res"
+#base "../base/build-more/titlelabelshadow/position/zpos3.res"
 "Resource/UI/HudMenuTauntSelection.res"
 {
+	"TitleLabelDropshadow"
+	{	
+		"fgcolor"		"Black"
+		"xpos"			"60"			// align me to the left edge of the first selection
+		"ypos"			"6"
+		"wide"			"360"
+		"labelText"		"#Hud_Menu_Taunt_Title"
+	}
+	
 	"IcoReelIcon"
 	{
 		"ControlName"	"CIconPanel"
@@ -47,26 +63,6 @@
 	//	"brighttext"	"0"
 	}
 	
-	"TitleLabelDropshadow"
-	{	
-		"ControlName"	"CExLabel"
-		"fieldName"		"TitleLabelDropshadow"
-		"font"			"HudFontGiantBold"
-		"fgcolor"		"Black"
-		"xpos"			"60"			// align me to the left edge of the first selection
-		"ypos"			"6"
-		"zpos"			"3"
-		"wide"			"360"
-		"tall"			"38"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		"#Hud_Menu_Taunt_Title"
-		"textAlignment"	"Left"
-		"dulltext"		"1"
-		"brighttext"	"0"
-	}
 
 	"TauntModelPanel1"
 	{
