@@ -118,12 +118,8 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"Trebuchet MS" [$WINDOWS]
-				"name"		"Verdana" [!$WINDOWS]
-				"tall"		"14"
-				"weight"	"900"
-				"antialias" "1"
-				"additive"	"1"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
 			}
 		}
 		CreditsOutroText	//hl2

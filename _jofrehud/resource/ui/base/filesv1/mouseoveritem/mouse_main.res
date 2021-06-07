@@ -10,11 +10,11 @@
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 
-		"text_center"		"1"
-		"model_hide"		"1"
-		"resize_to_text"	"1"
-		"padding_height"	"15"
-		"attrib_only"		"1"
+	//	"text_center"		"1"
+	//	"model_hide"		"1"
+	//	"resize_to_text"	"1"
+	//	"padding_height"	"15"
+	//	"attrib_only"		"1"
 		
 		"attriblabel"
 		{
