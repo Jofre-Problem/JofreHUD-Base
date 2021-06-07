@@ -8,3 +8,11 @@
 
 #base "base/filesv2/playerstatushealthvalue/main.res"
 #base "base/filesv2/playerstatushealthvalue/zpos5.res"
+#base "../#experimental/spacer.res"
+"Resource/UI/HudPlayerHealth.res"
+{	
+	PlayerStatusHealthValue
+	{
+		"pin_to_sibling"	"Spacer"
+	}
+}
