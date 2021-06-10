@@ -5,8 +5,8 @@
 		"fieldName"		"huditemeffectmeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r214"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
+		"xpos"			"r214"
+		"ypos_minmode"	"r70"
 		"ypos"			"r62"	[$WIN32]
 		"ypos_minmode"	"r54"	[$WIN32]
 		"xpos"			"r194"	[$X360]

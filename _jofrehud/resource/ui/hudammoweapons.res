@@ -1,3 +1,4 @@
 Resource/UI/HudAmmoWeapons.res
-{		
+{
+
 }

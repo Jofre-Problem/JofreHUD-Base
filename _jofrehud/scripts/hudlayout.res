@@ -13,3 +13,11 @@
 	#base "../resource/ui/econ/base/notifiqueuepanel/main.res"
 	#base "../resource/ui/base/filesv1/cdamage/main.res"
 	#base "../resource/ui/base/filesv1/chealth/main.res"
+	"Resource/UI/Stop.res"
+	{	
+		HudBossHealth
+		{
+			"wide"	"f0"
+			"tall"	"f0"
+		}
+	}

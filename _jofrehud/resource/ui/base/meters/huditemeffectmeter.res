@@ -1,5 +1,5 @@
 //#base "huditemeffectmeter_bg.res"
-#base "../../../#beta/spacer.res"
+//#base "../../../#beta/spacer.res"
 //#base "meters/itemeffectmeterlabel.res"
 //#base "meters/itemeffectmeter.res"
 //#base "meters/huditemeffectmeter/main_main.res"
@@ -15,7 +15,7 @@
 	}
 	"ItemEffectMeter"
 	{	
-		"bgcolor_override"		"0 0 0 220"
+//		"bgcolor_override"		"0 0 0 220"
  //		"xpos"					"-40"
 //		"ypos"					"-41"
 	//	"wide"					"140"//"140"
