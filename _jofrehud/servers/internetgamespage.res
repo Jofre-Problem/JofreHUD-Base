@@ -1,5 +1,5 @@
 #base "base/addcurrentserverbutton_main.res"
-#base "base/addcurrentserverbutton_wide144.res"	//it is 145 but I think it should hurt nothing
+//#base "base/addcurrentserverbutton_wide144.res"	//it is 145 but I think it should hurt nothing
 #base "base/addcurrentserverbutton_ypos244.res"
 #base "base/addcurrentserverbutton_vis0.res"
 #base "base/gamelist_main.res"

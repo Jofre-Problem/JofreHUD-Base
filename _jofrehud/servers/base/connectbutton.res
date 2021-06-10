@@ -6,7 +6,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"ConnectButton"
 		"ypos"		"244"
-		"wide"		"65"
+	//	"wide"		"65"
 		"tall"		"24"
 		"AutoResize"		"0"
 		"PinCorner"		"3"
