@@ -5,7 +5,16 @@ Scheme
 	{
 	}
 	Fonts
-	{			
+	{
+		"Blank"
+		{
+			"1"
+			{
+				"name"		"Agency FB" [$WINDOWS]
+				"name"		"Helvetica" [$POSIX]
+				"yres"	"0 2000"
+			}
+		}		
 		"BetaFont"
 		{
 			"1"
