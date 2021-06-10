@@ -224,12 +224,12 @@ Scheme
 				"name"		"Helvetica" [$POSIX]
 			}
 		}
-		"HudFontGiantBold"
+		"HudFontGiantBold" //ammo
 		{
 			"1"
 			{
-		//		"name"		"Segoe UI" [$WINDOWS]
-		//		"name"		"Verdana" [$POSIX]
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Verdana" [$POSIX]
 			}
 		}
 
@@ -483,7 +483,8 @@ Scheme
 		{
 			"1"
 			{
-			//	name		"Segoe UI"
+				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Verdana" [$POSIX]
 			}
 		}
 		"SpectatorKeyHints"
