@@ -1,10 +1,5 @@
 #base "../resource/#bases/1sysmenu.res"
-#base "../#uni_base/filesv1/cancel/main.res"
-#base "../#uni_base/filesv1/cancel/main2.res"
-#base "../#uni_base/filesv1/cancel/def-is0.res"
-#base "../#uni_base/filesv1/cancel/is-center.res"
-#base "../#uni_base/filesv1/cancel/tall-is24.res"
-#base "../#uni_base/filesv1/cancel/command/close.res"
+
 #base "../#uni_base/filesv1/warninglabel/is-label.res"
 #base "../#uni_base/filesv1/warninglabel/main.res"
 #base "../#uni_base/filesv1/warninglabel/vis1.res"
@@ -37,6 +32,13 @@
 #base "../#uni_Base/filesv3/ok/ctri/cmd/ok.res"
 #base "../#uni_Base/filesv3/ok/ctri/def0.res"
 #base "../#uni_Base/filesv3/ok/ctri/position/tall24.res"
+
+#base "../#uni_base/filesv1/cancel/main.res"
+#base "../#uni_base/filesv1/cancel/main2.res"
+#base "../#uni_base/filesv1/cancel/def-is0.res"
+#base "../#uni_base/filesv1/cancel/is-west.res"
+#base "../#uni_base/filesv1/cancel/tall-is24.res"
+#base "../#uni_base/filesv1/cancel/command/close.res"
 "Friends/DialogRemoveUser.res"
 {
 	"OK"
@@ -85,42 +87,4 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}	
-	"DialogRemoveUser"
-	{
-		"ControlName"		"Frame"
-		"fieldName"		"DialogRemoveUser"
-		"xpos"		"221"
-		"ypos"		"354"
-		"wide"		"452"
-		"tall"		"216"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-	}
-
-
-	"Cancel"
-	{
-		"ControlName"		"Button"
-		"fieldName"		"Cancel"
-		"xpos"		"352"
-		"ypos"		"180"
-		"wide"		"84"
-		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"1"
-		"labelText"		"#TrackerUI_Cancel"
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"Command"		"Close"
-		"Default"		"0"
-	}
-
-
 }
