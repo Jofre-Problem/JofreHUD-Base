@@ -6,7 +6,11 @@
 #base "../base/build-more/mainbg/image/scale.res"
 #base "../base/build-more/mainbg/image/color1.res"
 #base "../base/build-more/mainbg/image/content1.res"
-#base "../base/v2/divider.res"
+#base "../base/divider/main.res"
+#base "../base/divider/main2.res"
+#base "../base/divider/zpos1.res"
+#base "../base/divider/xpos8.res"
+#base "../base/divider/wide436.res"
 
 #base "../base/build-more/destroyicon/main.res"
 #base "../base/build-more/destroyicon/content2.res"

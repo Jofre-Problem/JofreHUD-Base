@@ -7,8 +7,11 @@
 #base "../base/build-more/mainbg/image/color1.res"
 #base "../base/build-more/mainbg/image/content1.res"
 // hud_menu_item_bg
-#base "../base/v2/divider.res
-"
+#base "../base/divider/main.res"
+#base "../base/divider/main2.res"
+#base "../base/divider/zpos1.res"
+#base "../base/divider/xpos8.res"
+#base "../base/divider/wide456.res"
 #base "../base/build-more/titlelabel/main.res"
 #base "../base/build-more/titlelabel/font/giantbold.res"
 #base "../base/build-more/titlelabel/content1.res"

@@ -63,4 +63,8 @@
 #base "../base/build-more/unavailable_item/1/main.res"
 #base "../base/build-more/unavailable_item/1/ypos47.res"
 
-#base "../base/v2/divider.res"
+#base "../base/divider/main.res"
+#base "../base/divider/main2.res"
+#base "../base/divider/zpos1.res"
+#base "../base/divider/xpos8.res"
+#base "../base/divider/wide436.res"

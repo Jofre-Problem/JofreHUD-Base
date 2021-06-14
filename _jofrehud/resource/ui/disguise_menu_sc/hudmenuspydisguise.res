@@ -21,8 +21,7 @@
 #base "../base/build-more/mainbg/image/color1.res"
 #base "../base/build-more/mainbg/image/content1.res"
 // hud_menu_item_bg
-#base "../base/v2/divider.res
-"
+
 #base "../base/build-more/titlelabel/main.res"
 #base "../base/build-more/titlelabel/font/giantbold.res"
 #base "../base/build-more/titlelabel/position/content2.res"
