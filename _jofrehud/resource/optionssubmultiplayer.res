@@ -1,3 +1,6 @@
+#base "base/filesv1/buildmodedialog/main.res"
+#base "base/filesv1/buildmodedialog/extra1.res"
+
 #base "../#uni_base/filesv1/label1/main.res"
 #base "../#uni_base/filesv1/label1/position/tall24.res"
 #base "../#uni_base/filesv1/label1/auto.res"

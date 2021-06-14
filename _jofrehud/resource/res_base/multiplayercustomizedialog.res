@@ -1,3 +1,20 @@
+#base "../#uni_Base/filesv3/ok/main.res"
+#base "../#uni_Base/filesv3/ok/ctri/btn.res"
+#base "../#uni_Base/filesv3/ok/ctri/auto0.res"
+#base "../#uni_Base/filesv3/ok/ctri/pin3.res"
+#base "../#uni_Base/filesv3/ok/ctri/vis1.res"
+#base "../#uni_Base/filesv3/ok/ctri/enabled.res"
+#base "../#uni_Base/filesv3/ok/ctri/tab3.res"
+#base "../#uni_Base/filesv3/ok/ctri/text/west.res"
+#base "../#uni_Base/filesv3/ok/ctri/dull0.res"
+#base "../#uni_Base/filesv3/ok/ctri/bright0.res"
+#base "../#uni_Base/filesv3/ok/ctri/cmd/ok.res"
+#base "../#uni_Base/filesv3/ok/ctri/def0.res"
+#base "../#uni_Base/filesv3/ok/ctri/position/wide64.res"
+#base "../#uni_Base/filesv3/ok/ctri/position/tall24.res"
+#base "../#uni_Base/filesv3/ok/ctri/wrap0.res"
+#base "../#uni_Base/filesv3/ok/ctri/label/gameui_ok.res"
+
 "Resource/MultiplayerCustomizeDi"
 {
 	"Cancel"
@@ -18,24 +35,7 @@
 		"command"		"Close"
 		"default"		"0"
 	}
-	"OK"
-	{
-		"ControlName"		"Button"
-		"fieldName"		"OK"
-		"wide"		"64"
-		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"labelText"		"#GameUI_OK"
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"command"		"Ok"
-		"default"		"0"
-	}
+
 	"Advanced"
 	{
 		"ControlName"		"Button"

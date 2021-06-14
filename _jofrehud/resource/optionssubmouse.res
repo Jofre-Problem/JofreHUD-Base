@@ -1,3 +1,5 @@
+#base "base/filesv1/buildmodedialog/main.res"
+#base "base/filesv1/buildmodedialog/extra1.res"
 #base "../#uni_base/filesv1/divider1/divider1_main.res"
 
 #base "../#uni_base/filesv1/label1/main.res"
