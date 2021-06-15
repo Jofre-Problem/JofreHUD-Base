@@ -10,3 +10,6 @@
 #base "base/infotext_west.res"
 #base "base/infotext_autoresize.res"
 #base "base/infotext_enabled.res"
+
+#base "../#uni_base/filesv3/acceptbutton/main.res"
+#base "../#uni_base/filesv3/acceptbutton/vis1.res"
