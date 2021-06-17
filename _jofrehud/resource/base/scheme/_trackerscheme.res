@@ -1,5 +1,4 @@
 #base "font/default.res"
-//#base "cs_windows.res"
 #base "cs_fonts_1.res"
 #base "cs_border_1.res"
 #base "cff_hl2_1.res"
