@@ -39,3 +39,9 @@
 #base "../#uni_base/filesv1/label3/dull0.res"
 #base "../#uni_base/filesv1/label3/wrap0.res"
 #base "../#uni_base/filesv1/label3/text/west.res"
+
+#base "base/filesv1/play/main.res"
+#base "base/filesv1/play/t24.res"
+#base "base/filesv1/play/pin0.res"
+#base "base/filesv1/play/tab0.res"
+#base "base/filesv1/play/def0.res"

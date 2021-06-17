@@ -12,3 +12,8 @@
 #base "../#uni_base/filesv1/label1/bright0.res"
 #base "../#uni_base/filesv1/label1/wrap0.res"
 #base "../#uni_base/filesv1/label1/text/west.res"
+
+#base "base/filesv1/play/main.res"
+#base "base/filesv1/play/cmd_play.res"
+#base "base/filesv1/play/tab0.res"
+#base "base/filesv1/play/def0.res"

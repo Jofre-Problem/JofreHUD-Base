@@ -8,3 +8,8 @@
 #base "../#uni_base/filesv1/cancel/label/gameuicancel.res"
 
 #base "ui/base/divider/main.res"
+
+#base "base/filesv1/play/main.res"
+#base "base/filesv1/play/t24.res"
+#base "base/filesv1/play/cmd_play.res"
+#base "base/filesv1/play/pin0.res"
