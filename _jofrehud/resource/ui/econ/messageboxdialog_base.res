@@ -27,8 +27,50 @@
 #base "../../../#uni_base/filesv1/titlelabel/vis1.res"
 #base "../../../#uni_base/filesv1/titlelabel/enabled.res"
 #base "../../../#uni_base/filesv1/titlelabel/text/north.res"
+
+#base "../../#uni_base/filesv3/confirmbutton/ctrl/cex.res"
+#base "../../#uni_base/filesv3/confirmbutton/ctrl/main.res"
+#base "../../#uni_base/filesv3/confirmbutton/position/tall25.res"
+#base "../../#uni_base/filesv3/confirmbutton/auto.res"
+#base "../../#uni_base/filesv3/confirmbutton/pin.res"
+#base "../../#uni_base/filesv3/confirmbutton/vis1.res"
+#base "../../#uni_base/filesv3/confirmbutton/enabled.res"
+#base "../../#uni_base/filesv3/confirmbutton/tab.res"
+#base "../../#uni_base/filesv3/confirmbutton/text/center.res"
+#base "../../#uni_base/filesv3/confirmbutton/dull0.res"
+#base "../../#uni_base/filesv3/confirmbutton/bright0.res"
+#base "../../#uni_base/filesv3/confirmbutton/cmd/confirm.res"
+#base "../../#uni_base/filesv3/confirmbutton/sound.res"
+#base "../../#uni_base/filesv3/confirmbutton/border_color.res"
+#base "../../#uni_base/filesv3/confirmbutton/insetx_50.res"
+#base "../../#uni_base/filesv3/confirmbutton/font/econfontsmall.res"
+#base "../../#uni_base/filesv3/confirmbutton/label/ConfirmButtonText.res"
 "Resource/UI/MessageBoxDialog.res"
 {
+	"ConfirmButton"
+	{
+	//	"ControlName"	"CExButton"
+	//	"fieldName"		"ConfirmButton"
+		"xpos"			"62"
+		"ypos"			"190"
+		"zpos"			"20"
+		"wide"			"175"
+	//	"tall"			"25"
+	//	"autoResize"	"0"
+	//	"pinCorner"		"0"
+	//	"visible"		"1"
+	//	"enabled"		"1"
+	//	"tabPosition"	"0"
+
+	//	"font"			"EconFontSmall"
+	//	"textAlignment"	"center"
+	//	"textinsetx"	"50"
+	//	"dulltext"		"0"
+	//	"brighttext"	"0"
+	//	"Command"		"confirm"
+	//	"sound_depressed"	"UI/buttonclick.wav"
+	//	"sound_released"	"UI/buttonclickrelease.wav"
+	}	
 	"Icon"
 	{
 		"xpos"			"105"
@@ -66,36 +108,7 @@
 	}
 	
 
-	"ConfirmButton"
-	{
-		"ControlName"	"CExButton"
-		"fieldName"		"ConfirmButton"
-		"xpos"			"62"
-		"ypos"			"190"
-		"zpos"			"20"
-		"wide"			"175"
-		"tall"			"25"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"labelText"		"#ConfirmButtonText"
-		"font"			"EconFontSmall"
-		"textAlignment"	"center"
-		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"Command"		"confirm"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
-		"border_default"			"Econ.Button.Border.Default"
-		"border_armed"				"Econ.Button.Border.Armed"
-		"armedBgColor_override"		"Econ.Button.ArmedBgColor"
-		"armedFgColor_override"		"Econ.Button.ArmedFgColor"
-		"depressedBgColor_override"	"Econ.Button.DepressedBgColor"
-		"depressedFgColor_override"	"Econ.Button.DepressedFgColor"
-	}
+
 
 
 }
