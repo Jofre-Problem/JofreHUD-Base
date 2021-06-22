@@ -34,6 +34,8 @@
 
 #base "../../../#uni_base/filesv1/label11/text/west.res"
 #base "../../../#uni_base/filesv1/label12/text/west.res"
+
+#base "../../../#uni_base/filesv1/buildmodedialog/main.res"
 "Resource\BugUIPanel.res"
 {
 	"Label11"
@@ -353,18 +355,7 @@
 
 	"BuildModeDialog"
 	{
-		"ControlName"		"BuildModeDialog"
-		"fieldName"		"BuildModeDialog"
 		"xpos"		"20"
 		"ypos"		"78"
-		"wide"		"300"
-		"tall"		"420"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"settitlebarvisible"		"1"
-		"title"		"#Frame_Untitled"
 	}	
 }	

@@ -1,4 +1,4 @@
-#base "#bases/buildmodedialog_base.res"
+#base "../#uni_base/filesv1/buildmodedialog/main.res"
 #base "../#uni_base/filesv1/savebutton/main.res"
 #base "../#uni_base/filesv1/deletebutton/commandisdelete.res"
 #base "../#uni_base/filesv1/deletebutton/main.res"

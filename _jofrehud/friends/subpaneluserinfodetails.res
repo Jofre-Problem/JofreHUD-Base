@@ -5,6 +5,5 @@
 #base "base/label1_paintb.res"
 #base "base/label1_wrap0.res"
 #base "base/divider1.res"
-#base "#bases/buildmodedialog_base.res"
 #base "../#uni_base/filesv1/divider2/main.res"
 #base "../#uni_base/filesv1/divider2/tallis2.res"
