@@ -6,7 +6,6 @@
 #base "../base/internetgames.res"
 #base "../base/refreshquickbtn.res"
 #base "../../#uni_base/filesv1/divider1/divider1_main.res"
-#base "#bases/buildmodedialog_base.res"
 #base "../../#uni_base/filesv1/divider2/main.res"
 "servers/InternetGamesPage.res"
 {
