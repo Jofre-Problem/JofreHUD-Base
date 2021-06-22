@@ -7,6 +7,3 @@
 #base "base/boardgo.res"
 #base "../_base/dialoggame_c_c_g_base.res"
 #base "../_base/dialoggame_chess_go.res"
-"AddOns/Go/DialogGameGo.res"
-{
-}

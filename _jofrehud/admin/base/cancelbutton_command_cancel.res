@@ -1,7 +1,1 @@
-"AddOns/Go/DialogGameGo.res"
-{
-	"CancelButton"
-	{
-		"Command"		"cancel"
-	}
-}
+#base "../../#uni_base/filesv1/cancelbutton/cmd/cancel.res"

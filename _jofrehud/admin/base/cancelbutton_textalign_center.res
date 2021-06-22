@@ -1,7 +1,1 @@
-"AddOns/Go/DialogGameGo.res"
-{
-	"CancelButton"
-	{
-		"textAlignment"		"center"
-	}
-}
+#base "../../#uni_base/filesv1/cancelbutton/text/center.res"

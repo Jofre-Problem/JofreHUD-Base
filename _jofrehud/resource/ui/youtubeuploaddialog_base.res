@@ -24,8 +24,24 @@
 #base "../../#uni_base/filesv3/confirmbutton/sound.res"
 #base "../../#uni_base/filesv3/confirmbutton/insetx_50.res"
 #base "../../#uni_base/filesv3/confirmbutton/position/zpos20.res"
+
+#base "../../#uni_base/filesv1/cancelbutton/ctrl/cex.res"
+#base "../../#uni_base/filesv1/cancelbutton/main.res"
+#base "../../#uni_base/filesv1/cancelbutton/position/zpos20.res"
+#base "../../#uni_base/filesv1/cancelbutton/position/t25.res"
+#base "../../#uni_base/filesv1/cancelbutton/autoresize_pin.res"
+#base "../../#uni_base/filesv1/cancelbutton/vis1.res"
+#base "../../#uni_base/filesv1/cancelbutton/enabled.res"
+#base "../../#uni_base/filesv1/cancelbutton/tab0.res"
+#base "../../#uni_base/filesv1/cancelbutton/label/cancel.res"
+#base "../../#uni_base/filesv1/cancelbutton/text/center.res"
+#base "../../#uni_base/filesv1/cancelbutton/inset_x50.res"
+#base "../../#uni_base/filesv1/cancelbutton/dull0.res"
+#base "../../#uni_base/filesv1/cancelbutton/bright0.res"
+#base "../../#uni_base/filesv1/cancelbutton/cmd/cancel.res"
+#base "../../#uni_base/filesv1/cancelbutton/sound.res"
 "Resource/UI/YouTubeUploadDialog.res"
-{
+{	
 	"TitleLabel"
 	{
 		"font"			"Default"
@@ -57,24 +73,5 @@
 	//	"sound_released"	"UI/buttonclickrelease.wav"
 	}			
 	
-	"CancelButton"
-	{
-		"ControlName"	"CExButton"
-		"fieldName"		"CancelButton"
-		"zpos"			"20"
-		"tall"			"25"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"labelText"		"#Cancel"
-		"textAlignment"	"center"
-		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"Command"		"cancel"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
-	}		
+	
 }

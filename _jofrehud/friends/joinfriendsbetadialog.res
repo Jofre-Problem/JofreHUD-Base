@@ -1,4 +1,3 @@
-//#base "../resource/#bases/bench_main.res"
 #base "base/label1_main.res"
 #base "base/label1_autoresize.res"
 #base "base/label1_north.res"

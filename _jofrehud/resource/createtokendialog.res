@@ -1,5 +1,3 @@
-#base "../resource/#bases/ok_button.res"
-
 #base "../#uni_base/filesv1/okbutton/ctrl/btn.res"
 #base "../#uni_base/filesv1/okbutton/main.res"
 #base "../#uni_base/filesv1/okbutton/position/wide88.res"

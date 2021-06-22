@@ -3,7 +3,6 @@
 {
 	"CancelButton"
 	{
-		"AutoResize"		"0"
-		"PinCorner"		"0"
+		"tabposition"		"7"
 	}
 }

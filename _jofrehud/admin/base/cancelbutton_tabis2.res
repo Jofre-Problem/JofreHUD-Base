@@ -1,7 +1,1 @@
-"AddOns/Go/DialogGameGo.res"
-{
-	"CancelButton"
-	{
-		"tabPosition"		"2"
-	}
-}
+#base "../../#uni_base/filesv1/cancelbutton/tab2.res"

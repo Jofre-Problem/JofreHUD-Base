@@ -1,7 +1,1 @@
-"AddOns/Go/DialogGameGo.res"
-{
-	"CancelButton"
-	{
-		"wide"		"64"
-	}
-}
+#base "../../#uni_base/filesv1/cancelbutton/position/w64.res"

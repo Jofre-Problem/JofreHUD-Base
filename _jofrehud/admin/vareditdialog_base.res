@@ -1,6 +1,6 @@
 #base "../resource/#bases/1sysmenu.res"
-#base "base/okutton.res"
-#base "base/okutton_tab.res"
+#base "base/okbutton.res"
+#base "base/okbutton_tab.res"
 #base "base/cancelbutton_tabis3.res"
 #base "base/cancelbutton_main.res"
 #base "base/cancelbutton_main2.res"

@@ -3,6 +3,8 @@
 #base "../../../base/filesv2/explanationlabel/text/north-west.res"
 #base "../../../base/filesv2/explanationlabel/position/xpos60.res"
 #base "../../../base/filesv2/explanationlabel/position/wide220.res"
+
+#base "../../../../../#uni_base/filesv1/cancelbutton/position/w100.res"
 "Resource/UI/ConfirmDialogAbandonNoPenalty.res"
 {
 	"ConfirmDialog"
@@ -28,6 +30,6 @@
 		
 	"CancelButton"
 	{
-		"wide"			"100"
+//		"wide"			"100"
 	}
 }
