@@ -1,6 +1,7 @@
 /#users/
 /_jofrenew/
 /cfg/
+/_tf2hud/*.wav
 /sound/ui/*
 /sound/sound.cache
 /_tf2hud/scripts/scripts/settings.scr

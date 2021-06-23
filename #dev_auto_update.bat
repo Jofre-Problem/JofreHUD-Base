@@ -92,6 +92,8 @@ del \s *.xsc
 del \s *.lst
 del \s *.dsp
 del \s *.gam
+del "%default_tf2hud_folder%\root\*.wav" \s
+del "%default_tf2hud_folder%\root\*.mp3" \s
 del "%default_tf2hud_folder%\root\*.scr" \s
 del "%default_tf2hud_folder%\root\*.vdf" \s
 del "%default_tf2hud_folder%\root\*.txt" \s

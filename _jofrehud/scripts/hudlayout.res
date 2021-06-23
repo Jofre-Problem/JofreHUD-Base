@@ -1,4 +1,3 @@
-//	#base "../resource/#beta/c_spacer.res"
 	#base "../#uni_base/filesv1/hudchat/main.res"
 	#base "../resource/ui/base/filesv1/huditemeffectmeter/main_fg.res"
 	#base "../resource/ui/base/filesv1/huditemeffectmeter/main_main.res"

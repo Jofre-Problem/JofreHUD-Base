@@ -1,5 +1,4 @@
 //#base "huditemeffectmeter_bg.res"
-//#base "../../../#beta/spacer.res"
 //#base "meters/itemeffectmeterlabel.res"
 //#base "meters/itemeffectmeter.res"
 //#base "meters/huditemeffectmeter/main_main.res"
