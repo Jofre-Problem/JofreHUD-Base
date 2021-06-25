@@ -165,7 +165,7 @@
 		"ypos" 	"0"
 		"tall"	"480"
 		"RightMargin" "0"
-		"RightMargin_hidef" "32"
+		//"RightMargin_hidef" "32"
 		//"rightmargin_lodef" "38"
 		"visible" "1"
 		"enabled" "1"
@@ -263,7 +263,7 @@
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"
 		"priority"	"40"
-		"priority_lodef"	"5"
+		//"priority_lodef"	"5"
 
 		if_vr
 		{
@@ -283,7 +283,7 @@
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"
 		"priority"	"40"
-		"priority_lodef" "35"
+		//"priority_lodef" "35"
 		
 		"x_offset" "20"
 		"y_offset" "20"
