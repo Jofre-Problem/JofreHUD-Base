@@ -1,5 +1,5 @@
 ///////////////////////////////////////////////////////////
-// Object Control Panel scheme resource file
+// Tracker scheme resource file
 //
 // sections:
 //		Colors			- all the colors used by the scheme
@@ -18,29 +18,37 @@ Scheme
 	Colors
 	{
 		// base colors
-		"BaseText"		"48 192 192 255"		// used in text windows, lists
-		"BrightBaseText" "155 255 255 255"	// brightest text
+		"BaseText"		"216 222 211 255"		// used in text windows, lists
+		"BrightBaseText" "255 255 255 255"	// brightest text
 		"DimBaseText"	"150 159 142 255"		// dim base text
-		
+		"SelectedText"		"255 255 255 255"	// selected text
+
 		"LabelDimText"	"160 170 149 255"		// slight modification on above, used for info text
 												// could be just removed and use DimBaseText?
 		
-		"ControlText"	"48 192 192 255"		// used in all text controls
-		"BrightControlText"	"64 224 224 255"	// use for selected controls
-		"DisabledText1"	"32 128 128 255"		// disabled text
+		"ControlText"	"216 222 211 255"		// used in all text controls
+		"BrightControlText"	"196 181 80 255"	// use for selected controls
+		"DisabledText1"	"117 128 111 255"		// disabled text
 		"DisabledText2"	"30 30 30 255"		// overlay color for disabled text (to give that inset look)
+		"DimListText"		"117 134 102 255"	// offline friends, unsubscribed games, etc.
 
 		// background colors
 		"ControlBG"		"76 88 68 255"		// background color of controls
 		"ControlDarkBG" "90 106 80 255"		// darker background color; used for background of scrollbars
 		"WindowBG"		"62 70 55 255"		// background color of text edit panes (chat, text entries, etc.)
 		"SelectionBG"	"149 136 49 255"		// background color of any selected text or menu item
+		"SelectionBG2"		"40 46 34 255"		// selection background in window w/o focus
+		"ListBG"			"62 70 55 255"		// background of server browser, buddy list, etc.
 
 		// title colors
 		"TitleText"		"255 255 255 255"
 		"TitleDimText"	"120 132 114 255"
 		"TitleBG"		"76 88 68 0"
 		"TitleDimBG"	"76 88 68 0"
+
+		// slider tick colors
+		"SliderTickColor"	"127 140 127 255"
+		"SliderTrackColor"	"31 31 31 255"
 
 		// border colors
 		"BorderBright"	"136 145 128 255"		// the lit side of a control
@@ -102,10 +110,10 @@ Scheme
 
 		Slider
 		{
-			"SliderFgColor"		"ControlText"		// handle with which the slider is grabbed
-			"SliderBgColor"		"ControlDarkBG"		// area behind handle
-			"SliderTickColor"		"ControlText"	// slider tick's color
-			"SliderTickLabelColor"	"ControlText"	// color of labels at the ends of the slider tick
+			"SliderFgColor"			"ControlBG"		// handle with which the slider is grabbed
+			"SliderBgColor"			"ControlDarkBG"		// area behind handle
+			"SliderTickColor"		"127 140 127 255"	// slider tick's color
+			"SliderTickLabelColor"	"127 140 127 255"	// color of labels at the ends of the slider tick
 		}
 
 		ScrollBarSlider
@@ -168,6 +176,17 @@ Scheme
 			"SelfTextColor"			"BaseText"
 			"SeperatorTextColor"	"DimBaseText"
 		}
+		
+		InGameDesktop
+		{
+			"MenuColor"			"200 200 200 255"
+			"ArmedMenuColor"	"255 255 255 255"
+			"DepressedMenuColor" "192 186 80 255"
+			"WidescreenBarColor" "0 0 0 0"
+			"MenuItemVisibilityRate" "0.03"  // time it takes for one menu item to appear
+			"MenuItemHeight"	"28"
+			"GameMenuInset"		"32"
+		}
 
 		"SectionTextColor"		"BrightControlText"		// text color for IN-GAME, ONLINE, OFFLINE sections of buddy list
 		"SectionDividerColor"	"BorderDark"		// color of line that runs under section name in buddy list
@@ -186,45 +205,80 @@ Scheme
 		// fonts are used in order that they are listed
 		// fonts listed later in the order will only be used if they fulfill a range not already filled
 		// if a font fails to load then the subsequent fonts will replace
+		// fonts are used in order that they are listed
+		"DebugFixed"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"10"
+				//"weight"	"500"
+				"antialias" "1"
+				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+			}
+		}
+		// fonts are used in order that they are listed
+		"DebugFixedSmall"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"7"
+				//"weight"	"500"
+				"antialias" "1"
+				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+			}
+		}
 		"Default"
 		{
 			"1"
 			{
-				"name"		"Impact"
-				"tall"		"32"
-				//"weight""900"
-				//"range"	"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"name"		"Tahoma"
+				"tall"		"16"
+				//"weight"	"500"
+				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 		"DefaultUnderline"
 		{
 			"1"
 			{
-				"name"		"Impact"
-				"tall"		"32"
-				//"weight""900"
+				"name"		"Tahoma"
+				"tall"		"16"
+				//"weight"	"500"
 				"underline" "1"
-				//"range"	"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 		"DefaultSmall"
 		{
 			"1"
 			{
-				"name"		"Impact"
-				"tall"		"24"
-				//"weight""900"
-				//"range"	"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"name"		"Tahoma"
+				"tall"		"13"
+				//"weight"	"0"
+				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+			}
+		}
+		"DefaultSmallDropShadow"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"		"13"
+				//"weight"	"0"
+				"dropshadow" "1"
+				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 		"DefaultVerySmall"
 		{
 			"1"
 			{
-				"name"		"Impact"
-				"tall"		"18"
-				//"weight""900"
-				//"range"	"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"name"		"Tahoma"
+				"tall"		"12"
+				//"weight"	"0"
+				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 
@@ -232,10 +286,32 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Impact"
-				"tall"		"48"
-				//"weight""0"
-				//"range"	"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"name"		"Tahoma"
+				"tall"		"18"
+				//"weight"	"0"
+				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+			}
+		}
+
+		"MenuLarge"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"20"
+				//"weight"	"1000"
+				"antialias" "1"
+			}
+		}
+
+		"ConsoleText"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"		"13"
+				//"weight"	"500"
+				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 
@@ -246,9 +322,215 @@ Scheme
 			{
 				"name"		"Marlett"
 				"tall"		"14"
-				//"weight""0"
+				//"weight"	"0"
 				"symbol"	"1"
-				//"range"	"0x0000 0x007F"	//	Basic Latin
+				//"range"		"0x0000 0x007F"	//	Basic Latin
+			}
+		}
+
+		"Trebuchet24"
+		{
+			"1"
+			{
+				"name"		"Trebuchet MS"
+				"tall"		"24"
+				//"weight"	"900"
+				//"range"		"0x0000 0x007F"	//	Basic Latin
+			}
+		}
+
+
+		"Trebuchet20"
+		{
+			"1"
+			{
+				"name"		"Trebuchet MS"
+				"tall"		"20"
+				//"weight"	"900"
+				//"range"		"0x0000 0x007F"	//	Basic Latin
+			}
+		}
+
+		"Trebuchet18"
+		{
+			"1"
+			{
+				"name"		"Trebuchet MS"
+				"tall"		"18"
+				//"weight"	"900"
+				//"range"		"0x0000 0x007F"	//	Basic Latin
+			}
+		}
+
+		// HUD numbers
+		// We use multiple fonts to 'pulse' them in the HUD, hence the need for many of near size
+		"HUDNumber"
+		{
+			"1"
+			{
+				"name"		"Trebuchet MS"
+				"tall"		"40"
+				//"weight"	"900"
+				//"range"		"0x0000 0x007F"	//	Basic Latin
+			}
+		}
+		"HUDNumber1"
+		{
+			"1"
+			{
+				"name"		"Trebuchet MS"
+				"tall"		"41"
+				//"weight"	"900"
+				//"range"		"0x0000 0x007F"	//	Basic Latin
+			}
+		}
+		"HUDNumber2"
+		{
+			"1"
+			{
+				"name"		"Trebuchet MS"
+				"tall"		"42"
+				//"weight"	"900"
+				//"range"		"0x0000 0x007F"	//	Basic Latin
+			}
+		}
+		"HUDNumber3"
+		{
+			"1"
+			{
+				"name"		"Trebuchet MS"
+				"tall"		"43"
+				//"weight"	"900"
+				//"range"		"0x0000 0x007F"	//	Basic Latin
+			}
+		}
+		"HUDNumber4"
+		{
+			"1"
+			{
+				"name"		"Trebuchet MS"
+				"tall"		"44"
+				//"weight"	"900"
+				//"range"		"0x0000 0x007F"	//	Basic Latin
+			}
+		}
+		"HUDNumber5"
+		{
+			"1"
+			{
+				"name"		"Trebuchet MS"
+				"tall"		"45"
+				//"weight"	"900"
+				//"range"		"0x0000 0x007F"	//	Basic Latin
+			}
+		}
+		"DefaultFixed"
+		{
+			"1"
+			{
+				"name"		"Lucida Console"
+				"tall"		"10"
+				//"weight"	"0"
+				//"range"		"0x0000 0x007F" //	Basic Latin
+			}
+//			"1"
+//			{
+//				"name"		"FixedSys"
+//				"tall"		"20"
+//				//"weight"	"0"
+//				//"range"		"0x0000 0x007F" //	Basic Latin
+//			}
+		}
+
+		"DefaultFixedDropShadow"
+		{
+			"1"
+			{
+				"name"		"Lucida Console"
+				"tall"		"10"
+				//"weight"	"0"
+				"dropshadow" "1"
+				//"range"		"0x0000 0x007F" //	Basic Latin
+			}
+//			"1"
+//			{
+//				"name"		"FixedSys"
+//				"tall"		"20"
+//				//"weight"	"0"
+//				//"range"		"0x0000 0x007F" //	Basic Latin
+//			}
+		}
+
+		"DefaultFixedOutline"
+		{
+			"1"
+			{
+				"name"		"Lucida Console"
+				"tall"		"10"
+				//"weight"	"0"
+				"outline" "1"
+				//"range"		"0x0000 0x007F" //	Basic Latin
+			}
+//			"1"
+//			{
+//				"name"		"FixedSys"
+//				"tall"		"20"
+//				//"weight"	"0"
+//				//"range"		"0x0000 0x007F" //	Basic Latin
+//			}
+		}
+
+		"CloseCaption_Normal"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"		"16"
+				//"weight"	"500"
+				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+			}
+		}
+		"CloseCaption_Italic"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"		"16"
+				//"weight"	"500"
+				"italic"	"1"
+				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+			}
+		}
+		"CloseCaption_Bold"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"		"16"
+				//"weight"	"900"
+				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+			}
+		}
+		"CloseCaption_BoldItalic"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"		"16"
+				//"weight"	"900"
+				"italic"	"1"
+				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+			}
+		}
+
+		TitleFont
+		{
+			"1"
+			{
+				"name"		"HalfLife2"
+				"tall"		"72"
+				//"weight"	"400"
+				"antialias"	"1"
 			}
 		}
 	}
@@ -457,8 +739,88 @@ Scheme
 				}
 			}
 		}
+		
+		ScrollBarButtonDepressedBorder
+		{
+			"inset" "2 2 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "BorderDark"
+					"offset" "0 1"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "BorderBright"
+					"offset" "1 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "BorderDark"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "BorderBright"
+					"offset" "0 0"
+				}
+			}
+		}
 
 		ButtonBorder
+		{
+			"inset" "0 0 1 1"
+			Left
+			{
+				"1"
+				{
+					"color" "BorderBright"
+					"offset" "0 1"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "BorderDark"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "BorderBright"
+					"offset" "0 1"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "BorderDark"
+					"offset" "0 0"
+				}
+			}
+		}
+	
+		FrameBorder
 		{
 			"inset" "0 0 1 1"
 			Left
@@ -796,5 +1158,53 @@ Scheme
 				}
 			}
 		}
+		
+		BrowserBorder
+		{
+			"inset" "0 0 0 1"
+			Left
+			{
+				"1"
+				{
+					"color" "BorderDark"
+					"offset" "0 1"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "BorderBright"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "BorderDark"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "BorderBright"
+					"offset" "0 0"
+				}
+			}
+		}
+	}
+
+	//////////////////////// CUSTOM FONT FILES /////////////////////////////
+	//
+	// specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
+	CustomFontFiles
+	{
+		"1"		"resource/HALFLIFE2.ttf"
 	}
 }

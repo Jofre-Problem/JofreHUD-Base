@@ -19,7 +19,7 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"		"11"
-				"range" 		"0x0000 0x00FF"
+				//"range" 		"0x0000 0x00FF"
 				"antialias"	"1"
 			}			
 		}
@@ -49,9 +49,9 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"21"
-				"weight"		"0"
-				"range"			"0x0000 0x017F"
-				"yres"			"1024 1199"
+				//"weight"		"0"
+				//"range"			"0x0000 0x017F"
+				//"yres"			"1024 1199"
 				"antialias"		"1"
 			}
 			"5"
@@ -59,9 +59,9 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"23"
-				"weight"		"0"
-				"range"			"0x0000 0x017F"
-				"yres"			"1200 6000"
+				//"weight"		"0"
+				//"range"			"0x0000 0x017F"
+				//"yres"			"1200 6000"
 				"antialias"		"1"
 			}
 			"6"
@@ -69,8 +69,8 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"13"
-				"range" 		"0x0000 0x00FF"
-				"weight"		"0"
+				//"range" 		"0x0000 0x00FF"
+				//"weight"		"0"
 			}
 		}
 		"DefaultVerySmall"
@@ -80,27 +80,27 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"12"
-				"weight"		"0"
-				"range"			"0x0000 0x017F"
-				"yres"			"480 599"
+				//"weight"		"0"
+				//"range"			"0x0000 0x017F"
+				//"yres"			"480 599"
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"12"
-				"weight"		"0"
-				"range"			"0x0000 0x017F"
-				"yres"			"600 767"
+				//"weight"		"0"
+				//"range"			"0x0000 0x017F"
+				//"yres"			"600 767"
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"12"
-				"weight"		"0"
-				"range"			"0x0000 0x017F"
-				"yres"			"768 1023"
+				//"weight"		"0"
+				//"range"			"0x0000 0x017F"
+				//"yres"			"768 1023"
 				"antialias"		"1"
 			}
 			"4"
@@ -108,9 +108,9 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"14"
-				"weight"		"0"
-				"range"			"0x0000 0x017F"
-				"yres"			"1024 1199"
+				//"weight"		"0"
+				//"range"			"0x0000 0x017F"
+				//"yres"			"1024 1199"
 				"antialias"		"1"
 			}
 			"5"
@@ -118,9 +118,9 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"16"
-				"weight"		"0"
-				"range"			"0x0000 0x017F"
-				"yres"			"1200 6000"
+				//"weight"		"0"
+				//"range"			"0x0000 0x017F"
+				//"yres"			"1200 6000"
 				"antialias"		"1"
 			}
 		}
@@ -132,27 +132,27 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"15"
-				"weight"		"900"
-				"range"			"0x0000 0x017F"
-				"yres"			"480 599"
+				//"weight"		"900"
+				//"range"			"0x0000 0x017F"
+				//"yres"			"480 599"
 			}
 			"2"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"18"
-				"weight"		"900"
-				"range"			"0x0000 0x017F"
-				"yres"			"600 767"
+				//"weight"		"900"
+				//"range"			"0x0000 0x017F"
+				//"yres"			"600 767"
 			}
 			"3"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"19"
-				"weight"		"900"
-				"range"			"0x0000 0x017F"
-				"yres"			"768 1023"
+				//"weight"		"900"
+				//"range"			"0x0000 0x017F"
+				//"yres"			"768 1023"
 				"antialias"		"1"
 			}
 			"4"
@@ -160,9 +160,9 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"25"
-				"weight"		"900"
-				"range"			"0x0000 0x017F"
-				"yres"			"1024 1199"
+				//"weight"		"900"
+				//"range"			"0x0000 0x017F"
+				//"yres"			"1024 1199"
 				"antialias"		"1"
 			}
 			"5"
@@ -170,9 +170,9 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"25"
-				"weight"		"900"
-				"range"			"0x0000 0x017F"
-				"yres"			"1200 6000"
+				//"weight"		"900"
+				//"range"			"0x0000 0x017F"
+				//"yres"			"1200 6000"
 				"antialias"		"1"
 			}
 			"6"
@@ -180,16 +180,16 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"17"
-				"range" 		"0x0000 0x00FF"
-				"weight"		"900"
+				//"range" 		"0x0000 0x00FF"
+				//"weight"		"900"
 			}
 			"7"
 			{
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"17"
-				"range" 		"0x0000 0x00FF"
-				"weight"		"800"
+				//"range" 		"0x0000 0x00FF"
+				//"weight"		"800"
 			}
 		}
 	}		

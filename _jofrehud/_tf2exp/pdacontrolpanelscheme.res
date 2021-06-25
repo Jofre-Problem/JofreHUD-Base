@@ -18,9 +18,9 @@ Scheme
 	Colors
 	{
 		// base colors
-		"BaseText"		"48 192 192 255"		// used in text windows, lists
-		"BrightBaseText" "155 255 255 255"	// brightest text
-		"DimBaseText"	"150 159 142 255"		// dim base text
+		"BaseText"		"200 200 200 255"		// used in text windows, lists
+		"BrightBaseText" "255 255 255 255"		// brightest text
+		"DimBaseText"	"150 150 150 255"		// dim base text
 		
 		"LabelDimText"	"160 170 149 255"		// slight modification on above, used for info text
 												// could be just removed and use DimBaseText?
@@ -28,12 +28,13 @@ Scheme
 		"ControlText"	"48 192 192 255"		// used in all text controls
 		"BrightControlText"	"64 224 224 255"	// use for selected controls
 		"DisabledText1"	"32 128 128 255"		// disabled text
-		"DisabledText2"	"30 30 30 255"		// overlay color for disabled text (to give that inset look)
+		"DisabledText2"	"30 30 30 255"			// overlay color for disabled text (to give that inset look)
 
 		// background colors
-		"ControlBG"		"76 88 68 255"		// background color of controls
-		"ControlDarkBG" "90 106 80 255"		// darker background color; used for background of scrollbars
-		"WindowBG"		"62 70 55 255"		// background color of text edit panes (chat, text entries, etc.)
+		//"ControlBG"		"160 160 160 255"				// background color of controls
+		"ControlBG"		"0 0 0 255"				// background color of controls
+		"ControlDarkBG" "90 106 80 255"			// darker background color; used for background of scrollbars
+		"WindowBG"		"62 70 55 255"			// background color of text edit panes (chat, text entries, etc.)
 		"SelectionBG"	"149 136 49 255"		// background color of any selected text or menu item
 
 		// title colors
@@ -46,6 +47,10 @@ Scheme
 		"BorderBright"	"136 145 128 255"		// the lit side of a control
 		"BorderDark"	"45 49 40 255"		// the dark/unlit side of a control
 		"BorderSelection"	"0 0 0 255"		// the additional border color for displaying the default/selected button
+		
+		"Red"	"255 0 0 255"
+		"Green" "0 255 0 255"
+		"Transparent" "0 0 0 0"     //added
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
@@ -55,8 +60,8 @@ Scheme
 	BaseSettings
 	{
 		"FgColor"			"ControlText"
-		"BgColor"			"ControlBG"
-		"LabelBgColor"		"ControlBG"
+		"BgColor"			"Transparent" //was "ControlBG"
+		"LabelBgColor"		"ControlBG"  
 		"SubPanelBgColor"	"ControlBG"
 
 		"DisabledFgColor1"		"DisabledText1" 
@@ -75,7 +80,7 @@ Scheme
 		"TitleButtonFgColor"			"BorderBright"
 		"TitleButtonBgColor"			"ControlBG"
 		"TitleButtonDisabledFgColor"	"TitleDimText"
-		"TitleButtonDisabledBgColor"	"TitleDimBG"
+		"TitleButtonDisabledBgColor"	"TitleDimBG"   
 
 		"TextCursorColor"			"BaseText"		// color of the blinking text cursor in text entries
 		"URLTextColor"				"BrightBaseText"		// color that URL's show up in chat window
@@ -99,6 +104,9 @@ Scheme
 			"ArmedArrowColor"		"BrightBaseText" // color of arrow when mouse is over button
 			"ArmedBgColor"		"DimBaseText"  // bg color of button when mouse is over button
 		}
+				
+		Button.ArmedTextColor			"Red"
+		Button.ArmedBgColor				"Green"
 
 		Slider
 		{
@@ -117,6 +125,9 @@ Scheme
 
 			"ButtonFgColor"		"DimBaseText"	// color of arrows
 		}
+		
+		// for spy invis progressbar
+		ProgressBar.BgColor				"Transparent"
 
 
 		// text edit windows
@@ -192,8 +203,6 @@ Scheme
 			{
 				"name"		"Impact"
 				"tall"		"32"
-				//"weight""900"
-				//"range"	"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 		"DefaultUnderline"
@@ -202,9 +211,7 @@ Scheme
 			{
 				"name"		"Impact"
 				"tall"		"32"
-				//"weight""900"
 				"underline" "1"
-				//"range"	"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 		"DefaultSmall"
@@ -213,8 +220,6 @@ Scheme
 			{
 				"name"		"Impact"
 				"tall"		"24"
-				//"weight""900"
-				//"range"	"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 		"DefaultVerySmall"
@@ -223,8 +228,6 @@ Scheme
 			{
 				"name"		"Impact"
 				"tall"		"18"
-				//"weight""900"
-				//"range"	"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 
@@ -233,10 +236,7 @@ Scheme
 			"1"
 			{
 				"name"		"Impact"
-				"tall"		"48"
-				//"weight""0"
-				//"range"	"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-			}
+				"tall"		"48"		}
 		}
 
 		// this is the symbol font
@@ -246,9 +246,7 @@ Scheme
 			{
 				"name"		"Marlett"
 				"tall"		"14"
-				//"weight""0"
 				"symbol"	"1"
-				//"range"	"0x0000 0x007F"	//	Basic Latin
 			}
 		}
 	}
@@ -465,7 +463,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "BorderBright"
+					"color" "Transparent"   //was "BorderBright"
 					"offset" "0 1"
 				}
 			}
@@ -474,7 +472,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "BorderDark"
+					"color" "Transparent"  //was "BorderDark"
 					"offset" "0 0"
 				}
 			}
@@ -483,7 +481,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "BorderBright"
+					"color" "Transparent"  //was "BorderBright"
 					"offset" "0 1"
 				}
 			}
@@ -492,7 +490,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "BorderDark"
+					"color" "Transparent" //was "BorderDark"
 					"offset" "0 0"
 				}
 			}
@@ -677,6 +675,7 @@ Scheme
 			}
 		}
 
+		// Stolen for Spy Invis watch progress bar - transparent border
 		ButtonDepressedBorder
 		{
 			"inset" "2 1 1 1"
@@ -684,7 +683,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "BorderDark"
+					"color" "Transparent"
 					"offset" "0 1"
 				}
 			}
@@ -693,7 +692,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "BorderBright"
+					"color" "Transparent"
 					"offset" "1 0"
 				}
 			}
@@ -702,7 +701,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "BorderDark"
+					"color" "Transparent"
 					"offset" "0 0"
 				}
 			}
@@ -711,7 +710,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "BorderBright"
+					"color" "Transparent"
 					"offset" "0 0"
 				}
 			}

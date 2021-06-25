@@ -18,11 +18,13 @@ Scheme
 	Colors
 	{
 		// base colors
-		"BaseText"		"48 192 192 255"		// used in text windows, lists
-		"BrightBaseText" "155 255 255 255"	// brightest text
-		"DimBaseText"	"150 159 142 255"		// dim base text
-		
-		"LabelDimText"	"160 170 149 255"		// slight modification on above, used for info text
+		//"BaseText"		"48 192 192 255"		// used in text windows, lists
+		//"BrightBaseText" "155 255 255 255"	// brightest text
+
+		"BaseText"		"220 30 30 255"
+		"BrightBaseText" "255 0 0 255"
+		"DimBaseText"	"220 30 30 255"		// dim base text
+		"LabelDimText"	"220 30 30 255"		// slight modification on above, used for info text
 												// could be just removed and use DimBaseText?
 		
 		"ControlText"	"48 192 192 255"		// used in all text controls
@@ -34,7 +36,8 @@ Scheme
 		"ControlBG"		"76 88 68 255"		// background color of controls
 		"ControlDarkBG" "90 106 80 255"		// darker background color; used for background of scrollbars
 		"WindowBG"		"62 70 55 255"		// background color of text edit panes (chat, text entries, etc.)
-		"SelectionBG"	"149 136 49 255"		// background color of any selected text or menu item
+
+		"SelectionBG"	"76 88 68 255"		// background color of any selected text or menu item
 
 		// title colors
 		"TitleText"		"255 255 255 255"
@@ -46,6 +49,8 @@ Scheme
 		"BorderBright"	"136 145 128 255"		// the lit side of a control
 		"BorderDark"	"45 49 40 255"		// the dark/unlit side of a control
 		"BorderSelection"	"0 0 0 255"		// the additional border color for displaying the default/selected button
+
+		"CSlideshowDisplayScreen_Default"		"0 0 0 255"
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
@@ -54,6 +59,9 @@ Scheme
 	// controls use these to determine their settings
 	BaseSettings
 	{
+		Panel.FgColor		"48 192 192 255"
+		Panel.BgColor		"0 0 0 0"			//Important! - makes the panels transparent
+
 		"FgColor"			"ControlText"
 		"BgColor"			"ControlBG"
 		"LabelBgColor"		"ControlBG"
@@ -171,10 +179,6 @@ Scheme
 
 		"SectionTextColor"		"BrightControlText"		// text color for IN-GAME, ONLINE, OFFLINE sections of buddy list
 		"SectionDividerColor"	"BorderDark"		// color of line that runs under section name in buddy list
-
-		// TF2 HUD
-		"HudStatusBgColor"			"0 0 0 64"
-		"HudStatusSelectedBgColor"	"0 0 0 192"
 	}
 
 	//
@@ -190,41 +194,45 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Impact"
-				"tall"		"32"
-				//"weight""900"
-				//"range"	"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"name"		"Tahoma"
+				"tall"		"128"	//45
+				//"weight"	"600"	//900
+				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"antialias" "1"
 			}
 		}
 		"DefaultUnderline"
 		{
 			"1"
 			{
-				"name"		"Impact"
+				"name"		"Tahoma"
 				"tall"		"32"
-				//"weight""900"
+				//"weight"	"900"
 				"underline" "1"
-				//"range"	"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"antialias" "1"
 			}
 		}
 		"DefaultSmall"
 		{
 			"1"
 			{
-				"name"		"Impact"
+				"name"		"Tahoma"
 				"tall"		"24"
-				//"weight""900"
-				//"range"	"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				//"weight"	"900"
+				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"antialias" "1"
 			}
 		}
 		"DefaultVerySmall"
 		{
 			"1"
 			{
-				"name"		"Impact"
+				"name"		"Tahoma"
 				"tall"		"18"
-				//"weight""900"
-				//"range"	"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				//"weight"	"900"
+				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"antialias" "1"
 			}
 		}
 
@@ -232,10 +240,11 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Impact"
+				"name"		"Tahoma"
 				"tall"		"48"
-				//"weight""0"
-				//"range"	"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				//"weight"	"0"
+				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"antialias" "1"
 			}
 		}
 
@@ -246,9 +255,10 @@ Scheme
 			{
 				"name"		"Marlett"
 				"tall"		"14"
-				//"weight""0"
+				//"weight"	"0"
 				"symbol"	"1"
-				//"range"	"0x0000 0x007F"	//	Basic Latin
+				//"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
 			}
 		}
 	}
