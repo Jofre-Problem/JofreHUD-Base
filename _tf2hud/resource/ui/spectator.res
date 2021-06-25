@@ -76,13 +76,13 @@
 		"ypos"			"50"	[$WIN32]
 		"ypos_minmode"	"3"		[$WIN32]
 		"ypos"			"67"	[$X360]
-		"ypos_hidef"	"79"
-		"ypos_lodef"	"85"
+		//"ypos_hidef"	"79"
+		//"ypos_lodef"	"85"
 		"wide"			"600"	[$WIN32]
 		"wide_minmode"	"300"
 		"wide"			"400"	[$X360]
 		"tall"			"18"
-		"tall_hidef"		"23"
+		//"tall_hidef"		"23"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -118,7 +118,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"MapLabel"
 		"font"			"HudFontSmall"
-		"font_hidef"		"HudFontMedium"
+		//"font_hidef"		"HudFontMedium"
 		"xpos"			"r260"	[$WIN32]
 		"ypos"			"16"	[$WIN32]
 		"xpos"			"r285"	[$X360]
@@ -126,7 +126,7 @@
 		"wide"			"240"	[$WIN32]
 		"wide"			"220"	[$X360]
 		"tall"			"20"
-		"tall_hidef"		"30"
+		//"tall_hidef"		"30"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -140,16 +140,16 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"ClassOrTeamLabel"
 		"xpos"			"c-85"
-		"xpos_hidef"	"c-65"
-		"xpos_lodef"	"40"
+		//"xpos_hidef"	"c-65"
+		//"xpos_lodef"	"40"
 		"ypos"			"68"
-		"ypos_hidef"	"90"
-		"ypos_lodef"	"30"	
+		//"ypos_hidef"	"90"
+		//"ypos_lodef"	"30"	
 		"wide"			"170"
-		"wide_hidef"	"130"
-		"wide_lodef"	"220"
+		//"wide_hidef"	"130"
+		//"wide_lodef"	"220"
 		"tall"			"15"
-		"tall_lodef"	"25"
+		//"tall_lodef"	"25"
 		"zpos"			"2"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -161,8 +161,8 @@
 		"textAlignment"		"center"
 		"textAlignment_lodef"		"north-west"
 		"font"			"SpectatorKeyHints"
-		"font_hidef"	"HudFontSmallest"
-		"font_lodef"	"HudFontSmall"
+		//"font_hidef"	"HudFontSmallest"
+		//"font_lodef"	"HudFontSmall"
 		"wrap_lodef"			"1"
 	}
 	"SwitchCamModeKeyLabel"
@@ -297,17 +297,17 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"TipLabel"
 		"xpos"			"15"
-		"xpos_hidef"	"60"
-		"xpos_lodef"	"45"
+		//"xpos_hidef"	"60"
+		//"xpos_lodef"	"45"
 		"ypos"			"r67"
-		"ypos_lodef"		"28"
-		"ypos_hidef"		"35"
+		//"ypos_lodef"		"28"
+		//"ypos_hidef"		"35"
 		"wide"			"145"
-		"wide_hidef"	"230"
-		"wide_lodef"	"240"
+		//"wide_hidef"	"230"
+		//"wide_lodef"	"240"
 		"tall"			"64"
-		"tall_hidef"	"70"
-		"tall_lodef"	"70"
+		//"tall_hidef"	"70"
+		//"tall_lodef"	"70"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -317,8 +317,8 @@
 		"textAlignment"		"center"	[$WIN32]
 		"textAlignment"		"north-west"	[$X360]
 		"font"			"SpectatorKeyHints"
-		"font_hidef"	"HudFontSmall"
-		"font_lodef"	"DefaultVerySmall"
+		//"font_hidef"	"HudFontSmall"
+		//"font_lodef"	"DefaultVerySmall"
 		"wrap"			"1"
 	}
 	"itempanel"

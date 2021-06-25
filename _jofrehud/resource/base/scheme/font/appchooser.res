@@ -9,7 +9,7 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"16"
-				"tall_hidef"	"24"
+				//"tall_hidef"	"24"
 				"weight"		"900"
 				"antialias"		"1"
 			}
@@ -22,7 +22,7 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"16"
-				"tall_hidef"	"24"
+				//"tall_hidef"	"24"
 				"weight"		"900"
 				"blur"			"3"
 				"blur_hidef"	"5"

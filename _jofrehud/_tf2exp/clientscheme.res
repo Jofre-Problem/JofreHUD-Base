@@ -1129,9 +1129,9 @@ Scheme
 				"bitmap"	"1"
 				"name"		"Buttons"
 				"scalex"	"0.5"
-				"scalex_lodef"		"0.75"
+				//"scalex_lodef"		"0.75"
 				"scaley"	"0.5"
-				"scaley_lodef"		"0.75"
+				//"scaley_lodef"		"0.75"
 			}
 		}
 		GameUIButtonsSmall
@@ -1161,9 +1161,9 @@ Scheme
 				"bitmap"	"1"
 				"name"		"ButtonsSC"
 				"scalex"	"0.5"
-				"scalex_lodef"		"0.75"
+				//"scalex_lodef"		"0.75"
 				"scaley"	"0.5"
-				"scaley_lodef"		"0.75"
+				//"scaley_lodef"		"0.75"
 			}
 		}
 		GameUIButtonsSteamControllerSmall

@@ -3,7 +3,6 @@
 	"CancelHintIcon"
 	{
 		"ControlName"	"CExLabel"
-		"font"			"GameUIButtons"
 		"xpos"			"20"
 		"zpos"			"1"
 		"wide"			"300"

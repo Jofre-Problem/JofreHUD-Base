@@ -9,7 +9,7 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"20"
-				"tall_hidef"	"28"
+				//"tall_hidef"	"28"
 				"weight"		"2000"
 				"outline"		"1"
 			}
@@ -21,7 +21,7 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"20"
-				"tall_hidef"	"28"
+				//"tall_hidef"	"28"
 				"weight"		"2000"
 				"blur"			"3"
 				"blur_hidef"	"5"

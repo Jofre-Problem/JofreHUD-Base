@@ -6,7 +6,7 @@
 		"fieldName"		"classNameLabel"
 		"xpos"			"0"
 		"ypos"			"0"
-		"ypos_lodef"	"170"
+		//"ypos_lodef"	"170"
 		"zpos"			"5"	
 		"wide"			"230"
 		"tall"			"30"

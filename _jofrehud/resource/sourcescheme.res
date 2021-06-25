@@ -14,8 +14,8 @@ Scheme
 			"tall"          "15" [$LINUX]
 			"tall"          "15" [$OSX]
 			"tall"           "15"
-			"tall_lodef" "30"	//probably the smaller ones
-			"tall_hidef" "30"	//probably....
+			//"tall_lodef" "30"	//probably the smaller ones
+			//"tall_hidef" "30"	//probably....
 			"weight"         "600"
 			"outline"        "1"
 			}
@@ -32,7 +32,7 @@ Scheme
 		{
 			"1"	[$X360]
 			{
-				"tall_hidef"		"24"
+				//"tall_hidef"		"24"
 			}
 		}
 

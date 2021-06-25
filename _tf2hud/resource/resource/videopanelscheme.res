@@ -337,7 +337,7 @@ Scheme
 			{
 				"name"			"Tahoma"
 				"tall"			"20"
-				"tall_hidef"	"28"
+				//"tall_hidef"	"28"
 				"weight"		"2000"
 				"outline"		"1"
 			}
@@ -348,7 +348,7 @@ Scheme
 			{
 				"name"			"Tahoma"
 				"tall"			"20"
-				"tall_hidef"	"28"
+				//"tall_hidef"	"28"
 				"weight"		"2000"
 				"blur"			"3"
 				"blur_hidef"	"5"
@@ -600,7 +600,7 @@ Scheme
 			{
 				"name"			"Trebuchet MS"
 				"tall"			"16"
-				"tall_hidef"	"24"
+				//"tall_hidef"	"24"
 				"weight"		"900"
 				"antialias"		"1"
 			}
@@ -612,7 +612,7 @@ Scheme
 			{
 				"name"			"Trebuchet MS"
 				"tall"			"16"
-				"tall_hidef"	"24"
+				//"tall_hidef"	"24"
 				"weight"		"900"
 				"blur"			"3"
 				"blur_hidef"	"5"

@@ -24,7 +24,7 @@ Scheme
 				"name"		"Segoe UI" [$WINDOWS]
 				"name"		"Helvetica" [$POSIX]
 				"tall"			"14"
-				"tall_hidef"	"20"
+				//"tall_hidef"	"20"
 				"weight"	"1200"
 				"antialias" "1"
 				"outline" "1"

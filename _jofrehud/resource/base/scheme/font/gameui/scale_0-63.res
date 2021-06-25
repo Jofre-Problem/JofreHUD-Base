@@ -6,8 +6,8 @@ Scheme
 		{
 			"1"
 			{
-				"bitmap"	"1"
-				"name"		"Buttons"
+				"scalex"	"0.63"
+				"scaley"	"0.63"
 			}
 		}
 	}

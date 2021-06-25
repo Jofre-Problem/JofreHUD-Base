@@ -6,11 +6,11 @@
 		"fieldName"		"TeamMenuAuto"
 		"xpos"			"c-280" [$WIN32] 
 		"xpos"			"c-276" [$X360]
-		"xpos_lodef"			"c-255"
-		"xpos_hidef"			"c-260"
+		//"xpos_lodef"			"c-255"
+		//"xpos_hidef"			"c-260"
 		"ypos"			"55"
-		"ypos_lodef"			"72"
-		"ypos_hidef"			"65"
+		//"ypos_lodef"			"72"
+		//"ypos_hidef"			"65"
 		"zpos"			"1"
 		"wide"			"102" [$WIN32] 
 		"wide"			"94" [$X360]
@@ -32,13 +32,13 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TeamMenuSpectate"
 		"xpos"			"c-112"
-		"xpos_lodef"			"c-125"
-		"xpos_hidef"			"c-109"
+		//"xpos_lodef"			"c-125"
+		//"xpos_hidef"			"c-109"
 		"ypos"			"255"
-		"ypos_lodef"	"292"
+		//"ypos_lodef"	"292"
 		"zpos"			"1"
 		"wide"			"44"
-		"wide_lodef"	"70"
+		//"wide_lodef"	"70"
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -50,7 +50,7 @@
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"MenuSmallestFont"
-		"font_lodef"	"MenuSmallFont"
+		//"font_lodef"	"MenuSmallFont"
 		"fgcolor"		"white"
 	}	
 }
