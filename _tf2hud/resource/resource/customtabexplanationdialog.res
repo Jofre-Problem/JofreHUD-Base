@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#GameUI_CustomTab_Title"
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_bottomGrip"
@@ -41,7 +41,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_leftGrip"
@@ -55,7 +55,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_rightGrip"
@@ -69,7 +69,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_tlGrip"
@@ -83,7 +83,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_trGrip"
@@ -97,7 +97,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_blGrip"
@@ -111,7 +111,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_brGrip"
@@ -125,7 +125,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_caption"
@@ -139,7 +139,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_minimize"
@@ -153,7 +153,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"0"
 		"textAlignment"		"north-west"
@@ -173,7 +173,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"1"
 		"textAlignment"		"north-west"
@@ -193,7 +193,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"o"
 		"textAlignment"		"north-west"
@@ -214,7 +214,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"r"
 		"textAlignment"		"north-west"
@@ -234,7 +234,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -253,7 +253,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_CustomTab_Explanation"
 		"textAlignment"		"north-west"
@@ -272,7 +272,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_CustomTab_Explanation2"
 		"textAlignment"		"north-west"
@@ -291,7 +291,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_CustomTab_Explanation3"
 		"textAlignment"		"west"
@@ -310,7 +310,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_CustomTab_Link"
 		"textAlignment"		"north-west"
@@ -330,7 +330,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#vgui_ok"
 		"textAlignment"		"north-west"
@@ -374,7 +374,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"

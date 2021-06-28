@@ -25,7 +25,7 @@
 		"wide"			"280"
 		"tall"			"80"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/objectives_flagpanel_bg_outline"
 		"scaleImage"	"1"	
 	}
@@ -40,7 +40,7 @@
 		"wide"			"75"
 		"tall"			"35"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
 		"font"			"HudFontBig"
@@ -57,7 +57,7 @@
 		"wide"			"75"
 		"tall"			"35"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
 		"font"			"HudFontBig"
@@ -74,7 +74,7 @@
 		"wide"			"75"
 		"tall"			"35"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
 		"font"			"HudFontBig"
@@ -91,7 +91,7 @@
 		"wide"			"75"
 		"tall"			"35"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
 		"font"			"HudFontBig"
@@ -108,7 +108,7 @@
 		"wide"			"140"
 		"tall"			"30"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_PlayingTo"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -127,7 +127,7 @@
 		"wide"			"150"
 		"tall"			"38"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/objectives_flagpanel_bg_playingto"
 		"scaleImage"	"1"	
 	}
@@ -142,7 +142,7 @@
 		"wide"			"50"
 		"tall"			"50"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			""
 		"scaleImage"	"1"	
 	}

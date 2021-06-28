@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"SysMenu"
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"CloseButton"
@@ -39,7 +39,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#TrackerUI_Close"
 		"textAlignment"		"west"
@@ -59,7 +59,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"maxchars"		"-1"
 	}

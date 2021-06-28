@@ -11,7 +11,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"Edit Bookmark"
@@ -27,7 +27,7 @@
 		"autoResize"		"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -46,7 +46,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -65,7 +65,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -84,7 +84,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Name:"
 		"textAlignment"		"west"
@@ -103,7 +103,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Time:"
 		"textAlignment"		"west"
@@ -122,7 +122,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Note:"
 		"textAlignment"		"west"
@@ -141,7 +141,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"Y"
 		"textAlignment"		"center"
@@ -163,7 +163,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"X"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -184,7 +184,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"6"
 		"labelText"		"Okay"
 		"textAlignment"		"west"
@@ -205,7 +205,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"7"
 		"labelText"		"Cancel"
 		"textAlignment"		"west"

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -45,7 +45,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	
@@ -64,7 +64,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"centerwrap"	"1"
 	}
 
@@ -80,7 +80,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Replay_RenderNow"
 		"font"			"ReplayMediumSmall"
@@ -105,7 +105,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Replay_TakeMeToReplays"
 		"font"			"ReplayMediumSmall"
@@ -130,7 +130,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Replay_YesReallyQuit"
 		"font"			"ReplayMediumSmall"
@@ -159,7 +159,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"

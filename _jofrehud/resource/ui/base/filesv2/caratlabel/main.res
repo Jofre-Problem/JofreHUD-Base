@@ -8,6 +8,6 @@
 		"textAlignment"	"west"
 		"tall"			"15"
 		
-		"enabled"		"1"
+		
 	}
 }	

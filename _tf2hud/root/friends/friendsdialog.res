@@ -11,7 +11,7 @@
 		"AutoResize"		"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"settitlebarvisible"		"1"
@@ -28,7 +28,7 @@
 		"AutoResize"		"3"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 	}
@@ -43,7 +43,7 @@
 		"AutoResize"		"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_NoFriendsInList"
@@ -61,7 +61,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_Options"
@@ -81,7 +81,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_AddFriend"
@@ -101,7 +101,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 	}

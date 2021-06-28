@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	
 		"RenderBounds"
@@ -25,7 +25,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"disabled"		"1"
 			"tabPosition"	"1"
 			"labelText"		"Render Bounding Box"
@@ -46,7 +46,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"disabled"		"1"
 			"tabPosition"	"1"
 			"labelText"		"Render Culling Bounds"
@@ -67,7 +67,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"2"
 			"labelText"		""
 			"textAlignment"		"west"
@@ -86,7 +86,7 @@
 			"tall"			"24"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"Background Color"
 			"textAlignment"	"west"
@@ -105,7 +105,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"selected"		"1"
 			"tabPosition"	"3"
 			"labelText"		"Render Helpers"

@@ -17,7 +17,7 @@
 	//	
 	//	
 	//	"visible"		"1"
-	//	"enabled"		"1"
+	//	
 		"tabPosition"		"2"
 	//	"textAlignment"		"west"
 	88	"Default"		"1"

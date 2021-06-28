@@ -11,7 +11,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"textHidden"		"0"
@@ -30,7 +30,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		"enabled"		"1"	//for some reason is disabled
+			//for some reason is disabled
 		
 		"paintbackground"		"1"
 		"textHidden"		"0"
@@ -49,7 +49,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"paintbackground"		"1"
 		"textHidden"		"0"
@@ -68,7 +68,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"textHidden"		"0"
@@ -87,7 +87,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"textHidden"		"0"
@@ -106,7 +106,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		"enabled"		"1"
+		
 		"tabPosition"		"7"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_HasUsersPlaying"
@@ -124,7 +124,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		"enabled"		"1"
+		
 		"tabPosition"		"6"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerNotFull"

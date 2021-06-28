@@ -10,7 +10,7 @@
 		"wide"			"o1"
 		"tall"			"p0.75"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"item_carousel_bg"
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
@@ -131,7 +131,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		"proportionaltoparent"	"1"
 		
 		"auto_scale"		"1"
@@ -148,7 +148,7 @@
 			
 			"pinCorner"			"2"
 			"visible"			"1"
-			"enabled"			"1"
+			
 			
 			"labelText"			""
 			"textAlignment"		"south-west"
@@ -186,7 +186,7 @@
 				"wide"			"19"
 				"tall"			"19"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 			}				
 		}
@@ -262,7 +262,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -294,7 +294,7 @@
 				"wide"			"8"
 				"tall"			"8"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"glyph_workshop_edit"
 				"scaleImage"	"1"
 			}				
@@ -315,7 +315,7 @@
 			
 			
 			"visible"			"1"
-			"enabled"			"1"
+			
 			"textHidden"		"0"
 			"editable"			"0"
 			"maxchars"			"-1"
@@ -353,7 +353,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"235 227 203 255"
 
 			"fixed_paintkit"
@@ -380,7 +380,7 @@
 			
 			
 			"visible"			"1"
-			"enabled"			"1"
+			
 			"textHidden"		"0"
 			"editable"			"0"
 			"maxchars"			"-1"
@@ -423,7 +423,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"235 227 203 255"
 
 			"fixed_item"
@@ -487,7 +487,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"235 227 203 255"
 
 			"fixed_paintkit"
@@ -520,7 +520,7 @@
 			"tall"			"20"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_ItemPreview_PaintkitSeed"
 			"actionsignallevel" "2"
@@ -560,7 +560,7 @@
 			"tall"			"20"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"actionsignallevel" "2"
 			"default"		"1"

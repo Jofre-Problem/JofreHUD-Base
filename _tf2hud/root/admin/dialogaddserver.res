@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"SysMenu"
 	{
@@ -24,7 +24,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	"ServerNameText"
 	{
@@ -37,7 +37,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -54,7 +54,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Dialog_AddServer_IP"
 		"textAlignment"		"south-west"
 		"dulltext"		"0"
@@ -71,7 +71,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Dialog_AddServer_Example"
 		"textAlignment"		"west"
 		"dulltext"		"1"
@@ -88,7 +88,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"labelText"		"#Okay_Button"
 		"textAlignment"		"center"
@@ -108,7 +108,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"labelText"		"#Cancel_Button"
 		"textAlignment"		"center"

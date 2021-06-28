@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fg_image"		"workshop_partner/hm_watch/hm_watch_FG"
 		"bg_image"		"workshop_partner/hm_watch/hm_watch_BG"
 	}	

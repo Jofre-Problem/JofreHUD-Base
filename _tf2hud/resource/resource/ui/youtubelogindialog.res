@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -33,7 +33,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	
@@ -52,7 +52,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 
 	"UserNameTextEntry"
@@ -72,7 +72,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"1"
 		"fgcolor_override"		"202 190 164 255"
 		"bgcolor_override"		"60 54 46 255"
@@ -94,7 +94,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 
 	"PasswordTextEntry"
@@ -113,7 +113,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"textHidden"	"1"
 		"fgcolor_override"		"202 190 164 255"
@@ -133,7 +133,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#YouTube_LoginDlg_Register"
 		"font"			"EconFontSmall"
@@ -159,7 +159,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#YouTube_LoginDlg_Login"
 		"font"			"EconFontSmall"
@@ -184,7 +184,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Cancel"
 		"font"			"EconFontSmall"

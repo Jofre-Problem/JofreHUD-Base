@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#BxMovieLayoff"
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Export"
 		"textAlignment"		"west"
@@ -49,7 +49,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Cancel"
 		"textAlignment"		"west"
@@ -71,7 +71,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Choose File"
 		"textAlignment"		"center"
@@ -93,7 +93,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Progressive Refinement Settings..."
 		"textAlignment"		"center"
@@ -115,7 +115,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Output .avi file"
 		"textAlignment"		"west"
@@ -136,7 +136,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Output .tga files"
 		"textAlignment"		"west"
@@ -157,7 +157,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Output .wav file"
 		"textAlignment"		"west"
@@ -178,7 +178,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Draw Players"
 		"textAlignment"		"west"
@@ -199,7 +199,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Draw NPCs"
 		"textAlignment"		"west"
@@ -220,7 +220,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Draw Other Entities"
 		"textAlignment"		"west"
@@ -241,7 +241,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Draw Ropes"
 		"textAlignment"		"west"
@@ -262,7 +262,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Draw Beams"
 		"textAlignment"		"west"
@@ -283,7 +283,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Draw Particle Systems"
 		"textAlignment"		"west"
@@ -303,7 +303,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Draw Recorded Elements:"
 		"textAlignment"		"west"
@@ -322,7 +322,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Draw Puppets"
 		"textAlignment"		"west"
@@ -342,7 +342,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Draw Effects"
 		"textAlignment"		"west"
@@ -362,7 +362,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Draw Particle Systems"
 		"textAlignment"		"west"
@@ -382,7 +382,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -401,7 +401,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -420,7 +420,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -439,7 +439,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -458,7 +458,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -477,7 +477,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Start Time"
 		"textAlignment"		"east"
@@ -496,7 +496,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"End Time"
 		"textAlignment"		"east"
@@ -515,7 +515,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"6"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -534,7 +534,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"7"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -553,7 +553,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -572,7 +572,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Override Shutter Speed:"
 		"textAlignment"		"west"
@@ -612,7 +612,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Output File:"
 		"textAlignment"		"west"
@@ -631,7 +631,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Output Framerate"
 		"textAlignment"		"east"
@@ -650,7 +650,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Width"
 		"textAlignment"		"east"
@@ -669,7 +669,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Height"
 		"textAlignment"		"east"
@@ -688,7 +688,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Clear Decals"
 		"textAlignment"		"west"

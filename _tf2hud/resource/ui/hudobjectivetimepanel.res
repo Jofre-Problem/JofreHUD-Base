@@ -17,7 +17,7 @@
 		"tall_minmode"	"23"
 		//"tall_lodef"	"38"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/objectives_timepanel_blue_bg"	
 		"scaleImage"		"1"	
 
@@ -43,7 +43,7 @@
 		//"tall_lodef"		"25"	
 		"visible"			"1"
 		"visible_minmode"	"0"
-		"enabled"			"1"
+		
 		"scaleImage"			"1"
 		"image"				"../hud/objectives_timepanel_progressbar"
 		"color_active"			"TimerProgress.Active"
@@ -75,7 +75,7 @@
 		//"tall_hidef"	"19"
 		//"tall_lodef"	"22"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#game_WaitingForPlayers"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -111,7 +111,7 @@
 		"tall"			"20"
 		"tall_minmode"	"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"	
 
@@ -139,7 +139,7 @@
 		//"tall_hidef"	"19"
 		//"tall_lodef"	"22"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#game_Overtime"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -175,7 +175,7 @@
 		"tall"			"20"
 		"tall_minmode"	"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"	
 
@@ -203,7 +203,7 @@
 		//"tall_hidef"	"19"
 		//"tall_lodef"	"22"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#game_SuddenDeath"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -239,7 +239,7 @@
 		"tall"			"20"
 		"tall_minmode"	"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"	
 
@@ -267,7 +267,7 @@
 		//"tall_hidef"	"19"
 		//"tall_lodef"	"22"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#game_Setup"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -304,7 +304,7 @@
 		"tall"			"20"
 		"tall_minmode"	"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"	
 
@@ -332,7 +332,7 @@
 		//"tall_hidef"	"19"
 		//"tall_lodef"	"22"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"%servertimeleft%"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -369,7 +369,7 @@
 		"tall"			"20"
 		"tall_minmode"	"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"
 		

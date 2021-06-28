@@ -10,7 +10,7 @@
 		"wide"			"20"
 		"tall"			"34"
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	
 	"EnemyCountImage"
@@ -23,7 +23,7 @@
 		"wide"			"14"
 		"tall"			"14"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"
 	}
 	
@@ -37,7 +37,7 @@
 		"wide"			"16"
 		"tall"			"16"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"
 		"PaintBackgroundType" "2"
 		"bgcolor_override"	"TanLight"
@@ -53,7 +53,7 @@
 		"wide"			"18"
 		"tall"			"18"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"
 		"PaintBackgroundType" "2"
 		//"bgcolor" "Yellow"
@@ -75,7 +75,7 @@
 		"wide"			"20"
 		"tall"			"14"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"center"
 		"labelText"		"%enemy_count%"
 	}

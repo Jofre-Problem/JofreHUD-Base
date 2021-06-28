@@ -15,7 +15,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	

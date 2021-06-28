@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"1"
 		"title"		"#Frame_Untitled"
@@ -29,7 +29,7 @@
 			"UnpinnedCornerOffsetX" "-6"
 			"UnpinnedCornerOffsetY" "-34"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"1"
 		}
 		
@@ -46,7 +46,7 @@
 			"PinnedCornerOffsetX" "6"
 			"PinnedCornerOffsetY" "-6"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"Filter"
 			"textAlignment"	"east"
@@ -68,7 +68,7 @@
 			"PinnedCornerOffsetY" "-6"
 			"UnpinnedCornerOffsetX" "-6"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"2"
 			"textHidden"	"0"
 			"editable"		"1"

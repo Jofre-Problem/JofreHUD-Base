@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 			
 		"fillcolor"		"0 0 0 190"
 		"PaintBackgroundType"	"0"

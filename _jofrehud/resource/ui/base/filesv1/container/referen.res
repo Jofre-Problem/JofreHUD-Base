@@ -23,7 +23,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
@@ -41,7 +41,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
@@ -56,7 +56,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportionaltoparent" "1"
 		"skip_autoresize"	"1"
 	"Container"
@@ -69,7 +69,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportionaltoparent" "1"
 
 	"Container"
@@ -82,7 +82,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportionaltoparent" "1"
 	"Container"
 	{
@@ -96,7 +96,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"

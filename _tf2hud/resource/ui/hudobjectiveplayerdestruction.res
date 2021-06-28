@@ -10,7 +10,7 @@
 		"wide"				"f0"
 		"tall"				"480"
 		"visible"			"1"
-		"enabled"			"1"
+		
 
 		"left_steal_edge_offset"	"97"
 		"right_steal_edge_offset"	"97"
@@ -57,7 +57,7 @@
 		"wide"			"120"	[$X360]
 		"tall"			"30"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_PlayingTo"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -95,7 +95,7 @@
 		"tall"			"38"	[$WIN32]
 		"tall"			"35"	[$X360]
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/objectives_flagpanel_bg_playingto"
 		//"image_hidef"	"../hud/objectives_flagpanel_bg_playingto_hidef"
 		"scaleImage"	"1"	
@@ -126,7 +126,7 @@
 		"wide"				"100"
 		"tall"				"100"
 		"visible"			"0"
-		"enabled"			"1"
+		
 		"bgcolor_override"		"0 0 0 0"
 	
 		"CarriedImage"
@@ -139,7 +139,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/hud_obj_status_ammo_64"
 			"scaleImage"	"1"
 			"proportionalToParent"	"1"
@@ -169,7 +169,7 @@
 			"wide"			"25"
 			"tall"			"15"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"textAlignment"	"center"	
 			"labelText"		"%flagvalue%"
 			"font"			"HudFontSmallBold"
@@ -187,7 +187,7 @@
 			"wide"			"25"
 			"tall"			"15"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"textAlignment"	"center"	
 			"labelText"		"%flagvalue%"
 			"font"			"HudFontSmallBold"
@@ -205,7 +205,7 @@
 			"wide"			"40"
 			"tall"			"18"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"PaintBackgroundType"	"0"
 			"bgcolor_override"	"TanLight"
 		}	
@@ -220,7 +220,7 @@
 			"wide"			"38"
 			"tall"			"16"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"PaintBackgroundType"	"0"
 			"bgcolor_override"	"CreditsGreen"
 		}
@@ -235,7 +235,7 @@
 			"wide"			"15"
 			"tall"			"15"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"image"			"importtool_goldstar"
 			"scaleImage"	"1"	
 		}
@@ -252,7 +252,7 @@
 		"tall"					"120"
 		"scaleimage"			"0"
 		"visible"				"1"
-		"enabled"				"1"
+		
 
 		"ProgressBarContainer"
 		{
@@ -264,7 +264,7 @@
 			"wide"					"300"
 			"tall"					"60"
 			"visible"				"1"
-			"enabled"				"1"
+			
 			"proportionalToParent"	"1"
 		
 			"ScoreOutline"
@@ -278,7 +278,7 @@
 				"tall"					"f0"
 				"scaleimage"			"1"
 				"visible"				"1"
-				"enabled"				"1"
+				
 				"Image"					"../hud/objectives_corepanel_bg"
 				"proportionalToParent"	"1"
 			}
@@ -293,7 +293,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"../hud/hud_obj_status_ammo_64"
 				"scaleImage"	"1"
 				"proportionalToParent"	"1"
@@ -309,7 +309,7 @@
 				"wide"			"25"
 				"tall"			"16"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"textAlignment"	"center"	
 				"labelText"		"%blue_escrow%"
 				"font"			"HudFontMediumSmallBold"
@@ -327,7 +327,7 @@
 				"wide"			"25"
 				"tall"			"16"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"textAlignment"	"center"	
 				"labelText"		"%blue_escrow%"
 				"font"			"HudFontMediumSmallBold"
@@ -345,7 +345,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"../hud/hud_obj_status_ammo_64"
 				"scaleImage"	"1"
 				"proportionalToParent"	"1"
@@ -361,7 +361,7 @@
 				"wide"			"25"
 				"tall"			"16"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"textAlignment"	"center"	
 				"labelText"		"%red_escrow%"
 				"font"			"HudFontMediumSmallBold"
@@ -379,7 +379,7 @@
 				"wide"			"25"
 				"tall"			"16"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"textAlignment"	"center"	
 				"labelText"		"%red_escrow%"
 				"font"			"HudFontMediumSmallBold"
@@ -397,7 +397,7 @@
 				"wide"					"f0"
 				"tall"					"f0"
 				"visible"				"0"
-				"enabled"				"1"
+				
 				"proportionalToParent"	"1"
 
 				"VictoryLabel"
@@ -410,7 +410,7 @@
 					"wide"			"95"
 					"tall"			"35"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
 					"font"			"HudFontSmallBold"
@@ -428,7 +428,7 @@
 					"wide"			"95"
 					"tall"			"35"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
 					"font"			"HudFontSmallBold"
@@ -446,7 +446,7 @@
 					"wide"			"55"
 					"tall"			"35"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
 					"font"			"HudFontSmallBold"
@@ -468,7 +468,7 @@
 					"wide"			"55"
 					"tall"			"35"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
 					"font"			"HudFontSmallBold"
@@ -541,7 +541,7 @@
 				"wide"					"f0"
 				"tall"					"f0"
 				"visible"				"0"
-				"enabled"				"1"
+				
 				"proportionalToParent"	"1"
 
 				"VictoryLabel"
@@ -554,7 +554,7 @@
 					"wide"			"90"
 					"tall"			"35"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
 					"font"			"HudFontSmallBold"
@@ -572,7 +572,7 @@
 					"wide"			"90"
 					"tall"			"35"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
 					"font"			"HudFontSmallBold"
@@ -590,7 +590,7 @@
 					"wide"			"55"
 					"tall"			"35"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
 					"font"			"HudFontSmallBold"
@@ -612,7 +612,7 @@
 					"wide"			"55"
 					"tall"			"35"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
 					"font"			"HudFontSmallBold"
@@ -686,7 +686,7 @@
 			"wide"				"60"
 			"tall"				"60"
 			"visible"			"1"
-			"enabled"			"1"
+			
 			"bgcolor_override"		"0 0 0 0"
 			"proportionalToParent"	"1"
 
@@ -700,7 +700,7 @@
 				"wide"			"55"
 				"tall"			"35"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"textAlignment"	"west"	
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
@@ -720,7 +720,7 @@
 				"wide"			"55"
 				"tall"			"35"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"textAlignment"	"west"	
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
@@ -741,7 +741,7 @@
 			"wide"				"60"
 			"tall"				"60"
 			"visible"			"1"
-			"enabled"			"1"
+			
 			"bgcolor_override"		"0 0 0 0"
 			"proportionalToParent"	"1"
 
@@ -755,7 +755,7 @@
 				"wide"			"55"
 				"tall"			"35"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"textAlignment"	"east"	
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
@@ -775,7 +775,7 @@
 				"wide"			"55"
 				"tall"			"35"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"textAlignment"	"east"	
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
@@ -796,7 +796,7 @@
 			"wide"				"30"
 			"tall"				"40"
 			"visible"			"1"
-			"enabled"			"1"
+			
 			"bgcolor_override"		"0 0 0 0"
 			"proportionalToParent"	"1"
 
@@ -810,7 +810,7 @@
 				"wide"			"21"
 				"tall"			"21"
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"image"			"../HUD/obj_thief_red"
 				"scaleImage"	"1"
 				"proportionalToParent"	"1"
@@ -826,7 +826,7 @@
 				"wide"				"f0"
 				"tall"				"f0"
 				"visible"			"1"
-				"enabled"			"1"
+				
 				"bgcolor_override"		"0 0 0 0"
 				
 				"proportionalToParent"	"1"
@@ -841,7 +841,7 @@
 					"wide"			"f0"
 					"tall"			"20"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"../HUD/obj_rd_thief_dropped_blue"
 					"scaleImage"	"1"
 					"proportionalToParent"	"1"
@@ -858,7 +858,7 @@
 				"wide"			"f0"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
 				"font"			"HudFontSmallishBold"
@@ -877,7 +877,7 @@
 				"wide"			"f0"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
 				"font"			"HudFontSmallishBold"	
@@ -896,7 +896,7 @@
 			"wide"				"30"
 			"tall"				"40"
 			"visible"			"1"
-			"enabled"			"1"
+			
 			"bgcolor_override"		"0 0 0 0"
 			"proportionalToParent"	"1"
 
@@ -910,7 +910,7 @@
 				"wide"			"21"
 				"tall"			"21"
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"image"			"../HUD/obj_thief_blue"
 				"scaleImage"	"1"
 				"proportionalToParent"	"1"
@@ -926,7 +926,7 @@
 				"wide"				"f0"
 				"tall"				"f0"
 				"visible"			"1"
-				"enabled"			"1"
+				
 				"bgcolor_override"		"0 0 0 0"
 				
 				"proportionalToParent"	"1"
@@ -941,7 +941,7 @@
 					"wide"			"f0"
 					"tall"			"20"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"../HUD/obj_rd_thief_dropped_red"
 					"scaleImage"	"1"
 					"proportionalToParent"	"1"
@@ -958,7 +958,7 @@
 				"wide"			"f0"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
 				"font"			"HudFontSmallishBold"
@@ -977,7 +977,7 @@
 				"wide"			"f0"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
 				"font"			"HudFontSmallishBold"	
@@ -997,7 +997,7 @@
 		"wide"					"300"
 		"tall"					"110"
 		"visible"				"0"
-		"enabled"				"1"
+		
 
 		"Background"
 		{
@@ -1009,7 +1009,7 @@
 			"wide"			"90"
 			"tall"			"45"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/ammo_blue_bg"
 			"scaleImage"	"1"	
 			"teambg_2"		"../hud/ammo_red_bg"
@@ -1027,7 +1027,7 @@
 			"wide"			"35"
 			"tall"			"35"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"image"			"../hud/arrow_big_down"
 			"scaleImage"		"1"	
 			"proportionalToParent"	"1"
@@ -1043,7 +1043,7 @@
 			"wide"			"35"
 			"tall"			"35"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"textAlignment"	"center"	
 			"labelText"		"%countdowntime%"
 			"font"			"HudFontMediumBold"
@@ -1061,7 +1061,7 @@
 			"wide"			"35"
 			"tall"			"35"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"textAlignment"	"center"	
 			"labelText"		"%countdowntime%"
 			"font"			"HudFontMediumBold"

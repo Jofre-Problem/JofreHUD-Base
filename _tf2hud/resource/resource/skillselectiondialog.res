@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#GameUI_SelectSkill"
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_Easy"
 		"textAlignment"		"west"
@@ -48,7 +48,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_Medium"
 		"textAlignment"		"west"
@@ -69,7 +69,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_Hard"
 		"textAlignment"		"west"
@@ -90,7 +90,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
@@ -111,7 +111,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_Start"
 		"textAlignment"		"west"

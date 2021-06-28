@@ -24,7 +24,7 @@
 	//	
 	//	
 	//	"visible"		"1"
-	//	"enabled"		"1"
+	//	
 		"tabPosition"		"6"
 	//	"labelText"		"#vgui_ok"
 	//	"textAlignment"		"west"
@@ -43,7 +43,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -61,7 +61,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -79,7 +79,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -97,7 +97,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"First:"
 		"textAlignment"		"east"
@@ -115,7 +115,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Increment:"
 		"textAlignment"		"east"
@@ -133,7 +133,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Num Digits:"
 		"textAlignment"		"east"

@@ -11,7 +11,7 @@
 			"zpos"			"1"
 			"tall"			"58"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"paintborder"	"0"
 			"PaintBackgroundType"	"2"
 			"paintbackground"	"1"

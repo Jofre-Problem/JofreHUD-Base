@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	
@@ -27,7 +27,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"paintbackground"	"1"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override" "0 0 0 128"
@@ -44,7 +44,7 @@
 		"wide"			"240"
 		"tall"			"300"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"paintbackground"	"0"
 		"border"		"TFFatLineBorderOpaque"
 		"PaintBorder"	"1"
@@ -60,7 +60,7 @@
 			"wide"			"220"
 			"tall"			"209"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"paintborder"	"1"
 			"border"		"StoreInnerShadowBorder"
 		}
@@ -77,7 +77,7 @@
 			"wide"			"235"
 			"tall"			"10"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"paintborder"	"0"
 			"PaintBackgroundType"	"0"
 			"paintbackground"	"1"
@@ -95,7 +95,7 @@
 			"wide"			"235"
 			"tall"			"58"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"paintborder"	"0"
 			"PaintBackgroundType"	"2"
 			"paintbackground"	"1"
@@ -117,7 +117,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 		}	
 		
@@ -131,7 +131,7 @@
 			"wide"			"150"
 			"tall"			"150"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../backpack/player/items/all_class/world_traveller_large"
 			"scaleImage"	"1"
 		}
@@ -149,7 +149,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
@@ -176,7 +176,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"close_button"
 			"scaleImage"	"1"
 		}				
@@ -193,7 +193,7 @@
 		"tall"			"22"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_BackCarat"
 		"font"			"HudFontSmallBold"

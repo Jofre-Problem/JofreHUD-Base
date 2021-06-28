@@ -5,7 +5,7 @@
 		"ControlName"	"Splitter"
 		"fieldName"		"Splitter"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"AutoResize"	"3"
 		"PinnedCornerOffsetX" "0"
@@ -31,7 +31,7 @@
 				"UnpinnedCornerOffsetX" "0"
 				"UnpinnedCornerOffsetY" "0"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"tabPosition"	"1"
 			}
 		}
@@ -53,7 +53,7 @@
 				"UnpinnedCornerOffsetX" "0"
 				"UnpinnedCornerOffsetY" "0"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"tabPosition"	"1"
 			}
 			
@@ -70,7 +70,7 @@
 				"PinnedCornerOffsetX" "-6"
 				"PinnedCornerOffsetY" "-6"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labelText"		""
 				"textAlignment"	"west"

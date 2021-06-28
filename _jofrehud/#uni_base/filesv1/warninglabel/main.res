@@ -3,6 +3,6 @@
 	"WarningLabel"
 	{
 		"fieldName"		"WarningLabel"
-		"enabled"		"1"
+		
 	}
 }

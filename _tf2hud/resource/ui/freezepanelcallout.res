@@ -10,7 +10,7 @@
 		"wide"			"76"
 		"tall"			"24"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/color_panel_brown"
 		"scaleImage"		"1"	
 		"teambg_2"		"../hud/color_panel_blu"	// Reversed, due to showing killer's name
@@ -32,7 +32,7 @@
 		"wide"			"20"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/freezecam_callout_arrow"
 		"scaleImage"	"1"	
 	}		
@@ -49,7 +49,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#FreezePanel_Callout"
 		"textAlignment"		"center"
 		"dulltext"		"0"

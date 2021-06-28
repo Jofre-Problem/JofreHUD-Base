@@ -63,7 +63,7 @@
 				"zpos"			"100"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
 				"textAlignment"	"center"
@@ -89,7 +89,7 @@
 				"zpos"			"100"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallest"
 				"fgcolor_override"	"Tanlight"
 				"textAlignment"	"center"
@@ -111,7 +111,7 @@
 				"pinCorner"		"3"
 				"visible"		"1"
 
-				"enabled"		"1"
+				
 				
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
@@ -148,7 +148,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
@@ -181,7 +181,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
@@ -211,7 +211,7 @@
 				"zpos"			"100"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallest"
 				"fgcolor_override"	"Tanlight"
 				"textAlignment"	"east"

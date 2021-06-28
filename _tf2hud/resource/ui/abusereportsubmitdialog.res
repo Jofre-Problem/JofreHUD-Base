@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"AbuseReportSubmitDialog"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-280"
 		"ypos"					"c-240"
 		"wide"					"560"
@@ -169,7 +169,7 @@
 		"wide"			"360"
 		"tall"			"200"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 
 	"ScreenShotAttachCheckButton"
@@ -197,7 +197,7 @@
 		"wide"			"200"
 		"tall"			"200"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"
 	}
 
@@ -210,7 +210,7 @@
 		"wide"			"220"
 		"tall"			"220"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#AbuseReport_NoAvatar"
 		"font"			"HudFontSmall"
 		"centerwrap"	"1"
@@ -225,7 +225,7 @@
 		"wide"			"220"
 		"tall"			"220"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 
 	"CustomTexturePrevButton"
@@ -240,7 +240,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_LessThan"
 		"font"			"HudFontSmallBold"
@@ -265,7 +265,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_GreaterThan"
 		"font"			"HudFontSmallBold"
@@ -287,7 +287,7 @@
 		"wide"			"220"
 		"tall"			"220"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#AbuseReport_NoCustomTextures"
 		"font"			"HudFontSmall"
 		"centerwrap"	"1"

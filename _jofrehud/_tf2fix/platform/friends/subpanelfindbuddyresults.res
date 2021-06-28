@@ -56,7 +56,7 @@
 
 		"visible"		"1"
 
-		"enabled"		"1"
+		
 
 		"tabPosition"		"1"
 
@@ -84,7 +84,7 @@
 
 		"visible"		"1"
 
-		"enabled"		"1"
+		
 
 		
 

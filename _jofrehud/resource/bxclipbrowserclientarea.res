@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"BxClipScrollbar"
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 }

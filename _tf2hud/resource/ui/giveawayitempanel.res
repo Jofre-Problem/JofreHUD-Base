@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -43,7 +43,7 @@
 				"autoResize"	"1"
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"fgcolor_override" "200 80 60 255"
 			}
 			"score_label"
@@ -60,7 +60,7 @@
 				"autoResize"	"1"
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 			}
 		}
 	}
@@ -80,7 +80,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	
@@ -99,7 +99,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"TopLine"
@@ -112,7 +112,7 @@
 		"wide"			"610"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
 		"tileVertically" "0"
@@ -154,7 +154,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#CloseItemPanel"
 		"font"			"HudFontSmallBold"

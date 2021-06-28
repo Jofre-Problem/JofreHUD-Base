@@ -10,7 +10,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Save"
 		"textAlignment"		"west"

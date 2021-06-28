@@ -57,7 +57,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fov"			"70"
 			"proportionaltoparent"	"1"
 
@@ -212,7 +212,7 @@
 			"zpos"			"100"
 			"tall"			"20"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"font"			"HudFontSmallishBold"
 			"fgcolor_override"	"TanLight"
 			"textAlignment"	"north-west"
@@ -235,7 +235,7 @@
 			"zpos"			"100"
 			"tall"			"20"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"font"			"HudFontSmallestBold"
 			"fgcolor_override"	"TanLight"
 			"textAlignment"	"north-west"
@@ -266,7 +266,7 @@
 			"zpos"			"100"
 			"tall"			"20"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"font"			"HudFontSmallestBold"
 			"fgcolor_override"	"TanLight"
 			"textAlignment"	"north-west"
@@ -332,7 +332,7 @@
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"font"			"ItemFontAttribSmall"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"south-west"
@@ -350,7 +350,7 @@
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"font"			"ItemFontAttribSmall"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"south-east"
@@ -456,7 +456,7 @@
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north-west"
@@ -474,7 +474,7 @@
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north-west"
@@ -492,7 +492,7 @@
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north-west"
@@ -511,7 +511,7 @@
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north-west"
@@ -529,7 +529,7 @@
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north-west"
@@ -547,7 +547,7 @@
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north-west"
@@ -566,7 +566,7 @@
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north-west"

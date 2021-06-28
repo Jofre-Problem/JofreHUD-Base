@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	
@@ -25,7 +25,7 @@
 		"wide"			"120"
 		"tall"			"31"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_background_disabled"
 		"iconColor"		"255 255 255 255"
@@ -40,7 +40,7 @@
 		"wide"			"28"
 		"tall"			"28"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_tele_entrance"
 		"iconColor"		"255 255 255 255"
@@ -68,7 +68,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#Building_hud_tele_enter_not_built_360"
 			"textAlignment"	"Left"
 			"dulltext"		"0"
@@ -96,7 +96,7 @@
 			"wide"			"8"
 			"tall"			"8"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"	
 			"icon"			"obj_status_upgrade_1"
 			"iconColor"		"255 255 255 255"
@@ -112,7 +112,7 @@
 			"wide"			"8"
 			"tall"			"8"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"	
 			"icon"			"obj_status_upgrade_2"
 			"iconColor"		"255 255 255 255"
@@ -128,7 +128,7 @@
 			"wide"			"8"
 			"tall"			"8"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"	
 			"icon"			"obj_status_upgrade_3"
 			"iconColor"		"255 255 255 255"
@@ -144,7 +144,7 @@
 			"wide"			"34"
 			"tall"			"31"
 			"visible"		"1"
-			"enabled"		"1"	
+				
 			"icon"			"obj_status_alert_background"
 		}
 
@@ -158,7 +158,7 @@
 			"wide"			"19"
 			"tall"			"19"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"	
 			"icon"			"obj_status_icon_wrench"
 			"iconColor"		"255 255 255 255"
@@ -174,7 +174,7 @@
 			"wide"			"25"
 			"tall"			"25"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"	
 			"icon"			"obj_status_icon_sapper"
 			"iconColor"		"255 255 255 255"
@@ -192,7 +192,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"textAlignment"	"Left"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -220,7 +220,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"labelText"		"#Building_hud_building"
 				"textAlignment"	"Left"
 				"dulltext"		"0"
@@ -239,7 +239,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"textAlignment"	"Left"
 				"dulltext"		"0"
 				"brighttext"	"0"
@@ -266,7 +266,7 @@
 				"wide"			"10"
 				"tall"			"10"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"../hud/hud_obj_status_teleport_64"
 				"drawcolor"		"ProgressOffWhite"
 				"scaleImage"	"1"
@@ -294,7 +294,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"textAlignment"	"Left"
 					"dulltext"		"0"
 					"brighttext"	"0"
@@ -323,7 +323,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"labelText"		"%timesused%"
 					"textAlignment"	"north-west"
 					"dulltext"		"0"
@@ -341,7 +341,7 @@
 				"wide"			"10"
 				"tall"			"10"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"	
 				"icon"			"ico_metal"
 				"iconColor"		"ProgressOffWhite"
@@ -359,7 +359,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"textAlignment"	"Left"
 				"dulltext"		"0"
 				"brighttext"	"0"

@@ -11,7 +11,7 @@
 		"tall"					"20"	
 		"pinCorner"				"2"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		
 		"labelText"				"%progresscount%"
 		"textAlignment"			"north"

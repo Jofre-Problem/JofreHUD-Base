@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"			"<"
 		"bgcolor_override"	"0 0 0 220"
@@ -47,7 +47,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"			">"
 		"bgcolor_override"	"0 0 0 220"
@@ -81,7 +81,7 @@
 		"wide"					"f0"
 		"tall"					"f0"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"scaleImage"			"1"
 		"proportionaltoparent"	"1"
 	}
@@ -110,7 +110,7 @@
 		"wide"					"f0"
 		"tall"					"f0"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"scaleImage"			"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"		"0"

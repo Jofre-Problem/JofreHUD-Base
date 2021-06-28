@@ -37,7 +37,7 @@
 		"wide"			"50"
 		"tall"			"50"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../effects/skull001_hud"
 		"scaleImage"	"1"	
 		"proportionaltoparent" "1"
@@ -53,7 +53,7 @@
 		"wide"			"50"
 		"tall"			"50"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../effects/skull001_hud"
 		"scaleImage"	"1"	
 		"proportionaltoparent" "1"

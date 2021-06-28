@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_bottomGrip"
@@ -41,7 +41,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_leftGrip"
@@ -55,7 +55,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_rightGrip"
@@ -69,7 +69,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_tlGrip"
@@ -83,7 +83,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_trGrip"
@@ -97,7 +97,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_blGrip"
@@ -111,7 +111,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_brGrip"
@@ -125,7 +125,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_caption"
@@ -139,7 +139,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_minimize"
@@ -153,7 +153,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"0"
 		"textAlignment"		"north-west"
@@ -173,7 +173,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"1"
 		"textAlignment"		"north-west"
@@ -193,7 +193,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"o"
 		"textAlignment"		"north-west"
@@ -214,7 +214,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"r"
 		"textAlignment"		"north-west"
@@ -234,7 +234,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -253,7 +253,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Record"
 		"textAlignment"		"west"
@@ -274,7 +274,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Cancel"
 		"textAlignment"		"west"
@@ -295,7 +295,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Choose Dem:"
 		"textAlignment"		"west"
@@ -314,7 +314,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -333,7 +333,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Choose Map:"
 		"textAlignment"		"west"
@@ -352,7 +352,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -371,7 +371,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Choose Map"
 		"textAlignment"		"center"
@@ -392,7 +392,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Record Camera Position"
 		"textAlignment"		"west"
@@ -413,7 +413,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Record Camera Angles"
 		"textAlignment"		"west"
@@ -434,7 +434,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Record Camera FOV"
 		"textAlignment"		"west"
@@ -476,7 +476,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Snap Player To Tool Camera"
 		"textAlignment"		"west"
@@ -497,7 +497,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Enable noclip"
 		"textAlignment"		"west"
@@ -518,7 +518,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Record World"
 		"textAlignment"		"west"
@@ -539,7 +539,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Record Stationary Ents"
 		"textAlignment"		"west"
@@ -560,7 +560,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Record Sprites"
 		"textAlignment"		"west"
@@ -581,7 +581,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Record Sounds"
 		"textAlignment"		"west"
@@ -602,7 +602,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Record Narration"
 		"textAlignment"		"west"
@@ -644,7 +644,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Sequence Name"
 		"textAlignment"		"east"
@@ -663,7 +663,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -682,7 +682,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Shot Name"
 		"textAlignment"		"east"
@@ -701,7 +701,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -720,7 +720,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"
@@ -736,7 +736,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"

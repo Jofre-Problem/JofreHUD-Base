@@ -10,7 +10,7 @@
 		"wide"				"f0"
 		"tall"				"480"
 		"visible"			"1"
-		"enabled"			"1"
+		
   
 		"Next" [$WIN32] 
 		{
@@ -28,7 +28,7 @@
 			
 			"pinCorner"		"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#Button_NextTraining"
 			"textAlignment"		"center"
@@ -57,7 +57,7 @@
 			
 			"pinCorner"		"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#Button_QuitTraining"
 			"textAlignment"		"center"
@@ -85,7 +85,7 @@
 			
 			"pinCorner"		"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#Button_ReplayTraining"
 			"textAlignment"	"center"
 			"dulltext"		"0"
@@ -113,7 +113,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"56 51 44 255"
 			"PaintBackgroundType"	"0"
@@ -135,7 +135,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"56 51 44 255"
 			"PaintBackgroundType"	"0"
@@ -152,7 +152,7 @@
 		"wide"			"128"
 		"tall"			"128"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/graduation_bomb"
 		"scaleImage"	"1"
 	}
@@ -167,7 +167,7 @@
 		"wide"		"400"
 		"tall"		"480"
 		"visible"	"1"
-		"enabled"	"1"
+		
 
 		"ResultsLabel"
 		{
@@ -184,7 +184,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"ResultsBG"
 		{
@@ -210,7 +210,7 @@
 			"autoResize"		"3"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"maxchars"		"-1"
 			"text"			""

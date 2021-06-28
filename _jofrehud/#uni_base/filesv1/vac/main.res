@@ -8,7 +8,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		
 		"textAlignment"		"west"
@@ -24,7 +24,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"border"		""
 		"scaleimage"	"1"
 		"image"		"resource/icon_vac"

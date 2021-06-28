@@ -12,7 +12,7 @@
 		"wide"			"148"
 		"tall"			"18"
 		"visible"		"1"
-		"enabled"		"1"	
+			
 		"proportionaltoparent"	"1"
 		"map_view"	"1"
 		

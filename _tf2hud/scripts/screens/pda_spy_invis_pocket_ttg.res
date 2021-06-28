@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fg_image"	"ttg_watch_FG"
 		"bg_image"	"ttg_watch_BG"
 	}	

@@ -13,7 +13,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"%capturetime%"
 		"textAlignment"		"center"

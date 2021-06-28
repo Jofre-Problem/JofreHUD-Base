@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"1"
 		"title"		"Select Dme Element"
@@ -27,7 +27,7 @@
 			
 			"pinCorner"		"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"2"
 			"labelText"		"Open"
 			"textAlignment"		"center"
@@ -47,7 +47,7 @@
 			
 			"pinCorner"		"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"3"
 			"labelText"		"Cancel"
 			"textAlignment"	"center"
@@ -71,7 +71,7 @@
 			"UnpinnedCornerOffsetX" "-6"
 			"UnpinnedCornerOffsetY" "-36"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"1"
 		}
 	}

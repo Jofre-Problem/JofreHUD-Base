@@ -6,7 +6,7 @@
 		"tall"			"25"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"

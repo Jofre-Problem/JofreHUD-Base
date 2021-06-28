@@ -12,7 +12,7 @@
 		
 		"pinCorner"	"0"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		
 		"labelText"	"Round Lives"
 	}
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -46,7 +46,7 @@
 		
 		"pinCorner"	"0"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		
 		"labelText"	"Timelimit"
 	}
@@ -61,7 +61,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -79,7 +79,7 @@
 		
 		"pinCorner"	"0"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		
 		"labelText"	"Fraglimit"
 	}
@@ -94,7 +94,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -113,7 +113,7 @@
 		
 		"pinCorner"	"0"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		
 		"labelText"	"Password"
 	}
@@ -129,7 +129,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -147,7 +147,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"Enable Friendly Fire"
 		"textAlignment"		"west"
@@ -170,7 +170,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"20"
 		"labelText"		"Allow Uploads"
 		"textAlignment"		"west"
@@ -188,7 +188,7 @@
 		
 		"pinCorner"	"0"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		
 		"labelText"	"MinRate"
 	}
@@ -203,7 +203,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -221,7 +221,7 @@
 		
 		"pinCorner"	"0"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		
 		"labelText"	"MaxRate"
 	}
@@ -236,7 +236,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -254,7 +254,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"Allow Voice"
 		"textAlignment"		"west"
@@ -270,7 +270,7 @@
 		
 		"pinCorner"	"0"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		
 		"labelText"	"TK Penalty"
 	}
@@ -285,7 +285,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"

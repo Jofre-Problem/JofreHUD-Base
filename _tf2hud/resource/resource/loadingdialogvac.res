@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"InfoLabel"
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_ParseBaseline"
 		"textAlignment"		"west"
@@ -43,7 +43,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"CancelButton"
@@ -57,7 +57,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
@@ -77,7 +77,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"textAlignment"		"west"
@@ -95,7 +95,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		
 		"labelText"		"#VAC_ConnectingToSecureServer"
@@ -114,7 +114,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"border"		""
 		"scaleimage"	"1"
 		"image"		"resource/icon_vac"

@@ -4,6 +4,6 @@
 	{
 		"fieldName"				"DrawingPanel"
 		"ControlName"			"CDrawingPanel"
-		"enabled"				"1"
+		
 	}
 }	

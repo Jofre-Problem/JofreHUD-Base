@@ -34,7 +34,7 @@
 		"wide"			"150"
 		"tall"			"65"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"mouseinputenabled" "1"
 	}
 
@@ -73,7 +73,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "46 43 42 255"
@@ -93,7 +93,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "46 43 42 255"
@@ -111,7 +111,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -142,7 +142,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -159,7 +159,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -190,7 +190,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -210,7 +210,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 			"proportionaltoparent"	"1"
 		}		
@@ -255,7 +255,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "46 43 42 255"
@@ -275,7 +275,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "46 43 42 255"
@@ -293,7 +293,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -324,7 +324,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -341,7 +341,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -372,7 +372,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -389,7 +389,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -420,7 +420,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -440,7 +440,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 			"proportionaltoparent"	"1"
 		}		
@@ -481,7 +481,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "46 43 42 255"
@@ -501,7 +501,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "46 43 42 255"
@@ -519,7 +519,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -550,7 +550,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -567,7 +567,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -598,7 +598,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -615,7 +615,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -646,7 +646,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -666,7 +666,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 			"proportionaltoparent"	"1"
 		}		
@@ -706,7 +706,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "46 43 42 255"
@@ -726,7 +726,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "46 43 42 255"
@@ -744,7 +744,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -775,7 +775,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -792,7 +792,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -823,7 +823,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -843,7 +843,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 			"proportionaltoparent"	"1"
 		}		
@@ -888,7 +888,7 @@
 			"wide"			"180"
 			"tall"			"90"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"pve/mvm_friends_image"
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
@@ -950,7 +950,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "46 43 42 255"
@@ -970,7 +970,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "46 43 42 255"
@@ -988,7 +988,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -1019,7 +1019,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1054,7 +1054,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"TanLight"
 			"auto_wide_tocontents"	"1"
 		}

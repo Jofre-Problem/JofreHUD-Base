@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"94"
 		"textAlignment"		"west"
@@ -29,7 +29,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"2"
 		"textAlignment"		"west"
@@ -47,7 +47,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"2"
 		"textAlignment"		"west"
@@ -65,7 +65,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"2"
 		"textAlignment"		"west"

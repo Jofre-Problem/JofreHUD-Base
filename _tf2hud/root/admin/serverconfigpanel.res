@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"RulesList"
@@ -25,7 +25,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 	}
 	"EditButton"
@@ -39,7 +39,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"labelText"		"Edit..."
 		"textAlignment"		"west"

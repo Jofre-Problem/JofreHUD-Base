@@ -17,7 +17,7 @@
 			"xpos"			"0"
 			"zpos"			"1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"close_button"
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"

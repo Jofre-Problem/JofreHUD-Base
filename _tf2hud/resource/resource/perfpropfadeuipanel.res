@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Fade Visualization Mode:"
 		"textAlignment"		"center"
@@ -30,7 +30,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"0"
@@ -49,7 +49,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Min Screen Width:"
 		"textAlignment"		"east"
@@ -68,7 +68,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -87,7 +87,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Max Screen Width:"
 		"textAlignment"		"east"
@@ -106,7 +106,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"textHidden"		"0"
 		"editable"		"1"

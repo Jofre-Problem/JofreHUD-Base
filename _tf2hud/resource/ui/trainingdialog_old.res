@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 
@@ -26,7 +26,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		
 		"class_list"
@@ -40,7 +40,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"paintbackground"	"1"
 		}

@@ -106,7 +106,7 @@
 				"tall"			"35"
 				"image"			"../backpack/crafting/mvm_squad_surplus_ripped"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"		"1"
 				"proportionalToParent"	"1"
 			}
@@ -140,7 +140,7 @@
 				"tall"			"35"
 				"image"			"../backpack/crafting/mvm_ticket_ripped"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 				"proportionalToParent"	"1"
 			}
@@ -157,7 +157,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"PaintBackgroundType"	"0"
 			"bgcolor_override"		"0 0 0 0"
@@ -533,7 +533,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 
 			
 		"render_texture"	"0"

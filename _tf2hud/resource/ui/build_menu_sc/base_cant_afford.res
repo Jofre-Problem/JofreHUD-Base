@@ -13,7 +13,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Object_Sentry_360"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -30,7 +30,7 @@
 		"wide"			"98"
 		"tall"			"105"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg_outline"
 		"iconColor"		"ProgressOffWhiteTransparent"
@@ -50,7 +50,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Build_Cant_Afford"
 		"textAlignment"	"Center"
 	}
@@ -65,7 +65,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
 		"iconColor"		"RedSolid"
@@ -85,7 +85,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%metal%"
 		"textAlignment"	"Left"
 	}

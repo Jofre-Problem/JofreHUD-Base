@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Testing 1 2 3"
 		"textAlignment"	"west"
@@ -30,7 +30,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"labelText"		"Change Team"
 		"textAlignment"	"center"
@@ -52,7 +52,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"labelText"		"Change Class"
 		"textAlignment"	"center"

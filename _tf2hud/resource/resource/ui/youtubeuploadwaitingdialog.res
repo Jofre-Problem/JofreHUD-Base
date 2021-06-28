@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"GenericWaitingDialog"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-100"
 		"ypos"					"200"
 		"wide"					"200"
@@ -29,7 +29,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"centerwrap"	"0"
 		"labelText"		""
@@ -50,7 +50,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"centerwrap"	"0"
 		"labelText"		""
@@ -71,7 +71,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"centerwrap"	"0"
 		"labelText"		""
@@ -92,7 +92,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"centerwrap"	"1"
 		"labelText"		"%updatetext%"
@@ -117,7 +117,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"progress"		"0"
 		"bgcolor_override" "117 107 95 255"
 		"fgcolor_override" "255 255 255 255"
@@ -139,7 +139,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%duration%"
 		"textAlignment"		"center"
 		"fgcolor_override" "200 80 60 255"
@@ -161,7 +161,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Cancel"
 		"font"			"EconFontSmall"

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Play"
 		"textAlignment"		"center"
@@ -33,7 +33,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Replay_Watch"
 		"font"			"ReplayMedium"
@@ -60,7 +60,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"Command"		"play"

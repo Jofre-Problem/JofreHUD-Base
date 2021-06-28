@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -30,7 +30,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -48,7 +48,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -66,7 +66,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -84,7 +84,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -110,7 +110,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			"Blend:"
 		"textAlignment"		"west"
@@ -128,7 +128,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"leftText"			"0"
 		"rightText"			"255"
@@ -144,7 +144,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"selected"			"0"
 	}
@@ -159,7 +159,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"selected"			"1"
 	}

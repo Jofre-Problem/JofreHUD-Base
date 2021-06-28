@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Cancel"
 		"textAlignment"	"Left"
 		"dulltext"		"0"

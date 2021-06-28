@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"SysMenu"
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"OK"
@@ -39,7 +39,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"labelText"		"#TrackerUI_RemoveUser"
 		"textAlignment"		"west"
@@ -59,7 +59,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#TrackerUI_Cancel"
 		"textAlignment"		"west"
@@ -79,7 +79,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"You are about to remove johnc from your contact list."
 		"textAlignment"		"west"
@@ -97,7 +97,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TrackerUI_WarningNoLongerSeeYou"
 		"textAlignment"		"west"

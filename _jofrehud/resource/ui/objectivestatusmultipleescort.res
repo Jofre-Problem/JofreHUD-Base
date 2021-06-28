@@ -9,7 +9,7 @@
 		"wide"				"f0"
 		"tall"				"480"
 		"visible"			"1"
-		"enabled"			"1"
+		
 	}
 
 	"BlueEscortPanel"
@@ -22,7 +22,7 @@
 		"wide"				"320"
 		"tall"				"256"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		"progress_xpos"		"32"
 		"progress_wide"		"256"
 	}
@@ -37,7 +37,7 @@
 		"wide"				"400"
 		"tall"				"200"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		"progress_xpos"		"32"
 		"progress_wide"		"256"
 	}

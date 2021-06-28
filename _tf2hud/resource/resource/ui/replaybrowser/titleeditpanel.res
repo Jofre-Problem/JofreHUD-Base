@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	
@@ -30,7 +30,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor"		"ReplayBrowser.Details.TitleEdit.Carat.FgColor"
 	}
 	
@@ -49,7 +49,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"fgcolor_override"		"202 190 164 255"
 		"bgcolor_override"		"0 0 0 0"		// Background is drawn explicitly in CTitleEditPanel::PaintBackground()
@@ -65,7 +65,7 @@
 		"wide"			"586"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"replay/replaybrowser_dottedline"
 		"scaleImage"	"0"
 		"tileHorizontally" "1"

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"medal_width"		"20"
 		"avatar_width"		"65"
@@ -35,7 +35,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/score_panel_blue_bg_solid"
 		"scaleImage"		"1"
 		
@@ -54,7 +54,7 @@
 		"wide"			"60"
 		"tall"			"60"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/team_blue"
 		"scaleImage"		"1"
 
@@ -73,7 +73,7 @@
 		"wide"			"45"
 		"tall"			"45"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""
 		"scaleImage"	"1"	
 		"color_outline"	"52 48 45 255"
@@ -102,7 +102,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/score_panel_red_bg_solid"
 		"scaleImage"		"1"
 
@@ -122,7 +122,7 @@
 		"wide"			"80"
 		"tall"			"80"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/team_red"
 		"scaleImage"		"1"
 
@@ -141,7 +141,7 @@
 		"wide"			"45"
 		"tall"			"45"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""
 		"scaleImage"	"1"	
 		"color_outline"	"52 48 45 255"
@@ -171,7 +171,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"border"		"TFThinLineBorder"
 		
 		if_mvm
@@ -195,7 +195,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		if_mvm
 		{
@@ -217,7 +217,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		if_mvm
 		{
@@ -240,7 +240,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		if_mvm
 		{
@@ -261,7 +261,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		if_mvm
 		{
@@ -283,7 +283,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		if_mvm
 		{
@@ -305,7 +305,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		if_mvm
 		{
@@ -328,7 +328,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		if_mvm
 		{
@@ -349,7 +349,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		if_mvm
 		{
@@ -372,7 +372,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		if_mvm
 		{
@@ -392,7 +392,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"border"		"TFThinLineBorder"
 		
 		if_mvm
@@ -412,7 +412,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"border"		"TFFatLineBorderOpaque"
 
 		if_mvm
@@ -435,7 +435,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		if_mvm
 		{
@@ -457,7 +457,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor"		"BrightYellow"
 		"centerwrap"	"1"
 		
@@ -480,7 +480,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		if_mvm
 		{
@@ -499,7 +499,7 @@
 		"tall"			"280"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"autoresize"	"3"
 		"linespacing"	"18"
@@ -523,7 +523,7 @@
 		"tall"			"280"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"autoresize"	"3"
 		"linespacing"	"18"
@@ -548,7 +548,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 			
 		"fillcolor"		"0 0 0 153"
 		"PaintBackgroundType"	"0"
@@ -573,7 +573,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		if_mvm
 		{
@@ -595,7 +595,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		if_mvm
 		{
@@ -614,7 +614,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 			
 		"fillcolor"		"0 0 0 153"
 		"PaintBackgroundType"	"0"
@@ -635,7 +635,7 @@
 		"wide"			"92"
 		"tall"			"92"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/class_scoutred"
 		"scaleImage"		"1"	
 		
@@ -657,7 +657,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"render_texture"	"0"
 		"fov"			"12"
@@ -797,7 +797,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"border"		"TFThinLineBorder"
 		
 		if_mvm
@@ -820,7 +820,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		if_mvm
 		{
@@ -843,7 +843,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		if_mvm
 		{
@@ -865,7 +865,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor"		"236 227 203 255"
 
 		if_mvm
@@ -885,7 +885,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 			
 		"fillcolor"		"127 127 127 153"
 		"PaintBackgroundType"	"0"
@@ -930,7 +930,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		if_mvm
 		{
@@ -952,7 +952,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 
 		"DuelingIcon"
@@ -965,7 +965,7 @@
 			"wide"			"32"
 			"tall"			"32"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../backpack/player/items/crafting/icon_dueling"
 			"scaleImage"	"1"
 		}
@@ -981,7 +981,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 	
 			"AvatarBGPanel"
 			{
@@ -1006,7 +1006,7 @@
 				"wide"			"32"
 				"tall"			"32"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			""
 				"scaleImage"	"1"	
 				"color_outline"	"52 48 45 255"
@@ -1024,7 +1024,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"wrap"			"0"
 				"labelText"		"%playername%"
 				"textAlignment"	"east"
@@ -1044,7 +1044,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"ScoreboardMedium"
 			}
 		}
@@ -1060,7 +1060,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 	
 			"AvatarBGPanel"
 			{
@@ -1085,7 +1085,7 @@
 				"wide"			"32"
 				"tall"			"32"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			""
 				"scaleImage"	"1"	
 				"color_outline"	"52 48 45 255"
@@ -1103,7 +1103,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"wrap"			"0"
 				"labelText"		"%playername%"
 				"textAlignment"	"west"
@@ -1123,7 +1123,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"ScoreboardMedium"
 			}
 		}
@@ -1141,7 +1141,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		if_mvm
 		{
@@ -1163,7 +1163,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"DeathsLabel"
 		{
@@ -1180,7 +1180,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"AssistsLabel"
 		{
@@ -1197,7 +1197,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"DestructionLabel"
 		{
@@ -1214,7 +1214,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}												
 		"Kills"
 		{
@@ -1231,7 +1231,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"Deaths"
 		{
@@ -1248,7 +1248,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}	
 		"GameType"
 		{
@@ -1283,7 +1283,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"Destruction"
 		{
@@ -1300,7 +1300,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"CapturesLabel"
 		{
@@ -1317,7 +1317,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"DefensesLabel"
 		{
@@ -1334,7 +1334,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"DominationLabel"
 		{
@@ -1351,7 +1351,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"RevengeLabel"
 		{
@@ -1368,7 +1368,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"Captures"
 		{
@@ -1385,7 +1385,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"Defenses"
 		{
@@ -1402,7 +1402,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"Domination"
 		{
@@ -1419,7 +1419,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"Revenge"
 		{
@@ -1436,7 +1436,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"HealingLabel"
 		{
@@ -1453,7 +1453,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"InvulnLabel"
 		{
@@ -1470,7 +1470,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"TeleportsLabel"
 		{
@@ -1487,7 +1487,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"HeadshotsLabel"
 		{
@@ -1504,7 +1504,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"Healing"
 		{
@@ -1521,7 +1521,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"Invuln"
 		{
@@ -1538,7 +1538,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"Teleports"
 		{
@@ -1555,7 +1555,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"Headshots"
 		{
@@ -1572,7 +1572,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}						
 		"BackstabsLabel"
 		{
@@ -1589,7 +1589,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"Backstabs"
 		{
@@ -1606,7 +1606,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}		
 		"BonusLabel"
 		{
@@ -1624,7 +1624,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"Bonus"
 		{
@@ -1641,7 +1641,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"SupportLabel"
 		{
@@ -1658,7 +1658,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"Support"
 		{
@@ -1675,7 +1675,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"DamageLabel"
 		{
@@ -1692,7 +1692,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"Damage"
 		{
@@ -1709,7 +1709,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 	}
 
@@ -1725,7 +1725,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 			
 		"fillcolor"		"0 0 0 153"
 		"PaintBackgroundType"	"0"
@@ -1755,7 +1755,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"C"
 			"textAlignment"	"Left"
 			"dulltext"		"0"
@@ -1775,7 +1775,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#GameUI_Select"
 			"textAlignment"	"Left"
 			"dulltext"		"0"
@@ -1795,7 +1795,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"A"
 			"textAlignment"	"Left"
 			"dulltext"		"0"
@@ -1815,7 +1815,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#TF_ViewGamercard"
 			"textAlignment"	"Left"
 			"dulltext"		"0"
@@ -1835,7 +1835,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"X"
 			"textAlignment"	"Left"
 			"dulltext"		"0"
@@ -1855,7 +1855,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#GameUI_PlayerReview"
 			"textAlignment"	"Left"
 			"dulltext"		"0"
@@ -1873,7 +1873,7 @@
 		"wide"				"f0"
 		"tall"				"480"
 		"visible"			"0"
-		"enabled"			"1"
+		
 		
 		"verbose"			"1"
 		

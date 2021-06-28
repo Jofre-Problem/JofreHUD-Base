@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"ErrorInfoLabel"
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"textAlignment"		"west"
@@ -62,7 +62,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"1"
 		"editable"		"1"
@@ -80,7 +80,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"labelText"		"#Friends_Login_Btn"
 		"textAlignment"		"west"
@@ -100,7 +100,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Friends_AccountName"
 		"textAlignment"		"east"
@@ -119,7 +119,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Friends_Login_Password"
 		"textAlignment"		"east"
@@ -138,7 +138,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"labelText"		"#vgui_cancel"
 		"textAlignment"		"west"

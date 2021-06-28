@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"bgcolor_override"	"46 43 42 255"
@@ -83,7 +83,7 @@
 			"zpos"			"1"
 			
 			
-			"enabled"		"1"
+			
 			"fgcolor"		"153 204 255 255"
 		}
 	}
@@ -103,7 +103,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	"ClassLabel"
@@ -121,7 +121,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 
 	"NameFilterLabel"
@@ -139,7 +139,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor"		"StoreDarkTan"
 	}
 
@@ -155,7 +155,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -176,7 +176,7 @@
 		"wide"			"610"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
 		"tileVertically" "0"
@@ -191,7 +191,7 @@
 		"wide"			"610"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
 		"tileVertically" "0"
@@ -212,7 +212,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 
 	"NoItemsLabel"
@@ -230,7 +230,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	
@@ -246,7 +246,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
@@ -273,7 +273,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}	
@@ -290,7 +290,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Selection_ShowBackpack"
 		"font"			"HudFontSmallBold"
@@ -314,7 +314,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Selection_ShowSelection"
 		"font"			"HudFontSmallBold"
@@ -339,7 +339,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"<"
 		"font"			"HudFontSmallBold"
@@ -366,7 +366,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	
@@ -382,7 +382,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		">"
 		"font"			"HudFontSmallBold"
@@ -426,7 +426,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
 			"fgcolor"		"117 107 94 255"

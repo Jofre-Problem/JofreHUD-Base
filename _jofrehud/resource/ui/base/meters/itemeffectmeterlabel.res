@@ -12,7 +12,7 @@
 		"autoResize"			"1"
 		"pinCorner"				"2"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		
 		"textAlignment"			"center"
 		"dulltext"				"0"

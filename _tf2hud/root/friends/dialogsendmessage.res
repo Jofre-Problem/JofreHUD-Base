@@ -6,7 +6,7 @@
 		"textAlignment"		"center"
 		"labelText"		"#TrackerUI_Close"
 		"tabPosition"		"3"
-		"enabled"		"1"
+		
 		"visible"		"1"
 		"BgColor"		"70 70 70 255"
 		"FgColor"		"255 170 0 255"
@@ -23,7 +23,7 @@
 		"textAlignment"		"center"
 		"labelText"		"#TrackerUI_Reply"
 		"tabPosition"		"2"
-		"enabled"		"1"
+		
 		"visible"		"1"
 		"BgColor"		"70 70 70 255"
 		"FgColor"		"255 170 0 255"
@@ -39,7 +39,7 @@
 		"textAlignment"		"west"
 		"labelText"		"test2"
 		
-		"enabled"		"1"
+		
 		"visible"		"1"
 		"BgColor"		"70 70 70 255"
 		"FgColor"		"255 255 255 255"
@@ -55,7 +55,7 @@
 		"textAlignment"		"west"
 		"labelText"		"#TrackerUI_MessageFrom"
 		
-		"enabled"		"1"
+		
 		"visible"		"1"
 		"BgColor"		"70 70 70 255"
 		"FgColor"		"255 170 0 255"
@@ -83,7 +83,7 @@
 	"Frame"
 	{
 		
-		"enabled"		"1"
+		
 		"visible"		"1"
 		"BgColor"		"70 70 70 255"
 		"FgColor"		"255 170 0 255"

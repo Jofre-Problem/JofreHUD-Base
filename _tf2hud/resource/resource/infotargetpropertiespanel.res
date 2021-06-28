@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"InfoTargetScroll"
@@ -27,7 +27,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 }

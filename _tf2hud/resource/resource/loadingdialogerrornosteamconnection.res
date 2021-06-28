@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#VAC_ConnectionIssuesSupport_Title"
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"progress"		"0.000000"
 	}
@@ -42,7 +42,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"progress"		"0.000000"
 	}
@@ -57,7 +57,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Steam_ValidLoginRequired"
 		"textAlignment"		"west"
@@ -76,7 +76,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Close"
 		"textAlignment"		"west"
@@ -97,7 +97,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -115,7 +115,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#VAC_ConnectionIssuesSupportSite"
 		"textAlignment"		"west"

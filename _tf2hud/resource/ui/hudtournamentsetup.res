@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../HUD/tournament_panel_brown"
 
 
@@ -36,7 +36,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"west"
@@ -55,7 +55,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"#Tournament_TeamNamePanel"
 		"textAlignment"		"west"
@@ -72,7 +72,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -98,7 +98,7 @@
 		
 		"pinCorner"	"0"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"fillcolor"	"0 0 0 255"
 		"scaleImage"	"1"
 	}
@@ -115,7 +115,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"Not Ready"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -138,7 +138,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"Ready"
 		"textAlignment"	"center"
 		"dulltext"		"0"

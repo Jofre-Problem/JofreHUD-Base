@@ -75,7 +75,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"image"			"competitive/competitive_logo_laurel"
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
@@ -171,7 +171,7 @@
 				"wide"			"22"
 				"tall"			"22"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"../hud/class_scoutred"
 				"scaleImage"	"1"	
 				
@@ -214,7 +214,7 @@
 				"wide"			"20"
 				"tall"			"20"
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"bgcolor_override"		"Black"
 				"PaintBackgroundType"	"0"
 				
@@ -249,7 +249,7 @@
 				"wide"				"32"
 				"tall"				"32"
 				"visible"			"1"
-				"enabled"			"1"	
+					
 				"HealthBonusPosAdj"	"10"
 				"HealthDeathWarning"		"0.49"
 				"TFFont"					"HudFontSmallest"
@@ -277,7 +277,7 @@
 				
 				
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"image"			"../HUD/tournament_panel_brown"
 
 				"src_corner_height"	"22"				// pixels inside the image
@@ -319,7 +319,7 @@
 				
 				
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"image"			"hud/checkmark"
 				"scaleImage"	"1"
 
@@ -443,7 +443,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../HUD/tournament_panel_brown"
 		"proportionaltoparent"	"1"
 
@@ -485,7 +485,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"center"
@@ -521,7 +521,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../HUD/tournament_panel_blu"
 		"proportionaltoparent"	"1"
 
@@ -561,7 +561,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"%bluenamelabel%"
 		"textAlignment"		"west"
@@ -597,7 +597,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"%bluestate%"
 		"textAlignment"		"east"
@@ -633,7 +633,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../HUD/tournament_panel_red"
 
 		"src_corner_height"	"15"				// pixels inside the image
@@ -673,7 +673,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"%rednamelabel%"
 		"textAlignment"		"east"
@@ -708,7 +708,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"%redstate%"
 		"textAlignment"		"west"
@@ -744,7 +744,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"%winconditions%"
 		"textAlignment"		"north-west"
@@ -784,7 +784,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../HUD/tournament_panel_brown"
 
 
@@ -822,7 +822,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"%readylabel%"
 		"textAlignment"		"center"
@@ -872,7 +872,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"%readylabel%"
 		"textAlignment"		"center"
@@ -966,7 +966,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../HUD/color_panel_red"
 
 		"src_corner_height"	"23"				// pixels inside the image
@@ -1002,7 +1002,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"center"
@@ -1036,7 +1036,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"center"

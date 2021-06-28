@@ -23,7 +23,7 @@
 		"wide"			"p0.75"
 		"tall"			"w1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"animated/tf2_logo_hourglass"
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"

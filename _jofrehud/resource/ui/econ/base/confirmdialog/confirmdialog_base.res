@@ -70,7 +70,7 @@
 	//	
 	//	
 	//	"visible"		"1"
-	//	"enabled"		"1"
+	//	
 	//	
 	//	"labelText"		"#GameUI_CancelBold"
 	//	"font"			"EconFontSmall"

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"BxClipBrowserClientArea"
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"AddClip"
@@ -39,7 +39,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Add..."
 		"textAlignment"		"west"
@@ -60,7 +60,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Edit..."
 		"textAlignment"		"west"
@@ -81,7 +81,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Delete"
 		"textAlignment"		"west"
@@ -102,7 +102,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"bm"
 		"textAlignment"		"west"

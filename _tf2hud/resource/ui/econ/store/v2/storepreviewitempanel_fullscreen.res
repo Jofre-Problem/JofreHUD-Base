@@ -10,7 +10,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"paintbackground"	"1"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override" "0 0 0 255"
@@ -34,7 +34,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"paintbackground"	"1"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override" "0 0 0 255"
@@ -52,7 +52,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"<"
 		"font"			"HudFontBiggerBold"
@@ -79,7 +79,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		">"
 		"font"			"HudFontBiggerBold"
@@ -102,7 +102,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Store_NextWeapon"
 		"font"			"HudFontSmallest"
@@ -127,7 +127,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
@@ -154,7 +154,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"store/store_zoom"
 			"scaleImage"	"1"
 		}				
@@ -172,7 +172,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"auto_scale"		"1"
 		"auto_layout"		"1"
@@ -188,7 +188,7 @@
 			
 			"pinCorner"			"2"
 			"visible"			"1"
-			"enabled"			"1"
+			
 			
 			"labelText"			""
 			"textAlignment"		"south-west"
@@ -226,7 +226,7 @@
 				"wide"			"38"
 				"tall"			"38"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 			}				
 		}
@@ -272,7 +272,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
@@ -299,7 +299,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"store/store_fullscreen_exit"
 			"scaleImage"	"1"
 		}				
@@ -316,7 +316,7 @@
 		"tall"			"22"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Store_TryItOut"
 		"font"			"HudFontSmallBold"
@@ -341,7 +341,7 @@
 		"tall"			"27"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Store_AddToCart"
 		"font"			"HudFontSmallishBold"

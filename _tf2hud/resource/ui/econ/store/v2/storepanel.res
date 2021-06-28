@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"1"
 		"PaintBackgroundType"	"0"
@@ -41,7 +41,7 @@
 		"wide"			"f0"
 		"tall"			"120"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_header"
 		"tileImage"		"1"
 	}				
@@ -55,7 +55,7 @@
 		"wide"			"f0"
 		"tall"			"60"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
 	}				
@@ -69,7 +69,7 @@
 		"wide"			"f0"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
 	}				
@@ -95,7 +95,7 @@
 			"wide"			"f0"
 			"tall"			"10"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"loadout_solid_line"
 			"scaleImage"	"1"
 		}				
@@ -126,7 +126,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_BackCarat"
 		"font"			"HudFontSmallBold"
@@ -161,7 +161,7 @@
 		"wide"			"190"
 		"tall"			"50"
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 
 	"SupportCommunityMapMakersCheckButton"
@@ -206,7 +206,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Store_Checkout"
 		"font"			"HudFontSmallBold"

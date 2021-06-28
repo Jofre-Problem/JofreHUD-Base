@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"1"
 		"title"		"Select Color"
@@ -27,7 +27,7 @@
 			
 			"pinCorner"		"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"2"
 			"labelText"		"Ok"
 			"textAlignment"		"center"
@@ -47,7 +47,7 @@
 			
 			"pinCorner"		"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"3"
 			"labelText"		"Cancel"
 			"textAlignment"	"center"
@@ -67,7 +67,7 @@
 			"AutoResize"	"3"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"1"
 			"settitlebarvisible"	"1"
 			"title"		"#Frame_Untitled"

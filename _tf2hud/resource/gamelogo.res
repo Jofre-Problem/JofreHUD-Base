@@ -12,7 +12,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"offsetX"		"-20"
 		"offsetY"		"-15"
 	}
@@ -27,7 +27,7 @@
 		"wide"			"400"
 		"tall"			"100"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../logo/TF2_Logo"
 		"scaleImage"	"1"		
 	}

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Miles_Audio"
 		"textAlignment"		"north-west"
@@ -31,7 +31,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Miles_Voice"
 		"textAlignment"		"north-west"
@@ -51,7 +51,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Bink"
 		"textAlignment"		"north-west"
@@ -71,7 +71,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_Close"
 		"textAlignment"		"west"
@@ -92,7 +92,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"		"west"
 		"image"			"techcredits/bink"
 		"scaleImage"	"1"

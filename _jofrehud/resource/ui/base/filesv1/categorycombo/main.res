@@ -7,7 +7,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"editable"		"0"
 	}
 }	

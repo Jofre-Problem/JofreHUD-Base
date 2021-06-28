@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#VAC_LoggedInElsewhere_Title"
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"progress"		"0.000000"
 	}
@@ -42,7 +42,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"progress"		"0.000000"
 	}
@@ -57,7 +57,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_RefreshLogin_Login"
 		"textAlignment"		"west"
@@ -78,7 +78,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -96,7 +96,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#VAC_LoggedInElsewhereReason"
 		"textAlignment"		"west"
@@ -115,7 +115,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 }

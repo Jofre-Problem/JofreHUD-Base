@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		//"fg_image"		"flagtime_full"
 		//"bg_image"		"flagtime_empty"
 	}	

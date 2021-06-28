@@ -24,7 +24,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"PaintBackgroundType" "2"
 			"fgcolor_override"	"235 226 202 255"
 			"bgcolor_override"	"184 108 55 255"
@@ -43,7 +43,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
@@ -79,7 +79,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"close_button"
 			"scaleImage"	"1"
 		}				
@@ -99,7 +99,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor"		"56 53 49 255"
 	}
 
@@ -114,7 +114,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportionaltoparent"	"1"
 	}
 
@@ -129,7 +129,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportionaltoparent"	"1"
 	}
 
@@ -144,7 +144,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportionaltoparent"	"1"
 	}
 
@@ -159,7 +159,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportionaltoparent"	"1"
 	}
 
@@ -174,7 +174,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportionaltoparent"	"1"
 	}
 
@@ -189,7 +189,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#MMenu_Stream_ViewMore"
 		"textinsetx"	"20"

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"TextLabel"
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Chess_PawnPromotion_Text"
 		"textAlignment"		"west"
@@ -43,7 +43,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Chess_PromoteQueen"
 		"textAlignment"		"west"
@@ -62,7 +62,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Chess_PromoteRook"
 		"textAlignment"		"west"
@@ -81,7 +81,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Chess_PromoteBishop"
 		"textAlignment"		"west"
@@ -100,7 +100,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Chess_PromoteKnight"
 		"textAlignment"		"west"

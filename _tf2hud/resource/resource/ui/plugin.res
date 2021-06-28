@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"
@@ -27,7 +27,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"Rich"
@@ -41,7 +41,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"maxchars"		"-1"
 	}
@@ -56,7 +56,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"textAlignment"		"center"
@@ -75,7 +75,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -94,7 +94,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Enter something"
 		"textAlignment"		"west"
@@ -113,7 +113,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Close"
 		"textAlignment"		"west"

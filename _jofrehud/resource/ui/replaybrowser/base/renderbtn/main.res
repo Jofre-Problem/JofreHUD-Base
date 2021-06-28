@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Replay_RenderNow"
 		"font"			"ReplayMediumSmall"

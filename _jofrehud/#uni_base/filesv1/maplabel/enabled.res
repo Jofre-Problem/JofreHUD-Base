@@ -2,6 +2,6 @@
 {
 	"MapLabel"
 	{
-		"enabled"		"1"
+		
 	}	
 }	

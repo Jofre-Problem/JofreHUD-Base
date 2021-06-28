@@ -13,7 +13,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Build_Unavailable"
 		"textAlignment"	"Center"
 		"dulltext"		"0"

@@ -5,6 +5,6 @@
 		"fieldName"		"ClassLabel"
 		
 		
-		"enabled"		"1"
+		
 	}	
 }	

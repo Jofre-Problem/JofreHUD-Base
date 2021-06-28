@@ -10,7 +10,7 @@
 		"wide"				"600"
 		"tall"				"67"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"verbose"			"1"
 	}
@@ -78,7 +78,7 @@
 		"wide"			"550"
 		"tall"			"150"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/tournament_panel_brown"
 		
 		"scaleImage"		"1"
@@ -100,7 +100,7 @@
 		"tall"			"150"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"autoresize"	"3"
 		"linespacing"	"22"
@@ -129,7 +129,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../HUD/tournament_panel_brown"
 
 			"src_corner_height"	"22"				// pixels inside the image

@@ -10,7 +10,7 @@
 		"wide"			"190"
 		"tall"			"30"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"border"		"NotificationDefault"
 		"if_high_priority"
 		{
@@ -34,7 +34,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
@@ -67,7 +67,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"glyph_close_X"
 			"scaleImage"	"1"
 		}
@@ -89,7 +89,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallestBold"
@@ -122,7 +122,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"glyph_view"
 			"scaleImage"	"1"
 		}
@@ -144,7 +144,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallestBold"
@@ -177,7 +177,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"glyph_view"
 			"scaleImage"	"1"
 		}
@@ -195,7 +195,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallestBold"
@@ -228,7 +228,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"glyph_close_X"
 			"scaleImage"	"1"
 		}

@@ -8,7 +8,7 @@
 		"ypos"			"0"
 		"zpos"			"15"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 
 	"Price"
@@ -24,7 +24,7 @@
 		"autoResize"	"1"
 			
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%price%"
 	}
 
@@ -40,7 +40,7 @@
 		"autoResize"	"1"
 			
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%og_price%"
 		"fgcolor"		"117 107 94 255"
 	}
@@ -53,7 +53,7 @@
 		"wide"			"87"
 		"tall"			"5"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
 	}
@@ -71,7 +71,7 @@
 		"autoResize"	"1"
 			
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"%discount%"
 		"paintbackground"	"0"
 		"border"		"StoreDiscountBorder"
@@ -90,7 +90,7 @@
 		"autoResize"	"1"
 			
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#Store_Price_New"
 		"paintbackground"	"0"
 		"border"		"StoreNewBorder"
@@ -112,7 +112,7 @@
 		"autoResize"	"1"
 			
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#Store_Price_Highlighted"
 		"paintbackground"	"0"
 		"border"		"StoreHighlightedBorder"
@@ -132,7 +132,7 @@
 		"autoResize"	"1"
 			
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#Store_Price_Sale"
 		"paintbackground"	"0"
 		"border"		"StoreDiscountBorder"
@@ -148,7 +148,7 @@
 		"wide"			"87"
 		"tall"			"49"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"paintbackground"	"0"
 		"border"		"SalePriceBorder"
 	}
@@ -162,7 +162,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../backpack/crafting/limited_time_sticker"
 		"scaleImage"	"1"
 	}

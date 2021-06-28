@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"TradingStartDialog"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-200"
 		"ypos"					"80"
 		"wide"					"400"
@@ -30,7 +30,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labelText"		""
 				"font"			"HudFontSmallBold"
@@ -55,7 +55,7 @@
 				"tall"			"20"
 				"image"			""
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"	
 				"color_outline"	"52 48 45 255"
 			}
@@ -77,7 +77,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	
@@ -110,7 +110,7 @@
 		"ControlName"			"EditablePanel"
 		"fieldName" 			"StatePanel0"
 		"visible" 				"1"
-		"enabled" 				"1"
+		
 		"xpos"					"0"
 		"ypos"					"50"
 		"wide"	 				"400"
@@ -132,7 +132,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 187 161 255"
 		}	
 
@@ -148,7 +148,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_TradeStartDialog_SelectFriends"
 			"font"			"HudFontSmallBold"
@@ -172,7 +172,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_TradeStartDialog_SelectServer"
 			"font"			"HudFontSmallBold"
@@ -196,7 +196,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_TradeStartDialog_SelectProfile"
 			"font"			"HudFontSmallBold"
@@ -214,7 +214,7 @@
 		"ControlName"			"EditablePanel"
 		"fieldName" 			"StatePanel1"
 		"visible" 				"1"
-		"enabled" 				"1"
+		
 		"xpos"					"0"
 		"ypos"					"50"
 		"wide"	 				"400"
@@ -235,7 +235,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 187 161 255"
 		}	
 		
@@ -254,7 +254,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"centerwrap"	"1"
 			"fgcolor_override" "200 187 161 255"
@@ -265,7 +265,7 @@
 		"ControlName"			"EditablePanel"
 		"fieldName" 			"StatePanel2"
 		"visible" 				"1"
-		"enabled" 				"1"
+		
 		"xpos"					"0"
 		"ypos"					"50"
 		"wide"	 				"400"
@@ -287,7 +287,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 187 161 255"
 		}	
 		
@@ -306,7 +306,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"centerwrap"	"1"
 			"fgcolor_override" "200 187 161 255"
@@ -317,7 +317,7 @@
 		"ControlName"			"EditablePanel"
 		"fieldName" 			"StatePanel3"
 		"visible" 				"1"
-		"enabled" 				"1"
+		
 		"xpos"					"0"
 		"ypos"					"50"
 		"wide"	 				"400"
@@ -339,7 +339,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 187 161 255"
 		}	
 		
@@ -358,7 +358,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"centerwrap"	"1"
 			"fgcolor_override" "117 107 94 255"
@@ -379,7 +379,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"centerwrap"	"1"
 			"fgcolor_override" "200 80 60 255"
@@ -399,7 +399,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"centerwrap"	"1"
 			"fgcolor_override" "200 80 60 255"
@@ -416,7 +416,7 @@
 			"autoResize"		"1"
 			
 			"visible"			"1"
-			"enabled"			"1"
+			
 			
 			"textHidden"		"0"
 			"editable"			"1"
@@ -444,7 +444,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_TradeStartDialog_ProfileGo"
 			"font"			"HudFontSmallBold"
@@ -470,7 +470,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"

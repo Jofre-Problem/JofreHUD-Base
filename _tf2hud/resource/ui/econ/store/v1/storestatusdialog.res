@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"StoreStatusDialog"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-125"
 		"ypos"					"180"
 		"zpos"					"10000"
@@ -29,7 +29,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"centerwrap"	"1"
 		"labelText"		"%updatetext%"
@@ -50,7 +50,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Ok"
 		"font"			"HudFontSmallBold"

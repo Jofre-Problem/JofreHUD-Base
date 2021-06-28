@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"ClipImage"
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"ClipImageBackground"
@@ -40,7 +40,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"scaleImage"		"0"
 	}
@@ -55,7 +55,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Street Level"
 		"textAlignment"		"west"
@@ -75,7 +75,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"whee"
 		"textAlignment"		"west"
@@ -96,7 +96,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 }

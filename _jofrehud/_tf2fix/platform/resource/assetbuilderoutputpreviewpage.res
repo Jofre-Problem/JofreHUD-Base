@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	
 		"OutputPreview"
@@ -27,7 +27,7 @@
 			"autoResize"		"3"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 		}
 	}

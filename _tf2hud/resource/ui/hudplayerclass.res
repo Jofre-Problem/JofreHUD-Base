@@ -12,7 +12,7 @@
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"
-		"enabled"		"1"		
+				
 	}
 	"PlayerStatusClassImage"
 	{
@@ -30,7 +30,7 @@
 		"tall"			"75"
 		"tall_minmode"	"37"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/class_scoutred"
 		"scaleImage"	"1"	
 	}
@@ -50,7 +50,7 @@
 		"tall"			"55"
 		"tall_minmode"	"27"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/class_spyred"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/class_spyred"
@@ -72,7 +72,7 @@
 		"tall"			"55"
 		"tall_minmode"	"27"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/class_spy_outline"
 		"scaleImage"	"1"	
 	}		
@@ -90,7 +90,7 @@
 		"wide"			"100"
 		"tall"			"50"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"
 		"image"			"../hud/character_red_bg"	
 		"teambg_2"		"../hud/character_red_bg"
@@ -113,7 +113,7 @@
 		"wide"			"109"
 		"tall"			"50"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"
 		"image"				"../hud/character_red_bg_clipped"	
 		"teambg_2"			"../hud/character_red_bg_clipped"
@@ -139,7 +139,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"render_texture"	"0"
 		"fov"			"12"
@@ -316,7 +316,7 @@
 			
 			
 			"visible"				"1"
-			"enabled"				"1"
+			
 			"image"					"../hud/color_panel_brown"
 			"scaleImage"			"1"
 			"teambg_1"				"../hud/color_panel_brown"
@@ -351,7 +351,7 @@
 			
 			
 			"visible"			"1"
-			"enabled"			"1"
+			
 			"textAlignment"		"North-West"
 			"dulltext"			"0"
 			"brighttext"		"0"
@@ -378,7 +378,7 @@
 			
 			
 			"visible"			"1"
-			"enabled"			"1"
+			
 			"textAlignment"		"North-West"
 			"dulltext"			"0"
 			"brighttext"		"0"
@@ -406,7 +406,7 @@
 			
 			
 			"visible"			"1"
-			"enabled"			"1"
+			
 			"textAlignment"		"North-West"
 			"dulltext"			"0"
 			"brighttext"		"0"

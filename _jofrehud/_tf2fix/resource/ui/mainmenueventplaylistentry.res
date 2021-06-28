@@ -10,7 +10,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"viewmode_loaner"
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
@@ -26,7 +26,7 @@
 		"tall"		"f0"
 		"zpos"	"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"rotation"		"1"
 		"proportionaltoparent"	"1"
 		"scaleimage"	"1"
@@ -46,7 +46,7 @@
 		"tall"		"f0"
 		"zpos"	"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"rotation"		"1"
 		"proportionaltoparent"	"1"
 		"scaleimage"	"1"
@@ -66,7 +66,7 @@
 		"tall"		"f0"
 		"zpos"	"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"rotation"		"1"
 		"proportionaltoparent"	"1"
 		"scaleimage"	"1"
@@ -86,7 +86,7 @@
 		"tall"		"30"
 		"zpos"	"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"rotation"		"3"
 		"proportionaltoparent"	"1"
 		"scaleimage"	"1"
@@ -110,7 +110,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"autoResize"	"1"
 		
 		"proportionaltoparent"	"1"
@@ -131,7 +131,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"mouseinputenabled"		"0"
 		"keyboardinputenabled"	"0"
@@ -149,7 +149,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"mouseinputenabled"		"0"
 		"keyboardinputenabled"	"0"

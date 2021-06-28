@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"CancelButton"
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
@@ -45,7 +45,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		
 		"labelText"		"#VAC_ConnectionRefusedDetail"
@@ -64,7 +64,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"border"		""
 		"scaleimage"	"1"
 		"image"		"resource/icon_vac"

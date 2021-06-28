@@ -50,7 +50,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			""
 			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
@@ -72,7 +72,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"0"
 			"proportionaltoparent"	"1"
 		}
@@ -92,7 +92,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"0"
 			"proportionaltoparent"	"1"
 		}		
@@ -122,7 +122,7 @@
 				"autoResize"		"1"
 				
 				"visible"			"1"
-				"enabled"			"1"
+				
 				"fgcolor_override"	"89 81 71 255"
 				"bgcolor_override"	"196 145 38 255"
 				"proportionaltoparent" "1"

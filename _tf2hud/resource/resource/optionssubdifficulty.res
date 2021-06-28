@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_SkillEasy"
 		"textAlignment"		"west"
@@ -32,7 +32,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_SkillNormal"
 		"textAlignment"		"west"
@@ -53,7 +53,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_SkillHard"
 		"textAlignment"		"west"
@@ -74,7 +74,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_SelectDifficulty"
 		"textAlignment"		"west"
@@ -93,7 +93,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_EasyDescription"
 		"textAlignment"		"north-west"
@@ -112,7 +112,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_NormalDescription"
 		"textAlignment"		"north-west"
@@ -131,7 +131,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_HardDescription"
 		"textAlignment"		"north-west"

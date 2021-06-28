@@ -53,7 +53,7 @@
 		"wide"			"f20"
 		"tall"			"20"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"mouseinputenabled"	"1"
 		"eatmouseinput"	"0"	
 		"showtooltipswhenmousedisabled"	"1"
@@ -72,7 +72,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"

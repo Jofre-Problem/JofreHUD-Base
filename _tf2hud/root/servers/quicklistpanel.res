@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#VAC_ConnectionRefusedTitle"
@@ -29,7 +29,7 @@
 		"wide"					"624"
 		"tall"					"100"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"PaintBackgroundType"			"0"
 //		"bgcolor_override"			"69 64 58 255"
 	}
@@ -45,7 +45,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"image"			""
 		"scaleImage"		"0"
@@ -64,7 +64,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"MAPNAME"
 		"textAlignment"	"west"
 		"dulltext"		"0"
@@ -84,7 +84,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"(capture the flag)"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -107,7 +107,7 @@
 		"autoResize"		"1"
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"Yo wats up"
 		"textAlignment"	"west"
 		"dulltext"		"0"
@@ -128,7 +128,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"image"			"..\vgui\icon_con_high"
 		"scaleImage"		"1"
@@ -146,7 +146,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"54 ms"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -166,7 +166,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"15/24 players"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -186,7 +186,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"50 other servers"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -206,7 +206,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"image"			"servers\icon_replay"
 		"scaleImage"		"1"

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"0"
 		"border"				"SteamWorkshopBorder"
@@ -29,7 +29,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"0 0 0 255"
 	}
@@ -44,7 +44,7 @@
 		"wide"			"600"
 		"tall"			"400"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"workshop_sandvich_top"
 		"scaleImage"	"1"
 	}
@@ -60,7 +60,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"57 52 49 255"
 	}
@@ -76,7 +76,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_ImportFile_Title"
 		"textAlignment"		"west"
@@ -97,7 +97,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_ImportFile_NameLabel"
 		"textAlignment"		"west"
@@ -118,7 +118,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -142,7 +142,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_ImportFile_TypeLabel"
 		"textAlignment"		"west"
@@ -191,7 +191,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_ImportFile_EquipRegionLabel"
 			"textAlignment"		"west"
@@ -228,7 +228,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_ImportFile_WorkshopIDLabel"
 		"textAlignment"		"west"
@@ -249,7 +249,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -273,7 +273,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"TF_English Name"
 		"textAlignment"		"west"
@@ -294,7 +294,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -321,7 +321,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"border"		"SteamWorkshopBorder"
@@ -341,7 +341,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"border"		"SteamWorkshopBorder"
@@ -455,7 +455,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_ImportFile_IconLabel"
 			"textAlignment"		"west"
@@ -489,7 +489,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_ImportFile_Models"
 			"textAlignment"		"west"
@@ -726,7 +726,7 @@
 		"wide"			"90"
 		"tall"			"219"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"paintbackground" "0"
 		"border"				"SteamWorkshopBorder"
 
@@ -741,7 +741,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_ImportFile_Bodygroups"
 			"textAlignment"		"west"
@@ -1350,7 +1350,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_ImportFile_EditQC"
 			"textAlignment"	"center"
@@ -1386,7 +1386,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_ImportFile_Skins"
 			"textAlignment"		"west"
@@ -1407,7 +1407,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_ImportFile_SwapVMT"
 			"textAlignment"		"center"
@@ -1741,7 +1741,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -1763,7 +1763,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -1796,7 +1796,7 @@
 		"wide"			"150"
 		"tall"			"219"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"paintbackground" "0"
 
 		"AnimationSourcePanel"
@@ -2060,7 +2060,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"command"		"UpdateAnimationLoopable"
@@ -2119,7 +2119,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_ImportFile_EditQCI"
 			"textAlignment"	"center"
@@ -2178,7 +2178,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_Close"
 		"font"			"HudFontSmallestBold"
@@ -2200,7 +2200,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_ImportFile_Preview"
 		"textAlignment"		"center"
@@ -2223,7 +2223,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_ImportFile_Verify"
 		"textAlignment"		"center"
@@ -2246,7 +2246,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_ImportFile_Build"
 		"textAlignment"		"center"
@@ -2285,7 +2285,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"render_texture"	"0"
 		"fov"			"40"

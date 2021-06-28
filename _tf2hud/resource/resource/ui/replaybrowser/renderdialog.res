@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -50,7 +50,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"CancelButton"
@@ -65,7 +65,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_CancelBold"
 		"font"			"ReplayMedium"
@@ -94,7 +94,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Replay_Go"
 		"font"			"ReplayMedium"
@@ -125,7 +125,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
@@ -145,7 +145,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
@@ -169,7 +169,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
@@ -191,7 +191,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
@@ -207,7 +207,7 @@
 		"wide"			"220"
 		"tall"			"5"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"replay/replaybrowser_solidline"
 		"tileImage"		"1"
 	}
@@ -226,7 +226,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
@@ -246,7 +246,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
@@ -268,7 +268,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
@@ -288,7 +288,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
@@ -310,7 +310,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
@@ -323,7 +323,7 @@
 		"leftText"		"#Replay_MotionBlur_Low"
 		"rightText"		"#Replay_MotionBlur_High"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"xpos"			"105"
 		"ypos"			"-1"
 		"wide"			"135"
@@ -347,7 +347,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
@@ -360,7 +360,7 @@
 		"leftText"		"#Replay_Quality_Low"
 		"rightText"		"#Replay_Quality_High"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"xpos"			"105"
 		"ypos"			"-1"
 		"wide"			"135"
@@ -386,7 +386,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
@@ -406,7 +406,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
@@ -425,7 +425,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
@@ -446,7 +446,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"	"10"
 	}
 	
@@ -467,7 +467,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"bgcolor_override"		"117 107 95 255"
 		"fgcolor_override"		"202 190 164 255"
 		"tabPosition"	"10"
@@ -488,7 +488,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -509,7 +509,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
@@ -531,7 +531,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
@@ -553,7 +553,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
@@ -575,7 +575,7 @@
 		
 		"visible"		"1"
 		"wrap"			"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 }

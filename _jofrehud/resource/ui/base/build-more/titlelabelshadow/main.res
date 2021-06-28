@@ -8,7 +8,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"brighttext"	"0"
 	}
 }	

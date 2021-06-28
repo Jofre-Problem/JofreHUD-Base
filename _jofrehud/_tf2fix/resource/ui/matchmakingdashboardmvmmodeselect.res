@@ -22,7 +22,7 @@
 		"wide"			"o2"
 		"tall"			"100"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"mouseinputenabled" "0"
 		"image"			"mvm/mvm_logo"
 		"scaleImage"	"1"
@@ -38,7 +38,7 @@
 		"wide"		"250"
 		"tall"		"215"
 		"visible"	"1"
-		"enabled"	"1"
+		
 
 		"DropShadow"
 		{
@@ -66,7 +66,7 @@
 			"wide"			"f0"
 			"tall"			"o1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"mouseinputenabled" "0"
 			"image"			"mvm/mannup"
 			"scaleImage"	"1"
@@ -83,7 +83,7 @@
 			"tall"		"100"
 			"zpos"	"1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"rotation"		"0"
 			"proportionaltoparent"	"1"
 			"scaleimage"	"1"
@@ -105,7 +105,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_MvM_MannUp"
 			"font"			"HudFontMediumSmallBold"
@@ -158,7 +158,7 @@
 		"wide"		"250"
 		"tall"		"130"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"proportionaltoparent"	"1"
 
 		"DropShadow"
@@ -187,7 +187,7 @@
 			"wide"			"f0"
 			"tall"			"o1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"mouseinputenabled" "0"
 			"image"			"mvm/bootcamp"
 			"scaleImage"	"1"
@@ -204,7 +204,7 @@
 			"tall"		"100"
 			"zpos"	"1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"rotation"		"0"
 			"proportionaltoparent"	"1"
 			"scaleimage"	"1"
@@ -226,7 +226,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_MvM_BootCamp"
 			"font"			"HudFontMediumSmallBold"

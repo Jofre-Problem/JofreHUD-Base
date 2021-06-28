@@ -6,7 +6,7 @@
 		"fieldName"		"PlayerStatusHealthBonusImage"
 		"image"			"../hud/health_over_bg"		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 	}				
 }

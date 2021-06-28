@@ -14,7 +14,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_menu_demolish_title"
 		"textAlignment"	"Left"
 		"dulltext"		"1"
@@ -35,7 +35,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_menu_demolish_title"
 		"textAlignment"	"Left"
 		"dulltext"		"0"

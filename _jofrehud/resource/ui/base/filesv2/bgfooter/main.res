@@ -9,7 +9,7 @@
 		"wide"			"f0"
 		"tall"			"60"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
 	}		

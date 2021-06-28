@@ -31,7 +31,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -50,7 +50,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -69,7 +69,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -88,7 +88,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_AdvancedEllipsis"
 		"textAlignment"		"west"
@@ -108,7 +108,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_LaunchBenchmarkVideoPanel"
 		"textAlignment"		"west"
@@ -128,7 +128,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"6"
 		"labelText"		"#GameUI_ThirdPartyTechCredits"
 		"textAlignment"		"west"
@@ -149,7 +149,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -168,7 +168,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Gamma"
 		"textAlignment"		"west"
@@ -187,7 +187,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -206,7 +206,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Resolution"
 		"textAlignment"		"west"
@@ -226,7 +226,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Renderer"
 		"textAlignment"		"west"
@@ -245,7 +245,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_DisplayMode"
 		"textAlignment"		"west"
@@ -265,7 +265,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_AspectRatio"
 		"textAlignment"		"west"
@@ -288,7 +288,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_HDContent"
 		"textAlignment"		"west"
@@ -313,7 +313,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_VRMode"
 		"textAlignment"		"west"

@@ -12,7 +12,7 @@
 		"wide"			"90"
 		"tall"			"45"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"center"	
 		"labelText"		"%currency%"
 	}	
@@ -29,7 +29,7 @@
 		"wide"			"90"
 		"tall"			"45"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"center"	
 		"labelText"		"%currency%"
 	}	
@@ -44,7 +44,7 @@
 		"wide"			"60"
 		"tall"			"18"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"	"TanLight"
 	}	
@@ -59,7 +59,7 @@
 		"wide"			"58"
 		"tall"			"16"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"	"CreditsGreen"
 	}

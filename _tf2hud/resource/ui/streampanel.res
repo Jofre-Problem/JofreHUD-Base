@@ -59,7 +59,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"56 53 49 255"
 
 			"proportionaltoparent"	"1"
@@ -95,7 +95,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor"		"56 53 49 255"
 	}
 
@@ -113,7 +113,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor"		"56 53 49 255"
 	}
 
@@ -131,7 +131,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor"		"56 53 49 255"
 	}
 

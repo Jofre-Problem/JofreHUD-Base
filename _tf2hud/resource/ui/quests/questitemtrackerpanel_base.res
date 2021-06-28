@@ -28,7 +28,7 @@
 		"wide"			"f0"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"	
+			
 
 		"proportionaltoparent" "1"
 

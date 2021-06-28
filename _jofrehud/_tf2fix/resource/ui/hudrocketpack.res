@@ -4,7 +4,7 @@
 	{
 		"fieldName"		"huditemeffectmeter"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"xpos"			"r265"	[$WIN32]
 		"xpos_minmode"	"r90"	[$WIN32]
 		"ypos"			"r54"	[$WIN32]
@@ -26,13 +26,13 @@
 		"tall"			"45"
 		"visible"		"1"
 		"visible_minmode""0"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"image"				"../hud/ammo_blue_bg"
 		"teambg_2"			"../hud/misc_ammo_area_red"
-		//"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
+		
 		"teambg_3"			"../hud/misc_ammo_area_blue"
-		//"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"					
+				
 	}
 
 	"ItemEffectIcon"
@@ -47,7 +47,7 @@
 		"tall"			"32"
 		"visible"		"1"
 		"visible_minmode""1"
-		"enabled"		"1"
+		
 		"image"			"../hud/pyro_jetpack_off2"
 		"scaleImage"	"1"	
 	}
@@ -66,7 +66,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_RocketPack_Disabled"
 		"textAlignment"	"west"
@@ -94,7 +94,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -118,7 +118,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"

@@ -10,13 +10,13 @@
 		"wide"			"140"
 		"tall"			"40"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/misc_ammo_area_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_red"
-		//"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
+		
 		"teambg_3"		"../hud/misc_ammo_area_blue"
-		//"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"				
+			
 	}
 	
 	"SoldierImage"
@@ -28,7 +28,7 @@
 		"wide"			"45"
 		"tall"			"45"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"war_soldier_kills"
 		"scaleImage"	"1"
 	}	
@@ -41,7 +41,7 @@
 		"wide"			"50"
 		"tall"			"50"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"war_demo_kills"
 		"scaleImage"	"1"
 	}	
@@ -58,7 +58,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_WarContribution"
 		"textAlignment"	"north"
@@ -80,7 +80,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%warkills%"
 		"textAlignment"	"center"
@@ -102,7 +102,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%warkills%"
 		"textAlignment"	"center"

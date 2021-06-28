@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"SysMenu"
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"8"
 	}
 	"RefreshButton"
@@ -39,7 +39,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#baseGames_Refresh"
 		"textAlignment"		"west"
@@ -59,7 +59,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"#baseGames_AddIP"
 		"textAlignment"		"west"
@@ -79,7 +79,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"7"
 		"labelText"		"#baseGames_Manage"
 		"textAlignment"		"west"
@@ -98,7 +98,7 @@
 		"autoResize"	"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 	}
 	"StatusLabel"
@@ -112,7 +112,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"north-west"
 		"dulltext"		"1"
@@ -129,7 +129,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	"Config"
 	{
@@ -142,7 +142,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"labelText"		"#baseGames_Options"
 		"textAlignment"		"west"
@@ -182,7 +182,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"6"
 		"labelText"		"#baseGames_Remove"
 		"textAlignment"		"west"

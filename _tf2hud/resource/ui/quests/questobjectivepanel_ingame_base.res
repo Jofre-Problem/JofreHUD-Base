@@ -10,7 +10,7 @@
 		"wide"			"250"
 		"tall"			"18"
 		"visible"		"1"
-		"enabled"		"1"	
+			
 		
 		"PaintBackgroundType"	"2"
 

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -32,7 +32,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"ExplanationLabel"
@@ -50,7 +50,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"centerwrap"	"1"
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -65,7 +65,7 @@
 		"wide"					"260"
 		"tall"					"60"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"scaleImage"			"1"
 		"proportionaltoparent"	"1"
 
@@ -84,7 +84,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_OK"
 		"font"			"HudFontSmallBold"

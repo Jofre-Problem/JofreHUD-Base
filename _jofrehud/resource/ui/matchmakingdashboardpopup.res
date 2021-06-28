@@ -110,7 +110,7 @@
 					
 					"pinCorner"		"3"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
@@ -139,7 +139,7 @@
 					
 					"pinCorner"		"3"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
@@ -182,7 +182,7 @@
 					
 					"pinCorner"		"3"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 					"font"			"HudFontSmallest"
 					"textAlignment"	"center"
@@ -206,7 +206,7 @@
 					
 					"pinCorner"		"3"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
@@ -235,7 +235,7 @@
 				"zpos"			"100"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
 				"textAlignment"	"center"
@@ -253,7 +253,7 @@
 				"zpos"			"100"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallest"
 				"fgcolor_override"	"Tanlight"
 				"textAlignment"	"center"
@@ -273,7 +273,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"font"			"HudFontSmallest"
 				"textAlignment"	"center"
@@ -327,7 +327,7 @@
 				"zpos"			"100"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
 				"textAlignment"	"center"
@@ -345,7 +345,7 @@
 				"zpos"			"100"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallest"
 				"fgcolor_override"	"Tanlight"
 				"textAlignment"	"center"
@@ -377,7 +377,7 @@
 					
 					"pinCorner"		"3"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
@@ -438,7 +438,7 @@
 				"zpos"			"100"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
 				"textAlignment"	"center"
@@ -458,7 +458,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"paintborder"	"0"
 				"image"			"animated/tf2_logo_hourglass"
 				"scaleImage"	"1"
@@ -490,7 +490,7 @@
 					
 					"pinCorner"		"3"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
@@ -551,7 +551,7 @@
 				"zpos"			"100"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
 				"textAlignment"	"center"
@@ -569,7 +569,7 @@
 				"zpos"			"100"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallest"
 				"fgcolor_override"	"Tanlight"
 				"textAlignment"	"center"
@@ -589,7 +589,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
@@ -619,7 +619,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
@@ -681,7 +681,7 @@
 				"zpos"			"100"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
 				"textAlignment"	"center"
@@ -701,7 +701,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"paintborder"	"0"
 				"image"			"animated/tf2_logo_hourglass"
 				"scaleImage"	"1"

@@ -14,7 +14,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_NotBuilt"
 		"textAlignment"	"Center"
 		"dulltext"		"0"

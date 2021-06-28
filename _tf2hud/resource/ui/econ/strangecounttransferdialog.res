@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"StrangeCountTrasnferDialog"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"cs-0.5"
 		"ypos"					"cs-0.5"
 		"zpos"					"101"
@@ -18,7 +18,7 @@
 		"fieldName"				"BG"
 		"ControlName"			"EditablePanel"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"cs-0.5"
 		"ypos"					"cs-0.7"
 		"zpos"					"0"
@@ -45,7 +45,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"centerwrap"	"1"
 		}
 
@@ -64,7 +64,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"paintbackground" "0"
 			"border"		"BackpackItemBorder_SelfMade"
 		}				
@@ -112,7 +112,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"paintbackground" "0"
 			"border"		"BackpackItemBorder_Vintage"
 		}	
@@ -160,7 +160,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "200 80 60 255"
 		}
@@ -177,7 +177,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#Cancel"
 			"font"			"HudFontSmallBold"
@@ -203,7 +203,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#CraftNameConfirm"
 			"font"			"HudFontSmallBold"

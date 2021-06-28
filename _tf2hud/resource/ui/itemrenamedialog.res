@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"ItemRenameDialog"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-200"
 		"ypos"					"105"
 		"wide"					"400"
@@ -47,7 +47,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
 			"fgcolor"		"117 107 94 255"
@@ -70,7 +70,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"centerwrap"	"1"
 	}
 	
@@ -89,7 +89,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"paintbackground" "0"
 		"border"		"BackpackItemBorder_SelfMade"
 	}
@@ -103,7 +103,7 @@
 		"wide"			"16"
 		"tall"			"16"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"backpack_jewel_modify_target_b_g"
 		"tileImage"		"0"
 		"tileVertically" "0"
@@ -154,7 +154,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"paintbackground" "0"
 		"border"		"BackpackItemBorder_Vintage"
 	}
@@ -168,7 +168,7 @@
 		"wide"			"16"
 		"tall"			"16"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"backpack_jewel_modify_target_b_g"
 		"tileImage"		"0"
 		"tileVertically" "0"
@@ -219,7 +219,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"bgcolor_override" "0 0 0 255"
 		"paintbackgroundtype" "2"
 	}
@@ -238,7 +238,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "117 107 94 255"
 		"paintbackground" "0"
 	}
@@ -256,7 +256,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "117 107 94 255"
 		"paintbackground" "0"
 	}
@@ -276,7 +276,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"bgcolor_override" "0 0 0 255"
 		"paintbackgroundtype" "2"
 	}
@@ -295,7 +295,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "117 107 94 255"
 		"paintbackground" "0"
 	}
@@ -310,7 +310,7 @@
 		"autoResize"		"1"
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"textHidden"		"0"
 		"editable"			"1"
@@ -341,7 +341,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 
@@ -357,7 +357,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
@@ -382,7 +382,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#CraftNameOk"
 		"font"			"HudFontSmallBold"

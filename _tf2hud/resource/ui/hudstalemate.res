@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/death_panel_black_bg"
 		"scaleImage"		"1"
 	}
@@ -29,7 +29,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"labelText"		"#TF_teambalanced"
 		"textAlignment"		"northwest"
@@ -47,7 +47,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"labelText"		""
 		"textAlignment"		"northwest"

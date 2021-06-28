@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"Title"		"#TF_PublishedFiles_Browse"
@@ -30,7 +30,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"40 37 37 255"
 	}
@@ -46,7 +46,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishedFiles_Files"
 		"textAlignment"		"west"
@@ -66,7 +66,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -85,7 +85,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishFile_TitleLabel"
 		"textAlignment"		"west"
@@ -105,7 +105,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -127,7 +127,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishFile_DescLabel"
 		"textAlignment"		"west"
@@ -147,7 +147,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -169,7 +169,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishedFiles_Add"
 		"textAlignment"		"center"
@@ -191,7 +191,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishedFiles_Delete"
 		"textAlignment"		"center"
@@ -213,7 +213,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishedFiles_Edit"
 		"textAlignment"		"center"
@@ -235,7 +235,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishedFiles_Refresh"
 		"textAlignment"		"center"
@@ -257,7 +257,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_CLOSE"
 		"textAlignment"		"center"

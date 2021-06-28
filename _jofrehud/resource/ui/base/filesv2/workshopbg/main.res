@@ -8,7 +8,7 @@
 		"ypos"			"0"
 		"wide"			"600"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"
 	}
 }

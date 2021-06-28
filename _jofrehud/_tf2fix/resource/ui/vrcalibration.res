@@ -287,7 +287,7 @@
 		"tall"			"25"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_VR_LessLots"
 		"font"			"HudFontSmallBold"
@@ -312,7 +312,7 @@
 		"tall"			"25"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_VR_Less"
 		"font"			"HudFontSmallBold"
@@ -337,7 +337,7 @@
 		"tall"			"25"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_VR_More"
 		"font"			"HudFontSmallBold"
@@ -362,7 +362,7 @@
 		"tall"			"25"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_VR_MoreLots"
 		"font"			"HudFontSmallBold"
@@ -387,7 +387,7 @@
 		"tall"			"25"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_VR_NextAdjust"
 		"font"			"HudFontSmallBold"
@@ -412,7 +412,7 @@
 		"tall"			"25"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_VR_Close"
 		"font"			"HudFontSmallBold"

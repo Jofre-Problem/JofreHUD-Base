@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"unicode"		"0"
@@ -28,7 +28,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
@@ -45,7 +45,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"unicode"		"0"
@@ -62,7 +62,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
@@ -79,7 +79,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"unicode"		"0"
@@ -96,7 +96,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
@@ -113,7 +113,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"unicode"		"0"
@@ -130,7 +130,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
@@ -147,7 +147,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"unicode"		"0"
@@ -165,7 +165,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
@@ -181,7 +181,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"unicode"		"0"
@@ -198,7 +198,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
@@ -215,7 +215,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"unicode"		"0"
@@ -232,7 +232,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
@@ -249,7 +249,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"unicode"		"0"
@@ -266,7 +266,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
@@ -283,7 +283,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"unicode"		"0"
@@ -300,7 +300,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
@@ -317,7 +317,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"unicode"		"0"
@@ -335,7 +335,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
@@ -351,7 +351,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"unicode"		"0"
@@ -368,7 +368,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
@@ -385,7 +385,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"unicode"		"0"
@@ -402,7 +402,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
@@ -420,7 +420,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"unicode"		"0"
@@ -437,7 +437,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
@@ -454,7 +454,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"unicode"		"0"
@@ -473,7 +473,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
@@ -490,7 +490,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"unicode"		"0"

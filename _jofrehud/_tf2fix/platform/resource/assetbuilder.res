@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"1"
 		"title"		"#Frame_Untitled"
@@ -31,7 +31,7 @@
 			"UnpinnedCornerOffsetX" "0"
 			"UnpinnedCornerOffsetY" "-30"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"1"
 		}
 		
@@ -48,7 +48,7 @@
 			"PinnedCornerOffsetY" "0"
 			"labelText"		"#AssetBuilder_Compile"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"1"
 			"Default"		"1"
 		}
@@ -66,7 +66,7 @@
 			"PinnedCornerOffsetY" "0"
 			"labelText"		"#AssetBuilder_Publish"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"2"
 			"Default"		"1"
 		}
@@ -85,7 +85,7 @@
 			"PinnedCornerOffsetY" "0"
 			"labelText"		"#AssetBuilder_Publish"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"2"
 			"Default"		"1"
 		}
@@ -104,7 +104,7 @@
 			"PinnedCornerOffsetY" "0"
 			"labelText"		"#AssetBuilder_AbortCompile"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"2"
 			"Default"		"1"
 		}		

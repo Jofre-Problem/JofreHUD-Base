@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	
@@ -42,7 +42,7 @@
 		"zpos"			"4"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"west"
 		
 		"actionSet"		"InGameHUDControls"
@@ -61,7 +61,7 @@
 		"zpos"			"4"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"east"
 		
 		"actionSet"		"InGameHUDControls"
@@ -84,7 +84,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""
 		"textAlignment"		"south-west"
@@ -125,7 +125,7 @@
 			"wide"			"50"
 			"tall"			"100"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"class_sel_sm_random_inactive"
 			"scaleImage"	"1"
 		}				
@@ -144,7 +144,7 @@
 		"zpos"			"9"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"south-west"
 		
 		"actionSet"		"InGameHUDControls"
@@ -168,7 +168,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_Offense"
 		"textAlignment"	"left"
@@ -193,7 +193,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""	[$WIN32]
 		"labelText"			""		[$X360]
@@ -236,7 +236,7 @@
 			"wide"			"50"
 			"tall"			"100"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"class_sel_sm_scout_inactive"
 			"scaleImage"	"1"
 		}				
@@ -254,7 +254,7 @@
 		"zpos"			"9"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"south-west"
 		
 		"actionSet"		"InGameHUDControls"
@@ -277,7 +277,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""	[$WIN32]
 		"labelText"			""		[$X360]
@@ -320,7 +320,7 @@
 			"wide"			"50"
 			"tall"			"100"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"class_sel_sm_soldier_inactive"
 			"scaleImage"	"1"
 		}				
@@ -338,7 +338,7 @@
 		"zpos"			"9"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"south-west"
 		
 		"actionSet"		"InGameHUDControls"
@@ -360,7 +360,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""	[$WIN32]
 		"labelText"			""		[$X360]
@@ -402,7 +402,7 @@
 			"wide"			"50"
 			"tall"			"100"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"class_sel_sm_pyro_inactive"
 			"scaleImage"	"1"
 		}				
@@ -420,7 +420,7 @@
 		"zpos"			"9"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"south-west"
 		
 		"actionSet"		"InGameHUDControls"
@@ -444,7 +444,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_Defense"
 		"textAlignment"	"left"
@@ -468,7 +468,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""	[$WIN32]
 		"labelText"			""		[$X360]
@@ -510,7 +510,7 @@
 			"wide"			"50"
 			"tall"			"100"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"class_sel_sm_demo_inactive"
 			"scaleImage"	"1"
 		}				
@@ -527,7 +527,7 @@
 		"zpos"			"9"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"south-west"
 		
 		"actionSet"		"InGameHUDControls"
@@ -549,7 +549,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""	[$WIN32]
 		"labelText"			""		[$X360]
@@ -591,7 +591,7 @@
 			"wide"			"50"
 			"tall"			"100"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"class_sel_sm_heavy_inactive"
 			"scaleImage"	"1"
 		}				
@@ -608,7 +608,7 @@
 		"zpos"			"9"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"south-west"
 		
 		"actionSet"		"InGameHUDControls"
@@ -629,7 +629,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""	[$WIN32]
 		"labelText"			""		[$X360]
@@ -671,7 +671,7 @@
 			"wide"			"50"
 			"tall"			"100"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"class_sel_sm_engineer_inactive"
 			"scaleImage"	"1"
 		}				
@@ -688,7 +688,7 @@
 		"zpos"			"9"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"south-west"
 		
 		"actionSet"		"InGameHUDControls"
@@ -712,7 +712,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_Support"
 		"textAlignment"	"left"
@@ -737,7 +737,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""	[$WIN32]
 		"labelText"			""		[$X360]
@@ -779,7 +779,7 @@
 			"wide"			"50"
 			"tall"			"100"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"class_sel_sm_medic_inactive"
 			"scaleImage"	"1"
 		}				
@@ -797,7 +797,7 @@
 		"zpos"			"9"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"south-west"
 		
 		"actionSet"		"InGameHUDControls"
@@ -820,7 +820,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""	[$WIN32]
 		"labelText"			""		[$X360]
@@ -862,7 +862,7 @@
 			"wide"			"50"
 			"tall"			"100"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"class_sel_sm_sniper_inactive"
 			"scaleImage"	"1"
 		}				
@@ -880,7 +880,7 @@
 		"zpos"			"9"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"south-west"
 		
 		"actionSet"		"InGameHUDControls"
@@ -903,7 +903,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""	[$WIN32]
 		"labelText"			""		[$X360]
@@ -945,7 +945,7 @@
 			"wide"			"50"
 			"tall"			"100"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"class_sel_sm_spy_inactive"
 			"scaleImage"	"1"
 		}				
@@ -963,7 +963,7 @@
 		"zpos"			"9"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"south-west"
 		
 		"actionSet"		"InGameHUDControls"
@@ -982,7 +982,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_ClassMenu_Cancel_NoKey"
 		"textAlignment"	"center"
@@ -1003,7 +1003,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -1023,7 +1023,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#EditLoadout"
 		"textAlignment"	"center"
@@ -1043,7 +1043,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -1063,7 +1063,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_ClassMenu_Reset"
 		"textAlignment"	"center"
@@ -1088,7 +1088,7 @@
 		
 		"visible"		"1"
 		//"visible_lodef"	"0"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_SelectAClass"
 		"textAlignment"	"west"
 		"font"			"MenuMainTitle"
@@ -1107,7 +1107,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fov"			"16"
 		
 		"model"
@@ -1142,7 +1142,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%hint%"
 		"textAlignment"	"left"
@@ -1169,7 +1169,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 			
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
@@ -1230,7 +1230,7 @@
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -1247,7 +1247,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/color_panel_clear"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/color_panel_clear"
@@ -1270,7 +1270,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}							
@@ -1285,7 +1285,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -1300,7 +1300,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -1315,7 +1315,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -1330,7 +1330,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -1345,7 +1345,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -1360,7 +1360,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -1375,7 +1375,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -1390,7 +1390,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -1405,7 +1405,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -1420,7 +1420,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -1437,7 +1437,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_TeamCount"
 		"textAlignment"	"left"
@@ -1457,7 +1457,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%numScout%"
 		"textAlignment"	"center"
@@ -1477,7 +1477,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%numSoldier%"
 		"textAlignment"	"center"
@@ -1497,7 +1497,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%numPyro%"
 		"textAlignment"	"center"
@@ -1517,7 +1517,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%numDemoman%"
 		"textAlignment"	"center"
@@ -1537,7 +1537,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%numHeavy%"
 		"textAlignment"	"center"
@@ -1557,7 +1557,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%numEngineer%"
 		"textAlignment"	"center"
@@ -1577,7 +1577,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%numMedic%"
 		"textAlignment"	"center"
@@ -1597,7 +1597,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%numSniper%"
 		"textAlignment"	"center"
@@ -1617,7 +1617,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%numSpy%"
 		"textAlignment"	"center"
@@ -1635,7 +1635,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"mvm/class_upgraded"
 		"scaleImage"	"1"
 	}
@@ -1650,7 +1650,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"mvm/class_upgraded"
 		"scaleImage"	"1"
 	}
@@ -1665,7 +1665,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"mvm/class_upgraded"
 		"scaleImage"	"1"
 	}
@@ -1680,7 +1680,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"mvm/class_upgraded"
 		"scaleImage"	"1"
 	}
@@ -1695,7 +1695,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"mvm/class_upgraded"
 		"scaleImage"	"1"
 	}
@@ -1710,7 +1710,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"mvm/class_upgraded"
 		"scaleImage"	"1"
 	}
@@ -1725,7 +1725,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"mvm/class_upgraded"
 		"scaleImage"	"1"
 	}
@@ -1740,7 +1740,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"mvm/class_upgraded"
 		"scaleImage"	"1"
 	}
@@ -1755,7 +1755,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"mvm/class_upgraded"
 		"scaleImage"	"1"
 	}
@@ -1797,7 +1797,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1816,7 +1816,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1833,7 +1833,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -1863,7 +1863,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1884,7 +1884,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"render_texture"	"0"
 		"fov"			"25"
@@ -1926,7 +1926,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	
@@ -1969,7 +1969,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1988,7 +1988,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -2005,7 +2005,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -2035,7 +2035,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				

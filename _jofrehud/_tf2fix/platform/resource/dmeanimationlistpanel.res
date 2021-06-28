@@ -11,7 +11,7 @@
 		"AutoResize"	"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"PinnedCornerOffsetX" "0"
 		"PinnedCornerOffsetY" "0"
@@ -33,7 +33,7 @@
 			"UnpinnedCornerOffsetX" "0"
 			"UnpinnedCornerOffsetY" "0"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 		}
 	}

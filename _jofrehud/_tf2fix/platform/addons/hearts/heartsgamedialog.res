@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"SysMenu"
 	{
@@ -24,7 +24,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	"MatchName"
 	{
@@ -37,7 +37,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"Divider0"
 	{
@@ -50,7 +50,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}	
 	"TextPlayerName0"
 	{
@@ -65,7 +65,7 @@
 		"labelText"		""
 		"textAlignment"		"west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"LabelPlayerTricks0"
 	{
@@ -80,7 +80,7 @@
 		"labelText"		""		
 		"textAlignment"		"west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"TextPlayerName1"
 	{
@@ -95,7 +95,7 @@
 		"labelText"		""		
 		"textAlignment"		"west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"LabelPlayerTricks1"
 	{
@@ -110,7 +110,7 @@
 		"labelText"		""		
 		"textAlignment"		"west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"TextPlayerName2"
 	{
@@ -125,7 +125,7 @@
 		"labelText"		""
 		"textAlignment"		"west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"LabelPlayerTricks2"
 	{
@@ -140,7 +140,7 @@
 		"labelText"		""		
 		"textAlignment"		"west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"TextPlayerName3"
 	{
@@ -155,7 +155,7 @@
 		"labelText"		""
 		"textAlignment"		"west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"LabelPlayerTricks3"
 	{
@@ -170,7 +170,7 @@
 		"labelText"		""		
 		"textAlignment"		"west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"HandPanel"
@@ -193,7 +193,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"21"
 		"labelText"		"#Hearts_DealNextHand"
 		"textAlignment"		"west"
@@ -210,7 +210,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"InstructionsLabel"
 	{
@@ -224,7 +224,7 @@
 		
 		"labelText"		""		
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 		
 	"PlayerScoringName0"
@@ -240,7 +240,7 @@
 		"labelText"		"Player 1"		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"PlayerScoringPointsText0"
 	{
@@ -255,7 +255,7 @@
 		"labelText"		"#SteamAddOn_Points"		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"PlayerScoringPointsValue0"
 	{
@@ -270,7 +270,7 @@
 		"labelText"		""		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"PlayerScoringScoreText0"
 	{
@@ -285,7 +285,7 @@
 		"labelText"		"#SteamAddOn_Score"		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"PlayerScoringScoreValue0"
 	{
@@ -300,7 +300,7 @@
 		"labelText"		"0"		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"PlayerScoringName1"
@@ -316,7 +316,7 @@
 		"labelText"		"Player 2"		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"PlayerScoringPointsText1"
 	{
@@ -331,7 +331,7 @@
 		"labelText"		"#SteamAddOn_Points"		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"PlayerScoringPointsValue1"
 	{
@@ -346,7 +346,7 @@
 		"labelText"		""		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"PlayerScoringScoreText1"
 	{
@@ -361,7 +361,7 @@
 		"labelText"		"#SteamAddOn_Score"		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"PlayerScoringScoreValue1"
 	{
@@ -376,7 +376,7 @@
 		"labelText"		"0"		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 
 	"PlayerScoringName2"
@@ -392,7 +392,7 @@
 		"labelText"		"Player 3"		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"PlayerScoringPointsText2"
 	{
@@ -407,7 +407,7 @@
 		"labelText"		"#SteamAddOn_Points"		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"PlayerScoringPointsValue2"
 	{
@@ -422,7 +422,7 @@
 		"labelText"		""		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"PlayerScoringScoreText2"
 	{
@@ -437,7 +437,7 @@
 		"labelText"		"#SteamAddOn_Score"		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"PlayerScoringScoreValue2"
 	{
@@ -452,7 +452,7 @@
 		"labelText"		"0"		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 
 	"PlayerScoringName3"
@@ -468,7 +468,7 @@
 		"labelText"		"Player4"		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"PlayerScoringPointsText3"
 	{
@@ -483,7 +483,7 @@
 		"labelText"		"#SteamAddOn_Points"		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"PlayerScoringPointsValue3"
 	{
@@ -498,7 +498,7 @@
 		"labelText"		"+52"		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"PlayerScoringScoreText3"
 	{
@@ -513,7 +513,7 @@
 		"labelText"		"#SteamAddOn_Score"		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"PlayerScoringScoreValue3"
 	{
@@ -528,7 +528,7 @@
 		"labelText"		"0"		
 		"textAlignment"		"north-west"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"TurnArrow0"
@@ -543,7 +543,7 @@
 		"image"			"AddOns/Common/turn_arrow_left"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	"TurnArrow1"
 	{
@@ -557,7 +557,7 @@
 		"image"			"AddOns/Common/turn_arrow_up"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	"TurnArrow2"
 	{
@@ -571,7 +571,7 @@
 		"image"			"AddOns/Common/turn_arrow_right"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	"TurnArrow3"
 	{
@@ -585,7 +585,7 @@
 		"image"			"AddOns/Common/turn_arrow_down"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	
 	"ShowScoreBtn"
@@ -599,7 +599,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"18"
 		"labelText"		"#SteamAddOn_ShowScore"
 		"textAlignment"		"west"
@@ -633,7 +633,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#SteamAddOn_LastTrick"
 		"textAlignment"		"west"
@@ -668,7 +668,7 @@
 		"autoResize"		"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -685,7 +685,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#SteamAddOn_Btn_Send"
 		"textAlignment"		"west"
@@ -702,7 +702,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Last message received at:"
 		"textAlignment"		"west"

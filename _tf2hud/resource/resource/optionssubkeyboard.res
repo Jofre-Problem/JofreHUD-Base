@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 	}
 	"ChangeKeyButton"
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_SetNewKey"
 		"textAlignment"		"west"
@@ -46,7 +46,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_ClearKey"
 		"textAlignment"		"west"
@@ -67,7 +67,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_UseDefaults"
 		"textAlignment"		"west"
@@ -88,7 +88,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_AdvancedEllipsis"
 		"textAlignment"		"west"

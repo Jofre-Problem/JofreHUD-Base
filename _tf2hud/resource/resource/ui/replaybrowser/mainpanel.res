@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"setclosebuttonvisible"	"0"
 		"settitlebarvisible"	"1"
@@ -42,7 +42,7 @@
 		"wide"			"f0"
 		"tall"			"80"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"replay/replaybrowser_header"
 		"tileImage"		"1"
 	}				
@@ -56,7 +56,7 @@
 		"wide"			"f0"
 		"tall"			"60"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"replay/replaybrowser_bottomgradient"
 		"tileImage"		"1"
 	}				
@@ -70,7 +70,7 @@
 		"wide"			"f0"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"replay/replaybrowser_solidline"
 		"scaleImage"	"1"
 	}				
@@ -95,7 +95,7 @@
 			"wide"			"f0"
 			"tall"			"10"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"replay/replaybrowser_solidline"
 			"scaleImage"	"1"
 		}				
@@ -125,7 +125,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Replay_BackCarat"
 		"font"			"ReplayMedium"

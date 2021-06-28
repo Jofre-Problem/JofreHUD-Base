@@ -10,7 +10,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Label for the group of radio buttons"
 		"textAlignment"		"west"
@@ -26,7 +26,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"SubTabPosition"  "0"
 		"labelText"		"Training Room"
@@ -44,7 +44,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"SubTabPosition"  "1"
 		"labelText"		"Easy"
@@ -62,7 +62,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"SubTabPosition"  "2"
 		"labelText"		"Medium"
@@ -80,7 +80,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"SubTabPosition"  "3"
 		"labelText"		"Difficult"
@@ -116,7 +116,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Description"
 		"textAlignment"		"east"
@@ -132,7 +132,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Description"
 		"textAlignment"		"east"
@@ -148,7 +148,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Description"
 		"textAlignment"		"east"
@@ -164,7 +164,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Description"
 		"textAlignment"		"east"

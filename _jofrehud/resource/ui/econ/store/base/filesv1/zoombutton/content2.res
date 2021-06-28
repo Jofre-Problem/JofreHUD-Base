@@ -23,7 +23,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"store/store_zoom"
 			"scaleImage"	"1"
 		}				

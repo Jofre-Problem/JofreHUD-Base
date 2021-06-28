@@ -11,7 +11,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"paintBackground"	"0"
 		
@@ -32,7 +32,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"paintBackground"	"0"
 		

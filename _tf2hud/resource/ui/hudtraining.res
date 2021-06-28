@@ -10,7 +10,7 @@
 		"wide"				"320"
 		"tall"				"90"
 		"visible"			"1"
-		"enabled"			"1"
+		
 	}
 	"GoalLabel"
 	{	
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"labelText"		"%goal%"
 		"font"			"GoalText"
@@ -48,7 +48,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"labelText"		"%goal%"
 		"font"			"GoalText"
@@ -69,7 +69,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"labelText"		""
 		"textAlignment"		"North"
@@ -90,7 +90,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"labelText"		"#TF_Training_SpaceToContinue"
 		"textAlignment"	"North"
@@ -110,7 +110,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/death_panel_blue_bg"
 		"scaleImage"		"1"
 		"teambg_2"		"../hud/death_panel_red_bg"

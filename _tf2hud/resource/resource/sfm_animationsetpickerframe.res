@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#BxAnimationSetChooser"
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"bottomGrip"
@@ -41,7 +41,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"leftGrip"
@@ -55,7 +55,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"rightGrip"
@@ -69,7 +69,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"tlGrip"
@@ -83,7 +83,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"trGrip"
@@ -97,7 +97,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"blGrip"
@@ -111,7 +111,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"brGrip"
@@ -125,7 +125,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"caption"
@@ -139,7 +139,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"Minimize"
@@ -153,7 +153,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"0"
 		"textAlignment"		"north-west"
@@ -174,7 +174,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"1"
 		"textAlignment"		"north-west"
@@ -195,7 +195,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"o"
 		"textAlignment"		"north-west"
@@ -217,7 +217,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"r"
 		"textAlignment"		"north-west"
@@ -258,7 +258,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"OpenButton"
@@ -272,7 +272,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#FileOpenDialog_Open"
 		"textAlignment"		"west"
@@ -294,7 +294,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#FileOpenDialog_Cancel"
 		"textAlignment"		"west"

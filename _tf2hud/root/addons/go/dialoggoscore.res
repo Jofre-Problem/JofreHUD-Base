@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"TextLabel"
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Setting up YYY Game with XXX"
 		"textAlignment"		"west"
@@ -43,7 +43,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Black Territory: 0"
 		"textAlignment"		"west"
@@ -61,7 +61,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Black Captured: 0"
 		"textAlignment"		"west"
@@ -79,7 +79,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Black Score: 0"
 		"textAlignment"		"west"
@@ -97,7 +97,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"White Territory: 0"
 		"textAlignment"		"west"
@@ -115,7 +115,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"White Captured: 0"
 		"textAlignment"		"west"
@@ -133,7 +133,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"White Score: 0"
 		"textAlignment"		"west"
@@ -151,7 +151,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Close Game Window"
 		"textAlignment"		"west"
@@ -170,7 +170,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Keep Game Window"
 		"textAlignment"		"west"

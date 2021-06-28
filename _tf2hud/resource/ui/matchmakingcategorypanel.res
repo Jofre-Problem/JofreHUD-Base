@@ -24,7 +24,7 @@
 		"wide"			"f0"
 		"tall"			"p1.17"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportionaltoparent"	"1"
 
 		"BGColor"
@@ -37,7 +37,7 @@
 			"wide"			"f0"
 			"tall"			"f0"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"mouseinputenabled"	"0"
 		
 			"proportionaltoparent"	"1"
@@ -54,7 +54,7 @@
 			"wide"			"o4"
 			"tall"			"f0"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"	
 			"proportionaltoparent"	"1"
 		}
@@ -104,7 +104,7 @@
 				"wide"			"o1"
 				"tall"			"p.9"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 
 				"proportionaltoparent"	"1"
@@ -153,7 +153,7 @@
 			"wide"			"200"
 			"tall"			"15"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%title_token%"
 			"textinsetx"	"5"
 			"use_proportional_insets" "1"
@@ -178,7 +178,7 @@
 			"wide"			"200"
 			"tall"			"15"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%title_token%"
 			"textinsetx"	"5"
 			"use_proportional_insets" "1"
@@ -208,7 +208,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 
 			"wrap"			"1"
 			"fgcolor_override" "TanLight"
@@ -231,7 +231,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 
 			"wrap"			"1"
 			"fgcolor_override" "Black"
@@ -266,7 +266,7 @@
 		"wide"			"f0"
 		"tall"			"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportionaltoparent"	"1"
 
 		"border"		"InnerShadowBorder"

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"1"
 		"title"		"Edit Log"
@@ -27,7 +27,7 @@
 			"autoResize"		"1"
 			"pinCorner"		"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"3"
 			"textHidden"		"0"
 			"editable"		"0"
@@ -46,7 +46,7 @@
 			
 			"pinCorner"		"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"1"
 			"labelText"		"Ok"
 			"textAlignment"		"center"
@@ -66,7 +66,7 @@
 			
 			"pinCorner"		"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"2"
 			"labelText"		"Cancel"
 			"textAlignment"	"center"
@@ -86,7 +86,7 @@
 			"AutoResize"	"3"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 		}
 	}

@@ -12,7 +12,7 @@
 		
 		"pinCorner"	"0"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"labelText"	"#Config_Timelimit"
 	}
 	"mp_timelimit"
@@ -26,7 +26,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -44,7 +44,7 @@
 		
 		"pinCorner"	"0"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"labelText"	"#Config_Fraglimit"
 	}
 	"mp_fraglimit"
@@ -58,7 +58,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -77,7 +77,7 @@
 		
 		"pinCorner"	"0"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"labelText"	"#Config_Password"
 	}
 
@@ -92,7 +92,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -110,7 +110,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"#Config_Friendly_Fire"
 		"textAlignment"		"west"
@@ -133,7 +133,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"labelText"		"#Config_Uploads"
 		"textAlignment"		"west"
@@ -151,7 +151,7 @@
 		
 		"pinCorner"	"0"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"labelText"	"#Config_MinRate"
 	}
 	"sv_minrate"
@@ -165,7 +165,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"6"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -183,7 +183,7 @@
 		
 		"pinCorner"	"0"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"labelText"	"#Config_MaxRate"
 	}
 	"sv_maxrate"
@@ -197,7 +197,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"7"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -215,7 +215,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"8"
 		"labelText"		"#Config_Voice"
 		"textAlignment"		"west"

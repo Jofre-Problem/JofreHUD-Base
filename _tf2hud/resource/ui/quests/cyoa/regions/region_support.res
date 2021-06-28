@@ -32,7 +32,7 @@
 				"wide"			"50"
 				"tall"			"o1"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 				"image"			"cyoa/cyoa_icon_medic"
 				//"proportionaltoparent"	"1"
@@ -52,7 +52,7 @@
 				"wide"			"50"
 				"tall"			"o1"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 				"image"			"cyoa/cyoa_icon_sniper"
 				//"proportionaltoparent"	"1"
@@ -72,7 +72,7 @@
 				"wide"			"50"
 				"tall"			"o1"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 				"image"			"cyoa/cyoa_icon_spy"
 				//"proportionaltoparent"	"1"

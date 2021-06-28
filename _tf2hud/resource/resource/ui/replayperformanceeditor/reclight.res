@@ -10,7 +10,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"proportional"	"1"
 		"bgcolor_override"	"0 0 0 0"
@@ -25,7 +25,7 @@
 		"zpos"			"0"
 		"wide"			"f0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"replay/replay_camera_fringe"
 		"tileImage"		"0"
 		"scaleImage"	"1"
@@ -41,7 +41,7 @@
 		"wide"			"430"
 		"tall"			"430"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"replay/replay_camera_crosshair"
 		"tileImage"		"0"
 		"scaleImage"	"1"
@@ -56,7 +56,7 @@
 		"tall"			"42"
 		"zpos"			"11"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"replay/replay_camera_reclight_on"
 		"scaleImage"	"1"	
 	}
@@ -69,7 +69,7 @@
 		"tall"			"42"
 		"zpos"			"11"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"replay/replay_camera_reclight_off"
 		"scaleImage"	"1"	
 	}
@@ -84,7 +84,7 @@
 		"tall"			"60"
 		"zpos"			"11"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"replay/replay_control_play"
 		"scaleImage"	"1"
 	}
@@ -99,7 +99,7 @@
 		"tall"			"60"
 		"zpos"			"11"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"replay/replay_control_pause"
 		"scaleImage"	"1"
 	}

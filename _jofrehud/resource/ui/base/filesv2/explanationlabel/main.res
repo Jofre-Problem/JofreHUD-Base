@@ -5,6 +5,6 @@
 		"fieldName"		"ExplanationLabel"
 		"zpos"			"1"
 		
-		"enabled"		"1"		
+				
 	}	
 }	

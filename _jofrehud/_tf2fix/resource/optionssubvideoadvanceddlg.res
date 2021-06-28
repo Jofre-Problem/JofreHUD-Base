@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#GameUI_VideoAdvanced_Title"
@@ -28,7 +28,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_bottomGrip"
@@ -42,7 +42,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_leftGrip"
@@ -56,7 +56,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_rightGrip"
@@ -70,7 +70,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_tlGrip"
@@ -84,7 +84,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_trGrip"
@@ -98,7 +98,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_blGrip"
@@ -112,7 +112,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_brGrip"
@@ -126,7 +126,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_caption"
@@ -140,7 +140,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"frame_minimize"
@@ -154,7 +154,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"0"
 		"textAlignment"		"north-west"
@@ -174,7 +174,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"1"
 		"textAlignment"		"north-west"
@@ -194,7 +194,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"o"
 		"textAlignment"		"north-west"
@@ -215,7 +215,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"r"
 		"textAlignment"		"north-west"
@@ -235,7 +235,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -274,7 +274,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -293,7 +293,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -312,7 +312,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"7"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -331,7 +331,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"8"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -350,7 +350,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -370,7 +370,7 @@
 		
 		"visible"		"1" [!$OSX]
 		"visible"		"0" [$OSX]
-		"enabled"		"1"
+		
 		"tabPosition"		"12"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -389,7 +389,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -408,7 +408,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"9"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -427,7 +427,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -446,7 +446,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"6"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -465,7 +465,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"10"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -485,7 +485,7 @@
 		
 		"visible"		"1" [!$OSX]
 		"visible"		"0" [$OSX]
-		"enabled"		"1"
+		
 		"tabPosition"		"13"
 		"labelText"		"#GameUI_Bloom"
 		"textAlignment"		"west"
@@ -506,7 +506,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_MotionBlur"
 		"textAlignment"		"west"
@@ -527,7 +527,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"16"
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"west"
@@ -550,7 +550,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"17"
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
@@ -573,7 +573,7 @@
 		
 		"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_DX_Level"
 		"textAlignment"		"east"
@@ -593,7 +593,7 @@
 		
 		"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_DX_Installed"
 		"textAlignment"		"east"
@@ -612,7 +612,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Model_Detail"
 		"textAlignment"		"west"
@@ -632,7 +632,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Texture_Detail"
 		"textAlignment"		"west"
@@ -652,7 +652,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Antialiasing_Mode"
 		"textAlignment"		"west"
@@ -672,7 +672,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Filtering_Mode"
 		"textAlignment"		"west"
@@ -693,7 +693,7 @@
 		
 		"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
-		"enabled"		"1"
+		
 		
 		"labelText"		"DirectX v9.0"
 		"textAlignment"		"west"
@@ -713,7 +713,7 @@
 		
 		"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
-		"enabled"		"1"
+		
 		
 	}
 	"Label7"
@@ -727,7 +727,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Water_Detail"
 		"textAlignment"		"west"
@@ -747,7 +747,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Shadow_Detail"
 		"textAlignment"		"west"
@@ -767,7 +767,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Color_Correction"
 		"textAlignment"		"west"
@@ -787,7 +787,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Wait_For_VSync"
 		"textAlignment"		"west"
@@ -807,7 +807,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Shader_Detail"
 		"textAlignment"		"west"
@@ -828,7 +828,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_RecommendedSettings"
 		"textAlignment"		"west"
@@ -849,7 +849,7 @@
 		
 		"visible"		"1" [!$OSX]
 		"visible"		"0" [$OSX]
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_HDR"
 		"textAlignment"		"west"
@@ -869,7 +869,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"BuildModeDialog"
@@ -883,7 +883,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"
@@ -899,7 +899,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"11"
 		"leftText"		"0.00"
 		"rightText"		"1.00"
@@ -919,7 +919,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_FOV"
 		"textAlignment"		"west"
@@ -938,7 +938,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_MulticoreRendering"
 		"textAlignment"		"west"
@@ -957,7 +957,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"10"
 		"textHidden"		"0"
 		"editable"		"0"

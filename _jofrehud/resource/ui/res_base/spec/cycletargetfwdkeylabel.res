@@ -10,7 +10,7 @@
 		
 		
 		"visible"		"1"	[$WIN32]
-		"enabled"		"1"
+		
 		"labelText"		""
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"

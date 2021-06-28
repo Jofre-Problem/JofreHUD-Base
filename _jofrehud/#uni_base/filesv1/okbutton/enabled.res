@@ -2,6 +2,6 @@
 {
 	"OKButton"
 	{
-		"enabled"		"1"
+		
 	}	
 }	

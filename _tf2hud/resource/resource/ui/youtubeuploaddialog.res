@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -33,7 +33,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	
@@ -52,7 +52,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 
 	"MovieTitleTextEntry"
@@ -72,7 +72,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"1"
 		"fgcolor_override"		"202 190 164 255"
 		"bgcolor_override"		"60 54 46 255"
@@ -94,7 +94,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 
 	"MovieDescTextEntry"
@@ -114,7 +114,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"fgcolor_override"		"202 190 164 255"
 		"bgcolor_override"		"60 54 46 255"
@@ -133,7 +133,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#YouTube_UploadDlg_Unlisted"
 		"textAlignment"	"west"
@@ -159,7 +159,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 	}
 
@@ -175,7 +175,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#YouTube_UploadDlg_Terms"
 		"font"			"HudFontSmallBold"
@@ -201,7 +201,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#YouTube_UploadDlg_Upload"
 		"font"			"HudFontSmallBold"
@@ -226,7 +226,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"

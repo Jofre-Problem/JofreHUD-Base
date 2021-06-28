@@ -42,7 +42,7 @@
 				"wide"			"166"
 				"tall"			"38"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"../hud/freezecam_black_bg"
 				"scaleImage"		"1"	
 			}
@@ -56,7 +56,7 @@
 				"wide"			"36"
 				"tall"			"36"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"../hud/leaderboard_nemesis_freezecam"
 				"scaleImage"	"1"	
 			}		
@@ -76,7 +76,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"labelText"		"%nemesisname%"
 				"textAlignment"		"west"
 			}
@@ -94,7 +94,7 @@
 			"wide"			"266"
 			"tall"			"48"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/color_panel_blu"
 			"scaleImage"		"1"	
 		}
@@ -115,7 +115,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#FreezePanel_Killer"
 			"textAlignment"		"Left"
 			"dulltext"		"0"
@@ -138,7 +138,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%killername%"
 			"textAlignment"		"Left"
 		}
@@ -156,7 +156,7 @@
 			"wide"			"31"
 			"tall"			"31"
 			"visible"		"1"
-			"enabled"		"1"	
+				
 			"HealthBonusPosAdj"	"9"
 			"HealthDeathWarning"	"0.49"
 			"TFFont"		"HudFontSmall"
@@ -213,7 +213,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#FreezePanel_Item"
 			"textAlignment"	"Left"
 			"dulltext"		"0"
@@ -241,7 +241,7 @@
 			"wide"			"256"
 			"tall"			"33"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/color_panel_blu"
 			"scaleImage"		"1"	
 			
@@ -265,7 +265,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#FreezePanel_Killer"
 			"textAlignment"		"North-West"
 			"dulltext"		"0"
@@ -282,7 +282,7 @@
 			"wide"			"31"
 			"tall"			"31"
 			"visible"		"1"
-			"enabled"		"1"	
+				
 			"HealthBonusPosAdj"	"9"
 			"HealthDeathWarning"	"0.49"
 			"TFFont"		"HudFontSmall"
@@ -303,7 +303,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%killername%"
 			"textAlignment"		"Left"
 		}
@@ -318,7 +318,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			""
 			"scaleImage"		"1"	
 			"color_outline"		"52 48 45 255"
@@ -345,7 +345,7 @@
 				"wide"			"161"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"../hud/color_panel_brown"
 				"scaleImage"		"1"	
 				
@@ -365,7 +365,7 @@
 				"wide"			"36"
 				"tall"			"36"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"../hud/leaderboard_nemesis_freezecam"
 				"scaleImage"	"1"	
 			}		
@@ -382,7 +382,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"labelText"		"%nemesisname%"
 				"textAlignment"		"west"
 			}
@@ -399,7 +399,7 @@
 				
 				
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"labelText"		"%nemesisadvice%"
 				"textAlignment"		"west"
 			}
@@ -427,7 +427,7 @@
 			"wide"			"166"
 			"tall"			"38"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/freezecam_black_bg"
 			"scaleImage"		"1"
 		}
@@ -441,7 +441,7 @@
 			"wide"			"36"
 			"tall"			"36"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/ico_camera"
 			"scaleImage"	"1"	
 		}		
@@ -458,7 +458,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%text%"
 			"textAlignment"		"west"
 			"dulltext"		"0"

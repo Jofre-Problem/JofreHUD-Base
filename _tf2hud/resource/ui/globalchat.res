@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"partychat"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"5"
 		"ypos"					"10"
 		"zpos"					"1001"

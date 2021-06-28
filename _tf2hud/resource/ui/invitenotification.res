@@ -116,7 +116,7 @@
 				
 		"visible"		"1"
 
-		"enabled"		"1"
+		
 		
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
@@ -155,7 +155,7 @@
 				
 		"visible"		"1"
 
-		"enabled"		"1"
+		
 		
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"

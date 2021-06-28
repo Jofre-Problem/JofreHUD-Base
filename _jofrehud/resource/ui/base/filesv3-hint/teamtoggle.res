@@ -7,7 +7,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"DisguiseHintIcon"
 	{
@@ -21,7 +21,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
 	}

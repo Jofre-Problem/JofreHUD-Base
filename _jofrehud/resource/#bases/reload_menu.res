@@ -12,7 +12,7 @@
 		"autoResize"		"1"
 		
 		"visible"			"0"					//1 to enable
-		"enabled"			"1"
+		
 		
 		"labelText"			"RM"
 		"font"				"Default"

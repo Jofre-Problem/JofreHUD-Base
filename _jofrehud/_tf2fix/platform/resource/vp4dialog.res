@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"0"
@@ -46,7 +46,7 @@
 		"AutoResize"		"2"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"ViewsSheet"
@@ -60,7 +60,7 @@
 		"AutoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 }

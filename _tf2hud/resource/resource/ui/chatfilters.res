@@ -10,7 +10,7 @@
 		"wide"			"130"
 		"tall"			"70"
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 
 	"joinleave_button"
@@ -24,7 +24,7 @@
 		"autoResize"		"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#filter_joinleave"
 		"textAlignment"		"west"
@@ -43,7 +43,7 @@
 		"autoResize"		"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#filter_namechange"
 		"textAlignment"		"west"
@@ -62,7 +62,7 @@
 		"autoResize"		"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#filter_publicchat"
 		"textAlignment"		"west"
@@ -81,7 +81,7 @@
 		"autoResize"		"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#filter_servermsg"
 		"textAlignment"		"west"
@@ -100,7 +100,7 @@
 		"autoResize"		"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#filter_teamchange"
 		"textAlignment"		"west"
@@ -120,7 +120,7 @@
 		"autoResize"		"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#filter_achievement"
 		"textAlignment"		"west"

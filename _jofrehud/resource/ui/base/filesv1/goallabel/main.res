@@ -6,7 +6,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"textAlignment"		"North"
 	}

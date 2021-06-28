@@ -14,7 +14,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"Cancel"
@@ -31,7 +31,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
@@ -60,7 +60,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"west"
@@ -89,7 +89,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Apply"
 		"textAlignment"		"west"
@@ -118,7 +118,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_AdvancedEllipsis"
 		"textAlignment"		"west"
@@ -147,7 +147,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_ImportSprayEllipsis"
 		"textAlignment"		"west"
@@ -176,7 +176,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"leftText"		" "
 		"rightText"		" "
@@ -195,7 +195,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"leftText"		" "
 		"rightText"		" "
@@ -214,7 +214,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_HighModels"
 		"textAlignment"		"west"
@@ -242,7 +242,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -264,7 +264,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -286,7 +286,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"LogoImage"
@@ -303,7 +303,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"image"		"logos/UI/spray"
 		"border"		"DepressedBorder"
@@ -327,7 +327,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"8"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -349,7 +349,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"6"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -371,7 +371,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Translucent"
 		"textAlignment"		"west"
@@ -399,7 +399,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"image"		"crosshair_bg"
 		"border"		"DepressedBorder"
@@ -423,7 +423,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		" "
 		"rightText"		" "
@@ -442,7 +442,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		" "
 		"rightText"		" "
@@ -461,7 +461,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		" "
 		"rightText"		" "
@@ -480,7 +480,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		" "
 		"rightText"		" "
@@ -499,7 +499,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -521,7 +521,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"image"		"crosshair_bg"
 		"border"		"DepressedBorder"
@@ -545,7 +545,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"6"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -567,7 +567,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_CrosshairDescription"
 		"textAlignment"		"west"
@@ -594,7 +594,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"topHorizLeft"
@@ -611,7 +611,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"392"
 		"textAlignment"		"west"
@@ -637,7 +637,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"133"
 		"textAlignment"		"west"
@@ -663,7 +663,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"133"
 		"textAlignment"		"west"
@@ -689,7 +689,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"133"
 		"textAlignment"		"west"
@@ -715,7 +715,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_ColorSliders"
 		"textAlignment"		"west"
@@ -741,7 +741,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_PlayerModel"
 		"textAlignment"		"west"
@@ -767,7 +767,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_SpraypaintImage"
 		"textAlignment"		"west"
@@ -794,7 +794,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_SpraypaintServerNote"
 		"textAlignment"		"north-west"
@@ -821,7 +821,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_CrosshairDescription"
 		"textAlignment"		"west"
@@ -847,7 +847,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_CrosshairRed"
 		"textAlignment"		"east"
@@ -874,7 +874,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_CrosshairGreen"
 		"textAlignment"		"east"
@@ -901,7 +901,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_CrosshairBlue"
 		"textAlignment"		"east"
@@ -928,7 +928,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_CrosshairScale"
 		"textAlignment"		"west"
@@ -955,7 +955,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"DownloadFilterLabel"
@@ -972,7 +972,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_DownloadFilter_Title"
 		"textAlignment"		"west"
@@ -999,7 +999,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"

@@ -10,7 +10,7 @@
 		"wide"			"25"
 		"tall"			"25"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			""
 		"scaleImage"	"1"	
 		"color_outline"	"52 48 45 255"
@@ -27,7 +27,7 @@
 		"wide"			"f0"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
 		"proportionalToParent"	"1"
@@ -45,7 +45,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"239 128 73 255"
 		"PaintBackgroundType"	"2"
@@ -63,7 +63,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"command"		""
-		"enabled"		"1"
+		
 		"visible"		"1"
 		"labelText"		""
 		"paintbackground"	"0"	
@@ -82,7 +82,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"76 70 66 255"
 		"PaintBackgroundType"	"2"	
@@ -101,7 +101,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"76 70 66 255"
 		"PaintBackgroundType"	"0"	
@@ -120,7 +120,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"42 39 37 255"
 		"PaintBackgroundType"	"2"

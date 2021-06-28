@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"1"
 		"PaintBackgroundType"	"0"
@@ -85,7 +85,7 @@
 				"autoResize"	"1"
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"labelText"		"%quantity%"
 			}
 			
@@ -99,7 +99,7 @@
 				"wide"			"580"
 				"tall"			"5"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"loadout_solid_line"
 				"tileImage"		"1"
 			}			
@@ -116,7 +116,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labelText"		"#Store_Remove"
 				"font"			"HudFontSmallBold"
@@ -143,7 +143,7 @@
 				"autoResize"	"1"
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"labelText"		"%price%"
 				"fgcolor_override" "130 120 104 255"
 			}
@@ -160,7 +160,7 @@
 		"wide"			"f0"
 		"tall"			"55"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_header"
 		"tileImage"		"1"
 	}				
@@ -174,7 +174,7 @@
 		"wide"			"f0"
 		"tall"			"60"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
 	}				
@@ -188,7 +188,7 @@
 		"wide"			"f0"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
 	}				
@@ -213,7 +213,7 @@
 			"wide"			"f0"
 			"tall"			"10"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"loadout_solid_line"
 			"scaleImage"	"1"
 		}				
@@ -233,7 +233,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		
 		"SeparatorLine"
@@ -246,7 +246,7 @@
 			"wide"			"600"
 			"tall"			"5"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"loadout_solid_line"
 			"tileImage"		"1"
 		}				
@@ -266,7 +266,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 		}
 		
 		"ItemListContainerScroller"
@@ -305,7 +305,7 @@
 					"wide"			"32"
 					"tall"			"32"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"store_special"
 					"scaleImage"	"1"
 				}
@@ -333,7 +333,7 @@
 						"autoResize"	"1"
 						
 						"visible"		"1"
-						"enabled"		"1"
+						
 					}
 					"WashingtonStateSalesTaxLabel"
 					{
@@ -350,7 +350,7 @@
 						"autoResize"	"1"
 						
 						"visible"		"1"
-						"enabled"		"1"
+						
 						"fgcolor_override" "130 120 104 255"
 					}
 					"TotalSubtextLabelB"
@@ -368,7 +368,7 @@
 						"autoResize"	"1"
 						
 						"visible"		"1"
-						"enabled"		"1"
+						
 						"fgcolor_override" "130 120 104 255"
 					}
 					
@@ -386,7 +386,7 @@
 						"autoResize"	"1"
 						
 						"visible"		"1"
-						"enabled"		"1"
+						
 						"labelText"		"%totalprice%"
 						"fgcolor_override" "130 120 104 255"
 					}
@@ -407,7 +407,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#Store_Checkout"
 			"font"			"HudFontSmallBold"
@@ -432,7 +432,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#Store_ContinueShopping"
 			"font"			"HudFontSmallBold"

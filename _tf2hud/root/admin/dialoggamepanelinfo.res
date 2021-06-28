@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"SysMenu"
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"AnAnimatingImagePanel"
@@ -39,7 +39,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"Panels"
@@ -53,7 +53,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 	}
 	"Player List"
@@ -67,7 +67,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"Ban list"
@@ -81,7 +81,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"ServerLog"
@@ -95,7 +95,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"ChatPanel"
@@ -109,7 +109,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"ServerConfigPanel"
@@ -123,7 +123,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"GraphsPanel"
@@ -137,7 +137,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"BudgetPanel"
@@ -151,7 +151,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"ServerInfo"
@@ -165,7 +165,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 }

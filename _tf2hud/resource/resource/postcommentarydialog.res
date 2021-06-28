@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#GameUI_CommentaryDialogTitle"
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Label"
 		"textAlignment"		"west"
@@ -47,7 +47,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GAMEUI_Commentary_HowToUse"
 		"textAlignment"		"west"
@@ -66,7 +66,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#vgui_ok"
 		"textAlignment"		"west"

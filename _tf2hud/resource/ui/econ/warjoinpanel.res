@@ -11,7 +11,7 @@
 		"tall"			"f0"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"0"
@@ -40,7 +40,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"0 0 0 240"
 		}
@@ -57,7 +57,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"			""
 			"bgcolor_override"	"0 0 0 220"
@@ -78,7 +78,7 @@
 			"autoResize"	"3"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"border"		"MainMenuBGBorder"
 
@@ -94,7 +94,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
@@ -126,7 +126,7 @@
 					"wide"			"14"
 					"tall"			"14"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"close_button"
 					"scaleImage"	"1"
 				}				
@@ -154,7 +154,7 @@
 					"wide"			"200"
 					"tall"			"p0.8"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"center"
@@ -173,7 +173,7 @@
 					"wide"			"o1"
 					"tall"			"40"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"glyph_alert"
 		
 					"proportionaltoparent"	"1"
@@ -205,7 +205,7 @@
 					
 					"pinCorner"		"3"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 					"textinsetx"	"25"
 					"use_proportional_insets" "1"
@@ -242,7 +242,7 @@
 					
 					"pinCorner"		"3"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 					"textinsetx"	"25"
 					"use_proportional_insets" "1"
@@ -297,7 +297,7 @@
 					"wide"			"p1"
 					"tall"			"o1"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 
 					if_war_active
@@ -327,7 +327,7 @@
 					{
 						"visible"		"0"
 					}
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"heavy_pyro_war/war_screen_heavy"
 					"proportionaltoparent" "1"
@@ -347,7 +347,7 @@
 					{
 						"visible"		"0"
 					}
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"heavy_pyro_war/war_screen_pyro"
 					"proportionaltoparent" "1"
@@ -365,7 +365,7 @@
 						"wide"			"p0.80"
 						"tall"			"o1"
 						"visible"		"1"
-						"enabled"		"1"
+						
 						"scaleImage"	"1"
 						"image"			"heavy_pyro_war/winner_screen_pyro"
 						"proportionaltoparent" "1"
@@ -382,7 +382,7 @@
 					"wide"			"p1"
 					"tall"			"o1"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"proportionaltoparent" "1"
 
 					if_war_active
@@ -410,7 +410,7 @@
 							"wide"			"p1"
 							"tall"			"o0.25"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"scaleImage"	"1"
 							"image"			"heavy_pyro_war/war_screen_foreground"
 							"proportionaltoparent" "1"
@@ -429,7 +429,7 @@
 							"wide"			"p1"
 							"tall"			"o0.25"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"scaleImage"	"1"
 							"image"			"heavy_pyro_war/winner_screen_foreground"
 							"proportionaltoparent" "1"
@@ -460,7 +460,7 @@
 					"wide"			"270"
 					"tall"			"200"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"font"			"HudFontMediumBold"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north"
@@ -518,7 +518,7 @@
 					"wide"			"500"
 					"tall"			"200"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"font"			"HudFontSmall"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north"
@@ -548,7 +548,7 @@
 					"wide"			"270"
 					"tall"			"200"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"font"			"HudFontMediumBold"
 					"fgcolor_override"	"HUDRedTeamSolid"
 					"textAlignment"	"north"
@@ -606,7 +606,7 @@
 					"wide"			"f0"
 					"tall"			"200"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"font"			"HudFontSmall"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north"
@@ -660,7 +660,7 @@
 							"wide"			"p0.8"
 							"tall"			"200"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"font"			"HudFontSmallest"
 							"fgcolor_override"	"TanLight"
 							"textAlignment"	"north"
@@ -681,7 +681,7 @@
 							
 							"pinCorner"		"3"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							
 							"textinsetx"	"25"
 							"use_proportional_insets" "1"
@@ -721,7 +721,7 @@
 							
 							"pinCorner"		"3"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							
 							"textinsetx"	"25"
 							"use_proportional_insets" "1"
@@ -770,7 +770,7 @@
 							"wide"			"p0.8"
 							"tall"			"50"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"font"			"HudFontSmallest"
 							"fgcolor_override"	"TanLight"
 							"textAlignment"	"center"
@@ -788,7 +788,7 @@
 							"wide"			"o1"
 							"tall"			"80"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"image"			"animated/tf2_logo_hourglass"
 		
 							"proportionaltoparent"	"1"
@@ -815,7 +815,7 @@
 							"wide"			"p0.8"
 							"tall"			"50"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"font"			"HudFontSmallestBold"
 							"fgcolor_override"	"TanLight"
 							"textAlignment"	"center"
@@ -835,7 +835,7 @@
 							
 							"pinCorner"		"3"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							
 							"textinsetx"	"25"
 							"use_proportional_insets" "1"
@@ -884,7 +884,7 @@
 							"wide"			"30"
 							"tall"			"o1"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"scaleImage"	"1"
 							"image"			"glyph_alert"
 							"proportionaltoparent" "1"
@@ -902,7 +902,7 @@
 							"wide"			"p0.6"
 							"tall"			"50"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"font"			"HudFontSmallest"
 							"fgcolor_override"	"TanLight"
 							"textAlignment"	"west"
@@ -922,7 +922,7 @@
 							
 							"pinCorner"		"3"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							
 							"textinsetx"	"25"
 							"use_proportional_insets" "1"
@@ -973,7 +973,7 @@
 					"wide"			"100"
 					"tall"			"o1"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"image"		"heavy_pyro_war/heavy_logo"
 					"proportionaltoparent" "1"
@@ -991,7 +991,7 @@
 					"wide"			"100"
 					"tall"			"o1"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"image"		"heavy_pyro_war/pyro_logo"
 					"proportionaltoparent" "1"
@@ -1023,7 +1023,7 @@
 						
 						"pinCorner"		"3"
 						"visible"		"1"
-						"enabled"		"1"
+						
 						
 						"textinsetx"	"25"
 						"use_proportional_insets" "1"
@@ -1075,7 +1075,7 @@
 						
 						"pinCorner"		"3"
 						"visible"		"1"
-						"enabled"		"1"
+						
 						
 						"textinsetx"	"25"
 						"use_proportional_insets" "1"
@@ -1114,7 +1114,7 @@
 					"wide"			"270"
 					"tall"			"200"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north-west"

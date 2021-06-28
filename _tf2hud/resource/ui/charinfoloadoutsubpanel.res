@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -47,7 +47,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""
 		"textAlignment"		"south-west"
@@ -72,7 +72,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""
 		"textAlignment"		"south-west"
@@ -97,7 +97,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""
 		"textAlignment"		"south-west"
@@ -123,7 +123,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""
 		"textAlignment"		"south-west"
@@ -148,7 +148,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""
 		"textAlignment"		"south-west"
@@ -173,7 +173,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""
 		"textAlignment"		"south-west"
@@ -199,7 +199,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""
 		"textAlignment"		"south-west"
@@ -224,7 +224,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""
 		"textAlignment"		"south-west"
@@ -249,7 +249,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""
 		"textAlignment"		"south-west"
@@ -275,7 +275,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""
 		"textAlignment"		"south-west"
@@ -303,7 +303,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 
 		"pin_to_sibling"               "ShowBackpackButton"
 		"pin_corner_to_sibling"        "4"          
@@ -321,7 +321,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""
 		"textAlignment"		"south-west"
@@ -349,7 +349,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 
 		"pin_to_sibling"               "ShowCraftingButton"
 		"pin_corner_to_sibling"        "4"          
@@ -367,7 +367,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""
 		"textAlignment"		"south-west"
@@ -395,7 +395,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 
 		"pin_to_sibling"               "ShowArmoryButton"
 		"pin_corner_to_sibling"        "4"          
@@ -413,7 +413,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""
 		"textAlignment"		"south-west"
@@ -441,7 +441,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 
 		"pin_to_sibling"               "ShowTradeButton"
@@ -460,7 +460,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			""
 		"textAlignment"		"south-west"
@@ -488,7 +488,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 
 		"pin_to_sibling"               "ShowPaintkitsButton"
@@ -511,7 +511,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	"ItemsLabel"
 	{
@@ -528,7 +528,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"fgcolor"		"117 107 94 255"
 		"centerwrap"	"1"
 	}
@@ -548,7 +548,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	"NoGCLabel"
@@ -566,7 +566,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	"SelectLabel"
@@ -584,7 +584,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "117 107 94 255"
 	}
 	"LoadoutChangesLabel"
@@ -602,7 +602,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	
@@ -641,7 +641,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"?"
 		"font"			"HudFontSmallBold"
@@ -691,7 +691,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -710,7 +710,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -727,7 +727,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -757,7 +757,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -777,7 +777,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 		}
 		"NextButton"
@@ -792,7 +792,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -822,7 +822,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -866,7 +866,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -885,7 +885,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -902,7 +902,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -932,7 +932,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -949,7 +949,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -979,7 +979,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -999,7 +999,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 		}
 		"NextButton"
@@ -1014,7 +1014,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -1044,7 +1044,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -1088,7 +1088,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1107,7 +1107,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1124,7 +1124,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -1154,7 +1154,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1171,7 +1171,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -1201,7 +1201,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -1221,7 +1221,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 		}
 		"NextButton"
@@ -1236,7 +1236,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -1266,7 +1266,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -1310,7 +1310,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1329,7 +1329,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1346,7 +1346,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -1376,7 +1376,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1393,7 +1393,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -1423,7 +1423,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -1443,7 +1443,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 		}
 		"NextButton"
@@ -1458,7 +1458,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -1488,7 +1488,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -1532,7 +1532,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1551,7 +1551,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1568,7 +1568,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -1598,7 +1598,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1615,7 +1615,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -1645,7 +1645,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -1665,7 +1665,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 		}
 		"NextButton"
@@ -1680,7 +1680,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -1710,7 +1710,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -1754,7 +1754,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1773,7 +1773,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1790,7 +1790,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -1820,7 +1820,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1837,7 +1837,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -1867,7 +1867,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -1887,7 +1887,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 		}
 		"NextButton"
@@ -1902,7 +1902,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -1932,7 +1932,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -1975,7 +1975,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1994,7 +1994,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -2011,7 +2011,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -2041,7 +2041,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -2058,7 +2058,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -2088,7 +2088,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -2108,7 +2108,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 		}
 	}	

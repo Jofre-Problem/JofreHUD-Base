@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/notification_black"
 		"scaleImage"	"1"
 	}
@@ -26,7 +26,7 @@
 		"wide"			"30"
 		"tall"			"30"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"passtime_ball"
 	}
@@ -43,7 +43,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Passtime_HowToPlay"
 		"textAlignment"	"North-West"
 		"dulltext"		"0"

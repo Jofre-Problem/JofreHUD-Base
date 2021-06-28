@@ -5,7 +5,7 @@
 		"fieldName"		"ZoomButton"
 		
 		
-		"enabled"		"1"
+		
 		
 		"textAlignment"	"center"
 		"dulltext"		"0"

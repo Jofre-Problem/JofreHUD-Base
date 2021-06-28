@@ -11,7 +11,7 @@
 		
 		"pinCorner"	"0"
 		"visible"	"1"
-		"enabled"	"1"
+		
 	}
 	"mp_timelimit"
 	{
@@ -24,7 +24,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"
@@ -41,7 +41,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"textAlignment"		"west"
 	}
@@ -56,7 +56,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"		"west"
 	}	
 	"sv_minratelabel"
@@ -70,7 +70,7 @@
 		
 		"pinCorner"	"0"
 		"visible"	"1"
-		"enabled"	"1"
+		
 	}	
 	"sv_minrate"
 	{
@@ -83,7 +83,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"
@@ -99,7 +99,7 @@
 		
 		"pinCorner"	"0"
 		"visible"	"1"
-		"enabled"	"1"
+		
 	}	
 	"sv_maxrate"
 	{
@@ -112,7 +112,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"
@@ -128,7 +128,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"		"west"
 	}	
 }

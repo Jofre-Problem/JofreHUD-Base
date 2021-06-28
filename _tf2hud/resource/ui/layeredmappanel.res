@@ -37,7 +37,7 @@
 			"wide"			"480"
 			"tall"			"480"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"mvm/campaign_1_map"
 		}
 	}
@@ -63,7 +63,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../HUD/color_panel_blu"
 
 			"src_corner_height"	"22"				// pixels inside the image
@@ -110,7 +110,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../HUD/tournament_panel_brown"
 
 			"src_corner_height"	"22"				// pixels inside the image
@@ -150,7 +150,7 @@
 		"wide"			"60"
 		"tall"			"60"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"mapitem_kv"
 		{
@@ -168,7 +168,7 @@
 		"wide"			"60"
 		"tall"			"60"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"mapitem_kv"
 		{

@@ -8,7 +8,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"leftText"			"0"
 		"rightText"			"255"

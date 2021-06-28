@@ -26,7 +26,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"paintborder"	"0"
 		"image"			"animated/tf2_logo_hourglass"
 		"scaleImage"	"1"
@@ -56,7 +56,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"useparentbg"		"1"
 			"proportionaltoparent" "1"
 		
@@ -77,7 +77,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%itemname%"
 			"textAlignment"	"west"
 			"fgcolor"		"235 226 202 255"
@@ -97,7 +97,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"west"
 			"fgcolor"		"117 107 94 255"
@@ -117,7 +117,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"labelText"		"%collectionname%"
 			"textAlignment"	"west"
 			"fgcolor"		"235 226 202 255"
@@ -137,7 +137,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"labelText"		"%collectionlist%"
 			"textAlignment"	"west"
 			"fgcolor"		"117 107 94 255"
@@ -171,7 +171,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#ItemPanelEquipped"
 			"textAlignment"	"center"
 			"fgcolor"		"200 80 60 255"
@@ -189,7 +189,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"0"
-			"enabled"		"1"
+			
 
 		}
 
@@ -206,7 +206,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"	"center"
 			"fgcolor"		"200 80 60 255"
@@ -227,7 +227,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"	"center"
 			"fgcolor"		"200 180 60 255"
@@ -248,7 +248,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"	"center"
 			"fgcolor"		"200 180 60 255"
@@ -268,7 +268,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 		}
 		"is_strange_icon"
@@ -283,7 +283,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 		}
 		"is_unusual_icon"
@@ -298,7 +298,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 		}
 		"is_loaner_icon"
@@ -313,7 +313,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 		}
 		
@@ -332,7 +332,7 @@
 			"paintborder"	"0"
 			"useparentbg"	"0"
 		
-			"enabled"		"1"
+			
 		
 			"model_xpos"	"1"
 			"model_ypos"	"1"

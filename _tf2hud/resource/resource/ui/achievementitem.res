@@ -71,7 +71,7 @@
 		"fillcolor"	"32 32 32 255"
 		"zpos"	"-1"
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	
 	"PercentageBar" // current completed
@@ -85,7 +85,7 @@
 		//"fillcolor"		"200 184 148 255"	// overwritten by code
 		"zpos"			"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	
 	"PercentageText" //Percent Text inside the percentage field
@@ -99,7 +99,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"0%"
 		"textAlignment"		"west"
@@ -119,7 +119,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Achievement_Show_HUD"
 		"textAlignment"		"west"

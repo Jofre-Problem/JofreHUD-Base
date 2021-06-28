@@ -65,7 +65,7 @@
 		"tall"					"10"
 		"textAlignment"			"north-west"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"proportionaltoparent"	"1"
 		"wrap"					"1"
 		"labelText"				"%status%"

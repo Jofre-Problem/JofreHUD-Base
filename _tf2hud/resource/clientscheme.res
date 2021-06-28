@@ -780,7 +780,7 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"24"
-				//"tall_lodef"	"80"
+				
 				"weight"	"500"
 				//"additive"	"0"
 				"antialias" "1"

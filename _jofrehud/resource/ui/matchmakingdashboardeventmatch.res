@@ -67,7 +67,7 @@
 		"wide"			"o1"
 		"tall"			"70"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 
@@ -84,7 +84,7 @@
 		"wide"		"250"
 		"tall"		"o0.25"
 		"visible"	"1"
-		"enabled"	"1"
+		
 
 		"DropShadow"
 		{
@@ -112,7 +112,7 @@
 			"wide"			"f0"
 			"tall"			"f0"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"mouseinputenabled" "0"
 			"image"			"mvm/mannup"
 			"scaleImage"	"1"
@@ -193,7 +193,7 @@
 		"wide"			"f20"
 		"tall"			"20"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"mouseinputenabled"	"1"
 		"eatmouseinput"	"0"	
 		"showtooltipswhenmousedisabled"	"1"
@@ -212,7 +212,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"

@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/color_panel_blu"
 		//"image_lodef"	"../hud/color_panel_blu"
 		
@@ -34,7 +34,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/color_panel_red"
 		//"image_lodef"	"../hud/color_panel_red"
 		
@@ -68,7 +68,7 @@
 		"wide"			"32"
 		"tall"			"32"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			""
 		"scaleImage"	"1"	
 		"color_outline"	"52 48 45 255"
@@ -88,7 +88,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		""
 		"textAlignment"	"West"
 		"dulltext"		"0"
@@ -108,7 +108,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"labelText"		"#TF_Coach_KickCoach"
 		"textAlignment"	"West"
@@ -128,7 +128,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"labelText"		"#TF_Coach_LikeCoach"
 		"textAlignment"	"West"

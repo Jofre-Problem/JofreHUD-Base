@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"0"
@@ -27,7 +27,7 @@
 		"wide"			"64"
 		"tall"			"24"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"command"		"ToggleSelection"	
 	}
 	"UncorrectedImage"
@@ -42,7 +42,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"LabelHue"
@@ -56,7 +56,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Hue:"
 		"textAlignment"		"west"
@@ -74,7 +74,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		"-360"
 		"rightText"		"360"
@@ -90,7 +90,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Saturation:"
 		"textAlignment"		"west"
@@ -108,7 +108,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		"-255"
 		"rightText"		"255"
@@ -124,7 +124,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Value:"
 		"textAlignment"		"west"
@@ -142,7 +142,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		"-255"
 		"rightText"		"255"
@@ -159,7 +159,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			"Tolerance:"
 		"textAlignment"		"west"
@@ -177,7 +177,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"leftText"			"0"
 		"rightText"			"255"
@@ -195,7 +195,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			"Fuzziness:"
 		"textAlignment"		"west"
@@ -213,7 +213,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"leftText"			"0"
 		"rightText"			"255"
@@ -231,7 +231,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			"Blend Factor:"
 		"textAlignment"		"west"
@@ -249,7 +249,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"leftText"			"0"
 		"rightText"			"255"
@@ -267,7 +267,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			"Colorize"
 		"textAlignment"		"west"
@@ -286,7 +286,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			"Invert Selection"
 		"textAlignment"		"west"

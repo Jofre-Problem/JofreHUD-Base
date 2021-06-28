@@ -39,7 +39,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"3"
 		"labelText"		"&3"	[$WIN32]
 		"labelText"		""		[$X360]
@@ -67,7 +67,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"4"
 		"labelText"		"&4"	[$WIN32]
 		"labelText"		""		[$X360]
@@ -98,7 +98,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_Cancel"
 		"textAlignment"	"center"
@@ -125,7 +125,7 @@
 		
 		"visible"		"1"
 		//"visible_lodef"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_SelectATeam"
 		"textAlignment"	"west"
 		"dulltext"		"0"
@@ -150,7 +150,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%bluecount%"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -174,7 +174,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%redcount%"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -195,7 +195,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fov"			"20"
 		
 		"model"
@@ -268,7 +268,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fov"			"20"
 		
 		"model"
@@ -341,7 +341,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Highlander_Mode"
 		"textAlignment"	"west"
 		"dulltext"		"0"
@@ -363,7 +363,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Highlander_Mode"
 		"textAlignment"	"west"
 		"dulltext"		"0"
@@ -385,7 +385,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Teams_Full"
 		"textAlignment"	"west"
 		"dulltext"		"0"
@@ -407,7 +407,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Teams_Full"
 		"textAlignment"	"west"
 		"dulltext"		"0"
@@ -427,7 +427,7 @@
 		"wide"			"40"
 		"tall"			"40"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../HUD/arrow_big_down"
 		"scaleImage"	"1"	
 	}

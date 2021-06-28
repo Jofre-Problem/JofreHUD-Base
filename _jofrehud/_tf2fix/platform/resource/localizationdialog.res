@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 	}
@@ -26,7 +26,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 	}
 	"FileMenu"
@@ -41,7 +41,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"FileMenuButton"
@@ -55,7 +55,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"&File"
 		"textAlignment"		"west"
@@ -74,7 +74,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"Edit Token"
 		"textAlignment"		"west"
@@ -93,7 +93,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -112,7 +112,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -131,7 +131,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -150,7 +150,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Show:"
 		"textAlignment"		"east"
@@ -168,7 +168,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"266"
 		"textAlignment"		"west"
@@ -186,7 +186,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Out-of-date tokens:"
 		"textAlignment"		"east"
@@ -204,7 +204,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Token name filter:"
 		"textAlignment"		"west"
@@ -222,7 +222,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Value filter:"
 		"textAlignment"		"east"

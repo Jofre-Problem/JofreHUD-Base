@@ -10,7 +10,7 @@
 		"wide"			"450"
 		"tall"			"185"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"
 		"iconColor"		"255 255 255 255"
@@ -26,7 +26,7 @@
 		"wide"			"48"
 		"tall"			"48"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_build"
 		"iconColor"		"255 255 255 255"
@@ -42,7 +42,7 @@
 		"wide"			"48"
 		"tall"			"48"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_build"
 		"iconColor"		"0 0 0 255"
@@ -61,7 +61,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"Engineering"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -82,7 +82,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"Engineering"
 		"textAlignment"	"Left"
 		"dulltext"		"1"
@@ -243,7 +243,7 @@
 		"wide"			"115"
 		"tall"			"138"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg_outline"
 		"iconColor"		"TanLight"
@@ -262,7 +262,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"1"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -282,7 +282,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Build_Action_Build"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -303,7 +303,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Build_Action_Build"
 		"textAlignment"	"Left"
 		"dulltext"		"1"
@@ -323,7 +323,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"0"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -343,7 +343,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -364,7 +364,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -384,7 +384,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"B"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -404,7 +404,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Cancel"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -422,7 +422,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 			
 		"fillcolor"		"0 0 0 190"
 		"PaintBackgroundType"	"0"

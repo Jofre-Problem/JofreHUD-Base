@@ -11,7 +11,7 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	
 		"MannCoImage"
 		{
@@ -20,7 +20,7 @@
 			"wide"			"420"
 			"tall"			"220"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 			"xpos"			"15"
 			"ypos"			"0"

@@ -10,7 +10,7 @@
 		"wide"			"350"
 		"tall"			"375"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"proportionaltoparent" "1"
 	}
 
@@ -25,7 +25,7 @@
 		"tall"			"p0.9"
 		"proportionaltoparent"	"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"border"		"MainMenuBGBorder"
 
 		"ModeBackgroundImage"
@@ -38,7 +38,7 @@
 			"wide"			"f0"
 			"tall"			"p0.7"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"mouseinputenabled" "0"
 			"image"			"competitive/comp_background_tier001a"
 			"scaleImage"	"1"
@@ -56,7 +56,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"255 255 255 252"
 			"proportionaltoparent"	"1"
@@ -77,7 +77,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"0"
 			"proportionaltoparent"	"1"
 			"fgcolor"		"Tanlight"
@@ -93,7 +93,7 @@
 			"wide"		"f0"
 			"tall"		"f0"
 			"visible"	"1"
-			"enabled"	"1"
+			
 			//"border"	"MainMenuHighlightBorder"
 
 			"LadderLabel"
@@ -106,7 +106,7 @@
 				"wide"			"50"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallestBold"
 				//"fgcolor_override"	"89 81 71 255"
 				"textAlignment"	"west"
@@ -127,7 +127,7 @@
 				
 				
 				"visible"			"1"
-				"enabled"			"1"
+				
 				"textHidden"		"0"
 				"editable"			"0"
 				"maxchars"			"-1"
@@ -156,7 +156,7 @@
 				
 				//"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
@@ -180,7 +180,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"0"
-				"enabled"		"1"
+				
 				
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
@@ -222,7 +222,7 @@
 				"tall"		"40"
 				"textAlignment"	"north-west"
 				"visible"	"1"
-				"enabled"	"1"
+				
 				"proportionaltoparent"	"1"
 			}
 
@@ -239,7 +239,7 @@
 				"tall"		"20"
 				"textAlignment"	"south-east"
 				"visible"	"1"
-				"enabled"	"1"
+				
 			}
 
 			"WorldwideColumnHead"
@@ -255,7 +255,7 @@
 				"tall"		"20"
 				"textAlignment"	"south-east"
 				"visible"	"1"
-				"enabled"	"1"
+				
 			}
 
 			"PlayersInGameLabel"
@@ -271,7 +271,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-west"
 				"visible"	"1"
-				"enabled"	"1"
+				
 			}
 
 			"PlayersInGameTotalLabel"
@@ -287,7 +287,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-west"
 				"visible"	"1"
-				"enabled"	"1"
+				
 			}
 
 				"PlayersInGameTotalNearbyValue"
@@ -302,7 +302,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -318,7 +318,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -335,7 +335,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-west"
 				"visible"	"1"
-				"enabled"	"1"
+				
 			}
 
 				"PlayersInGameMatchingNearbyValue"
@@ -350,7 +350,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -366,7 +366,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -383,7 +383,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-west"
 				"visible"	"1"
-				"enabled"	"1"
+				
 			}
 
 			"PlayersSearchingTotalLabel"
@@ -399,7 +399,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-west"
 				"visible"	"1"
-				"enabled"	"1"
+				
 			}
 
 				"PlayersSearchingTotalNearbyValue"
@@ -414,7 +414,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -430,7 +430,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -447,7 +447,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-west"
 				"visible"	"1"
-				"enabled"	"1"
+				
 			}
 
 				"PlayersSearchingMatchingNearbyValue"
@@ -462,7 +462,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -478,7 +478,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -495,7 +495,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-west"
 				"visible"	"1"
-				"enabled"	"1"
+				
 			}
 
 				"EmptyGameserversMatchingNearbyValue"
@@ -510,7 +510,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -526,7 +526,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -540,7 +540,7 @@
 				"wide"		"340"
 				"tall"		"60"
 				"visible"	"0"
-				"enabled"	"1"
+				
 
 				"PartyHasLeaverImage"
 				{
@@ -552,7 +552,7 @@
 					"wide"			"50"
 					"tall"			"50"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"mouseinputenabled" "0"
 					"image"			"pve/mvm_timeout_active_large"
 					"scaleImage"	"1"
@@ -571,7 +571,7 @@
 					"tall"		"60"
 					"textAlignment"	"west"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"wrap"		"1"
 					"fgcolor_override"	"250 114 45 255"
 				}

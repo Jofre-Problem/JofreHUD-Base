@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"TestItemBotControls"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"r200"
 		"ypos"					"150"
 		"wide"					"200"
@@ -31,7 +31,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"BotAnimationTitle"
@@ -49,7 +49,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"BotAnimationComboBox"
 	{
@@ -64,7 +64,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"			"0"
@@ -96,7 +96,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"disabledfgcolor2_override"	"117 107 94 255"
@@ -116,7 +116,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"disabledfgcolor2_override"	"117 107 94 255"
@@ -136,7 +136,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"disabledfgcolor2_override"	"117 107 94 255"
@@ -157,7 +157,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"BotAnimationSpeedSlider"
 	{
@@ -171,7 +171,7 @@
 		"leftText"		"0"
 		"rightText"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 
 	"CloseButton"
@@ -186,7 +186,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
@@ -210,7 +210,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#IT_Apply"
 		"font"			"HudFontSmallBold"
@@ -235,7 +235,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"R"
 		"font"			"HudFontSmallestBold"

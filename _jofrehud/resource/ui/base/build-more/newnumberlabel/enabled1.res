@@ -2,6 +2,6 @@
 {
 	"NewNumberLabel"
 	{	
-		"enabled"		"1"
+		
 	}
 }	

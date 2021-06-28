@@ -13,7 +13,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Object_dispenser"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -30,7 +30,7 @@
 		"wide"			"98"
 		"tall"			"105"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg_outline"
 		"iconColor"		"ProgressOffWhiteTransparent"
@@ -49,7 +49,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_NotBuilt"
 		"textAlignment"	"Center"
 		"dulltext"		"0"
@@ -69,7 +69,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Build_Unavailable"
 		"textAlignment"	"Center"
 		"dulltext"		"0"
@@ -86,7 +86,7 @@
 		"wide"			"18"
 		"tall"			"18"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 128"
@@ -106,7 +106,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"2"
 		"textAlignment"	"Center"
 		"dulltext"		"1"

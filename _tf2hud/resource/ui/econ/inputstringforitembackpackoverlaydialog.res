@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"InputStringForItemBackpackOverlayDialog"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-140"
 		"ypos"					"c-165"
 		"wide"					"320"
@@ -80,7 +80,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
 			"fgcolor"		"117 107 94 255"
@@ -103,7 +103,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"centerwrap"	"1"
 		"proportionalToParent"	"1"
 	}
@@ -118,7 +118,7 @@
 		"wide"			"120"
 		"tall"			"90"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"bgcolor_override"		"0 0 0 0"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
@@ -158,7 +158,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"centerwrap"	"1"
 		"proportionalToParent"	"1"
 	}
@@ -179,7 +179,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"centerwrap"	"1"
 		"proportionalToParent"	"1"
 	}
@@ -199,7 +199,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"centerwrap"	"1"
 		"proportionalToParent"	"1"
 	}
@@ -216,7 +216,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportionalToParent"	"1"
 	}
 
@@ -232,7 +232,7 @@
 		"tall"				"15"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"unicode"		"1"
@@ -255,7 +255,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"labelText"		"#ShuffleContents"
 		"font"			"HudFontSmallBold"
@@ -282,7 +282,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"1"
 		"labelText"		"#TF_VR_Close"
 		"font"			"HudFontSmallBold"
@@ -309,7 +309,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"labelText"		"#GetKey"
 		"font"			"HudFontSmallBold"
@@ -335,7 +335,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"labelText"		"#UseKey"
 		"font"			"HudFontSmallBold"

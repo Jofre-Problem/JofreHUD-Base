@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	
 		"Wireframe"
@@ -25,7 +25,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"1"
 			"labelText"		"Wireframe"
 			"textAlignment"		"west"
@@ -45,7 +45,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"2"
 			"labelText"		"Collision Model"
 			"textAlignment"		"west"
@@ -65,7 +65,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"3"
 			"labelText"		"No Ground"
 			"textAlignment"		"west"
@@ -85,7 +85,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"4"
 			"labelText"		"Lock View"
 			"textAlignment"		"west"
@@ -105,7 +105,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"4"
 			"labelText"		"Thumbnail Safe Zone"
 			"textAlignment"		"west"
@@ -125,7 +125,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"selected"		"1"
 			"tabPosition"	"5"
 			"labelText"		"Look At Camera"
@@ -146,7 +146,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"6"
 			"labelText"		"&Select Light Probe"
 			"textAlignment"		"center"

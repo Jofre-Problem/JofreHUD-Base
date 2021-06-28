@@ -9,7 +9,7 @@
 			"ControlName"	"Splitter"
 			"fieldName"		"PreviewSplitter"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"AutoResize"	"3"
 			
 			"xpos"			"0"
@@ -24,7 +24,7 @@
 					"ControlName"	"Splitter"
 					"fieldName"		"AssetSplitter"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 					"AutoResize"	"3"
 					"PinnedCornerOffsetX" "0"
@@ -44,7 +44,7 @@
 							
 							"PinnedCornerOffsetX" "6"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							
 							"labelText"		"Mod Filter"
 							"textAlignment"	"east"
@@ -65,7 +65,7 @@
 							"PinnedCornerOffsetX" "75"
 							"UnpinnedCornerOffsetX" "-70"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							
 							"textHidden"	"0"
 							"editable"		"0"
@@ -88,7 +88,7 @@
 							"labelText"		"#AssetPicker_Rescan"
 							"textAlignment"	"center"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							
 							"textHidden"	"0"
 							"Default"		"0"
@@ -108,7 +108,7 @@
 							"UnpinnedCornerOffsetX" "-6"
 							"UnpinnedCornerOffsetY" "-6"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							
 						}						
 					}
@@ -128,7 +128,7 @@
 							"UnpinnedCornerOffsetX" "-6"
 							"UnpinnedCornerOffsetY" "-64"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"tabPosition"	"1"
 						}
 						
@@ -145,7 +145,7 @@
 							"PinnedCornerOffsetX" "6"
 							"PinnedCornerOffsetY" "-34"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							
 							"labelText"		"Full Path"
 							"textAlignment"	"east"
@@ -189,7 +189,7 @@
 							"PinnedCornerOffsetX" "6"
 							"PinnedCornerOffsetY" "-6"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							
 							"labelText"		"Filter"
 							"textAlignment"	"east"
@@ -211,7 +211,7 @@
 							"PinnedCornerOffsetY" "-6"
 							"UnpinnedCornerOffsetX" "-6"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"tabPosition"	"2"
 							"textHidden"	"0"
 							"editable"		"1"

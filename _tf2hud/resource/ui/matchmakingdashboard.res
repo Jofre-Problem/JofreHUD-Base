@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"MMDashboard"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"cs-0.5"
 		"ypos"					"-5"
 		"zpos"					"10001"
@@ -42,7 +42,7 @@
 			"tall"		"f6"
 			"zpos"	"0"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"rotation"		"2"
 			"proportionaltoparent"	"1"
 			"scaleimage"	"1"
@@ -94,7 +94,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -124,7 +124,7 @@
 				"wide"			"20"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
 				"image"			"glyph_chat"
@@ -143,7 +143,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"1"
@@ -164,7 +164,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"1"
@@ -185,7 +185,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"1"
@@ -206,7 +206,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"1"
@@ -227,7 +227,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"1"
@@ -248,7 +248,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"1"
@@ -311,7 +311,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
@@ -356,7 +356,7 @@
 				"zpos"			"100"
 				"tall"			"f0"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallestBold"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"west"
@@ -393,7 +393,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
@@ -425,7 +425,7 @@
 					"wide"			"14"
 					"tall"			"14"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"glyph_options"
 					"scaleImage"	"1"
 				}				
@@ -443,7 +443,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
@@ -475,7 +475,7 @@
 					"wide"			"14"
 					"tall"			"14"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"close_button"
 					"scaleImage"	"1"
 				}				
@@ -534,7 +534,7 @@
 				"zpos"			"100"
 				"tall"			"f0"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallestBold"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"west"
@@ -562,7 +562,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
@@ -595,7 +595,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
@@ -632,7 +632,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
 				"image"			"glyph_quit"
@@ -652,7 +652,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
@@ -691,7 +691,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
 				"image"			"glyph_disconnect"
@@ -711,7 +711,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
@@ -749,7 +749,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
 				"image"			"icon_resume"
@@ -769,7 +769,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
@@ -807,7 +807,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
 				"image"			"glyph_multiplayer"

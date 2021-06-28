@@ -10,7 +10,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -77,7 +77,7 @@
 			"tall"			"14"
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"labelText"		"+"
 			"font"			"HudFontSmallBold"
@@ -105,7 +105,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	"ClassLabel"
@@ -123,7 +123,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 
 	"TauntCaratLabel"
@@ -141,7 +141,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	"TauntLabel"
@@ -159,7 +159,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"TopLine"
@@ -172,7 +172,7 @@
 		"wide"			"610"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
 		"tileVertically" "0"
@@ -191,7 +191,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"render_texture"	"0"
 		"fov"			"30"
@@ -248,7 +248,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
 			"fgcolor"		"117 107 94 255"
@@ -269,7 +269,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		""
 		"textAlignment"	"south"
 		"fgcolor"		"255 215 0 255"
@@ -286,7 +286,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"	"0"
 	}
@@ -328,7 +328,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -347,7 +347,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -364,7 +364,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -394,7 +394,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -429,7 +429,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_ClassLoadoutTauntInputHint"
 		"textAlignment"	"east"
 		"centerwrap"	"1"
@@ -448,7 +448,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -467,7 +467,7 @@
 			"wide"			"17"
 			"tall"			"17"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 			"image"			"glyph_items"
 		}
@@ -486,7 +486,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -505,7 +505,7 @@
 			"wide"			"17"
 			"tall"			"17"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 			"image"			"../hud/ico_reel"
 		}
@@ -548,7 +548,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -567,7 +567,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -584,7 +584,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -614,7 +614,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				

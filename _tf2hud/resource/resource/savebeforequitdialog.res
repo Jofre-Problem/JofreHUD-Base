@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#GameUI_QuitConfirmationTitle"
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_SaveAndQuit"
 		"textAlignment"		"west"
@@ -48,7 +48,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_DontSaveAndQuit"
 		"textAlignment"		"west"
@@ -69,7 +69,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"labelText"		"#vgui_Cancel"
 		"textAlignment"		"west"
@@ -90,7 +90,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_SaveAndQuitQuery_Info"
 		"textAlignment"		"north-west"

@@ -7,6 +7,6 @@
 	//	"fieldName"		"MainBackground"
 		"zpos"			"0"
 		"visible"		"1"
-	//	"enabled"		"1"
+	//	
 	}
 }	

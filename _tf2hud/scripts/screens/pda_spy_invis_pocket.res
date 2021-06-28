@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fg_image"	"pocket_watch_FG"
 		"bg_image"	"pocket_watch_BG"
 	}	

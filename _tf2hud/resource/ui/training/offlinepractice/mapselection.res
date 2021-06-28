@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"40 37 37 255"
 	}
@@ -59,7 +59,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_LessThan"
 		"font"			"HudFontSmallBold"
@@ -84,7 +84,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_GreaterThan"
 		"font"			"HudFontSmallBold"
@@ -112,7 +112,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"fgcolor_override"	"246 237 211 255"
 	}
@@ -133,7 +133,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"fgcolor_override"	"246 237 211 255"
 		"bgcolor_override"	"0 0 0 200"
@@ -151,7 +151,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			"#TF_StartPractice"
 		"font"				"HudFontSmallBold"
@@ -186,7 +186,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"fgcolor_override"	"246 237 211 255"
 	}
@@ -204,7 +204,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"			"0"
@@ -237,7 +237,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"fgcolor_override"	"246 237 211 255"
 	}
@@ -259,7 +259,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"maxchars"		"2"
 		"NumericInputOnly"	"1"
@@ -284,7 +284,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"fgcolor_override"	"116 105 92 255"
 	}

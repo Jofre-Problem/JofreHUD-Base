@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#BxMovieLayoffProgress"
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Percent Complete:  40%"
 		"textAlignment"		"west"
@@ -46,7 +46,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Time Remaining:    63 seconds"
 		"textAlignment"		"west"
@@ -65,7 +65,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Cancel"
 		"textAlignment"		"west"

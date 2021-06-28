@@ -7,7 +7,7 @@
 		"zpos"			"4"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_right"
@@ -19,7 +19,7 @@
 		"zpos"			"4"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_left"

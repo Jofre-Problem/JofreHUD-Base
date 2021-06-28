@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"Entities"
@@ -25,7 +25,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 	}
 	"CreateNodeButton"
@@ -39,7 +39,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Create Nodes"
 		"textAlignment"		"west"
@@ -61,7 +61,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Delete"
 		"textAlignment"		"west"
@@ -83,7 +83,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Center View"
 		"textAlignment"		"west"
@@ -105,7 +105,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Save"
 		"textAlignment"		"west"
@@ -127,7 +127,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Save and Test"
 		"textAlignment"		"west"
@@ -149,7 +149,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Entities:"
 		"textAlignment"		"west"

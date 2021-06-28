@@ -19,7 +19,7 @@
 		
 		//"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_MvM_LearnMore"
 		"font"			"HudFontSmallBold"
@@ -48,7 +48,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_MvM_MannUp"
 		"font"			"HudFontMediumBold"
@@ -87,7 +87,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_MvM_BootCamp"
 		"font"			"HudFontMediumBold"
@@ -152,7 +152,7 @@
 			"wide"			"180"
 			"tall"			"90"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"pve/mvm_friends_image"
 			"scaleImage"	"1"
 		}

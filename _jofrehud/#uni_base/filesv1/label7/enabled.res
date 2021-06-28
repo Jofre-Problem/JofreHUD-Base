@@ -2,6 +2,6 @@
 {
 	"Label7"
 	{
-		"enabled"		"1"
+		
 	}	
 }	

@@ -6,7 +6,7 @@
 		"fieldName"		"AnimationSetBrowser"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"FilterList"
@@ -16,7 +16,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"

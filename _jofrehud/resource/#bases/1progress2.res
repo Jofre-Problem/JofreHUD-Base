@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"progress"		"0.000000"
 	}

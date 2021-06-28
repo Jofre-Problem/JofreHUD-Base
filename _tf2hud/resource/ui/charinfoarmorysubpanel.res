@@ -9,7 +9,7 @@
 		"visible"		"1"
 		
 		
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -75,7 +75,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	"ArmoryLabel"
@@ -93,7 +93,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 
 	"FiltersLabel"
@@ -111,7 +111,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"FilterComboBox"
@@ -127,7 +127,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"			"0"
@@ -172,7 +172,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"TanLight"
 			"wrap"			"1"
 			"highlight_color"	"177 168 149 255"
@@ -291,7 +291,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"<"
 		"font"			"HudFontSmallBold"
@@ -318,7 +318,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	
@@ -334,7 +334,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		">"
 		"font"			"HudFontSmallBold"
@@ -358,7 +358,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#ArmoryButton_Wiki"
 		"font"			"HudFontSmallestBold"
@@ -383,7 +383,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#ArmoryButton_SetDetails"
 		"font"			"HudFontSmallestBold"
@@ -408,7 +408,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#ArmoryButton_Store"
 		"font"			"HudFontSmallBold"
@@ -432,7 +432,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"RELOADSCHEME"
 		"font"			"HudFontSmallestBold"

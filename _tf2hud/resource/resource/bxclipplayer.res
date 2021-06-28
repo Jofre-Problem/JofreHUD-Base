@@ -12,7 +12,7 @@
 		"autoResize"		"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"FirstFrame"
@@ -26,7 +26,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"W"
 		"textAlignment"		"center"
@@ -49,7 +49,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"["
 		"textAlignment"		"center"
@@ -71,7 +71,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Y"
 		"textAlignment"		"center"
@@ -94,7 +94,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Z"
 		"textAlignment"		"center"
@@ -117,7 +117,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"R"
 		"textAlignment"		"center"
@@ -140,7 +140,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"X"
 		"textAlignment"		"center"
@@ -163,7 +163,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"]"
 		"textAlignment"		"center"
@@ -185,7 +185,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"S"
 		"textAlignment"		"center"
@@ -208,7 +208,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"R"
 		"textAlignment"		"center"
@@ -231,7 +231,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"+"
 		"textAlignment"		"center"

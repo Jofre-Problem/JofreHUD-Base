@@ -9,7 +9,7 @@
 		"wide"		"268"
 		"tall"		"32"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Dialog_Server_With_Password_Info"
 		"textAlignment"		"center"
@@ -23,7 +23,7 @@
 		"wide"		"304"
 		"tall"		"24"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 	}
@@ -36,7 +36,7 @@
 		"wide"		"300"
 		"tall"		"24"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"1"
 		"editable"		"1"
@@ -51,7 +51,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Dialog_Server_With_Password_Server"
 		"textAlignment"		"east"
@@ -65,7 +65,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Dialog_Server_With_Password_Password"
 		"textAlignment"		"east"
@@ -79,7 +79,7 @@
 		"wide"		"64"
 		"tall"		"28"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"labelText"		"#Dialog_Server_With_Password_Connect"
 		"textAlignment"		"center"
@@ -95,7 +95,7 @@
 		"wide"		"64"
 		"tall"		"28"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"labelText"		"#Dialog_Server_With_Password_Cancel"
 		"textAlignment"		"center"
@@ -111,7 +111,7 @@
 		"wide"		"285"
 		"tall"		"320"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 }

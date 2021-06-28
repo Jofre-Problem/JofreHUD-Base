@@ -63,7 +63,7 @@
 				"zpos"			"100"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
 				"textAlignment"	"center"
@@ -108,7 +108,7 @@
 				"zpos"			"10"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"MapVotesPercentage"
 				"fgcolor_override"	"Tanlight"
 				"textAlignment"	"south"

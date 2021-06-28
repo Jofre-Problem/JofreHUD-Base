@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"2"
@@ -32,7 +32,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 
 		"fov"			"75"
 		"start_framed"		"1"

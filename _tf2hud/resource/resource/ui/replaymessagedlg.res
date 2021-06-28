@@ -10,7 +10,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"	"10"
 		"bgcolor_override"	"0 0 0 240"
 	}
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"10"
 		"paintborder"	"1"
 		"border"		"EconItemBorder"
@@ -42,7 +42,7 @@
 			"wide"			"18"
 			"tall"			"18"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"replay/replayicon"
 			"scaleImage"	"1"	
 		}		
@@ -62,7 +62,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"10"
 			"fgcolor_override" "255 255 255 255"
 		}
@@ -81,7 +81,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "255 255 255 255"
 			"wrap"			"1"
 		}
@@ -102,7 +102,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"tabPosition"	"10"
@@ -120,7 +120,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"2"
 			"font"			"ReplayMediumSmall"
 			"textAlignment"	"center"

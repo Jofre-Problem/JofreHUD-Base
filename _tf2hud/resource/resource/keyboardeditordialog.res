@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#KBEditorTitle"
@@ -27,7 +27,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#KBEditorSave"
 		"textAlignment"		"west"
@@ -49,7 +49,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#KBEditorCancel"
 		"textAlignment"		"west"
@@ -71,7 +71,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#KBEditorRevert"
 		"textAlignment"		"west"
@@ -93,7 +93,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#KBEditorUseDefaults"
 		"textAlignment"		"west"
@@ -115,7 +115,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 }

@@ -25,7 +25,7 @@
 	//	"autoResize"	"1"
 	//	
 	//	"visible"		"1"
-	//	"enabled"		"1"
+	//	
 	//	"centerwrap"	"1"
 	}
 	
@@ -44,7 +44,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"paintbackground" "0"
 		"border"		"BackpackItemBorder_SelfMade"
 	}
@@ -58,7 +58,7 @@
 		"wide"			"16"
 		"tall"			"16"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"backpack_jewel_modify_target_b_g"
 		"tileImage"		"0"
 		"tileVertically" "0"

@@ -15,7 +15,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"MapList"
@@ -26,7 +26,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -43,7 +43,7 @@
 	//	
 	//	
 	//	"visible"		"1"
-	//	"enabled"		"1"
+	//	
 	//	
 		"labelText"		"#GameUI_Map"
 	//	"textAlignment"		"west"

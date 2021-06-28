@@ -11,7 +11,7 @@
 	//	"tall"			"19"
 		
 		
-		"enabled"		"1"
+		
 		"labelText"		"%metal%"
 		"textAlignment"	"Left"	
 	}

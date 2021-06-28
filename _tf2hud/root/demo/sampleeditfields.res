@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Label on top"
 		"textAlignment"		"west"
@@ -28,7 +28,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textAlignment"		"west"
 		"default"		"0"
@@ -45,7 +45,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Label at left"
 		"textAlignment"		"west"
@@ -61,7 +61,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textAlignment"		"west"
 		"default"		"0"

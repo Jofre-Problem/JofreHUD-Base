@@ -8,7 +8,7 @@
 		"wide"	"102"
 		"tall"  "36"
 		"visible" "1"
-		"enabled" "1"
+		
 
 		"PaintBackgroundType"	"2"
 		
@@ -25,7 +25,7 @@
 		"wide"	"115"
 		"tall"  "36"
 		"visible" "1"
-		"enabled" "1"
+		
 
 		"PaintBackgroundType"	"2"
 		
@@ -43,7 +43,7 @@
 		"wide"	"108"
 		"tall"  "36"
 		"visible" "1"
-		"enabled" "1"
+		
 
 		"PaintBackgroundType"	"2"
 
@@ -60,7 +60,7 @@
 		"wide"	"117"
 		"tall"  "36"
 		"visible" "1"
-		"enabled" "1"
+		
 
 		"PaintBackgroundType"	"2"
 
@@ -78,7 +78,7 @@
 		"wide"	"136"
 		"tall"  "36"
 		"visible" "1"
-		"enabled" "1"
+		
 
 		"PaintBackgroundType"	"2"
 
@@ -97,7 +97,7 @@
 		"wide"	"160"
 		"tall"  "36"
 		"visible" "1"
-		"enabled" "1"
+		
 
 		"PaintBackgroundType"	"2"
 
@@ -117,7 +117,7 @@
 		"wide"	"60"
 		"tall"  "36"
 		"visible" "1"
-		"enabled" "1"
+		
 
 		"PaintBackgroundType"	"2"
 
@@ -134,7 +134,7 @@
 		"wide"	"65"
 		"tall"  "36"
 		"visible" "1"
-		"enabled" "1"
+		
 
 		"PaintBackgroundType"	"2"
 
@@ -148,7 +148,7 @@
 	{
 		"fieldName" "HudSuitPower"
 		"visible" "1"
-		"enabled" "1"
+		
 		"xpos"	"16"
 		"ypos"	"396"
 		"wide"	"102"
@@ -177,7 +177,7 @@
 	{
 		"fieldName" "HudSuitPower"
 		"visible" "1"
-		"enabled" "1"
+		
 		"xpos"	"48"
 		"ypos"	"370"
 		"wide"	"102"
@@ -258,7 +258,7 @@
 	{
 		"fieldName" "HudDamageIndicator"
 		"visible" "1"
-		"enabled" "1"
+		
 		"DmgColorLeft" "255 0 0 0"
 		"DmgColorRight" "255 0 0 0"
 		
@@ -273,7 +273,7 @@
 	{
 		"fieldName" "HudZoom"
 		"visible" "1"
-		"enabled" "1"
+		
 		"Circle1Radius" "66"
 		"Circle2Radius"	"74"
 		"DashGap"	"16"
@@ -287,7 +287,7 @@
 		"ypos" 	"16"	[$WIN32]
 		"ypos" 	"32"	[$X360]
 		"visible" "1"
-		"enabled" "1"
+		
 		"SmallBoxSize" "32"
 		"MediumBoxWide"	"95"
 		//	"MediumBoxWide_hidef"	"78"
@@ -308,7 +308,7 @@
 	{
 		"fieldName" "HudCrosshair"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -317,7 +317,7 @@
 	{
 		"fieldName" "HudDeathNotice"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -326,7 +326,7 @@
 	{
 		"fieldName" "HudVehicle"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -335,7 +335,7 @@
 	{
 		"fieldName" "ScorePanel"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -344,7 +344,7 @@
 	{
 		"fieldName" "HudTrain"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -353,7 +353,7 @@
 	{
 		"fieldName" "HudMOTD"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -362,7 +362,7 @@
 	{
 		"fieldName" "HudMessage"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "f0"
 		"tall"	 "480"
 	}
@@ -371,7 +371,7 @@
 	{
 		"fieldName" "HudMenu"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -380,7 +380,7 @@
 	{
 		"fieldName" "HudCloseCaption"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"xpos"		"c-250"
 		"ypos"		"276"	[$WIN32]
 		"ypos"		"236"	[$X360]
@@ -402,7 +402,7 @@
 	{
 		"fieldName" "HudChat"
 		"visible" "0"
-		"enabled" "1"
+		
 		"xpos"	"0"
 		"ypos"	"0"
 		"wide"	 "4"
@@ -413,7 +413,7 @@
 	{
 		"fieldName" "HudHistoryResource"
 		"visible" "1"
-		"enabled" "1"
+		
 		"xpos"	"r252"
 		"ypos"	"40"
 		"wide"	 "248"
@@ -430,7 +430,7 @@
 	{
 		"fieldName" "HudHistoryResource"
 		"visible" "1"
-		"enabled" "1"
+		
 		"xpos"	"r300"
 		"ypos"	"40" 
 		"wide"	 "248"
@@ -446,7 +446,7 @@
 	{
 		"fieldName" "HudGeiger"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -455,7 +455,7 @@
 	{
 		"fieldName" "HUDQuickInfo"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -464,7 +464,7 @@
 	{
 		"fieldName" "HudWeapon"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -472,7 +472,7 @@
 	{
 		"fieldName" "HudAnimationInfo"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -481,7 +481,7 @@
 	{
 		"fieldName" "HudPredictionDump"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -490,7 +490,7 @@
 	{
 		"fieldName"				"HudHintDisplay"
 		"visible"				"0"
-		"enabled"				"1"
+		
 		"xpos"					"c-240"
 		"ypos"					"c60"
 		"xpos"	"r148"	[$X360]
@@ -509,7 +509,7 @@
 	{
 		"fieldName"	"HudHintKeyDisplay"
 		"visible"	"0"
-		"enabled" 	"1"
+		
 		"xpos"		"r120"	[$WIN32]
 		"ypos"		"r340"	[$WIN32]
 		"xpos"		"r148"	[$X360]
@@ -530,7 +530,7 @@
 	{
 		"fieldName"	"HudSquadStatus"
 		"visible"	"1"
-		"enabled" "1"
+		
 		"xpos"	"r120"
 		"ypos"	"380"
 		"wide"	"104"
@@ -548,7 +548,7 @@
 	{
 		"fieldName"	"HudSquadStatus"
 		"visible"	"1"
-		"enabled" "1"
+		
 		"xpos"	"r182"
 		"ypos"	"348"
 		"wide"	"134"
@@ -568,7 +568,7 @@
 	{
 		"fieldName"	"HudPoisonDamageIndicator"
 		"visible"	"0"
-		"enabled" "1"
+		
 		"xpos"	"16"
 		"ypos"	"346"
 		"wide"	"136"
@@ -583,7 +583,7 @@
 	{
 		"fieldName"	"HudPoisonDamageIndicator"
 		"visible"	"0"
-		"enabled" "1"
+		
 		"xpos"	"48"
 		"ypos"	"264"
 		"wide"	"192"
@@ -612,7 +612,7 @@
 	{
 		"fieldName" "HUDAutoAim"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"	[$WIN32]
 		"tall"	 "480"	[$WIN32]
 		"wide"	 "960"	[$X360]
@@ -627,7 +627,7 @@
 		"wide"	"380"
 		"tall"  "40"
 		"visible" "1"
-		"enabled" "1"
+		
 		
 		"PaintBackgroundType"	"2"
 		
@@ -655,7 +655,7 @@
 		"wide"	"640"
 		"tall"  "480"
 		"visible" "1"
-		"enabled" "1"
+		
 		
 		"Alpha"	"255"
 		"PaintBackgroundType"	"2"
@@ -676,7 +676,7 @@
 	{
 		"fieldName"				"AchievementNotificationPanel"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"0"
 		"ypos"					"180"
 		"wide"					"f10"	[$WIN32]
@@ -692,7 +692,7 @@
 		"wide"			"640"
 		"tall"			"480"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"bgcolor_override"	"0 0 0 0"
 		"PaintBackgroundType"	"0" // rounded corners
 	}	

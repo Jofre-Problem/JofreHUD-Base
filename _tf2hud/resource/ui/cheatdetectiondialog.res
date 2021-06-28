@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"CheatDetectionDialog"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-160"
 		"ypos"					"155"
 		"wide"					"320"
@@ -26,7 +26,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"#TF_CheatDetected_Title"
 		"textAlignment"		"North"
@@ -45,7 +45,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"labelText"		"%reason%"
 		"textAlignment"		"North"
@@ -62,7 +62,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Ok"
 		"font"			"HudFontSmallBold"

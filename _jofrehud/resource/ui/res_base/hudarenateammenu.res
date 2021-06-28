@@ -50,7 +50,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_Cancel"
 		"textAlignment"	"center"

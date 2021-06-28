@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"QueueHUDStatus"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"rs1-5"
 		"ypos"					"1"
 		"zpos"					"1001"
@@ -44,7 +44,7 @@
 		"zpos"			"100"
 		"tall"			"f0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"font"			"AchievementTracker_Name"
 		"fgcolor_override"	"TanLight"
 		"textAlignment"	"east"

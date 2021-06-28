@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 	}
@@ -29,7 +29,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"render_texture"	"0"
 		"fov"			"40"
@@ -68,7 +68,7 @@
 		"wide"			"225"
 		"tall"			"67"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"store/store_inspector_bottom"
 		"scaleImage"	"1"
 	}
@@ -119,7 +119,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"centerwrap"	"1"
 	}		
@@ -138,7 +138,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor"		"TanLight"
 		"wrap"			"1"
 		"highlight_color"	"177 168 149 255"
@@ -433,7 +433,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -449,7 +449,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -465,7 +465,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -481,7 +481,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -497,7 +497,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -513,7 +513,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -532,7 +532,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"<"
 		"font"			"HudFontSmallBold"
@@ -555,7 +555,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		">"
 		"font"			"HudFontSmallBold"
@@ -581,7 +581,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"bgcolor_override"		"0 0 0 0"
 		"PaintBackgroundType"	"2"
 		"centerwrap"	"1"
@@ -602,7 +602,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"<"
 		"font"			"HudFontMediumSmallBold"
@@ -625,7 +625,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		">"
 		"font"			"HudFontMediumSmallBold"
@@ -649,7 +649,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Store_NextWeapon"
 		"font"			"HudFontSmallest"
@@ -674,7 +674,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Store_Zoom"
 		"font"			"HudFontSmallest"
@@ -699,7 +699,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Store_Team"
 		"font"			"HudFontSmallest"
@@ -726,7 +726,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"centerwrap"	"1"
 	}
@@ -745,7 +745,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"centerwrap"	"1"
 	}		

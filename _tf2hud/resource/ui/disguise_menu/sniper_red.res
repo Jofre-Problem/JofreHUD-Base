@@ -13,7 +13,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Class_Name_Sniper"
 		"textAlignment"	"Center"
 		"dulltext"		"0"
@@ -30,7 +30,7 @@
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_sniper_red"
 	}
@@ -45,7 +45,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
@@ -65,7 +65,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"2"
 		"textAlignment"	"Center"
 		"dulltext"		"1"
@@ -86,7 +86,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"8"
 		"textAlignment"	"Center"
 		"dulltext"		"1"

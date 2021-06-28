@@ -11,7 +11,7 @@
 		"tall"				"300"
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"auto_scale"		"1"
 		"auto_layout"		"1"
@@ -26,7 +26,7 @@
 			
 			"pinCorner"			"2"
 			"visible"			"1"
-			"enabled"			"1"
+			
 			
 			"labelText"			""
 			"textAlignment"		"south-west"
@@ -61,7 +61,7 @@
 				"wide"			"100"
 				"tall"			"200"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 			}				
 		}

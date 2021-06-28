@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"BgColor"		"0 0 0 192"
 		
 		paintborder		1
@@ -31,7 +31,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"..."
 		"textAlignment"	"west"
@@ -51,7 +51,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"textAlignment"	"center"
@@ -71,7 +71,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"textAlignment"	"west"

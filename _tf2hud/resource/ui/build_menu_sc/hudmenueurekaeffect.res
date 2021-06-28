@@ -10,7 +10,7 @@
 		"wide"			"250"
 		"tall"			"180"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"
 		"iconColor"		"255 255 255 255"
@@ -26,7 +26,7 @@
 		"wide"			"48"
 		"tall"			"48"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_build"
 		"iconColor"		"255 255 255 255"
@@ -42,7 +42,7 @@
 		"wide"			"48"
 		"tall"			"48"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_build"
 		"iconColor"		"0 0 0 255"
@@ -61,7 +61,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Teleport_Title"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -82,7 +82,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Teleport_Title"
 		"textAlignment"	"Left"
 		"dulltext"		"1"

@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"TestItemRoot"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"0"
 		"ypos"					"0"
 		"wide"					"f0"
@@ -31,7 +31,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	
@@ -62,7 +62,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		
 		"ClassCheckBox0"
@@ -80,7 +80,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -100,7 +100,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -120,7 +120,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -140,7 +140,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -160,7 +160,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -180,7 +180,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -200,7 +200,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -220,7 +220,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -240,7 +240,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -260,7 +260,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -294,7 +294,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		
 		"TestingWeaponLabel"
@@ -312,7 +312,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"TestItemEntry0"
 		{
@@ -329,7 +329,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 			"bgcolor_override" "24 24 24 128"
 		}
@@ -345,7 +345,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#IT_Item_Add"
 			"font"			"HudFontSmallestBold"
@@ -369,7 +369,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#IT_Item_Remove"
 			"font"			"HudFontSmallestBold"
@@ -396,7 +396,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"TestItemEntry1"
 		{
@@ -413,7 +413,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 			"bgcolor_override" "24 24 24 128"
 		}
@@ -429,7 +429,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#IT_Item_Add"
 			"font"			"HudFontSmallestBold"
@@ -453,7 +453,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#IT_Item_Remove"
 			"font"			"HudFontSmallestBold"
@@ -480,7 +480,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"TestItemEntry2"
 		{
@@ -497,7 +497,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 			"bgcolor_override" "24 24 24 128"
 		}
@@ -513,7 +513,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#IT_Item_Add"
 			"font"			"HudFontSmallestBold"
@@ -537,7 +537,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#IT_Item_Remove"
 			"font"			"HudFontSmallestBold"
@@ -564,7 +564,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"TestItemEntry3"
 		{
@@ -581,7 +581,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 			"bgcolor_override" "24 24 24 128"
 		}
@@ -597,7 +597,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#IT_Item_Add"
 			"font"			"HudFontSmallestBold"
@@ -621,7 +621,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#IT_Item_Remove"
 			"font"			"HudFontSmallestBold"
@@ -662,7 +662,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		
 		"AutoAddBotsCheckBox"
@@ -680,7 +680,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -701,7 +701,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -719,7 +719,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#IT_Bot_Add"
 			"font"			"HudFontSmallestBold"
@@ -745,7 +745,7 @@
 			
 			
 			"visible"			"1"
-			"enabled"			"1"
+			
 			"tabPosition"		"1"
 			"textHidden"		"0"
 			"editable"			"0"
@@ -774,7 +774,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#IT_Bot_RemoveAll"
 			"font"			"HudFontSmallestBold"
@@ -792,7 +792,7 @@
 	{
 		"fieldName"				"TestItemBotControls"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c100"
 		"ypos"					"150"
 		"wide"					"200"
@@ -812,7 +812,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#IT_ExportLoadout"
 		"font"			"HudFontSmallBold"
@@ -836,7 +836,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#IT_ImportLoadout"
 		"font"			"HudFontSmallBold"
@@ -860,7 +860,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#IT_ImportLast"
 		"font"			"HudFontSmallBold"
@@ -885,7 +885,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
@@ -909,7 +909,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#IT_Ok"
 		"font"			"HudFontSmallBold"
@@ -944,7 +944,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"textinsetx"	"25"
 			"textalignment" "center"
@@ -973,7 +973,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 				"image"			"glyph_steamworkshop"
 			}		
@@ -992,7 +992,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"R"
 		"font"			"HudFontSmallestBold"

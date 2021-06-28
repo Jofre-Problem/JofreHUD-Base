@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -30,6 +30,6 @@
 		"wide"		"400"
 		"tall"		"350"
 		"visible"	"1"
-		"enabled"	"1"
+		
 	}
 }

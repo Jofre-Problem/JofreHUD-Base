@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		
@@ -36,7 +36,7 @@
 			"visible"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"enabled"		"1"
+			
 			"defaultFgColor_override" "117 107 94 255"
 			"defaultBgColor_override" "0 0 0 0"
 			"armedFgColor_override" "235 226 202 255"
@@ -54,7 +54,7 @@
 		{
 			"wide"			"20"
 			"tall"			"20"
-			"enabled"		"1"
+			
 			"activeimage"	"checkmark"
 			"inactiveimage"	"checkmark"
 			"scaleImage"	"1"
@@ -76,7 +76,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"centerwrap"	"1"
 		"labelText"		"#CraftRecipe"
@@ -95,7 +95,7 @@
 		"wide"			"380"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
 		"tileVertically" "0"
@@ -138,7 +138,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"0"
 			"centerwrap"	"0"
 			"labelText"		""
@@ -179,7 +179,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
 			"fgcolor"		"117 107 94 255"
@@ -202,7 +202,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	
@@ -219,7 +219,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Ok"
 		"font"			"HudFontSmallBold"

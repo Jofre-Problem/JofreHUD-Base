@@ -10,7 +10,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -34,7 +34,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"centerwrap"	"1"
 		"fgcolor_override" "StoreGreen"
 	}
@@ -55,7 +55,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "Yellow"
 	}
@@ -74,7 +74,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_Support_Message_Show_Later"
 		"font"			"EconFontSmall"
@@ -107,7 +107,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_Support_Message_Acknowledge"
 		"font"			"EconFontSmall"

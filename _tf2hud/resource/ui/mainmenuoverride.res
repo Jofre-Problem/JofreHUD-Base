@@ -4,7 +4,7 @@
 	{
 		"fieldName"		"MainMenuOverride"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"0"
@@ -38,7 +38,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"textinsetx"	"25"
 				"use_proportional_insets" "1"
@@ -70,7 +70,7 @@
 					"wide"			"14"
 					"tall"			"14"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 				}				
 			}		
@@ -87,7 +87,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"flashbounds_x"	"50"
 			"flashbounds_y"	"65"
@@ -112,7 +112,7 @@
 			"CameraFlashSettings"
 			{
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"tileImage"		"0"
 				"scaleImage"	"1"
 				"zpos"			"9"
@@ -152,7 +152,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
 			"fgcolor"		"117 107 94 255"
@@ -170,7 +170,7 @@
 		"wide"			"o1.6"
 		"tall"			"f0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""
 		"scaleImage"	"1"
 		"proportionaltoparent"	"1"
@@ -231,7 +231,7 @@
 		"wide"			"256"
 		"tall"			"64"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../logo/new_tf2_logo"
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
@@ -247,7 +247,7 @@
 		"wide"			"600"
 		"tall"			"600"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"
 	}
 
@@ -281,7 +281,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textinsetx"	"25"
 		"labelText"		""
@@ -314,7 +314,7 @@
 			"wide"			"f2"
 			"tall"			"f2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 			"image"			"glyph_options"
 
@@ -393,7 +393,7 @@
 		"wide"			"30"
 		"tall"			"30"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"gc_dc"
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
@@ -442,7 +442,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"117 107 94 255"
 			"wrap"			"1"
 		}
@@ -462,7 +462,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"235 226 202 255"
 			"auto_wide_tocontents" "1"
 		}
@@ -480,7 +480,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 
 		"navUp"			"MOTD_ShowButtonPanel"
 		"navDown"		"SettingsButton"
@@ -498,7 +498,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"glyph_achievements"
 			"scaleImage"	"1"
 			"drawcolor" "210 125 33 255"
@@ -519,7 +519,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"255 255 255 255"
 		}
 	
@@ -535,7 +535,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"font"			"HudFontSmallestBold"
@@ -564,7 +564,7 @@
 				"wide"			"32"
 				"tall"			"32"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"button_Alert"
 				"scaleImage"	"1"
 			}
@@ -583,7 +583,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		
 		"navUp"			"Notifications_Panel"
@@ -600,7 +600,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"textinsetx"	"25"
 			"labelText"		""
@@ -633,7 +633,7 @@
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 				"image"			"button_streaming"
 
@@ -656,7 +656,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		
 		"navUp"			"Notifications_Panel"
@@ -673,7 +673,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"textinsetx"	"25"
 			"labelText"		""
@@ -706,7 +706,7 @@
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 				"image"			"button_quests_pda"
 
@@ -729,7 +729,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 
 		"navUp"			"MOTD_Panel"				// pass through when naving up to this or the fully displayed MOTD
 		"navDown"		"Notifications_Panel"		// when a sub element can't nav down it will pass through this
@@ -749,7 +749,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"font"			"HudFontSmallestBold"
@@ -778,7 +778,7 @@
 				"wide"			"32"
 				"tall"			"32"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"button_MOTD"
 				"scaleImage"	"1"
 			}
@@ -827,7 +827,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"PaintBackgroundType" "2"
 				"fgcolor_override"	"235 226 202 255"
 				"bgcolor_override"	"141 178 61 255"
@@ -846,7 +846,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -883,7 +883,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -899,7 +899,7 @@
 			"wide"			"25"
 			"tall"			"25"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"image"			"class_icons/filter_all_motd"
 			"scaleImage"	"1"
 		}
@@ -918,7 +918,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"LabelDark"
 			"wrap"			"1"
 		}
@@ -937,7 +937,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"LabelDark"
 		}
 		
@@ -951,7 +951,7 @@
 			"wide"			"250"
 			"tall"			"150"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"item_bg"
 			"scaleImage"	"1"
 			"proportionaltoparent" "1"
@@ -979,7 +979,7 @@
 				"wide"			"250"
 				"tall"			"250"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"class_icons/filter_all"
 				"scaleImage"	"0"
 			}
@@ -1021,7 +1021,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"fgcolor"		"LabelDark"
 					"wrap"			"1"
 				}
@@ -1039,7 +1039,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#MMenu_MOTD_URL"
 			"textinsetx"	"20"
@@ -1079,7 +1079,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
@@ -1109,7 +1109,7 @@
 				"wide"			"20"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}
@@ -1127,7 +1127,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
@@ -1157,7 +1157,7 @@
 				"wide"			"20"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}
@@ -1196,7 +1196,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -1230,7 +1230,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1250,7 +1250,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"LabelDark"
 			"wrap"			"1"
 		}
@@ -1321,7 +1321,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"textinsetx"	"25"
 			"use_proportional_insets" "1"
@@ -1353,7 +1353,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 			}		
 		}
@@ -1398,7 +1398,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"textinsetx"	"0"
 			"fgcolor_override"	"235 227 203 255"
 		}
@@ -1539,7 +1539,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"textinsetx"	"0"
 				"fgcolor_override"	"235 227 203 255"
 			}
@@ -1586,7 +1586,7 @@
 //					
 //					"pinCorner"		"3"
 //					"visible"		"1"
-//					"enabled"		"1"
+//					
 //					
 //					"use_proportional_insets" "1"
 //					"font"			"HudFontSmallBold"
@@ -1656,7 +1656,7 @@
 //					
 //					"pinCorner"		"3"
 //					"visible"		"1"
-//					"enabled"		"1"
+//					
 //					
 //					"use_proportional_insets" "1"
 //					"font"			"HudFontSmallBold"
@@ -1696,7 +1696,7 @@
 //				"tall"					"p0.5"
 				"tall"					"60"
 				"visible"				"1"
-				"enabled"				"1"
+				
 				"scaleImage"			"1"
 				"proportionaltoparent"	"1"
 
@@ -1852,7 +1852,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"textinsetx"	"20"
 				"fgcolor_override"	"235 227 203 255"
 			}
@@ -1869,7 +1869,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallBold"
@@ -1906,7 +1906,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallBold"
@@ -1941,7 +1941,7 @@
 				"tall"					"p0.5"
 				"textAlignment"			"north-west"
 				"visible"				"1"
-				"enabled"				"1"
+				
 				"scaleImage"			"1"
 				"proportionaltoparent"	"1"
 				"wrap"					"1"
@@ -1962,7 +1962,7 @@
 			"wide"					"40"
 			"tall"					"o1"
 			"visible"				"1"
-			"enabled"				"1"
+			
 			"image"					"info"
 			"scaleImage"			"1"
 			"proportionaltoparent"	"1"
@@ -1984,7 +1984,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"font"			"HudFontSmallestBold"
 		"labelText"		"#MMenu_ShowPromoCodes"
@@ -2034,7 +2034,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"textinsetx"	"100"
 			"use_proportional_insets" "1"
@@ -2068,7 +2068,7 @@
 				"wide"			"15"
 				"tall"			"15"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"glyph_create"
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
@@ -2103,7 +2103,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"textinsetx"	"100"
 			"use_proportional_insets" "1"
@@ -2136,7 +2136,7 @@
 				"wide"			"15"
 				"tall"			"15"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"glyph_create"
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
@@ -2170,7 +2170,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"textinsetx"	"100"
 			"use_proportional_insets" "1"
@@ -2203,7 +2203,7 @@
 				"wide"			"15"
 				"tall"			"15"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"glyph_create"
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
@@ -2238,7 +2238,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"textinsetx"	"100"
 			"use_proportional_insets" "1"
@@ -2271,7 +2271,7 @@
 				"wide"			"15"
 				"tall"			"15"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"glyph_create"
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
@@ -2289,7 +2289,7 @@
 		"wide"			"f0"
 		"tall"			"60"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
 	}				
@@ -2303,7 +2303,7 @@
 		"wide"			"f0"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
 	}	
@@ -2319,7 +2319,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textinsetx"	"25"
 		"use_proportional_insets" "1"
@@ -2347,7 +2347,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 			"image"			"glyph_items"
 		}		
@@ -2363,7 +2363,7 @@
 		"wide"			"32"
 		"tall"			"32"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../vgui/new"
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
@@ -2380,7 +2380,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textinsetx"	"25"
 		"use_proportional_insets" "1"
@@ -2409,7 +2409,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 			"image" "glyph_store"
 		}		
@@ -2427,7 +2427,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
@@ -2457,7 +2457,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 			"image"			"glyph_options"
 		}			
@@ -2475,7 +2475,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"+"
 		"textAlignment"	"north-west"
@@ -2504,7 +2504,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 			"image"			"glyph_options"
 			"scaleImage"	"1"
@@ -2523,7 +2523,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
@@ -2553,7 +2553,7 @@
 			"wide"			"18"
 			"tall"			"18"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"glyph_tutorial"
 			"scaleImage"	"1"
 		}				
@@ -2571,7 +2571,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
@@ -2600,7 +2600,7 @@
 			"wide"			"15"
 			"tall"			"15"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"glyph_achievements"
 			"scaleImage"	"1"
 		}				
@@ -2618,7 +2618,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
@@ -2647,7 +2647,7 @@
 			"wide"			"15"
 			"tall"			"15"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"glyph_forums"
 			"scaleImage"	"1"
 		}				
@@ -2665,7 +2665,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
@@ -2694,7 +2694,7 @@
 			"wide"			"15"
 			"tall"			"15"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"glyph_commentary"
 			"scaleImage"	"1"
 		}				
@@ -2712,7 +2712,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
@@ -2741,7 +2741,7 @@
 			"wide"			"15"
 			"tall"			"15"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"glyph_steamworkshop"
 			"scaleImage"	"1"
 		}				
@@ -2759,7 +2759,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
@@ -2788,7 +2788,7 @@
 			"wide"			"15"
 			"tall"			"15"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"glyph_tv"
 			"scaleImage"	"1"
 		}				
@@ -2806,7 +2806,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
@@ -2834,7 +2834,7 @@
 			"wide"			"15"
 			"tall"			"15"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"glyph_bug"
 			"scaleImage"	"1"
 		}				
@@ -2853,7 +2853,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_GameMenu_ExitReplay"
 		"font"			"HudFontSmallBold"
@@ -2878,7 +2878,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 			"image"			"glyph_quit"
 		}				
@@ -2897,7 +2897,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"useparentbg"		"1"
 	
 		"inset_eq_x"	"2"

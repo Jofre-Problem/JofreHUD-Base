@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	
@@ -27,7 +27,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"PaintBackgroundType"	"0"
 		"bgcolor_override" "0 0 0 128"
 	}
@@ -43,7 +43,7 @@
 		"wide"			"280"
 		"tall"			"300"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"paintbackground"	"0"
 		"border"		"TFFatLineBorderOpaque"
 		"PaintBorder"	"1"
@@ -59,7 +59,7 @@
 			"wide"			"260"
 			"tall"			"209"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"paintborder"	"1"
 			"border"		"StoreInnerShadowBorder"
 		}
@@ -75,7 +75,7 @@
 			"wide"			"275"
 			"tall"			"10"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"paintborder"	"0"
 			"PaintBackgroundType"	"0"
 			"paintbackground"	"1"
@@ -93,7 +93,7 @@
 			"wide"			"275"
 			"tall"			"58"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"paintborder"	"0"
 			"PaintBackgroundType"	"2"
 			"paintbackground"	"1"
@@ -114,7 +114,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"render_texture"	"0"
 		"fov"			"40"
@@ -189,7 +189,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"centerwrap"	"1"
 	}		
@@ -204,7 +204,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -220,7 +220,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -236,7 +236,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -252,7 +252,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -268,7 +268,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -284,7 +284,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -303,7 +303,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"<"
 		"font"			"HudFontSmallBold"
@@ -326,7 +326,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		">"
 		"font"			"HudFontSmallBold"
@@ -352,7 +352,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"bgcolor_override"		"0 0 0 0"
 		"PaintBackgroundType"	"2"
 		"centerwrap"	"1"
@@ -373,7 +373,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"<"
 		"font"			"HudFontMediumSmallBold"
@@ -397,7 +397,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		">"
 		"font"			"HudFontMediumSmallBold"
@@ -421,7 +421,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Store_NextWeapon"
 		"font"			"HudFontSmallest"
@@ -446,7 +446,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Store_Zoom"
 		"font"			"HudFontSmallest"
@@ -471,7 +471,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Store_Team"
 		"font"			"HudFontSmallest"
@@ -498,7 +498,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"centerwrap"	"1"
 	}
@@ -517,7 +517,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"centerwrap"	"1"
 	}		
@@ -534,7 +534,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
@@ -561,7 +561,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"close_button"
 			"scaleImage"	"1"
 		}				
@@ -578,7 +578,7 @@
 		"tall"			"22"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_BackCarat"
 		"font"			"HudFontSmallBold"
@@ -603,7 +603,7 @@
 		"tall"			"27"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Store_AddToCart"
 		"font"			"HudFontSmallishBold"

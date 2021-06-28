@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -29,7 +29,7 @@
 		"wide"			"f0"
 		"tall"			"p0.8"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"mouseinputenabled" "0"
 		"image"			"competitive/comp_background_tier001a"
 		"scaleImage"	"1"
@@ -367,7 +367,7 @@
 				"tall"			"p0.89"
 				"tall"			"f20"
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"mouseinputenabled" "1"
 				"scaleImage"	"1"
 				"entry_step"	"23"

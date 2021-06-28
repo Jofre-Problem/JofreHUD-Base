@@ -9,7 +9,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_left"
 	}
@@ -22,7 +22,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"B"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_right"

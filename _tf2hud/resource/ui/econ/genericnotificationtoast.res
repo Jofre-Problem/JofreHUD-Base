@@ -10,7 +10,7 @@
 		"wide"			"150"
 		"tall"			"50"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 
 	"AvatarBGPanel"
@@ -36,7 +36,7 @@
 		"wide"			"32"
 		"tall"			"32"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			""
 		"scaleImage"	"1"	
 		"color_outline"	"52 48 45 255"
@@ -55,7 +55,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"labelText"		"%avatartext%"
 		"textAlignment"	"West"
@@ -75,7 +75,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"labelText"		"%text%"
 		"textAlignment"	"West"

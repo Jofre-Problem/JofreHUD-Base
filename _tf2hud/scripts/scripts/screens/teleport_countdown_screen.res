@@ -24,7 +24,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Time Remaining"
 		"textAlignment"	"center"
@@ -47,7 +47,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"0"
 		"textAlignment"	"center"
@@ -70,7 +70,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"MALFUNCTION"
 		"textAlignment"	"center"

@@ -9,7 +9,7 @@
 		"wide"			"80"
 		"tall"			"16"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportionaltoparent" "1"
 		"eatmouseinput"	"0"		
 	} // EditableTooltip
@@ -26,7 +26,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labeltext"		"#TF_QuestView_Accept"
 		"textAlignment"	"center"
@@ -64,7 +64,7 @@
 		"wide"			"f0"
 		"tall"			"o0.25"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"proportionaltoparent"	"1"
 		"image"			"cyoa/node_view_contract_image"
@@ -152,7 +152,7 @@
 		"wide"			"f0"
 		"tall"			"o0.25"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 		"bgcolor_override"	"0 0 0 255"
@@ -169,7 +169,7 @@
 		"wide"			"f0"
 		"tall"			"o0.25"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 		"keyboardinputenabled"	"0"
@@ -253,7 +253,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"proportionaltoparent"	"1"
 		"image"			"info"
@@ -311,7 +311,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labeltext"		"#QuestLog_TurnIn"
 				"textAlignment"	"center"

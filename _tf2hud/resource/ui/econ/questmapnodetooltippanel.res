@@ -8,7 +8,7 @@
 		"tall"			"50"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"0"
@@ -26,7 +26,7 @@
 			"autoResize"	"3"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"

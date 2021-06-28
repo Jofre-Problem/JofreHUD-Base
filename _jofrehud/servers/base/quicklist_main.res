@@ -9,7 +9,7 @@
 		"wide"			"624"
 		"AutoResize"		"3"
 		
-		"enabled"		"1"
+		
 		
 		"paintbackground"	"1"
 	}

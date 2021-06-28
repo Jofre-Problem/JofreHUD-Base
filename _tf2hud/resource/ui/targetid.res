@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/color_panel_brown"
 		"scaleImage"		"1"
 		"teambg_1"		"../hud/color_panel_brown"
@@ -39,7 +39,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/color_panel_blu"
 		//"image_lodef"	"../hud/color_panel_blu"
 		
@@ -61,7 +61,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/color_panel_red"
 		//"image_lodef"	"../hud/color_panel_red"
 		
@@ -88,7 +88,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%targetname%"
 		"textAlignment"		"North-West"
 		"dulltext"		"0"
@@ -112,7 +112,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%targetdata%"
 		"textAlignment"		"Left"
 		"dulltext"		"0"
@@ -149,7 +149,7 @@
 		"wide"			"8"
 		"tall"			"8"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/leaderboard_class_heavy"
 		"scaleImage"	"1"
 	}
@@ -166,7 +166,7 @@
 		"wide"			"8"
 		"tall"			"8"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/leaderboard_streak"
 		"scaleImage"	"1"
 	}
@@ -181,7 +181,7 @@
 		"wide"			"32"
 		"tall"			"36"
 		"visible"		"1"
-		"enabled"		"1"	
+			
 		
 		"MoveableIconBG"
 		{
@@ -193,7 +193,7 @@
 			"wide"			"10"
 			"tall"			"36"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"icon"			"obj_status_alert_background_tall_nocolor"
 			"iconColor"		"HudBlack"
 			"scaleImage"	"1"
@@ -209,7 +209,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"icon"			"obj_status_sentrygun_1"
 			"drawcolor"		"ProgressOffWhite"
 			"scaleImage"	"1"
@@ -224,7 +224,7 @@
 			"wide"			"16"
 			"tall"			"8"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/eng_sel_item_movable"
 			"drawcolor"		"ProgressOffWhite"
 			"scaleImage"	"1"
@@ -244,7 +244,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%movekey%"
 			"textAlignment"		"North"
 			"dulltext"		"0"
@@ -263,7 +263,7 @@
 		"wide"			"11"
 		"tall"			"11"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			""
 		"scaleImage"	"1"	
 		"color_outline"	"52 48 45 255"

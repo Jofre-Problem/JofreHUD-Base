@@ -13,7 +13,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Object_Tele_Exit_360"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -30,7 +30,7 @@
 		"wide"			"98"
 		"tall"			"105"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg_outline"
 		"iconColor"		"ProgressOffWhite"
@@ -46,7 +46,7 @@
 		"wide"			"70"
 		"tall"			"70"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_demolish"
 		"iconColor"		"255 255 255 255"
@@ -62,7 +62,7 @@
 		"wide"			"60"
 		"tall"			"60"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_tele_exit"
 		"iconColor"		"255 255 255 128"
@@ -78,7 +78,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
 		"iconColor"		"ProgressOffWhite"
@@ -98,7 +98,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"%metal%"
 		"textAlignment"	"Left"	
 	}

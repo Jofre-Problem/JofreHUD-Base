@@ -9,7 +9,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#vgui_ok"
 		"dulltext"		"0"

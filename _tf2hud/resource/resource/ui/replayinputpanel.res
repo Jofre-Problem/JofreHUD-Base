@@ -10,7 +10,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"	"10"
 		"bgcolor_override"	"0 0 0 50"
 	}
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"10"
 		"bgcolor_override"	"ReplayBrowser.BgColor"
 		"border"		"EconItemBorder"
@@ -51,7 +51,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"10"
 		}
 		
@@ -70,7 +70,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"10"
 		}
 		
@@ -91,7 +91,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"bgcolor_override"		"117 107 95 255"
 			"fgcolor_override"		"202 190 164 255"
 			"tabPosition"	"10"
@@ -110,7 +110,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"2"
 			"labelText"		"#GameUI_CancelBold"
 			"font"			"ReplayMediumSmall"
@@ -135,7 +135,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"1"
 			"labelText"		"#Replay_Save"
 			"font"			"ReplayMediumSmall"

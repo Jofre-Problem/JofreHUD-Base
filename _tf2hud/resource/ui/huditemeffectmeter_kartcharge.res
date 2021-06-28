@@ -4,7 +4,7 @@
 	{
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"x_offset"		"0"
 		"xpos"			"10"	[$WIN32]
 		"ypos"			"r107"	[$WIN32]
@@ -28,13 +28,13 @@
 		"tall"			"75"
 		"visible"		"1"
 		"visible_minmode"	"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/misc_ammo_area_horiz2_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_horiz2_red"
-		//"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
+		
 		"teambg_3"		"../hud/misc_ammo_area_horiz2_blue"
-		//"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"				
+			
 	}
 	
 	"ItemEffectMeterLabel"
@@ -54,7 +54,7 @@
 		"xpos_minmode"			"0"
 		"wide_minmode"			"50"
 		"textAlignment_minmode"			"north-west"
-		"enabled"				"1"
+		
 		
 		"labelText"				"#TF_KART"
 		"textAlignment"			"center"
@@ -80,7 +80,7 @@
 		
 		
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"textAlignment"			"Left"
 		"dulltext"				"0"
 		"brighttext"			"0"
@@ -101,7 +101,7 @@
 		"tall_minmode"			"15"	
 		"pinCorner"				"2"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		
 		"labelText"				"%progresscount%"
 		"textAlignment"			"center"

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 		
@@ -26,7 +26,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"TextMessage"
@@ -40,7 +40,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"		"northwest"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -59,7 +59,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"Message Title"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -77,7 +77,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#PropertyDialog_OK"
 		"textAlignment"		"center"
 		"dulltext"		"0"

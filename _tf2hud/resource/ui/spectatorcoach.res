@@ -8,7 +8,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"specgui"
@@ -26,7 +26,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"border"		"TFThinLineBorder"
 	}
@@ -54,7 +54,7 @@
 		"wide"			"32"
 		"tall"			"32"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			""
 		"scaleImage"	"1"	
 		"color_outline"	"52 48 45 255"
@@ -80,7 +80,7 @@
 		"wide"			"16"
 		"tall"			"16"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"crosshairs/default"
 		"scaleImage"	"1"
 	}
@@ -100,7 +100,7 @@
 		
 		"visible"		"1"
 		"visible_minmode" "1"
-		"enabled"		"1"
+		
 		"labelText"		"%student_name%"
 		"textAlignment"		"west"
 	}
@@ -119,7 +119,7 @@
 		
 		"visible"		"1"
 		"visible_minmode"		"1"
-		"enabled"		"1"
+		
 		"labelText"		""
 		"textAlignment"		"west"
 	}	
@@ -138,7 +138,7 @@
 		
 		"visible"		"1"
 		"visible_minmode" "1"
-		"enabled"		"1"
+		
 		"labelText"		"%student_distance%"
 		"textAlignment"		"west"
 	}
@@ -154,7 +154,7 @@
 		
 		
 		"visible"		"1"	[$WIN32]
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Coach_StudentCommands"
 		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"		
@@ -171,7 +171,7 @@
 		
 		
 		"visible"		"1"	[$WIN32]
-		"enabled"		"1"
+		
 		"labelText"		""
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"		
@@ -188,7 +188,7 @@
 		
 		"visible"		"1"	[$WIN32]
 		"visible"		"0"	[$X360]
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Coach_ControlView"
 		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
@@ -205,7 +205,7 @@
 		
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
-		"enabled"		"1"
+		
 		"labelText"		""
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"
@@ -222,7 +222,7 @@
 		
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Coach_AttackDesc"
 		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
@@ -239,7 +239,7 @@
 		
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
-		"enabled"		"1"
+		
 		"labelText"		""
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"
@@ -256,7 +256,7 @@
 		
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Coach_DefendDesc"
 		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
@@ -273,7 +273,7 @@
 		
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%coach_command_1%"
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"
@@ -290,7 +290,7 @@
 		
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Coach_Slot1Desc"
 		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
@@ -307,7 +307,7 @@
 		
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%coach_command_2%"
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"
@@ -324,7 +324,7 @@
 		
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Coach_Slot2Desc"
 		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
@@ -378,7 +378,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#FreezePanel_Item"
 			"textAlignment"	"Left"
 			"dulltext"		"0"
@@ -398,7 +398,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"south"
 			"fgcolor"		"235 226 202 255"

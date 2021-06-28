@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"0 0 0 200"
 	}
@@ -28,7 +28,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
@@ -45,7 +45,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"40 37 37 255"
 		}
@@ -64,7 +64,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 
 		"Progress"
@@ -78,7 +78,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 
 		"NumServers"
@@ -96,7 +96,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 
 		"CloseButton"
@@ -111,7 +111,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#Cancel"
 			"font"			"HudFontSmallBold"
@@ -138,7 +138,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
@@ -155,7 +155,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"40 37 37 255"
 		}
@@ -175,7 +175,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 
 		"ServerList"
@@ -203,7 +203,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_Quickplay_Connect"
 			"font"			"HudFontSmallBold"
@@ -228,7 +228,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#Cancel"
 			"font"			"HudFontSmallBold"

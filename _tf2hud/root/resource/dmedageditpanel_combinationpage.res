@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	
 		"SliderScroll"
@@ -29,7 +29,7 @@
 			"UnpinnedCornerOffsetX" "0"
 			"UnpinnedCornerOffsetY" "0"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 		}
 	}

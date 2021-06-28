@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"position"
@@ -26,7 +26,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"pos:  -9820 -5600 21"
 		"textAlignment"		"west"
@@ -46,7 +46,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"roll: 0 pitch 3 yaw -3"
 		"textAlignment"		"west"
@@ -66,7 +66,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Seeking"
 		"textAlignment"		"center"

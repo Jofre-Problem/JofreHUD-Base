@@ -9,7 +9,7 @@
 		"wide"				"288"
 		"tall"				"320"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 	}
 	"AnimationSetBrowser"
@@ -25,7 +25,7 @@
 		"UnpinnedCornerOffsetX" "-6"
 		"UnpinnedCornerOffsetY" "-64"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"Label2"
@@ -40,7 +40,7 @@
 		"pinCorner"		"2"
 		"PinnedCornerOffsetY" "-36"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Filter:"
 		"textAlignment"		"west"
@@ -61,7 +61,7 @@
 		"PinnedCornerOffsetY" "-36"
 		"UnpinnedCornerOffsetX" "-6"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -81,7 +81,7 @@
 		"pinCorner"		"2"
 		"PinnedCornerOffsetY" "-6"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#VGui_OK"
 		"textAlignment"		"west"
@@ -104,7 +104,7 @@
 		"pinCorner"		"2"
 		"PinnedCornerOffsetY" "-6"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#VGui_Cancel"
 		"textAlignment"		"west"

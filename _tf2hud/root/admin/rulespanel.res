@@ -11,7 +11,7 @@
 		"autoResize"	"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"1"
 	}
 	"Change"
@@ -25,7 +25,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"labelText"		"#Rules_Panel_List_Edit"
 		"textAlignment"		"center"

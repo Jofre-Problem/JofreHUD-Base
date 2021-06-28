@@ -19,7 +19,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "235 235 235 255"
 	}
 	
@@ -34,7 +34,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	
@@ -46,7 +46,7 @@
 		
 		"visible"		"0"
 		"zpos"			"1000"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"paintbackground"	"0"
@@ -59,7 +59,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"progress"		"0"
 		"bgcolor_override" "117 107 95 255"
 		"fgcolor_override" "255 255 255 255"
@@ -76,7 +76,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "235 235 235 255"
 	}
 	
@@ -90,7 +90,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Replay_CancelRender"
 		"font"			"EconFontSmall"
@@ -119,7 +119,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"

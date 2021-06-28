@@ -9,7 +9,7 @@
 		"wide"			"100"
 		"tall"			"30"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/bomb_carrier_upgrade_base"
 	}
 	
@@ -22,7 +22,7 @@
 		"wide"			"20"
 		"tall"			"30"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"FillImage"
 		{
@@ -33,7 +33,7 @@
 			"wide"			"100"
 			"tall"			"30"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/bomb_carrier_upgrade_meter"
 		}
 	}
@@ -47,7 +47,7 @@
 		"wide"			"100"
 		"tall"			"30"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/bomb_carrier_upgrade_frame"
 	}
 	

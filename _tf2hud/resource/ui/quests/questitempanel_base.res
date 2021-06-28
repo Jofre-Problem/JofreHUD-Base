@@ -120,7 +120,7 @@
 					"wide"			"f0"
 					"tall"			"o1"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"contracts\contracts_papers1"
 					"proportionaltoparent"	"1"
@@ -139,7 +139,7 @@
 					"wide"			"f0"
 					"tall"			"o1"
 					"visible"		"0"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"proportionaltoparent"	"1"
 
@@ -157,7 +157,7 @@
 					"wide"		"f0"
 					"tall"		"f0"
 					"visible"		"1"
-					"enabled"		"1"
+					
 
 					"proportionaltoparent"	"1"
 				}
@@ -174,7 +174,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 					"labelText"			"%title%"
 					"bgcolor_override"	"0 0 0 220"
@@ -204,7 +204,7 @@
 					"wide"			"f0"
 					"tall"			"o1"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"contracts\contracts_staples1"
 					"proportionaltoparent"	"1"
@@ -235,7 +235,7 @@
 						"wide"			"f0"
 						"tall"			"f0"
 						"visible"		"1"
-						"enabled"		"1"
+						
 						"proportionaltoparent" "1"
 						"bgcolor_override"	"0 0 0 247"
 						"mouseinputenabled"	"0"
@@ -252,7 +252,7 @@
 						"tall"			"f0"
 						
 						"visible"		"1"
-						"enabled"		"1"
+						
 						
 						"proportionaltoparent"	"1"
 						"labelText"		"#QuestLog_Identify"
@@ -300,7 +300,7 @@
 						"wide"			"f0"
 						"tall"			"f0"
 						"visible"		"1"
-						"enabled"		"1"
+						
 						"proportionaltoparent" "1"
 						"bgcolor_override"	"150 255 0 100"
 						"mouseinputenabled"	"0"
@@ -316,7 +316,7 @@
 						"wide"			"f0"
 						"tall"			"f0"
 						"visible"		"1"
-						"enabled"		"1"
+						
 						"proportionaltoparent" "1"
 						"bgcolor_override"	"0 0 0 230"
 						"mouseinputenabled"	"0"
@@ -333,7 +333,7 @@
 						"tall"			"f0"
 						
 						"visible"		"1"
-						"enabled"		"1"
+						
 						
 						"proportionaltoparent"	"1"
 						"labelText"		"#QuestLog_TurnIn"
@@ -380,7 +380,7 @@
 							"wide"			"f0"
 							"tall"			"f0"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"proportionaltoparent"	"1"
 							"labelText"		"#QuestLog_TurningIn"
 							"use_proportional_insets" "1"
@@ -406,7 +406,7 @@
 					"wide"			"p0.8"
 					"tall"			"o1"
 					"visible"		"0"
-					"enabled"		"1"
+					
 					"image"			"contracts/accepted"
 					"scaleImage"	"1"	
 					"proportionaltoparent"	"1"	
@@ -519,7 +519,7 @@
 					"wide"			"p0.375"
 					"tall"			"o1"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"contracts/photo_static"
 					"scaleImage"	"1"	
 					"proportionaltoparent"	"1"	
@@ -535,7 +535,7 @@
 					"wide"			"p0.375"
 					"tall"			"o1"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"quest_pauling"
 					"scaleImage"	"1"	
 					"proportionaltoparent"	"1"	
@@ -554,7 +554,7 @@
 					
 					"pinCorner"		"3"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 					"proportionaltoparent"	"1"
 					"labelText"		"#TF_Quest_FindServer"
@@ -591,7 +591,7 @@
 					"wide"			"p0.53"
 					"tall"			"o1"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"proportionaltoparent"	"1"
 
 					"RequiredContractItemsLabel"
@@ -609,7 +609,7 @@
 						
 						
 						"visible"				"1"
-						"enabled"				"1"
+						
 						"wrap"					"1"
 						"proportionaltoparent"	"1"
 
@@ -627,7 +627,7 @@
 						"wide"			"f0"
 						"tall"			"f0"
 						"visible"		"1"
-						"enabled"		"1"
+						
 						"image"			"contracts/contracts_papers1_vacation_items"
 						"scaleImage"	"1"	
 						"proportionaltoparent"	"1"
@@ -646,7 +646,7 @@
 						
 						"pinCorner"		"3"
 						"visible"		"1"
-						"enabled"		"1"
+						
 						
 						"proportionaltoparent"	"1"
 						"labelText"		"#TF_Quest_RequestLoanerItems"
@@ -686,7 +686,7 @@
 						
 						"pinCorner"		"3"
 						"visible"		"1"
-						"enabled"		"1"
+						
 						
 						"proportionaltoparent"	"1"
 						"labelText"		"#TF_Quest_EquipLoanerItems"
@@ -844,7 +844,7 @@
 						
 						
 						"visible"				"1"
-						"enabled"				"1"
+						
 						"wrap"					"1"
 						"proportionaltoparent"	"1"
 						"allcaps"				"1"
@@ -868,7 +868,7 @@
 						
 						
 						"visible"				"1"
-						"enabled"				"1"
+						
 						"wrap"					"1"
 						"proportionaltoparent"	"1"
 						"allcaps"				"1"
@@ -892,7 +892,7 @@
 						
 						
 						"visible"				"1"
-						"enabled"				"1"
+						
 						"wrap"					"1"
 						"proportionaltoparent"	"1"
 
@@ -915,7 +915,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"proportionaltoparent"	"1"
 
@@ -929,7 +929,7 @@
 					"wide"			"f0"
 					"tall"			"o1"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"contracts\contracts_folder1_back"
 					"proportionaltoparent"	"1"
@@ -951,7 +951,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"1"
@@ -966,7 +966,7 @@
 					"wide"			"f0"
 					"tall"			"o1"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"contracts\contracts_folder1_front"
 					"proportionaltoparent"	"1"
@@ -985,7 +985,7 @@
 					"wide"		"f0"
 					"tall"		"f0"
 					"visible"		"1"
-					"enabled"		"1"
+					
 
 					"proportionaltoparent"	"1"
 				}
@@ -1019,7 +1019,7 @@
 							"wide"			"f0"
 							"tall"			"f0"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"scaleImage"	"1"
 							"image"			"contracts/sticky"
 							"proportionaltoparent"	"1"
@@ -1043,7 +1043,7 @@
 							
 							
 							"visible"				"1"
-							"enabled"				"1"
+							
 							"proportionaltoparent"	"1"
 
 							"fgcolor"				"Black"
@@ -1081,7 +1081,7 @@
 							"wide"			"f0"
 							"tall"			"f0"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"scaleImage"	"1"
 							"image"			"contracts/sticky_turn_in"
 							"proportionaltoparent"	"1"
@@ -1105,7 +1105,7 @@
 							
 							
 							"visible"				"1"
-							"enabled"				"1"
+							
 							"proportionaltoparent"	"1"
 
 							"fgcolor"				"Black"
@@ -1147,7 +1147,7 @@
 							"wide"			"f0"
 							"tall"			"f0"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"scaleImage"	"1"
 							"image"			"contracts/sticky_inactive"
 							"proportionaltoparent"	"1"
@@ -1171,7 +1171,7 @@
 							
 							
 							"visible"				"1"
-							"enabled"				"1"
+							
 							"proportionaltoparent"	"1"
 
 							"mouseinputenabled"	"0"

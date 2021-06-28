@@ -28,7 +28,7 @@
     {
         "fieldName"             "SelectPlayerDialog"
         "visible"               "1"
-        "enabled"               "1"
+        
         "xpos"                  "c-200"
         "ypos"                  "80"
         "wide"                  "400"
@@ -92,7 +92,7 @@
         "ControlName"           "EditablePanel"
         "fieldName"             "StatePanel0"
         "visible"               "1"
-        "enabled"               "1"
+        
         "xpos"                  "0"
         "wide"                  "400"
         "tall"                  "180"
@@ -162,7 +162,7 @@
         "ControlName"           "EditablePanel"
         "fieldName"             "StatePanel1"
         "visible"               "1"
-        "enabled"               "1"
+        
         "xpos"                  "0"
         "wide"                  "400"
         "tall"                  "180"

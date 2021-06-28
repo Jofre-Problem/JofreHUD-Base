@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../HUD/tournament_panel_brown"
 
 		if_comp
@@ -38,7 +38,7 @@
 		"wide"			"17"
 		"tall"			"17"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/ico_time_10"
 		"scaleImage"		"1"	
 		//"teambg_2"		"../hud/objectives_timepanel_red_bg"
@@ -60,7 +60,7 @@
 		"wide"				"110"
 		"tall"				"150"
 		"visible"			"0"
-		"enabled"			"1"
+		
 
 		if_comp
 		{
@@ -88,7 +88,7 @@
 			"wide_minmode"		"45"
 			"tall"			"31"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"textAlignment"		"center"
 		}	
 	}
@@ -108,7 +108,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 
 		if_comp
 		{
@@ -130,7 +130,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 
 		if_comp
@@ -154,7 +154,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 
 		if_comp
@@ -175,7 +175,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/objectives_timepanel_suddendeath"
 
 
@@ -206,7 +206,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 
 		if_comp

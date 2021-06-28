@@ -23,7 +23,7 @@
 		"wide"			"76"
 		"tall"			"24"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/color_panel_brown"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/color_panel_red"	// Reversed, due to showing killer's name
@@ -46,7 +46,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#AnnotationPanel_Callout"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -62,7 +62,7 @@
 		"wide"			"20"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/freezecam_callout_arrow"
 		"scaleImage"	"1"	
 	}
@@ -79,7 +79,7 @@
 		"autoResize"		"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		""
 		"textAlignment"		"center"
 		"dulltext"		"0"

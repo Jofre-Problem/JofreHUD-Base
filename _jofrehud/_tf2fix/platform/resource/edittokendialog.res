@@ -30,7 +30,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"labelText"		"Mark as up-to-date"
 		"textAlignment"		"west"
@@ -49,7 +49,7 @@
 		"autoResize"		"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -68,7 +68,7 @@
 		"autoResize"		"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"0"
@@ -107,7 +107,7 @@
 		"autoResize"		"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Requires localization"
 		"textAlignment"		"west"
@@ -125,7 +125,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Token state:"
 		"textAlignment"		"east"
@@ -143,7 +143,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Localization"
 		"textAlignment"		"north-east"
@@ -161,7 +161,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Current English"
 		"textAlignment"		"north-east"
@@ -179,7 +179,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Previous English"
 		"textAlignment"		"north-east"
@@ -197,7 +197,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"Close"
 		"textAlignment"		"west"

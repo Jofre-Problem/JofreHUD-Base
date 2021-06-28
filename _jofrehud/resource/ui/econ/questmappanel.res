@@ -13,7 +13,7 @@
 		"tall"			"f0"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"0"
@@ -31,7 +31,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"mouseinputenabled"	"1"
 		}
@@ -74,7 +74,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"labelText"		"%attriblist%"
 				"textAlignment"	"center"
 				"fgcolor"		"117 107 94 255"
@@ -110,7 +110,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"fgcolor_override"	"235 226 202 255"
 				"wrap"			"1"
 			}
@@ -135,7 +135,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"20 15 5 230"
 		}
@@ -152,7 +152,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"			""
 			"bgcolor_override"	"0 0 0 220"
@@ -172,7 +172,7 @@
 			"tall"			"700"
 			"skip_autoresize"	"1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"paintborder"		"0"
 
@@ -188,7 +188,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labelText"		""
 				"font"			"HudFontSmallBold"
@@ -220,7 +220,7 @@
 					"wide"			"14"
 					"tall"			"14"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"close_button"
 					"scaleImage"	"1"
 				}				
@@ -238,7 +238,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
@@ -269,7 +269,7 @@
 					"wide"			"o1"
 					"tall"			"p1"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"glyph_store"
 					"scaleImage"	"1"
 					"proportionaltoparent" "1"
@@ -322,7 +322,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
@@ -351,7 +351,7 @@
 					"wide"			"o1.81"
 					"tall"			"p1.32"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"glyph_store"
 					"scaleImage"	"1"
 					"proportionaltoparent" "1"
@@ -387,7 +387,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
@@ -416,7 +416,7 @@
 					"wide"			"o1.81"
 					"tall"			"p1.32"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"glyph_store"
 					"scaleImage"	"1"
 					"proportionaltoparent" "1"
@@ -435,7 +435,7 @@
 				
 				
 				"visible"		"0"
-				"enabled"		"1"
+				
 				
 				"labelText"		""
 				"font"			"HudFontSmallBold"
@@ -467,7 +467,7 @@
 					"wide"			"14"
 					"tall"			"14"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"glyph_workshop_edit"
 					"scaleImage"	"1"
 				}				
@@ -630,7 +630,7 @@
 							"wide"			"10"
 							"tall"			"10"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"scaleImage"	"1"
 							"image"			"info"
 							"proportionaltoparent"	"1"
@@ -666,7 +666,7 @@
 							"wide"			"10"
 							"tall"			"10"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"scaleImage"	"1"
 							"image"			"info"
 							"proportionaltoparent"	"1"
@@ -702,7 +702,7 @@
 							"wide"			"10"
 							"tall"			"10"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"scaleImage"	"1"
 							"image"			"info"
 							"proportionaltoparent"	"1"
@@ -733,7 +733,7 @@
 							"wide"			"100"
 							"tall"			"20"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"textAlignment"	"center"	
 							"labelText"		"#TF_QuestMap_Intro_OK"
 							"textinsetx"	"4"
@@ -879,7 +879,7 @@
 					"wide"					"260"
 					"tall"					"60"
 					"visible"				"0"
-					"enabled"				"1"
+					
 					"scaleImage"			"1"
 					"proportionaltoparent"	"1"
 
@@ -1128,7 +1128,7 @@
 					"wide"			"200"
 					"tall"			"220"
 					"visible"		"0"
-					"enabled"		"1"
+					
 					"proportionaltoparent" "1"
 					"mouseinputenabled"		"1"
 					"keyboardinputenabled"	"0"
@@ -1200,7 +1200,7 @@
 							"tall"			"6"
 							"zpos"			"4"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"proportionaltoparent" "1"
 
 							"bgcolor_override"		"250 234 201 51"
@@ -1232,7 +1232,7 @@
 								"bgcolor_override"		"QuestUncommitted"
 								"zpos"			"2"
 								"visible"		"1"
-								"enabled"		"1"
+								
 								"proportionaltoparent" "1"
 
 								"PointsLabelInvert"
@@ -1263,7 +1263,7 @@
 								"tall"			"f0"
 								"zpos"			"3"
 								"visible"		"1"
-								"enabled"		"1"
+								
 								"proportionaltoparent" "1"
 
 								"bgcolor_override"		"251 235 202 255"
@@ -1368,7 +1368,7 @@
 						
 						
 						"visible"		"1"
-						"enabled"		"1"
+						
 						
 						"labeltext"		"#TF_QuestMap_RewardStore_Title"
 						"font"			"QuestLargeText"
@@ -1392,7 +1392,7 @@
 						
 						
 						"visible"		"1"
-						"enabled"		"1"
+						
 						
 						"labeltext"		"#TF_QuestMap_RewardStore_Desc"
 						"font"			"QuestMap_Small"

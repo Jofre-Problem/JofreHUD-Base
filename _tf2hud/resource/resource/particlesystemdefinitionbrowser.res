@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"ParticleSystems"
@@ -25,7 +25,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"PinnedCornerOffsetX" "6"
 		"PinnedCornerOffsetY" "36"
@@ -43,7 +43,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Create"
 		"textAlignment"		"west"
@@ -67,7 +67,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Delete"
 		"textAlignment"		"west"
@@ -91,7 +91,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Copy"
 		"textAlignment"		"west"
@@ -115,7 +115,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Create From KV"
 		"textAlignment"		"west"
@@ -139,7 +139,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Save"
 		"textAlignment"		"west"
@@ -163,7 +163,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Save and Test"
 		"textAlignment"		"west"
@@ -187,7 +187,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Particle System Definitions:"
 		"textAlignment"		"west"

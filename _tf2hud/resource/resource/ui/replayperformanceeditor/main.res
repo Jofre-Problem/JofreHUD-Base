@@ -10,7 +10,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"proportional"	"1"
 		"bgcolor_override"	"0 0 0 0"
@@ -31,7 +31,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"tileImage"		"0"
 				"scaleImage"	"1"
 				"wide"			"10"
@@ -57,7 +57,7 @@
 			"wide"			"85"
 			"tall"			"1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override" "122 111 98 255"
 			"paintbackground"	"1"
@@ -72,7 +72,7 @@
 			"wide"			"85"
 			"tall"			"1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override" "122 111 98 255"
 			"paintbackground"	"1"
@@ -93,7 +93,7 @@
 				"fieldName"		"RedLabel"
 				"zpos"			"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"PerformanceModeSmall"
 				"LabelText"		"#Replay_Team0"
 				"fgcolor_override" "251 246 220 255"
@@ -106,7 +106,7 @@
 				"fieldName"		"BlueLabel"
 				"zpos"			"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"PerformanceModeSmall"
 				"LabelText"		"#Replay_Team1"
 				"fgcolor_override" "251 246 220 255"
@@ -126,7 +126,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"Command"		"timescale_showpanel"
@@ -144,7 +144,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_timescale"
@@ -164,7 +164,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"Command"		"setcamera_first"
@@ -182,7 +182,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_camera_first"
@@ -202,7 +202,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"Command"		"setcamera_third"
@@ -220,7 +220,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_camera_third"
@@ -241,7 +241,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"Command"		"setcamera_free"
@@ -259,7 +259,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_camera_free"
@@ -276,7 +276,7 @@
 		"ypos"			"0"
 		"zpos"			"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"font"			"ReplayMediumBig"
 		"fgcolor_override" "122 111 98 255"
 		"LabelText"		"00:00"
@@ -290,7 +290,7 @@
 		"ypos"			"0"
 		"zpos"			"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"font"			"ReplayMediumBig"
 		"fgcolor_override" "122 111 98 255"
 		"LabelText"		"00:00"
@@ -302,7 +302,7 @@
 		"fieldName"		"PlayerNameLabel"
 		"zpos"			"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"font"			"PerformanceModeSmall"
 		"LabelText"		""
 		"fgcolor_override" "251 246 220 255"
@@ -338,7 +338,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"Command"		"settick_in"
@@ -357,7 +357,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_in"
@@ -378,7 +378,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"Command"		"goto_start"
@@ -396,7 +396,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_begin"
@@ -417,7 +417,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"Command"		"goto_back"
@@ -435,7 +435,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_rewind"
@@ -456,7 +456,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"Command"		"play"
@@ -474,7 +474,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_control_play"
@@ -495,7 +495,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -512,7 +512,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_forward"
@@ -533,7 +533,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"Command"		"goto_end"
@@ -551,7 +551,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_end"
@@ -572,7 +572,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"Command"		"settick_out"
@@ -591,7 +591,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_out"
@@ -612,7 +612,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"font"			""
@@ -634,7 +634,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_menu"
@@ -652,7 +652,7 @@
 		"tall"			"50"
 		"zpos"			"100"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"font"			"ReplayMediumSmall"
 		"centerwrap"	"1"
 		"paintbackground"	"1"

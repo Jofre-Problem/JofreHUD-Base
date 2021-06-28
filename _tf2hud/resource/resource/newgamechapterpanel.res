@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"LevelPic"
 	{
@@ -24,7 +24,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fillcolor"		"255 255 255 255"
 	}
 	"ChapterLabel"
@@ -38,7 +38,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -57,7 +57,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -76,7 +76,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"image"		"hud/icon_commentary_small"
 		"scaleImage"		"0"

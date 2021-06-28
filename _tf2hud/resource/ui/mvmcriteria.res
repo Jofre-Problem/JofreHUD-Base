@@ -131,7 +131,7 @@
 			"tall"		"120"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			"enabled"	"1"
+			
 			"wrap"		"1"
 			"fgcolor_override"	"250 114 45 255"
 		}
@@ -161,7 +161,7 @@
 			"wide"			"110"
 			"tall"			"110"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"mouseinputenabled" "0"
 			"image"			"pve/mvm_loot_image"
 			"scaleImage"	"1"
@@ -238,7 +238,7 @@
 			"wide"			"70"
 			"tall"			"40"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"mouseinputenabled" "1"
 			"paintborder"	"0"
 
@@ -282,7 +282,7 @@
 			"wide"			"70"
 			"tall"			"40"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"mouseinputenabled" "1"
 			"paintborder"	"0"
 
@@ -431,7 +431,7 @@
 			"wide"			"35"
 			"tall"			"35"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"glyph_alert"
 			"scaleImage"	"1"
 			"mouseinputenabled"	"0"
@@ -486,7 +486,7 @@
 			"wide"			"110"
 			"tall"			"110"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"mouseinputenabled" "0"
 			"image"			"pve/mvm_loot_image"
 			"scaleImage"	"1"
@@ -533,7 +533,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_MvM_MannUpNow"
 			"font"			"HudFontSmallBold"
@@ -599,7 +599,7 @@
 			"wide"			"60"
 			"tall"			"60"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"mouseinputenabled" "0"
 			"image"			"../hud/mvm_tours"
 			"scaleImage"	"1"

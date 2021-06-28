@@ -13,7 +13,7 @@
 		"skip_autoresize"	"1"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		
 		"small_vertical_break_size"		"0"
@@ -75,7 +75,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"PaintBackgroundType"	"0"
 		"bgcolor_override" "0 0 0 128"
 	}
@@ -91,7 +91,7 @@
 		"wide"			"480"
 		"tall"			"300"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"paintbackground"	"0"
 		"border"		"TFFatLineBorderOpaque"
 		"PaintBorder"	"1"
@@ -107,7 +107,7 @@
 			"wide"			"220"
 			"tall"			"213"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"paintborder"	"1"
 			"border"		"StoreInnerShadowBorder"
 		}
@@ -123,7 +123,7 @@
 			"wide"			"474"
 			"tall"			"10"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"paintborder"	"0"
 			"PaintBackgroundType"	"0"
 			"paintbackground"	"1"
@@ -141,7 +141,7 @@
 			"wide"			"474"
 			"tall"			"58"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"paintborder"	"0"
 			"PaintBackgroundType"	"2"
 			"paintbackground"	"1"
@@ -163,7 +163,7 @@
 			"skip_autoresize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 		}		
 				
@@ -213,7 +213,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 					"fgcolor"		"118 107 94 255"
 				}		
@@ -230,7 +230,7 @@
 					
 					
 					"visible"		"0"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 					"fgcolor"		"200 80 60 255"
 				}		
@@ -247,7 +247,7 @@
 					
 					
 					"visible"		"0"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 					"fgcolor"		"200 80 60 255"
 				}		
@@ -264,7 +264,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 					"fgcolor"		"173 165 146 255"
 				}		
@@ -281,7 +281,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 				}		
 				
@@ -297,7 +297,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 					"fgcolor"		"173 165 146 255"
 				}		
@@ -314,7 +314,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 				}		
 				
@@ -329,7 +329,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 					"labeltext"		"%price%"
 				}
@@ -345,7 +345,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 					"labeltext"		"%armory_text%"
 				}			
@@ -361,7 +361,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 				}		
 				
@@ -375,7 +375,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 					"labelText"		"#Store_ItemDesc_ItemWikiPage"
 					"font"			"HudFontSmallestBold"
@@ -399,7 +399,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 					"fgcolor"		"173 165 146 255"
 				}		
@@ -416,7 +416,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 				}		
 				
@@ -432,7 +432,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 					"fgcolor"		"173 165 146 255"
 				}		
@@ -449,7 +449,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 				}		
 				
@@ -465,7 +465,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 					"fgcolor"		"173 165 146 255"
 				}		
@@ -482,7 +482,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 				}		
 
@@ -498,7 +498,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 					"fgcolor"		"173 165 146 255"
 				}		
@@ -515,7 +515,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 				}
 			}
@@ -535,7 +535,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"render_texture"	"0"
 		"fov"			"40"
@@ -877,7 +877,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -893,7 +893,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -909,7 +909,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -925,7 +925,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -941,7 +941,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -957,7 +957,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -976,7 +976,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"<"
 		"font"			"HudFontSmallBold"
@@ -1004,7 +1004,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		">"
 		"font"			"HudFontSmallBold"
@@ -1034,7 +1034,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"bgcolor_override"		"0 0 0 0"
 		"PaintBackgroundType"	"2"
 		"centerwrap"	"1"
@@ -1055,7 +1055,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"<"
 		"font"			"HudFontBiggerBold"
@@ -1084,7 +1084,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		">"
 		"font"			"HudFontBiggerBold"
@@ -1109,7 +1109,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Store_NextWeapon"
 		"font"			"HudFontSmallest"
@@ -1134,7 +1134,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
@@ -1161,7 +1161,7 @@
 			"wide"			"11"
 			"tall"			"11"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"store/store_fullscreen"
 			"scaleImage"	"1"
 		}				
@@ -1179,7 +1179,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
@@ -1206,7 +1206,7 @@
 			"wide"			"11"
 			"tall"			"11"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"store/store_zoom"
 			"scaleImage"	"1"
 		}				
@@ -1224,7 +1224,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
@@ -1251,7 +1251,7 @@
 			"wide"			"11"
 			"tall"			"11"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"glyph_options"
 			"scaleImage"	"1"
 		}				
@@ -1269,7 +1269,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"auto_scale"		"1"
 		"auto_layout"		"1"
@@ -1285,7 +1285,7 @@
 			
 			"pinCorner"			"2"
 			"visible"			"1"
-			"enabled"			"1"
+			
 			
 			"labelText"			""
 			"textAlignment"		"south-west"
@@ -1323,7 +1323,7 @@
 				"wide"			"19"
 				"tall"			"19"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 			}				
 		}
@@ -1371,7 +1371,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"centerwrap"	"1"
 	}
@@ -1393,7 +1393,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"centerwrap"	"1"
 	}		
@@ -1412,7 +1412,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"centerwrap"	"1"
 	}		
@@ -1431,7 +1431,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
@@ -1458,7 +1458,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"close_button"
 			"scaleImage"	"1"
 		}				
@@ -1475,7 +1475,7 @@
 		"tall"			"22"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_BackCarat"
 		"font"			"HudFontSmallBold"
@@ -1500,7 +1500,7 @@
 		"tall"			"22"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Store_TryItOut"
 		"font"			"HudFontSmallBold"
@@ -1525,7 +1525,7 @@
 		"tall"			"27"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%storeaddtocart%"
 		"font"			"HudFontSmallishBold"

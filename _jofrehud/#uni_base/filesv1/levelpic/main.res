@@ -7,7 +7,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"LevelPic"
 	{
@@ -16,6 +16,6 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 }	

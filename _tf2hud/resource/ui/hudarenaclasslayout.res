@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/color_panel_blu"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/color_panel_red"
@@ -37,7 +37,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/color_panel_clear"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/color_panel_clear"
@@ -62,7 +62,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"font"			"HudFontMediumBold"
 		"labelText"		"#TF_Arena_Team_Layout"
 		"textAlignment"	"center"
@@ -80,7 +80,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"font"			"HudFontMediumBold"
 		"labelText"		"#TF_Arena_Team_Layout"
 		"textAlignment"	"center"
@@ -99,7 +99,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"font"			"HudFontSmallBold"
 		"labelText"		"#TF_Arena_F4_ChangeClass"
 		"textAlignment"	"center"
@@ -117,7 +117,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"font"			"HudFontSmallBold"
 		"labelText"		"#TF_Arena_F4_ChangeClass"
 		"textAlignment"	"center"
@@ -134,7 +134,7 @@
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -148,7 +148,7 @@
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -162,7 +162,7 @@
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -176,7 +176,7 @@
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -190,7 +190,7 @@
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -204,7 +204,7 @@
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -218,7 +218,7 @@
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -232,7 +232,7 @@
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -246,7 +246,7 @@
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -260,7 +260,7 @@
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -274,7 +274,7 @@
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -288,7 +288,7 @@
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}

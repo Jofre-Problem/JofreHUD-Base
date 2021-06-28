@@ -11,7 +11,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			"#TF_Training_StartTraining"
 		"font"				"HudFontSmallBold"
@@ -43,7 +43,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		"paintbackground"	"1"
 		"bgcolor_override"	"40 37 37 255"
 		"border"			"ButtonBorder"
@@ -63,7 +63,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		
 		"DescLabel"
@@ -80,7 +80,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 		}
 		
@@ -98,7 +98,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "116 108 101 255"
 		}
 		
@@ -155,7 +155,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		
 		"SecondaryLabel"
@@ -172,7 +172,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		
 		"MeleeLabel"
@@ -189,7 +189,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 	}
 	

@@ -12,7 +12,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Game"
@@ -30,7 +30,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Location"
@@ -48,7 +48,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Map"
@@ -66,7 +66,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AntiCheat"
@@ -84,7 +84,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_MaxPlayer"
@@ -102,7 +102,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Latency"

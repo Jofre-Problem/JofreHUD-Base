@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -67,7 +67,7 @@
 			"autoResize"	"1"
 				
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"use_item_sounds" "1"
 		}
@@ -105,7 +105,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
 			"fgcolor"		"117 107 94 255"
@@ -122,7 +122,7 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	
 		"MannCoImage"
 		{
@@ -134,7 +134,7 @@
 			"wide"			"220"
 			"tall"			"80"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"store/store_mannco_logo"
 			"scaleImage"	"1"
 		}
@@ -148,7 +148,7 @@
 			"wide"			"275"
 			"tall"			"200"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"store/store_saxton_thumbs_up"
 			"scaleImage"	"1"
 		}
@@ -200,7 +200,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}		
 	"FeaturedItemPrice"
 	{
@@ -217,7 +217,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}		
 	"FeaturedItemSymbol"
 	{
@@ -229,7 +229,7 @@
 		"wide"			"50"
 		"tall"			"50"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"store/store_starburst"
 		"scaleImage"	"1"
 	}
@@ -249,7 +249,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	
 	"CheckoutButton"
@@ -264,7 +264,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Store_StartShopping"
 		"font"			"HudFontSmallBold"
@@ -299,7 +299,7 @@
 			"wide"			"355"
 			"tall"			"290"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"store/store_home_background"
 			"scaleImage"	"1"
 		}
@@ -319,7 +319,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"46 43 42 255"
 		}		
 
@@ -337,7 +337,7 @@
 			"autoResize"	"3"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"text"			"#Store_IntroText"
 			"fgcolor"		"46 43 42 255"
@@ -360,7 +360,7 @@
 			"wide"			"100"
 			"tall"			"25"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"store/store_saxton_signature"
 			"scaleImage"	"1"
 		}
@@ -379,7 +379,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"46 43 42 255"
 		}		
 
@@ -398,7 +398,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}		
 		
 		"PromotionBonusItem"
@@ -411,7 +411,7 @@
 			"wide"			"160"
 			"tall"			"95"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"border"		"StorePromotion"
 		}
 		"PromotionLabel_BonusItem"
@@ -429,7 +429,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"centerwrap"	"1"
 			"fgcolor"		"46 43 42 255"
@@ -444,7 +444,7 @@
 			"wide"			"60"
 			"tall"			"30"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"store/store_surprise"
 			"scaleImage"	"1"
 		}
@@ -463,7 +463,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"centerwrap"	"1"
 			"fgcolor"		"46 43 42 255"
@@ -479,7 +479,7 @@
 			"wide"			"165"
 			"tall"			"95"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"border"		"StorePromotion"
 		}
 		"PromotionLabel_Hat"
@@ -497,7 +497,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"centerwrap"	"1"
 			"fgcolor"		"46 43 42 255"
@@ -512,7 +512,7 @@
 			"wide"			"100"
 			"tall"			"100"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../backpack/player/items/all_class/all_manncap_large"
 			"scaleImage"	"1"
 		}
@@ -531,7 +531,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"centerwrap"	"1"
 			"fgcolor"		"46 43 42 255"
@@ -550,7 +550,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"RELOADSCHEME"
 		"font"			"HudFontSmallestBold"

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"0"
 		"border"				"SteamWorkshopBorder"
@@ -29,7 +29,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"0 0 0 255"
 	}
@@ -44,7 +44,7 @@
 		"wide"			"600"
 		"tall"			"300"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"workshop_blue_top"
 		"scaleImage"	"1"
 	}
@@ -60,7 +60,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"57 52 49 255"
 	}
@@ -76,7 +76,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishFile_Title"
 		"textAlignment"		"west"
@@ -97,7 +97,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishFile_Preview"
 		"textAlignment"		"west"
@@ -119,7 +119,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"border"				"SteamWorkshopBorder"
 
@@ -134,7 +134,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_PublishFile_PreviewDesc"
 			"textAlignment"		"center"
@@ -167,7 +167,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishFile_Browse"
 		"textAlignment"		"center"
@@ -190,7 +190,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishFile_TitleLabel"
 		"textAlignment"		"west"
@@ -211,7 +211,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -235,7 +235,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishFile_DescLabel"
 		"textAlignment"		"west"
@@ -255,7 +255,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -279,7 +279,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishFile_FileLabel"
 		"textAlignment"		"west"
@@ -300,7 +300,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"			"#TF_PublishFile_NoFileSelected"
 		"textHidden"		"0"
@@ -322,7 +322,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishFile_Cosmetics"
 		"textAlignment"		"center"
@@ -358,7 +358,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishFile_Other"
 		"textAlignment"		"center"
@@ -381,7 +381,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishFile_Maps"
 		"textAlignment"		"center"
@@ -417,7 +417,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishFile_BrowseDesc"
 		"textAlignment"		"center"
@@ -439,7 +439,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishFile_Tags"
 		"textAlignment"		"west"
@@ -475,7 +475,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -495,7 +495,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -515,7 +515,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -535,7 +535,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -555,7 +555,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -575,7 +575,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -595,7 +595,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -615,7 +615,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -635,7 +635,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -656,7 +656,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -676,7 +676,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -696,7 +696,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -716,7 +716,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -736,7 +736,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -756,7 +756,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -776,7 +776,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -796,7 +796,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -816,7 +816,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -836,7 +836,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -857,7 +857,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -877,7 +877,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -897,7 +897,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -917,7 +917,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -937,7 +937,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -957,7 +957,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -977,7 +977,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -997,7 +997,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -1017,7 +1017,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -1037,7 +1037,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -1057,7 +1057,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -1077,7 +1077,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -1097,7 +1097,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -1117,7 +1117,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -1137,7 +1137,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -1157,7 +1157,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -1177,7 +1177,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -1197,7 +1197,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -1215,7 +1215,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Cancel"
 		"textAlignment"		"center"
@@ -1238,7 +1238,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PublishFile_Publish"
 		"textAlignment"		"center"

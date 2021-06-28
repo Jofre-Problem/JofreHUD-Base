@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -101,7 +101,7 @@
 			"autoResize"	"1"
 				
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"use_item_sounds" "1"
 		}
@@ -152,7 +152,7 @@
 			"autoResize"	"1"
 				
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"use_item_sounds" "1"		
 		}
 	}
@@ -189,7 +189,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
 			"fgcolor"		"117 107 94 255"
@@ -207,7 +207,7 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	
 		"MannCoImage"
 		{
@@ -219,7 +219,7 @@
 			"wide"			"420"
 			"tall"			"220"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"image"			"store/saxton_welcome"
 			"scaleImage"	"1"
 		}
@@ -235,7 +235,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportiontoparent"	"1"
 
 		"StoreBackgroundImage"
@@ -267,7 +267,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"RELOADSCHEME"
 		"font"			"HudFontSmallestBold"
@@ -292,7 +292,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"auto_scale"		"1"
 		"auto_layout"		"1"
@@ -308,7 +308,7 @@
 			
 			"pinCorner"			"2"
 			"visible"			"1"
-			"enabled"			"1"
+			
 			
 			"textAlignment"		"center"
 			"scaleImage"		"1"
@@ -348,7 +348,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"<"
 		"font"			"HudFontSmallBold"
@@ -375,7 +375,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	
@@ -391,7 +391,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		">"
 		"font"			"HudFontSmallBold"
@@ -418,7 +418,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"CartButton"
@@ -434,7 +434,7 @@
 		"wide"			"56"
 		"tall"			"24"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"PaintBackgroundType"	"2"
 		"textinsetx"	"15"
 		
@@ -454,7 +454,7 @@
 		"wide"			"24"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"store_cart"
 		"scaleImage"	"1"
 	}
@@ -471,7 +471,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Store_BrowseTheStore"
 		"font"			"HudFontSmallBold"
@@ -496,7 +496,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Store_MarketPlace"
 		"font"			"HudFontSmallBold"
@@ -526,7 +526,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 
 	"HomePageLabelContainer"
@@ -556,7 +556,7 @@
 			"autoresize"	"1"
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 		}
 
 		"KeyLabel"
@@ -574,7 +574,7 @@
 			"autoresize"	"1"
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 		}
 
 		"TauntLabel"
@@ -592,7 +592,7 @@
 			"autoresize"	"1"
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 		}
 	}
 }

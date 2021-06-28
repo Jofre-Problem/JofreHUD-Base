@@ -36,7 +36,7 @@
 			
 			"pinCorner"		"1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			//"labelText"		"#GameUI_GameMenu_Options"
 			"font"			"HudFontSmallBold"
@@ -63,7 +63,7 @@
 				"wide"			"p0.8"
 				"tall"			"p0.8"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 				"image"			"glyph_options"
 				"proportionaltoparent"	"1"

@@ -14,7 +14,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"src_corner_height"	"22"				// pixels inside the image
 		"src_corner_width"	"22"
@@ -47,7 +47,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#Winpanel_PVE_Evil_Wins"
 			"textAlignment"		"Center"
 			"dulltext"		"0"
@@ -71,7 +71,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#Winpanel_PVE_Evil_Wins"
 			"textAlignment"		"Center"
 		}
@@ -90,7 +90,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%WinReasonLabel%"
 		"textAlignment"		"Center"
 		"dulltext"		"0"
@@ -110,7 +110,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%DetailsLabel%"
 		"textAlignment"		"Center"
 		"dulltext"		"0"
@@ -130,7 +130,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../HUD/tournament_panel_brown"
 
 		"src_corner_height"	"22"				// pixels inside the image

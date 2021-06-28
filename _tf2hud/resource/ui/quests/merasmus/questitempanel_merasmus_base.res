@@ -72,7 +72,7 @@
 				"wide"			"f0"
 				"tall"			"o0.5"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 				"alpha"			"0"
 				"image"			"contracts\halloween\contracts_hilight"
@@ -94,7 +94,7 @@
 					"wide"			"f0"
 					"tall"			"o1"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"contracts\halloween\contracts_papers1"
 					"proportionaltoparent"	"1"
@@ -113,7 +113,7 @@
 					"wide"			"f0"
 					"tall"			"o1"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"contracts\halloween\contracts_papers_encoded"
 					"proportionaltoparent"	"1"
@@ -133,7 +133,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 					"labelText"			"%title%"
 					"bgcolor_override"	"0 0 0 220"
@@ -205,7 +205,7 @@
 						"wide"			"f0"
 						"tall"			"f0"
 						"visible"		"1"
-						"enabled"		"1"
+						
 						"proportionaltoparent" "1"
 						"bgcolor_override"	"0 0 0 247"
 						"mouseinputenabled"	"0"
@@ -249,7 +249,7 @@
 						"wide"			"f0"
 						"tall"			"f0"
 						"visible"		"1"
-						"enabled"		"1"
+						
 						"proportionaltoparent" "1"
 						"bgcolor_override"	"150 255 0 100"
 						"mouseinputenabled"	"0"
@@ -265,7 +265,7 @@
 						"wide"			"f0"
 						"tall"			"f0"
 						"visible"		"1"
-						"enabled"		"1"
+						
 						"proportionaltoparent" "1"
 						"bgcolor_override"	"0 0 0 230"
 						"mouseinputenabled"	"0"
@@ -282,7 +282,7 @@
 						"tall"			"f0"
 						
 						"visible"		"1"
-						"enabled"		"1"
+						
 						
 						"proportionaltoparent"	"1"
 						"labelText"		"#QuestLog_TurnIn"
@@ -341,7 +341,7 @@
 					"wide"			"p0.5"
 					"tall"			"o1"
 					"visible"		"0"
-					"enabled"		"1"
+					
 					"image"			"contracts/halloween/accepted"
 					"scaleImage"	"1"	
 					"proportionaltoparent"	"1"	
@@ -412,7 +412,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"1"
@@ -432,7 +432,7 @@
 					"wide"			"o1"
 					"tall"			"87"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"contracts\halloween\contracts_scroll_sleeve"
 					"proportionaltoparent"	"1"

@@ -5,7 +5,7 @@
 		"ControlName"	"Splitter"
 		"fieldName"		"PropertiesSplitter"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"AutoResize"	"3"
 		
 		"xpos"			"0"
@@ -30,7 +30,7 @@
 				"UnpinnedCornerOffsetX" "0"
 				"UnpinnedCornerOffsetY" "0"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"tabPosition"	"1"
 			}
 		}
@@ -52,7 +52,7 @@
 				"UnpinnedCornerOffsetX" "0"
 				"UnpinnedCornerOffsetY" "0"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"tabPosition"	"1"
 			}
 		}

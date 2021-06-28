@@ -12,7 +12,7 @@
 		"tall"			"183"
 		//"tall_lodef"	"210"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/death_panel_blue_bg"
 		"scaleImage"		"1"	
 		"teambg_2"		"../hud/death_panel_red_bg"
@@ -32,7 +32,7 @@
 		"tall"			"72"
 		//"tall_lodef"	"100"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/class_scoutred"
 		"scaleImage"		"1"	
 	}
@@ -54,7 +54,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%title%"
 		"textAlignment"	"west"
 		"dulltext"		"0"
@@ -78,7 +78,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%statdesc%"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -102,7 +102,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%stattextlarge%"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -124,7 +124,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%stattextsmall%"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -135,7 +135,7 @@
 		"ControlName"		"Panel"		
 		"fieldName"		"StatBox"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"xpos"			"72"
 		//"xpos_lodef"	"100"

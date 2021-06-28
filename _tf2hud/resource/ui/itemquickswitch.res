@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		
@@ -59,7 +59,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	"ClassLabel"
@@ -77,7 +77,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 
 	"ItemSlotLabel"
@@ -95,7 +95,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"TopLine"
@@ -108,7 +108,7 @@
 		"wide"			"265"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
 		"tileVertically" "0"
@@ -173,7 +173,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	
@@ -189,7 +189,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"	"0"
 	}

@@ -10,7 +10,7 @@
 		"tall"		"25"
 		
 		
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"

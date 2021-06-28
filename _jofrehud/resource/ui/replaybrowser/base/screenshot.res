@@ -6,6 +6,6 @@
 		"fieldName"		"Screenshot"
 		
 		
-		"enabled"		"1"
+		
 	}
 }	

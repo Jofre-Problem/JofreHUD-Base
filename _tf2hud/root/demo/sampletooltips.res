@@ -10,7 +10,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"Label Tooltip"
 		"textAlignment"		"west"
@@ -28,7 +28,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"RadioButton"
 		"textAlignment"		"west"
@@ -46,7 +46,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"CheckButton"
 		"textAlignment"		"west"
@@ -64,7 +64,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Label Tooltip 4"
 		"textAlignment"		"west"
@@ -82,7 +82,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Label Tooltip 5"
 		"textAlignment"		"west"
@@ -99,7 +99,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Label Tooltip 6"
 		"textAlignment"		"west"
@@ -116,7 +116,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"ToggleButton"
 		"textAlignment"		"west"
@@ -133,7 +133,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"AnimatingImage"
 		"textAlignment"		"west"

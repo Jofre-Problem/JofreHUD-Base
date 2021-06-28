@@ -20,7 +20,7 @@
 	//	
 	//	
 	//	"visible"		"1"
-	//	"enabled"		"1"
+	//	
 	//	"tabPosition"		"3"
 	//	"paintbackground"		"1"
 	//	"labelText"		"#vgui_Cancel"

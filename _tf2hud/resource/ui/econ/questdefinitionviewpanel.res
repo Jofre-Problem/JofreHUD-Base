@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
@@ -44,7 +44,7 @@
 			"wide"			"8"
 			"tall"			"8"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"glyph_workshop_edit"
 			"scaleImage"	"1"
 		}				
@@ -62,7 +62,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
@@ -94,7 +94,7 @@
 			"wide"			"f0"
 			"tall"			"f0"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"close_button"
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
@@ -193,7 +193,7 @@
 			"wide"			"10"
 			"tall"			"10"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"	
 			"proportionaltoparent"	"1"
 			"image"			"info"
@@ -208,7 +208,7 @@
 			"wide"			"f0"
 			"tall"			"o0.25"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"proportionaltoparent"	"1"
 
 			"collapsed_height"	"45"
@@ -223,7 +223,7 @@
 			"wide"			"f0"
 			"tall"			"o0.25"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"proportionaltoparent"	"1"
 
 			"collapsed_height"	"45"
@@ -242,7 +242,7 @@
 			"wide"			"f0"
 			"tall"			"o0.25"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"proportionaltoparent"	"1"
 
 			"collapsed_height"	"45"
@@ -294,7 +294,7 @@
 				"wide"			"10"
 				"tall"			"10"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"	
 				"proportionaltoparent"	"1"
 				"image"			"info"
@@ -324,7 +324,7 @@
 					"wide"			"f0"
 					"tall"			"20"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"proportionaltoparent"	"1"
 					"mouseinputenabled"	"0"	
 					"labeltext"	"#TF_QuestView_Reward_Claimed"
@@ -364,7 +364,7 @@
 					"wide"			"f0"
 					"tall"			"f0"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"cyoa/cyoa_cash_large"
 					"scaleImage"	"1"
 					"proportionaltoparent"	"1"
@@ -417,7 +417,7 @@
 					"wide"			"f0"
 					"tall"			"20"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"proportionaltoparent"	"1"
 					"mouseinputenabled"	"0"	
 					"labeltext"	"#TF_QuestView_Reward_Claimed"

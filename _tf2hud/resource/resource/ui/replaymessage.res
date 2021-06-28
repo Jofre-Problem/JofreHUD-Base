@@ -10,7 +10,7 @@
 		"wide"			"200"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"ReplayLabel"
@@ -24,7 +24,7 @@
 		"wide"			"180"
 		"tall"			"60"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Replay_ReplayMsgTitle"
 		"textAlignment"	"north-west"
 		"fgcolor"		"235 226 202 255"
@@ -38,7 +38,7 @@
 		"wide"			"180"
 		"tall"			"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"north"
 		"fgcolor"		"235 226 202 255"
 		"centerwrap"	"0"
@@ -54,7 +54,7 @@
 		"wide"			"18"
 		"tall"			"18"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"replay/replayicon"
 		"scaleImage"	"1"	
 	}		

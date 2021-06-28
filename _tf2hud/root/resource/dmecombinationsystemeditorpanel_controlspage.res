@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	
 		"ControlsSplitter"
@@ -19,7 +19,7 @@
 			"ControlName"	"Splitter"
 			"fieldName"		"ControlsSplitter"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"AutoResize"	"3"
 			"PinnedCornerOffsetX" "0"
@@ -44,7 +44,7 @@
 					"UnpinnedCornerOffsetX" "-6"
 					"UnpinnedCornerOffsetY" "-6"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 				}
 			}
@@ -66,7 +66,7 @@
 					"UnpinnedCornerOffsetX" "-6"
 					"UnpinnedCornerOffsetY" "-6"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 				}
 			}

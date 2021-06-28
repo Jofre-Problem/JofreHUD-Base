@@ -4,7 +4,7 @@
 	{
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"xpos"			"r184"	[$WIN32]
 		"ypos"			"r92"	[$WIN32]
 		"xpos_minmode"	"r42"	[$WIN32]
@@ -28,13 +28,13 @@
 		"tall"			"50"
 		"visible"		"1"
 		"visible_minmode"	"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/misc_ammo_area_horiz2_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_horiz2_red"
-		//"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
+		
 		"teambg_3"		"../hud/misc_ammo_area_horiz2_blue"
-		//"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"				
+			
 	}
 	
 	"ItemEffectMeterLabel"
@@ -53,7 +53,7 @@
 		"ypos_minmode"			"1"
 		"xpos_minmode"			"0"
 		"textAlignment_minmode"			"west"
-		"enabled"				"1"
+		
 		
 		"labelText"				"#TF_ENERGYDRINK"
 		"textAlignment"			"center"
@@ -78,7 +78,7 @@
 		
 		
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"textAlignment"			"Left"
 		"dulltext"				"0"
 		"brighttext"			"0"

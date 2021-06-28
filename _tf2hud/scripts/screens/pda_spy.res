@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"1 Scout"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -32,7 +32,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"2 Soldier"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -52,7 +52,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"3 Pyro"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -72,7 +72,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"4 Demoman"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -92,7 +92,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"5 Heavy"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -112,7 +112,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"6 Engineer"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -132,7 +132,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"7 Medic"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -152,7 +152,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"8 Sniper"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -172,7 +172,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"9 Spy"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -192,7 +192,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"0 Cancel"
 		"textAlignment"	"Center"
 		"dulltext"		"0"

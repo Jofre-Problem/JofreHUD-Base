@@ -11,7 +11,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"cyoa/cyoa_cash_large"
 		"scaleImage"	"1"
 		"proportionaltoparent"	"1"
@@ -91,7 +91,7 @@
 		"wide"			"o1"
 		"tall"			"p1.5"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"cyoa/sold_out"
 		"scaleImage"	"1"
 		"proportionaltoparent"	"1"

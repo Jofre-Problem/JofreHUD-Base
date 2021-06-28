@@ -36,7 +36,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"1"
 		"PaintBackgroundType"	"0"
@@ -81,7 +81,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
@@ -105,7 +105,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"glyph_options"
 			"scaleImage"	"1"
 		}
@@ -122,7 +122,7 @@
 		"wide"			"220"
 		"tall"			"40"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"mouseinputenabled"	"0"
 		"bgcolor_override"	"Black"
 
@@ -140,7 +140,7 @@
 			"wide"			"200"
 			"tall"			"40"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"autoResize"	"1"
 			
 		}
@@ -159,7 +159,7 @@
 		
 		//"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -187,7 +187,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_Matchmaking_StartParty"
 		"font"			"HudFontSmallBold"

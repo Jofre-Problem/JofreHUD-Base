@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		
@@ -64,7 +64,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"0 0 0 210"
 	}
@@ -80,7 +80,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"63 59 55 0"
 		
@@ -96,7 +96,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../HUD/tournament_panel_brown"
 
 			"src_corner_height"	"23"	// pixels inside the image
@@ -119,7 +119,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"PaintBackgroundType" "2"
 			"bgcolor_override"	"142 132 121 255"
@@ -151,7 +151,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"PLAYER"
 			"font"			"HudFontSmallBold"
@@ -176,7 +176,7 @@
 			"wide"			"40"
 			"tall"			"40"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/class_scoutred"
 			"scaleImage"	"1"	
 		}
@@ -191,7 +191,7 @@
 			"tall"			"34"
 			"zpos"			"-2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"scaleImage"	"1"	
 
@@ -210,7 +210,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"142 132 121 255"
 			"PaintBackgroundType"	"2"
@@ -228,7 +228,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"239 128 73 255"
 			"PaintBackgroundType"	"2"
@@ -246,7 +246,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"239 128 73 255"
 			"PaintBackgroundType"	"2"
@@ -264,7 +264,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
@@ -282,7 +282,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
@@ -300,7 +300,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
@@ -318,7 +318,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
@@ -336,7 +336,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
@@ -354,7 +354,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
@@ -372,7 +372,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"0 0 0 128"
 		}
@@ -394,7 +394,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"mouseinputenabled" "0"
 		}
 
@@ -410,7 +410,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_PVE_Quick_Equip_Bottle"
 			"font"			"HudFontSmallestBold"
@@ -435,7 +435,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#OpenGeneralLoadout"
 			"font"			"HudFontSmallestBold"
@@ -460,7 +460,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"52 48 45 255"
 		}
@@ -482,7 +482,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		
 		"UpgradeItemsBG"
@@ -497,7 +497,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"97 94 84 255"
 		}
@@ -514,7 +514,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"72 68 63 255"
 		}
@@ -534,7 +534,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		
 		"UpgradeItemStatsLabel"
@@ -552,7 +552,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 		}
 		
@@ -570,7 +570,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"121 195 58 255"
 		}
 		
@@ -588,7 +588,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"tanlight"
 		}
 		
@@ -604,7 +604,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_PVE_UpgradeCancel"
 			"font"			"HudFontSmallestBold"
@@ -680,7 +680,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"bgcolor_override"	"63 59 55 0"
 		
 		"TipPanelBG"
@@ -695,7 +695,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../HUD/tournament_panel_brown"
 
 			"src_corner_height"	"23"	// pixels inside the image
@@ -720,7 +720,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor"		"tanlight"
 		}
@@ -737,7 +737,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		" > "
 			"textAlignment"	"center"

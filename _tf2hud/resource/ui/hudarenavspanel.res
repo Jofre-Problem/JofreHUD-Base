@@ -23,7 +23,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/color_panel_blu"
 				
 			"src_corner_height"		"23"			// pixels inside the image
@@ -43,7 +43,7 @@
 			"wide"			"58"
 			"tall"			"36"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			""
 			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
@@ -62,7 +62,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"font"			"HudFontMediumBold"
 			"labelText"		"%blueleader%"
 			"textAlignment"	"west"
@@ -82,7 +82,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"font"			"HudFontMedium"
 		"labelText"		"VS"
 		"textAlignment"	"center"
@@ -112,7 +112,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/color_panel_red"
 				
 			"src_corner_height"		"23"			// pixels inside the image
@@ -132,7 +132,7 @@
 			"wide"			"58"
 			"tall"			"36"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			""
 			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
@@ -150,7 +150,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"font"			"HudFontMediumBold"
 			"labelText"		"%redleader%"
 			"textAlignment"	"west"

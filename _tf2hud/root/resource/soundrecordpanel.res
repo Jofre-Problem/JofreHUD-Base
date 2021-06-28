@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"
@@ -27,7 +27,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"labelText"		"Ok"
 		"textAlignment"		"center"
@@ -48,7 +48,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"labelText"		"#FileOpenDialog_Cancel"
 		"textAlignment"		"center"
@@ -69,7 +69,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Play"
 		"textAlignment"		"center"
@@ -90,7 +90,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Record"
 		"textAlignment"		"center"
@@ -111,7 +111,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Recording Into File:"
 		"textAlignment"		"west"
@@ -150,7 +150,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Time Recorded"
 		"textAlignment"		"east"
@@ -188,7 +188,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"sec"
 		"textAlignment"		"west"
@@ -208,7 +208,7 @@
 		"UnpinnedCornerOffsetX" "-20"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 }

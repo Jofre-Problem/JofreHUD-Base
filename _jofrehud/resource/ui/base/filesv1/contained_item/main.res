@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"paintborder"	"0"
 		"image"			"animated/tf2_logo_hourglass"
 		"scaleImage"	"1"
@@ -34,7 +34,7 @@
 			"paintborder"	"0"
 			"useparentbg"	"0"
 		
-			"enabled"		"1"
+			
 		
 			"model_xpos"	"1"
 			"model_ypos"	"1"

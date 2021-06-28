@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"TestItemDialog"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-275"
 		"ypos"					"80"
 		"zpos"					"999"
@@ -31,7 +31,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	
@@ -50,7 +50,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"ModelLabel"
 	{
@@ -67,7 +67,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	"SelectModelButton"
@@ -82,7 +82,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#IT_SelectModel"
 		"font"			"HudFontSmallestBold"
@@ -121,7 +121,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 		}
 		"ExistingItemComboBox"
@@ -137,7 +137,7 @@
 			
 			
 			"visible"			"1"
-			"enabled"			"1"
+			
 			"tabPosition"		"1"
 			"textHidden"		"0"
 			"editable"			"0"
@@ -182,7 +182,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"ItemReplacedComboBox"
 		{
@@ -197,7 +197,7 @@
 			
 			
 			"visible"			"1"
-			"enabled"			"1"
+			
 			"tabPosition"		"1"
 			"textHidden"		"0"
 			"editable"			"0"
@@ -228,7 +228,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "200 80 60 255"
 		}
@@ -260,7 +260,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"HideBodygroupExplanationLabel"
 		{
@@ -277,7 +277,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor"		"117 107 94 255"
 		}
@@ -296,7 +296,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -316,7 +316,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -336,7 +336,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -356,7 +356,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -376,7 +376,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -396,7 +396,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -416,7 +416,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -436,7 +436,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -469,7 +469,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"PaintColorComboBox"
 		{
@@ -484,7 +484,7 @@
 			
 			
 			"visible"			"1"
-			"enabled"			"1"
+			
 			"tabPosition"		"1"
 			"textHidden"		"0"
 			"editable"			"0"
@@ -516,7 +516,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"UnusualEffectComboBox"
 		{
@@ -531,7 +531,7 @@
 			
 			
 			"visible"			"1"
-			"enabled"			"1"
+			
 			"tabPosition"		"1"
 			"textHidden"		"0"
 			"editable"			"0"
@@ -561,7 +561,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
@@ -610,7 +610,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"R"
 		"font"			"HudFontSmallestBold"

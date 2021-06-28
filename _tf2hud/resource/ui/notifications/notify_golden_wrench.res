@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/notification_black"
 		"scaleImage"	"1"
 	}
@@ -26,7 +26,7 @@
 		"wide"			"36"
 		"tall"			"12"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_notify_golden_wrench"
 	}
@@ -43,7 +43,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"60 seconds until gates open"
 		"textAlignment"	"West"
 		"dulltext"		"0"

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"1"
 		"title"		"Manage Presets"
@@ -27,7 +27,7 @@
 			
 			"pinCorner"		"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"2"
 			"labelText"		"Ok"
 			"textAlignment"		"center"
@@ -51,7 +51,7 @@
 			"UnpinnedCornerOffsetX" "-6"
 			"UnpinnedCornerOffsetY" "-36"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"1"
 		}
 	}

@@ -12,7 +12,7 @@
 		"skip_autoresize"	"1"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		
 		"small_vertical_break_size"		"0"
@@ -37,7 +37,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"	"0 0 0 240"
 	}
@@ -53,7 +53,7 @@
 		"wide"			"600"
 		"tall"			"400"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"paintbackground"	"0"
 		"border"		"TFFatLineBorderOpaque"
 		"PaintBorder"	"1"
@@ -69,7 +69,7 @@
 			"wide"			"340"
 			"tall"			"313"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"paintborder"	"1"
 			"border"		"StoreInnerShadowBorder"
 		}
@@ -89,7 +89,7 @@
 			"skip_autoresize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 		}		
 				
@@ -123,7 +123,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"wrap"			"1"
 				"fgcolor"		"173 165 146 255"
 			}		
@@ -140,7 +140,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"wrap"			"1"
 			}		
 				
@@ -156,7 +156,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"wrap"			"1"
 				"fgcolor"		"173 165 146 255"
 			}		
@@ -173,7 +173,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"wrap"			"1"
 			}		
 				
@@ -188,7 +188,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"wrap"			"1"
 			}
 		}
@@ -207,7 +207,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"render_texture"	"0"
 		"fov"			"40"
@@ -292,7 +292,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -307,7 +307,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -322,7 +322,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -337,7 +337,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -352,7 +352,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -367,7 +367,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -382,7 +382,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -397,7 +397,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -412,7 +412,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -427,7 +427,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
@@ -446,7 +446,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"auto_scale"		"1"
 		"auto_layout"		"1"
@@ -462,7 +462,7 @@
 			
 			"pinCorner"			"2"
 			"visible"			"1"
-			"enabled"			"1"
+			
 			
 			"labelText"			""
 			"textAlignment"		"south-west"
@@ -500,7 +500,7 @@
 				"wide"			"19"
 				"tall"			"19"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 			}				
 		}
@@ -546,7 +546,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
@@ -573,7 +573,7 @@
 			"wide"			"11"
 			"tall"			"11"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"glyph_options"
 			"scaleImage"	"1"
 		}				
@@ -588,7 +588,7 @@
 		"wide"			"200"
 		"tall"			"150"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	
 		"LoadoutLabel"
 		{
@@ -605,7 +605,7 @@
 			"skip_autoresize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 		}
 
@@ -638,7 +638,7 @@
 			"skip_autoresize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 		}
 
@@ -667,7 +667,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#TF_ImportPreview_ActionLabel"
 			"textAlignment"	"west"
 			"dulltext"		"0"
@@ -707,7 +707,7 @@
 			"skip_autoresize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 		}
 
@@ -737,7 +737,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_ImportFile_EditQCI"
 		"textAlignment"		"center"
@@ -762,7 +762,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"labelText"		"#TF_ImportFile_Advanced"
 	}
@@ -776,7 +776,7 @@
 		"wide"			"200"
 		"tall"			"76"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"paintbackground"	"0"
 		"border"		"TFFatLineBorderOpaque"
 		"PaintBorder"	"1"
@@ -792,7 +792,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_ImportFile_EditQC"
 			"textAlignment"		"center"
@@ -815,7 +815,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"textAlignment"		"center"
@@ -838,7 +838,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"textAlignment"		"center"
@@ -861,7 +861,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"textAlignment"		"center"
@@ -884,7 +884,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"textAlignment"		"center"
@@ -908,7 +908,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"?"
 		"font"			"HudFontSmallestBold"
@@ -956,7 +956,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -975,7 +975,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -992,7 +992,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
@@ -1022,7 +1022,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1042,7 +1042,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 		}
 		"NextButton"
@@ -1057,7 +1057,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
@@ -1087,7 +1087,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -1131,7 +1131,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1150,7 +1150,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1167,7 +1167,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
@@ -1197,7 +1197,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1214,7 +1214,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
@@ -1244,7 +1244,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -1264,7 +1264,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 		}
 		"NextButton"
@@ -1279,7 +1279,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
@@ -1309,7 +1309,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -1353,7 +1353,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1372,7 +1372,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1389,7 +1389,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
@@ -1419,7 +1419,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1436,7 +1436,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
@@ -1466,7 +1466,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -1486,7 +1486,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 		}
 		"NextButton"
@@ -1501,7 +1501,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
@@ -1531,7 +1531,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -1574,7 +1574,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1593,7 +1593,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1610,7 +1610,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
@@ -1640,7 +1640,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1657,7 +1657,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
@@ -1687,7 +1687,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -1707,7 +1707,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 		}
 	}	
@@ -1723,7 +1723,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_ImportPreview_Refresh"
 		"textAlignment"		"center"
@@ -1746,7 +1746,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"center"

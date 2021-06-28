@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		
 		"PreviewSplitter"
@@ -19,7 +19,7 @@
 			"ControlName"	"Splitter"
 			"fieldName"		"PreviewSplitter"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"child0"
 			{
@@ -38,7 +38,7 @@
 					"UnpinnedCornerOffsetX" "-6"
 					"UnpinnedCornerOffsetY" "-6"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 				}
 			}
@@ -60,7 +60,7 @@
 					"UnpinnedCornerOffsetX" "-6"
 					"UnpinnedCornerOffsetY" "-6"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 				}
 			}

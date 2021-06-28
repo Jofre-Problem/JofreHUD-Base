@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Skin Name"
 		"textAlignment"	"west"
@@ -31,7 +31,7 @@
 		"autoResize"		"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -51,7 +51,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Scale"
 		"textAlignment"	"west"
@@ -71,7 +71,7 @@
 		"autoResize"		"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -91,7 +91,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"disabled"		"1"
 		"tabPosition"	"1"
 		"labelText"		"Flip Triangles"

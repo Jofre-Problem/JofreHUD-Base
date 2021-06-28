@@ -4,7 +4,7 @@
 	{
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"xpos"			"90"	[$WIN32]
 		"ypos"			"r100"	[$WIN32]
 		"xpos_minmode"	"r70"	[$WIN32]
@@ -28,11 +28,11 @@
 		"tall"			"44"
 		"visible"		"1"
 		"visible_minmode"	"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/misc_ammo_area_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_red"
-		//"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
+		
 		"teambg_3"		"../hud/misc_ammo_area_blue"
 		//"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"		
 		"proportionalToParent"	"1"		
@@ -50,7 +50,7 @@
 		"autoResize"			"1"
 		"pinCorner"				"2"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		
 		"labelText"				"#TF_Ball"
 		"textAlignment"			"center"
@@ -94,7 +94,7 @@
 		"tall"					"20"	
 		"pinCorner"				"2"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		
 		"labelText"				"%progresscount%"
 		"textAlignment"			"north"

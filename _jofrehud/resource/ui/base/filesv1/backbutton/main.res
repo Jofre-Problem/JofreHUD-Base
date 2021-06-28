@@ -7,7 +7,7 @@
 		"fieldName"		"BackButton"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"	"center"
 		"dulltext"		"0"

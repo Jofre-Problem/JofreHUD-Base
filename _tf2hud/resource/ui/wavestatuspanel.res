@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../HUD/tournament_panel_brown"
 
 		"src_corner_height"	"22"				// pixels inside the image
@@ -36,7 +36,7 @@
 		"xpos_minmode"	"110"
 		"wide_minmode"	"-300"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"				"center"
 		"textAlignment_minmode"		"west"
 		"labelText"					"%wave_count%"
@@ -52,7 +52,7 @@
 		"wide"			"1"
 		"tall"			"30"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"
 		"PaintBackgroundType" "2"
 		"bgcolor_override"	"TanLight"
@@ -75,7 +75,7 @@
 		"wide"			"60"
 		"tall"			"15"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"textAlignment"				"west"
 		"labelText"					"#TF_MVM_Support"
 		
@@ -98,7 +98,7 @@
 		"ypos_minmode"	"8"
 		"wide_minmode"	"138"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../HUD/tournament_panel_blu"
 		
 		"src_corner_height"	"22"				// pixels inside the image
@@ -121,7 +121,7 @@
 		"ypos_minmode"	"7"
 		"wide_minmode"	"140"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../HUD/tournament_panel_tan"
 		
 		"src_corner_height"	"22"				// pixels inside the image

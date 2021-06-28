@@ -10,7 +10,7 @@
 		"wide"			"118"
 		"tall"			"66"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 
 	"Price"
@@ -28,7 +28,7 @@
 		"autoResize"	"1"
 			
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%price%"
 		"paintbackground"	"0"
 	}
@@ -48,7 +48,7 @@
 		"autoResize"	"1"
 			
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%og_price%"
 		"fgcolor"		"117 107 94 255"
 	}
@@ -63,7 +63,7 @@
 		"wide"			"118"
 		"tall"			"5"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
 	}
@@ -83,7 +83,7 @@
 		"autoResize"	"1"
 			
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%discount%"
 		"paintbackground"	"0"
 		"border"		"StoreDiscountBorder"
@@ -104,7 +104,7 @@
 		"autoResize"	"1"
 			
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Store_Price_New"
 		"paintbackground"	"0"
 		"border"		"StoreNewBorder"
@@ -120,7 +120,7 @@
 		"wide"			"24"
 		"tall"			"24"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../backpack/crafting/limited_time_sticker"
 		"scaleImage"	"1"
 	}

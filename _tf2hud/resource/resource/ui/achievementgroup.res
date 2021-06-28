@@ -13,7 +13,7 @@
 		"tall"					"64"
 		
 		"visible"			    "1"
-		"enabled"               "1"
+		
 	
 		"settitlebarvisible"    "0"
 	
@@ -56,7 +56,7 @@
 		"fillcolor"	            "32 32 32 255"
 		//"zpos"	                "-1"
 		"visible"	        	"1"
-		"enabled"	        	"1"
+		
 	}
 
 	"GroupPercentageBar" // current completed

@@ -13,7 +13,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Class_Name_Medic"
 		"textAlignment"	"Center"
 		"dulltext"		"0"
@@ -30,7 +30,7 @@
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_medic_red"
 	}
@@ -45,7 +45,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
@@ -86,7 +86,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"7"
 		"textAlignment"	"Center"
 		"dulltext"		"1"

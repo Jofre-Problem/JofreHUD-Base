@@ -12,7 +12,7 @@
 		
 		
 	//	"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/hud_icon_attack"
 		"scaleImage"		"1"
 	}

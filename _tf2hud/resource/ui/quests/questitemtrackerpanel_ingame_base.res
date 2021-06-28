@@ -12,7 +12,7 @@
 		"wide"			"250"
 		"tall"			"500"
 		"visible"		"1"
-		"enabled"		"1"	
+			
 		
 		"attrib_y_start_offset" "8"
 		"attrib_x_offset" "0"
@@ -44,7 +44,7 @@
 			"tall"			"6"
 			"zpos"			"4"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"proportionaltoparent" "1"
 
 			"bgcolor_override"		"250 234 201 51"
@@ -76,7 +76,7 @@
 				"bgcolor_override"		"QuestUncommitted"
 				"zpos"			"2"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"proportionaltoparent" "1"
 
 				"PointsLabelInvert"
@@ -107,7 +107,7 @@
 				"tall"			"f0"
 				"zpos"			"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"proportionaltoparent" "1"
 
 				"bgcolor_override"		"251 235 202 255"
@@ -141,7 +141,7 @@
 				"bgcolor_override"		"QuestMap_Bonus"
 				"zpos"			"4"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"proportionaltoparent" "1"
 			}
 		}
@@ -154,7 +154,7 @@
 			"tall"			"6"
 			"zpos"			"4"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"proportionaltoparent" "1"
 
 			"bgcolor_override"		"222 217 166 41"
@@ -187,7 +187,7 @@
 				"bgcolor_override"		"QuestUncommitted"
 				"zpos"			"2"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"proportionaltoparent" "1"
 
 
@@ -219,7 +219,7 @@
 				"tall"			"f0"
 				"zpos"			"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"proportionaltoparent" "1"
 
 				"bgcolor_override"	"QuestMap_Bonus"
@@ -253,7 +253,7 @@
 				"bgcolor_override"		"QuestMap_Bonus"
 				"zpos"			"4"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"proportionaltoparent" "1"
 
 
@@ -337,7 +337,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"cyoa/star_on"
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
@@ -353,7 +353,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"cyoa/star_on"
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
@@ -369,7 +369,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"cyoa/star_on"
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
@@ -386,7 +386,7 @@
 		"wide"			"f0"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"	
+			
 
 		"proportionaltoparent" "1"
 

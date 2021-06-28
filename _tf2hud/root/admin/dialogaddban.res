@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"SysMenu"
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"IDTextEntry"
@@ -39,7 +39,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -56,7 +56,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"6"
 		"labelText"		"#Okay_Button"
 		"textAlignment"		"west"
@@ -76,7 +76,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"labelText"		"#Add_Ban_Time_Permanent"
 		"textAlignment"		"west"
@@ -96,7 +96,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"labelText"		"#Add_Ban_Time_Temporary"
 		"textAlignment"		"west"
@@ -150,7 +150,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Add_Ban_ID_IP_Label"
 		"textAlignment"		"east"
@@ -168,7 +168,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"7"
 		"labelText"		"#Cancel_Button"
 		"textAlignment"		"west"
@@ -188,7 +188,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Add_Ban_Player"
 		"textAlignment"		"west"
@@ -223,7 +223,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Add_Ban_Duration_Label"
 		"textAlignment"		"west"

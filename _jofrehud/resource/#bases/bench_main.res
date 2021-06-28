@@ -14,7 +14,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"labelText"		"#vgui_close"
 		"textAlignment"		"west"

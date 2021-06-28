@@ -2,6 +2,6 @@
 {
 	"DeleteButton"
 	{
-		"enabled"		"1"
+		
 	}
 }	

@@ -124,7 +124,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"PaintBackgroundType"	"1"
 		"bgcolor_override" "0 0 0 250"
 	}
@@ -139,7 +139,7 @@
 		"tall"			"480"
 		"zpos"					"60"
 		"visible"				"0"
-		"enabled"				"1"
+		
 		"keyboardinputenabled"	"0"
 
 		"linecolor"			"RedSolid"
@@ -180,7 +180,7 @@
 			"wide"			"200"
 			"tall"			"15"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 
 			"StatsAndMedals"
@@ -198,7 +198,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 			}
 
  			"StatsAndMedalsShadow"
@@ -217,7 +217,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 			}
 		}
 
@@ -231,7 +231,7 @@
 			"wide"			"f0"
 			"tall"			"f0"
 			"visible"		"1"
-			"enabled"		"1"
+			
 
 			"BlueTeamPanel"
 			{
@@ -243,7 +243,7 @@
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"1"
-				"enabled"		"1"
+				
 
 				"BlueTeamScoreBG"
 				{
@@ -257,7 +257,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"border"		"TFFatLineBorderBlueBGOpaque"
 
 					if_large
@@ -280,7 +280,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 
 					if_large
 					{
@@ -304,7 +304,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 
 					if_large
 					{
@@ -326,7 +326,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 
 					if_large
 					{
@@ -349,7 +349,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 
 					if_large
 					{
@@ -366,7 +366,7 @@
 					"wide"			"56"
 					"tall"			"56"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"../hud/team_blue"
 					"scaleImage"		"1"
 
@@ -390,7 +390,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 				}
 				"BlueLeaderAvatar"
 				{
@@ -402,7 +402,7 @@
 					"wide"			"34"
 					"tall"			"34"
 					"visible"		"0"
-					"enabled"		"1"
+					
 					"image"			""
 					"scaleImage"	"1"	
 					"color_outline"	"52 48 45 255"
@@ -440,7 +440,7 @@
 					"wide"			"p.193"
 					"tall"			"215"
 					"visible"		"1"
-					"enabled"		"1"
+					
 
 					if_large
 					{
@@ -458,7 +458,7 @@
 						"wide"			"p.465"
 						"tall"			"205"
 						"visible"		"1"
-						"enabled"		"1"
+						
 						
 						
 						"linespacing"	"26"
@@ -493,7 +493,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"border"		"TFFatLineBorderClearBG"
 
 					if_large
@@ -513,7 +513,7 @@
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"1"
-				"enabled"		"1"
+				
 
 				"RedTeamScoreBG"
 				{
@@ -527,7 +527,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"border"		"TFFatLineBorderRedBGOpaque"
 
 					if_large
@@ -550,7 +550,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 
 					if_large
 					{
@@ -573,7 +573,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 
 					if_large
 					{
@@ -595,7 +595,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 
 					if_large
 					{
@@ -618,7 +618,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 
 					if_large
 					{
@@ -635,7 +635,7 @@
 					"wide"			"70"
 					"tall"			"70"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"../hud/team_red"
 					"scaleImage"		"1"
 
@@ -659,7 +659,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 				}
 				"RedLeaderAvatar"
 				{
@@ -671,7 +671,7 @@
 					"wide"			"34"
 					"tall"			"34"
 					"visible"		"0"
-					"enabled"		"1"
+					
 					"image"			""
 					"scaleImage"	"1"	
 					"color_outline"	"52 48 45 255"
@@ -709,7 +709,7 @@
 					"wide"			"p.193"
 					"tall"			"215"
 					"visible"		"1"
-					"enabled"		"1"
+					
 
 					if_large
 					{
@@ -727,7 +727,7 @@
 						"wide"			"p.465"
 						"tall"			"205"
 						"visible"		"1"
-						"enabled"		"1"
+						
 						
 						
 						"linespacing"	"26"
@@ -762,7 +762,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"border"		"TFFatLineBorderClearBG"
 
 					if_large
@@ -782,7 +782,7 @@
 				"wide"			"150"
 				"tall"			"15"
 				"visible"		"1"
-				"enabled"		"1"
+				
 
 				if_large
 				{
@@ -799,7 +799,7 @@
 					"wide"			"15"
 					"tall"			"15"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"competitive/competitive_coin_gold"
 					"scaleImage"		"1"
 				}
@@ -818,7 +818,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 				}
 				"BlueSilverMedal"
 				{
@@ -830,7 +830,7 @@
 					"wide"			"15"
 					"tall"			"15"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"competitive/competitive_coin_silver"
 					"scaleImage"		"1"
 				}
@@ -849,7 +849,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 				}
 				"BlueBronzeMedal"
 				{
@@ -861,7 +861,7 @@
 					"wide"			"15"
 					"tall"			"15"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"competitive/competitive_coin_bronze"
 					"scaleImage"		"1"
 				}
@@ -880,7 +880,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 				}
 			}
 			"RedMedals"
@@ -893,7 +893,7 @@
 				"wide"			"150"
 				"tall"			"15"
 				"visible"		"1"
-				"enabled"		"1"
+				
 
 				if_large
 				{
@@ -910,7 +910,7 @@
 					"wide"			"15"
 					"tall"			"15"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"competitive/competitive_coin_gold"
 					"scaleImage"		"1"
 				}
@@ -929,7 +929,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 				}
 				"RedSilverMedal"
 				{
@@ -941,7 +941,7 @@
 					"wide"			"15"
 					"tall"			"15"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"competitive/competitive_coin_silver"
 					"scaleImage"		"1"
 				}
@@ -960,7 +960,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 				}
 				"RedBronzeMedal"
 				{
@@ -972,7 +972,7 @@
 					"wide"			"15"
 					"tall"			"15"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"competitive/competitive_coin_bronze"
 					"scaleImage"		"1"
 				}
@@ -991,7 +991,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 				}
 			}
 		}

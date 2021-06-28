@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"settitlebarvisible"		"1"
@@ -28,7 +28,7 @@
 		"AutoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 	}
@@ -43,7 +43,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 	}
@@ -58,7 +58,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"paintbackground"		"1"
 		"textHidden"		"0"
@@ -78,7 +78,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_FindGames"
@@ -98,7 +98,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddAddressToFavorites"
@@ -118,7 +118,7 @@
 		
 		"PinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddSelectedToFavorites"
@@ -137,7 +137,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_EnterIPofServerToAdd"
@@ -156,7 +156,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"appearance"		"LabelDull"
@@ -175,7 +175,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Cancel"

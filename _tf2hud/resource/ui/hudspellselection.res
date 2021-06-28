@@ -21,7 +21,7 @@
 		"wide"			"80"
 		"tall"			"40"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"visible_minmode"	"0"
 		"image"			"../hud/ammo_blue_bg"
 		"scaleImage"	"1"	
@@ -42,7 +42,7 @@
 		"tall"			"56"
 		"visible"		"1"
 		"visible_minmode"	"0"
-		"enabled"		"1"
+		
 		"image"			"spellbook_book"
 		"scaleImage"	"1"		
 	}
@@ -59,7 +59,7 @@
 		"wide"			"24"
 		"tall"			"24"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"image"			"../signs/death_wheel_whammy"
 		"fgcolor"		"TanDark"

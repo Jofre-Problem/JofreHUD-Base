@@ -10,7 +10,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"ReplayBrowser.BgColor"
 		"margin_width"	"c-295"
@@ -65,7 +65,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Replay_ExportMovie"
 		"font"			"ReplayMedium"
@@ -87,7 +87,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"font"			"ReplayMedium"
@@ -113,7 +113,7 @@
 			"wide"			"20"
 			"tall"			"20"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 		}	
 	}
@@ -128,7 +128,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Replay_YouTubeUpload"
 		"font"			"ReplayMedium"
@@ -195,7 +195,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#X_Delete"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
@@ -223,7 +223,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Replay_Watch"
 		"font"			"ReplayMedium"
@@ -250,7 +250,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Replay_RenderEllipsis"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"

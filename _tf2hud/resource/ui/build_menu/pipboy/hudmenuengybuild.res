@@ -10,7 +10,7 @@
 		"wide"			"450"
 		"tall"			"180"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"paintbackground" "0"
 	}
 	
@@ -24,7 +24,7 @@
 		"wide"			"450"
 		"tall"			"180"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"image"			"pipboy_overlay"
 		"tileImage"		"1"
@@ -40,7 +40,7 @@
 		"wide"			"40"
 		"tall"			"40"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"image"			"pipboy_engineer"
 		"tileImage"		"0"
@@ -57,7 +57,7 @@
 		"wide"			"48"
 		"tall"			"48"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_build"
 		"iconColor"		"0 255 0 255"
@@ -76,7 +76,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_menu_build_title"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -97,7 +97,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Build_Cancel"
 		"textAlignment"	"East"
 		"dulltext"		"0"

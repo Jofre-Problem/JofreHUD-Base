@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"1"
 		"title"		"Select"
@@ -21,7 +21,7 @@
 			"ControlName"	"Splitter"
 			"fieldName"		"PreviewSplitter"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"AutoResize"	"3"
 			
 			"xpos"			"0"
@@ -44,7 +44,7 @@
 					"UnpinnedCornerOffsetX" "0"
 					"UnpinnedCornerOffsetY" "0"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 				}
 			}
@@ -63,7 +63,7 @@
 					
 					"UnpinnedCornerOffsetX" "0"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 					"labelText"		"Enter Description:"
 					"textAlignment"	"west"
@@ -86,7 +86,7 @@
 					"UnpinnedCornerOffsetX" "0"
 					"UnpinnedCornerOffsetY" "0"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"editable"		"1"
 					"tabPosition"	"1"
 					"labelText"		""
@@ -108,7 +108,7 @@
 			
 			"pinCorner"		"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"2"
 			"labelText"		"Yes"
 			"textAlignment"		"center"
@@ -128,7 +128,7 @@
 			
 			"pinCorner"		"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"2"
 			"labelText"		"No"
 			"textAlignment"		"center"

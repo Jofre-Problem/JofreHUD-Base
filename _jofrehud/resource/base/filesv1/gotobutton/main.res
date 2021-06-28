@@ -6,7 +6,7 @@
 		"fieldName"		"GotoButton"
 		"tall"		"24"
 		
-		"enabled"		"1"
+		
 		
 		"dulltext"		"0"
 		"brighttext"		"0"

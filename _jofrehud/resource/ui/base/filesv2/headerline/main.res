@@ -6,6 +6,6 @@
 		"fieldName"		"HeaderLine"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 }

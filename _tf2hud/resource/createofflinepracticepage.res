@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"MapList"
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -44,7 +44,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Map"
 		"textAlignment"		"west"
@@ -65,7 +65,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 
@@ -80,7 +80,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%gametype%"
 		"textAlignment"		"center"
@@ -100,7 +100,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"textAlignment"	"west"
@@ -120,7 +120,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"maxchars"		"-1"
 		"text"			""
@@ -139,7 +139,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_Bot_NumberOfBots"
 		"textAlignment"		"west"
@@ -158,7 +158,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -178,7 +178,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"textAlignment"		"west"
@@ -198,7 +198,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_Bot_Difficulty"
 		"textAlignment"		"west"
@@ -217,7 +217,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		""
 		"rightText"		""
@@ -234,7 +234,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty3"
 		"textAlignment"		"east"
@@ -254,7 +254,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty2"
 		"textAlignment"		"center"
@@ -274,7 +274,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty1"
 		"textAlignment"		"center"
@@ -294,7 +294,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty0"
 		"textAlignment"		"west"

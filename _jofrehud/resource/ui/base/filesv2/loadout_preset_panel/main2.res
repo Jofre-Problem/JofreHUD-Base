@@ -5,7 +5,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"	"0"
 	}		

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"59 54 48 255"
@@ -32,7 +32,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 	}
 	
@@ -53,7 +53,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"fgcolor_override"		"0 0 0 255"
 		"bgcolor_override"		"202 190 164 255"
@@ -76,7 +76,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
@@ -98,7 +98,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Cancel"
 		"font"			"HudFontSmallBold"
@@ -123,7 +123,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Contest_Rules"
 		"font"			"HudFontSmallBold"
@@ -148,7 +148,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Contest_Submit"
 		"font"			"HudFontSmallBold"

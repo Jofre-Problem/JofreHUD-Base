@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		""
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -29,7 +29,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			"Blend Factor:"
 		"textAlignment"		"west"
@@ -47,7 +47,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"leftText"			"0"
 		"rightText"			"255"

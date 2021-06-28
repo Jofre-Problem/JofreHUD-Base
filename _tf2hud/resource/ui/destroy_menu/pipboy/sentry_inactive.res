@@ -13,7 +13,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Object_Sentry"
 		//"labelText_lodef"		"#TF_Object_Sentry_360"
 		"textAlignment"	"Left"
@@ -32,7 +32,7 @@
 		"wide"			"98"
 		"tall"			"105"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg_outline"
 		"iconColor"		"0 0 0 255"
@@ -51,7 +51,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_NotBuilt"
 		"textAlignment"	"Center"
 		"dulltext"		"0"
@@ -72,7 +72,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Build_Unavailable"
 		"textAlignment"	"Center"
 		"dulltext"		"0"
@@ -89,7 +89,7 @@
 		"wide"			"18"
 		"tall"			"18"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"0 255 0 128"
@@ -109,7 +109,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"1"
 		"textAlignment"	"Center"
 		"dulltext"		"1"

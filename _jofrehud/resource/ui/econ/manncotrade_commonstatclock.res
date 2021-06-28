@@ -6,7 +6,7 @@
 	{
 		"fieldName"				"CollectionCraftingPanel"
 		"visible"				"0"
-		"enabled"				"1"
+		
 		"xpos"					"cs-0.5"
 		"ypos"					"cs-0.5"
 		"zpos"					"101"
@@ -156,7 +156,7 @@
 				"wide"			"300"
 				"tall"			"300"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"wrap"			"1"
 				"labelText"		"#TF_TradeUp_CommonStatClock_Title"
 				"mouseinputenabled" "0"
@@ -178,7 +178,7 @@
 				"wide"			"150"
 				"tall"			"50"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"labelText"		"#TF_TradeUp_CommonStatClock_desc"
 				"wrap"			"1"
 				"mouseinputenabled" "0"
@@ -201,7 +201,7 @@
 				"tall"			"300"
 					
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"labelText"		"#TF_TradeUp_CommonStatClock_output"
 				"mouseinputenabled" "0"
 				"paintbackground"	"0"
@@ -222,7 +222,7 @@
 				"wide"			"p0.56"
 				"tall"			"300"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"labelText"		"#TF_TradeUp_CommonStatClock_input"
 				"mouseinputenabled" "0"
 				"paintbackground"	"0"
@@ -243,7 +243,7 @@
 				"tall"			"p0.085"
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"labelText"		"#TF_CollectionCrafting_Submit"
 				"font"			"HudFontSmall"
 				"textAlignment"	"center"

@@ -32,7 +32,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_Back"
 		"textAlignment"		"west"
@@ -54,7 +54,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 	}
 	
@@ -69,7 +69,7 @@
 		"fillcolor"	"32 32 32 255"
 		"zpos"	"-3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"autoResize"		"3"
 	}
@@ -85,7 +85,7 @@
 		"fillcolor"	"79 79 79 255"
 		"zpos"	"-2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	
 	"PercentageBar" //dark grey current completed
@@ -99,7 +99,7 @@
 		"fillcolor"	"157 194 80 255"
 		"zpos"	"-1"
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	
 	"PercentageText" //Percent Text inside the percentage field
@@ -113,7 +113,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"0%"
 		"textAlignment"		"east"
@@ -132,7 +132,7 @@
 		"ypos"			"102"
 		"wide"			"225"
 		"tall"			"24"
-		"enabled"		"1"
+		
 		"visible"		"1"
 		"editable"		"0"
 	}
@@ -148,7 +148,7 @@
 		"fillcolor"	"32 32 32 255"
 		"zpos"	"-3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"AchievementsEarnedLabel" 
@@ -162,7 +162,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Achievements_Earned"
 		"textAlignment"		"west"
@@ -184,7 +184,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Achievement_Hide_Achieved"
 		"textAlignment"		"west"

@@ -9,7 +9,7 @@
 		"wide"		"f0"
 		"tall"		"480"
 		"visible"	"0"
-		"enabled"	"1"
+		
 		"bgcolor_override"	"46 43 42 255"
 	}
 	"MainBackground"
@@ -21,7 +21,7 @@
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""
 		"scaleImage"		"1"
 	}
@@ -40,7 +40,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}					
 	"MapLabel"
 	{
@@ -63,7 +63,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	"MapType" [$WIN32]
 	{
@@ -80,7 +80,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}						
 	"StatData"
 	{
@@ -92,7 +92,7 @@
 		"wide"		"f0"
 		"tall"		"480"
 		"visible"	"1"
-		"enabled"	"1"
+		
 
 		"NonInteractiveHeaders"
 		{
@@ -104,7 +104,7 @@
 			"wide"		"f0"
 			"tall"		"480"
 			"visible"	"1"
-			"enabled"	"1"
+			
 	
 			"BarChartLabelA"
 			{
@@ -127,7 +127,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 			}
 			"BarChartLabelB"
 			{
@@ -149,7 +149,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 			}			
 			"OverallRecordLabel"
 			{
@@ -170,7 +170,7 @@
 				"visible"		"1"
 				//"visible_hidef"		"0"
 				//"visible_lodef"		"0"
-				"enabled"		"1"
+				
 				//"enabled_hidef"		"0"
 				//"enabled_lodef"		"0"
 			}				
@@ -185,7 +185,7 @@
 			"wide"		"f0"
 			"tall"		"480"
 			"visible"	"1"
-			"enabled"	"1"
+			
 
 			"BarChartComboA"
 			{
@@ -199,7 +199,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"tabPosition"		"1"
 				"textHidden"		"0"
 				"editable"		"0"
@@ -219,7 +219,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"tabPosition"		"1"
 				"textHidden"		"0"
 				"editable"		"0"
@@ -239,7 +239,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"tabPosition"		"1"
 				"textHidden"		"0"
 				"editable"		"0"
@@ -267,7 +267,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"border"		"TFThinLineBorder"
 		}
 		"AveragesLabel"
@@ -291,7 +291,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"ClassBarBG1A"
 		{
@@ -309,7 +309,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -330,7 +330,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -351,7 +351,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"162 148 135 255"
 			"PaintBackgroundType"	"0"
@@ -372,7 +372,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"162 148 135 255"
 			"PaintBackgroundType"	"0"
@@ -396,7 +396,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassBarLabel1B"
 		{
@@ -417,7 +417,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassLabel1"
 		{
@@ -440,7 +440,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassBarBG2A"
 		{
@@ -458,7 +458,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -479,7 +479,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -500,7 +500,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"93 60 27 255"
 			"PaintBackgroundType"	"0"
@@ -521,7 +521,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"93 60 27 255"
 			"PaintBackgroundType"	"0"
@@ -545,7 +545,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassBarLabel2B"
 		{
@@ -566,7 +566,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassLabel2"
 		{
@@ -589,7 +589,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassBarBG3A"
 		{
@@ -607,7 +607,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -628,7 +628,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -649,7 +649,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"134 93 39 255"
 			"PaintBackgroundType"	"0"
@@ -670,7 +670,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"134 93 39 255"
 			"PaintBackgroundType"	"0"
@@ -694,7 +694,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassBarLabel3B"
 		{
@@ -715,7 +715,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassLabel3"
 		{
@@ -738,7 +738,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassBarBG4A"
 		{
@@ -756,7 +756,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -777,7 +777,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -798,7 +798,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"207 147 95 255"
 			"PaintBackgroundType"	"0"
@@ -819,7 +819,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"207 147 95 255"
 			"PaintBackgroundType"	"0"
@@ -843,7 +843,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassBarLabel4B"
 		{
@@ -864,7 +864,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassLabel4"
 		{
@@ -887,7 +887,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassBarBG5A"
 		{
@@ -905,7 +905,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -926,7 +926,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -947,7 +947,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"226 184 146 255"
 			"PaintBackgroundType"	"0"
@@ -968,7 +968,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"226 184 146 255"
 			"PaintBackgroundType"	"0"
@@ -992,7 +992,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassBarLabel5B"
 		{
@@ -1013,7 +1013,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassLabel5"
 		{
@@ -1036,7 +1036,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassBarBG6A"
 		{
@@ -1054,7 +1054,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -1075,7 +1075,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -1096,7 +1096,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"162 148 135 255"
 			"PaintBackgroundType"	"0"
@@ -1117,7 +1117,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"162 148 135 255"
 			"PaintBackgroundType"	"0"
@@ -1141,7 +1141,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassBarLabel6B"
 		{
@@ -1162,7 +1162,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassLabel6"
 		{
@@ -1185,7 +1185,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassBarBG7A"
 		{
@@ -1203,7 +1203,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -1224,7 +1224,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -1245,7 +1245,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"93 60 27 255"
 			"PaintBackgroundType"	"0"
@@ -1266,7 +1266,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"93 60 27 255"
 			"PaintBackgroundType"	"0"
@@ -1290,7 +1290,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassBarLabel7B"
 		{
@@ -1311,7 +1311,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassLabel7"
 		{
@@ -1334,7 +1334,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}		
 		"ClassBarBG8A"
 		{
@@ -1352,7 +1352,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -1373,7 +1373,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -1394,7 +1394,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"134 93 39 255"
 			"PaintBackgroundType"	"0"
@@ -1415,7 +1415,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"134 93 39 255"
 			"PaintBackgroundType"	"0"
@@ -1439,7 +1439,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassBarLabel8B"
 		{
@@ -1460,7 +1460,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassLabel8"
 		{
@@ -1483,7 +1483,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}		
 		"ClassBarBG9A"
 		{
@@ -1501,7 +1501,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -1522,7 +1522,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -1543,7 +1543,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"207 147 95 255"
 			"PaintBackgroundType"	"0"
@@ -1564,7 +1564,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"207 147 95 255"
 			"PaintBackgroundType"	"0"
@@ -1588,7 +1588,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassBarLabel9B"
 		{
@@ -1609,7 +1609,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}				
 		"ClassLabel9"
 		{
@@ -1632,7 +1632,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}		
 		"RecordsBG"
 		{
@@ -1650,7 +1650,7 @@
 			"visible"		"1"
 			//"visible_hidef"		"0"
 			//"visible_lodef"		"0"
-			"enabled"		"1"
+			
 			//"enabled_hidef"		"0"			
 			//"enabled_lodef"		"0"			
 			"border"		"TFThinLineBorder"
@@ -1671,7 +1671,7 @@
 			
 			"visible"		"1"	[$WIN32]
 			"visible"		"0"	[$X360]
-			"enabled"		"1"
+			
 		}							
 		"RecordsSubBG1"
 		{
@@ -1693,7 +1693,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
@@ -1714,7 +1714,7 @@
 			
 			"visible"		"0"	[$WIN32]
 			"visible"		"1"	[$X360]
-			"enabled"		"1"
+			
 		}	
 		"OverallRecord1Label"
 		{
@@ -1738,7 +1738,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord1Value"
 		{
@@ -1762,7 +1762,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord2Label"
 		{
@@ -1786,7 +1786,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord2Value"
 		{
@@ -1810,7 +1810,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord3Label"
 		{
@@ -1834,7 +1834,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord3Value"
 		{
@@ -1858,7 +1858,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord4Label"
 		{
@@ -1882,7 +1882,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord4Value"
 		{
@@ -1906,7 +1906,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord5Label"
 		{
@@ -1930,7 +1930,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord5Value"
 		{
@@ -1954,7 +1954,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord6Label"
 		{
@@ -1978,7 +1978,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord6Value"
 		{
@@ -2002,7 +2002,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord7Label"
 		{
@@ -2026,7 +2026,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord7Value"
 		{
@@ -2050,7 +2050,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord8Label"
 		{
@@ -2074,7 +2074,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord8Value"
 		{
@@ -2098,7 +2098,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"OverallRecord9Label"
 		{
@@ -2122,7 +2122,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord9Value"
 		{
@@ -2146,7 +2146,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"OverallRecord10Label"
 		{
@@ -2170,7 +2170,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord10Value"
 		{
@@ -2194,7 +2194,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"OverallRecord11Label"
 		{
@@ -2218,7 +2218,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord11Value"
 		{
@@ -2242,7 +2242,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"OverallRecord12Label"
 		{
@@ -2266,7 +2266,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord12Value"
 		{
@@ -2290,7 +2290,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"OverallRecord13Label"
 		{
@@ -2314,7 +2314,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord13Value"
 		{
@@ -2338,7 +2338,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"OverallRecord14Label"
 		{
@@ -2362,7 +2362,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord14Value"
 		{
@@ -2386,7 +2386,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"OverallRecord15Label"
 		{
@@ -2410,7 +2410,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"OverallRecord15Value"
 		{
@@ -2434,7 +2434,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 	}
 	"TipImage"
@@ -2447,7 +2447,7 @@
 		"wide"			"35"
 		"tall"			"35"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -2477,7 +2477,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 	}
 	"NextTipButton" [$WIN32]
@@ -2492,7 +2492,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_NextTip"
 		"textAlignment"	"center"
@@ -2512,7 +2512,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_ResetStats"
 		"textAlignment"	"center"

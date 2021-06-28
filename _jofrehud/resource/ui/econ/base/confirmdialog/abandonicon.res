@@ -10,7 +10,7 @@
 		"tall"		"40"
 		"image"			"pve/mvm_timeout_active_large"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"		"1"
 	}
 }

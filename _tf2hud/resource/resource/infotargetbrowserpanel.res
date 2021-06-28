@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"Entities"
@@ -25,7 +25,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 	}
 	"CreateTargetButton"
@@ -39,7 +39,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Create Targets"
 		"textAlignment"		"west"
@@ -61,7 +61,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Delete"
 		"textAlignment"		"west"
@@ -83,7 +83,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Save"
 		"textAlignment"		"west"
@@ -105,7 +105,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Restart Map"
 		"textAlignment"		"west"
@@ -127,7 +127,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Entities:"
 		"textAlignment"		"west"
@@ -146,7 +146,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Quick Save"
 		"textAlignment"		"west"
@@ -167,7 +167,7 @@
 		
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Quick Load"
 		"textAlignment"		"west"
@@ -188,7 +188,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"

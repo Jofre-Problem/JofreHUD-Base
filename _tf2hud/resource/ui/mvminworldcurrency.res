@@ -10,7 +10,7 @@
 		"wide"			"46"
 		"tall"			"14"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"	"TanLight"
 	}	
@@ -25,7 +25,7 @@
 		"wide"			"44"
 		"tall"			"12"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"	"221 182 72 250"	
 	}
@@ -41,7 +41,7 @@
 		"tall"		"14"
 		"image"			"../HUD/mvm_cash"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"
 	}
 	
@@ -57,7 +57,7 @@
 		"wide"			"40"
 		"tall"			"12"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"center"	
 		"labelText"		"%currency%"
 	}
@@ -74,7 +74,7 @@
 		"wide"			"40"
 		"tall"			"12"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"center"	
 		"labelText"		"%currency%"
 	}

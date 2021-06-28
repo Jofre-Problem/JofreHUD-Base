@@ -11,7 +11,7 @@
 		"tall"				"67"
 		"ypos_minmode"		"-7"
 		"visible"			"1"
-		"enabled"			"1"
+		
 	}
 	
 	"WaveCompleteSummaryPanel"
@@ -24,7 +24,7 @@
 		"wide"				"400"
 		"tall"				"400"
 		"visible"			"1"
-		"enabled"			"1"
+		
 	}
 	
 	"BossStatusPanel"
@@ -37,7 +37,7 @@
 		"wide"				"200"
 		"tall"				"100"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"pin_to_sibling"               "WaveStatusPanel"
 		"pin_corner_to_sibling"        "4"          
@@ -82,7 +82,7 @@
 		"wide"			"24"
 		"tall"			"220"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../sprites/obj_icons/warning_highlight"
 		"scaleImage"	"1"
 		"time"			"0.3"		
@@ -120,7 +120,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"image"			"../hud/hud_mvm_bomb_upgrade_1_disabled"
 			"scaleImage"	"1"
@@ -137,7 +137,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"image"			"../hud/hud_mvm_bomb_upgrade_2_disabled"
 			"scaleImage"	"1"
@@ -154,7 +154,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"image"			"../hud/hud_mvm_bomb_upgrade_3_disabled"
 			"scaleImage"	"1"
@@ -171,7 +171,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"image"			"../hud/hud_mvm_bomb_upgrade_boss"
 			"scaleImage"	"1"
@@ -188,7 +188,7 @@
 		"wide"				"f0"
 		"tall"				"480"
 		"visible"			"0"
-		"enabled"			"1"			
+					
 	}
 	
 	"VictoryPanelContainer"
@@ -234,7 +234,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/color_panel_red"
 
 			"src_corner_height"	"22"				// pixels inside the image
@@ -256,7 +256,7 @@
 			"wide"			"300"
 			"tall"			"20"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"tanlight"		
 		}
 	}

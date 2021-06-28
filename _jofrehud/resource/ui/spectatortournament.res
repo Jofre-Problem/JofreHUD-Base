@@ -87,7 +87,7 @@
 				"wide"			"16"
 				"tall"			"16"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"../hud/class_scoutred"
 				"scaleImage"	"1"	
 				
@@ -111,7 +111,7 @@
 				"wide"			"20"
 				"tall"			"20"
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"bgcolor_override"		"Black"
 				"PaintBackgroundType"	"0"
 				
@@ -131,7 +131,7 @@
 				"wide"				"32"
 				"tall"				"32"
 				"visible"			"1"
-				"enabled"			"1"	
+					
 				"HealthBonusPosAdj"	"10"
 				"HealthDeathWarning"		"0.68"
 				"TFFont"					"HudFontSmallest"
@@ -151,7 +151,7 @@
 				
 				
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"image"			"../HUD/tournament_panel_brown"
 
 				"src_corner_height"	"22"				// pixels inside the image
@@ -178,7 +178,7 @@
 				
 				
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"image"			"hud/checkmark"
 				"scaleImage"		"1"
 

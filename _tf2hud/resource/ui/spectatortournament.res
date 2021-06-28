@@ -8,7 +8,7 @@
 		"tall"			"480"
 		
 		
-		"enabled"		"1"
+		
 				
 		"team1_player_base_offset_x"		"-75"
 		"team1_player_base_y"				"0"
@@ -66,7 +66,7 @@
 				"wide"			"22"
 				"tall"			"22"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"../hud/class_scoutred"
 				"scaleImage"	"1"	
 				
@@ -90,7 +90,7 @@
 				"wide"			"20"
 				"tall"			"20"
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"bgcolor_override"		"Black"
 				"PaintBackgroundType"	"0"
 				
@@ -110,7 +110,7 @@
 				"wide"				"32"
 				"tall"				"32"
 				"visible"			"1"
-				"enabled"			"1"	
+					
 				"HealthBonusPosAdj"	"10"
 				"HealthDeathWarning"		"0.49"
 				"TFFont"					"HudFontSmallest"
@@ -130,7 +130,7 @@
 				
 				
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"image"			"../HUD/tournament_panel_brown"
 
 				"src_corner_height"	"22"				// pixels inside the image
@@ -157,7 +157,7 @@
 				
 				
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"image"			"hud/checkmark"
 				"scaleImage"		"1"
 
@@ -277,7 +277,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
 		"font"			"HudFontSmall"
@@ -301,7 +301,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_PVE_Buyback"
 		"textAlignment"	"center"
 		"font"			"HudFontSmall"
@@ -416,7 +416,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#FreezePanel_Item"
 			"textAlignment"	"Left"
 			"dulltext"		"0"
@@ -436,7 +436,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"south"
 			"fgcolor"		"235 226 202 255"
@@ -454,6 +454,6 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}		
 }

@@ -18,7 +18,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -37,7 +37,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -56,7 +56,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -74,7 +74,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -93,7 +93,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -111,7 +111,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -129,7 +129,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -149,7 +149,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
@@ -168,7 +168,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"

@@ -25,7 +25,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../HUD/tournament_panel_black"
 
 			"src_corner_height"	"22"				// pixels inside the image
@@ -178,7 +178,7 @@
 		"tall"			"25"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#DoneButton"
 		"font"			"HudFontSmallBold"

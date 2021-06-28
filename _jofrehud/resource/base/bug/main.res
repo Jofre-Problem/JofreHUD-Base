@@ -131,7 +131,7 @@
 	//	
 	//	
 	//	"visible"		"1"
-	//	"enabled"		"1"
+	//	
 	//	
 	//	"dulltext"		"0"
 	//	"brighttext"		"0"
@@ -144,7 +144,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"
@@ -159,7 +159,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"NumericInputOnly"		"0"
@@ -173,7 +173,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -189,7 +189,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -205,7 +205,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -220,7 +220,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -235,7 +235,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -249,7 +249,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"0"
@@ -265,7 +265,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
@@ -322,7 +322,7 @@
 		"tall"		"24"
 		
 		
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -337,7 +337,7 @@
 		"tall"		"24"
 		
 		
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -353,7 +353,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -368,7 +368,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -383,7 +383,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -397,7 +397,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"dulltext"		"0"
 		"brighttext"		"0"
@@ -411,7 +411,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -426,7 +426,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -441,7 +441,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -455,7 +455,7 @@
 		"tall"		"24"
 		
 		
-		"enabled"		"1"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -469,7 +469,7 @@
 		"tall"		"24"
 		
 		
-		"enabled"		"1"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -483,7 +483,7 @@
 		"tall"		"24"
 		
 		
-		"enabled"		"1"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -497,7 +497,7 @@
 		"tall"		"24"
 		
 		
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"0"
@@ -529,7 +529,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
@@ -544,7 +544,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"

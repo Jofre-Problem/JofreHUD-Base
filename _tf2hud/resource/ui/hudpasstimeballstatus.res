@@ -24,7 +24,7 @@
 		"wide"				"f0"
 		"tall"				"f0"
 		"visible"			"1"
-		"enabled"			"1"
+		
 	}
 
 	"EventTitleLabel"
@@ -39,7 +39,7 @@
 		"wide"			"f"
 		"tall"			"25"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"center"
 		"labelText"		"A TEAM STOLE THE BALL"
 		fgcolor_override	"224 217 197 255"
@@ -57,7 +57,7 @@
 		"wide"			"f"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"center"
 		"labelText"		""
 		fgcolor_override	"255 235 35 200"
@@ -78,7 +78,7 @@
 		"wide"			"f"
 		"tall"			"24"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"center"
 		"labelText"		"A TEAM STOLE THE BALL"
 		fgcolor_override	"224 217 197 255"
@@ -97,7 +97,7 @@
 		"wide"			"380"
 		"tall"			"48"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		""
 		"image"			"../passtime/hud/passtime_ballcontrol_bar"
 		"scaleImage"	"1"
@@ -137,7 +137,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"image"			"../passtime/hud/passtime_goal_blue_icon"
@@ -156,7 +156,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"image"			"../passtime/hud/passtime_goal_blue_icon"
@@ -175,7 +175,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"image"			"../passtime/hud/passtime_goal_blue_icon"
@@ -195,7 +195,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"image"			"../passtime/hud/passtime_goal_red_icon"
@@ -214,7 +214,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"image"			"../passtime/hud/passtime_goal_red_icon"
@@ -234,7 +234,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"image"			"../passtime/hud/passtime_goal_red_icon"
@@ -253,7 +253,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"image"			"../passtime/hud/passtime_ball"
@@ -272,7 +272,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"scaleImage"	"1"	
@@ -284,7 +284,7 @@
 		"fieldName"				"ProgressBallCarrierName"
 		//font					TargetID
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"zpos"					"-400"
 		"xpos"					"0"
 		"ypos"					"0"
@@ -312,7 +312,7 @@
 		"tall" "f0"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 
 		"BallPowerMeterFrame"
 		{
@@ -326,7 +326,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"image"			"../passtime/hud/passtime_powerball_meter_frame"
 			"scaleImage"	"1"					
@@ -347,7 +347,7 @@
 			"wide"			"168"
 			"tall"			"18"
 			"visible"			"1"
-			"enabled"			"1"
+			
 
 			"BallPowerMeterFinalSection"
 			{
@@ -361,7 +361,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"image"			"white"
 				"scaleImage"	"1"					
@@ -383,7 +383,7 @@
 			"wide"				"168"
 			"tall"				"18"
 			"visible"			"1"
-			"enabled"			"1"
+			
 
 			"BallPowerMeterFill"
 			{
@@ -397,7 +397,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"image"			"white"
 				"scaleImage"	"1"					

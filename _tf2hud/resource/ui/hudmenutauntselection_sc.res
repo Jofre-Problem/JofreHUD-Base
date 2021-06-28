@@ -10,7 +10,7 @@
 		"wide"			"470"
 		"tall"			"170"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"
 		"iconColor"		"255 255 255 255"
@@ -38,7 +38,7 @@
 		"wide"			"50"
 		"tall"			"50"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_taunt_menu_icon"
 		"iconColor"		"255 255 255 255"
@@ -57,7 +57,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Taunt_Title"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -78,7 +78,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Taunt_Title"
 		"textAlignment"	"Left"
 		"dulltext"		"1"
@@ -377,7 +377,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_left"
 	}
@@ -394,7 +394,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_right"
 	}
@@ -411,7 +411,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
 	}
@@ -429,7 +429,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Taunt_Title"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -448,7 +448,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_alt_function"
 	}
@@ -466,7 +466,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Taunt_Weapon_NoKey"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -485,7 +485,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_cancel"
 
@@ -504,7 +504,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Cancel"
 		"textAlignment"	"Left"
 		"dulltext"		"0"

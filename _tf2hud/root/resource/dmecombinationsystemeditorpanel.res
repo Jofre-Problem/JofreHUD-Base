@@ -15,7 +15,7 @@
 		"UnpinnedCornerOffsetX" "0"
 		"UnpinnedCornerOffsetY" "0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"1"
 	}
 }

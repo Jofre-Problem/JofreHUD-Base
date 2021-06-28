@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"	[$WIN32]
-		"enabled"		"1"
+		
 		"labelText"		""
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"		
@@ -28,7 +28,7 @@
 		
 		"visible"		"1"	[$WIN32]
 		"visible"		"0"	[$X360]
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Coach_ControlView"
 		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"

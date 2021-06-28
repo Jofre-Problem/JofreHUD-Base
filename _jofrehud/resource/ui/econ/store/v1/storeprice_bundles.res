@@ -28,7 +28,7 @@
 		"tall"			"24"
 		"zpos"			"20"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../backpack/crafting/limited_time_sticker"
 		"scaleImage"	"1"
 	}

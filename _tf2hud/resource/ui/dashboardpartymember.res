@@ -40,7 +40,7 @@
 		"wide"			"8"
 		"tall"			"8"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"importtool_goldstar"
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
@@ -56,7 +56,7 @@
 		"wide"			"p0.75"
 		"tall"			"p0.75"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"glyph_alert"
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
@@ -74,7 +74,7 @@
 		"wide"			"p0.75"
 		"tall"			"p0.75"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"glyph_alert"
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
@@ -92,7 +92,7 @@
 		"wide"			"p0.65"
 		"tall"			"p0.65"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"gc_dc"
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
@@ -126,7 +126,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"font"			"PlayerPanelPlayerName"
 		"textAlignment"	"center"

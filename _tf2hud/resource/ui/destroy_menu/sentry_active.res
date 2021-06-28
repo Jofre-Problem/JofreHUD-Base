@@ -13,7 +13,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Object_Sentry"
 		//"labelText_lodef"		"#TF_Object_Sentry_360"
 		"textAlignment"	"Left"
@@ -31,7 +31,7 @@
 		"wide"			"98"
 		"tall"			"105"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg_outline"
 		"iconColor"		"ProgressOffWhite"
@@ -47,7 +47,7 @@
 		"wide"			"70"
 		"tall"			"70"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_demolish"
 		"iconColor"		"255 255 255 255"
@@ -63,7 +63,7 @@
 		"wide"			"80"
 		"tall"			"80"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_sentrygun_1"
 		"iconColor"		"255 255 255 128"
@@ -79,7 +79,7 @@
 		"wide"			"18"
 		"tall"			"18"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
@@ -99,7 +99,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"1"
 		"textAlignment"	"Center"
 		"dulltext"		"1"

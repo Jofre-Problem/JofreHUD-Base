@@ -9,7 +9,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"ClipImage"
@@ -23,7 +23,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"ClipImageBackground"
@@ -38,7 +38,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"scaleImage"		"0"
 	}

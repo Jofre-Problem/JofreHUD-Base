@@ -10,7 +10,7 @@
 		"wide"			"300"
 		"tall"			"350"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"PaintBackgroundType"	"2"
 		"paintbackground"	"0"
 		"paintborder"		"0"
@@ -29,7 +29,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "TanLight"
 			"proportionaltoparent"	"1"
 		}
@@ -48,7 +48,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "TanLight"
 			"proportionaltoparent"	"1"
@@ -68,7 +68,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "TanLight"
 			"proportionaltoparent"	"1"
 		}
@@ -87,7 +87,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "TanLight"
 			"proportionaltoparent"	"1"
@@ -105,7 +105,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"proportionaltoparent"	"1"
 
@@ -151,7 +151,7 @@
 				"tall"			"f0"
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"default"		"1"
 				"labelText"		""
@@ -180,7 +180,7 @@
 					"wide"			"o1"
 					"tall"			"f0"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"proportionaltoparent"	"1"
 					"image"			"../backpack/crafting/gift_premium_large"
@@ -197,7 +197,7 @@
 				"wide"			"20"
 				"tall"			"20"
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
 				"image"			"checkmark"
@@ -218,7 +218,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"fgcolor_override" "TanLight"
 				"proportionaltoparent"	"1"
 			}
@@ -234,7 +234,7 @@
 				"tall"			"f0"
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"default"		"1"
 				"labelText"		""
@@ -263,7 +263,7 @@
 					"wide"			"o1"
 					"tall"			"f0"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"proportionaltoparent"	"1"
 					"image"			"mobile_phone"
@@ -280,7 +280,7 @@
 				"wide"			"20"
 				"tall"			"20"
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
 				"image"			"checkmark"
@@ -301,7 +301,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"fgcolor_override" "TanLight"
 				"proportionaltoparent"	"1"
 			}
@@ -316,7 +316,7 @@
 				"wide"			"p0.3"
 				"tall"			"f0"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"proportionaltoparent"	"1"
 
 				"BadgePanel"
@@ -336,7 +336,7 @@
 				"tall"			"f0"
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"default"		"1"
 				"labelText"		""
@@ -366,7 +366,7 @@
 				"wide"			"20"
 				"tall"			"20"
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
 				"image"			"checkmark"
@@ -388,7 +388,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "TanLight"
 			"proportionaltoparent"	"1"
 		}
@@ -407,7 +407,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "TanLight"
 			"proportionaltoparent"	"1"
@@ -423,7 +423,7 @@
 			"wide"					"f40"
 			"tall"					"p0.2"
 			"visible"				"1"
-			"enabled"				"1"
+			
 			"scaleImage"			"1"
 			"proportionaltoparent"	"1"
 

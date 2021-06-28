@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 
 		"textAlignment"		"west"
 		"default"		"0"
@@ -21,7 +21,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 
 	}
@@ -34,7 +34,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}	
 	"RadioDesc3"
@@ -45,7 +45,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}	
 	"RadioDesc4"
@@ -57,7 +57,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 

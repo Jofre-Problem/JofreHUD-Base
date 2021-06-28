@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"SysMenu"
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"MatchName"
@@ -39,7 +39,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"StartGameButton"
@@ -72,7 +72,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}	
 	
@@ -88,7 +88,7 @@
 		
 		"labelText"		"#SteamAddOn_North"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}	
 	"TextPlayerName0"
@@ -102,7 +102,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"InviteButton0"
@@ -133,7 +133,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#SteamAddOn_Cancel"
 		"textAlignment"		"west"
@@ -152,7 +152,7 @@
 		
 		"labelText"		"#SteamAddOn_East"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}		
 	"TextPlayerName1"
@@ -166,7 +166,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"InviteButton1"
@@ -197,7 +197,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#SteamAddOn_Cancel"
 		"textAlignment"		"west"
@@ -215,7 +215,7 @@
 		
 		"labelText"		"#SteamAddOn_South"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}			
 	"TextPlayerName2"
@@ -229,7 +229,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"InviteButton2"
@@ -243,7 +243,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#SteamAddOn_Invite"
 		"textAlignment"		"west"
@@ -260,7 +260,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#SteamAddOn_Cancel"
 		"textAlignment"		"west"
@@ -278,7 +278,7 @@
 		
 		"labelText"		"#SteamAddOn_West"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}			
 	
@@ -293,7 +293,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"InviteButton3"
@@ -307,7 +307,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#SteamAddOn_Invite"
 		"textAlignment"		"west"
@@ -324,7 +324,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#SteamAddOn_Cancel"
 		"textAlignment"		"west"
@@ -360,7 +360,7 @@
 		"autoResize"		"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -377,7 +377,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#SteamAddOn_Btn_Send"
 		"textAlignment"		"west"
@@ -396,7 +396,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Last message received at:"
 		"textAlignment"		"west"

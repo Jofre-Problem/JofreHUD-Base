@@ -2,6 +2,6 @@
 {
 	"InfoLabel"
 	{
-		"enabled"		"1"
+		
 	}	
 }	

@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"ImportMaterialEditDialog"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"0"
 		"ypos"					"0"
 		"wide"					"f0"
@@ -23,7 +23,7 @@
 		"tall"		"f0"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"0 0 0 255"
 	}
@@ -345,7 +345,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"UpdateBaseMapAlphaPhongMask"
@@ -477,7 +477,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -515,7 +515,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -553,7 +553,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -591,7 +591,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -668,7 +668,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"UpdateHalfLambert"
@@ -865,7 +865,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"UpdateAdditive"
@@ -900,7 +900,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"UpdateTranslucent"
@@ -1118,7 +1118,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"UpdateSelfIllum"
@@ -1323,7 +1323,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"center"
@@ -1346,7 +1346,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Cancel"
 		"textAlignment"		"center"

@@ -10,7 +10,7 @@
 		"wide"			"220"
 		"tall"			"26"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"border"		"TFThinLineBorder"
 	}
 
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"#Notifications_Present"
 		"textAlignment"	"center"

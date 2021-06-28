@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"1"
 		"title"		"#Frame_Untitled"
@@ -27,7 +27,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 		}
 
@@ -42,7 +42,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 		}
 		
@@ -57,7 +57,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 		}
 
@@ -72,7 +72,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 		}
 
@@ -87,7 +87,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"selected"		"1"
 			"tabPosition"		"8"
 			"labelText"			"H"
@@ -110,7 +110,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"8"
 			"labelText"			"S"
 			"textAlignment"		"west"
@@ -132,7 +132,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"8"
 			"labelText"			"V"
 			"textAlignment"		"west"
@@ -154,7 +154,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"8"
 			"labelText"			"R"
 			"textAlignment"		"west"
@@ -176,7 +176,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"8"
 			"labelText"			"G"
 			"textAlignment"		"west"
@@ -198,7 +198,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"8"
 			"labelText"			"B"
 			"textAlignment"		"west"
@@ -220,7 +220,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			"tabPosition"		"1"
 			"labelText"			""
@@ -240,7 +240,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			"tabPosition"		"2"
 			"labelText"			""
@@ -260,7 +260,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			
 			"labelText"			"%"
@@ -280,7 +280,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			"tabPosition"		"3"
 			"labelText"			""
@@ -300,7 +300,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			
 			"labelText"			"%"
@@ -320,7 +320,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			"tabPosition"		"4"
 			"labelText"			""
@@ -340,7 +340,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			"tabPosition"		"5"
 			"labelText"			""
@@ -361,7 +361,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"6"
 			"labelText"			""
 			"textAlignment"		"west"
@@ -381,7 +381,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"7"
 			"labelText"			""
 			"textAlignment"		"west"
@@ -400,7 +400,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			
 			"labelText"			"A"

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../HUD/tournament_panel_brown"
 
 		"src_corner_height"	"22"				// pixels inside the image
@@ -44,7 +44,7 @@
 			"wide"			"245"
 			"tall"			"36"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"black"		
 			
 			// Red Background
@@ -65,7 +65,7 @@
 			"wide"			"244"
 			"tall"			"35"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"tanlight"		
 		}
 	}
@@ -231,7 +231,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../HUD/tournament_panel_brown"
 
 		"src_corner_height"	"22"				// pixels inside the image

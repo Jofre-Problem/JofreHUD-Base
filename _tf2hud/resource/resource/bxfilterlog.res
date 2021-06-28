@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"Filter Log"
@@ -28,7 +28,7 @@
 		
 		"visible"		"1"
 		"selected"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Resample"
 		"textAlignment"		"west"
@@ -48,7 +48,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Resampled Framerate:"
 		"textAlignment"		"west"
@@ -67,7 +67,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -87,7 +87,7 @@
 		
 		"visible"		"1"
 		"selected"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Smooth"
 		"textAlignment"		"west"
@@ -107,7 +107,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Filter Width:"
 		"textAlignment"		"west"
@@ -126,7 +126,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -145,7 +145,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Filter"
 		"textAlignment"		"west"
@@ -166,7 +166,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Cancel"
 		"textAlignment"		"west"

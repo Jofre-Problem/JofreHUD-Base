@@ -14,7 +14,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"proportionaltoparent"	"1"
 		"fgcolor_override" "46 43 42 255"
@@ -35,7 +35,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"proportionaltoparent"	"1"
 		"fgcolor_override" "46 43 42 255"
@@ -53,7 +53,7 @@
 		"tall"			"20"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
@@ -85,7 +85,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"close_button"
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
@@ -102,7 +102,7 @@
 		"wide"			"30"
 		"tall"			"30"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
@@ -134,7 +134,7 @@
 			"wide"			"30"
 			"tall"			"30"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"blog_back"
 			"scaleImage"	"1"
 		}				
@@ -150,7 +150,7 @@
 		"tall"			"30"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
@@ -182,7 +182,7 @@
 			"wide"			"30"
 			"tall"			"30"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"blog_forward"
 			"scaleImage"	"1"
 		}				
@@ -200,7 +200,7 @@
 		"wide"			"300"
 		"tall"			"30"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 		"proportionaltoparent"	"1"
 		"skip_autoresize"	"1"

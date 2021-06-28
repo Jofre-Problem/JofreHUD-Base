@@ -13,7 +13,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"font"			"HudFontMediumSmallBold"
 			"textAlignment"	"center"

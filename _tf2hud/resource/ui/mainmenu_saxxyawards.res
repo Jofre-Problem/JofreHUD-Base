@@ -13,7 +13,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"PaintBackgroundType"	"2"
 		"bgcolor_override" "0 0 0 255"
@@ -32,7 +32,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"tileImage"		"0"
 		"scaleImage"	"1"
@@ -61,7 +61,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	
 	"InfoLabel"
@@ -112,7 +112,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Contest_SubmitEntry"
 		"font"			"HudFontSmallestBold"
@@ -142,7 +142,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Contest_Details"
 		"font"			"HudFontSmallestBold"
@@ -178,7 +178,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"CurtainsPanel"
@@ -195,7 +195,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"PaintBackgroundType"	"2"
 		"bgcolor_override" "0 0 0 0"
@@ -205,7 +205,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SaxxyTitleImage"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tileImage"		"0"
 			"scaleImage"	"1"
 			"scaleAmount"	"0"
@@ -231,7 +231,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 
 			"fov"			"20"
 			"allow_rot"		"0"
@@ -264,7 +264,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"PaintBackgroundType"	"2"
 			"bgcolor_override" "0 0 0 255"
@@ -288,7 +288,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		
 		"CurtainsStatic"
@@ -309,7 +309,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		
 		"TestPanel"
@@ -326,7 +326,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"PaintBackgroundType"	"2"
 			"bgcolor_override" "0 255 0 255"

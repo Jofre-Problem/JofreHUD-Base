@@ -8,7 +8,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"
 	}
 	
@@ -17,7 +17,7 @@
 		"ControlName"	"CIconPanel"
 		"fieldName"		"Notification_Icon"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 	}
 }	

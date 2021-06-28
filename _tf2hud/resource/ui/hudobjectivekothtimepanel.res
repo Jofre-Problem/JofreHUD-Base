@@ -20,7 +20,7 @@
 		"wide"				"100"
 		"tall"				"150"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		"delta_item_x"			"22"
 		"delta_item_start_y"	"50"
 		"delta_item_end_y"		"70"
@@ -67,7 +67,7 @@
 			//"wide_lodef"	"50"
 			"tall"			"31"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"textAlignment"		"center"
 			"labelText"		"0:00"
 
@@ -102,7 +102,7 @@
 		"wide"				"100"
 		"tall"				"150"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		"delta_item_x"			"22"
 		"delta_item_start_y"	"50"
 		"delta_item_end_y"		"70"
@@ -149,7 +149,7 @@
 			//"wide_lodef"	"50"
 			"tall"			"31"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"textAlignment"		"center"
 			"labelText"		"0:00"
 
@@ -185,7 +185,7 @@
 		"tall"				"33"
 		"tall_minmode"		"21"
 		"visible"			"0"
-		"enabled"			"1"
+		
 		"image"				"../hud/objectives_timepanel_active_bg"	
 		"scaleImage"		"1"	
 	}

@@ -22,7 +22,7 @@
 			"wide"			"25"
 			"tall"			"o1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"cyoa/cyoa_directory_icon"
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"

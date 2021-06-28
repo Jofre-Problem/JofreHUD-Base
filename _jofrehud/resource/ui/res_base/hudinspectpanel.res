@@ -50,7 +50,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"textinsetx"	"10"
 			"labelText"		"#FreezePanel_Item"
 			"textAlignment"	"north"
@@ -73,7 +73,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"south"
 			"fgcolor"		"HudWhite"

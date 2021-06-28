@@ -13,7 +13,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"bgcolor_override"		"131 66 55 255"
 		"paintbackground"		"1"
 		"paintborder"			"0"
@@ -31,7 +31,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"bgcolor_override"		"34 30 31 255"
 			"paintbackground"		"1"
 			"paintbackgroundtype"	"0"
@@ -49,7 +49,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"bgcolor_override"		"34 30 31 255"
 			"paintbackground"		"1"
 			"paintbackgroundtype"	"2"
@@ -69,7 +69,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 		}
 		
@@ -85,7 +85,7 @@
 			"wide"			"5"
 			"tall"			"5"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"178 82 22 255"
 		}				
 		"FreeTrialPoint1"
@@ -103,7 +103,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor"		"180 168 145 255"
 		}
@@ -119,7 +119,7 @@
 			"wide"			"3"
 			"tall"			"5"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"178 82 22 255"
 		}				
 		"FreeTrialPoint2"
@@ -137,7 +137,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor"		"180 168 145 255"
 		}
@@ -153,7 +153,7 @@
 			"wide"			"3"
 			"tall"			"5"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"178 82 22 255"
 		}				
 		"FreeTrialPoint3"
@@ -171,7 +171,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor"		"180 168 145 255"
 		}
@@ -187,7 +187,7 @@
 			"wide"			"3"
 			"tall"			"5"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"178 82 22 255"
 		}				
 		"FreeTrialPoint4"
@@ -205,7 +205,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor"		"180 168 145 255"
 		}
@@ -225,7 +225,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"178 82 22 255"
 		}
 		
@@ -244,7 +244,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor"		"180 168 145 255"
 		}
@@ -260,7 +260,7 @@
 		"wide"			"58"
 		"tall"			"58"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"store/store_starburst"
 		"scaleImage"	"1"
 	}
@@ -275,7 +275,7 @@
 		"wide"			"85"
 		"tall"			"85"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../backpack/player/items/all_class/all_manncap_large"
 		"scaleImage"	"1"
 	}

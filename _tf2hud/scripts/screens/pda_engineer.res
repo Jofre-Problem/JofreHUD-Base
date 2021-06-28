@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"1"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -29,7 +29,7 @@
 		"wide"			"150"
 		"tall"			"150"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_sentrygun_1"
 		"iconColor"		"255 255 255 255"
@@ -47,7 +47,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"2"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -64,7 +64,7 @@
 		"wide"			"150"
 		"tall"			"150"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_dispenser"
 		"iconColor"		"255 255 255 255"
@@ -82,7 +82,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"3"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -99,7 +99,7 @@
 		"wide"			"150"
 		"tall"			"150"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_tele_entrance"
 		"iconColor"		"255 255 255 255"
@@ -117,7 +117,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"4"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -134,7 +134,7 @@
 		"wide"			"150"
 		"tall"			"150"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_tele_exit"
 		"iconColor"		"255 255 255 255"
@@ -152,7 +152,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"0 Cancel"
 		"textAlignment"	"center"
 		"dulltext"		"0"

@@ -30,7 +30,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "TanLight"
 		"proportionaltoparent" "1"
 		"mouseinputenabled"	"0"
@@ -50,7 +50,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "TanLight"
 		"proportionaltoparent" "1"

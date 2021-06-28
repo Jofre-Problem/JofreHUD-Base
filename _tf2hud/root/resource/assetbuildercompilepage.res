@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	
 		"CompileOutputLabel"
@@ -25,7 +25,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"Compile Output"
 			"textAlignment"	"west"
@@ -46,7 +46,7 @@
 			"autoResize"		"3"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"textHidden"		"0"
 			"editable"		"0"

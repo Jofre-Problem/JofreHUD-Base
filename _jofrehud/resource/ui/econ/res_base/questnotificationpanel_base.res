@@ -53,7 +53,7 @@
 				"wide"			"o1"
 				"tall"			"p0.8"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"animated/tf2_speaker_icon"
 				"scaleImage"	"1"	
 				"proportionaltoparent"	"1"	

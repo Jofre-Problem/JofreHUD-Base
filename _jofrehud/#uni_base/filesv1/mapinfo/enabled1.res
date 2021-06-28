@@ -2,6 +2,6 @@
 {
 	"mapinfo"
 	{
-		"enabled"	"1"
+		
 	}
 }	

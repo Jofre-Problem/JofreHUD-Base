@@ -10,7 +10,7 @@
 		"wide"			"190"
 		"tall"			"18"
 		"visible"		"0"
-		"enabled"		"1"	
+			
 	}
 
 	"TankImage"
@@ -23,7 +23,7 @@
 		"wide"			"18"
 		"tall"			"18"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/leaderboard_class_tank"
 		"scaleImage"	"1"
 	}
@@ -38,7 +38,7 @@
 		"wide"			"153"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../HUD/tournament_panel_blu"
 		
  		"src_corner_height"	"22"				// pixels inside the image
@@ -58,7 +58,7 @@
 		"wide"			"155"
 		"tall"			"12"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../HUD/tournament_panel_tan"
 		
 		"src_corner_height"	"22"				// pixels inside the image

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"SysMenu"
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"Okay"
@@ -39,7 +39,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"7"
 		"labelText"		"#Okay_Button"
 		"textAlignment"		"center"
@@ -59,7 +59,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"8"
 		"labelText"		"#Cancel_Button"
 		"textAlignment"		"center"
@@ -79,7 +79,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#Options_Panel_AutoRefresh"
 		"textAlignment"		"west"
@@ -98,7 +98,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"labelText"		"#Options_Panel_SaveRcon"
 		"textAlignment"		"west"
@@ -117,7 +117,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -134,7 +134,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"#Options_Panel_Collect_Stats"
 		"textAlignment"		"west"
@@ -153,7 +153,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -170,7 +170,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"6"
 		"labelText"		"#Options_Panel_Get_Logs"
 		"textAlignment"		"west"
@@ -189,7 +189,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Options_Panel_Seconds"
 		"textAlignment"		"west"
 		"associate"		"RefreshCheckButton"
@@ -207,7 +207,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Options_Panel_SaveRcon_Unsecure"
 		"textAlignment"		"west"
 		"dulltext"		"1"
@@ -224,7 +224,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Options_Panel_Collect_Stats_Time"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -241,7 +241,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Options_Panel_Seconds"
 		"textAlignment"		"west"
 		"dulltext"		"0"

@@ -11,7 +11,7 @@
 		"autoResize"	"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"PaintBackgroundType"	"0"
 		"entry_step"	"30"
@@ -44,7 +44,7 @@
 			"wide"			"100"
 			"tall"			"100"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"animated/tf2_logo_hourglass"
 			"scaleImage"	"1"
 			"proportionaltoparent" "1"
@@ -66,7 +66,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"TanLight"
 			"proportionaltoparent" "1"
 		}
@@ -102,7 +102,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override"	"TanLight"
 			"proportionaltoparent" "1"
@@ -123,7 +123,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"TanLight"
 			"proportionaltoparent" "1"
 		}
@@ -143,7 +143,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"TanLight"
 			"proportionaltoparent" "1"
 		}
@@ -177,7 +177,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"235 226 202 255"
 			"wrap"			"1"
 			"centerwrap"	"1"

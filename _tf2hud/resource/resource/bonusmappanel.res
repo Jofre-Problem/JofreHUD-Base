@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"BonusMapScreenshotBackground"
 	{
@@ -44,7 +44,7 @@
 		"tall"			"100"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"scaleImage"	"0"
 		"fillcolor"		"255 255 255 255"
@@ -60,7 +60,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"image"		"hud/icon_locked"
 		"scaleImage"		"0"
@@ -76,7 +76,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"image"		"hud/icon_complete"
 		"scaleImage"		"0"

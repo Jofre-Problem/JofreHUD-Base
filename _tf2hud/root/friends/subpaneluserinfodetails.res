@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 	}
@@ -26,7 +26,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"paintbackground"		"1"
 		"labelText"		"#Friends_NotifyMeWhenUserComesOnline"
@@ -46,7 +46,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#Friends_PlaySoundWhenUserComesOnline"
@@ -66,7 +66,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"paintbackground"		"1"
 		"labelText"		"#Friends_PlaySoundWhenUserJoinsGame"
@@ -86,7 +86,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"paintbackground"		"1"
 		"labelText"		"#TrackerUI_BlockUserFromSeeingMe"
@@ -106,7 +106,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"paintbackground"		"1"
 		"labelText"		"#Friends_RemoveUser"
@@ -127,7 +127,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_RemoveUserExplanation"
@@ -145,7 +145,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_RecentlyUsedNames"
@@ -163,7 +163,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"johnc"
@@ -181,7 +181,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 	}
@@ -196,7 +196,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 	}

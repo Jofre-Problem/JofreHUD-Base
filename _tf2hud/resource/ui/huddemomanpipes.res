@@ -12,13 +12,13 @@
 		"tall"			"38"
 		"visible"		"1"
 		"visible_minmode"	"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/misc_ammo_area_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_red"
-		//"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
+		
 		"teambg_3"		"../hud/misc_ammo_area_blue"
-		//"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"				
+			
 	}
 	
 	"ChargeLabel"
@@ -34,7 +34,7 @@
 		"pinCorner"				"2"
 		"visible"				"1"
 		"visible_minmode"		"0"
-		"enabled"				"1"
+		
 		
 		"labelText"				"#TF_Charge"
 		"textAlignment"			"center"
@@ -59,7 +59,7 @@
 		
 		
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"textAlignment"			"Left"
 		"dulltext"				"0"
 		"brighttext"			"0"
@@ -88,7 +88,7 @@
 			"tall"			"20"
 			"tall_minmode"	"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/ico_stickybomb_red"
 			"scaleImage"	"1"
 			"teambg_2"		"../hud/ico_stickybomb_red"
@@ -110,7 +110,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"%activepipes%"
 			"textAlignment"	"west"
@@ -135,7 +135,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"%activepipes%"
 			"textAlignment"	"west"
@@ -171,7 +171,7 @@
 			"tall"			"20"
 			"tall_minmode"	"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/ico_stickybomb_red_faded"
 			"scaleImage"	"1"
 			"teambg_2"		"../hud/ico_stickybomb_red_faded"
@@ -193,7 +193,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"%activepipes%"
 			"textAlignment"	"west"
@@ -218,7 +218,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"%activepipes%"
 			"textAlignment"	"west"

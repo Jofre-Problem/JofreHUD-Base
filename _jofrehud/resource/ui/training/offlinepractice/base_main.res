@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_LessThan"
 		"font"			"HudFontSmallBold"
@@ -37,7 +37,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_GreaterThan"
 		"font"			"HudFontSmallBold"

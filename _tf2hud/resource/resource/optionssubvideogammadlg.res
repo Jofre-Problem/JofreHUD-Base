@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#GameUI_AdjustGamma_Title"
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"leftText"		"#GameUI_LIGHT"
 		"rightText"		"#GameUI_DARK"
@@ -43,7 +43,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Gamma"
 		"textAlignment"		"west"
@@ -62,7 +62,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -81,7 +81,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"labelText"		"#vgui_ok"
 		"textAlignment"		"west"
@@ -102,7 +102,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"image"		"gamma"
 		"scaleImage"		"0"
@@ -118,7 +118,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"#vgui_Cancel"
 		"textAlignment"		"west"
@@ -139,7 +139,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_GammaInfo"
 		"textAlignment"		"north-west"

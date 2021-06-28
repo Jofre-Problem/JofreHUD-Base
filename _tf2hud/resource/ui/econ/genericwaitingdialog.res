@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"GenericWaitingDialog"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-100"
 		"ypos"					"200"
 		"wide"					"200"
@@ -28,7 +28,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"centerwrap"	"1"
 		"labelText"		"%updatetext%"
@@ -50,7 +50,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%ellipses%"
 		"textAlignment"		"north"
 		"fgcolor_override" "200 80 60 255"
@@ -70,7 +70,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%duration%"
 		"textAlignment"		"north"
 		"fgcolor_override" "200 80 60 255"
@@ -89,7 +89,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"

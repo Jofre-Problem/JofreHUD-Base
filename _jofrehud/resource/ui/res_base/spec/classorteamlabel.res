@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Spectator_ChangeTeam"
 		"textAlignment"		"east"
 		"font"				"SpectatorKeyHints"

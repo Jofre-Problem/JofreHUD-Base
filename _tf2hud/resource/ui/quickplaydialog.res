@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"0 0 0 240"
 
@@ -30,7 +30,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
@@ -47,7 +47,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"40 37 37 255"
 			"proportionalToParent"	"1"
@@ -68,7 +68,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 
 		"SimplifiedOptionsContainer"
@@ -81,7 +81,7 @@
 			"wide"		"380"
 			"tall"		"250"
 			"visible"	"0"
-			"enabled"	"1"
+			
 
 			"CurPageLabel"
 			{
@@ -98,7 +98,7 @@
 				"autoResize"	"1"
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"fgcolor_override"	"89 81 71 255"
 			}
 
@@ -114,7 +114,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labelText"		"?"
 				"font"			"HudFontSmallBold"
@@ -136,7 +136,7 @@
 				"wide"		"320"
 				"tall"		"245"
 				"visible"	"1"
-				"enabled"	"1"
+				
 				"border"				"MainMenuHighlightBorder"
 
 				"ModeImage"
@@ -149,7 +149,7 @@
 					"wide"			"230"
 					"tall"			"230"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"mouseinputenabled" "0"
 					"image"			"maps/menu_screen_ctf_2fort"
 					"scaleImage"	"1"
@@ -170,7 +170,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"mouseinputenabled" "0"
 					"fgcolor_override"	"89 81 71 255"
 				}
@@ -190,7 +190,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"fgcolor_override"	"89 81 71 255"
 					"auto_wide_tocontents" "0"
 					"wrap"				   "1"
@@ -213,7 +213,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"fgcolor_override"	"201 79 57 255"
 					"auto_wide_tocontents" "0"
 					"wrap"				   "1"
@@ -233,7 +233,7 @@
 					
 					
 					"visible"		"0"
-					"enabled"		"1"
+					
 					
 					"PaintBackgroundType"	"0"
 					"paintbackground"		"1"
@@ -250,7 +250,7 @@
 						
 						
 						"visible"		"0"
-						"enabled"		"1"
+						
 						
 						"bgcolor_override"	"40 37 37 255"
 					}
@@ -270,7 +270,7 @@
 						"autoResize"	"1"
 						
 						"visible"		"1"
-						"enabled"		"1"
+						
 						"wrap"			"1"
 						"centerwrap"	"1"
 					}
@@ -289,7 +289,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labelText"		"<"
 				"font"			"HudFontSmallBold"
@@ -313,7 +313,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labelText"		">"
 				"font"			"HudFontSmallBold"
@@ -336,7 +336,7 @@
 			"wide"		"380"
 			"tall"		"240"
 			"visible"	"0"
-			"enabled"	"1"
+			
 			"border"	"QuickplayBorder"
 			"bgcolor_override"	"0 0 0 255"
 
@@ -355,7 +355,7 @@
 				"autoResize"	"1"
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 			}
 
 			"GameModeOptionContainer"
@@ -368,7 +368,7 @@
 				"wide"		"355"
 				"tall"		"20"
 				"visible"	"0"
-				"enabled"	"1"
+				
 
 				"OptionNameLabel"
 				{
@@ -717,7 +717,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_Quickplay_PlayNow"
 			"font"			"HudFontSmallBold"
@@ -750,7 +750,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_Quickplay_ShowServers"
 			"font"			"HudFontSmallBold"
@@ -783,7 +783,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			//"labelText"		"#GameUI_GameMenu_Options"
 			"font"			"HudFontSmallBold"
@@ -809,7 +809,7 @@
 				"wide"			"19"
 				"tall"			"19"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 				"image"			"glyph_options"
 			}			
@@ -831,7 +831,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 
 		"ExplainBetaButton"
@@ -846,7 +846,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"?"
 			"font"			"HudFontSmallBold"
@@ -880,7 +880,7 @@
 			
 			
 			"visible"				"1"
-			"enabled"				"1"
+			
 			"dulltext"				"0"
 			"brighttext"			"0"
 			"proportionaltoparent"	"1"
@@ -899,7 +899,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#Cancel"
 			"font"			"HudFontSmallBold"
@@ -949,7 +949,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"wrap"			"1"
 				"fgcolor_override" "46 43 42 255"
 			}
@@ -968,7 +968,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"wrap"			"1"
 				"fgcolor_override" "46 43 42 255"
 				"proportionaltoparent"	"1"
@@ -986,7 +986,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
@@ -1017,7 +1017,7 @@
 					"wide"			"14"
 					"tall"			"14"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"close_button"
 					"scaleImage"	"1"
 				}				

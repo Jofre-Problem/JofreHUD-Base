@@ -6,7 +6,7 @@
         "ControlName"           "EditablePanel"
         "fieldName"             "StatePanel2"
         "visible"               "1"
-        "enabled"               "1"
+        
         "xpos"                  "0"
         "ypos"                  "50"
         "wide"                  "400"

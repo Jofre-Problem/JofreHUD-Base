@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"ServerNotConnectedToSteamDialog"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-160"
 		"ypos"					"170"
 		"wide"					"320"
@@ -26,7 +26,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"#TF_ServerNoSteamConn_Title"
 		"textAlignment"		"North"
@@ -45,7 +45,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"labelText"		"#TF_ServerNoSteamConn_Explanation"
 		"textAlignment"		"North"
@@ -63,7 +63,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Ok"
 		"font"			"HudFontSmallBold"

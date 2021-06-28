@@ -11,7 +11,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"leftText"			"Cyan"
 		"rightText"			"Red"
@@ -28,7 +28,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"leftText"			"Magenta"
 		"rightText"			"Green"
@@ -45,7 +45,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"leftText"			"Yellow"
 		"rightText"			"Blue"
@@ -62,7 +62,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 	}
 
@@ -77,7 +77,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"selected"			"1"
 	}
@@ -93,7 +93,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 	}
 
@@ -108,7 +108,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"selected"			"1"
 	}
@@ -124,7 +124,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			"Blend Factor:"
 		"textAlignment"		"west"
@@ -142,7 +142,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"leftText"			"0"
 		"rightText"			"255"

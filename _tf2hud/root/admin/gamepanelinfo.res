@@ -11,7 +11,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 	}
 	"EditButton"
@@ -44,7 +44,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Dialog_Game_Info_Game_Label"
 		"textAlignment"		"east"
@@ -62,7 +62,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Dialog_Game_Info_IP_Label"
 		"textAlignment"		"east"
@@ -80,7 +80,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Dialog_Game_Info_Players_Label"
 		"textAlignment"		"east"
@@ -98,7 +98,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Uptime"
 		"textAlignment"		"east"

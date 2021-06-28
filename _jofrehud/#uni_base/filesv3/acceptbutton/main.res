@@ -3,7 +3,7 @@
 	"AcceptButton"
 	{
 		"fieldName"		"AcceptButton"
-		"enabled"		"1"
+		
 		
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -12,7 +12,7 @@
 	"DeclineButton"
 	{
 		"fieldName"		"DeclineButton"
-		"enabled"		"1"
+		
 		
 		"dulltext"		"0"
 		"brighttext"	"0"

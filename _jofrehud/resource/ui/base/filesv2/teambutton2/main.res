@@ -12,7 +12,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"1"
 		"textAlignment"	"south-west"
 		"dulltext"		"0"
@@ -34,7 +34,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"textAlignment"	"south-west"
 		"dulltext"		"0"

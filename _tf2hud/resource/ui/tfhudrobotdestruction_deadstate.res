@@ -56,7 +56,7 @@
 			"tall"				"f-2"	
 			"visible"			"1"
 			"visible_minmode"	"0"
-			"enabled"			"1"
+			
 			"scaleImage"		"1"
 			"color_active"		"TimerProgress.Active"
 			"color_inactive"	"TimerProgress.InActive"

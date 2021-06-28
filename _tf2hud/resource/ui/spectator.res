@@ -8,7 +8,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"specgui"
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"BottomBar"
@@ -63,7 +63,7 @@
 		
 		"visible"		"1"
 		"visible_minmode"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"ReinforcementsLabel"
@@ -86,7 +86,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
 		"textAlignment_minmode"		"west"
@@ -106,7 +106,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		""
 		"textAlignment"		"center"
 		"font"			"HudFontSmall"
@@ -131,7 +131,7 @@
 		
 		"visible"		"1"
 		"visible_minmode"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"map: cp_bridge"
 		"textAlignment"		"east"
 	}
@@ -156,7 +156,7 @@
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Spectator_ChangeTeam"
 		"textAlignment"		"center"
 		//"textAlignment_lodef"		"north-west"
@@ -181,7 +181,7 @@
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Spectator_ChangeTeam"
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"
@@ -203,7 +203,7 @@
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Spectator_SwitchCamMode"
 		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
@@ -224,7 +224,7 @@
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Spectator_ClassOrTeamKey"
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"
@@ -245,7 +245,7 @@
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Spectator_CycleTargetFwd"
 		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
@@ -266,7 +266,7 @@
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Spectator_ClassOrTeamKey"
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"
@@ -287,7 +287,7 @@
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Spectator_CycleTargetRev"
 		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
@@ -312,7 +312,7 @@
 		
 		"visible"		"1"
 		"visible_minmode"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"%tip%"
 		"textAlignment"		"center"	[$WIN32]
 		"textAlignment"		"north-west"	[$X360]
@@ -369,7 +369,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#FreezePanel_Item"
 			"textAlignment"	"Left"
 			"dulltext"		"0"
@@ -387,6 +387,6 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}		
 }

@@ -10,7 +10,7 @@
 	//	"fieldName"		"DeleteButton"
 	//	
 	//	
-	//	"enabled"		"1"
+	//	
 		"textAlignment"	"center"
 		"Command"		"delete_replayitem"
 	}	

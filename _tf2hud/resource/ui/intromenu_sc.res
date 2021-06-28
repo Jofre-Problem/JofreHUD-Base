@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"	"0"
 	}
@@ -47,7 +47,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Button_SkipIntro"
 		"textAlignment"		"center"
@@ -74,7 +74,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_Continue"
 		"textAlignment"		"center"
@@ -97,7 +97,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -120,7 +120,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Back"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -142,7 +142,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -165,7 +165,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_ReplayIntro"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -191,7 +191,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 			
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
@@ -210,7 +210,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"start_delay"	"2.0"
 		"end_delay"		"2.0"
 	}
@@ -227,7 +227,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fov"			"20"
 		
 		"model"
@@ -276,7 +276,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		" "
 		"textAlignment"	"center"
 		"dulltext"		"0"

@@ -10,7 +10,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"proportional"	"0"
 		"bgcolor_override"	"57 51 42 255"
@@ -23,7 +23,7 @@
 		"leftText"		"#Replay_AccelMin"
 		"rightText"		"#Replay_AccelMax"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tall"			"20"
 	}
 
@@ -34,7 +34,7 @@
 		"leftText"		"#Replay_SpeedMin"
 		"rightText"		"#Replay_SpeedMax"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tall"			"20"
 	}
 	
@@ -45,7 +45,7 @@
 		"leftText"		"#Replay_FovMin"
 		"rightText"		"#Replay_FovMax"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tall"			"20"
 	}
 	
@@ -56,7 +56,7 @@
 		"leftText"		"#Replay_RotFilterMin"
 		"rightText"		"#Replay_RotFilterMax"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tall"			"20"
 	}
 	
@@ -67,7 +67,7 @@
 		"leftText"		"#Replay_ShakeSpeedMin"
 		"rightText"		"#Replay_ShakeSpeedMax"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tall"			"20"
 	}
 	
@@ -78,7 +78,7 @@
 		"leftText"		"#Replay_ShakeAmountMin"
 		"rightText"		"#Replay_ShakeAmountMax"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tall"			"20"
 	}
 	
@@ -89,7 +89,7 @@
 		"leftText"		"#Replay_ShakeDirMin"
 		"rightText"		"#Replay_ShakeDirMax"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tall"			"20"
 	}
 }

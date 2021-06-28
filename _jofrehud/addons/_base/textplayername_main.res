@@ -7,7 +7,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"TextPlayerName1"
 	{
@@ -16,7 +16,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"TextPlayerName2"
 	{
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"TextPlayerName3"
 	{
@@ -34,6 +34,6 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 }	

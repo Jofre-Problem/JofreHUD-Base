@@ -26,7 +26,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"0"
 		}
 		"Background"
@@ -52,7 +52,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			""
 			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
@@ -72,7 +72,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"0"
 		}
 		"RankImage"
@@ -85,7 +85,7 @@
 			"wide"			"o1"
 			"tall"			"40"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"proportionaltoparent"	"1"
 		}
 		"StreamImageButton"
@@ -98,7 +98,7 @@
 			"wide"			"20"
 			"tall"			"20"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 			"labelText"		""
 			"proportionaltoparent"	"1"
@@ -122,7 +122,7 @@
 				"wide"			"16"
 				"tall"			"16"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"button_streaming_glb"
 				"scaleImage"	"1"
 			}

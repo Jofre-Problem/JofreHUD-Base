@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -34,7 +34,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	
@@ -48,7 +48,7 @@
 		"tall"		"40"
 		"image"			"pve/mvm_timeout_active_large"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"		"1"
 	}
 	
@@ -67,7 +67,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "TanLight"
 	}
@@ -84,7 +84,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_CancelBold"
 		"font"			"EconFontSmall"
@@ -130,7 +130,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#ConfirmButtonText"
 		"font"			"EconFontSmall"

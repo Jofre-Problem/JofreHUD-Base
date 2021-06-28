@@ -10,7 +10,7 @@
 		"tall"		"16"
 		"zpos"	"-2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 
 	"PercentageBar"
@@ -20,7 +20,7 @@
 		"wide"		"0"
 		"zpos"	"-1"
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	"PercentageText"
 	{
@@ -29,7 +29,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"0%"
 		"textAlignment"		"east"

@@ -4,7 +4,7 @@
 	{
 		"fieldName" "HudPlayerStatus"
 		"visible" "1"
-		"enabled" "1"
+		
 		"xpos"	"0"
 		"ypos"	"0"
 		"wide"	"f0"
@@ -15,7 +15,7 @@
 	{
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
-		"enabled" "1"
+		
 		"xpos"	"r95"	[$WIN32]
 		"xpos_minmode"	"r85"	[$WIN32]
 		"ypos"	"r55"	[$WIN32]
@@ -30,7 +30,7 @@
 	{
 		"fieldName" "HudObjectiveStatus"
 		"visible" "1"
-		"enabled" "1"
+		
 		"xpos"	"0"
 		"ypos"	"0"
 		"wide"	"f0"
@@ -41,7 +41,7 @@
 	{
 		"fieldName" "HudKothTimeStatus"
 		"visible" "1"
-		"enabled" "1"
+		
 		"xpos"	"c-100"
 		"ypos"	"0"
 		"wide"	"200"
@@ -58,7 +58,7 @@
 	{
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"xpos"			"r162"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
@@ -75,7 +75,7 @@
 	{
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"xpos"			"r138"	[$WIN32]
 		"xpos_minmode"	"r100"	[$WIN32]
 		"ypos"			"r69"	[$WIN32]
@@ -90,7 +90,7 @@
 	{
 		"fieldName"		"HudDemomanCharge"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"xpos"			"r80"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r21"	[$WIN32]
@@ -109,7 +109,7 @@
 	{
 		"fieldName"		"HudBowCharge"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"xpos"			"r80"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r21"	[$WIN32]
@@ -128,7 +128,7 @@
 	{
 		"fieldName"		"HudFlameRocketCharge"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"xpos"			"r80"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r21"	[$WIN32]
@@ -147,7 +147,7 @@
 	{
 		"fieldName"		"HudBossHealth"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"xpos"			"c-100"
 		"ypos"			"42"
 		"zpos"			"0"			// draw in front of ammo
@@ -168,7 +168,7 @@
 		//"RightMargin_hidef" "32"
 		//"rightmargin_lodef" "38"
 		"visible" "1"
-		"enabled" "1"
+		
 		"SmallBoxWide" "72"
 		"SmallBoxTall" "54"
 		"PlusStyleBoxWide" "90"
@@ -207,7 +207,7 @@
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
-		"enabled" 				"1"
+		
 		"PaintBackgroundType"	"2"
 	}
 	
@@ -221,7 +221,7 @@
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
-		"enabled" 				"1"
+		
 		"PaintBackgroundType"	"2"
 	}
 	
@@ -233,7 +233,7 @@
 		"wide"					"f0"
 		"tall"					"480"
 		"visible" 				"1"
-		"enabled" 				"1"
+		
 		"PaintBackgroundType"	"2"
 	}
 	
@@ -242,7 +242,7 @@
 	{
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"xpos"		"10"	[$WIN32]
 		"ypos"		"r70"	[$WIN32]
 		"xpos"		"50"	[$X360]
@@ -256,14 +256,14 @@
 	{
 		"fieldName" 	"CMainTargetID"
 		"visible" 	"0"
-		"enabled" 	"1"
+		
 		"xpos"		"c-126"
 		"ypos"		"285"
 		"wide"	 	"252"
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"
 		"priority"	"40"
-		//"priority_lodef"	"5"
+			"5"
 
 		if_vr
 		{
@@ -276,14 +276,14 @@
 	{
 		"fieldName" 	"CSpectatorTargetID"
 		"visible" 	"0"
-		"enabled" 	"1"
+		
 		"xpos"		"c-126"
 		"ypos"		"250"
 		"wide"	 	"252"
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"
 		"priority"	"40"
-		//"priority_lodef" "35"
+		 "35"
 		
 		"x_offset" "20"
 		"y_offset" "20"
@@ -293,7 +293,7 @@
 	{
 		"fieldName" 	"CSecondaryTargetID"
 		"visible" 	"0"
-		"enabled" 	"1"
+		
 		"xpos"		"c-126"
 		"ypos"		"335"
 		"wide"	 	"252"
@@ -313,7 +313,7 @@
 	{
 		"fieldName" "BuildingStatus_Spy"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"xpos"		"0"	[$WIN32]
 		"ypos"		"0"	[$WIN32]
 		"xpos"		"32"	[$X360]
@@ -328,7 +328,7 @@
 	{
 		"fieldName" "BuildingStatus_Engineer"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"xpos"		"0"
 		//"xpos_hidef"		"32"
 		//"xpos_lodef"		"40"
@@ -345,7 +345,7 @@
 	{
 		"fieldName" "HudMannVsMachineStatus"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"xpos"		"0"
 		"ypos"		"0"
 		"zpos"		"1"
@@ -363,7 +363,7 @@
 		"wide"	"300"
 		"tall"  "15"
 		"visible" "1"
-		"enabled" "1"
+		
 
 		"BorderThickness" "1"
 
@@ -378,7 +378,7 @@
 		"wide"	"120"
 		"tall"  "40"
 		"visible" "1"
-		"enabled" "1"
+		
 		
 		"PaintBackgroundType"	"2"
 
@@ -398,7 +398,7 @@
 		"wide"	"40"
 		"tall"  "44"
 		"visible" "1"
-		"enabled" "1"
+		
 
 		"PaintBackgroundType"	"2"
 
@@ -409,7 +409,7 @@
 	{
 		"fieldName" "HudFlashlight"
 		"visible" "1"
-		"enabled" "1"
+		
 		"xpos"	"16"
 		"ypos"	"370"
 		"wide"	"102"
@@ -435,7 +435,7 @@
 		"wide"	"380"
 		"tall"  "50"
 		"visible" "1"
-		"enabled" "1"
+		
 		
 		"PaintBackgroundType"	"2"
 		"BackgroundOverrideColor" "0 0 0 128"
@@ -462,7 +462,7 @@
 	{
 		"fieldName" "HudZoom"
 		"visible" "1"
-		"enabled" "1"
+		
 		"Circle1Radius" "66"
 		"Circle2Radius"	"74"
 		"DashGap"	"16"
@@ -474,7 +474,7 @@
 	{
 		"fieldName" "HudCrosshair"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -483,7 +483,7 @@
 	{
 		"fieldName" "HudDeathNotice"
 		"visible" "1"
-		"enabled" "1"
+		
 		"xpos"	 "r640"	[$WIN32]
 		"ypos"	 "18"	[$WIN32]
 		"xpos"	 "r672"	[$X360]
@@ -515,7 +515,7 @@
 	{
 		"fieldName" "HudVehicle"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -524,7 +524,7 @@
 	{
 		"fieldName" "CVProfPanel"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -533,7 +533,7 @@
 	{
 		"fieldName" "ScorePanel"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -542,7 +542,7 @@
 	{
 		"fieldName" "HudTrain"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -551,7 +551,7 @@
 	{
 		"fieldName" "HudMOTD"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -560,7 +560,7 @@
 	{
 		"fieldName" "HudMessage"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "f0"
 		"tall"	 "480"
 	}
@@ -569,7 +569,7 @@
 	{
 		"fieldName" "HudMenu"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 		"zpos" "1"
@@ -583,7 +583,7 @@
 	{
 		"fieldName" "HudSpellMenu"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 		"zpos" 	"2"
@@ -599,7 +599,7 @@
 	{
 		"fieldName" "HudCloseCaption"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"xpos"		"c-250"
 		"ypos"		"276"	[$WIN32]
 		"ypos"		"236"	[$X360]
@@ -632,7 +632,7 @@
 	{
 		"fieldName" "HudGeiger"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -641,7 +641,7 @@
 	{
 		"fieldName" "HUDQuickInfo"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -650,7 +650,7 @@
 	{
 		"fieldName" "HudWeapon"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -658,7 +658,7 @@
 	{
 		"fieldName" "HudAnimationInfo"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -666,7 +666,7 @@
 	{
 		"fieldName" "CBudgetPanel"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -674,7 +674,7 @@
 	{
 		"fieldName" "CTextureBudgetPanel"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -683,7 +683,7 @@
 	{
 		"fieldName" "HudPredictionDump"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "1280"
 		"tall"	 "1024"
 	}
@@ -693,7 +693,7 @@
 	{
 		"fieldName" "HudLocation"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"xpos"		"16"
 		"ypos"		"112"
 		"wide"		"96"
@@ -705,7 +705,7 @@
 	{
 		"fieldName" "HudScope"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -714,7 +714,7 @@
 	{
 		"fieldName" "HudScopeCharge"
 		"visible" "1"
-		"enabled" "1"
+		
 		"xpos"	 "c64"
 		"ypos"	 "c-64"
 		"wide"	 "64"
@@ -725,7 +725,7 @@
 	{
 		"fieldName" "HudVoiceSelfStatus"
 		"visible" "1"
-		"enabled" "1"
+		
 		"xpos" "r42" 	[$WIN32]
 		"ypos" "355"	[$WIN32]
 		"xpos" "r75"	[$X360]
@@ -738,7 +738,7 @@
 	{
 		"fieldName" "HudVoiceStatus"
 		"visible" "1"
-		"enabled" "1"
+		
 		"xpos" "r145" [$WIN32]
 		"ypos" "0" [$WIN32]
 		"xpos" "r210" [$X360]
@@ -769,7 +769,7 @@
 	{
 		"fieldName"				"HudHintDisplay"
 		"visible"				"0"
-		"enabled"				"1"
+		
 		"xpos"					"c-240"
 		"ypos"					"c60"
 		"wide"					"480"
@@ -785,7 +785,7 @@
 	{
 		"fieldName"	"HudHintKeyDisplay"
 		"visible"	"0"
-		"enabled" 	"1"
+		
 		"xpos"		"r120"
 		"ypos"		"r340"
 		"wide"		"100"
@@ -803,7 +803,7 @@
 	{
 		"fieldname" "overview"
 		"visible"	"1"
-		"enabled" "1"
+		
 		"xpos"	"0"
 		"ypos"	"0"
 		"wide"	"640"
@@ -814,7 +814,7 @@
 	{
 		"fieldName" "VguiScreenCursor"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -827,7 +827,7 @@
 		"wide"					"f0"
 		"tall"					"200"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"separator_width"		"9"	// distance between the icons (including their backgrounds)
 		"separator_height"		"7"
 		"height_offset"			"0"	[$WIN32] // distance from the bottom of the panel
@@ -842,7 +842,7 @@
 		"wide"					"150"
 		"tall"					"90"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"icon_space"			"2"
 	}
 	
@@ -860,7 +860,7 @@
 	{
 		"fieldName"				"WinPanel"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-150"
 		"ypos"					"215"
 		"wide"					"300"
@@ -873,7 +873,7 @@
 	{
 		"fieldName"				"ArenaWinPanel"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-225"
 		"ypos"					"250"
 		"wide"					"450"
@@ -884,7 +884,7 @@
 	{
 		"fieldName"				"PVEWinPanel"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-150"
 		"ypos"					"255"
 		"wide"					"300"
@@ -895,7 +895,7 @@
 	{
 		"fieldName"				"StatPanel"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-133"
 		//"xpos_lodef"			"c-190"
 		"ypos"				"270"
@@ -910,7 +910,7 @@
 	{
 		"fieldName"				"FreezePanel"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"0"
 		"ypos"					"0"
 		"wide"					"f0"
@@ -921,7 +921,7 @@
 	{
 		"fieldName"				"FreezePanelCallout"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"200"
 		"ypos"					"200"
 		"wide"					"100"
@@ -932,7 +932,7 @@
 	{
 		"fieldName"			"AnnotationsPanelCallout"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"200"
 		"ypos"					"200"
 		"wide"					"100"
@@ -948,7 +948,7 @@
 	{
 		"fieldName"				"WaitingForPlayersPanel"
 		"visible"				"0"
-		"enabled"				"1"
+		
 		"xpos"					"c-146"
 		"ypos"					"10"
 		"wide"					"292"
@@ -971,7 +971,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName" 		"HudChat"
 		"visible" 		"1"
-		"enabled" 		"1"
+		
 		"xpos"			"10"	[$WIN32]
 		"xpos"			"42"	[$X360]
 		"ypos"			"275"
@@ -984,7 +984,7 @@
 	{
 		"fieldName" 	"hudmenuengybuild"
 		"visible" 		"1"
-		"enabled" 		"1"
+		
 		"xpos"			"c-225"
 		"ypos"			"c-55"
 		"wide"			"450"
@@ -996,7 +996,7 @@
 	{
 		"fieldName" 	"HudMenuEngyDestroy"
 		"visible" 		"1"
-		"enabled" 		"1"
+		
 		"xpos"			"c-225"
 		"ypos"			"c-59"
 		"wide"			"450"
@@ -1008,7 +1008,7 @@
 	{
 		"fieldName" 	"HudEurekaEffectTeleportMenu"
 		"visible" 		"1"
-		"enabled" 		"1"
+		
 		"xpos"			"c-125"
 		"ypos"			"c-55"
 		"wide"			"250"
@@ -1020,7 +1020,7 @@
 	{
 		"fieldName" 	"HudMenuSpyDisguise"
 		"visible" 		"1"
-		"enabled" 		"1"
+		
 		"xpos"			"c-235"
 		"ypos"			"c-52"
 		//"ypos_hidef"	"c-42"
@@ -1035,7 +1035,7 @@
 	{
 		"fieldName"		"HudDemomanPipes"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"xpos"			"r162"	[$WIN32]
 		"xpos_minmode"	"r110"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
@@ -1050,7 +1050,7 @@
 	{
 		"fieldName"				"HudTeamGoal"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-160"
 		"ypos"					"65"
 		//"ypos_lodef"			"75"
@@ -1063,7 +1063,7 @@
 	{
 		"fieldName"				"HudTeamGoalTournament"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-160"
 		"ypos"					"15"
 		//"ypos_lodef"			"75"
@@ -1075,7 +1075,7 @@
 	{
 		"fieldName"				"HudTeamSwitch"
 		"visible"				"0"
-		"enabled"				"1"
+		
 		"xpos"					"c-160"
 		"ypos"					"75"
 		//"ypos_hidef"				"90"
@@ -1088,7 +1088,7 @@
 	{
 		"fieldName"				"HudArenaNotification"
 		"visible"				"0"
-		"enabled"				"1"
+		
 		"xpos"					"c-160"
 		"ypos"					"75"
 		//"ypos_hidef"				"90"
@@ -1101,7 +1101,7 @@
 	{
 		"fieldName"				"HudArenaCapPointCountdown"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-15"
 		"ypos"					"442"
 		"wide"					"30"
@@ -1113,7 +1113,7 @@
 	{
 		"fieldName"				"HudStalemate"
 		"visible"				"0"
-		"enabled"				"1"
+		
 		"xpos"					"c-160"
 		"ypos"					"65"
 		//"ypos_lodef"				"75"
@@ -1124,7 +1124,7 @@
 	{
 		"fieldName"				"HudTournament"
 		"visible"				"0"
-		"enabled"				"1"
+		
 		"xpos"					"c-125"
 		"ypos"					"5"
 		//"ypos_lodef"				"75"
@@ -1137,7 +1137,7 @@
 	{
 		"fieldName"				"HudTournamentSetup"
 		"visible"				"0"
-		"enabled"				"1"
+		
 		"xpos"					"c-90"
 		"ypos"					"-70"
 		//"ypos_lodef"				"75"
@@ -1149,7 +1149,7 @@
 	{
 		"fieldName"				"HudStopWatch"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-160"
 		"ypos"					"5"
 		"ypos_minmode"				"15"
@@ -1162,7 +1162,7 @@
 	{
 		"fieldName"				"NotificationPanel"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-320"
 		"ypos"					"300"
 		"wide"					"640"
@@ -1173,7 +1173,7 @@
 	{
 		"fieldName"				"AchievementNotificationPanel"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"0"
 		"ypos"					"180"
 		"wide"					"f10"	[$WIN32]
@@ -1185,7 +1185,7 @@
 	{
 		"fieldName"				"CriticalPanel"		
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"r155"
 		"ypos"					"r75"
 		"wide"					"150"
@@ -1196,7 +1196,7 @@
 	{
 		"fieldName"				"HudArenaClassLayout"		
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"0"
 		"ypos"					"r320"
 		"wide"					"f0"
@@ -1207,7 +1207,7 @@
 	{
 		"fieldName"				"HudArenaVsPanel"		
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"0"
 		"ypos"					"240"
 		"wide"					"f0"
@@ -1218,7 +1218,7 @@
 	{
 		"fieldName"				"HudArenaPlayerCount"		
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"0"
 		"ypos"					"0"
 		"wide"					"f0"
@@ -1236,14 +1236,14 @@
 		"wide"			"280"
 		"tall"			"280"
 		"visible"		"1"
-		"enabled"		"1"	
+			
 	}
 	
 	HudTrainingInfoMsg
 	{
 		"fieldName"				"HudTrainingInfoMsg"
 		"visible"				"0"
-		"enabled"				"1"
+		
 		"xpos"					"10"
 		"ypos"					"50"
 		"wide"					"200"
@@ -1264,7 +1264,7 @@
 	{
 		"fieldName"				"HudInspectPanel"
 		"visible"				"0"
-		"enabled"				"1"
+		
 		"xpos"					"r200"
 		"ypos"					"rs1"
 		"zpos"					"10"
@@ -1276,7 +1276,7 @@
 	{
 		"fieldName" "HudTFCrosshair"
 		"visible" "1"
-		"enabled" "1"
+		
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -1285,7 +1285,7 @@
 	{
 		"fieldName"				"ItemQuickSwitchPanel"
 		"visible"				"0"
-		"enabled"				"1"
+		
 		"xpos"			"c-125"
 		"ypos"			"280"
 		"wide"			"250"
@@ -1303,7 +1303,7 @@
 	{
 		"fieldName"		"MainMenuAdditions"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"xpos"			"c0"
 		"ypos"			"310"
 		"zpos"			"0"
@@ -1353,7 +1353,7 @@
 		"wide"			"640"
 		"tall"			"480"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"bgcolor_override"	"0 0 0 0"
 		"PaintBackgroundType"	"0" // rounded corners
 	}
@@ -1378,7 +1378,7 @@
 		"wide"			"640"
 		"tall"			"480"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"bgcolor_override"	"0 0 0 0"
 		"PaintBackgroundType"	"0" // rounded corners
 	}
@@ -1387,7 +1387,7 @@
 	{
 		"fieldName"		"CTFFlagCalloutPanel"
 		"visible" 		"0"
-		"enabled" 		"1"
+		
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"	 		"40"
@@ -1399,7 +1399,7 @@
 	{
 		"fieldName" 	"HudMenuTauntSelection"
 		"visible" 		"1"
-		"enabled" 		"1"
+		
 		"xpos"			"c-235"
 		"ypos"			"c-52"
 		//"ypos_hidef"	"c-42"
@@ -1413,7 +1413,7 @@
 	{
 		"fieldName" 	"ItemAttributeTracker"
 		"visible" 		"1"
-		"enabled" 		"1"
+		
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"f5"
@@ -1425,7 +1425,7 @@
 	{
 		"fieldName" "HudMiniGame"
 		"visible" "1"
-		"enabled" "1"
+		
 		"xpos"	"0"
 		"ypos"	"0"
 		"wide"	"f0"
@@ -1436,7 +1436,7 @@
 	{
 		"fieldName"	"QuestNotificationPanel"
 		"visible" "1"
-		"enabled" "1"
+		
 		"xpos"	"0"
 		"ypos"	"0"
 		"wide"	"f0"
@@ -1448,7 +1448,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName" 		"MatchMakingContainer"
 		"visible" 		"1"
-		"enabled" 		"1"
+		
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"	 		"f0"
@@ -1459,7 +1459,7 @@
 	{
 		"fieldName" "HudSpectatorExtras"
 		"visible" "1"
-		"enabled" "1"
+		
 		"xpos"	"0"
 		"ypos"	"0"
 		"wide"	"f0"
@@ -1470,7 +1470,7 @@
 	{
 		"fieldName" "MatchSummary"
 		"visible" "0"
-		"enabled" "1"
+		
 		"xpos"	"0"
 		"ypos"	"0"
 		"wide"	"f0"
@@ -1481,7 +1481,7 @@
 	{
 		"fieldName"				"HudMatchStatus"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"3"
@@ -1493,7 +1493,7 @@
 	{
 		"fieldName"				"QueueHUDStatus"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"rs1-5"
 		"ypos"					"1"
 		"zpos"					"1001"

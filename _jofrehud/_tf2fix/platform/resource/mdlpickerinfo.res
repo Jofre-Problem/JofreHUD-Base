@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	
 		"PhysicsObject"
@@ -25,7 +25,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"disabled"		"1"
 			"tabPosition"	"1"
 			"labelText"		"physics"
@@ -46,7 +46,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"disabled"		"1"
 			"tabPosition"	"1"
 			"labelText"		"dynamic"
@@ -67,7 +67,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"disabled"		"1"
 			"tabPosition"	"1"
 			"labelText"		"static"
@@ -88,7 +88,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"disabled"		"1"
 			"tabPosition"	"1"
 			"labelText"		"Model is missing $staticprop entry"
@@ -109,7 +109,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"1"
 			"labelText"		"Mass"
 			"textAlignment"		"west"
@@ -129,7 +129,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"1"
 			"labelText"		"100"
 			"textAlignment"		"west"

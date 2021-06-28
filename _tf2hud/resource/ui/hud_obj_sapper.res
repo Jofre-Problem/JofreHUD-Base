@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	
@@ -25,7 +25,7 @@
 		"wide"			"120"
 		"tall"			"31"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_background_red"
 		"iconColor"		"255 255 255 255"
@@ -40,7 +40,7 @@
 		"wide"			"28"
 		"tall"			"28"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_sapper"
 		"iconColor"		"255 255 255 255"
@@ -68,7 +68,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#Building_hud_sapper_not_built"
 			"textAlignment"	"Left"
 			"dulltext"		"0"
@@ -98,7 +98,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"textAlignment"	"Left"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -126,7 +126,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"labelText"		"#Building_hud_building"
 				"textAlignment"	"Left"
 				"dulltext"		"0"
@@ -145,7 +145,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"textAlignment"	"Left"
 				"dulltext"		"0"
 				"brighttext"	"0"
@@ -171,7 +171,7 @@
 				"wide"			"20"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"	
 				"icon"			"obj_status_sentrygun_1"
 				"iconColor"		"255 255 255 255"
@@ -189,7 +189,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"textAlignment"	"Left"
 				"dulltext"		"0"
 				"brighttext"	"0"

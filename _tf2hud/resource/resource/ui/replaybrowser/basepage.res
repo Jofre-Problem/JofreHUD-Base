@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -32,7 +32,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"fgcolor_override"		"ReplayBrowser.Search.FgColor"
 		"bgcolor_override"		"ReplayBrowser.Search.BgColor"
@@ -50,7 +50,7 @@
 		"wide"			"600"
 		"tall"			"350"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"autohide_scrollbar" "1"
 		"paintbackground"		"1"

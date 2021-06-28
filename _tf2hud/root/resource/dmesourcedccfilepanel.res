@@ -13,7 +13,7 @@
 		"UnpinnedCornerOffsetX" "0"
 		"UnpinnedCornerOffsetY" "-60"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 
@@ -30,7 +30,7 @@
 		"PinnedCornerOffsetY" "-30"
 		"labelText"		"#AssetBuilder_AddSource"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 	}
 	
@@ -48,7 +48,7 @@
 		"PinnedCornerOffsetX" "0"
 		"labelText"		"#AssetBuilder_RemoveSource"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"3"
 	}
 
@@ -64,7 +64,7 @@
 		"PinCorner"		"2"
 		"PinnedCornerOffsetY" "0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"4"
 	}
 
@@ -81,7 +81,7 @@
 		"autoResize"		"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -104,7 +104,7 @@
 		"PinnedCornerOffsetX" "0"
 		"labelText"		"#AssetBuilder_ApplyChanges"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"1"
 		"Default"		"1"
 	}

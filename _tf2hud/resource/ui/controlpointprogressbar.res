@@ -12,7 +12,7 @@
 		"tall"		"65"
 		"tall_minmode"		"42"
 		"visible"	"0"
-		"enabled"	"1"
+		
 	}
 
 	"ProgressBar"
@@ -31,7 +31,7 @@
 		
 		"pinCorner"	"0"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"fg_image"	"progress_bar_blu"
 		"bg_image"	"progress_bar_blu"
 	}
@@ -50,7 +50,7 @@
 		"tall"		"65"
 		"tall_minmode"		"42"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"scaleImage"	"1"
 		"icon"		"cappoint_progressbar_teardrop"
 		"iconColor"	"255 255 255 255"
@@ -70,7 +70,7 @@
 		"tall"		"54"
 		"tall_minmode"		"35"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"scaleImage"	"1"
 		"icon"		"cappoint_progressbar_teardrop"
 		"iconColor"	"255 255 255 255"
@@ -94,7 +94,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"progress"
 		"dulltext"		"0"
 		"brighttext"		"0"
@@ -115,7 +115,7 @@
 		"tall"		"50"
 		"tall_minmode"		"31"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"scaleImage"	"1"
 		"icon"		"cappoint_progressbar_blocked"
 		"iconColor"	"255 255 255 255"

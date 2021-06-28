@@ -13,10 +13,10 @@
 		"tall"					"64"
 		
 		"visible"			    "1"
-		"enabled"               "1"
-		//"tabPosition"           "0"
+		
+
 		"settitlebarvisible"    "0"
-		//"pinCorner"			    "0"
+	
 	}
 	
 	"GroupIcon"

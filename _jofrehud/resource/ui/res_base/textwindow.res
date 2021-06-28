@@ -29,7 +29,7 @@
 		//
 	//	"pinCorner"		"2"
 	//	"visible"		"1"
-		//"enabled"		"1"
+		//
 		//
 		"labelText"		"#TF_Continue"
 		//"textAlignment"		"center"
@@ -51,7 +51,7 @@
 		
 		
 		"visible"				"1"
-		"enabled"				"1"
+		
 		
 		"settitlebarvisible"	"0"
 	}
@@ -68,7 +68,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_WELCOME"
 		"textAlignment"	"west"
 		"dulltext"		"0"
@@ -98,7 +98,7 @@
 		"autoResize"	"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"paintborder"	"0"
 		"textAlignment"	"northwest"
 		"fgcolor"		"Gray"
@@ -116,7 +116,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintborder"	"0"
 	}

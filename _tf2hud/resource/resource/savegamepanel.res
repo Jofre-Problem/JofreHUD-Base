@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"SaveGameScreenshotBackground"
 	{
@@ -66,7 +66,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"textAlignment"	"north-west"
 		"font"	"DefaultSmall"
@@ -82,7 +82,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"	"north-west"
 		"font"	"DefaultSmall"
@@ -96,7 +96,7 @@
 		"wide"		"180"
 		"tall"		"24"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"north-west"
 		"font"	"DefaultSmall"
 	}

@@ -19,7 +19,7 @@
 	//	
 		"pinCorner"		"2"
 	//	"visible"		"1"
-	//	"enabled"		"1"
+	//	
 	//	
 	//	"textAlignment"		"west"
 	//	"wrap"		"0"

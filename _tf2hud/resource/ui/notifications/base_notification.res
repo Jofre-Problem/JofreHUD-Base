@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/score_panel_blue_bg"
 		"scaleImage"	"1"
 	}
@@ -26,7 +26,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_notify_sixty_seconds"
 	}
@@ -43,7 +43,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"60 seconds until gates open"
 		"textAlignment"	"West"
 		"dulltext"		"0"

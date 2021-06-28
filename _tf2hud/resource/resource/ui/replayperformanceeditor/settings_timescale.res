@@ -10,7 +10,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"proportional"	"0"
 		"bgcolor_override"	"57 51 42 255"
@@ -23,7 +23,7 @@
 		"leftText"		"#Replay_TimeScaleMin"
 		"rightText"		"#Replay_TimeScaleMax"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"xpos"			"-1"
 		"ypos"			"0"
 	}

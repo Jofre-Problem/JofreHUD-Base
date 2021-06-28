@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"CraftingStatusDialog"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-200"
 		"ypos"					"160"
 		"wide"					"400"
@@ -28,7 +28,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"#NewRecipeFound"
 		"textAlignment"		"center"
@@ -68,7 +68,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
 			"fgcolor"		"117 107 94 255"
@@ -88,7 +88,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Ok"
 		"font"			"HudFontSmallBold"

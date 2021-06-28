@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"Title"		"#GameUI_RefreshLogin"
@@ -46,7 +46,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"textHidden"		"1"
 		"editable"		"1"
@@ -65,7 +65,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_RefreshLogin_RememberPassword"
 		"textAlignment"		"west"
@@ -86,7 +86,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_RefreshLogin_InfoTicketExpired"
 		"textAlignment"		"west"
@@ -105,7 +105,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_RefreshLogin_UserName"
 		"textAlignment"		"east"
@@ -124,7 +124,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_RefreshLogin_Password"
 		"textAlignment"		"east"
@@ -143,7 +143,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_RefreshLogin_Login"
 		"textAlignment"		"center"
@@ -164,7 +164,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_RefreshLogin_Cancel"
 		"textAlignment"		"center"

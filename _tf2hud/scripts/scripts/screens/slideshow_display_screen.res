@@ -13,7 +13,7 @@
 		"tall"			"128"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"scaleImage"	"0"
 		"fillcolor"		"255 255 255 255"
 	}
@@ -32,7 +32,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 				
 		"textAlignment"		"center"
 		"dulltext"			"0"

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 	}
@@ -46,7 +46,7 @@
 		
 		"PinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_RefreshAll"
@@ -86,7 +86,7 @@
 		
 		"PinCorner"		"3"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddServer"
@@ -129,7 +129,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"6"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_QuickListCheck"
@@ -149,7 +149,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Filters"
@@ -168,7 +168,7 @@
 		"AutoResize"		"1"
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"borderset"		"LabelDull"
@@ -186,7 +186,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"textHidden"		"0"
@@ -206,7 +206,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"textHidden"		"0"
@@ -226,7 +226,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"paintbackground"		"1"
 		"textHidden"		"0"
@@ -246,7 +246,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"paintbackground"		"1"
 		"textHidden"		"0"
@@ -266,7 +266,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"textHidden"		"0"
@@ -286,7 +286,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"textHidden"		"0"
@@ -306,7 +306,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"7"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_HasUsersPlaying"
@@ -325,7 +325,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"6"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerNotFull"
@@ -344,7 +344,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"8"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_IsNotPasswordProtected"
@@ -363,7 +363,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Game"
@@ -381,7 +381,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Location"
@@ -399,7 +399,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Map"
@@ -417,7 +417,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_MaxPlayer"
@@ -435,7 +435,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Latency"
@@ -453,7 +453,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AntiCheat"
@@ -471,7 +471,7 @@
 		"AutoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 	}
@@ -487,7 +487,7 @@
 		"AutoResize"		"3"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"paintbackground"	"1"
 	}
@@ -502,7 +502,7 @@
 		"autoResize"		"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"WorkshopLabel"
@@ -520,7 +520,7 @@
 		"if_workshop_enabled"
 		{
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		
 		"paintbackground"		"1"
@@ -545,7 +545,7 @@
 		"if_workshop_enabled"
 		{
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		
 		"paintbackground"		"1"
@@ -570,7 +570,7 @@
 		"if_workshop_enabled"
 		{
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		
 	}
@@ -589,7 +589,7 @@
 		"AutoResize"		"1"
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"borderset"		"LabelDull"
@@ -613,7 +613,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"textHidden"		"0"
@@ -639,7 +639,7 @@
 		"autoResize"		"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -660,7 +660,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"0"
@@ -679,7 +679,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"8"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_SupportsReplays"

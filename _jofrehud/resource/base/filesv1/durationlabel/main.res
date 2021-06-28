@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%duration%"
 		"fgcolor_override" "200 80 60 255"
 		"bgcolor_override" "0 0 0 0"

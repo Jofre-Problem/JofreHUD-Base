@@ -12,7 +12,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"MapInfoTitle"
@@ -30,7 +30,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%mapname%"
 		"textAlignment"	"west"
 		"font"			"ChalkboardTitle"
@@ -52,7 +52,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%gamemode%"
 		"textAlignment"	"west"
 		"font"			"ChalkboardText"
@@ -79,7 +79,7 @@
 		"autoResize"	"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"paintborder"	"0"
 		"textAlignment"	"northwest"
 		"fgcolor"		"Gray"
@@ -103,7 +103,7 @@
 		//"tall_hidef"			"225"
 		//"tall_lodef"	"225"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""
 		"scaleImage"	"1"		
 	}
@@ -124,7 +124,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Continue"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -149,7 +149,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_WatchIntro"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -175,7 +175,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Back"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -197,7 +197,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fov"			"20"
 		
 		"model"
@@ -231,7 +231,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 			
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"

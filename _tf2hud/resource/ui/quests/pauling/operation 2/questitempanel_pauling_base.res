@@ -79,7 +79,7 @@
 					"wide"			"f0"
 					"tall"			"o1"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"contracts/contracts_papers1_vacation"
 					"proportionaltoparent"	"1"
@@ -108,7 +108,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"1"
@@ -123,7 +123,7 @@
 					"wide"			"f0"
 					"tall"			"o1"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"contracts\contracts_folder1_front"
 					"proportionaltoparent"	"1"
@@ -142,7 +142,7 @@
 					"wide"		"f0"
 					"tall"		"f0"
 					"visible"		"1"
-					"enabled"		"1"
+					
 
 					"proportionaltoparent"	"1"
 				}
@@ -176,7 +176,7 @@
 							"wide"			"f0"
 							"tall"			"f0"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"scaleImage"	"1"
 							"image"			"contracts/sticky"
 							"proportionaltoparent"	"1"
@@ -200,7 +200,7 @@
 							
 							
 							"visible"				"1"
-							"enabled"				"1"
+							
 							"proportionaltoparent"	"1"
 
 							"fgcolor"				"Black"
@@ -238,7 +238,7 @@
 							"wide"			"f0"
 							"tall"			"f0"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"scaleImage"	"1"
 							"image"			"contracts/sticky_turn_in"
 							"proportionaltoparent"	"1"
@@ -262,7 +262,7 @@
 							
 							
 							"visible"				"1"
-							"enabled"				"1"
+							
 							"proportionaltoparent"	"1"
 
 							"fgcolor"				"Black"
@@ -304,7 +304,7 @@
 							"wide"			"f0"
 							"tall"			"f0"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							"scaleImage"	"1"
 							"image"			"contracts/sticky_inactive"
 							"proportionaltoparent"	"1"
@@ -328,7 +328,7 @@
 							
 							
 							"visible"				"1"
-							"enabled"				"1"
+							
 							"proportionaltoparent"	"1"
 
 							"mouseinputenabled"	"0"

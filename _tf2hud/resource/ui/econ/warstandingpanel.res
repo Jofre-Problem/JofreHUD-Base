@@ -26,7 +26,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"TanLight"
 			"proportionaltoparent"	"1"
 		}
@@ -46,7 +46,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"Orange"
 			"proportionaltoparent"	"1"
 		}
@@ -80,7 +80,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"TanLight"
 			"proportionaltoparent"	"1"
 			"textinsetx"	"5"
@@ -112,7 +112,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"TanLight"
 			"proportionaltoparent"	"1"
 		}
@@ -132,7 +132,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"Orange"
 			"proportionaltoparent"	"1"
 		}
@@ -166,7 +166,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"TanLight"
 			"proportionaltoparent"	"1"
 			"textinsetx"	"5"

@@ -10,7 +10,7 @@
 		"wide"			"128"
 		"tall"			"32"
 		"visible"		"1"
-		"enabled"		"1"	
+			
 	}
 	
 	"FloatingNumberLabel"
@@ -23,7 +23,7 @@
 		"wide"			"128"
 		"tall"			"32"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor"		"TanLight"
 		"font"			"ScoreboardMediumSmall"	//AchievementTracker_Name
 		"textAlignment"		"north-west"

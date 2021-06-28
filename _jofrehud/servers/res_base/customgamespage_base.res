@@ -38,7 +38,7 @@
 		"enabled"		"0"
 		"if_workshop_enabled"
 		{
-			"enabled"		"1"
+			
 		}
 		
 		"paintbackground"		"1"
@@ -61,7 +61,7 @@
 		"visible"		"0"
 		"if_workshop_enabled"
 		{
-			"enabled"		"1"
+			
 			"visible"		"1"
 		}
 		
@@ -81,7 +81,7 @@
 		"if_workshop_enabled"
 		{
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 	}
 	"TagLabel"
@@ -98,7 +98,7 @@
 		"AutoResize"		"1"
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"borderset"		"LabelDull"
@@ -121,7 +121,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"textHidden"		"0"
@@ -148,7 +148,7 @@
 		"autoResize"		"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -168,7 +168,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"0"

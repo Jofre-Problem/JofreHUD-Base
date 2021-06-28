@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"No Owner"
 		"textAlignment"	"center"
@@ -44,7 +44,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Shells:  0 / 0"
 		"textAlignment"	"center"
@@ -63,7 +63,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"progress"		"0.0"
 	}
@@ -79,7 +79,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Rockets:  0 / 0"
 		"textAlignment"	"center"
@@ -98,7 +98,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"labelText"		"Rotate Left 45"
 		"textAlignment"	"center"
@@ -144,7 +144,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"labelText"		"Rotate 180"
 		"textAlignment"	"center"
@@ -190,7 +190,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"labelText"		"Rotate Right 45"
 		"textAlignment"	"center"
@@ -236,7 +236,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Health: 100%"
 		"textAlignment"	"center"
@@ -255,7 +255,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"labelText"		"Dismantle"
 		"textAlignment"	"center"
@@ -307,7 +307,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"Gone in"
 			"textAlignment"	"center"
@@ -326,7 +326,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"5 seconds"
 			"textAlignment"	"center"
@@ -345,7 +345,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"2"
 			"labelText"		"Cancel"
 			"textAlignment"	"center"
@@ -397,7 +397,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"2"
 			"labelText"		"Buy"
 			"textAlignment"	"center"

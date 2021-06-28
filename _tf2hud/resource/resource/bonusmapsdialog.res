@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#GameUI_BonusMaps"
@@ -27,7 +27,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 	}
 	
@@ -84,7 +84,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
@@ -105,7 +105,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_ImportBonusMapsEllipsis"
 		"textAlignment"		"west"
@@ -128,7 +128,7 @@
 		"fillcolor"	"0 0 0 64"
 		"zpos"	"-2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	"PercentageBar" //dark grey current completed
 	{
@@ -141,7 +141,7 @@
 		"fillcolor"	"255 255 255 255"
 		"zpos"	"-1"
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	"PercentageText" //Percent Text inside the percentage field
 	{
@@ -154,7 +154,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"0%"
 		"textAlignment"		"east"
@@ -173,7 +173,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_BonusMapsCompletion" //located in localization text file
 		"textAlignment"		"west"
@@ -193,7 +193,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_BonusMapsHelp"
 		"textAlignment"		"west"
@@ -213,7 +213,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -229,7 +229,7 @@
 		"wide"		"360"
 		"tall"		"40"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"	"north-west"
 		"font"	"DefaultSmall"
@@ -264,7 +264,7 @@
 		"wide"		"162"
 		"tall"		"32"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"north-west"
 		"font"		"DefaultSmall"
@@ -351,7 +351,7 @@
 		"wide"		"60"
 		"tall"		"12"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"north-west"
 		"font"		"DefaultSmall"
@@ -378,7 +378,7 @@
 		"wide"		"54"
 		"tall"		"12"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"north-west"
 		"font"		"DefaultSmall"

@@ -7,7 +7,7 @@
 		"wide"			"130"
 		"tall"			"75"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"0"
 
@@ -21,7 +21,7 @@
 			"wide"			"12"
 			"tall"			"o1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"locked_icon"
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
@@ -59,7 +59,7 @@
 			"wide"			"36"
 			"tall"			"12"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"1"
 			
@@ -81,7 +81,7 @@
 			"wide"			"10"
 			"tall"			"o1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"cyoa/node_item_icon"
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
@@ -100,7 +100,7 @@
 			"wide"			"25"
 			"tall"			"o1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"class_icons/no_border_demo_icon"
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
@@ -138,7 +138,7 @@
 			"wide"			"28"
 			"tall"			"28"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"proportionaltoparent"	"1"
 			"autoResize"	"3"
 			"paintbackground" "0"		
@@ -155,7 +155,7 @@
 			"wide"			"28"
 			"tall"			"28"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"font"			"HudFontSmall"
 			"textAlignment"	"center"

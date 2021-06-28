@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"			"#GameUI_CommentaryDialogTitle"
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"COMMENTARY MODE IS CURRENTLY: OFF"
 		"textAlignment"		"west"
@@ -47,7 +47,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GAMEUI_LostCoastHasCommentary"
 		"textAlignment"		"north-west"
@@ -66,7 +66,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#GAMEUI_Commentary_TurnOn"
 		"textAlignment"		"west"
@@ -88,7 +88,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"labelText"		"#GAMEUI_Commentary_LeaveOff"
 		"textAlignment"		"west"
@@ -110,7 +110,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"image"			"hud/icon_commentary"
 	}
@@ -125,7 +125,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"image"			"hud/icon_commentary_off"
 	}

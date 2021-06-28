@@ -7,7 +7,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_MuteIngameVoice"
 		"textAlignment"		"west"

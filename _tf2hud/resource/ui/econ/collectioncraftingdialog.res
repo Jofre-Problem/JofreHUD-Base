@@ -6,7 +6,7 @@
 	{
 		"fieldName"				"CollectionCraftingPanel"
 		"visible"				"0"
-		"enabled"				"1"
+		
 		"xpos"					"cs-0.5"
 		"ypos"					"cs-0.5"
 		"zpos"					"101"
@@ -147,7 +147,7 @@
 				"tall"			"50"
 					
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"labelText"		"#TF_CollectionCrafting_TitleJoke0"
 				"wrap"			"1"
 				"mouseinputenabled" "0"
@@ -170,7 +170,7 @@
 				"tall"			"300"
 					
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"labelText"		"#TF_CollectionCrafting_SaxtonMessage"
 				"mouseinputenabled" "0"
 				"paintbackground"	"0"
@@ -192,7 +192,7 @@
 				"tall"			"300"
 					
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"labelText"		"#TF_CollectionCrafting_Instructions"
 				"mouseinputenabled" "0"
 				"paintbackground"	"0"
@@ -214,7 +214,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labelText"		"#TF_CollectionCrafting_Submit"
 				"font"			"HudFontSmallBold"

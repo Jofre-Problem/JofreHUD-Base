@@ -35,7 +35,7 @@
 	{
 		"fieldName"				"ConfirmApplyStrangifierDialog"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-200"
 		"ypos"					"c-200"
 		"wide"					"400"
@@ -61,7 +61,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"centerwrap"	"1"
 	}
 
@@ -80,7 +80,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"paintbackground" "0"
 		"border"		"BackpackItemBorder_SelfMade"
 	}
@@ -94,7 +94,7 @@
 		"wide"			"16"
 		"tall"			"16"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"backpack_jewel_modify_target_b_g"
 		"tileImage"		"0"
 		"tileVertically" "0"
@@ -143,7 +143,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmall"

@@ -9,7 +9,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"border"		"ReplayBalloonBorder"
 		"proportional"	"0"
 	}
@@ -21,7 +21,7 @@
 		"zpos"			"0"
 		
 		
-		"enabled"		"1"
+		
 	}
 
 	"InfoPanel"

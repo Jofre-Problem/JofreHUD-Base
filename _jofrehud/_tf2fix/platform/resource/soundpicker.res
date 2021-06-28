@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"1"
 		"title"		"#Frame_Untitled"
@@ -31,7 +31,7 @@
 			"UnpinnedCornerOffsetX" "-6"
 			"UnpinnedCornerOffsetY" "-6"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"1"
 		}
 	}

@@ -14,7 +14,7 @@
 	//	
 	//	
 	//	"visible"		"1"
-	//	"enabled"		"1"
+	//	
 		"textAlignment"	"Center"
 		"dulltext"		"1"
 		"brighttext"	"0"

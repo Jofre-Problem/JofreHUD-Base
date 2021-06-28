@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 	}
@@ -26,7 +26,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TrackerUI_DoYouWantTo"
 		"textAlignment"		"west"
@@ -44,7 +44,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"test4 wishes to add you to his/her contact list.
 test4@testers.com"
@@ -63,7 +63,7 @@ test4@testers.com"
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#TrackerUI_AllowPersonToSeeYou"
 		"textAlignment"		"west"
@@ -84,7 +84,7 @@ test4@testers.com"
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#TrackerUI_BlockThisPerson"
 		"textAlignment"		"west"
@@ -105,7 +105,7 @@ test4@testers.com"
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"labelText"		"#TrackerUI_OK"
 		"textAlignment"		"west"
@@ -125,7 +125,7 @@ test4@testers.com"
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"labelText"		"#TrackerUI_Cancel"
 		"textAlignment"		"west"

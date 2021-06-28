@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"image"			"resource/mic_meter_dead"
 		"image2"		"resource/mic_meter_live"
@@ -29,7 +29,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"image"		"resource/mic_meter_live"
 		"barCount"		"19"
@@ -46,7 +46,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"leftText"		""
 		"rightText"		""
@@ -62,7 +62,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 	}
 	"voice_modenable"
@@ -76,7 +76,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_EnableVoice"
 		"textAlignment"		"west"
@@ -95,7 +95,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_BoostMicrophone"
 		"textAlignment"		"west"
@@ -114,7 +114,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"associate"		"#GameUI_MicrophoneVolume"
 		"labelText"		"#GameUI_VoiceTransmitVolume"
@@ -133,7 +133,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_VoiceReceiveVolume"
 		"textAlignment"		"west"
@@ -152,7 +152,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"40"
 		"textAlignment"		"west"
@@ -170,7 +170,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"176"
 		"textAlignment"		"west"
@@ -188,7 +188,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"176"
 		"textAlignment"		"west"
@@ -206,7 +206,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"176"
 		"textAlignment"		"west"
@@ -224,7 +224,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_TestMicrophone"
 		"textAlignment"		"west"
@@ -244,7 +244,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_Miles_Voice"
 		"textAlignment"		"west"

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"0 0 0 240"
 	}
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
@@ -44,7 +44,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"0 0 0 255"
 		}
@@ -59,7 +59,7 @@
 			"wide"			"600"
 			"tall"			"300"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"workshop_branding"
 			"scaleImage"	"1"
 		}
@@ -75,7 +75,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"57 52 49 255"
 		}
@@ -91,7 +91,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"PaintBackgroundType"	"0"
 			"paintbackground"		"1"
@@ -112,7 +112,7 @@
 				"autoResize"	"1"
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"fgcolor_override" "86 78 68 255"
 			}
 
@@ -131,7 +131,7 @@
 				"autoResize"	"1"
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"wrap"			"1"
 				"fgcolor_override"		"46 43 42 255"
 			}
@@ -148,7 +148,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labelText"		"#TF_SteamWorkshop_LearnHow"
 				"font"			"HudFontSmallBold"
@@ -171,7 +171,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"PaintBackgroundType"	"0"
 			"paintbackground"		"1"
@@ -192,7 +192,7 @@
 				"autoResize"	"1"
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"fgcolor_override" "86 78 68 255"
 			}
 			
@@ -256,7 +256,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labelText"		"<"
 				"font"			"HudFontSmallBold"
@@ -283,7 +283,7 @@
 				"autoResize"	"1"
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"fgcolor_override" "200 80 60 255"
 			}
 			
@@ -299,7 +299,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labelText"		">"
 				"font"			"HudFontSmallBold"
@@ -323,7 +323,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labelText"		"#TF_SteamWorkshop_ViewPublished"
 				"font"			"HudFontSmallBold"
@@ -347,7 +347,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"textinsetx"	"25"
 				"use_proportional_insets" "1"
@@ -375,7 +375,7 @@
 					"wide"			"13"
 					"tall"			"13"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_edit"
 				}		
@@ -392,7 +392,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"textinsetx"	"25"
 				"use_proportional_insets" "1"
@@ -420,7 +420,7 @@
 					"wide"			"13"
 					"tall"			"13"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_view"
 				}		
@@ -437,7 +437,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"textinsetx"	"25"
 				"use_proportional_insets" "1"
@@ -465,7 +465,7 @@
 					"wide"			"13"
 					"tall"			"13"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_delete"
 				}		
@@ -484,7 +484,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_SteamWorkshop_BrowseTheWorkshop"
 			"font"			"HudFontSmallestBold"
@@ -512,7 +512,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_SteamWorkshop_Test"
 			"font"			"HudFontSmallBold"
@@ -541,7 +541,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_SteamWorkshop_Publish"
 			"font"			"HudFontSmallBold"
@@ -569,7 +569,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_SteamWorkshop_Instructions"
 			"font"			"HudFontSmallBold"
@@ -591,7 +591,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_SteamWorkshop_Legal"
 			"font"			"HudFontSmallBold"
@@ -616,7 +616,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#TF_Close"
 			"font"			"HudFontSmallBold"

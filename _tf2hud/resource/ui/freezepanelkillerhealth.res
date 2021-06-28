@@ -10,7 +10,7 @@
 		"wide"			"18"
 		"tall"			"18"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 	}		
 	"PlayerStatusHealthImageBG"
@@ -23,7 +23,7 @@
 		"wide"			"22"
 		"tall"			"22"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/health_bg"
 		"scaleImage"	"1"	
 	}	
@@ -37,7 +37,7 @@
 		"wide"			"28"
 		"tall"			"28"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/health_equip_bg"
 		"scaleImage"	"1"	
 	}	
@@ -51,7 +51,7 @@
 		"wide"			"22"
 		"tall"			"22"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"	
 	}
@@ -65,7 +65,7 @@
 		"wide"			"20"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"SpectatorVerySmall"

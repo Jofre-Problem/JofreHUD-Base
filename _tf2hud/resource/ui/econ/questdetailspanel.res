@@ -10,7 +10,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"proportionaltoparent" "1"
 	}
 
@@ -26,7 +26,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"0 0 0 252"
 	}
@@ -64,7 +64,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
 			"fgcolor"		"117 107 94 255"
@@ -87,7 +87,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"proportionaltoparent"	"1"
 		"fgcolor"		"QuestGold"
@@ -108,7 +108,7 @@
 		"tall"			"340"
 		"proportionaltoparent"	"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 
 		"Background"
 		{
@@ -120,7 +120,7 @@
 			"wide"			"p1.05"
 			"tall"			"p1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"quest_details_background"
 			"scaleImage"	"1"	
 			"proportionaltoparent"	"1"	
@@ -138,7 +138,7 @@
 			"tall"			"105"
 			"proportionaltoparent"	"1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"paintborder"	"0"
 
 			"CharacterBackdropImage"
@@ -151,7 +151,7 @@
 				"wide"			"p0.93"
 				"tall"			"p0.93"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"quest_pauling"
 				"scaleImage"	"1"	
 				"proportionaltoparent"	"1"	
@@ -170,7 +170,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"proportionaltoparent"	"1"
 			"bgcolor_override"	"209 201 184 255"
 			"PaintBackgroundType"	"2"
@@ -190,7 +190,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"wrap"			"1"
 				"proportionaltoparent"	"1"
 				"fgcolor"		"Black"
@@ -213,7 +213,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"0"
 			"proportionaltoparent"	"1"
 			"fgcolor"		"QuestGold"
@@ -265,7 +265,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"proportionaltoparent"	"1"
 				"textinsetx"	"25"
@@ -304,7 +304,7 @@
 					"wide"			"14"
 					"tall"			"14"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"glyph_quest_icon"
 
@@ -338,7 +338,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"proportionaltoparent"	"1"
 				"textinsetx"	"25"
@@ -377,7 +377,7 @@
 					"wide"			"14"
 					"tall"			"14"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_delete"
 

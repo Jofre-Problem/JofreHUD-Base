@@ -85,7 +85,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"		"west"
 		"image"			"techcredits/bink"
 		"scaleImage"	"1"

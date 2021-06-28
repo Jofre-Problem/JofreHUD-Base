@@ -21,7 +21,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"fov"			"70"
 		"proportionaltoparent"	"1"
 		
@@ -71,7 +71,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"%countdown%"
 		"textAlignment"	"center"
@@ -98,7 +98,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"labelText"		"%countdown%"
 		"textAlignment"	"center"
@@ -153,7 +153,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"fov"			"70"
 		"proportionaltoparent"	"1"
 		
@@ -204,7 +204,7 @@
 		"wide"			"300"
 		"tall"			"100"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}	
 
 	"BGFrame"
@@ -240,7 +240,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"centerwrap"	"1"
 		"alpha"			"0"
@@ -263,7 +263,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"centerwrap"	"1"
 		"alpha"			"0"
@@ -289,7 +289,7 @@
 		//"wide_lodef"		"300"
 		"tall"				"150"
 		"visible"			"0"
-		"enabled"			"1"
+		
 		"delta_item_x"			"22"	[$WIN32]
 		"delta_item_x"			"115"	[$X360]
 		"delta_item_start_y"	"50"
@@ -335,7 +335,7 @@
 			//"wide_lodef"	"50"
 			"tall"			"31"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"textAlignment"		"center"
 			"labelText"		"0:00"
 
@@ -363,7 +363,7 @@
 		"wide"			"f0"
 		"tall"			"75"
 		"visible"		"1"
-		"enabled"		"1"
+		
 
 
 		"max_size"	"19"
@@ -422,7 +422,7 @@
 				"wide"			"19"
 				"tall"			"19"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"../hud/class_scoutred"
 				"scaleImage"	"1"	
 				"proportionaltoparent"	"1"
@@ -437,7 +437,7 @@
 				"wide"			"f0"
 				"tall"			"19"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"PaintBackgroundType"	"0"
 				"proportionaltoparent"	"1"
 			}
@@ -454,7 +454,7 @@
 				
 				
 				"visible"				"1"
-				"enabled"				"1"
+				
 				"textAlignment"			"Left"
 				"dulltext"				"0"
 				"brighttext"			"0"
@@ -474,7 +474,7 @@
 				
 				
 				"visible"				"1"
-				"enabled"				"1"
+				
 				"textAlignment"			"Left"
 				"dulltext"				"0"
 				"brighttext"			"0"
@@ -492,7 +492,7 @@
 				"wide"				"32"
 				"tall"				"32"
 				"visible"			"0"
-				"enabled"			"1"	
+					
 				"HealthBonusPosAdj"	"10"
 				"HealthDeathWarning"		"0.49"
 				"TFFont"					"HudFontSmallest"
@@ -511,7 +511,7 @@
 				
 				
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"image"			"../HUD/tournament_panel_brown"
 				"src_corner_height"	"22"				// pixels inside the image
 				"src_corner_width"	"22"
@@ -530,7 +530,7 @@
 				
 				
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"image"			"hud/checkmark"
 				"scaleImage"	"1"
 			}
@@ -595,7 +595,7 @@
 				"wide"			"f0"
 				"tall"			"24"
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"image"			"../HUD/comp_player_status"	
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"	
@@ -609,7 +609,7 @@
 				"wide"			"o1.2"
 				"tall"			"p0.15"
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"image"			"../HUD/comp_player_status_skull"	
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"	
@@ -627,7 +627,7 @@
 		"wide"			"150"
 		"tall"			"260"
 		"visible"		"0"
-		"enabled"		"1"
+		
 
 		if_large
 		{
@@ -647,7 +647,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"border"		"TFFatLineBorderBlueBGOpaque"
 		}
 		"BlueTeamImage"
@@ -660,7 +660,7 @@
 			"wide"			"56"
 			"tall"			"56"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/team_blue"
 			"scaleImage"		"1"
 		}
@@ -679,7 +679,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"centerwrap"	"1"
 		}
 		"BlueLeaderAvatar"
@@ -692,7 +692,7 @@
 			"wide"			"35"
 			"tall"			"35"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			""
 			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
@@ -721,7 +721,7 @@
 			"tall"			"205"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"autoresize"	"3"
 			"linespacing"	"26"
@@ -745,7 +745,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"border"		"TFFatLineBorderClearBG"
 
 			if_large
@@ -765,7 +765,7 @@
 		"wide"			"150"
 		"tall"			"260"
 		"visible"		"0"
-		"enabled"		"1"
+		
 
 		if_large
 		{
@@ -785,7 +785,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"border"		"TFFatLineBorderRedBGOpaque"
 		}
 		"RedTeamImage"
@@ -798,7 +798,7 @@
 			"wide"			"70"
 			"tall"			"70"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/team_Red"
 			"scaleImage"		"1"
 		}
@@ -817,7 +817,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"centerwrap"	"1"
 		}
 		"RedLeaderAvatar"
@@ -830,7 +830,7 @@
 			"wide"			"35"
 			"tall"			"35"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			""
 			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
@@ -859,7 +859,7 @@
 			"tall"			"205"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"autoresize"	"3"
 			"linespacing"	"26"
@@ -883,7 +883,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"border"		"TFFatLineBorderClearBG"
 
 			if_large

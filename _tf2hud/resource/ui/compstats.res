@@ -22,7 +22,7 @@
 			"wide"			"o1"
 			"tall"			"70"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -372,7 +372,7 @@
 				"tall"			"p0.89"
 				"tall"			"f20"
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"mouseinputenabled" "1"
 				"scaleImage"	"1"
 				"entry_step"	"23"

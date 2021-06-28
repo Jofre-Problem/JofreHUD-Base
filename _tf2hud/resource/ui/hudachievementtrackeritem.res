@@ -10,7 +10,7 @@
 		"wide"			"280"
 		"tall"			"29"
 		"visible"		"0"
-		"enabled"		"1"	
+			
 		
 		"PaintBackgroundType"	"2"
 	}
@@ -73,7 +73,7 @@
 		"fillcolor"	 "250 234 201 51"
 		"zpos"			"4"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"ProgressBar" // current completed
@@ -87,6 +87,6 @@
 		"fillcolor"		"251 235 202 255"
 		"zpos"			"5"
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 }

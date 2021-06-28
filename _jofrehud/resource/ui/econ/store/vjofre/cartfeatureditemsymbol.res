@@ -10,7 +10,7 @@
 		"wide"			"24"
 		"tall"			"24"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"store_special"
 		"scaleImage"	"1"
 	}

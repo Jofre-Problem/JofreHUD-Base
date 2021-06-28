@@ -10,7 +10,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportionaltoparent" "1"
 		"skip_autoresize"	"1"
 
@@ -29,7 +29,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"0"
 			"proportionaltoparent"	"1"
 			"fgcolor"		"QuestGold"
@@ -46,7 +46,7 @@
 			"tall"			"60"
 			"proportionaltoparent"	"1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"paintborder"	"0"
 	
 			"ItemPanel"

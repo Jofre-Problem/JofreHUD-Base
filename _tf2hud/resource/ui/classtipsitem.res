@@ -11,7 +11,7 @@
 		
 		"pinCorner"				"1"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"bgcolor_override"		"0 0 0 0"
 		"textAlignment"			"north-west"
 
@@ -24,7 +24,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleimage"	"1"
 		}
 				
@@ -37,7 +37,7 @@
 			"wide"			"140"
 			"tall"			"30"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"font"			"ChalkboardText"
 			"autoResize"	"3"

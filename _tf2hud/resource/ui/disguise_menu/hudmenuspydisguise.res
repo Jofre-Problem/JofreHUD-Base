@@ -10,7 +10,7 @@
 		"wide"			"470"
 		"tall"			"170"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"
 		"iconColor"		"255 255 255 255"
@@ -38,7 +38,7 @@
 		"wide"			"45"
 		"tall"			"45"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_spy_disguise_menu_icon"
 		"iconColor"		"255 255 255 255"
@@ -57,7 +57,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Disguise_Title"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -78,7 +78,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Disguise_Title"
 		"textAlignment"	"Left"
 		"dulltext"		"1"
@@ -98,7 +98,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Spy_Minus_Toggle"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -118,7 +118,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Build_Cancel"
 		"textAlignment"	"east"
 		"dulltext"		"0"
@@ -351,7 +351,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
@@ -371,7 +371,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"1"
 		"textAlignment"	"Center"
 		"dulltext"		"1"
@@ -388,7 +388,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
@@ -408,7 +408,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"2"
 		"textAlignment"	"Center"
 		"dulltext"		"1"
@@ -425,7 +425,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
@@ -445,7 +445,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"3"
 		"textAlignment"	"Center"
 		"dulltext"		"1"

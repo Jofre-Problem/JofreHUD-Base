@@ -39,7 +39,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
@@ -68,7 +68,7 @@
 		"wide"			"40"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"font"			"MapVotesPercentage"
 		"fgcolor_override"	"TanLight"
 		"textAlignment"	"south"
@@ -87,7 +87,7 @@
 		"zpos"			"10"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"font"			"ItemFontAttribSmall"
 		"fgcolor_override"	"TanLight"
 		"textAlignment"	"north"

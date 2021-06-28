@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 
@@ -26,7 +26,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Valve_Join_Class"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -44,7 +44,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#Valve_Class_Info"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -77,7 +77,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Cstrike_Cancel"
 		"textAlignment"		"west"

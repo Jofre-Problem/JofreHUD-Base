@@ -5,7 +5,7 @@
 		"ControlName"	"CParticleFunctionBrowser"
 		"fieldName"		"FunctionBrowser"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"AutoResize"	"3"
 		
 		"xpos"			"0"
@@ -27,7 +27,7 @@
 		"UnpinnedCornerOffsetX" "-6"
 		"UnpinnedCornerOffsetY" "-6"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 }

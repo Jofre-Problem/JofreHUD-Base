@@ -39,7 +39,7 @@
 			"tall"			"9"
 			"zpos"			"4"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"proportionaltoparent" "1"
 
 			"bgcolor_override"		"212 127 25 41"
@@ -71,7 +71,7 @@
 				"bgcolor_override"		"QuestUncommitted"
 				"zpos"			"2"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"proportionaltoparent" "1"
 
 				"PointsLabelInvert"
@@ -101,7 +101,7 @@
 				"tall"			"f0"
 				"zpos"			"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"proportionaltoparent" "1"
 
 				"bgcolor_override"	"QuestMap_ActiveOrange"
@@ -132,7 +132,7 @@
 			"tall"			"6"
 			"zpos"			"4"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"proportionaltoparent" "1"
 
 			"bgcolor_override"		"222 217 166 41"
@@ -165,7 +165,7 @@
 				"bgcolor_override"		"QuestUncommitted"
 				"zpos"			"2"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"proportionaltoparent" "1"
 
 				"PointsLabelInvert"
@@ -196,7 +196,7 @@
 				"tall"			"f0"
 				"zpos"			"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"proportionaltoparent" "1"
 
 				"bgcolor_override"	"QuestMap_Bonus"
@@ -268,7 +268,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"cyoa/star_on"
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
@@ -284,7 +284,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"cyoa/star_on"
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
@@ -300,7 +300,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"cyoa/star_on"
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
@@ -316,7 +316,7 @@
 		"wide"			"f0"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"	
+			
 
 		"proportionaltoparent" "1"
 

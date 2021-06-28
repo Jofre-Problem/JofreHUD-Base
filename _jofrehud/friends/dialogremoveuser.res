@@ -52,7 +52,7 @@
 	//	
 	//	
 	//	"visible"		"1"
-	//	"enabled"		"1"
+	//	
 	//	"tabPosition"		"2"
 		"labelText"		"#TrackerUI_RemoveUser"
 	//	"textAlignment"		"west"
@@ -80,7 +80,7 @@
 	//	
 	//	
 	//	"visible"		"1"
-	//	"enabled"		"1"
+	//	
 		
 		"labelText"		"You are about to remove johnc from your contact list."
 	//	"textAlignment"		"west"

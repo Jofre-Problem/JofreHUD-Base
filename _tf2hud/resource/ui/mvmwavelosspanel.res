@@ -372,7 +372,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../HUD/tournament_panel_black"
 
 			"src_corner_height"	"22"				// pixels inside the image
@@ -406,7 +406,7 @@
 			"tall"		"50"
 			"image"			""
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"scaleImage"		"1"
 		}
 
@@ -421,7 +421,7 @@
 			"tall"		"50"
 			"image"			""
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"scaleImage"		"1"
 		}
 
@@ -436,7 +436,7 @@
 			"tall"		"50"
 			"image"			""
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"scaleImage"		"1"
 		}
 		
@@ -450,7 +450,7 @@
 			"tall"		"100"
 			"image"			"class_sel_sm_engineer_inactive"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"		"1"
 		}
 		
@@ -479,7 +479,7 @@
 			"tall"		"100"
 			"image"			"class_sel_sm_engineer_inactive"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"		"1"
 		}
 		
@@ -510,7 +510,7 @@
 		"tall"			"25"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_PVE_Vote_MissionRestart"
 		"font"			"HudFontSmallBold"
@@ -536,7 +536,7 @@
 		"tall"			"25"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#ConfirmButtonText"
 		"font"			"HudFontSmallBold"

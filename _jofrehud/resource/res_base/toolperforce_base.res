@@ -16,7 +16,7 @@
 	//	
 	//	
 	//	"visible"		"1"
-	//	"enabled"		"1"
+	//	
 	//	
 		"labelText"		""
 		"textAlignment"		"center"
@@ -36,7 +36,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Yes"
 		"textAlignment"		"center"
@@ -57,7 +57,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"No"
 		"textAlignment"		"center"

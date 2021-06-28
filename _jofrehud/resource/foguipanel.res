@@ -15,7 +15,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"Fog Panel"
@@ -34,7 +34,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Fog Override"
 		"textAlignment"		"west"
@@ -575,7 +575,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Start"
 		"textAlignment"		"west"
@@ -601,7 +601,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"|"
 		"textAlignment"		"west"
@@ -627,7 +627,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"End"
 		"textAlignment"		"west"
@@ -653,7 +653,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"|"
 		"textAlignment"		"west"
@@ -679,7 +679,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"R"
 		"textAlignment"		"center"
@@ -705,7 +705,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"G"
 		"textAlignment"		"center"
@@ -731,7 +731,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"B"
 		"textAlignment"		"center"
@@ -757,7 +757,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Start"
 		"textAlignment"		"west"
@@ -783,7 +783,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"|"
 		"textAlignment"		"west"
@@ -809,7 +809,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"End"
 		"textAlignment"		"west"
@@ -835,7 +835,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"|"
 		"textAlignment"		"west"
@@ -861,7 +861,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"R"
 		"textAlignment"		"center"
@@ -887,7 +887,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"G"
 		"textAlignment"		"center"
@@ -913,7 +913,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"B"
 		"textAlignment"		"center"
@@ -939,7 +939,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"FarZ"
 		"textAlignment"		"west"
@@ -965,7 +965,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"1"
 		"textAlignment"		"north-west"

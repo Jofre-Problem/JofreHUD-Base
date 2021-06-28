@@ -10,7 +10,7 @@
 		"wide"			"o4"
 		"tall"			"p1.17"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"proportionaltoparent"	"1"
 		"image"			""
@@ -42,7 +42,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"0 0 0 255"
@@ -59,7 +59,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"mouseinputenabled"	"1"
 		"eatmouseinput"	"0"	
 		"showtooltipswhenmousedisabled"	"1"
@@ -75,7 +75,7 @@
 		"wide"			"122"
 		"tall"			"15"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"mouseinputenabled"	"1"
 		"eatmouseinput"	"0"	
 		"showtooltipswhenmousedisabled"	"1"
@@ -92,7 +92,7 @@
 		"wide"			"122"
 		"tall"			"15"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%button_token%"
 		"textinsetx"	"4"
 		"use_proportional_insets" "1"
@@ -127,7 +127,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"mouseinputenabled"	"0"
 		"bgcolor_override"	"0 0 0 250"
 		"proportionaltoparent"	"1"
@@ -146,7 +146,7 @@
 			"wide"			"f0"
 			"tall"			"f0"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"autoResize"	"1"
 			
 			"proportionaltoparent"	"1"
@@ -180,7 +180,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "Black"
 		"proportionaltoparent" "1"
@@ -197,7 +197,7 @@
 		"wide"				"f0"
 		"tall"				"f0"
 		"visible"			"0"
-		"enabled"			"1"
+		
 		"actionsignallevel"	"1"
 		"command"			"comp_access_info"
 		"labeltext"			""
@@ -226,7 +226,7 @@
 			"wide"			"15"
 			"tall"			"15"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"locked_icon"
 			"scaleImage"	"1"
 			"proportionaltoparent" "1"

@@ -10,7 +10,7 @@
 		"wide"			"98"
 		"tall"			"135"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg"
 		"iconColor"		"128 128 128 255"
@@ -29,7 +29,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Empty_Slot"
 		//"labelText_lodef"		"#TF_Empty_Slot"
 		"textAlignment"	"Left"
@@ -48,7 +48,7 @@
 		"wide"			"98"
 		"tall"			"135"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg"
 		"iconColor"		"0 0 0 255"
@@ -64,7 +64,7 @@
 		"wide"			"56"
 		"tall"			"56"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_sentry_build"
 		"iconColor"		"255 255 255 255"
@@ -80,7 +80,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
 		"iconColor"		"TanDarker"
@@ -100,7 +100,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"%metal%"
 		"textAlignment"	"Left"	
 	}

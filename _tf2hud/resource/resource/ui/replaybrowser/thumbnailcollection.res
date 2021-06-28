@@ -9,7 +9,7 @@
 		
 		
 		"visible"				"1"
-		"enabled"				"1"
+		
 		
 		"settitlebarvisible"	"1"
 	}
@@ -27,7 +27,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wide"			"f0"
 		"fgcolor"		"ReplayBrowser.CollectionTitle.FgColor"
 	}
@@ -43,7 +43,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wide"			"f0"
 		"fgcolor"		"ReplayBrowser.CollectionTitle.FgColor"
 	}
@@ -58,7 +58,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wide"			"f0"
 		"fgcolor_override" "116 107 98 255"
 	}
@@ -73,7 +73,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"fgcolor"		 "ReplayBrowser.Warning.FgColor"
 		"wrap"			"1"
 	}
@@ -86,7 +86,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"bgcolor_override" "106 91 86 255"
 	}
 
@@ -99,7 +99,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"bgcolor_override" "0 0 0 255"
 	}
 	
@@ -114,7 +114,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"centerwrap"	"1"
 		"fgcolor_override"	"117 107 94 255"
 	}
@@ -131,7 +131,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%prevbuttontext%"
 		"font"			"ItemFontNameSmall"
@@ -159,7 +159,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%nextbuttontext%"
 		"font"			"ItemFontNameSmall"
@@ -184,7 +184,7 @@
 		"tall"			"15"
 		"zpos"			"100"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"font"			"ReplayMediumSmall"
 		"textAlignment"	"center"
 		"text"			"#Replay_RenderAll"

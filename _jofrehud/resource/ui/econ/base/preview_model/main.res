@@ -7,7 +7,7 @@
 		"ypos"			"40"
 		"zpos"			"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"bgcolor_override"		"0 0 0 0"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"

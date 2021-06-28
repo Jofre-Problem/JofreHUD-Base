@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"ImportFileTextEditDialog"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-280"
 		"ypos"					"c-180"
 		"wide"					"560"
@@ -54,7 +54,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Cancel"
 		"textAlignment"		"center"
@@ -77,7 +77,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"center"

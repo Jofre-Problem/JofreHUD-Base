@@ -7,7 +7,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"paintbackground"	"0"
 		
 		"cut_button_width"	"70"
@@ -35,7 +35,7 @@
 				"fieldName"		"SubImage"
 				"zpos"			"1"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"scaleImage"	"1"
 			}				
 			
@@ -73,7 +73,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"centerwrap"	"1"
 		"fgcolor_override"	"117 107 94 255"
 	}
@@ -150,7 +150,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"centerwrap"	"0"
 		"fgcolor_override"	"117 107 94 255"
 	}

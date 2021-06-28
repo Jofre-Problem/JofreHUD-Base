@@ -10,7 +10,7 @@
 		"wide"				"275"
 		"tall"				"190"
 		"visible"			"0"
-		"enabled"			"1"
+		
 
 		if_comp
 		{
@@ -29,7 +29,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../HUD/color_panel_browner"
 	
 	
@@ -51,7 +51,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"image"			"../HUD/color_panel_browner"
 	
 	
@@ -74,7 +74,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"labelText"		"%objectivelabel%"
 			"textAlignment"		"west"
@@ -91,7 +91,7 @@
 			"autoResize"		"1"
 			"pinCorner"		"1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"west"
 			"font"			"HudFontSmallestShadow"
@@ -110,7 +110,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 				
 			"fillcolor"		"125 125 125 125"
 			"PaintBackgroundType"	"0"
@@ -128,7 +128,7 @@
 			"autoResize"		"1"
 			"pinCorner"		"1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"west"
 			"font"			"HudFontSmallestShadow"
@@ -148,7 +148,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../HUD/arrow_big"
 
 		if_comp

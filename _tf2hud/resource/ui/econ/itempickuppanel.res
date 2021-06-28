@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -75,7 +75,7 @@
 		"wide"			"30"
 		"tall"			"30"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"achievements/tf_medic_heal_grind"
 		"scaleImage"	"1"
 	}
@@ -95,7 +95,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"SelectedItemFoundMethodLabel"
@@ -113,7 +113,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"ItemCountLabel"
@@ -131,7 +131,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"SelectedItemNumberLabel"
 	{
@@ -148,7 +148,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"NextButton"
@@ -163,7 +163,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#NextItem"
 		"font"			"HudFontSmallestBold"
@@ -186,7 +186,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#PreviousItem"
 		"font"			"HudFontSmallestBold"
@@ -210,7 +210,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#CloseItemPanel"
 		"font"			"HudFontSmallBold"
@@ -234,7 +234,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%loadouttext%"
 		"font"			"HudFontSmallBold"
@@ -258,7 +258,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
@@ -286,7 +286,7 @@
 			"wide"			"p1"
 			"tall"			"p1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"icon_trash_on"
 			"scaleImage"	"1"
 			"paintbackgroundtype" "0"
@@ -320,7 +320,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"235 226 202 255"
 			"wrap"			"1"
 			"centerwrap"	"1"
@@ -341,7 +341,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 		"bgcolor_override"	"46 43 42 255"
 	}

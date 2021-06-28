@@ -46,7 +46,7 @@
 				"wide"			"p0.8"
 				"tall"			"25"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
 				"textAlignment"	"center"
@@ -64,7 +64,7 @@
 				"wide"			"o1"
 				"tall"			"80"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"animated/tf2_logo_hourglass"
 		
 				"proportionaltoparent"	"1"
@@ -92,7 +92,7 @@
 				"wide"			"p0.8"
 				"tall"			"25"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Orange"
 				"textAlignment"	"center"
@@ -110,7 +110,7 @@
 				"wide"			"p0.8"
 				"tall"			"50"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
 				"textAlignment"	"center"
@@ -133,7 +133,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
@@ -165,7 +165,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				

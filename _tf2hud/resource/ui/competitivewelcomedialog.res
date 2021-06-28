@@ -10,7 +10,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -34,7 +34,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"centerwrap"	"1"
 		"fgcolor_override" "StoreGreen"
 	}
@@ -55,7 +55,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "TanLight"
 	}
 
@@ -75,7 +75,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "Yellow"
 	}
@@ -96,7 +96,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "TanDark"
 	}
@@ -117,7 +117,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "Yellow"
 	}
@@ -138,7 +138,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "TanDark"
 	}
@@ -159,7 +159,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "Yellow"
 	}
@@ -180,7 +180,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "TanDark"
 	}
@@ -201,7 +201,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "Yellow"
 	}
@@ -222,7 +222,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "TanDark"
 	}
@@ -243,7 +243,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "Yellow"
 	}
@@ -264,7 +264,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "TanDark"
 	}
@@ -283,7 +283,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_MM_TakeUITour"
 		"font"			"EconFontSmall"
@@ -316,7 +316,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_Competitive_Welcome_Confirm"
 		"font"			"EconFontSmall"

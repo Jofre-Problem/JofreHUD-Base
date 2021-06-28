@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 	}
@@ -26,7 +26,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#ServerBrowser_JoinGame"
 		"textAlignment"		"west"
@@ -47,7 +47,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"labelText"		"#ServerBrowser_Close"
 		"textAlignment"		"west"
@@ -68,7 +68,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"labelText"		"#ServerBrowser_Refresh"
 		"textAlignment"		"west"
@@ -89,7 +89,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#ServerBrowser_AlertWhenSlotIsFree"
 		"textAlignment"		"west"
@@ -108,7 +108,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"#ServerBrowser_AutoRetry"
 		"textAlignment"		"west"
@@ -129,7 +129,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#ServerBrowser_AlertMeWhenSlotOpens"
 		"textAlignment"		"west"
@@ -151,7 +151,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#ServerBrowser_JoinWhenSlotOpens"
 		"textAlignment"		"west"
@@ -173,7 +173,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"SysMenu"
@@ -188,7 +188,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"ServerLabel"
@@ -202,7 +202,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#ServerBrowser_ServerName"
 		"textAlignment"		"east"
@@ -221,7 +221,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#ServerBrowser_GameLabel"
 		"textAlignment"		"east"
@@ -240,7 +240,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#ServerBrowser_IPAddressLabel"
 		"textAlignment"		"east"
@@ -259,7 +259,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#ServerBrowser_MapLabel"
 		"textAlignment"		"east"
@@ -278,7 +278,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#ServerBrowser_PlayersLabel"
 		"textAlignment"		"east"
@@ -297,7 +297,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#ServerBrowser_LatencyLabel"
 		"textAlignment"		"east"
@@ -316,7 +316,7 @@
 		"autoResize"		"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"test"
 		"textAlignment"		"west"
@@ -335,7 +335,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Day of Defeat: Source"
 		"textAlignment"		"west"
@@ -373,7 +373,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"dod_anzio"
 		"textAlignment"		"west"
@@ -392,7 +392,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"2 / 2"
 		"textAlignment"		"west"
@@ -411,7 +411,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"12"
 		"textAlignment"		"west"
@@ -430,7 +430,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#ServerBrowser_ValveAntiCheat"
 		"textAlignment"		"east"
@@ -449,7 +449,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#ServerBrowser_Secure"
 		"textAlignment"		"west"

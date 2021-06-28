@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 
@@ -74,7 +74,7 @@
 		"zpos"			"4"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_left"
@@ -91,7 +91,7 @@
 		"zpos"			"4"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_right"
@@ -109,7 +109,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"1"
 		"textAlignment"	"south-west"
 		"dulltext"		"0"
@@ -132,7 +132,7 @@
 		"zpos"			"5"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
@@ -150,7 +150,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"textAlignment"	"south-west"
 		"dulltext"		"0"
@@ -173,7 +173,7 @@
 		"zpos"			"5"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
@@ -194,7 +194,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_Cancel"
 		"textAlignment"	"center"
@@ -216,7 +216,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
@@ -241,7 +241,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Arena_Menu_Fight"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -267,7 +267,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Spectate"
 		"textAlignment"	"north"
 		"dulltext"		"0"
@@ -290,7 +290,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fov"			"20"
 		
 		"model"
@@ -326,7 +326,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 			
 		"fillcolor"		"0 0 0 180"
 		"PaintBackgroundType"	"0"
@@ -344,7 +344,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fov"			"20"
 		
 		"model"
@@ -393,7 +393,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fov"			"20"
 		
 		"model"

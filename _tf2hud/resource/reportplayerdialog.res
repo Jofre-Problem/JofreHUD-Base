@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"medal_width"			"20"
@@ -31,7 +31,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 	}
 	"ReportButton"
@@ -45,7 +45,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"labelText"			"#GameUI_ReportPlayer"
 		"textAlignment"		"west"
@@ -66,7 +66,7 @@
 		
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"			"0"
@@ -85,7 +85,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_Close"
 		"textAlignment"		"west"

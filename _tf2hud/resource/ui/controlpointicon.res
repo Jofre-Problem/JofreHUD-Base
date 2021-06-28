@@ -12,7 +12,7 @@
 		"tall"		"33"
 		"tall_minmode"		"21"
 		"visible"	"1"
-		"enabled"	"1"
+		
 	}
 	
 	"Countdown"
@@ -27,7 +27,7 @@
 		"tall"		"33"
 		"tall_minmode"		"21"
 		"visible"	"1"
-		"enabled"	"1"
+		
 	}	
 
 	"CapPlayerImage"
@@ -44,7 +44,7 @@
 		"tall"		"20"
 		"tall_minmode"		"14"
 		"visible"	"0"
-		"enabled"	"1"
+		
 		"image"		"capture_icon"
 		"scaleImage"	"1"
 	}
@@ -67,7 +67,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#ControlPointIconCappers"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -88,7 +88,7 @@
 		"tall"		"14"
 		"tall_minmode"		"9"
 		"visible"	"0"
-		"enabled"	"1"
+		
 		"image"		"capture_icon"
 		"scaleImage"	"1"
 	}
@@ -104,7 +104,7 @@
 		"wide_minmode"			"7"
 		"tall"			"20"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"60"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -126,7 +126,7 @@
 		"tall"		"33"
 		"tall_minmode"		"21"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../sprites/obj_icons/icon_obj_timer"	
 		"scaleImage"	"1"	
 	}

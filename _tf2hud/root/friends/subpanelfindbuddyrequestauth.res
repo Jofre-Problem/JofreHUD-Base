@@ -3,7 +3,7 @@
 	"EditBox"
 	{
 		"tabPosition"		"1"
-		"enabled"		"1"
+		
 		"visible"		"1"
 		"BgColor"		"100 100 100 255"
 		"FgColor"		"255 170 0 255"
@@ -19,7 +19,7 @@
 		"textAlignment"		"west"
 		"labelText"		""
 		
-		"enabled"		"1"
+		
 		"visible"		"1"
 		"BgColor"		"70 70 70 255"
 		"FgColor"		"255 170 0 255"

@@ -10,7 +10,7 @@
 		"wide"			"470"
 		"tall"			"170"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"
 		"iconColor"		"255 255 255 255"
@@ -30,7 +30,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Disguise_Title"
 		"textAlignment"	"north-west"
 		"dulltext"		"0"
@@ -51,7 +51,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Disguise_Title"
 		"textAlignment"	"north-west"
 		"dulltext"		"1"
@@ -70,7 +70,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 			
 		"fillcolor"		"0 0 0 150"
 		"PaintBackgroundType"	"0"
@@ -96,7 +96,7 @@
 			"wide"			"45"
 			"tall"			"110"		
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"	
 			"icon"			"hud_menu_item_bg_outline"
 			"iconColor"		"ProgressOffWhite"
@@ -332,7 +332,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_toggle_function"
 	}
@@ -350,7 +350,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Spy_Toggle"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -369,7 +369,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
 	}
@@ -387,7 +387,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Spy_Select_Disguise"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -406,7 +406,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_cancel"
 	}
@@ -424,7 +424,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Cancel"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -442,7 +442,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 			
 		"fillcolor"		"0 0 0 190"
 		"PaintBackgroundType"	"0"
@@ -460,7 +460,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_left"
 	}
@@ -477,7 +477,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"B"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_right"

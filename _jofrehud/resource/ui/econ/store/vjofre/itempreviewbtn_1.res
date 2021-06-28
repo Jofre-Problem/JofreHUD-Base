@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"border"		"StorePreviewTabSelected"
 		
 		"SubButton"
@@ -27,7 +27,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#Store_PreviewItem"
 			"font"			"HudFontSmallestBold"

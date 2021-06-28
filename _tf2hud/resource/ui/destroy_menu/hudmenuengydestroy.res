@@ -10,7 +10,7 @@
 		"wide"			"450"
 		"tall"			"170"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"
 		"iconColor"		"255 255 255 255"
@@ -38,7 +38,7 @@
 		"wide"			"64"
 		"tall"			"64"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_demolish"
 		"iconColor"		"255 255 255 255"
@@ -58,7 +58,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_menu_demolish_title"
 		"textAlignment"	"Left"
 		"dulltext"		"1"
@@ -78,7 +78,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_menu_demolish_title"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -98,7 +98,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Build_Cancel"
 		"textAlignment"	"East"
 		"dulltext"		"0"

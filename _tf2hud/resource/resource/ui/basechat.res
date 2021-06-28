@@ -5,7 +5,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName" 		"HudChat"
 		"visible" 		"1"
-		"enabled" 		"1"
+		
 		"xpos"			"10"	[$WIN32]
 		"xpos"			"42"	[$X360]
 		"ypos"			"275"
@@ -20,7 +20,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName" 		ChatInputLine
 		"visible" 		"1"
-		"enabled" 		"1"
+		
 		"xpos"			"10"	[$WIN32]
 		"xpos"			"42"	[$X360]
 		"ypos"			"395"
@@ -40,7 +40,7 @@
 		"autoResize"		"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#chat_filterbutton"
 		"textAlignment"		"center"
@@ -63,7 +63,7 @@
 		"autoResize"		"1"
 		"pinCorner"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		""
 		"textAlignment"		"south-west"
 		"font"			"ChatFont"

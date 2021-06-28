@@ -10,7 +10,7 @@
 		"wide"			"150"
 		"tall"			"50"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"border"		"TFFatLineBorderOpaque"
 	}
 
@@ -28,7 +28,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"labelText"		""
 		"textAlignment"	"North"

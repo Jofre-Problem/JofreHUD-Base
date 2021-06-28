@@ -9,7 +9,7 @@
 	{
 		"fieldName"				"ItemRenameConfirmationDialog"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-200"
 		"ypos"					"105"
 		"wide"					"400"
@@ -33,7 +33,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override"	"235 226 202 255"
 	}
 }

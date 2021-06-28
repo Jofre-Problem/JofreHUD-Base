@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"Demo Playback - "
@@ -69,7 +69,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Load..."
 		"textAlignment"		"center"
@@ -213,7 +213,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"DemoProgressLabelFrame"
@@ -227,7 +227,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Tick: 0 / 0"
 		"textAlignment"		"west"
@@ -246,7 +246,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Time: 00:00 / 00:00"
 		"textAlignment"		"west"
@@ -265,7 +265,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"SpeedScale"
@@ -279,7 +279,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"100.0 %"
 		"textAlignment"		"west"

@@ -14,7 +14,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"1"
 		"textAlignment"	"Center"
 		"dulltext"		"1"

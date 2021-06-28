@@ -6,6 +6,6 @@
 		"fieldName"		"DistanceLabel"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}	
 }	

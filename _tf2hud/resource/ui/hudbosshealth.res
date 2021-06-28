@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"image"			"../hud/halloween_bar_surround"
 		"scaleImage"	"1"					
@@ -28,7 +28,7 @@
 		"wide"			"168"
 		"tall"			"18"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"BarImage"
 		{
@@ -42,7 +42,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"image"			"../hud/halloween_bar"
 			"scaleImage"	"1"					
@@ -62,7 +62,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"

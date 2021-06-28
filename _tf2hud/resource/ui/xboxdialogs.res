@@ -46,7 +46,7 @@
 		"wide"			"720"
 		"tall"			"35"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -66,7 +66,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fillcolor"		"0 0 0 128"
 	}
 	"OptionsBackgroundRight"
@@ -83,7 +83,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fillcolor"		"0 0 0 128"
 	}
 	
@@ -102,7 +102,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"paintBackgroundType" "3"
 	}
 	"OptionsSelectionLeft2"
@@ -120,7 +120,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"paintBackgroundType" "3"
 	}
 	
@@ -137,7 +137,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#GameUI_Icons_UPCURSOR"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -158,7 +158,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#GameUI_Icons_DOWNCURSOR"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -182,7 +182,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -206,7 +206,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -230,7 +230,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"progress"		"0.5"
 	}	
@@ -639,7 +639,7 @@
 		"fillcolor"	"0 0 0 64"
 		"zpos"	"10"
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	
 	"PercentageBar" //dark grey current completed
@@ -653,7 +653,7 @@
 		"fillcolor"	"255 255 255 255"
 		"zpos"	"20"
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	
 	"PercentageText" //Percent Text inside the percentage field
@@ -668,7 +668,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"0%"
 		"textAlignment"		"center"
@@ -3700,7 +3700,7 @@
 		
 		
 		"visible"				"1"
-		"enabled"				"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"title"					"#GameUI_NewGame"
@@ -3718,7 +3718,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		"labelText"			"#GameUI_Icons_LEFTCURSOR"
 		"textAlignment"		"center"
 		"dulltext"			"0"
@@ -3739,7 +3739,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		"labelText"			"#GameUI_Icons_RIGHTCURSOR"
 		"textAlignment"		"center"
 		"dulltext"			"0"
@@ -3761,7 +3761,7 @@
 		
 		
 		"visible"			"0"
-		"enabled"			"1"
+		
 		"labelText"			"#GameUI_Icons_UPCURSOR"
 		"textAlignment"		"center"
 		"dulltext"			"0"
@@ -3783,7 +3783,7 @@
 		
 		
 		"visible"			"0"
-		"enabled"			"1"
+		
 		"labelText"			"#GameUI_Icons_DOWNCURSOR"
 		"textAlignment"		"center"
 		"dulltext"			"0"
@@ -3807,7 +3807,7 @@
 		
 		
 		"visible"			"0"
-		"enabled"			"1"
+		
 		"fillcolor"			"0 0 0 128"
 	}
 	"BonusSelectionLabel"
@@ -3825,7 +3825,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -3862,7 +3862,7 @@
 		//"wide_hidef"		"64"
 		"tall"				"30"
 		"visible"			"0"
-		"enabled"			"1"
+		
 		
 		"textAlignment"		"north"
 		"wrap"				"1"
@@ -3896,7 +3896,7 @@
 		//"wide_hidef"		"64"
 		"tall"				"30"
 		"visible"			"0"
-		"enabled"			"1"
+		
 		
 		"textAlignment"		"north"
 		"wrap"				"1"
@@ -3914,7 +3914,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -3933,7 +3933,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -4018,7 +4018,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	"LevelPic"
 	{
@@ -4038,7 +4038,7 @@
 		"scaleAmount"		"0.72"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fillcolor"		"0 0 0 0"
 	}
 	"ChallengeNextMedal"
@@ -4071,7 +4071,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -4093,7 +4093,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -4115,7 +4115,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -4140,7 +4140,7 @@
 		
 		
 		"visible"			"0"
-		"enabled"			"1"
+		
 		
 		"image"				"hud/icon_commentary_small"
 		"scaleImage"		"0"
@@ -4164,7 +4164,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 	}
 
@@ -4182,7 +4182,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"paintbackground"	"1"
 		"bgcolor"		"46 43 42 255"
@@ -4200,7 +4200,7 @@
 		"tall"				"20"
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		"textAlignment"		"west"
 	}
 	

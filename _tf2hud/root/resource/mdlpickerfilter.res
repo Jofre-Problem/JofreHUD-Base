@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		
 		"MDLBrowser"
@@ -27,7 +27,7 @@
 			"UnpinnedCornerOffsetX" "-6"
 			"UnpinnedCornerOffsetY" "-34"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 		}
 		
@@ -46,7 +46,7 @@
 			"UnpinnedCornerOffsetX" "-6"
 			"UnpinnedCornerOffsetY" "-6"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"textHidden"	"0"
 			"editable"		"1"

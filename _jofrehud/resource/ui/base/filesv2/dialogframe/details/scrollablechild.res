@@ -34,7 +34,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 					"fgcolor"		"118 107 94 255"
 				}		
@@ -51,7 +51,7 @@
 					
 					
 					"visible"		"0"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 					"fgcolor"		"200 80 60 255"
 				}		
@@ -68,7 +68,7 @@
 					
 					
 					"visible"		"0"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 					"fgcolor"		"200 80 60 255"
 				}		
@@ -85,7 +85,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 					"fgcolor"		"173 165 146 255"
 				}		
@@ -102,7 +102,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 				}		
 				
@@ -118,7 +118,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 					"fgcolor"		"173 165 146 255"
 				}		
@@ -135,7 +135,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 				}		
 				
@@ -150,7 +150,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 					"labeltext"		"%armory_text%"
 				}			
@@ -166,7 +166,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"wrap"			"1"
 				}
 				
@@ -180,7 +180,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 					"labelText"		"#Store_ItemDesc_ItemWikiPage"
 					"font"			"HudFontSmallestBold"

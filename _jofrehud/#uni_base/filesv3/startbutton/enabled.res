@@ -2,6 +2,6 @@
 {
 	"StartButton"
 	{
-		"enabled"		"1"
+		
 	}	
 }	

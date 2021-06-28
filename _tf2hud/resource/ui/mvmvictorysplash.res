@@ -21,7 +21,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/ammo_red_bg"
 		}
 		

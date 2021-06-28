@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"paintbackground"		"1"
 		"labelText"		"#Friends_PlaySoundWhenFriendJoins"
@@ -31,7 +31,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#Friends_PlaySoundWhenFriendComesOnline"
@@ -51,7 +51,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"paintbackground"		"1"
 		"labelText"		"#Friends_PlaySoundWhenReceiveAMessage"

@@ -26,7 +26,7 @@
 			"wide"			"o1"
 			"tall"			"60"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -64,7 +64,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
@@ -89,7 +89,7 @@
 				"wide"			"11"
 				"tall"			"11"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"button_load"
 				"scaleImage"	"1"
 			}
@@ -107,7 +107,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
@@ -132,7 +132,7 @@
 				"wide"			"11"
 				"tall"			"11"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"button_save"
 				"scaleImage"	"1"
 			}
@@ -150,7 +150,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"?"
 			"font"			"HudFontSmallBold"

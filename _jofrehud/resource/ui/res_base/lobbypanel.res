@@ -55,7 +55,7 @@
 			"tall"		"40"
 			"textAlignment"	"center"
 			"visible"	"1"
-			"enabled"	"1"
+			
 			"proportionaltoparent"	"1"
 		}
 
@@ -72,7 +72,7 @@
 			"tall"		"40"
 			"textAlignment"	"center"
 			"visible"	"1"
-			"enabled"	"1"
+			
 			"proportionaltoparent"	"1"
 		}
 
@@ -86,7 +86,7 @@
 			"wide"			"o1"
 			"tall"			"80"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"animated/tf2_logo_hourglass"
 		
 			"proportionaltoparent"	"1"
@@ -120,7 +120,7 @@
 			"tall"		"40"
 			"textAlignment"	"center"
 			"visible"	"1"
-			"enabled"	"1"
+			
 			"proportionaltoparent"	"1"
 		}
 
@@ -137,7 +137,7 @@
 			"tall"		"40"
 			"textAlignment"	"center"
 			"visible"	"1"
-			"enabled"	"1"
+			
 			"proportionaltoparent"	"1"
 		}
 
@@ -151,7 +151,7 @@
 			"wide"			"o1"
 			"tall"			"80"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"animated/tf2_logo_hourglass"
 		
 			"proportionaltoparent"	"1"
@@ -185,7 +185,7 @@
 			"tall"		"40"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			"enabled"	"1"
+			
 		}
 
 		"NearbyColumnHead"
@@ -201,7 +201,7 @@
 			"tall"		"20"
 			"textAlignment"	"south-east"
 			"visible"	"1"
-			"enabled"	"1"
+			
 		}
 
 		"WorldwideColumnHead"
@@ -217,7 +217,7 @@
 			"tall"		"20"
 			"textAlignment"	"south-east"
 			"visible"	"1"
-			"enabled"	"1"
+			
 		}
 
 		"PlayersInGameLabel"
@@ -233,7 +233,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			"enabled"	"1"
+			
 		}
 
 		"PlayersInGameTotalLabel"
@@ -249,7 +249,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			"enabled"	"1"
+			
 		}
 
 			"PlayersInGameTotalNearbyValue"
@@ -264,7 +264,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				"enabled"	"1"
+				
 				"labelText"		"?"
 			}
 
@@ -280,7 +280,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				"enabled"	"1"
+				
 				"labelText"		"?"
 			}
 
@@ -297,7 +297,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			"enabled"	"1"
+			
 		}
 
 			"PlayersInGameMatchingNearbyValue"
@@ -312,7 +312,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				"enabled"	"1"
+				
 				"labelText"		"?"
 			}
 
@@ -328,7 +328,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				"enabled"	"1"
+				
 				"labelText"		"?"
 			}
 
@@ -345,7 +345,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			"enabled"	"1"
+			
 		}
 
 		"PlayersSearchingTotalLabel"
@@ -361,7 +361,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			"enabled"	"1"
+			
 		}
 
 			"PlayersSearchingTotalNearbyValue"
@@ -376,7 +376,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				"enabled"	"1"
+				
 				"labelText"		"?"
 			}
 
@@ -392,7 +392,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				"enabled"	"1"
+				
 				"labelText"		"?"
 			}
 
@@ -409,7 +409,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			"enabled"	"1"
+			
 		}
 
 			"PlayersSearchingMatchingNearbyValue"
@@ -424,7 +424,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				"enabled"	"1"
+				
 				"labelText"		"?"
 			}
 
@@ -440,7 +440,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				"enabled"	"1"
+				
 				"labelText"		"?"
 			}
 
@@ -457,7 +457,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			"enabled"	"1"
+			
 		}
 
 			"EmptyGameserversMatchingNearbyValue"
@@ -472,7 +472,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				"enabled"	"1"
+				
 				"labelText"		"?"
 			}
 
@@ -488,7 +488,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				"enabled"	"1"
+				
 				"labelText"		"?"
 			}
 
@@ -502,7 +502,7 @@
 			"wide"		"340"
 			"tall"		"100"
 			"visible"	"0"
-			"enabled"	"1"
+			
 
 			"PartyLowPriorityImage"
 			{
@@ -514,7 +514,7 @@
 				"wide"			"50"
 				"tall"			"50"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"mouseinputenabled" "0"
 				"image"			"pve/mvm_timeout_active_large"
 				"scaleImage"	"1"
@@ -532,7 +532,7 @@
 				"tall"		"60"
 				"textAlignment"	"west"
 				"visible"	"1"
-				"enabled"	"1"
+				
 				"wrap"		"1"
 				"fgcolor_override"	"250 114 45 255"
 			}
@@ -549,7 +549,7 @@
 				"tall"		"30"
 				"textAlignment"	"west"
 				"visible"	"1"
-				"enabled"	"1"
+				
 				"wrap"		"1"
 			}
 		}
@@ -613,7 +613,7 @@
 				
 				//"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labelText"		"#TF_Matchmaking_Invite"
 				"font"			"HudFontSmallBold"
@@ -637,7 +637,7 @@
 				"wide"			"25"
 				"tall"			"25"
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"mouseinputenabled" "0"
 				"image"			"../hud/mvm_tours"
 				"scaleImage"	"1"

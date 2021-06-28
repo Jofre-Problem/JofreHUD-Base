@@ -31,7 +31,7 @@
 		
 		"labelText"		"#SteamAddOn_North"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}	
 	"PlayerPositionLabel1"
@@ -46,7 +46,7 @@
 		
 		"labelText"		"#SteamAddOn_East"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}	
 	"PlayerPositionLabel2"
@@ -61,7 +61,7 @@
 		
 		"labelText"		"#SteamAddOn_South"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}	
 	"PlayerPositionLabel3"
@@ -76,7 +76,7 @@
 		
 		"labelText"		"#SteamAddOn_West"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}		
 }

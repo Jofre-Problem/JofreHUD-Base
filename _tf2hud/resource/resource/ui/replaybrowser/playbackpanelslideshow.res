@@ -7,7 +7,7 @@
 		"zpos"			"1"
 		
 		
-		"enabled"		"1"
+		
 		"scaleImage"	"1"
 	}
 	
@@ -22,7 +22,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"fgcolor_override"		"202 190 164 255"
 	}
 }

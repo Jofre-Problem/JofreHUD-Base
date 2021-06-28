@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 
@@ -74,7 +74,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"1"
 		"labelText"		"&1"	[$WIN32]
 		"labelText"		""		[$X360]
@@ -100,7 +100,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"labelText"		"&2"	[$WIN32]
 		"labelText"		""		[$X360]
@@ -129,7 +129,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_Cancel"
 		"textAlignment"	"center"
@@ -157,7 +157,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Arena_Menu_Fight"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -183,7 +183,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Spectate"
 		"textAlignment"	"north"
 		"dulltext"		"0"
@@ -206,7 +206,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fov"			"20"
 		
 		"model"
@@ -242,7 +242,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 			
 		"fillcolor"		"0 0 0 180"
 		"PaintBackgroundType"	"0"
@@ -260,7 +260,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fov"			"20"
 		
 		"model"
@@ -309,7 +309,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fov"			"20"
 		
 		"model"

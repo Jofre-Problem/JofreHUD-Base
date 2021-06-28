@@ -26,7 +26,7 @@
 					
 					
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"labelText"		"%timesused%"
 					"textAlignment"	"north-west"
 					"dulltext"		"0"

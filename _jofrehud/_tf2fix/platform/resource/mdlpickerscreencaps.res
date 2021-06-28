@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 
 		"WidthLabel"
@@ -25,7 +25,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			
 			"labelText"			"Width:"
@@ -45,7 +45,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			"tabPosition"		"1"
 			"labelText"			""
@@ -65,7 +65,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			
 			"labelText"			"Height:"
@@ -85,7 +85,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			"tabPosition"		"3"
 			"labelText"			"Color"
@@ -105,7 +105,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			
 			"labelText"			"Background:"
@@ -124,7 +124,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"5"
 			"labelText"		""
 			"textAlignment"		"west"
@@ -144,7 +144,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			
 			"labelText"			"Output:"
@@ -164,7 +164,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			
 			"labelText"			"."
@@ -184,7 +184,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"6"
 			"labelText"		"&Select"
 			"textAlignment"		"center"
@@ -203,7 +203,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"10"
 			"labelText"		"&Capture"
 			"textAlignment"		"center"
@@ -222,7 +222,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			
 			"labelText"			""
@@ -242,7 +242,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"10"
 			"labelText"		"Generate Backpack Icons"
 			"textAlignment"		"center"
@@ -261,7 +261,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			
 			"labelText"			"Control Key on Capture for Specific Item Only."
@@ -281,7 +281,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			
 			"labelText"			"Control Key on Restore for Specific Prefs Only."
@@ -301,7 +301,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			
 			"labelText"			"Right Click on Model List to select Attachment."
@@ -321,7 +321,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"NumericInputOnly" "1"
 			
 			"labelText"			"Control Key on Model List to Clear Attachment."
@@ -341,7 +341,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"10"
 			"labelText"		"&Save"
 			"textAlignment"		"center"
@@ -360,7 +360,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"		"10"
 			"labelText"		"&Restore"
 			"textAlignment"		"center"

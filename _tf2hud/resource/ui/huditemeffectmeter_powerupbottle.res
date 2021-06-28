@@ -4,7 +4,7 @@
 	{
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"xpos"			"r86"	[$WIN32]
 		"ypos"			"r102"	[$WIN32]
 		"xpos_minmode"	"r70"	[$WIN32]
@@ -26,13 +26,13 @@
 		"tall"			"56"
 		"visible"		"1"
 		"visible_minmode"	"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/misc_ammo_area_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_red"
-		//"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
+		
 		"teambg_3"		"../hud/misc_ammo_area_blue"
-		//"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"				
+			
 	}
 	
 	"ItemEffectIcon"
@@ -49,7 +49,7 @@
 		"tall"			"27"
 		"tall_minmode"	"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/ico_powerup_critboost_red"
 		"scaleImage"	"1"
 	}
@@ -66,7 +66,7 @@
 		"autoResize"			"1"
 		"pinCorner"				"2"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		
 		"labelText"				"#TF_Ball"
 		"textAlignment"			"north"
@@ -108,7 +108,7 @@
 		"tall"					"20"	
 		"pinCorner"				"2"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		
 		"labelText"				"%progresscount%"
 		"textAlignment"			"north"

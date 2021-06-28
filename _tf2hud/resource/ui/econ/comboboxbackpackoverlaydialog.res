@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"ComboBoxBackpackOverlayDialogBase"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c-140"
 		"ypos"					"105"
 		"wide"					"280"
@@ -30,7 +30,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"centerwrap"	"1"
 	}
 
@@ -44,7 +44,7 @@
 		"wide"			"160"
 		"tall"			"120"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"bgcolor_override"		"0 0 0 0"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
@@ -78,7 +78,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		"tabPosition"		"1"
 		"textHidden"		"0"
 		"editable"			"0"
@@ -107,7 +107,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
@@ -132,7 +132,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_OK"
 		"font"			"HudFontSmallBold"

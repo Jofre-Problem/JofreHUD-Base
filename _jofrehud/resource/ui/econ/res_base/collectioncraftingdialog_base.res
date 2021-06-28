@@ -45,7 +45,7 @@
 	{
 		"fieldName"				"CollectionCraftingPanel"
 		"visible"				"0"
-		"enabled"				"1"
+		
 		"xpos"					"cs-0.5"
 		"ypos"					"cs-0.5"
 		"zpos"					"101"
@@ -98,7 +98,7 @@
 				"wide"			"p0.8"
 				"tall"			"f0"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"labelText"		"#TF_CollectionCrafting_AttachItem"
 				"mouseinputenabled" "0"
 				"paintbackground"	"0"
@@ -118,7 +118,7 @@
 				"wide"			"o1"
 				"tall"			"p0.8"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"labelText"		""
 				"font"			"HudFontSmall"
 				"textAlignment"	"center"
@@ -154,7 +154,7 @@
 					"wide"			"o1"
 					"tall"			"p1.5"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"trade_ups/trade_ups_attach_box"
 					"scaleImage"	"1"
 					"proportionaltoparent" "1"
@@ -230,7 +230,7 @@
 			"fieldName"				"Border"
 			"ControlName"			"EditablePanel"
 			"visible"				"1"
-			"enabled"				"1"
+			
 			"xpos"					"cs-0.5"
 			"ypos"					"cs-0.5"
 			"zpos"					"1"
@@ -263,7 +263,7 @@
 		"fieldName"				"LetterBack_Bottom"
 		"ControlName"			"ImagePanel"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"cs-0.5"
 		"ypos"					"35"
 		"zpos"					"1"
@@ -280,7 +280,7 @@
 		"fieldName"				"LetterBack_Top"
 		"ControlName"			"ImagePanel"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"cs-0.5"
 		"ypos"					"35"
 		"zpos"					"3"
@@ -297,7 +297,7 @@
 		"fieldName"				"LetterBack_Flap"
 		"ControlName"			"ImagePanel"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"cs-0.5"
 		"ypos"					"35"
 		"zpos"					"4"
@@ -369,7 +369,7 @@
 		"tall"			"30"
 			
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_CollectionCrafting_WaitingForResponse"
 		"textAlignment"	"center"
 		"mouseinputenabled" "0"
@@ -392,7 +392,7 @@
 		"tall"			"30"
 			
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_CollectionCrafting_ReponseTimeout"
 		"textAlignment"	"center"
 		"centerwrap"	"1"
@@ -428,7 +428,7 @@
 			"tall"			"50"
 				
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%resultstring%"
 			"mouseinputenabled" "0"
 			"paintbackground"	"0"
@@ -479,7 +479,7 @@
 			"wide"			"p0.7"
 			"tall"			"p0.4"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"item_carousel_bg"
 			"scaleImage"	"1"
 			"proportionaltoparent" "1"
@@ -602,7 +602,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
@@ -638,7 +638,7 @@
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 				"proportionaltoparent" "1"
@@ -657,7 +657,7 @@
 			
 			
 			"visible"			"0"
-			"enabled"			"1"
+			
 			"proportionaltoparent"	"1"
 		
 			"auto_scale"		"1"
@@ -674,7 +674,7 @@
 				
 				"pinCorner"			"2"
 				"visible"			"0"
-				"enabled"			"1"
+				
 				
 				"labelText"			""
 				"textAlignment"		"south-west"
@@ -712,7 +712,7 @@
 					"wide"			"19"
 					"tall"			"19"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"scaleImage"	"1"
 				}				
 			}
@@ -760,7 +760,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"mouseinputenabled" "0"
 		"proportionaltoparent"	"1"
 
@@ -789,7 +789,7 @@
 		"fieldName"				"LetterFront"
 		"ControlName"			"ImagePanel"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"cs-0.5"
 		"ypos"					"60"
 		"zpos"					"3"
@@ -806,7 +806,7 @@
 		"fieldName"				"Stamp"
 		"ControlName"			"ImagePanel"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"c150"
 		"ypos"					"63"
 		"zpos"					"4"
@@ -830,7 +830,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_CollectionCrafting_ApplyStamp"
 		"font"			"HudFontSmallest"
@@ -864,7 +864,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Send"
 		"font"			"HudFontSmall"
@@ -889,7 +889,7 @@
 		"fieldName"				"TradeUpContainer"
 		"ControlName"			"EditablePanel"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"cs-0.5"
 		"ypos"					"s-1"
 		"zpos"					"2"
@@ -956,7 +956,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"labelText"		"#TF_CollectionCrafting_Submit"
 				"font"			"HudFontSmall"
@@ -991,7 +991,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_CollectionCrafting_NextItem"
 		"font"			"HudFontSmall"
@@ -1016,7 +1016,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"?"
 		"font"			"HudFontSmall"
@@ -1041,7 +1041,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"?"
 		"font"			"HudFontSmall"
@@ -1066,7 +1066,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"?"
 		"font"			"HudFontSmall"
@@ -1116,7 +1116,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1135,7 +1135,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1152,7 +1152,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
@@ -1182,7 +1182,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1202,7 +1202,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 		}
 		"NextButton"
@@ -1217,7 +1217,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
@@ -1247,7 +1247,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -1290,7 +1290,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1309,7 +1309,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "46 43 42 255"
@@ -1327,7 +1327,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
@@ -1357,7 +1357,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1374,7 +1374,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
@@ -1405,7 +1405,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -1425,7 +1425,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "200 80 60 255"
 		}	
@@ -1468,7 +1468,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1487,7 +1487,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "46 43 42 255"
@@ -1505,7 +1505,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
@@ -1535,7 +1535,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1555,7 +1555,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "200 80 60 255"
 		}
@@ -1571,7 +1571,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
@@ -1602,7 +1602,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -1645,7 +1645,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1664,7 +1664,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "46 43 42 255"
@@ -1682,7 +1682,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
@@ -1712,7 +1712,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1729,7 +1729,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
@@ -1760,7 +1760,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -1780,7 +1780,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "200 80 60 255"
 		}

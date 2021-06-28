@@ -2,6 +2,6 @@
 {
 	"classimage"
 	{
-		"enabled"	"1"
+		
 	}
 }	

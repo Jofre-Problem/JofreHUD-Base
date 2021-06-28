@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"SysMenu"
@@ -25,7 +25,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"BoardCheckers"
@@ -39,7 +39,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"ChatTextLog"
@@ -70,7 +70,7 @@
 		"autoResize"		"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -88,7 +88,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#SteamAddOn_Btn_Send"
 		"textAlignment"		"west"
@@ -145,7 +145,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#SteamAddOn_Btn_ShowHistory"
 		"textAlignment"		"west"
@@ -164,7 +164,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Last Move made at:"
 		"textAlignment"		"west"
@@ -182,7 +182,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Turn: 1"
 		"textAlignment"		"west"
@@ -200,7 +200,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"WhiteIcon"
@@ -214,7 +214,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"RedName"

@@ -15,7 +15,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_ReverseMouse"
 		"textAlignment"		"west"
@@ -44,7 +44,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_MouseFilter"
 		"textAlignment"		"west"
@@ -73,7 +73,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_MouseRaw"
 		"textAlignment"		"west"
@@ -102,7 +102,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"	[!$OSX]
+			[!$OSX]
 		"enabled"		"0" [$OSX]
 		
 		"labelText"		"#GameUI_MouseAcceleration"
@@ -131,7 +131,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_JoystickLabel"
 		"textAlignment"		"west"
@@ -243,7 +243,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
@@ -262,7 +262,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -285,7 +285,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"	[!$OSX]
+			[!$OSX]
 		"enabled"		"0" [$OSX]
 		
 		"leftText"		"Low"
@@ -306,7 +306,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"	[!$OSX]
+			[!$OSX]
 		"enabled"		"0" [$OSX]
 		
 		"textHidden"		"0"
@@ -423,7 +423,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -445,7 +445,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"textHidden"		"0"
 		"editable"		"1"
@@ -467,7 +467,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_MouseSensitivity"
 		"textAlignment"		"west"
@@ -495,7 +495,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_HudQuickInfo_Info"
 		"textAlignment"		"west"
@@ -522,7 +522,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"BuildModeDialog"
@@ -539,7 +539,7 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"

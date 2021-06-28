@@ -10,7 +10,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportionaltoparent" "1"
 
 		"ItemAd"
@@ -23,7 +23,7 @@
 			"wide"					"p0.9"
 			"tall"					"60"
 			"visible"				"0"
-			"enabled"				"1"
+			
 			"scaleImage"			"1"
 			"proportionaltoparent"	"1"
 
@@ -49,7 +49,7 @@
 			"wide"		"f0"
 			"tall"		"f0"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"textAlignment"	"east"
 			"labelText"			""
 
@@ -70,7 +70,7 @@
 		"wide"			"f0"
 		"tall"			"o1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"
 		"image"			"contracts\contracts_base1"
 		"proportionaltoparent"	"1"
@@ -93,7 +93,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"centerwrap"	"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"

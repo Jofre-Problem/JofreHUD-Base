@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"QueueHUDStatus"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"xpos"					"rs1-5"
 		"ypos"					"1"
 		"zpos"					"1001"

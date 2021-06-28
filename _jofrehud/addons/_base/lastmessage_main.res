@@ -10,7 +10,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Last message received at:"
 		"textAlignment"		"west"

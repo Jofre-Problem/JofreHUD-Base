@@ -24,7 +24,7 @@
 		"wide"			"f20"
 		"tall"			"30"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "TanLight"
 		"proportionaltoparent"	"1"
 	}
@@ -42,7 +42,7 @@
 		"wide"			"f20"
 		"tall"			"30"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "Orange"
 		"proportionaltoparent"	"1"
 	}
@@ -116,7 +116,7 @@
 			"wide"			"f20"
 			"tall"			"30"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "TanLight"
 			"proportionaltoparent"	"1"
 		}
@@ -163,7 +163,7 @@
 			"wide"			"f20"
 			"tall"			"30"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "CreditsGreen"
 			"proportionaltoparent"	"1"
 		}
@@ -210,7 +210,7 @@
 			"wide"			"f20"
 			"tall"			"30"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "RedSolid"
 			"proportionaltoparent"	"1"
 			"centerwrap"	"1"
@@ -240,7 +240,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#GameUI_CancelBold"
 		"font"			"EconFontSmall"
@@ -273,7 +273,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_QuestView_RedeemReward"
 		"font"			"EconFontSmall"

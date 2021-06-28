@@ -83,7 +83,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -171,7 +171,7 @@
 		"xpos"		"10"
 		"ypos"		"208"
 		"wide"		"80"
-		"enabled"		"1"
+		
 		"tabPosition"		"12"
 		"labelText"		"Save game"
 	}
@@ -181,7 +181,7 @@
 		"ypos"		"235"
 		"wide"		"80"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"Include .bsp"
 		"Command"		"savebsp"
 	}
@@ -192,7 +192,7 @@
 		"wide"		"31"
 		"tall"		"23"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		".vmf"
 		"font"		"DefaultVerySmall"
 		"Command"		"savevmf"
@@ -209,7 +209,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Folder..."
 		"textAlignment"		"west"

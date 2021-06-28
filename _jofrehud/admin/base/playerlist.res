@@ -4,7 +4,7 @@
 	{
 		"fieldName"		"Player List"
 		
-		"enabled"		"1"
+		
 		
 	}
 }

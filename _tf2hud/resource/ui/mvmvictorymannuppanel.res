@@ -33,7 +33,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
 			"fgcolor"		"117 107 94 255"
@@ -52,7 +52,7 @@
 		"tall"			"25"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#DoneButton"
 		"font"			"HudFontSmallBold"
@@ -92,7 +92,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 			
 		"PaintBackgroundType" "2"
 		"bgcolor_override"	"42 39 37 255"
@@ -108,7 +108,7 @@
 		"wide"			"f0"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
 
@@ -127,7 +127,7 @@
 		"wide"			"f0"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
 
@@ -159,7 +159,7 @@
 			"tall"			"f0"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"42 41 39 255"
 			"PaintBackgroundType"	"2"
@@ -178,7 +178,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
@@ -197,7 +197,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
@@ -216,7 +216,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
@@ -235,7 +235,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
@@ -254,7 +254,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"

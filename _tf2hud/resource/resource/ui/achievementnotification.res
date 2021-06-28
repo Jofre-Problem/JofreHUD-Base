@@ -12,7 +12,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"
 		"paintbackgroundtype"	"2"
 	}
@@ -26,7 +26,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			""
 	}
@@ -43,7 +43,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%heading%"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -62,7 +62,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%title%"
 		"textAlignment"	"center"
 		"dulltext"		"0"

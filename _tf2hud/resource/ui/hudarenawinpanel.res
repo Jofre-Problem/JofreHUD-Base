@@ -21,7 +21,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/winpanel_blue_bg_team"
 			//"image_lodef"	"../hud/winpanel_blue_bg_team_lodef"
 			"scaleImage"		"1"
@@ -37,7 +37,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../hud/winpanel_red_bg_team"
 			//"image_lodef"	"../hud/winpanel_red_bg_team_lodef"
 			"scaleImage"		"1"
@@ -58,7 +58,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"BlueTeamScore"
 		{
@@ -72,12 +72,12 @@
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"50"
-			//"tall_lodef"	"80"
+			
 			//"tall_hidef"	"75"
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"BlueTeamScoreDropshadow"
 		{
@@ -92,12 +92,12 @@
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"50"
-			//"tall_lodef"	"80"
+			
 			//"tall_hidef"	"75"
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"RedTeamLabel"
 		{
@@ -115,7 +115,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}							
 		"RedTeamScore"
 		{
@@ -129,12 +129,12 @@
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"50"
-			//"tall_lodef"	"80"
+			
 			//"tall_hidef"	"75"
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"RedTeamScoreDropshadow"
 		{
@@ -149,12 +149,12 @@
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"50"
-			//"tall_lodef"	"80"
+			
 			//"tall_hidef"	"75"
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}		
 
 	
@@ -170,7 +170,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"../HUD/tournament_panel_black"
 			"scaleImage"		"1"
 	
@@ -195,7 +195,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%arenastreaktext%"
 			"textAlignment"		"Center"
 			"dulltext"		"0"
@@ -213,7 +213,7 @@
 		"wide"			"700"
 		"tall"			"174"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"		"1"	
 	}
 	"WinningTeamLabel"
@@ -229,7 +229,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%WinningTeamLabel%"
 		"textAlignment"		"Center"
 		"dulltext"		"0"
@@ -249,7 +249,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%WinningTeamLabel%"
 		"textAlignment"		"Center"
 		"dulltext"		"0"
@@ -269,7 +269,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%LosingTeamLabel%"
 		"textAlignment"		"Center"
 		"dulltext"		"0"
@@ -289,7 +289,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%LosingTeamLabel%"
 		"textAlignment"		"Center"
 		"dulltext"		"0"
@@ -308,7 +308,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%WinReasonLabel%"
 		"textAlignment"		"Center"
 		"dulltext"		"0"
@@ -327,7 +327,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%DetailsLabel%"
 		"textAlignment"		"Center"
 		"dulltext"		"0"
@@ -345,7 +345,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 			
 		"fillcolor"		"0 0 0 150"
 		//"fillcolor_lodef"		"0 0 0 200"
@@ -364,7 +364,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%TopPlayersLabel%"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -383,7 +383,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Arena_Winpanel_DamageThisRound"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -402,7 +402,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Arena_Winpanel_HealingThisRound"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -421,7 +421,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Arena_Winpanel_TimeAliveThisRound"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -440,7 +440,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Arena_Winpanel_KillingBlows"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -458,7 +458,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 			
 		"fillcolor"		"250 234 201 255"
 		"PaintBackgroundType"	"0"
@@ -484,7 +484,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			""
 			"scaleImage"		"1"	
 			"color_outline"		"52 48 45 255"
@@ -500,7 +500,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"west"
 			"dulltext"		"0"
@@ -517,7 +517,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"west"
 			"dulltext"		"0"
@@ -534,7 +534,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -551,7 +551,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -568,7 +568,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -585,7 +585,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -600,7 +600,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			""
 			"scaleImage"		"1"	
 			"color_outline"		"52 48 45 255"
@@ -616,7 +616,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"west"
 			"dulltext"		"0"
@@ -633,7 +633,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"west"
 			"dulltext"		"0"
@@ -650,7 +650,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -667,7 +667,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -684,7 +684,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -701,7 +701,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -716,7 +716,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			""
 			"scaleImage"		"1"	
 			"color_outline"		"52 48 45 255"
@@ -732,7 +732,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"west"
 			"dulltext"		"0"
@@ -749,7 +749,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"west"
 			"dulltext"		"0"
@@ -766,7 +766,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -783,7 +783,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -800,7 +800,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -817,7 +817,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -844,7 +844,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			""
 			"scaleImage"		"1"	
 			"color_outline"		"52 48 45 255"
@@ -860,7 +860,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"west"
 			"dulltext"		"0"
@@ -877,7 +877,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"west"
 			"dulltext"		"0"
@@ -894,7 +894,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -911,7 +911,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -928,7 +928,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -945,7 +945,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -960,7 +960,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			""
 			"scaleImage"		"1"	
 			"color_outline"		"52 48 45 255"
@@ -976,7 +976,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"west"
 			"dulltext"		"0"
@@ -993,7 +993,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"west"
 			"dulltext"		"0"
@@ -1010,7 +1010,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -1027,7 +1027,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -1044,7 +1044,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -1061,7 +1061,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -1076,7 +1076,7 @@
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			""
 			"scaleImage"		"1"	
 			"color_outline"		"52 48 45 255"
@@ -1092,7 +1092,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"west"
 			"dulltext"		"0"
@@ -1109,7 +1109,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"west"
 			"dulltext"		"0"
@@ -1126,7 +1126,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -1143,7 +1143,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -1160,7 +1160,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"
@@ -1177,7 +1177,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"		"east"
 			"dulltext"		"0"

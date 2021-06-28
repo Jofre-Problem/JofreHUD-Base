@@ -9,7 +9,7 @@
 		"wide"		"484"
 		"tall"		"240"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"InfoText"
@@ -21,7 +21,7 @@
 		"wide"		"450"
 		"tall"		"136"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"textAlignment"		"center"
 	}
@@ -34,7 +34,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"labelText"		"#TrackerUI_Close"
 		"textAlignment"		"center"
@@ -50,7 +50,7 @@
 		"wide"		"194"
 		"tall"		"24"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"labelText"		"#TrackerUI_NeverShowThisDialogAgain"
 		"textAlignment"		"center"

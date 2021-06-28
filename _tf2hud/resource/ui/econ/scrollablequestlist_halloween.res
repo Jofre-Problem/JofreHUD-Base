@@ -12,7 +12,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportionaltoparent" "1"
 
 		"SelectButton"
@@ -25,7 +25,7 @@
 			"wide"		"f0"
 			"tall"		"f0"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"textAlignment"	"east"
 			"labelText"			""
 

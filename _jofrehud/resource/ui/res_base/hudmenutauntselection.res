@@ -41,7 +41,7 @@
 		"wide"			"50"
 		"tall"			"50"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_taunt_menu_icon"
 		"iconColor"		"255 255 255 255"
@@ -60,7 +60,7 @@
 	//	
 	//	
 	//	"visible"		"1"
-	//	"enabled"		"1"
+	//	
 		"labelText"		"#Hud_Menu_Taunt_Title"
 	//	"textAlignment"	"Left"
 	//	"dulltext"		"0"

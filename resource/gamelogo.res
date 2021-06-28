@@ -14,7 +14,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"offsetX"		"-20"
 		"offsetY"		"-15"
 	}

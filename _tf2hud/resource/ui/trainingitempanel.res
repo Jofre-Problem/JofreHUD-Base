@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"Background"
@@ -26,7 +26,7 @@
 		"wide"					"620"
 		"tall"					"195"
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"PaintBackgroundType"			"0"
 	}
 	"Image"
@@ -40,7 +40,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"scaleImage"		"1"
 	}
@@ -55,7 +55,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%name%"
 		"textAlignment"		"west"
@@ -74,7 +74,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"%description%"
 		"textAlignment"		"west"
@@ -93,7 +93,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TR_Completed"
 		"textAlignment"		"west"
@@ -114,7 +114,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TR_Not_Completed"
 		"textAlignment"		"west"

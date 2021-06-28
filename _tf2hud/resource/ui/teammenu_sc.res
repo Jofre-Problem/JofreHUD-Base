@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 
@@ -74,7 +74,7 @@
 		"zpos"			"4"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"south-west"
 		
 		"actionSet"		"InGameHUDControls"
@@ -92,7 +92,7 @@
 		"zpos"			"4"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_right"
@@ -110,7 +110,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"3"
 		"labelText"		""	[$WIN32]
 		"labelText"		""		[$X360]
@@ -137,7 +137,7 @@
 		"zpos"			"5"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
@@ -155,7 +155,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"4"
 		"labelText"		""
 		"textAlignment"	"south-west"
@@ -181,7 +181,7 @@
 		"zpos"			"5"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
@@ -199,7 +199,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"1"
 		"labelText"		""
 		"textAlignment"	"south-west"
@@ -223,7 +223,7 @@
 		"zpos"			"5"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
@@ -241,7 +241,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"	"2"
 		"labelText"		""
 		"textAlignment"	"south-west"
@@ -265,7 +265,7 @@
 		"zpos"			"5"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
@@ -286,7 +286,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_Cancel_NoKey"
 		"textAlignment"	"center"
@@ -308,7 +308,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -333,7 +333,7 @@
 		
 		"visible"		"1"
 		//"visible_lodef"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_SelectATeam"
 		"textAlignment"	"west"
 		"dulltext"		"0"
@@ -358,7 +358,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Random"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -384,7 +384,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Spectate"
 		"textAlignment"	"north"
 		"dulltext"		"0"
@@ -407,7 +407,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fov"			"20"
 		
 		"model"
@@ -441,7 +441,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 			
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
@@ -463,7 +463,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%bluecount%"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -487,7 +487,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%redcount%"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -508,7 +508,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fov"			"20"
 		
 		"model"
@@ -581,7 +581,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fov"			"20"
 		
 		"model"
@@ -654,7 +654,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fov"			"20"
 		
 		"model"
@@ -703,7 +703,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fov"			"20"
 		
 		"model"
@@ -752,7 +752,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Highlander_Mode"
 		"textAlignment"	"west"
 		"dulltext"		"0"
@@ -774,7 +774,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Highlander_Mode"
 		"textAlignment"	"west"
 		"dulltext"		"0"
@@ -796,7 +796,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Teams_Full"
 		"textAlignment"	"west"
 		"dulltext"		"0"
@@ -818,7 +818,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Teams_Full"
 		"textAlignment"	"west"
 		"dulltext"		"0"
@@ -838,7 +838,7 @@
 		"wide"			"40"
 		"tall"			"40"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../HUD/arrow_big_down"
 		"scaleImage"	"1"	
 	}

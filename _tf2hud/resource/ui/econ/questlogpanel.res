@@ -10,7 +10,7 @@
 		"wide"			"300"
 		"tall"			"350"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"proportionaltoparent" "1"
 	}
 
@@ -48,7 +48,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
 			"fgcolor"		"117 107 94 255"
@@ -84,7 +84,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override"	"235 226 202 255"
 			"wrap"			"1"
 			"centerwrap"	"1"
@@ -102,7 +102,7 @@
 		"tall"			"f0"
 		"proportionaltoparent"	"1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"border"		"MainMenuBGBorder"
 
 		"UpperLine"
@@ -117,7 +117,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"255 255 255 252"
 			"proportionaltoparent"	"1"
@@ -139,7 +139,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"0"
 			"proportionaltoparent"	"1"
 			"fgcolor"		"TanLight"
@@ -157,7 +157,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
@@ -189,7 +189,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -205,7 +205,7 @@
 			"wide"			"p.95"
 			"tall"			"o1"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"proportionaltoparent" "1"
 
 			"entry_step" "10"
@@ -229,7 +229,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"bgcolor_override"	"0 0 0 0"
 		"proportionaltoparent"	"1"
@@ -282,7 +282,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"0"
 			"proportionaltoparent"	"1"
 			"fgcolor"		"TanLight"
@@ -300,7 +300,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"235 226 202 255" // tanlight
 			"proportionaltoparent"	"1"
@@ -317,7 +317,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"dulltext"		"0"
 				"brighttext"	"0"
 				"proportionaltoparent"	"1"
@@ -340,7 +340,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"wrap"			"0"
 				"proportionaltoparent"	"1"
 				"fgcolor"		"TanLight"
@@ -362,7 +362,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"0"
 			"proportionaltoparent"	"1"
 			"fgcolor"		"TanLight"
@@ -380,7 +380,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"bgcolor_override"	"235 226 202 255" // tanlight
 			"proportionaltoparent"	"1"
@@ -397,7 +397,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"dulltext"		"0"
 				"brighttext"	"0"
 				"proportionaltoparent"	"1"
@@ -420,7 +420,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"wrap"			"0"
 				"proportionaltoparent"	"1"
 				"fgcolor"		"TanLight"

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"1"
 		"title"		"#Frame_Untitled"
@@ -21,7 +21,7 @@
 			"ControlName"	"Splitter"
 			"fieldName"		"MDLSplitter"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"child0"
 			{
@@ -37,7 +37,7 @@
 					
 					"UnpinnedCornerOffsetX" "-6"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 					"textHidden"	"0"
 					"editable"		"1"
@@ -58,7 +58,7 @@
 					"UnpinnedCornerOffsetX" "-6"
 					"UnpinnedCornerOffsetY" "-6"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					
 				}
 			}
@@ -70,7 +70,7 @@
 					"ControlName"	"Splitter"
 					"fieldName"		"SequenceSplitter"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"AutoResize"	"3"
 					
 					"xpos"			"0"
@@ -93,7 +93,7 @@
 							"UnpinnedCornerOffsetX" "-6"
 							"UnpinnedCornerOffsetY" "-6"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							
 						}
 					}
@@ -113,7 +113,7 @@
 							"UnpinnedCornerOffsetX" "-6"
 							"UnpinnedCornerOffsetY" "-6"
 							"visible"		"1"
-							"enabled"		"1"
+							
 							
 						}
 					}

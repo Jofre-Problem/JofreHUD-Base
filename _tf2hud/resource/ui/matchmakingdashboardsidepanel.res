@@ -26,7 +26,7 @@
 		"tall"		"60"
 		"zpos"	"98"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"rotation"		"3"
 		"proportionaltoparent"	"1"
 		"scaleimage"	"1"
@@ -54,7 +54,7 @@
 		"tall"		"f0"
 		"zpos"	"1000"
 		"visible"		"1"
-		"enabled"		"1"
+		
 
 		"proportionaltoparent"	"1"
 		"scaleimage"	"1"
@@ -81,7 +81,7 @@
 		"tall"		"f0"
 		"zpos"	"1000"
 		"visible"		"1"
-		"enabled"		"1"
+		
 
 
 		"proportionaltoparent"	"1"

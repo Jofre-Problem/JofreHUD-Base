@@ -12,7 +12,7 @@
 		"visible"		"1"
 		
 		
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -79,7 +79,7 @@
 			
 			
 			"visible"			"1"
-			"enabled"			"1"
+			
 			
 			"labelText"			""
 			"textAlignment"		"south-west"
@@ -119,7 +119,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"200 187 161 255"
 			"wrap"			"1"
 		}
@@ -139,7 +139,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"117 107 94 255"
 		}
 		"OutputLabel"
@@ -157,7 +157,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"117 107 94 255"
 		}
 		"UntradableLabel"
@@ -175,7 +175,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"fgcolor"		"117 107 94 255"
 		}
 		
@@ -216,7 +216,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"<"
 			"font"			"HudFontSmallBold"
@@ -242,7 +242,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 		}
 		"NextInputPageButton"
@@ -257,7 +257,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		">"
 			"font"			"HudFontSmallBold"
@@ -297,7 +297,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"fgcolor"		"200 187 161 255"
 			"wrap"			"1"
 		}
@@ -317,7 +317,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"fgcolor"		"200 187 161 255"
@@ -338,7 +338,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor"		"200 187 161 255"
 			"wrap"			"1"
 		}
@@ -355,7 +355,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"#Cancel"
 			"font"			"HudFontMediumBold"
@@ -380,7 +380,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		"<"
 			"font"			"HudFontSmallBold"
@@ -406,7 +406,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"fgcolor_override" "200 80 60 255"
 		}
 		"NextPageButton"
@@ -421,7 +421,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		">"
 			"font"			"HudFontSmallBold"
@@ -466,7 +466,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
 			"fgcolor"		"117 107 94 255"

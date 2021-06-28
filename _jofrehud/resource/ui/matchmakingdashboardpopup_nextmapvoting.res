@@ -65,7 +65,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
@@ -96,7 +96,7 @@
 					"wide"			"p1"
 					"tall"			"p1"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"glyph_store"
 					"scaleImage"	"1"
 					"proportionaltoparent" "1"
@@ -115,7 +115,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				
 				
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
@@ -146,7 +146,7 @@
 					"wide"			"p1"
 					"tall"			"p1"
 					"visible"		"1"
-					"enabled"		"1"
+					
 					"image"			"glyph_store"
 					"scaleImage"	"1"
 					"proportionaltoparent" "1"
@@ -164,7 +164,7 @@
 				"zpos"			"100"
 				"tall"			"20"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
 				"textAlignment"	"center"

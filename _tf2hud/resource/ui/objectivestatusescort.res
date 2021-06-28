@@ -10,7 +10,7 @@
 		"wide"				"400"
 		"tall"				"150"
 		"visible"			"1"
-		"enabled"			"1"
+		
 		"progress_xpos"		"79"
 		"progress_wide"		"270"
 		
@@ -31,7 +31,7 @@
 		"wide"			"254"
 		"tall"			"4"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		""
 		"image"			"../hud/cart_track"
 		"scaleImage"	"1"
@@ -64,7 +64,7 @@
 		"wide"			"254"
 		"tall"			"4"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"
 		
 		"if_multiple_trains"
@@ -92,7 +92,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"image"			"../hud/cart_home_blue"
@@ -159,7 +159,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"image"			"../hud/cart_point_neutral"
@@ -188,7 +188,7 @@
 		"tall"			"115"
 		"tall_minmode"		"75"		
 		"visible"		"1"
-		"enabled"		"1"
+		
 				
 		"if_multiple_trains"
 		{
@@ -216,7 +216,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%recede%"
 			"textAlignment"	"center"
 			"dulltext"		"0"
@@ -257,7 +257,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"image"			"../hud/cart_neutral"
@@ -294,7 +294,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"image"			"../hud/cart_neutral_bottom"
@@ -331,7 +331,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"image"			"../hud/cart_alert"
@@ -360,7 +360,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"image"			"../hud/cart_arrow_left"
@@ -398,7 +398,7 @@
 			"tall"			"12"
 			"tall_minmode"		"8"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"image"			"capture_icon_white"
 			"scaleImage"	"1"
 			
@@ -438,7 +438,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"labelText"		"#ControlPointIconCappers"
 			"textAlignment"	"west"
 			"dulltext"		"0"
@@ -479,7 +479,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			
 			"labelText"		""
 			"image"			"../hud/cart_blocked"
@@ -517,7 +517,7 @@
 			"tall"				"65"
 			"tall_minmode"			"42"			
 			"visible"			"0"
-			"enabled"			"1"
+			
 			
 			"if_multiple_trains"
 			{
@@ -539,7 +539,7 @@
 				"tall"				"65"
 				"tall_minmode"			"42"
 				"visible"			"1"
-				"enabled"			"1"
+				
 				"scaleImage"		"1"
 				"icon"				"cappoint_progressbar_teardrop"
 				"iconColor"			"255 255 255 255"
@@ -570,7 +570,7 @@
 				
 				
 				"visible"			"0"
-				"enabled"			"1"
+				
 				"labelText"			"progress"
 				"dulltext"			"0"
 				"brighttext"		"0"
@@ -599,7 +599,7 @@
 				"tall"				"50"
 				"tall_minmode"			"31"
 				"visible"			"1"
-				"enabled"			"1"
+				
 				"scaleImage"		"1"
 				"icon"				"cappoint_progressbar_blocked"
 				"iconColor"			"255 255 255 255"	
@@ -629,7 +629,7 @@
 				
 				
 				"visible"		"0"
-				"enabled"		"1"
+				
 				
 				"labelText"		""
 				"image"			"../hud/cart_arrow_right"

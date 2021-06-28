@@ -10,7 +10,7 @@
 		"wide"			"470"
 		"tall"			"170"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"
 		"iconColor"		"255 255 255 255"
@@ -38,7 +38,7 @@
 		"wide"			"50"
 		"tall"			"50"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_taunt_menu_icon"
 		"iconColor"		"255 255 255 255"
@@ -57,7 +57,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Taunt_Title"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -78,7 +78,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Taunt_Title"
 		"textAlignment"	"Left"
 		"dulltext"		"1"
@@ -98,7 +98,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Taunt_Weapon"
 		"textAlignment"	"west"
 		"dulltext"		"0"
@@ -118,7 +118,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#Hud_Menu_Taunt_Cancel"
 		"textAlignment"	"east"
 		"dulltext"		"0"
@@ -170,7 +170,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
@@ -190,7 +190,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"1"
 		"textAlignment"	"Center"
 		"dulltext"		"1"
@@ -242,7 +242,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
@@ -262,7 +262,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"2"
 		"textAlignment"	"Center"
 		"dulltext"		"1"
@@ -314,7 +314,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
@@ -334,7 +334,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"3"
 		"textAlignment"	"Center"
 		"dulltext"		"1"
@@ -386,7 +386,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
@@ -406,7 +406,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"4"
 		"textAlignment"	"Center"
 		"dulltext"		"1"
@@ -458,7 +458,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
@@ -478,7 +478,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"5"
 		"textAlignment"	"Center"
 		"dulltext"		"1"
@@ -530,7 +530,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
@@ -550,7 +550,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"6"
 		"textAlignment"	"Center"
 		"dulltext"		"1"
@@ -602,7 +602,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
@@ -622,7 +622,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"7"
 		"textAlignment"	"Center"
 		"dulltext"		"1"
@@ -674,7 +674,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
@@ -694,7 +694,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"8"
 		"textAlignment"	"Center"
 		"dulltext"		"1"

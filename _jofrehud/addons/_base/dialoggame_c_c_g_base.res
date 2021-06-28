@@ -30,7 +30,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#SteamAddOn_Btn_ShowHistory"
 		"textAlignment"		"west"
@@ -49,7 +49,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Last Move made at:"
 		"textAlignment"		"west"
@@ -67,7 +67,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"Turn: 1"
 		"textAlignment"		"west"
@@ -85,7 +85,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}	
 	"WhiteName"

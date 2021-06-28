@@ -5,6 +5,6 @@
 		"fieldName"		"Progress"
 		
 		
-		"enabled"		"1"
+		
 	}
 }	

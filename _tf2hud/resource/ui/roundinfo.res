@@ -12,7 +12,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 	
 	"Overlay"
@@ -27,7 +27,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"	
+			
 	}
 	
 	"Title"
@@ -42,7 +42,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#round_info_header"
 		"textAlignment"	"west"
 		"dulltext"		"0"
@@ -63,7 +63,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"%mapname%"
 		"textAlignment"	"west"
 		"dulltext"		"0"
@@ -88,7 +88,7 @@
 		
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"labelText"		"#TF_Continue"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -109,7 +109,7 @@
 		"wide"			"560"
 		"tall"			"280"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"scaleImage"	"1"	
 	}	
 	
@@ -125,7 +125,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fov"			"20"
 		
 		"model"
@@ -159,7 +159,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 			
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"

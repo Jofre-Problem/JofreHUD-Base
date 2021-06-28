@@ -20,7 +20,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"21"
 	//	"labelText"		"#Spades_DealNextHand"
 		"textAlignment"		"west"
@@ -36,6 +36,6 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}	
 }

@@ -54,7 +54,7 @@
 			"wide"			"f0"
 			"tall"			"f0"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 			"image"			"cyoa\cyoa_map_lvl2_bg_a"
 			"proportionaltoparent"	"1"
@@ -90,7 +90,7 @@
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"1"
-				"enabled"		"1"
+				
 				"proportionaltoparent" "1"
 				"mouseinputenabled"		"0"
 				"keyboardinputenabled"	"0"

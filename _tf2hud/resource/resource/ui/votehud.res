@@ -11,7 +11,7 @@
 		"wide"			"200"
 		"tall"			"67"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"bgcolor_override"	"0 0 0 120"
 		"PaintBackgroundType"	"2" // rounded corners
 		"border"		"TFThinLineBorder"
@@ -25,7 +25,7 @@
 			"wide"			"17"
 			"tall"			"17"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 			"image"			"hud/vote_yes"
 		}
@@ -39,7 +39,7 @@
 			"wide"			"148"
 			"tall"			"17"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#GameUI_vote_passed"
 			"textAlignment"	"west"
 			"dulltext"		"0"
@@ -58,7 +58,7 @@
 			"wide"			"180"
 			"tall"			"40"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%passedresult%"
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
@@ -79,7 +79,7 @@
 		"wide"			"200"
 		"tall"			"144"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"PaintBackgroundType"	"2" // rounded corners
 		"bgcolor_override"	"0 0 0 120"
 		"border"		"TFThinLineBorder"
@@ -93,7 +93,7 @@
 			"wide"			"180"
 			"tall"			"20"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#GameUI_vote_header"
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
@@ -112,7 +112,7 @@
 			"wide"			"180"
 			"tall"			"40"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%voteissue%"
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
@@ -148,7 +148,7 @@
 			"tall"			"16"
 			"zpos"			"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"	"left"
 			"dulltext"		"0"
@@ -181,7 +181,7 @@
 			"tall"			"16"
 			"zpos"			"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"Yes"
 			"textAlignment"	"center"
 			"dulltext"		"0"
@@ -200,7 +200,7 @@
 			"tall"			"16"
 			"zpos"			"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"	"left"
 			"dulltext"		"0"
@@ -233,7 +233,7 @@
 			"tall"			"16"
 			"zpos"			"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"No"
 			"textAlignment"	"center"
 			"dulltext"		"0"
@@ -252,7 +252,7 @@
 			"tall"			"16"
 			"zpos"			"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"	"left"
 			"dulltext"		"0"
@@ -285,7 +285,7 @@
 			"tall"			"16"
 			"zpos"			"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"	"left"
 			"dulltext"		"0"
@@ -318,7 +318,7 @@
 			"tall"			"16"
 			"zpos"			"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"	"left"
 			"dulltext"		"0"
@@ -363,7 +363,7 @@
 			"wide"			"190"
 			"tall"			"20"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#GameUI_vote_current_vote_count"
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
@@ -383,7 +383,7 @@
 			"tall"			"18"
 			"zpos"			"2"
 			"visible"		"1"
-			"enabled"		"1"			
+						
 			"box_size"		"16"
 			"spacer"		"6"
 			"box_inset"		"1"
@@ -402,7 +402,7 @@
 		"wide"			"200"
 		"tall"			"67"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"bgcolor_override"	"0 0 0 120"
 		"PaintBackgroundType"	"2" // rounded corners
 		"border"		"TFThinLineBorder"
@@ -416,7 +416,7 @@
 			"wide"			"17"
 			"tall"			"17"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 			"image"			"hud/vote_no"
 		}
@@ -430,7 +430,7 @@
 			"wide"			"180"
 			"tall"			"17"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#GameUI_vote_failed"
 			"textAlignment"	"west"
 			"dulltext"		"0"
@@ -449,7 +449,7 @@
 			"wide"			"200"
 			"tall"			"40"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
@@ -470,7 +470,7 @@
 		"wide"			"200"
 		"tall"			"67"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"bgcolor_override"	"0 0 0 120"
 		"PaintBackgroundType"	"2" // rounded corners
 		"border"		"TFThinLineBorder"
@@ -484,7 +484,7 @@
 			"wide"			"17"
 			"tall"			"17"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 			"image"			"hud/vote_no"
 		}
@@ -498,7 +498,7 @@
 			"wide"			"148"
 			"tall"			"17"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#GameUI_vote_failed"
 			"textAlignment"	"west"
 			"dulltext"		"0"
@@ -517,7 +517,7 @@
 			"wide"			"180"
 			"tall"			"40"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
@@ -539,7 +539,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"settitlebarvisible"	"1"
 		"font"					"ScoreboardSmall"
@@ -559,7 +559,7 @@
 			"tall"		"200"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			
 			"linespacing"	"22"
@@ -577,7 +577,7 @@
 			"tall"		"200"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			
 			"linespacing"	"22"
@@ -616,7 +616,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"4"
 			"labelText"		"#GameUI_Close"
 			"textAlignment"	"center"

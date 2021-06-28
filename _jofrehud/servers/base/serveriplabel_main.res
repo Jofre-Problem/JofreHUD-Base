@@ -11,7 +11,7 @@
 		"tall"		"20"
 		
 		
-		"enabled"		"1"
+		
 		
 		"labelText"		"#ServerBrowser_IPAddressLabel"
 		"textAlignment"		"east"

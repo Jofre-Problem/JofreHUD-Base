@@ -12,7 +12,7 @@
 		"wide"			"90"
 		"tall"			"45"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/ammo_blue_bg"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/ammo_red_bg"
@@ -32,7 +32,7 @@
 		"wide"			"90"
 		"tall"			"45"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/ammo_red_bg"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/ammo_red_bg"
@@ -56,7 +56,7 @@
 		"tall_minmode"	"38"
 		//"tall_lodef"	"45"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"textAlignment"	"south-east"	
 		"labelText"		"%Ammo%"
 		
@@ -80,7 +80,7 @@
 		"tall_minmode"	"39"
 		//"tall_lodef"	"45"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"textAlignment"	"south-east"	
 		"labelText"		"%Ammo%"
 		
@@ -102,7 +102,7 @@
 		"tall"			"27"
 		//"tall_lodef"	"30"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"textAlignment"	"south-west"		
 		"labelText"		"%AmmoInReserve%"
 	}		
@@ -123,7 +123,7 @@
 		"tall"			"27"
 		//"tall_lodef"	"30"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"textAlignment"	"south-west"		
 		"labelText"		"%AmmoInReserve%"
 	}									
@@ -142,7 +142,7 @@
 		"tall_minmode"	"36"
 		//"tall_lodef"	"45"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"textAlignment"	"south-east"		
 		"labelText"		"%Ammo%"
 		
@@ -166,7 +166,7 @@
 		"tall_minmode"	"36"
 		//"tall_lodef"	"45"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"textAlignment"	"south-east"		
 		"labelText"		"%Ammo%"
 		

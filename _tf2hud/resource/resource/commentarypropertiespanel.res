@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	}
 	"CommentaryNodeScroll"
@@ -27,7 +27,7 @@
 		"UnpinnedCornerOffsetX" "0"
 		"UnpinnedCornerOffsetY" "0"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 	"InfoTargetScroll"
@@ -43,7 +43,7 @@
 		"autoResize"		"3"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 	}
 }

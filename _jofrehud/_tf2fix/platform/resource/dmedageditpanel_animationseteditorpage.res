@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 	
 		"AnimationSetEditorPanel"
@@ -29,7 +29,7 @@
 			"UnpinnedCornerOffsetX" "-6"
 			"UnpinnedCornerOffsetY" "-6"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 		}
 	}

@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"settitlebarvisible"		"1"
@@ -28,7 +28,7 @@
 		"AutoResize"		"1"
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"1"
 		"paintbackground"		"1"
 		"textHidden"		"0"
@@ -64,7 +64,7 @@
 		
 		"PinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#Friends_Chat_Send"
@@ -84,7 +84,7 @@
 		"AutoResize"		"1"
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_LastMessageReceived"
@@ -103,7 +103,7 @@
 		"AutoResize"		"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_ChatToPlusStatus"

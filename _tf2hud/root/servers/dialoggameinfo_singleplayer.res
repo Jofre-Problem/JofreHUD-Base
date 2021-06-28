@@ -11,7 +11,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"settitlebarvisible"		"1"
@@ -47,7 +47,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"tabPosition"		"3"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Close"
@@ -66,7 +66,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Refresh"
@@ -85,7 +85,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerNotResponding"
@@ -103,7 +103,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"4"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AutoRetry"
@@ -122,7 +122,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AlertMeWhenSlotOpens"
@@ -142,7 +142,7 @@
 		
 		"PinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"tabPosition"		"5"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_JoinWhenSlotOpens"
@@ -162,7 +162,7 @@
 		"AutoResize"		"3"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 	}
@@ -177,7 +177,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerName"
@@ -195,7 +195,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_GameLabel"
@@ -213,7 +213,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_IPAddressLabel"
@@ -231,7 +231,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_MapLabel"
@@ -249,7 +249,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_PlayersLabel"
@@ -267,7 +267,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_LatencyLabel"
@@ -285,7 +285,7 @@
 		"AutoResize"		"1"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"textAlignment"		"west"
@@ -302,7 +302,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"Team Fortress Classic"
@@ -340,7 +340,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"textAlignment"		"west"
@@ -357,7 +357,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"textAlignment"		"west"
@@ -374,7 +374,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"textAlignment"		"west"
@@ -391,7 +391,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"Label"
@@ -409,7 +409,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"textAlignment"		"west"
@@ -426,7 +426,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_FriendNotInGameServer"
@@ -444,7 +444,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerLabel"

@@ -23,7 +23,7 @@
 		"wide"			"600"
 		"tall"			"50"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"BannerImage"
 		{
@@ -34,7 +34,7 @@
 			"wide"			"600"
 			"tall"			"50"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			"mvm/smallbanner"
 			"scaleImage"    "1"
 			
@@ -83,7 +83,7 @@
 		"wide"				"f0"
 		"tall"				"480"
 		"visible"			"0"
-		"enabled"			"1"		
+				
 	}
 	
 	"VictoryPanelMannUp"
@@ -96,6 +96,6 @@
 		"wide"				"f0"
 		"tall"				"480"
 		"visible"			"0"
-		"enabled"			"1"		
+				
 	}
 }

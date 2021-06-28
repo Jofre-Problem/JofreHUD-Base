@@ -772,7 +772,7 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"24"
-				//"tall_lodef"	"80"
+				
 				//"weight"	"500"
 				//"additive"	"0"
 				"antialias" "1"
@@ -1126,7 +1126,7 @@ Scheme
 				"scalex"	"0.5"
 				////"scalex_lodef"		"0.75"
 				"scaley"	"0.5"
-				////"scaley_lodef"		"0.75"
+				//"scaley_lodef"		"0.75"
 			}
 		}
 		GameUIButtonsSmall
@@ -1158,7 +1158,7 @@ Scheme
 				"scalex"	"0.5"
 				////"scalex_lodef"		"0.75"
 				"scaley"	"0.5"
-				////"scaley_lodef"		"0.75"
+				//"scaley_lodef"		"0.75"
 			}
 		}
 		GameUIButtonsSteamControllerSmall

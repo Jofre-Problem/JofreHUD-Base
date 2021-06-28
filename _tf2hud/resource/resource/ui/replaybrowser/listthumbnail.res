@@ -8,7 +8,7 @@
 		"tall"					"74"
 		
 		
-		"enabled"				"1"
+		
 	}
 
 	"BorderPanel"
@@ -23,7 +23,7 @@
 		
 		
 		"visible"				"1"
-		"enabled"				"1"
+		
 		"border"				"ReplayDefaultBorder"
 	}
 	
@@ -49,7 +49,7 @@
 		
 		"visible"		"0"
 		"tall"			"10"
-		"enabled"		"1"
+		
 		"bgcolor_override" "117 107 95 255"
 		"fgcolor_override" "202 186 160 255"
 	}
@@ -65,7 +65,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"centerwrap"	"1"
 		"paintbackground"	"0"
 		"fgcolor_override" "200 33 27 255"
@@ -82,7 +82,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "44 33 27 255"
 	}
 	
@@ -97,7 +97,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 33 27 255"
 	}
 	
@@ -115,7 +115,7 @@
 		"zpos"			"10"
 		
 		
-		"enabled"		"1"
+		
 		"fgcolor_override"	"198 186 160 255"
 	}
 	
@@ -131,7 +131,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Replay_Download"
 		"font"			"ReplayMediumSmall"
@@ -148,7 +148,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"bgcolor_override"	"0 0 0 200"
 		"Command"		"overlay_clicked"
 	}
@@ -165,7 +165,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		
 		"labelText"		"X"
 		"font"			"ReplayMediumSmall"

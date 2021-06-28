@@ -11,7 +11,7 @@
 		"visible"		"1"
 		
 		
-		"enabled"		"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -90,7 +90,7 @@
 		"wide"			"f0"
 		"tall"			"50"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_header"
 		"tileImage"		"1"
 	}				
@@ -104,7 +104,7 @@
 		"wide"			"f0"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
 	}				
@@ -124,7 +124,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	"TitleLabel"
@@ -142,7 +142,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 	}
 
 	"AvatarPanel"
@@ -168,7 +168,7 @@
 			"wide"			"32"
 			"tall"			"32"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"image"			""
 			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
@@ -190,7 +190,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 187 161 255"
 	}
 	"Label1Explanation"
@@ -208,7 +208,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "117 107 94 255"
 	}
@@ -228,7 +228,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 187 161 255"
 	}
 	"Label2Explanation"
@@ -246,7 +246,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "117 107 94 255"
 	}
@@ -265,7 +265,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "201 79 57 255"
 	}
@@ -282,7 +282,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
@@ -309,7 +309,7 @@
 		"wide"			"36"
 		"tall"			"36"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"bgcolor_override" "46 43 42 255"
 	}
 	"MyReadyImage"
@@ -322,7 +322,7 @@
 		"wide"			"40"
 		"tall"			"40"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"checkmark"
 		"scaleImage"	"1"	
 		"drawcolor"		"200 80 60 255"
@@ -343,7 +343,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"centerwrap"	"1"
 		"fgcolor_override" "117 107 94 255"
@@ -364,7 +364,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 187 161 255"
 	}
 	"Label3Explanation"
@@ -382,7 +382,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "117 107 94 255"
 	}
@@ -401,7 +401,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "201 79 57 255"
 	}
@@ -416,7 +416,7 @@
 		"wide"			"40"
 		"tall"			"40"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"bgcolor_override" "117 107 94 255"
 		
 		"TheirReadyImageBGCenter"
@@ -429,7 +429,7 @@
 			"wide"			"36"
 			"tall"			"36"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"bgcolor_override" "46 43 42 255"
 		}
 	}
@@ -443,7 +443,7 @@
 		"wide"			"40"
 		"tall"			"40"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"checkmark"
 		"scaleImage"	"1"	
 		"drawcolor"		"200 80 60 255"
@@ -463,7 +463,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"centerwrap"	"1"
 		"fgcolor_override" "117 107 94 255"
@@ -484,7 +484,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 187 161 255"
 	}
 	"Label4Explanation"
@@ -502,7 +502,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "117 107 94 255"
 	}
@@ -521,7 +521,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"fgcolor_override" "117 107 94 255"
 	}
 	"Label4Theirs"
@@ -539,7 +539,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"fgcolor_override" "117 107 94 255"
 	}
 	
@@ -575,7 +575,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
 			"fgcolor"		"117 107 94 255"
@@ -649,7 +649,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"<"
 		"font"			"HudFontSmallBold"
@@ -675,7 +675,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	"NextPageButton"
@@ -690,7 +690,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		">"
 		"font"			"HudFontSmallBold"
@@ -714,7 +714,7 @@
 		"autoResize"		"1"
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		"labelText"			"CHAT TEXT"
 		"textAlignment"		"south-west"
 		"maxchars"			"4096"
@@ -725,7 +725,7 @@
 		"ControlName"			"EditablePanel"
 		"fieldName" 			"ChatInputLine"
 		"visible" 				"1"
-		"enabled" 				"1"
+		
 		"xpos"					"c-288"
 		"ypos"					"420"
 		"wide"	 				"286"
@@ -748,7 +748,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 
 	"ConfirmEllipsis"
@@ -766,7 +766,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"fgcolor_override" "46 43 42 255"
 	}
 	"ConfirmDisabledLabel"
@@ -784,7 +784,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"fgcolor_override" "200 80 60 255"
 	}
 	"ConfirmButton"
@@ -825,7 +825,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"

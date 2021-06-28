@@ -54,7 +54,7 @@
 		"wide"			"28"
 		"tall"			"o1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"pve/mvm_ticket_active"
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
@@ -72,7 +72,7 @@
 		"wide"			"28"
 		"tall"			"o1"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"pve/mvm_voucher_active"
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"

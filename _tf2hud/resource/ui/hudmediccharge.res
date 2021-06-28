@@ -10,7 +10,7 @@
 		"wide"			"130"
 		"tall"			"65"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"image"			"../hud/medic_charge_blue_bg"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/medic_charge_red_bg"
@@ -31,7 +31,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_Ubercharge"
 		"labelText_minmode"		"#TF_UberchargeMinHUD"
@@ -55,7 +55,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		
 		"labelText"		"#TF_IndividualUbercharges"
 		"labelText_minmode"		"#TF_IndividualUberchargesMinHUD"
@@ -80,7 +80,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -101,7 +101,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -122,7 +122,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -143,7 +143,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -164,7 +164,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -180,7 +180,7 @@
 		"tall"			"36"
 		"visible"		"1"
 		"visible_minmode"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/ico_health_cluster"
 		"scaleImage"	"1"	
 	}	
@@ -195,7 +195,7 @@
 		"tall"			"36"
 		"visible"		"1"
 		"visible_minmode"		"0"
-		"enabled"		"1"
+		
 		"image"			"../HUD/defense_buff_bullet_blue"
 		"scaleImage"	"1"	
 	}

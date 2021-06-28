@@ -9,7 +9,7 @@
 		"wide"			"150"
 		"tall"			"67"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"border"		"TFFatLineBorderOpaque"
 				
 		"PassedIcon"
@@ -21,7 +21,7 @@
 			"wide"			"17"
 			"tall"			"17"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 			"image"			"hud/vote_yes"
 		}
@@ -35,7 +35,7 @@
 			"wide"			"98"
 			"tall"			"17"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#GameUI_vote_passed"
 			"textAlignment"	"west"
 			"dulltext"		"0"
@@ -54,7 +54,7 @@
 			"wide"			"130"
 			"tall"			"40"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%passedresult%"
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
@@ -75,7 +75,7 @@
 		"wide"			"150"
 		"tall"			"144"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"border"		"TFFatLineBorderOpaque"
 		
 		"Header"
@@ -87,7 +87,7 @@
 			"wide"			"130"
 			"tall"			"20"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%header%"
 			"textAlignment"		"north-west"
 			"dulltext"		"0"
@@ -106,7 +106,7 @@
 			"wide"			"120"
 			"tall"			"40"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%voteissue%"
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
@@ -126,7 +126,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"image"			""
 			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
@@ -157,7 +157,7 @@
 			"tall"			"16"
 			"zpos"			"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"	"left"
 			"dulltext"		"0"
@@ -189,7 +189,7 @@
 			"tall"			"16"
 			"zpos"			"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"Yes"
 			"textAlignment"	"center"
 			"dulltext"		"0"
@@ -208,7 +208,7 @@
 			"tall"			"16"
 			"zpos"			"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"	"left"
 			"dulltext"		"0"
@@ -240,7 +240,7 @@
 			"tall"			"16"
 			"zpos"			"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"No"
 			"textAlignment"	"center"
 			"dulltext"		"0"
@@ -259,7 +259,7 @@
 			"tall"			"16"
 			"zpos"			"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"	"left"
 			"dulltext"		"0"
@@ -291,7 +291,7 @@
 			"tall"			"16"
 			"zpos"			"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"	"left"
 			"dulltext"		"0"
@@ -323,7 +323,7 @@
 			"tall"			"16"
 			"zpos"			"2"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"	"left"
 			"dulltext"		"0"
@@ -367,7 +367,7 @@
 			"wide"			"140"
 			"tall"			"20"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#GameUI_vote_current_vote_count"
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
@@ -387,7 +387,7 @@
 			"tall"			"18"
 			"zpos"			"2"
 			"visible"		"1"
-			"enabled"		"1"			
+						
 			"box_size"		"16"
 			"spacer"		"6"
 			"box_inset"		"1"
@@ -406,7 +406,7 @@
 		"wide"			"150"
 		"tall"			"67"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"border"		"TFFatLineBorderOpaque"
 				
 		"FailedIcon"
@@ -418,7 +418,7 @@
 			"wide"			"17"
 			"tall"			"17"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 			"image"			"hud/vote_no"
 		}
@@ -432,7 +432,7 @@
 			"wide"			"80"
 			"tall"			"17"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#GameUI_vote_failed"
 			"textAlignment"	"west"
 			"dulltext"		"0"
@@ -451,7 +451,7 @@
 			"wide"			"140"
 			"tall"			"40"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"%FailedReason%"
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
@@ -472,7 +472,7 @@
 		"wide"			"150"
 		"tall"			"67"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"border"		"TFFatLineBorderOpaque"
 				
 		"FailedIcon"
@@ -484,7 +484,7 @@
 			"wide"			"17"
 			"tall"			"17"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
 			"image"			"hud/vote_no"
 		}
@@ -498,7 +498,7 @@
 			"wide"			"98"
 			"tall"			"17"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		"#GameUI_vote_failed"
 			"textAlignment"	"west"
 			"dulltext"		"0"
@@ -517,7 +517,7 @@
 			"wide"			"130"
 			"tall"			"40"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"labelText"		""
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
@@ -539,7 +539,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"settitlebarvisible"	"0"
 		"border"			"TFFatLineBorderOpaque"
@@ -570,7 +570,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"wrap"			"0"
 		}
 									
@@ -585,7 +585,7 @@
 			"tall"		"200"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			
 			
@@ -603,7 +603,7 @@
 			"tall"		"200"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 			
 			
 			"linespacing"	"16"
@@ -624,7 +624,7 @@
 			"autoResize"	"1"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			
 		}
 		"ComboBox"
 		{
@@ -639,7 +639,7 @@
 			
 			
 			"visible"			"1"
-			"enabled"			"1"
+			
 			"tabPosition"		"1"
 			"textHidden"		"0"
 			"editable"			"0"
@@ -688,7 +688,7 @@
 			
 			"pinCorner"		"3"
 			"visible"		"1"
-			"enabled"		"1"
+			
 			"tabPosition"	"4"
 			"labelText"		"#GameUI_Close"
 			"textAlignment"	"center"

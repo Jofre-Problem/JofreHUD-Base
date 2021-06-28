@@ -56,7 +56,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"0"
 		"fgcolor_override"	"83 75 66 255"
 	}
@@ -76,7 +76,7 @@
 		"autoResize"	"1"
 		
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override"	"83 75 66 255"
 	}
@@ -93,7 +93,7 @@
 		
 		
 		"visible"			"1"
-		"enabled"			"1"
+		
 		
 		"labelText"			"#TF_Select"
 		"font"				"HudFontSmallBold"

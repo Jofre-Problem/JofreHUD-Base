@@ -11,7 +11,7 @@
 		"autoResize"			"3"
 		
 		"visible"				"1"
-		"enabled"				"1"
+		
 		
 		"bgcolor_override"		"0 0 0 0"
 	}

@@ -10,7 +10,7 @@
 		"wide"			"225"
 		"tall"			"280"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		"border"		"StorePreviewBorder"

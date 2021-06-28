@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Tip"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"proportional"	"1"
 		"bgcolor_override"	"0 0 0 128"
 		"paintbackground"	"1"
@@ -21,7 +21,7 @@
 		"wide"			"f0"
 		"zpos"			"2"
 		"visible"		"1"
-		"enabled"		"1"
+		
 		"font"			"EconFontSmall"
 		"centerwrap"	"1"
 		"fgcolor_override"	"255 255 255 255"
