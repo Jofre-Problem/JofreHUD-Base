@@ -10,7 +10,7 @@
 		"tall"			"22"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"

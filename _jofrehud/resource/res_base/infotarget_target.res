@@ -21,7 +21,7 @@
 		"tall"		"152"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -36,7 +36,7 @@
 		"autoResize"		"1"
 		"UnpinnedCornerOffsetX" "-20"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -55,15 +55,15 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Target Name:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"DefaultBold"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"PositionLabel"
 	{
@@ -75,15 +75,15 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Location:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"DefaultBold"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"TargetPositionLabel"
 	{
@@ -95,14 +95,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Position"
 		"textAlignment"		"east"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"PositionX"
 	{
@@ -114,7 +114,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"textHidden"		"0"
@@ -133,14 +133,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"X"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"PositionYLabel"
 	{
@@ -152,14 +152,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Y"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"PositionZLabel"
 	{
@@ -171,14 +171,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Z"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"PositionY"
 	{
@@ -190,7 +190,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		"textHidden"		"0"
@@ -209,7 +209,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"textHidden"		"0"
@@ -228,14 +228,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Orientation"
 		"textAlignment"		"east"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"pitch"
 	{
@@ -247,7 +247,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"5"
 		"textHidden"		"0"
@@ -266,7 +266,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"6"
 		"textHidden"		"0"
@@ -285,7 +285,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"7"
 		"textHidden"		"0"
@@ -304,14 +304,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Pitch"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"YawLabel"
 	{
@@ -323,14 +323,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Yaw"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"RollLabel"
 	{
@@ -342,14 +342,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Roll"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 
 }

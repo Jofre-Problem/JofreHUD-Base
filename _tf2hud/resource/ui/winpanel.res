@@ -8,7 +8,7 @@
 		"ypos"			"13"
 		"wide"			"480"
 		"tall"			"60"
-		"visible"		"1"
+		////"visible"		"1"
 
 		"BlueScoreBG"
 		{
@@ -20,7 +20,7 @@
 			"tall"			"40"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"border"		"TFFatLineBorderBlueBGMoreOpaque"
@@ -35,7 +35,7 @@
 			"tall"			"40"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 
 			"border"		"TFFatLineBorderRedBGMoreOpaque"
@@ -56,7 +56,7 @@
 			//"tall_hidef"	"24"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"TanLight"
 		}							
@@ -76,7 +76,7 @@
 			//"tall_hidef"	"75"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"BlueTeamScoreDropshadow"
@@ -96,7 +96,7 @@
 			//"tall_hidef"	"75"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"BlueLeaderAvatar"
@@ -108,7 +108,7 @@
 			"zpos"			"5"
 			"wide"			"40"
 			"tall"			"40"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			""
 			"scaleImage"	"1"	
@@ -123,7 +123,7 @@
 			"zpos"			"4"
 			"wide"			"44"
 			"tall"			"44"
-			"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"bgcolor_override"	"117 107 94 255"
 		}									
@@ -143,7 +143,7 @@
 			//"tall_hidef"	"24"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"TanLight"
 		}							
@@ -163,7 +163,7 @@
 			//"tall_hidef"	"75"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"RedTeamScoreDropshadow"
@@ -183,7 +183,7 @@
 			//"tall_hidef"	"75"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"RedLeaderAvatar"
@@ -195,7 +195,7 @@
 			"zpos"			"5"
 			"wide"			"40"
 			"tall"			"40"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			""
 			"scaleImage"	"1"	
@@ -210,7 +210,7 @@
 			"zpos"			"4"
 			"wide"			"44"
 			"tall"			"44"
-			"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"bgcolor_override"	"117 107 94 255"
 		}
@@ -225,7 +225,7 @@
 		
 		"wide"			"p0.94"
 		"tall"			"185"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"		"1"	
 		"border"		"TFFatLineBorderBlueBG"
@@ -243,11 +243,11 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%WinningTeamLabel%"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"WinningTeamLabelDropshadow"
@@ -263,11 +263,11 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%WinningTeamLabel%"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"AdvancingTeamLabel"
@@ -282,11 +282,11 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%AdvancingTeamLabel%"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"AdvancingTeamLabelDropshadow"
@@ -302,11 +302,11 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%AdvancingTeamLabel%"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"WinReasonLabel"
@@ -321,10 +321,10 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%WinReasonLabel%"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"centerwrap"	"1"
 	}
@@ -340,11 +340,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%DetailsLabel%"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"ShadedBar"
@@ -358,7 +358,7 @@
 		"tall"			"125"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 			
 		"fillcolor"		"0 0 0 150"
@@ -377,11 +377,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%TopPlayersLabel%"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"PointsThisRoundLabel"
@@ -396,11 +396,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#Winpanel_PointsThisRound"
 		"textAlignment"		"east"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"HorizontalLine"
@@ -414,7 +414,7 @@
 		"tall"			"1"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 			
 		"fillcolor"		"250 234 201 255"
@@ -443,7 +443,7 @@
 		"zpos"			"3"
 		"wide"			"14"
 		"tall"			"14"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			""
 		"scaleImage"		"1"	
@@ -460,11 +460,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		""
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"Player1Class"
@@ -478,11 +478,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		""
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"Player1Score"
@@ -496,11 +496,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		""
 		"textAlignment"		"east"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"Player2Badge"
@@ -526,7 +526,7 @@
 		"zpos"			"3"
 		"wide"			"14"
 		"tall"			"14"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			""
 		"scaleImage"		"1"	
@@ -543,11 +543,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		""
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"Player2Class"
@@ -561,11 +561,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		""
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"Player2Score"
@@ -579,11 +579,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		""
 		"textAlignment"		"east"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"Player3Badge"
@@ -609,7 +609,7 @@
 		"zpos"			"3"
 		"wide"			"14"
 		"tall"			"14"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			""
 		"scaleImage"		"1"	
@@ -626,11 +626,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		""
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"Player3Class"
@@ -644,11 +644,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		""
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"Player3Score"
@@ -662,11 +662,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		""
 		"textAlignment"		"east"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 
@@ -683,11 +683,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#Winpanel_KillStreakLeader"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 	"KillStreakMaxCountLabel"
@@ -702,11 +702,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#Winpanel_KillStreakMaxCount"
 		"textAlignment"	"east"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 	"HorizontalLine2"
@@ -720,7 +720,7 @@
 		"tall"			"1"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 			
 		"fillcolor"		"250 234 201 255"
@@ -749,7 +749,7 @@
 		"zpos"			"3"
 		"wide"			"14"
 		"tall"			"14"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			""
 		"scaleImage"		"1"	
@@ -766,11 +766,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		""
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"KillStreakPlayer1Class"
@@ -784,11 +784,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		""
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"KillStreakPlayer1Score"
@@ -802,11 +802,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		""
 		"textAlignment"		"east"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 }

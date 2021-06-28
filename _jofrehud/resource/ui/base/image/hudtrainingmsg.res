@@ -6,7 +6,7 @@
 		"fieldName"		"HudTrainingMsgBG"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/death_panel_blue_bg"
 		"scaleImage"		"1"

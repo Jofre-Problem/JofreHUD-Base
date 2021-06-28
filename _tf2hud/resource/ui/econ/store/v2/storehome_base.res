@@ -167,7 +167,7 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
@@ -188,7 +188,7 @@
 			"tall"			"60"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -206,7 +206,7 @@
 		"zpos"			"-1"
 		"wide"			"300"
 		"tall"			"300"
-		"visible"		"1"
+		////"visible"		"1"
 		
 	
 		"MannCoImage"
@@ -234,7 +234,7 @@
 		"zpos"			"-1"
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"proportiontoparent"	"1"
 
@@ -247,7 +247,7 @@
 			
 			"wide"			"f0"
 			"tall"			"f0"
-			"visible"		"1"
+			////"visible"		"1"
 			"enable"		"1"
 			"image"			"store/store_bg001"
 			"scale_image"	"1"
@@ -273,7 +273,7 @@
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"reloadscheme"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -291,7 +291,7 @@
 		"tall"				"30"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"auto_scale"		"1"
@@ -307,7 +307,7 @@
 			"textinsety"		"-5"
 			
 			"pinCorner"			"2"
-			"visible"			"1"
+			//"visible"			"1"
 			
 			
 			"textAlignment"		"center"
@@ -353,7 +353,7 @@
 		"labelText"		"<"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"prevpage"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -374,7 +374,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -396,7 +396,7 @@
 		"labelText"		">"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"nextpage"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -417,7 +417,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 	
@@ -433,7 +433,7 @@
 		"zpos"			"12"
 		"wide"			"56"
 		"tall"			"24"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"PaintBackgroundType"	"2"
 		"textinsetx"	"15"
@@ -453,7 +453,7 @@
 		"zpos"			"13"
 		"wide"			"24"
 		"tall"			"20"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"store_cart"
 		"scaleImage"	"1"
@@ -476,7 +476,7 @@
 		"labelText"		"#Store_BrowseTheStore"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"startshopping"
@@ -495,13 +495,13 @@
 		"tall"			"23"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Store_MarketPlace"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"marketplace"

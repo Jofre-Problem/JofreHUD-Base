@@ -23,11 +23,11 @@
 				"tall"			"12"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"labelText"		"#Building_hud_building"
 				"textAlignment"	"Left"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 			}
 			
@@ -42,10 +42,10 @@
 				"tall"			"8"				
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textAlignment"	"Left"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 			}
 		}

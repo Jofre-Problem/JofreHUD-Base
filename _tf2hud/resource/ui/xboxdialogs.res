@@ -45,10 +45,10 @@
 		"zpos"			"2"
 		"wide"			"720"
 		"tall"			"35"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"labelText"		"#GameUI_Options"
 	}
@@ -65,7 +65,7 @@
 		"tall"		"360"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fillcolor"		"0 0 0 128"
 	}
@@ -82,7 +82,7 @@
 		"tall"		"360"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fillcolor"		"0 0 0 128"
 	}
@@ -101,7 +101,7 @@
 		//"tall_hidef"	"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"paintBackgroundType" "3"
 	}
@@ -119,7 +119,7 @@
 		//"tall_hidef"	"21"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"paintBackgroundType" "3"
 	}
@@ -136,11 +136,11 @@
 		"tall"			"32"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#GameUI_Icons_UPCURSOR"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"GameUIButtons"
@@ -157,11 +157,11 @@
 		"tall"			"32"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#GameUI_Icons_DOWNCURSOR"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"GameUIButtons"
@@ -181,10 +181,10 @@
 		//"tall_hidef"	"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"labelText"		""
@@ -205,10 +205,10 @@
 		//"tall_hidef"	"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"labelText"		""
@@ -306,7 +306,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 
@@ -325,10 +325,10 @@
 		//"wide_lodef"			"390"
 		"tall"			"100"
 		"wrap"			"1"
-		"visible"		"1"
+		////"visible"		"1"
 		"textAlignment"	"center"
 		"textcolor"		"200 184 151 255"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 	
@@ -672,9 +672,9 @@
 		
 		"labelText"		"0%"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 }
 
@@ -1562,7 +1562,7 @@
 		"font"			"MatchmakingDialogMenuMediumSmall"
 		"labeltext"		"#TF_Recommended_Players"
 		"textAlignment"	"east"
-		"visible"		"1"
+		////"visible"		"1"
 		"wrap"			"1"
 	}
 	
@@ -3717,7 +3717,7 @@
 		"tall"				"32"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		"labelText"			"#GameUI_Icons_LEFTCURSOR"
 		"textAlignment"		"center"
@@ -3738,7 +3738,7 @@
 		"tall"				"32"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		"labelText"			"#GameUI_Icons_RIGHTCURSOR"
 		"textAlignment"		"center"
@@ -3827,7 +3827,7 @@
 		"visible"		"0"
 		
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"DefaultLarge"
@@ -3913,10 +3913,10 @@
 		"tall"			"40"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"ChapterTitle"
@@ -3932,10 +3932,10 @@
 		"tall"			"40"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"ChapterTitle"
@@ -4017,7 +4017,7 @@
 		//"tall_hidef"	"106"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 	"LevelPic"
@@ -4037,7 +4037,7 @@
 		//"scaleImage_hidef"	"0"
 		"scaleAmount"		"0.72"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fillcolor"		"0 0 0 0"
 	}
@@ -4070,11 +4070,11 @@
 		//"tall_hidef"	"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"DefaultLarge"
@@ -4092,11 +4092,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"UiBold"
@@ -4118,9 +4118,9 @@
 		
 		
 		"textAlignment"		"east"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"font"			"DefaultLarge"
 		//"font_hidef"	"UiBold"
 		"labelText"		"#GameUI_BonusMapsUnlocked"
@@ -4143,7 +4143,7 @@
 		
 		
 		"image"				"hud/icon_commentary_small"
-		"scaleImage"		"0"
+		//"scaleImage"		"0"
 	}
 
 }
@@ -4163,7 +4163,7 @@
 		//"tall_hidef"		"40"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 	}
@@ -4181,7 +4181,7 @@
 		//"tall_hidef"		"20"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"paintbackground"	"1"
@@ -4199,7 +4199,7 @@
 		//"wide_hidef"		"250"
 		"tall"				"20"
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		"textAlignment"		"west"
 	}

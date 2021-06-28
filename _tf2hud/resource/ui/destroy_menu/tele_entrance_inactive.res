@@ -12,11 +12,11 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_Object_tele_entrance_360"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 	
@@ -29,7 +29,7 @@
 		
 		"wide"			"98"
 		"tall"			"105"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg_outline"
@@ -48,11 +48,11 @@
 		"tall"			"18"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_NotBuilt"
 		"textAlignment"	"Center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}	
 
@@ -72,7 +72,7 @@
 		
 		"labelText"		"#Hud_Menu_Build_Unavailable"
 		"textAlignment"	"Center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}	
 			
@@ -85,7 +85,7 @@
 		
 		"wide"			"18"
 		"tall"			"18"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
@@ -105,7 +105,7 @@
 		"tall"			"18"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"3"
 		"textAlignment"	"Center"

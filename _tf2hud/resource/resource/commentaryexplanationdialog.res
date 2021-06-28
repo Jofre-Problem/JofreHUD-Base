@@ -10,7 +10,7 @@
 		"tall"		"330"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,14 +26,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GAMEUI_Commentary_LabelOn"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"font"			"UiBold"
 	}
 	"WhatIsCommentary"
@@ -46,12 +46,12 @@
 		"tall"		"54"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GAMEUI_Commentary_WhatIs"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"		"1"
 	}
@@ -65,12 +65,12 @@
 		"tall"		"58"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GAMEUI_Commentary_HowToUse"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"		"1"
 	}
@@ -84,12 +84,12 @@
 		"tall"		"58"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GAMEUI_COMMENTARY_GOD"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"		"1"
 	}
@@ -103,14 +103,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#vgui_ok"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"ok"
 		"Default"		"1"
 		"selected"		"0"
@@ -125,14 +125,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#vgui_cancel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"cancel"
 		"Default"		"1"
 		"selected"		"0"

@@ -17,7 +17,7 @@
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"ProgressBarBG"
 		"tall"			"12"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../HUD/tournament_panel_tan"
 		

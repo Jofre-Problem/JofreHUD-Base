@@ -10,7 +10,7 @@
 		"tall"		"522"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"340"
 		"autoResize"		"3"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 	}
@@ -38,14 +38,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Go To"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 	}
@@ -59,14 +59,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Delete"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 		"command"		"Delete"
@@ -81,14 +81,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Properties"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"1"
 		"selected"		"0"
 		"command"		"ShowProperties"
@@ -103,14 +103,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Close"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 	}
@@ -124,14 +124,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Entities:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"FilterLabel"
 	{
@@ -143,14 +143,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Filter:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"EverythingRadio"
 	{
@@ -162,14 +162,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Everything"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 		"SubTabPosition"		"1"
@@ -184,14 +184,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Point"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 		"SubTabPosition"		"2"
@@ -206,14 +206,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Brush"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 		"SubTabPosition"		"3"
@@ -228,14 +228,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Include Hidden Objects"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 	}
@@ -249,14 +249,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"By Key/Value"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 	}
@@ -270,7 +270,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"textHidden"		"0"
@@ -289,14 +289,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"="
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"ValueTextEntry"
 	{
@@ -308,7 +308,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"3"
 		"textHidden"		"0"
@@ -327,14 +327,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Exact Matches Only"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 	}
@@ -348,14 +348,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"By Class Name"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 	}
@@ -369,7 +369,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"4"
 		"textHidden"		"0"

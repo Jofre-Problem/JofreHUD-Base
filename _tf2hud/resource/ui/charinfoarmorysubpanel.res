@@ -6,7 +6,7 @@
 		"fieldName"		"armory_panel"
 		"wide"			"f0"
 		"zpos"			"501"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		
@@ -74,7 +74,7 @@
 		"tall"			"15"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -92,7 +92,7 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 
@@ -110,7 +110,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 	
@@ -126,7 +126,7 @@
 		"tall"				"20"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -153,7 +153,7 @@
 		
 		"wide"			"270"
 		"tall"			"253"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 		"border"		"StorePreviewBorder"
@@ -171,7 +171,7 @@
 			"tall"			"125"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"TanLight"
 			"wrap"			"1"
@@ -196,8 +196,8 @@
 		"zpos"			"1"
 		"wide"			"260"
 		"tall"			"135"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
+		////"visible"		"1"
+		"bgcolor_override"		"Blank"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"0"
 		
@@ -222,7 +222,7 @@
 		"wide"			"290"
 		"tall"			"140"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"0"
 		
@@ -251,7 +251,7 @@
 		"wide"			"250"
 		"tall"			"180"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
@@ -290,13 +290,13 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"<"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"prevpage"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -317,7 +317,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -333,13 +333,13 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		">"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"nextpage"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -357,14 +357,14 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#ArmoryButton_Wiki"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"wiki"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -382,14 +382,14 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#ArmoryButton_SetDetails"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"viewset"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -413,7 +413,7 @@
 		"labelText"		"#ArmoryButton_Store"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"openstore"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -438,7 +438,7 @@
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"reloadscheme"
 		"sound_depressed"	"UI/buttonclick.wav"

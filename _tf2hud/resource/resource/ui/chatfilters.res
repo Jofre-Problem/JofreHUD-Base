@@ -23,12 +23,12 @@
 		"tall"			"10"
 		"autoResize"		"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#filter_joinleave"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"Default"		"0"		
 	}
@@ -42,12 +42,12 @@
 		"tall"			"10"
 		"autoResize"		"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#filter_namechange"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"Default"		"0"		
 	}
@@ -61,12 +61,12 @@
 		"tall"			"10"
 		"autoResize"		"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#filter_publicchat"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"Default"		"0"		
 	}
@@ -80,12 +80,12 @@
 		"tall"			"10"
 		"autoResize"		"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#filter_servermsg"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"Default"		"0"		
 	}
@@ -99,12 +99,12 @@
 		"tall"			"10"
 		"autoResize"		"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#filter_teamchange"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"Default"		"0"		
 	}
@@ -119,12 +119,12 @@
 		"tall"			"10"
 		"autoResize"		"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#filter_achievement"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"Default"		"0"		
 	}

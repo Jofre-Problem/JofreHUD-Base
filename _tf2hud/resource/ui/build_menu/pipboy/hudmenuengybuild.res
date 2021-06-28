@@ -9,7 +9,7 @@
 		
 		"wide"			"450"
 		"tall"			"180"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"paintbackground" "0"
 	}
@@ -23,7 +23,7 @@
 		"zpos"			"-2"
 		"wide"			"450"
 		"tall"			"180"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"pipboy_overlay"
@@ -39,7 +39,7 @@
 		"zpos"			"-1"
 		"wide"			"40"
 		"tall"			"40"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"pipboy_engineer"
@@ -56,7 +56,7 @@
 		"zpos"			"1"
 		"wide"			"48"
 		"tall"			"48"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_build"
@@ -75,11 +75,11 @@
 		"tall"			"38"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#Hud_menu_build_title"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"0 255 0 255"
 	}
@@ -96,11 +96,11 @@
 		"tall"			"13"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Build_Cancel"
 		"textAlignment"	"East"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"0 255 0 255"
 	}
@@ -114,7 +114,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"1"
+		////"visible"		"1"
 	}	
 	
 	"active_item_2"
@@ -126,7 +126,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"1"
+		////"visible"		"1"
 	}	
 	
 	"active_item_3"
@@ -138,7 +138,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"1"
+		////"visible"		"1"
 	}	
 	
 	"active_item_4"
@@ -150,7 +150,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"1"
+		////"visible"		"1"
 	}
 	
 	"already_built_item_1"

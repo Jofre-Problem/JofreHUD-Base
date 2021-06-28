@@ -6,7 +6,7 @@
 		"fieldName"		"TopLine"
 		"zpos"			"2"
 		"tall"			"10"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"

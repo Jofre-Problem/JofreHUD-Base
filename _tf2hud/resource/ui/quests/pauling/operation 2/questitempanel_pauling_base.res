@@ -78,7 +78,7 @@
 					"zpos"			"1"
 					"wide"			"f0"
 					"tall"			"o1"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"			"contracts/contracts_papers1_vacation"
@@ -107,7 +107,7 @@
 				"tall"		"f0"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"proportionaltoparent"	"1"
@@ -122,7 +122,7 @@
 					"zpos"			"9"
 					"wide"			"f0"
 					"tall"			"o1"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"			"contracts\contracts_folder1_front"
@@ -141,7 +141,7 @@
 					"zpos"		"100"
 					"wide"		"f0"
 					"tall"		"f0"
-					"visible"		"1"
+					////"visible"		"1"
 					
 
 					"proportionaltoparent"	"1"
@@ -175,7 +175,7 @@
 							
 							"wide"			"f0"
 							"tall"			"f0"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							"scaleImage"	"1"
 							"image"			"contracts/sticky"
@@ -237,7 +237,7 @@
 							
 							"wide"			"f0"
 							"tall"			"f0"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							"scaleImage"	"1"
 							"image"			"contracts/sticky_turn_in"
@@ -303,7 +303,7 @@
 							
 							"wide"			"f0"
 							"tall"			"f0"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							"scaleImage"	"1"
 							"image"			"contracts/sticky_inactive"

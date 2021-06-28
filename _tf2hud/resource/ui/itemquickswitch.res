@@ -58,7 +58,7 @@
 		"tall"			"15"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -76,7 +76,7 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 
@@ -94,7 +94,7 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 	
@@ -107,7 +107,7 @@
 		"zpos"			"2"
 		"wide"			"265"
 		"tall"			"10"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
@@ -151,7 +151,7 @@
 			"zpos"			"100"
 			"wide"			"200"
 			"tall"			"40"
-			"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"fgcolor_override" "200 80 60 255"
 			"bgcolor_override"	"0 0 0 0"
@@ -188,7 +188,7 @@
 		"tall"			"120"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"	"0"

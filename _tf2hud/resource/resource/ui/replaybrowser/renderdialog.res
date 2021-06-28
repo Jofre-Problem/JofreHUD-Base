@@ -10,7 +10,7 @@
 		"tall"			"415"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -28,7 +28,7 @@
 		
 		
 		"wide"			"250"
-		"visible"		"1"
+		////"visible"		"1"
 		"bgcolor_override"	"Replay.RenderDialog.BgColor"
 		"border"			"EconItemBorder"
 		"paintbackground"	"1"
@@ -49,7 +49,7 @@
 		"tall"			"25"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 	
@@ -64,14 +64,14 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_CancelBold"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -93,14 +93,14 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Replay_Go"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"render"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -124,9 +124,9 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 	}
@@ -144,9 +144,9 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 		"fgcolor_override"	"236 227 203 255"
@@ -168,9 +168,9 @@
 		"tall"			"13"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 	}
@@ -190,9 +190,9 @@
 		"tall"			"13"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 	}
@@ -206,7 +206,7 @@
 		"zpos"			"1"
 		"wide"			"220"
 		"tall"			"5"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"replay/replaybrowser_solidline"
 		"tileImage"		"1"
@@ -225,9 +225,9 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 	}
@@ -245,9 +245,9 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 		"fgcolor_override"	"236 227 203 255"
@@ -267,9 +267,9 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 	}
@@ -287,9 +287,9 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 		"fgcolor_override"	"236 227 203 255"
@@ -309,9 +309,9 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 	}
@@ -322,7 +322,7 @@
 		"fieldName"		"MotionBlurSlider"
 		"leftText"		"#Replay_MotionBlur_Low"
 		"rightText"		"#Replay_MotionBlur_High"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"xpos"			"105"
 		"ypos"			"-1"
@@ -346,9 +346,9 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 	}
@@ -359,7 +359,7 @@
 		"fieldName"		"QualitySlider"
 		"leftText"		"#Replay_Quality_Low"
 		"rightText"		"#Replay_Quality_High"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"xpos"			"105"
 		"ypos"			"-1"
@@ -385,9 +385,9 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 	}
@@ -405,9 +405,9 @@
 		"tall"			"8"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 	}
@@ -424,9 +424,9 @@
 		"tall"			"8"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 	}
@@ -508,9 +508,9 @@
 		"tall"			"13"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 	}
@@ -530,9 +530,9 @@
 		"tall"			"13"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 	}
@@ -552,9 +552,9 @@
 		"tall"			"13"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 	}	
@@ -573,7 +573,7 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"wrap"			"1"
 		
 		"fgcolor_override" "200 80 60 255"

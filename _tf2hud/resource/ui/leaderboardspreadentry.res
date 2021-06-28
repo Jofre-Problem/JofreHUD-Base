@@ -9,7 +9,7 @@
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"30"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"Border"
@@ -34,7 +34,7 @@
 			"zpos"			"2"
 			"wide"			"20"
 			"tall"			"20"
-			"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"bgcolor_override"	"117 107 94 255"
 			"proportionaltoparent"	"1"
@@ -49,7 +49,7 @@
 			"zpos"			"3"
 			"wide"			"16"
 			"tall"			"16"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			""
 			"scaleImage"	"1"	
@@ -71,7 +71,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"0"
 			"proportionaltoparent"	"1"
@@ -91,7 +91,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"0"
 			"proportionaltoparent"	"1"
@@ -121,7 +121,7 @@
 				"tall"				"p0.4"
 				"autoResize"		"1"
 				
-				"visible"			"1"
+				//"visible"			"1"
 				
 				"fgcolor_override"	"89 81 71 255"
 				"bgcolor_override"	"196 145 38 255"

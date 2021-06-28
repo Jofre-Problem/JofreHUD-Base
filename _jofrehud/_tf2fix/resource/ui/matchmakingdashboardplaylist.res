@@ -8,7 +8,7 @@
 		"zpos"			"1001"
 		"wide"			"280"
 		"tall"			"f70"
-		"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -39,7 +39,7 @@
 		"zpos"			"100"
 		"wide"			"255"
 		"tall"			"365"
-		"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
 

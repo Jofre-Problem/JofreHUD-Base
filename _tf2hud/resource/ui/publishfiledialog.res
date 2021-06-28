@@ -10,7 +10,7 @@
 		"tall"		"400"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"		"0"
@@ -28,7 +28,7 @@
 		"tall"		"400"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"bgcolor_override"	"0 0 0 255"
@@ -43,7 +43,7 @@
 		"zpos"			"-99"
 		"wide"			"600"
 		"tall"			"300"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"workshop_blue_top"
 		"scaleImage"	"1"
@@ -59,7 +59,7 @@
 		"tall"		"45"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"bgcolor_override"	"57 52 49 255"
@@ -75,14 +75,14 @@
 		"tall"		"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_Title"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"font"		"HudFontMediumBold"
 	}
 
@@ -96,14 +96,14 @@
 		"tall"		"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_Preview"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
 
@@ -118,7 +118,7 @@
 		"tall"		"150"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"border"				"SteamWorkshopBorder"
@@ -133,12 +133,12 @@
 			"tall"		"120"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#TF_PublishFile_PreviewDesc"
 			"textAlignment"		"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 			"wrap"		"1"
 			"font"		"HudFontSmallest"
@@ -166,14 +166,14 @@
 		"tall"		"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_Browse"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"PreviewBrowse"
 		"Default"		"1"
 		"font"		"HudFontSmallBold"
@@ -189,14 +189,14 @@
 		"tall"		"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_TitleLabel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
 
@@ -210,7 +210,7 @@
 		"tall"		"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -234,14 +234,14 @@
 		"tall"		"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_DescLabel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
 	"FileDesc"
@@ -254,7 +254,7 @@
 		"tall"		"125"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -278,14 +278,14 @@
 		"tall"		"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_FileLabel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
 	
@@ -299,7 +299,7 @@
 		"tall"		"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"			"#TF_PublishFile_NoFileSelected"
@@ -321,14 +321,14 @@
 		"tall"		"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_Cosmetics"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"MainFileCosmetics"
 		"Default"		"1"
 		"font"		"HudFontSmallBold"
@@ -357,14 +357,14 @@
 		"tall"		"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_Other"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"MainFileOther"
 		"Default"		"1"
 		"font"		"HudFontSmallBold"
@@ -380,14 +380,14 @@
 		"tall"		"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_Maps"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"MainFileMaps"
 		"Default"		"1"
 		"font"		"HudFontSmallBold"
@@ -416,12 +416,12 @@
 		"tall"		"55"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_BrowseDesc"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"		"1"
 		"font"		"HudFontSmallest"
@@ -438,14 +438,14 @@
 		"tall"		"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_Tags"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
 
@@ -457,7 +457,7 @@
 		"ypos"			"45"
 		"wide"			"160"
 		"tall"			"228"
-		"visible"		"1"
+		////"visible"		"1"
 		"paintbackground" "0"
 
 		"ClassCheckBox1"
@@ -474,9 +474,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -494,9 +494,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -514,9 +514,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -534,9 +534,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -554,9 +554,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -574,9 +574,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -594,9 +594,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -614,9 +614,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -634,9 +634,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}	
@@ -655,9 +655,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -675,9 +675,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -695,9 +695,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -715,9 +715,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -735,9 +735,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -755,9 +755,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}		
@@ -775,9 +775,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -795,9 +795,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -815,9 +815,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}		
@@ -835,9 +835,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -856,9 +856,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -876,9 +876,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -896,9 +896,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -916,9 +916,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -936,9 +936,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -956,9 +956,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -976,9 +976,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -996,9 +996,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1016,9 +1016,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1036,9 +1036,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1056,9 +1056,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1076,9 +1076,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1096,9 +1096,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1116,9 +1116,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1136,9 +1136,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1156,9 +1156,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1176,9 +1176,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1196,9 +1196,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1214,14 +1214,14 @@
 		"tall"		"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 		"font"		"HudFontSmallBold"
@@ -1237,14 +1237,14 @@
 		"tall"		"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_Publish"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Publish"
 		"Default"		"1"
 		"font"		"HudFontSmallBold"

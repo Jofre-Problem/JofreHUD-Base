@@ -135,7 +135,7 @@
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"frame_maximize"
@@ -155,7 +155,7 @@
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"frame_mintosystray"
@@ -175,7 +175,7 @@
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"MinimizeToSysTray"
 		"Default"		"0"
 	}
@@ -195,7 +195,7 @@
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"frame_menu"
@@ -214,7 +214,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 }	

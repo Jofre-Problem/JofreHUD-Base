@@ -11,14 +11,14 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Replay_RenderNow"
 		"font"			"ReplayMediumSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"rendernow"
 		"sound_depressed"	"UI/buttonclick.wav"

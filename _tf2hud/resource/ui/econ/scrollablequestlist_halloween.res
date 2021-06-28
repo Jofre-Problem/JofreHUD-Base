@@ -11,7 +11,7 @@
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"proportionaltoparent" "1"
 
@@ -24,7 +24,7 @@
 			
 			"wide"		"f0"
 			"tall"		"f0"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"textAlignment"	"east"
 			"labelText"			""

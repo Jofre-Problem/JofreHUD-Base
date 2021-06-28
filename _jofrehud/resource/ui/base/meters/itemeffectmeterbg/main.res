@@ -9,7 +9,7 @@
 		
 		"wide"			"100"
 		"tall"			"50"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"			
 	}

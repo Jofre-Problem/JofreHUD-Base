@@ -10,7 +10,7 @@
 		"tall"		"170"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,7 +26,7 @@
 		"tall"		"5"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -40,7 +40,7 @@
 		"tall"		"5"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -54,7 +54,7 @@
 		"tall"		"154"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -68,7 +68,7 @@
 		"tall"		"144"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -82,7 +82,7 @@
 		"tall"		"8"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -96,7 +96,7 @@
 		"tall"		"8"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -110,7 +110,7 @@
 		"tall"		"8"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -124,7 +124,7 @@
 		"tall"		"18"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -138,7 +138,7 @@
 		"tall"		"23"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -157,9 +157,9 @@
 		
 		"labelText"		"0"
 		"textAlignment"		"north-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"frame_maximize"
@@ -177,9 +177,9 @@
 		
 		"labelText"		"1"
 		"textAlignment"		"north-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"frame_mintosystray"
@@ -197,9 +197,9 @@
 		
 		"labelText"		"o"
 		"textAlignment"		"north-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"MinimizeToSysTray"
 		"Default"		"0"
 	}
@@ -218,9 +218,9 @@
 		
 		"labelText"		"r"
 		"textAlignment"		"north-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"frame_menu"
@@ -233,13 +233,13 @@
 		"tall"		"18"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"OkButton"
@@ -252,14 +252,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"7"
 		"labelText"		"#vgui_ok"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Ok"
 		"Default"		"0"
 	}
@@ -273,14 +273,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"8"
 		"labelText"		"#vgui_Cancel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Cancel"
 		"Default"		"0"
 	}
@@ -294,14 +294,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"Progressive Refinement"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"DoFEnabled"
@@ -314,14 +314,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"Depth of Field"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"DoFQualityLabel"
@@ -334,14 +334,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"# Samples:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"DoFQuality"
 	{
@@ -353,7 +353,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"3"
 		"textHidden"		"0"
@@ -372,14 +372,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"Motion Blur"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"MotionBlurQualityLabel"
@@ -392,14 +392,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"# Samples:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"MotionBlurQuality"
 	{
@@ -411,7 +411,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"5"
 		"textHidden"		"0"
@@ -430,14 +430,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"6"
 		"labelText"		"Subpixel Jitter AA"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 }

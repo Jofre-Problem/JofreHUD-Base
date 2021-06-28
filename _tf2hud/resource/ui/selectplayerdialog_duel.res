@@ -29,7 +29,7 @@
 				"tall"			"30"
 				
 				"pinCorner"		"3"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"labelText"		""
@@ -37,7 +37,7 @@
 				"textAlignment"	"west"
 				"textinsetx"	"34"
 				"use_proportional_insets" "1"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -54,7 +54,7 @@
 				"wide"			"20"
 				"tall"			"20"
 				"image"			""
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"	
 				"color_outline"	"52 48 45 255"
@@ -76,7 +76,7 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -101,7 +101,7 @@
 			
 			"wide"			"190"
 			"tall"			"130"
-			"visible"		"1"
+			////"visible"		"1"
 		}
 	}
 
@@ -131,7 +131,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override" "200 187 161 255"
 		}	
@@ -147,13 +147,13 @@
 			"tall"			"25"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#TF_SelectPlayer_SelectFriends"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"friends"
@@ -171,13 +171,13 @@
 			"tall"			"25"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#TF_SelectPlayer_SelectServer"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"server"
@@ -210,7 +210,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override" "200 187 161 255"
 		}	
@@ -229,7 +229,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"centerwrap"	"1"
@@ -262,7 +262,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override" "200 187 161 255"
 		}	
@@ -281,7 +281,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"centerwrap"	"1"
@@ -303,7 +303,7 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 
@@ -322,7 +322,7 @@
 		
 		"visible"		"0"
 		
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		"PaintBackgroundType"	"2"
 		"centerwrap"	"1"
 		"paintborder"	"1"
@@ -339,7 +339,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -368,7 +368,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -387,13 +387,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"cancel"

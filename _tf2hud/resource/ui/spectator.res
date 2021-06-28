@@ -7,7 +7,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -26,7 +26,7 @@
 		"wide"			"f0"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -43,7 +43,7 @@
 		"tall"			"90"	[$X360]		
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		
 	}
@@ -61,7 +61,7 @@
 		"wide"			"f0"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"visible_minmode"		"0"
 		
 		
@@ -85,7 +85,7 @@
 		//"tall_hidef"		"23"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
@@ -129,7 +129,7 @@
 		//"tall_hidef"		"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"visible_minmode"		"0"
 		
 		"labelText"		"map: cp_bridge"
@@ -153,7 +153,7 @@
 		"zpos"			"2"
 		
 		
-		"visible"		"1"	[$WIN32]
+		////"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
 		
@@ -178,7 +178,7 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"	[$WIN32]
+		////"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
 		
@@ -200,7 +200,7 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"	[$WIN32]
+		////"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
 		
@@ -221,7 +221,7 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"	[$WIN32]
+		////"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
 		
@@ -242,7 +242,7 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"	[$WIN32]
+		////"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
 		
@@ -263,7 +263,7 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"	[$WIN32]
+		////"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
 		
@@ -284,7 +284,7 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"	[$WIN32]
+		////"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
 		
@@ -310,7 +310,7 @@
 		//"tall_lodef"	"70"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"visible_minmode"		"0"
 		
 		"labelText"		"%tip%"
@@ -368,11 +368,11 @@
 			"tall"			"9"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"#FreezePanel_Item"
 			"textAlignment"	"Left"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 		}
 	}	
@@ -386,7 +386,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}		
 }

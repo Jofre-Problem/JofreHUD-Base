@@ -10,7 +10,7 @@
 		"tall"			"380"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"	"1"
@@ -30,7 +30,7 @@
 			
 			
 			"UnpinnedCornerOffsetY" "-30"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"tabPosition"	"1"
 		}
@@ -47,7 +47,7 @@
 			"PinCorner"		"2"
 			
 			"labelText"		"#AssetBuilder_Compile"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"tabPosition"	"1"
 			"Default"		"1"
@@ -65,7 +65,7 @@
 			"PinCorner"		"2"
 			
 			"labelText"		"#AssetBuilder_Publish"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"tabPosition"	"2"
 			"Default"		"1"
@@ -84,7 +84,7 @@
 			"UnpinnedCornerOffsetX" "-124"
 			
 			"labelText"		"#AssetBuilder_Publish"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"tabPosition"	"2"
 			"Default"		"1"
@@ -103,7 +103,7 @@
 			
 			
 			"labelText"		"#AssetBuilder_AbortCompile"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"tabPosition"	"2"
 			"Default"		"1"

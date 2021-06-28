@@ -6,11 +6,11 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"BackButton"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"back"
 		"sound_depressed"	"UI/buttonclick.wav"

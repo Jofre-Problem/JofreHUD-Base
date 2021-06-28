@@ -27,7 +27,7 @@
 		"tall"			"42"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"centerwrap"	"1"
@@ -49,7 +49,7 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%ellipses%"
 		"textAlignment"		"north"
@@ -69,7 +69,7 @@
 		"tall"			"60"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%duration%"
 		"textAlignment"		"north"
@@ -88,13 +88,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"user_close"

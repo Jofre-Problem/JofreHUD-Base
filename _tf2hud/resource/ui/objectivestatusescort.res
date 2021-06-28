@@ -9,7 +9,7 @@
 		"zpos"				"1"
 		"wide"				"400"
 		"tall"				"150"
-		"visible"			"1"
+		//"visible"			"1"
 		
 		"progress_xpos"		"79"
 		"progress_wide"		"270"
@@ -30,7 +30,7 @@
 		
 		"wide"			"254"
 		"tall"			"4"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		""
 		"image"			"../hud/cart_track"
@@ -72,7 +72,7 @@
 			"ypos"			"114"
 			"zpos"			"6"
 			"tall"			"12"
-			"visible"		"1"
+			////"visible"		"1"
 		}
 	}		
 	
@@ -91,7 +91,7 @@
 		"tall_minmode"		"18"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		""
@@ -187,7 +187,7 @@
 		"wide_minmode"		"52"		
 		"tall"			"115"
 		"tall_minmode"		"75"		
-		"visible"		"1"
+		////"visible"		"1"
 		
 				
 		"if_multiple_trains"
@@ -215,11 +215,11 @@
 			"tall_minmode"		"7"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"%recede%"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			
 			"if_multiple_trains"
@@ -256,7 +256,7 @@
 			"tall_minmode"		"26"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		""
@@ -441,7 +441,7 @@
 			
 			"labelText"		"#ControlPointIconCappers"
 			"textAlignment"	"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			
 			"if_multiple_trains"
@@ -538,7 +538,7 @@
 				"wide_minmode"			"35"				
 				"tall"				"65"
 				"tall_minmode"			"42"
-				"visible"			"1"
+				//"visible"			"1"
 				
 				"scaleImage"		"1"
 				"icon"				"cappoint_progressbar_teardrop"
@@ -598,7 +598,7 @@
 				"wide_minmode"			"31"
 				"tall"				"50"
 				"tall_minmode"			"31"
-				"visible"			"1"
+				//"visible"			"1"
 				
 				"scaleImage"		"1"
 				"icon"				"cappoint_progressbar_blocked"

@@ -10,7 +10,7 @@
 		"tall"			"250"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -31,7 +31,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 	
@@ -49,7 +49,7 @@
 		"tall"			"130"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"centerwrap"	"1"
 		"fgcolor_override" "200 80 60 255"
@@ -66,14 +66,14 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -92,14 +92,14 @@
 		"default"		"1"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#ConfirmButtonText"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"confirm"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -117,12 +117,12 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_Confirm_Opt_Out"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"HudFontSmallest"

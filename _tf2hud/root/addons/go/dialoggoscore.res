@@ -10,7 +10,7 @@
 		"tall"		"180"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -24,12 +24,12 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Setting up YYY Game with XXX"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"BlackTerritoryLabel"
@@ -42,12 +42,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Black Territory: 0"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"BlackCapturedLabel"
@@ -60,12 +60,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Black Captured: 0"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"BlackScoreLabel"
@@ -78,12 +78,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Black Score: 0"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"WhiteTerritoryLabel"
@@ -96,12 +96,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"White Territory: 0"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"WhiteCapturedLabel"
@@ -114,12 +114,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"White Captured: 0"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"WhiteScoreLabel"
@@ -132,12 +132,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"White Score: 0"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"CloseWindowBtn"
@@ -150,12 +150,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Close Game Window"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"Default"		"0"
 	}
@@ -169,12 +169,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Keep Game Window"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"Default"		"0"
 	}

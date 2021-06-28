@@ -11,12 +11,12 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_Confirm_Opt_Out"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"HudFontSmallest"

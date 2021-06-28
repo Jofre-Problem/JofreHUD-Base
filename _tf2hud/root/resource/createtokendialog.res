@@ -10,7 +10,7 @@
 		"tall"		"334"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -42,7 +42,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -59,7 +59,7 @@
 		"tall"		"120"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"textHidden"		"0"
@@ -76,7 +76,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"5"
 		"labelText"		"&Cancel"
@@ -94,7 +94,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"&OK"
@@ -112,7 +112,7 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Token Name"
@@ -128,7 +128,7 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Token Value"

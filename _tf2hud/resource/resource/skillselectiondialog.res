@@ -10,7 +10,7 @@
 		"tall"		"180"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,14 +26,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_Easy"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"1"
 	}
@@ -47,14 +47,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_Medium"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"2"
 	}
@@ -68,14 +68,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_Hard"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"3"
 	}
@@ -89,14 +89,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 	}
@@ -110,14 +110,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_Start"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Play"
 		"Default"		"1"
 	}

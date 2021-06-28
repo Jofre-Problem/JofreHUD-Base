@@ -6,7 +6,7 @@
 		"zpos"			"1"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"DisguiseHintIcon"
@@ -20,7 +20,7 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"

@@ -47,11 +47,11 @@
 			"tall"			"9"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"#FreezePanel_Item"
 			"textAlignment"	"Left"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 		}
 	}	

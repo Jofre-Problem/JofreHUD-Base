@@ -11,11 +11,11 @@
 		"tall"			"310"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"1"
 		"textAlignment"	"south-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"paintborder"	"0"
 		"associated_model"	"autodoor"
@@ -33,11 +33,11 @@
 		"tall"			"57"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"2"
 		"textAlignment"	"south-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"paintborder"	"0"
 		"associated_model"	"spectate"	

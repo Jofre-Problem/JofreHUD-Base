@@ -10,7 +10,7 @@
 		"tall"			"256"
 		"AutoResize"	"3"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		
@@ -32,7 +32,7 @@
 			
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 		}

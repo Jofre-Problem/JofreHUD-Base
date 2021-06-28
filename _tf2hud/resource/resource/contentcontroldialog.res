@@ -10,7 +10,7 @@
 		"tall"		"250"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -24,12 +24,12 @@
 		"tall"		"28"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"	"#GameUI_ContentStatusDisabled"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 	}
 	"PasswordPrompt"
 	{
@@ -41,12 +41,12 @@
 		"tall"		"28"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_PasswordPrompt"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 	}
 	"PasswordReentryPrompt"
 	{
@@ -58,12 +58,12 @@
 		"tall"		"28"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_PasswordReentryPrompt"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 	}
 	"ContentControlExplain"
 	{
@@ -75,12 +75,12 @@
 		"tall"		"28"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		""
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 	}
 	"Password"
 	{
@@ -92,7 +92,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"1"
@@ -109,7 +109,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"textHidden"		"1"
@@ -126,12 +126,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"command"		"Ok"
 		"default"		"1"
 	}
@@ -145,12 +145,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"command"		"Cancel"
 		"default"		"0"
 	}
@@ -164,7 +164,7 @@
 		"tall"		"590"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}

@@ -10,7 +10,7 @@
 		"tall"		"565"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"SysMenu"
@@ -36,7 +36,7 @@
 		"tall"		"16"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"Divider0"
@@ -49,7 +49,7 @@
 		"tall"		"2"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}	
 	"TextPlayerName0"
@@ -64,7 +64,7 @@
 		
 		"labelText"		""
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"LabelPlayerBid0"
@@ -79,7 +79,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"LabelPlayerTricks0"
@@ -94,7 +94,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TextPlayerName1"
@@ -109,7 +109,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"LabelPlayerBid1"
@@ -124,7 +124,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"LabelPlayerTricks1"
@@ -139,7 +139,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TextPlayerName2"
@@ -154,7 +154,7 @@
 		
 		"labelText"		""
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"LabelPlayerBid2"
@@ -169,7 +169,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"LabelPlayerTricks2"
@@ -184,7 +184,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TextPlayerName3"
@@ -199,7 +199,7 @@
 		
 		"labelText"		""
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"LabelPlayerBid3"
@@ -214,7 +214,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"LabelPlayerTricks3"
@@ -229,7 +229,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -269,7 +269,7 @@
 		"tall"			"175"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"BiddingInstructionsLabel"
@@ -299,7 +299,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TeamScoringBidTricks0"
@@ -314,7 +314,7 @@
 		
 		"labelText"		"#Spades_TeamBidTricks"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TeamScoringPointsText0"
@@ -329,7 +329,7 @@
 		
 		"labelText"		"#SteamAddOn_Points"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TeamScoringPointsValue0"
@@ -344,7 +344,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TeamScoringFirstNilBidText0"
@@ -359,7 +359,7 @@
 		
 		"labelText"		"#Spades_MadeDoubleNilBid"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TeamScoringFirstNilBidValue0"
@@ -374,7 +374,7 @@
 		
 		"labelText"		"+50"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TeamScoringSecondNilBidText0"
@@ -389,7 +389,7 @@
 		
 		"labelText"		"#Spades_FailDoubleNilBid"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TeamScoringSecondNilBidValue0"
@@ -404,7 +404,7 @@
 		
 		"labelText"		"-100"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TeamScoringScoreText0"
@@ -419,7 +419,7 @@
 		
 		"labelText"		"#SteamAddOn_Score"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TeamScoringScoreValue0"
@@ -434,7 +434,7 @@
 		
 		"labelText"		"0"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -450,7 +450,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TeamScoringBidTricks1"
@@ -465,7 +465,7 @@
 		
 		"labelText"		"#Spades_TeamBidTricks"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TeamScoringPointsText1"
@@ -480,7 +480,7 @@
 		
 		"labelText"		"#SteamAddOn_Points"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TeamScoringPointsValue1"
@@ -495,7 +495,7 @@
 		
 		"labelText"		"+52"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TeamScoringFirstNilBidText1"
@@ -510,7 +510,7 @@
 		
 		"labelText"		"#Spades_MadeDoubleNilBid"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TeamScoringFirstNilBidValue1"
@@ -525,7 +525,7 @@
 		
 		"labelText"		"+50"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TeamScoringSecondNilBidText1"
@@ -540,7 +540,7 @@
 		
 		"labelText"		"#Spades_FailDoubleNilBid"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TeamScoringSecondNilBidValue1"
@@ -555,7 +555,7 @@
 		
 		"labelText"		"-100"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TeamScoringScoreText1"
@@ -570,7 +570,7 @@
 		
 		"labelText"		"#SteamAddOn_Score"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TeamScoringScoreValue1"
@@ -585,7 +585,7 @@
 		
 		"labelText"		"0"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -926,7 +926,7 @@
 		"tall"			"24"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"18"
 		"labelText"		"#SteamAddOn_ShowScore"
@@ -943,7 +943,7 @@
 		"tall"			"24"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"19"
 		"labelText"		"#SteamAddOn_LastTrick"
@@ -977,7 +977,7 @@
 		"tall"		"75"
 		"autoResize"		"3"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"textHidden"		"0"
@@ -995,7 +995,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textHidden"		"0"
@@ -1012,7 +1012,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#SteamAddOn_Btn_Send"

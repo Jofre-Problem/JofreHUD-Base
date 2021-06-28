@@ -9,7 +9,7 @@
 		"zpos"			"2"
 		"wide"			"230"
 		"tall"			"22"
-		"visible"		"1"
+		////"visible"		"1"
 	
 		"Position"
 		{
@@ -25,7 +25,7 @@
 			"tall"			"16"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"0"
 		}
@@ -38,7 +38,7 @@
 			"zpos"			"2"
 			"wide"			"20"
 			"tall"			"20"
-			"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"bgcolor_override"	"117 107 94 255"
 		}
@@ -51,7 +51,7 @@
 			"zpos"			"3"
 			"wide"			"16"
 			"tall"			"16"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			""
 			"scaleImage"	"1"	
@@ -71,7 +71,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"0"
 		}
@@ -84,7 +84,7 @@
 			"zpos"			"100"
 			"wide"			"o1"
 			"tall"			"40"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"proportionaltoparent"	"1"
 		}
@@ -121,7 +121,7 @@
 				"zpos"			"1"
 				"wide"			"16"
 				"tall"			"16"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"button_streaming_glb"
 				"scaleImage"	"1"

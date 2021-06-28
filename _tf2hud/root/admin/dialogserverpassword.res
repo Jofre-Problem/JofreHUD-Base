@@ -8,7 +8,7 @@
 		"ypos"		"38"
 		"wide"		"268"
 		"tall"		"32"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Dialog_Server_With_Password_Info"
@@ -22,7 +22,7 @@
 		"ypos"		"72"
 		"wide"		"304"
 		"tall"		"24"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textAlignment"		"west"
@@ -35,7 +35,7 @@
 		"ypos"		"102"
 		"wide"		"300"
 		"tall"		"24"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"1"
@@ -50,7 +50,7 @@
 		"ypos"		"72"
 		"wide"		"64"
 		"tall"		"24"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Dialog_Server_With_Password_Server"
@@ -64,7 +64,7 @@
 		"ypos"		"100"
 		"wide"		"64"
 		"tall"		"24"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Dialog_Server_With_Password_Password"
@@ -78,7 +78,7 @@
 		"ypos"		"140"
 		"wide"		"64"
 		"tall"		"28"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"#Dialog_Server_With_Password_Connect"
@@ -94,7 +94,7 @@
 		"ypos"		"140"
 		"wide"		"64"
 		"tall"		"28"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"3"
 		"labelText"		"#Dialog_Server_With_Password_Cancel"
@@ -110,7 +110,7 @@
 		"ypos"		"586"
 		"wide"		"285"
 		"tall"		"320"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}

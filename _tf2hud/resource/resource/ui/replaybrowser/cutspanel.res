@@ -6,7 +6,7 @@
 		"fieldName"		"CutsPanel"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"paintbackground"	"0"
 		
@@ -34,7 +34,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"zpos"			"1"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"
 			}				
@@ -88,7 +88,7 @@
 		"labelText"		"<"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"prevpage"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -105,7 +105,7 @@
 		"labelText"		">"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"nextpage"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -149,7 +149,7 @@
 		"zpos"			"1"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"centerwrap"	"0"
 		"fgcolor_override"	"117 107 94 255"

@@ -18,7 +18,7 @@
 			"zpos"			"5"
 			"wide"			"f0"
 			"tall"			"10"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"replay/replaybrowser_solidline"
 			"scaleImage"	"1"

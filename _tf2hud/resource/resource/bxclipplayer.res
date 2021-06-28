@@ -11,7 +11,7 @@
 		"tall"		"36"
 		"autoResize"		"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -25,15 +25,15 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"W"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"VCRControls"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"OnFirstFrame"
 		"Default"		"0"
 		"selected"		"0"
@@ -48,14 +48,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"["
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"OnPrevClipTop"
 		"Default"		"0"
 		"selected"		"0"
@@ -70,15 +70,15 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Y"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"VCRControls"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"OnPrevFrame"
 		"Default"		"0"
 		"selected"		"0"
@@ -93,15 +93,15 @@
 		"tall"		"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Z"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"VCRControls"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"OnShowRecordGameDialog"
 		"Default"		"0"
 		"selected"		"0"
@@ -116,15 +116,15 @@
 		"tall"		"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"R"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"VCRControls"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"OnPlayPause"
 		"Default"		"0"
 		"selected"		"0"
@@ -139,15 +139,15 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"X"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"VCRControls"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"OnNextFrame"
 		"Default"		"0"
 		"selected"		"0"
@@ -162,14 +162,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"]"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"OnNextClipTop"
 		"Default"		"0"
 		"selected"		"0"
@@ -184,15 +184,15 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"S"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"VCRControls"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"OnLastFrame"
 		"Default"		"0"
 		"selected"		"0"
@@ -207,15 +207,15 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"R"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"VCRControls"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"TrackMidiTime"
 		"Default"		"0"
 		"selected"		"0"
@@ -230,15 +230,15 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"+"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"VCRControls"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"RepeatType"
 		"Default"		"0"
 		"selected"		"0"

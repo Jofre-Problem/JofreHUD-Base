@@ -11,7 +11,7 @@
 		"tall"			"80"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fg_image"	"pocket_watch_FG"
 		"bg_image"	"pocket_watch_BG"

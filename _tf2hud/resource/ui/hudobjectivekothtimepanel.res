@@ -19,7 +19,7 @@
 		"zpos"				"2"
 		"wide"				"100"
 		"tall"				"150"
-		"visible"			"1"
+		//"visible"			"1"
 		
 		"delta_item_x"			"22"
 		"delta_item_start_y"	"50"
@@ -66,7 +66,7 @@
 			"wide_minmode"	"30"
 			//"wide_lodef"	"50"
 			"tall"			"31"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"textAlignment"		"center"
 			"labelText"		"0:00"
@@ -101,7 +101,7 @@
 		"zpos"				"2"
 		"wide"				"100"
 		"tall"				"150"
-		"visible"			"1"
+		//"visible"			"1"
 		
 		"delta_item_x"			"22"
 		"delta_item_start_y"	"50"
@@ -148,7 +148,7 @@
 			"wide_minmode"	"30"
 			//"wide_lodef"	"50"
 			"tall"			"31"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"textAlignment"		"center"
 			"labelText"		"0:00"

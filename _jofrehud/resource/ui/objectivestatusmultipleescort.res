@@ -8,7 +8,7 @@
 		"ypos"				"0"
 		"wide"				"f0"
 		"tall"				"480"
-		"visible"			"1"
+		//"visible"			"1"
 		
 	}
 
@@ -21,7 +21,7 @@
 		"zpos"				"1"
 		"wide"				"320"
 		"tall"				"256"
-		"visible"			"1"
+		//"visible"			"1"
 		
 		"progress_xpos"		"32"
 		"progress_wide"		"256"
@@ -36,7 +36,7 @@
 		"zpos"				"1"
 		"wide"				"400"
 		"tall"				"200"
-		"visible"			"1"
+		//"visible"			"1"
 		
 		"progress_xpos"		"32"
 		"progress_wide"		"256"

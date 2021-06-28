@@ -10,7 +10,7 @@
 		"tall"		"195"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -39,7 +39,7 @@
 		"tall"			"256"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"scaleImage"		"1"
@@ -54,14 +54,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"%name%"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"Description"
 	{
@@ -73,14 +73,14 @@
 		"tall"		"100"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"%description%"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"CompletedLabel"
 	{
@@ -92,14 +92,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TR_Completed"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"font"		"CenterPrintText"
 		"fgcolor_override"	"0 160 0 255"
 	}
@@ -113,14 +113,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TR_Not_Completed"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"font"		"CenterPrintText"
 		"fgcolor_override"	"192 28 0 255"
 	}

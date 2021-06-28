@@ -81,7 +81,7 @@
 		"zpos"			"3"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "44 33 27 255"
 	}

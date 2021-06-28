@@ -9,7 +9,7 @@
 		
 		"wide"			"450"
 		"tall"			"185"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"
@@ -25,7 +25,7 @@
 		"zpos"			"1"
 		"wide"			"48"
 		"tall"			"48"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_build"
@@ -41,7 +41,7 @@
 		
 		"wide"			"48"
 		"tall"			"48"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_build"
@@ -60,11 +60,11 @@
 		"tall"			"38"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"Engineering"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 	
@@ -81,7 +81,7 @@
 		"tall"			"38"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"Engineering"
 		"textAlignment"	"Left"
@@ -98,7 +98,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"1"
+		////"visible"		"1"
 	}	
 	
 	"active_item_2"
@@ -110,7 +110,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"1"
+		////"visible"		"1"
 	}	
 	
 	"active_item_3"
@@ -122,7 +122,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"1"
+		////"visible"		"1"
 	}	
 	
 	"active_item_4"
@@ -134,7 +134,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"1"
+		////"visible"		"1"
 	}
 	
 	"already_built_item_1"
@@ -242,7 +242,7 @@
 		"zpos"			"-1"
 		"wide"			"115"
 		"tall"			"138"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg_outline"
@@ -261,11 +261,11 @@
 		"tall"			"38"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"1"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 	
@@ -281,11 +281,11 @@
 		"tall"			"39"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Build_Action_Build"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 	
@@ -322,11 +322,11 @@
 		"tall"			"38"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"0"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 	
@@ -346,7 +346,7 @@
 		
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 	
@@ -363,11 +363,11 @@
 		"tall"			"39"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 	
@@ -383,11 +383,11 @@
 		"tall"			"38"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"B"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 	
@@ -403,11 +403,11 @@
 		"tall"			"39"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#Cancel"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 	"ButtonLegendBG"
@@ -421,7 +421,7 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 			
 		"fillcolor"		"0 0 0 190"

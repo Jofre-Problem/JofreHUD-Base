@@ -11,7 +11,7 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Label on top"
@@ -27,7 +27,7 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"textAlignment"		"west"
@@ -44,7 +44,7 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Label at left"
@@ -60,7 +60,7 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"textAlignment"		"west"
@@ -77,7 +77,7 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"Disabled"
@@ -93,7 +93,7 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		"textAlignment"		"west"
@@ -110,7 +110,7 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"Disabled"

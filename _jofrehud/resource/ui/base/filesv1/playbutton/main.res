@@ -10,14 +10,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Play"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Play"
 		"Default"		"0"
 	}
@@ -32,13 +32,13 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Replay_Watch"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"play"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -59,7 +59,7 @@
 		"zpos"			"3"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""

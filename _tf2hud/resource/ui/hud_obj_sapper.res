@@ -10,7 +10,7 @@
 		"tall"			"31"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"zpos"			"-1"
 		"wide"			"120"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_background_red"
@@ -39,7 +39,7 @@
 		"ypos"			"1"
 		"wide"			"28"
 		"tall"			"28"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_sapper"
@@ -54,7 +54,7 @@
 		
 		"wide"			"160"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 
 		"NotBuiltLabel"
 		{
@@ -67,11 +67,11 @@
 			"tall"			"31"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"#Building_hud_sapper_not_built"
 			"textAlignment"	"Left"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 		}
 	}
@@ -97,10 +97,10 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"textAlignment"	"Left"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 		}
 
@@ -125,11 +125,11 @@
 				"tall"			"12"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"labelText"		"#Building_hud_building"
 				"textAlignment"	"Left"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 			}
 			
@@ -144,10 +144,10 @@
 				"tall"			"8"				
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textAlignment"	"Left"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 			}
 		}
@@ -170,7 +170,7 @@
 				"ypos"			"5"
 				"wide"			"20"
 				"tall"			"20"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"	
 				"icon"			"obj_status_sentrygun_1"
@@ -188,10 +188,10 @@
 				"tall"			"8"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textAlignment"	"Left"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 			}
 		}

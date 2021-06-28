@@ -8,7 +8,7 @@
 		"ypos"			"420"
 		"wide"			"f0"
 		"tall"			"60"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"

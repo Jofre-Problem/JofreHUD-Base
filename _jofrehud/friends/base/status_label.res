@@ -17,6 +17,6 @@
 		"labelText"		"#Friends_LastMessageReceived"
 		"textAlignment"		"west"
 		"font"		"DefaultSmall"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 }

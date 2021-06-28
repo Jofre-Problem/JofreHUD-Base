@@ -5,7 +5,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"Refresh"
 		
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 }	

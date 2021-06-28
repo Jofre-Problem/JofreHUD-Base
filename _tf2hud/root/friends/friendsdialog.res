@@ -10,7 +10,7 @@
 		"tall"		"440"
 		"AutoResize"		"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -42,7 +42,7 @@
 		"tall"		"80"
 		"AutoResize"		"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -60,13 +60,13 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_Options"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 	}
@@ -86,7 +86,7 @@
 		"paintbackground"		"1"
 		"labelText"		"#Friends_AddFriend"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 	}

@@ -40,6 +40,6 @@
 		"visible"		"1"
 		
 		
-		"scaleImage"		"0"
+		//"scaleImage"		"0"
 	}
 }

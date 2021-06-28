@@ -10,7 +10,7 @@
 		"tall"		"292"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -29,7 +29,7 @@
 		"tall"		"292"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"bgcolor_override"	"40 37 37 255"
@@ -45,14 +45,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishedFiles_Files"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 
 	"PublishedFileList"
@@ -65,13 +65,13 @@
 		"tall"		"180"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	
 	"LabelPublishedFileTitle"
@@ -84,14 +84,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_TitleLabel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 
 	"LabelPublishedFileTitleValue"
@@ -104,13 +104,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"labelText"		""
 		// "editable"		"0"
 		// "maxchars"		"128"
@@ -126,12 +126,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_DescLabel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"		"1"
 	}
@@ -146,11 +146,11 @@
 		"tall"		"112"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textAlignment"		"north-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"		"1"
 		"labelText"		""
@@ -168,14 +168,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishedFiles_Add"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"AddFile"
 		"Default"		"0"
 	}
@@ -190,14 +190,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishedFiles_Delete"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"DeleteFile"
 		"Default"		"0"
 	}
@@ -212,14 +212,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishedFiles_Edit"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"EditFile"
 		"Default"		"0"
 	}
@@ -234,14 +234,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishedFiles_Refresh"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Refresh"
 		"Default"		"0"
 	}
@@ -256,14 +256,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_CLOSE"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 	}

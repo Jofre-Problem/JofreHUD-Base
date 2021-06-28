@@ -25,7 +25,7 @@
 	//	"paintbackground"		"1"
 	//	"labelText"		"#vgui_Cancel"
 	//	"textAlignment"		"west"
-	//	"wrap"		"0"
+	//	//"wrap"		"0"
 	//	"Command"		"Close"
 	//	"Default"		"0"
 	}

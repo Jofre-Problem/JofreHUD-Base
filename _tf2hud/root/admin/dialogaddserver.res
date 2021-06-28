@@ -10,7 +10,7 @@
 		"tall"		"240"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 	"SysMenu"
@@ -36,7 +36,7 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -53,11 +53,11 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#Dialog_AddServer_IP"
 		"textAlignment"		"south-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"ExampleLabel"
@@ -70,7 +70,7 @@
 		"tall"		"80"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#Dialog_AddServer_Example"
 		"textAlignment"		"west"
@@ -87,12 +87,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"#Okay_Button"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"Command"		"OK"
 		"Default"		"1"
@@ -107,12 +107,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"3"
 		"labelText"		"#Cancel_Button"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"Command"		"Close"
 		"Default"		"0"

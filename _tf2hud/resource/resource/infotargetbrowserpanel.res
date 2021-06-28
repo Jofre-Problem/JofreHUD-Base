@@ -10,7 +10,7 @@
 		"tall"		"708"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"636"
 		"autoResize"		"3"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 	}
@@ -38,14 +38,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Create Targets"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"DropInfoTargets"
 		"Default"		"0"
 		"selected"		"0"
@@ -60,14 +60,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Delete"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Delete"
 		"Default"		"0"
 		"selected"		"0"
@@ -82,14 +82,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Save"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Save"
 		"Default"		"0"
 		"selected"		"0"
@@ -104,14 +104,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Restart Map"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"RestartMap"
 		"Default"		"0"
 		"selected"		"0"
@@ -126,14 +126,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Entities:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"QuickSaveButton"
 	{
@@ -145,14 +145,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Quick Save"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"quicksave"
 		"Default"		"0"
 	}
@@ -166,14 +166,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Quick Load"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"quickload"
 		"Default"		"0"
 	}
@@ -187,7 +187,7 @@
 		"tall"		"504"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"

@@ -11,7 +11,7 @@
 		"tall"			"50"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"image"			"../hud/halloween_bar_surround"
@@ -27,7 +27,7 @@
 		"zpos"			"4"
 		"wide"			"168"
 		"tall"			"18"
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"BarImage"
@@ -41,7 +41,7 @@
 			"tall"			"18"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"image"			"../hud/halloween_bar"
@@ -61,10 +61,10 @@
 		"tall"			"8"				
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor_override"	"255 255 0 255"
 		"bgcolor_override"	"50 0 0 255"

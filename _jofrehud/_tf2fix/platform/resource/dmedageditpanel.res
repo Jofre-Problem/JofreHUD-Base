@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Splitter"
 		"fieldName"		"PropertiesSplitter"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"AutoResize"	"3"
 		
@@ -29,7 +29,7 @@
 				
 				
 				
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"tabPosition"	"1"
 			}
@@ -51,7 +51,7 @@
 				
 				
 				
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"tabPosition"	"1"
 			}

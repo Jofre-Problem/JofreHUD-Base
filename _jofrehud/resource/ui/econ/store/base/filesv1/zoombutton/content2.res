@@ -3,7 +3,7 @@
 	"ZoomButton"
 	{
 		"ControlName"	"CExImageButton"
-		"visible"		"1"
+		//"visible"		"1"
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"default"		"0"
@@ -22,7 +22,7 @@
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"store/store_zoom"
 			"scaleImage"	"1"

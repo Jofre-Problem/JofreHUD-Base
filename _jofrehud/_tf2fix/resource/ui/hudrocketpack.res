@@ -3,7 +3,7 @@
 	huditemeffectmeter
 	{
 		"fieldName"		"huditemeffectmeter"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"xpos"			"r265"	[$WIN32]
 		"xpos_minmode"	"r90"	[$WIN32]
@@ -24,7 +24,7 @@
 		"zpos"			"1"
 		"wide"			"110"
 		"tall"			"45"
-		"visible"		"1"
+		//"visible"		"1"
 		"visible_minmode""0"
 		
 		"scaleImage"	"1"	
@@ -45,7 +45,7 @@
 		"zpos"			"2"
 		"wide"			"32"
 		"tall"			"32"
-		"visible"		"1"
+		//"visible"		"1"
 		"visible_minmode""1"
 		
 		"image"			"../hud/pyro_jetpack_off2"
@@ -65,7 +65,7 @@
 		"tall"			"15"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_RocketPack_Disabled"
@@ -93,7 +93,7 @@
 		"tall_minmode"	"5"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"Left"
 		"dulltext"		"0"
@@ -117,7 +117,7 @@
 		"tall_minmode"	"5"			
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"Left"
 		"dulltext"		"0"

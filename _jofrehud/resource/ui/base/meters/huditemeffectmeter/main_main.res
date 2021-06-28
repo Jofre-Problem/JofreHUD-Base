@@ -3,7 +3,7 @@
 	huditemeffectmeter
 	{
 		"fieldName"		"huditemeffectmeter"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	//	
 	//	

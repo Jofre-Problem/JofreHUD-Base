@@ -25,7 +25,7 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"labelText"		"#TF_CheatDetected_Title"
@@ -44,7 +44,7 @@
 		"tall"			"85"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"labelText"		"%reason%"
@@ -61,13 +61,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Ok"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"close"

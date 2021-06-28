@@ -39,12 +39,12 @@
 		"tall"			"15"
 		"autoResize"		"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#chat_filterbutton"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"Default"		"0"		
 	}
@@ -62,7 +62,7 @@
 		"wrap"			"1"
 		"autoResize"		"1"
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		""
 		"textAlignment"		"south-west"

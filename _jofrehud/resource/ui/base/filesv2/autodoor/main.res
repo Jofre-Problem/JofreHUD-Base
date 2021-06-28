@@ -12,7 +12,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -61,7 +61,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"fov"			"20"
 		

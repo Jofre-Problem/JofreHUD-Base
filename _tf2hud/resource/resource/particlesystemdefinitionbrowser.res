@@ -10,7 +10,7 @@
 		"tall"		"522"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"450"
 		"autoResize"		"3"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"PinnedCornerOffsetX" "6"
@@ -42,14 +42,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Create"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 		"PinnedCornerOffsetX" "-6"
@@ -66,14 +66,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Delete"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 		"PinnedCornerOffsetX" "-6"
@@ -90,14 +90,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Copy"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 		"PinnedCornerOffsetX" "-6"
@@ -114,14 +114,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Create From KV"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 		"PinnedCornerOffsetX" "-6"
@@ -138,14 +138,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Save"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 		"PinnedCornerOffsetX" "20"
@@ -162,14 +162,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Save and Test"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 		"PinnedCornerOffsetX" "130"
@@ -186,13 +186,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Particle System Definitions:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 }

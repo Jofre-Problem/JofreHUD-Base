@@ -10,7 +10,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"	"0"
@@ -46,14 +46,14 @@
 		"tall"			"30"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Button_SkipIntro"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"command"		"skip"
 		"font"			"MenuSmallFont"
 	}
@@ -78,9 +78,9 @@
 		
 		"labelText"		"#TF_Continue"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"command"		"skip"
 		"font"			"MenuSmallFont"
 	}
@@ -96,10 +96,10 @@
 		"tall"			"25"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
@@ -119,11 +119,11 @@
 		"tall"			"30"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_Back"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"back"
 		"font"			"MenuSmallFont"
@@ -141,10 +141,10 @@
 		"tall"			"25"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_cancel"
@@ -168,7 +168,7 @@
 		
 		"labelText"		"#TF_ReplayIntro"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"replayVideo"
 		"font"			"MenuSmallFont"
@@ -190,7 +190,7 @@
 		//"tall_hidef"			"65"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 			
 		"image"			"loadout_bottom_gradient"
@@ -209,7 +209,7 @@
 		"tall"			"225"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"start_delay"	"2.0"
 		"end_delay"		"2.0"
@@ -226,7 +226,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -279,7 +279,7 @@
 		
 		"labelText"		" "
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"IntroMenuCaption"
 		"fgcolor"		"White"

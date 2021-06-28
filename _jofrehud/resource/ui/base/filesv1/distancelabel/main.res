@@ -5,7 +5,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"DistanceLabel"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}	
 }	

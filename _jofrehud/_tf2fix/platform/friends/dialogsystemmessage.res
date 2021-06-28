@@ -10,7 +10,7 @@
 		"tall"		"390"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,7 +26,7 @@
 		"tall"		"310"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -40,14 +40,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TrackerUI_Close"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"close"
 		"Default"		"0"
 	}

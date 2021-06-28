@@ -10,7 +10,7 @@
 		"tall"		"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -25,7 +25,7 @@
 		"tall"		"405"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		
@@ -39,7 +39,7 @@
 			"tall"		"405"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"paintbackground"	"1"

@@ -19,12 +19,12 @@
 	//	"tall"		"24"
 	//	
 	//	
-	//	"visible"		"1"
+	//	//"visible"		"1"
 	//	
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 	//	"textAlignment"		"west"
-	//	"wrap"		"0"
+	//	//"wrap"		"0"
 	//	"Command"		"OK"
 	//	"Default"		"1"
 	}

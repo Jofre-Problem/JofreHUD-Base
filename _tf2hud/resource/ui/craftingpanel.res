@@ -9,7 +9,7 @@
 		"wide"			"f0"
 		"tall"			"400"
 		"zpos"			"501"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		
@@ -37,7 +37,7 @@
 			"wide"			"70"
 			"tall"			"45"
 			"visible"		"0"
-			"bgcolor_override"		"0 0 0 0"
+			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
@@ -60,8 +60,8 @@
 				
 				"wide"			"f0"
 				"tall"			"f0"
-				"visible"		"1"
-				"bgcolor_override"		"0 0 0 0"
+				////"visible"		"1"
+				"bgcolor_override"		"Blank"
 			
 				"itemmodelpanel"
 				{
@@ -80,7 +80,7 @@
 					"tall"			"30"
 					
 					
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"labelText"		"%itemname%"
 					"textAlignment"	"south"
@@ -101,7 +101,7 @@
 			"tall"			"13"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			"wrap"			"0"
 			"centerwrap"	"0"
 			"textAlignment" "west"
@@ -126,7 +126,7 @@
 			"tall"				"30"
 			
 			
-			"visible"			"1"
+			//"visible"			"1"
 			
 			
 			"labelText"			""
@@ -154,7 +154,7 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 187 161 255"
 	}
@@ -185,7 +185,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"200 187 161 255"
 			"wrap"			"1"
@@ -205,7 +205,7 @@
 			"tall"			"25"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"153 204 255 255"
 			"wrap"			"1"
@@ -225,7 +225,7 @@
 			"tall"			"25"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"117 107 94 255"
 		}
@@ -243,7 +243,7 @@
 			"tall"			"25"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"117 107 94 255"
 		}
@@ -259,14 +259,14 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			"enabled"		"0"
 			
 			"labelText"		"#CraftConfirm"
 			"font"			"HudFontMediumBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"craft"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -287,7 +287,7 @@
 			"tall"			"25"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor"		"178 82 22 255"
@@ -303,14 +303,14 @@
 			"tall"			"25"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#TF_Trial_Upgrade"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"upgrade"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -360,7 +360,7 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
@@ -381,7 +381,7 @@
 			"tall"			"60"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -401,7 +401,7 @@
 		"wide"			"54"
 		"tall"			"42"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
@@ -446,7 +446,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override"	"235 226 202 255"
 			"wrap"			"1"
@@ -471,7 +471,7 @@
 		"labelText"		"?"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"reloadscheme"

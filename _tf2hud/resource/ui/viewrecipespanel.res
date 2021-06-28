@@ -11,7 +11,7 @@
 		"tall"			"300"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -33,7 +33,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
 			
@@ -75,7 +75,7 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"centerwrap"	"1"
@@ -94,7 +94,7 @@
 		"zpos"			"2"
 		"wide"			"380"
 		"tall"			"10"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
@@ -137,7 +137,7 @@
 			"tall"			"0"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"0"
 			"centerwrap"	"0"
@@ -157,7 +157,7 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
@@ -178,7 +178,7 @@
 			"tall"			"60"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -218,13 +218,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Ok"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"ok"
 		"sound_depressed"	"UI/buttonclick.wav"

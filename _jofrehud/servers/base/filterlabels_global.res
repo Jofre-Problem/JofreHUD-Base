@@ -11,13 +11,13 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Game"
 		"textAlignment"		"east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"LocationFilterLabel"
 	{
@@ -29,13 +29,13 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Location"
 		"textAlignment"		"east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"MapFilterLabel"
 	{
@@ -47,13 +47,13 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Map"
 		"textAlignment"		"east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}	
 	"SecureFilterLabel"
 	{
@@ -65,13 +65,13 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AntiCheat"
 		"textAlignment"		"east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"MaxPlayerFilterLabel"
 	{
@@ -83,13 +83,13 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_MaxPlayer"
 		"textAlignment"		"east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}	
 	"PingFilterLabel"
 	{
@@ -101,12 +101,12 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Latency"
 		"textAlignment"		"east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}	
 }

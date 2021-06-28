@@ -9,7 +9,7 @@
 		"zpos"			"15"
 		"wide"			"118"
 		"tall"			"66"
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 
@@ -67,7 +67,7 @@
 		"textinsetx"	"8"
 		"autoResize"	"1"
 			
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%price%"
 		"paintbackground"	"0"
@@ -87,7 +87,7 @@
 		"textinsetx"	"4"
 		"autoResize"	"1"
 			
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%og_price%"
 		"fgcolor"		"117 107 94 255"
@@ -122,7 +122,7 @@
 		"textinsetx"	"8"
 		"autoResize"	"1"
 			
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		""
 		"paintbackground"	"0"
@@ -143,7 +143,7 @@
 		"textinsetx"	"8"
 		"autoResize"	"1"
 			
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#Store_Price_New"
 		"paintbackground"	"0"

@@ -10,12 +10,12 @@
 		"tall"			"34"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"No Owner"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"paintBackground" "0"
 	}
 }	

@@ -10,7 +10,7 @@
 		"tall"		"396"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,7 +26,7 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"leftText"		"#GameUI_LIGHT"
@@ -42,14 +42,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Gamma"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"GammaEntry"
 	{
@@ -61,7 +61,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"textHidden"		"0"
@@ -80,14 +80,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"3"
 		"labelText"		"#vgui_ok"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"1"
 	}
 	"ImagePanel1"
@@ -101,11 +101,11 @@
 		"tall"		"192"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"image"		"gamma"
-		"scaleImage"		"0"
+		//"scaleImage"		"0"
 	}
 	"Button1"
 	{
@@ -117,14 +117,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#vgui_Cancel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 	}
@@ -138,12 +138,12 @@
 		"tall"		"53"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_GammaInfo"
 		"textAlignment"		"north-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"		"1"
 	}

@@ -168,7 +168,7 @@
 		"ypos"			"40"
 		"wide"			"360"
 		"tall"			"200"
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 
@@ -196,7 +196,7 @@
 		"ypos"			"40"
 		"wide"			"200"
 		"tall"			"200"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"
 	}
@@ -209,7 +209,7 @@
 		"ypos"			"40"
 		"wide"			"220"
 		"tall"			"220"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#AbuseReport_NoAvatar"
 		"font"			"HudFontSmall"
@@ -224,7 +224,7 @@
 		"ypos"			"40"
 		"wide"			"220"
 		"tall"			"220"
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 
@@ -239,14 +239,14 @@
 		"tall"			"43"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_LessThan"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"0"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"prevcustomtexture"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -264,14 +264,14 @@
 		"tall"			"43"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_GreaterThan"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"0"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"nextcustomtexture"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -286,7 +286,7 @@
 		"ypos"			"40"
 		"wide"			"220"
 		"tall"			"220"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#AbuseReport_NoCustomTextures"
 		"font"			"HudFontSmall"

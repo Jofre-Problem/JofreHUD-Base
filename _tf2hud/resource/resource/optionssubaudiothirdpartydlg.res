@@ -10,7 +10,7 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Miles_Audio"
@@ -30,7 +30,7 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Miles_Voice"
@@ -38,7 +38,7 @@
 		"dulltext"		"1"
 		"brighttext"		"0"
 		"font"		"DefaultSmall"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"Label2"
 	{
@@ -50,7 +50,7 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Bink"
@@ -58,7 +58,7 @@
 		"dulltext"		"1"
 		"brighttext"		"0"
 		"font"		"DefaultSmall"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"Button2"
 	{
@@ -70,14 +70,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_Close"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"1"
 	}
@@ -91,7 +91,7 @@
 		"tall"		"64"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"		"west"
 		"image"			"techcredits/bink"

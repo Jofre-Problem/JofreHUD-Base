@@ -66,11 +66,11 @@
 		"tall_minmode"			"21"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#ControlPointIconCappers"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 
@@ -107,7 +107,7 @@
 		
 		"labelText"		"60"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"ControlPointTimer"

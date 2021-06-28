@@ -11,7 +11,7 @@
 		"tall"	 		"50"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/color_panel_brown"
 		"scaleImage"		"1"
@@ -87,11 +87,11 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%targetname%"
 		"textAlignment"		"North-West"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"TargetDataLabel"
@@ -111,11 +111,11 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%targetdata%"
 		"textAlignment"		"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"SpectatorGUIHealth"
@@ -180,7 +180,7 @@
 		"zpos"			"-5"
 		"wide"			"32"
 		"tall"			"36"
-		"visible"		"1"
+		////"visible"		"1"
 			
 		
 		"MoveableIconBG"
@@ -192,7 +192,7 @@
 			
 			"wide"			"10"
 			"tall"			"36"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"icon"			"obj_status_alert_background_tall_nocolor"
 			"iconColor"		"HudBlack"
@@ -208,7 +208,7 @@
 			"zpos"			"11"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"icon"			"obj_status_sentrygun_1"
 			"drawcolor"		"ProgressOffWhite"
@@ -223,7 +223,7 @@
 			"zpos"			"12"
 			"wide"			"16"
 			"tall"			"8"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../hud/eng_sel_item_movable"
 			"drawcolor"		"ProgressOffWhite"
@@ -243,11 +243,11 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"%movekey%"
 			"textAlignment"		"North"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}	
 	}
@@ -261,7 +261,7 @@
 		"zpos"			"99"
 		"wide"			"11"
 		"tall"			"11"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			""
 		"scaleImage"	"1"	

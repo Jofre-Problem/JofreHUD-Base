@@ -691,7 +691,7 @@
 		
 		"wide"			"640"
 		"tall"			"480"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"bgcolor_override"	"0 0 0 0"
 		"PaintBackgroundType"	"0" // rounded corners

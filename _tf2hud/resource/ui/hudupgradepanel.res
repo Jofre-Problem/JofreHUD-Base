@@ -30,7 +30,7 @@
 			"zpos"			"-2"
 			"wide"			"70"
 			"tall"			"50"
-			"bgcolor_override"		"0 0 0 0"
+			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"0"
@@ -63,7 +63,7 @@
 		"zpos"		"-1"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"bgcolor_override"	"0 0 0 210"
@@ -79,7 +79,7 @@
 		"tall"			"350"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"bgcolor_override"	"63 59 55 0"
@@ -95,7 +95,7 @@
 			"tall"			"310"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../HUD/tournament_panel_brown"
 
@@ -118,7 +118,7 @@
 			"tall"			"230"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"PaintBackgroundType" "2"
@@ -134,7 +134,7 @@
 			
 			"wide"			"470"
 			"tall"			"220"
-			"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"MainMenuBGBorder"
 		}
@@ -150,14 +150,14 @@
 			"tall"			"50"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"PLAYER"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"PlayerUpgrade"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -175,7 +175,7 @@
 			"zpos"			"-2"
 			"wide"			"40"
 			"tall"			"40"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../hud/class_scoutred"
 			"scaleImage"	"1"	
@@ -190,7 +190,7 @@
 			"wide"			"34"
 			"tall"			"34"
 			"zpos"			"-2"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"scaleImage"	"1"	
@@ -209,7 +209,7 @@
 			"tall"			"54"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"142 132 121 255"
@@ -263,7 +263,7 @@
 			"tall"			"54"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"77 72 68 255"
@@ -281,7 +281,7 @@
 			"tall"			"54"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"77 72 68 255"
@@ -299,7 +299,7 @@
 			"tall"			"54"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"77 72 68 255"
@@ -317,7 +317,7 @@
 			"tall"			"54"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"77 72 68 255"
@@ -335,7 +335,7 @@
 			"tall"			"54"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"77 72 68 255"
@@ -353,7 +353,7 @@
 			"tall"			"54"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"77 72 68 255"
@@ -371,7 +371,7 @@
 			"tall"			"5"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"0 0 0 128"
@@ -393,7 +393,7 @@
 			"tall"			"140"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"mouseinputenabled" "0"
 		}
@@ -416,7 +416,7 @@
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"quick_equip_bottle"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -441,7 +441,7 @@
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"open_charinfo_direct"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -459,7 +459,7 @@
 			"tall"			"65"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"52 48 45 255"
@@ -481,7 +481,7 @@
 			"tall"			"65"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		
@@ -496,7 +496,7 @@
 			"tall"			"130"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"97 94 84 255"
@@ -513,7 +513,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"72 68 63 255"
@@ -533,7 +533,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		
@@ -551,7 +551,7 @@
 			"tall"			"105"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 		}
@@ -569,7 +569,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"121 195 58 255"
 		}
@@ -587,7 +587,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"tanlight"
 		}
@@ -603,14 +603,14 @@
 			"tall"			"17"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#TF_PVE_UpgradeCancel"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"cancel"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -628,14 +628,14 @@
 			"tall"			"17"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			"enabled"		"0"
 			
 			"labelText"		"#TF_PVE_UpgradeDone"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"close"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -660,7 +660,7 @@
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"1"
 			"Command"		"respec"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -679,7 +679,7 @@
 		"tall"			"40"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"bgcolor_override"	"63 59 55 0"
 		
@@ -694,7 +694,7 @@
 			"tall"			"40"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../HUD/tournament_panel_brown"
 
@@ -719,7 +719,7 @@
 			"tall"			"40"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor"		"tanlight"
@@ -736,12 +736,12 @@
 			"tall"			"23"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		" > "
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"nexttip"
 		}

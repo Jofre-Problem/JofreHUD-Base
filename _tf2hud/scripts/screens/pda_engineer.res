@@ -11,11 +11,11 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"1"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"paintbackground"	"0"
 	}
@@ -28,7 +28,7 @@
 		"ypos"			"15"
 		"wide"			"150"
 		"tall"			"150"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_sentrygun_1"
@@ -46,11 +46,11 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"2"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"paintbackground"	"0"
 	}
@@ -63,7 +63,7 @@
 		"ypos"			"15"
 		"wide"			"150"
 		"tall"			"150"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_dispenser"
@@ -81,11 +81,11 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"3"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"paintbackground"	"0"
 	}
@@ -98,7 +98,7 @@
 		"ypos"			"200"
 		"wide"			"150"
 		"tall"			"150"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_tele_entrance"
@@ -116,11 +116,11 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"4"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"paintbackground"	"0"
 	}
@@ -133,7 +133,7 @@
 		"ypos"			"200"
 		"wide"			"150"
 		"tall"			"150"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_tele_exit"
@@ -151,11 +151,11 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"0 Cancel"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"paintbackground"	"0"
 	}

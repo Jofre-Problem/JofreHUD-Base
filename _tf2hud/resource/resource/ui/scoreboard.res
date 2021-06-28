@@ -38,11 +38,11 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		""
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"1"
 	}
 	"PlayerList"
@@ -55,7 +55,7 @@
 		"tall"		"375"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}

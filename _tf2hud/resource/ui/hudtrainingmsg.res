@@ -11,7 +11,7 @@
 		"tall"			"265"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/death_panel_blue_bg"
 		"scaleImage"		"1"
@@ -30,7 +30,7 @@
 		"tall"			"105"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"labelText"		""

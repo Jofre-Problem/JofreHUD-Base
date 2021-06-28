@@ -10,7 +10,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -59,7 +59,7 @@
 		"enabled"		"0"
 		"labelText"		""
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"1"
 	}
 
@@ -73,7 +73,7 @@
 		"tall"			"50"
 		"zpos"			"4"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"actionSet"		"InGameHUDControls"
@@ -90,7 +90,7 @@
 		"tall"			"50"
 		"zpos"			"4"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"actionSet"		"InGameHUDControls"
@@ -108,11 +108,11 @@
 		"tall"			"310"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"1"
 		"textAlignment"	"south-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"paintborder"	"0"
 		"command"		"jointeam spectate"
@@ -149,11 +149,11 @@
 		"tall"			"57"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"2"
 		"textAlignment"	"south-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"paintborder"	"0"
 		"command"		"jointeam spectatearena"
@@ -198,7 +198,7 @@
 		
 		"labelText"		"#TF_Cancel"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"cancelmenu"
 		"font"			"MenuSmallFont"
@@ -217,7 +217,7 @@
 		"pinCorner"		"2"
 		"visible"		"0"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_cancel"
@@ -240,11 +240,11 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_Arena_Menu_Fight"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"MenuSmallFont"
@@ -266,11 +266,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_Spectate"
 		"textAlignment"	"north"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"MenuSmallestFont"
@@ -289,7 +289,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -325,7 +325,7 @@
 		//"tall_hidef"			"65"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 			
 		"fillcolor"		"0 0 0 180"
@@ -343,7 +343,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -392,7 +392,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fov"			"20"
 		

@@ -10,7 +10,7 @@
 		"zpos"			"1002"
 		"wide"			"420"
 		"tall"			"f70"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -23,7 +23,7 @@
 		"zpos"			"100"
 		"wide"			"410"
 		"tall"			"f50"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"pinCorner"		"2"
@@ -40,12 +40,12 @@
 		"tall"			"20"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"back"
 		"proportionaltoparent"	"1"
@@ -86,12 +86,12 @@
 		"tall"			"20"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"start_search"
 		"proportionaltoparent"	"1"
@@ -135,12 +135,12 @@
 		"tall"			"20"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"start_search"
 		"proportionaltoparent"	"1"
@@ -167,12 +167,12 @@
 		"tall"			"20"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"select_tour"
 		"proportionaltoparent"	"1"

@@ -70,7 +70,7 @@
 		"labelText"		"#Replay_ExportMovie"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"exportmovie"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -92,7 +92,7 @@
 		"labelText"		""
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"showrenderinfo"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -112,7 +112,7 @@
 			"zpos"			"1"
 			"wide"			"20"
 			"tall"			"20"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"scaleImage"	"1"
 		}	
@@ -127,13 +127,13 @@
 		"tall"			"18"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Replay_YouTubeUpload"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"youtubeupload"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -149,13 +149,13 @@
 		"tall"			"18"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"#Replay_YouTubeView"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"viewyoutube"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -171,13 +171,13 @@
 		"tall"			"18"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"#Replay_YouTubeShareURL"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"shareyoutubeurl"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -194,13 +194,13 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#X_Delete"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"delete_replayitem"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -222,13 +222,13 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Replay_Watch"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"play"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -249,13 +249,13 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#Replay_RenderEllipsis"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"render_replay_dlg"
 		"sound_depressed"	"UI/buttonclick.wav"

@@ -44,7 +44,7 @@
 		"paintbackground"		"1"
 		"borderset"		"LabelDull"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"labelText"		"#ServerBrowser_Workshop"
 	}
 	"WorkshopFilter"
@@ -62,7 +62,7 @@
 		"if_workshop_enabled"
 		{
 			
-			"visible"		"1"
+			//"visible"		"1"
 		}
 		
 		"paintbackground"		"1"
@@ -80,7 +80,7 @@
 		"pinCorner"		"2"
 		"if_workshop_enabled"
 		{
-			"visible"		"1"
+			//"visible"		"1"
 			
 		}
 	}
@@ -97,13 +97,13 @@
 		"tall"		"24"
 		"AutoResize"		"1"
 		"PinCorner"		"2"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
 		"borderset"		"LabelDull"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"labelText"		"#ServerBrowser_Tags"
 	}
 	"TagsInclude"
@@ -120,7 +120,7 @@
 		"zpos"		"1"
 		
 		"PinCorner"		"2"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -147,7 +147,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textHidden"		"0"
@@ -167,7 +167,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textHidden"		"0"

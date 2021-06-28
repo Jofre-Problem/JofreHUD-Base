@@ -10,7 +10,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"	"1"
@@ -26,7 +26,7 @@
 			"tall"			"256"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 		}
@@ -41,7 +41,7 @@
 			"tall"			"268"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 		}
@@ -56,7 +56,7 @@
 			"tall"			"50"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 		}
@@ -71,7 +71,7 @@
 			"tall"			"50"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 		}
@@ -86,7 +86,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"selected"		"1"
 			"tabPosition"		"8"
@@ -109,7 +109,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"8"
 			"labelText"			"S"
@@ -131,7 +131,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"8"
 			"labelText"			"V"
@@ -153,7 +153,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"8"
 			"labelText"			"R"
@@ -175,7 +175,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"8"
 			"labelText"			"G"
@@ -197,7 +197,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"8"
 			"labelText"			"B"
@@ -219,7 +219,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			"tabPosition"		"1"
@@ -239,7 +239,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			"tabPosition"		"2"
@@ -259,7 +259,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			
@@ -279,7 +279,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			"tabPosition"		"3"
@@ -299,7 +299,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			
@@ -319,7 +319,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			"tabPosition"		"4"
@@ -339,7 +339,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			"tabPosition"		"5"
@@ -360,7 +360,7 @@
 			"NumericInputOnly" "1"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"6"
 			"labelText"			""
@@ -380,7 +380,7 @@
 			"NumericInputOnly" "1"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"7"
 			"labelText"			""
@@ -399,7 +399,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			

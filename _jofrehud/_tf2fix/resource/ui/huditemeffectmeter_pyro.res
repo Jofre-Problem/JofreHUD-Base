@@ -3,7 +3,7 @@
 	huditemeffectmeter
 	{
 		"fieldName"		"huditemeffectmeter"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"xpos"			"r214"
 		"ypos_minmode"	"r70"
@@ -26,7 +26,7 @@
 		
 		"wide"			"100"
 		"tall"			"50"
-		"visible"		"1"
+		//"visible"		"1"
 		"visible_minmode"	"0"
 		
 		"image"			"../hud/misc_ammo_area_horiz1_blue"

@@ -14,7 +14,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 }

@@ -10,7 +10,7 @@
 		"tall"		"260"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"90"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textAlignment"		"west"
@@ -40,7 +40,7 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"1"
@@ -58,12 +58,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"command"		"Close"
 		"default"		"0"
 	}
@@ -77,12 +77,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_Quit"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"command"		"QuitGame"
 		"default"		"0"
 	}
@@ -96,7 +96,7 @@
 		"tall"		"665"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}

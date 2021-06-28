@@ -11,7 +11,7 @@
 		"tall"			"150"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/death_panel_blue_bg"
 		"scaleImage"		"1"
@@ -31,7 +31,7 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"labelText"		"#TF_teamswitch_attackers"
@@ -52,7 +52,7 @@
 		//"tall_lodef"	"60"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"labelText"		""
@@ -69,7 +69,7 @@
 		"tall"			"45"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/hud_icon_attack"
 		"scaleImage"		"1"

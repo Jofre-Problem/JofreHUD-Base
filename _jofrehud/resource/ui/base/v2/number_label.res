@@ -13,7 +13,7 @@
 		"tall"			"18"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"1"
 		"textAlignment"	"Center"

@@ -10,7 +10,7 @@
 		"tall"		"300"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,14 +26,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"COMMENTARY MODE IS CURRENTLY: OFF"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"1"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"font"			"UiBold"
 	}
 	"CommentaryExists"
@@ -46,12 +46,12 @@
 		"tall"		"60"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GAMEUI_LostCoastHasCommentary"
 		"textAlignment"		"north-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"		"1"
 	}
@@ -65,14 +65,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#GAMEUI_Commentary_TurnOn"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"turnon"
 		"Default"		"0"
 		"selected"		"0"
@@ -87,14 +87,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"#GAMEUI_Commentary_LeaveOff"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"turnoff"
 		"Default"		"1"
 		"selected"		"0"
@@ -109,7 +109,7 @@
 		"tall"			"64"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"image"			"hud/icon_commentary"
@@ -124,7 +124,7 @@
 		"tall"			"64"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"image"			"hud/icon_commentary_off"

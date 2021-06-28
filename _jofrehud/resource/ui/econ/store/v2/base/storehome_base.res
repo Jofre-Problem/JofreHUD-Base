@@ -229,7 +229,7 @@
 		"tall"				"30"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"auto_scale"		"1"
@@ -245,7 +245,7 @@
 			"textinsety"		"-5"
 			
 			"pinCorner"			"2"
-			"visible"			"1"
+			//"visible"			"1"
 			
 			
 			"textAlignment"		"center"
@@ -291,7 +291,7 @@
 		"labelText"		"<"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"prevpage"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -334,7 +334,7 @@
 		"labelText"		">"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"nextpage"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -414,7 +414,7 @@
 		"labelText"		"#Store_BrowseTheStore"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"startshopping"
@@ -439,7 +439,7 @@
 		"labelText"		"#Store_MarketPlace"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"marketplace"

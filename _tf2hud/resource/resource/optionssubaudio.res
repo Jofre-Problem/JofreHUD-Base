@@ -10,10 +10,10 @@
 		"tall"		"50"
 		
 		
-		"RoundedCorners"		"15"
-		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"0"
-		"visible"		"1"
+		//"RoundedCorners"		"15"
+		//"pin_corner_to_sibling"		"0"
+		//"pin_to_sibling_corner"		"0"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"leftText"		"#GameUI_Low"
@@ -29,10 +29,10 @@
 		"tall"		"50"
 		
 		
-		"RoundedCorners"		"15"
-		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"0"
-		"visible"		"1"
+		//"RoundedCorners"		"15"
+		//"pin_corner_to_sibling"		"0"
+		//"pin_to_sibling_corner"		"0"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"leftText"		"#GameUI_Low"
@@ -48,10 +48,10 @@
 		"tall"		"24"
 		
 		
-		"RoundedCorners"		"15"
-		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"0"
-		"visible"		"1"
+		//"RoundedCorners"		"15"
+		//"pin_corner_to_sibling"		"0"
+		//"pin_to_sibling_corner"		"0"
+		////"visible"		"1"
 		
 		"tabPosition"		"6"
 		"textHidden"		"0"
@@ -70,10 +70,10 @@
 		"tall"		"24"
 		
 		
-		"RoundedCorners"		"15"
-		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"0"
-		"visible"		"1"
+		//"RoundedCorners"		"15"
+		//"pin_corner_to_sibling"		"0"
+		//"pin_to_sibling_corner"		"0"
+		////"visible"		"1"
 		
 		"tabPosition"		"4"
 		"textHidden"		"0"
@@ -92,10 +92,10 @@
 		"tall"		"24"
 		
 		
-		"RoundedCorners"		"15"
-		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"0"
-		"visible"		"1"
+		//"RoundedCorners"		"15"
+		//"pin_corner_to_sibling"		"0"
+		//"pin_to_sibling_corner"		"0"
+		////"visible"		"1"
 		
 		"tabPosition"		"3"
 		"textHidden"		"0"
@@ -114,10 +114,10 @@
 		"tall"		"24"
 		
 		
-		"RoundedCorners"		"15"
-		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"0"
-		"visible"		"1"
+		//"RoundedCorners"		"15"
+		//"pin_corner_to_sibling"		"0"
+		//"pin_to_sibling_corner"		"0"
+		////"visible"		"1"
 		
 		"tabPosition"		"7"
 		"textHidden"		"0"
@@ -136,22 +136,22 @@
 		"tall"		"28"
 		
 		
-		"RoundedCorners"		"15"
-		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"0"
-		"visible"		"1"
+		//"RoundedCorners"		"15"
+		//"pin_corner_to_sibling"		"0"
+		//"pin_to_sibling_corner"		"0"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_SndMuteLoseFocus"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
-		"centerwrap"		"0"
+		//"wrap"		"0"
+		//"centerwrap"		"0"
 		"textinsetx"		"6"
-		"textinsety"		"0"
-		"auto_wide_tocontents"		"0"
-		"use_proportional_insets"		"0"
+		//"textinsety"		"0"
+		//"auto_wide_tocontents"		"0"
+		//"use_proportional_insets"		"0"
 		"Default"		"0"
 	}
 	"ThirdPartySoundCredits"
@@ -164,21 +164,21 @@
 		"tall"		"24"
 		
 		
-		"RoundedCorners"		"15"
-		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"0"
-		"visible"		"1"
+		//"RoundedCorners"		"15"
+		//"pin_corner_to_sibling"		"0"
+		//"pin_to_sibling_corner"		"0"
+		////"visible"		"1"
 		
 		"tabPosition"		"8"
 		"labelText"		"#GameUI_ThirdPartyTechCredits"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
-		"centerwrap"		"0"
-		"textinsetx"		"0"
-		"textinsety"		"0"
-		"auto_wide_tocontents"		"0"
+		//"wrap"		"0"
+		//"centerwrap"		"0"
+		//"textinsetx"		"0"
+		//"textinsety"		"0"
+		//"auto_wide_tocontents"		"0"
 		"command"		"ShowThirdPartyAudioCredits"
 		"Default"		"1"
 		"selected"		"0"
@@ -193,21 +193,21 @@
 		"tall"		"24"
 		
 		
-		"RoundedCorners"		"15"
-		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"0"
-		"visible"		"1"
+		//"RoundedCorners"		"15"
+		//"pin_corner_to_sibling"		"0"
+		//"pin_to_sibling_corner"		"0"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GAMEUI_AudioSpokenLanguage"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
-		"centerwrap"		"0"
-		"textinsetx"		"0"
-		"textinsety"		"0"
-		"auto_wide_tocontents"		"0"
+		//"wrap"		"0"
+		//"centerwrap"		"0"
+		//"textinsetx"		"0"
+		//"textinsety"		"0"
+		//"auto_wide_tocontents"		"0"
 	}
 	"RequiresRestartLabel"
 	{
@@ -219,21 +219,21 @@
 		"tall"		"24"
 		
 		
-		"RoundedCorners"		"15"
-		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"0"
-		"visible"		"1"
+		//"RoundedCorners"		"15"
+		//"pin_corner_to_sibling"		"0"
+		//"pin_to_sibling_corner"		"0"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GAMEUI_RequiresRestart"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
-		"centerwrap"		"0"
-		"textinsetx"		"0"
-		"textinsety"		"0"
-		"auto_wide_tocontents"		"0"
+		//"wrap"		"0"
+		//"centerwrap"		"0"
+		//"textinsetx"		"0"
+		//"textinsety"		"0"
+		//"auto_wide_tocontents"		"0"
 	}
 	"sfx label"
 	{
@@ -245,22 +245,22 @@
 		"tall"		"24"
 		
 		
-		"RoundedCorners"		"15"
-		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"0"
-		"visible"		"1"
+		//"RoundedCorners"		"15"
+		//"pin_corner_to_sibling"		"0"
+		//"pin_to_sibling_corner"		"0"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_SoundEffectVolume"
 		"textAlignment"		"west"
 		"associate"		"SFXSlider"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
-		"centerwrap"		"0"
-		"textinsetx"		"0"
-		"textinsety"		"0"
-		"auto_wide_tocontents"		"0"
+		//"wrap"		"0"
+		//"centerwrap"		"0"
+		//"textinsetx"		"0"
+		//"textinsety"		"0"
+		//"auto_wide_tocontents"		"0"
 	}
 	"MusicVolumeLabel"
 	{
@@ -272,22 +272,22 @@
 		"tall"		"24"
 		
 		
-		"RoundedCorners"		"15"
-		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"0"
-		"visible"		"1"
+		//"RoundedCorners"		"15"
+		//"pin_corner_to_sibling"		"0"
+		//"pin_to_sibling_corner"		"0"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_MusicVolume"
 		"textAlignment"		"west"
 		"associate"		"MusicSlider"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
-		"centerwrap"		"0"
-		"textinsetx"		"0"
-		"textinsety"		"0"
-		"auto_wide_tocontents"		"0"
+		//"wrap"		"0"
+		//"centerwrap"		"0"
+		//"textinsetx"		"0"
+		//"textinsety"		"0"
+		//"auto_wide_tocontents"		"0"
 	}
 	"SoundQualityLabel"
 	{
@@ -299,22 +299,22 @@
 		"tall"		"24"
 		
 		
-		"RoundedCorners"		"15"
-		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"0"
-		"visible"		"1"
+		//"RoundedCorners"		"15"
+		//"pin_corner_to_sibling"		"0"
+		//"pin_to_sibling_corner"		"0"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_SoundQuality"
 		"textAlignment"		"west"
 		"associate"		"SoundQuality"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
-		"centerwrap"		"0"
-		"textinsetx"		"0"
-		"textinsety"		"0"
-		"auto_wide_tocontents"		"0"
+		//"wrap"		"0"
+		//"centerwrap"		"0"
+		//"textinsetx"		"0"
+		//"textinsety"		"0"
+		//"auto_wide_tocontents"		"0"
 	}
 	"SpeakerConfigLabel"
 	{
@@ -326,22 +326,22 @@
 		"tall"		"24"
 		
 		
-		"RoundedCorners"		"15"
-		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"0"
-		"visible"		"1"
+		//"RoundedCorners"		"15"
+		//"pin_corner_to_sibling"		"0"
+		//"pin_to_sibling_corner"		"0"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_SpeakerConfiguration"
 		"textAlignment"		"west"
 		"associate"		"SpeakerSetup"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
-		"centerwrap"		"0"
-		"textinsetx"		"0"
-		"textinsety"		"0"
-		"auto_wide_tocontents"		"0"
+		//"wrap"		"0"
+		//"centerwrap"		"0"
+		//"textinsetx"		"0"
+		//"textinsety"		"0"
+		//"auto_wide_tocontents"		"0"
 	}
 	"TestSpeakersWarning"
 	{
@@ -353,22 +353,22 @@
 		"tall"		"40"
 		
 		
-		"RoundedCorners"		"15"
-		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"0"
+		//"RoundedCorners"		"15"
+		//"pin_corner_to_sibling"		"0"
+		//"pin_to_sibling_corner"		"0"
 		"visible"		"0"
 		
 		
 		"labelText"		"#GameUI_TestSpeakerSettingsWarning"
 		"textAlignment"		"north-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"Font"		"DefaultSmall"
 		"wrap"		"1"
-		"centerwrap"		"0"
-		"textinsetx"		"0"
-		"textinsety"		"0"
-		"auto_wide_tocontents"		"0"
+		//"centerwrap"		"0"
+		//"textinsetx"		"0"
+		//"textinsety"		"0"
+		//"auto_wide_tocontents"		"0"
 	}
 	"TestSpeakers"
 	{
@@ -380,21 +380,21 @@
 		"tall"		"24"
 		
 		
-		"RoundedCorners"		"15"
-		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"0"
+		//"RoundedCorners"		"15"
+		//"pin_corner_to_sibling"		"0"
+		//"pin_to_sibling_corner"		"0"
 		"visible"		"0"
 		
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_TestSpeakerSettings"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
-		"centerwrap"		"0"
+		//"wrap"		"0"
+		//"centerwrap"		"0"
 		"textinsetx"		"6"
-		"textinsety"		"0"
-		"auto_wide_tocontents"		"0"
+		//"textinsety"		"0"
+		//"auto_wide_tocontents"		"0"
 		"command"		"TestSpeakers"
 		"Default"		"1"
 		"selected"		"0"
@@ -409,21 +409,21 @@
 		"tall"		"24"
 		
 		
-		"RoundedCorners"		"15"
-		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"0"
-		"visible"		"1"
+		//"RoundedCorners"		"15"
+		//"pin_corner_to_sibling"		"0"
+		//"pin_to_sibling_corner"		"0"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Captioning"
 		"textAlignment"		"west"
 		"associate"		"CloseCaptionCheck"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
-		"centerwrap"		"0"
-		"textinsetx"		"0"
-		"textinsety"		"0"
-		"auto_wide_tocontents"		"0"
+		//"wrap"		"0"
+		//"centerwrap"		"0"
+		//"textinsetx"		"0"
+		//"textinsety"		"0"
+		//"auto_wide_tocontents"		"0"
 	}
 }

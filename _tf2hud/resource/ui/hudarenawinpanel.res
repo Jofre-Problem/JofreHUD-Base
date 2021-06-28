@@ -8,7 +8,7 @@
 		"ypos"			"21"
 		"wide"			"480"
 		"tall"			"60"
-		"visible"		"1"
+		////"visible"		"1"
 
 		"BlueScoreBG"
 		{
@@ -20,7 +20,7 @@
 			"tall"			"50"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../hud/winpanel_blue_bg_team"
 			//"image_lodef"	"../hud/winpanel_blue_bg_team_lodef"
@@ -36,7 +36,7 @@
 			"tall"			"50"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../hud/winpanel_red_bg_team"
 			//"image_lodef"	"../hud/winpanel_red_bg_team_lodef"
@@ -57,7 +57,7 @@
 			//"tall_hidef"	"24"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"BlueTeamScore"
@@ -76,7 +76,7 @@
 			//"tall_hidef"	"75"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"BlueTeamScoreDropshadow"
@@ -96,7 +96,7 @@
 			//"tall_hidef"	"75"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"RedTeamLabel"
@@ -114,7 +114,7 @@
 			//"tall_hidef"	"24"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"RedTeamScore"
@@ -133,7 +133,7 @@
 			//"tall_hidef"	"75"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"RedTeamScoreDropshadow"
@@ -153,7 +153,7 @@
 			//"tall_hidef"	"75"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}		
 
@@ -169,7 +169,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../HUD/tournament_panel_black"
 			"scaleImage"		"1"
@@ -194,11 +194,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"%arenastreaktext%"
 			"textAlignment"		"Center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 	}
@@ -212,7 +212,7 @@
 		
 		"wide"			"700"
 		"tall"			"174"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"		"1"	
 	}
@@ -228,11 +228,11 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%WinningTeamLabel%"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"WinningTeamLabelDropshadow"
@@ -248,11 +248,11 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%WinningTeamLabel%"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 
@@ -268,11 +268,11 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%LosingTeamLabel%"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"LosingTeamLabelDropshadow"
@@ -288,11 +288,11 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%LosingTeamLabel%"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"WinReasonLabel"
@@ -307,11 +307,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%WinReasonLabel%"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"DetailsLabel"
@@ -326,11 +326,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%DetailsLabel%"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"ShadedBar"
@@ -344,7 +344,7 @@
 		"tall"			"84"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 			
 		"fillcolor"		"0 0 0 150"
@@ -363,11 +363,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%TopPlayersLabel%"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"DamageThisRoundLabel"
@@ -382,11 +382,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_Arena_Winpanel_DamageThisRound"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"HealingThisRoundLabel"
@@ -401,11 +401,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_Arena_Winpanel_HealingThisRound"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"LifetimeThisRoundLabel"
@@ -420,11 +420,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_Arena_Winpanel_TimeAliveThisRound"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"KillingBlowsThisRoundLabel"
@@ -439,11 +439,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_Arena_Winpanel_KillingBlows"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"HorizontalLine"
@@ -457,7 +457,7 @@
 		"tall"			"1"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 			
 		"fillcolor"		"250 234 201 255"
@@ -472,7 +472,7 @@
 		
 		"wide"			"500"
 		"tall"			"218"
-		"visible"		"1"
+		////"visible"		"1"
 		"zpos"			"3"
 
 		"Player1Avatar"
@@ -483,7 +483,7 @@
 			"ypos"			"141"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			""
 			"scaleImage"		"1"	
@@ -499,11 +499,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player1Class"
@@ -516,11 +516,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player1Damage"
@@ -533,11 +533,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player1Healing"
@@ -550,11 +550,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player1Lifetime"
@@ -567,11 +567,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player1Kills"
@@ -584,11 +584,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player2Avatar"	
@@ -599,7 +599,7 @@
 			"ypos"			"163"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			""
 			"scaleImage"		"1"	
@@ -615,11 +615,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player2Class"
@@ -632,11 +632,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player2Damage"
@@ -649,11 +649,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player2Healing"
@@ -666,11 +666,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player2Lifetime"
@@ -683,11 +683,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player2Kills"
@@ -700,11 +700,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player3Avatar"
@@ -715,7 +715,7 @@
 			"ypos"			"185"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			""
 			"scaleImage"		"1"	
@@ -731,11 +731,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player3Class"
@@ -748,11 +748,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player3Damage"
@@ -765,11 +765,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player3Healing"
@@ -782,11 +782,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player3Lifetime"
@@ -799,11 +799,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player3Kills"
@@ -816,11 +816,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 	}
@@ -832,7 +832,7 @@
 		
 		"wide"			"500"
 		"tall"			"218"
-		"visible"		"1"
+		////"visible"		"1"
 		"zpos"			"3"
 
 		"Player1Avatar"
@@ -843,7 +843,7 @@
 			"ypos"			"141"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			""
 			"scaleImage"		"1"	
@@ -859,11 +859,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player1Class"
@@ -876,11 +876,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player1Damage"
@@ -893,11 +893,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player1Healing"
@@ -910,11 +910,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player1Lifetime"
@@ -927,11 +927,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player1Kills"
@@ -944,11 +944,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player2Avatar"	
@@ -959,7 +959,7 @@
 			"ypos"			"163"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			""
 			"scaleImage"		"1"	
@@ -975,11 +975,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player2Class"
@@ -992,11 +992,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player2Damage"
@@ -1009,11 +1009,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player2Healing"
@@ -1026,11 +1026,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player2Lifetime"
@@ -1043,11 +1043,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player2Kills"
@@ -1060,11 +1060,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player3Avatar"
@@ -1075,7 +1075,7 @@
 			"ypos"			"185"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			""
 			"scaleImage"		"1"	
@@ -1091,11 +1091,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player3Class"
@@ -1108,11 +1108,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player3Damage"
@@ -1125,11 +1125,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player3Healing"
@@ -1142,11 +1142,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player3Lifetime"
@@ -1159,11 +1159,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		"Player3Kills"
@@ -1176,11 +1176,11 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 	}

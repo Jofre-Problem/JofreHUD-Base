@@ -10,7 +10,7 @@
 		"tall"			"256"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	
@@ -28,7 +28,7 @@
 			"PinnedCornerOffsetY" "6"
 			"UnpinnedCornerOffsetX" "-6"
 			"UnpinnedCornerOffsetY" "-6"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 		}

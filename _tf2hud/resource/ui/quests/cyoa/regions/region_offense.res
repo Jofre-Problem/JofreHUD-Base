@@ -31,7 +31,7 @@
 				"zpos"			"1"
 				"wide"			"50"
 				"tall"			"o1"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"
 				"image"			"cyoa/cyoa_icon_scout"
@@ -51,7 +51,7 @@
 				"zpos"			"1"
 				"wide"			"50"
 				"tall"			"o1"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"
 				"image"			"cyoa/cyoa_icon_soldier"
@@ -71,7 +71,7 @@
 				"zpos"			"1"
 				"wide"			"50"
 				"tall"			"o1"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"
 				"image"			"cyoa/cyoa_icon_pyro"

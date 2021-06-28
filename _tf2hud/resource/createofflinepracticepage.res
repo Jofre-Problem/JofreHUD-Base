@@ -10,7 +10,7 @@
 		"tall"		"420"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"5"
 		"textHidden"		"0"
@@ -43,15 +43,15 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Map"
 		"textAlignment"		"west"
 		"associate"		"MapList"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 
 	"MapDivider"
@@ -64,7 +64,7 @@
 		"tall"		"2"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -79,15 +79,15 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"%gametype%"
 		"textAlignment"		"center"
 		"associate"		"MapList"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"MapImageContainer"
 	{
@@ -99,14 +99,14 @@
 		"tall"		"96"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		""
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 
 	"MapDescription"
@@ -119,7 +119,7 @@
 		"tall"			"120"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"maxchars"		"-1"
@@ -138,12 +138,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_Bot_NumberOfBots"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 
@@ -157,7 +157,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"3"
 		"textHidden"		"0"
@@ -177,14 +177,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		""
 		"textAlignment"		"west"
 		"dulltext"		"1"
 		"brighttext"	"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 
 	"BotDifficultyLabel"
@@ -197,12 +197,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_Bot_Difficulty"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 
@@ -216,7 +216,7 @@
 		"tall"		"50"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"leftText"		""
@@ -233,12 +233,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty3"
 		"textAlignment"		"east"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"3"
@@ -253,12 +253,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty2"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"3"
@@ -273,12 +273,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty1"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"2"
@@ -293,12 +293,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty0"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"1"

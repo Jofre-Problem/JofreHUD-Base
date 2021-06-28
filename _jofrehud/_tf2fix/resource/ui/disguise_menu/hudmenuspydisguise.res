@@ -9,7 +9,7 @@
 		
 		"wide"			"470"
 		"tall"			"170"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"
@@ -37,7 +37,7 @@
 		"zpos"			"1"
 		"wide"			"45"
 		"tall"			"45"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_spy_disguise_menu_icon"
@@ -56,7 +56,7 @@
 		"tall"			"38"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Disguise_Title"
 		"textAlignment"	"Left"
@@ -77,7 +77,7 @@
 		"tall"			"38"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Disguise_Title"
 		"textAlignment"	"Left"
@@ -97,7 +97,7 @@
 		"tall"			"13"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Spy_Minus_Toggle"
 		"textAlignment"	"Left"
@@ -117,7 +117,7 @@
 		"tall"			"13"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Build_Cancel"
 		"textAlignment"	"east"
@@ -134,7 +134,7 @@
 		"zpos"			"2"
 		"wide"			"45"
 		"tall"			"120"
-		"visible"		"1"
+		//"visible"		"1"
 	}	
 	
 	"class_item_blue_1"
@@ -158,7 +158,7 @@
 		"zpos"			"2"
 		"wide"			"45"
 		"tall"			"120"
-		"visible"		"1"
+		//"visible"		"1"
 	}	
 	
 	"class_item_blue_2"
@@ -182,7 +182,7 @@
 		"zpos"			"2"
 		"wide"			"45"
 		"tall"			"120"
-		"visible"		"1"
+		//"visible"		"1"
 	}	
 	
 	"class_item_blue_3"
@@ -206,7 +206,7 @@
 		"zpos"			"2"
 		"wide"			"45"
 		"tall"			"120"
-		"visible"		"1"
+		//"visible"		"1"
 	}	
 	
 	"class_item_blue_4"
@@ -230,7 +230,7 @@
 		"zpos"			"2"
 		"wide"			"45"
 		"tall"			"120"
-		"visible"		"1"
+		//"visible"		"1"
 	}	
 	
 	"class_item_blue_5"
@@ -254,7 +254,7 @@
 		"zpos"			"2"
 		"wide"			"45"
 		"tall"			"120"
-		"visible"		"1"
+		//"visible"		"1"
 	}	
 	
 	"class_item_blue_6"
@@ -278,7 +278,7 @@
 		"zpos"			"2"
 		"wide"			"45"
 		"tall"			"120"
-		"visible"		"1"
+		//"visible"		"1"
 	}	
 	
 	"class_item_blue_7"
@@ -302,7 +302,7 @@
 		"zpos"			"2"
 		"wide"			"45"
 		"tall"			"120"
-		"visible"		"1"
+		//"visible"		"1"
 	}	
 	
 	"class_item_blue_8"
@@ -326,7 +326,7 @@
 		"zpos"			"2"
 		"wide"			"45"
 		"tall"			"120"
-		"visible"		"1"
+		//"visible"		"1"
 	}	
 	
 	"class_item_blue_9"

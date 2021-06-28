@@ -5,7 +5,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"SubtitleLabel"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}	
 }

@@ -30,7 +30,7 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -43,7 +43,7 @@
 		"ypos"			"50"
 		"wide"			"400"
 		"tall"			"95"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"0 0 0 128"
 		
@@ -61,7 +61,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		
@@ -79,9 +79,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -99,9 +99,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -119,9 +119,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -139,9 +139,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -159,9 +159,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -179,9 +179,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -199,9 +199,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -219,9 +219,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -239,9 +239,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -259,9 +259,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}	
@@ -275,7 +275,7 @@
 		"ypos"			"150"
 		"wide"			"400"
 		"tall"			"105"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"0 0 0 128"
 	
@@ -293,7 +293,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		
@@ -311,7 +311,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"TestItemEntry0"
@@ -328,7 +328,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override" "200 80 60 255"
 			"bgcolor_override" "24 24 24 128"
@@ -344,13 +344,13 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#IT_Item_Add"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"item_test0"
@@ -368,13 +368,13 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#IT_Item_Remove"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"item_remove0"
@@ -395,7 +395,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"TestItemEntry1"
@@ -412,7 +412,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override" "200 80 60 255"
 			"bgcolor_override" "24 24 24 128"
@@ -428,13 +428,13 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#IT_Item_Add"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"item_test1"
@@ -452,13 +452,13 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#IT_Item_Remove"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"item_remove1"
@@ -479,7 +479,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"TestItemEntry2"
@@ -496,7 +496,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override" "200 80 60 255"
 			"bgcolor_override" "24 24 24 128"
@@ -512,13 +512,13 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#IT_Item_Add"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"item_test2"
@@ -536,13 +536,13 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#IT_Item_Remove"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"item_remove2"
@@ -563,7 +563,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"TestItemEntry3"
@@ -580,7 +580,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override" "200 80 60 255"
 			"bgcolor_override" "24 24 24 128"
@@ -596,13 +596,13 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#IT_Item_Add"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"item_test3"
@@ -620,13 +620,13 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#IT_Item_Remove"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"item_remove3"
@@ -643,7 +643,7 @@
 		"ypos"			"50"
 		"wide"			"200"
 		"tall"			"95"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"0 0 0 128"
 		
@@ -661,7 +661,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		
@@ -679,9 +679,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}	
@@ -700,9 +700,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -718,13 +718,13 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#IT_Bot_Add"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"bot_add"
@@ -744,7 +744,7 @@
 			"tall"				"15"
 			
 			
-			"visible"			"1"
+			//"visible"			"1"
 			
 			"tabPosition"		"1"
 			"textHidden"		"0"
@@ -773,13 +773,13 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#IT_Bot_RemoveAll"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"bot_removeall"
@@ -811,13 +811,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#IT_ExportLoadout"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"export"
@@ -835,13 +835,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#IT_ImportLoadout"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"import"
@@ -859,13 +859,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#IT_ImportLast"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"importrecent"
@@ -884,13 +884,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"cancel"
@@ -908,13 +908,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#IT_Ok"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"ok"
@@ -931,7 +931,7 @@
 		"zpos"			"11"
 		"wide"			"200"
 		"tall"			"36"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"SteamWorkshopButtonSubButton"
 		{
@@ -943,7 +943,7 @@
 			"tall"			"26"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"textinsetx"	"25"
@@ -951,7 +951,7 @@
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"command"		"steamworkshop"
@@ -972,7 +972,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"
 				"image"			"glyph_steamworkshop"
@@ -998,7 +998,7 @@
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"reloadscheme"
 		"sound_depressed"	"UI/buttonclick.wav"

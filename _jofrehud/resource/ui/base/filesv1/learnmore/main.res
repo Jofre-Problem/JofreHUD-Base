@@ -5,12 +5,12 @@
 		"fieldName"		"LearnMoreButton"
 		"tall"			"25"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 
 		"sound_depressed"	"UI/buttonclick.wav"

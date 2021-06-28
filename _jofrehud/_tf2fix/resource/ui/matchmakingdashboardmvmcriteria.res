@@ -8,7 +8,7 @@
 		"zpos"			"1002"
 		"wide"			"420"
 		"tall"			"f70"
-		"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -21,7 +21,7 @@
 		"zpos"			"100"
 		"wide"			"410"
 		"tall"			"f50"
-		"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"pinCorner"		"2"
@@ -38,7 +38,7 @@
 		"tall"			"20"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"font"			"HudFontMediumSmallBold"
@@ -84,7 +84,7 @@
 		"tall"			"20"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"font"			"HudFontMediumSmallBold"
@@ -133,7 +133,7 @@
 		"tall"			"20"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"font"			"HudFontMediumSmallBold"
@@ -165,7 +165,7 @@
 		"tall"			"20"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"font"			"HudFontMediumSmallBold"

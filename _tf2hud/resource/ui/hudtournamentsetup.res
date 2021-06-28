@@ -11,7 +11,7 @@
 		"tall"			"65"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../HUD/tournament_panel_brown"
 
@@ -35,7 +35,7 @@
 		"tall"			"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
@@ -54,7 +54,7 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"labelText"		"#Tournament_TeamNamePanel"
@@ -71,7 +71,7 @@
 		"tall"		"16"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textHidden"		"0"
@@ -114,11 +114,11 @@
 		
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"Not Ready"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"teamnotready"
 		"default"		"1"
@@ -137,11 +137,11 @@
 		
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"Ready"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"teamready" 
 		"default"		"1"

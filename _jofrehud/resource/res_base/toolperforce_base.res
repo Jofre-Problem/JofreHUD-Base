@@ -15,14 +15,14 @@
 		"tall"		"24"
 	//	
 	//	
-	//	"visible"		"1"
+	//	//"visible"		"1"
 	//	
 	//	
 		"labelText"		""
 		"textAlignment"		"center"
-	//	"dulltext"		"0"
+	//	//"dulltext"		"0"
 	//	"brighttext"		"0"
-	//	"wrap"		"0"
+	//	//"wrap"		"0"
 	//	"font" "defaultverysmall"
 	}
 	"Yes"
@@ -35,14 +35,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Yes"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"yes"
 		"Default"		"1"
 	}
@@ -56,14 +56,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"No"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"no"
 		"Default"		"0"
 	}

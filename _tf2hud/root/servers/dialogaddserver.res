@@ -10,7 +10,7 @@
 		"tall"		"390"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -27,7 +27,7 @@
 		"tall"		"150"
 		"AutoResize"		"3"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -42,7 +42,7 @@
 		"tall"		"122"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -57,7 +57,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"paintbackground"		"1"
@@ -77,13 +77,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"3"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_FindGames"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"TestServers"
 		"Default"		"0"
 	}
@@ -97,13 +97,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddAddressToFavorites"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"OK"
 		"Default"		"1"
 	}
@@ -117,13 +117,13 @@
 		"tall"		"24"
 		
 		"PinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddSelectedToFavorites"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"InfoLabel"
@@ -136,14 +136,14 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_EnterIPofServerToAdd"
 		"textAlignment"		"west"
 		"font"		"UiBold"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"ExampleLabel"
 	{
@@ -155,14 +155,14 @@
 		"tall"		"74"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
 		"appearance"		"LabelDull"
 		"labelText"		"#ServerBrowser_Examples"
 		"textAlignment"		"north-west"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"CancelButton"
 	{
@@ -174,13 +174,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"4"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Cancel"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 	}

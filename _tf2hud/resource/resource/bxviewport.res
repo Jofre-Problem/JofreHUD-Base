@@ -10,7 +10,7 @@
 		"tall"		"944"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"826"
 		"autoResize"		"3"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -39,7 +39,7 @@
 		"tall"		"36"
 		"autoResize"		"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -54,7 +54,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -69,7 +69,7 @@
 		"tall"		"34"
 		"autoResize"		"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"leftText"		"0.0 s."
@@ -85,14 +85,14 @@
 		"tall"		"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"sequence"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"ActiveCamera"
 	{
@@ -104,14 +104,14 @@
 		"tall"		"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"camera"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"ActiveClipLabel"
 	{
@@ -123,14 +123,14 @@
 		"tall"		"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Active Clip:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"ActiveCameraButton"
 	{
@@ -142,14 +142,14 @@
 		"tall"		"16"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Active Camera:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"ToggleWorkCamera"
 		"Default"		"1"
 		"selected"		"0"
@@ -164,7 +164,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}

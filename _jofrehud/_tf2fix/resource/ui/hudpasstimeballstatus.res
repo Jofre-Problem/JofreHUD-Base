@@ -9,7 +9,7 @@
 		"zpos"				"100"
 		"wide"				"f0"
 		"tall"				"f0"
-		"visible"			"1"
+		//"visible"			"1"
 		
 	}
 
@@ -24,7 +24,7 @@
 		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"25"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"center"
 		"labelText"		"A TEAM STOLE THE BALL"
@@ -42,7 +42,7 @@
 		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"20"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"center"
 		"labelText"		""
@@ -63,7 +63,7 @@
 		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"24"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"center"
 		"labelText"		"A TEAM STOLE THE BALL"
@@ -82,7 +82,7 @@
 		
 		"wide"			"380"
 		"tall"			"48"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		""
 		"image"			"../passtime/hud/passtime_ballcontrol_bar"
@@ -238,7 +238,7 @@
 		"tall"			"42"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -257,7 +257,7 @@
 		"tall"			"42"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -297,7 +297,7 @@
 		"wide" "f0"
 		"tall" "f0"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 
 		"BallPowerMeterFrame"
@@ -311,7 +311,7 @@
 			"tall"			"50"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"image"			"../passtime/hud/passtime_powerball_meter_frame"
@@ -332,7 +332,7 @@
 			"zpos"			"3"
 			"wide"			"168"
 			"tall"			"18"
-			"visible"			"1"
+			//"visible"			"1"
 			
 
 			"BallPowerMeterFinalSection"
@@ -346,7 +346,7 @@
 				"tall"			"18"
 				
 				
-				"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"image"			"white"
@@ -368,7 +368,7 @@
 			"zpos"				"4"
 			"wide"				"168"
 			"tall"				"18"
-			"visible"			"1"
+			//"visible"			"1"
 			
 
 			"BallPowerMeterFill"
@@ -382,7 +382,7 @@
 				"tall"			"18"
 				
 				
-				"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"image"			"white"

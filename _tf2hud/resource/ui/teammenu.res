@@ -10,7 +10,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -59,7 +59,7 @@
 		"enabled"		"0"
 		"labelText"		""
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"1"
 	}
 	
@@ -74,13 +74,13 @@
 		"tall"			"310"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"3"
 		"labelText"		"&3"	[$WIN32]
 		"labelText"		""		[$X360]
 		"textAlignment"	"south-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"paintborder"	"0"
 		"command"		"jointeam blue"
@@ -102,13 +102,13 @@
 		"tall"			"310"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"4"
 		"labelText"		"&4"	[$WIN32]
 		"labelText"		""		[$X360]
 		"textAlignment"	"south-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"paintborder"	"0"
 		"command"		"jointeam red"
@@ -130,13 +130,13 @@
 		"tall"			"310"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"1"
 		"labelText"		"&1"	[$WIN32]
 		"labelText"		""		[$X360]
 		"textAlignment"	"south-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"paintborder"	"0"
 		"command"		"jointeam auto"
@@ -156,13 +156,13 @@
 		"tall"			"57"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"&2"	[$WIN32]
 		"labelText"		""		[$X360]
 		"textAlignment"	"south-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"paintborder"	"0"
 		"command"		"jointeam spectate"
@@ -190,7 +190,7 @@
 		
 		"labelText"		"#TF_Cancel"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"cancelmenu"
 		"font"			"MenuSmallFont"
@@ -211,12 +211,12 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		//"visible_lodef"		"0"
 		
 		"labelText"		"#TF_SelectATeam"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"MenuMainTitle"
 		"fgcolor"		"HudOffWhite"
@@ -239,11 +239,11 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_Random"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"MenuSmallFont"
@@ -265,11 +265,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_Spectate"
 		"textAlignment"	"north"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"MenuSmallestFont"
@@ -288,7 +288,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -322,7 +322,7 @@
 		//"tall_hidef"			"65"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 			
 		"image"			"loadout_bottom_gradient"
@@ -344,11 +344,11 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%bluecount%"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"1"
 		"font"			"TeamMenuBold"
 		"fgcolor"		"black"
@@ -368,11 +368,11 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%redcount%"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"1"
 		"font"			"TeamMenuBold"
 		"fgcolor"		"black"
@@ -389,7 +389,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -462,7 +462,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -535,7 +535,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -584,7 +584,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -681,7 +681,7 @@
 		
 		"labelText"		"#TF_Highlander_Mode"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"HudOffWhite"
@@ -703,7 +703,7 @@
 		
 		"labelText"		"#TF_Highlander_Mode"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"black"
@@ -725,7 +725,7 @@
 		
 		"labelText"		"#TF_Teams_Full"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"HudOffWhite"
@@ -747,7 +747,7 @@
 		
 		"labelText"		"#TF_Teams_Full"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"black"

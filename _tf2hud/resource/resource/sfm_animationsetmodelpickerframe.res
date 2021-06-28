@@ -8,7 +8,7 @@
 		"ypos"				"33"
 		"wide"				"288"
 		"tall"				"320"
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		
 		"UnpinnedCornerOffsetX" "-6"
 		"UnpinnedCornerOffsetY" "-64"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -39,14 +39,14 @@
 		
 		"pinCorner"		"2"
 		"PinnedCornerOffsetY" "-36"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Filter:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"FilterList"
 	{
@@ -60,7 +60,7 @@
 		"pinCorner"		"2"
 		"PinnedCornerOffsetY" "-36"
 		"UnpinnedCornerOffsetX" "-6"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textHidden"		"0"
@@ -80,14 +80,14 @@
 		
 		"pinCorner"		"2"
 		"PinnedCornerOffsetY" "-6"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#VGui_OK"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Ok"
 		"Default"		"1"
 		"selected"		"0"
@@ -103,14 +103,14 @@
 		
 		"pinCorner"		"2"
 		"PinnedCornerOffsetY" "-6"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#VGui_Cancel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Cancel"
 		"Default"		"0"
 		"selected"		"0"

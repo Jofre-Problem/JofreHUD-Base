@@ -58,7 +58,7 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
@@ -79,7 +79,7 @@
 			"tall"			"60"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -102,7 +102,7 @@
 		"tall"			"60"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"centerwrap"	"1"
 		"proportionalToParent"	"1"
@@ -117,9 +117,9 @@
 		"zpos"			"1"
 		"wide"			"120"
 		"tall"			"90"
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
@@ -157,7 +157,7 @@
 		"tall"			"60"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"centerwrap"	"1"
 		"proportionalToParent"	"1"
@@ -178,7 +178,7 @@
 		"fgcolor"		"ItemAttribPositive"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"centerwrap"	"1"
 		"proportionalToParent"	"1"
@@ -198,7 +198,7 @@
 		"tall"			"60"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"centerwrap"	"1"
 		"proportionalToParent"	"1"
@@ -215,7 +215,7 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"proportionalToParent"	"1"
 	}
@@ -231,7 +231,7 @@
 		"wide"				"200"
 		"tall"				"15"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -254,13 +254,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"#ShuffleContents"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		
@@ -281,13 +281,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"1"
 		"labelText"		"#TF_VR_Close"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"0"
 		"Command"		"cancel"
@@ -308,13 +308,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"#GetKey"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"0"
 		"Command"		"getkey"
@@ -334,13 +334,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"#UseKey"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"0"
 		"Command"		"usekey"

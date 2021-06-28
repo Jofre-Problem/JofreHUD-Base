@@ -15,7 +15,7 @@
 		
 		"visible"		"0"
 		
-		"scaleImage"	"0"
+		//"scaleImage"	"0"
 		"fillcolor"		"255 255 255 255"
 	}
 	
@@ -32,7 +32,7 @@
 		"tall"				"128"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 				
 		"textAlignment"		"center"
@@ -53,7 +53,7 @@
 		"wide"			"256"
 		"tall"			"128"
 
-		"visible"		"1"
+		//"visible"		"1"
 		"material"		"vgui/screens/vgui_overlay"
 	}
 }

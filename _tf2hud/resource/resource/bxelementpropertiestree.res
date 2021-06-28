@@ -10,7 +10,7 @@
 		"tall"		"577"
 		"autoResize"		"3"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"542"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -38,7 +38,7 @@
 		"tall"		"548"
 		"autoResize"		"3"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -52,7 +52,7 @@
 		"tall"		"22"
 		"autoResize"		"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}

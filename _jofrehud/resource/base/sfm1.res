@@ -5,7 +5,7 @@
 		"ControlName"		"ListPanel"
 		"fieldName"		"AnimationSetBrowser"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -15,7 +15,7 @@
 		"fieldName"		"FilterList"
 		"tall"		"24"
 		"autoResize"		"1"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textHidden"		"0"

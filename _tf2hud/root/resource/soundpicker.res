@@ -10,7 +10,7 @@
 		"tall"			"380"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"	"1"
@@ -30,7 +30,7 @@
 			"PinnedCornerOffsetY" "6"
 			"UnpinnedCornerOffsetX" "-6"
 			"UnpinnedCornerOffsetY" "-6"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"tabPosition"	"1"
 		}

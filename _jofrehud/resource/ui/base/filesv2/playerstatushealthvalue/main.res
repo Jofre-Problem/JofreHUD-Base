@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%Health%"
 		"textAlignment"	"center"

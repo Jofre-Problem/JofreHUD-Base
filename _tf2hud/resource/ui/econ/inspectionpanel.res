@@ -9,7 +9,7 @@
 		"zpos"			"1"
 		"wide"			"o1"
 		"tall"			"p0.75"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"item_carousel_bg"
 		"scaleImage"	"1"
@@ -25,8 +25,8 @@
 		"zpos"			"5"
 		"wide"			"f0"
 		"tall"			"200"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
+		////"visible"		"1"
+		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"0"
@@ -57,7 +57,7 @@
 		"zpos"			"5"
 		"wide"			"o1.5"
 		"tall"			"p0.8"
-		"visible"		"1"
+		////"visible"		"1"
 
 		"proportionaltoparent"	"1"
 
@@ -130,7 +130,7 @@
 		"tall"				"25"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		"proportionaltoparent"	"1"
 		
@@ -147,7 +147,7 @@
 			"tall"				"19"
 			
 			"pinCorner"			"2"
-			"visible"			"1"
+			//"visible"			"1"
 			
 			
 			"labelText"			""
@@ -185,7 +185,7 @@
 				"zpos"			"7"
 				"wide"			"19"
 				"tall"			"19"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"
 			}				
@@ -267,7 +267,7 @@
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -293,7 +293,7 @@
 				"zpos"			"1"
 				"wide"			"8"
 				"tall"			"8"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"glyph_workshop_edit"
 				"scaleImage"	"1"
@@ -314,7 +314,7 @@
 			"tall"				"15"
 			
 			
-			"visible"			"1"
+			//"visible"			"1"
 			
 			"textHidden"		"0"
 			"editable"			"0"
@@ -352,7 +352,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override"	"235 227 203 255"
 
@@ -379,7 +379,7 @@
 			"tall"				"15"
 			
 			
-			"visible"			"1"
+			//"visible"			"1"
 			
 			"textHidden"		"0"
 			"editable"			"0"
@@ -422,7 +422,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override"	"235 227 203 255"
 
@@ -486,7 +486,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override"	"235 227 203 255"
 
@@ -519,14 +519,14 @@
 			"wide"			"70"
 			"tall"			"20"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#TF_ItemPreview_PaintkitSeed"
 			"actionsignallevel" "2"
 			"use_proportional_insets" "1"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"keyboardinputenabled"	"0"
 
@@ -559,7 +559,7 @@
 			"wide"			"115"
 			"tall"			"20"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"actionsignallevel" "2"
@@ -593,7 +593,7 @@
 			"tall"		"20"
 			"labelText"			"#TF_ItemAd_ViewOnMarket"
 			"font"			"AdFont_PurchaseButton"
-			"textinsetx"		"0"
+			//"textinsetx"		"0"
 			"textAlignment"	"center"
 		
 			"proportionaltoparent"	"1"

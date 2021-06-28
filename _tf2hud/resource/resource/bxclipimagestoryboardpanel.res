@@ -10,7 +10,7 @@
 		"tall"		"135"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"96"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -39,10 +39,10 @@
 		"tall"		"103"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
-		"scaleImage"		"0"
+		//"scaleImage"		"0"
 	}
 	"ClipName"
 	{
@@ -54,15 +54,15 @@
 		"tall"		"16"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Street Level"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"DefaultVerySmall"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"ClipText"
 	{
@@ -74,15 +74,15 @@
 		"tall"		"16"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"whee"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"DefaultVerySmall"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"MouseMessageForwardingPanel"
 	{
@@ -95,7 +95,7 @@
 		"tall"		"165"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}

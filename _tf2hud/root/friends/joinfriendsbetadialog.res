@@ -10,7 +10,7 @@
 		"tall"		"314"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -27,13 +27,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#Friends_ActivateFriendsBeta"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"PersonaNameEntry"
@@ -46,7 +46,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"paintbackground"		"1"
@@ -66,13 +66,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"3"
 		"paintbackground"		"1"
 		"labelText"		"#vgui_Cancel"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 	}
@@ -86,7 +86,7 @@
 		"tall"		"77"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -104,13 +104,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_NameToUseInFriendsBeta"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"URLLabel1"
 	{
@@ -122,13 +122,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"paintbackground"		"1"
 		"labelText"		"#Friends_BetaHomePage"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"URLText"		"http://developer.valvesoftware.com/wiki/Friends_Beta"
 	}
 	"Divider1"
@@ -141,7 +141,7 @@
 		"tall"		"2"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"

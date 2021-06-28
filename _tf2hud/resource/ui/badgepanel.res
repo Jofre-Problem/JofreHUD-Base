@@ -11,7 +11,7 @@
 		"tall"			"f0"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fov"			"70"
 		"start_framed"	"0"

@@ -24,7 +24,7 @@
 			"ypos"			"10"
 			"wide"			"17"
 			"tall"			"17"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"scaleImage"	"1"
 			"image"			"hud/vote_yes"
@@ -38,11 +38,11 @@
 			"ypos"			"10"
 			"wide"			"148"
 			"tall"			"17"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"#GameUI_vote_passed"
 			"textAlignment"	"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
 			"wrap"			"1"
@@ -57,11 +57,11 @@
 			"ypos"			"29"
 			"wide"			"180"
 			"tall"			"40"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"%passedresult%"
 			"textAlignment"	"north-west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
@@ -92,11 +92,11 @@
 			"ypos"			"5"
 			"wide"			"180"
 			"tall"			"20"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"#GameUI_vote_header"
 			"textAlignment"	"north-west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
@@ -111,11 +111,11 @@
 			"ypos"			"22"
 			"wide"			"180"
 			"tall"			"40"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"%voteissue%"
 			"textAlignment"	"north-west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
 			"fgcolor_override"	"255 255 255 255"
@@ -147,11 +147,11 @@
 			"wide"			"180"
 			"tall"			"16"
 			"zpos"			"2"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"	"left"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"255 255 255 255"
@@ -168,7 +168,7 @@
 			"tall"			"16"
 			"zpos"			"1"
 			"fillcolor"		"88 119 140 180"
-			"visible"		"1"
+			////"visible"		"1"
 		}
 		
 		"Option1CountLabel"
@@ -180,11 +180,11 @@
 			"wide"			"16"
 			"tall"			"16"
 			"zpos"			"2"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"Yes"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
 			"fgcolor_override"	"255 255 255 255"
@@ -199,11 +199,11 @@
 			"wide"			"180"
 			"tall"			"16"
 			"zpos"			"2"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"	"left"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"255 255 255 255"
@@ -220,7 +220,7 @@
 			"tall"			"16"
 			"zpos"			"1"
 			"fillcolor"		"88 119 140 180"
-			"visible"		"1"
+			////"visible"		"1"
 		}
 		
 		"Option2CountLabel"
@@ -232,11 +232,11 @@
 			"wide"			"16"
 			"tall"			"16"
 			"zpos"			"2"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"No"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
 			"fgcolor_override"	"255 255 255 255"
@@ -251,11 +251,11 @@
 			"wide"			"180"
 			"tall"			"16"
 			"zpos"			"2"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"	"left"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"255 255 255 255"
@@ -272,7 +272,7 @@
 			"tall"			"16"
 			"zpos"			"1"
 			"fillcolor"		"88 119 140 180"
-			"visible"		"1"
+			////"visible"		"1"
 		}
 		
 		"LabelOption4"
@@ -284,11 +284,11 @@
 			"wide"			"180"
 			"tall"			"16"
 			"zpos"			"2"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"	"left"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"255 255 255 255"
@@ -305,7 +305,7 @@
 			"tall"			"16"
 			"zpos"			"1"
 			"fillcolor"		"88 119 140 180"
-			"visible"		"1"
+			////"visible"		"1"
 		}
 		
 		"LabelOption5"
@@ -317,11 +317,11 @@
 			"wide"			"180"
 			"tall"			"16"
 			"zpos"			"2"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"	"left"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"255 255 255 255"
@@ -338,7 +338,7 @@
 			"tall"			"16"
 			"zpos"			"1"
 			"fillcolor"		"88 119 140 180"
-			"visible"		"1"
+			////"visible"		"1"
 		}
 		
 		// divider
@@ -362,11 +362,11 @@
 			"ypos"			"100"
 			"wide"			"190"
 			"tall"			"20"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"#GameUI_vote_current_vote_count"
 			"textAlignment"	"north-west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"128 128 128 255"
@@ -382,7 +382,7 @@
 			"wide"			"180"
 			"tall"			"18"
 			"zpos"			"2"
-			"visible"		"1"
+			////"visible"		"1"
 						
 			"box_size"		"16"
 			"spacer"		"6"
@@ -415,7 +415,7 @@
 			"ypos"			"10"
 			"wide"			"17"
 			"tall"			"17"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"scaleImage"	"1"
 			"image"			"hud/vote_no"
@@ -429,11 +429,11 @@
 			"ypos"			"10"
 			"wide"			"180"
 			"tall"			"17"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"#GameUI_vote_failed"
 			"textAlignment"	"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
 			"wrap"			"1"
@@ -448,11 +448,11 @@
 			"ypos"			"29"
 			"wide"			"200"
 			"tall"			"40"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"	"north-west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
@@ -483,7 +483,7 @@
 			"ypos"			"10"
 			"wide"			"17"
 			"tall"			"17"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"scaleImage"	"1"
 			"image"			"hud/vote_no"
@@ -497,11 +497,11 @@
 			"ypos"			"10"
 			"wide"			"148"
 			"tall"			"17"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"#GameUI_vote_failed"
 			"textAlignment"	"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
 			"wrap"			"1"
@@ -516,11 +516,11 @@
 			"ypos"			"29"
 			"wide"			"180"
 			"tall"			"40"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"	"north-west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
@@ -538,7 +538,7 @@
 		"tall"				"300"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"settitlebarvisible"	"1"
@@ -558,7 +558,7 @@
 			"wide"		"128"
 			"tall"		"200"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			
@@ -576,7 +576,7 @@
 			"wide"		"150"
 			"tall"		"200"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			
@@ -594,12 +594,12 @@
 			"tall"		"24"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			"enabled"		"0"
 			"tabPosition"	"4"
 			"labelText"		"Call Vote"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"CallVote"
 			"Default"		"0"
@@ -615,12 +615,12 @@
 			"tall"		"24"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"tabPosition"	"4"
 			"labelText"		"#GameUI_Close"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"Close"
 			"Default"		"0"

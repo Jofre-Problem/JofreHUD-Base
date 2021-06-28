@@ -9,7 +9,7 @@
 		"zpos"			"-2"
 		"wide"			"480"
 		"tall"			"240"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"dispenser_meter_bg_blue"
@@ -24,7 +24,7 @@
 		"y"				"0"
 		"wide"			"480"
 		"tall"			"240"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"start_degrees"	"-85"
 		"end_degrees"	"85"

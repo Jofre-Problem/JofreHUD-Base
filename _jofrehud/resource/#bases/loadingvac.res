@@ -10,7 +10,7 @@
 		"tall"		"15"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		

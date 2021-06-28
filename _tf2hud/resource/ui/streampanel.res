@@ -9,7 +9,7 @@
 		
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"bgcolor_override"	"0 0 0 50"
@@ -25,7 +25,7 @@
 		"zpos"			"10"
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"SpinnerImage"
@@ -37,7 +37,7 @@
 			"zpos"			"1"
 			"wide"			"50"
 			"tall"			"50"
-			"visible"		"1"
+			////"visible"		"1"
 			"enable"		"1"
 			"scaleImage"	"1"
 			"image"			"animated/tf2_logo_hourglass"
@@ -58,7 +58,7 @@
 			"tall"			"f0"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"56 53 49 255"
 
@@ -76,9 +76,9 @@
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"50"
-		"visible"		"1"
+		////"visible"		"1"
 		"enable"		"1"
-		"scaleImage"	"0"
+		//"scaleImage"	"0"
 	}
 
 	"DisplayNameLabel"
@@ -94,7 +94,7 @@
 		"tall"			"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor"		"56 53 49 255"
 	}
@@ -112,7 +112,7 @@
 		"tall"			"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor"		"56 53 49 255"
 	}
@@ -130,7 +130,7 @@
 		"tall"			"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor"		"56 53 49 255"
 	}
@@ -147,7 +147,7 @@
 		
 		
 		"labelText"		""
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		
 		"default"		"1"

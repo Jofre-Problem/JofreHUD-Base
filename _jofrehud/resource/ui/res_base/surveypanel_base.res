@@ -8,7 +8,7 @@
 		"zpos"			"50"
 		"wide"			"400"
 		"tall"			"150"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"border"		"MainMenuBGBorder"
 		"proportionaltoparent"	"1"
@@ -21,7 +21,7 @@
 			
 			"wide"			"f0"
 			"tall"			"f0"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 		}
 
@@ -45,7 +45,7 @@
 				
 				"wide"			"p0.8"
 				"tall"			"25"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
@@ -63,7 +63,7 @@
 				
 				"wide"			"o1"
 				"tall"			"80"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"animated/tf2_logo_hourglass"
 		
@@ -91,7 +91,7 @@
 				
 				"wide"			"p0.8"
 				"tall"			"25"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Orange"
@@ -109,7 +109,7 @@
 				
 				"wide"			"p0.8"
 				"tall"			"50"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
@@ -132,13 +132,13 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -164,7 +164,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"

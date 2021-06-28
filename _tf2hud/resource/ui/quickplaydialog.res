@@ -10,7 +10,7 @@
 		"tall"		"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"bgcolor_override"	"0 0 0 240"
@@ -29,7 +29,7 @@
 		"tall"		"410"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"PaintBackgroundType"	"0"
@@ -46,7 +46,7 @@
 			"tall"		"f0"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"40 37 37 255"
@@ -67,7 +67,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 
@@ -97,7 +97,7 @@
 				"tall"			"20"
 				"autoResize"	"1"
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"fgcolor_override"	"89 81 71 255"
 			}
@@ -113,13 +113,13 @@
 				"tall"			"15"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"labelText"		"?"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"1"
 				"Command"		"more_info"
@@ -148,7 +148,7 @@
 					
 					"wide"			"230"
 					"tall"			"230"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"mouseinputenabled" "0"
 					"image"			"maps/menu_screen_ctf_2fort"
@@ -169,7 +169,7 @@
 					"tall"			"25"
 					
 					
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"mouseinputenabled" "0"
 					"fgcolor_override"	"89 81 71 255"
@@ -189,7 +189,7 @@
 					"tall"			"50"
 					
 					
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"fgcolor_override"	"89 81 71 255"
 					"auto_wide_tocontents" "0"
@@ -212,7 +212,7 @@
 					"tall"			"15"
 					
 					
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"fgcolor_override"	"201 79 57 255"
 					"auto_wide_tocontents" "0"
@@ -269,7 +269,7 @@
 						"tall"			"160"
 						"autoResize"	"1"
 						
-						"visible"		"1"
+						////"visible"		"1"
 						
 						"wrap"			"1"
 						"centerwrap"	"1"
@@ -288,13 +288,13 @@
 				"tall"			"40"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"labelText"		"<"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"Command"		"prevpage"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -312,13 +312,13 @@
 				"tall"			"40"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"labelText"		">"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"Command"		"nextpage"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -354,7 +354,7 @@
 				"tall"			"15"
 				"autoResize"	"1"
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 			}
 
@@ -716,14 +716,14 @@
 			"tall"			"40"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#TF_Quickplay_PlayNow"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"playnow"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -749,14 +749,14 @@
 			"tall"			"40"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#TF_Quickplay_ShowServers"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"show_servers"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -782,7 +782,7 @@
 			"tall"			"25"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			//"labelText"		"#GameUI_GameMenu_Options"
@@ -790,7 +790,7 @@
 			"textAlignment"	"west"
 			"textinsetx"	"35"
 			"use_proportional_insets" "1"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"ToggleShowOptions"
@@ -808,7 +808,7 @@
 				"zpos"			"1"
 				"wide"			"19"
 				"tall"			"19"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"
 				"image"			"glyph_options"
@@ -830,7 +830,7 @@
 			"tall"			"30"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 
@@ -845,13 +845,13 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"?"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"explain_beta"
@@ -898,14 +898,14 @@
 			"tall"			"25"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#Cancel"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"cancel"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -948,7 +948,7 @@
 				"tall"			"30"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"wrap"			"1"
 				"fgcolor_override" "46 43 42 255"
@@ -967,7 +967,7 @@
 				"tall"			"f0"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"wrap"			"1"
 				"fgcolor_override" "46 43 42 255"
@@ -985,13 +985,13 @@
 				"tall"			"14"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"0"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -1016,7 +1016,7 @@
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"image"			"close_button"
 					"scaleImage"	"1"

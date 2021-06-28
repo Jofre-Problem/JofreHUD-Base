@@ -10,7 +10,7 @@
 		"tall"			"256"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	
@@ -26,7 +26,7 @@
 			"UnpinnedCornerOffsetY" "-6"
 			"autoResize"		"3"
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 		}

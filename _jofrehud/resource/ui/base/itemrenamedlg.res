@@ -32,7 +32,7 @@
 		"wide"			"360"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override"	"235 226 202 255"
 	}

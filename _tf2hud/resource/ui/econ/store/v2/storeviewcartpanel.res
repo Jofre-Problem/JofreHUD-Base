@@ -10,7 +10,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"	"1"
@@ -45,7 +45,7 @@
 				
 				"wide"			"400"
 				"tall"			"58"
-				"visible"		"1"
+				////"visible"		"1"
 				"bgcolor_override"		"0 0 0 255"
 				"noitem_textcolor"		"117 107 94 255"
 				"PaintBackgroundType"	"2"
@@ -85,7 +85,7 @@
 				"tall"			"10"
 				"autoResize"	"1"
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"labelText"		"%quantity%"
 			}
@@ -99,7 +99,7 @@
 				"zpos"			"5"
 				"wide"			"580"
 				"tall"			"5"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"loadout_solid_line"
 				"tileImage"		"1"
@@ -116,13 +116,13 @@
 				"tall"			"25"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"labelText"		"#Store_Remove"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"1"
 				"Command"		"remove"
@@ -143,7 +143,7 @@
 				"tall"			"60"
 				"autoResize"	"1"
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"labelText"		"%price%"
 				"fgcolor_override" "130 120 104 255"
@@ -162,7 +162,7 @@
 				"zpos"			"15"
 				"autoResize"	"1"
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"labelText"		"%preview_item%"
 				"fgcolor_override" "130 120 104 255"
@@ -179,7 +179,7 @@
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"55"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"loadout_header"
 		"tileImage"		"1"
@@ -193,7 +193,7 @@
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"60"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
@@ -207,7 +207,7 @@
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"10"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
@@ -232,7 +232,7 @@
 			"zpos"			"5"
 			"wide"			"f0"
 			"tall"			"10"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"loadout_solid_line"
 			"scaleImage"	"1"
@@ -252,7 +252,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		
@@ -265,7 +265,7 @@
 			"zpos"			"5"
 			"wide"			"600"
 			"tall"			"5"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"loadout_solid_line"
 			"tileImage"		"1"
@@ -356,7 +356,7 @@
 					"zpos"			"99"
 					"wide"			"32"
 					"tall"			"32"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"image"			"store_special"
 					"scaleImage"	"1"
@@ -384,7 +384,7 @@
 						"tall"			"15"
 						"autoResize"	"1"
 						
-						"visible"		"1"
+						////"visible"		"1"
 						
 					}
 					"WashingtonStateSalesTaxLabel"
@@ -401,7 +401,7 @@
 						"tall"			"12"
 						"autoResize"	"1"
 						
-						"visible"		"1"
+						////"visible"		"1"
 						
 						"fgcolor_override" "130 120 104 255"
 					}
@@ -419,7 +419,7 @@
 						"tall"			"12"
 						"autoResize"	"1"
 						
-						"visible"		"1"
+						////"visible"		"1"
 						
 						"fgcolor_override" "130 120 104 255"
 					}
@@ -437,7 +437,7 @@
 						"tall"			"60"
 						"autoResize"	"1"
 						
-						"visible"		"1"
+						////"visible"		"1"
 						
 						"labelText"		"%totalprice%"
 						"fgcolor_override" "130 120 104 255"
@@ -459,13 +459,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Store_ContinueShopping"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"close"
@@ -484,13 +484,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Store_Checkout"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"checkout"

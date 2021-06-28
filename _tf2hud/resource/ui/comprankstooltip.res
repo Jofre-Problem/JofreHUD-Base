@@ -29,7 +29,7 @@
 		"tall"			"40"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "TanLight"
 		"proportionaltoparent" "1"
@@ -49,7 +49,7 @@
 		"tall"			"40"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"fgcolor_override" "TanLight"
@@ -78,7 +78,7 @@
 			
 			"wide"   "100"
 			"tall"			"80"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -94,7 +94,7 @@
 			
 			"wide"   "100"
 			"tall"			"80"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -110,7 +110,7 @@
 			
 			"wide"   "100"
 			"tall"			"80"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -127,7 +127,7 @@
 			
 			"wide"   "100"
 			"tall"			"80"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -143,7 +143,7 @@
 			
 			"wide"   "100"
 			"tall"			"80"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -159,7 +159,7 @@
 			
 			"wide"   "100"
 			"tall"			"80"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -176,7 +176,7 @@
 			
 			"wide"   "100"
 			"tall"			"80"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -192,7 +192,7 @@
 			
 			"wide"   "100"
 			"tall"			"80"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -208,7 +208,7 @@
 			
 			"wide"   "100"
 			"tall"			"80"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -225,7 +225,7 @@
 			
 			"wide"   "100"
 			"tall"			"80"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -241,7 +241,7 @@
 			
 			"wide"   "100"
 			"tall"			"80"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -257,7 +257,7 @@
 			
 			"wide"   "100"
 			"tall"			"80"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -274,7 +274,7 @@
 			
 			"wide"   "100"
 			"tall"			"80"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 

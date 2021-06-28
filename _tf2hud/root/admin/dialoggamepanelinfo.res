@@ -10,7 +10,7 @@
 		"tall"		"420"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -52,7 +52,7 @@
 		"tall"		"360"
 		"autoResize"		"3"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 	}
@@ -164,7 +164,7 @@
 		"tall"		"332"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}

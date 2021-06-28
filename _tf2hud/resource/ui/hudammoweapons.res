@@ -11,7 +11,7 @@
 		"zpos"			"1"
 		"wide"			"90"
 		"tall"			"45"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/ammo_blue_bg"
 		"scaleImage"	"1"	

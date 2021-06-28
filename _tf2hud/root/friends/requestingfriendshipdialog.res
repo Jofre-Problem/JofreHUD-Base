@@ -10,7 +10,7 @@
 		"tall"		"224"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -27,13 +27,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#vgui_ok"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"1"
 		"selected"		"0"
 	}
@@ -47,13 +47,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"3"
 		"paintbackground"		"1"
 		"labelText"		"#vgui_Cancel"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 		"selected"		"0"
@@ -68,13 +68,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"paintbackground"		"1"
 		"labelText"		"#Friends_AllowUserToSeeMeOnline"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"1"
 		"SubTabPosition"		"1"
@@ -89,13 +89,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"paintbackground"		"1"
 		"labelText"		"#Friends_BlockUserFromSeeingMeOnline"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 		"SubTabPosition"		"2"
@@ -110,13 +110,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_UserRequestingFriendship_Info"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"ImagePanel1"
 	{
@@ -129,12 +129,12 @@
 		"tall"		"126"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
 		"gradientVertical"		"0"
-		"scaleImage"		"0"
+		//"scaleImage"		"0"
 		"fillcolor"	"104 106 101 255"
 	}
 }

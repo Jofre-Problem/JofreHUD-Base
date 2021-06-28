@@ -8,7 +8,7 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_left"
@@ -21,7 +21,7 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"B"
 		"actionSet"		"InGameHUDControls"

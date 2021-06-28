@@ -30,7 +30,7 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -49,7 +49,7 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 	"ModelLabel"
@@ -66,7 +66,7 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -81,13 +81,13 @@
 		"tall"			"15"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#IT_SelectModel"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"select_model"
@@ -102,7 +102,7 @@
 		"ypos"			"90"
 		"wide"			"400"
 		"tall"			"50"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"46 43 42 255"
 		
@@ -120,7 +120,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 		}
@@ -136,7 +136,7 @@
 			"tall"				"15"
 			
 			
-			"visible"			"1"
+			//"visible"			"1"
 			
 			"tabPosition"		"1"
 			"textHidden"		"0"
@@ -163,7 +163,7 @@
 		"ypos"			"140"
 		"wide"			"400"
 		"tall"			"50"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"46 43 42 255"
 		
@@ -181,7 +181,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"ItemReplacedComboBox"
@@ -196,7 +196,7 @@
 			"tall"				"15"
 			
 			
-			"visible"			"1"
+			//"visible"			"1"
 			
 			"tabPosition"		"1"
 			"textHidden"		"0"
@@ -242,7 +242,7 @@
 		"ypos"			"100"
 		"wide"			"550"
 		"tall"			"50"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"2"
 		
 		"HideBodygroupLabel"
@@ -259,7 +259,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"HideBodygroupExplanationLabel"
@@ -276,7 +276,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor"		"117 107 94 255"
@@ -295,9 +295,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -315,9 +315,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -335,9 +335,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -355,9 +355,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -375,9 +375,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -395,9 +395,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -415,9 +415,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -435,9 +435,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -451,7 +451,7 @@
 		"ypos"			"200"
 		"wide"			"530"
 		"tall"			"50"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"2"
 		
 		"PaintColorLabel"
@@ -468,7 +468,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"PaintColorComboBox"
@@ -483,7 +483,7 @@
 			"tall"				"15"
 			
 			
-			"visible"			"1"
+			//"visible"			"1"
 			
 			"tabPosition"		"1"
 			"textHidden"		"0"
@@ -515,7 +515,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"UnusualEffectComboBox"
@@ -530,7 +530,7 @@
 			"tall"				"15"
 			
 			
-			"visible"			"1"
+			//"visible"			"1"
 			
 			"tabPosition"		"1"
 			"textHidden"		"0"
@@ -560,13 +560,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"cancel"
@@ -584,13 +584,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"#GameUI_Ok"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"ok"
@@ -609,14 +609,14 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"R"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"reloadscheme"
 		"sound_depressed"	"UI/buttonclick.wav"

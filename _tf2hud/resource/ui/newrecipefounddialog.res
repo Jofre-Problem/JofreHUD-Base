@@ -27,7 +27,7 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"labelText"		"#NewRecipeFound"
@@ -45,8 +45,8 @@
 		"zpos"			"100"
 		"wide"			"300"
 		"tall"			"130"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
+		////"visible"		"1"
+		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"235 226 202 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"0"
@@ -67,7 +67,7 @@
 			"tall"			"100"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -87,13 +87,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Ok"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"close"

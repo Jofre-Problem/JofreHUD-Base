@@ -10,7 +10,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -45,7 +45,7 @@
 		"tall"				"100"
 		
 		"pinCorner"			"2"
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			""
@@ -86,7 +86,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"class_sel_sm_random_inactive"
 			"scaleImage"	"1"
@@ -109,7 +109,7 @@
 		//"tall_lodef"			"22"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_Offense"
@@ -134,7 +134,7 @@
 		"tall"				"100"
 		
 		"pinCorner"			"2"
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"1"	[$WIN32]
@@ -177,7 +177,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"class_sel_sm_scout_inactive"
 			"scaleImage"	"1"
@@ -198,7 +198,7 @@
 		"tall"				"100"
 		
 		"pinCorner"			"2"
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"2"	[$WIN32]
@@ -241,7 +241,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"class_sel_sm_soldier_inactive"
 			"scaleImage"	"1"
@@ -262,7 +262,7 @@
 		"tall"				"100"
 		
 		"pinCorner"			"2"
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"3"	[$WIN32]
@@ -304,7 +304,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"class_sel_sm_pyro_inactive"
 			"scaleImage"	"1"
@@ -327,7 +327,7 @@
 		//"tall_lodef"			"22"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_Defense"
@@ -351,7 +351,7 @@
 		"tall"				"100"
 		
 		"pinCorner"			"2"
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"4"	[$WIN32]
@@ -393,7 +393,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"class_sel_sm_demo_inactive"
 			"scaleImage"	"1"
@@ -413,7 +413,7 @@
 		"tall"				"100"
 		
 		"pinCorner"			"2"
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"5"	[$WIN32]
@@ -455,7 +455,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"class_sel_sm_heavy_inactive"
 			"scaleImage"	"1"
@@ -474,7 +474,7 @@
 		"tall"				"100"
 		
 		"pinCorner"			"2"
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"6"	[$WIN32]
@@ -516,7 +516,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"class_sel_sm_engineer_inactive"
 			"scaleImage"	"1"
@@ -539,7 +539,7 @@
 		//"tall_lodef"			"22"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_Support"
@@ -564,7 +564,7 @@
 		"tall"				"100"
 		
 		"pinCorner"			"2"
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"7"	[$WIN32]
@@ -606,7 +606,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"class_sel_sm_medic_inactive"
 			"scaleImage"	"1"
@@ -627,7 +627,7 @@
 		"tall"				"100"
 		
 		"pinCorner"			"2"
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"8"	[$WIN32]
@@ -669,7 +669,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"class_sel_sm_sniper_inactive"
 			"scaleImage"	"1"
@@ -690,7 +690,7 @@
 		"tall"				"100"
 		
 		"pinCorner"			"2"
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"9"	[$WIN32]
@@ -732,7 +732,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"class_sel_sm_spy_inactive"
 			"scaleImage"	"1"
@@ -750,7 +750,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_ClassMenu_Cancel"
@@ -771,7 +771,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#EditLoadout"
@@ -815,7 +815,7 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		//"visible_lodef"	"0"
 		
 		"labelText"		"#TF_SelectAClass"
@@ -835,7 +835,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fov"			"16"
 		
@@ -897,7 +897,7 @@
 		//"tall_hidef"			"65"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 			
 		"image"			"loadout_bottom_gradient"
@@ -1165,7 +1165,7 @@
 		"tall"			"18"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_TeamCount"
@@ -1185,7 +1185,7 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"%numScout%"
@@ -1205,7 +1205,7 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"%numSoldier%"
@@ -1225,7 +1225,7 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"%numPyro%"
@@ -1245,7 +1245,7 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"%numDemoman%"
@@ -1265,7 +1265,7 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"%numHeavy%"
@@ -1285,7 +1285,7 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"%numEngineer%"
@@ -1305,7 +1305,7 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"%numMedic%"
@@ -1325,7 +1325,7 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"%numSniper%"
@@ -1345,7 +1345,7 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"%numSpy%"
@@ -1525,7 +1525,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -1544,7 +1544,7 @@
 			"tall"			"170"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -1561,13 +1561,13 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -1591,7 +1591,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -1612,7 +1612,7 @@
 		
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"render_texture"	"0"
@@ -1654,7 +1654,7 @@
 		"tall"			"165"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -1697,7 +1697,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -1716,7 +1716,7 @@
 			"tall"			"115"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -1733,13 +1733,13 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -1763,7 +1763,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"

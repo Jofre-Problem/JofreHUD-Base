@@ -12,11 +12,11 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_Object_Tele_Entrance_360"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"0 255 0 255"
 	}
@@ -30,7 +30,7 @@
 		
 		"wide"			"98"
 		"tall"			"105"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg_outline"
@@ -46,7 +46,7 @@
 		"zpos"			"1"
 		"wide"			"70"
 		"tall"			"70"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_demolish"
@@ -62,7 +62,7 @@
 		"zpos"			"2"
 		"wide"			"60"
 		"tall"			"60"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_tele_entrance"
@@ -78,7 +78,7 @@
 		
 		"wide"			"18"
 		"tall"			"18"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
@@ -98,7 +98,7 @@
 		"tall"			"18"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"3"
 		"textAlignment"	"Center"

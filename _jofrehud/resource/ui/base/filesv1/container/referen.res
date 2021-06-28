@@ -22,7 +22,7 @@
 		"tall"		"410"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"PaintBackgroundType"	"0"
@@ -40,7 +40,7 @@
 		"tall"		"400"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"PaintBackgroundType"	"0"
@@ -55,7 +55,7 @@
 		
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"proportionaltoparent" "1"
 		"skip_autoresize"	"1"
@@ -68,7 +68,7 @@
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"proportionaltoparent" "1"
 
@@ -81,7 +81,7 @@
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"proportionaltoparent" "1"
 	"Container"
@@ -95,7 +95,7 @@
 		"tall"		"400"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"PaintBackgroundType"	"0"

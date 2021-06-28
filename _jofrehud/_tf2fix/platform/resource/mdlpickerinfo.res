@@ -10,7 +10,7 @@
 		"tall"			"256"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	
@@ -24,7 +24,7 @@
 			"tall"		"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"disabled"		"1"
 			"tabPosition"	"1"
@@ -45,7 +45,7 @@
 			"tall"		"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"disabled"		"1"
 			"tabPosition"	"1"
@@ -66,7 +66,7 @@
 			"tall"		"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"disabled"		"1"
 			"tabPosition"	"1"
@@ -87,7 +87,7 @@
 			"tall"		"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"disabled"		"1"
 			"tabPosition"	"1"
@@ -108,7 +108,7 @@
 			"tall"		"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"1"
 			"labelText"		"Mass"
@@ -128,7 +128,7 @@
 			"tall"		"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"1"
 			"labelText"		"100"

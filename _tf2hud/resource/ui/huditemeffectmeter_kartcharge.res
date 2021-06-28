@@ -3,7 +3,7 @@
 	HudItemEffectMeter
 	{
 		"fieldName"		"HudItemEffectMeter"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"x_offset"		"0"
 		"xpos"			"10"	[$WIN32]
@@ -26,7 +26,7 @@
 		
 		"wide"			"150"
 		"tall"			"75"
-		"visible"		"1"
+		////"visible"		"1"
 		"visible_minmode"	"0"
 		
 		"image"			"../hud/misc_ammo_area_horiz2_blue"

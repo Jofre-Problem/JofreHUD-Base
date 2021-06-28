@@ -6,12 +6,12 @@
 		"fieldName"		"ShowExplanationsButton"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"?"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"show_explanations"
 		"sound_depressed"	"UI/buttonclick.wav"

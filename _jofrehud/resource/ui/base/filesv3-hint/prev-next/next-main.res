@@ -6,7 +6,7 @@
 		"fieldName"		"NextOptionHintIcon"
 		"zpos"			"4"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"actionSet"		"InGameHUDControls"
@@ -18,7 +18,7 @@
 		"fieldName"		"PrevOptionHintIcon"
 		"zpos"			"4"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"actionSet"		"InGameHUDControls"

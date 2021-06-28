@@ -22,7 +22,7 @@
 		"fieldName"		"AccelSlider"
 		"leftText"		"#Replay_AccelMin"
 		"rightText"		"#Replay_AccelMax"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tall"			"20"
 	}
@@ -33,7 +33,7 @@
 		"fieldName"		"SpeedSlider"
 		"leftText"		"#Replay_SpeedMin"
 		"rightText"		"#Replay_SpeedMax"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tall"			"20"
 	}
@@ -44,7 +44,7 @@
 		"fieldName"		"FovSlider"
 		"leftText"		"#Replay_FovMin"
 		"rightText"		"#Replay_FovMax"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tall"			"20"
 	}
@@ -55,7 +55,7 @@
 		"fieldName"		"RotFilterSlider"
 		"leftText"		"#Replay_RotFilterMin"
 		"rightText"		"#Replay_RotFilterMax"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tall"			"20"
 	}
@@ -66,7 +66,7 @@
 		"fieldName"		"ShakeSpeedSlider"
 		"leftText"		"#Replay_ShakeSpeedMin"
 		"rightText"		"#Replay_ShakeSpeedMax"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tall"			"20"
 	}
@@ -77,7 +77,7 @@
 		"fieldName"		"ShakeAmountSlider"
 		"leftText"		"#Replay_ShakeAmountMin"
 		"rightText"		"#Replay_ShakeAmountMax"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tall"			"20"
 	}
@@ -88,7 +88,7 @@
 		"fieldName"		"ShakeDirSlider"
 		"leftText"		"#Replay_ShakeDirMin"
 		"rightText"		"#Replay_ShakeDirMax"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tall"			"20"
 	}

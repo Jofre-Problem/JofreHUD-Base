@@ -10,7 +10,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"2"
 		"labelText"		"Apply change"
@@ -29,7 +29,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		"labelText"		"Mark as up-to-date"
@@ -48,7 +48,7 @@
 		"tall"		"72"
 		"autoResize"		"1"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -67,7 +67,7 @@
 		"tall"		"72"
 		"autoResize"		"1"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textHidden"		"0"
@@ -87,7 +87,7 @@
 		"tall"		"72"
 		"autoResize"		"1"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"textHidden"		"0"
@@ -106,7 +106,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Requires localization"
@@ -124,7 +124,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Token state:"
@@ -142,7 +142,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Localization"
@@ -160,7 +160,7 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Current English"
@@ -178,7 +178,7 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Previous English"
@@ -196,7 +196,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"Close"

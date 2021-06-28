@@ -93,7 +93,7 @@
 			"wide"			"f0"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
-			"visible"		"1"
+			////"visible"		"1"
 			"mouseinputenabled"	"0"
 			
 			"labeltext"			"%match_date%"
@@ -111,7 +111,7 @@
 			"wide"			"f0"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
-			"visible"		"1"
+			////"visible"		"1"
 			"mouseinputenabled"	"0"
 			
 			"labeltext"			"%map_name%"
@@ -129,7 +129,7 @@
 			"wide"			"100"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
-			"visible"		"1"
+			////"visible"		"1"
 			"mouseinputenabled"	"0"
 			
 			"labeltext"			"%kd_ratio%"
@@ -229,7 +229,7 @@
 				"wide"			"f0"
 				"tall"			"15"
 				"proportionaltoparent"	"1"
-				"visible"		"1"
+				////"visible"		"1"
 				"mouseinputenabled"	"0"
 			
 				"labeltext"			"%stat_kills%"
@@ -247,7 +247,7 @@
 				"wide"			"f0"
 				"tall"			"15"
 				"proportionaltoparent"	"1"
-				"visible"		"1"
+				////"visible"		"1"
 				"mouseinputenabled"	"0"
 			
 				"labeltext"			"%stat_deaths%"
@@ -278,7 +278,7 @@
 				"wide"			"f0"
 				"tall"			"15"
 				"proportionaltoparent"	"1"
-				"visible"		"1"
+				////"visible"		"1"
 				"mouseinputenabled"	"0"
 			
 				"labeltext"			"%stat_damage%"
@@ -310,7 +310,7 @@
 				"wide"			"f0"
 				"tall"			"15"
 				"proportionaltoparent"	"1"
-				"visible"		"1"
+				////"visible"		"1"
 				"mouseinputenabled"	"0"
 			
 				"labeltext"			"%stat_healing%"
@@ -341,7 +341,7 @@
 				"wide"			"f0"
 				"tall"			"15"
 				"proportionaltoparent"	"1"
-				"visible"		"1"
+				////"visible"		"1"
 				"mouseinputenabled"	"0"
 			
 				"labeltext"			"%stat_support%"
@@ -372,7 +372,7 @@
 				"wide"			"f0"
 				"tall"			"15"
 				"proportionaltoparent"	"1"
-				"visible"		"1"
+				////"visible"		"1"
 				"mouseinputenabled"	"0"
 
 				"pincorner"			"3"

@@ -12,7 +12,7 @@
 		"tall"			"85"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"textAlignment"		"North"

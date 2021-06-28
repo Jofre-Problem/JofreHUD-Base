@@ -10,7 +10,7 @@
 		"tall"		"444"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,7 +26,7 @@
 		"tall"		"280"
 		"autoResize"		"3"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 	}
@@ -46,9 +46,9 @@
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_Back"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"back"
 		"Default"		"0"
 	}
@@ -62,14 +62,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_Load"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"loadbonusmap"
 		"Default"		"1"
 	}
@@ -83,14 +83,14 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 	}
@@ -104,14 +104,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_ImportBonusMapsEllipsis"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"ImportBonusMaps"
 		"Default"		"0"
 		"selected"		"0"
@@ -158,9 +158,9 @@
 		
 		"labelText"		"0%"
 		"textAlignment"		"east"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"CompletionText" //Complete text inside the percentage field
 	{
@@ -177,9 +177,9 @@
 		
 		"labelText"		"#GameUI_BonusMapsCompletion" //located in localization text file
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	
 	"HelpText" //Upper large menu screen description
@@ -192,12 +192,12 @@
 		"tall"		"36"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_BonusMapsHelp"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"		"1"
 	}
@@ -212,11 +212,11 @@
 		"tall"		"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textAlignment"		"north-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"	"DefaultSmall"
 	}
@@ -228,7 +228,7 @@
 		"ypos"		"358"
 		"wide"		"360"
 		"tall"		"40"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textAlignment"	"north-west"

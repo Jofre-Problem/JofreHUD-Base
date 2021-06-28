@@ -10,7 +10,7 @@
 		"tall"		"384"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"306"
 		"autoResize"	"3"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 	}
@@ -38,11 +38,11 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"zpos"	"1"
 	}
 }

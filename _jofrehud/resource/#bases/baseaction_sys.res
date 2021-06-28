@@ -11,7 +11,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textHidden"		"0"
@@ -29,7 +29,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textHidden"		"0"
@@ -47,7 +47,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textHidden"		"0"
@@ -65,7 +65,7 @@
 		"tall"		"18"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"r"

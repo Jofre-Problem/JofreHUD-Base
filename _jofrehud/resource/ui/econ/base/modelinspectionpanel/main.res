@@ -4,7 +4,7 @@
 	{
 		"fieldName"		"ModelInspectionPanel"
 		"zpos"			"5"
-		"visible"		"1"
+		//"visible"		"1"
 
 		"proportionaltoparent"	"1"
 

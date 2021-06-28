@@ -9,7 +9,7 @@
 		"zpos"				"1"
 		"wide"				"f0"
 		"tall"				"480"
-		"visible"			"1"
+		//"visible"			"1"
 		
 
 		"left_steal_edge_offset"	"97"
@@ -35,8 +35,8 @@
 			
 			"wide"			"20"
 			"tall"			"20"
-			"visible"		"1"
-			"bgcolor_override"		"0 0 0 0"
+			////"visible"		"1"
+			"bgcolor_override"		"Blank"
 			"PaintBackgroundType"	"0"
 			"paintborder"	"0"
 			
@@ -56,11 +56,11 @@
 		"wide"			"140"	[$WIN32]
 		"wide"			"120"	[$X360]
 		"tall"			"30"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_PlayingTo"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"HudFontSmall"
 		"fgcolor"		"TanLight"
@@ -94,7 +94,7 @@
 		"wide"			"140"	[$X360]
 		"tall"			"38"	[$WIN32]
 		"tall"			"35"	[$X360]
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/objectives_flagpanel_bg_playingto"
 		//"image_hidef"	"../hud/objectives_flagpanel_bg_playingto_hidef"
@@ -127,7 +127,7 @@
 		"tall"				"100"
 		"visible"			"0"
 		
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 	
 		"CarriedImage"
 		{
@@ -138,7 +138,7 @@
 			"zpos"			"4"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../hud/hud_obj_status_ammo_64"
 			"scaleImage"	"1"
@@ -168,7 +168,7 @@
 			"zpos"			"4"
 			"wide"			"25"
 			"tall"			"15"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"textAlignment"	"center"	
 			"labelText"		"%flagvalue%"
@@ -186,7 +186,7 @@
 			"zpos"			"3"
 			"wide"			"25"
 			"tall"			"15"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"textAlignment"	"center"	
 			"labelText"		"%flagvalue%"
@@ -204,7 +204,7 @@
 			"zpos"			"1"
 			"wide"			"40"
 			"tall"			"18"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"PaintBackgroundType"	"0"
 			"bgcolor_override"	"TanLight"
@@ -219,7 +219,7 @@
 			"zpos"			"2"
 			"wide"			"38"
 			"tall"			"16"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"PaintBackgroundType"	"0"
 			"bgcolor_override"	"CreditsGreen"
@@ -292,7 +292,7 @@
 				"zpos"			"4"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"../hud/hud_obj_status_ammo_64"
 				"scaleImage"	"1"
@@ -308,7 +308,7 @@
 				"zpos"			"4"
 				"wide"			"25"
 				"tall"			"16"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textAlignment"	"center"	
 				"labelText"		"%blue_escrow%"
@@ -326,7 +326,7 @@
 				"zpos"			"4"
 				"wide"			"25"
 				"tall"			"16"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textAlignment"	"center"	
 				"labelText"		"%blue_escrow%"
@@ -344,7 +344,7 @@
 				"zpos"			"4"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"../hud/hud_obj_status_ammo_64"
 				"scaleImage"	"1"
@@ -360,7 +360,7 @@
 				"zpos"			"4"
 				"wide"			"25"
 				"tall"			"16"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textAlignment"	"center"	
 				"labelText"		"%red_escrow%"
@@ -378,7 +378,7 @@
 				"zpos"			"4"
 				"wide"			"25"
 				"tall"			"16"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textAlignment"	"center"	
 				"labelText"		"%red_escrow%"
@@ -409,7 +409,7 @@
 					"zpos"			"8"
 					"wide"			"95"
 					"tall"			"35"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
@@ -427,7 +427,7 @@
 					"zpos"			"7"
 					"wide"			"95"
 					"tall"			"35"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
@@ -445,7 +445,7 @@
 					"zpos"			"8"
 					"wide"			"55"
 					"tall"			"35"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
@@ -467,7 +467,7 @@
 					"zpos"			"7"
 					"wide"			"55"
 					"tall"			"35"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
@@ -553,7 +553,7 @@
 					"zpos"			"8"
 					"wide"			"90"
 					"tall"			"35"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
@@ -571,7 +571,7 @@
 					"zpos"			"7"
 					"wide"			"90"
 					"tall"			"35"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
@@ -589,7 +589,7 @@
 					"zpos"			"8"
 					"wide"			"55"
 					"tall"			"35"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
@@ -611,7 +611,7 @@
 					"zpos"			"7"
 					"wide"			"55"
 					"tall"			"35"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
@@ -685,9 +685,9 @@
 			"zpos"				"10"
 			"wide"				"60"
 			"tall"				"60"
-			"visible"			"1"
+			//"visible"			"1"
 			
-			"bgcolor_override"		"0 0 0 0"
+			"bgcolor_override"		"Blank"
 			"proportionalToParent"	"1"
 
 			"Score"
@@ -699,7 +699,7 @@
 				"zpos"			"8"
 				"wide"			"55"
 				"tall"			"35"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textAlignment"	"west"	
 				"labelText"		"%score%"
@@ -719,7 +719,7 @@
 				"zpos"			"7"
 				"wide"			"55"
 				"tall"			"35"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textAlignment"	"west"	
 				"labelText"		"%score%"
@@ -740,9 +740,9 @@
 			"zpos"				"10"
 			"wide"				"60"
 			"tall"				"60"
-			"visible"			"1"
+			//"visible"			"1"
 			
-			"bgcolor_override"		"0 0 0 0"
+			"bgcolor_override"		"Blank"
 			"proportionalToParent"	"1"
 
 			"Score"
@@ -754,7 +754,7 @@
 				"zpos"			"8"
 				"wide"			"55"
 				"tall"			"35"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textAlignment"	"east"	
 				"labelText"		"%score%"
@@ -774,7 +774,7 @@
 				"zpos"			"7"
 				"wide"			"55"
 				"tall"			"35"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textAlignment"	"east"	
 				"labelText"		"%score%"
@@ -795,9 +795,9 @@
 			"zpos"				"1"
 			"wide"				"30"
 			"tall"				"40"
-			"visible"			"1"
+			//"visible"			"1"
 			
-			"bgcolor_override"		"0 0 0 0"
+			"bgcolor_override"		"Blank"
 			"proportionalToParent"	"1"
 
 			"IntelImage"
@@ -825,9 +825,9 @@
 				"zpos"				"1"
 				"wide"				"f0"
 				"tall"				"f0"
-				"visible"			"1"
+				//"visible"			"1"
 				
-				"bgcolor_override"		"0 0 0 0"
+				"bgcolor_override"		"Blank"
 				
 				"proportionalToParent"	"1"
 
@@ -840,7 +840,7 @@
 					
 					"wide"			"f0"
 					"tall"			"20"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"image"			"../HUD/obj_rd_thief_dropped_blue"
 					"scaleImage"	"1"
@@ -857,13 +857,13 @@
 				"zpos"			"12"
 				"wide"			"f0"
 				"tall"			"20"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
 				"font"			"HudFontSmallishBold"
 				"fgcolor"		"TanLight"		
-				"bgcolor_override"		"0 0 0 0"
+				"bgcolor_override"		"Blank"
 				"proportionalToParent"	"1"
 			}
 
@@ -876,7 +876,7 @@
 				"zpos"			"11"
 				"wide"			"f0"
 				"tall"			"20"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
@@ -895,9 +895,9 @@
 			"zpos"				"1"
 			"wide"				"30"
 			"tall"				"40"
-			"visible"			"1"
+			//"visible"			"1"
 			
-			"bgcolor_override"		"0 0 0 0"
+			"bgcolor_override"		"Blank"
 			"proportionalToParent"	"1"
 
 			"IntelImage"
@@ -925,9 +925,9 @@
 				"zpos"				"1"
 				"wide"				"f0"
 				"tall"				"f0"
-				"visible"			"1"
+				//"visible"			"1"
 				
-				"bgcolor_override"		"0 0 0 0"
+				"bgcolor_override"		"Blank"
 				
 				"proportionalToParent"	"1"
 
@@ -940,7 +940,7 @@
 					
 					"wide"			"f0"
 					"tall"			"20"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"image"			"../HUD/obj_rd_thief_dropped_red"
 					"scaleImage"	"1"
@@ -957,13 +957,13 @@
 				"zpos"			"12"
 				"wide"			"f0"
 				"tall"			"20"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
 				"font"			"HudFontSmallishBold"
 				"fgcolor"		"TanLight"		
-				"bgcolor_override"		"0 0 0 0"
+				"bgcolor_override"		"Blank"
 				"proportionalToParent"	"1"
 			}
 
@@ -976,7 +976,7 @@
 				"zpos"			"11"
 				"wide"			"f0"
 				"tall"			"20"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
@@ -1008,7 +1008,7 @@
 			"zpos"			"1"
 			"wide"			"90"
 			"tall"			"45"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../hud/ammo_blue_bg"
 			"scaleImage"	"1"	
@@ -1042,7 +1042,7 @@
 			"zpos"			"8"
 			"wide"			"35"
 			"tall"			"35"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"textAlignment"	"center"	
 			"labelText"		"%countdowntime%"
@@ -1060,7 +1060,7 @@
 			"zpos"			"7"
 			"wide"			"35"
 			"tall"			"35"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"textAlignment"	"center"	
 			"labelText"		"%countdowntime%"

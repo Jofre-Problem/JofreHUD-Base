@@ -54,7 +54,7 @@
 			"zpos"				"4"	
 			"wide"				"f-2"
 			"tall"				"f-2"	
-			"visible"			"1"
+			//"visible"			"1"
 			"visible_minmode"	"0"
 			
 			"scaleImage"		"1"

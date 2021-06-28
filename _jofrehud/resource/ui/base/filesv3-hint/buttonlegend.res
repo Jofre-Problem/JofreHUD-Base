@@ -11,7 +11,7 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 			
 		"fillcolor"		"0 0 0 190"

@@ -9,7 +9,7 @@
 		
 		"wide"			"292"
 		"tall"			"64"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/death_panel_blue_bg"
 		"scaleImage"		"1"	
@@ -29,11 +29,11 @@
 		"tall"			"64"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#WaitingForPlayersPanel_WaitOnPlayers"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 
@@ -49,11 +49,11 @@
 		"tall"			"64"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#WaitingForPlayersPanel_WaitEnding"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 }

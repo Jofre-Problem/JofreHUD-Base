@@ -10,7 +10,7 @@
 		"tall"			"380"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"	"1"
@@ -28,7 +28,7 @@
 			
 			"UnpinnedCornerOffsetX" "-6"
 			"UnpinnedCornerOffsetY" "-34"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"1"
 		}
@@ -45,7 +45,7 @@
 			"pinCorner"		"2"
 			"PinnedCornerOffsetX" "6"
 			"PinnedCornerOffsetY" "-6"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"Filter"
@@ -67,7 +67,7 @@
 			"PinnedCornerOffsetX" "85"
 			"PinnedCornerOffsetY" "-6"
 			"UnpinnedCornerOffsetX" "-6"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"2"
 			"textHidden"	"0"

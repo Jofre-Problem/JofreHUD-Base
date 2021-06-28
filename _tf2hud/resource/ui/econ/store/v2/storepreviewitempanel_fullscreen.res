@@ -51,13 +51,13 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"<"
 		"font"			"HudFontBiggerBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -78,13 +78,13 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		">"
 		"font"			"HudFontBiggerBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -108,7 +108,7 @@
 		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"next_weapon"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -126,13 +126,13 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"0"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -153,7 +153,7 @@
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"store/store_zoom"
 			"scaleImage"	"1"
@@ -171,7 +171,7 @@
 		"tall"				"60"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"auto_scale"		"1"
@@ -187,7 +187,7 @@
 			"tall"				"38"
 			
 			"pinCorner"			"2"
-			"visible"			"1"
+			//"visible"			"1"
 			
 			
 			"labelText"			""
@@ -225,7 +225,7 @@
 				"zpos"			"7"
 				"wide"			"38"
 				"tall"			"38"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"
 			}				
@@ -271,13 +271,13 @@
 		"tall"			"14"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"0"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -298,7 +298,7 @@
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"store/store_fullscreen_exit"
 			"scaleImage"	"1"
@@ -321,7 +321,7 @@
 		"labelText"		"#Store_TryItOut"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"tryitout"
@@ -340,13 +340,13 @@
 		"wide"			"160"
 		"tall"			"27"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Store_AddToCart"
 		"font"			"HudFontSmallishBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"addtocart"

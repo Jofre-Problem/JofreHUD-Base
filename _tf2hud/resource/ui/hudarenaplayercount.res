@@ -9,7 +9,7 @@
 		
 		"wide"			"60"
 		"tall"			"30"
-		"visible"		"1"
+		////"visible"		"1"
 	
 		"background"
 		{
@@ -22,7 +22,7 @@
 			"tall"			"23"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../hud/color_panel_blu"
 				
@@ -44,7 +44,7 @@
 			"tall"			"25"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"font"			"HudFontMedium"
 			"labelText"		"%blue_alive%"
@@ -62,7 +62,7 @@
 			"tall"			"25"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"font"			"HudFontMedium"
 			"labelText"		"%blue_alive%"
@@ -79,7 +79,7 @@
 			"zpos"			"3"
 			"wide"			"8"
 			"tall"			"16"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"capture_icon_white"
 			"scaleImage"	"1"
@@ -95,7 +95,7 @@
 		
 		"wide"			"60"
 		"tall"			"30"
-		"visible"		"1"
+		////"visible"		"1"
 	
 		"background"
 		{
@@ -108,7 +108,7 @@
 			"tall"			"23"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../hud/color_panel_red"
 				
@@ -130,7 +130,7 @@
 			"tall"			"25"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"font"			"HudFontMedium"
 			"labelText"		"%red_alive%"
@@ -148,7 +148,7 @@
 			"tall"			"25"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"font"			"HudFontMedium"
 			"labelText"		"%red_alive%"
@@ -165,7 +165,7 @@
 			"zpos"			"3"
 			"wide"			"8"
 			"tall"			"16"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"capture_icon_white"
 			"scaleImage"	"1"

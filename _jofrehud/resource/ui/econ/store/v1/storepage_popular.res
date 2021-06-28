@@ -160,13 +160,13 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"<"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"prevpage"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -185,7 +185,7 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"border"		"StorePreviewTabSelected"
 		
@@ -200,13 +200,13 @@
 			"tall"			"20"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#Store_DetailsItem"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"show_details"
@@ -249,7 +249,7 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"border"		"StoreAddToCart"
 		
@@ -264,13 +264,13 @@
 			"tall"			"20"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#Store_AddToCart"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"addtocart"
@@ -296,7 +296,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -364,7 +364,7 @@
 		"labelText"		"#Store_TryItem"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"preview_item"
@@ -386,7 +386,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -401,13 +401,13 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Store_Checkout"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"checkout"
@@ -427,7 +427,7 @@
 		"zpos"			"12"
 		"wide"			"60"
 		"tall"			"25"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"PaintBackgroundType"	"2"
 		"textinsetx"	"15"
@@ -447,7 +447,7 @@
 		"zpos"			"13"
 		"wide"			"24"
 		"tall"			"20"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"store_cart"
 		"scaleImage"	"1"
@@ -489,7 +489,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -508,7 +508,7 @@
 			"tall"			"85"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -525,13 +525,13 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -555,7 +555,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -575,7 +575,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "200 80 60 255"
 		}
@@ -590,13 +590,13 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -620,7 +620,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -664,7 +664,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -683,7 +683,7 @@
 			"tall"			"85"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -700,13 +700,13 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -730,7 +730,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -747,13 +747,13 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -777,7 +777,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -797,7 +797,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "200 80 60 255"
 		}
@@ -812,13 +812,13 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -842,7 +842,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -886,7 +886,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -905,7 +905,7 @@
 			"tall"			"135"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -922,13 +922,13 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -952,7 +952,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -969,13 +969,13 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -999,7 +999,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -1016,13 +1016,13 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -1046,7 +1046,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -1066,7 +1066,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "200 80 60 255"
 		}
@@ -1108,7 +1108,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -1127,7 +1127,7 @@
 			"tall"			"135"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -1144,13 +1144,13 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -1174,7 +1174,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -1191,13 +1191,13 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -1221,7 +1221,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -1238,13 +1238,13 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -1268,7 +1268,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -1288,7 +1288,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "200 80 60 255"
 		}
@@ -1330,7 +1330,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -1349,7 +1349,7 @@
 			"tall"			"135"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -1366,13 +1366,13 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -1396,7 +1396,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -1413,13 +1413,13 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -1443,7 +1443,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -1460,13 +1460,13 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -1490,7 +1490,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -1510,7 +1510,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "200 80 60 255"
 		}
@@ -1552,7 +1552,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -1571,7 +1571,7 @@
 			"tall"			"135"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -1588,13 +1588,13 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -1618,7 +1618,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -1635,13 +1635,13 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -1665,7 +1665,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -1682,13 +1682,13 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -1712,7 +1712,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -1732,7 +1732,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "200 80 60 255"
 		}
@@ -1774,7 +1774,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -1793,7 +1793,7 @@
 			"tall"			"135"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -1810,13 +1810,13 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -1840,7 +1840,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -1857,13 +1857,13 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -1887,7 +1887,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -1904,13 +1904,13 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -1934,7 +1934,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -1954,7 +1954,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "200 80 60 255"
 		}
@@ -1996,7 +1996,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -2015,7 +2015,7 @@
 			"tall"			"135"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -2032,13 +2032,13 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -2062,7 +2062,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -2079,13 +2079,13 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -2109,7 +2109,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -2126,13 +2126,13 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -2156,7 +2156,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -2176,7 +2176,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "200 80 60 255"
 		}
@@ -2218,7 +2218,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -2237,7 +2237,7 @@
 			"tall"			"135"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -2254,13 +2254,13 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -2284,7 +2284,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -2301,13 +2301,13 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -2331,7 +2331,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -2348,13 +2348,13 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -2378,7 +2378,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -2398,7 +2398,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "200 80 60 255"
 		}
@@ -2439,7 +2439,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -2458,7 +2458,7 @@
 			"tall"			"135"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
@@ -2475,13 +2475,13 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -2505,7 +2505,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -2522,13 +2522,13 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -2552,7 +2552,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -2573,7 +2573,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "200 80 60 255"
 		}

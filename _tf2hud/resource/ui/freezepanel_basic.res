@@ -16,7 +16,7 @@
 				
 		"wide"			"640"		
 		"tall"			"480"		
-		"visible"		"1"
+		////"visible"		"1"
 
 		"NemesisSubPanel"
 		{
@@ -30,7 +30,7 @@
 			"zpos"			"4"
 			"wide"			"166"
 			"tall"			"38"
-			"visible"		"1"
+			////"visible"		"1"
 
 			"NemesisPanelBG"
 			{
@@ -41,7 +41,7 @@
 				"zpos"			"5"
 				"wide"			"166"
 				"tall"			"38"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"../hud/freezecam_black_bg"
 				"scaleImage"		"1"	
@@ -55,7 +55,7 @@
 				"zpos"			"6"
 				"wide"			"36"
 				"tall"			"36"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"../hud/leaderboard_nemesis_freezecam"
 				"scaleImage"	"1"	
@@ -75,7 +75,7 @@
 				//"tall_hidef"		"24"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"labelText"		"%nemesisname%"
 				"textAlignment"		"west"
@@ -93,7 +93,7 @@
 			
 			"wide"			"266"
 			"tall"			"48"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../hud/color_panel_blu"
 			"scaleImage"		"1"	
@@ -114,11 +114,11 @@
 			"tall"			"9"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"#FreezePanel_Killer"
 			"textAlignment"		"Left"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 
@@ -137,7 +137,7 @@
 			"tall"			"18"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"%killername%"
 			"textAlignment"		"Left"
@@ -155,7 +155,7 @@
 			"zpos"			"1"
 			"wide"			"31"
 			"tall"			"31"
-			"visible"		"1"
+			////"visible"		"1"
 				
 			"HealthBonusPosAdj"	"9"
 			"HealthDeathWarning"	"0.49"
@@ -212,11 +212,11 @@
 			"tall"			"9"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"#FreezePanel_Item"
 			"textAlignment"	"Left"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 		}
 	}		
@@ -229,7 +229,7 @@
 		"ypos"			"93"		
 		"wide"			"267"		
 		"tall"			"200"		
-		"visible"		"1"
+		////"visible"		"1"
 
 		"FreezePanelBG"
 		{
@@ -240,7 +240,7 @@
 			
 			"wide"			"256"
 			"tall"			"33"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../hud/color_panel_blu"
 			"scaleImage"		"1"	
@@ -264,11 +264,11 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"#FreezePanel_Killer"
 			"textAlignment"		"North-West"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 		
@@ -281,7 +281,7 @@
 			"zpos"			"1"
 			"wide"			"31"
 			"tall"			"31"
-			"visible"		"1"
+			////"visible"		"1"
 				
 			"HealthBonusPosAdj"	"9"
 			"HealthDeathWarning"	"0.49"
@@ -302,7 +302,7 @@
 			"tall"			"18"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"%killername%"
 			"textAlignment"		"Left"
@@ -317,7 +317,7 @@
 			
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			""
 			"scaleImage"		"1"	
@@ -333,7 +333,7 @@
 			"zpos"			"4"
 			"wide"			"306"
 			"tall"			"38"
-			"visible"		"1"
+			////"visible"		"1"
 
 			"NemesisPanelBG"
 			{
@@ -344,7 +344,7 @@
 				"zpos"			"5"
 				"wide"			"161"
 				"tall"			"30"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"../hud/color_panel_brown"
 				"scaleImage"		"1"	
@@ -364,7 +364,7 @@
 				"zpos"			"6"
 				"wide"			"36"
 				"tall"			"36"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"../hud/leaderboard_nemesis_freezecam"
 				"scaleImage"	"1"	
@@ -381,7 +381,7 @@
 				"tall"			"18"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"labelText"		"%nemesisname%"
 				"textAlignment"		"west"
@@ -426,7 +426,7 @@
 			
 			"wide"			"166"
 			"tall"			"38"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../hud/freezecam_black_bg"
 			"scaleImage"		"1"
@@ -440,7 +440,7 @@
 			"zpos"			"1"
 			"wide"			"36"
 			"tall"			"36"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../hud/ico_camera"
 			"scaleImage"	"1"	
@@ -457,11 +457,11 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"%text%"
 			"textAlignment"		"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 		}
 	}	

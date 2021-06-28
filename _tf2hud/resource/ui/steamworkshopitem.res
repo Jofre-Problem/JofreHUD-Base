@@ -10,7 +10,7 @@
 		"tall"		"200"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"bgcolor_override"	"0 0 0 240"
@@ -52,14 +52,14 @@
 		"tall"		"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"%title%"
 		"textAlignment"		"north-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"font"		"HudFontSmallest"
 		"fgcolor_override" "86 78 68 255"
 		"mouseinputenabled" "0"

@@ -9,7 +9,7 @@
 		"zpos"			"-1"
 		"wide"			"p0.98"
 		"tall"			"p1"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"proportionaltoparent"	"1"
 
@@ -25,7 +25,7 @@
 			"zpos"			"110"
 			"wide"			"o1"
 			"tall"			"60"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
@@ -42,7 +42,7 @@
 			"zpos"			"100"
 			"wide"			"330"
 			"tall"			"92"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -63,13 +63,13 @@
 			"tall"			"o1"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"Command"		"restore_search_criteria"
@@ -88,7 +88,7 @@
 				"zpos"			"1"
 				"wide"			"11"
 				"tall"			"11"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"button_load"
 				"scaleImage"	"1"
@@ -106,13 +106,13 @@
 			"tall"			"o1"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"Command"		"save_search_criteria"
@@ -131,7 +131,7 @@
 				"zpos"			"1"
 				"wide"			"11"
 				"tall"			"11"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"button_save"
 				"scaleImage"	"1"
@@ -149,13 +149,13 @@
 			"tall"			"o1"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"?"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"Command"		"show_explanations"
@@ -229,7 +229,7 @@
 			"zpos"			"101"
 			"wide"			"f15"
 			"tall"			"f65"
-			"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"InnerShadowBorder"
 			"proportionaltoparent"	"1"
@@ -244,7 +244,7 @@
 			"ypos"			"65"
 			"wide"			"f15"
 			"tall"			"f65"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 			"restrict_width" "0"
 

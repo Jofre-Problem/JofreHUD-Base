@@ -9,7 +9,7 @@
 		"zpos"			"20"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 
@@ -30,7 +30,7 @@
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"0"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -56,7 +56,7 @@
 			"zpos"			"13"
 			"wide"			"18"
 			"tall"			"18"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"store_cart"
 			"scaleImage"	"1"

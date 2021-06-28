@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MessageLabel"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 	}

@@ -10,7 +10,7 @@
 		"tall"			"32"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"image"			"resource/mic_meter_dead"
@@ -28,7 +28,7 @@
 		"tall"			"32"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"image"		"resource/mic_meter_live"
@@ -45,7 +45,7 @@
 		"tall"		"42"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"3"
 		"leftText"		""
@@ -61,7 +61,7 @@
 		"tall"		"26"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 	}
@@ -75,12 +75,12 @@
 		"tall"		"28"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_EnableVoice"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"Default"		"0"
 	}
@@ -94,12 +94,12 @@
 		"tall"		"28"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_BoostMicrophone"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"Default"		"0"
 	}
@@ -113,13 +113,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"associate"		"#GameUI_MicrophoneVolume"
 		"labelText"		"#GameUI_VoiceTransmitVolume"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"ReceiveLabel"
@@ -132,13 +132,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_VoiceReceiveVolume"
 		"textAlignment"		"west"
 		"associate"		"VoiceReceive"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"topHorizLeft"
@@ -156,7 +156,7 @@
 		
 		"labelText"		"40"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"topVertLeft"
@@ -174,7 +174,7 @@
 		
 		"labelText"		"176"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"bottomHorizRight"
@@ -192,7 +192,7 @@
 		
 		"labelText"		"176"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"bottomVertRight"
@@ -210,7 +210,7 @@
 		
 		"labelText"		"176"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"TestMicrophone"
@@ -223,12 +223,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_TestMicrophone"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"command"		"TestMicrophone"
 		"Default"		"0"
@@ -243,7 +243,7 @@
 		"tall"			"48"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Miles_Voice"

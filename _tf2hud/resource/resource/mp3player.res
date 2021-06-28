@@ -10,7 +10,7 @@
 		"tall"		"639"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,14 +26,14 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#MP3Menu"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"Tree"
@@ -46,7 +46,7 @@
 		"tall"		"295"
 		"autoResize"		"3"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -60,7 +60,7 @@
 		"tall"		"194"
 		"autoResize"		"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -74,14 +74,14 @@
 		"tall"		"20"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Play"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"play"
 		"Default"		"0"
 	}
@@ -95,14 +95,14 @@
 		"tall"		"20"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Stop"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"stop"
 		"Default"		"1"
 	}
@@ -116,14 +116,14 @@
 		"tall"		"21"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Next"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"nexttrack"
 		"Default"		"0"
 	}
@@ -137,14 +137,14 @@
 		"tall"		"20"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Prev"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"prevtrack"
 		"Default"		"0"
 	}
@@ -158,14 +158,14 @@
 		"tall"		"20"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Mute"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"Shuffle"
@@ -178,14 +178,14 @@
 		"tall"		"20"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Shuffle"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"volume"
@@ -198,7 +198,7 @@
 		"tall"		"20"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -212,15 +212,15 @@
 		"tall"		"16"
 		"autoResize"		"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#NoSong"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"DefaultVerySmall"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"SongDuration"
 	{
@@ -232,14 +232,14 @@
 		"tall"		"16"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textAlignment"		"east"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"DefaultVerySmall"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"progress"
 	{
@@ -251,7 +251,7 @@
 		"tall"		"6"
 		"autoResize"		"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -265,13 +265,13 @@
 		"tall"		"20"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#VolumeLabel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 }

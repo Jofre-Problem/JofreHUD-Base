@@ -49,7 +49,7 @@
 			"tall"			"10"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override"	"TanLight"
 			"auto_wide_tocontents"	"1"
@@ -113,7 +113,7 @@
 			
 			"wide"			"o1"
 			"tall"			"80"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"animated/tf2_logo_hourglass"
 		
@@ -178,7 +178,7 @@
 			
 			"wide"			"o1"
 			"tall"			"80"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"animated/tf2_logo_hourglass"
 		
@@ -541,7 +541,7 @@
 				
 				"wide"			"50"
 				"tall"			"50"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"mouseinputenabled" "0"
 				"image"			"pve/mvm_timeout_active_large"
@@ -640,13 +640,13 @@
 				"tall"			"20"
 				
 				//"pinCorner"		"3"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"labelText"		"#TF_Matchmaking_Invite"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"1"
 				"Command"		"invite"

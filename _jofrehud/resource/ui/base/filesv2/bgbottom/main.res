@@ -10,7 +10,7 @@
 		"tall"		"45"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"bgcolor_override"	"57 52 49 255"

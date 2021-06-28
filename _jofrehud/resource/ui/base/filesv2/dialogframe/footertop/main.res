@@ -10,7 +10,7 @@
 			"ypos"			"240"
 			"zpos"			"1"
 			"tall"			"10"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"paintborder"	"0"
 			"PaintBackgroundType"	"0"

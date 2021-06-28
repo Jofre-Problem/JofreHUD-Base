@@ -7,7 +7,7 @@
 		
 		
 		"zpos"			"15"
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 
@@ -23,7 +23,7 @@
 		"textinsetx"	"4"
 		"autoResize"	"1"
 			
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%price%"
 	}
@@ -39,7 +39,7 @@
 		"textinsetx"	"4"
 		"autoResize"	"1"
 			
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%og_price%"
 		"fgcolor"		"117 107 94 255"

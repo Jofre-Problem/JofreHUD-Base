@@ -8,7 +8,7 @@
 		"tall"			"80"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/color_panel_clear"
 		"scaleImage"	"1"	

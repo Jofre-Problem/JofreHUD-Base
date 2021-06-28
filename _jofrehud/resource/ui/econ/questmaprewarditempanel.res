@@ -70,7 +70,7 @@
 		"tall"		"10"
 		"labelText"			"%limit%"
 		"font"			"ScoreboardSmall"
-		"textinsetx"		"0"
+		//"textinsetx"		"0"
 		"textAlignment"	"west"
 		"mouseinputenabled"		"0"
 		"proportionaltoparent"	"1"

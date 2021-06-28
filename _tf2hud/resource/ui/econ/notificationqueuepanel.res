@@ -9,7 +9,7 @@
 		"zpos"			"100"
 		"wide"			"200"
 		"tall"			"100"
-		"visible"		"1"
+		////"visible"		"1"
 		
 
 		"buffer_between_visible"	"5"

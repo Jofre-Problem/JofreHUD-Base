@@ -10,7 +10,7 @@
 		"tall"			"40"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -29,7 +29,7 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor"		"ReplayBrowser.Details.TitleEdit.Carat.FgColor"
 	}
@@ -48,11 +48,11 @@
 		"zpos"			"1"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"fgcolor_override"		"202 190 164 255"
-		"bgcolor_override"		"0 0 0 0"		// Background is drawn explicitly in CTitleEditPanel::PaintBackground()
+		"bgcolor_override"		"Blank"		// Background is drawn explicitly in CTitleEditPanel::PaintBackground()
 		"Font"			"ReplayLarger"
 	}
 	
@@ -64,10 +64,10 @@
 		"zpos"			"5"
 		"wide"			"586"
 		"tall"			"10"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"replay/replaybrowser_dottedline"
-		"scaleImage"	"0"
+		//"scaleImage"	"0"
 		"tileHorizontally" "1"
 	}
 			
@@ -78,7 +78,7 @@
 		"LabelText"			"#Replay_ClickToEdit"
 		"zpos"				"1000"
 		"font"				"ReplayBrowserSmallest"
-		"Visible"			"1"
+		//"visible"			"1"
 		"fgcolor_override" "118 106 94 255"
 	}
 }

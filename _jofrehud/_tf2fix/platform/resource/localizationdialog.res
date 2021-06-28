@@ -10,7 +10,7 @@
 		"tall"		"568"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -25,7 +25,7 @@
 		"tall"		"458"
 		"autoResize"		"3"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 	}
@@ -54,7 +54,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"&File"
@@ -73,7 +73,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"Edit Token"
@@ -92,7 +92,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"textHidden"		"0"
@@ -111,7 +111,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textHidden"		"0"
@@ -130,7 +130,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textHidden"		"0"
@@ -149,7 +149,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Show:"
@@ -167,7 +167,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"266"
@@ -185,7 +185,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Out-of-date tokens:"
@@ -203,7 +203,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Token name filter:"
@@ -221,7 +221,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Value filter:"

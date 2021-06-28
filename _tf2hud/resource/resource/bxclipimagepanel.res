@@ -10,7 +10,7 @@
 		"tall"		"150"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"96"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -39,10 +39,10 @@
 		"tall"		"103"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
-		"scaleImage"		"0"
+		//"scaleImage"		"0"
 	}
 	"ClipName"
 	{
@@ -54,15 +54,15 @@
 		"tall"		"16"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"foo"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"DefaultVerySmall"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"ClipCamera"
 	{
@@ -74,15 +74,15 @@
 		"tall"		"16"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"cam: cam1"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"DefaultVerySmall"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"ClipDuration"
 	{
@@ -94,15 +94,15 @@
 		"tall"		"16"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"5.200 s."
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"DefaultVerySmall"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"MouseMessageForwardingPanel"
 	{
@@ -115,7 +115,7 @@
 		"tall"		"150"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}

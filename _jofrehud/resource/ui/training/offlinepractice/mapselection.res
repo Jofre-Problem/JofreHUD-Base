@@ -17,7 +17,7 @@
 		"tall"			"40"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"fgcolor_override"	"246 237 211 255"
@@ -31,7 +31,7 @@
 		
 		"wide"			"330"
 		"tall"			"330"
-		"visible"		"1"
+		////"visible"		"1"
 		"tileImage"		"0"
 		"scaleImage"	"1"
 		"border"		"ButtonBorder"
@@ -49,7 +49,7 @@
 		"tall"		"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"bgcolor_override"	"40 37 37 255"
@@ -64,7 +64,7 @@
 		"zpos"			"1"
 		"wide"			"330"
 		"tall"			"80"
-		"visible"		"1"
+		////"visible"		"1"
 		"tileImage"		"0"
 		"scaleImage"	"1"
 		"image"			"training/gradient_black"
@@ -84,7 +84,7 @@
 		"tall"			"18"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"fgcolor_override"	"246 237 211 255"
@@ -102,7 +102,7 @@
 		"tall"				"30"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"#TF_StartPractice"
@@ -137,7 +137,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"fgcolor_override"	"246 237 211 255"
@@ -155,7 +155,7 @@
 		"tall"				"20"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -188,7 +188,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"fgcolor_override"	"246 237 211 255"
@@ -210,7 +210,7 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"maxchars"		"2"
@@ -235,7 +235,7 @@
 		"tall"			"15"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"fgcolor_override"	"116 105 92 255"

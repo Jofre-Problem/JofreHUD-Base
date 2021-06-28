@@ -10,7 +10,7 @@
 		"tall"		"140"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 	"SaveGameScreenshotBackground"
@@ -32,7 +32,7 @@
 		"ypos"			"16"
 		"wide"			"180"
 		"tall"			"100"
-		"visible"		"1"
+		////"visible"		"1"
 	}
 	"AutoSaveImage"
 	{
@@ -81,7 +81,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textAlignment"	"north-west"
@@ -95,7 +95,7 @@
 		"ypos"		"44"
 		"wide"		"180"
 		"tall"		"24"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"	"north-west"
 		"font"	"DefaultSmall"

@@ -9,7 +9,7 @@
 		"zpos"				"1"
 		"wide"				"320"
 		"tall"				"90"
-		"visible"			"1"
+		//"visible"			"1"
 		
 	}
 	"GoalLabel"
@@ -26,7 +26,7 @@
 
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"labelText"		"%goal%"
@@ -47,7 +47,7 @@
 
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"labelText"		"%goal%"
@@ -68,7 +68,7 @@
 
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"labelText"		""
@@ -109,7 +109,7 @@
 
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/death_panel_blue_bg"
 		"scaleImage"		"1"

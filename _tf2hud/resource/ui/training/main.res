@@ -10,7 +10,7 @@
 		"tall"		"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"bgcolor_override"	"0 0 0 200"
@@ -27,7 +27,7 @@
 		"tall"		"400"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"PaintBackgroundType"	"0"
@@ -62,7 +62,7 @@
 			"tall"		"500"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"40 37 37 255"
@@ -82,7 +82,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 
@@ -100,7 +100,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 
@@ -121,7 +121,7 @@
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"prevpage"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -138,14 +138,14 @@
 			"tall"			"25"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#Cancel"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"cancel"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -163,7 +163,7 @@
 			"tall"				"400"
 			
 			
-			"visible"			"1"
+			//"visible"			"1"
 			
 			
 			"paintBackground"	"0"

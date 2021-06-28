@@ -10,7 +10,7 @@
 		"tall"				"34"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"leftText"			"Cyan"
@@ -27,7 +27,7 @@
 		"tall"				"34"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"leftText"			"Magenta"
@@ -44,7 +44,7 @@
 		"tall"				"34"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"leftText"			"Yellow"
@@ -61,7 +61,7 @@
 		"tall"				"20"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 	}
@@ -76,7 +76,7 @@
 		"tall"				"20"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"selected"			"1"
@@ -92,7 +92,7 @@
 		"tall"				"20"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 	}
@@ -107,7 +107,7 @@
 		"tall"				"20"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"selected"			"1"
@@ -123,7 +123,7 @@
 		"tall"				"34"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"Blend Factor:"
@@ -141,7 +141,7 @@
 		"tall"				"34"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"leftText"			"0"

@@ -11,7 +11,7 @@
 		//"wide_lodef"	"420"
 		"tall"			"183"
 		//"tall_lodef"	"210"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/death_panel_blue_bg"
 		"scaleImage"		"1"	
@@ -31,7 +31,7 @@
 		//"wide_lodef"	"100"
 		"tall"			"72"
 		//"tall_lodef"	"100"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/class_scoutred"
 		"scaleImage"		"1"	
@@ -53,11 +53,11 @@
 		//"tall_lodef"	"18"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%title%"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 	"summaryLabel"
@@ -77,11 +77,11 @@
 		//"tall_lodef"	"40"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%statdesc%"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"1"
 	}
@@ -101,11 +101,11 @@
 		//"tall_lodef"	"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%stattextlarge%"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"StatLabelSmall"
@@ -123,18 +123,18 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%stattextsmall%"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	StatBox
 	{
 		"ControlName"		"Panel"		
 		"fieldName"		"StatBox"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"xpos"			"72"

@@ -9,7 +9,7 @@
 		"zpos"			"1"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"10"
 		"border"		"EconItemBorder"

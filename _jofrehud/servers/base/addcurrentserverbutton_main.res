@@ -14,7 +14,7 @@
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddCurrentServer"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"AddCurrentServer"
 		"Default"		"0"
 	}

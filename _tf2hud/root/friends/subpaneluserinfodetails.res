@@ -10,7 +10,7 @@
 		"tall"		"328"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -25,7 +25,7 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"paintbackground"		"1"
@@ -45,7 +45,7 @@
 		"tall"		"39"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"paintbackground"		"1"
@@ -65,7 +65,7 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"3"
 		"paintbackground"		"1"
@@ -105,13 +105,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"5"
 		"paintbackground"		"1"
 		"labelText"		"#Friends_RemoveUser"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"RemoveUser"
 		"Default"		"0"
 		"selected"		"0"
@@ -126,7 +126,7 @@
 		"tall"		"48"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -144,13 +144,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_RecentlyUsedNames"
 		"textAlignment"		"north-west"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"FriendNameOld"
 	{
@@ -162,7 +162,7 @@
 		"tall"		"57"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -180,7 +180,7 @@
 		"tall"		"2"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -195,7 +195,7 @@
 		"tall"		"2"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"

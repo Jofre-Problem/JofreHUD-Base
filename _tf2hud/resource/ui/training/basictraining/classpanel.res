@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"Image"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tileImage"		"0"
 		"scaleImage"	"1"
@@ -17,7 +17,7 @@
 		"fieldName"			"SelectButton"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"%selectbuttontext%"

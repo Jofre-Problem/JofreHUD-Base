@@ -10,7 +10,7 @@
 		"tall"		"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"bgcolor_override"	"0 0 0 200"
@@ -27,7 +27,7 @@
 		"tall"		"150"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"PaintBackgroundType"	"0"
@@ -44,7 +44,7 @@
 			"tall"		"150"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"40 37 37 255"
@@ -63,7 +63,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 
@@ -77,7 +77,7 @@
 			"tall"		"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 
@@ -95,7 +95,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 
@@ -110,14 +110,14 @@
 			"tall"			"25"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#Cancel"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"user_close"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -137,7 +137,7 @@
 		"tall"		"400"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"PaintBackgroundType"	"0"
@@ -154,7 +154,7 @@
 			"tall"		"400"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"40 37 37 255"
@@ -174,7 +174,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 
@@ -202,14 +202,14 @@
 			"tall"			"25"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#TF_Quickplay_Connect"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"ConnectToServer"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -227,14 +227,14 @@
 			"tall"			"25"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#Cancel"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"user_close"
 			"sound_depressed"	"UI/buttonclick.wav"

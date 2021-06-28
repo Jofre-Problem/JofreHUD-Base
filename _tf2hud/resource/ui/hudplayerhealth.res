@@ -13,7 +13,7 @@
 		"zpos"			"2"
 		"wide"			"250"
 		"tall"			"120"
-		"visible"		"1"
+		////"visible"		"1"
 			
 		"HealthBonusPosAdj"	"35"
 		"HealthDeathWarning"	"0.49"
@@ -29,7 +29,7 @@
 		"zpos"			"4"
 		"wide"			"51"
 		"tall"			"51"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 	}		
@@ -43,7 +43,7 @@
 		"zpos"			"3"
 		"wide"			"55"
 		"tall"			"55"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/health_bg"
 		"scaleImage"	"1"	
@@ -81,7 +81,7 @@
 		"zpos"			"5"
 		"wide"			"50"
 		"tall"			"18"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
@@ -99,7 +99,7 @@
 		"zpos"			"6"
 		"wide"			"50"
 		"tall"			"18"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%MaxHealth%"
 		"textAlignment"	"center"	
@@ -116,7 +116,7 @@
 		"zpos"			"7"
 		"wide"			"32"
 		"tall"			"32"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../vgui/bleed_drop"
@@ -132,7 +132,7 @@
 		"zpos"			"8"
 		"wide"			"32"
 		"tall"			"32"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../vgui/bleed_drop_grapple"
@@ -148,7 +148,7 @@
 		"zpos"			"7"
 		"wide"			"32"
 		"tall"			"32"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../vgui/bleed_drop"
@@ -164,7 +164,7 @@
 		"zpos"			"7"
 		"wide"			"32"
 		"tall"			"32"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../vgui/covered_in_gas"
@@ -180,7 +180,7 @@
 		"zpos"			"7"
 		"wide"			"32"
 		"tall"			"32"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../vgui/marked_for_death"
@@ -196,7 +196,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../vgui/marked_for_death"
@@ -212,7 +212,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../HUD/defense_buff_bullet_blue"
@@ -228,7 +228,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../HUD/defense_buff_explosion_blue"
@@ -244,7 +244,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../HUD/defense_buff_fire_blue"
@@ -261,7 +261,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../HUD/defense_buff_bullet_blue"
@@ -277,7 +277,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../HUD/defense_buff_explosion_blue"
@@ -293,7 +293,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../HUD/defense_buff_fire_blue"
@@ -312,7 +312,7 @@
 		"zpos"			"7"
 		"wide"			"32"
 		"tall"			"32"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../signs/death_wheel_whammy"
@@ -329,7 +329,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../HUD/defense_buff_bullet_blue"
@@ -346,7 +346,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../HUD/defense_buff_bullet_blue"
@@ -363,7 +363,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../HUD/defense_buff_bullet_blue"
@@ -411,7 +411,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_strength_hud"
@@ -427,7 +427,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_haste_hud"
@@ -443,7 +443,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_regen_hud"
@@ -459,7 +459,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_resist_hud"
@@ -475,7 +475,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_vampire_hud"
@@ -491,7 +491,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_reflect_hud"
@@ -507,7 +507,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_precision_hud"
@@ -523,7 +523,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_agility_hud"
@@ -539,7 +539,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_knockout_hud"
@@ -555,7 +555,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_king_hud"
@@ -571,7 +571,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_plague_hud"
@@ -587,7 +587,7 @@
 		"zpos"			"7"
 		"wide"			"31"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_supernova_hud"
@@ -603,7 +603,7 @@
 		"zpos"			"7"
 		"wide"			"32"
 		"tall"			"32"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../vgui/slowed"

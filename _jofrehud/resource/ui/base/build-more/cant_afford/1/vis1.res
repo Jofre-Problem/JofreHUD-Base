@@ -2,7 +2,7 @@
 {	
 	"cant_afford_item_1"
 	{
-		"visible"			"1"
+		//"visible"			"1"
 	}
 	"cant_afford_item_2"
 	{

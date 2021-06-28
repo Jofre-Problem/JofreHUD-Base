@@ -25,7 +25,7 @@
 		"zpos"			"1"
 		"wide"			"12"
 		"tall"			"12"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/ico_powerup_critboost_red"
 	}

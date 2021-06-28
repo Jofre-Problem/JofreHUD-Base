@@ -8,7 +8,7 @@
 		"ypos"		"29"
 		"autoResize"		"3"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}

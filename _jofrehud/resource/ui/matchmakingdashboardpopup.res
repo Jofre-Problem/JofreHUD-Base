@@ -9,7 +9,7 @@
 		"zpos"			"10000"
 		"wide"			"260"
 		"tall"			"70"
-		"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 		"keyboardinputenabled"	"0"
 		"mouseinputenabled"		"1"
@@ -29,7 +29,7 @@
 			"zpos"			"-2"
 			"wide"			"f0"
 			"tall"			"f0"
-			"visible"		"1"
+			//"visible"		"1"
 			"PaintBackgroundType"	"0"
 			"border"		"OuterShadowBorder"
 			"proportionaltoparent"	"1"
@@ -79,7 +79,7 @@
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
-				"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"border"		"ReplayDefaultBorder"
 				"proportionaltoparent"	"1"
@@ -94,7 +94,7 @@
 				
 				"wide"			"f0"
 				"tall"			"f0"
-				"visible"		"1"
+				//"visible"		"1"
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"		"1"
 
@@ -109,12 +109,12 @@
 					"tall"			"15"
 					
 					"pinCorner"		"3"
-					"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
-					"dulltext"		"0"
+					//"dulltext"		"0"
 					"brighttext"	"0"
 					"Command"		"rematch"
 					"proportionaltoparent"	"1"
@@ -138,12 +138,12 @@
 					"tall"			"15"
 					
 					"pinCorner"		"3"
-					"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
-					"dulltext"		"0"
+					//"dulltext"		"0"
 					"brighttext"	"0"
 					"Command"		"new_match"
 					"proportionaltoparent"	"1"
@@ -181,12 +181,12 @@
 					"tall"			"20"
 					
 					"pinCorner"		"3"
-					"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"font"			"HudFontSmallest"
 					"textAlignment"	"center"
-					"dulltext"		"0"
+					//"dulltext"		"0"
 					"brighttext"	"0"
 					"proportionaltoparent"	"1"
 					"labeltext"		"#TF_Matchmaking_RollingQueue_RequeueNonLeader"
@@ -205,12 +205,12 @@
 					"tall"			"15"
 					
 					"pinCorner"		"3"
-					"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
-					"dulltext"		"0"
+					//"dulltext"		"0"
 					"brighttext"	"0"
 					"Command"		"leave_party"
 					"proportionaltoparent"	"1"
@@ -234,7 +234,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
@@ -252,7 +252,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"HudFontSmallest"
 				"fgcolor_override"	"Tanlight"
@@ -272,12 +272,12 @@
 				"tall"			"20"
 				
 				"pinCorner"		"3"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"font"			"HudFontSmallest"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"proportionaltoparent"	"1"
 				"labeltext"		"%votes_needed%"
@@ -311,7 +311,7 @@
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
-				"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"border"		"ReplayDefaultBorder"
 				"proportionaltoparent"	"1"
@@ -326,7 +326,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
@@ -344,7 +344,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"HudFontSmallest"
 				"fgcolor_override"	"Tanlight"
@@ -376,12 +376,12 @@
 					"tall"			"15"
 					
 					"pinCorner"		"3"
-					"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
-					"dulltext"		"0"
+					//"dulltext"		"0"
 					"brighttext"	"0"
 					"Command"		"leave_party"
 					"proportionaltoparent"	"1"
@@ -422,7 +422,7 @@
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
-				"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"border"		"ReplayDefaultBorder"
 				"proportionaltoparent"	"1"
@@ -437,7 +437,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
@@ -457,7 +457,7 @@
 				"tall"			"40"
 				
 				
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"paintborder"	"0"
 				"image"			"animated/tf2_logo_hourglass"
@@ -489,12 +489,12 @@
 					"tall"			"15"
 					
 					"pinCorner"		"3"
-					"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
-					"dulltext"		"0"
+					//"dulltext"		"0"
 					"brighttext"	"0"
 					"Command"		"leave_queue"
 					"proportionaltoparent"	"1"
@@ -535,7 +535,7 @@
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
-				"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"border"		"ReplayDefaultBorder"
 				"proportionaltoparent"	"1"
@@ -550,7 +550,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
@@ -568,7 +568,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"HudFontSmallest"
 				"fgcolor_override"	"Tanlight"
@@ -588,12 +588,12 @@
 				"tall"			"15"
 				
 				"pinCorner"		"3"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"Command"		"abandon_match"
 				"proportionaltoparent"	"1"
@@ -618,12 +618,12 @@
 				"tall"			"15"
 				
 				"pinCorner"		"3"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"Command"		"join_match"
 				"proportionaltoparent"	"1"
@@ -665,7 +665,7 @@
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
-				"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"border"		"ReplayDefaultBorder"
 				"proportionaltoparent"	"1"
@@ -680,7 +680,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
@@ -700,7 +700,7 @@
 				"tall"			"40"
 				
 				
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"paintborder"	"0"
 				"image"			"animated/tf2_logo_hourglass"

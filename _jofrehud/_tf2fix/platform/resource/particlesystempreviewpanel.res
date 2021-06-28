@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Splitter"
 		"fieldName"		"Splitter"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"AutoResize"	"3"
@@ -30,7 +30,7 @@
 				
 				
 				
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"tabPosition"	"1"
 			}
@@ -52,7 +52,7 @@
 				
 				
 				
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"tabPosition"	"1"
 			}
@@ -69,7 +69,7 @@
 				"PinCorner"		"3"
 				"PinnedCornerOffsetX" "-6"
 				"PinnedCornerOffsetY" "-6"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"labelText"		""

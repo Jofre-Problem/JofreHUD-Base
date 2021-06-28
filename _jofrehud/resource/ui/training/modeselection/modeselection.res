@@ -10,7 +10,7 @@
 		"tall"				"300"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"paintBackground"	"0"
@@ -31,7 +31,7 @@
 		"tall"				"300"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"paintBackground"	"0"

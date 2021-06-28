@@ -7,7 +7,7 @@
 		"fieldName"		"GameTabs"
 		"autoResize"	"3"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 	}

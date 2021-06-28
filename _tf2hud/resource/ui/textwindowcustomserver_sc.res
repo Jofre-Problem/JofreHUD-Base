@@ -27,11 +27,11 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_WELCOME"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"ChalkboardTitle"
 		"fgcolor"		"White"
@@ -57,7 +57,7 @@
 		"tall"			"240"
 		"autoResize"	"3"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"paintborder"	"0"
 		"textAlignment"	"northwest"
@@ -75,7 +75,7 @@
 		"tall"			"430"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintborder"	"0"
@@ -92,14 +92,14 @@
 		"tall"			"30"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_Continue"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"command"		"okay"
 		"default"		"1"
 		"font"			"MenuSmallFont"
@@ -116,10 +116,10 @@
 		"tall"			"25"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
@@ -136,7 +136,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -164,7 +164,7 @@
 		"tall"			"50"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 			
 		"image"			"loadout_bottom_gradient"

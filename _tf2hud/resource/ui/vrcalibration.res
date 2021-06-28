@@ -9,7 +9,7 @@
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"480"
-		"visible"		"1"
+		////"visible"		"1"
 		"bgcolor_override"		"20 20 20 255"
 	}
 	
@@ -50,8 +50,8 @@
 		"ypos"			"130"
 		"wide"			"400"
 		"tall"			"30"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
+		////"visible"		"1"
+		"bgcolor_override"		"Blank"
 		
 		"IsActive"
 		{
@@ -77,7 +77,7 @@
 			
 			"wide"			"400"
 			"tall"			"35"
-			"visible"		"1"
+			////"visible"		"1"
 			"fgcolor"		"tanlight"
 		}
 	}
@@ -90,8 +90,8 @@
 		"ypos"			"155"
 		"wide"			"400"
 		"tall"			"30"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
+		////"visible"		"1"
+		"bgcolor_override"		"Blank"
 		
 		"IsActive"
 		{
@@ -117,7 +117,7 @@
 			
 			"wide"			"400"
 			"tall"			"35"
-			"visible"		"1"
+			////"visible"		"1"
 			"fgcolor"		"tanlight"
 		}
 	}
@@ -130,8 +130,8 @@
 		"ypos"			"180"
 		"wide"			"400"
 		"tall"			"35"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
+		////"visible"		"1"
+		"bgcolor_override"		"Blank"
 		
 		"IsActive"
 		{
@@ -157,7 +157,7 @@
 			
 			"wide"			"400"
 			"tall"			"35"
-			"visible"		"1"
+			////"visible"		"1"
 			"fgcolor"		"tanlight"
 		}
 	}
@@ -171,7 +171,7 @@
 		"wide"			"400"
 		"tall"			"35"
 		"visible"		"0"				// Hidden for now, since we don't do anything with it!
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		
 		"IsActive"
 		{
@@ -197,7 +197,7 @@
 			
 			"wide"			"400"
 			"tall"			"35"
-			"visible"		"1"
+			////"visible"		"1"
 			"fgcolor"		"tanlight"
 		}
 	}
@@ -211,7 +211,7 @@
 		"wide"			"400"
 		"tall"			"35"
 		"visible"		"0"				// Hidden for now, since we don't do anything with it!
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		
 		"IsActive"
 		{
@@ -237,7 +237,7 @@
 			
 			"wide"			"400"
 			"tall"			"35"
-			"visible"		"1"
+			////"visible"		"1"
 			"fgcolor"		"tanlight"
 		}
 	}
@@ -286,13 +286,13 @@
 		"wide"			"60"
 		"tall"			"25"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_VR_LessLots"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -312,13 +312,13 @@
 		"wide"			"60"
 		"tall"			"25"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_VR_Less"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -338,13 +338,13 @@
 		"wide"			"60"
 		"tall"			"25"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_VR_More"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -364,13 +364,13 @@
 		"wide"			"60"
 		"tall"			"25"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_VR_MoreLots"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -390,13 +390,13 @@
 		"wide"			"80"
 		"tall"			"25"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_VR_NextAdjust"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -416,13 +416,13 @@
 		"wide"			"80"
 		"tall"			"25"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_VR_Close"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"

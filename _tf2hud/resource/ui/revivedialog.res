@@ -10,7 +10,7 @@
 		"tall"			"70"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -32,7 +32,7 @@
 			"tall"			"30"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 	
@@ -50,7 +50,7 @@
 			"tall"			"170"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"centerwrap"	"1"
 			"fgcolor_override" "200 80 60 255"
@@ -67,14 +67,14 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#ConfirmButtonText"
 			"font"			"ReplayBrowserSmallest"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"confirm"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -96,7 +96,7 @@
 			"zpos"				"20"
 			"wide"				"48"
 			"tall"				"48"
-			"visible"			"1"
+			//"visible"			"1"
 				
 			"HealthBonusPosAdj"	"10"
 			"HealthDeathWarning"		"0.49"

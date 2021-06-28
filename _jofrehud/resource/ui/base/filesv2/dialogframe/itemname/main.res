@@ -15,7 +15,7 @@
 			
 			"skip_autoresize"	"1"
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 		}		

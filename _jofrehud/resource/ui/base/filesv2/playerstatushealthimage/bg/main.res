@@ -5,7 +5,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
 		"image"			"../hud/health_bg"		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 	}				

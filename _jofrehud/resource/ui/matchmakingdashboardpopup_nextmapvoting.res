@@ -9,7 +9,7 @@
 		"zpos"			"10000"
 		"wide"			"260"
 		"tall"			"80"
-		"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 		"keyboardinputenabled"	"0"
 		"mouseinputenabled"		"1"
@@ -29,7 +29,7 @@
 			"zpos"			"-2"
 			"wide"			"f0"
 			"tall"			"f0"
-			"visible"		"1"
+			//"visible"		"1"
 			"PaintBackgroundType"	"0"
 			"border"		"OuterShadowBorder"
 			"proportionaltoparent"	"1"
@@ -47,7 +47,7 @@
 			"zpos"			"-1"
 			"wide"			"f5"
 			"tall"			"f5"
-			"visible"		"1"
+			//"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"ReplayDefaultBorder"
 			"proportionaltoparent"	"1"
@@ -64,12 +64,12 @@
 				"tall"			"20"
 				
 				
-				"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"0"
 				"labelText"		""
@@ -95,7 +95,7 @@
 					"zpos"			"1"
 					"wide"			"p1"
 					"tall"			"p1"
-					"visible"		"1"
+					//"visible"		"1"
 					
 					"image"			"glyph_store"
 					"scaleImage"	"1"
@@ -114,12 +114,12 @@
 				"tall"			"20"
 				
 				
-				"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"0"
 				"labelText"		""
@@ -145,7 +145,7 @@
 					"zpos"			"1"
 					"wide"			"p1"
 					"tall"			"p1"
-					"visible"		"1"
+					//"visible"		"1"
 					
 					"image"			"glyph_store"
 					"scaleImage"	"1"
@@ -163,7 +163,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
@@ -194,7 +194,7 @@
 				"zpos"			"-1"
 				"wide"			"100"
 				"tall"			"60"
-				"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"proportionaltoparent"	"1"
 			}
@@ -208,7 +208,7 @@
 				"zpos"			"-1"
 				"wide"			"100"
 				"tall"			"60"
-				"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"proportionaltoparent"	"1"
 			}
@@ -222,7 +222,7 @@
 				"zpos"			"-1"
 				"wide"			"100"
 				"tall"			"60"
-				"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"proportionaltoparent"	"1"
 			}

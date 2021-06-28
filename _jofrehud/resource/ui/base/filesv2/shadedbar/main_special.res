@@ -6,7 +6,7 @@
 		"fieldName"		"ShadedBar"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 			
 		"PaintBackgroundType"	"0"

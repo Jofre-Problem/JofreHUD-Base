@@ -10,7 +10,7 @@
 		"tall"			"150"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"PaintBackgroundType"	"2"
@@ -31,7 +31,7 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 	}
@@ -52,7 +52,7 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"fgcolor_override"		"0 0 0 255"
@@ -75,9 +75,9 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 		"editable"		"0"
@@ -97,14 +97,14 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"1"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -122,14 +122,14 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Contest_Rules"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"1"
 		"Command"		"rules"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -147,14 +147,14 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Contest_Submit"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"submit"
 		"sound_depressed"	"UI/buttonclick.wav"

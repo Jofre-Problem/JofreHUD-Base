@@ -10,7 +10,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -42,7 +42,7 @@
 				"tall"			"15"
 				"autoResize"	"1"
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"fgcolor_override" "200 80 60 255"
 			}
@@ -59,7 +59,7 @@
 				"tall"			"15"
 				"autoResize"	"1"
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 			}
 		}
@@ -79,7 +79,7 @@
 		"tall"			"15"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -98,7 +98,7 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 	
@@ -111,7 +111,7 @@
 		"zpos"			"2"
 		"wide"			"610"
 		"tall"			"10"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
@@ -126,8 +126,8 @@
 		"ypos"			"60"
 		"wide"			"200"
 		"tall"			"125"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
+		////"visible"		"1"
+		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
@@ -153,13 +153,13 @@
 		"tall"			"5"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#CloseItemPanel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"vguicancel"
 		"default"		"1"

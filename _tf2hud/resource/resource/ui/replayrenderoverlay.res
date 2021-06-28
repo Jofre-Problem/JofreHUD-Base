@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BottomPanel"
-		"visible"		"1"
+		////"visible"		"1"
 		"bgcolor_override"	"46 43 42 255"
 	}
 	
@@ -18,7 +18,7 @@
 		"zpos"			"10"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "235 235 235 255"
 	}
@@ -33,7 +33,7 @@
 		"zpos"			"10"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -75,7 +75,7 @@
 		"zpos"			"10"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "235 235 235 255"
 	}
@@ -89,14 +89,14 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Replay_CancelRender"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"confirmcancel"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -118,9 +118,9 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 	}

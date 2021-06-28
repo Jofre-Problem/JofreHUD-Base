@@ -16,7 +16,7 @@
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_SupportsReplays"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"	
 	}	
 	"NoPasswordFilterCheck"
@@ -33,7 +33,7 @@
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_IsNotPasswordProtected"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}	
 }

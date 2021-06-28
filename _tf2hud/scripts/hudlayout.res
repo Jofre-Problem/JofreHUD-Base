@@ -57,7 +57,7 @@
 	HudItemEffectMeter
 	{
 		"fieldName"		"HudItemEffectMeter"
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r162"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
@@ -74,7 +74,7 @@
 	HudMedicCharge
 	{
 		"fieldName"		"HudMedicCharge"
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r138"	[$WIN32]
 		"xpos_minmode"	"r100"	[$WIN32]
@@ -89,7 +89,7 @@
 	HudDemomanCharge
 	{
 		"fieldName"		"HudDemomanCharge"
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
@@ -108,7 +108,7 @@
 	HudBowCharge
 	{
 		"fieldName"		"HudBowCharge"
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
@@ -127,7 +127,7 @@
 	HudFlameRocketCharge
 	{
 		"fieldName"		"HudFlameRocketCharge"
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
@@ -146,7 +146,7 @@
 	HudBossHealth
 	{
 		"fieldName"		"HudBossHealth"
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-100"
 		"ypos"			"42"
@@ -1033,7 +1033,7 @@
 	HudDemomanPipes
 	{
 		"fieldName"		"HudDemomanPipes"
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r162"	[$WIN32]
 		"xpos_minmode"	"r110"	[$WIN32]
@@ -1234,7 +1234,7 @@
 		"zpos"			"2"
 		"wide"			"280"
 		"tall"			"280"
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"1"	
 	}
 	
@@ -1301,7 +1301,7 @@
 	MainMenuAdditions
 	{
 		"fieldName"		"MainMenuAdditions"
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c0"
 		"ypos"			"310"
@@ -1351,7 +1351,7 @@
 		
 		"wide"			"640"
 		"tall"			"480"
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override"	"0 0 0 0"
 		"PaintBackgroundType"	"0" // rounded corners
@@ -1376,7 +1376,7 @@
 		
 		"wide"			"640"
 		"tall"			"480"
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override"	"0 0 0 0"
 		"PaintBackgroundType"	"0" // rounded corners

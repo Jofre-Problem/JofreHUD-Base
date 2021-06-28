@@ -17,9 +17,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -36,9 +36,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -55,9 +55,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -73,9 +73,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -92,9 +92,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -110,9 +110,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -128,9 +128,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -148,9 +148,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -167,9 +167,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}	

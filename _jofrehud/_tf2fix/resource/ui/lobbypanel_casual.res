@@ -44,7 +44,7 @@
 		"zpos"			"100"
 		"wide"			"260"
 		"tall"			"290"
-		"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"border"		"MainMenuBGBorder"

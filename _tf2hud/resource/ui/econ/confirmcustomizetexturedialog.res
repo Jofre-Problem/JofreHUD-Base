@@ -22,7 +22,7 @@
 //		"tall"					"345"
 //		
 //		
-//		"visible"		"1"
+//		////"visible"		"1"
 //		
 //		
 //		"PaintBackgroundType"	"0"
@@ -39,7 +39,7 @@
 			"wide"			"300"
 			"tall"			"300"
 			"visible"		"0"
-			"bgcolor_override"		"0 0 0 0"
+			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
@@ -89,7 +89,7 @@
 			"zpos"			"2"
 			"wide"			"16"
 			"tall"			"16"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"backpack_jewel_modify_target_b_g"
 			"tileImage"		"0"
@@ -105,8 +105,8 @@
 			"zpos"			"1"
 			"wide"			"84"
 			"tall"			"64"
-			"visible"		"1"
-			"bgcolor_override"		"0 0 0 0"
+			////"visible"		"1"
+			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"0"
@@ -163,7 +163,7 @@
 			"zpos"			"2"
 			"wide"			"16"
 			"tall"			"16"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"backpack_jewel_modify_target_b_g"
 			"tileImage"		"0"
@@ -180,8 +180,8 @@
 			"zpos"			"1"
 			"wide"			"84"
 			"tall"			"64"
-			"visible"		"1"
-			"bgcolor_override"		"0 0 0 0"
+			////"visible"		"1"
+			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"0"
@@ -209,8 +209,8 @@
 			"zpos"			"100"
 			"wide"			"160"
 			"tall"			"160"
-			"visible"		"1"
-			"bgcolor_override"		"0 0 0 0"
+			////"visible"		"1"
+			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			//"PaintBackgroundType"	"2"
 			"paintborder"	"0"
@@ -240,7 +240,7 @@
 			"ypos"			"80"
 			"wide"			"540"
 			"tall"			"260"
-			"visible"		"1"
+			////"visible"		"1"
 			
 
 			"PageTitleLabel"
@@ -415,7 +415,7 @@
 			"ypos"			"80"
 			"wide"			"540"
 			"tall"			"260"
-			"visible"		"1"
+			////"visible"		"1"
 			
 
 			"PageTitleLabel"
@@ -654,7 +654,7 @@
 					"zpos"			"1"
 					"wide"			"160"
 					"tall"			"180"
-					"visible"		"1"
+					////"visible"		"1"
 					"tileImage"		"0"
 					"scaleImage"	"1"
 					"image"			"loadout_bottom_gradient"
@@ -802,7 +802,7 @@
 					"zpos"			"1"
 					"wide"			"160"
 					"tall"			"180"
-					"visible"		"1"
+					////"visible"		"1"
 					"tileImage"		"0"
 					"scaleImage"	"1"
 					"image"			"loadout_bottom_gradient"
@@ -926,7 +926,7 @@
 					"zpos"			"1"
 					"wide"			"160"
 					"tall"			"180"
-					"visible"		"1"
+					////"visible"		"1"
 					"tileImage"		"0"
 					"scaleImage"	"1"
 					"image"			"loadout_bottom_gradient"

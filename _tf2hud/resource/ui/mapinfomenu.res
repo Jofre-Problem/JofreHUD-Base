@@ -11,7 +11,7 @@
 		"tall"			"480"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 	
@@ -29,7 +29,7 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%mapname%"
 		"textAlignment"	"west"
@@ -51,7 +51,7 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%gamemode%"
 		"textAlignment"	"west"
@@ -78,7 +78,7 @@
 		//"tall_lodef"	"200"
 		"autoResize"	"3"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"paintborder"	"0"
 		"textAlignment"	"northwest"
@@ -123,11 +123,11 @@
 		"tall"			"30"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_Continue"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"continue"
 		"default"		"1"
@@ -148,11 +148,11 @@
 		"tall"			"30"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_WatchIntro"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"intro"
 		"default"		"1"
@@ -174,11 +174,11 @@
 		"tall"			"30"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_Back"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"back"
 		"font"			"MenuSmallFont"
@@ -196,7 +196,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -230,7 +230,7 @@
 		//"tall_hidef"			"65"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 			
 		"image"			"loadout_bottom_gradient"

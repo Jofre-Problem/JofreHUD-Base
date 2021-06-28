@@ -21,7 +21,7 @@
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"f0"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 
 			if_mini
@@ -56,7 +56,7 @@
 			"tall"			"p0.12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fov"			"70"
 			"proportionaltoparent"	"1"
@@ -118,7 +118,7 @@
 			"zpos"			"1"
 			"wide"			"f0"
 			"tall"			"f0"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 
 			"paintbackground"	"0"
@@ -190,7 +190,7 @@
 		"zpos"			"-1"
 		"wide"			"260"
 		"tall"			"f40"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"proportionaltoparent"	"1"
 
@@ -211,7 +211,7 @@
 			"wide"			"f0"
 			"zpos"			"100"
 			"tall"			"20"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"font"			"HudFontSmallishBold"
 			"fgcolor_override"	"TanLight"
@@ -234,7 +234,7 @@
 			"wide"			"195"
 			"zpos"			"100"
 			"tall"			"20"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"font"			"HudFontSmallestBold"
 			"fgcolor_override"	"TanLight"
@@ -265,7 +265,7 @@
 			"wide"			"195"
 			"zpos"			"100"
 			"tall"			"20"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"font"			"HudFontSmallestBold"
 			"fgcolor_override"	"TanLight"
@@ -331,7 +331,7 @@
 					
 					"wide"			"100"
 					"tall"			"20"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"font"			"ItemFontAttribSmall"
 					"fgcolor_override"	"TanLight"
@@ -349,7 +349,7 @@
 					
 					"wide"			"100"
 					"tall"			"20"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"font"			"ItemFontAttribSmall"
 					"fgcolor_override"	"TanLight"
@@ -455,7 +455,7 @@
 					
 					"wide"			"100"
 					"tall"			"20"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
@@ -473,7 +473,7 @@
 					
 					"wide"			"100"
 					"tall"			"20"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
@@ -491,7 +491,7 @@
 					
 					"wide"			"100"
 					"tall"			"20"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
@@ -510,7 +510,7 @@
 					
 					"wide"			"100"
 					"tall"			"20"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
@@ -528,7 +528,7 @@
 					
 					"wide"			"100"
 					"tall"			"20"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
@@ -546,7 +546,7 @@
 					
 					"wide"			"100"
 					"tall"			"20"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
@@ -565,7 +565,7 @@
 					
 					"wide"			"100"
 					"tall"			"20"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"

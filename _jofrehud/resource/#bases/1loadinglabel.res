@@ -19,7 +19,7 @@
 		"labelText"		"#GameUI_LoadingDialog_ContentHosting"
 	//	"dulltext"		"1"
 	//	"brighttext"		"0"
-	//	"wrap"		"0"
+	//	//"wrap"		"0"
 	//	"fgcolor_override"	"W_ColorTheme1"
 	}
 }

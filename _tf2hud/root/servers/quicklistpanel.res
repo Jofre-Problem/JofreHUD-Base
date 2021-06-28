@@ -10,7 +10,7 @@
 		"tall"		"100"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -44,11 +44,11 @@
 		"tall"			"96"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"image"			""
-		"scaleImage"		"0"
+		//"scaleImage"		"0"
 	}
 
 	"mapname"
@@ -63,11 +63,11 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"MAPNAME"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 
@@ -83,11 +83,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"(capture the flag)"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"pin_to_sibling"	"mapname"
  		"pin_corner_to_sibling"	"0"
@@ -106,11 +106,11 @@
 		"tall"			"30"
 		"autoResize"		"1"
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"Yo wats up"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		//"fgcolor_override"	"185 185 188 255"
 	}
@@ -127,7 +127,7 @@
 		"tall"			"24"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"image"			"..\vgui\icon_con_high"
@@ -145,11 +145,11 @@
 		"tall"			"20"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"54 ms"
 		"textAlignment"		"east"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	
@@ -165,11 +165,11 @@
 		"tall"			"20"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"15/24 players"
 		"textAlignment"		"east"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		//"fgcolor_override"	"185 185 188 255"
 	}
@@ -185,11 +185,11 @@
 		"tall"			"25"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"50 other servers"
 		"textAlignment"		"east"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		//"fgcolor_override"	"185 185 188 255"
 	}
@@ -205,7 +205,7 @@
 		"tall"			"24"
 		
 		"pinCorner"		"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"image"			"servers\icon_replay"

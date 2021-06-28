@@ -93,10 +93,10 @@
 		"tall_minmode"			"36"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"progress"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"centerwrap"	"1"
 	}

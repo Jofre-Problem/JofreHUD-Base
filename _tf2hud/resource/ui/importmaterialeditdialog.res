@@ -22,7 +22,7 @@
 		"wide"		"f0"
 		"tall"		"f0"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"bgcolor_override"	"0 0 0 255"
@@ -73,9 +73,9 @@
 		
 		"labelText"		""
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"EditSkin0"
 		"Default"		"0"
 		"font"		"HudFontSmallBold"
@@ -98,9 +98,9 @@
 		
 		"labelText"		""
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"EditSkin1"
 		"Default"		"0"
 		"font"		"HudFontSmallBold"
@@ -314,7 +314,7 @@
 		
 		
 		"editable"			"0"
-		"visible"			"1"
+		//"visible"			"1"
 	}
 
 	"BaseMapAlphaPhongMaskLabel"
@@ -344,9 +344,9 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"UpdateBaseMapAlphaPhongMask"
 		"border"		"SteamWorkshopBorder"
@@ -476,7 +476,7 @@
 		"tall"		"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -514,7 +514,7 @@
 		"tall"		"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -552,7 +552,7 @@
 		"tall"		"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -590,7 +590,7 @@
 		"tall"		"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -632,9 +632,9 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"UpdateRimMask"
 		"border"		"SteamWorkshopBorder"
@@ -667,9 +667,9 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"UpdateHalfLambert"
 		"border"		"SteamWorkshopBorder"
@@ -703,9 +703,9 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"UpdateBlendTintByBaseAlpha"
 		"border"		"SteamWorkshopBorder"
@@ -736,7 +736,7 @@
 		"tall"		"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -775,7 +775,7 @@
 		"tall"		"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -799,7 +799,7 @@
 		"tall"		"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -823,7 +823,7 @@
 		"tall"		"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -864,9 +864,9 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"UpdateAdditive"
 		"border"		"SteamWorkshopBorder"
@@ -899,9 +899,9 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"UpdateTranslucent"
 		"border"		"SteamWorkshopBorder"
@@ -935,9 +935,9 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"UpdateAlphaTest"
 		"border"		"SteamWorkshopBorder"
@@ -969,7 +969,7 @@
 		
 		
 		"editable"			"0"
-		"visible"			"1"
+		//"visible"			"1"
 	}
 
 	"EnvmapAlphaMaskLabel"
@@ -999,7 +999,7 @@
 		
 		
 		"editable"			"0"
-		"visible"			"1"
+		//"visible"			"1"
 		"enabled"			"0"
 	}
 
@@ -1028,7 +1028,7 @@
 		"tall"		"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -1052,7 +1052,7 @@
 		"tall"		"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -1076,7 +1076,7 @@
 		"tall"		"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -1117,9 +1117,9 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"UpdateSelfIllum"
 		"border"		"SteamWorkshopBorder"
@@ -1250,7 +1250,7 @@
 		"tall"		"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -1274,7 +1274,7 @@
 		"tall"		"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -1298,7 +1298,7 @@
 		"tall"		"12"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -1322,14 +1322,14 @@
 		"tall"		"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Done"
 		"Default"		"0"
 		"font"		"HudFontSmallBold"
@@ -1345,14 +1345,14 @@
 		"tall"		"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 		"font"		"HudFontSmallBold"

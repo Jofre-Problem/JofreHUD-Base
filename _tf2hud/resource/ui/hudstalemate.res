@@ -11,7 +11,7 @@
 		"tall"			"150"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/death_panel_black_bg"
 		"scaleImage"		"1"
@@ -28,7 +28,7 @@
 		"tall"			"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"labelText"		"#TF_teambalanced"
@@ -46,7 +46,7 @@
 		"tall"			"55"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"labelText"		""

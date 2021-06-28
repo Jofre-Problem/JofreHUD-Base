@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"servername"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"

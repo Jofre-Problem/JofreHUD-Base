@@ -10,7 +10,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"setclosebuttonvisible"	"0"
@@ -41,7 +41,7 @@
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"80"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"replay/replaybrowser_header"
 		"tileImage"		"1"
@@ -55,7 +55,7 @@
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"60"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"replay/replaybrowser_bottomgradient"
 		"tileImage"		"1"
@@ -69,7 +69,7 @@
 		"zpos"			"-1"
 		"wide"			"f0"
 		"tall"			"10"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"replay/replaybrowser_solidline"
 		"scaleImage"	"1"
@@ -94,7 +94,7 @@
 			"zpos"			"5"
 			"wide"			"f0"
 			"tall"			"10"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"replay/replaybrowser_solidline"
 			"scaleImage"	"1"
@@ -124,13 +124,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Replay_BackCarat"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"back"

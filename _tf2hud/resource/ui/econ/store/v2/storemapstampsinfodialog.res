@@ -11,7 +11,7 @@
 		"tall"			"f0"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -26,7 +26,7 @@
 		
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"paintbackground"	"1"
 		"PaintBackgroundType"	"0"
@@ -43,7 +43,7 @@
 		
 		"wide"			"240"
 		"tall"			"300"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"paintbackground"	"0"
 		"border"		"TFFatLineBorderOpaque"
@@ -59,7 +59,7 @@
 			"zpos"			"1"
 			"wide"			"220"
 			"tall"			"209"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"paintborder"	"1"
 			"border"		"StoreInnerShadowBorder"
@@ -76,7 +76,7 @@
 			"zpos"			"1"
 			"wide"			"235"
 			"tall"			"10"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"paintborder"	"0"
 			"PaintBackgroundType"	"0"
@@ -94,7 +94,7 @@
 			"zpos"			"1"
 			"wide"			"235"
 			"tall"			"58"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"paintborder"	"0"
 			"PaintBackgroundType"	"2"
@@ -116,7 +116,7 @@
 			"tall"			"200"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 		}	
@@ -130,7 +130,7 @@
 			"zpos"			"2"
 			"wide"			"150"
 			"tall"			"150"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../backpack/player/items/all_class/world_traveller_large"
 			"scaleImage"	"1"
@@ -148,13 +148,13 @@
 		"tall"			"14"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"0"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -175,7 +175,7 @@
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"close_button"
 			"scaleImage"	"1"
@@ -192,13 +192,13 @@
 		"wide"			"80"
 		"tall"			"22"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_BackCarat"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"close"

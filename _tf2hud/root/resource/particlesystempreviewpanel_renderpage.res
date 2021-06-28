@@ -10,7 +10,7 @@
 		"tall"			"256"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	
@@ -24,13 +24,13 @@
 			"tall"		"24"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"disabled"		"1"
 			"tabPosition"	"1"
 			"labelText"		"Render Bounding Box"
 			"textAlignment"		"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 			"Default"		"0"
 		}
@@ -45,13 +45,13 @@
 			"tall"		"24"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"disabled"		"1"
 			"tabPosition"	"1"
 			"labelText"		"Render Culling Bounds"
 			"textAlignment"		"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 			"Default"		"0"
 		}
@@ -66,12 +66,12 @@
 			"tall"		"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"tabPosition"	"2"
 			"labelText"		""
 			"textAlignment"		"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 			"Default"		"0"
 		}
@@ -85,12 +85,12 @@
 			"wide"			"210"
 			"tall"			"24"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"Background Color"
 			"textAlignment"	"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 		}
 		
@@ -104,13 +104,13 @@
 			"tall"		"24"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"selected"		"1"
 			"tabPosition"	"3"
 			"labelText"		"Render Helpers"
 			"textAlignment"		"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 			"Default"		"0"
 		}		

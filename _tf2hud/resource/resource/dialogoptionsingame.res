@@ -10,7 +10,7 @@
 		"tall"		"736"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"28"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_InfoText"
@@ -40,7 +40,7 @@
 		"tall"		"28"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Close"
@@ -57,7 +57,7 @@
 		"tall"		"445"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}

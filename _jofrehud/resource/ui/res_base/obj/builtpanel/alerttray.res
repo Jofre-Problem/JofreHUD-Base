@@ -7,7 +7,7 @@
 			"ControlName"	"CBuildingStatusAlertTray"
 			"fieldName"		"AlertTray"
 			
-			"visible"		"1"
+			////"visible"		"1"
 				
 		}
 	}	

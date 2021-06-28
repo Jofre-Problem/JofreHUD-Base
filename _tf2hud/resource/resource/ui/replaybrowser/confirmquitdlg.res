@@ -10,7 +10,7 @@
 		"tall"			"275"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -25,7 +25,7 @@
 		
 		"wide"			"350"
 		"tall"			"190"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"59 54 48 255"
 	}
@@ -44,7 +44,7 @@
 		"tall"			"50"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -63,7 +63,7 @@
 		"tall"			"100"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"centerwrap"	"1"
 	}
@@ -79,14 +79,14 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Replay_RenderNow"
 		"font"			"ReplayMediumSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"rendernow"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -104,14 +104,14 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Replay_TakeMeToReplays"
 		"font"			"ReplayMediumSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"gotoreplays"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -129,14 +129,14 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Replay_YesReallyQuit"
 		"font"			"ReplayMediumSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"quit"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -158,9 +158,9 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"tabPosition"	"10"
 	}

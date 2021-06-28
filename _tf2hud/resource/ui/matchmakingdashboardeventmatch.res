@@ -10,7 +10,7 @@
 		"zpos"			"1002"
 		"wide"			"270"
 		"tall"			"f70"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -59,7 +59,7 @@
 		"zpos"			"110"
 		"wide"			"o1"
 		"tall"			"70"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
@@ -76,7 +76,7 @@
 		"zpos"			"100"
 		"wide"			"330"
 		"tall"			"92"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 
@@ -107,7 +107,7 @@
 			"zpos"			"101"
 			"wide"			"f0"
 			"tall"			"f0"
-			"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"InnerShadowBorder"
 			"proportionaltoparent"	"1"
@@ -123,7 +123,7 @@
 			
 			"wide"			"f0"
 			"tall"			"f0"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"mouseinputenabled" "0"
 			"image"			"mvm/mannup"
@@ -223,12 +223,12 @@
 		"tall"			"20"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"find_game"
 		"proportionaltoparent"	"1"

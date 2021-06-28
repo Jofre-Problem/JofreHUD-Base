@@ -10,7 +10,7 @@
 		"tall"			"f0"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fov"			"70"
 		"start_framed"	"0"
@@ -57,7 +57,7 @@
 		"zpos"			"-1"
 		"wide"			"p0.8"
 		"tall"			"o1"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"1"
 		"image"			"gradient_radial_pure_black"
@@ -74,7 +74,7 @@
 		
 		"wide"			"f0"
 		"tall"			"20"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 		"wrap"			"0"
@@ -97,7 +97,7 @@
 		
 		"wide"			"f0"
 		"tall"			"20"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 		"wrap"			"0"

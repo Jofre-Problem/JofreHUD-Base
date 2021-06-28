@@ -23,7 +23,7 @@
 		"zpos"			"10"
 		"wide"			"f20"
 		"tall"			"30"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "TanLight"
 		"proportionaltoparent"	"1"
@@ -41,7 +41,7 @@
 		"zpos"			"10"
 		"wide"			"f20"
 		"tall"			"30"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "Orange"
 		"proportionaltoparent"	"1"
@@ -115,7 +115,7 @@
 			"ypos"			"r30"
 			"wide"			"f20"
 			"tall"			"30"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override" "TanLight"
 			"proportionaltoparent"	"1"
@@ -162,7 +162,7 @@
 			"ypos"			"r40"
 			"wide"			"f20"
 			"tall"			"30"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override" "CreditsGreen"
 			"proportionaltoparent"	"1"
@@ -209,7 +209,7 @@
 			"ypos"			"r40"
 			"wide"			"f20"
 			"tall"			"30"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override" "RedSolid"
 			"proportionaltoparent"	"1"
@@ -239,14 +239,14 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_CancelBold"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"cancel"
 		"proportionaltoparent"	"1"
@@ -272,14 +272,14 @@
 		"default"		"1"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_QuestView_RedeemReward"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"accept"
 		"proportionaltoparent"	"1"

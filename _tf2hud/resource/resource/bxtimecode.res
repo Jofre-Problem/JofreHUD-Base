@@ -11,7 +11,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -25,15 +25,15 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"00:00:00:000"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"Trebuchet24"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"BxClipTime"
 	{
@@ -45,7 +45,7 @@
 		"tall"		"8"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -59,7 +59,7 @@
 		"tall"		"8"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}

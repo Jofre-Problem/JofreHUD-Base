@@ -44,7 +44,7 @@
 			"tall"			"60"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"centerwrap"	"1"
 		}
@@ -63,7 +63,7 @@
 			"tall"			"64"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"paintbackground" "0"
 			"border"		"BackpackItemBorder_SelfMade"
@@ -77,8 +77,8 @@
 			"zpos"			"1"
 			"wide"			"84"
 			"tall"			"64"
-			"visible"		"1"
-			"bgcolor_override"		"0 0 0 0"
+			////"visible"		"1"
+			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"0"
@@ -111,7 +111,7 @@
 			"tall"			"64"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"paintbackground" "0"
 			"border"		"BackpackItemBorder_Vintage"
@@ -125,8 +125,8 @@
 			"zpos"			"1"
 			"wide"			"84"
 			"tall"			"64"
-			"visible"		"1"
-			"bgcolor_override"		"0 0 0 0"
+			////"visible"		"1"
+			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"0"
@@ -159,7 +159,7 @@
 			"tall"			"100"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "200 80 60 255"
@@ -176,13 +176,13 @@
 			"tall"			"25"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#Cancel"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"Command"		"cancel"
@@ -202,13 +202,13 @@
 			"tall"			"25"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#CraftNameConfirm"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"apply"

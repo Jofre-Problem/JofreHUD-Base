@@ -4,7 +4,7 @@
 	{
 		"tabPosition"		"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"BgColor"		"100 100 100 255"
 		"FgColor"		"255 170 0 255"
 		"tall"		"84"
@@ -20,7 +20,7 @@
 		"labelText"		""
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"BgColor"		"70 70 70 255"
 		"FgColor"		"255 170 0 255"
 		"tall"		"88"

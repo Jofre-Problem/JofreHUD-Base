@@ -24,7 +24,7 @@
 		"wide"			"f0"
 		"tall"			"p0.9"
 		"proportionaltoparent"	"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"border"		"MainMenuBGBorder"
 
@@ -37,7 +37,7 @@
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"p0.7"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"mouseinputenabled" "0"
 			"image"			"competitive/comp_background_tier001a"
@@ -55,7 +55,7 @@
 			"tall"			"1"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"255 255 255 252"
@@ -76,7 +76,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"0"
 			"proportionaltoparent"	"1"
@@ -105,7 +105,7 @@
 				"zpos"			"2"
 				"wide"			"50"
 				"tall"			"20"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"font"			"HudFontSmallestBold"
 				//"fgcolor_override"	"89 81 71 255"
@@ -126,7 +126,7 @@
 				"tall"				"15"
 				
 				
-				"visible"			"1"
+				//"visible"			"1"
 				
 				"textHidden"		"0"
 				"editable"			"0"
@@ -155,13 +155,13 @@
 				"tall"			"25"
 				
 				//"pinCorner"		"3"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_StartSearch"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"Command"		"search"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -185,7 +185,7 @@
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_CancelSearch"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"Command"		"stopsearch"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -551,7 +551,7 @@
 					
 					"wide"			"50"
 					"tall"			"50"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"mouseinputenabled" "0"
 					"image"			"pve/mvm_timeout_active_large"

@@ -35,7 +35,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"	"1"
@@ -80,13 +80,13 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"0"
 		"Command"		"options"
@@ -104,7 +104,7 @@
 			"zpos"			"1"
 			"wide"			"16"
 			"tall"			"16"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"glyph_options"
 			"scaleImage"	"1"
@@ -139,7 +139,7 @@
 			"zpos"			"2"
 			"wide"			"200"
 			"tall"			"40"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"autoResize"	"1"
 			
@@ -158,12 +158,12 @@
 		"tall"			"25"
 		
 		//"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"next"
 
@@ -186,14 +186,14 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_Matchmaking_StartParty"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"start_party"
 

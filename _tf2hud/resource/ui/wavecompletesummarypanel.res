@@ -10,7 +10,7 @@
 		"tall"			"80"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../HUD/tournament_panel_brown"
 
@@ -29,7 +29,7 @@
 		
 		"wide"			"250"
 		"tall"			"35"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType" "2"
 		
 		"WaveCompleteLabelShadow"
@@ -43,7 +43,7 @@
 			"ypos"			"3"
 			"wide"			"245"
 			"tall"			"36"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"black"		
 			
@@ -64,7 +64,7 @@
 			"ypos"			"2"
 			"wide"			"244"
 			"tall"			"35"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"tanlight"		
 		}
@@ -79,7 +79,7 @@
 		"wide"			"400"
 		"tall"			"400"
 		"autoResize"	"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"CreditCollectedTextLabel"
 		{
@@ -175,7 +175,7 @@
 		"wide"			"400"
 		"tall"			"400"
 		"autoResize"	"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"RatingLabel"
 		{
@@ -249,7 +249,7 @@
 		"ypos"			"80"
 		"wide"			"250"
 		"tall"			"25"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType" "2"
 	
 		"RespecTextLabelWin"

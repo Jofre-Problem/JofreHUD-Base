@@ -5,7 +5,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HeaderLine"
 		"tall"			"10"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 }

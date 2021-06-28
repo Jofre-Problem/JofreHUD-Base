@@ -19,7 +19,7 @@
 			
 			"wide"			"190"
 			"tall"			"130"
-			"visible"		"1"
+			//"visible"		"1"
 		}
 	}	
 }	

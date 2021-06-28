@@ -27,7 +27,7 @@
 	//	
 	//	
 	//	"textAlignment"		"east"
-	//	"wrap"		"0"
+	//	//"wrap"		"0"
 	}
 	"DialogGameInfo"
 	{
@@ -36,7 +36,7 @@
 		"wide"		"416"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -48,12 +48,12 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		"labelText"		"#ServerBrowser_Close"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"Refresh"
@@ -80,7 +80,7 @@
 		"tabPosition"		"4"
 		"labelText"		"#ServerBrowser_AutoRetry"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"AutoRetryAlert"
@@ -95,7 +95,7 @@
 		
 		"labelText"		"#ServerBrowser_AlertMeWhenSlotOpens"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"1"
 	}
@@ -112,7 +112,7 @@
 		
 		"labelText"		"#ServerBrowser_JoinWhenSlotOpens"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"2"
 	}
@@ -130,7 +130,7 @@
 		
 		"labelText"		"#ServerBrowser_ServerName"
 		"textAlignment"		"east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	//	"fgcolor"	"W_ColorTheme1"
 	}
 	"GameLabel"
@@ -141,12 +141,12 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#ServerBrowser_GameLabel"
 		"textAlignment"		"east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	//	"fgcolor"	"W_ColorTheme1"		
 	}
 	"MapLabel"
@@ -172,7 +172,7 @@
 		
 		"labelText"		"#ServerBrowser_PlayersLabel"
 		"textAlignment"		"east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"PingLabel"
 	{
@@ -188,7 +188,7 @@
 		
 		"labelText"		"#ServerBrowser_LatencyLabel"
 		"textAlignment"		"east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"ServerText"
 	{
@@ -203,7 +203,7 @@
 		
 		
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"GameText"
 	{
@@ -214,11 +214,11 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"ServerIPText"
 	{
@@ -251,7 +251,7 @@
 		
 		
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"PlayersText"
 	{
@@ -266,7 +266,7 @@
 		
 		
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"PingText"
 	{
@@ -281,7 +281,7 @@
 		
 		
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 
 	"SecureText"
@@ -294,10 +294,10 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 }

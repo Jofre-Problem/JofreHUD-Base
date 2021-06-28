@@ -10,7 +10,7 @@
 		"wide"			"500"
 		"tall"			"50"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"46 43 42 160"	

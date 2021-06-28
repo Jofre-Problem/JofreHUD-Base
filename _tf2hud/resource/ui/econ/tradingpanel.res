@@ -8,7 +8,7 @@
 		
 		"wide"			"f0"
 		"tall"			"480"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		
@@ -56,7 +56,7 @@
 			"wide"			"54"
 			"tall"			"42"
 			"visible"		"0"
-			"bgcolor_override"		"0 0 0 0"
+			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
@@ -89,7 +89,7 @@
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"50"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"loadout_header"
 		"tileImage"		"1"
@@ -103,7 +103,7 @@
 		"zpos"			"5"
 		"wide"			"f0"
 		"tall"			"10"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
@@ -123,7 +123,7 @@
 		"tall"			"15"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -141,7 +141,7 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 
@@ -154,7 +154,7 @@
 		"zpos"			"2"
 		"wide"			"36"
 		"tall"			"36"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"117 107 94 255"
 
@@ -167,7 +167,7 @@
 			"zpos"			"1"
 			"wide"			"32"
 			"tall"			"32"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			""
 			"scaleImage"	"1"	
@@ -189,7 +189,7 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 187 161 255"
 	}
@@ -207,7 +207,7 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"fgcolor_override" "117 107 94 255"
@@ -227,7 +227,7 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 187 161 255"
 	}
@@ -245,7 +245,7 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"fgcolor_override" "117 107 94 255"
@@ -281,14 +281,14 @@
 		"tall"			"40"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"0"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"ready"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -308,7 +308,7 @@
 		"zpos"			"2"
 		"wide"			"36"
 		"tall"			"36"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"bgcolor_override" "46 43 42 255"
 	}
@@ -321,7 +321,7 @@
 		"zpos"			"3"
 		"wide"			"40"
 		"tall"			"40"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"checkmark"
 		"scaleImage"	"1"	
@@ -342,7 +342,7 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"centerwrap"	"1"
@@ -363,7 +363,7 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 187 161 255"
 	}
@@ -381,7 +381,7 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"fgcolor_override" "117 107 94 255"
@@ -415,7 +415,7 @@
 		"zpos"			"1"
 		"wide"			"40"
 		"tall"			"40"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"bgcolor_override" "117 107 94 255"
 		
@@ -428,7 +428,7 @@
 			"zpos"			"1"
 			"wide"			"36"
 			"tall"			"36"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"bgcolor_override" "46 43 42 255"
 		}
@@ -442,7 +442,7 @@
 		"zpos"			"2"
 		"wide"			"40"
 		"tall"			"40"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"checkmark"
 		"scaleImage"	"1"	
@@ -462,7 +462,7 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"centerwrap"	"1"
@@ -553,7 +553,7 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
@@ -574,7 +574,7 @@
 			"tall"			"60"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -594,7 +594,7 @@
 		"wide"			"54"
 		"tall"			"42"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
@@ -623,14 +623,14 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"#BackpackShowDetails"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"showdetails"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -648,13 +648,13 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"<"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"prevpage"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -674,7 +674,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -689,13 +689,13 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		">"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"nextpage"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -713,7 +713,7 @@
 		"wrap"				"1"
 		"autoResize"		"1"
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		"labelText"			"CHAT TEXT"
 		"textAlignment"		"south-west"
@@ -798,14 +798,14 @@
 		"tall"			"40"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"#TF_TradeWindow_WaitingForTrade"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
 		"textinsetx"	"0"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"1"
 		"centerwrap"	"1"
@@ -824,14 +824,14 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"0"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"

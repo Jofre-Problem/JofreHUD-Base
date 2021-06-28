@@ -7,7 +7,7 @@
 		
 		
 		"wide"			"600"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"
 	}

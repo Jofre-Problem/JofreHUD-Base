@@ -20,13 +20,13 @@
 		"tall"			"25"
 		
 		//"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_MvM_LearnMore"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"learn_more"
 
@@ -49,14 +49,14 @@
 		"tall"			"40"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_MvM_MannUp"
 		"font"			"HudFontMediumBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"mannup"
 
@@ -88,14 +88,14 @@
 		"tall"			"40"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_MvM_BootCamp"
 		"font"			"HudFontMediumBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"practice"
 
@@ -153,7 +153,7 @@
 			
 			"wide"			"180"
 			"tall"			"90"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"pve/mvm_friends_image"
 			"scaleImage"	"1"

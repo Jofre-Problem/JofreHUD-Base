@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Splitter"
 		"fieldName"		"Splitter"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"AutoResize"	"3"
@@ -28,7 +28,7 @@
 				
 				"PinnedCornerOffsetX" "6"
 				"UnpinnedCornerOffsetX" "-6"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"tabPosition"	"1"
 				"editable"		"0"
@@ -49,7 +49,7 @@
 				"PinnedCornerOffsetY" "30"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"tabPosition"	"1"
 			}
@@ -61,7 +61,7 @@
 			{
 				"ControlName"	"CDmeElementPanel"
 				"fieldName"		"FunctionProperties"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"AutoResize"	"3"

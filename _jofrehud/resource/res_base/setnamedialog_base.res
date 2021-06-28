@@ -23,14 +23,14 @@
 	//	"tall"		"24"
 	//	
 	//	
-	//	"visible"		"1"
+	//	//"visible"		"1"
 	//	
 		"tabPosition"		"6"
 	//	"labelText"		"#vgui_ok"
 	//	"textAlignment"		"west"
-	//	"dulltext"		"0"
+	//	//"dulltext"		"0"
 	//	"brighttext"		"0"
-	//	"wrap"		"0"
+	//	//"wrap"		"0"
 	//	"Command"		"Ok"
 	}
 	"FirstNumber"
@@ -42,7 +42,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		"textHidden"		"0"
@@ -60,7 +60,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"textHidden"		"0"
@@ -78,7 +78,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"5"
 		"textHidden"		"0"
@@ -96,14 +96,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"First:"
 		"textAlignment"		"east"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"IncrementLabel"
 	{
@@ -114,14 +114,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Increment:"
 		"textAlignment"		"east"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"NumDigitsLabel"
 	{
@@ -132,13 +132,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Num Digits:"
 		"textAlignment"		"east"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 }

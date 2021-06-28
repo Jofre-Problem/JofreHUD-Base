@@ -5,7 +5,7 @@
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"mouseoveritempanel"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
@@ -26,7 +26,7 @@
 			"tall"			"60"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"

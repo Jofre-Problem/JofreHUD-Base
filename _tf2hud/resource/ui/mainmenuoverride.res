@@ -3,7 +3,7 @@
 	MainMenuOverride
 	{
 		"fieldName"		"MainMenuOverride"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		
@@ -25,7 +25,7 @@
 			"ypos"			"150"
 			"wide"			"250"
 			"tall"			"26"
-			"visible"		"1"
+			////"visible"		"1"
 
 			"SubButton"
 			{
@@ -37,14 +37,14 @@
 				"tall"			"26"
 				
 				"pinCorner"		"3"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"textinsetx"	"25"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"west"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -69,7 +69,7 @@
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"scaleImage"	"1"
 				}				
@@ -86,7 +86,7 @@
 			
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"flashbounds_x"	"50"
@@ -111,7 +111,7 @@
 			
 			"CameraFlashSettings"
 			{
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"tileImage"		"0"
 				"scaleImage"	"1"
@@ -129,7 +129,7 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
@@ -151,7 +151,7 @@
 			"tall"			"60"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -230,7 +230,7 @@
 		"zpos"			"1"
 		"wide"			"256"
 		"tall"			"64"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../logo/new_tf2_logo"
 		"scaleImage"	"1"
@@ -246,7 +246,7 @@
 		"zpos"			"-99"
 		"wide"			"600"
 		"tall"			"600"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"
 	}
@@ -280,7 +280,7 @@
 		"tall"			"15"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textinsetx"	"25"
@@ -289,7 +289,7 @@
 		"font"			"HudFontSmallBold"
 		"command"		"open_rank_type_menu"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -313,7 +313,7 @@
 			"zpos"			"1"
 			"wide"			"f2"
 			"tall"			"f2"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"scaleImage"	"1"
 			"image"			"glyph_options"
@@ -333,7 +333,7 @@
 		"zpos"			"-1"
 		"wide"			"8"
 		"tall"			"8"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"1"
 		"image"			"info"
@@ -369,7 +369,7 @@
 		"zpos"			"-99"
 		"wide"			"260"
 		"tall"			"100"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 		"wrap"			"1"
@@ -392,7 +392,7 @@
 		"zpos"			"-99"
 		"wide"			"30"
 		"tall"			"30"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"gc_dc"
 		"scaleImage"	"1"
@@ -408,7 +408,7 @@
 		"zpos"			"-100"
 		"wide"			"260"
 		"tall"			"60"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"border"		"MainMenuBGBorder"
 		"proportionaltoparent"	"1"
@@ -441,7 +441,7 @@
 			"tall"			"50"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override"	"117 107 94 255"
 			"wrap"			"1"
@@ -461,7 +461,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override"	"235 226 202 255"
 			"auto_wide_tocontents" "1"
@@ -479,7 +479,7 @@
 		"tall"			"32"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 
 		"navUp"			"MOTD_ShowButtonPanel"
@@ -497,7 +497,7 @@
 			"zpos"			"3"
 			"wide"			"16"
 			"tall"			"16"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"glyph_achievements"
 			"scaleImage"	"1"
@@ -518,7 +518,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override"	"255 255 255 255"
 		}
@@ -534,13 +534,13 @@
 			"tall"			"32"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"actionsignallevel" "2"
@@ -563,7 +563,7 @@
 				"zpos"			"1"
 				"wide"			"32"
 				"tall"			"32"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"button_Alert"
 				"scaleImage"	"1"
@@ -582,7 +582,7 @@
 		"tall"			"32"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		
@@ -599,7 +599,7 @@
 			"tall"			"f0"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"textinsetx"	"25"
@@ -608,7 +608,7 @@
 			"font"			"HudFontSmallBold"
 			"command"		"watch_stream"
 			"textAlignment"	"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -632,7 +632,7 @@
 				"zpos"			"1"
 				"wide"			"f0"
 				"tall"			"f0"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"
 				"image"			"button_streaming"
@@ -655,7 +655,7 @@
 		"tall"			"32"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		
@@ -672,7 +672,7 @@
 			"tall"			"f0"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"textinsetx"	"25"
@@ -681,7 +681,7 @@
 			"font"			"HudFontSmallBold"
 			"command"		"questlog"
 			"textAlignment"	"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -705,7 +705,7 @@
 				"zpos"			"1"
 				"wide"			"f0"
 				"tall"			"f0"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"
 				"image"			"button_quests_pda"
@@ -728,7 +728,7 @@
 		"tall"			"32"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 
 		"navUp"			"MOTD_Panel"				// pass through when naving up to this or the fully displayed MOTD
@@ -748,13 +748,13 @@
 			"tall"			"32"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 
@@ -777,7 +777,7 @@
 				"zpos"			"1"
 				"wide"			"32"
 				"tall"			"32"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"button_MOTD"
 				"scaleImage"	"1"
@@ -811,7 +811,7 @@
 			
 			"wide"			"300"
 			"tall"			"22"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"MOTD_HeaderLabel"
 			{
@@ -826,7 +826,7 @@
 				"tall"			"24"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"PaintBackgroundType" "2"
 				"fgcolor_override"	"235 226 202 255"
@@ -845,13 +845,13 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"actionsignallevel"	"2"
@@ -882,7 +882,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -917,7 +917,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"LabelDark"
 			"wrap"			"1"
@@ -936,7 +936,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"LabelDark"
 		}
@@ -950,7 +950,7 @@
 			"zpos"			"99"
 			"wide"			"250"
 			"tall"			"150"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"item_bg"
 			"scaleImage"	"1"
@@ -966,7 +966,7 @@
 			"zpos"			"100"
 			"wide"			"250"
 			"tall"			"150"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent" "1"
 			
 			"MOTD_TitleImage"
@@ -978,10 +978,10 @@
 				"zpos"			"100"
 				"wide"			"250"
 				"tall"			"250"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"class_icons/filter_all"
-				"scaleImage"	"0"
+				//"scaleImage"	"0"
 			}
 		}
 			
@@ -1004,7 +1004,7 @@
 				
 				"wide"			"250"
 				"tall"			"300"
-				"visible"		"1"
+				////"visible"		"1"
 				"PaintBackgroundType"	"2"
 			
 				"MOTD_TextLabel"
@@ -1020,7 +1020,7 @@
 					"tall"			"300"
 					
 					
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"fgcolor"		"LabelDark"
 					"wrap"			"1"
@@ -1038,7 +1038,7 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#MMenu_MOTD_URL"
@@ -1046,7 +1046,7 @@
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"command"		"motd_viewurl"
@@ -1084,7 +1084,7 @@
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"motd_prev"
@@ -1108,7 +1108,7 @@
 				"zpos"			"1"
 				"wide"			"20"
 				"tall"			"20"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -1132,7 +1132,7 @@
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"motd_next"
@@ -1156,7 +1156,7 @@
 				"zpos"			"1"
 				"wide"			"20"
 				"tall"			"20"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -1195,13 +1195,13 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
 			"actionsignallevel"	"2"
@@ -1229,7 +1229,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -1249,7 +1249,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"LabelDark"
 			"wrap"			"1"
@@ -1274,7 +1274,7 @@
 				
 				"wide"			"220"
 				"tall"			"135"
-				"visible"		"1"
+				////"visible"		"1"
 			}
 		}
 	}
@@ -1288,7 +1288,7 @@
 		"zpos"			"-61"
 		"wide"			"260"
 		"tall"			"38"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"border"		"MainMenuBGBorder"
 	}
@@ -1302,7 +1302,7 @@
 		"zpos"			"-60"
 		"wide"			"270"
 		"tall"			"36"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"2"
 
 		"navUp"			"ReplayBrowserButton"
@@ -1320,14 +1320,14 @@
 			"tall"			"26"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"textinsetx"	"25"
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -1352,7 +1352,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"
 			}		
@@ -1380,7 +1380,7 @@
 		"zpos"			"5"
 		"wide"			"260"
 		"tall"			"150"
-		"visible"		"1"
+		////"visible"		"1"
 
 		"border"		"MainMenuBGBorder"
 
@@ -1397,7 +1397,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"textinsetx"	"0"
 			"fgcolor_override"	"235 227 203 255"
@@ -1412,7 +1412,7 @@
 			"zpos"			"501"
 			"wide"			"f10"
 			"tall"			"110"
-			"visible"		"1"	
+			////"visible"		"1"	
 			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
@@ -1430,7 +1430,7 @@
 			"zpos"			"500"
 			"wide"			"f10"
 			"tall"			"110"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 
 			"columns_count"	"2"
@@ -1488,7 +1488,7 @@
 			"zpos"			"499"
 			"wide"			"f10"
 			"tall"			"110"
-			"visible"		"1"	
+			////"visible"		"1"	
 			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
@@ -1506,7 +1506,7 @@
 		"zpos"			"-50"
 		"wide"			"270"
 		"tall"			"96"
-		"visible"		"1"
+		////"visible"		"1"
 
 		"Background"
 		{
@@ -1518,7 +1518,7 @@
 			"wide"			"260"
 //			"tall"			"120"
 			"tall"			"96"
-			"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 
@@ -1538,7 +1538,7 @@
 				"tall"			"30"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textinsetx"	"0"
 				"fgcolor_override"	"235 227 203 255"
@@ -1571,7 +1571,7 @@
 //				"zpos"			"11"
 //				"wide"			"p0.48"
 //				"tall"			"26"
-//				"visible"		"1"
+//				////"visible"		"1"
 //				"PaintBackgroundType"	"0"
 //				"proportionaltoparent"	"1"
 //
@@ -1585,13 +1585,13 @@
 //					"tall"			"f0"
 //					
 //					"pinCorner"		"3"
-//					"visible"		"1"
+//					////"visible"		"1"
 //					
 //					
 //					"use_proportional_insets" "1"
 //					"font"			"HudFontSmallBold"
 //					"textAlignment"	"center"
-//					"dulltext"		"0"
+//					//"dulltext"		"0"
 //					"brighttext"	"0"
 //					"default"		"1"
 //					"sound_depressed"	"UI/buttonclick.wav"
@@ -1641,7 +1641,7 @@
 //				"zpos"			"11"
 //				"wide"			"p0.48"
 //				"tall"			"26"
-//				"visible"		"1"
+//				////"visible"		"1"
 //				"PaintBackgroundType"	"0"
 //				"proportionaltoparent"	"1"
 //
@@ -1655,13 +1655,13 @@
 //					"tall"			"f0"
 //					
 //					"pinCorner"		"3"
-//					"visible"		"1"
+//					////"visible"		"1"
 //					
 //					
 //					"use_proportional_insets" "1"
 //					"font"			"HudFontSmallBold"
 //					"textAlignment"	"center"
-//					"dulltext"		"0"
+//					//"dulltext"		"0"
 //					"brighttext"	"0"
 //					"default"		"1"
 //					"sound_depressed"	"UI/buttonclick.wav"
@@ -1831,7 +1831,7 @@
 			
 			"wide"			"260"
 			"tall"			"p0.88"
-			"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 
@@ -1851,7 +1851,7 @@
 				"tall"			"30"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textinsetx"	"20"
 				"fgcolor_override"	"235 227 203 255"
@@ -1868,13 +1868,13 @@
 				"tall"			"26"
 				
 				"pinCorner"		"3"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"west"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -1905,13 +1905,13 @@
 				"tall"			"26"
 				
 				"pinCorner"		"3"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"west"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -1983,13 +1983,13 @@
 		"tall"			"26"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"font"			"HudFontSmallestBold"
 		"labelText"		"#MMenu_ShowPromoCodes"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -2016,7 +2016,7 @@
 		"zpos"			"11"
 		"wide"			"30"
 		"tall"			"25"
-		"visible"		"1"
+		////"visible"		"1"
 
 		"navLeft"		"ResumeGameButton"
 		"navRight"		"CallVoteButton"
@@ -2033,14 +2033,14 @@
 			"tall"			"25"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"textinsetx"	"100"
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -2067,7 +2067,7 @@
 				"zpos"			"1"
 				"wide"			"15"
 				"tall"			"15"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"glyph_create"
 				"scaleImage"	"1"
@@ -2085,7 +2085,7 @@
 		"zpos"			"12"
 		"wide"			"25"
 		"tall"			"25"
-		"visible"		"1"
+		////"visible"		"1"
 
 		"navLeft"		"ReportPlayerButton"
 		"navDown"		"QuickplayChangeButton"
@@ -2102,14 +2102,14 @@
 			"tall"			"25"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"textinsetx"	"100"
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -2135,7 +2135,7 @@
 				"zpos"			"1"
 				"wide"			"15"
 				"tall"			"15"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"glyph_create"
 				"scaleImage"	"1"
@@ -2152,7 +2152,7 @@
 		"zpos"			"12"
 		"wide"			"25"
 		"tall"			"25"
-		"visible"		"1"
+		////"visible"		"1"
 
 		"navLeft"		"CallVoteButton"
 		"navDown"		"QuickplayChangeButton"
@@ -2169,14 +2169,14 @@
 			"tall"			"25"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"textinsetx"	"100"
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -2202,7 +2202,7 @@
 				"zpos"			"1"
 				"wide"			"15"
 				"tall"			"15"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"glyph_create"
 				"scaleImage"	"1"
@@ -2220,7 +2220,7 @@
 		"zpos"			"12"
 		"wide"			"25"
 		"tall"			"25"
-		"visible"		"1"
+		////"visible"		"1"
 
 		"navLeft"		"MutePlayersButton"
 		"navRight"		"Notifications_ShowButtonPanel"
@@ -2237,14 +2237,14 @@
 			"tall"			"25"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"textinsetx"	"100"
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -2270,7 +2270,7 @@
 				"zpos"			"1"
 				"wide"			"15"
 				"tall"			"15"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"glyph_create"
 				"scaleImage"	"1"
@@ -2288,7 +2288,7 @@
 		"zpos"			"-50"
 		"wide"			"f0"
 		"tall"			"60"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
@@ -2302,7 +2302,7 @@
 		"zpos"			"-5"
 		"wide"			"f0"
 		"tall"			"10"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
@@ -2318,14 +2318,14 @@
 		"tall"			"26"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textinsetx"	"25"
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"command"		"engine open_charinfo"
@@ -2346,7 +2346,7 @@
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"scaleImage"	"1"
 			"image"			"glyph_items"
@@ -2379,14 +2379,14 @@
 		"tall"			"26"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textinsetx"	"25"
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"labeltext" "#MMenu_Shop"
@@ -2408,7 +2408,7 @@
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"scaleImage"	"1"
 			"image" "glyph_store"
@@ -2426,7 +2426,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		""
@@ -2434,7 +2434,7 @@
 		"textAlignment"	"west"
 		"textinsetx"	"25"
 		"use_proportional_insets" "1"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"OpenOptionsDialog"
@@ -2456,7 +2456,7 @@
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"scaleImage"	"1"
 			"image"			"glyph_options"
@@ -2474,13 +2474,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"+"
 		"textAlignment"	"north-west"
 		"textinsetx"	"18"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"opentf2options"
@@ -2503,7 +2503,7 @@
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"scaleImage"	"1"
 			"image"			"glyph_options"
@@ -2522,13 +2522,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"view_newuser_forums"
@@ -2552,7 +2552,7 @@
 			"zpos"			"1"
 			"wide"			"18"
 			"tall"			"18"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"glyph_tutorial"
 			"scaleImage"	"1"
@@ -2570,13 +2570,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"OpenAchievementsDialog"
@@ -2599,7 +2599,7 @@
 			"zpos"			"1"
 			"wide"			"15"
 			"tall"			"15"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"glyph_achievements"
 			"scaleImage"	"1"
@@ -2617,13 +2617,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"OpenLoadSingleplayerCommentaryDialog"
@@ -2646,7 +2646,7 @@
 			"zpos"			"1"
 			"wide"			"15"
 			"tall"			"15"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"glyph_forums"
 			"scaleImage"	"1"
@@ -2664,13 +2664,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"engine cl_coach_toggle"
@@ -2693,7 +2693,7 @@
 			"zpos"			"1"
 			"wide"			"15"
 			"tall"			"15"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"glyph_commentary"
 			"scaleImage"	"1"
@@ -2711,13 +2711,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"engine OpenSteamWorkshopDialog"
@@ -2740,7 +2740,7 @@
 			"zpos"			"1"
 			"wide"			"15"
 			"tall"			"15"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"glyph_steamworkshop"
 			"scaleImage"	"1"
@@ -2758,13 +2758,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"engine replay_reloadbrowser"
@@ -2787,7 +2787,7 @@
 			"zpos"			"1"
 			"wide"			"15"
 			"tall"			"15"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"glyph_tv"
 			"scaleImage"	"1"
@@ -2805,13 +2805,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"engine bug"
@@ -2833,7 +2833,7 @@
 			"zpos"			"1"
 			"wide"			"15"
 			"tall"			"15"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"glyph_bug"
 			"scaleImage"	"1"
@@ -2860,7 +2860,7 @@
 		"textAlignment"	"west"
 		"textinsetx"	"35"
 		"use_proportional_insets" "1"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"exitreplayeditor"
@@ -2877,7 +2877,7 @@
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"scaleImage"	"1"
 			"image"			"glyph_quit"
@@ -2896,7 +2896,7 @@
 		"tall"			"300"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"useparentbg"		"1"
 	

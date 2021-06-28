@@ -10,7 +10,7 @@
 		"tall"		"436"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -24,12 +24,12 @@
 		"tall"		"348"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_ParseBaseline"
 		"textAlignment"		"north"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"1"
 		"wrap" "1"
 	}
@@ -43,7 +43,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -57,12 +57,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"command"		"Cancel"
 		"Default"		"0"

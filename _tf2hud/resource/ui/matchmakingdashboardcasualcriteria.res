@@ -10,7 +10,7 @@
 		"zpos"			"1002"
 		"wide"			"270"
 		"tall"			"f70"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -41,7 +41,7 @@
 		"zpos"			"100"
 		"wide"			"f0"
 		"tall"			"f73"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -73,12 +73,12 @@
 		"tall"			"20"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"find_game"
 		"proportionaltoparent"	"1"

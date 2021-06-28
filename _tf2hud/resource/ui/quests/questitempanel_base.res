@@ -9,7 +9,7 @@
 		"zpos"			"10"
 		"wide"			"f0"
 		"tall"			"o1.1"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"1"
 		"keyboardinputenabled" "1"
@@ -47,7 +47,7 @@
 			"wide"			"60"
 			"tall"			"o1"
 			"visible"		"0"
-			"bgcolor_override"		"0 0 0 0"
+			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"0"
@@ -119,7 +119,7 @@
 					"zpos"			"1"
 					"wide"			"f0"
 					"tall"			"o1"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"			"contracts\contracts_papers1"
@@ -156,7 +156,7 @@
 					"zpos"		"100"
 					"wide"		"f0"
 					"tall"		"f0"
-					"visible"		"1"
+					////"visible"		"1"
 					
 
 					"proportionaltoparent"	"1"
@@ -173,7 +173,7 @@
 					"tall"		"30"
 					
 					
-					"visible"		"1"
+					////"visible"		"1"
 					
 					
 					"labelText"			"%title%"
@@ -203,7 +203,7 @@
 					"zpos"			"100"
 					"wide"			"f0"
 					"tall"			"o1"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"			"contracts\contracts_staples1"
@@ -234,7 +234,7 @@
 						
 						"wide"			"f0"
 						"tall"			"f0"
-						"visible"		"1"
+						////"visible"		"1"
 						
 						"proportionaltoparent" "1"
 						"bgcolor_override"	"0 0 0 247"
@@ -251,7 +251,7 @@
 						"wide"			"f0"
 						"tall"			"f0"
 						
-						"visible"		"1"
+						////"visible"		"1"
 						
 						
 						"proportionaltoparent"	"1"
@@ -261,7 +261,7 @@
 						"font"			"QuestLargeText"
 						"allcaps"	"1"
 						"textAlignment"	"center"
-						"dulltext"		"0"
+						//"dulltext"		"0"
 						"brighttext"	"0"
 						"default"		"1"
 
@@ -299,7 +299,7 @@
 						
 						"wide"			"f0"
 						"tall"			"f0"
-						"visible"		"1"
+						////"visible"		"1"
 						
 						"proportionaltoparent" "1"
 						"bgcolor_override"	"150 255 0 100"
@@ -315,7 +315,7 @@
 						
 						"wide"			"f0"
 						"tall"			"f0"
-						"visible"		"1"
+						////"visible"		"1"
 						
 						"proportionaltoparent" "1"
 						"bgcolor_override"	"0 0 0 230"
@@ -332,7 +332,7 @@
 						"wide"			"f0"
 						"tall"			"f0"
 						
-						"visible"		"1"
+						////"visible"		"1"
 						
 						
 						"proportionaltoparent"	"1"
@@ -342,7 +342,7 @@
 						"font"			"QuestLargeText"
 						"allcaps"	"1"
 						"textAlignment"	"center"
-						"dulltext"		"0"
+						//"dulltext"		"0"
 						"brighttext"	"0"
 						"default"		"1"
 
@@ -379,7 +379,7 @@
 							"zpos"			"10"
 							"wide"			"f0"
 							"tall"			"f0"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							"proportionaltoparent"	"1"
 							"labelText"		"#QuestLog_TurningIn"
@@ -388,7 +388,7 @@
 							"font"			"QuestLargeText"
 							"allcaps"	"1"
 							"textAlignment"	"west"
-							"dulltext"		"0"
+							//"dulltext"		"0"
 							"brighttext"	"0"
 							"paintbackground"	"0"
 						}
@@ -518,7 +518,7 @@
 					"zpos"			"51"
 					"wide"			"p0.375"
 					"tall"			"o1"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"image"			"contracts/photo_static"
 					"scaleImage"	"1"	
@@ -534,7 +534,7 @@
 					"zpos"			"50"
 					"wide"			"p0.375"
 					"tall"			"o1"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"image"			"quest_pauling"
 					"scaleImage"	"1"	
@@ -550,10 +550,10 @@
 					"zpos"			"101"
 					"wide"			"p.42"
 					"tall"			"15"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"pinCorner"		"3"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					
 					"proportionaltoparent"	"1"
@@ -562,7 +562,7 @@
 					"font"			"QuestFlavorText"
 					"allcaps"	"1"
 					"textAlignment"	"center"
-					"dulltext"		"0"
+					//"dulltext"		"0"
 					"brighttext"	"0"
 					"default"		"1"
 					"actionsignallevel" "3"
@@ -590,7 +590,7 @@
 					"zpos"			"101"
 					"wide"			"p0.53"
 					"tall"			"o1"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"proportionaltoparent"	"1"
 
@@ -626,7 +626,7 @@
 						
 						"wide"			"f0"
 						"tall"			"f0"
-						"visible"		"1"
+						////"visible"		"1"
 						
 						"image"			"contracts/contracts_papers1_vacation_items"
 						"scaleImage"	"1"	
@@ -642,10 +642,10 @@
 						"zpos"			"1"
 						"wide"			"p.77"
 						"tall"			"15"
-						"visible"		"1"
+						////"visible"		"1"
 						
 						"pinCorner"		"3"
-						"visible"		"1"
+						////"visible"		"1"
 						
 						
 						"proportionaltoparent"	"1"
@@ -654,7 +654,7 @@
 						"font"			"QuestFlavorText"
 						"allcaps"	"1"
 						"textAlignment"	"center"
-						"dulltext"		"0"
+						//"dulltext"		"0"
 						"brighttext"	"0"
 						"default"		"1"
 						"actionsignallevel" "4"
@@ -682,10 +682,10 @@
 						"zpos"			"1"
 						"wide"			"p.77"
 						"tall"			"15"
-						"visible"		"1"
+						////"visible"		"1"
 						
 						"pinCorner"		"3"
-						"visible"		"1"
+						////"visible"		"1"
 						
 						
 						"proportionaltoparent"	"1"
@@ -694,7 +694,7 @@
 						"font"			"QuestFlavorText"
 						"allcaps"	"1"
 						"textAlignment"	"center"
-						"dulltext"		"0"
+						//"dulltext"		"0"
 						"brighttext"	"0"
 						"default"		"1"
 						"actionsignallevel" "4"
@@ -914,7 +914,7 @@
 				"tall"		"f0"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"proportionaltoparent"	"1"
@@ -928,7 +928,7 @@
 					
 					"wide"			"f0"
 					"tall"			"o1"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"			"contracts\contracts_folder1_back"
@@ -950,7 +950,7 @@
 				"tall"		"f0"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"proportionaltoparent"	"1"
@@ -965,7 +965,7 @@
 					"zpos"			"9"
 					"wide"			"f0"
 					"tall"			"o1"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"			"contracts\contracts_folder1_front"
@@ -984,7 +984,7 @@
 					"zpos"		"100"
 					"wide"		"f0"
 					"tall"		"f0"
-					"visible"		"1"
+					////"visible"		"1"
 					
 
 					"proportionaltoparent"	"1"
@@ -1018,7 +1018,7 @@
 							
 							"wide"			"f0"
 							"tall"			"f0"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							"scaleImage"	"1"
 							"image"			"contracts/sticky"
@@ -1080,7 +1080,7 @@
 							
 							"wide"			"f0"
 							"tall"			"f0"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							"scaleImage"	"1"
 							"image"			"contracts/sticky_turn_in"
@@ -1146,7 +1146,7 @@
 							
 							"wide"			"f0"
 							"tall"			"f0"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							"scaleImage"	"1"
 							"image"			"contracts/sticky_inactive"

@@ -9,7 +9,7 @@
 		"zpos"			"20"
 		"wide"			"25"
 		"tall"			"25"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			""
 		"scaleImage"	"1"	
@@ -26,7 +26,7 @@
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"10"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
@@ -64,7 +64,7 @@
 		"tall"			"f0"
 		"command"		""
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"labelText"		""
 		"paintbackground"	"0"	
 	}
@@ -81,7 +81,7 @@
 		"tall"			"f15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"bgcolor_override"	"76 70 66 255"
@@ -100,7 +100,7 @@
 		"tall"			"16"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"bgcolor_override"	"76 70 66 255"

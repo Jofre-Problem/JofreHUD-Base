@@ -9,7 +9,7 @@
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"480"
-		"visible"		"1"
+		////"visible"		"1"
 		"bgcolor_override"		"20 20 20 245"
 	}
 	
@@ -22,7 +22,7 @@
 		"ypos"			"20"
 		"wide"			"600"
 		"tall"			"50"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"BannerImage"
@@ -33,7 +33,7 @@
 			
 			"wide"			"600"
 			"tall"			"50"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"mvm/smallbanner"
 			"scaleImage"    "1"

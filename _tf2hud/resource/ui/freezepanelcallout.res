@@ -9,7 +9,7 @@
 		
 		"wide"			"76"
 		"tall"			"24"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/color_panel_brown"
 		"scaleImage"		"1"	
@@ -31,7 +31,7 @@
 		"zpos"			"3"
 		"wide"			"20"
 		"tall"			"10"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/freezecam_callout_arrow"
 		"scaleImage"	"1"	
@@ -48,11 +48,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#FreezePanel_Callout"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 }

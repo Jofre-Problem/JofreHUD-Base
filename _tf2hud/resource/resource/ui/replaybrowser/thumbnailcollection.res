@@ -113,7 +113,7 @@
 		"zpos"			"5"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"centerwrap"	"1"
 		"fgcolor_override"	"117 107 94 255"
@@ -130,13 +130,13 @@
 		"tall"			"12"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"%prevbuttontext%"
 		"font"			"ItemFontNameSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"show_prev"
@@ -158,13 +158,13 @@
 		"tall"			"12"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"%nextbuttontext%"
 		"font"			"ItemFontNameSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"show_next"

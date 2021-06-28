@@ -10,7 +10,7 @@
 		"tall"			"31"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"zpos"			"-1"
 		"wide"			"120"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_background_disabled"
@@ -39,7 +39,7 @@
 		"ypos"			"1"
 		"wide"			"28"
 		"tall"			"28"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_tele_exit"
@@ -54,7 +54,7 @@
 		
 		"wide"			"160"
 		"tall"			"31"
-		"visible"		"1"
+		////"visible"		"1"
 
 		"NotBuiltLabel"
 		{
@@ -67,11 +67,11 @@
 			"tall"			"31"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"#Building_hud_tele_exit_not_built"
 			"textAlignment"	"Left"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 		}
 	}
@@ -142,7 +142,7 @@
 			
 			"wide"			"34"
 			"tall"			"31"
-			"visible"		"1"
+			////"visible"		"1"
 				
 			"icon"			"obj_status_alert_background"
 		}
@@ -190,10 +190,10 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"textAlignment"	"Left"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 		}
 
@@ -218,11 +218,11 @@
 				"tall"			"12"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"labelText"		"#Building_hud_building"
 				"textAlignment"	"Left"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 			}
 			
@@ -237,10 +237,10 @@
 				"tall"			"8"				
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textAlignment"	"Left"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 			}
 		}
@@ -264,7 +264,7 @@
 				"zpos"			"1"
 				"wide"			"10"
 				"tall"			"10"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"	
 				"icon"			"ico_metal"
@@ -282,10 +282,10 @@
 				"tall"			"8"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textAlignment"	"Left"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 			}
 		}

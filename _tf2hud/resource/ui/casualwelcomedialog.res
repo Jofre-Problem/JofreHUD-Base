@@ -9,7 +9,7 @@
 		"tall"			"200" // Bottom of confirm button + 10 margin
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -34,7 +34,7 @@
 		"tall"			"14"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"centerwrap"	"1"
 		"fgcolor_override" "StoreGreen"
@@ -55,7 +55,7 @@
 		"tall"			"14"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "TanLight"
 	}
@@ -75,7 +75,7 @@
 		"tall"			"11"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"fgcolor_override" "Yellow"
@@ -96,7 +96,7 @@
 		"tall"			"44" // Size 11 font - 4 rows
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"fgcolor_override" "TanDark"
@@ -118,7 +118,7 @@
 		"tall"			"11"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"fgcolor_override" "Yellow"
@@ -139,7 +139,7 @@
 		"tall"			"44" // Size 11 font - 4 rows
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"fgcolor_override" "TanDark"
@@ -158,14 +158,14 @@
 		"default"		"1"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_MM_TakeUITour"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"show_explanations"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -191,14 +191,14 @@
 		"default"		"1"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_Competitive_Welcome_Confirm"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"confirm"
 		"sound_depressed"	"UI/buttonclick.wav"

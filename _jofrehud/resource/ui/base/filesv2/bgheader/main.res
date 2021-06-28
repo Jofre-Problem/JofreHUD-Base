@@ -8,7 +8,7 @@
 		
 		"zpos"			"-2"
 		"wide"			"f0"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"loadout_header"
 		"tileImage"		"1"

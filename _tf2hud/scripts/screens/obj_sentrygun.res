@@ -24,12 +24,12 @@
 		"tall"			"34"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"No Owner"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"paintBackground" "0"
 	}
 	
@@ -43,12 +43,12 @@
 		"tall"			"34"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Shells:  0 / 0"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"paintBackground" "0"
 	}
 	
@@ -62,7 +62,7 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"progress"		"0.0"
@@ -83,7 +83,7 @@
 		
 		"labelText"		"Rockets:  0 / 0"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"paintBackground" "0"
 	}
 	
@@ -97,12 +97,12 @@
 		"tall"			"32"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"Rotate Left 45"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Default"		"0"
 		"command"		"rotateleft"
@@ -143,12 +143,12 @@
 		"tall"			"32"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"Rotate 180"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Default"		"0"
 		"command"		"rotate180"
@@ -189,12 +189,12 @@
 		"tall"			"32"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"Rotate Right 45"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Default"		"0"
 		"command"		"rotateright"
@@ -235,12 +235,12 @@
 		"tall"			"34"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Health: 100%"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"paintBackground" "0"
 	}
 
@@ -254,12 +254,12 @@
 		"tall"			"48"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"Dismantle"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Default"		"0"
 		"command"		"Dismantle"
@@ -306,12 +306,12 @@
 			"tall"			"34"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"Gone in"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"paintBackground" "0"
 		}
 
@@ -325,12 +325,12 @@
 			"tall"			"34"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"5 seconds"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"paintBackground" "0"
 		}
 
@@ -344,12 +344,12 @@
 			"tall"			"48"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"tabPosition"	"2"
 			"labelText"		"Cancel"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Default"		"0"
 			"command"		"CancelDismantle"
@@ -396,12 +396,12 @@
 			"tall"			"44"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"tabPosition"	"2"
 			"labelText"		"Buy"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Default"		"0"
 			"command"		"AssumeControl"

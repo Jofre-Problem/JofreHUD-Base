@@ -11,7 +11,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -30,7 +30,7 @@
 		{
 			"PaintBackgroundType"	"2"
 			"paintborder"			"1"
-			"bgcolor_override"		"0 0 0 0"
+			"bgcolor_override"		"Blank"
 			
 			"model_xpos"	"0"
 			"model_center_y"	"1"
@@ -61,7 +61,7 @@
 		"zpos"			"6"
 		"wide"			"36"
 		"tall"			"36"
-		"visible"		"1"
+		////"visible"		"1"
 		"bgcolor_override" "0 0 0 255"
 	}
 	
@@ -74,7 +74,7 @@
 		"zpos"			"7"
 		"wide"			"30"
 		"tall"			"30"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"achievements/tf_medic_heal_grind"
 		"scaleImage"	"1"
@@ -94,7 +94,7 @@
 		"tall"			"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 	
@@ -112,7 +112,7 @@
 		"tall"			"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 	
@@ -130,7 +130,7 @@
 		"tall"			"10"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 	"SelectedItemNumberLabel"
@@ -147,7 +147,7 @@
 		"tall"			"40"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 	
@@ -162,13 +162,13 @@
 		"tall"			"30"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#NextItem"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"nextitem"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -185,13 +185,13 @@
 		"tall"			"30"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#PreviousItem"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"previtem"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -209,13 +209,13 @@
 		"tall"			"30"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#CloseItemPanel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"vguicancel"
 		"default"		"1"
@@ -233,13 +233,13 @@
 		"tall"			"30"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"%loadouttext%"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"changeloadout"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -257,13 +257,13 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"discarditem"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -285,7 +285,7 @@
 			"zpos"			"1"
 			"wide"			"p1"
 			"tall"			"p1"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"icon_trash_on"
 			"scaleImage"	"1"
@@ -319,7 +319,7 @@
 			"tall"			"50"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override"	"235 226 202 255"
 			"wrap"			"1"
@@ -340,7 +340,7 @@
 		"tall"			"60"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 80 60 255"
 		"bgcolor_override"	"46 43 42 255"

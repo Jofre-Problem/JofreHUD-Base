@@ -12,11 +12,11 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textAlignment"	"north-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"1"
 		"wrap"			"0"
 		"font"			"ChalkboardTitleMedium"

@@ -18,10 +18,10 @@
 	//	"tall"		"24"
 	//	
 		"pinCorner"		"2"
-	//	"visible"		"1"
+	//	//"visible"		"1"
 	//	
 	//	
 	//	"textAlignment"		"west"
-	//	"wrap"		"0"
+	//	//"wrap"		"0"
 	}
 }

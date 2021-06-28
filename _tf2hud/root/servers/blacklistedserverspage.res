@@ -10,7 +10,7 @@
 		"tall"		"278"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -25,13 +25,13 @@
 		"tall"		"24"
 		
 		"PinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddServer"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"AddServerByName"
 		"Default"		"0"
 	}
@@ -46,13 +46,13 @@
 		"zpos"		"2"
 		
 		"PinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddCurrentServer"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"AddCurrentServer"
 		"Default"		"0"
 	}
@@ -66,13 +66,13 @@
 		"tall"		"24"
 		
 		"PinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ImportBlacklist"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"ImportBlacklist"
 		"Default"		"0"
 	}
@@ -86,7 +86,7 @@
 		"tall"		"226"
 		"AutoResize"		"3"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"

@@ -26,7 +26,7 @@
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"35"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"pinCorner"		"2"
@@ -41,7 +41,7 @@
 			"wide"		"p0.5"
 			"tall"		"f6"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"rotation"		"2"
 			"proportionaltoparent"	"1"
@@ -61,7 +61,7 @@
 			"zpos"			"-1"
 			"wide"			"p1.1"
 			"tall"			"f5"
-			"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"ReplayDefaultBorder"
 			"proportionaltoparent"	"1"
@@ -76,7 +76,7 @@
 			"zpos"			"-2"
 			"wide"			"p1.1"
 			"tall"			"p1"
-			"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"OuterShadowBorder"
 			"proportionaltoparent"	"1"
@@ -93,12 +93,12 @@
 			"tall"			"f6"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"toggle_chat"
 			"proportionaltoparent"	"1"
@@ -123,7 +123,7 @@
 				"zpos"			"1"
 				"wide"			"20"
 				"tall"			"20"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
@@ -142,7 +142,7 @@
 			"tall"			"24"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"proportionaltoparent"	"1"
@@ -163,7 +163,7 @@
 			"tall"			"24"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"proportionaltoparent"	"1"
@@ -184,7 +184,7 @@
 			"tall"			"24"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"proportionaltoparent"	"1"
@@ -205,7 +205,7 @@
 			"tall"			"24"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"proportionaltoparent"	"1"
@@ -226,7 +226,7 @@
 			"tall"			"24"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"proportionaltoparent"	"1"
@@ -247,7 +247,7 @@
 			"tall"			"24"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"proportionaltoparent"	"1"
@@ -266,7 +266,7 @@
 			"zpos"			"111"
 			"wide"			"220"
 			"tall"			"f0"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 
 			"OuterShadow"
@@ -278,7 +278,7 @@
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
-				"visible"		"1"
+				////"visible"		"1"
 				"proportionaltoparent"	"1"
 
 				"border"		"OuterShadowBorderThin"
@@ -293,7 +293,7 @@
 				
 				"wide"			"f4"
 				"tall"			"f4"
-				"visible"		"1"
+				////"visible"		"1"
 				"proportionaltoparent"	"1"
 
 				"border"		"ReplayDefaultBorder"
@@ -310,13 +310,13 @@
 				"tall"			"f0"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"1"
 				"Command"		"queue_logo_clicked"
@@ -337,7 +337,7 @@
 				"zpos"			"5"
 				"wide"			"o1"
 				"tall"			"f0"
-				"visible"		"1"
+				////"visible"		"1"
 				"proportionaltoparent"	"1"
 
 				"radius"		"10"
@@ -355,7 +355,7 @@
 				"wide"			"f55"
 				"zpos"			"100"
 				"tall"			"f0"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"font"			"HudFontSmallestBold"
 				"fgcolor_override"	"TanLight"
@@ -392,13 +392,13 @@
 				"tall"			"14"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -424,7 +424,7 @@
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"image"			"glyph_options"
 					"scaleImage"	"1"
@@ -442,13 +442,13 @@
 				"tall"			"14"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -474,7 +474,7 @@
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"image"			"close_button"
 					"scaleImage"	"1"
@@ -491,7 +491,7 @@
 			"zpos"			"110"
 			"wide"			"220"
 			"tall"			"f0"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 
 			"OuterShadow"
@@ -503,7 +503,7 @@
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
-				"visible"		"1"
+				////"visible"		"1"
 				"proportionaltoparent"	"1"
 
 				"border"		"OuterShadowBorderThin"
@@ -518,7 +518,7 @@
 				
 				"wide"			"f6"
 				"tall"			"f6"
-				"visible"		"1"
+				////"visible"		"1"
 				"proportionaltoparent"	"1"
 
 				"border"		"ReplayDefaultBorder"
@@ -533,7 +533,7 @@
 				"wide"			"f35"
 				"zpos"			"100"
 				"tall"			"f0"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"font"			"HudFontSmallestBold"
 				"fgcolor_override"	"TanLight"
@@ -561,12 +561,12 @@
 				
 				
 				"pinCorner"		"3"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"Command"		"join_party_match"
 				"proportionaltoparent"	"1"
@@ -594,13 +594,13 @@
 			"tall"			"f6"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
 			"textinsetx"	"0"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"quit"
 			"proportionaltoparent"	"1"
@@ -631,7 +631,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
@@ -651,12 +651,12 @@
 			"tall"			"f6"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"quit"
 			"proportionaltoparent"	"1"
@@ -690,7 +690,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
@@ -715,7 +715,7 @@
 			
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"resume_game"
 			"proportionaltoparent"	"1"
@@ -748,7 +748,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
@@ -768,12 +768,12 @@
 			"tall"			"f6"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"find_game"
 			"proportionaltoparent"	"1"
@@ -806,7 +806,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"

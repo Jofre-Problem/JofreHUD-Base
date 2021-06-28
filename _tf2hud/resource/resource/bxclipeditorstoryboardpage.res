@@ -10,7 +10,7 @@
 		"tall"		"223"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -25,7 +25,7 @@
 		"tall"		"32"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"leftText"		"0.0 s."
@@ -41,7 +41,7 @@
 		"tall"		"130"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -55,7 +55,7 @@
 		"tall"		"130"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}

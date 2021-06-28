@@ -10,7 +10,7 @@
 		"tall"		"220"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,14 +26,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#vgui_close"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"1"
 	}
@@ -47,7 +47,7 @@
 		"tall"		"116"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#VAC_ConnectionRefusedDetail"
@@ -66,14 +66,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#VAC_ForDetails"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"URLText"		"http://support.steampowered.com/cgi-bin/steampowered.cfg/php/enduser/std_adp.php?p_faqid=370"
 	}
 	"vac_shield"
@@ -87,10 +87,10 @@
 		"tall"		"64"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"image"		"resource/VAC_shield"
-		"scaleImage"		"0"
+		//"scaleImage"		"0"
 	}
 }

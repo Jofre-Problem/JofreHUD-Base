@@ -13,7 +13,7 @@
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddServer"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"AddServerByName"
 		"Default"		"0"
 	}

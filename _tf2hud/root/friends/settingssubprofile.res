@@ -17,7 +17,7 @@
 		"appearance"		"LabelDull"
 		"labelText"		"#TrackerUI_OptionsUnavailable"
 		"textAlignment"		"north-west"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"UserNameEdit"
 	{
@@ -29,7 +29,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"paintbackground"		"1"
@@ -49,13 +49,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_FriendlyName"
 		"textAlignment"		"west"
 		"associate"		"UserNameEdit"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 }

@@ -25,7 +25,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override"	"TanLight"
 			"proportionaltoparent"	"1"
@@ -61,7 +61,7 @@
 			"tall"	"20"
 			"progress"	"0"
 			"proportionaltoparent"	"1"
-			"bgcolor_override"		"0 0 0 0"
+			"bgcolor_override"		"Blank"
 			"fgcolor_override"		"HUDBlueTeamSolid"
 		}
 
@@ -79,7 +79,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override"	"TanLight"
 			"proportionaltoparent"	"1"
@@ -111,7 +111,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override"	"TanLight"
 			"proportionaltoparent"	"1"
@@ -147,7 +147,7 @@
 			"tall"	"20"
 			"progress"	"0"
 			"proportionaltoparent"	"1"
-			"bgcolor_override"		"0 0 0 0"
+			"bgcolor_override"		"Blank"
 			"fgcolor_override"		"HUDRedTeamSolid"
 		}
 
@@ -165,7 +165,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override"	"TanLight"
 			"proportionaltoparent"	"1"

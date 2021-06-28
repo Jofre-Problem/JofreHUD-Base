@@ -130,12 +130,12 @@
 	//	"tall"		"24"
 	//	
 	//	
-	//	"visible"		"1"
+	//	//"visible"		"1"
 	//	
 	//	
 	//	"dulltext"		"0"
 	//	"brighttext"		"0"
-	//	"wrap"		"0"
+	//	//"wrap"		"0"
 	}
 	"BugDescription"
 	{
@@ -143,7 +143,7 @@
 		"fieldName"		"BugDescription"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"textHidden"		"0"
 		"editable"		"1"
@@ -172,13 +172,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}	
 	"BugScreenShotURL"
 	{
@@ -188,13 +188,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"BugSaveGameURL"
 	{
@@ -204,13 +204,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"BugBSPURL"
 	{
@@ -225,7 +225,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"BugVMFURL"
 	{
@@ -240,7 +240,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}	
 	"BugIncludedFiles"
 	{
@@ -264,12 +264,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"snapshot"
 		"Default"		"0"
 	}
@@ -280,11 +280,11 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"savegame"
 		"Default"		"0"
 	}	
@@ -299,7 +299,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"BugSaveVMF"
@@ -312,7 +312,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"BugIncludeFile"
@@ -327,7 +327,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"BugClearIncludedFiles"
@@ -342,7 +342,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"BugPosition"
@@ -352,13 +352,13 @@
 		"wide"		"160"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}	
 	"BugOrientation"
 	{
@@ -367,13 +367,13 @@
 		"wide"		"160"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"BugLevel"
 	{
@@ -382,13 +382,13 @@
 		"wide"		"160"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"BugBuild"
 	{
@@ -396,12 +396,12 @@
 		"fieldName"		"BugBuild"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"BugSubmitter"
 	{
@@ -416,7 +416,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"BugOwner"
 	{
@@ -512,12 +512,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"submit"
 		"Default"		"0"
 	}
@@ -528,12 +528,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"cancel"
 	}
 	"BugClearForm"
@@ -543,12 +543,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"clearform"
 	}
 

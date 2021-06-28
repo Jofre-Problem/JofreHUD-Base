@@ -11,10 +11,10 @@
 		"tall"			"25"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"

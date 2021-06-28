@@ -69,14 +69,14 @@
 	//	"tall"			"25"
 	//	
 	//	
-	//	"visible"		"1"
+	//	//"visible"		"1"
 	//	
 	//	
 	//	"labelText"		"#GameUI_CancelBold"
 	//	"font"			"EconFontSmall"
 	//	"textAlignment"	"center"
 	//	"textinsetx"	"50"
-	//	"dulltext"		"0"
+	//	//"dulltext"		"0"
 	//	"brighttext"	"0"
 	//	"Command"		"cancel"
 	//	"sound_depressed"			"UI/buttonclick.wav"

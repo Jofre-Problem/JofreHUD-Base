@@ -17,10 +17,10 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"MenuSmallFont"
@@ -42,11 +42,11 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#TF_Spectate"
 		"textAlignment"	"north"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"MenuSmallestFont"

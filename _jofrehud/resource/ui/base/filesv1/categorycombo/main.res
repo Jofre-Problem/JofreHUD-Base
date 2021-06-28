@@ -6,7 +6,7 @@
 		"fieldName"		"CategoryCombo"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"editable"		"0"
 	}

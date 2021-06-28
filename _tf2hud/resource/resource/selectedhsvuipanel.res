@@ -10,7 +10,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textHidden"		"0"
@@ -26,7 +26,7 @@
 		"ypos"			"42"
 		"wide"			"64"
 		"tall"			"24"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"command"		"ToggleSelection"	
 	}
@@ -40,7 +40,7 @@
 		"tall"		"144"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -54,12 +54,12 @@
 		"tall"		"34"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Hue:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"HueSlider"
@@ -72,7 +72,7 @@
 		"tall"		"34"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"leftText"		"-360"
@@ -88,12 +88,12 @@
 		"tall"		"34"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Saturation:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"SaturationSlider"
@@ -106,7 +106,7 @@
 		"tall"		"34"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"leftText"		"-255"
@@ -122,12 +122,12 @@
 		"tall"		"34"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Value:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"ValueSlider"
@@ -140,7 +140,7 @@
 		"tall"		"34"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"leftText"		"-255"
@@ -157,7 +157,7 @@
 		"tall"				"34"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"Tolerance:"
@@ -175,7 +175,7 @@
 		"tall"				"34"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"leftText"			"0"
@@ -193,7 +193,7 @@
 		"tall"				"34"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"Fuzziness:"
@@ -211,7 +211,7 @@
 		"tall"				"34"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"leftText"			"0"
@@ -229,7 +229,7 @@
 		"tall"				"34"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"Blend Factor:"
@@ -247,7 +247,7 @@
 		"tall"				"34"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"leftText"			"0"
@@ -265,7 +265,7 @@
 		"tall"				"34"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"Colorize"
@@ -284,7 +284,7 @@
 		"tall"				"34"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"Invert Selection"

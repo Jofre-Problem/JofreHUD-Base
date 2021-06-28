@@ -9,7 +9,7 @@
 		"zpos"			"1000"
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
+		////"visible"		"1"
 		
 
 		"score_step"	"30"
@@ -39,7 +39,7 @@
 				"tall"			"16"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"wrap"			"0"
 				"proportionaltoparent"	"1"
@@ -61,7 +61,7 @@
 				"tall"			"16"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"wrap"			"0"
 				"proportionaltoparent"	"1"
@@ -84,7 +84,7 @@
 			"tall"			"300"
 			"autoResize"	"3"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"border"		"MainMenuBGBorder"
@@ -99,7 +99,7 @@
 				
 				"wide"			"o1"
 				"tall"			"p1.09"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"../HUD/eotl_leaderboard_background"
 				"scaleImage"	"1"
@@ -118,7 +118,7 @@
 				"tall"			"f0"
 				"autoResize"	"3"
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"PaintBackgroundType"	"2"
@@ -139,7 +139,7 @@
 					"tall"			"20"
 					"autoResize"	"1"
 					
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"fgcolor_override"	"TanLight"
 					"proportionaltoparent" "1"
@@ -155,7 +155,7 @@
 					"zpos"				"10"
 					"wide"				"p0.9"
 					"tall"				"2"
-					"visible"			"1"
+					//"visible"			"1"
 					"proportionaltoparent" "1"
 
 					"bgcolor_override"	"TanLight"
@@ -175,7 +175,7 @@
 					"tall"			"40"
 					"autoResize"	"1"
 					
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"wrap"			"1"
 					"fgcolor_override"	"TanLight"
@@ -191,7 +191,7 @@
 					"wide"			"p0.9"
 					"tall"			"p0.8"
 					
-					"visible"		"1"
+					////"visible"		"1"
 					
 					
 					"proportionaltoparent"	"1"
@@ -212,7 +212,7 @@
 				"tall"			"20"
 				"autoResize"	"1"
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"fgcolor_override"	"TanLight"
 				"proportionaltoparent" "1"
@@ -229,13 +229,13 @@
 				"tall"			"14"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"0"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -261,7 +261,7 @@
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"image"			"close_button"
 					"scaleImage"	"1"
@@ -279,13 +279,13 @@
 				"tall"			"20"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"0"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -311,7 +311,7 @@
 					"zpos"			"1"
 					"wide"			"f0"
 					"tall"			"f0"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"image"			"blog_forward_solid"
 					"scaleImage"	"1"
@@ -330,13 +330,13 @@
 				"tall"			"20"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"0"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -362,7 +362,7 @@
 					"zpos"			"1"
 					"wide"			"f0"
 					"tall"			"f0"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"image"			"blog_back_solid"
 					"scaleImage"	"1"
@@ -399,7 +399,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override"	"235 226 202 255"
 			"wrap"			"1"
@@ -418,7 +418,7 @@
 		"tall"		"f0"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"bgcolor_override"	"0 0 0 252"
@@ -435,7 +435,7 @@
 		"tall"		"f0"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"			""

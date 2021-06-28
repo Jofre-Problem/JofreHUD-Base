@@ -18,7 +18,7 @@
 		"tall"			"21"
 //		
 //		
-//		"visible"		"1"
+//		////"visible"		"1"
 		"visible_minmode"		"0"
 //		
 		"labelText"		"map: cp_bridge"

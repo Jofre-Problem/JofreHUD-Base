@@ -10,7 +10,7 @@
 		
 		"wide"			"f0"
 		"tall"			"o1.1"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"1"
 		"keyboardinputenabled" "1"
@@ -71,7 +71,7 @@
 				"zpos"			"1"
 				"wide"			"f0"
 				"tall"			"o0.5"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"
 				"alpha"			"0"
@@ -93,7 +93,7 @@
 					"zpos"			"1"
 					"wide"			"f0"
 					"tall"			"o1"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"			"contracts\halloween\contracts_papers1"
@@ -112,7 +112,7 @@
 					"zpos"			"199"
 					"wide"			"f0"
 					"tall"			"o1"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"			"contracts\halloween\contracts_papers_encoded"
@@ -132,14 +132,14 @@
 					"tall"		"30"
 					
 					
-					"visible"		"1"
+					////"visible"		"1"
 					
 					
 					"labelText"			"%title%"
 					"bgcolor_override"	"0 0 0 220"
 					"fgcolor"		"Black"
 					"font"			"QuestMediumText_Merasmus"
-					"textinsetx"		"0"
+					//"textinsetx"		"0"
 					"textAlignment"	"center"
 					"auto_wide_tocontents"	"0"
 					"allcaps"	"0"
@@ -204,7 +204,7 @@
 						
 						"wide"			"f0"
 						"tall"			"f0"
-						"visible"		"1"
+						////"visible"		"1"
 						
 						"proportionaltoparent" "1"
 						"bgcolor_override"	"0 0 0 247"
@@ -248,7 +248,7 @@
 						
 						"wide"			"f0"
 						"tall"			"f0"
-						"visible"		"1"
+						////"visible"		"1"
 						
 						"proportionaltoparent" "1"
 						"bgcolor_override"	"150 255 0 100"
@@ -264,7 +264,7 @@
 						
 						"wide"			"f0"
 						"tall"			"f0"
-						"visible"		"1"
+						////"visible"		"1"
 						
 						"proportionaltoparent" "1"
 						"bgcolor_override"	"0 0 0 230"
@@ -281,7 +281,7 @@
 						"wide"			"f0"
 						"tall"			"f0"
 						
-						"visible"		"1"
+						////"visible"		"1"
 						
 						
 						"proportionaltoparent"	"1"
@@ -291,7 +291,7 @@
 						"font"			"QuestLargeText_Merasmus"
 						"allcaps"	"1"
 						"textAlignment"	"center"
-						"dulltext"		"0"
+						//"dulltext"		"0"
 						"brighttext"	"0"
 						"default"		"1"
 
@@ -411,7 +411,7 @@
 				"tall"		"f0"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"proportionaltoparent"	"1"
@@ -431,7 +431,7 @@
 					"zpos"			"10"
 					"wide"			"o1"
 					"tall"			"87"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"			"contracts\halloween\contracts_scroll_sleeve"

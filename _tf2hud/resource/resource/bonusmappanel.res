@@ -10,7 +10,7 @@
 		"tall"		"128"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 	"BonusMapScreenshotBackground"
@@ -32,7 +32,7 @@
 		"ypos"			"8"
 		"wide"			"180"
 		"tall"			"100"
-		"visible"		"1"
+		////"visible"		"1"
 	}
 	"BonusMapImage"
 	{
@@ -46,7 +46,7 @@
 		"visible"		"0"
 		
 		
-		"scaleImage"	"0"
+		//"scaleImage"	"0"
 		"fillcolor"		"255 255 255 255"
 	}
 	"LockIcon" 
@@ -59,11 +59,11 @@
 		"tall"		"64"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"image"		"hud/icon_locked"
-		"scaleImage"		"0"
+		//"scaleImage"		"0"
 	}
 	"CompleteIcon" 
 	{
@@ -79,7 +79,7 @@
 		
 		
 		"image"		"hud/icon_complete"
-		"scaleImage"		"0"
+		//"scaleImage"		"0"
 	}
 	"MapNameLabel"
 	{

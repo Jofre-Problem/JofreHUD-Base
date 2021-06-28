@@ -10,7 +10,7 @@
 		"wide"			"76"
 		"wide_minmode"	"56"
 		"tall"			"38"
-		"visible"		"1"
+		////"visible"		"1"
 		"visible_minmode"	"0"
 		
 		"image"			"../hud/misc_ammo_area_blue"
@@ -74,7 +74,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"50"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"PipeIcon"
 		{
@@ -87,7 +87,7 @@
 			"wide_minmode"	"14"
 			"tall"			"20"
 			"tall_minmode"	"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../hud/ico_stickybomb_red"
 			"scaleImage"	"1"
@@ -109,12 +109,12 @@
 			//"tall_lodef"	"28"
 			"autoResize"	"1"
 			"pinCorner"		"2"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"%activepipes%"
 			"textAlignment"	"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"HudFontMedium"
 			"font_minmode"	"HudFontSmall"
@@ -134,12 +134,12 @@
 			//"tall_lodef"	"28"
 			"autoResize"	"1"
 			"pinCorner"		"2"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"%activepipes%"
 			"textAlignment"	"west"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"HudFontMedium"
 			"font_minmode"	"HudFontSmall"
@@ -157,7 +157,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"50"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"PipeIcon"
 		{
@@ -170,7 +170,7 @@
 			"wide_minmode"	"14"
 			"tall"			"20"
 			"tall_minmode"	"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../hud/ico_stickybomb_red_faded"
 			"scaleImage"	"1"
@@ -192,7 +192,7 @@
 			//"tall_lodef"	"28"
 			"autoResize"	"1"
 			"pinCorner"		"2"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"%activepipes%"
@@ -217,7 +217,7 @@
 			//"tall_lodef"	"28"
 			"autoResize"	"1"
 			"pinCorner"		"2"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"%activepipes%"

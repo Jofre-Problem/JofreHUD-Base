@@ -13,7 +13,7 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"proportionaltoparent"	"1"
@@ -34,7 +34,7 @@
 		"tall"			"135"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"proportionaltoparent"	"1"
@@ -52,13 +52,13 @@
 		"wide"			"24"
 		"tall"			"20"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"0"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -84,7 +84,7 @@
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"close_button"
 			"scaleImage"	"1"
@@ -101,13 +101,13 @@
 		"zpos"			"10"
 		"wide"			"30"
 		"tall"			"30"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"0"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -133,7 +133,7 @@
 			"zpos"			"1"
 			"wide"			"30"
 			"tall"			"30"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"blog_back"
 			"scaleImage"	"1"
@@ -149,13 +149,13 @@
 		"wide"			"30"
 		"tall"			"30"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"0"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -181,7 +181,7 @@
 			"zpos"			"1"
 			"wide"			"30"
 			"tall"			"30"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"blog_forward"
 			"scaleImage"	"1"
@@ -199,7 +199,7 @@
 		"zpos"			"-1"
 		"wide"			"300"
 		"tall"			"30"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 80 60 255"
 		"proportionaltoparent"	"1"

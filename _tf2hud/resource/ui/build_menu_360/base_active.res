@@ -12,11 +12,11 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_Object_Sentry"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 
@@ -29,7 +29,7 @@
 		
 		"wide"			"98"
 		"tall"			"105"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg"
@@ -45,7 +45,7 @@
 		"zpos"			"2"
 		"wide"			"56"
 		"tall"			"56"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_sentry_build"
@@ -61,7 +61,7 @@
 		"zpos"			"1"
 		"wide"			"10"
 		"tall"			"10"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
@@ -81,7 +81,7 @@
 		"tall"			"19"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%metal%"
 		"textAlignment"	"Left"	

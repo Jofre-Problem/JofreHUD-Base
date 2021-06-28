@@ -9,7 +9,7 @@
 		"zpos"			"101"
 		"wide"			"f2"
 		"tall"			"f2"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"scaleImage"	"1"
 	}
@@ -23,7 +23,7 @@
 		"zpos"			"100"
 		"wide"			"f2"
 		"tall"			"f2"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"scaleImage"	"1"
 		"image"			"class_portraits/silhouette_alpha"
@@ -39,7 +39,7 @@
 		"zpos"			"105"
 		"wide"			"8"
 		"tall"			"8"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"importtool_goldstar"
 		"scaleImage"	"1"
@@ -55,7 +55,7 @@
 		"zpos"			"105"
 		"wide"			"p0.75"
 		"tall"			"p0.75"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"glyph_alert"
 		"scaleImage"	"1"
@@ -73,7 +73,7 @@
 		"zpos"			"105"
 		"wide"			"p0.75"
 		"tall"			"p0.75"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"glyph_alert"
 		"scaleImage"	"1"
@@ -91,7 +91,7 @@
 		"zpos"			"105"
 		"wide"			"p0.65"
 		"tall"			"p0.65"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"gc_dc"
 		"scaleImage"	"1"
@@ -109,7 +109,7 @@
 		"zpos"			"104"
 		"wide"			"f2"
 		"tall"			"f2"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"0 0 0 240"
 	}
@@ -125,12 +125,12 @@
 		"tall"			"f1"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"font"			"PlayerPanelPlayerName"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"interact"
 		"proportionaltoparent"	"1"
@@ -158,7 +158,7 @@
 		"zpos"			"104"
 		"wide"			"f2"
 		"tall"			"f2"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 		"alpha"			"200"

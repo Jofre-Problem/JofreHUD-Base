@@ -39,7 +39,7 @@
 			"tall"		"f0"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"0 0 0 240"
@@ -56,7 +56,7 @@
 			"tall"		"f0"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"			""
@@ -77,7 +77,7 @@
 			"tall"			"350"
 			"autoResize"	"3"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"border"		"MainMenuBGBorder"
@@ -93,13 +93,13 @@
 				"tall"			"14"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"0"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -125,7 +125,7 @@
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"image"			"close_button"
 					"scaleImage"	"1"
@@ -153,7 +153,7 @@
 					
 					"wide"			"200"
 					"tall"			"p0.8"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
@@ -172,7 +172,7 @@
 					
 					"wide"			"o1"
 					"tall"			"40"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"image"			"glyph_alert"
 		
@@ -204,14 +204,14 @@
 					"tall"			"20"
 					
 					"pinCorner"		"3"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					
 					"textinsetx"	"25"
 					"use_proportional_insets" "1"
 					"font"			"HudFontSmall"
 					"textAlignment"	"south-east"
-					"dulltext"		"0"
+					//"dulltext"		"0"
 					"brighttext"	"0"
 					"default"		"1"
 					"labelText"			"#MMenu_ViewUpdateComic" 
@@ -241,14 +241,14 @@
 					"tall"			"20"
 					
 					"pinCorner"		"3"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					
 					"textinsetx"	"25"
 					"use_proportional_insets" "1"
 					"font"			"HudFontSmall"
 					"textAlignment"	"center"
-					"dulltext"		"0"
+					//"dulltext"		"0"
 					"brighttext"	"0"
 					"default"		"1"
 					"labelText"			"%end_date%" 
@@ -296,7 +296,7 @@
 					
 					"wide"			"p1"
 					"tall"			"o1"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"scaleImage"	"1"
 
@@ -364,7 +364,7 @@
 						"zpos"			"1"
 						"wide"			"p0.80"
 						"tall"			"o1"
-						"visible"		"1"
+						////"visible"		"1"
 						
 						"scaleImage"	"1"
 						"image"			"heavy_pyro_war/winner_screen_pyro"
@@ -381,7 +381,7 @@
 					"zpos"			"2"
 					"wide"			"p1"
 					"tall"			"o1"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"proportionaltoparent" "1"
 
@@ -409,7 +409,7 @@
 							"zpos"			"2"
 							"wide"			"p1"
 							"tall"			"o0.25"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							"scaleImage"	"1"
 							"image"			"heavy_pyro_war/war_screen_foreground"
@@ -428,7 +428,7 @@
 							"zpos"			"2"
 							"wide"			"p1"
 							"tall"			"o0.25"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							"scaleImage"	"1"
 							"image"			"heavy_pyro_war/winner_screen_foreground"
@@ -459,7 +459,7 @@
 					
 					"wide"			"270"
 					"tall"			"200"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"font"			"HudFontMediumBold"
 					"fgcolor_override"	"TanLight"
@@ -517,7 +517,7 @@
 					
 					"wide"			"500"
 					"tall"			"200"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"font"			"HudFontSmall"
 					"fgcolor_override"	"TanLight"
@@ -547,7 +547,7 @@
 					
 					"wide"			"270"
 					"tall"			"200"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"font"			"HudFontMediumBold"
 					"fgcolor_override"	"HUDRedTeamSolid"
@@ -605,7 +605,7 @@
 					
 					"wide"			"f0"
 					"tall"			"200"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"font"			"HudFontSmall"
 					"fgcolor_override"	"TanLight"
@@ -659,7 +659,7 @@
 							
 							"wide"			"p0.8"
 							"tall"			"200"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							"font"			"HudFontSmallest"
 							"fgcolor_override"	"TanLight"
@@ -680,14 +680,14 @@
 							"tall"			"26"
 							
 							"pinCorner"		"3"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							
 							"textinsetx"	"25"
 							"use_proportional_insets" "1"
 							"font"			"HudFontSmallBold"
 							"textAlignment"	"center"
-							"dulltext"		"0"
+							//"dulltext"		"0"
 							"brighttext"	"0"
 							"default"		"1"
 							"labelText"			"#Voice_Menu_Yes" 
@@ -720,14 +720,14 @@
 							"tall"			"26"
 							
 							"pinCorner"		"3"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							
 							"textinsetx"	"25"
 							"use_proportional_insets" "1"
 							"font"			"HudFontSmallBold"
 							"textAlignment"	"center"
-							"dulltext"		"0"
+							//"dulltext"		"0"
 							"brighttext"	"0"
 							"default"		"1"
 							"labelText"			"#Store_CANCEL" 
@@ -769,7 +769,7 @@
 							
 							"wide"			"p0.8"
 							"tall"			"50"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							"font"			"HudFontSmallest"
 							"fgcolor_override"	"TanLight"
@@ -787,7 +787,7 @@
 							
 							"wide"			"o1"
 							"tall"			"80"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							"image"			"animated/tf2_logo_hourglass"
 		
@@ -814,7 +814,7 @@
 							
 							"wide"			"p0.8"
 							"tall"			"50"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							"font"			"HudFontSmallestBold"
 							"fgcolor_override"	"TanLight"
@@ -834,14 +834,14 @@
 							"tall"			"26"
 							
 							"pinCorner"		"3"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							
 							"textinsetx"	"25"
 							"use_proportional_insets" "1"
 							"font"			"HudFontSmallBold"
 							"textAlignment"	"center"
-							"dulltext"		"0"
+							//"dulltext"		"0"
 							"brighttext"	"0"
 							"default"		"1"
 							"labelText"			"#TF_OK" 
@@ -883,7 +883,7 @@
 							"zpos"			"-1"
 							"wide"			"30"
 							"tall"			"o1"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							"scaleImage"	"1"
 							"image"			"glyph_alert"
@@ -901,7 +901,7 @@
 							
 							"wide"			"p0.6"
 							"tall"			"50"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							"font"			"HudFontSmallest"
 							"fgcolor_override"	"TanLight"
@@ -921,14 +921,14 @@
 							"tall"			"26"
 							
 							"pinCorner"		"3"
-							"visible"		"1"
+							////"visible"		"1"
 							
 							
 							"textinsetx"	"25"
 							"use_proportional_insets" "1"
 							"font"			"HudFontSmallBold"
 							"textAlignment"	"center"
-							"dulltext"		"0"
+							//"dulltext"		"0"
 							"brighttext"	"0"
 							"default"		"1"
 							"labelText"			"#TF_OK" 
@@ -972,7 +972,7 @@
 					"zpos"			"-1"
 					"wide"			"100"
 					"tall"			"o1"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"		"heavy_pyro_war/heavy_logo"
@@ -990,7 +990,7 @@
 					"zpos"			"-1"
 					"wide"			"100"
 					"tall"			"o1"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"		"heavy_pyro_war/pyro_logo"
@@ -1022,14 +1022,14 @@
 						"tall"			"26"
 						
 						"pinCorner"		"3"
-						"visible"		"1"
+						////"visible"		"1"
 						
 						
 						"textinsetx"	"25"
 						"use_proportional_insets" "1"
 						"font"			"HudFontSmallBold"
 						"textAlignment"	"center"
-						"dulltext"		"0"
+						//"dulltext"		"0"
 						"brighttext"	"0"
 						"default"		"1"
 						"labelText"			"#JoinHeavyButton" 
@@ -1074,14 +1074,14 @@
 						"tall"			"26"
 						
 						"pinCorner"		"3"
-						"visible"		"1"
+						////"visible"		"1"
 						
 						
 						"textinsetx"	"25"
 						"use_proportional_insets" "1"
 						"font"			"HudFontSmallBold"
 						"textAlignment"	"center"
-						"dulltext"		"0"
+						//"dulltext"		"0"
 						"brighttext"	"0"
 						"default"		"1"
 						"labelText"			"#JoinPyroButton" 
@@ -1113,7 +1113,7 @@
 					
 					"wide"			"270"
 					"tall"			"200"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"

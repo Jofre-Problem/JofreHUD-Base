@@ -11,7 +11,7 @@
 		"tall"		"358" [$OSX]
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -27,7 +27,7 @@
 		"tall"		"5"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -41,7 +41,7 @@
 		"tall"		"5"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -55,7 +55,7 @@
 		"tall"		"492"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -69,7 +69,7 @@
 		"tall"		"482"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -83,7 +83,7 @@
 		"tall"		"8"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -97,7 +97,7 @@
 		"tall"		"8"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -111,7 +111,7 @@
 		"tall"		"8"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -125,7 +125,7 @@
 		"tall"		"18"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -139,7 +139,7 @@
 		"tall"		"23"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -160,7 +160,7 @@
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"frame_maximize"
@@ -180,7 +180,7 @@
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"frame_mintosystray"
@@ -200,7 +200,7 @@
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"MinimizeToSysTray"
 		"Default"		"0"
 	}
@@ -214,14 +214,14 @@
 		"tall"		"18"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"r"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"frame_menu"
@@ -234,13 +234,13 @@
 		"tall"		"18"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"dxlabel"
@@ -253,7 +253,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1" [!$POSIX]
+		//"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
 		"enabled"		"0"
 		"tabPosition"		"14"
@@ -273,7 +273,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -292,7 +292,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"textHidden"		"0"
@@ -311,7 +311,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"7"
 		"textHidden"		"0"
@@ -330,7 +330,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"8"
 		"textHidden"		"0"
@@ -349,7 +349,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"5"
 		"textHidden"		"0"
@@ -368,7 +368,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1" [!$OSX]
+		//"visible"		"1" [!$OSX]
 		"visible"		"0" [$OSX]
 		
 		"tabPosition"		"12"
@@ -388,7 +388,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"textHidden"		"0"
@@ -407,7 +407,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"9"
 		"textHidden"		"0"
@@ -426,7 +426,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		"textHidden"		"0"
@@ -445,7 +445,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"6"
 		"textHidden"		"0"
@@ -464,7 +464,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"10"
 		"textHidden"		"0"
@@ -483,7 +483,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1" [!$OSX]
+		//"visible"		"1" [!$OSX]
 		"visible"		"0" [$OSX]
 		
 		"tabPosition"		"13"
@@ -491,7 +491,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
 	}
@@ -505,7 +505,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_MotionBlur"
@@ -513,7 +513,7 @@
 		"associate"		"HDR"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"Button1"
 	{
@@ -526,14 +526,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"16"
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"OK"
 		"Default"		"1"
 		"selected"		"0"
@@ -549,14 +549,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"17"
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 		"selected"		"0"
@@ -571,7 +571,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1" [!$POSIX]
+		//"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
 		
 		
@@ -579,7 +579,7 @@
 		"textAlignment"		"east"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"Label2"
 	{
@@ -591,7 +591,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1" [!$POSIX]
+		//"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
 		
 		
@@ -599,7 +599,7 @@
 		"textAlignment"		"east"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"Label3"
 	{
@@ -611,7 +611,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Model_Detail"
@@ -619,7 +619,7 @@
 		"associate"		"ModelDetail"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"Label4"
 	{
@@ -631,7 +631,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Texture_Detail"
@@ -639,7 +639,7 @@
 		"associate"		"TextureDetail"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"Label5"
 	{
@@ -651,7 +651,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Antialiasing_Mode"
@@ -659,7 +659,7 @@
 		"associate"		"AntialiasingMode"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"Label6"
 	{
@@ -671,7 +671,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Filtering_Mode"
@@ -679,7 +679,7 @@
 		"associate"		"FilteringMode"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"dxinstalledlabel"
 	{
@@ -691,7 +691,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1" [!$POSIX]
+		//"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
 		
 		
@@ -699,7 +699,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"Divider1"
 	{
@@ -711,7 +711,7 @@
 		"tall"		"2"
 		
 		
-		"visible"		"1" [!$POSIX]
+		//"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
 		
 		
@@ -726,7 +726,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Water_Detail"
@@ -734,7 +734,7 @@
 		"associate"		"WaterDetail"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"Label8"
 	{
@@ -746,7 +746,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Shadow_Detail"
@@ -754,7 +754,7 @@
 		"associate"		"ShadowDetail"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"Label12"
 	{
@@ -766,7 +766,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Color_Correction"
@@ -774,7 +774,7 @@
 		"associate"		"ColorCorrection"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"Label10"
 	{
@@ -786,7 +786,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Wait_For_VSync"
@@ -794,7 +794,7 @@
 		"associate"		"VSync"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"Label9"
 	{
@@ -806,7 +806,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Shader_Detail"
@@ -814,7 +814,7 @@
 		"associate"		"ShaderDetail"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"Label11"
 	{
@@ -827,7 +827,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_RecommendedSettings"
@@ -835,7 +835,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"Font"		"DefaultSmall"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"HDR Label"
 	{
@@ -847,7 +847,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1" [!$OSX]
+		//"visible"		"1" [!$OSX]
 		"visible"		"0" [$OSX]
 		
 		
@@ -856,7 +856,7 @@
 		"associate"		"HDR"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"Divider2"
 	{
@@ -868,7 +868,7 @@
 		"tall"		"2"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -882,7 +882,7 @@
 		"tall"		"420"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -898,7 +898,7 @@
 		"tall"		"50"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"11"
 		"leftText"		"0.00"
@@ -918,14 +918,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_FOV"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"MulticoreLabel"
 	{
@@ -937,14 +937,14 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_MulticoreRendering"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"Multicore"
 	{
@@ -956,7 +956,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"10"
 		"textHidden"		"0"

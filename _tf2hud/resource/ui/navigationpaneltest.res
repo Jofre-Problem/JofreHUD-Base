@@ -10,7 +10,7 @@
 		"wide"				"50"
 		"tall"				"300"
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"auto_scale"		"1"
@@ -25,7 +25,7 @@
 			"tall"				"40"
 			
 			"pinCorner"			"2"
-			"visible"			"1"
+			//"visible"			"1"
 			
 			
 			"labelText"			""
@@ -60,7 +60,7 @@
 				"zpos"			"7"
 				"wide"			"100"
 				"tall"			"200"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"
 			}				

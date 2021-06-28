@@ -8,7 +8,7 @@
 		
 		"wide"			"300"
 		"tall"			"22"
-		"visible"		"1"
+		////"visible"		"1"
 			
 		"HeaderLabel"
 		{
@@ -23,7 +23,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"PaintBackgroundType" "2"
 			"fgcolor_override"	"235 226 202 255"
@@ -42,13 +42,13 @@
 		"tall"			"14"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"0"
 
@@ -78,7 +78,7 @@
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"close_button"
 			"scaleImage"	"1"
@@ -98,7 +98,7 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor"		"56 53 49 255"
 	}
@@ -113,7 +113,7 @@
 		"tall"			"50"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"proportionaltoparent"	"1"
 	}
@@ -128,7 +128,7 @@
 		"tall"			"50"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"proportionaltoparent"	"1"
 	}
@@ -143,7 +143,7 @@
 		"tall"			"50"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"proportionaltoparent"	"1"
 	}
@@ -158,7 +158,7 @@
 		"tall"			"50"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"proportionaltoparent"	"1"
 	}
@@ -173,7 +173,7 @@
 		"tall"			"50"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"proportionaltoparent"	"1"
 	}
@@ -188,7 +188,7 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#MMenu_Stream_ViewMore"
@@ -196,7 +196,7 @@
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"command"		"view_more"

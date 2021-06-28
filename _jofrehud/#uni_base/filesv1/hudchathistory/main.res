@@ -6,7 +6,7 @@
 		"fieldName"			"HudChatHistory"
 		"wrap"				"1"
 		"autoResize"		"1"
-		"visible"			"1"
+		//"visible"			"1"
 		
 		"textAlignment"		"south-west"
 	}

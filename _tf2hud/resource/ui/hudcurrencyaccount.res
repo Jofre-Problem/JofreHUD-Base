@@ -11,7 +11,7 @@
 		"zpos"			"3"
 		"wide"			"90"
 		"tall"			"45"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"	"center"	
 		"labelText"		"%currency%"
@@ -28,7 +28,7 @@
 		"zpos"			"3"
 		"wide"			"90"
 		"tall"			"45"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"	"center"	
 		"labelText"		"%currency%"
@@ -43,7 +43,7 @@
 		"zpos"			"1"
 		"wide"			"60"
 		"tall"			"18"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"	"TanLight"
@@ -58,7 +58,7 @@
 		"zpos"			"2"
 		"wide"			"58"
 		"tall"			"16"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"	"CreditsGreen"

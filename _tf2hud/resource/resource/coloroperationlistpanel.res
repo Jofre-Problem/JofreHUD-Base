@@ -11,10 +11,10 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"NewOperation"
 	}
@@ -29,10 +29,10 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"DeleteOperation"
 	}
@@ -47,10 +47,10 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"BringForward"
 	}
@@ -65,10 +65,10 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"PushBack"
 	}
@@ -83,10 +83,10 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"Save"
 	}
@@ -109,7 +109,7 @@
 		"tall"				"34"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"Blend:"
@@ -127,7 +127,7 @@
 		"tall"				"34"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"leftText"			"0"
@@ -143,7 +143,7 @@
 		"tall"				"24"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"selected"			"0"
@@ -158,7 +158,7 @@
 		"tall"				"24"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"selected"			"1"

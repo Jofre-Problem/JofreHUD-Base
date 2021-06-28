@@ -13,7 +13,7 @@
 				"zpos"			"100"
 				"wide"			"230"
 				"tall"			"222"
-				"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"0"
 				"bgcolor_override"	"0 0 0 0"
 				"skip_autoresize"	"1"
@@ -33,7 +33,7 @@
 					"tall"			"15"
 					
 					
-					"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 					"fgcolor"		"118 107 94 255"
@@ -84,7 +84,7 @@
 					"tall"			"10"
 					
 					
-					"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 					"fgcolor"		"173 165 146 255"
@@ -101,7 +101,7 @@
 					"tall"			"10"
 					
 					
-					"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 				}		
@@ -117,7 +117,7 @@
 					"tall"			"10"
 					
 					
-					"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 					"fgcolor"		"173 165 146 255"
@@ -134,7 +134,7 @@
 					"tall"			"10"
 					
 					
-					"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 				}		
@@ -149,7 +149,7 @@
 					"tall"			"10"
 					
 					
-					"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 					"labeltext"		"%armory_text%"
@@ -165,7 +165,7 @@
 					"tall"			"10"
 					
 					
-					"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 				}
@@ -179,13 +179,13 @@
 					"tall"			"20"
 					
 					
-					"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"labelText"		"#Store_ItemDesc_ItemWikiPage"
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
-					"dulltext"		"0"
+					//"dulltext"		"0"
 					"brighttext"	"0"
 					"command"		"viewwikipage"
 					"sound_depressed"	"UI/buttonclick.wav"

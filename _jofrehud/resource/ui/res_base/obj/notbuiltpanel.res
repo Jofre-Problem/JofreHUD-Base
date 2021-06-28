@@ -7,7 +7,7 @@
 		
 		
 		"wide"			"160"
-		"visible"		"1"
+		////"visible"		"1"
 
 		"NotBuiltLabel"
 		{
@@ -19,10 +19,10 @@
 			"wide"			"200"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"textAlignment"	"Left"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 		}
 	}

@@ -26,7 +26,7 @@
 		"tall"			"120"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"10"
 		"paintbackgroundtype"	"0"
@@ -50,7 +50,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"tabPosition"	"10"
 		}
@@ -69,7 +69,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"tabPosition"	"10"
 		}
@@ -90,7 +90,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"bgcolor_override"		"117 107 95 255"
 			"fgcolor_override"		"202 190 164 255"
@@ -116,7 +116,7 @@
 			"font"			"ReplayMediumSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"discard"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -134,14 +134,14 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"tabPosition"	"2"
 			"labelText"		"#Replay_Cancel"
 			"font"			"ReplayMediumSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"cancel"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -159,14 +159,14 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"tabPosition"	"1"
 			"labelText"		"#Replay_SavePerformance"
 			"font"			"ReplayMediumSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"save"
 			"sound_depressed"	"UI/buttonclick.wav"

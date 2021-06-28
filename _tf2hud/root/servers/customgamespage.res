@@ -10,7 +10,7 @@
 		"tall"		"278"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -25,13 +25,13 @@
 		"tall"		"24"
 		
 		"PinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Connect"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"connect"
 		"Default"		"1"
 	}
@@ -45,13 +45,13 @@
 		"tall"		"24"
 		
 		"PinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_RefreshAll"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"GetNewList"
 		"Default"		"0"
 	}
@@ -65,13 +65,13 @@
 		"tall"		"24"
 		
 		"PinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_RefreshQuick"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"refresh"
 		"Default"		"0"
 	}
@@ -91,7 +91,7 @@
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddServer"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"AddServerByName"
 		"Default"		"0"
 	}
@@ -112,7 +112,7 @@
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddCurrentServer"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"AddCurrentServer"
 		"Default"		"0"
 	}
@@ -127,13 +127,13 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"6"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_QuickListCheck"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 
@@ -147,13 +147,13 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"4"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Filters"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"FilterString"
@@ -166,13 +166,13 @@
 		"tall"		"24"
 		"AutoResize"		"1"
 		"PinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
 		"borderset"		"LabelDull"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"GameFilter"
 	{
@@ -310,7 +310,7 @@
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_HasUsersPlaying"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"ServerFullFilterCheck"
@@ -329,7 +329,7 @@
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerNotFull"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"NoPasswordFilterCheck"
@@ -348,7 +348,7 @@
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_IsNotPasswordProtected"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"gamelist"
@@ -361,7 +361,7 @@
 		"tall"		"182"
 		"AutoResize"		"3"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -377,7 +377,7 @@
 		"tall"			"178"
 		"AutoResize"		"3"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"	"1"
@@ -392,7 +392,7 @@
 		"tall"		"2"
 		"autoResize"		"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -410,14 +410,14 @@
 		"enabled"		"0"
 		"if_workshop_enabled"
 		{
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		
 		"paintbackground"		"1"
 		"borderset"		"LabelDull"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"labelText"		"#ServerBrowser_Workshop"
 	}
 	"WorkshopFilter"
@@ -436,7 +436,7 @@
 		"if_workshop_enabled"
 		{
 			
-			"visible"		"1"
+			////"visible"		"1"
 		}
 		
 		"paintbackground"		"1"
@@ -460,7 +460,7 @@
 		"enabled"		"0"
 		"if_workshop_enabled"
 		{
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		
@@ -479,13 +479,13 @@
 		"tall"		"24"
 		"AutoResize"		"1"
 		"PinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
 		"borderset"		"LabelDull"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"labelText"		"#ServerBrowser_Tags"
 	}
 	"TagsInclude"
@@ -503,7 +503,7 @@
 		"zpos"		"1"
 		
 		"PinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -530,7 +530,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textHidden"		"0"
@@ -551,7 +551,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textHidden"		"0"
@@ -576,7 +576,7 @@
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_SupportsReplays"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"	
 	}
 }

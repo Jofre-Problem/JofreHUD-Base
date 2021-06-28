@@ -7,7 +7,7 @@
 		"zpos"			"3"
 		"wide"			"250"
 		"tall"			"18"
-		"visible"		"1"
+		////"visible"		"1"
 			
 		
 		"PaintBackgroundType"	"2"
@@ -64,7 +64,7 @@
 		"wide"			"f0"
 		"tall"			"10"
 		"zpos"			"3"
-		"visible"		"1"
+		////"visible"		"1"
 		"font"			"QuestObjectiveTracker_DescBlur"
 		"textinsetx"	"5"
 		"textAlignment"		"north-east"

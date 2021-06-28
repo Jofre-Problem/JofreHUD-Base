@@ -38,13 +38,13 @@
 		"tall"			"310"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"3"
 		"labelText"		"&3"	[$WIN32]
 		"labelText"		""		[$X360]
 		"textAlignment"	"south-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"paintborder"	"0"
 		"command"		"jointeam blue"
@@ -66,13 +66,13 @@
 		"tall"			"310"
 		
 		"pinCorner"		"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"4"
 		"labelText"		"&4"	[$WIN32]
 		"labelText"		""		[$X360]
 		"textAlignment"	"south-west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"paintborder"	"0"
 		"command"		"jointeam red"
@@ -102,7 +102,7 @@
 		
 		"labelText"		"#TF_Cancel"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"cancelmenu"
 		"font"			"MenuSmallFont"
@@ -123,12 +123,12 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		//"visible_lodef"		"0"
 		
 		"labelText"		"#TF_SelectATeam"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"MenuMainTitle"
 		"fgcolor"		"HudOffWhite"
@@ -149,11 +149,11 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%bluecount%"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"1"
 		"font"			"TeamMenuBold"
 		"fgcolor"		"black"
@@ -173,11 +173,11 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%redcount%"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"1"
 		"font"			"TeamMenuBold"
 		"fgcolor"		"black"
@@ -194,7 +194,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -267,7 +267,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -344,7 +344,7 @@
 		
 		"labelText"		"#TF_Highlander_Mode"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"HudOffWhite"
@@ -366,7 +366,7 @@
 		
 		"labelText"		"#TF_Highlander_Mode"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"black"
@@ -388,7 +388,7 @@
 		
 		"labelText"		"#TF_Teams_Full"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"HudOffWhite"
@@ -410,7 +410,7 @@
 		
 		"labelText"		"#TF_Teams_Full"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"black"

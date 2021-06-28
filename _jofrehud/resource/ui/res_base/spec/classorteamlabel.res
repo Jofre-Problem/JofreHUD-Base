@@ -10,7 +10,7 @@
 		"zpos"			"2"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_Spectator_ChangeTeam"
 		"textAlignment"		"east"

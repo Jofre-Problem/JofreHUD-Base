@@ -26,7 +26,7 @@
 		"tall"			"f0"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"labelText"		"#Notifications_Present"

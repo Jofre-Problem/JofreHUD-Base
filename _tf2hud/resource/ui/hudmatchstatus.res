@@ -122,7 +122,7 @@
 		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"ParticleEffects"
@@ -203,7 +203,7 @@
 		"zpos"			"1"		
 		"wide"			"300"
 		"tall"			"100"
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}	
 
@@ -223,7 +223,7 @@
 
 		if_match
 		{
-			"visible"		"1"
+			////"visible"		"1"
 		}
 	}
 
@@ -239,7 +239,7 @@
 		"zpos"			"5"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"centerwrap"	"1"
@@ -262,7 +262,7 @@
 		"zpos"			"5"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"centerwrap"	"1"
@@ -334,7 +334,7 @@
 			"wide_minmode"	"30"
 			//"wide_lodef"	"50"
 			"tall"			"31"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"textAlignment"		"center"
 			"labelText"		"0:00"
@@ -362,7 +362,7 @@
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"75"
-		"visible"		"1"
+		////"visible"		"1"
 		
 
 
@@ -421,7 +421,7 @@
 				"zpos"			"3"
 				"wide"			"19"
 				"tall"			"19"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"../hud/class_scoutred"
 				"scaleImage"	"1"	
@@ -436,7 +436,7 @@
 				"zpos"			"2"
 				"wide"			"f0"
 				"tall"			"19"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"PaintBackgroundType"	"0"
 				"proportionaltoparent"	"1"
@@ -546,7 +546,7 @@
 				"tall"			"19"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"center"
 				"proportionaltoparent"	"1"
@@ -646,7 +646,7 @@
 			"tall"			"36"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"border"		"TFFatLineBorderBlueBGOpaque"
 		}
@@ -659,7 +659,7 @@
 			"zpos"			"5"
 			"wide"			"56"
 			"tall"			"56"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../hud/team_blue"
 			"scaleImage"		"1"
@@ -678,7 +678,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"centerwrap"	"1"
 		}
@@ -691,7 +691,7 @@
 			"zpos"			"5"	
 			"wide"			"35"
 			"tall"			"35"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			""
 			"scaleImage"	"1"	
@@ -706,7 +706,7 @@
 			"zpos"			"4"
 			"wide"			"39"
 			"tall"			"39"
-			"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"bgcolor_override"	"117 107 94 255"
 		}
@@ -720,7 +720,7 @@
 			"wide"			"136"
 			"tall"			"205"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"autoresize"	"3"
@@ -744,7 +744,7 @@
 			"tall"			"215"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"border"		"TFFatLineBorderClearBG"
 
@@ -784,7 +784,7 @@
 			"tall"			"36"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"border"		"TFFatLineBorderRedBGOpaque"
 		}
@@ -797,7 +797,7 @@
 			"zpos"			"5"
 			"wide"			"70"
 			"tall"			"70"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../hud/team_Red"
 			"scaleImage"		"1"
@@ -816,7 +816,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"centerwrap"	"1"
 		}
@@ -829,7 +829,7 @@
 			"zpos"			"5"
 			"wide"			"35"
 			"tall"			"35"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			""
 			"scaleImage"	"1"	
@@ -844,7 +844,7 @@
 			"zpos"			"4"
 			"wide"			"39"
 			"tall"			"39"
-			"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"bgcolor_override"	"117 107 94 255"
 		}
@@ -858,7 +858,7 @@
 			"wide"			"136"
 			"tall"			"205"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"autoresize"	"3"
@@ -882,7 +882,7 @@
 			"tall"			"215"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"border"		"TFFatLineBorderClearBG"
 

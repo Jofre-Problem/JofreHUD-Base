@@ -23,14 +23,14 @@
 		"tall"			"15"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"textinsetx"	"100"
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -60,7 +60,7 @@
 			"zpos"			"1"
 			"wide"			"9"
 			"tall"			"9"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"store_cart"
 			"scaleImage"	"1"

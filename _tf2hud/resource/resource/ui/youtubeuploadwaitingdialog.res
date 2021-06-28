@@ -28,7 +28,7 @@
 		"tall"			"0"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"centerwrap"	"0"
@@ -49,7 +49,7 @@
 		"tall"			"0"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"centerwrap"	"0"
@@ -70,7 +70,7 @@
 		"tall"			"0"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"centerwrap"	"0"
@@ -91,7 +91,7 @@
 		"tall"			"60"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"centerwrap"	"1"
@@ -138,7 +138,7 @@
 		"tall"			"60"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%duration%"
 		"textAlignment"		"center"
@@ -160,13 +160,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"user_close"

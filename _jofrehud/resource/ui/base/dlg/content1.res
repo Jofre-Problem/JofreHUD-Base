@@ -44,7 +44,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"bgcolor_override"		"117 107 95 255"
 			"fgcolor_override"		"202 190 164 255"
@@ -63,14 +63,14 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"2"
 			"labelText"		"#GameUI_CancelBold"
 			"font"			"ReplayMediumSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"cancel"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -88,14 +88,14 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"1"
 			"labelText"		"#Replay_Save"
 			"font"			"ReplayMediumSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"save"
 			"sound_depressed"	"UI/buttonclick.wav"

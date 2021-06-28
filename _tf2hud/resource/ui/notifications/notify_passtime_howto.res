@@ -11,7 +11,7 @@
 		"tall"			"140"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/notification_black"
 		"scaleImage"	"1"
@@ -25,7 +25,7 @@
 		"ypos"			"45"
 		"wide"			"30"
 		"tall"			"30"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"passtime_ball"
@@ -42,11 +42,11 @@
 		"tall"			"300"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_Passtime_HowToPlay"
 		"textAlignment"	"North-West"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 }

@@ -82,13 +82,13 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}	
 	"Label3"
 	{
@@ -180,7 +180,7 @@
 		"xpos"		"10"
 		"ypos"		"235"
 		"wide"		"80"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"Include .bsp"
 		"Command"		"savebsp"
@@ -191,7 +191,7 @@
 		"ypos"		"262"
 		"wide"		"31"
 		"tall"		"23"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		".vmf"
 		"font"		"DefaultVerySmall"
@@ -216,7 +216,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"font"		"DefaultVerySmall"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}	
 
@@ -224,7 +224,7 @@
 	{
 		"xpos"		"10"
 		"wide"		"85"
-		"visible"		"1"
+		//"visible"		"1"
 		"labelText"		"Include file..."
 		"Command"		"addfile"
 	}
@@ -232,7 +232,7 @@
 	{
 		"xpos"		"10"
 		"wide"		"85"
-		"visible"		"1"
+		//"visible"		"1"
 		"labelText"		"Clear files"
 		"Command"		"clearfiles"
 	}
@@ -289,14 +289,14 @@
 		"xpos"		"420"
 		"ypos"		"372"
 		"wide"		"160"
-		"visible"		"1"
+		//"visible"		"1"
 		"tabPosition"		"6"
 	}
 	"BugArea"
 	{
 		"xpos"		"420"
 		"wide"		"160"
-		"visible"		"1"
+		//"visible"		"1"
 		"tabPosition"		"7"
 	}
 	"BugSubmit"

@@ -84,7 +84,7 @@
 		"tall"		"64"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"		"west"
 		"image"			"techcredits/bink"

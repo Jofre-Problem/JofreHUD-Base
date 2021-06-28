@@ -20,7 +20,7 @@
 		
 		"wide"			"f0"
 		"tall"			"480"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			""
 		"scaleImage"		"1"
@@ -46,7 +46,7 @@
 			
 			"wide"			"640"
 			"tall"			"480"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"stamp_background_map"
 			"scaleImage"		"1"
@@ -61,7 +61,7 @@
 			"zpos"			"2"
 			"wide"			"300"
 			"tall"			"300"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			""
 			"scaleImage"	"1"		
@@ -89,7 +89,7 @@
 				"tall"			"55"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"border"		"TFThinLineBorder"
 			}
@@ -108,7 +108,7 @@
 				"tall"			"55"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"centerwrap"	"1"
 				"wrap"			"1"
@@ -125,7 +125,7 @@
 			"tall"			"280"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"border"		"TFThinLineBorder"
 		}
@@ -144,7 +144,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override" "255 181 50 255"
 		}
@@ -162,7 +162,7 @@
 			"tall"			"275"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"0"
 		}
@@ -181,7 +181,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override" "137 191 60 255"
 		}
@@ -201,7 +201,7 @@
 		"tall"			"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "173 168 148 255"
 	}					
@@ -219,7 +219,7 @@
 		"tall"			"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 	"MapType"
@@ -236,7 +236,7 @@
 		"tall"			"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}					
 	"StatData"
@@ -283,7 +283,7 @@
 				"tall"			"20"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 			}
 			"BarChartLabelB"
@@ -305,7 +305,7 @@
 				"tall"			"20"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 			}			
 			"OverallRecordLabel"
@@ -324,7 +324,7 @@
 				"tall"			"20"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				//"visible_hidef"		"0"
 				//"visible_lodef"		"0"
 				
@@ -355,7 +355,7 @@
 				"tall"		"14"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"tabPosition"		"1"
 				"textHidden"		"0"
@@ -375,7 +375,7 @@
 				"tall"		"14"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"tabPosition"		"1"
 				"textHidden"		"0"
@@ -395,7 +395,7 @@
 				"tall"		"14"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"tabPosition"		"1"
 				"textHidden"		"0"
@@ -423,7 +423,7 @@
 			//"tall_lodef"			"633"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"border"		"TFThinLineBorder"
 		}
@@ -447,7 +447,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"ClassBarBG1A"
@@ -465,7 +465,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -486,7 +486,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -507,7 +507,7 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"162 148 135 255"
@@ -528,7 +528,7 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"162 148 135 255"
@@ -552,7 +552,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassBarLabel1B"
@@ -573,7 +573,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassLabel1"
@@ -596,7 +596,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassBarBG2A"
@@ -614,7 +614,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -635,7 +635,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -656,7 +656,7 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"93 60 27 255"
@@ -677,7 +677,7 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"93 60 27 255"
@@ -701,7 +701,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassBarLabel2B"
@@ -722,7 +722,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassLabel2"
@@ -745,7 +745,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassBarBG3A"
@@ -763,7 +763,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -784,7 +784,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -805,7 +805,7 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"134 93 39 255"
@@ -826,7 +826,7 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"134 93 39 255"
@@ -850,7 +850,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassBarLabel3B"
@@ -871,7 +871,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassLabel3"
@@ -894,7 +894,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassBarBG4A"
@@ -912,7 +912,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -933,7 +933,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -954,7 +954,7 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"207 147 95 255"
@@ -975,7 +975,7 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"207 147 95 255"
@@ -999,7 +999,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassBarLabel4B"
@@ -1020,7 +1020,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassLabel4"
@@ -1043,7 +1043,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassBarBG5A"
@@ -1061,7 +1061,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -1082,7 +1082,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -1103,7 +1103,7 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"226 184 146 255"
@@ -1124,7 +1124,7 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"226 184 146 255"
@@ -1148,7 +1148,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassBarLabel5B"
@@ -1169,7 +1169,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassLabel5"
@@ -1192,7 +1192,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassBarBG6A"
@@ -1210,7 +1210,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -1231,7 +1231,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -1252,7 +1252,7 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"162 148 135 255"
@@ -1273,7 +1273,7 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"162 148 135 255"
@@ -1297,7 +1297,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassBarLabel6B"
@@ -1318,7 +1318,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassLabel6"
@@ -1341,7 +1341,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassBarBG7A"
@@ -1359,7 +1359,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -1380,7 +1380,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -1401,7 +1401,7 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"93 60 27 255"
@@ -1422,7 +1422,7 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"93 60 27 255"
@@ -1446,7 +1446,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassBarLabel7B"
@@ -1467,7 +1467,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassLabel7"
@@ -1490,7 +1490,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}		
 		"ClassBarBG8A"
@@ -1508,7 +1508,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -1529,7 +1529,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -1550,7 +1550,7 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"134 93 39 255"
@@ -1571,7 +1571,7 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"134 93 39 255"
@@ -1595,7 +1595,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassBarLabel8B"
@@ -1616,7 +1616,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassLabel8"
@@ -1639,7 +1639,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}		
 		"ClassBarBG9A"
@@ -1657,7 +1657,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -1678,7 +1678,7 @@
 			"tall"			"16"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -1699,7 +1699,7 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"207 147 95 255"
@@ -1720,7 +1720,7 @@
 			"tall"			"12"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"207 147 95 255"
@@ -1744,7 +1744,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassBarLabel9B"
@@ -1765,7 +1765,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}				
 		"ClassLabel9"
@@ -1788,7 +1788,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}		
 		"RecordsBG"
@@ -1806,7 +1806,7 @@
 			//"tall_lodef"			"633"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			//"visible_hidef"		"0"
 			//"visible_lodef"		"0"
 			
@@ -1828,7 +1828,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"RecordsSubBG1"
@@ -1850,7 +1850,7 @@
 			//"tall_lodef"			"183"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"0 0 0 80"
@@ -1894,7 +1894,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord1Value"
@@ -1918,7 +1918,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord2Label"
@@ -1942,7 +1942,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord2Value"
@@ -1966,7 +1966,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord3Label"
@@ -1990,7 +1990,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord3Value"
@@ -2014,7 +2014,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord4Label"
@@ -2038,7 +2038,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord4Value"
@@ -2062,7 +2062,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord5Label"
@@ -2086,7 +2086,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord5Value"
@@ -2110,7 +2110,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord6Label"
@@ -2134,7 +2134,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord6Value"
@@ -2158,7 +2158,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord7Label"
@@ -2182,7 +2182,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord7Value"
@@ -2206,7 +2206,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord8Label"
@@ -2230,7 +2230,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord8Value"
@@ -2254,7 +2254,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"OverallRecord9Label"
@@ -2278,7 +2278,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord9Value"
@@ -2302,7 +2302,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"OverallRecord10Label"
@@ -2326,7 +2326,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord10Value"
@@ -2350,7 +2350,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"OverallRecord11Label"
@@ -2374,7 +2374,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord11Value"
@@ -2398,7 +2398,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"OverallRecord12Label"
@@ -2422,7 +2422,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord12Value"
@@ -2446,7 +2446,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"OverallRecord13Label"
@@ -2470,7 +2470,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord13Value"
@@ -2494,7 +2494,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"OverallRecord14Label"
@@ -2518,7 +2518,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord14Value"
@@ -2542,7 +2542,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 		"OverallRecord15Label"
@@ -2566,7 +2566,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}							
 		"OverallRecord15Value"
@@ -2590,7 +2590,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 		}
 	}
@@ -2633,7 +2633,7 @@
 		//"tall_lodef"	"60"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 	}
@@ -2648,12 +2648,12 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_NextTip"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"nexttip"
 	}
@@ -2668,12 +2668,12 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_ResetStats"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"resetstatsbutton"
 	}
@@ -2693,7 +2693,7 @@
 		
 		"labelText"		"#TF_Close"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"vguicancel"
 	}

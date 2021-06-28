@@ -10,7 +10,7 @@
 		"tall"			"256"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 
@@ -24,7 +24,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			
@@ -44,7 +44,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			"tabPosition"		"1"
@@ -64,7 +64,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			
@@ -84,7 +84,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			"tabPosition"		"3"
@@ -104,7 +104,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			
@@ -123,7 +123,7 @@
 			"tall"		"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"5"
 			"labelText"		""
@@ -143,7 +143,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			
@@ -163,7 +163,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			
@@ -183,7 +183,7 @@
 			"tall"		"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"6"
 			"labelText"		"&Select"
@@ -202,7 +202,7 @@
 			"tall"		"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"10"
 			"labelText"		"&Capture"
@@ -221,7 +221,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			
@@ -241,7 +241,7 @@
 			"tall"		"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"10"
 			"labelText"		"Generate Backpack Icons"
@@ -260,7 +260,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			
@@ -280,7 +280,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			
@@ -300,7 +300,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			
@@ -320,7 +320,7 @@
 			"tall"			"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			
@@ -340,7 +340,7 @@
 			"tall"		"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"10"
 			"labelText"		"&Save"
@@ -359,7 +359,7 @@
 			"tall"		"24"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"10"
 			"labelText"		"&Restore"

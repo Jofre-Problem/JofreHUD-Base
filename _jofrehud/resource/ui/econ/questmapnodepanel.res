@@ -6,7 +6,7 @@
 		"zpos"			"100"
 		"wide"			"130"
 		"tall"			"75"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"0"
@@ -20,7 +20,7 @@
 			"zpos"			"101"
 			"wide"			"12"
 			"tall"			"o1"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"locked_icon"
 			"scaleImage"	"1"
@@ -39,7 +39,7 @@
 			"zpos"			"100"
 			"wide"			"o1"
 			"tall"			"8"
-			"visible"		"1"
+			//"visible"		"1"
 			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"		"0"
@@ -58,7 +58,7 @@
 			"zpos"			"101"
 			"wide"			"36"
 			"tall"			"12"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"1"
@@ -80,7 +80,7 @@
 			"zpos"			"101"
 			"wide"			"10"
 			"tall"			"o1"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"cyoa/node_item_icon"
 			"scaleImage"	"1"
@@ -99,7 +99,7 @@
 			"zpos"			"101"
 			"wide"			"25"
 			"tall"			"o1"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"class_icons/no_border_demo_icon"
 			"scaleImage"	"1"
@@ -137,7 +137,7 @@
 			"zpos"			"100"
 			"wide"			"28"
 			"tall"			"28"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"proportionaltoparent"	"1"
 			"autoResize"	"3"
@@ -154,12 +154,12 @@
 			"zpos"			"10"
 			"wide"			"28"
 			"tall"			"28"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"

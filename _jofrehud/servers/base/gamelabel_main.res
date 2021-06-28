@@ -8,13 +8,13 @@
 		"tall"		"20"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#ServerBrowser_GameLabel"
 		"textAlignment"		"east"
 		"dulltext"		"1"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 }

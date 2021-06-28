@@ -9,7 +9,7 @@
 		"tall"		"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"tooltiptext" "r:0 g:0 b:0"
@@ -24,7 +24,7 @@
 		"tall"		"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"tooltiptext" "r:30 g:30 b:30"
@@ -39,7 +39,7 @@
 		"tall"		"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"tooltiptext" "r:45 g:49 b:40"
@@ -53,7 +53,7 @@
 		"tall"		"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"tooltiptext" "r:62 g:70 b:55"
@@ -67,7 +67,7 @@
 		"tall"		"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"tooltiptext" "r:76 g:88 b:68"
@@ -81,7 +81,7 @@
 		"tall"		"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"tooltiptext" "r:100 g:120 b:100"
@@ -95,7 +95,7 @@
 		"tall"		"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"tooltiptext" "r:136 g:145 b:128"
@@ -109,7 +109,7 @@
 		"tall"		"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"tooltiptext" "r:160 g:170 b:149"
@@ -123,7 +123,7 @@
 		"tall"		"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"tooltiptext" "r:216 g:222 b:211"
@@ -137,7 +137,7 @@
 		"tall"		"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"tooltiptext" "r:255 g:255 b:255"
@@ -151,7 +151,7 @@
 		"tall"		"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"tooltiptext" "r:149 g:136 b:49"
@@ -165,7 +165,7 @@
 		"tall"		"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"tooltiptext" "r:196 g:181 b:80"

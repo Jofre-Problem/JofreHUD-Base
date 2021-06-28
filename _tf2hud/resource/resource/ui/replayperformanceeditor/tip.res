@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Tip"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"proportional"	"1"
 		"bgcolor_override"	"0 0 0 128"
@@ -20,7 +20,7 @@
 		"fieldName"		"TextLabel"
 		"wide"			"f0"
 		"zpos"			"2"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"font"			"EconFontSmall"
 		"centerwrap"	"1"

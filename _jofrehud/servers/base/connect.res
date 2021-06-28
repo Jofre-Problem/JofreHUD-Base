@@ -13,7 +13,7 @@
 		"tabPosition"		"1"
 		"labelText"		"#ServerBrowser_JoinGame"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"1"
 	}
 }

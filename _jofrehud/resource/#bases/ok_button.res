@@ -10,7 +10,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"#Okay_Button"

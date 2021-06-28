@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"Gradient"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"proportionaltoparent"	"1"
 		"scaleimage"	"1"

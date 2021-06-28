@@ -8,7 +8,7 @@
 		{
 			"ControlName"	"Splitter"
 			"fieldName"		"PreviewSplitter"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"AutoResize"	"3"
 			
@@ -23,7 +23,7 @@
 				{
 					"ControlName"	"Splitter"
 					"fieldName"		"AssetSplitter"
-					"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"AutoResize"	"3"
@@ -43,7 +43,7 @@
 							
 							
 							"PinnedCornerOffsetX" "6"
-							"visible"		"1"
+							//"visible"		"1"
 							
 							
 							"labelText"		"Mod Filter"
@@ -64,7 +64,7 @@
 							
 							"PinnedCornerOffsetX" "75"
 							"UnpinnedCornerOffsetX" "-70"
-							"visible"		"1"
+							//"visible"		"1"
 							
 							
 							"textHidden"	"0"
@@ -87,7 +87,7 @@
 							"PinCorner"		"1"
 							"labelText"		"#AssetPicker_Rescan"
 							"textAlignment"	"center"
-							"visible"		"1"
+							//"visible"		"1"
 							
 							
 							"textHidden"	"0"
@@ -107,7 +107,7 @@
 							
 							"UnpinnedCornerOffsetX" "-6"
 							"UnpinnedCornerOffsetY" "-6"
-							"visible"		"1"
+							//"visible"		"1"
 							
 							
 						}						
@@ -127,7 +127,7 @@
 							
 							"UnpinnedCornerOffsetX" "-6"
 							"UnpinnedCornerOffsetY" "-64"
-							"visible"		"1"
+							//"visible"		"1"
 							
 							"tabPosition"	"1"
 						}
@@ -144,7 +144,7 @@
 							"pinCorner"		"2"
 							"PinnedCornerOffsetX" "6"
 							"PinnedCornerOffsetY" "-34"
-							"visible"		"1"
+							//"visible"		"1"
 							
 							
 							"labelText"		"Full Path"
@@ -166,7 +166,7 @@
 							"PinnedCornerOffsetX" "75"
 							"PinnedCornerOffsetY" "-34"
 							"UnpinnedCornerOffsetX" "-6"
-							"visible"		"1"
+							//"visible"		"1"
 							"enabled"		"0"
 							"editable"		"0"
 							
@@ -188,7 +188,7 @@
 							"pinCorner"		"2"
 							"PinnedCornerOffsetX" "6"
 							"PinnedCornerOffsetY" "-6"
-							"visible"		"1"
+							//"visible"		"1"
 							
 							
 							"labelText"		"Filter"
@@ -210,7 +210,7 @@
 							"PinnedCornerOffsetX" "75"
 							"PinnedCornerOffsetY" "-6"
 							"UnpinnedCornerOffsetX" "-6"
-							"visible"		"1"
+							//"visible"		"1"
 							
 							"tabPosition"	"2"
 							"textHidden"	"0"

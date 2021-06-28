@@ -12,9 +12,9 @@
 		"enabled"		"0"
 		
 		"labelText"		"Play"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"play"
 	}
 	"DemoStop"
@@ -28,9 +28,9 @@
 		"enabled"		"0"
 		
 		"labelText"		"Stop"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"stop"
 		"Default"		"0"
 	}
@@ -46,9 +46,9 @@
 		
 		
 		"labelText"		"Load..."
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"load"
 	}
 	"DemoGoStart"
@@ -62,9 +62,9 @@
 		
 		"labelText"		"|<"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"reload"
 		"Default"		"0"
 	}
@@ -80,9 +80,9 @@
 		
 		"labelText"		">|"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"DemoFastForward"
@@ -97,9 +97,9 @@
 		
 		"labelText"		">>"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"DemoFastBackward"
@@ -115,9 +115,9 @@
 		
 		"labelText"		"<<"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"DemoPrevFrame"
@@ -133,9 +133,9 @@
 		
 		"labelText"		"<"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"prevframe"
 		"Default"		"0"
 	}
@@ -152,9 +152,9 @@
 		
 		"labelText"		">"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Command"		"nextframe"
 		"Default"		"0"
 	}
@@ -179,9 +179,9 @@
 		
 		
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"1"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"DemoProgressLabelTime"
 	{
@@ -195,9 +195,9 @@
 		
 		
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"1"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"DemoSpeedScale"
 	{
@@ -224,8 +224,8 @@
 		
 		
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 }

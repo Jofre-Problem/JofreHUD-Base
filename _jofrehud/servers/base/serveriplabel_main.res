@@ -15,6 +15,6 @@
 		
 		"labelText"		"#ServerBrowser_IPAddressLabel"
 		"textAlignment"		"east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 }

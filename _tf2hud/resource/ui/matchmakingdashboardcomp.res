@@ -10,7 +10,7 @@
 		"zpos"			"1002"
 		"wide"			"270"
 		"tall"			"f70"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -43,13 +43,13 @@
 		"tall"			"o1"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"?"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"0"
 		"Command"		"show_explanations"
@@ -68,7 +68,7 @@
 		"zpos"			"1000"
 		"wide"			"8"
 		"tall"			"8"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"1"
 		"image"			"info"
@@ -84,7 +84,7 @@
 		"zpos"			"100"
 		"wide"			"305"
 		"tall"			"f80"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -116,12 +116,12 @@
 		"tall"			"20"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"find_game"
 		"proportionaltoparent"	"1"

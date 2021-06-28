@@ -10,7 +10,7 @@
 		"tall"			"380"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"	"1"
@@ -26,11 +26,11 @@
 			"tall"		"24"
 			
 			"pinCorner"		"2"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"Yes"
 			"textAlignment"		"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 			"Default"		"1"
 		}
@@ -45,11 +45,11 @@
 			"tall"		"24"
 			
 			"pinCorner"		"2"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"No"
 			"textAlignment"		"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 			"Default"		"1"
 		}

@@ -29,7 +29,7 @@
 		"tall"			"60"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"centerwrap"	"1"
 	}
@@ -43,9 +43,9 @@
 		"zpos"			"1"
 		"wide"			"160"
 		"tall"			"120"
-		"visible"		"1"
+		////"visible"		"1"
 		
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
@@ -77,7 +77,7 @@
 		"tall"				"15"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"0"
@@ -106,13 +106,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"0"
 		"Command"		"cancel"
@@ -131,13 +131,13 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_OK"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"apply"

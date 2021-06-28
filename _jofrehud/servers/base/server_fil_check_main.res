@@ -111,7 +111,7 @@
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_HasUsersPlaying"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"ServerFullFilterCheck"
@@ -129,7 +129,7 @@
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerNotFull"
 		"textAlignment"		"west"
-		"wrap"		"0"
+		//"wrap"		"0"
 		"Default"		"0"
 	}	
 }

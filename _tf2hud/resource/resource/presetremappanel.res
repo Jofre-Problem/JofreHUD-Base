@@ -10,7 +10,7 @@
 		"tall"			"380"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"	"1"
@@ -26,14 +26,14 @@
 			"tall"		"24"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"Source Preset Group:"
 			"textAlignment"		"east"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
-			"wrap"		"0"
+			//"wrap"		"0"
 		}
 		"SourcePresetGroup"
 		{
@@ -47,7 +47,7 @@
 			"UnpinnedCornerOffsetX" "-6"
 			"AutoResize"		"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"textHidden"		"0"
@@ -67,13 +67,13 @@
 			"tall"		"24"
 			
 			"pinCorner"		"2"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"tabPosition"		"2"
 			"labelText"		"Ok"
 			"command"		"ok"
 			"textAlignment"		"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 			"Default"		"1"
 		}
@@ -88,13 +88,13 @@
 			"tall"		"24"
 			
 			"pinCorner"		"2"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"tabPosition"	"3"
 			"labelText"		"Cancel"
 			"command"		"Cancel"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"		"0"
 			"Default"		"0"
 		}
@@ -113,7 +113,7 @@
 			"PinnedCornerOffsetY" "60"
 			"UnpinnedCornerOffsetX" "-6"
 			"UnpinnedCornerOffsetY" "-36"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"tabPosition"	"1"
 		}

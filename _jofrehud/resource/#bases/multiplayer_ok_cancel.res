@@ -10,7 +10,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Cancel"
@@ -30,7 +30,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_OK"

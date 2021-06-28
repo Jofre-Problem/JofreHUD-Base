@@ -11,7 +11,7 @@
 		"tall"			"300"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -32,7 +32,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -51,7 +51,7 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 
@@ -71,7 +71,7 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"1"
 		"fgcolor_override"		"202 190 164 255"
@@ -93,7 +93,7 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 	}
 
@@ -113,7 +113,7 @@
 		"tall"			"75"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"2"
 		"fgcolor_override"		"202 190 164 255"
@@ -132,12 +132,12 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#YouTube_UploadDlg_Unlisted"
 		"textAlignment"	"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"HudFontSmallest"
@@ -158,7 +158,7 @@
 		"tall"			"50"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 	}
@@ -174,14 +174,14 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#YouTube_UploadDlg_Terms"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"termsofservice"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -200,14 +200,14 @@
 		"default"		"1"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#YouTube_UploadDlg_Upload"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"confirm"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -225,14 +225,14 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"

@@ -23,12 +23,12 @@
 		"tall"			"34"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"No Owner"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"paintBackground" "0"
 	}
 
@@ -42,12 +42,12 @@
 		"tall"			"34"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Health: 100%"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"paintBackground" "0"
 	}
 
@@ -61,12 +61,12 @@
 		"tall"			"48"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"Dismantle"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Default"		"0"
 		"command"		"Dismantle"

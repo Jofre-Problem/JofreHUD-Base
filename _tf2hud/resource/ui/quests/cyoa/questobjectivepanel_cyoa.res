@@ -11,7 +11,7 @@
 		"zpos"			"3"
 		"wide"			"148"
 		"tall"			"18"
-		"visible"		"1"
+		////"visible"		"1"
 			
 		"proportionaltoparent"	"1"
 		"map_view"	"1"
@@ -72,7 +72,7 @@
 		"wide"			"f0"
 		"tall"			"10"
 		"zpos"			"3"
-		"visible"		"1"
+		////"visible"		"1"
 		"alpha"			"0"
 		"font"			"QuestMap_Small_Blur"
 		"textinsetx"	"0"

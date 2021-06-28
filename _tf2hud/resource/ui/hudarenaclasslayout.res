@@ -11,7 +11,7 @@
 		"tall"			"100"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/color_panel_blu"
 		"scaleImage"	"1"	
@@ -36,7 +36,7 @@
 		"tall"			"80"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/color_panel_clear"
 		"scaleImage"	"1"	
@@ -61,7 +61,7 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"font"			"HudFontMediumBold"
 		"labelText"		"#TF_Arena_Team_Layout"
@@ -79,7 +79,7 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"font"			"HudFontMediumBold"
 		"labelText"		"#TF_Arena_Team_Layout"
@@ -98,7 +98,7 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"font"			"HudFontSmallBold"
 		"labelText"		"#TF_Arena_F4_ChangeClass"
@@ -116,7 +116,7 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"font"			"HudFontSmallBold"
 		"labelText"		"#TF_Arena_F4_ChangeClass"

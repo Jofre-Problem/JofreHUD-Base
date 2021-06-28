@@ -11,7 +11,7 @@
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"480"
-		"visible"		"1"
+		////"visible"		"1"
 				
 	}
 	"PlayerStatusClassImage"
@@ -29,7 +29,7 @@
 		"wide_minmode"	"37"
 		"tall"			"75"
 		"tall_minmode"	"37"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/class_scoutred"
 		"scaleImage"	"1"	
@@ -49,7 +49,7 @@
 		"wide_minmode"	"27"
 		"tall"			"55"
 		"tall_minmode"	"27"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/class_spyred"
 		"scaleImage"	"1"	
@@ -89,7 +89,7 @@
 		"zpos"			"1"		
 		"wide"			"100"
 		"tall"			"50"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"
 		"image"			"../hud/character_red_bg"	
@@ -112,7 +112,7 @@
 		"zpos"			"1"		
 		"wide"			"109"
 		"tall"			"50"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"
 		"image"				"../hud/character_red_bg_clipped"	
@@ -136,7 +136,7 @@
 		"tall_minmode"	"102"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"render_texture"	"0"
@@ -348,7 +348,7 @@
 			"tall_minmode"		"f0"
 			
 			
-			"visible"			"1"
+			//"visible"			"1"
 			
 			"textAlignment"		"North-West"
 			"dulltext"			"0"
@@ -375,7 +375,7 @@
 			"tall_minmode"		"f0"
 			
 			
-			"visible"			"1"
+			//"visible"			"1"
 			
 			"textAlignment"		"North-West"
 			"dulltext"			"0"
@@ -403,7 +403,7 @@
 			"tall_minmode"		"f0"
 			
 			
-			"visible"			"1"
+			//"visible"			"1"
 			
 			"textAlignment"		"North-West"
 			"dulltext"			"0"

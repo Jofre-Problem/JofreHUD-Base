@@ -9,7 +9,7 @@
 		"tall"			"70"			
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		"enabled"		"0"
 		
 	}

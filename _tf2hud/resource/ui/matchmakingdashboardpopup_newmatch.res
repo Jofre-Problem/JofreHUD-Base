@@ -9,7 +9,7 @@
 		"zpos"			"10000"
 		"wide"			"200"
 		"tall"			"60"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"keyboardinputenabled"	"0"
 		"mouseinputenabled"		"1"
@@ -29,7 +29,7 @@
 			"zpos"			"-2"
 			"wide"			"f0"
 			"tall"			"f0"
-			"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"0"
 			"border"		"OuterShadowBorder"
 			"proportionaltoparent"	"1"
@@ -47,7 +47,7 @@
 			"zpos"			"-1"
 			"wide"			"f5"
 			"tall"			"f5"
-			"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"ReplayDefaultBorder"
 			"proportionaltoparent"	"1"
@@ -62,7 +62,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"TanLight"
@@ -88,7 +88,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"font"			"HudFontSmallest"
 				"fgcolor_override"	"TanLight"
@@ -109,13 +109,13 @@
 				"tall"			"15"
 				
 				"pinCorner"		"3"
-				"visible"		"1"
+				////"visible"		"1"
 
 				
 				
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"Command"		"abandon_match"
 				"proportionaltoparent"	"1"
@@ -147,12 +147,12 @@
 				
 				
 				"pinCorner"		"3"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"Command"		"join_match"
 				"proportionaltoparent"	"1"
@@ -180,12 +180,12 @@
 				
 				
 				"pinCorner"		"3"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"Command"		"join_match"
 				"proportionaltoparent"	"1"
@@ -210,7 +210,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"font"			"HudFontSmallest"
 				"fgcolor_override"	"TanLight"
@@ -229,7 +229,7 @@
 				"zpos"			"104"
 				"wide"			"o1"
 				"tall"			"25"
-				"visible"		"1"
+				////"visible"		"1"
 
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"0"

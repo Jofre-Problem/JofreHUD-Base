@@ -10,7 +10,7 @@
 		"tall"			"200"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -33,7 +33,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -47,7 +47,7 @@
 		"wide"		"40"
 		"tall"		"40"
 		"image"			"pve/mvm_timeout_active_large"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"		"1"
 	}
@@ -66,7 +66,7 @@
 		"tall"			"170"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"fgcolor_override" "200 80 60 255"
@@ -83,14 +83,14 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_CancelBold"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"cancel"
 		"sound_depressed"			"UI/buttonclick.wav"
@@ -112,7 +112,7 @@
 		"zpos"			"25"
 		"wide"			"25"
 		"tall"			"25"
-		"visible"		"1"
+		////"visible"		"1"
 		"actionSet"		"MenuControls"
 		"actionName"	"menu_cancel"
 	}
@@ -129,14 +129,14 @@
 		"default"		"1"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#ConfirmButtonText"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"confirm"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -158,7 +158,7 @@
 		"zpos"			"25"
 		"wide"			"25"
 		"tall"			"25"
-		"visible"		"1"
+		////"visible"		"1"
 		"actionSet"		"MenuControls"
 		"actionName"	"menu_select"
 	}			

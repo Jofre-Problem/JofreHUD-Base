@@ -17,7 +17,7 @@
 		
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"0"
 		"proportionaltoparent"	"1"
 
@@ -34,7 +34,7 @@
 		"wide"			"f0"
 		"tall"			"30"
 		"zpos"			"10"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 
@@ -105,7 +105,7 @@
 			"wide"			"f0"
 			"tall"			"100"
 			"zpos"			"10"
-			"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 
 			"font"			"AdFont_AdText"
@@ -127,7 +127,7 @@
 		"zpos"			"9"
 		"wide"			"o1.5"
 		"tall"			"p.9"
-		"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"0"
 		"proportionaltoparent"	"1"
@@ -161,7 +161,7 @@
 		"tall"		"10"
 		"labelText"			"%price%"
 		"font"			"AdFont_PurchaseButton"
-		"textinsetx"		"0"
+		//"textinsetx"		"0"
 		"textAlignment"	"center"
 		
 		"proportionaltoparent"	"1"
@@ -193,7 +193,7 @@
 		"tall"		"10"
 		"labelText"			"#TF_ItemAd_ViewOnMarket"
 		"font"			"AdFont_PurchaseButton"
-		"textinsetx"		"0"
+		//"textinsetx"		"0"
 		"textAlignment"	"center"
 		
 		"proportionaltoparent"	"1"

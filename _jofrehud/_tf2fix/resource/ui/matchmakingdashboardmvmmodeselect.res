@@ -8,7 +8,7 @@
 		"zpos"			"1002"
 		"wide"			"270"
 		"tall"			"f70"
-		"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -21,7 +21,7 @@
 		"zpos"			"2"
 		"wide"			"o2"
 		"tall"			"100"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"mouseinputenabled" "0"
 		"image"			"mvm/mvm_logo"
@@ -49,7 +49,7 @@
 			"zpos"			"101"
 			"wide"			"f0"
 			"tall"			"f0"
-			"visible"		"1"
+			//"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"InnerShadowBorder"
 			"proportionaltoparent"	"1"
@@ -65,7 +65,7 @@
 			
 			"wide"			"f0"
 			"tall"			"o1"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"mouseinputenabled" "0"
 			"image"			"mvm/mannup"
@@ -82,7 +82,7 @@
 			"wide"		"f0"
 			"tall"		"100"
 			"zpos"	"1"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"rotation"		"0"
 			"proportionaltoparent"	"1"
@@ -104,7 +104,7 @@
 			"tall"			"25"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_MvM_MannUp"
@@ -170,7 +170,7 @@
 			"zpos"			"101"
 			"wide"			"f0"
 			"tall"			"f0"
-			"visible"		"1"
+			//"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"InnerShadowBorder"
 			"proportionaltoparent"	"1"
@@ -186,7 +186,7 @@
 			
 			"wide"			"f0"
 			"tall"			"o1"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"mouseinputenabled" "0"
 			"image"			"mvm/bootcamp"
@@ -203,7 +203,7 @@
 			"wide"		"f0"
 			"tall"		"100"
 			"zpos"	"1"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"rotation"		"0"
 			"proportionaltoparent"	"1"
@@ -225,7 +225,7 @@
 			"wide"			"120"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_MvM_BootCamp"

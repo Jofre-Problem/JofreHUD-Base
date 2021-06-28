@@ -9,7 +9,7 @@
 		"wide"			"f0"
 		"tall"			"400"
 		"zpos"			"501"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		
@@ -40,7 +40,7 @@
 			"tall"			"45"
 			"visible"		"0"
 			"enabled"		"0"
-			"bgcolor_override"		"0 0 0 0"
+			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
@@ -78,7 +78,7 @@
 			"tall"				"30"
 			
 			
-			"visible"			"1"
+			//"visible"			"1"
 			
 			
 			"labelText"			""
@@ -118,7 +118,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"200 187 161 255"
 			"wrap"			"1"
@@ -138,7 +138,7 @@
 			"tall"			"25"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"117 107 94 255"
 		}
@@ -156,7 +156,7 @@
 			"tall"			"25"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"117 107 94 255"
 		}
@@ -190,14 +190,14 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			"enabled"		"0"
 			
 			"labelText"		"#CraftConfirm"
 			"font"			"HudFontMediumBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"craft"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -215,13 +215,13 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"<"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"previnputpage"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -241,7 +241,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override" "200 80 60 255"
 		}
@@ -256,13 +256,13 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		">"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"nextinputpage"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -316,9 +316,9 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"fgcolor"		"200 187 161 255"
 		}
@@ -337,7 +337,7 @@
 			"tall"			"25"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor"		"200 187 161 255"
 			"wrap"			"1"
@@ -354,14 +354,14 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#Cancel"
 			"font"			"HudFontMediumBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"cancel"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -379,13 +379,13 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"<"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"prevpage"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -405,7 +405,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override" "200 80 60 255"
 		}
@@ -420,13 +420,13 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		">"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"nextpage"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -444,7 +444,7 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
@@ -465,7 +465,7 @@
 			"tall"			"60"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -485,7 +485,7 @@
 		"wide"			"54"
 		"tall"			"42"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"

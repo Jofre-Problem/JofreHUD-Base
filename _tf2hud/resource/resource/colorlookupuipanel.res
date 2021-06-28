@@ -10,11 +10,11 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		""
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"LoadLookup"
 	}
@@ -28,7 +28,7 @@
 		"tall"				"34"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"labelText"			"Blend Factor:"
@@ -46,7 +46,7 @@
 		"tall"				"34"
 		
 		
-		"visible"			"1"
+		//"visible"			"1"
 		
 		
 		"leftText"			"0"

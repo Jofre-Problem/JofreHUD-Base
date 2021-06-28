@@ -25,7 +25,7 @@
 		"tall"		"f0"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"bgcolor_override"	"0 0 0 252"
@@ -41,7 +41,7 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
@@ -63,7 +63,7 @@
 			"tall"			"60"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -86,7 +86,7 @@
 		"tall"			"30"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"0"
 		"proportionaltoparent"	"1"
@@ -107,7 +107,7 @@
 		"wide"			"315"
 		"tall"			"340"
 		"proportionaltoparent"	"1"
-		"visible"		"1"
+		////"visible"		"1"
 		
 
 		"Background"
@@ -119,7 +119,7 @@
 			
 			"wide"			"p1.05"
 			"tall"			"p1"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"quest_details_background"
 			"scaleImage"	"1"	
@@ -137,7 +137,7 @@
 			"wide"			"105"
 			"tall"			"105"
 			"proportionaltoparent"	"1"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"paintborder"	"0"
 
@@ -150,7 +150,7 @@
 				"zpos"			"11"
 				"wide"			"p0.93"
 				"tall"			"p0.93"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"quest_pauling"
 				"scaleImage"	"1"	
@@ -169,7 +169,7 @@
 			"tall"			"60"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"proportionaltoparent"	"1"
 			"bgcolor_override"	"209 201 184 255"
@@ -189,7 +189,7 @@
 				"tall"			"p0.9"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"wrap"			"1"
 				"proportionaltoparent"	"1"
@@ -212,7 +212,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"0"
 			"proportionaltoparent"	"1"
@@ -236,7 +236,7 @@
 			"zpos"			"10"
 			"wide"			"p.95"
 			"tall"			"p.425"
-			"visible"		"1"
+			////"visible"		"1"
 			"enable"		"1"
 			"proportionaltoparent"	"1"
 		}
@@ -250,7 +250,7 @@
 			"zpos"			"11"
 			"wide"			"100"
 			"tall"			"25"
-			"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 
@@ -264,7 +264,7 @@
 				"tall"			"f0"
 				
 				"pinCorner"		"3"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"proportionaltoparent"	"1"
@@ -273,7 +273,7 @@
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"west"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"1"
 				"actionsignallevel" "3"
@@ -303,7 +303,7 @@
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"			"glyph_quest_icon"
@@ -323,7 +323,7 @@
 			"zpos"			"11"
 			"wide"			"100"
 			"tall"			"25"
-			"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 
@@ -337,7 +337,7 @@
 				"tall"			"f0"
 				
 				"pinCorner"		"3"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"proportionaltoparent"	"1"
@@ -346,7 +346,7 @@
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"west"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"1"
 				"actionsignallevel" "3"
@@ -376,7 +376,7 @@
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
-					"visible"		"1"
+					////"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_delete"

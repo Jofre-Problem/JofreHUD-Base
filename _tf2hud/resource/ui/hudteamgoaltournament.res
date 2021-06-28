@@ -28,7 +28,7 @@
 			"tall"			"170"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../HUD/color_panel_browner"
 	
@@ -73,7 +73,7 @@
 			"tall"			"15"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"labelText"		"%objectivelabel%"
@@ -90,7 +90,7 @@
 			"wrap"			"1"
 			"autoResize"		"1"
 			"pinCorner"		"1"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"west"
@@ -109,7 +109,7 @@
 			"tall"			"2"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 				
 			"fillcolor"		"125 125 125 125"
@@ -127,7 +127,7 @@
 			"wrap"			"1"
 			"autoResize"		"1"
 			"pinCorner"		"1"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"west"

@@ -10,7 +10,7 @@
 		"tall"		"565"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"SysMenu"
@@ -36,7 +36,7 @@
 		"tall"		"16"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"Divider0"
@@ -49,7 +49,7 @@
 		"tall"		"2"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}	
 	"TextPlayerName0"
@@ -64,7 +64,7 @@
 		
 		"labelText"		""
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"LabelPlayerTricks0"
@@ -79,7 +79,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TextPlayerName1"
@@ -94,7 +94,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"LabelPlayerTricks1"
@@ -109,7 +109,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TextPlayerName2"
@@ -124,7 +124,7 @@
 		
 		"labelText"		""
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"LabelPlayerTricks2"
@@ -139,7 +139,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"TextPlayerName3"
@@ -154,7 +154,7 @@
 		
 		"labelText"		""
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"LabelPlayerTricks3"
@@ -169,7 +169,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -209,7 +209,7 @@
 		"tall"			"175"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"InstructionsLabel"
@@ -239,7 +239,7 @@
 		
 		"labelText"		"Player 1"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"PlayerScoringPointsText0"
@@ -254,7 +254,7 @@
 		
 		"labelText"		"#SteamAddOn_Points"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"PlayerScoringPointsValue0"
@@ -269,7 +269,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"PlayerScoringScoreText0"
@@ -284,7 +284,7 @@
 		
 		"labelText"		"#SteamAddOn_Score"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"PlayerScoringScoreValue0"
@@ -299,7 +299,7 @@
 		
 		"labelText"		"0"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -315,7 +315,7 @@
 		
 		"labelText"		"Player 2"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"PlayerScoringPointsText1"
@@ -330,7 +330,7 @@
 		
 		"labelText"		"#SteamAddOn_Points"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"PlayerScoringPointsValue1"
@@ -345,7 +345,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"PlayerScoringScoreText1"
@@ -360,7 +360,7 @@
 		
 		"labelText"		"#SteamAddOn_Score"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"PlayerScoringScoreValue1"
@@ -375,7 +375,7 @@
 		
 		"labelText"		"0"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 
@@ -391,7 +391,7 @@
 		
 		"labelText"		"Player 3"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"PlayerScoringPointsText2"
@@ -406,7 +406,7 @@
 		
 		"labelText"		"#SteamAddOn_Points"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"PlayerScoringPointsValue2"
@@ -421,7 +421,7 @@
 		
 		"labelText"		""		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"PlayerScoringScoreText2"
@@ -436,7 +436,7 @@
 		
 		"labelText"		"#SteamAddOn_Score"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"PlayerScoringScoreValue2"
@@ -451,7 +451,7 @@
 		
 		"labelText"		"0"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 
@@ -467,7 +467,7 @@
 		
 		"labelText"		"Player4"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"PlayerScoringPointsText3"
@@ -482,7 +482,7 @@
 		
 		"labelText"		"#SteamAddOn_Points"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"PlayerScoringPointsValue3"
@@ -497,7 +497,7 @@
 		
 		"labelText"		"+52"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"PlayerScoringScoreText3"
@@ -512,7 +512,7 @@
 		
 		"labelText"		"#SteamAddOn_Score"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"PlayerScoringScoreValue3"
@@ -527,7 +527,7 @@
 		
 		"labelText"		"0"		
 		"textAlignment"		"north-west"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -598,7 +598,7 @@
 		"tall"			"24"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"18"
 		"labelText"		"#SteamAddOn_ShowScore"
@@ -615,7 +615,7 @@
 		"tall"			"24"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"19"
 		"labelText"		"#SteamAddOn_LastTrick"
@@ -649,7 +649,7 @@
 		"tall"		"75"
 		"autoResize"		"3"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"textHidden"		"0"
@@ -667,7 +667,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		"pinCorner"		"2"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textHidden"		"0"
@@ -684,7 +684,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#SteamAddOn_Btn_Send"

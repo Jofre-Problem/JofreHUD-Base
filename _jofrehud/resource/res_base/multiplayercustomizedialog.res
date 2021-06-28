@@ -25,12 +25,12 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"command"		"Close"
 		"default"		"0"
@@ -43,11 +43,11 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#GameUI_Advanced"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"command"		"Advanced"
 		"default"		"0"
@@ -79,7 +79,7 @@
 		
 		"labelText"		"#GameUI_HighModels"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"default"		"0"
 	}
@@ -98,7 +98,7 @@
 		"fieldName"		"SpraypaintList"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"ModelImage"
@@ -120,7 +120,7 @@
 		"tall"		"64"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -132,7 +132,7 @@
 		
 		
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"topVertLeft"
@@ -145,7 +145,7 @@
 		
 		
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"bottomHorizRight"
@@ -158,7 +158,7 @@
 		
 		
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 	"bottomVertRight"
@@ -171,7 +171,7 @@
 		
 		
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 	}
 }

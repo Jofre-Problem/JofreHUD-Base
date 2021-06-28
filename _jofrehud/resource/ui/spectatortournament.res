@@ -34,7 +34,7 @@
 				"tall"			"15"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				"labelText"		"%playername%"
 				"textAlignment"	"west"
 				"fgcolor_override"		"HudWhite"
@@ -61,7 +61,7 @@
 				"tall"			"15"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				"labelText"		"%playername%"
 				"textAlignment"	"west"
 				"fgcolor"		"Black"
@@ -86,7 +86,7 @@
 				"zpos"			"2"
 				"wide"			"16"
 				"tall"			"16"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"../hud/class_scoutred"
 				"scaleImage"	"1"	
@@ -117,7 +117,7 @@
 				
 				if_mvm
 				{
-					"visible"		"1"
+					////"visible"		"1"
 				}
 			}
 			
@@ -130,7 +130,7 @@
 				"zpos"				"3"
 				"wide"				"32"
 				"tall"				"32"
-				"visible"			"1"
+				//"visible"			"1"
 					
 				"HealthBonusPosAdj"	"10"
 				"HealthDeathWarning"		"0.68"
@@ -162,7 +162,7 @@
 				
 				if_mvm
 				{
-					"visible"		"1"
+					////"visible"		"1"
 				}	
 			}
 			
@@ -184,7 +184,7 @@
 
 				if_mvm
 				{
-					"visible"		"1"
+					////"visible"		"1"
 				}
 			}
 			
@@ -200,7 +200,7 @@
 				"tall"			"16"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"center"
 				"fgcolor"		"HudWhite"
@@ -225,7 +225,7 @@
 				"tall"			"16"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				"labelText"		"%chargeamount%"
 				"textAlignment"	"east"
 				"fgcolor"		"Black"
@@ -244,7 +244,7 @@
 				"tall"			"16"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				"labelText"		"%chargeamount%"
 				"textAlignment"	"east"
 				"fgcolor"		"HudWhite"

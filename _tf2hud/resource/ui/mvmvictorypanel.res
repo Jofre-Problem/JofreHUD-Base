@@ -8,7 +8,7 @@
 		"ypos"			"100"
 		"wide"			"536"
 		"tall"			"230"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		//"PaintBackgroundType"	"0"
 		//"paintbackground"	"0"
@@ -24,7 +24,7 @@
 			"tall"			"230"
 			
 			
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"../HUD/tournament_panel_black"
 
@@ -43,7 +43,7 @@
 			
 			"wide"			"530"
 			"tall"			"100"
-			"visible"		"1"
+			////"visible"		"1"
 
 			"HeaderShadow"
 			{
@@ -97,7 +97,7 @@
 			"wide"			"400"
 			"tall"			"70"
 			"autoResize"	"1"
-			"visible"		"1"
+			////"visible"		"1"
 		}
 
 		"RatingContainer"
@@ -109,7 +109,7 @@
 			"wide"			"400"
 			"tall"			"400"
 			"autoResize"	"1"
-			"visible"		"1"
+			////"visible"		"1"
 			
 			"RatingLabel"
 			{
@@ -163,7 +163,7 @@
 			"wide"			"400"
 			"tall"			"70"
 			"autoResize"	"1"
-			"visible"		"1"
+			////"visible"		"1"
 		}
 	}
 
@@ -177,13 +177,13 @@
 		"wide"			"106"
 		"tall"			"25"
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#DoneButton"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"

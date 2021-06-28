@@ -25,7 +25,7 @@
 		"zpos"			"5"
 		"wide"			"o1"
 		"tall"			"f0"
-		"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"radius"		"8"
@@ -43,7 +43,7 @@
 		"wide"			"f35"
 		"zpos"			"100"
 		"tall"			"f0"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"font"			"AchievementTracker_Name"
 		"fgcolor_override"	"TanLight"

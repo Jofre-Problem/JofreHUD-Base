@@ -23,12 +23,12 @@
 		"tall"			"80"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Time Remaining"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"paintBackground" "0"
 
 		// NOTE: These settings change the font + color as defined in CombinePanelScheme.res
@@ -46,12 +46,12 @@
 		"tall"			"80"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"0"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"paintBackground" "0"
 
 		// NOTE: These settings change the font + color as defined in CombinePanelScheme.res
@@ -69,12 +69,12 @@
 		"tall"			"80"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"MALFUNCTION"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"paintBackground" "0"
 
 		// NOTE: These settings change the font + color as defined in CombinePanelScheme.res

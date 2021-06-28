@@ -8,7 +8,7 @@
 		"zpos"			"101"
 		"wide"			"80"
 		"tall"			"16"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"proportionaltoparent" "1"
 		"eatmouseinput"	"0"		
@@ -25,12 +25,12 @@
 		"tall"			"16"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labeltext"		"#TF_QuestView_Accept"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"0"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -63,7 +63,7 @@
 		
 		"wide"			"f0"
 		"tall"			"o0.25"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"proportionaltoparent"	"1"
@@ -151,7 +151,7 @@
 		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"o0.25"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
@@ -168,7 +168,7 @@
 		
 		"wide"			"f0"
 		"tall"			"o0.25"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
@@ -252,7 +252,7 @@
 		"zpos"			"2"
 		"wide"			"10"
 		"tall"			"10"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"proportionaltoparent"	"1"
@@ -296,7 +296,7 @@
 				"tall"			"35"
 				"proportionaltoparent"	"1"	
 				"bgcolor_override"	"0 0 0 240"
-				"visible"		"1"
+				////"visible"		"1"
 			}
 
 			"TurnInButton"
@@ -310,12 +310,12 @@
 				"tall"			"30"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"labeltext"		"#QuestLog_TurnIn"
 				"textAlignment"	"center"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"0"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -351,7 +351,7 @@
 				"tall"			"300"
 				"proportionaltoparent"	"1"	
 				"bgcolor_override"	"0 0 0 240"
-				"visible"		"1"
+				////"visible"		"1"
 			}
 		}
 

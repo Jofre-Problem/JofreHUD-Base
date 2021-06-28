@@ -16,7 +16,7 @@
 		"tall"			"33"
 		"tall_minmode"	"23"
 		//"tall_lodef"	"38"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../hud/objectives_timepanel_blue_bg"	
 		"scaleImage"		"1"	
@@ -41,7 +41,7 @@
 		//"wide_lodef"		"25"
 		"tall"				"20"
 		//"tall_lodef"		"25"	
-		"visible"			"1"
+		//"visible"			"1"
 		"visible_minmode"	"0"
 		
 		"scaleImage"			"1"
@@ -78,7 +78,7 @@
 		
 		"labelText"		"#game_WaitingForPlayers"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
 		"font"			"ClockSubTextTiny"
@@ -142,7 +142,7 @@
 		
 		"labelText"		"#game_Overtime"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
 		"font"			"ClockSubText"
@@ -206,7 +206,7 @@
 		
 		"labelText"		"#game_SuddenDeath"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
 		"font"			"ClockSubTextSuddenDeath"
@@ -270,7 +270,7 @@
 		
 		"labelText"		"#game_Setup"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
 		"font"			"ClockSubText"
@@ -335,7 +335,7 @@
 		
 		"labelText"		"%servertimeleft%"
 		"textAlignment"		"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
 		"font"			"ClockSubText"

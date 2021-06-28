@@ -10,7 +10,7 @@
 		"tall"			"480"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -31,7 +31,7 @@
 		"wide"			"130"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"fgcolor_override"		"ReplayBrowser.Search.FgColor"
@@ -49,7 +49,7 @@
 		"ypos"			"25"
 		"wide"			"600"
 		"tall"			"350"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"autohide_scrollbar" "1"

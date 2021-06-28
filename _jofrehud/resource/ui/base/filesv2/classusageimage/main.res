@@ -7,7 +7,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -21,7 +21,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -35,7 +35,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -49,7 +49,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -63,7 +63,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -77,7 +77,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"

@@ -13,7 +13,7 @@
 				"zpos"			"1"
 				"wide"			"10"
 				"tall"			"10"
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"scaleImage"	"1"	
 				"icon"			"ico_metal"
@@ -31,10 +31,10 @@
 				"tall"			"8"
 				
 				
-				"visible"		"1"
+				////"visible"		"1"
 				
 				"textAlignment"	"Left"
-				"dulltext"		"0"
+				//"dulltext"		"0"
 				"brighttext"	"0"
 			}
 		}

@@ -10,7 +10,7 @@
 		"tall"		"376"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -24,12 +24,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"command"		"Close"
 		"default"		"0"
 	}
@@ -43,12 +43,12 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"command"		"Ok"
 		"default"		"1"
 	}
@@ -62,7 +62,7 @@
 		"tall"		"274"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -76,7 +76,7 @@
 		"tall"		"640"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}

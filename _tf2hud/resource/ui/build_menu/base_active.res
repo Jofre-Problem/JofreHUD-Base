@@ -12,12 +12,12 @@
 		"tall"			"15"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"#TF_Object_Sentry"
 		//"labelText_lodef"		"#TF_Object_Sentry_360"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 
@@ -30,7 +30,7 @@
 		
 		"wide"			"98"
 		"tall"			"105"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg"
@@ -46,7 +46,7 @@
 		"zpos"			"2"
 		"wide"			"56"
 		"tall"			"56"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_sentry_build"
@@ -62,7 +62,7 @@
 		"zpos"			"1"
 		"wide"			"10"
 		"tall"			"10"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
@@ -82,7 +82,7 @@
 		"tall"			"13"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%metal%"
 		"textAlignment"	"Left"	
@@ -101,7 +101,7 @@
 		"tall"			"13"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		""
 		"textAlignment"	"East"	
@@ -116,7 +116,7 @@
 		
 		"wide"			"18"
 		"tall"			"18"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
@@ -136,7 +136,7 @@
 		"tall"			"18"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"1"
 		"textAlignment"	"Center"

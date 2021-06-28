@@ -17,7 +17,7 @@
 		//"tall_lodef"	"70"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"labelText"		"%tip%"
 		"textAlignment"		"center"	[$WIN32]

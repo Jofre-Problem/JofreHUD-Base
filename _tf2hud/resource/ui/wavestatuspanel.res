@@ -11,7 +11,7 @@
 		"tall"			"35"
 		
 		
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../HUD/tournament_panel_brown"
 
@@ -35,7 +35,7 @@
 		"tall"			"15"
 		"xpos_minmode"	"110"
 		"wide_minmode"	"-300"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"textAlignment"				"center"
 		"textAlignment_minmode"		"west"
@@ -59,7 +59,7 @@
 		
 		if_verbose
 		{
-			"visible"		"1"
+			////"visible"		"1"
 		}
 	}
 	
@@ -81,7 +81,7 @@
 		
 		if_verbose
 		{
-			"visible"		"1"
+			////"visible"		"1"
 		}		
 	}
 	
@@ -97,7 +97,7 @@
 		"xpos_minmode"	"231"
 		"ypos_minmode"	"8"
 		"wide_minmode"	"138"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../HUD/tournament_panel_blu"
 		
@@ -120,7 +120,7 @@
 		"xpos_minmode"	"230"
 		"ypos_minmode"	"7"
 		"wide_minmode"	"140"
-		"visible"		"1"
+		////"visible"		"1"
 		
 		"image"			"../HUD/tournament_panel_tan"
 		
