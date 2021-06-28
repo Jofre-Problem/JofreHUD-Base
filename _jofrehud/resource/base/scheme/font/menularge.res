@@ -6,23 +6,23 @@ Scheme
 		{
 			"1"	[$LINUX]
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 				"tall"		"20"
 				"antialias" "1"
 			}
 			"1"	[!$LINUX]
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 				"tall"		"16"
 				"weight"	"600"
 				"antialias" "1"
 			}
 			"1"	[$X360]
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 				"tall"			"14"
 				//"tall_hidef"	"20"
 				"weight"	"1200"

@@ -138,7 +138,6 @@ Scheme
 				"name"		"TF2 Build"
 				"tall"		"18"
 				"weight"	"500"
-				"additive"	"0"
 				"antialias" "1"
 			}
 		}
@@ -156,20 +155,16 @@ Scheme
 			{
 				"name"		"TF2 Build"
 				"tall"		"35"
-				//"tall_lodef"	"40"
-				"weight"	"500"
-				"additive"	"0"
 				"antialias" "1"
 			}
 		}
 
-		"Default" [$OSX]
+		"Default"
 		{
 			"1"
 			{
 				"name"		"Verdana"
 				"tall"		"14"
-				"weight"	"500"
 			}
 		}
 
@@ -179,7 +174,6 @@ Scheme
 			{
 				"name"		"Tahoma"
 				"tall"		"16"
-				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"480 599"
 			}
@@ -187,7 +181,6 @@ Scheme
 			{
 				"name"		"Tahoma"
 				"tall"		"16"
-				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"
 			}
@@ -195,7 +188,6 @@ Scheme
 			{
 				"name"		"Tahoma"
 				"tall"		"16"
-				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
 				"antialias"	"1"
@@ -204,7 +196,6 @@ Scheme
 			{
 				"name"		"Tahoma"
 				"tall"		"19"
-				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
 				"antialias"	"1"
@@ -213,7 +204,6 @@ Scheme
 			{
 				"name"		"Tahoma"
 				"tall"		"19"
-				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
 				"antialias"	"1"
@@ -225,11 +215,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$OSX]
-				"name"		"Verdana Bold" [$OSX]
-				"weight"		"1500"
-				"tall"			"16" [!$OSX]
-				"tall"			"18" [$OSX]
+				"name"		"Arial"
+				"tall"			"16"
 				"antialias"		"1"
 			}
 		}
@@ -238,11 +225,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$OSX]
-				"name"		"Verdana Bold" [$OSX]
-				"weight"		"1500"
-				"tall"			"18" [!$OSX]
-				"tall"			"19" [$OSX]
+				"name"		"Arial"
+				"tall"			"19"
 				"antialias"		"1"
 			}
 		}
@@ -251,12 +235,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$OSX]
-				"name"		"Verdana" [$OSX]
-				"weight"		"1000"
-				"tall"			"14" [!$OSX]
-				"tall"			"12" [$OSX]
-				"antialias"		"1" [!$OSX]
+				"name"		"Arial"
+				"tall"			"14"
 			}
 		}
 

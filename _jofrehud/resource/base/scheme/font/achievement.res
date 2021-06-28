@@ -6,8 +6,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 				"tall"		"20"
 				"weight"	"1200"
 				"antialias" "1"
@@ -19,8 +19,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 				"tall"		"18"
 				"weight"	"1200"
 				"antialias" "1"
@@ -33,8 +33,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 				"tall"		"15"
 				"weight"	"1200"
 				"antialias" "1"
@@ -43,8 +43,8 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 				"tall"		"20"
 				"weight"	"1200"
 				"antialias" "1"

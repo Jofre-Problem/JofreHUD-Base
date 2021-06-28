@@ -11,7 +11,7 @@ Scheme
 			"1"
 			{
 				"name"		"Agency FB" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				
 				"yres"	"0 2000"
 			}
 		}		
@@ -19,8 +19,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}	
 		/////////////////////////////////////
@@ -30,8 +30,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 				"tall"		"15"
 			}
 		}	
@@ -39,8 +39,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 				"tall"		"15"
 			}
 		}			
@@ -48,8 +48,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 				"tall"		"15"
 			}
 		}
@@ -57,8 +57,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 				tall		"47"
 			}
 		}	
@@ -67,8 +67,8 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 				"tall"		"24"
 				"weight"	"900"
 				"antialias" "1"
@@ -78,8 +78,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 				tall		"16"
 				"weight"	"900"
 				"antialias" "1"				
@@ -90,36 +90,36 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}			
 		"ChatMiniFont"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"2"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"3"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"4"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"5"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}		
 		CenterPrintText
@@ -127,16 +127,16 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		CreditsOutroText	//hl2
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 				"tall"		"9"
 				"weight"	"900"
 				"antialias" "1"
@@ -146,16 +146,16 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"HudHintTextLarge"	//hl2
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 					"tall"		"14"			
 			}
 		}	
@@ -163,8 +163,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 					"tall"		"14"			
 			}
 		}				
@@ -172,63 +172,63 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"2"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"3"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"4"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"5"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"HudFontGiant"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"2"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"3"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"4"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"5"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"HudFontGiantBold" //ammo
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Segoe UI"
 				"name"		"Verdana" [$POSIX]
 			}
 		}
@@ -237,8 +237,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -246,176 +246,176 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"HudFontMediumBigBold"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}		
 		"HudFontMedium"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"HudFontMediumSecondary"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"HudFontMediumBold"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"HudFontMediumSmallBold"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"HudFontMediumSmall"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"HudFontMediumSmallSecondary"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"HudFontSmall"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}	
 		"HudFontSmallishBold"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"HudFontSmallBold"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"HudFontSmallBoldShadow"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"HudFontSmallest"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"HudFontSmallestShadow"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"HudFontSmallestBold"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"PerformanceModeSmall"	//unused
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"StorePromotionsTitle"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"FontCartPrice"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"FontStorePrice"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"FontStoreOriginalPrice"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"FontStorePriceSmall"	//only used on mvm
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"FontStorePromotion"	//unused
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -473,8 +473,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 				tall		"18"
 				antialias "1"
 			}
@@ -483,7 +483,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
+				"name"		"Segoe UI"
 				"name"		"Verdana" [$POSIX]
 			}
 		}
@@ -491,73 +491,73 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ClockSubText"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ClockSubTextSuddenDeath"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ClockSubTextTiny"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"HudSelectionText"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"2"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"3"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"4"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"5"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		DebugOverlay
 		{
 			"1"	[$WIN32]
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"1"	[$X360]
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}		
 		TFTypeDeath
@@ -586,8 +586,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -595,24 +595,24 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"MenuClassBuckets"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"MenuKeys"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		
@@ -620,8 +620,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}		
 		
@@ -629,32 +629,32 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ChalkboardTitleBig"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ChalkboardTitleMedium"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ChalkboardText"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -662,64 +662,64 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ScoreboardSmall"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ScoreboardMediumSmall"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ScoreboardMedium"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ScoreboardTeamName"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ScoreboardTeamCountNew"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ScoreboardTeamNameNew"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ScoreboardTeamNameLarge"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -727,84 +727,84 @@ Scheme
  		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ScoreboardTeamScore"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"2"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"3"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"4"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"5"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"MatchSummaryTeamScores"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"MatchSummaryStatsAndMedals"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"MatchSummaryWinner" //only used on not used match status panel
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"CompMatchStartTeamNames"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ControlPointTimer"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ControlPointTimerSmaller"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -812,8 +812,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		
@@ -821,56 +821,56 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"2"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"3"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"4"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"5"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ChatFont"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"2"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"3"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"4"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"5"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -878,24 +878,24 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}			
 		CapPlayerFont
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		CapPlayerFontSmall
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -903,16 +903,16 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}		
 		TFFontMedium
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}		
 		
@@ -920,8 +920,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}		
 		
@@ -929,56 +929,56 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		MatchmakingDialogSessionOptionsTitle
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		MatchmakingDialogMenuLarge
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		MatchmakingDialogMenuBrowserHostname
 		{
 			"1"			// brower item hostname
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		MatchmakingDialogMenuBrowserDetails
 		{
 			"1"			// browser item players and map name
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}		
 		MatchmakingDialogMenuMedium
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		MatchmakingDialogMenuMediumSmall
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -987,56 +987,56 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"TeamMenu"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}		
 		"IntroMenuCaption"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}			
 		"AchievementNotification"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ImportToolSmallestBold"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ImportToolSmallest"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"SpectatorVerySmall"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		// Used by scoreboard and spectator UI for names which don't map in the normal fashion
@@ -1044,18 +1044,18 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"2"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"3"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		
@@ -1063,48 +1063,48 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ItemFontNameSmall"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ItemFontNameLarge"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ItemFontNameLarger"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ItemFontAttribSmallest"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		ItemFontAttribSmallv2
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			
 		}
@@ -1112,24 +1112,24 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ItemFontAttribLarge"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}	
 		"ItemFontAttribLarger"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		
@@ -1137,8 +1137,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -1146,24 +1146,24 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"QuestObjectiveTracker_Desc"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"QuestObjectiveTracker_DescGlow"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -1171,8 +1171,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -1180,18 +1180,18 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"2"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"3"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -1199,18 +1199,18 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"2"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"3"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		
@@ -1218,8 +1218,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -1227,8 +1227,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -1236,18 +1236,18 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"2"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"3"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -1255,18 +1255,18 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"2"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"3"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -1274,18 +1274,18 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"2"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"3"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -1293,8 +1293,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		
@@ -1302,8 +1302,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -1311,8 +1311,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		
@@ -1320,16 +1320,16 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"AdFont_PurchaseButton"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -1337,8 +1337,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 
 			}
 		}
@@ -1347,8 +1347,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		
@@ -1359,109 +1359,109 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"2"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"3"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"4"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"5"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ReplayBrowserSmallest"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ReplaySmaller"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"2"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"3"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"4"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"5"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"6"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ReplayMediumSmall"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ReplayMedium"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ReplayMediumBig"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ReplayBrowserTab"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ReplayLarger"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		
@@ -1472,16 +1472,16 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"EconFontMedium"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -1489,8 +1489,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 
 			}
 		}
@@ -1499,8 +1499,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -1508,8 +1508,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -1519,8 +1519,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -1530,8 +1530,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -1539,8 +1539,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -1548,8 +1548,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -1557,40 +1557,40 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"TextToolTipFont"			//Blank Font, but I dont want to have uselees fonr definitions :)
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}			
 		"QuestMap_Small_Blur"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}					
 		"HudNumbers" //unused, change it! -- WIcon 25
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"ScoreboardSmallest"
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]	
+				"name"		"Segoe UI"
+					
 			}	
 		}
 				
@@ -1598,8 +1598,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 	

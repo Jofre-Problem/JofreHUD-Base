@@ -45,8 +45,7 @@ Scheme
 		Button.TextColor				"White"
 		Button.BgColor					"Blank"
 		Button.ArmedTextColor			"White"
-		Button.ArmedBgColor				"Blank"				[$WIN32]
-		Button.ArmedBgColor				"190 115 0 255"		[$X360]
+		Button.ArmedBgColor				"Blank"
 		Button.DepressedTextColor		"White"
 		Button.DepressedBgColor			"Blank"
 		Button.FocusBorderColor			"Black"
@@ -70,13 +69,10 @@ Scheme
 		Frame.TitleTextInsetX			16
 		Frame.ClientInsetX				8
 		Frame.ClientInsetY				6
-		Frame.BgColor					"160 160 160 128"	[$WIN32]
-		Frame.BgColor					"80 80 80 192"		[$X360]
-		Frame.OutOfFocusBgColor			"160 160 160 32"	[$WIN32]
-		Frame.OutOfFocusBgColor			"80 80 80 192"		[$X360]
+		Frame.BgColor					"160 160 160 128"
+		Frame.OutOfFocusBgColor			"160 160 160 32"
 		Frame.FocusTransitionEffectTime	"0.3"							// time it takes for a window to fade in/out on focus/out of focus
-		Frame.TransitionEffectTime		"0.3"				[$WIN32]	// time it takes for a window to fade in/out on open/close
-		Frame.TransitionEffectTime		"0.2"				[$X360]		// time it takes for a window to fade in/out on open/close
+		Frame.TransitionEffectTime		"0.3"			// time it takes for a window to fade in/out on open/close
 		Frame.AutoSnapRange				"0"
 		FrameGrip.Color1				"200 200 200 196"
 		FrameGrip.Color2				"0 0 0 196"
@@ -88,8 +84,7 @@ Scheme
 		FrameSystemButton.BgColor		"Blank"
 		FrameSystemButton.Icon			""
 		FrameSystemButton.DisabledIcon	""
-		FrameTitleBar.Font				"UiBold"		[$WIN32]
-		FrameTitleBar.Font				"DefaultLarge"	[$WIN32]
+		FrameTitleBar.Font				"UiBold"
 		FrameTitleBar.TextColor			"White"
 		FrameTitleBar.BgColor			"Blank"
 		FrameTitleBar.DisabledTextColor	"255 255 255 192"
@@ -187,14 +182,10 @@ Scheme
 		WizardSubPanel.BgColor		"Blank"
 
 		// scheme-specific colors
-		MainMenu.TextColor			"White"				[$WIN32]
-		MainMenu.TextColor			"200 200 200 255"	[$X360]
-		MainMenu.ArmedTextColor		"200 200 200 255"	[$WIN32]
-		MainMenu.ArmedTextColor		"White"				[$X360]
+		MainMenu.TextColor			"White"			
+		MainMenu.ArmedTextColor		"200 200 200 255"	
 		MainMenu.DepressedTextColor	"192 186 80 255"
-		MainMenu.MenuItemHeight		"30"				[$WIN32]
-		MainMenu.MenuItemHeight			"22"				[$X360]
-		MainMenu.MenuItemHeight_hidef	"32"				[$X360]
+		MainMenu.MenuItemHeight		"30"
 		MainMenu.Inset				"32"
 		MainMenu.Backdrop			"0 0 0 156"
 
@@ -203,8 +194,7 @@ Scheme
 
 		NewGame.TextColor			"White"
 		NewGame.FillColor			"0 0 0 255"
-		NewGame.SelectionColor		"Orange"			[$WIN32]
-		NewGame.SelectionColor		"0 0 0 255"			[$X360]
+		NewGame.SelectionColor		"Orange"		
 		NewGame.DisabledColor		"128 128 128 196"
 
 		MessageDialog.MatchmakingBG			"46 43 42 255"	[$X360]
@@ -260,11 +250,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Lucida Console" [$WINDOWS]
-				"name"		 "Lucida Console" [$X360]
-				"name"		 "Verdana" [$POSIX]
-				"tall"		"14" [$LINUX]
-				"tall"		"11" [$OSX]
+				"name"		 "Lucida Console"
 				"tall"		 "10"
 				//"tall_lodef" "15"
 				//"tall_hidef" "20"
@@ -276,8 +262,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma" [!$POSIX]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Tahoma"
 				"tall"		"16"
 				//"weight"	"500"
 			}
@@ -286,8 +271,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma" [!$POSIX]
-				"name"		"Verdana Bold" [$POSIX]
+				"name"		"Tahoma"
 				"tall"		"16"
 				//"weight"	"1000"
 			}
@@ -296,8 +280,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma" [!$POSIX]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Tahoma"
 				"tall"		"16"
 				//"weight"	"500"
 				"underline" "1"
@@ -307,10 +290,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma" [!$POSIX]
-				"name"		"Verdana" [$POSIX]
-				"tall"		"12" [!$POSIX]
-				"tall"		"13" [$POSIX]
+				"name"		"Tahoma"
+				"tall"		"13"
 				//"weight"	"0"
 			}
 		}
@@ -318,8 +299,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma" [!$POSIX]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Tahoma"
 				"tall"		"13"
 				//"weight"	"0"
 				"dropshadow" "1"
@@ -329,8 +309,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma" [!$POSIX]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Tahoma"
 				"tall"		"12"
 				//"weight"	"0"
 			}
@@ -340,27 +319,18 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma" [!$POSIX]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Tahoma"
 				"tall"		"18"
 				//"weight"	"0"
 			}
 		}
 		"UiBold"
 		{
-			"1"	[$WIN32]
-			{
-				"name"		"Tahoma" [!$POSIX]
-				"name"		"Verdana" [$POSIX]
-				"tall"		"12"
-				//"weight"	"1000"
-			}
-			"1"	[$X360]
+			"1"
 			{
 				"name"		"Tahoma"
-				"tall"		"24"
-				//"weight"	"2000"
-				"outline"	"1"
+				"tall"		"12"
+				//"weight"	"1000"
 			}
 		}
 		"ChapterTitle"	[$X360]
@@ -383,32 +353,17 @@ Scheme
 				//"tall_hidef"	"28"
 				//"weight"		"2000"
 				"blur"			"3"
-				//"blur_hidef"	"5"
+				////"blur_hidef"	"5"
 			}
 		}
 		"MenuLarge"
 		{
-			"1"	[$POSIX]
-			{
-				"name"		"Verdana"
-				"tall"		"20"
-				"antialias" "1"
-			}
-			"1"	[$WIN32]
+			"1"
 			{
 				"name"		"Verdana" 
 				"tall"		"16" 
 				//"weight"	"600"
 				"antialias" "1"
-			}
-			"1"	[$X360]
-			{
-				"name"		"Verdana"
-				"tall"			"14"
-				//"tall_hidef"	"20"
-				//"weight"	"1200"
-				"antialias" "1"
-				"outline" "1"
 			}
 		}
 		"AchievementTitleFont"
@@ -466,21 +421,17 @@ Scheme
 				"name"		"Buttons"
 				"scalex"	"0.63"
 				"scaley"	"0.63"
-			//	"scalex_hidef"	"1.0"
-			//	"scaley_hidef"	"1.0"
-			//	"scalex_lodef"	"0.75"
-			//	"scaley_lodef"	"0.75"
+			//	//"scalex_hidef"	"1.0"
+			//	//"scaley_hidef"	"1.0"
+			//	//"scalex_lodef"	"0.75"
+			//	//"scaley_lodef"	"0.75"
 			}
 		}
 		"ConsoleText"
 		{
 			"1"
 			{
-				"name"		 "Lucida Console" [$WINDOWS]
-				"name"		 "Lucida Console" [$X360]
-				"name"		 "Verdana" [$POSIX]
-				"tall"		"11" [$OSX]
-				"tall"		"14" [$LINUX]
+				"name"		 "Lucida Console"
 				"tall"		"10"
 				//"weight"	"500"
 			}
@@ -588,10 +539,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Lucida Console" [$WINDOWS]
-				"name"		 "Lucida Console" [$X360]
-				"name"		 "Verdana" [$POSIX]
-				"tall"		"11" [$POSIX]
+				"name"		 "Lucida Console"
 				"tall"		"10"
 				//"weight"	"0"
 			}
@@ -607,12 +555,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Lucida Console" [$WINDOWS]
-				"name"		 "Lucida Console" [$X360]
-				"name"		 "Verdana" [$OSX]
-				"name"		 "Courier" [$LINUX]
-				"tall"		"14" [$LINUX]
-				"tall"		"11" [$POSIX]
+				"name"		 "Lucida Console"
 				"tall"		"10"
 				//"weight"	"0"
 				"dropshadow" "1"
@@ -629,8 +572,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma" [!$POSIX]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Tahoma"
 				"tall"		"16"
 				//"weight"	"500"
 			}
@@ -639,19 +581,16 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma" [!$OSX]
-				"name"		"Verdana Italic" [$OSX]
+				"name"		"Tahoma"
 				"tall"		"16"
 				//"weight"	"500"
-				"italic"	"1"
 			}
 		}
 		"CloseCaption_Bold"
 		{
 			"1"
 			{
-				"name"		"Tahoma" [!$POSIX]
-				"name"		"Verdana Bold" [$POSIX]
+				"name"		"Tahoma"
 				"tall"		"16"
 				//"weight"	"900"
 			}
@@ -660,11 +599,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma" [!$POSIX]
-				"name"		"Verdana Bold Italic" [$POSIX]
+				"name"		"Tahoma"
 				"tall"		"16"
 				//"weight"	"900"
-				"italic"	"1"
 			}
 		}
 
@@ -713,7 +650,7 @@ Scheme
 				//"tall_hidef"	"24"
 				//"weight"		"900"
 				"blur"			"3"
-				//"blur_hidef"	"5"
+				////"blur_hidef"	"5"
 				"antialias"		"1"
 			}
 		}
@@ -722,8 +659,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$POSIX]
-				"name"		"Verdana Bold" [$POSIX]
+				"name"		"Arial"
 				//"weight"		"2000"
 				"tall"			"20"
 				"antialias"		"1"
@@ -734,8 +670,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$POSIX]
-				"name"		"Verdana Bold" [$POSIX]
+				"name"		"Arial"
 				//"weight"		"2000"
 				"tall"			"18"
 				"antialias"		"1"
@@ -746,11 +681,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$POSIX]
-				"name"		"Verdana Bold" [$POSIX]
+				"name"		"Arial"
 				//"weight"		"1500"
-				"tall"			"16" [!$POSIX]
-				"tall"			"18" [$POSIX]
+				"tall"			"16"
 				"antialias"		"1"
 			}
 		}
@@ -759,8 +692,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$POSIX]
-				"name"		"Verdana Bold" [$POSIX]
+				"name"		"Arial"
 				//"weight"		"1500"
 				"tall"			"16"
 				"antialias"		"1"
@@ -772,11 +704,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$POSIX]
-				"name"		"Verdana Bold" [$POSIX]
+				"name"		"Arial"
 				//"weight"		"1500"
-				"tall"			"14" [!$POSIX]
-				"tall"			"16" [$POSIX]
+				"tall"			"14"
 				"antialias"		"1"
 			}
 		}
@@ -785,11 +715,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$POSIX]
-				"name"		"Verdana Bold" [$POSIX]
+				"name"		"Arial"
 				//"weight"		"1500"
-				"tall"			"18" [!$POSIX]
-				"tall"			"19" [$POSIX]
+				"tall"			"18"
 				"antialias"		"1"
 			}
 		}
@@ -798,11 +726,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$POSIX]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Arial"
 				//"weight"		"1000"
-				"tall"			"14" [!$POSIX]
-				"tall"			"15" [$POSIX]
+				"tall"			"14"
 				"antialias"		"1"
 			}
 		}
@@ -812,12 +738,11 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma" [!$POSIX]
-				"name"		"Verdana" [$POSIX]
+				"name"		"Tahoma"
 				"tall"		"35"
 				//"tall_lodef"	"40"
 				//"weight"	"500"
-				"additive"	"0"
+				//"additive"	"0"
 				"antialias" "1"
 			}
 		}
@@ -986,8 +911,6 @@ Scheme
 
 		ScrollBarButtonBorder
 		{
-			"inset" "2 2 0 0" [!$OSX]
-			"inset" "-3 2 0 0" [$OSX]
 			Left
 			{
 				"1"
@@ -1027,8 +950,6 @@ Scheme
 		
 		ScrollBarButtonDepressedBorder
 		{
-			"inset" "2 2 0 0" [!$OSX]
-			"inset" "-3 2 0 0" [$OSX]
 			Left
 			{
 				"1"

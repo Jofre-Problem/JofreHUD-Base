@@ -140,7 +140,7 @@ Scheme
 				"name"		"TF2 Build"
 				"tall"		"18"
 				"weight"	"500"
-				"additive"	"0"
+				//"additive"	"0"
 				"antialias" "1"
 			}
 		}
@@ -160,7 +160,7 @@ Scheme
 				"tall"		"35"
 				//"tall_lodef"	"40"
 				"weight"	"500"
-				"additive"	"0"
+				//"additive"	"0"
 				"antialias" "1"
 			}
 		}

@@ -159,11 +159,11 @@
 		"enabled"		"1"
 		"labelText"		"#TF_Spectator_ChangeTeam"
 		"textAlignment"		"center"
-		"textAlignment_lodef"		"north-west"
+		//"textAlignment_lodef"		"north-west"
 		"font"			"SpectatorKeyHints"
 		//"font_hidef"	"HudFontSmallest"
 		//"font_lodef"	"HudFontSmall"
-		"wrap_lodef"			"1"
+		//"wrap_lodef"			"1"
 	}
 	"SwitchCamModeKeyLabel"
 	{

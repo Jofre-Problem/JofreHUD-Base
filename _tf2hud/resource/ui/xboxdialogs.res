@@ -32,7 +32,7 @@
 		//"wide_hidef"		"760"
 		"tall"			"315"
 		//"tall_hidef"	"500"
-		"footer_buttongap_lodef"			"10"
+		//"footer_buttongap_lodef"			"10"
 	}
 	
 	"TitleLabel"
@@ -245,7 +245,7 @@
 		"center"		"1"
 		"tall"			"100"
 		//"tall_lodef"		"60"
-		"buttonoffsety_hidef"	"20"
+		//"buttonoffsety_hidef"	"20"
 		//"buttonoffsety_lodef"	"5"
 		"bgcolor"			"46 43 42 255"
 		"paintbackground"	"1"
@@ -262,7 +262,7 @@
 		"center"		"1"
 		"tall"			"100"
 		//"tall_lodef"		"60"
-		"buttonoffsety_hidef"	"20"
+		//"buttonoffsety_hidef"	"20"
 		//"buttonoffsety_lodef"	"5"
 		"bgcolor"			"46 43 42 255"
 		"paintbackground"	"1"
@@ -852,7 +852,7 @@
 		//"ypos_lodef"			"45"
  		"itemspacing"	"2"
 		"minwide"		"425"
-		"minwide_lodef"			"350"
+		//"minwide_lodef"			"350"
 		
   		"CommandItem"
  		{
@@ -938,7 +938,7 @@
 		//"ypos_lodef"			"45"
  		"itemspacing"	"2"
 		"minwide"		"425"
-		"minwide_lodef"			"350"
+		//"minwide_lodef"			"350"
 
  		"CommandItem"
  		{
@@ -1006,7 +1006,7 @@
 		//"ypos_lodef"			"45"
  		"itemspacing"	"2"
 		"minwide"		"425"
-		"minwide_lodef"		"350"
+		//"minwide_lodef"		"350"
 
  		"CommandItem"
  		{
@@ -1074,7 +1074,7 @@
 		//"ypos_lodef"			"45"
  		"itemspacing"	"2"
 		"minwide"		"300"
-		"minwide_hidef"		"480"
+		//"minwide_hidef"		"480"
 
   		"CommandItem"
  		{
@@ -1175,11 +1175,11 @@
 		"ypos"				"90"
 		//"ypos_lodef"				"85"
  		"itemspacing"		"3"
- 		"itemspacing_lodef"		"2"
-		"minwide_hidef"		"700"
-		"minwide_lodef"		"500"
-		"maxvisibleitems_hidef"	"6"
-		"maxvisibleitems_lodef"	"4"
+ 		//"itemspacing_lodef"		"2"
+		//"minwide_hidef"		"700"
+		//"minwide_lodef"		"500"
+		//"maxvisibleitems_hidef"	"6"
+		//"maxvisibleitems_lodef"	"4"
 
 		// Menu items are returned by a system query and created at runtime
 	}
@@ -1230,7 +1230,7 @@
 		//"ypos_lodef"			"45"
  		"itemspacing"	"2"
 		"minwide"		"425"
-		"minwide_lodef"			"350"
+		//"minwide_lodef"			"350"
 
  		"CommandItem"
  		{
@@ -1573,7 +1573,7 @@
 		"ypos"			"70"
 		//"ypos_lodef"			"50"
 		"minwide"		"400"
-		"minwide_lodef"			"380"
+		//"minwide_lodef"			"380"
  		"itemspacing"	"2"
 	
 		"OptionsItem"
@@ -1775,13 +1775,13 @@
 		//"tall_lodef"				"405"
 		"borderwidth"		"30"
 		"teamspacing"		"10"
-		"teamspacing_lodef"			"3"
+		//"teamspacing_lodef"			"3"
 				
 		"commandstring"		"StartHost"
 		"hostlobby"			"1"
 		//"center_lodef"				"0"
-		"footer_buttongap_hidef"			"20"
-		"footer_buttongap_lodef"			"15"
+		//"footer_buttongap_hidef"			"20"
+		//"footer_buttongap_lodef"			"15"
 		
 		"Footer"
 		{
@@ -2133,7 +2133,7 @@
 			//"ypos_lodef"	"23"
 			"wide"			"85"
 			//"wide_lodef"	"100"
-			"textAlignment_hidef"	"east"
+			//"textAlignment_hidef"	"east"
 		}
 		
 		"DescOne"
@@ -2183,7 +2183,7 @@
 			//"ypos_lodef"	"23"
 			"wide"			"85"
 			//"wide_lodef"	"100"
-			"textAlignment_hidef"	"east"
+			//"textAlignment_hidef"	"east"
 		}
 		
 		"DescOne"
@@ -2207,7 +2207,7 @@
  		//"ypos_lodef"	"20"
  		"tall"			"50"
  		"minwide"		"300"
- 		"minwide_lodef"	"208"
+ 		//"minwide_lodef"	"208"
 	  	"itemspacing"	"1"
 	}
 
@@ -2219,7 +2219,7 @@
  		//"ypos_lodef"	"163"
   		"tall"			"50"
 		"minwide"		"300"
-		"minwide_lodef"	"208"
+		//"minwide_lodef"	"208"
 	  	"itemspacing"	"1"
 	}
 }
@@ -2239,11 +2239,11 @@
 		//"tall_lodef"				"405"
 		"borderwidth"	"30"
 		"teamspacing"	"10"
-		"teamspacing_lodef"		"3"
+		//"teamspacing_lodef"		"3"
 		
 		"commandstring"		"StartClient"
 		//"center_lodef"				"0"
-		"footer_buttongap_lodef"	"15"
+		//"footer_buttongap_lodef"	"15"
 		
 		"Footer"
 		{
@@ -2491,7 +2491,7 @@
 			//"ypos_lodef"	"23"
 			"wide"			"85"
 			//"wide_lodef"	"100"
-			"textAlignment_hidef"	"east"
+			//"textAlignment_hidef"	"east"
 		}
 		
 		"DescOne"
@@ -2541,7 +2541,7 @@
 			//"ypos_lodef"	"23"
 			"wide"			"85"
 			//"wide_lodef"	"100"
-			"textAlignment_hidef"	"east"
+			//"textAlignment_hidef"	"east"
 		}
 		
 		"DescOne"
@@ -2565,7 +2565,7 @@
  		//"ypos_lodef"	"20"
  		"tall"			"50"
  		"minwide"		"300"
- 		"minwide_lodef"	"208"
+ 		//"minwide_lodef"	"208"
 	  	"itemspacing"	"1"
 	}
 
@@ -2577,7 +2577,7 @@
  		//"ypos_lodef"	"163"
   		"tall"			"50"
 		"minwide"		"300"
-		"minwide_lodef"	"208"
+		//"minwide_lodef"	"208"
 	  	"itemspacing"	"1"
 	}
 }
@@ -2608,9 +2608,9 @@
 				"tall"			"330"
 				//"tall_lodef"	"240"
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+				//"descOneY_lodef"	"155"
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+				//"descTwoY_lodef"	"200"
 			}
 			"ScenarioInfo"
 			{
@@ -2622,9 +2622,9 @@
 				"tall"			"330"
 				//"tall_lodef"	"240"
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+				//"descOneY_lodef"	"155"
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+				//"descTwoY_lodef"	"200"
 			}
 			"ScenarioInfo"
 			{
@@ -2636,9 +2636,9 @@
 				"tall"			"330"
 				//"tall_lodef"	"240"
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+				//"descOneY_lodef"	"155"
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+				//"descTwoY_lodef"	"200"
 			}
 			"ScenarioInfo"
 			{
@@ -2650,9 +2650,9 @@
 				"tall"			"330"
 				//"tall_lodef"	"240"
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+				//"descOneY_lodef"	"155"
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+				//"descTwoY_lodef"	"200"
 			}
 			"ScenarioInfo"
 			{
@@ -2664,9 +2664,9 @@
 				"tall"			"330"
 				//"tall_lodef"	"240"
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+				//"descOneY_lodef"	"155"
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+				//"descTwoY_lodef"	"200"
 			}
 			"ScenarioInfo"
 			{
@@ -2678,13 +2678,13 @@
 				"tall"			"330"
 				//"tall_lodef"	"240"
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+				//"descOneY_lodef"	"155"
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+				//"descTwoY_lodef"	"200"
 			}
 		}
 		
-		"footer_buttongap_lodef"	"15"
+		//"footer_buttongap_lodef"	"15"
 			
 		"Footer"
 		{
@@ -2730,7 +2730,7 @@
 		"ypos"				"45"
 		//"ypos_lodef"		"50"
 		"minwide"			"570"
-		"minwide_lodef"		"405"
+		//"minwide_lodef"		"405"
  		"itemspacing"		"2"
 		"maxvisibleitems"	"7"
 		"activecolumn"		"3"
@@ -2780,7 +2780,7 @@
  			"Column"
  			{
 				"header"		"#TF_Scoreboard_Ping"
-				"header_lodef"		" "
+				//"header_lodef"		" "
   				"ypos"			"0"
   				//"ypos_lodef"			"0"
 				"wide"			"40"
@@ -2819,9 +2819,9 @@
 				"tall"			"330"
 				//"tall_lodef"	"240"
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+				//"descOneY_lodef"	"155"
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+				//"descTwoY_lodef"	"200"
 			}
 			"ScenarioInfo"
 			{
@@ -2833,9 +2833,9 @@
 				"tall"			"330"
 				//"tall_lodef"	"240"
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+				//"descOneY_lodef"	"155"
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+				//"descTwoY_lodef"	"200"
 			}
 			"ScenarioInfo"
 			{
@@ -2847,9 +2847,9 @@
 				"tall"			"330"
 				//"tall_lodef"	"240"
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+				//"descOneY_lodef"	"155"
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+				//"descTwoY_lodef"	"200"
 			}
 			"ScenarioInfo"
 			{
@@ -2861,9 +2861,9 @@
 				"tall"			"330"
 				//"tall_lodef"	"240"
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+				//"descOneY_lodef"	"155"
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+				//"descTwoY_lodef"	"200"
 			}
 			"ScenarioInfo"
 			{
@@ -2875,9 +2875,9 @@
 				"tall"			"330"
 				//"tall_lodef"	"240"
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+				//"descOneY_lodef"	"155"
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+				//"descTwoY_lodef"	"200"
 			}
 			"ScenarioInfo"
 			{
@@ -2889,13 +2889,13 @@
 				"tall"			"330"
 				//"tall_lodef"	"240"
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+				//"descOneY_lodef"	"155"
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+				//"descTwoY_lodef"	"200"
 			}
 		}
 		
-		"footer_buttongap_lodef"			"15"
+		//"footer_buttongap_lodef"			"15"
 		
 		"Footer"
 		{
@@ -2941,7 +2941,7 @@
 		"ypos"				"45"
 		//"ypos_lodef"		"50"
 		"minwide"			"570"
-		"minwide_lodef"		"405"
+		//"minwide_lodef"		"405"
  		"itemspacing"		"2"
 		"maxvisibleitems"	"7"
 		"activecolumn"		"0"
@@ -3004,7 +3004,7 @@
 		"tall"			"495"
 		//"tall_lodef"	"350"
 		"borderwidth"	"15"
-		"borderwidth_lodef"	"10"
+		//"borderwidth_lodef"	"10"
 		
 		"Footer"
 		{
@@ -3044,12 +3044,12 @@
 		"ypos"				"50"
 		//"ypos_lodef"		"40"
 		"minwide"			"750"
-		"minwide_lodef"		"565"
+		//"minwide_lodef"		"565"
  		"itemspacing"		"2"
 		"maxvisibleitems"	"10"
-		"maxvisibleitems_lodef"	"8"
+		//"maxvisibleitems_lodef"	"8"
 		"maxvisiblecolumns"	"6"
-		"maxvisiblecolumns_lodef" "5"
+		//"maxvisiblecolumns_lodef" "5"
 		"activecolumn"		"-1"	
 		
  		"Columns"
@@ -3224,7 +3224,7 @@
 		"tall"			"495"
 		//"tall_lodef"	"350"
 		"borderwidth"	"15"
-		"borderwidth_lodef"	"10"
+		//"borderwidth_lodef"	"10"
 		
 		"Footer"
 		{
@@ -3264,12 +3264,12 @@
 		//"xpos_lodef"		"10"
 		"ypos"				"50"
 		"minwide"			"865"
-		"minwide_lodef"		"585"
+		//"minwide_lodef"		"585"
  		"itemspacing"		"2"
 		"maxvisibleitems"	"9"
-		"maxvisibleitems_lodef"	"7"
+		//"maxvisibleitems_lodef"	"7"
 		"maxvisiblecolumns"	"5"
-		"maxvisiblecolumns_lodef" "4"
+		//"maxvisiblecolumns_lodef" "4"
 		"activecolumn"		"2"	
 		
  		"Columns"
@@ -3692,11 +3692,11 @@
 		"tall"					"181"
 		//"tall_hidef"			"255"
 		"chapterypos"			"48"
-		"chapterypos_hidef"		"68"
+		//"chapterypos_hidef"			"68"
 		"scrollslow"			"0.2"
 		"scrollfast"			"0.1"
 		"centerbgtall"			"120"
-		"centerbgtall_hidef"	"170"
+		//"centerbgtall_hidef"		"170"
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"
@@ -4034,9 +4034,8 @@
 		//"tall_hidef"	"86"
 		"autoResize"	"0"
 		"scaleImage"		"1"
-		"scaleImage_hidef"	"0"
+		//"scaleImage_hidef"	"0"
 		"scaleAmount"		"0.72"
-		"scaleAmount"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"

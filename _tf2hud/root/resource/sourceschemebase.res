@@ -383,7 +383,7 @@ Scheme
 				//"tall_hidef"	"28"
 				"weight"		"2000"
 				"blur"			"3"
-				"blur_hidef"	"5"
+				//"blur_hidef"	"5"
 			}
 		}
 		"MenuLarge"
@@ -466,10 +466,10 @@ Scheme
 				"name"		"Buttons"
 				"scalex"	"0.63"
 				"scaley"	"0.63"
-				"scalex_hidef"	"1.0"
-				"scaley_hidef"	"1.0"
-				"scalex_lodef"	"0.75"
-				"scaley_lodef"	"0.75"
+				//"scalex_hidef"	"1.0"
+				//"scaley_hidef"	"1.0"
+				//"scalex_lodef"	"0.75"
+				//"scaley_lodef"	"0.75"
 			}
 		}
 		"ConsoleText"
@@ -713,7 +713,7 @@ Scheme
 				//"tall_hidef"	"24"
 				"weight"		"900"
 				"blur"			"3"
-				"blur_hidef"	"5"
+				//"blur_hidef"	"5"
 				"antialias"		"1"
 			}
 		}
@@ -817,7 +817,7 @@ Scheme
 				"tall"		"35"
 				//"tall_lodef"	"40"
 				"weight"	"500"
-				"additive"	"0"
+				//"additive"	"0"
 				"antialias" "1"
 			}
 		}

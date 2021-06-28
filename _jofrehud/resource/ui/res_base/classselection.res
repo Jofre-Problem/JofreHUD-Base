@@ -94,7 +94,7 @@
 		"font"			"MenuClassBuckets"
 		//"font_lodef"			"MenuMainTitle"
 		"fgcolor"		"TanDark"
-		"fgcolor_lodef"	"TanLight"
+		//"fgcolor_lodef"	"TanLight"
 	}
 	"scout"
 	{
@@ -312,7 +312,7 @@
 		"font"			"MenuClassBuckets"
 		//"font_lodef"			"MenuMainTitle"
 		"fgcolor"		"TanDark"
-		"fgcolor_lodef"	"TanLight"
+		//"fgcolor_lodef"	"TanLight"
 	}
 	"demoman"
 	{
@@ -524,7 +524,7 @@
 		"font"			"MenuClassBuckets"
 		//"font_lodef"			"MenuMainTitle"
 		"fgcolor"		"TanDark"
-		"fgcolor_lodef"	"TanLight"
+		//"fgcolor_lodef"	"TanLight"
 	}
 	"medic"
 	{
@@ -827,7 +827,7 @@
 		"font"			"HudFontMediumSmallSecondary"
 		//"font_lodef"	"HudFontMediumSmallSecondary"
 		"fgcolor"		"HudTrainingHint"
-		"fgcolor_lodef"	"HudTrainingHint"
+		//"fgcolor_lodef"	"HudTrainingHint"
 	}
 	
 	"localPlayerImage" [$WIN32]

@@ -8,14 +8,7 @@ Scheme
         {
 			"1"
 			{
-			"name"           "Verdana" [$WINDOWS]
-			"name"           "Verdana" [$X360]
-			"name"           "Verdana" [$POSIX]
-			"tall"          "15" [$LINUX]
-			"tall"          "15" [$OSX]
-			"tall"           "15"
-			//"tall_lodef" "30"	//probably the smaller ones
-			//"tall_hidef" "30"	//probably....
+			"name"           "Verdana"
 			"weight"         "600"
 			"outline"        "1"
 			}
@@ -24,8 +17,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		"MenuLarge"
@@ -40,8 +33,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 
@@ -49,8 +42,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 				"tall"		"14"
 				"weight"	"500"
 			}
@@ -60,28 +53,28 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"2"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"3"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"4"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 			"5"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		
@@ -90,8 +83,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		
@@ -99,8 +92,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 		
@@ -108,8 +101,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [$WINDOWS]
-				"name"		"Helvetica" [$POSIX]
+				"name"		"Segoe UI"
+				
 			}
 		}
 	}

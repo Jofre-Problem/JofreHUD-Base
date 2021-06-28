@@ -351,7 +351,7 @@ Scheme
 				//"tall_hidef"	"28"
 				"weight"		"2000"
 				"blur"			"3"
-				"blur_hidef"	"5"
+				//"blur_hidef"	"5"
 			}
 		}
 		"MenuLarge"
@@ -380,8 +380,8 @@ Scheme
 				"name"			"Buttons"
 				"scalex"		"0.8"
 				"scaley"		"0.8"
-				"scalex_hidef"	"1.0"
-				"scaley_hidef"	"1.0"
+				//"scalex_hidef"	"1.0"
+				//"scaley_hidef"	"1.0"
 			}
 		}
 		"ConsoleText"
@@ -615,7 +615,7 @@ Scheme
 				//"tall_hidef"	"24"
 				"weight"		"900"
 				"blur"			"3"
-				"blur_hidef"	"5"
+				//"blur_hidef"	"5"
 				"antialias"		"1"
 			}
 		}
