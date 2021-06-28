@@ -77,14 +77,13 @@ PLATFORM:
 - resource/particlesystempreviewpanel.res (-> ypos "00" on line 46)
 
 ## HUD Changes
-The main changes that I have made are changing the font definitions to default OS system ones. Example: Windows -> Segoe UI & Linux -> Verdana
+The main changes that I have made are changing the font definitions to default OS system ones. Example: Windows -> Segoe UI
 My reason to do this, was because I have noticed a huge smooth due to this changes in my low-medium laptop, as well, other friends have notified the same results.
 
 ## Compatibily with other HUDS
 I will asumme that you are not someone familiar with hud editing, but you would really like to add this to your HUD.
 First of everything you need a text editor.
-- Windows: NotePad++
-- Linux: Visual Studio Code or Sublime Text
+- Windows: Visual Studio Code
 
 Now, you need to add the HUD files of your hud into this one.
 - Locate yourself inside of /jofrehud-master/
@@ -114,6 +113,9 @@ Here is how a file looks for example:
 	#base "../_tf2hud/resource/clientscheme.res"
   
 If you are interested in adding this to your own HUD, you can add whatever you see necessary, but please give the respective credit.
+
+## On other OS systems
+I have decided to make the HUD only for Windows, however, if you want to use this on other OS (Linux derivates or macOS), go the font folder and install the required fonts. Or change the lines containing "Segoe UI" with the font of your preference! 
 
 ## Need help on something?
 Here is my steam profile if you need any extra help or something!
