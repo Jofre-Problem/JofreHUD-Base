@@ -9,9 +9,6 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"120"
-				"weight"	"400"
-				"antialias"	"1"
-				"custom"	"0"
 			}
 		}
 	}

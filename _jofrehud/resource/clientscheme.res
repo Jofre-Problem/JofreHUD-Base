@@ -228,8 +228,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
-				"name"		"Verdana" [$POSIX]
+				"name"		"Segoe UI" [$POSIX]
 			}
 		}
 
@@ -483,8 +482,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
-				"name"		"Verdana" [$POSIX]
+				"name"		"Segoe UI" [$POSIX]
 			}
 		}
 		"SpectatorKeyHints"

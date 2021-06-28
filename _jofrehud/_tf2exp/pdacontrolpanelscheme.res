@@ -201,7 +201,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Impact"
+				"name"		"Segoe UI"
 				"tall"		"32"
 			}
 		}
@@ -209,16 +209,16 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Impact"
+				"name"		"Segoe UI"
 				"tall"		"32"
-				"underline" "1"
+				//"underline" "1"
 			}
 		}
 		"DefaultSmall"
 		{
 			"1"
 			{
-				"name"		"Impact"
+				"name"		"Segoe UI"
 				"tall"		"24"
 			}
 		}
@@ -226,7 +226,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Impact"
+				"name"		"Segoe UI"
 				"tall"		"18"
 			}
 		}
@@ -235,7 +235,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Impact"
+				"name"		"Segoe UI"
 				"tall"		"48"		}
 		}
 

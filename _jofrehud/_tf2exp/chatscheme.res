@@ -215,29 +215,29 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Segoe UI"
 				"tall"		"12"
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Segoe UI"
 				"tall"		"13"
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Segoe UI"
 				"tall"		"14"
 				"antialias"	"1"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				"antialias"	"1"
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Segoe UI"
 				"tall"		"20"
 				"antialias"	"1"
 			}
@@ -317,31 +317,31 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Segoe UI"
 				"tall"		"12"
 				"dropshadow"	"1"
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Segoe UI"
 				"tall"		"14"
 				"dropshadow"	"1"
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Segoe UI"
 				"tall"		"15"
 				"dropshadow"	"1"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Segoe UI"
 				"tall"		"17"
 				"dropshadow"	"1"
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Segoe UI"
 				"tall"		"22"
 				"dropshadow"	"1"
 			}
@@ -752,7 +752,7 @@ Scheme
 	// specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
 	CustomFontFiles
 	{
-		"1"		"resource/HALFLIFE2.ttf"
-		"2"		"resource/HL2EP2.ttf"		
+//		"1"		"resource/HALFLIFE2.ttf"
+//		"2"		"resource/HL2EP2.ttf"		
 	}
 }

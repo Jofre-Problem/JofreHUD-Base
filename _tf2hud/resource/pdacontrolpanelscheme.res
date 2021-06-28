@@ -201,7 +201,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Impact"
+				"name"		"Segoe UI"
 				"tall"		"32"
 				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -211,7 +211,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Impact"
+				"name"		"Segoe UI"
 				"tall"		"32"
 				//"weight"	"900"
 				"underline" "1"
@@ -222,7 +222,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Impact"
+				"name"		"Segoe UI"
 				"tall"		"24"
 				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -232,7 +232,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Impact"
+				"name"		"Segoe UI"
 				"tall"		"18"
 				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -243,7 +243,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Impact"
+				"name"		"Segoe UI"
 				"tall"		"48"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A

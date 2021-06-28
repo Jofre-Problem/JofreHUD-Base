@@ -176,7 +176,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				
-				"name"		"Verdana"
+				"name"		"Segoe UI"
 				"tall"		"12"
 				"weight"	"0"
 				"antialias" "1"				

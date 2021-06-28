@@ -10,7 +10,7 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"14"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"2"
 			{
@@ -23,21 +23,21 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"14"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"4"
 			{
 				"name"		"Segoe UI"
 				
 				"tall"		"16"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"5"
 			{
 				"name"		"Segoe UI"
 				
 				"tall"		"20"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}			
 		}
 		"Marlett"

@@ -229,7 +229,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Segoe UI"
 				"tall"		"10"
 				//"weight"	"500"
 				"antialias" "1"
@@ -240,7 +240,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Segoe UI"
 				"tall"		"7"
 				//"weight"	"500"
 				"antialias" "1"
@@ -250,7 +250,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Lucida Console"
+				"name"		 "Segoe UI"
 				"tall"		 "10"
 				//"tall_lodef" "15"
 				//"tall_hidef" "20"
@@ -262,7 +262,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				//"weight"	"500"
 			}
@@ -271,7 +271,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				//"weight"	"1000"
 			}
@@ -280,7 +280,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				//"weight"	"500"
 				"underline" "1"
@@ -290,7 +290,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Segoe UI"
 				"tall"		"13"
 				//"weight"	"0"
 			}
@@ -299,17 +299,15 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Segoe UI"
 				"tall"		"13"
-				//"weight"	"0"
-				"dropshadow" "1"
 			}
 		}
 		"DefaultVerySmall"
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Segoe UI"
 				"tall"		"12"
 				//"weight"	"0"
 			}
@@ -319,7 +317,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Segoe UI"
 				"tall"		"18"
 				//"weight"	"0"
 			}
@@ -328,7 +326,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Segoe UI"
 				"tall"		"12"
 				//"weight"	"1000"
 			}
@@ -337,44 +335,32 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Tahoma"
+				"name"			"Segoe UI"
 				"tall"			"20"
-				//"tall_hidef"	"28"
-				//"weight"		"2000"
-				"outline"		"1"
 			}
 		}
 		"ChapterTitleBlur"	[$X360]
 		{
 			"1"
 			{
-				"name"			"Tahoma"
+				"name"			"Segoe UI"
 				"tall"			"20"
-				//"tall_hidef"	"28"
-				//"weight"		"2000"
-				"blur"			"3"
-				////"blur_hidef"	"5"
 			}
 		}
 		"MenuLarge"
 		{
 			"1"
 			{
-				"name"		"Verdana" 
+				"name"		"Segoe UI" 
 				"tall"		"16" 
-				//"weight"	"600"
-				"antialias" "1"
 			}
 		}
 		"AchievementTitleFont"
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Segoe UI"
 				"tall"		"20"
-				//"weight"	"1200"
-				"antialias" "1"
-				"outline" "1"
 			}
 		}
 		
@@ -382,11 +368,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Segoe UI"
 				"tall"		"18"
-				//"weight"	"1200"
-				"antialias" "1"
-				//"outline" "1"
 			}
 		}
 		
@@ -395,21 +378,13 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Segoe UI"
 				"tall"		"15"
-				//"weight"	"1200"
-				"antialias" "1"
-				"outline" "1"
-				//"yres"		"0 480"
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Segoe UI"
 				"tall"		"20"
-				//"weight"	"1200"
-				"antialias" "1"
-				"outline" "1"
-				//"yres"	 "481 10000"
 			}
 		}
 		
@@ -431,7 +406,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Lucida Console"
+				"name"		 "Segoe UI"
 				"tall"		"10"
 				//"weight"	"500"
 			}
@@ -453,7 +428,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Trebuchet MS"
+				"name"		"Segoe UI"
 				"tall"		"24"
 				////"weight"	"900"
 			}
@@ -463,7 +438,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Trebuchet MS"
+				"name"		"Segoe UI"
 				"tall"		"20"
 				////"weight"	"900"
 			}
@@ -473,7 +448,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Trebuchet MS"
+				"name"		"Segoe UI"
 				"tall"		"18"
 				////"weight"	"900"
 			}
@@ -485,7 +460,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Trebuchet MS"
+				"name"		"Segoe UI"
 				"tall"		"40"
 				////"weight"	"900"
 			}
@@ -494,7 +469,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Trebuchet MS"
+				"name"		"Segoe UI"
 				"tall"		"41"
 				////"weight"	"900"
 			}
@@ -503,7 +478,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Trebuchet MS"
+				"name"		"Segoe UI"
 				"tall"		"42"
 				////"weight"	"900"
 			}
@@ -512,7 +487,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Trebuchet MS"
+				"name"		"Segoe UI"
 				"tall"		"43"
 				////"weight"	"900"
 			}
@@ -521,7 +496,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Trebuchet MS"
+				"name"		"Segoe UI"
 				"tall"		"44"
 				////"weight"	"900"
 			}
@@ -530,7 +505,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Trebuchet MS"
+				"name"		"Segoe UI"
 				"tall"		"45"
 				////"weight"	"900"
 			}
@@ -539,7 +514,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Lucida Console"
+				"name"		 "Segoe UI"
 				"tall"		"10"
 				//"weight"	"0"
 			}
@@ -555,10 +530,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Lucida Console"
+				"name"		 "Segoe UI"
 				"tall"		"10"
-				//"weight"	"0"
-				"dropshadow" "1"
 			}
 //			"1"
 //			{
@@ -572,7 +545,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				//"weight"	"500"
 			}
@@ -581,7 +554,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				//"weight"	"500"
 			}
@@ -590,7 +563,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				////"weight"	"900"
 			}
@@ -599,7 +572,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				////"weight"	"900"
 			}
@@ -609,11 +582,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HalfLife2"
+				"name"		"Segoe UI"
 				"tall"		"72"
-				//"weight"	"400"
-				"antialias"	"1"
-				"custom"	"1"
 			}
 		}
 
@@ -621,11 +591,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HalfLife2"
+				"name"		"Segoe UI"
 				"tall"		"120"
-				//"weight"	"400"
-				"antialias"	"1"
-				"custom"	"1"
 			}
 		}
 
@@ -633,11 +600,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Trebuchet MS"
+				"name"		"Segoe UI"
 				"tall"			"16"
-				//"tall_hidef"	"24"
-				//"weight"		"900"
-				"antialias"		"1"
 			}
 		}
 
@@ -645,13 +609,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Trebuchet MS"
+				"name"		"Segoe UI"
 				"tall"			"16"
-				//"tall_hidef"	"24"
-				//"weight"		"900"
-				"blur"			"3"
-				////"blur_hidef"	"5"
-				"antialias"		"1"
 			}
 		}
 		
@@ -659,10 +618,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial"
+				"name"		"Segoe UI"
 				//"weight"		"2000"
 				"tall"			"20"
-				"antialias"		"1"
 			}
 		}
 		
@@ -670,10 +628,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial"
+				"name"		"Segoe UI"
 				//"weight"		"2000"
 				"tall"			"18"
-				"antialias"		"1"
 			}
 		}
 		
@@ -681,10 +638,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial"
+				"name"		"Segoe UI"
 				//"weight"		"1500"
 				"tall"			"16"
-				"antialias"		"1"
 			}
 		}
 
@@ -692,10 +648,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial"
+				"name"		"Segoe UI"
 				//"weight"		"1500"
 				"tall"			"16"
-				"antialias"		"1"
 			}
 		}
 
@@ -704,10 +659,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial"
+				"name"		"Segoe UI"
 				//"weight"		"1500"
 				"tall"			"14"
-				"antialias"		"1"
 			}
 		}
 		
@@ -715,10 +669,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial"
+				"name"		"Segoe UI"
 				//"weight"		"1500"
 				"tall"			"18"
-				"antialias"		"1"
 			}
 		}
 		
@@ -726,10 +679,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial"
+				"name"		"Segoe UI"
 				//"weight"		"1000"
 				"tall"			"14"
-				"antialias"		"1"
 			}
 		}
 
@@ -738,12 +690,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Segoe UI"
 				"tall"		"35"
-				//"tall_lodef"	"40"
-				//"weight"	"500"
-				//"additive"	"0"
-				"antialias" "1"
 			}
 		}
 
@@ -751,45 +699,45 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				//"weight"	"0"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres"	"480 599"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"480 599"
 			}
 			"2"
 			{
-				"name"		"Tahoma"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				//"weight"	"0"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres"	"600 767"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"600 767"
 			}
 			"3"
 			{
-				"name"		"Tahoma"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				//"weight"	"0"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres"	"768 1023"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"768 1023"
 				"antialias"	"1"
 			}
 			"4"
 			{
-				"name"		"Tahoma"
+				"name"		"Segoe UI"
 				"tall"		"19"
 				//"weight"	"0"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres"	"1024 1199"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"1024 1199"
 				"antialias"	"1"
 			}
 			"5"
 			{
-				"name"		"Tahoma"
+				"name"		"Segoe UI"
 				"tall"		"19"
 				//"weight"	"0"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres"	"1200 6000"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"1200 6000"
 				"antialias"	"1"
 			}
 		}
@@ -1196,8 +1144,6 @@ Scheme
 	// specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
 	CustomFontFiles
 	{
-		"1"		"resource/HALFLIFE2.ttf"
-		"2"		"resource/HL2EP2.ttf"	
 		"3"		"resource/marlett.ttf"
 	}
 }

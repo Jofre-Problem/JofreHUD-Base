@@ -10,8 +10,6 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"10"
-				"weight"	"500"
-				"antialias" "1"
 			}
 		}
 		// fonts are used in order that they are listed
@@ -22,8 +20,6 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"7"
-				"weight"	"500"
-				"antialias" "1"
 			}
 		}
 		"DefaultFixedOutline"
@@ -33,9 +29,6 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"14"
-				"weight"	"0"
-				"antialias"	"1"
-				"dropshadow"	"1"
 			}
 		}
 
@@ -44,7 +37,7 @@ Scheme
 //			"1"	[$WIN32]
 //			{
 //				"name"		"Segoe UI"
-//				"name"		"Verdana" [$POSIX]
+//				"name"		"Segoe UI" [$POSIX]
 //				"tall"		"14"
 //				"weight"	"0"
 //				"antialias"	"1"
@@ -59,7 +52,6 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"12"
-				"antialias"	"1"
 			}
 		}
 
@@ -69,8 +61,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"
-			//	"weight"	"500"
-				"antialias"	"1"
 			}
 		}
 
@@ -186,7 +176,6 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"10"
-				"dropshadow" "1"
 			}
 		}	
 	}

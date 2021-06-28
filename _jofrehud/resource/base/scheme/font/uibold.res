@@ -9,7 +9,7 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"12"
-				"weight"	"1000"
+		
 			}
 		}	
 	}
