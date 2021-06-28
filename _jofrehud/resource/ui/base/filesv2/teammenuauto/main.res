@@ -15,8 +15,8 @@
 		"wide"			"102" [$WIN32] 
 		"wide"			"94" [$X360]
 		"tall"			"24"
-		"autoResize"	"0"
-		"pinCorner"		"0"
+		//"autoResize"	"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"center"
@@ -40,8 +40,8 @@
 		"wide"			"44"
 		//"wide_lodef"	"70"
 		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"0"
+		//"autoResize"	"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#TF_Spectate"

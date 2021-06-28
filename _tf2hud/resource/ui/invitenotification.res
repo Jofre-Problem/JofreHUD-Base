@@ -117,7 +117,7 @@
 		"visible"		"1"
 
 		"enabled"		"1"
-		"tabPosition"	"0"
+		//"tabPosition"	"0"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -156,7 +156,7 @@
 		"visible"		"1"
 
 		"enabled"		"1"
-		"tabPosition"	"0"
+		//"tabPosition"	"0"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
 		"dulltext"		"0"

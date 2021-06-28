@@ -7,7 +7,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"AutoResize"	"3"
-		"PinCorner"		"0"
+		//"pinCorner"		"0"
 		"xpos"			"0"
 		"ypos"			"0"
 		"UnpinnedCornerOffsetX" "0"
@@ -23,11 +23,11 @@
 		"wide"			"256"
 		"tall"			"212"
 		"AutoResize"	"3"
-		"PinCorner"		"0"
+		//"pinCorner"		"0"
 		"UnpinnedCornerOffsetX" "-6"
 		"UnpinnedCornerOffsetY" "-6"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"	"0"
+		//"tabPosition"	"0"
 	}
 }

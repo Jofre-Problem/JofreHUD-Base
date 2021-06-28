@@ -2,6 +2,6 @@
 {
 	"TitleLabel"
 	{
-		"tabposition"		"0"
+		//"tabPosition"		"0"
 	}	
 }	

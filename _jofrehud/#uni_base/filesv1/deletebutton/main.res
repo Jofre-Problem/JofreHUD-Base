@@ -3,6 +3,6 @@
 	"DeleteButton"
 	{
 		"fieldName"		"DeleteButton"
-		"autoResize"		"0"
-		"tabPosition"		"0"
+		////"autoResize"		"0"
+		//"tabPosition"		"0"
 	}

@@ -10,7 +10,7 @@
 		"tall"		"32"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 		"labelText"		"#Dialog_Server_With_Password_Info"
 		"textAlignment"		"center"
 	}
@@ -24,7 +24,7 @@
 		"tall"		"24"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 		"textAlignment"		"west"
 	}
 	"PasswordEntry"
@@ -52,7 +52,7 @@
 		"tall"		"24"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 		"labelText"		"#Dialog_Server_With_Password_Server"
 		"textAlignment"		"east"
 	}
@@ -66,7 +66,7 @@
 		"tall"		"24"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 		"labelText"		"#Dialog_Server_With_Password_Password"
 		"textAlignment"		"east"
 	}
@@ -112,6 +112,6 @@
 		"tall"		"320"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 }

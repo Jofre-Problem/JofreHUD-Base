@@ -13,7 +13,7 @@
 			"PaintBackgroundType"	"0"
 			"bgcolor_override"	"0 0 0 0"
 			"skip_autoresize"	"1"
-			"autoresize"		"0"
+			////"autoResize"		"0"
 		}		
 	}	
 }	

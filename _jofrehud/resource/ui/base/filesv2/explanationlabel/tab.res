@@ -2,6 +2,6 @@
 {
 	"ExplanationLabel"
 	{
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}	
 }	

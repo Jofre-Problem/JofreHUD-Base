@@ -12,11 +12,11 @@
 		"ypos"		"14"
 		"wide"		"1584"
 		"tall"		"223"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 	"ClipImagePanel"
 	{
@@ -26,11 +26,11 @@
 		"ypos"		"30"
 		"wide"		"150"
 		"tall"		"130"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 	"ClipTransitionPanel"
 	{
@@ -40,10 +40,10 @@
 		"ypos"		"30"
 		"wide"		"12"
 		"tall"		"130"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 }

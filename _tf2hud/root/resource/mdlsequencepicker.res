@@ -8,11 +8,11 @@
 		"ypos"			"128"
 		"wide"			"640"
 		"tall"			"480"
-		"AutoResize"	"0"
-		"PinCorner"		"0"
+		//"autoResize"	"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"	"0"
+		//"tabPosition"	"0"
 		"settitlebarvisible"	"1"
 		"title"		"#Frame_Untitled"
 		
@@ -34,11 +34,11 @@
 					"wide"			"292"
 					"tall"			"24"
 					"AutoResize"	"1"
-					"PinCorner"		"0"
+					//"pinCorner"		"0"
 					"UnpinnedCornerOffsetX" "-6"
 					"visible"		"1"
 					"enabled"		"1"
-					"tabPosition"	"0"
+					//"tabPosition"	"0"
 					"textHidden"	"0"
 					"editable"		"1"
 					"maxchars"		"-1"
@@ -54,12 +54,12 @@
 					"wide"			"292"
 					"tall"			"542"
 					"AutoResize"	"3"
-					"PinCorner"		"0"
+					//"pinCorner"		"0"
 					"UnpinnedCornerOffsetX" "-6"
 					"UnpinnedCornerOffsetY" "-6"
 					"visible"		"1"
 					"enabled"		"1"
-					"tabPosition"		"0"
+					//"tabPosition"		"0"
 				}
 			}
 			
@@ -72,7 +72,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"AutoResize"	"3"
-					"PinCorner"		"0"
+					//"pinCorner"		"0"
 					"xpos"			"0"
 					"ypos"			"0"
 					"UnpinnedCornerOffsetX" "0"
@@ -89,12 +89,12 @@
 							"wide"			"256"
 							"tall"			"256"
 							"AutoResize"	"3"
-							"PinCorner"		"0"
+							//"pinCorner"		"0"
 							"UnpinnedCornerOffsetX" "-6"
 							"UnpinnedCornerOffsetY" "-6"
 							"visible"		"1"
 							"enabled"		"1"
-							"tabPosition"	"0"
+							//"tabPosition"	"0"
 						}
 					}
 					
@@ -109,12 +109,12 @@
 							"wide"			"256"
 							"tall"			"256"
 							"AutoResize"	"3"
-							"PinCorner"		"0"
+							//"pinCorner"		"0"
 							"UnpinnedCornerOffsetX" "-6"
 							"UnpinnedCornerOffsetY" "-6"
 							"visible"		"1"
 							"enabled"		"1"
-							"tabPosition"	"0"
+							//"tabPosition"	"0"
 						}
 					}
 				}

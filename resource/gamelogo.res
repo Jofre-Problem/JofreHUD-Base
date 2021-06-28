@@ -12,7 +12,7 @@
 		"wide"			"400"
 		"tall"			"100"
 		"autoResize"	"1"
-		"pinCorner"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"offsetX"		"-20"

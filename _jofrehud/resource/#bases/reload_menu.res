@@ -10,10 +10,10 @@
 		"wide"				"20"
 		"tall"				"20"
 		"autoResize"		"1"
-		"pinCorner"			"0"
+		//"pinCorner"			"0"
 		"visible"			"0"					//1 to enable
 		"enabled"			"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 		"labelText"			"RM"
 		"font"				"Default"
 		"textAlignment"		"center"

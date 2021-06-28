@@ -34,7 +34,7 @@
 			"border"		"OuterShadowBorder"
 			"proportionaltoparent"	"1"
 
-			"pinCorner"		"0"
+			//"pinCorner"		"0"
 			"autoResize"	"2"
 		}
 
@@ -107,12 +107,12 @@
 				"zpos"			"100"
 				"wide"			"75"
 				"tall"			"15"
-				"autoResize"	"0"
+				//"autoResize"	"0"
 				"pinCorner"		"3"
 				"visible"		"1"
 
 				"enabled"		"1"
-				"tabPosition"	"0"
+				//"tabPosition"	"0"
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
 				"dulltext"		"0"
@@ -145,11 +145,11 @@
 					"wide"			"150"
 				}
 				
-				"autoResize"	"0"
+				//"autoResize"	"0"
 				"pinCorner"		"3"
 				"visible"		"1"
 				"enabled"		"1"
-				"tabPosition"	"0"
+				//"tabPosition"	"0"
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
 				"dulltext"		"0"
@@ -178,11 +178,11 @@
 				"zpos"			"100"
 				"tall"			"15"
 				
-				"autoResize"	"0"
+				//"autoResize"	"0"
 				"pinCorner"		"3"
 				"visible"		"1"
 				"enabled"		"1"
-				"tabPosition"	"0"
+				//"tabPosition"	"0"
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
 				"dulltext"		"0"

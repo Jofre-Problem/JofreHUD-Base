@@ -9,10 +9,10 @@
 		"wide"		"1157"
 		"tall"		"577"
 		"autoResize"		"3"
-		"pinCorner"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 	"ElementTree"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"35"
 		"wide"		"297"
 		"tall"		"542"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 	"ElementTreeList"
 	{
@@ -37,9 +37,9 @@
 		"wide"		"1157"
 		"tall"		"548"
 		"autoResize"		"3"
-		"pinCorner"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 }

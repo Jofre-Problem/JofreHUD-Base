@@ -38,7 +38,7 @@
 	{
 		"textAlignment"		"west"
 		"labelText"		"test2"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 		"enabled"		"1"
 		"visible"		"1"
 		"BgColor"		"70 70 70 255"
@@ -54,7 +54,7 @@
 	{
 		"textAlignment"		"west"
 		"labelText"		"#TrackerUI_MessageFrom"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 		"enabled"		"1"
 		"visible"		"1"
 		"BgColor"		"70 70 70 255"
@@ -82,7 +82,7 @@
 	}
 	"Frame"
 	{
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 		"enabled"		"1"
 		"visible"		"1"
 		"BgColor"		"70 70 70 255"

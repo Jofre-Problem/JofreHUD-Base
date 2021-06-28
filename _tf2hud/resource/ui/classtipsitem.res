@@ -8,7 +8,7 @@
 		"ypos"					"0"
 		"wide"					"160"
 		"tall"					"30"
-		"autoResize"			"0"
+		//"autoResize"			"0"
 		"pinCorner"				"1"
 		"visible"				"1"
 		"enabled"				"1"

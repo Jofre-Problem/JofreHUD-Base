@@ -3,8 +3,8 @@
 	"Player List"
 	{
 		"fieldName"		"Player List"
-		"pinCorner"		"0"
+		//"pinCorner"		"0"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 }

@@ -7,7 +7,7 @@
 		"ypos"		"410"
 		"wide"		"70"
 		"tall"		"24"
-		"autoResize"		"0"
+		////"autoResize"		"0"
 		"labelText"		"#GameUI_Back"
 		"textAlignment"		"west"
 		"dulltext"		"0"

@@ -5,11 +5,11 @@
 		"ControlName"		"Frame"
 		"fieldName"		"Spectator"
 		"tall"			"480"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 	"specgui"
 	{
@@ -24,11 +24,11 @@
 		"tall_minmode"			"20"	[$WIN32]
 		"tall"			"104"	[$X360]		
 		"wide"			"f0"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 	"BottomBar"
 	{
@@ -41,11 +41,11 @@
 		"tall"			"70"	[$WIN32]
 		"tall_minmode"	"0"		
 		"tall"			"90"	[$X360]		
-		"autoResize"	"0"
-		"pinCorner"		"0"
+		//"autoResize"	"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 	"bottombarblank"
 	{
@@ -59,12 +59,12 @@
 		"tall_minmode"	"0"		
 		"tall"			"90"	[$X360]		
 		"wide"			"f0"
-		"autoResize"	"0"
-		"pinCorner"		"0"
+		//"autoResize"	"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"visible_minmode"		"0"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 	"ReinforcementsLabel"
 	{
@@ -83,8 +83,8 @@
 		"wide"			"400"	[$X360]
 		"tall"			"18"
 		//"tall_hidef"		"23"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
@@ -103,8 +103,8 @@
 		"ypos"			"0"
 		"wide"			"400"
 		"tall"			"f0"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		""
@@ -127,8 +127,8 @@
 		"wide"			"220"	[$X360]
 		"tall"			"20"
 		//"tall_hidef"		"30"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"visible_minmode"		"0"
 		"enabled"		"1"
@@ -151,8 +151,8 @@
 		"tall"			"15"
 		//"tall_lodef"	"25"
 		"zpos"			"2"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
@@ -176,8 +176,8 @@
 		"wide"			"60"	[$WIN32]
 		"wide"			"60"	[$X360]
 		"tall"			"20"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
@@ -198,8 +198,8 @@
 		"wide"			"125"	[$WIN32]
 		"wide"			"95"	[$X360]		
 		"tall"			"20"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
@@ -219,8 +219,8 @@
 		"wide"			"60"	[$WIN32]
 		"wide"			"60"	[$X360]
 		"tall"			"20"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
@@ -240,8 +240,8 @@
 		"wide"			"125"	[$WIN32]
 		"wide"			"95"	[$X360]	
 		"tall"			"20"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
@@ -261,8 +261,8 @@
 		"wide"			"60"	[$WIN32]
 		"wide"			"60"	[$X360]		
 		"tall"			"20"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
@@ -282,8 +282,8 @@
 		"wide"			"125"	[$WIN32]
 		"wide"			"95"	[$X360]
 		"tall"			"20"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
 		"visible"		"0"	[$X360]
@@ -308,8 +308,8 @@
 		"tall"			"64"
 		//"tall_hidef"	"70"
 		//"tall_lodef"	"70"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"visible_minmode"		"0"
 		"enabled"		"1"
@@ -366,8 +366,8 @@
 			"zpos"			"1"
 			"wide"			"270"
 			"tall"			"9"
-			"autoResize"	"0"
-			"pinCorner"		"0"
+			//"autoResize"	"0"
+			//"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"#FreezePanel_Item"
@@ -384,8 +384,8 @@
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
-		"autoResize"	"0"
-		"pinCorner"		"0"
+		//"autoResize"	"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 	}		

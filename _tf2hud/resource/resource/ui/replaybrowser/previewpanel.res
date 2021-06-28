@@ -6,8 +6,8 @@
 		"fieldName"		"PreviewPanel"
 		"wide"			"160"
 		"zpos"			"100"
-		"autoResize"	"0"
-		"pinCorner"		"0"
+		//"autoResize"	"0"
+		//"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
 		"border"		"ReplayBalloonBorder"
@@ -19,8 +19,8 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"Screenshot"
 		"zpos"			"0"
-		"autoResize"	"0"
-		"pinCorner"		"0"
+		//"autoResize"	"0"
+		//"pinCorner"		"0"
 		"enabled"		"1"
 	}
 

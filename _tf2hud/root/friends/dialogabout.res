@@ -8,11 +8,11 @@
 		"ypos"		"331"
 		"wide"		"374"
 		"tall"		"243"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 	"SysMenu"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 	"CloseButton"
 	{
@@ -36,7 +36,7 @@
 		"ypos"		"203"
 		"wide"		"64"
 		"tall"		"24"
-		"autoResize"		"0"
+		////"autoResize"		"0"
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
@@ -57,10 +57,10 @@
 		"wide"		"354"
 		"tall"		"155"
 		"autoResize"		"3"
-		"pinCorner"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 		"maxchars"		"-1"
 	}
 }

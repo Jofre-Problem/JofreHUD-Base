@@ -4,11 +4,11 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"topHorizLeft"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 	}
@@ -16,11 +16,11 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"topVertLeft"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 	}
@@ -28,11 +28,11 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"bottomHorizRight"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 	}
@@ -40,11 +40,11 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"bottomVertRight"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 	}

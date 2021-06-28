@@ -2,7 +2,7 @@
 {
 	"InfoText"
 	{
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 	}
 }

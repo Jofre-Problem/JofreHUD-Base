@@ -26,7 +26,7 @@
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"drawcolor"	"HudWhite"
 		}
 		
@@ -62,7 +62,7 @@
 			"enabled"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"1"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"fgcolor_override"	"QuestMap_ActiveOrange"
 			"font"			"CenterPrintText"
 			"textAlignment"	"east"
@@ -86,7 +86,7 @@
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"drawcolor"	"QuestMap_ActiveOrange"
 		}
 

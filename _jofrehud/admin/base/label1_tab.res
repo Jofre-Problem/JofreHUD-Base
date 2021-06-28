@@ -2,6 +2,6 @@
 {
 	"Label1"
 	{
-		"tabposition"		"0"
+		//"tabPosition"		"0"
 	}
 }

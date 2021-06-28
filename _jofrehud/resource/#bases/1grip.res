@@ -8,11 +8,11 @@
 		"ypos"		"0"
 		"wide"		"378"
 		"tall"		"5"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 	"BottomGrip"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"295"
 		"wide"		"378"
 		"tall"		"5"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 	"LeftGrip"
 	{
@@ -36,11 +36,11 @@
 		"ypos"		"11"
 		"wide"		"5"
 		"tall"		"278"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 	"RightGrip"
 	{
@@ -50,10 +50,10 @@
 		"ypos"		"11"
 		"wide"		"5"
 		"tall"		"278"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 }

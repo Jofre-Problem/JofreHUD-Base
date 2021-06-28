@@ -9,7 +9,7 @@
 		"wide"			"463"
 		"tall"			"212"
 		"AutoResize"	"3"
-		"PinCorner"		"0"
+		//"pinCorner"		"0"
 		"PinnedCornerOffsetX" "0"
 		"PinnedCornerOffsetY" "0"
 		"UnpinnedCornerOffsetX" "0"

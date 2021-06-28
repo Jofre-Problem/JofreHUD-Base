@@ -3,6 +3,6 @@
 {
 	"Button1"
 	{
-		"pinCorner"		"0"
+		//"pinCorner"		"0"
 	}
 }

@@ -8,8 +8,8 @@
 	{
 	//	"ControlName"	"CExButton"
 	//	"fieldName"		"DeleteButton"
-	//	"autoResize"	"0"
-	//	"pinCorner"		"0"
+	//	//"autoResize"	"0"
+	//	//"pinCorner"		"0"
 	//	"enabled"		"1"
 		"textAlignment"	"center"
 		"Command"		"delete_replayitem"

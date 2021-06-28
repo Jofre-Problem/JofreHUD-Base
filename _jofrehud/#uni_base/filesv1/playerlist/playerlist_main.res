@@ -5,7 +5,7 @@
 		"ControlName"		"ListPanel"
 		"fieldName"		"PlayerList"
 		"autoResize"		"3"
-		"pinCorner"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"

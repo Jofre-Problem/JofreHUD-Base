@@ -25,8 +25,8 @@
 		"ypos"		"376"
 		"wide"		"280"
 		"tall"		"180"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"
 	}
 	"StringEdit"
@@ -35,8 +35,8 @@
 		"fieldName"		"StringEdit"
 
 		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"enabled"		"1"
 
 		"textHidden"		"0"

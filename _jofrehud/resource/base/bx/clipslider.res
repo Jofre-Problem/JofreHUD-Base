@@ -10,6 +10,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"leftText"		"0.0 s."	
-		"tabPosition"		"0"
+		//"tabPosition"		"0"
 	}
 }

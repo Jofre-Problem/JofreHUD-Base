@@ -7,8 +7,8 @@
 		"ypos"			"10"	[$WIN32]
 		"wide"			"125"	[$WIN32]
 		"tall"			"20"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		////"autoResize"		"0"
+		//"pinCorner"		"0"
 		"visible"		"1"	[$WIN32]
 		"visible"		"0"	[$X360]
 		"enabled"		"1"
