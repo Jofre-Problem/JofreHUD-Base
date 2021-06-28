@@ -44,6 +44,7 @@ TF2:
 - disguise_menu/hudmenuspydisguise.res (-> wrong fieldnames on line 347 & 363)
 - clientscheme.res (-> missing font definitions: HudMenuNumberFont (build_menu files); MenuMedium & MenuSmall & MatchmakingDialogMenuSmall & HDRDemoText & Ui (xboxdialog.res)
 - supportnotificationdialog.res (-> wrong fieldname on titlelabel)
+- confirmcustomizetexturedialog.res (-> ypos "00" on line 217, 218, 378, 686 & 834)
 
 HL2:
 - askconnectpanel.res (-> wrong fieldnames on line 25)
@@ -56,6 +57,7 @@ HL2:
 - selectedhsvuipanel.res (-> undefined controlname on line 35)
 - combinepanelscheme.res (-> used undefined color on line 588)
 - replayperfomanceditor/main.res (-> no font defined on line 618 ("font"			"")
+- assetbuilder.res (-> ypos "00" on line 24)
 
 PLATFORM:
 - addons/hearts/* (-> wrong fieldname on "Divider0")
@@ -69,6 +71,10 @@ PLATFORM:
 - servers/vacbannedconnrefuseddialog.res (-> unicode "<0x00>" on last line of the file)
 - resource/edittokendialog.res (-> unicode "<0x00>" on last line of the file)
 - resource/localizationdialog.res (-> unicode "<0x00>" on last line of the file)
+- resource/assetbuilder.res (-> ypos "00" on line 24)
+- resource/dmecombinationsystemeditorpanel.res (-> ypos "00" on line 8)
+- resource/dmedageditpanel.res (-> ypos "00" on line 23 & 45)
+- resource/particlesystempreviewpanel.res (-> ypos "00" on line 46)
 
 ## HUD Changes
 The main changes that I have made are changing the font definitions to default OS system ones. Example: Windows -> Segoe UI & Linux -> Verdana
