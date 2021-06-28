@@ -18,7 +18,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"Screenshot"
-		"zpos"			"0"
+		
 		
 		
 		

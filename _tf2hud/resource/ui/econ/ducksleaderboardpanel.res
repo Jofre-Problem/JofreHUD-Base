@@ -5,7 +5,7 @@
 		"ControlName"	"DuckLeaderboard"
 		"xpos"			"cs-0.5"
 		"ypos"			"cs-0.5"
-		"zpos"			"0"
+		
 		"wide"			"400"
 		"tall"			"f0"
 		"autoResize"	"3"

@@ -33,7 +33,7 @@
 		"fieldName"		"BgPanel"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"0"
@@ -49,7 +49,7 @@
 		"fieldName"		"DialogFrame"
 		"xpos"			"c-300"
 		"ypos"			"c-200"
-		"zpos"			"0"
+		
 		"wide"			"600"
 		"tall"			"400"
 		"visible"		"1"

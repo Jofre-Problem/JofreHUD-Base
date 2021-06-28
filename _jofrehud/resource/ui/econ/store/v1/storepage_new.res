@@ -363,7 +363,7 @@
 		"textAlignment"	"west"
 		"xpos"			"c-300"
 		"ypos"			"290"
-		"zpos"			"0"
+		
 		"wide"			"200"
 		"tall"			"20"
 		"autoResize"	"1"

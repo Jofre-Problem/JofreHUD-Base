@@ -76,7 +76,7 @@
 				"textAlignment"	"east"
 				"ypos"			"0"
 				"xpos"			"0"
-				"zpos"			"0"
+				
 				"wide"			"f1"
 				"tall"			"f-3"
 				"textinsetx"	"8"

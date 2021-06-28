@@ -5,7 +5,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"DurationLabel"
 		"xpos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"200"
 		"tall"			"60"
 		

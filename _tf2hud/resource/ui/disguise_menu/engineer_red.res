@@ -41,7 +41,7 @@
 		"fieldName"		"NumberBg"
 		"xpos"			"15"
 		"ypos"			"90"
-		"zpos"			"0"
+		
 		"wide"			"15"
 		"tall"			"15"
 		"visible"		"1"
@@ -59,7 +59,7 @@
 		"fgcolor"		"Black"
 		"xpos"			"15"
 		"ypos"			"90"
-		"zpos"			"0"
+		
 		"wide"			"15"
 		"tall"			"15"
 		
@@ -80,7 +80,7 @@
 		"fgcolor"		"Black"
 		"xpos"			"15"
 		"ypos"			"90"
-		"zpos"			"0"
+		
 		"wide"			"15"
 		"tall"			"15"
 		

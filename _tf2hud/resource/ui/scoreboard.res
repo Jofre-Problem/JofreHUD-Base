@@ -1002,7 +1002,7 @@
 				"fieldName"		"AvatarImage"
 				"xpos"			"159"
 				"ypos"			"9"
-				"zpos"			"0"
+				
 				"wide"			"32"
 				"tall"			"32"
 				"visible"		"1"
@@ -1081,7 +1081,7 @@
 				"fieldName"		"AvatarImage"
 				"xpos"			"9"
 				"ypos"			"9"
-				"zpos"			"0"
+				
 				"wide"			"32"
 				"tall"			"32"
 				"visible"		"1"
@@ -1719,7 +1719,7 @@
 		"fieldName"		"ButtonLegendBG"
 		"xpos"			"10"
 		"ypos"			"373"
-		"zpos"			"0"
+		
 		"wide"			"539"
 		"tall"			"38"
 		

@@ -117,7 +117,7 @@
 		"labelText"		""
 		"xpos"			"c-100"
 		"ypos"			"10"
-		"zpos"			"0"
+		
 		"wide"			"200"
 		"tall"			"25"
 		"centerwrap"	"1"
@@ -167,7 +167,7 @@
 		"labelText"		"Base Texture"
 		"xpos"			"c-80"
 		"ypos"			"60"
-		"zpos"			"0"
+		
 		"wide"			"80"
 		"tall"			"15"
 	}
@@ -267,7 +267,7 @@
 		"labelText"		"Shared Normal"
 		"xpos"			"c-70"
 		"ypos"			"77"
-		"zpos"			"0"
+		
 		"wide"			"70"
 		"tall"			"15"
 	}
@@ -297,7 +297,7 @@
 		"labelText"		"Lightwarp"
 		"xpos"			"c-80"
 		"ypos"			"90"
-		"zpos"			"0"
+		
 		"wide"			"80"
 		"tall"			"15"
 	}
@@ -326,7 +326,7 @@
 		"labelText"		"Base Map Alpha Phong Mask"
 		"xpos"			"c-125"
 		"ypos"			"105"
-		"zpos"			"0"
+		
 		"wide"			"125"
 		"tall"			"15"
 	}
@@ -431,7 +431,7 @@
 		"labelText"		"Shared Phong Exponent / Rim Mask"
 		"xpos"			"c-170"
 		"ypos"			"125"
-		"zpos"			"0"
+		
 		"wide"			"170"
 		"tall"			"15"
 	}
@@ -461,7 +461,7 @@
 		"labelText"		"Phong Exponent"
 		"xpos"			"c-100"
 		"ypos"			"145"
-		"zpos"			"0"
+		
 		"wide"			"100"
 		"tall"			"15"
 	}
@@ -499,7 +499,7 @@
 		"labelText"		"Phong Boost"
 		"xpos"			"c-100"
 		"ypos"			"160"
-		"zpos"			"0"
+		
 		"wide"			"100"
 		"tall"			"15"
 	}
@@ -537,7 +537,7 @@
 		"labelText"		"Rim Light Exponent"
 		"xpos"			"c-100"
 		"ypos"			"175"
-		"zpos"			"0"
+		
 		"wide"			"100"
 		"tall"			"15"
 	}
@@ -575,7 +575,7 @@
 		"labelText"		"Rim Light Boost"
 		"xpos"			"c-100"
 		"ypos"			"190"
-		"zpos"			"0"
+		
 		"wide"			"100"
 		"tall"			"15"
 	}
@@ -613,7 +613,7 @@
 		"labelText"		"Rim Mask"
 		"xpos"			"c-100"
 		"ypos"			"205"
-		"zpos"			"0"
+		
 		"wide"			"100"
 		"tall"			"15"
 		"enabled"		"0"
@@ -649,7 +649,7 @@
 		"labelText"		"Half Lambert"
 		"xpos"			"c-100"
 		"ypos"			"225"
-		"zpos"			"0"
+		
 		"wide"			"100"
 		"tall"			"15"
 	}
@@ -684,7 +684,7 @@
 		"labelText"		"Blend Tint By Base Alpha"
 		"xpos"			"c-150"
 		"ypos"			"245"
-		"zpos"			"0"
+		
 		"wide"			"150"
 		"tall"			"15"
 		"enabled"		"0"
@@ -720,7 +720,7 @@
 		"labelText"		"Blend Tint Color Over Base"
 		"xpos"			"c-150"
 		"ypos"			"265"
-		"zpos"			"0"
+		
 		"wide"			"150"
 		"tall"			"15"
 		"enabled"		"0"
@@ -759,7 +759,7 @@
 		"labelText"		"Color Tint Base (RGB)"
 		"xpos"			"c-150"
 		"ypos"			"280"
-		"zpos"			"0"
+		
 		"wide"			"150"
 		"tall"			"15"
 		"enabled"		"0"
@@ -846,7 +846,7 @@
 		"labelText"		"Additive"
 		"xpos"			"c-100"
 		"ypos"			"295"
-		"zpos"			"0"
+		
 		"wide"			"100"
 		"tall"			"15"
 	}
@@ -881,7 +881,7 @@
 		"labelText"		"Translucent"
 		"xpos"			"c+19"
 		"ypos"			"295"
-		"zpos"			"0"
+		
 		"wide"			"60"
 		"tall"			"15"
 	}
@@ -916,7 +916,7 @@
 		"labelText"		"Alpha Test"
 		"xpos"			"c+96"
 		"ypos"			"295"
-		"zpos"			"0"
+		
 		"wide"			"60"
 		"tall"			"15"
 		"enabled"		"0"
@@ -952,7 +952,7 @@
 		"labelText"		"Cube Map"
 		"xpos"			"c-100"
 		"ypos"			"315"
-		"zpos"			"0"
+		
 		"wide"			"100"
 		"tall"			"15"
 	}
@@ -981,7 +981,7 @@
 		"labelText"		"Cube Map Alpha Mask"
 		"xpos"			"c-150"
 		"ypos"			"330"
-		"zpos"			"0"
+		
 		"wide"			"150"
 		"tall"			"15"
 		"enabled"		"0"
@@ -1012,7 +1012,7 @@
 		"labelText"		"Cube Map Tint (RGB)"
 		"xpos"			"c-150"
 		"ypos"			"345"
-		"zpos"			"0"
+		
 		"wide"			"150"
 		"tall"			"15"
 		"enabled"		"0"
@@ -1099,7 +1099,7 @@
 		"labelText"		"Self Illumination"
 		"xpos"			"c-100"
 		"ypos"			"360"
-		"zpos"			"0"
+		
 		"wide"			"100"
 		"tall"			"15"
 	}
@@ -1204,7 +1204,7 @@
 		"labelText"		"Shared Illum Mask"
 		"xpos"			"c-85"
 		"ypos"			"380"
-		"zpos"			"0"
+		
 		"wide"			"85"
 		"tall"			"15"
 	}
@@ -1234,7 +1234,7 @@
 		"labelText"		"Self Illumination Tint"
 		"xpos"			"c-150"
 		"ypos"			"400"
-		"zpos"			"0"
+		
 		"wide"			"150"
 		"tall"			"15"
 		"enabled"		"0"

@@ -93,7 +93,7 @@
 		"fieldName"		"ProgressLevelBar"	
 		"xpos"			"c-190"
 		"ypos"			"r88"
-		"zpos"			"0"
+		
 		"wide"			"380"
 		"tall"			"48"
 		"visible"		"1"
@@ -355,7 +355,7 @@
 				"fieldName"		"BallPowerMeterFinalSection"	
 				"xpos"			"0"
 				"ypos"			"0"
-				"zpos"			"0"
+				
 				"wide"			"168"
 				"tall"			"18"
 				
@@ -391,7 +391,7 @@
 				"fieldName"		"BallPowerMeterFill"	
 				"xpos"			"0"
 				"ypos"			"0"
-				"zpos"			"0"
+				
 				"wide"			"168"
 				"tall"			"18"
 				

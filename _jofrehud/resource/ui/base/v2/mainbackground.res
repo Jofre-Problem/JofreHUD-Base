@@ -14,7 +14,7 @@
 	//	"fieldName"		"MainBackground"
 	//	"xpos"			"0"
 	//	"ypos"			"10"
-	//	"zpos"			"0"
+	//	
 	//	"wide"			"450"
 	//	"tall"			"170"
 	//	"visible"		"0"

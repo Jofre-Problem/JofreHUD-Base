@@ -6,7 +6,7 @@
 		"fieldName"		"CalloutBG"
 		"xpos"			"12"
 		"ypos"			"13"
-		"zpos"			"0"
+		
 		"wide"			"76"
 		"tall"			"24"
 		"visible"		"1"

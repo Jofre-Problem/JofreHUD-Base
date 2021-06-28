@@ -23,7 +23,7 @@
 		"fieldName"		"ItemEffectMeterBG"
 		"xpos"			"-30"
 		"ypos"			"28"
-		"zpos"			"0"
+		
 		"wide"			"150"
 		"tall"			"75"
 		"visible"		"1"

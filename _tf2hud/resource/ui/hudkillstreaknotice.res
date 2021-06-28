@@ -6,7 +6,7 @@
 		"fieldName"		"Background"
 		"xpos"			"c-250"
 		"ypos"			"50"
-		"zpos"			"0"
+		
 		"wide"			"500"
 		"tall"			"50"
 		

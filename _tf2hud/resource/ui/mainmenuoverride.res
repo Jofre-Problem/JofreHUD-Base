@@ -7,7 +7,7 @@
 		
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"480"
 		
@@ -1514,7 +1514,7 @@
 			"fieldname"		"Background"
 			"xpos"			"0"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"260"
 //			"tall"			"120"
 			"tall"			"96"
@@ -1828,7 +1828,7 @@
 			"fieldname"		"Background"
 			"xpos"			"0"
 			"ypos"			"20"
-			"zpos"			"0"
+			
 			"wide"			"260"
 			"tall"			"p0.88"
 			"visible"		"1"

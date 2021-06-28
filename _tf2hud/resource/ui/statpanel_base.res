@@ -6,7 +6,7 @@
 		"fieldName"		"StatPanelBG"
 		"xpos"			"-12"
 		"ypos"			"5"
-		"zpos"			"0"
+		
 		"wide"			"286"
 		//"wide_lodef"	"420"
 		"tall"			"183"

@@ -6,7 +6,7 @@
 		"fieldName"		"WaitingForPlayersPanelBG"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"292"
 		"tall"			"64"
 		"visible"		"1"

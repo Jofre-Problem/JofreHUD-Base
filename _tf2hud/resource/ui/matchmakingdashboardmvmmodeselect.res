@@ -64,7 +64,7 @@
 			"fieldName"		"MannUpImage"
 			"xpos"			"0"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"o1"
 			"visible"		"1"
@@ -185,7 +185,7 @@
 			"fieldName"		"BootcampImage"
 			"xpos"			"0"
 			"ypos"			"rs1"
-			"zpos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"o1"
 			"visible"		"1"

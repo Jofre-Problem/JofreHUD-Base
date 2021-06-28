@@ -159,7 +159,7 @@
 		"textAlignment"	"north"
 		"xpos"			"c-300"
 		"ypos"			"45"
-		"zpos"			"0"
+		
 		"wide"			"175"
 		"tall"			"200"
 		"autoResize"	"1"
@@ -479,7 +479,7 @@
 		"textAlignment"	"west"
 		"xpos"			"c-300"
 		"ypos"			"290"
-		"zpos"			"0"
+		
 		"wide"			"200"
 		"tall"			"20"
 		"autoResize"	"1"

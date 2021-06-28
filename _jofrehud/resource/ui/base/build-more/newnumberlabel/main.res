@@ -8,7 +8,7 @@
 		"fgcolor"		"Black"
 		"xpos"			"15"
 		"ypos"			"90"
-		"zpos"			"0"
+		
 		"wide"			"15"
 		"tall"			"15"
 		

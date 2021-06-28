@@ -28,7 +28,7 @@
 		"xpos_minmode"	"28"
 		"ypos"			"0"
 		"ypos_minmode"	"7"
-		"zpos"			"0"
+		
 		"wide"			"90"
 		"tall"			"45"
 		"visible"		"0"

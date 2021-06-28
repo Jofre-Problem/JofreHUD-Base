@@ -52,7 +52,7 @@
 				"fieldName"		"CharacterImage"
 				"xpos"			"3"
 				"ypos"			"cs-0.5"
-				"zpos"			"0"
+				
 				"wide"			"o1"
 				"tall"			"p0.8"
 				"visible"		"1"

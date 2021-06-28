@@ -524,7 +524,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"24"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 
@@ -535,7 +535,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"20"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 
@@ -545,7 +545,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"18"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 
@@ -557,7 +557,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"40"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		"HUDNumber1"
@@ -566,7 +566,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"41"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		"HUDNumber2"
@@ -575,7 +575,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"42"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		"HUDNumber3"
@@ -584,7 +584,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"43"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		"HUDNumber4"
@@ -593,7 +593,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"44"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		"HUDNumber5"
@@ -602,7 +602,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"45"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		"DefaultFixed"
@@ -663,7 +663,7 @@ Scheme
 			{
 				"name"		"Tahoma"
 				"tall"		"16"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		"CloseCaption_BoldItalic"
@@ -672,7 +672,7 @@ Scheme
 			{
 				"name"		"Tahoma"
 				"tall"		"16"
-				"weight"	"900"
+				//"weight"	"900"
 				"italic"	"1"
 			}
 		}

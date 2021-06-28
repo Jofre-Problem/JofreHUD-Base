@@ -40,7 +40,7 @@
 		"textAlignment"	"east"
 		"xpos"			"0"
 		"ypos"			"76"
-		"zpos"			"0"
+		
 		"wide"			"181"
 		"tall"			"12"
 		"textinsetx"	"4"
@@ -58,7 +58,7 @@
 		"fieldName"		"OG_Price_CrossOut"
 		"xpos"			"0"
 		"ypos"			"82"
-		"zpos"			"0"
+		
 		"wide"			"181"
 		"tall"			"5"
 		"visible"		"0"

@@ -83,7 +83,7 @@
 		"wide"			"0"
 		"tall"			"12"
 		//"fillcolor"		"200 184 148 255"	// overwritten by code
-		"zpos"			"0"
+		
 		"visible"		"0"
 		
 	}

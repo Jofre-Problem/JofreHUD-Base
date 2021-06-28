@@ -231,7 +231,7 @@
 						"fieldName"		"Dimmer"
 						"xpos"			"0"
 						"ypos"			"0"
-						"zpos"			"0"
+						
 						"wide"			"f0"
 						"tall"			"f0"
 						"visible"		"1"
@@ -296,7 +296,7 @@
 						"fieldName"		"Dimmer"
 						"xpos"			"0"
 						"ypos"			"0"
-						"zpos"			"0"
+						
 						"wide"			"f0"
 						"tall"			"f0"
 						"visible"		"1"
@@ -312,7 +312,7 @@
 						"fieldName"		"GreyDimmer"
 						"xpos"			"0"
 						"ypos"			"0"
-						"zpos"			"0"
+						
 						"wide"			"f0"
 						"tall"			"f0"
 						"visible"		"1"
@@ -623,7 +623,7 @@
 						"fieldName"		"LoanersBGImage"
 						"xpos"			"0"
 						"ypos"			"0"
-						"zpos"			"0"
+						
 						"wide"			"f0"
 						"tall"			"f0"
 						"visible"		"1"
@@ -925,7 +925,7 @@
 					"fieldName"		"BackFolderImage"
 					"xpos"			"0"
 					"ypos"			"0"
-					"zpos"			"0"
+					
 					"wide"			"f0"
 					"tall"			"o1"
 					"visible"		"1"
@@ -1015,7 +1015,7 @@
 							"fieldName"		"Background"
 							"xpos"			"0"
 							"ypos"			"0"
-							"zpos"			"0"
+							
 							"wide"			"f0"
 							"tall"			"f0"
 							"visible"		"1"
@@ -1077,7 +1077,7 @@
 							"fieldName"		"Background"
 							"xpos"			"0"
 							"ypos"			"0"
-							"zpos"			"0"
+							
 							"wide"			"f0"
 							"tall"			"f0"
 							"visible"		"1"
@@ -1143,7 +1143,7 @@
 							"fieldName"		"Background"
 							"xpos"			"0"
 							"ypos"			"0"
-							"zpos"			"0"
+							
 							"wide"			"f0"
 							"tall"			"f0"
 							"visible"		"1"

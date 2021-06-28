@@ -22,7 +22,7 @@
 		"fieldName"		"Container"
 		"xpos"		"c-225"
 		"ypos"		"c-200"
-		"zpos"		"0"
+		
 		"wide"		"450"
 		"tall"		"400"
 		

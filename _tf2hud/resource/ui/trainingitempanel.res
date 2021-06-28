@@ -22,7 +22,7 @@
 		"fieldName"				"background"
 		"xpos"					"0"
 		"ypos"					"0"
-		"zpos"					"0"
+		
 		"wide"					"620"
 		"tall"					"195"
 		"visible"				"1"

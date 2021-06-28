@@ -42,7 +42,7 @@
 				"fieldName"		"SubmittingLabel"
 				"xpos"			"cs-0.5"
 				"ypos"			"rs1-10"
-				"zpos"			"0"
+				
 				"wide"			"p0.8"
 				"tall"			"25"
 				"visible"		"1"
@@ -60,7 +60,7 @@
 				"fieldName"		"SpinnerImage"
 				"xpos"			"cs-0.5"
 				"ypos"			"cs-0.5"
-				"zpos"			"0"
+				
 				"wide"			"o1"
 				"tall"			"80"
 				"visible"		"1"
@@ -88,7 +88,7 @@
 				"fieldName"		"ThankYouLabel"
 				"xpos"			"cs-0.5"
 				"ypos"			"20"
-				"zpos"			"0"
+				
 				"wide"			"p0.8"
 				"tall"			"25"
 				"visible"		"1"
@@ -106,7 +106,7 @@
 				"fieldName"		"Explanation"
 				"xpos"			"cs-0.5"
 				"ypos"			"60"
-				"zpos"			"0"
+				
 				"wide"			"p0.8"
 				"tall"			"50"
 				"visible"		"1"

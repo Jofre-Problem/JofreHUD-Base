@@ -884,7 +884,7 @@
 			"fieldName"		"FriendsImage"
 			"xpos"			"cs-0.5"
 			"ypos"			"32"
-			"zpos"			"0"
+			
 			"wide"			"180"
 			"tall"			"90"
 			"visible"		"1"

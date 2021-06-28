@@ -474,7 +474,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"12"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"480 599"
 			}
@@ -483,7 +483,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"13"	[$WIN32]
 				"tall"		"20"	[$X360]
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"
 			}
@@ -491,7 +491,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"14"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
 				"antialias"	"1"
@@ -500,7 +500,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"20"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
 				"antialias"	"1"
@@ -509,7 +509,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"24"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
 				"antialias"	"1"
@@ -656,7 +656,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"18"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
 			}
@@ -664,7 +664,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"21"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"600 767"
 			}
@@ -672,7 +672,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"22"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"768 1023"
 				"antialias"	"1"
@@ -681,7 +681,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"28"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1024 1199"
 				"antialias"	"1"
@@ -690,7 +690,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"30"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
 				"antialias"	"1"
@@ -718,7 +718,7 @@ Scheme
 				"name"		"Trebuchet MS" [!$OSX]
 				"name"		"Verdana" [$OSX]
 				"tall"		"18"
-				"weight"	"900"
+				//"weight"	"900"
 				"antialias" "1"
 				"additive"	"1"
 			}
@@ -1289,7 +1289,7 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"18"
-				"weight"	"900"
+				//"weight"	"900"
 				"antialias" 	"1"
 				"yres"		"768 1023"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1298,7 +1298,7 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"21"
-				"weight"	"900"
+				//"weight"	"900"
 				"antialias" 	"1"
 				"yres"		"1024 1199"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1360,7 +1360,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"90"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
 				//"additive"	"0"
@@ -1416,7 +1416,7 @@ Scheme
 				"name"		"Tahoma"
 				"tall"		"24"
 				//"tall_hidef"	"32"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
@@ -1427,7 +1427,7 @@ Scheme
 				"name"		"Tahoma"
 				"tall"		"24"
 				//"tall_hidef"	"32"
-				"weight"	"900"
+				//"weight"	"900"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1439,7 +1439,7 @@ Scheme
 				"name"		"Tahoma"
 				"tall"		"16"
 				//"tall_hidef"	"24"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
@@ -2085,7 +2085,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"22"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		MatchmakingDialogMenuBrowserDetails
@@ -2094,7 +2094,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"18"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}		
 		MatchmakingDialogMenuMedium
@@ -2122,7 +2122,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"22"
 				//"tall_lodef"		"18"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		MatchmakingDialogMenuSmallest
@@ -2132,7 +2132,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"18"
 				//"tall_lodef"		"18"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		RankingDialogHeaders
@@ -2141,7 +2141,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"15"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		
@@ -2184,7 +2184,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"14"
-				"weight"	"900"
+				//"weight"	"900"
 				"antialias" "1"
 			}
 		}

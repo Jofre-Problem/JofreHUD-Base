@@ -21,7 +21,7 @@
 		
 		"xpos"					"cs-0.5"
 		"ypos"					"cs-0.7"
-		"zpos"					"0"
+		
 		"wide"					"400"
 		"tall"					"240"
 		"bgcolor_override"		"46 43 42 0"
@@ -39,7 +39,7 @@
 			"textAlignment"	"center"
 			"xpos"			"95"
 			"ypos"			"10"
-			"zpos"			"0"
+			
 			"wide"			"210"
 			"tall"			"60"
 			"autoResize"	"1"
@@ -154,7 +154,7 @@
 			"textAlignment"	"center"
 			"xpos"			"20"
 			"ypos"			"80"
-			"zpos"			"0"
+			
 			"wide"			"360"
 			"tall"			"100"
 			"autoResize"	"1"

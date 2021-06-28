@@ -22,7 +22,7 @@
 		"ControlName"	"ImagePanel"
 		"FieldName"		"GameModeImageBgPanel"
 		"xpos"			"60"
-		"zpos"			"0"
+		
 		"wide"			"330"
 		"tall"			"255"
 		"visible"		"1"

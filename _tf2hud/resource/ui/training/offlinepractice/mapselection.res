@@ -5,7 +5,7 @@
 		"ControlName"	"ImagePanel"
 		"FieldName"		"MapImagePanel"
 		"xpos"			"60"
-		"zpos"			"0"
+		
 		"wide"			"330"
 		"tall"			"330"
 		"visible"		"1"

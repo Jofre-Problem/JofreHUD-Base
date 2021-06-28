@@ -64,7 +64,7 @@
 		"textAlignment"	"center"
 		"xpos"			"95"
 		"ypos"			"10"
-		"zpos"			"0"
+		
 		"wide"			"210"
 		"tall"			"60"
 		"autoResize"	"1"
@@ -209,7 +209,7 @@
 		"textAlignment"	"center"
 		"xpos"			"20"
 		"ypos"			"80"
-		"zpos"			"0"
+		
 		"wide"			"360"
 		"tall"			"100"
 		"autoResize"	"1"
@@ -228,7 +228,7 @@
 		"textAlignment"	"center"
 		"xpos"			"20"
 		"ypos"			"120"
-		"zpos"			"0"
+		
 		"wide"			"360"
 		"tall"			"60"
 		"autoResize"	"1"

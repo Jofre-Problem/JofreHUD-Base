@@ -37,7 +37,7 @@
 		"fieldName"		"Spellbook"
 		"xpos"			"10"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"64"
 		"tall"			"56"
 		"visible"		"1"

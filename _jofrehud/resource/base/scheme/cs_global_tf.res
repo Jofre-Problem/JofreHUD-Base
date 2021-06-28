@@ -25,10 +25,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
-				
+				"name"		"Segoe UI"			
 				"tall"		"16"
-				"weight"	"500"
 			}
 		}
 		"CloseCaption_Italic"
@@ -38,7 +36,6 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"16"
-				"weight"	"500"
 				"italic"	"0"
 			}
 		}
@@ -49,7 +46,6 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"16"
-				"weight"	"900"
 			}
 		}
 		"CloseCaption_BoldItalic"
@@ -59,7 +55,6 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"16"
-				"weight"	"900"
 				"italic"	"0"
 			}
 		}		

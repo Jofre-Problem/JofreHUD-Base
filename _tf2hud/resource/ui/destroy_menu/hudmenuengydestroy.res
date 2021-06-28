@@ -6,7 +6,7 @@
 		"fieldName"		"MainBackground"
 		"xpos"			"0"
 		"ypos"			"14"
-		"zpos"			"0"
+		
 		"wide"			"450"
 		"tall"			"170"
 		"visible"		"1"
@@ -22,7 +22,7 @@
 		"fieldName"		"Divider"
 		"xpos"			"8"
 		"ypos"			"51"
-		"zpos"			"0"
+		
 		"wide"			"436"
 		"tall"			"2"
 		"fillcolor"		"255 222 208 255"

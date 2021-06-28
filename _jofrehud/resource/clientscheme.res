@@ -70,7 +70,7 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"24"
-				"weight"	"900"
+				//"weight"	"900"
 				"antialias" "1"
 			}
 		}
@@ -81,7 +81,7 @@ Scheme
 				"name"		"Segoe UI"
 				
 				tall		"16"
-				"weight"	"900"
+				//"weight"	"900"
 				"antialias" "1"				
 			}
 		}							
@@ -138,7 +138,7 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"9"
-				"weight"	"900"
+				//"weight"	"900"
 				"antialias" "1"
 			}
 		}		

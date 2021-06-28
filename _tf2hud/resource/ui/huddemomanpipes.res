@@ -6,7 +6,7 @@
 		"fieldName"		"background"
 		"xpos"			"12"
 		"ypos"			"6"
-		"zpos"			"0"
+		
 		"wide"			"76"
 		"wide_minmode"	"56"
 		"tall"			"38"

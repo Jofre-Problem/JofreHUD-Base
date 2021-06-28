@@ -215,7 +215,7 @@
 			"fieldName"		"MannCoImage"
 			"xpos"			"15"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"420"
 			"tall"			"220"
 			"visible"		"0"
@@ -244,7 +244,7 @@
 			"fieldName"		"StoreBackgroundImage"
 			"xpos"			"0"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			"visible"		"1"
@@ -550,7 +550,7 @@
 			"textAlignment"	"west"
 			"xpos"			"0"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"200"
 			"tall"			"20"
 			"autoresize"	"1"
@@ -568,7 +568,7 @@
 			"textAlignment"	"west"
 			"xpos"			"0"
 			"ypos"			"70"
-			"zpos"			"0"
+			
 			"wide"			"200"
 			"tall"			"20"
 			"autoresize"	"1"
@@ -586,7 +586,7 @@
 			"textAlignment"	"west"
 			"xpos"			"0"
 			"ypos"			"140"
-			"zpos"			"0"
+			
 			"wide"			"200"
 			"tall"			"20"
 			"autoresize"	"1"

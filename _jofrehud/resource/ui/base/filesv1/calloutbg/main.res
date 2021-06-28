@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"CalloutBG"
-		"zpos"			"0"
+		
 		"wide"			"76"
 		"tall"			"24"
 		"visible"		"1"

@@ -7,7 +7,7 @@
 		"fieldName"		"ReplayInputPanel"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		
 		
 		"visible"		"0"

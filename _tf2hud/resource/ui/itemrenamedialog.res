@@ -64,7 +64,7 @@
 		"textAlignment"	"center"
 		"xpos"			"100"
 		"ypos"			"10"
-		"zpos"			"0"
+		
 		"wide"			"200"
 		"tall"			"60"
 		"autoResize"	"1"
@@ -232,7 +232,7 @@
 		"textAlignment"	"east"
 		"xpos"			"10"
 		"ypos"			"90"
-		"zpos"			"0"
+		
 		"wide"			"185"
 		"tall"			"32"
 		"autoResize"	"1"
@@ -289,7 +289,7 @@
 		"textAlignment"	"east"
 		"xpos"			"10"
 		"ypos"			"130"
-		"zpos"			"0"
+		
 		"wide"			"185"
 		"tall"			"32"
 		"autoResize"	"1"
@@ -335,7 +335,7 @@
 		"textAlignment"	"center"
 		"xpos"			"0"
 		"ypos"			"170"
-		"zpos"			"0"
+		
 		"wide"			"400"
 		"tall"			"20"
 		"autoResize"	"1"

@@ -204,7 +204,7 @@
 			"fieldName"		"QuestOption1"
 			"xpos"			"rs1"
 			"ypos"			"31"
-			"zpos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"o0.25"
 			"visible"		"1"
@@ -219,7 +219,7 @@
 			"fieldName"		"QuestOption2"
 			"xpos"			"rs1"
 			"ypos"			"3"
-			"zpos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"o0.25"
 			"visible"		"1"
@@ -238,7 +238,7 @@
 			"fieldName"		"QuestOption3"
 			"xpos"			"rs1"
 			"ypos"			"3"
-			"zpos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"o0.25"
 			"visible"		"1"

@@ -131,7 +131,7 @@
 		"fieldName"		"MenuBG"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"		
+				
 		"wide"			"f0"
 		"tall"			"480"
 		

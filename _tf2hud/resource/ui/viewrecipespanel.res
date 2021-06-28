@@ -70,7 +70,7 @@
 		"font"			"HudFontMediumBold"
 		"xpos"			"0"
 		"ypos"			"10"
-		"zpos"			"0"
+		
 		"wide"			"400"
 		"tall"			"20"
 		
@@ -132,7 +132,7 @@
 			"font"			"HudFontSmallBold"
 			"xpos"			"0"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"366"
 			"tall"			"0"
 			

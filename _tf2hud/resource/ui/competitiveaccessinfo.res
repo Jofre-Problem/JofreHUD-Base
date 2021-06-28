@@ -129,7 +129,7 @@
 				"fieldname"		"Background"
 				"xpos"			"0"
 				"ypos"			"0"
-				"zpos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"1"

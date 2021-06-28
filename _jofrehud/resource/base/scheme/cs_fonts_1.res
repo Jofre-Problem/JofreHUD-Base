@@ -59,7 +59,6 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"12"
-				"weight"	"0"
 				"antialias"	"1"
 			}
 		}
@@ -82,7 +81,7 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"24"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 
@@ -93,7 +92,7 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"20"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 
@@ -104,7 +103,7 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"18"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 
@@ -117,7 +116,7 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"40"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		"HUDNumber1"
@@ -127,7 +126,7 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"41"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		"HUDNumber2"
@@ -137,7 +136,7 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"42"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		"HUDNumber3"
@@ -147,7 +146,7 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"43"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		"HUDNumber4"
@@ -157,17 +156,16 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"44"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		"HUDNumber5"
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
-				
+				"name"		"Segoe UI"			
 				"tall"		"45"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		"DefaultFixed"
@@ -177,15 +175,8 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"12"
-				"weight"	"0"
 				"antialias"	"1"
 			}
-//			"1"
-//			{
-//				"name"		"FixedSys"
-//				"tall"		"20"
-//				"weight"	"0"
-//			}
 		}
 
 		"DefaultFixedDropShadow"
@@ -195,23 +186,8 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"10"
-				"weight"	"0"
 				"dropshadow" "1"
 			}
-//			"1"
-//			{
-//				"name"		"FixedSys"
-//				"tall"		"20"
-//				"weight"	"0"
-//			}
 		}	
 	}
-	CustomFontFiles
-	{
-	//	"40"
-	//	{
-	//		"font" "_jofrehud/DroidSansMono.ttf"
-	//		"name" "Droid Sans Mono"
-	//	}			
-	}	
 }	

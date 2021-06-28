@@ -6,7 +6,7 @@
 		"fieldName"		"NumberBg"
 	//	"xpos"			"41"
 	//	"ypos"			"99"
-		"zpos"			"0"
+		
 	//	"wide"			"18"
 	//	"tall"			"18"
 		"visible"		"1"

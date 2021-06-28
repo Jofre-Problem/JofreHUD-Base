@@ -44,7 +44,7 @@
 			"ControlName"	"EditablePanel"
 			"xpos"			"cs-0.5"
 			"ypos"			"rs1"
-			"zpos"			"0"
+			
 			"wide"			"f10"
 			"tall"			"f5"
 			"visible"		"0"
@@ -60,7 +60,7 @@
 			"fieldName"		"ChooseRematchOrRequeueContainer"
 			"xpos"			"cs-0.5"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"f8"
 			"tall"			"f4"
 			"visible"		"0"
@@ -91,7 +91,7 @@
 				"fieldName"		"LeaderContainer"
 				"xpos"			"0"
 				"ypos"			"0"
-				"zpos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"1"
@@ -163,7 +163,7 @@
 				"fieldName"		"NonLeaderContainer"
 				"xpos"			"0"
 				"ypos"			"0"
-				"zpos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"0"
@@ -292,7 +292,7 @@
 			"fieldName"		"RematchWaitingForOthers"
 			"xpos"			"cs-0.5"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"f8"
 			"tall"			"f4"
 			"visible"		"0"
@@ -359,7 +359,7 @@
 				"fieldName"		"NonLeaderContainer"
 				"xpos"			"0"
 				"ypos"			"0"
-				"zpos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"0"
@@ -403,7 +403,7 @@
 			"fieldName"		"SearchingContainer"
 			"xpos"			"cs-0.5"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"f8"
 			"tall"			"f4"
 			"visible"		"0"
@@ -471,7 +471,7 @@
 				"fieldName"		"LeaderContainer"
 				"xpos"			"0"
 				"ypos"			"0"
-				"zpos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"0"
@@ -516,7 +516,7 @@
 			"fieldName"		"MatchReadyAndWaitingContainer"
 			"xpos"			"cs-0.5"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"f8"
 			"tall"			"f4"
 			"visible"		"0"
@@ -646,7 +646,7 @@
 			"fieldName"		"RematchStartingContainer"
 			"xpos"			"cs-0.5"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"f8"
 			"tall"			"f4"
 			"visible"		"0"

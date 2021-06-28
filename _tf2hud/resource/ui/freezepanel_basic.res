@@ -90,7 +90,7 @@
 			"ypos"			"245"
 			//"ypos_hidef"		"245"
 			//"ypos_lodef"		"215"
-			"zpos"			"0"
+			
 			"wide"			"266"
 			"tall"			"48"
 			"visible"		"1"
@@ -237,7 +237,7 @@
 			"fieldName"		"FreezePanelBG"
 			"xpos"			"8"
 			"ypos"			"160"
-			"zpos"			"0"
+			
 			"wide"			"256"
 			"tall"			"33"
 			"visible"		"1"
@@ -314,7 +314,7 @@
 			"fieldName"		"AvatarImage"
 			"xpos"			"49"
 			"ypos"			"174"
-			"zpos"			"0"
+			
 			"wide"			"14"
 			"tall"			"14"
 			"visible"		"1"
@@ -423,7 +423,7 @@
 			"fieldName"		"ScreenshotPanelBG"
 			"xpos"			"0"
 			"ypos"			"8"
-			"zpos"			"0"
+			
 			"wide"			"166"
 			"tall"			"38"
 			"visible"		"1"

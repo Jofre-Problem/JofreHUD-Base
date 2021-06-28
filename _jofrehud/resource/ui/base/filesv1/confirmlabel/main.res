@@ -7,7 +7,7 @@
 		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		"xpos"			"20"
-		"zpos"			"0"
+		
 		"wide"			"360"
 		"autoResize"	"1"
 		

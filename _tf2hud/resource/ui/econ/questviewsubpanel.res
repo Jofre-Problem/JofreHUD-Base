@@ -60,7 +60,7 @@
 		"fieldName"		"BGImage"
 		"xpos"			"rs1"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"o0.25"
 		"visible"		"1"
@@ -165,7 +165,7 @@
 		"fieldName"		"ActivationFlash"
 		"xpos"			"rs1"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"o0.25"
 		"visible"		"1"

@@ -75,7 +75,7 @@
 			"fieldName"		"Rank1"
 			"xpos"			"0"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"   "100"
 			"tall"			"80"
 			"visible"		"1"
@@ -91,7 +91,7 @@
 			"fieldName"		"Rank2"
 			"xpos"			"110"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"   "100"
 			"tall"			"80"
 			"visible"		"1"
@@ -107,7 +107,7 @@
 			"fieldName"		"Rank3"
 			"xpos"			"220"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"   "100"
 			"tall"			"80"
 			"visible"		"1"
@@ -124,7 +124,7 @@
 			"fieldName"		"Rank4"
 			"xpos"			"0"
 			"ypos"			"70"
-			"zpos"			"0"
+			
 			"wide"   "100"
 			"tall"			"80"
 			"visible"		"1"
@@ -140,7 +140,7 @@
 			"fieldName"		"Rank5"
 			"xpos"			"110"
 			"ypos"			"70"
-			"zpos"			"0"
+			
 			"wide"   "100"
 			"tall"			"80"
 			"visible"		"1"
@@ -156,7 +156,7 @@
 			"fieldName"		"Rank6"
 			"xpos"			"220"
 			"ypos"			"70"
-			"zpos"			"0"
+			
 			"wide"   "100"
 			"tall"			"80"
 			"visible"		"1"
@@ -173,7 +173,7 @@
 			"fieldName"		"Rank7"
 			"xpos"			"0"
 			"ypos"			"140"
-			"zpos"			"0"
+			
 			"wide"   "100"
 			"tall"			"80"
 			"visible"		"1"
@@ -189,7 +189,7 @@
 			"fieldName"		"Rank8"
 			"xpos"			"110"
 			"ypos"			"140"
-			"zpos"			"0"
+			
 			"wide"   "100"
 			"tall"			"80"
 			"visible"		"1"
@@ -205,7 +205,7 @@
 			"fieldName"		"Rank9"
 			"xpos"			"220"
 			"ypos"			"140"
-			"zpos"			"0"
+			
 			"wide"   "100"
 			"tall"			"80"
 			"visible"		"1"
@@ -222,7 +222,7 @@
 			"fieldName"		"Rank10"
 			"xpos"			"0"
 			"ypos"			"210"
-			"zpos"			"0"
+			
 			"wide"   "100"
 			"tall"			"80"
 			"visible"		"1"
@@ -238,7 +238,7 @@
 			"fieldName"		"Rank11"
 			"xpos"			"110"
 			"ypos"			"210"
-			"zpos"			"0"
+			
 			"wide"   "100"
 			"tall"			"80"
 			"visible"		"1"
@@ -254,7 +254,7 @@
 			"fieldName"		"Rank12"
 			"xpos"			"220"
 			"ypos"			"210"
-			"zpos"			"0"
+			
 			"wide"   "100"
 			"tall"			"80"
 			"visible"		"1"
@@ -271,7 +271,7 @@
 			"fieldName"		"Rank13"
 			"xpos"			"110"
 			"ypos"			"280"
-			"zpos"			"0"
+			
 			"wide"   "100"
 			"tall"			"80"
 			"visible"		"1"

@@ -52,7 +52,7 @@
 		"fieldName"		"Container"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
@@ -90,7 +90,7 @@
 		"fieldName"		"Container"
 		"xpos"		"c-225"
 		"ypos"		"c-200"
-		"zpos"		"0"
+		
 		"wide"		"450"
 		"tall"		"400"
 		

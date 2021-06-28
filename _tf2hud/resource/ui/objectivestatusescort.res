@@ -27,7 +27,7 @@
 		"fieldName"		"LevelBar"	
 		"xpos"			"73"
 		"ypos"			"123"
-		"zpos"			"0"
+		
 		"wide"			"254"
 		"tall"			"4"
 		"visible"		"1"
@@ -325,7 +325,7 @@
 			"fieldName"		"EscortItemImageAlert"	
 			"xpos"			"-4"
 			"ypos"			"38"
-			"zpos"			"0"
+			
 			"wide"			"60"
 			"tall"			"30"
 			

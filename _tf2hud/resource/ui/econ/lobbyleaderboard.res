@@ -6,7 +6,7 @@
 		"fieldName"		"BookPage"
 		"xpos"			"s-0.1667"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"o1"
 		"tall"			"f0"
 		"visible"		"0"

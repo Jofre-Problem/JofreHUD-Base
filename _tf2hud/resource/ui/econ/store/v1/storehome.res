@@ -130,7 +130,7 @@
 			"fieldName"		"MannCoImage"
 			"xpos"			"15"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"220"
 			"tall"			"80"
 			"visible"		"1"
@@ -283,7 +283,7 @@
 		"fieldName"		"TextContainerPanel"
 		"xpos"			"c-40"
 		"ypos"			"10"
-		"zpos"			"0"
+		
 		"wide"			"355"
 		"tall"			"290"
 		"visible"		"1"
@@ -331,7 +331,7 @@
 			"textAlignment"	"north-west"
 			"xpos"			"10"
 			"ypos"			"30"
-			"zpos"			"0"
+			
 			"wide"			"335"
 			"tall"			"100"
 			"autoResize"	"3"

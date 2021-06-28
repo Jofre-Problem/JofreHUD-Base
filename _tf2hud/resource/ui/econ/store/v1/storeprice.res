@@ -34,7 +34,7 @@
 		"fieldName"		"OG_Price"
 		"font"			"FontStoreOriginalPrice"
 		"textAlignment"	"east"
-		"zpos"			"0"
+		
 		"tall"			"12"
 		"textinsetx"	"4"
 		"autoResize"	"1"
@@ -49,7 +49,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"OG_Price_CrossOut"
-		"zpos"			"0"
+		
 		"wide"			"87"
 		"tall"			"5"
 		"visible"		"0"
@@ -158,7 +158,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"Limited"
 		"ypos"			"3"
-		"zpos"			"0"
+		
 		"wide"			"15"
 		"tall"			"15"
 		"visible"		"0"

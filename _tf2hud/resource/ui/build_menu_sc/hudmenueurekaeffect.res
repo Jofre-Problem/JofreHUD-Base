@@ -6,7 +6,7 @@
 		"fieldName"		"MainBackground"
 		"xpos"			"0"
 		"ypos"			"10"
-		"zpos"			"0"
+		
 		"wide"			"250"
 		"tall"			"180"
 		"visible"		"1"
@@ -38,7 +38,7 @@
 		"fieldName"		"BuildIconShadow"
 		"xpos"			"16"
 		"ypos"			"-7"
-		"zpos"			"0"
+		
 		"wide"			"48"
 		"tall"			"48"
 		"visible"		"1"

@@ -81,7 +81,7 @@
 		"textAlignment"	"east"
 		"xpos"			"0"
 		"ypos"			"46"
-		"zpos"			"0"
+		
 		"wide"			"118"
 		"tall"			"12"
 		"textinsetx"	"4"
@@ -99,7 +99,7 @@
 		"fieldName"		"OG_Price_CrossOut"
 		"xpos"			"0"
 		"ypos"			"51"
-		"zpos"			"0"
+		
 		"wide"			"118"
 		"tall"			"5"
 		"visible"		"0"
@@ -155,7 +155,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"LimitedLarge"
-		"zpos"			"0"
+		
 		"wide"			"24"
 		"tall"			"24"
 		"visible"		"0"

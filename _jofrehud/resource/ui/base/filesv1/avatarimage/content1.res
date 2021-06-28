@@ -18,7 +18,7 @@
 		"fieldName"		"AvatarImage"
 		"xpos"			"6"
 		"ypos"			"6"
-		"zpos"			"0"
+		
 		"wide"			"32"
 		"tall"			"32"
 		"visible"		"1"
@@ -46,7 +46,7 @@
 		"fieldName"		"AvatarImage"
 		"xpos"			"10"
 		"ypos"			"10"
-		"zpos"			"0"
+		
 		"wide"			"32"
 		"tall"			"32"
 		"visible"		"1"
@@ -78,7 +78,7 @@
 		"fieldName"		"AvatarImage"
 		"xpos"			"9"
 		"ypos"			"9"
-		"zpos"			"0"
+		
 		"wide"			"32"
 		"tall"			"32"
 		"visible"		"1"

@@ -1694,8 +1694,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"	[$WIN32]
-			"visible"		"0"	[$X360]
+			"visible"		"1"
 			
 		}							
 		"RecordsSubBG1"
@@ -1737,8 +1736,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"0"	[$WIN32]
-			"visible"		"1"	[$X360]
+			"visible"		"0"
 			
 		}	
 		"OverallRecord1Label"

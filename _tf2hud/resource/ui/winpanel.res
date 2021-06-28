@@ -222,7 +222,7 @@
 		"fieldName"		"WinPanelBGBorder"
 		"xpos"			"cs-0.5"
 		"ypos"			"70"
-		"zpos"			"0"
+		
 		"wide"			"p0.94"
 		"tall"			"185"
 		"visible"		"1"

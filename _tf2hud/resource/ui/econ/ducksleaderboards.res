@@ -79,7 +79,7 @@
 			"fieldName"		"Background"
 			"xpos"			"cs-0.5"
 			"ypos"			"cs-0.5"
-			"zpos"			"0"
+			
 			"wide"			"400"
 			"tall"			"300"
 			"autoResize"	"3"
@@ -96,7 +96,7 @@
 				"fieldName"		"EOTLImage"
 				"xpos"			"rs1.01"
 				"ypos"			"0"
-				"zpos"			"0"
+				
 				"wide"			"o1"
 				"tall"			"p1.09"
 				"visible"		"1"

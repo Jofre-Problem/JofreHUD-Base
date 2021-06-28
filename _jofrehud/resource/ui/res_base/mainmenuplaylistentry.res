@@ -6,7 +6,7 @@
 		"fieldName"		"ModeImage"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"o4"
 		"tall"			"p1.17"
 		"visible"		"1"

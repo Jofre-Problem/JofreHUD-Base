@@ -77,7 +77,7 @@
 		"fieldName"				"AdsContainer"
 		"xpos"					"cs-0.5"
 		"ypos"					"0"
-		"zpos"					"0"
+		
 		"wide"					"f0"
 		"tall"					"f0"
 		"visible"				"1"
@@ -94,7 +94,7 @@
 		"ypos"			"0"
 		"wide"			"0"
 		"tall"			"0"
-		"zpos"			"0"
+		
 		"proportionaltoparent"	"1"
 		"border"		"NoBorder"
 		"mouseinputenabled"	"0"

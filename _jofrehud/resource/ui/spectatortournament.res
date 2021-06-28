@@ -172,7 +172,7 @@
 				"fieldName"		"ReadyImage"
 				"xpos"			"32"
 				"ypos"			"8"
-				"zpos"			"0"
+				
 				"wide"			"12"
 				"tall"			"12"
 				

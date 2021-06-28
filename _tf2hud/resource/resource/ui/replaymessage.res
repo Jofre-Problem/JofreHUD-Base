@@ -20,7 +20,7 @@
 		"font"			"HudFontMediumBold"
 		"xpos"			"35"
 		"ypos"			"2"
-		"zpos"			"0"
+		
 		"wide"			"180"
 		"tall"			"60"
 		"visible"		"1"
@@ -34,7 +34,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"MessageLabel"
 		"font"			"ItemFontAttribLarge"
-		"zpos"			"0"
+		
 		"wide"			"180"
 		"tall"			"0"
 		"visible"		"1"

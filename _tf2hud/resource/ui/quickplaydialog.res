@@ -145,7 +145,7 @@
 					"fieldName"		"ModeImage"
 					"xpos"			"45"
 					"ypos"			"10"
-					"zpos"			"0"
+					
 					"wide"			"230"
 					"tall"			"230"
 					"visible"		"1"

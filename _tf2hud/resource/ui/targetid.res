@@ -189,7 +189,7 @@
 			"fieldName"		"MoveableIconBG"
 			"xpos"			"0"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"10"
 			"tall"			"36"
 			"visible"		"1"

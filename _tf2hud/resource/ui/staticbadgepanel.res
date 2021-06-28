@@ -5,7 +5,7 @@
 		"fieldName"		"BadgePanel"
 		"xpos"			"cs-0.5"
 		"ypos"			"0"
-		"zpos"			"0"		
+				
 		"wide"			"o1"
 		"tall"			"f0"
 		
@@ -71,7 +71,7 @@
 		"fieldName"		"RankLabel"
 		"xpos"			"cs-0.5"
 		"ypos"			"rs1-12"
-		"zpos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"20"
 		"visible"		"1"
@@ -94,7 +94,7 @@
 		"fieldName"		"NameLabel"
 		"xpos"			"cs-0.5"
 		"ypos"			"rs1-4"
-		"zpos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"20"
 		"visible"		"1"

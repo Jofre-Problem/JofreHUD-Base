@@ -94,7 +94,7 @@
 		"ypos"		"28"
 		"wide"		"50"
 		"tall"		"14"
-		"zpos"		"0"
+		
 		
 		"pinCorner"	"0"
 		"visible"	"1"
@@ -111,7 +111,7 @@
 		"ypos"		"46"
 		"wide"		"70"
 		"tall"		"14"
-		"zpos"		"0"
+		
 		
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -134,7 +134,7 @@
 		"ypos"		"46"
 		"wide"		"70"
 		"tall"		"14"
-		"zpos"		"0"
+		
 		
 		"pinCorner"		"2"
 		"visible"		"1"

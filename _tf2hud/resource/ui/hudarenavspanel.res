@@ -6,7 +6,7 @@
 		"fieldName"		"bluepanel"
 		"xpos"			"c-100"
 		"ypos"			"50"
-		"zpos"			"0"
+		
 		"wide"			"200"
 		"tall"			"50"
 		"visible"		"1"
@@ -17,7 +17,7 @@
 			"fieldName"		"background"
 			"xpos"			"0"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"200"
 			"tall"			"50"
 			
@@ -95,7 +95,7 @@
 		"fieldName"		"redpanel"
 		"xpos"			"c-100"
 		"ypos"			"140"
-		"zpos"			"0"
+		
 		"wide"			"200"
 		"tall"			"50"
 		"visible"		"1"
@@ -106,7 +106,7 @@
 			"fieldName"		"background"
 			"xpos"			"0"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"200"
 			"tall"			"50"
 			

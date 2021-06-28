@@ -51,7 +51,7 @@
 			"fieldName"		"RankModel"
 			"xpos"			"cs-0.5"
 			"ypos"			"cs-0.5"
-			"zpos"			"0"		
+					
 			"wide"			"o1"
 			"tall"			"p0.12"
 			
@@ -328,7 +328,7 @@
 					"fieldName"		"CurrentXPLabel"
 					"xpos"			"0"
 					"ypos"			"rs1"
-					"zpos"			"0"
+					
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
@@ -346,7 +346,7 @@
 					"fieldName"		"NextLevelXPLabel"
 					"xpos"			"rs1"
 					"ypos"			"rs1"
-					"zpos"			"0"
+					
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
@@ -452,7 +452,7 @@
 					"fieldName"		"GamesLabel"
 					"xpos"			"10"
 					"ypos"			"0"
-					"zpos"			"0"
+					
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
@@ -470,7 +470,7 @@
 					"fieldName"		"KillsLabel"
 					"xpos"			"10"
 					"ypos"			"10"
-					"zpos"			"0"
+					
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
@@ -488,7 +488,7 @@
 					"fieldName"		"DeathsLabel"
 					"xpos"			"10"
 					"ypos"			"20"
-					"zpos"			"0"
+					
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
@@ -507,7 +507,7 @@
 					"fieldName"		"DamageLabel"
 					"xpos"			"c-20"
 					"ypos"			"0"
-					"zpos"			"0"
+					
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
@@ -525,7 +525,7 @@
 					"fieldName"		"HealingLabel"
 					"xpos"			"c-20"
 					"ypos"			"10"
-					"zpos"			"0"
+					
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
@@ -543,7 +543,7 @@
 					"fieldName"		"SupportLabel"
 					"xpos"			"c-20"
 					"ypos"			"20"
-					"zpos"			"0"
+					
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"
@@ -562,7 +562,7 @@
 					"fieldName"		"ScoreLabel"
 					"xpos"			"rs1"
 					"ypos"			"0"
-					"zpos"			"0"
+					
 					"wide"			"100"
 					"tall"			"20"
 					"visible"		"1"

@@ -19,7 +19,7 @@
 		"textAlignment"	"center"
 		"xpos"			"20"
 		"ypos"			"40"
-		"zpos"			"0"
+		
 		"wide"			"360"
 		"tall"			"100"
 		"autoResize"	"1"

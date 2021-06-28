@@ -6,7 +6,7 @@
 		"fieldName"		"CallerBG"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"30"
 		"tall"			"30"
 		"visible"		"0"
@@ -20,7 +20,7 @@
 		"fieldName"		"CallerBurning"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"45"
 		"tall"			"45"
 		"visible"		"0"
@@ -34,7 +34,7 @@
 		"fieldName"		"CallerHealth"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"30"
 		"tall"			"30"
 		"visible"		"0"
@@ -48,7 +48,7 @@
 		"fieldName"		"CallerBleeding"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"45"
 		"tall"			"45"
 		"visible"		"0"
@@ -62,7 +62,7 @@
 		"fieldName"		"CallerAuto"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"30"
 		"tall"			"30"
 		"visible"		"0"
@@ -76,7 +76,7 @@
 		"fieldName"		"CallerReviveEasy"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"30"
 		"tall"			"30"
 		"visible"		"0"
@@ -90,7 +90,7 @@
 		"fieldName"		"CallerReviveMedium"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"30"
 		"tall"			"30"
 		"visible"		"0"
@@ -104,7 +104,7 @@
 		"fieldName"		"CallerReviveHard"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"30"
 		"tall"			"30"
 		"visible"		"0"

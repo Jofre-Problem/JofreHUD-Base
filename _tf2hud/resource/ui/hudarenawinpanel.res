@@ -209,7 +209,7 @@
 		"fieldName"		"WinPanelBG"
 		"xpos"			"-123"
 		"ypos"			"59"
-		"zpos"			"0"
+		
 		"wide"			"700"
 		"tall"			"174"
 		"visible"		"1"

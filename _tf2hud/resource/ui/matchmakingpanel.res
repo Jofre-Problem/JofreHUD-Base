@@ -548,7 +548,7 @@
 					"fieldName"		"PartyHasLeaverImage"
 					"xpos"			"0"
 					"ypos"			"5"
-					"zpos"			"0"
+					
 					"wide"			"50"
 					"tall"			"50"
 					"visible"		"1"

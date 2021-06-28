@@ -334,7 +334,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"24"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 			}
 		}
@@ -346,7 +346,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"20"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 			}
 		}
@@ -357,7 +357,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"18"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 			}
 		}
@@ -370,7 +370,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"40"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 			}
 		}
@@ -380,7 +380,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"41"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 			}
 		}
@@ -390,7 +390,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"42"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 			}
 		}
@@ -400,7 +400,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"43"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 			}
 		}
@@ -410,7 +410,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"44"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 			}
 		}
@@ -420,7 +420,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"45"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 			}
 		}
@@ -507,7 +507,7 @@ Scheme
 			{
 				"name"		"Tahoma"
 				"tall"		"16"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
@@ -517,7 +517,7 @@ Scheme
 			{
 				"name"		"Tahoma"
 				"tall"		"16"
-				"weight"	"900"
+				//"weight"	"900"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}

@@ -116,7 +116,7 @@
 			"fieldName"		"Background"
 			"xpos"			"cs-0.5"
 			"ypos"			"cs-0.5"
-			"zpos"			"0"
+			
 			"wide"			"p1.05"
 			"tall"			"p1"
 			"visible"		"1"

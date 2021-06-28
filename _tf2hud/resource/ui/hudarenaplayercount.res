@@ -6,7 +6,7 @@
 		"fieldName"		"blueteam"
 		"xpos"			"c-30"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"60"
 		"tall"			"30"
 		"visible"		"1"
@@ -17,7 +17,7 @@
 			"fieldName"		"background"
 			"xpos"			"5"
 			"ypos"			"7"
-			"zpos"			"0"
+			
 			"wide"			"50"
 			"tall"			"23"
 			
@@ -92,7 +92,7 @@
 		"fieldName"		"redteam"
 		"xpos"			"c-30"
 		"ypos"			"21"
-		"zpos"			"0"
+		
 		"wide"			"60"
 		"tall"			"30"
 		"visible"		"1"
@@ -103,7 +103,7 @@
 			"fieldName"		"background"
 			"xpos"			"5"
 			"ypos"			"7"
-			"zpos"			"0"
+			
 			"wide"			"50"
 			"tall"			"23"
 			

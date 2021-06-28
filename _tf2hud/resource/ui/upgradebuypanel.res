@@ -62,7 +62,7 @@
 		"fieldName"		"IconBorder"
 		"xpos"			"2"
 		"ypos"			"2"
-		"zpos"			"0"
+		
 		"wide"			"30"
 		"tall"			"30"
 		

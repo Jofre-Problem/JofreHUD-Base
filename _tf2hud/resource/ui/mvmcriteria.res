@@ -24,7 +24,7 @@
 			"textAlignment"	"south-west"
 			"xpos"			"0"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"400"
 			"tall"			"26"
 			"fgcolor_override"	"250 114 45 255"
@@ -39,7 +39,7 @@
 			"textAlignment"	"south-west"
 			"xpos"			"189"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"100"
 			"tall"			"24"
 			"fgcolor_override"	"250 114 45 255"
@@ -54,7 +54,7 @@
 			"textAlignment"	"south-west"
 			"xpos"			"279"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"80"
 			"tall"			"24"
 			"fgcolor_override"	"250 114 45 255"
@@ -69,7 +69,7 @@
 			"textAlignment"	"south-west"
 			"xpos"			"345"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"80"
 			"tall"			"26"
 			"fgcolor_override"	"250 114 45 255"
@@ -111,7 +111,7 @@
 				"font"			"HudFontSmall"
 				"xpos"			"0"
 				"ypos"			"5"
-				"zpos"			"0"
+				
 				"wide"			"400"
 				"tall"			"197"
 				"linespacing"	"12"
@@ -157,7 +157,7 @@
 			"fieldName"		"TourLootImage"
 			"xpos"			"280"
 			"ypos"			"6"
-			"zpos"			"0"
+			
 			"wide"			"110"
 			"tall"			"110"
 			"visible"		"1"
@@ -176,7 +176,7 @@
 			"textAlignment"	"west"
 			"xpos"			"10"
 			"ypos"			"5"
-			"zpos"			"0"
+			
 			"wide"			"200"
 			"tall"			"30"
 		}
@@ -191,7 +191,7 @@
 			"wrap"			"1"
 			"xpos"			"10"
 			"ypos"			"30"
-			"zpos"			"0"
+			
 			"wide"			"280"
 			"tall"			"50"
 		}
@@ -223,7 +223,7 @@
 			"textAlignment"	"north-west"
 			"xpos"			"8"
 			"ypos"			"5"
-			"zpos"			"0"
+			
 			"wide"			"200"
 			"tall"			"30"
 		}
@@ -234,7 +234,7 @@
 			"fieldName"		"MannUpTicketAd"
 			"xpos"			"6"
 			"ypos"			"30"
-			"zpos"			"0"
+			
 			"wide"			"70"
 			"tall"			"40"
 			"visible"		"1"
@@ -278,7 +278,7 @@
 			"fieldName"		"SquadSurplusTicketAd"
 			"xpos"			"73"
 			"ypos"			"30"
-			"zpos"			"0"
+			
 			"wide"			"70"
 			"tall"			"40"
 			"visible"		"1"
@@ -338,7 +338,7 @@
 			"wrap"			"1"
 			"xpos"			"33"
 			"ypos"			"70"
-			"zpos"			"0"
+			
 			"wide"			"120"
 			"tall"			"60"
 		}
@@ -349,7 +349,7 @@
 			"fieldName"		"Slot0"
 			"xpos"			"200"
 			"ypos"			"5"
-			"zpos"			"0"
+			
 			"wide"			"28"
 			"tall"			"200"
 
@@ -362,7 +362,7 @@
 			"fieldName"		"Slot1"
 			"xpos"			"200+30"
 			"ypos"			"5"
-			"zpos"			"0"
+			
 			"wide"			"28"
 			"tall"			"200"
 
@@ -375,7 +375,7 @@
 			"fieldName"		"Slot2"
 			"xpos"			"200+30+30"
 			"ypos"			"5"
-			"zpos"			"0"
+			
 			"wide"			"28"
 			"tall"			"200"
 
@@ -388,7 +388,7 @@
 			"fieldName"		"Slot3"
 			"xpos"			"200+30+30+30"
 			"ypos"			"5"
-			"zpos"			"0"
+			
 			"wide"			"28"
 			"tall"			"200"
 
@@ -401,7 +401,7 @@
 			"fieldName"		"Slot4"
 			"xpos"			"200+30+30+30+30"
 			"ypos"			"5"
-			"zpos"			"0"
+			
 			"wide"			"28"
 			"tall"			"200"
 
@@ -414,7 +414,7 @@
 			"fieldName"		"Slot5"
 			"xpos"			"200+30+30+30+30+30"
 			"ypos"			"5"
-			"zpos"			"0"
+			
 			"wide"			"28"
 			"tall"			"200"
 
@@ -450,7 +450,7 @@
 			"wrap"			"1"
 			"xpos"			"235"
 			"ypos"			"rs1-5"
-			"zpos"			"0"
+			
 			"wide"			"165"
 			"tall"			"60"
 			"proportionaltoparent"	"1"
@@ -482,7 +482,7 @@
 			"fieldName"		"NoMannUpImage"
 			"xpos"			"250"
 			"ypos"			"6"
-			"zpos"			"0"
+			
 			"wide"			"110"
 			"tall"			"110"
 			"visible"		"1"
@@ -501,7 +501,7 @@
 			"textAlignment"	"west"
 			"xpos"			"10"
 			"ypos"			"5"
-			"zpos"			"0"
+			
 			"wide"			"200"
 			"tall"			"30"
 		}
@@ -516,7 +516,7 @@
 			"wrap"			"1"
 			"xpos"			"10"
 			"ypos"			"30"
-			"zpos"			"0"
+			
 			"wide"			"280"
 			"tall"			"50"
 		}
@@ -568,7 +568,7 @@
 			"textAlignment"	"south-west"
 			"xpos"			"0"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"400"
 			"tall"			"26"
 			"fgcolor_override"	"250 114 45 255"
@@ -583,7 +583,7 @@
 			"textAlignment"	"south-west"
 			"xpos"			"264"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"100"
 			"tall"			"24"
 			"fgcolor_override"	"250 114 45 255"
@@ -595,7 +595,7 @@
 			"fieldName"		"TourLevelImage"
 			"xpos"			"342"
 			"ypos"			"-10"
-			"zpos"			"0"
+			
 			"wide"			"60"
 			"tall"			"60"
 			"visible"		"1"
@@ -614,7 +614,7 @@
 			"textAlignment"	"south"
 			"xpos"			"357"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"30"
 			"tall"			"26"
 			"fgcolor_override"	"0 0 0 255"
@@ -656,7 +656,7 @@
 				"font"			"HudFontSmall"
 				"xpos"			"70"
 				"ypos"			"5"
-				"zpos"			"0"
+				
 				"wide"			"330"
 				"tall"			"192"
 				"linespacing"	"12"

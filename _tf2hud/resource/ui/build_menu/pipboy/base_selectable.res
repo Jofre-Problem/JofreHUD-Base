@@ -6,7 +6,7 @@
 		"fieldName"		"MainBackground"
 		"xpos"			"3"
 		"ypos"			"1"
-		"zpos"			"0"
+		
 		"wide"			"98"
 		"tall"			"135"
 		"visible"		"1"
@@ -44,7 +44,7 @@
 		"fieldName"		"ItemBackground"
 		"xpos"			"4"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"98"
 		"tall"			"135"
 		"visible"		"1"

@@ -110,7 +110,7 @@
 			"fieldName"		"SpinnerImage"
 			"xpos"			"cs-0.5"
 			"ypos"			"160"
-			"zpos"			"0"
+			
 			"wide"			"o1"
 			"tall"			"80"
 			"visible"		"1"
@@ -175,7 +175,7 @@
 			"fieldName"		"SpinnerImage"
 			"xpos"			"cs-0.5"
 			"ypos"			"160"
-			"zpos"			"0"
+			
 			"wide"			"o1"
 			"tall"			"80"
 			"visible"		"1"
@@ -538,7 +538,7 @@
 				"fieldName"		"PartyLowPriorityImage"
 				"xpos"			"0"
 				"ypos"			"5"
-				"zpos"			"0"
+				
 				"wide"			"50"
 				"tall"			"50"
 				"visible"		"1"
@@ -624,7 +624,7 @@
 				"textAlignment"	"west"
 				"xpos"			"5"
 				"ypos"			"5"
-				"zpos"			"0"
+				
 				"wide"			"120"
 				"tall"			"20"
 			}
@@ -661,7 +661,7 @@
 				"fieldName"		"TourLevelImage"
 				"xpos"			"169"
 				"ypos"			"23"
-				"zpos"			"0"
+				
 				"wide"			"25"
 				"tall"			"25"
 				"visible"		"0"
@@ -677,7 +677,7 @@
 				"fieldName"		"PartyPlayerList"
 				"xpos"			"5"
 				"ypos"			"35"
-				"zpos"			"0"
+				
 				"wide"			"190"
 				"tall"			"120"
 				"linespacing"	"18"
@@ -691,7 +691,7 @@
 			"Default"			"ChatMiniFont"
 			"xpos"			"0"
 			"ypos"			"170"
-			"zpos"			"0"
+			
 			"wide"			"200"
 			"tall"			"110"
 			"bgcolor_override"	"0 0 0 200"
@@ -705,7 +705,7 @@
 			"font"			"ChatFont"
 			"xpos"			"0"
 			"ypos"			"290"
-			"zpos"			"0"
+			
 			"wide"			"200"
 			"tall"			"20"
 			"bgcolor_override"	"0 0 0 200"

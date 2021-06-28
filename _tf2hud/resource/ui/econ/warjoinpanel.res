@@ -150,7 +150,7 @@
 					"fieldName"		"NoGCExplanation"
 					"xpos"			"55"
 					"ypos"			"cs-0.5"
-					"zpos"			"0"
+					
 					"wide"			"200"
 					"tall"			"p0.8"
 					"visible"		"1"
@@ -169,7 +169,7 @@
 					"fieldName"		"AlertImage"
 					"xpos"			"7"
 					"ypos"			"cs-0.5"
-					"zpos"			"0"
+					
 					"wide"			"o1"
 					"tall"			"40"
 					"visible"		"1"
@@ -293,7 +293,7 @@
 					"fieldName"		"Background"
 					"xpos"			"cs-0.5"
 					"ypos"			"0"
-					"zpos"			"0"
+					
 					"wide"			"p1"
 					"tall"			"o1"
 					"visible"		"1"
@@ -456,7 +456,7 @@
 					"fieldName"		"StandingsTitle"
 					"xpos"			"cs-0.5"
 					"ypos"			"213"
-					"zpos"			"0"
+					
 					"wide"			"270"
 					"tall"			"200"
 					"visible"		"1"
@@ -514,7 +514,7 @@
 					"fieldName"		"Explanation"
 					"xpos"			"cs-0.5"
 					"ypos"			"326"
-					"zpos"			"0"
+					
 					"wide"			"500"
 					"tall"			"200"
 					"visible"		"1"
@@ -544,7 +544,7 @@
 					"fieldName"		"StandingsTitle"
 					"xpos"			"cs-0.5"
 					"ypos"			"213"
-					"zpos"			"0"
+					
 					"wide"			"270"
 					"tall"			"200"
 					"visible"		"1"
@@ -602,7 +602,7 @@
 					"fieldName"		"Explanation"
 					"xpos"			"cs-0.5"
 					"ypos"			"326"
-					"zpos"			"0"
+					
 					"wide"			"f0"
 					"tall"			"200"
 					"visible"		"1"
@@ -656,7 +656,7 @@
 							"fieldName"		"ConfirmLabel"
 							"xpos"			"cs-0.5"
 							"ypos"			"10"
-							"zpos"			"0"
+							
 							"wide"			"p0.8"
 							"tall"			"200"
 							"visible"		"1"
@@ -766,7 +766,7 @@
 							"fieldName"		"JoiningTeamPyroLabel"
 							"xpos"			"cs-0.5"
 							"ypos"			"10"
-							"zpos"			"0"
+							
 							"wide"			"p0.8"
 							"tall"			"50"
 							"visible"		"1"
@@ -784,7 +784,7 @@
 							"fieldName"		"SpinnerImage"
 							"xpos"			"cs-0.5"
 							"ypos"			"rs1+10"
-							"zpos"			"0"
+							
 							"wide"			"o1"
 							"tall"			"80"
 							"visible"		"1"
@@ -811,7 +811,7 @@
 							"fieldName"		"JoiningTeamPyroLabel"
 							"xpos"			"cs-0.5"
 							"ypos"			"10"
-							"zpos"			"0"
+							
 							"wide"			"p0.8"
 							"tall"			"50"
 							"visible"		"1"
@@ -898,7 +898,7 @@
 							"fieldName"		"FailedExplanation"
 							"xpos"			"cs-0.5+40"
 							"ypos"			"10"
-							"zpos"			"0"
+							
 							"wide"			"p0.6"
 							"tall"			"50"
 							"visible"		"1"
@@ -1110,7 +1110,7 @@
 					"fieldName"		"ExplanationLabel"
 					"xpos"			"cs-0.5"
 					"ypos"			"220"
-					"zpos"			"0"
+					
 					"wide"			"270"
 					"tall"			"200"
 					"visible"		"1"

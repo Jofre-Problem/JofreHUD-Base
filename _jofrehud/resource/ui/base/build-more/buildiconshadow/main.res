@@ -6,7 +6,7 @@
 		"fieldName"		"BuildIconShadow"
 		"xpos"			"16"
 		"ypos"			"-7"
-		"zpos"			"0"
+		
 		"wide"			"48"
 		"tall"			"48"
 		"visible"		"1"

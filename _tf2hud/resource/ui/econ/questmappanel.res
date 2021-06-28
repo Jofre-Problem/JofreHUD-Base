@@ -497,7 +497,7 @@
 				"ypos"			"cs-0.5"
 				"wide"			"540"
 				"tall"			"315"
-				"zpos"			"0"
+				
 				"proportionaltoparent" "1"
 				"mouseinputenabled"	"1"
 
@@ -519,7 +519,7 @@
 						"fieldName"		"StaticBG"
 						"xpos"			"0"
 						"ypos"			"0"
-						"zpos"			"0"
+						
 						"wide"			"f0"
 						"tall"			"f0"
 						"visible"		"1"
@@ -539,7 +539,7 @@
 						"fieldName"		"StaticDarken"
 						"xpos"			"0"
 						"ypos"			"0"
-						"zpos"			"0"
+						
 						"wide"			"f0"
 						"tall"			"f0"
 						"visible"		"1"
@@ -990,7 +990,7 @@
 						"fieldName"		"RewardCreditImage"
 						"xpos"			"20"
 						"ypos"			"-1"
-						"zpos"			"0"
+						
 						"wide"			"o1"
 						"tall"			"26"
 						"visible"		"1"
@@ -1038,7 +1038,7 @@
 						"fieldName"		"AvailableStarsImage"
 						"xpos"			"94"
 						"ypos"			"2"
-						"zpos"			"0"
+						
 						"wide"			"o1"
 						"tall"			"20"
 						"visible"		"1"
@@ -1087,7 +1087,7 @@
 						"fieldName"		"TotalStarsImage"
 						"xpos"			"r70"
 						"ypos"			"2"
-						"zpos"			"0"
+						
 						"wide"			"o1"
 						"tall"			"20"
 						"visible"		"1"
@@ -1489,7 +1489,7 @@
 						"fieldName"		"StaticBackground"
 						"xpos"			"0"
 						"ypos"			"0"
-						"zpos"			"0"
+						
 						"wide"			"f0"
 						"tall"			"f0"
 						"visible"		"1"

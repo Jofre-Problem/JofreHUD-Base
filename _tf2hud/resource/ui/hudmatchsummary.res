@@ -120,7 +120,7 @@
 		"fieldName"		"StatsBgPanel"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"0"
@@ -239,7 +239,7 @@
 				"fieldName"		"BlueTeamPanel"
 				"xpos"			"-320"
 				"ypos"			"0"
-				"zpos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"1"
@@ -487,7 +487,7 @@
 					"fieldName"		"BluePlayerListBG"
 					"xpos"			"9"
 					"ypos"			"117"
-					"zpos"			"0"
+					
 					"wide"			"p.2"
 					"tall"			"225"
 					
@@ -509,7 +509,7 @@
 				"fieldName"		"RedTeamPanel"
 				"xpos"			"320"
 				"ypos"			"0"
-				"zpos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"1"
@@ -756,7 +756,7 @@
 					"fieldName"		"RedPlayerListBG"
 					"xpos"			"r9-p.2"
 					"ypos"			"117"
-					"zpos"			"0"
+					
 					"wide"			"p.2"
 					"tall"			"225"
 					

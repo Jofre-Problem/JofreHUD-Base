@@ -244,7 +244,7 @@
 		"fieldName"		"TextContainerPanel"
 		"xpos"			"c-40"
 		"ypos"			"10"
-		"zpos"			"0"
+		
 		"wide"			"355"
 		"tall"			"290"
 		"visible"		"1"
@@ -292,7 +292,7 @@
 			"textAlignment"	"north-west"
 			"xpos"			"10"
 			"ypos"			"30"
-			"zpos"			"0"
+			
 			"wide"			"335"
 			"tall"			"115"
 			"autoResize"	"3"

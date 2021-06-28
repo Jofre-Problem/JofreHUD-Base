@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"DialogFrame"
-		"zpos"			"0"
+		
 		"visible"		"1"
 		
 		"paintbackground"	"0"

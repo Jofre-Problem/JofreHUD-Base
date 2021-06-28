@@ -69,7 +69,7 @@
 			"fieldName"		"ModeImage"
 			"xpos"			"cs-0.5"
 			"ypos"			"35"
-			"zpos"			"0"
+			
 			"wide"			"60"
 			"tall"			"60"
 			
@@ -313,7 +313,7 @@
 				"fieldName"		"ReadyImage"
 				"xpos"			"32"
 				"ypos"			"8"
-				"zpos"			"0"
+				
 				"wide"			"12"
 				"tall"			"12"
 				

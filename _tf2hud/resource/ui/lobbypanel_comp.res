@@ -55,7 +55,7 @@
 			"fieldName"		"ShowLeaderboardsButton"
 			"xpos"			"rs1-10"
 			"ypos"			"6"
-			"zpos"			"0"
+			
 			"wide"			"p0.45"
 			"tall"			"15"
 			"visible"		"1"
@@ -79,7 +79,7 @@
 			"fieldName"		"ShowMatchHistoryButton"
 			"xpos"			"10"
 			"ypos"			"6"
-			"zpos"			"0"
+			
 			"wide"			"p0.45"
 			"tall"			"15"
 			"visible"		"1"

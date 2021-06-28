@@ -50,7 +50,7 @@
 			"fieldName"		"BGImage"
 			"xpos"			"0"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"o4"
 			"tall"			"f0"
 			"visible"		"1"
@@ -262,7 +262,7 @@
 		"fieldName"		"MapsContainer"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"0"
 		"visible"		"1"

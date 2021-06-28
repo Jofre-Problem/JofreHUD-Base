@@ -308,7 +308,7 @@
 			"xpos_minmode"			"0"
 			"ypos"					"0"
 			"ypos_minmode"			"0"
-			"zpos"					"0"
+			
 			"wide"					"p1"
 			"wide_minmode"			"f0"
 			"tall"	 				"f0"

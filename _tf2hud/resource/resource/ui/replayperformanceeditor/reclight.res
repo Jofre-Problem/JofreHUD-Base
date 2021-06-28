@@ -22,7 +22,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"CameraFringe"
-		"zpos"			"0"
+		
 		"wide"			"f0"
 		"visible"		"1"
 		

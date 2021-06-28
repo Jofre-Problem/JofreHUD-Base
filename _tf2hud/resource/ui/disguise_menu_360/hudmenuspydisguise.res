@@ -6,7 +6,7 @@
 		"fieldName"		"MainBackground"
 		"xpos"			"0"
 		"ypos"			"10"
-		"zpos"			"0"
+		
 		"wide"			"470"
 		"tall"			"170"
 		"visible"		"1"
@@ -64,7 +64,7 @@
 		"fieldName"		"ShadedBar"
 		"xpos"			"15"
 		"ypos"			"45"
-		"zpos"			"0"
+		
 		"wide"			"442"
 		"tall"			"87"
 		

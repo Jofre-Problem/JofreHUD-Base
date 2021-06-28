@@ -55,7 +55,7 @@
 			"fieldName"		"WorkshopBranding"
 			"xpos"			"0"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"600"
 			"tall"			"300"
 			"visible"		"1"

@@ -22,7 +22,7 @@
 		"font"			"HudFontSmallBold"
 		"xpos"			"0"
 		"ypos"			"10"
-		"zpos"			"0"
+		
 		"wide"			"200"
 		"tall"			"0"
 		
@@ -50,7 +50,7 @@
 		"font"			"HudFontSmallBold"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"200"
 		"tall"			"60"
 		
@@ -76,7 +76,7 @@
 		"font"			"HudFontSmallBold"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"200"
 		"tall"			"60"
 		

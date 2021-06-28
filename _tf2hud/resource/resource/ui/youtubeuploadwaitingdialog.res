@@ -23,7 +23,7 @@
 		"font"			"EconFontSmall"
 		"xpos"			"0"
 		"ypos"			"5"
-		"zpos"			"0"
+		
 		"wide"			"200"
 		"tall"			"0"
 		
@@ -44,7 +44,7 @@
 		"font"			"EconFontSmall"
 		"xpos"			"0"
 		"ypos"			"60"
-		"zpos"			"0"
+		
 		"wide"			"200"
 		"tall"			"0"
 		
@@ -65,7 +65,7 @@
 		"font"			"EconFontSmall"
 		"xpos"			"0"
 		"ypos"			"65"
-		"zpos"			"0"
+		
 		"wide"			"200"
 		"tall"			"0"
 		
@@ -86,7 +86,7 @@
 		"font"			"EconFontSmall"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"200"
 		"tall"			"60"
 		
@@ -133,7 +133,7 @@
 		"font"			"EconFontSmall"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		
 		"wide"			"200"
 		"tall"			"60"
 		

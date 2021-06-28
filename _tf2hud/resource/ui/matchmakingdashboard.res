@@ -40,7 +40,7 @@
 			"ypos"		"0"
 			"wide"		"p0.5"
 			"tall"		"f6"
-			"zpos"	"0"
+			
 			"visible"		"1"
 			
 			"rotation"		"2"
@@ -290,7 +290,7 @@
 				"fieldName"		"BGPanel"
 				"xpos"			"cs-0.5"
 				"ypos"			"cs-0.5"
-				"zpos"			"0"
+				
 				"wide"			"f4"
 				"tall"			"f4"
 				"visible"		"1"
@@ -515,7 +515,7 @@
 				"fieldName"		"BGPanel"
 				"xpos"			"cs-0.5"
 				"ypos"			"cs-0.5"
-				"zpos"			"0"
+				
 				"wide"			"f6"
 				"tall"			"f6"
 				"visible"		"1"

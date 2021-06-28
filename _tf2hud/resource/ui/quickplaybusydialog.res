@@ -22,7 +22,7 @@
 		"fieldName"		"BusyContainer"
 		"xpos"		"c-225"
 		"ypos"		"c-75"
-		"zpos"		"0"
+		
 		"wide"		"450"
 		"tall"		"150"
 		
@@ -132,7 +132,7 @@
 		"fieldName"		"ResultsContainer"
 		"xpos"		"c-250"
 		"ypos"		"c-200"
-		"zpos"		"0"
+		
 		"wide"		"500"
 		"tall"		"400"
 		

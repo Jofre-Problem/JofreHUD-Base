@@ -21,7 +21,7 @@
 		"textAlignment"	"north-west"
 		"xpos"			"10"
 		"ypos"			"10"
-		"zpos"			"0"
+		
 		"wide"			"540"
 		"tall"			"20"
 		"centerwrap"	"1"

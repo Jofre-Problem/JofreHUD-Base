@@ -27,7 +27,7 @@
 		"fieldName"		"ItemBackground"
 		"xpos"			"4"
 		"ypos"			"14"
-		"zpos"			"0"
+		
 		"wide"			"98"
 		"tall"			"105"
 		"visible"		"1"
@@ -84,7 +84,7 @@
 		"fieldName"		"NumberBg"
 		"xpos"			"41"
 		"ypos"			"99"
-		"zpos"			"0"
+		
 		"wide"			"18"
 		"tall"			"18"
 		"visible"		"1"

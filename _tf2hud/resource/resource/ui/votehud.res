@@ -133,7 +133,7 @@
 			"wide"			"180"
 			"tall"			"1"
 			"fillcolor"		"128 128 128 255"
-			"zpos"			"0"
+			
 		}
 		
 		// Temp UI
@@ -351,7 +351,7 @@
 			"wide"			"180"
 			"tall"			"1"
 			"fillcolor"		"128 128 128 255"
-			"zpos"			"0"
+			
 		}
 		
 		"VoteCountLabel"

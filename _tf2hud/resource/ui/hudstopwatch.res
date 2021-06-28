@@ -34,7 +34,7 @@
 		"fieldName"		"StopWatchImageCaptureTime"
 		"xpos"			"5"
 		"ypos"			"12"
-		"zpos"			"0"
+		
 		"wide"			"17"
 		"tall"			"17"
 		"visible"		"1"

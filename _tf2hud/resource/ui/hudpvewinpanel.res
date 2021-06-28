@@ -6,7 +6,7 @@
 		"fieldName"		"WinPanelBG"
 		"xpos"			"0"
 		"ypos"			"50"
-		"zpos"			"0"
+		
 		"wide"			"300"
 		"tall"			"90"
 		"image"			"../hud/tournament_panel_brown"

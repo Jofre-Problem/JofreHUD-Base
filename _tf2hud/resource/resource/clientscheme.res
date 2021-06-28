@@ -140,7 +140,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"14"
-				"weight"	"900"
+				//"weight"	"900"
 				"antialias" "1"
 				"yres"	"768 1023"
 			}
@@ -148,7 +148,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"20"
-				"weight"	"900"
+				//"weight"	"900"
 				"antialias" "1"
 				"yres"	"1024 1199"
 			}
@@ -156,7 +156,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"24"
-				"weight"	"900"
+				//"weight"	"900"
 				"antialias" "1"
 				"yres"	"1200 10000"
 				"additive"	"1"
@@ -477,7 +477,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"12"
-				"weight"	"900"
+				//"weight"	"900"
 				"antialias" "1"
 				"yres"	"768 1023"
 			}
@@ -485,7 +485,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"16"
-				"weight"	"900"
+				//"weight"	"900"
 				"antialias" "1"
 				"yres"	"1024 1199"
 			}
@@ -568,7 +568,7 @@ Scheme
 				"name"		"Verdana Bold" [$OSX]
 				"tall"		"26" [!$OSX]
 				"tall"		"24" [$OSX]
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		"CloseCaption_BoldItalic"
@@ -579,7 +579,7 @@ Scheme
 				"name"		"Verdana Bold Italic" [$OSX]
 				"tall"		"26" [!$OSX]
 				"tall"		"24" [$OSX]
-				"weight"	"900"
+				//"weight"	"900"
 				"italic"	"1"
 			}
 		}
@@ -592,7 +592,7 @@ Scheme
 				"tall"		"16" [!$OSX]
 				"tall"		"14" [$OSX]
  				//"tall_hidef"	"24"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
@@ -613,7 +613,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"24"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
 				"additive"	"1"
@@ -625,7 +625,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"18"
-				"weight"	"900"
+				//"weight"	"900"
 			}
 		}
 		ClientTitleFont
@@ -659,7 +659,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"20"
-				"weight"	"900"
+				//"weight"	"900"
 				"antialias" "1"
 				"additive"	"1"
 			}
@@ -683,7 +683,7 @@ Scheme
 				"name"		"Verdana" [!$OSX]
 				"name"		"Verdana" [$OSX]
 				"tall"		"9"
-				"weight"	"900"
+				//"weight"	"900"
 				"antialias" "1"
 			}
 		}
@@ -695,7 +695,7 @@ Scheme
 				"name"		"Trebuchet MS" [!$OSX]
 				"name"		"Verdana" [$OSX]
 				"tall"		"18"
-				"weight"	"900"
+				//"weight"	"900"
 				"antialias" "1"
 				"additive"	"1"
 			}
@@ -707,7 +707,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"24"
-				"weight"	"900"
+				//"weight"	"900"
 				"antialias" "1"
 				"additive"	"1"
 			}
@@ -718,7 +718,7 @@ Scheme
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"14"
-				"weight"	"900"
+				//"weight"	"900"
 				"antialias" "1"
 			}
 		}
@@ -728,7 +728,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"12"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"480 599"
 			}
@@ -737,7 +737,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"13"	[$WIN32]
 				"tall"		"20"	[$X360]
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"
 			}
@@ -745,7 +745,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"14"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
 				"antialias"	"1"
@@ -754,7 +754,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"20"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
 				"antialias"	"1"
@@ -763,7 +763,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"24"
-				"weight"	"900"
+				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
 				"antialias"	"1"

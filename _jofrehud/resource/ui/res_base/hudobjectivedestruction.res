@@ -200,7 +200,7 @@
 		"ControlName"			"EditablePanel"
 		"xpos"					"c-200"
 		"ypos"					"r131"
-		"zpos"					"0"
+		
 		"wide"					"400"
 		"tall"					"120"
 		"scaleimage"			"0"
@@ -685,7 +685,7 @@
 					"fieldName"		"DroppedIntelImage"
 					"xpos"			"0"
 					"ypos"			"0"
-					"zpos"			"0"
+					
 					"wide"			"f0"
 					"tall"			"20"
 					"visible"		"1"
@@ -785,7 +785,7 @@
 					"fieldName"		"DroppedIntelImage"
 					"xpos"			"0"
 					"ypos"			"0"
-					"zpos"			"0"
+					
 					"wide"			"f0"
 					"tall"			"20"
 					"visible"		"1"

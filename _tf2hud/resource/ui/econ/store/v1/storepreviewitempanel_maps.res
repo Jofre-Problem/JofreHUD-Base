@@ -24,7 +24,7 @@
 		
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"		
+				
 		"wide"			"295"
 		"tall"			"250"
 		
@@ -65,7 +65,7 @@
 		"fieldName"		"BottomBGImage"
 		"xpos"			"40"
 		"ypos"			"214"
-		"zpos"			"0"
+		
 		"wide"			"225"
 		"tall"			"67"
 		"visible"		"1"

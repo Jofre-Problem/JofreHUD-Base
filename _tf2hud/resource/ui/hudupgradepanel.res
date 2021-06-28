@@ -131,7 +131,7 @@
 			"fieldName"		"InnerBGPanel"
 			"xpos"			"15"
 			"ypos"			"55"
-			"zpos"			"0"
+			
 			"wide"			"470"
 			"tall"			"220"
 			"visible"		"1"
@@ -454,7 +454,7 @@
 			"fieldName"		"UpgradeItemsDescriptionBG"
 			"xpos"			"25"
 			"ypos"			"65"
-			"zpos"			"0"
+			
 			"wide"			"130"
 			"tall"			"65"
 			
@@ -491,7 +491,7 @@
 			"fieldName"		"UpgradeItemsBG"
 			"xpos"			"25"
 			"ypos"			"135"
-			"zpos"			"0"
+			
 			"wide"			"130"
 			"tall"			"130"
 			

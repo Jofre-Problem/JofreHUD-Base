@@ -55,7 +55,7 @@
 		"textAlignment"	"center"
 		"xpos"			"95"
 		"ypos"			"10"
-		"zpos"			"0"
+		
 		"wide"			"210"
 		"tall"			"60"
 		"autoResize"	"1"

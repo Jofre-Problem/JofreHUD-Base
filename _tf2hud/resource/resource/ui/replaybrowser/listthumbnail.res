@@ -17,7 +17,7 @@
 		"FieldName"				"BorderPanel"
 		"xpos"					"0"
 		"ypos"					"0"
-		"zpos"					"0"
+		
 		"wide"					"88"
 		"tall"					"54"
 		

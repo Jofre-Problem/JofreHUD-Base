@@ -524,7 +524,7 @@
 				"fieldName"		"ReadyImage"
 				"xpos"			"32"
 				"ypos"			"8"
-				"zpos"			"0"
+				
 				"wide"			"12"
 				"tall"			"12"
 				
@@ -591,7 +591,7 @@
 				"fieldName"		"DeathPanel"
 				"xpos"			"cs-0.5"
 				"ypos"			"0"
-				"zpos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"24"
 				"visible"		"0"
@@ -739,7 +739,7 @@
 			"fieldName"		"BluePlayerListBG"
 			"xpos"			"4"
 			"ypos"			"30"
-			"zpos"			"0"
+			
 			"wide"			"139"
 			"tall"			"215"
 			
@@ -877,7 +877,7 @@
 			"fieldName"		"RedPlayerListBG"
 			"xpos"			"4"
 			"ypos"			"30"
-			"zpos"			"0"
+			
 			"wide"			"139"
 			"tall"			"215"
 			

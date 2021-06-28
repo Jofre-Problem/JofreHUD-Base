@@ -25,7 +25,7 @@
 			"scaleImage"	"1"
 			"xpos"			"15"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			
 //			if_halloween
 //			{

@@ -94,7 +94,7 @@
 				"textAlignment"	"center"
 				"xpos"			"cs-0.5"
 				"ypos"			"0"
-				"zpos"			"0"
+				
 				"wide"			"p0.8"
 				"tall"			"f0"
 				"visible"		"1"
@@ -213,7 +213,7 @@
 	{
 		"xpos"					"cs-0.5"
 		"ypos"					"cs-0.5"
-		"zpos"					"0"
+		
 		"proportionaltoparent"	"1"
 
 		"bgcolor_override"		"30 30 30 255"
@@ -906,7 +906,7 @@
 			"fieldName"		"PaperContainer"
 			"xpos"			"cs-0.5"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"o2"
 			"tall"			"p1"
 			"visible"		"1"
@@ -918,7 +918,7 @@
 				"fieldName"		"BlankPaperImage"
 				"xpos"			"0"
 				"ypos"			"0"
-				"zpos"			"0"
+				
 				"wide"			"p1"
 				"tall"			"p1"
 				"visible"		"1"
@@ -934,7 +934,7 @@
 				"fieldName"		"LocalizedPaperImagePaperImage"
 				"xpos"			"0"
 				"ypos"			"0"
-				"zpos"			"0"
+				
 				"wide"			"p1"
 				"tall"			"p1"
 				"visible"		"1"

@@ -17,7 +17,7 @@
 		"fieldName"		"AccountBG"
 		"xpos"			"5"
 		"ypos"			"103"
-		"zpos"			"0"
+		
 		"wide"			"84"
 		"tall"			"42"
 		"visible"		"1"

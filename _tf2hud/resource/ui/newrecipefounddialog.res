@@ -22,7 +22,7 @@
 		"font"			"HudFontMediumBold"
 		"xpos"			"0"
 		"ypos"			"10"
-		"zpos"			"0"
+		
 		"wide"			"400"
 		"tall"			"20"
 		

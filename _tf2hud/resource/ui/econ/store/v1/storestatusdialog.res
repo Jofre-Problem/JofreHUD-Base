@@ -23,7 +23,7 @@
 		"font"			"HudFontSmallBold"
 		"xpos"			"10"
 		"ypos"			"10"
-		"zpos"			"0"
+		
 		"wide"			"230"
 		"tall"			"90"
 		

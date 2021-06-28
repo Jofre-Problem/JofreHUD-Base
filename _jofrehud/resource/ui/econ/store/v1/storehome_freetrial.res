@@ -94,7 +94,7 @@
 			"fieldName"		"MannCoImage"
 			"xpos"			"15"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"220"
 			"tall"			"80"
 			"visible"		"1"
@@ -247,7 +247,7 @@
 		"fieldName"		"TextContainerPanel"
 		"xpos"			"c-20"
 		"ypos"			"40"
-		"zpos"			"0"
+		
 		"wide"			"325"
 		"tall"			"260"
 		"visible"		"0"
@@ -259,7 +259,7 @@
 			"fieldName"		"TitleBG"
 			"xpos"			"0"
 			"ypos"			"0"
-			"zpos"			"0"
+			
 			"wide"			"325"
 			"tall"			"40"
 			"visible"		"1"

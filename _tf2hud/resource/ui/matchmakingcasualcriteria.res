@@ -171,7 +171,7 @@
 			"fieldName"		"Title"
 			"xpos"		"10"
 			"ypos"		"47"
-			"zpos"		"0"
+			
 			"wide"		"f0"
 			"tall"		"20"
 			"proportionaltoparent"	"1"
@@ -188,7 +188,7 @@
 			"fieldName"		"SelectedCount"
 			"xpos"		"10"
 			"ypos"		"33"
-			"zpos"		"0"
+			
 			"wide"		"f0"
 			"tall"		"20"
 			"proportionaltoparent"	"1"
@@ -206,7 +206,7 @@
 			"fieldName"		"QueueEstimation"
 			"xpos"		"rs1-5"
 			"ypos"		"18"
-			"zpos"		"0"
+			
 			"wide"		"f0"
 			"tall"		"20"
 			"proportionaltoparent"	"1"
