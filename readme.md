@@ -115,7 +115,7 @@ Here is how a file looks for example:
 If you are interested in adding this to your own HUD, you can add whatever you see necessary, but please give the respective credit.
 
 ## On other OS systems
-I have decided to make the HUD only for Windows, however, if you want to use this on other OS (Linux derivates or macOS), go the font folder and install the required fonts. Or change the lines containing "Segoe UI" with the font of your preference! 
+I have decided to make the HUD only for Windows, however, if you want to use this on other OS (Linux distros or macOS), go the font folder and install the required fonts. Or change the lines containing "Segoe UI" with the font of your preference! 
 
 ## Need help on something?
 Here is my steam profile if you need any extra help or something!
