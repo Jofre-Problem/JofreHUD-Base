@@ -835,7 +835,7 @@
 		"labelText"		"#TF_CollectionCrafting_ApplyStamp"
 		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
-		"centerwrap"	"0"
+		//"centerwrap"	"0"
 		//"wrap"			"0"
 		//"dulltext"		"0"
 		//"brighttext"	"0"

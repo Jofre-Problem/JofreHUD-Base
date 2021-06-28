@@ -84,7 +84,7 @@
 			"labelText"		"%attriblist%"
 			"textAlignment"	"west"
 			"fgcolor"		"117 107 94 255"
-			"centerwrap"	"0"
+			//"centerwrap"	"0"
 		}
 
 		"collectionnamelabel"
@@ -104,7 +104,7 @@
 			"labelText"		"%collectionname%"
 			"textAlignment"	"west"
 			"fgcolor"		"235 226 202 255"
-			"centerwrap"	"0"
+			//"centerwrap"	"0"
 		}
 	
 		"collectionlistlabel"
@@ -124,7 +124,7 @@
 			"labelText"		"%collectionlist%"
 			"textAlignment"	"west"
 			"fgcolor"		"117 107 94 255"
-			"centerwrap"	"0"
+			//"centerwrap"	"0"
 		}
 			
 		"collectionhighlight"

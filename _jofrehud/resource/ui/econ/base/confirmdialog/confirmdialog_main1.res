@@ -25,7 +25,7 @@
 	//	"textAlignment"	"north-west"
 	//	"xpos"			"60"
 	//	"wide"			"220"
-		"centerwrap"	"0"
+		//"centerwrap"	"0"
 	}
 		
 	"CancelButton"

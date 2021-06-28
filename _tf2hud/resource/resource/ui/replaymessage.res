@@ -41,7 +41,7 @@
 		
 		"textAlignment"	"north"
 		"fgcolor"		"235 226 202 255"
-		"centerwrap"	"0"
+		//"centerwrap"	"0"
 		"wrap"			"1"
 	}
 	"Icon"
