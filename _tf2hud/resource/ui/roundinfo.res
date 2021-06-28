@@ -46,7 +46,7 @@
 		"labelText"		"#round_info_header"
 		"textAlignment"	"west"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"font"			"ChalkboardTitle"
 		"fgcolor"		"white"
 	}
@@ -67,7 +67,7 @@
 		"labelText"		"%mapname%"
 		"textAlignment"	"west"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"font"			"ChalkboardTitle"
 		"fgcolor"		"white"
 	}
@@ -92,7 +92,7 @@
 		"labelText"		"#TF_Continue"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"command"		"continue"
 		"default"		"1"
 		"font"			"MenuSmallFont"

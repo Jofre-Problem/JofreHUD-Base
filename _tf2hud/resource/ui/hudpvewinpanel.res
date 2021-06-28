@@ -51,7 +51,7 @@
 			"labelText"		"#Winpanel_PVE_Evil_Wins"
 			"textAlignment"		"Center"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			
 			// blue Background
 			"PaintBackgroundType" "2"
@@ -94,7 +94,7 @@
 		"labelText"		"%WinReasonLabel%"
 		"textAlignment"		"Center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 
 	"DetailsLabel"
@@ -114,7 +114,7 @@
 		"labelText"		"%DetailsLabel%"
 		"textAlignment"		"Center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"wrap"			"1"
 		"centerwrap"	"1"
 	}

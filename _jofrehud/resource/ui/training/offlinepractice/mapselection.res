@@ -19,7 +19,7 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"fgcolor_override"	"246 237 211 255"
 	}
 
@@ -86,7 +86,7 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"fgcolor_override"	"246 237 211 255"
 		"bgcolor_override"	"0 0 0 200"
 		"border"		"ButtonBorder"
@@ -109,8 +109,8 @@
 		"font"				"HudFontSmallBold"
 		"textAlignment"		"center"
 		"textinsetx"		"50"
-		"dulltext"			"0"
-		"brighttext"		"0"
+		//"dulltext"			"0"
+		//"brighttext"		"0"
 		"Command"			"startofflinepractice"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -139,7 +139,7 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"fgcolor_override"	"246 237 211 255"
 	}
 	
@@ -190,7 +190,7 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"fgcolor_override"	"246 237 211 255"
 	}
 	
@@ -202,7 +202,7 @@
 		"textHidden"	"0"
 		"textAlignment"	"west"
 		"unicode"		"1"
-		"wrap"			"0"
+		//"wrap"			"0"
 		"xpos"			"200"
 		"ypos"			"230"
 		"zpos"			"50"
@@ -237,7 +237,7 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"fgcolor_override"	"116 105 92 255"
 	}
 }

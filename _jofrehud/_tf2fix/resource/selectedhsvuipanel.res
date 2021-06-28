@@ -60,8 +60,8 @@
 		
 		"labelText"		"Hue:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 	}
 	"HueSlider"
 	{
@@ -94,8 +94,8 @@
 		
 		"labelText"		"Saturation:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 	}
 	"SaturationSlider"
 	{
@@ -128,8 +128,8 @@
 		
 		"labelText"		"Value:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 	}
 	"ValueSlider"
 	{
@@ -163,8 +163,8 @@
 		
 		"labelText"			"Tolerance:"
 		"textAlignment"		"west"
-		"dulltext"			"0"
-		"brighttext"		"0"
+		//"dulltext"			"0"
+		//"brighttext"		"0"
 	}
 	"ToleranceSlider"
 	{
@@ -199,8 +199,8 @@
 		
 		"labelText"			"Fuzziness:"
 		"textAlignment"		"west"
-		"dulltext"			"0"
-		"brighttext"		"0"
+		//"dulltext"			"0"
+		//"brighttext"		"0"
 	}
 	"FuzzinessSlider"
 	{
@@ -235,8 +235,8 @@
 		
 		"labelText"			"Blend Factor:"
 		"textAlignment"		"west"
-		"dulltext"			"0"
-		"brighttext"		"0"
+		//"dulltext"			"0"
+		//"brighttext"		"0"
 	}
 	"BlendFactorSlider"
 	{
@@ -271,8 +271,8 @@
 		
 		"labelText"			"Colorize"
 		"textAlignment"		"west"
-		"dulltext"			"0"
-		"brighttext"		"0"
+		//"dulltext"			"0"
+		//"brighttext"		"0"
 	}
 
 	"InvertSelectionButton"
@@ -290,7 +290,7 @@
 		
 		"labelText"			"Invert Selection"
 		"textAlignment"		"west"
-		"dulltext"			"0"
-		"brighttext"		"0"
+		//"dulltext"			"0"
+		//"brighttext"		"0"
 	}
 }

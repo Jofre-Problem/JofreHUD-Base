@@ -29,11 +29,11 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"labelText"		"#NewRecipeFound"
 		"textAlignment"		"center"
 		"fgcolor_override" "200 80 60 255"
-		"bgcolor_override" "0 0 0 0"
+		"bgcolor_override" "Blank"
 	}
 
 	"RecipeItemModelPanel"
@@ -94,7 +94,7 @@
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"default"		"1"
 		"Command"		"close"
 		"sound_depressed"	"UI/buttonclick.wav"

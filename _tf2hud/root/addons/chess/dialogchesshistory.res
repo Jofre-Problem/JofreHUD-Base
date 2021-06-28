@@ -44,7 +44,7 @@
 		"labelText"		"#SteamAddOn_ReviewMoves"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"MoveHistoryPanel"
 	{
@@ -61,7 +61,7 @@
 		
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"CloseButton"
 	{
@@ -79,7 +79,7 @@
 		"labelText"		"#SteamAddOn_Close"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 }

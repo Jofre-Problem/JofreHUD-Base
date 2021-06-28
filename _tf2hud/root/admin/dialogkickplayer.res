@@ -43,7 +43,7 @@
 		
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"PlayerLabel"
 	{
@@ -60,7 +60,7 @@
 		
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"OkayButton"
 	{
@@ -77,7 +77,7 @@
 		"tabPosition"		"3"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"Okay"
 		"Default"		"1"
 	}
@@ -97,7 +97,7 @@
 		"labelText"		"#Cancel_Button"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 	}

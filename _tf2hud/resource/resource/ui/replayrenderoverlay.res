@@ -97,7 +97,7 @@
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"confirmcancel"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -110,7 +110,7 @@
 		"labelText"		"#Replay_RenderPreview"
 		"Font"			"DefaultVerySmall"
 		"textAlignment"	"west"
-		"wrap"			"0"
+		//"wrap"			"0"
 		
 		
 		"zpos"			"1"
@@ -121,7 +121,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"tabPosition"	"10"
 	}
 }

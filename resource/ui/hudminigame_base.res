@@ -111,8 +111,8 @@
 		
 		"labelText"		"#TF_PlayingTo"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		//"dulltext"		"0"
+		//"brighttext"	"0"
 		"font"			"HudFontSmall"
 		"fgcolor"		"Tanlight"
 	}	

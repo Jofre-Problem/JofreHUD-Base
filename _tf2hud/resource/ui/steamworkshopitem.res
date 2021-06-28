@@ -58,7 +58,7 @@
 		"labelText"		"%title%"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"font"		"HudFontSmallest"
 		"fgcolor_override" "86 78 68 255"

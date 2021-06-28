@@ -50,7 +50,7 @@
 		"textAlignment"		"west"
 		"associate"		"MapList"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 
@@ -86,7 +86,7 @@
 		"textAlignment"		"center"
 		"associate"		"MapList"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"MapImageContainer"
@@ -105,7 +105,7 @@
 		"labelText"		""
 		"textAlignment"	"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 
@@ -144,7 +144,7 @@
 		"labelText"		"#TF_Bot_NumberOfBots"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 
 	"BotQuotaCombo"
@@ -183,7 +183,7 @@
 		"labelText"		""
 		"textAlignment"		"west"
 		"dulltext"		"1"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		//"wrap"		"0"
 	}
 
@@ -203,7 +203,7 @@
 		"labelText"		"#TF_Bot_Difficulty"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 
 	"BotDifficultySlider"
@@ -239,7 +239,7 @@
 		"labelText"		"#TF_Bot_Difficulty3"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"3"
 	}
@@ -259,7 +259,7 @@
 		"labelText"		"#TF_Bot_Difficulty2"
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"3"
 	}
@@ -279,7 +279,7 @@
 		"labelText"		"#TF_Bot_Difficulty1"
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"2"
 	}
@@ -299,7 +299,7 @@
 		"labelText"		"#TF_Bot_Difficulty0"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"1"
 	}

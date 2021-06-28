@@ -17,7 +17,7 @@
 		"labelText"		"#TF_Object_Dispenser"
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 	
 	"ItemBackground"	
@@ -102,6 +102,6 @@
 		"labelText"		"2"
 		"textAlignment"	"Center"
 		"dulltext"		"1"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 }

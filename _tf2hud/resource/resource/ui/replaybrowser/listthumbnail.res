@@ -136,7 +136,7 @@
 		"labelText"		"#Replay_Download"
 		"font"			"ReplayMediumSmall"
 		"textAlignment"	"center"
-		"wrap"			"0"
+		//"wrap"			"0"
 		"Command"		"download"
 	}
 	
@@ -170,7 +170,7 @@
 		"labelText"		"X"
 		"font"			"ReplayMediumSmall"
 		"textAlignment"	"center"
-		"wrap"			"0"
+		//"wrap"			"0"
 		"Command"		"delete_replayitem"
 		"fgcolor"		"200 80 60 255"
 	}

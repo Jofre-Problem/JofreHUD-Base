@@ -30,7 +30,7 @@
 		"labelText"		"Setting up YYY Game with XXX"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"AbortBtn"
 	{
@@ -48,7 +48,7 @@
 		"labelText"		"Abort"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 }

@@ -11,8 +11,8 @@
 		
 		"tabPosition"		"5"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		"Command"		"Advanced"
 		"Default"		"0"
 	}

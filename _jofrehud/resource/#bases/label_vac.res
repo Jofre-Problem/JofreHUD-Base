@@ -18,10 +18,10 @@
 		
 		"labelText"		"#VAC_ConnectingToSecureServer"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
-		"centerwrap"		"0"
+		//"centerwrap"		"0"
 	//	"bgcolor_override"	"W_ColorTheme4"
 	//	"fgcolor_override"	"W_ColorTheme1"
 	}

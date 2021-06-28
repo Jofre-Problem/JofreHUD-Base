@@ -131,7 +131,7 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 
 		if_comp
 		{
@@ -207,7 +207,7 @@
 		
 		"visible"		"0"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 
 		if_comp
 		{

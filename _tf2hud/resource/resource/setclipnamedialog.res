@@ -32,7 +32,7 @@
 		"labelText"		"#vgui_ok"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Ok"
 		"Default"		"1"
@@ -53,7 +53,7 @@
 		"labelText"		"#vgui_Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Cancel"
 		"Default"		"0"
@@ -74,7 +74,7 @@
 		"labelText"		"New Clip Name:"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"ClipName"
@@ -113,7 +113,7 @@
 		"labelText"		"Renumber Clips"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -190,7 +190,7 @@
 		"labelText"		"First:"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"IncrementLabel"
@@ -209,7 +209,7 @@
 		"labelText"		"Increment:"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"NumDigitsLabel"
@@ -228,7 +228,7 @@
 		"labelText"		"Num Digits:"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 }

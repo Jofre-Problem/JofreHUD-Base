@@ -65,7 +65,7 @@
 		"labelText"		"Engineering"
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 	
 	"TitleLabelDropshadow"
@@ -86,7 +86,7 @@
 		"labelText"		"Engineering"
 		"textAlignment"	"Left"
 		"dulltext"		"1"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 		
 	"active_item_1"
@@ -264,7 +264,7 @@
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
 	}
@@ -286,7 +286,7 @@
 		"labelText"		"#Hud_Menu_Build_Action_Build"
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 	
 	"BuildHintLabel_Dim"
@@ -307,7 +307,7 @@
 		"labelText"		"#Hud_Menu_Build_Action_Build"
 		"textAlignment"	"Left"
 		"dulltext"		"1"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 	
 	"DestroyHintIcon"
@@ -325,7 +325,7 @@
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_toggle_function"
 	}
@@ -347,7 +347,7 @@
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 	
 	"DestroyHintLabel_Dim"
@@ -368,7 +368,7 @@
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 	
 	"CancelHintIcon"
@@ -386,7 +386,7 @@
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_cancel"
 	}
@@ -408,7 +408,7 @@
 		"labelText"		"#Cancel"
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 	"ButtonLegendBG"
 	{
@@ -442,7 +442,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_left"
 	}
@@ -461,7 +461,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_right"
 	}

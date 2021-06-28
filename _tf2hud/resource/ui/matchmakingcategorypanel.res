@@ -123,7 +123,7 @@
 			"mouseinputenabled"	"0"
 
 			"proportionaltoparent"	"1"
-			"bgcolor_override"	"0 0 0 0"
+			"bgcolor_override"	"Blank"
 		}
 
 		"Checkbutton"
@@ -160,7 +160,7 @@
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"east"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"default"		"1"
 			"proportionaltoparent" "1"
 			"mouseinputenabled"	"0"
@@ -185,7 +185,7 @@
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"east"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"default"		"1"
 			"proportionaltoparent" "1"
 			"mouseinputenabled"	"0"

@@ -38,8 +38,8 @@
 		
 		"labelText"				"#TF_Charge"
 		"textAlignment"			"center"
-		"dulltext"				"0"
-		"brighttext"			"0"
+		//"dulltext"				"0"
+		//"brighttext"			"0"
 		"font"					"TFFontSmall"
 	}
 
@@ -61,8 +61,8 @@
 		
 		
 		"textAlignment"			"Left"
-		"dulltext"				"0"
-		"brighttext"			"0"
+		//"dulltext"				"0"
+		//"brighttext"			"0"
 	}				
 		
 	"PipesPresentPanel"
@@ -115,7 +115,7 @@
 			"labelText"		"%activepipes%"
 			"textAlignment"	"west"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"font"			"HudFontMedium"
 			"font_minmode"	"HudFontSmall"
 			//"font_lodef"	"HudFontMediumBig"
@@ -140,7 +140,7 @@
 			"labelText"		"%activepipes%"
 			"textAlignment"	"west"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"font"			"HudFontMedium"
 			"font_minmode"	"HudFontSmall"
 			//"font_lodef"	"HudFontMediumBig"
@@ -198,7 +198,7 @@
 			"labelText"		"%activepipes%"
 			"textAlignment"	"west"
 			"dulltext"		"1"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"font"			"HudFontMedium"
 			"font_minmode"	"HudFontSmall"
 			//"font_lodef"	"HudFontMediumBig"
@@ -223,7 +223,7 @@
 			"labelText"		"%activepipes%"
 			"textAlignment"	"west"
 			"dulltext"		"1"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"font"			"HudFontMedium"
 			"font_minmode"	"HudFontSmall"
 			//"font_lodef"	"HudFontMediumBig"

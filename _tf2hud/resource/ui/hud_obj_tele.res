@@ -72,7 +72,7 @@
 			"labelText"		"#Building_hud_tele_not_built"
 			"textAlignment"	"Left"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 		}
 	}
 	
@@ -195,7 +195,7 @@
 			
 			"textAlignment"	"Left"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 		}
 
 		"BuildingPanel"
@@ -224,7 +224,7 @@
 				"labelText"		"#Building_hud_building"
 				"textAlignment"	"Left"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 			}
 			
 			"BuildingProgress"
@@ -242,7 +242,7 @@
 				
 				"textAlignment"	"Left"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 			}
 		}
 	
@@ -282,7 +282,7 @@
 					"labelText"		"#Building_hud_tele_charging"
 					"textAlignment"	"Left"
 					//"dulltext"		"0"
-					"brighttext"	"0"
+					//"brighttext"	"0"
 				}
 				
 				"Recharge"
@@ -300,7 +300,7 @@
 					
 					"textAlignment"	"Left"
 					//"dulltext"		"0"
-					"brighttext"	"0"
+					//"brighttext"	"0"
 				}	
 			}
 			
@@ -331,7 +331,7 @@
 					//"labelText_lodef"		"#Building_hud_tele_times_used_360"
 					"textAlignment"	"Left"
 					//"dulltext"		"0"
-					"brighttext"	"0"
+					//"brighttext"	"0"
 				}
 			}	
 			"UpgradeLabel"
@@ -350,7 +350,7 @@
 				"labelText"		"#Building_hud_sentry_upgrade"
 				"textAlignment"	"Left"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 			}
 			
 			"Upgrade"
@@ -368,7 +368,7 @@
 				
 				"textAlignment"	"Left"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 			}
 		}
 	}

@@ -18,7 +18,7 @@
 		"labelText"		"#Hud_menu_demolish_title"
 		"textAlignment"	"Left"
 		"dulltext"		"1"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"pin_to_sibling"	"TitleLabel"
 	}
 	
@@ -38,7 +38,7 @@
 		
 		"labelText"		"#Hud_menu_demolish_title"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		//"dulltext"		"0"
+		//"brighttext"	"0"
 	}
 }	

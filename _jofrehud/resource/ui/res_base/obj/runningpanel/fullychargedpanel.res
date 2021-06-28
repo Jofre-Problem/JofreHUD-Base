@@ -30,7 +30,7 @@
 					"labelText"		"%timesused%"
 					"textAlignment"	"north-west"
 					//"dulltext"		"0"
-					"brighttext"	"0"
+					//"brighttext"	"0"
 				}
 			}
 		}

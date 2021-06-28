@@ -17,8 +17,8 @@
 		"labelText"			"RM"
 		"font"				"Default"
 		"textAlignment"		"center"
-		"dulltext"			"0"
-		"brighttext"		"0"
+		//"dulltext"			"0"
+		//"brighttext"		"0"
 		"Command"			"engine incrementvar mat_antialias 1 2 1"
 	}
 }

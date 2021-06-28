@@ -18,8 +18,8 @@
 		"tabPosition"		"2"
 		"labelText"		"#vgui_close"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
@@ -32,8 +32,8 @@
 		"tall"		"120"
 		
 		"labelText"		"#GameUI_BenchmarkResults_Info"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		"wrap"		"1"
 	}
 }

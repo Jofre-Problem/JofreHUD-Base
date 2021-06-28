@@ -18,7 +18,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"HudPasstimeBallStatus"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"100"
 		"wide"				"f0"
@@ -291,7 +291,7 @@
 		"wide"					"150"
 		"tall"					"16"
 		"textAlignment"			"center"
-		"dulltext"				"0"
+		//"dulltext"				"0"
 		"brighttext"			"1"
 		"labelText"				"NameOfCarrier"
 		pin_to_sibling			ProgressLevelBar

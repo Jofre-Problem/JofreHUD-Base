@@ -32,7 +32,7 @@
 		"labelText"		"#MP3Menu"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -80,7 +80,7 @@
 		"labelText"		"#Play"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"play"
 		"Default"		"0"
@@ -101,7 +101,7 @@
 		"labelText"		"#Stop"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"stop"
 		"Default"		"1"
@@ -122,7 +122,7 @@
 		"labelText"		"#Next"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"nexttrack"
 		"Default"		"0"
@@ -143,7 +143,7 @@
 		"labelText"		"#Prev"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"prevtrack"
 		"Default"		"0"
@@ -164,7 +164,7 @@
 		"labelText"		"#Mute"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -184,7 +184,7 @@
 		"labelText"		"#Shuffle"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -218,7 +218,7 @@
 		"labelText"		"#NoSong"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"font"		"DefaultVerySmall"
 		//"wrap"		"0"
 	}
@@ -237,7 +237,7 @@
 		
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"font"		"DefaultVerySmall"
 		//"wrap"		"0"
 	}
@@ -271,7 +271,7 @@
 		"labelText"		"#VolumeLabel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 }

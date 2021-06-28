@@ -29,12 +29,12 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"centerwrap"	"1"
 		"labelText"		"%updatetext%"
 		"textAlignment"		"center"
 		"fgcolor_override" "200 80 60 255"
-		"bgcolor_override" "0 0 0 0"
+		"bgcolor_override" "Blank"
 	}
 
 	"EllipsesLabel"
@@ -54,7 +54,7 @@
 		"labelText"		"%ellipses%"
 		"textAlignment"		"north"
 		"fgcolor_override" "200 80 60 255"
-		"bgcolor_override" "0 0 0 0"
+		"bgcolor_override" "Blank"
 	}
 
 	"DurationLabel"
@@ -74,7 +74,7 @@
 		"labelText"		"%duration%"
 		"textAlignment"		"north"
 		"fgcolor_override" "200 80 60 255"
-		"bgcolor_override" "0 0 0 0"
+		"bgcolor_override" "Blank"
 	}
 	
 	"CloseButton"
@@ -95,7 +95,7 @@
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"default"		"1"
 		"Command"		"user_close"
 		"sound_depressed"	"UI/buttonclick.wav"

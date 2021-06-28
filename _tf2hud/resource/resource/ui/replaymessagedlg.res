@@ -93,7 +93,7 @@
 			"labelText"		"#Replay_NeverShowAgain"
 			"Font"			"DefaultVerySmall"
 			"textAlignment"	"west"
-			"wrap"			"0"
+			//"wrap"			"0"
 			"xpos"			"9"
 			"ypos"			"63"
 			"zpos"			"20"
@@ -104,7 +104,7 @@
 			"visible"		"0"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"tabPosition"	"10"
 		}
 		
@@ -126,7 +126,7 @@
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"labelText"		"#GameUI_OK"
 			"Command"		"close"
 			"sound_depressed"	"UI/buttonclick.wav"

@@ -36,7 +36,7 @@
 				"labelText"		"#Building_hud_sentry_kills_assists"
 				"textAlignment"	"north-west"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 			}
 					
 			"ShellIcon"	
@@ -70,7 +70,7 @@
 				
 				"textAlignment"	"Left"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 			}
 		}
 	}	

@@ -12,7 +12,7 @@
 	{
 		"ControlName"		"CTFHudTimeStatus"
 		"fieldName"			"BlueTimer"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"xpos_minmode"		"20"
 		"ypos"				"0"
 		"ypos_minmode"		"-14"
@@ -176,7 +176,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"ActiveTimerBG"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"9"
 		"ypos_minmode"		"-4"
 		"zpos"				"1"

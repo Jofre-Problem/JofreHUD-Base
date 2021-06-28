@@ -26,7 +26,7 @@
 		"textHidden"	"0"
 		"textAlignment"	"west"
 		"unicode"		"1"
-		"wrap"			"0"
+		//"wrap"			"0"
 		"tall"			"12"
 		"wide"			"130"
 		

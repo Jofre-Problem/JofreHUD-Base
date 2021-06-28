@@ -11,7 +11,7 @@
 			"wide"			"230"
 			//"visible"		"1"
 			"PaintBackgroundType"	"0"
-			"bgcolor_override"	"0 0 0 0"
+			"bgcolor_override"	"Blank"
 			"skip_autoresize"	"1"
 			
 		}		

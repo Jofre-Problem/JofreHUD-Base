@@ -48,9 +48,9 @@
 		"labelText"		"#TF_LessThan"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"textinsetx"	"0"
+		//"textinsetx"	"0"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"goprev"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -73,9 +73,9 @@
 		"labelText"		"#TF_GreaterThan"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"textinsetx"	"0"
+		//"textinsetx"	"0"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"gonext"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -96,7 +96,7 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"fgcolor_override"	"83 75 66 255"
 	}
 	
@@ -135,7 +135,7 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"fgcolor_override"	"83 75 66 255"
 	}
 	
@@ -156,8 +156,8 @@
 		"font"				"HudFontSmallBold"
 		"textAlignment"		"center"
 		"textinsetx"		"50"
-		"dulltext"			"0"
-		"brighttext"		"0"
+		//"dulltext"			"0"
+		//"brighttext"		"0"
 		"Command"			"selectcurrentgamemode"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

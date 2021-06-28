@@ -220,7 +220,7 @@
 			"labelText"		"%recede%"
 			"textAlignment"	"center"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			
 			"if_multiple_trains"
 			{
@@ -442,7 +442,7 @@
 			"labelText"		"#ControlPointIconCappers"
 			"textAlignment"	"west"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			
 			"if_multiple_trains"
 			{
@@ -531,7 +531,7 @@
 			{
 				"ControlName"		"CIconPanel"
 				"fieldName"			"Teardrop"
-				"xpos"				"0"
+				//"xpos"				"0"
 				"ypos"				"0"
 				"zpos"				"0"
 				"wide"				"54"
@@ -559,7 +559,7 @@
 				"fieldName"			"ProgressText"
 				"font"				"DefaultSmall"
 				"font_minmode"			"DefaultVerySmall"
-				"xpos"				"0"
+				//"xpos"				"0"
 				"ypos"				"8"
 				"ypos_minmode"			"3"
 				"zpos"				"23"
@@ -572,8 +572,8 @@
 				"visible"			"0"
 				
 				"labelText"			"progress"
-				"dulltext"			"0"
-				"brighttext"		"0"
+				//"dulltext"			"0"
+				//"brighttext"		"0"
 				"centerwrap"		"1"
 				
 				"if_multiple_trains"

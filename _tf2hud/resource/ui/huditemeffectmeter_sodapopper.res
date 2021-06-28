@@ -58,8 +58,8 @@
 		
 		"labelText"				"#TF_ENERGYDRINK"
 		"textAlignment"			"center"
-		"dulltext"				"0"
-		"brighttext"			"0"
+		//"dulltext"				"0"
+		//"brighttext"			"0"
 		"font"					"TFFontSmall"
 	}
 
@@ -81,7 +81,7 @@
 		
 		
 		"textAlignment"			"Left"
-		"dulltext"				"0"
-		"brighttext"			"0"
+		//"dulltext"				"0"
+		//"brighttext"			"0"
 	}					
 }

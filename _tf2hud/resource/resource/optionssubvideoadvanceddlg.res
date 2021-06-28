@@ -159,7 +159,7 @@
 		"labelText"		"0"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -179,7 +179,7 @@
 		"labelText"		"1"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -199,7 +199,7 @@
 		"labelText"		"o"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"MinimizeToSysTray"
 		"Default"		"0"
@@ -220,7 +220,7 @@
 		"labelText"		"r"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -239,7 +239,7 @@
 		
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -490,7 +490,7 @@
 		"labelText"		"#GameUI_Bloom"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
@@ -512,7 +512,7 @@
 		"textAlignment"		"west"
 		"associate"		"HDR"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Button1"
@@ -532,7 +532,7 @@
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"OK"
 		"Default"		"1"
@@ -555,7 +555,7 @@
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
@@ -578,7 +578,7 @@
 		"labelText"		"#GameUI_DX_Level"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label2"
@@ -598,7 +598,7 @@
 		"labelText"		"#GameUI_DX_Installed"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label3"
@@ -618,7 +618,7 @@
 		"textAlignment"		"west"
 		"associate"		"ModelDetail"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label4"
@@ -638,7 +638,7 @@
 		"textAlignment"		"west"
 		"associate"		"TextureDetail"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label5"
@@ -658,7 +658,7 @@
 		"textAlignment"		"west"
 		"associate"		"AntialiasingMode"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label6"
@@ -678,7 +678,7 @@
 		"textAlignment"		"west"
 		"associate"		"FilteringMode"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"dxinstalledlabel"
@@ -698,7 +698,7 @@
 		"labelText"		"DirectX v9.0"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Divider1"
@@ -733,7 +733,7 @@
 		"textAlignment"		"west"
 		"associate"		"WaterDetail"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label8"
@@ -753,7 +753,7 @@
 		"textAlignment"		"west"
 		"associate"		"ShadowDetail"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label12"
@@ -773,7 +773,7 @@
 		"textAlignment"		"west"
 		"associate"		"ColorCorrection"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label10"
@@ -793,7 +793,7 @@
 		"textAlignment"		"west"
 		"associate"		"VSync"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label9"
@@ -813,7 +813,7 @@
 		"textAlignment"		"west"
 		"associate"		"ShaderDetail"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label11"
@@ -833,7 +833,7 @@
 		"labelText"		"#GameUI_RecommendedSettings"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Font"		"DefaultSmall"
 		//"wrap"		"0"
 	}
@@ -855,7 +855,7 @@
 		"textAlignment"		"west"
 		"associate"		"HDR"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Divider2"
@@ -924,7 +924,7 @@
 		"labelText"		"#GameUI_FOV"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"MulticoreLabel"
@@ -943,7 +943,7 @@
 		"labelText"		"#GameUI_MulticoreRendering"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Multicore"

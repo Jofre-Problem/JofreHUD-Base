@@ -16,7 +16,7 @@
 		"labelText"		"Fade Visualization Mode:"
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 
 	"VisualizeMode"
@@ -54,7 +54,7 @@
 		"labelText"		"Min Screen Width:"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 
 	"MinFadeSize"
@@ -92,7 +92,7 @@
 		"labelText"		"Max Screen Width:"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 
 	"MaxFadeSize"

@@ -37,7 +37,7 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"west"
 	}
@@ -56,7 +56,7 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"labelText"		"#Tournament_TeamNamePanel"
 		"textAlignment"		"west"
 	}
@@ -79,7 +79,7 @@
 		"maxchars"		"5"
 		"NumericInputOnly"	"0"
 		"unicode"		"0"
-		"wrap"			"0"
+		//"wrap"			"0"
 		"fgcolor_override"		"235 226 202 255"
 		"bgcolor_override"	"0 0 0 255"
 		"labelText"		"%teamname%"
@@ -119,7 +119,7 @@
 		"labelText"		"Not Ready"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"command"		"teamnotready"
 		"default"		"1"
 		"font"			"HudFontSmallestBold"
@@ -142,7 +142,7 @@
 		"labelText"		"Ready"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"command"		"teamready" 
 		"default"		"1"
 		"font"			"HudFontSmallestBold"

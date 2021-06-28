@@ -111,7 +111,7 @@
 			
 			//"visible"		"1"
 			
-			"wrap"			"0"
+			//"wrap"			"0"
 			"fgcolor"		"245 240 230 255"
 		}
 
@@ -133,7 +133,7 @@
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -201,7 +201,7 @@
 		"visible"		"0"
 		
 		
-		"bgcolor_override"	"0 0 0 0"
+		"bgcolor_override"	"Blank"
 		"proportionaltoparent"	"1"
 
 		"CoinModelPanel"
@@ -253,7 +253,7 @@
 			
 			//"visible"		"1"
 			
-			"wrap"			"0"
+			//"wrap"			"0"
 			"proportionaltoparent"	"1"
 			"fgcolor"		"Tanlight"
 		}
@@ -289,7 +289,7 @@
 				//"visible"		"1"
 				
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 				"proportionaltoparent"	"1"
 				"fgcolor_override"		"132 76 0 255"
 				"bgcolor_override"		"0 0 0 255"
@@ -311,7 +311,7 @@
 				
 				//"visible"		"1"
 				
-				"wrap"			"0"
+				//"wrap"			"0"
 				"proportionaltoparent"	"1"
 				"fgcolor"		"Tanlight"
 			}
@@ -333,7 +333,7 @@
 			
 			//"visible"		"1"
 			
-			"wrap"			"0"
+			//"wrap"			"0"
 			"proportionaltoparent"	"1"
 			"fgcolor"		"Tanlight"
 		}
@@ -369,7 +369,7 @@
 				//"visible"		"1"
 				
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 				"proportionaltoparent"	"1"
 				"fgcolor_override"		"132 76 0 255"
 				"bgcolor_override"		"0 0 0 255"
@@ -391,7 +391,7 @@
 				
 				//"visible"		"1"
 				
-				"wrap"			"0"
+				//"wrap"			"0"
 				"proportionaltoparent"	"1"
 				"fgcolor"		"Tanlight"
 			}

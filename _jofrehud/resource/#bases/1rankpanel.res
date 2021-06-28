@@ -5,7 +5,7 @@
 		"ControlName"		"Cpvprankpanel"
 		"fieldName"			"RankPanel"
 		//"visible"			"1"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"60"
 		"wide"				"160"
 		"tall"				"80"

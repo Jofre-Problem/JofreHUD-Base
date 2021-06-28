@@ -71,7 +71,7 @@
 		"labelText"		"#ControlPointIconCappers"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 
 	"OverlayImage"
@@ -108,8 +108,8 @@
 		"labelText"		"60"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"ControlPointTimer"
 		"font_minmode"	"ControlPointTimerSmaller"
 	}

@@ -17,8 +17,8 @@
 		"labelText"			"RS"
 		"font"				"Default"
 		"textAlignment"		"center"
-		"dulltext"			"0"
-		"brighttext"		"0"
+		//"dulltext"			"0"
+		//"brighttext"		"0"
 		"Command"			"reloadscheme"
 		"paintbackground"	"0"
 	}

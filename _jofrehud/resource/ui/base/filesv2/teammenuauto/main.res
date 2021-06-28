@@ -21,8 +21,8 @@
 		
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"MenuSmallFont"
 		"fgcolor"		"black"
 	}
@@ -47,8 +47,8 @@
 		"labelText"		"#TF_Spectate"
 		"textAlignment"	"north"
 		//"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"MenuSmallestFont"
 		//"font_lodef"	"MenuSmallFont"
 		"fgcolor"		"white"

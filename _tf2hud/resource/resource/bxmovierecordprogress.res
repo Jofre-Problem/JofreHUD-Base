@@ -32,7 +32,7 @@
 		"labelText"		"Percent Complete:  40%"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"TimeRemainingLabel"
@@ -51,7 +51,7 @@
 		"labelText"		"Time Remaining:    63 seconds"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"CancelButton"
@@ -70,7 +70,7 @@
 		"labelText"		"Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"cancel"
 		"Default"		"0"

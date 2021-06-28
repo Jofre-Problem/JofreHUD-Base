@@ -33,7 +33,7 @@
 		"labelText"		"Resample"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -53,7 +53,7 @@
 		"labelText"		"Resampled Framerate:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"FramerateText"
@@ -92,7 +92,7 @@
 		"labelText"		"Smooth"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -112,7 +112,7 @@
 		"labelText"		"Filter Width:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"FilterWidthText"
@@ -150,7 +150,7 @@
 		"labelText"		"Filter"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"FilterLog"
 		"Default"		"1"
@@ -171,7 +171,7 @@
 		"labelText"		"Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"CancelFilter"
 		"Default"		"0"

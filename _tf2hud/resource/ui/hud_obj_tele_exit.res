@@ -72,7 +72,7 @@
 			"labelText"		"#Building_hud_tele_exit_not_built"
 			"textAlignment"	"Left"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 		}
 	}
 	
@@ -194,7 +194,7 @@
 			
 			"textAlignment"	"Left"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 		}
 
 		"BuildingPanel"
@@ -223,7 +223,7 @@
 				"labelText"		"#Building_hud_building"
 				"textAlignment"	"Left"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 			}
 			
 			"BuildingProgress"
@@ -241,7 +241,7 @@
 				
 				"textAlignment"	"Left"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 			}
 		}
 	
@@ -286,7 +286,7 @@
 				
 				"textAlignment"	"Left"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 			}
 		}
 	}

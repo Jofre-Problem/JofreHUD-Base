@@ -68,7 +68,7 @@
 					"labelText"		"Enter Description:"
 					"textAlignment"	"west"
 					"dulltext"		"1"
-					"brighttext"	"0"
+					//"brighttext"	"0"
 				}
 				
 				"Description"
@@ -92,7 +92,7 @@
 					"labelText"		""
 					"textAlignment"	"west"
 					"dulltext"		"1"
-					"brighttext"	"0"
+					//"brighttext"	"0"
 				}						
 			}
 		}
@@ -113,7 +113,7 @@
 			"labelText"		"Yes"
 			"textAlignment"		"center"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"1"
 		}
 
@@ -133,7 +133,7 @@
 			"labelText"		"No"
 			"textAlignment"		"center"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"1"
 		}
 	}

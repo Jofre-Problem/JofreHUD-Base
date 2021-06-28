@@ -99,7 +99,7 @@
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"west"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"default"		"1"
 		"command"		"%button_command%"
 		"proportionaltoparent" "1"
@@ -222,7 +222,7 @@
 		"defaultFgColor_override" "46 43 42 255"
 		"armedFgColor_override" "235 226 202 255"
 		"depressedFgColor_override" "46 43 42 255"
-		"defaultBgColor_override" "0 0 0 0"
+		"defaultBgColor_override" "Blank"
 		"armedBgColor_override" "0 0 0 0"
 		"depressedBgColor_override" "0 0 0 0"
 				

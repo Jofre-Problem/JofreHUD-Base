@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusRobotDestruction"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"1"
 		"wide"				"f0"
@@ -61,7 +61,7 @@
 		"labelText"		"#TF_PlayingTo"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"font"			"HudFontSmall"
 		"fgcolor"		"TanLight"
 		
@@ -120,7 +120,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"CarriedContainer"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"r100"
 		"zpos"				"1"
 		"wide"				"100"
@@ -820,7 +820,7 @@
 			{
 				"ControlName"		"EditablePanel"
 				"fieldName"			"DroppedIntelContainer"
-				"xpos"				"0"
+				//"xpos"				"0"
 				"ypos"				"20"
 				"zpos"				"1"
 				"wide"				"f0"
@@ -920,7 +920,7 @@
 			{
 				"ControlName"		"EditablePanel"
 				"fieldName"			"DroppedIntelContainer"
-				"xpos"				"0"
+				//"xpos"				"0"
 				"ypos"				"20"
 				"zpos"				"1"
 				"wide"				"f0"

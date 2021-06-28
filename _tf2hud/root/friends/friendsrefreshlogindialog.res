@@ -30,7 +30,7 @@
 		"labelText"		""
 		"textAlignment"		"west"
 		"dulltext"		"1"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"wrap"			"1"
 	}
 	"UserNameEdit"
@@ -85,7 +85,7 @@
 		"labelText"		"#Friends_Login_Btn"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"Login"
 		"Default"		"1"
 	}
@@ -106,7 +106,7 @@
 		"textAlignment"		"east"
 		"associate"		"UserNameEdit"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Unnamed dialog1"
 	{
@@ -125,7 +125,7 @@
 		"textAlignment"		"east"
 		"associate"		"PasswordEdit"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"CancelButton"
 	{
@@ -143,7 +143,7 @@
 		"labelText"		"#vgui_cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 	}

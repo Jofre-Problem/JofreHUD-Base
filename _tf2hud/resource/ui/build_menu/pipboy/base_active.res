@@ -18,7 +18,7 @@
 		//"labelText_lodef"		"#TF_Object_Sentry_360"
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"fgcolor"		"0 255 0 255"
 	}
 
@@ -142,7 +142,7 @@
 		"labelText"		"1"
 		"textAlignment"	"Center"
 		"dulltext"		"1"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"fgcolor"		"0 255 0 255"
 	}
 }

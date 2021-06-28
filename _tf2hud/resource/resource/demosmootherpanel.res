@@ -31,7 +31,7 @@
 		"labelText"		"Process->"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"DemoSmoothRevert"
@@ -50,7 +50,7 @@
 		"labelText"		"Revert"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"revert"
 		"Default"		"0"
 	}
@@ -70,7 +70,7 @@
 		"labelText"		"OK"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"close"
 		"Default"		"0"
 	}
@@ -90,7 +90,7 @@
 		"labelText"		"Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"cancel"
 		"Default"		"0"
 	}
@@ -110,7 +110,7 @@
 		"labelText"		"Save"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"save"
 		"Default"		"0"
 	}
@@ -130,7 +130,7 @@
 		"labelText"		"Reload"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"reload"
 		"Default"		"0"
 	}
@@ -186,7 +186,7 @@
 		"labelText"		"Show Original"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"original"
 		"Default"		"0"
 	}
@@ -206,7 +206,7 @@
 		"labelText"		"Show Processed"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"processed"
 		"Default"		"0"
 	}
@@ -226,7 +226,7 @@
 		"labelText"		"Back off"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"DemoSmoothHideLegend"
@@ -245,7 +245,7 @@
 		"labelText"		"Hide legend"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"DemoSmoothHideOriginal"
@@ -264,7 +264,7 @@
 		"labelText"		"Hide original"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"DemoSmoothHideProcessed"
@@ -283,7 +283,7 @@
 		"labelText"		"Hide processed"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"DemoSmoothSelectionInfo"
@@ -302,7 +302,7 @@
 		"labelText"		"No smoothing info loaded"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"DemoSmoothShowAll"
 	{
@@ -320,7 +320,7 @@
 		"labelText"		"Show All"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"DemoSmoothSelect"
@@ -339,7 +339,7 @@
 		"labelText"		"Select"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"select"
 		"Default"		"0"
 	}
@@ -359,7 +359,7 @@
 		"labelText"		"Resume"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"togglepause"
 		"Default"		"0"
 	}
@@ -379,7 +379,7 @@
 		"labelText"		">>"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"stepforward"
 		"Default"		"0"
 	}
@@ -399,7 +399,7 @@
 		"labelText"		"<<"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"stepbackward"
 		"Default"		"0"
 	}
@@ -419,7 +419,7 @@
 		"labelText"		"Revert Pt."
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"revertpoint"
 		"Default"		"0"
 	}
@@ -439,7 +439,7 @@
 		"labelText"		"Make Keyframe"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"keyframe"
 		"Default"		"0"
 	}
@@ -459,7 +459,7 @@
 		"labelText"		"Make Look Target"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"looktarget"
 		"Default"		"0"
 	}
@@ -479,7 +479,7 @@
 		"labelText"		"Undo"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"undo"
 		"Default"		"0"
 	}
@@ -499,7 +499,7 @@
 		"labelText"		"Redo"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"redo"
 		"Default"		"0"
 	}
@@ -519,7 +519,7 @@
 		"labelText"		"+Key"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"nextkey"
 		"Default"		"0"
 	}
@@ -539,7 +539,7 @@
 		"labelText"		"-Key"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"prevkey"
 		"Default"		"0"
 	}
@@ -559,7 +559,7 @@
 		"labelText"		"+Target"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"nexttarget"
 		"Default"		"0"
 	}
@@ -579,7 +579,7 @@
 		"labelText"		"-Target"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"prevtarget"
 		"Default"		"0"
 	}
@@ -599,7 +599,7 @@
 		"labelText"		"Set View"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"setview"
 		"Default"		"0"
 	}
@@ -619,7 +619,7 @@
 		"labelText"		"Edge->"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"DemoSmoothFixFrames"
@@ -656,7 +656,7 @@
 		"labelText"		"Save Key"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"processkey"
 		"Default"		"0"
 	}
@@ -695,7 +695,7 @@
 		"labelText"		"Jump To"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"gotoframe"
 		"Default"		"0"
 	}
@@ -715,7 +715,7 @@
 		"labelText"		"Start Tick:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label2"
 	{
@@ -733,7 +733,7 @@
 		"labelText"		"End Tick:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label3"
 	{
@@ -751,6 +751,6 @@
 		"labelText"		"Edge Ticks:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 }

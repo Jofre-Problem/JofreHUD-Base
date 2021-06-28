@@ -11,6 +11,6 @@
 		
 		
 		"textAlignment"	"west"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 }	

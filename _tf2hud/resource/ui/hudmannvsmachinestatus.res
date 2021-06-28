@@ -31,7 +31,7 @@
 	{
 		"ControlName"		"CMvMBossStatusPanel"
 		"fieldName"			"BossStatusPanel"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"0"
 		"wide"				"200"
@@ -48,7 +48,7 @@
 	{
 		"ControlName"		"CCurrencyStatusPanel"
 		"fieldName"			"CurrencyStatusPanel"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"r100"
 		"wide"				"100"
 		"tall"				"100"
@@ -182,7 +182,7 @@
 	{
 		"ControlName"		"CVictorySplash"
 		"fieldName"			"VictorySplash"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"0"
 		//"zpos"				"102"
 		"wide"				"f0"

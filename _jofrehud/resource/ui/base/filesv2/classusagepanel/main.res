@@ -20,7 +20,7 @@
 			//"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox2"
@@ -39,7 +39,7 @@
 			//"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox3"
@@ -58,7 +58,7 @@
 			//"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox4"
@@ -76,7 +76,7 @@
 			//"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox5"
@@ -95,7 +95,7 @@
 			//"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox6"
@@ -113,7 +113,7 @@
 			//"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox7"
@@ -131,7 +131,7 @@
 			//"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox8"
@@ -151,7 +151,7 @@
 			//"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox9"
@@ -170,7 +170,7 @@
 			//"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}	
 	}		

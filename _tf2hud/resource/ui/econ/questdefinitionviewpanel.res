@@ -18,7 +18,7 @@
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"default"		"0"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -28,7 +28,7 @@
 			
 		"paintbackground"	"0"
 			
-		"defaultFgColor_override" "0 0 0 0"
+		"defaultFgColor_override" "Blank"
 		"armedFgColor_override" "200 80 60 255"
 		"depressedFgColor_override" "46 43 42 255"
 			
@@ -68,7 +68,7 @@
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

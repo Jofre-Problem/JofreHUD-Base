@@ -32,7 +32,7 @@
 		"labelText"		"Label"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"font"			"UiBold"
 	}
@@ -52,7 +52,7 @@
 		"labelText"		"#GAMEUI_Commentary_HowToUse"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"wrap"		"1"
 	}
 	"OkClose"
@@ -71,7 +71,7 @@
 		"labelText"		"#vgui_ok"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"close"
 		"Default"		"1"

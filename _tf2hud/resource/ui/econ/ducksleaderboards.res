@@ -41,7 +41,7 @@
 				
 				////"visible"		"1"
 				
-				"wrap"			"0"
+				//"wrap"			"0"
 				"proportionaltoparent"	"1"
 				"auto_wide_tocontents"	"1"
 				"mouseinputenabled"		"0"
@@ -63,7 +63,7 @@
 				
 				////"visible"		"1"
 				
-				"wrap"			"0"
+				//"wrap"			"0"
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"		"0"
 
@@ -236,7 +236,7 @@
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 				"default"		"0"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -286,7 +286,7 @@
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 				"default"		"0"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -337,7 +337,7 @@
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 				"default"		"0"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"

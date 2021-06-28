@@ -103,7 +103,7 @@
 			//"labelText_lodef"		"#Building_hud_sentry_not_built_360"
 			"textAlignment"	"Left"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 		}
 	}
 	
@@ -227,7 +227,7 @@
 			
 			"textAlignment"	"Left"
 			//"dulltext"		"0"
-			"brighttext"	"0"	
+			//"brighttext"	"0"	
 		}
 		
 		"BuildingPanel"
@@ -256,7 +256,7 @@
 				"labelText"		"#Building_hud_building"
 				"textAlignment"	"Left"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 			}
 			
 			"BuildingProgress"
@@ -274,7 +274,7 @@
 				
 				"textAlignment"	"Left"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 			}
 		}
 		
@@ -320,7 +320,7 @@
 				"labelText"		"#Building_hud_sentry_kills_assists"
 				"textAlignment"	"north-west"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 			}
 					
 			"ShellIcon"	
@@ -354,7 +354,7 @@
 				
 				"textAlignment"	"Left"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 			}
 			
 			"RocketIcon"	
@@ -388,7 +388,7 @@
 				
 				"textAlignment"	"Left"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 			}
 
 			"UpgradeIcon"
@@ -422,7 +422,7 @@
 				
 				"textAlignment"	"Left"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 			}
 		}
 	}

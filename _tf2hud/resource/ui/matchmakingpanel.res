@@ -78,7 +78,7 @@
 			
 			////"visible"		"1"
 			
-			"wrap"			"0"
+			//"wrap"			"0"
 			"proportionaltoparent"	"1"
 			"fgcolor"		"TanLight"
 		}
@@ -136,12 +136,12 @@
 				"default"			"0"
 		
 				"fgcolor_override"	"235 226 202 255"
-				"bgcolor_override"	"0 0 0 0"
+				"bgcolor_override"	"Blank"
 				"disabledFgColor_override" "235 226 202 255"
-				"disabledBgColor_override" "0 0 0 0"
-				"selectionColor_override" "0 0 0 0"
+				"disabledBgColor_override" "Blank"
+				"selectionColor_override" "Blank"
 				"selectionTextColor_override" "235 226 202 255"
-				"defaultSelectionBG2Color_override" "0 0 0 0"
+				"defaultSelectionBG2Color_override" "Blank"
 			}
 
 			"SearchButton"
@@ -162,7 +162,7 @@
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_StartSearch"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 				"Command"		"search"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -186,7 +186,7 @@
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_CancelSearch"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 				"Command"		"stopsearch"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"

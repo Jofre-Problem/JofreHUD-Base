@@ -30,7 +30,7 @@
 		"labelText"		"#TrackerUI_Send"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"default"		"1"
 	}
 	"NameLabel"
@@ -49,7 +49,7 @@
 		"labelText"		"#TrackerUI_ToJohnC"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"MessageState"
 	{
@@ -66,7 +66,7 @@
 		
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"TextEntry"
 	{
@@ -119,7 +119,7 @@
 		"labelText"		"#TrackerUI_Invite"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"default"		"0"
 	}
 }

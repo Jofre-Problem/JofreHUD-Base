@@ -44,7 +44,7 @@
 		"labelText"		"#Ban_Change_Time"
 		"textAlignment"		"west"
 		"dulltext"		"1"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"CvarLabel"
 	{
@@ -62,7 +62,7 @@
 		"labelText"		"12.13.14.15"
 		"textAlignment"		"west"
 		"dulltext"		"1"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"CvarEntry"
 	{
@@ -98,7 +98,7 @@
 		"labelText"		"#Okay_Button"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"Okay"
 		"Default"		"1"
 	}
@@ -118,7 +118,7 @@
 		"labelText"		"#Cvar_Dialog_Name"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"PasswordLabel"
 	{
@@ -136,7 +136,7 @@
 		"labelText"		"#Cvar_Dialog_Value"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"CancelButton"
 	{
@@ -154,7 +154,7 @@
 		"labelText"		"#Cancel_Button"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 	}

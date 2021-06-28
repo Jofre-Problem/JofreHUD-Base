@@ -16,7 +16,7 @@
 		"labelText"		"#GameUI_AdjustGamma"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -93,7 +93,7 @@
 		"labelText"		"#GameUI_AdvancedEllipsis"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -113,7 +113,7 @@
 		"labelText"		"#GameUI_LaunchBenchmarkVideoPanel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -133,7 +133,7 @@
 		"labelText"		"#GameUI_ThirdPartyTechCredits"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
@@ -173,7 +173,7 @@
 		"labelText"		"#GameUI_Gamma"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Renderer"
@@ -212,7 +212,7 @@
 		"textAlignment"		"west"
 		"associate"		"Resolution"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label2"
@@ -231,7 +231,7 @@
 		"labelText"		"#GameUI_Renderer"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label4"
@@ -251,7 +251,7 @@
 		"textAlignment"		"west"
 		"associate"		"DisplayModeCombo"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"AspectRatioLabel"
@@ -271,7 +271,7 @@
 		"textAlignment"		"west"
 		"associate"		"AspectRatio"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"HDContentButton"
@@ -293,7 +293,7 @@
 		"labelText"		"#GameUI_HDContent"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		//"centerwrap"		"0"
 		"textinsetx"		"6"
@@ -319,7 +319,7 @@
 		"textAlignment"		"west"
 		"associate"		"VRMode"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 }

@@ -27,7 +27,7 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"labelText"		"#TF_ServerNoSteamConn_Title"
 		"textAlignment"		"North"
 		"fgcolor_override" "200 80 60 255"
@@ -69,7 +69,7 @@
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"default"		"1"
 		"Command"		"close"
 		"sound_depressed"	"UI/buttonclick.wav"

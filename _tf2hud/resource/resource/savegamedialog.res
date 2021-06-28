@@ -46,7 +46,7 @@
 		"labelText"		"#GameUI_Save"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"loadsave"
 		"Default"		"1"
@@ -67,7 +67,7 @@
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
@@ -88,7 +88,7 @@
 		"labelText"		"#GameUI_SaveGameHelp"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"wrap"		"1"
 	}
 }

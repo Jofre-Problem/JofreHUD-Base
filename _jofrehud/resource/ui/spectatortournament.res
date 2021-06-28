@@ -41,7 +41,7 @@
 					
 				if_mvm
 				{
-					"xpos"				"0"
+					//"xpos"				"0"
 					"ypos"				"25"
 					"wide"				"55"
 					"textAlignment"		"center"
@@ -69,7 +69,7 @@
 					
 				if_mvm
 				{
-					"xpos"				"0"
+					//"xpos"				"0"
 					"ypos"				"25"
 					"wide"				"55"
 					"textAlignment"		"center"

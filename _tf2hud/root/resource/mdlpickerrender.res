@@ -30,7 +30,7 @@
 			"labelText"		"Wireframe"
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"0"
 		}
 		
@@ -50,7 +50,7 @@
 			"labelText"		"Collision Model"
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"0"
 		}
 		
@@ -70,7 +70,7 @@
 			"labelText"		"No Ground"
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"0"
 		}
 		
@@ -90,7 +90,7 @@
 			"labelText"		"Lock View"
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"0"
 		}
 
@@ -110,7 +110,7 @@
 			"labelText"		"Thumbnail Safe Zone"
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"0"
 		}
 		
@@ -131,7 +131,7 @@
 			"labelText"		"Look At Camera"
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"0"
 		}
 		

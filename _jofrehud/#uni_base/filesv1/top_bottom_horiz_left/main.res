@@ -10,7 +10,7 @@
 		
 		
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 	}
 	"topVertLeft"
 	{
@@ -22,7 +22,7 @@
 		
 		
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 	}
 	"bottomHorizRight"
 	{
@@ -34,7 +34,7 @@
 		
 		
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 	}
 	"bottomVertRight"
 	{
@@ -46,6 +46,6 @@
 		
 		
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 	}
 }	

@@ -182,7 +182,7 @@ Scheme
 			"MenuColor"			"200 200 200 255"
 			"ArmedMenuColor"	"255 255 255 255"
 			"DepressedMenuColor" "192 186 80 255"
-			"WidescreenBarColor" "0 0 0 0"
+			"WidescreenBarColor" "Blank"
 			"MenuItemVisibilityRate" "0.03"  // time it takes for one menu item to appear
 			"MenuItemHeight"	"28"
 			"GameMenuInset"		"32"

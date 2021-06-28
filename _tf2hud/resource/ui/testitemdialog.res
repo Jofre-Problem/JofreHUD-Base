@@ -88,7 +88,7 @@
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"default"		"1"
 		"Command"		"select_model"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -149,7 +149,7 @@
 			"bgcolor_override"	"251 235 202 0"
 			"disabledFgColor_override" "117 107 94 0"
 			"disabledBgColor_override" "251 235 202 0"
-			"selectionColor_override" "0 0 0 0"
+			"selectionColor_override" "Blank"
 			"selectionTextColor_override" "117 107 94 255"
 			"defaultSelectionBG2Color_override" "251 235 202 255"
 		}
@@ -209,7 +209,7 @@
 			"bgcolor_override"	"251 235 202 0"
 			"disabledFgColor_override" "117 107 94 0"
 			"disabledBgColor_override" "251 235 202 0"
-			"selectionColor_override" "0 0 0 0"
+			"selectionColor_override" "Blank"
 			"selectionTextColor_override" "117 107 94 255"
 			"defaultSelectionBG2Color_override" "251 235 202 255"
 		}
@@ -298,7 +298,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"HideBodygroupCheckBox1"
@@ -318,7 +318,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"HideBodygroupCheckBox2"
@@ -338,7 +338,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"HideBodygroupCheckBox3"
@@ -358,7 +358,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"HideBodygroupCheckBox4"
@@ -378,7 +378,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"HideBodygroupCheckBox5"
@@ -398,7 +398,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"HideBodygroupCheckBox6"
@@ -418,7 +418,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"HideBodygroupCheckBox7"
@@ -438,7 +438,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 	}
@@ -496,7 +496,7 @@
 			"bgcolor_override"	"251 235 202 0"
 			"disabledFgColor_override" "117 107 94 0"
 			"disabledBgColor_override" "251 235 202 0"
-			"selectionColor_override" "0 0 0 0"
+			"selectionColor_override" "Blank"
 			"selectionTextColor_override" "117 107 94 255"
 			"defaultSelectionBG2Color_override" "251 235 202 255"
 		}
@@ -543,7 +543,7 @@
 			"bgcolor_override"	"251 235 202 0"
 			"disabledFgColor_override" "117 107 94 0"
 			"disabledBgColor_override" "251 235 202 0"
-			"selectionColor_override" "0 0 0 0"
+			"selectionColor_override" "Blank"
 			"selectionTextColor_override" "117 107 94 255"
 			"defaultSelectionBG2Color_override" "251 235 202 255"
 		}
@@ -567,7 +567,7 @@
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"default"		"1"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -591,7 +591,7 @@
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"default"		"1"
 		"Command"		"ok"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -617,7 +617,7 @@
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"reloadscheme"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

@@ -38,7 +38,7 @@
 			"wide"			"50"
 			"tall"			"50"
 			////"visible"		"1"
-			"enable"		"1"
+			//"enabled"		"1"	
 			"scaleImage"	"1"
 			"image"			"animated/tf2_logo_hourglass"
 
@@ -77,7 +77,7 @@
 		"wide"			"80"
 		"tall"			"50"
 		////"visible"		"1"
-		"enable"		"1"
+		//"enabled"		"1"	
 		//"scaleImage"	"0"
 	}
 
@@ -158,9 +158,9 @@
 
 		"border_armed"		"TeamMenuBorder"
 			
-		"defaultFgColor_override" "0 0 0 0"
-		"defaultBgColor_override" "0 0 0 0"
-		"armedFgColor_override" "0 0 0 0"
-		"armedBgColor_override"	"0 0 0 0"
+		"defaultFgColor_override" "Blank"
+		"defaultBgColor_override" "Blank"
+		"armedFgColor_override" "Blank"
+		"armedBgColor_override"	"Blank"
 	}
 }

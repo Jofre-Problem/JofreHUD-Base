@@ -30,7 +30,7 @@
 		"labelText"		"OK"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"OK"
 		"Default"		"1"
 	}
@@ -50,7 +50,7 @@
 		"labelText"		"Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"Cancel"
 		"Default"		"0"
 	}
@@ -88,6 +88,6 @@
 		"labelText"		"Changes take effect when you press 'OK'."
 		"textAlignment"		"west"
 		"dulltext"		"1"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 }

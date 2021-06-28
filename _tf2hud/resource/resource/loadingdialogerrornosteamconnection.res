@@ -62,7 +62,7 @@
 		"labelText"		"#Steam_ValidLoginRequired"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"wrap"		"1"
 	}
 	"CancelButton"
@@ -81,7 +81,7 @@
 		"labelText"		"#GameUI_Close"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
@@ -101,7 +101,7 @@
 		
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"URLLabel1"
@@ -120,7 +120,7 @@
 		"labelText"		"#VAC_ConnectionIssuesSupportSite"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"URLText"		"#VAC_ConnectionIssuesSupportURL"
 		"font"		"DefaultBold"

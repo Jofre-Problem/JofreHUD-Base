@@ -10,8 +10,8 @@
 		"visible"		"1"
 		
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		"Command"		"Okay"
 		"Default"		"1"
 	}

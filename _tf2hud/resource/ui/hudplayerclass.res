@@ -351,8 +351,8 @@
 			//"visible"			"1"
 			
 			"textAlignment"		"North-West"
-			"dulltext"			"0"
-			"brighttext"		"0"
+			//"dulltext"			"0"
+			//"brighttext"		"0"
 			"proportionaltoparent"	"1"
 			"auto_wide_tocontents"	"1"
 			"labelText"			"%carrying%"
@@ -378,8 +378,8 @@
 			//"visible"			"1"
 			
 			"textAlignment"		"North-West"
-			"dulltext"			"0"
-			"brighttext"		"0"
+			//"dulltext"			"0"
+			//"brighttext"		"0"
 			"proportionaltoparent"	"1"
 			"auto_wide_tocontents"	"1"
 			"fgcolor_override"	"Black"
@@ -406,8 +406,8 @@
 			//"visible"			"1"
 			
 			"textAlignment"		"North-West"
-			"dulltext"			"0"
-			"brighttext"		"0"
+			//"dulltext"			"0"
+			//"brighttext"		"0"
 			"proportionaltoparent"	"1"
 			"auto_wide_tocontents"	"1"
 		}

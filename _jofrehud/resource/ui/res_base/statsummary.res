@@ -55,7 +55,7 @@
 	//	"labelText"		"#TF_Close"
 	//	"textAlignment"	"center"
 	//	//"dulltext"		"0"
-	//	"brighttext"	"0"
+	//	//"brighttext"	"0"
 	//	"Command"		"vguicancel"
 	}	
 //	"MapLabel"
@@ -2516,7 +2516,7 @@
 		"labelText"		"#TF_NextTip"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"nexttip"
 	}
 	"ResetStatsButton" [$WIN32]
@@ -2536,7 +2536,7 @@
 		"labelText"		"#TF_ResetStats"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"resetstatsbutton"
 	}
 

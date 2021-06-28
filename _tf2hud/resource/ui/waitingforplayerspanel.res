@@ -34,7 +34,7 @@
 		"labelText"		"#WaitingForPlayersPanel_WaitOnPlayers"
 		"textAlignment"		"Center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 
 	"WaitingForPlayersEndingLabel"
@@ -54,6 +54,6 @@
 		"labelText"		"#WaitingForPlayersPanel_WaitEnding"
 		"textAlignment"		"Center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 }

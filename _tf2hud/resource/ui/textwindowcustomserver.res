@@ -32,7 +32,7 @@
 		"labelText"		"#TF_WELCOME"
 		"textAlignment"	"west"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"font"			"ChalkboardTitle"
 		"fgcolor"		"White"
 	}	
@@ -98,7 +98,7 @@
 		"labelText"		"#TF_Continue"
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"command"		"okay"
 		"default"		"1"

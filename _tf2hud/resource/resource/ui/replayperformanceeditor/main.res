@@ -13,7 +13,7 @@
 		
 		
 		"proportional"	"1"
-		"bgcolor_override"	"0 0 0 0"
+		"bgcolor_override"	"Blank"
 		
 		"right_margin_width"	"20"
 		
@@ -618,7 +618,7 @@
 		"font"			""
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"default"		"0"
 		"Command"		"toggle_menu"
 		"sound_depressed"	"UI/buttonclick.wav"

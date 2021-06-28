@@ -92,7 +92,7 @@
 		"labelText"		"#SteamAddOn_Btn_Send"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"default"		"1"
 	}
 	"PassBtn"
@@ -111,7 +111,7 @@
 		"labelText"		"#SteamAddOn_Btn_Pass"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"default"		"0"
 	}
 	"ResignBtn"
@@ -130,7 +130,7 @@
 		"labelText"		"#SteamAddOn_Btn_Resign"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"default"		"0"
 	}
 	"SubmitBtn"
@@ -149,7 +149,7 @@
 		"labelText"		"#Go_Btn_Submit"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"default"		"0"
 	}
 	"ShowHistoryBtn"
@@ -168,7 +168,7 @@
 		"labelText"		"#SteamAddOn_Btn_ShowHistory"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"LastMoveLabel"
@@ -187,7 +187,7 @@
 		"labelText"		"Last Move made at:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"TurnLabel"
 	{
@@ -205,7 +205,7 @@
 		"labelText"		"Turn: 1"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"BlackIcon"
 	{
@@ -251,7 +251,7 @@
 		"labelText"		"PLAYER BLACK"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"WhiteName"
 	{
@@ -269,7 +269,7 @@
 		"labelText"		"PLAYER WHITE"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"BlackCaptured"
 	{
@@ -287,7 +287,7 @@
 		"labelText"		"Prisoners: 0"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"WhiteCaptured"
 	{
@@ -305,6 +305,6 @@
 		"labelText"		"Prisoners: 0"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 }

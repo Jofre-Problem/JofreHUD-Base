@@ -15,7 +15,7 @@
 				"tall"			"222"
 				//"visible"		"1"
 				"PaintBackgroundType"	"0"
-				"bgcolor_override"	"0 0 0 0"
+				"bgcolor_override"	"Blank"
 				"skip_autoresize"	"1"
 				
 				
@@ -186,7 +186,7 @@
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
 					//"dulltext"		"0"
-					"brighttext"	"0"
+					//"brighttext"	"0"
 					"command"		"viewwikipage"
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"

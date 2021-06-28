@@ -53,7 +53,7 @@
 		
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"labelText"		"#GameUI_SaveGame"
 	}
 	
@@ -73,7 +73,7 @@
 		
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"visible"		"0"
 		"labelText"		"#GameUI_NoSaveGamesToDisplay"
 	}
@@ -94,8 +94,8 @@
 		
 		"labelText"			"#GameUI_Icons_LEFTCURSOR"
 		"textAlignment"		"center"
-		"dulltext"			"0"
-		"brighttext"		"0"
+		//"dulltext"			"0"
+		//"brighttext"		"0"
 		"wrap"				"0"
 		"font"				"GameUIButtons"
 		"alpha"				"64"
@@ -116,8 +116,8 @@
 		
 		"labelText"			"#GameUI_Icons_RIGHTCURSOR"
 		"textAlignment"		"center"
-		"dulltext"			"0"
-		"brighttext"		"0"
+		//"dulltext"			"0"
+		//"brighttext"		"0"
 		"wrap"				"0"
 		"font"				"GameUIButtons"
 		"alpha"				"64"
@@ -181,8 +181,8 @@
 		
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"Default"
 		//"font_hidef"	"UiBold"
 	}
@@ -204,7 +204,7 @@
 		
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"font"			"Default"
 		//"font_hidef"	"Ui"
@@ -227,7 +227,7 @@
 		
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"font"			"Default"
 		//"font_hidef"	"Ui"
@@ -250,7 +250,7 @@
 		
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"font"			"Default"
 		//"font_hidef"	"Ui"
@@ -284,7 +284,7 @@
 		
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"labelText"		"#GameUI_Options"
 	}
 	
@@ -376,8 +376,8 @@
 		"labelText"		"#GameUI_Icons_UPCURSOR"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"GameUIButtons"
 	}
 	"DownArrow"
@@ -397,8 +397,8 @@
 		"labelText"		"#GameUI_Icons_DOWNCURSOR"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"GameUIButtons"
 	}
 	
@@ -420,8 +420,8 @@
 		
 		"textAlignment"	"west"
 		//"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"labelText"		""
 		"font"			"MenuLarge"
 	}	
@@ -444,8 +444,8 @@
 		
 		"textAlignment"	"west"
 		//"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"labelText"		""
 		"font"			"MenuLarge"
 	}	
@@ -625,7 +625,7 @@
 		"labelText"		"0%"
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 
@@ -648,7 +648,7 @@
 		"labelText"		""
 		"textAlignment"		"left"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"font"			"UiBold"				[$WIN32]
 		"font"			"HudSelectionText"	[$X360]
@@ -826,7 +826,7 @@
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 
 	"MessageLabel"
@@ -847,7 +847,7 @@
 		"textAlignment"	"center"
 		"textcolor"		"0 0 0 255"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 
 	"AnimatingPanel"
@@ -913,8 +913,8 @@
 		
 		"labelText"			"#GameUI_Icons_LEFTCURSOR"
 		"textAlignment"		"center"
-		"dulltext"			"0"
-		"brighttext"		"0"
+		//"dulltext"			"0"
+		//"brighttext"		"0"
 		"wrap"				"0"
 		"font"				"GameUIButtons"
 	}
@@ -934,8 +934,8 @@
 		
 		"labelText"			"#GameUI_Icons_RIGHTCURSOR"
 		"textAlignment"		"center"
-		"dulltext"			"0"
-		"brighttext"		"0"
+		//"dulltext"			"0"
+		//"brighttext"		"0"
 		"wrap"				"0"
 		"font"				"GameUIButtons"
 	}
@@ -956,8 +956,8 @@
 		
 		"labelText"			"#GameUI_Icons_UPCURSOR"
 		"textAlignment"		"center"
-		"dulltext"			"0"
-		"brighttext"		"0"
+		//"dulltext"			"0"
+		//"brighttext"		"0"
 		"wrap"				"0"
 		"font"				"GameUIButtons"
 	}
@@ -978,8 +978,8 @@
 		
 		"labelText"			"#GameUI_Icons_DOWNCURSOR"
 		"textAlignment"		"center"
-		"dulltext"			"0"
-		"brighttext"		"0"
+		//"dulltext"			"0"
+		//"brighttext"		"0"
 		"wrap"				"0"
 		"font"				"GameUIButtons"
 	}
@@ -1020,8 +1020,8 @@
 		
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"DefaultLarge"
 		//"font_hidef"	"MenuLarge"
 	}
@@ -1109,8 +1109,8 @@
 		
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"ChapterTitle"
 	}
 	"ChapterTitleLabel2"
@@ -1128,8 +1128,8 @@
 		
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"ChapterTitle"
 	}
 	"ControllerMap"
@@ -1268,8 +1268,8 @@
 		
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"DefaultLarge"
 		//"font_hidef"	"UiBold"
 	}
@@ -1290,8 +1290,8 @@
 		
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"UiBold"
 	}
 	
@@ -1312,7 +1312,7 @@
 		
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"font"			"DefaultLarge"
 		//"font_hidef"	"UiBold"
@@ -1347,7 +1347,7 @@
 	{
 		"ControlName"		"Frame"
 		"fieldName"			"LoadingDialog"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"0"
 		"wide"				"200"
 		//"wide_hidef"		"250"

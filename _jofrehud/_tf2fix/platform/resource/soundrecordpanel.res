@@ -31,8 +31,8 @@
 		"tabPosition"		"2"
 		"labelText"		"Ok"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Ok"
 		"Default"		"0"
@@ -52,8 +52,8 @@
 		"tabPosition"		"3"
 		"labelText"		"#FileOpenDialog_Cancel"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Cancel"
 		"Default"		"0"
@@ -73,8 +73,8 @@
 		
 		"labelText"		"Play"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Play"
 		"Default"		"0"
@@ -94,8 +94,8 @@
 		
 		"labelText"		"Record"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"ToggleRecord"
 		"Default"		"0"
@@ -115,8 +115,8 @@
 		
 		"labelText"		"Recording Into File:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"filename"
@@ -154,8 +154,8 @@
 		
 		"labelText"		"Time Recorded"
 		"textAlignment"		"east"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"RecordTime"
@@ -192,8 +192,8 @@
 		
 		"labelText"		"sec"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Divider1"

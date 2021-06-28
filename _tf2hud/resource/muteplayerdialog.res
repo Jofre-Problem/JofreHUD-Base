@@ -37,7 +37,7 @@
 		"labelText"		"#GameUI_MuteIngameVoice"
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"Mute"
 		"Default"		"1"
 	}
@@ -71,7 +71,7 @@
 		"labelText"		"#GameUI_Close"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 	}

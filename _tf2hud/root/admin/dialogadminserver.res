@@ -44,7 +44,7 @@
 		"labelText"		"#baseGames_Refresh"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"refresh"
 		"Default"		"1"
 	}
@@ -64,7 +64,7 @@
 		"labelText"		"#baseGames_AddIP"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"addip"
 		"Default"		"0"
 	}
@@ -84,7 +84,7 @@
 		"labelText"		"#baseGames_Manage"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"GameList"
@@ -116,7 +116,7 @@
 		
 		"textAlignment"		"north-west"
 		"dulltext"		"1"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"ServerContextMenu"
 	{
@@ -147,7 +147,7 @@
 		"labelText"		"#baseGames_Options"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"config"
 		"Default"		"0"
 	}
@@ -167,7 +167,7 @@
 		"labelText"		"#baseGames_Start_Local"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"launch"
 		"Default"		"0"
 	}
@@ -187,7 +187,7 @@
 		"labelText"		"#baseGames_Remove"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"remove"
 		"Default"		"0"
 	}

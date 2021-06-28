@@ -31,7 +31,7 @@
 			"labelText"		"physics"
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"0"
 		}
 		
@@ -52,7 +52,7 @@
 			"labelText"		"dynamic"
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"0"
 		}
 		
@@ -73,7 +73,7 @@
 			"labelText"		"static"
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"0"
 		}
 		
@@ -94,7 +94,7 @@
 			"labelText"		"Model is missing $staticprop entry"
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"0"
 		}
 		
@@ -114,7 +114,7 @@
 			"labelText"		"Mass"
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"0"
 		}
 		
@@ -134,7 +134,7 @@
 			"labelText"		"100"
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"0"
 		}	
 	}

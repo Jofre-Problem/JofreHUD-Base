@@ -32,7 +32,7 @@
 		"labelText"		"#vgui_ok"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Ok"
 		"Default"		"0"
@@ -53,7 +53,7 @@
 		"labelText"		"#vgui_Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Cancel"
 		"Default"		"0"
@@ -74,7 +74,7 @@
 		"labelText"		"Sound Directory:"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"SoundDirectory"
@@ -112,7 +112,7 @@
 		"labelText"		"..."
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"PickSoundDirectory"
 		"Default"		"0"
@@ -133,7 +133,7 @@
 		"labelText"		"New Sound Name:"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"SoundName"
@@ -172,7 +172,7 @@
 		"labelText"		"Rename Clips"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -249,7 +249,7 @@
 		"labelText"		"First:"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"IncrementLabel"
@@ -268,7 +268,7 @@
 		"labelText"		"Increment:"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"NumDigitsLabel"
@@ -287,7 +287,7 @@
 		"labelText"		"Num Digits:"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 }

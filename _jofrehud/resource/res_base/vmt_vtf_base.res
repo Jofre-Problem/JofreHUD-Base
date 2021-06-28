@@ -49,7 +49,7 @@
 							"labelText"		"Mod Filter"
 							"textAlignment"	"east"
 							"dulltext"		"1"
-							"brighttext"	"0"
+							//"brighttext"	"0"
 						}
 						
 						"ModFilter"
@@ -150,7 +150,7 @@
 							"labelText"		"Full Path"
 							"textAlignment"	"east"
 							"dulltext"		"1"
-							"brighttext"	"0"
+							//"brighttext"	"0"
 						}
 										
 						"FullPath"
@@ -173,7 +173,7 @@
 							"labelText"		""
 							"textAlignment"	"west"
 							"dulltext"		"1"
-							"brighttext"	"0"
+							//"brighttext"	"0"
 						}
 					
 						"FilterLabel"
@@ -194,7 +194,7 @@
 							"labelText"		"Filter"
 							"textAlignment"	"east"
 							"dulltext"		"1"
-							"brighttext"	"0"
+							//"brighttext"	"0"
 						}
 						
 						"FilterList"

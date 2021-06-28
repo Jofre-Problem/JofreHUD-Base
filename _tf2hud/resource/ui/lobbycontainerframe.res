@@ -133,7 +133,7 @@
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"default"		"0"
 		"Command"		"options"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -174,7 +174,7 @@
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"back"
 
 		"NavUp"			"PlayNowButton"
@@ -249,7 +249,7 @@
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"next"
 
 		"NavUp"			"StartPartyButton"
@@ -279,7 +279,7 @@
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"start_party"
 
 		"NavUp"			"Sheet"

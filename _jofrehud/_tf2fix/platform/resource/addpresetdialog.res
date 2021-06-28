@@ -15,8 +15,8 @@
 		
 		"labelText"		"#vgui_Cancel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Cancel"
 		"Default"		"0"
@@ -36,8 +36,8 @@
 		
 		"labelText"		"#vgui_ok"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"OK"
 		"Default"		"0"
@@ -95,8 +95,8 @@
 		
 		"labelText"		"Preset Name:"
 		"textAlignment"		"east"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"PresetGroupLabel"
@@ -114,8 +114,8 @@
 		
 		"labelText"		"Preset Group:"
 		"textAlignment"		"east"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 }

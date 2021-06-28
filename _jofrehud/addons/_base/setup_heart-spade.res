@@ -15,8 +15,8 @@
 		
 		"labelText"		"#SteamAddOn_StartGame"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"PlayerPositionLabel0"

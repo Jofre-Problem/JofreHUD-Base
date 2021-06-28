@@ -15,8 +15,8 @@
 		
 		"labelText"		"Rate:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label4"
 	{
@@ -33,7 +33,7 @@
 		
 		"labelText"		"Stop:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 	}
 }

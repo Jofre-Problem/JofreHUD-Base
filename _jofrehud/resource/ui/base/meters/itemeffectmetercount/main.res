@@ -15,8 +15,8 @@
 		
 		"labelText"				"%progresscount%"
 		"textAlignment"			"north"
-		"dulltext"				"0"
-		"brighttext"			"0"
+		//"dulltext"				"0"
+		//"brighttext"			"0"
 		"font"					"HudFontMedium"
 	}
 }

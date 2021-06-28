@@ -81,7 +81,7 @@
 		"labelText"		"#Hud_Menu_Teleport_Title"
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"fgcolor"		"0 255 0 255"
 	}
 	
@@ -102,7 +102,7 @@
 		"labelText"		"#Hud_Menu_Build_Cancel"
 		"textAlignment"	"East"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"fgcolor"		"0 255 0 255"
 	}
 	

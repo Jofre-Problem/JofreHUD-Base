@@ -72,7 +72,7 @@
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -101,7 +101,7 @@
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"render"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -118,7 +118,7 @@
 		"labelText"		"#Replay_RenderSetting"
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
-		"wrap"			"0"
+		//"wrap"			"0"
 		
 		"wide"			"54"
 		"tall"			"20"
@@ -127,7 +127,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"tabPosition"	"10"
 	}
 	
@@ -137,7 +137,7 @@
 		"fieldName"		"QualityPresetCombo"
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
-		"wrap"			"0"
+		//"wrap"			"0"
 		"xpos"			"70"
 		"ypos"			"-1"
 		"wide"			"165"
@@ -147,7 +147,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"tabPosition"	"10"
 		"fgcolor_override"	"236 227 203 255"
 		"editable"		"0"
@@ -160,7 +160,7 @@
 		"labelText"		"#Replay_PlayVoice"
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
-		"wrap"			"0"
+		//"wrap"			"0"
 		
 		
 		"zpos"			"1"
@@ -171,7 +171,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"tabPosition"	"10"
 	}
 
@@ -182,7 +182,7 @@
 		"labelText"		"#Replay_RenderAdvancedOptions"
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
-		"wrap"			"0"
+		//"wrap"			"0"
 		
 		
 		"zpos"			"1"
@@ -193,7 +193,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"tabPosition"	"10"
 	}
 
@@ -219,7 +219,7 @@
 		"labelText"		"#GameUI_Resolution"
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
-		"wrap"			"0"
+		//"wrap"			"0"
 		
 		"wide"			"54"
 		"tall"			"20"
@@ -228,7 +228,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"tabPosition"	"10"
 	}
 	
@@ -238,7 +238,7 @@
 		"fieldName"		"VideoModeCombo"
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
-		"wrap"			"0"
+		//"wrap"			"0"
 		"xpos"			"70"
 		"ypos"			"-1"
 		"wide"			"165"
@@ -248,7 +248,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"tabPosition"	"10"
 		"fgcolor_override"	"236 227 203 255"
 		"editable"		"0"
@@ -261,7 +261,7 @@
 		"labelText"		"#Replay_Codec"
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
-		"wrap"			"0"
+		//"wrap"			"0"
 		
 		"wide"			"54"
 		"tall"			"20"
@@ -270,7 +270,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"tabPosition"	"10"
 	}
 	
@@ -280,7 +280,7 @@
 		"fieldName"		"CodecCombo"
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
-		"wrap"			"0"
+		//"wrap"			"0"
 		"xpos"			"70"
 		"ypos"			"-1"
 		"wide"			"165"
@@ -290,7 +290,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"tabPosition"	"10"
 		"fgcolor_override"	"236 227 203 255"
 		"editable"		"0"
@@ -303,7 +303,7 @@
 		"labelText"		"#Replay_MotionBlur"
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
-		"wrap"			"0"
+		//"wrap"			"0"
 		
 		"wide"			"80"
 		"tall"			"20"
@@ -312,7 +312,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"tabPosition"	"10"
 	}
 	
@@ -340,7 +340,7 @@
 		"labelText"		"#Replay_Quality"
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
-		"wrap"			"0"
+		//"wrap"			"0"
 		
 		"wide"			"60"
 		"tall"			"20"
@@ -349,7 +349,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"tabPosition"	"10"
 	}
 	
@@ -377,7 +377,7 @@
 		"labelText"		"#Replay_MotionBlur_Enabled"
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
-		"wrap"			"0"
+		//"wrap"			"0"
 		
 		
 		"zpos"			"1"
@@ -388,7 +388,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"tabPosition"	"10"
 	}
 
@@ -399,7 +399,7 @@
 		"labelText"		""
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
-		"wrap"			"0"
+		//"wrap"			"0"
 		
 		"wide"			"170"
 		"tall"			"8"
@@ -408,7 +408,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"tabPosition"	"10"
 	}
 	"EstimateFileLabel"
@@ -418,7 +418,7 @@
 		"labelText"		""
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
-		"wrap"			"0"
+		//"wrap"			"0"
 		
 		"wide"			"170"
 		"tall"			"8"
@@ -427,7 +427,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"tabPosition"	"10"
 	}
 	
@@ -458,7 +458,7 @@
 		"textHidden"	"0"
 		"textAlignment"	"west"
 		"unicode"		"0"
-		"wrap"			"0"
+		//"wrap"			"0"
 		
 		
 		"zpos"			"50"
@@ -500,7 +500,7 @@
 		"labelText"		"#Replay_QuitWhenDone"
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
-		"wrap"			"0"
+		//"wrap"			"0"
 		
 		
 		"zpos"			"1"
@@ -511,7 +511,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"tabPosition"	"10"
 	}
 	
@@ -522,7 +522,7 @@
 		"labelText"		"#Replay_ExportRaw"
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
-		"wrap"			"0"
+		//"wrap"			"0"
 		
 		
 		"zpos"			"1"
@@ -533,7 +533,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"tabPosition"	"10"
 	}
 	
@@ -544,7 +544,7 @@
 		"labelText"		"#Replay_Glow_Enabled"
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
-		"wrap"			"0"
+		//"wrap"			"0"
 		
 		
 		"zpos"			"1"
@@ -555,7 +555,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"tabPosition"	"10"
 	}	
 	

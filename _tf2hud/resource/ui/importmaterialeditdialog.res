@@ -74,12 +74,12 @@
 		"labelText"		""
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"EditSkin0"
 		"Default"		"0"
 		"font"		"HudFontSmallBold"
-		"defaultBgColor_override"	"0 0 0 0"
+		"defaultBgColor_override"	"Blank"
 		"armedBgColor_override"		"0 0 0 0"
 	}
 
@@ -99,12 +99,12 @@
 		"labelText"		""
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"EditSkin1"
 		"Default"		"0"
 		"font"		"HudFontSmallBold"
-		"defaultBgColor_override"	"0 0 0 0"
+		"defaultBgColor_override"	"Blank"
 		"armedBgColor_override"		"0 0 0 0"
 	}
 
@@ -347,7 +347,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"command"		"UpdateBaseMapAlphaPhongMask"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -635,7 +635,7 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"command"		"UpdateRimMask"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -670,7 +670,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"command"		"UpdateHalfLambert"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -706,7 +706,7 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"command"		"UpdateBlendTintByBaseAlpha"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -867,7 +867,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"command"		"UpdateAdditive"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -902,7 +902,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"command"		"UpdateTranslucent"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -938,7 +938,7 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"command"		"UpdateAlphaTest"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -1120,7 +1120,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"command"		"UpdateSelfIllum"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -1328,7 +1328,7 @@
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Done"
 		"Default"		"0"
@@ -1351,7 +1351,7 @@
 		"labelText"		"#Cancel"
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"

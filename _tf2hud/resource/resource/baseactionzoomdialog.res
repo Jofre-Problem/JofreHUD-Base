@@ -143,7 +143,7 @@
 		"labelText"		"0"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"FrameButton"
@@ -162,7 +162,7 @@
 		"labelText"		"1"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"MinimiseToSysTray"
@@ -181,7 +181,7 @@
 		"labelText"		"o"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"MinimizeToSysTray"
 		"Default"		"0"
 	}
@@ -201,7 +201,7 @@
 		"labelText"		"r"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"MenuButton"
@@ -219,7 +219,7 @@
 		
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"OK"
@@ -238,7 +238,7 @@
 		"labelText"		"OK"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"1"
 		"command"		"OK"
 	}
@@ -258,7 +258,7 @@
 		"labelText"		"Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 		"command"		"Cancel"
 	}
@@ -404,7 +404,7 @@
 		"labelText"		"Spline"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"ZoomStayout"
@@ -423,7 +423,7 @@
 		"labelText"		"Stay Out"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"Label1"
@@ -442,7 +442,7 @@
 		"labelText"		"Name:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label2"
 	{
@@ -460,7 +460,7 @@
 		"labelText"		"Start on:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label3"
 	{
@@ -478,7 +478,7 @@
 		"labelText"		"Final FOV:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label4"
 	{
@@ -496,7 +496,7 @@
 		"labelText"		"Zoom In Time"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label5"
 	{
@@ -514,7 +514,7 @@
 		"labelText"		"Zoom Out Time"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label6"
 	{
@@ -532,6 +532,6 @@
 		"labelText"		"Hold Time:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 }

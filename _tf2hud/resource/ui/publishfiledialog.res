@@ -81,7 +81,7 @@
 		"labelText"		"#TF_PublishFile_Title"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"font"		"HudFontMediumBold"
 	}
@@ -102,7 +102,7 @@
 		"labelText"		"#TF_PublishFile_Preview"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
@@ -139,7 +139,7 @@
 			"labelText"		"#TF_PublishFile_PreviewDesc"
 			"textAlignment"		"center"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"wrap"		"1"
 			"font"		"HudFontSmallest"
 		}
@@ -172,7 +172,7 @@
 		"labelText"		"#TF_PublishFile_Browse"
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"PreviewBrowse"
 		"Default"		"1"
@@ -195,7 +195,7 @@
 		"labelText"		"#TF_PublishFile_TitleLabel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
@@ -240,7 +240,7 @@
 		"labelText"		"#TF_PublishFile_DescLabel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
@@ -284,7 +284,7 @@
 		"labelText"		"#TF_PublishFile_FileLabel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
@@ -327,7 +327,7 @@
 		"labelText"		"#TF_PublishFile_Cosmetics"
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"MainFileCosmetics"
 		"Default"		"1"
@@ -363,7 +363,7 @@
 		"labelText"		"#TF_PublishFile_Other"
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"MainFileOther"
 		"Default"		"1"
@@ -386,7 +386,7 @@
 		"labelText"		"#TF_PublishFile_Maps"
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"MainFileMaps"
 		"Default"		"1"
@@ -422,7 +422,7 @@
 		"labelText"		"#TF_PublishFile_BrowseDesc"
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"wrap"		"1"
 		"font"		"HudFontSmallest"
 		"fgcolor_override"	"TanDark"
@@ -444,7 +444,7 @@
 		"labelText"		"#TF_PublishFile_Tags"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
@@ -477,7 +477,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox2"
@@ -497,7 +497,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox3"
@@ -517,7 +517,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox4"
@@ -537,7 +537,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox5"
@@ -557,7 +557,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox6"
@@ -577,7 +577,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox7"
@@ -597,7 +597,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox8"
@@ -617,7 +617,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox9"
@@ -637,7 +637,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}	
 
@@ -658,7 +658,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"TagCheckbox_Weapon"
@@ -678,7 +678,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"TagCheckbox_Misc"
@@ -698,7 +698,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"TagCheckbox_SoundDevice"
@@ -718,7 +718,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"TagCheckbox_Halloween"
@@ -738,7 +738,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"TagCheckbox_Smissmas"
@@ -758,7 +758,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}		
 		"TagCheckbox_Taunt"
@@ -778,7 +778,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"TagCheckbox_UnusualEffect"
@@ -798,7 +798,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"TagCheckbox_WarPaint"
@@ -818,7 +818,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}		
 		"TagCheckbox_Jungle"
@@ -838,7 +838,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 
@@ -859,7 +859,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_CP"
@@ -879,7 +879,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_Escort"
@@ -899,7 +899,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_EscortRace"
@@ -919,7 +919,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_RobotDestruction"
@@ -939,7 +939,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_Koth"
@@ -959,7 +959,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_AttackDefense"
@@ -979,7 +979,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_SD"
@@ -999,7 +999,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_MVM"
@@ -1019,7 +1019,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_Arena"
@@ -1039,7 +1039,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_Powerup"
@@ -1059,7 +1059,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_Medieval"
@@ -1079,7 +1079,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_PassTime"
@@ -1099,7 +1099,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_Specialty"
@@ -1119,7 +1119,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_Halloween"
@@ -1139,7 +1139,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckbox_Smissmas"
@@ -1159,7 +1159,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckbox_Night"
@@ -1179,7 +1179,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckbox_Jungle"
@@ -1199,7 +1199,7 @@
 			////"visible"		"1"
 			
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 	}
@@ -1220,7 +1220,7 @@
 		"labelText"		"#Cancel"
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
@@ -1243,7 +1243,7 @@
 		"labelText"		"#TF_PublishFile_Publish"
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Publish"
 		"Default"		"1"

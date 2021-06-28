@@ -65,7 +65,7 @@
 		"labelText"		"#Hud_Menu_Teleport_Title"
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 	
 	"TitleLabelDropshadow"
@@ -86,7 +86,7 @@
 		"labelText"		"#Hud_Menu_Teleport_Title"
 		"textAlignment"	"Left"
 		"dulltext"		"1"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 		
 	"available_target_1"

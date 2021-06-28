@@ -49,8 +49,8 @@
 		"tabPosition"		"3"
 		"labelText"			"#GameUI_ReportPlayer"
 		"textAlignment"		"west"
-		"dulltext"			"0"
-		"brighttext"		"0"
+		//"dulltext"			"0"
+		//"brighttext"		"0"
 		"Command"		"Report"
 		"Default"		"1"
 	}
@@ -90,7 +90,7 @@
 		"labelText"		"#GameUI_Close"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 	}

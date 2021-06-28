@@ -68,8 +68,8 @@
 		"tall"		"24"
 		
 		"labelText"		"Name:"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label2"
 	{
@@ -86,7 +86,7 @@
 		
 		"labelText"		"Start on:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 	}	
 }

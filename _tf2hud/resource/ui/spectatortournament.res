@@ -48,7 +48,7 @@
 					
 				if_mvm
 				{
-					"xpos"				"0"
+					//"xpos"				"0"
 					"ypos"				"25"
 					"wide"				"55"
 					"textAlignment"		"center"
@@ -420,7 +420,7 @@
 			"labelText"		"#FreezePanel_Item"
 			"textAlignment"	"Left"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 		}
 		
 		"attriblabel"

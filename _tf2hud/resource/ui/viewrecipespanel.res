@@ -38,7 +38,7 @@
 			"centerwrap"	"1"
 			
 			"defaultFgColor_override" "117 107 94 255"
-			"defaultBgColor_override" "0 0 0 0"
+			"defaultBgColor_override" "Blank"
 			"armedFgColor_override" "235 226 202 255"
 			"armedBgColor_override" "0 0 0 0"
 			"depressedFgColor_override" "178 82 22 255"
@@ -77,12 +77,12 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"centerwrap"	"1"
 		"labelText"		"#CraftRecipe"
 		"textAlignment"		"center"
 		"fgcolor_override" "200 80 60 255"
-		"bgcolor_override" "0 0 0 0"
+		"bgcolor_override" "Blank"
 	}
 	
 	"TopLine"
@@ -139,8 +139,8 @@
 			
 			////"visible"		"1"
 			
-			"wrap"			"0"
-			"centerwrap"	"0"
+			//"wrap"			"0"
+			//"centerwrap"	"0"
 			"labelText"		""
 			"textAlignment"		"center"
 			"bgcolor_override" "0 0 0 255"
@@ -225,7 +225,7 @@
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"ok"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

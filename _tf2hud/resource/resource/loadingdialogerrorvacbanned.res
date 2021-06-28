@@ -30,7 +30,7 @@
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"Cancel"
 		"Default"		"0"
 	}
@@ -51,7 +51,7 @@
 		"labelText"		"#VAC_ConnectionRefusedDetail"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"VACImage"
 	{

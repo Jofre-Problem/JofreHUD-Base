@@ -60,7 +60,7 @@ Scheme
 	BaseSettings
 	{
 		Panel.FgColor		"48 192 192 255"
-		Panel.BgColor		"0 0 0 0"			//Important! - makes the panels transparent
+		Panel.BgColor		"Blank"			//Important! - makes the panels transparent
 
 		"FgColor"			"ControlText"
 		"BgColor"			"ControlBG"

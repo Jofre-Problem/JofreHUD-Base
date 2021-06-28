@@ -65,9 +65,9 @@
 
 		"textAlignment"		"north-west"
 
-		"dulltext"		"0"
+		//"dulltext"		"0"
 
-		"brighttext"		"0"
+		//"brighttext"		"0"
 
 		"wrap"		"1"
 

@@ -80,7 +80,7 @@
 		"labelText"		""		[$X360]
 		"textAlignment"	"south-west"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"paintborder"	"0"
 		"command"		"jointeam spectate"
 		"associated_model"	"autodoor"
@@ -106,7 +106,7 @@
 		"labelText"		""		[$X360]
 		"textAlignment"	"south-west"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"paintborder"	"0"
 		"command"		"jointeam spectatearena"
 		"associated_model"	"spectate"	
@@ -134,7 +134,7 @@
 		"labelText"		"#TF_Cancel"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"command"		"cancelmenu"
 		"font"			"MenuSmallFont"
 	}
@@ -161,8 +161,8 @@
 		"labelText"		"#TF_Arena_Menu_Fight"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"MenuSmallFont"
 		"fgcolor"		"black"
 	}
@@ -187,8 +187,8 @@
 		"labelText"		"#TF_Spectate"
 		"textAlignment"	"north"
 		//"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"MenuSmallestFont"
 		//"font_lodef"	"MenuSmallFont"
 		"fgcolor"		"white"

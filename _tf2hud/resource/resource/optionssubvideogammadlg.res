@@ -48,7 +48,7 @@
 		"labelText"		"#GameUI_Gamma"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"GammaEntry"
@@ -86,7 +86,7 @@
 		"labelText"		"#vgui_ok"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"1"
 	}
@@ -123,7 +123,7 @@
 		"labelText"		"#vgui_Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
@@ -144,7 +144,7 @@
 		"labelText"		"#GameUI_GammaInfo"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"wrap"		"1"
 	}
 }

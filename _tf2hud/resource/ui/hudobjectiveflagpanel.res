@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusFlagPanel"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"1"
 		"wide"				"f0"
@@ -322,7 +322,7 @@
 		"labelText"		"#TF_PlayingTo"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"font"			"HudFontSmall"
 		"fgcolor"		"TanLight"
 		

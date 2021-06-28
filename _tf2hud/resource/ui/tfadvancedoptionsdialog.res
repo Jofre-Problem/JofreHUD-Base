@@ -61,7 +61,7 @@
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"default"		"1"
 		"Command"		"Close"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -85,7 +85,7 @@
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"default"		"1"
 		"Command"		"Ok"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -105,7 +105,7 @@
 		////"visible"		"1"
 		
 		
-		"bgcolor_override"	"0 0 0 0"
+		"bgcolor_override"	"Blank"
 	}
 	
 	"TooltipPanel"

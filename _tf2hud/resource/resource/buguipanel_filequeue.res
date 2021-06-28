@@ -158,7 +158,7 @@
 		"labelText"		"0"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -178,7 +178,7 @@
 		"labelText"		"1"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -198,7 +198,7 @@
 		"labelText"		"o"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"MinimizeToSysTray"
 		"Default"		"0"
@@ -219,7 +219,7 @@
 		"labelText"		"r"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -238,7 +238,7 @@
 		
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -314,7 +314,7 @@
 		
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugScreenShotURL"
@@ -333,7 +333,7 @@
 		"labelText"		"Shot URL"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugSaveGameURL"
@@ -352,7 +352,7 @@
 		"labelText"		".sav File"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugBSPURL"
@@ -371,7 +371,7 @@
 		"labelText"		".bsp file"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugVMFURL"
@@ -390,7 +390,7 @@
 		"labelText"		".vmf file"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugIncludedFiles"
@@ -428,7 +428,7 @@
 		"labelText"		"Take shot"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"snapshot"
 		"Default"		"0"
@@ -449,7 +449,7 @@
 		"labelText"		"Save game"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"savegame"
 		"Default"		"0"
@@ -470,7 +470,7 @@
 		"labelText"		"Include .bsp"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"savebsp"
 		"Default"		"0"
@@ -491,7 +491,7 @@
 		"labelText"		".vmf"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"font"		"DefaultVerySmall"
 		//"wrap"		"0"
 		"Command"		"savevmf"
@@ -513,7 +513,7 @@
 		"labelText"		"Folder..."
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"font"		"DefaultVerySmall"
 		//"wrap"		"0"
 		"Default"		"0"
@@ -534,7 +534,7 @@
 		"labelText"		"Include file..."
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"addfile"
 		"Default"		"0"
@@ -555,7 +555,7 @@
 		"labelText"		"Clear files"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"clearfiles"
 		"Default"		"0"
@@ -575,7 +575,7 @@
 		
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugOrientation"
@@ -593,7 +593,7 @@
 		
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugLevel"
@@ -611,7 +611,7 @@
 		
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugBuild"
@@ -629,7 +629,7 @@
 		
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugSubmitter"
@@ -647,7 +647,7 @@
 		
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugOwner"
@@ -782,7 +782,7 @@
 		"labelText"		"Submit"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"submit"
 		"Default"		"0"
@@ -803,7 +803,7 @@
 		"labelText"		"Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"cancel"
 		"Default"		"1"
@@ -824,7 +824,7 @@
 		"labelText"		"Clear Form"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"clearform"
 		"Default"		"0"
@@ -845,7 +845,7 @@
 		"labelText"		"Title:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label2"
@@ -864,7 +864,7 @@
 		"labelText"		"Description:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label3"
@@ -883,7 +883,7 @@
 		"labelText"		"Position:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label5"
@@ -902,7 +902,7 @@
 		"labelText"		"Map:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label6"
@@ -921,7 +921,7 @@
 		"labelText"		"Build:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label7"
@@ -940,7 +940,7 @@
 		"labelText"		"Submitter:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label8"
@@ -959,7 +959,7 @@
 		"labelText"		"Owner:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label9"
@@ -978,7 +978,7 @@
 		"labelText"		"Severity:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label10"
@@ -997,7 +997,7 @@
 		"labelText"		"Report Type:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label11"
@@ -1016,7 +1016,7 @@
 		"labelText"		"Priority:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label12"
@@ -1035,7 +1035,7 @@
 		"labelText"		"Product:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label4"
@@ -1054,7 +1054,7 @@
 		"labelText"		"Orientation:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label13"
@@ -1073,7 +1073,7 @@
 		"labelText"		"Component:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BuildModeDialog"

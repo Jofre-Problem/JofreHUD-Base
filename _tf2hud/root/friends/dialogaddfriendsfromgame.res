@@ -58,7 +58,7 @@
 		"labelText"		"#TrackerUI_AddFriendsButton"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"AddFriends"
 		"Default"		"1"
 	}
@@ -78,7 +78,7 @@
 		"labelText"		"#TrackerUI_AddFriendsInfo"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Button2"
 	{
@@ -96,7 +96,7 @@
 		"labelText"		"#TrackerUI_Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 	}

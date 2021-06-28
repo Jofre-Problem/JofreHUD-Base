@@ -366,7 +366,7 @@
 					"disabledBgColor_override" "0 0 0 255"
 					"selectionColor_override" "0 0 0 255"
 					"selectionTextColor_override" "235 226 202 255"
-					"defaultSelectionBG2Color_override" "0 0 0 0"
+					"defaultSelectionBG2Color_override" "Blank"
 				}
 
 			}
@@ -477,7 +477,7 @@
 					"disabledBgColor_override" "0 0 0 255"
 					"selectionColor_override" "0 0 0 255"
 					"selectionTextColor_override" "235 226 202 255"
-					"defaultSelectionBG2Color_override" "0 0 0 0"
+					"defaultSelectionBG2Color_override" "Blank"
 				}
 
 				"PainterlyOptions"
@@ -606,7 +606,7 @@
 						"disabledBgColor_override" "0 0 0 255"
 						"selectionColor_override" "0 0 0 255"
 						"selectionTextColor_override" "235 226 202 255"
-						"defaultSelectionBG2Color_override" "0 0 0 0"
+						"defaultSelectionBG2Color_override" "Blank"
 					}
 				}
 			}

@@ -32,7 +32,7 @@
 		"labelText"		"Export"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"command"		"Layoff"
 		"Default"		"0"
@@ -54,7 +54,7 @@
 		"labelText"		"Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"command"		"cancel"
 		"Default"		"0"
@@ -76,7 +76,7 @@
 		"labelText"		"Choose File"
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"command"		"ChooseFile"
 		"Default"		"0"
@@ -98,7 +98,7 @@
 		"labelText"		"Progressive Refinement Settings..."
 		"textAlignment"		"center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"command"		"ProgressiveRefinementSettings"
 		"Default"		"0"
@@ -215,7 +215,7 @@
 		"labelText"		"Time"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"OutputWidth"
@@ -291,7 +291,7 @@
 		"labelText"		"Clear Decals"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -311,7 +311,7 @@
 		"labelText"		"Draw Game Entities:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"DrawPlayers"
@@ -330,7 +330,7 @@
 		"labelText"		"Draw Players"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -350,7 +350,7 @@
 		"labelText"		"Draw NPCs"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -370,7 +370,7 @@
 		"labelText"		"Draw Other Entities"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -390,7 +390,7 @@
 		"labelText"		"Draw Ropes"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"1"
 	}
@@ -410,7 +410,7 @@
 		"labelText"		"Draw Beams"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"1"
 	}
@@ -430,7 +430,7 @@
 		"labelText"		"Draw Particle Systems"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"1"
 	}
@@ -450,7 +450,7 @@
 		"labelText"		"Draw Recorded Elements:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"DrawPuppets"
@@ -469,7 +469,7 @@
 		"labelText"		"Draw Puppets"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"1"
 	}
@@ -489,7 +489,7 @@
 		"labelText"		"Draw Effects"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"1"
 	}
@@ -509,7 +509,7 @@
 		"labelText"		"Draw Particle Systems"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"1"
 	}
@@ -529,7 +529,7 @@
 		"labelText"		"Width"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"HeightLabel"
@@ -548,7 +548,7 @@
 		"labelText"		"Height"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"DPILabel"
@@ -567,7 +567,7 @@
 		"labelText"		"dpi"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"LabelOutputFile"
@@ -586,7 +586,7 @@
 		"labelText"		"Output File:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 }

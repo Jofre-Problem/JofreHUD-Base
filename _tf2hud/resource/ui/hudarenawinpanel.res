@@ -199,7 +199,7 @@
 			"labelText"		"%arenastreaktext%"
 			"textAlignment"		"Center"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 	}
 
@@ -233,7 +233,7 @@
 		"labelText"		"%WinningTeamLabel%"
 		"textAlignment"		"Center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"WinningTeamLabelDropshadow"
 	{	
@@ -253,7 +253,7 @@
 		"labelText"		"%WinningTeamLabel%"
 		"textAlignment"		"Center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 
 	"LosingTeamLabel"
@@ -273,7 +273,7 @@
 		"labelText"		"%LosingTeamLabel%"
 		"textAlignment"		"Center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"LosingTeamLabelDropshadow"
 	{	
@@ -293,7 +293,7 @@
 		"labelText"		"%LosingTeamLabel%"
 		"textAlignment"		"Center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"WinReasonLabel"
 	{	
@@ -312,7 +312,7 @@
 		"labelText"		"%WinReasonLabel%"
 		"textAlignment"		"Center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"DetailsLabel"
 	{	
@@ -331,7 +331,7 @@
 		"labelText"		"%DetailsLabel%"
 		"textAlignment"		"Center"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"ShadedBar"
 	{
@@ -368,7 +368,7 @@
 		"labelText"		"%TopPlayersLabel%"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"DamageThisRoundLabel"
 	{	
@@ -387,7 +387,7 @@
 		"labelText"		"#TF_Arena_Winpanel_DamageThisRound"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"HealingThisRoundLabel"
 	{	
@@ -406,7 +406,7 @@
 		"labelText"		"#TF_Arena_Winpanel_HealingThisRound"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"LifetimeThisRoundLabel"
 	{	
@@ -425,7 +425,7 @@
 		"labelText"		"#TF_Arena_Winpanel_TimeAliveThisRound"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"KillingBlowsThisRoundLabel"
 	{	
@@ -444,7 +444,7 @@
 		"labelText"		"#TF_Arena_Winpanel_KillingBlows"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"HorizontalLine"
 	{
@@ -504,7 +504,7 @@
 			"labelText"		""
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player1Class"
 		{	
@@ -521,7 +521,7 @@
 			"labelText"		""
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player1Damage"
 		{	
@@ -538,7 +538,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player1Healing"
 		{	
@@ -555,7 +555,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player1Lifetime"
 		{	
@@ -572,7 +572,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player1Kills"
 		{	
@@ -589,7 +589,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player2Avatar"	
 		{
@@ -620,7 +620,7 @@
 			"labelText"		""
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player2Class"
 		{	
@@ -637,7 +637,7 @@
 			"labelText"		""
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player2Damage"
 		{	
@@ -654,7 +654,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player2Healing"
 		{	
@@ -671,7 +671,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player2Lifetime"
 		{	
@@ -688,7 +688,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player2Kills"
 		{	
@@ -705,7 +705,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player3Avatar"
 		{
@@ -736,7 +736,7 @@
 			"labelText"		""
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player3Class"
 		{	
@@ -753,7 +753,7 @@
 			"labelText"		""
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player3Damage"
 		{	
@@ -770,7 +770,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player3Healing"
 		{	
@@ -787,7 +787,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player3Lifetime"
 		{	
@@ -804,7 +804,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player3Kills"
 		{	
@@ -821,7 +821,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 	}
 	"ArenaWinPanelLosersPanel"
@@ -864,7 +864,7 @@
 			"labelText"		""
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player1Class"
 		{	
@@ -881,7 +881,7 @@
 			"labelText"		""
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player1Damage"
 		{	
@@ -898,7 +898,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player1Healing"
 		{	
@@ -915,7 +915,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player1Lifetime"
 		{	
@@ -932,7 +932,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player1Kills"
 		{	
@@ -949,7 +949,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player2Avatar"	
 		{
@@ -980,7 +980,7 @@
 			"labelText"		""
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player2Class"
 		{	
@@ -997,7 +997,7 @@
 			"labelText"		""
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player2Damage"
 		{	
@@ -1014,7 +1014,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player2Healing"
 		{	
@@ -1031,7 +1031,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player2Lifetime"
 		{	
@@ -1048,7 +1048,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player2Kills"
 		{	
@@ -1065,7 +1065,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player3Avatar"
 		{
@@ -1096,7 +1096,7 @@
 			"labelText"		""
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player3Class"
 		{	
@@ -1113,7 +1113,7 @@
 			"labelText"		""
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player3Damage"
 		{	
@@ -1130,7 +1130,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player3Healing"
 		{	
@@ -1147,7 +1147,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player3Lifetime"
 		{	
@@ -1164,7 +1164,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 		"Player3Kills"
 		{	
@@ -1181,7 +1181,7 @@
 			"labelText"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 		}
 	}
 }

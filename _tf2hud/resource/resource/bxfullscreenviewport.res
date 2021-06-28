@@ -78,7 +78,7 @@
 		"labelText"		"Active Clip:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"ActiveClip"
@@ -97,7 +97,7 @@
 		"labelText"		"???"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"ActiveCameraButton"
@@ -116,7 +116,7 @@
 		"labelText"		"Active Camera:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"ToggleWorkCamera"
 		"Default"		"1"
@@ -138,7 +138,7 @@
 		"labelText"		"???"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Clip Slider"

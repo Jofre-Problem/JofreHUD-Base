@@ -30,11 +30,11 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
-		"centerwrap"	"0"
+		//"wrap"			"0"
+		//"centerwrap"	"0"
 		"labelText"		""
 		"textAlignment"		"center"
-		"bgcolor_override" "0 0 0 0"
+		"bgcolor_override" "Blank"
 	}
 
 	"CenterPositioner2"
@@ -51,11 +51,11 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
-		"centerwrap"	"0"
+		//"wrap"			"0"
+		//"centerwrap"	"0"
 		"labelText"		""
 		"textAlignment"		"center"
-		"bgcolor_override" "0 0 0 0"
+		"bgcolor_override" "Blank"
 	}
 
 	"CenterPositioner3"
@@ -72,11 +72,11 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
-		"centerwrap"	"0"
+		//"wrap"			"0"
+		//"centerwrap"	"0"
 		"labelText"		""
 		"textAlignment"		"center"
-		"bgcolor_override" "0 0 0 0"
+		"bgcolor_override" "Blank"
 	}
 	
 	"TitleLabel"
@@ -93,12 +93,12 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"centerwrap"	"1"
 		"labelText"		"%updatetext%"
 		"textAlignment"		"center"
 		"fgcolor_override" "200 80 60 255"
-		"bgcolor_override" "0 0 0 0"
+		"bgcolor_override" "Blank"
 		"auto_wide_tocontents" "1"
 		
 		"pin_to_sibling"               "CenterPositioner"
@@ -143,7 +143,7 @@
 		"labelText"		"%duration%"
 		"textAlignment"		"center"
 		"fgcolor_override" "200 80 60 255"
-		"bgcolor_override" "0 0 0 0"
+		"bgcolor_override" "Blank"
 		"pin_to_sibling"               "CenterPositioner3"
         "pin_corner_to_sibling"        "4"
         "pin_to_sibling_corner"        "4"  
@@ -167,7 +167,7 @@
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"default"		"1"
 		"Command"		"user_close"
 		"sound_depressed"	"UI/buttonclick.wav"

@@ -43,8 +43,8 @@
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		//"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"back"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_Back"
@@ -89,8 +89,8 @@
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		//"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"start_search"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_StartSearch"
@@ -138,8 +138,8 @@
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		//"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"start_search"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_StartSearch"
@@ -170,8 +170,8 @@
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		//"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"select_tour"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_MvM_SelectChallenge"

@@ -58,7 +58,7 @@
 	{
 		"fieldName"		"HudItemEffectMeter"
 		////"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"xpos"			"r162"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
@@ -75,7 +75,7 @@
 	{
 		"fieldName"		"HudMedicCharge"
 		////"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"xpos"			"r138"	[$WIN32]
 		"xpos_minmode"	"r100"	[$WIN32]
 		"ypos"			"r69"	[$WIN32]
@@ -90,7 +90,7 @@
 	{
 		"fieldName"		"HudDemomanCharge"
 		////"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r21"	[$WIN32]
@@ -109,7 +109,7 @@
 	{
 		"fieldName"		"HudBowCharge"
 		////"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r21"	[$WIN32]
@@ -128,7 +128,7 @@
 	{
 		"fieldName"		"HudFlameRocketCharge"
 		////"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r21"	[$WIN32]
@@ -147,7 +147,7 @@
 	{
 		"fieldName"		"HudBossHealth"
 		////"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"xpos"			"c-100"
 		"ypos"			"42"
 					// draw in front of ammo
@@ -958,7 +958,7 @@
 	{
 		"fieldName"		"HudUpgradePanel"
 		"visible"		"0"
-		"enable"		"1"
+		//"enabled"		"1"	
 		"xpos"			"c-200"
 		"ypos"			"260"
 		"wide"			"400"
@@ -1034,7 +1034,7 @@
 	{
 		"fieldName"		"HudDemomanPipes"
 		////"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"xpos"			"r162"	[$WIN32]
 		"xpos_minmode"	"r110"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
@@ -1235,7 +1235,7 @@
 		"wide"			"280"
 		"tall"			"280"
 		////"visible"		"1"
-		"enabled"		"1"	
+		//"enabled"		"1"	
 	}
 	
 	HudTrainingInfoMsg
@@ -1295,14 +1295,14 @@
 	{
 		"fieldName"		"ReplayReminder"
 		"visible"		"0"
-		"enable"		"1"
+		//"enabled"		"1"	
 	}
 	
 	MainMenuAdditions
 	{
 		"fieldName"		"MainMenuAdditions"
 		////"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"xpos"			"c0"
 		"ypos"			"310"
 		
@@ -1314,7 +1314,7 @@
 	{
 		"fieldName"		"CoachedByPanel"
 		"visible"		"0"
-		"enable"		"1"
+		//"enabled"		"1"	
 		"xpos"			"5"
 		"ypos"			"10"
 		"wide"			"250"
@@ -1325,7 +1325,7 @@
 	{
 		"fieldName"		"ItemTestHUDPanel"
 		"visible"		"0"
-		"enable"		"1"
+		//"enabled"		"1"	
 		"xpos"			"5"
 		"ypos"			"10"
 		"wide"			"150"
@@ -1336,7 +1336,7 @@
 	{
 		"fieldName"		"NotificationQueuePanel"
 		"visible"		"0"
-		"enable"		"1"
+		//"enabled"		"1"	
 		"xpos"			"r155"
 		"ypos"			"r90"
 		"zpos"			"100"
@@ -1352,8 +1352,8 @@
 		"wide"			"640"
 		"tall"			"480"
 		////"visible"		"1"
-		"enabled"		"1"
-		"bgcolor_override"	"0 0 0 0"
+		//"enabled"		"1"
+		"bgcolor_override"	"Blank"
 		"PaintBackgroundType"	"0" // rounded corners
 	}
 
@@ -1361,7 +1361,8 @@
 	{
 		"fieldName"		"HudAlert"
 		"visible"		"0"
-		"enable"		"1"
+		//"enabled"		"1"
+		// might fix something
 		"xpos"			"c-160"
 		"ypos"			"100"
 		"wide"			"320"
@@ -1377,8 +1378,8 @@
 		"wide"			"640"
 		"tall"			"480"
 		////"visible"		"1"
-		"enabled"		"1"
-		"bgcolor_override"	"0 0 0 0"
+		//"enabled"		"1"
+		"bgcolor_override"	"Blank"
 		"PaintBackgroundType"	"0" // rounded corners
 	}
 

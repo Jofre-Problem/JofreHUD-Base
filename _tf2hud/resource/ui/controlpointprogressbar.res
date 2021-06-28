@@ -97,7 +97,7 @@
 		
 		"labelText"		"progress"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"centerwrap"	"1"
 	}
 

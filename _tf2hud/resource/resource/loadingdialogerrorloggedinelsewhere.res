@@ -62,7 +62,7 @@
 		"labelText"		"#GameUI_RefreshLogin_Login"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Login"
 		"Default"		"0"
@@ -82,7 +82,7 @@
 		
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"InfoLabel"
@@ -101,7 +101,7 @@
 		"labelText"		"#VAC_LoggedInElsewhereReason"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"wrap"		"1"
 	}
 	"BannerAd"

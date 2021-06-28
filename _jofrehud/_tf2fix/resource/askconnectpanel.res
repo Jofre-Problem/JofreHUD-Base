@@ -35,9 +35,9 @@
 		
 		"labelText"		"..."
 		"textAlignment"	"west"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		//"dulltext"		"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 	}
 	"HostNameLabel"
 	{
@@ -55,9 +55,9 @@
 		
 		"labelText"		""
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"1"
-		"wrap"			"0"
+		//"wrap"			"0"
 	}
 	"AcceptLabel"
 	{
@@ -75,8 +75,8 @@
 		
 		"labelText"		""
 		"textAlignment"	"west"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		//"dulltext"		"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 	}
 }

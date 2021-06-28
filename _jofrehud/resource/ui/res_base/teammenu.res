@@ -45,7 +45,7 @@
 		"labelText"		""		[$X360]
 		"textAlignment"	"south-west"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"paintborder"	"0"
 		"command"		"jointeam blue"
 		"team"				"3"		// team blue
@@ -73,7 +73,7 @@
 		"labelText"		""		[$X360]
 		"textAlignment"	"south-west"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"paintborder"	"0"
 		"command"		"jointeam red"
 		"team"				"2"		// team red
@@ -103,7 +103,7 @@
 		"labelText"		"#TF_Cancel"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"command"		"cancelmenu"
 		"font"			"MenuSmallFont"
 	}
@@ -129,7 +129,7 @@
 		"labelText"		"#TF_SelectATeam"
 		"textAlignment"	"west"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"font"			"MenuMainTitle"
 		"fgcolor"		"HudOffWhite"
 	}
@@ -345,7 +345,7 @@
 		"labelText"		"#TF_Highlander_Mode"
 		"textAlignment"	"west"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"HudOffWhite"
 		"centerwrap"	"1"
@@ -367,7 +367,7 @@
 		"labelText"		"#TF_Highlander_Mode"
 		"textAlignment"	"west"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"black"
 		"centerwrap"	"1"
@@ -389,7 +389,7 @@
 		"labelText"		"#TF_Teams_Full"
 		"textAlignment"	"west"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"HudOffWhite"
 		"centerwrap"	"1"
@@ -411,7 +411,7 @@
 		"labelText"		"#TF_Teams_Full"
 		"textAlignment"	"west"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"black"
 		"centerwrap"	"1"

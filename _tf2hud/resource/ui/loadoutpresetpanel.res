@@ -17,9 +17,9 @@
 			
 			"font"			"HudFontMediumSmallBold"
 			"textAlignment"	"center"
-			"textinsetx"	"0"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			//"textinsetx"	"0"
+			//"dulltext"		"0"
+			//"brighttext"	"0"
 			"Command"		""
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"

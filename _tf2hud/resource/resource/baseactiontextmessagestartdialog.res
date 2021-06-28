@@ -156,7 +156,7 @@
 		"labelText"		"0"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"Maximize"
@@ -175,7 +175,7 @@
 		"labelText"		"1"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"Close"
@@ -194,7 +194,7 @@
 		"labelText"		"r"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"SysMenu"
@@ -227,7 +227,7 @@
 		"labelText"		"OK"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"OK"
 		"Default"		"0"
 	}
@@ -247,7 +247,7 @@
 		"labelText"		"Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"command"		"Cancel"
 		"Default"		"0"
 	}
@@ -505,7 +505,7 @@
 		"labelText"		"Name:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label2"
 	{
@@ -523,7 +523,7 @@
 		"labelText"		"Start on:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"topHorizLeft"
 	{
@@ -541,7 +541,7 @@
 		"labelText"		"94"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"topVertLeft"
 	{
@@ -559,7 +559,7 @@
 		"labelText"		"2"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"bottomHorizRight"
 	{
@@ -577,7 +577,7 @@
 		"labelText"		"2"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"bottomVertRight"
 	{
@@ -595,7 +595,7 @@
 		"labelText"		"2"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label3"
 	{
@@ -613,7 +613,7 @@
 		"labelText"		"Text:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label4"
 	{
@@ -631,7 +631,7 @@
 		"labelText"		"Effect:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label5"
 	{
@@ -649,7 +649,7 @@
 		"labelText"		"XY:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label6"
 	{
@@ -667,7 +667,7 @@
 		"labelText"		"FadeInTime:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label7"
 	{
@@ -685,7 +685,7 @@
 		"labelText"		"FadeOutTime:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label8"
 	{
@@ -703,7 +703,7 @@
 		"labelText"		"Hold Time:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label9"
 	{
@@ -721,7 +721,7 @@
 		"labelText"		"FX Time:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label10"
 	{
@@ -739,7 +739,7 @@
 		"labelText"		"Color1:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label11"
 	{
@@ -757,7 +757,7 @@
 		"labelText"		"Color2:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label12"
 	{
@@ -775,6 +775,6 @@
 		"labelText"		"Font:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 }

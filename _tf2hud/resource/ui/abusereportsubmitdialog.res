@@ -87,7 +87,7 @@
 		"disabledBgColor_override" "0 0 0 255"
 		"selectionColor_override" "0 0 0 255"
 		"selectionTextColor_override" "235 226 202 255"
-		"defaultSelectionBG2Color_override" "0 0 0 0"
+		"defaultSelectionBG2Color_override" "Blank"
 	}
 
 	"AbuseContentLabel"
@@ -122,7 +122,7 @@
 		"disabledBgColor_override" "0 0 0 255"
 		"selectionColor_override" "0 0 0 255"
 		"selectionTextColor_override" "235 226 202 255"
-		"defaultSelectionBG2Color_override" "0 0 0 0"
+		"defaultSelectionBG2Color_override" "Blank"
 	}
 
 	"AbuseTypeLabel"
@@ -157,7 +157,7 @@
 		"disabledBgColor_override" "0 0 0 255"
 		"selectionColor_override" "0 0 0 255"
 		"selectionTextColor_override" "235 226 202 255"
-		"defaultSelectionBG2Color_override" "0 0 0 0"
+		"defaultSelectionBG2Color_override" "Blank"
 	}
 
 	"ScreenShotBitmap"
@@ -245,9 +245,9 @@
 		"labelText"		"#TF_LessThan"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"textinsetx"	"0"
+		//"textinsetx"	"0"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"prevcustomtexture"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -270,9 +270,9 @@
 		"labelText"		"#TF_GreaterThan"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"textinsetx"	"0"
+		//"textinsetx"	"0"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"nextcustomtexture"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

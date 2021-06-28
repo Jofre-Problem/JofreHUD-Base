@@ -15,7 +15,7 @@
 		"labelText"		""
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"command"		"LoadLookup"
 	}
 	"LabelBlendFactor"
@@ -33,8 +33,8 @@
 		
 		"labelText"			"Blend Factor:"
 		"textAlignment"		"west"
-		"dulltext"			"0"
-		"brighttext"		"0"
+		//"dulltext"			"0"
+		//"brighttext"		"0"
 	}
 	"BlendFactorSlider"
 	{

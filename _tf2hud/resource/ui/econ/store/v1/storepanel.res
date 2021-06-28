@@ -131,7 +131,7 @@
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"default"		"1"
 		"Command"		"close"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -142,7 +142,7 @@
 	{
 		"ControlName"		"CArmoryPanel"
 		"fieldName"			"armory_panel"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"30"
 		"wide"				"f0"
 		"tall"				"390"

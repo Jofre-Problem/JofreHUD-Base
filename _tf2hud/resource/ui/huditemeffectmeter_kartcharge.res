@@ -58,8 +58,8 @@
 		
 		"labelText"				"#TF_KART"
 		"textAlignment"			"center"
-		"dulltext"				"0"
-		"brighttext"			"0"
+		//"dulltext"				"0"
+		//"brighttext"			"0"
 		"font"					"HudFontSmall"
 		"font_minmode"					"TFFontSmall"
 	}
@@ -82,8 +82,8 @@
 		
 		
 		"textAlignment"			"Left"
-		"dulltext"				"0"
-		"brighttext"			"0"
+		//"dulltext"				"0"
+		//"brighttext"			"0"
 	}
 	
 	"ItemEffectMeterCount"
@@ -106,8 +106,8 @@
 		"labelText"				"%progresscount%"
 		"textAlignment"			"center"
 		"textAlignment_minmode"			"west"
-		"dulltext"				"0"
-		"brighttext"			"0"
+		//"dulltext"				"0"
+		//"brighttext"			"0"
 		"font"					"HudFontMediumSmall"
 		"font_minmode"					"TFFontSmall"
 	}

@@ -268,7 +268,7 @@
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -278,7 +278,7 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "0 0 0 0"
+			"defaultFgColor_override" "Blank"
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
@@ -331,12 +331,12 @@
 			}
 		
 			"fgcolor_override"	"235 226 202 255"
-			"bgcolor_override"	"0 0 0 0"
+			"bgcolor_override"	"Blank"
 			"disabledFgColor_override" "235 226 202 255"
-			"disabledBgColor_override" "0 0 0 0"
-			"selectionColor_override" "0 0 0 0"
+			"disabledBgColor_override" "Blank"
+			"selectionColor_override" "Blank"
 			"selectionTextColor_override" "235 226 202 255"
-			"defaultSelectionBG2Color_override" "0 0 0 0"
+			"defaultSelectionBG2Color_override" "Blank"
 		}
 
 		"PaintkitLabel"
@@ -397,12 +397,12 @@
 			"proportionaltoparent"	"1"
 		
 			"fgcolor_override"	"235 226 202 255"
-			"bgcolor_override"	"0 0 0 0"
+			"bgcolor_override"	"Blank"
 			"disabledFgColor_override" "TanDark"
-			"disabledBgColor_override" "0 0 0 0"
-			"selectionColor_override" "0 0 0 0"
+			"disabledBgColor_override" "Blank"
+			"selectionColor_override" "Blank"
 			"selectionTextColor_override" "235 226 202 255"
-			"defaultSelectionBG2Color_override" "0 0 0 0"
+			"defaultSelectionBG2Color_override" "Blank"
 		}
 
 		"ItemLabel"
@@ -527,7 +527,7 @@
 			"use_proportional_insets" "1"
 			"textAlignment"	"center"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"keyboardinputenabled"	"0"
 
 			"sound_depressed"	"UI/buttonclick.wav"

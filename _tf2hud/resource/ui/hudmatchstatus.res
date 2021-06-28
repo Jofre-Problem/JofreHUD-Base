@@ -72,7 +72,7 @@
 		
 		"visible"		"0"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"labelText"		"%countdown%"
 		"textAlignment"	"center"
 		"proportionaltoparent"	"1"
@@ -99,7 +99,7 @@
 		
 		"visible"		"0"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"labelText"		"%countdown%"
 		"textAlignment"	"center"
 		"fgcolor"		"Black"
@@ -241,7 +241,7 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"centerwrap"	"1"
 		"alpha"			"0"
 		"labelText"		"%rank_possibility%"
@@ -264,7 +264,7 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"centerwrap"	"1"
 		"alpha"			"0"
 		"labelText"		"%rank_possibility%"
@@ -456,8 +456,8 @@
 				
 				
 				"textAlignment"			"Left"
-				"dulltext"				"0"
-				"brighttext"			"0"
+				//"dulltext"				"0"
+				//"brighttext"			"0"
 				"bgcolor_override"	   "80 80 80 255"
 				"proportionaltoparent"	"1"
 			}
@@ -476,8 +476,8 @@
 				
 				
 				"textAlignment"			"Left"
-				"dulltext"				"0"
-				"brighttext"			"0"
+				//"dulltext"				"0"
+				//"brighttext"			"0"
 				"bgcolor_override"	   "0 0 0 0"
 				"fgcolor_override"	   "255 255 255 160"
 				"proportionaltoparent"	"1"

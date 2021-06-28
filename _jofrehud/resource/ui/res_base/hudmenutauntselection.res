@@ -64,7 +64,7 @@
 		"labelText"		"#Hud_Menu_Taunt_Title"
 	//	"textAlignment"	"Left"
 	//	//"dulltext"		"0"
-	//	"brighttext"	"0"
+	//	//"brighttext"	"0"
 	}
 	
 

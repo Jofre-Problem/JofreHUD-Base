@@ -11,8 +11,8 @@
 	//	
 		"wide"		"64"
 		"tall"		"24"
-		"dulltext"		"0"
-		"brighttext"		"0"		
+		//"dulltext"		"0"
+		//"brighttext"		"0"		
 	//	
 	//	"visible"		"1"
 	//	

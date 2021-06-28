@@ -15,8 +15,8 @@
 		
 		"labelText"		"#SteamAddOn_Btn_Resign"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		"default"		"0"
 	}
 	"ShowHistoryBtn"
@@ -34,8 +34,8 @@
 		
 		"labelText"		"#SteamAddOn_Btn_ShowHistory"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"LastMoveLabel"
@@ -53,8 +53,8 @@
 		
 		"labelText"		"Last Move made at:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 	}
 	"TurnLabel"
 	{
@@ -71,8 +71,8 @@
 		
 		"labelText"		"Turn: 1"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 	}
 	"WhiteIcon"
 	{
@@ -102,8 +102,8 @@
 		"enabled"		"0"
 		
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 	}	
 	
 }

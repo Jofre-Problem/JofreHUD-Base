@@ -60,7 +60,7 @@
 		"labelText"		"foo"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"font"		"DefaultVerySmall"
 		//"wrap"		"0"
 	}
@@ -80,7 +80,7 @@
 		"labelText"		"cam: cam1"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"font"		"DefaultVerySmall"
 		//"wrap"		"0"
 	}
@@ -100,7 +100,7 @@
 		"labelText"		"5.200 s."
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"font"		"DefaultVerySmall"
 		//"wrap"		"0"
 	}

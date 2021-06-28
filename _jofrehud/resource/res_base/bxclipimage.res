@@ -53,7 +53,7 @@
 		
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"font"		"DefaultVerySmall"
 		//"wrap"		"0"
 	}

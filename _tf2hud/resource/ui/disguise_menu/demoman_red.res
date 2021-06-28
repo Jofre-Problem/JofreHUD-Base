@@ -17,7 +17,7 @@
 		"labelText"		"#TF_Class_Name_Demoman"
 		"textAlignment"	"Center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 		
 	"ClassIcon"	
@@ -69,7 +69,7 @@
 		"labelText"		"1"
 		"textAlignment"	"Center"
 		"dulltext"		"1"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 
 	"NumberLabel"
@@ -90,6 +90,6 @@
 		"labelText"		"4"
 		"textAlignment"	"Center"
 		"dulltext"		"1"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 }

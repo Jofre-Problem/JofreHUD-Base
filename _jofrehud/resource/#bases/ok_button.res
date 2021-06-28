@@ -15,8 +15,8 @@
 		"tabPosition"		"2"
 		"labelText"		"#Okay_Button"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		"Command"		"OK"
 		"Default"		"1"
 	}

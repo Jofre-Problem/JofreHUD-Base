@@ -29,7 +29,7 @@
 	//	"labelText"		"#vgui_ok"
 	//	"textAlignment"		"west"
 	//	//"dulltext"		"0"
-	//	"brighttext"		"0"
+	//	//"brighttext"		"0"
 	//	//"wrap"		"0"
 	//	"Command"		"Ok"
 	}
@@ -102,7 +102,7 @@
 		"labelText"		"First:"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"IncrementLabel"
@@ -120,7 +120,7 @@
 		"labelText"		"Increment:"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"NumDigitsLabel"
@@ -138,7 +138,7 @@
 		"labelText"		"Num Digits:"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 }

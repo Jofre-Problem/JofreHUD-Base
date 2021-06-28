@@ -31,8 +31,8 @@
 			
 			"labelText"		"Open"
 			"textAlignment"		"center"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			//"dulltext"		"0"
+			//"brighttext"		"0"
 			"Default"		"1"
 		}
 
@@ -51,8 +51,8 @@
 			"tabPosition"	"1"
 			"labelText"		"Cancel"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			//"dulltext"		"0"
+			//"brighttext"		"0"
 			"Default"		"0"
 		}
 		

@@ -57,8 +57,8 @@
 		
 		"labelText"				"#TF_Ball"
 		"textAlignment"			"center"
-		"dulltext"				"0"
-		"brighttext"			"0"
+		//"dulltext"				"0"
+		//"brighttext"			"0"
 		"font"					"TFFontSmall"
 	}
 
@@ -80,7 +80,7 @@
 		
 		
 		"textAlignment"			"Left"
-		"dulltext"				"0"
-		"brighttext"			"0"
+		//"dulltext"				"0"
+		//"brighttext"			"0"
 	}					
 }

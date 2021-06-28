@@ -32,7 +32,7 @@
 		"labelText"		"#vgui_ok"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"ok"
 		"Default"		"1"
@@ -53,7 +53,7 @@
 		"labelText"		"#vgui_Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"close"
 		"Default"		"0"
@@ -112,7 +112,7 @@
 		"labelText"		"#KBCustomBindingName"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label2"
@@ -131,7 +131,7 @@
 		"labelText"		"#KBCustomBindingCommand"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 }

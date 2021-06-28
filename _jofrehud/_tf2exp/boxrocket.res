@@ -245,7 +245,7 @@ Scheme
 		FilmStrip.ChannelsBgColor	"220 200 75 128"
 		FilmStrip.FgColor			"31 31 31 128"
 
-		TimeCode.BorderColor		"0 0 0 255"
+		TimeCode.BorderColor		"Black"
 		
 		TimeCode.SubClipFgColor		"255 0 100 255"
 		TimeCode.SubClipBgColor		"255 255 255 63"
@@ -254,7 +254,7 @@ Scheme
 		TimeCode.ClipBgColor		"255 255 255 63"
 		
 		IFM.CurrentTimeScrubber		"100 150 255 192"  // In the timeline views, the grabbable scrubber color
-		IFM.CurrentTimeScrubberOutline	"0 0 0 0"  // In the timeline views, the outline around the bar and scrubber
+		IFM.CurrentTimeScrubberOutline	"Blank"  // In the timeline views, the outline around the bar and scrubber
 		IFM.CurrentTimeBarColor		"100 150 255 192" 
 		
 		IFM.ClipTransitionBgColor	"180 180 255 192"

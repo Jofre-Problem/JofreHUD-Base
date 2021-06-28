@@ -16,8 +16,8 @@
 		
 		"labelText"		"#VAC_ConnectingToSecureServer"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 	//	"fgcolor_override"	"W_ColorIcons1"		
 	}
 	"VACImage"

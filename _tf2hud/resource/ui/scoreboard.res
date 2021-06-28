@@ -1025,7 +1025,7 @@
 				
 				////"visible"		"1"
 				
-				"wrap"			"0"
+				//"wrap"			"0"
 				"labelText"		"%playername%"
 				"textAlignment"	"east"
 				"font"			"HudFontSmallest"
@@ -1104,7 +1104,7 @@
 				
 				////"visible"		"1"
 				
-				"wrap"			"0"
+				//"wrap"			"0"
 				"labelText"		"%playername%"
 				"textAlignment"	"west"
 				"font"			"HudFontSmallest"
@@ -1759,7 +1759,7 @@
 			"labelText"		"C"
 			"textAlignment"	"Left"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 		}
 		
 		"SelectHintLabel"
@@ -1779,7 +1779,7 @@
 			"labelText"		"#GameUI_Select"
 			"textAlignment"	"Left"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 		}
 		
 		"GamerCardIcon"
@@ -1799,7 +1799,7 @@
 			"labelText"		"A"
 			"textAlignment"	"Left"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 		}
 		
 		"GamerCardLabel"
@@ -1819,7 +1819,7 @@
 			"labelText"		"#TF_ViewGamercard"
 			"textAlignment"	"Left"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 		}
 		
 		"ReputationIcon"
@@ -1839,7 +1839,7 @@
 			"labelText"		"X"
 			"textAlignment"	"Left"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 		}
 		
 		"ReputationLabel"
@@ -1859,7 +1859,7 @@
 			"labelText"		"#GameUI_PlayerReview"
 			"textAlignment"	"Left"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 		}
 	}				
 	
@@ -1867,7 +1867,7 @@
 	{
 		"ControlName"		"CTFHudMannVsMachineScoreboard"
 		"fieldName"			"MvMScoreboard"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"10"
 		"wide"				"f0"

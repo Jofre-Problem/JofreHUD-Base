@@ -113,7 +113,7 @@
 			"font"			"AdFont_AdText"
 			"fgcolor_override"	"163 163 163 255"
 			"textinsetx"	"10"
-			"textinsety"	"0"
+			//"textinsety"	"0"
 			"textAlignment"	"north-west"
 			"labelText"		"%item_ad_text%"
 			"wrap"			"1"

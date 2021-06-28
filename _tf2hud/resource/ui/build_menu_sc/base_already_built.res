@@ -17,7 +17,7 @@
 		"labelText"		"#TF_Object_Tele_Exit_360"
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 	
 	"ItemBackground"	

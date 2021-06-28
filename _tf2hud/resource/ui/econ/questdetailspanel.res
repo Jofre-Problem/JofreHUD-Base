@@ -88,7 +88,7 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"proportionaltoparent"	"1"
 		"fgcolor"		"QuestGold"
 
@@ -214,7 +214,7 @@
 			
 			////"visible"		"1"
 			
-			"wrap"			"0"
+			//"wrap"			"0"
 			"proportionaltoparent"	"1"
 			"fgcolor"		"QuestGold"
 			"textinsetx"	"21"
@@ -237,7 +237,7 @@
 			"wide"			"p.95"
 			"tall"			"p.425"
 			////"visible"		"1"
-			"enable"		"1"
+			//"enabled"		"1"	
 			"proportionaltoparent"	"1"
 		}
 
@@ -274,7 +274,7 @@
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"west"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 				"default"		"1"
 				"actionsignallevel" "3"
 
@@ -347,7 +347,7 @@
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"west"
 				//"dulltext"		"0"
-				"brighttext"	"0"
+				//"brighttext"	"0"
 				"default"		"1"
 				"actionsignallevel" "3"
 

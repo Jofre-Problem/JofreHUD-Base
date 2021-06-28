@@ -693,7 +693,7 @@
 		"tall"			"480"
 		////"visible"		"1"
 		
-		"bgcolor_override"	"0 0 0 0"
+		"bgcolor_override"	"Blank"
 		"PaintBackgroundType"	"0" // rounded corners
 	}	
 }

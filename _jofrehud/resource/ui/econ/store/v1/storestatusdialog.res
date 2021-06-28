@@ -30,7 +30,7 @@
 		
 		"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 		"centerwrap"	"1"
 		"labelText"		"%updatetext%"
 		"textAlignment"		"center"
@@ -55,8 +55,8 @@
 		"labelText"		"#GameUI_Ok"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		//"dulltext"		"0"
+		//"brighttext"	"0"
 		"default"		"1"
 		"Command"		"close"
 		"sound_depressed"	"UI/buttonclick.wav"

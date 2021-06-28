@@ -15,6 +15,6 @@
 		"labelText"		"Last message received at:"
 		"textAlignment"		"west"
 		"dulltext"		"1"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 }

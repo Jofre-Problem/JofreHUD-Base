@@ -15,7 +15,7 @@
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 	"BuildHintLabel_Bright"
 	{
@@ -34,7 +34,7 @@
 		"labelText"		"#Hud_Menu_Build_Action_Build"
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 	
 	"BuildHintLabel_Dim"
@@ -55,7 +55,7 @@
 		"labelText"		"#Hud_Menu_Build_Action_Build"
 		"textAlignment"	"Left"
 		"dulltext"		"1"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}	
 	"DestroyHintIcon"
 	{
@@ -71,7 +71,7 @@
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}	
 	"DestroyHintLabel_Bright"
 	{
@@ -90,7 +90,7 @@
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 	
 	"DestroyHintLabel_Dim"
@@ -111,6 +111,6 @@
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}	
 }

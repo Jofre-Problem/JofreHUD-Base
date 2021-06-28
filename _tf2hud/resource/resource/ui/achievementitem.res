@@ -104,7 +104,7 @@
 		"labelText"		"0%"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"font"			"AchievementItemDescription"
 	}
@@ -124,7 +124,7 @@
 		"labelText"		"#GameUI_Achievement_Show_HUD"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"font"			"AchievementItemDescription"
 	}

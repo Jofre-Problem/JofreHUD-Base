@@ -164,7 +164,7 @@
 			
 			////"visible"		"1"
 			
-			"wrap"			"0"
+			//"wrap"			"0"
 		}
 
 		"MapLeaderboardTitle"
@@ -2654,7 +2654,7 @@
 		"labelText"		"#TF_NextTip"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"nexttip"
 	}
 	"ResetStatsButton" [$WIN32]
@@ -2674,7 +2674,7 @@
 		"labelText"		"#TF_ResetStats"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"resetstatsbutton"
 	}
 	"CloseButton" [$WIN32]
@@ -2694,7 +2694,7 @@
 		"labelText"		"#TF_Close"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"vguicancel"
 	}
 	"Footer" [$X360]

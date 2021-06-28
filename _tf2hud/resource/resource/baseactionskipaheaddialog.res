@@ -156,7 +156,7 @@
 		"labelText"		"0"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"Maximize"
@@ -175,7 +175,7 @@
 		"labelText"		"1"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"Close"
@@ -194,7 +194,7 @@
 		"labelText"		"r"
 		"textAlignment"		"north-west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"SysMenu"
@@ -227,7 +227,7 @@
 		"labelText"		"OK"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 		"command"		"OK"
 	}
@@ -247,7 +247,7 @@
 		"labelText"		"Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 		"command"		"Cancel"
 	}
@@ -352,7 +352,7 @@
 		"labelText"		"Name:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label2"
 	{
@@ -370,7 +370,7 @@
 		"labelText"		"Start on:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"topHorizLeft"
 	{
@@ -388,7 +388,7 @@
 		"labelText"		"94"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"topVertLeft"
 	{
@@ -406,7 +406,7 @@
 		"labelText"		"2"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"bottomHorizRight"
 	{
@@ -424,7 +424,7 @@
 		"labelText"		"2"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"bottomVertRight"
 	{
@@ -442,7 +442,7 @@
 		"labelText"		"2"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"Label3"
 	{
@@ -460,6 +460,6 @@
 		"labelText"		"Skip to:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 }

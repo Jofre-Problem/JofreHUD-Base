@@ -32,7 +32,7 @@
 			"labelText"		"Ok"
 			"textAlignment"		"center"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"1"
 		}
 

@@ -31,7 +31,7 @@
 			"labelText"		"Render Bounding Box"
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"0"
 		}
 		
@@ -52,7 +52,7 @@
 			"labelText"		"Render Culling Bounds"
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"0"
 		}
 		
@@ -72,7 +72,7 @@
 			"labelText"		""
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"0"
 		}
 		
@@ -91,7 +91,7 @@
 			"labelText"		"Background Color"
 			"textAlignment"	"west"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 		}
 		
 		"RenderHelpers"
@@ -111,7 +111,7 @@
 			"labelText"		"Render Helpers"
 			"textAlignment"		"west"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"0"
 		}		
 	}

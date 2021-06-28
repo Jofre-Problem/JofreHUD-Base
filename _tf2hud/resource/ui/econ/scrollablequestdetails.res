@@ -30,7 +30,7 @@
 			
 			////"visible"		"1"
 			
-			"wrap"			"0"
+			//"wrap"			"0"
 			"proportionaltoparent"	"1"
 			"fgcolor"		"QuestGold"
 		}

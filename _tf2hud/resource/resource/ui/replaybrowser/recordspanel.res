@@ -13,7 +13,7 @@
 		"font"				"ReplayMediumSmall"
 		"labelText"			"#Replay_NoNewRecord"
 		"textAlignment"		"west"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"1"
 		
@@ -29,7 +29,7 @@
 		"font"				"ReplayMediumSmall"
 		"labelText"			"#Replay_NoNewRecord"
 		"textAlignment"		"west"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"1"
 		
@@ -55,7 +55,7 @@
 		"font"				"EconFontSmall"
 		"labelText"			"0"
 		"textAlignment"		"west"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"1"
 		

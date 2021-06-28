@@ -31,8 +31,8 @@
 		"tabPosition"		"1"
 		"labelText"		"#vgui_close"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"1"
@@ -52,8 +52,8 @@
 		
 		"labelText"		"#VAC_ConnectionRefusedDetail"
 		"textAlignment"		"north-west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		"wrap"		"1"
 	}
 	"URLLabel1"
@@ -71,8 +71,8 @@
 		
 		"labelText"		"#VAC_ForDetails"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"URLText"		"http://support.steampowered.com/cgi-bin/steampowered.cfg/php/enduser/std_adp.php?p_faqid=370"
 	}

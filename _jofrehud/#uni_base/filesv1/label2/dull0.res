@@ -2,6 +2,6 @@
 {
 	"Label2"
 	{
-		"dulltext"		"0"
+		//"dulltext"		"0"
 	}	
 }	

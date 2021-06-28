@@ -78,7 +78,7 @@
 	{
 		"ControlName"		"CVictoryPanel"
 		"fieldName"			"VictoryPanelNormal"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"0"
 		"wide"				"f0"
 		"tall"				"480"
@@ -90,7 +90,7 @@
 	{
 		"ControlName"		"CMvMVictoryMannUpPanel"
 		"fieldName"			"VictoryPanelMannUp"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"20"
 		"zpos"				"50"
 		"wide"				"f0"

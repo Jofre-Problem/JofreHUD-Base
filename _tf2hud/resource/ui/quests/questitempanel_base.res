@@ -262,7 +262,7 @@
 						"allcaps"	"1"
 						"textAlignment"	"center"
 						//"dulltext"		"0"
-						"brighttext"	"0"
+						//"brighttext"	"0"
 						"default"		"1"
 
 						"sound_depressed"	"UI/buttonclick.wav"
@@ -343,7 +343,7 @@
 						"allcaps"	"1"
 						"textAlignment"	"center"
 						//"dulltext"		"0"
-						"brighttext"	"0"
+						//"brighttext"	"0"
 						"default"		"1"
 
 						"sound_depressed"	"UI/buttonclick.wav"
@@ -389,7 +389,7 @@
 							"allcaps"	"1"
 							"textAlignment"	"west"
 							//"dulltext"		"0"
-							"brighttext"	"0"
+							//"brighttext"	"0"
 							"paintbackground"	"0"
 						}
 					}
@@ -563,7 +563,7 @@
 					"allcaps"	"1"
 					"textAlignment"	"center"
 					//"dulltext"		"0"
-					"brighttext"	"0"
+					//"brighttext"	"0"
 					"default"		"1"
 					"actionsignallevel" "3"
 
@@ -655,7 +655,7 @@
 						"allcaps"	"1"
 						"textAlignment"	"center"
 						//"dulltext"		"0"
-						"brighttext"	"0"
+						//"brighttext"	"0"
 						"default"		"1"
 						"actionsignallevel" "4"
 
@@ -695,7 +695,7 @@
 						"allcaps"	"1"
 						"textAlignment"	"center"
 						//"dulltext"		"0"
-						"brighttext"	"0"
+						//"brighttext"	"0"
 						"default"		"1"
 						"actionsignallevel" "4"
 

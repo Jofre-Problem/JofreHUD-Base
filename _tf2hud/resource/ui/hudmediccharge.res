@@ -37,7 +37,7 @@
 		"labelText_minmode"		"#TF_UberchargeMinHUD"
 		"textAlignment"	"west"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"font"			"HudFontSmallest"
 	}
 
@@ -61,7 +61,7 @@
 		"labelText_minmode"		"#TF_IndividualUberchargesMinHUD"
 		"textAlignment"	"west"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"font"			"HudFontSmallest"
 	}
 	
@@ -83,7 +83,7 @@
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}		
 
 	"ChargeMeter1"
@@ -104,7 +104,7 @@
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 
 	"ChargeMeter2"
@@ -125,7 +125,7 @@
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 
 	"ChargeMeter3"
@@ -146,7 +146,7 @@
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 
 	"ChargeMeter4"
@@ -167,7 +167,7 @@
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 	
 	"HealthClusterIcon"

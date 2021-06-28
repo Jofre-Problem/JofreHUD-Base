@@ -61,7 +61,7 @@
 		"labelText"		"#Okay_Button"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"Okay"
 		"Default"		"1"
 	}
@@ -81,7 +81,7 @@
 		"labelText"		"#Add_Ban_Time_Permanent"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"0"
 	}
@@ -101,7 +101,7 @@
 		"labelText"		"#Add_Ban_Time_Temporary"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"1"
 	}
@@ -155,7 +155,7 @@
 		"labelText"		"#Add_Ban_ID_IP_Label"
 		"textAlignment"		"east"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"CancelButton"
 	{
@@ -173,7 +173,7 @@
 		"labelText"		"#Cancel_Button"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 	}
@@ -193,7 +193,7 @@
 		"labelText"		"#Add_Ban_Player"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 	"PlayerTextEntry"
 	{
@@ -228,6 +228,6 @@
 		"labelText"		"#Add_Ban_Duration_Label"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}
 }

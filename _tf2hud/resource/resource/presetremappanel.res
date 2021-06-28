@@ -32,7 +32,7 @@
 			"labelText"		"Source Preset Group:"
 			"textAlignment"		"east"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			//"wrap"		"0"
 		}
 		"SourcePresetGroup"
@@ -74,7 +74,7 @@
 			"command"		"ok"
 			"textAlignment"		"center"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"1"
 		}
 
@@ -95,7 +95,7 @@
 			"command"		"Cancel"
 			"textAlignment"	"center"
 			//"dulltext"		"0"
-			"brighttext"		"0"
+			//"brighttext"		"0"
 			"Default"		"0"
 		}
 		

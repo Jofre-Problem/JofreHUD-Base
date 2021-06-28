@@ -9,6 +9,6 @@
 		
 		"visible"		"1"
 		
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 }	

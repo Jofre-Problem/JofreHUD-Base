@@ -71,8 +71,8 @@
 		"labelText"				"#TF_Ball"
 		"textAlignment"			"north"
 		"centerwrap"			"1"
-		"dulltext"				"0"
-		"brighttext"			"0"
+		//"dulltext"				"0"
+		//"brighttext"			"0"
 		"font"					"TFFontSmall"
 	}
 
@@ -91,8 +91,8 @@
 		"visible"				"0"
 		"enabled"				"0"
 		"textAlignment"			"Left"
-		"dulltext"				"0"
-		"brighttext"			"0"
+		//"dulltext"				"0"
+		//"brighttext"			"0"
 	}					
 	
 	"ItemEffectMeterCount"
@@ -112,8 +112,8 @@
 		
 		"labelText"				"%progresscount%"
 		"textAlignment"			"north"
-		"dulltext"				"0"
-		"brighttext"			"0"
+		//"dulltext"				"0"
+		//"brighttext"			"0"
 		"font"					"HudFontMedium"
 		"font_minmode"			"HudFontMediumSmall"
 	}

@@ -160,7 +160,7 @@
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"vguicancel"
 		"default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"

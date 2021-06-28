@@ -15,8 +15,8 @@
 		
 		"labelText"		"94"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 	}
 	"topVertLeft"
 	{
@@ -33,8 +33,8 @@
 		
 		"labelText"		"2"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 	}
 	"bottomHorizRight"
 	{
@@ -51,8 +51,8 @@
 		
 		"labelText"		"2"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 	}
 	"bottomVertRight"
 	{
@@ -69,7 +69,7 @@
 		
 		"labelText"		"2"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 	}
 }

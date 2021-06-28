@@ -25,7 +25,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"			"NumberDisplay"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"-2"
 		"wide"				"256"
@@ -36,7 +36,7 @@
 		
 				
 		"textAlignment"		"center"
-		"dulltext"			"0"
+		//"dulltext"			"0"
 		"paintBackground" 	"0"
 		"labelText"			"*"
 	}

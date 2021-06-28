@@ -122,7 +122,7 @@
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"Command"		"prevpage"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -146,7 +146,7 @@
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			//"dulltext"		"0"
-			"brighttext"	"0"
+			//"brighttext"	"0"
 			"Command"		"cancel"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -156,7 +156,7 @@
 		{
 			"ControlName"		"CModeSelectionPanel"
 			"fieldName"			"ModeSelectionPanel"
-			"xpos"				"0"
+			//"xpos"				"0"
 			"ypos"				"80"
 			"zpos"				"2"
 			"wide"				"500"
@@ -210,7 +210,7 @@
 		{
 			"ControlName"		"CBasicTraining_ClassDetailsPanel"
 			"fieldName"			"BasicTraining_ClassDetailsPanel"
-			"xpos"				"0"
+			//"xpos"				"0"
 			"ypos"				"80"
 			"zpos"				"2"
 			"wide"				"450"
@@ -229,7 +229,7 @@
 		{
 			"ControlName"		"COfflinePractice_ModeSelectionPanel"
 			"fieldName"			"OfflinePractice_ModeSelectionPanel"
-			"xpos"				"0"
+			//"xpos"				"0"
 			"ypos"				"50"
 			"wide"				"450"
 			"tall"				"500"
@@ -262,7 +262,7 @@
 		{
 			"ControlName"		"COfflinePractice_MapSelectionPanel"
 			"fieldName"			"OfflinePractice_MapSelectionPanel"
-			"xpos"				"0"
+			//"xpos"				"0"
 			"ypos"				"50"
 			"wide"				"450"
 			"tall"				"500"

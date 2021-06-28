@@ -72,7 +72,7 @@
 		"labelText"		"->"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"ArrowRight"
 		"Default"		"0"
 	}
@@ -92,7 +92,7 @@
 		"labelText"		"<-"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"ArrowLeft"
 		"Default"		"0"
 	}
@@ -112,7 +112,7 @@
 		"labelText"		"Move up"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"ArrowUp"
 		"Default"		"0"
 	}
@@ -132,7 +132,7 @@
 		"labelText"		"Move down"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"ArrowDown"
 		"Default"		"1"
 	}
@@ -152,7 +152,7 @@
 		"labelText"		"Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"Cancel"
 		"Default"		"0"
 	}
@@ -172,7 +172,7 @@
 		"labelText"		"OK"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"Command"		"OK"
 		"Default"		"0"
 	}

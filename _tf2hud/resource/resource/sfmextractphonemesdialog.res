@@ -85,7 +85,7 @@
 		"labelText"		"#extract_button"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -105,7 +105,7 @@
 		"labelText"		"#reapply_button"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -125,7 +125,7 @@
 		"labelText"		"#vgui_Cancel"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -145,7 +145,7 @@
 		"labelText"		"#sfm_play"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -222,7 +222,7 @@
 		"labelText"		"#SFM_UseWaveFilePhonemes"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"font"		"DefaultSmall"
 		//"wrap"		"0"
 		"Default"		"0"
@@ -243,7 +243,7 @@
 		"labelText"		"#SFM_IgnoreAnimationSetVisibility"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"font"		"DefaultSmall"
 		//"wrap"		"0"
 		"Default"		"0"
@@ -264,7 +264,7 @@
 		"labelText"		"#SFM_CreateBookmarks"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"font"		"DefaultSmall"
 		//"wrap"		"0"
 		"Default"		"0"
@@ -285,7 +285,7 @@
 		"labelText"		"Sentence Text:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label2"
@@ -304,7 +304,7 @@
 		"labelText"		"Sample Rate:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label3"
@@ -323,7 +323,7 @@
 		"labelText"		"Filter Size:"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 	}
 }

@@ -13,7 +13,7 @@
 		
 		
 		"proportional"	"1"
-		"bgcolor_override"	"0 0 0 0"
+		"bgcolor_override"	"Blank"
 		"anim_scale"	"7"
 		"anim_time"		"0.5"
 	}

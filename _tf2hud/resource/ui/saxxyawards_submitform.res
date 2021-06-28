@@ -33,7 +33,7 @@
 		
 		////"visible"		"1"
 		
-		"wrap"			"0"
+		//"wrap"			"0"
 	}
 	
 	"URLInput"
@@ -44,7 +44,7 @@
 		"textHidden"	"0"
 		"textAlignment"	"west"
 		"unicode"		"1"
-		"wrap"			"0"
+		//"wrap"			"0"
 		"xpos"			"60"
 		"ypos"			"55"
 		"zpos"			"1"
@@ -67,7 +67,7 @@
 		"ControlName"	"ComboBox"
 		"fieldName"		"CategoryCombo"
 		"textAlignment"	"west"
-		"wrap"			"0"
+		//"wrap"			"0"
 		"xpos"			"60"
 		"ypos"			"75"
 		"zpos"			"1"
@@ -78,7 +78,7 @@
 		////"visible"		"1"
 		
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"tabPosition"	"10"
 		"editable"		"0"
 		"fgcolor_override"		"0 0 0 255"
@@ -155,7 +155,7 @@
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		//"dulltext"		"0"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 		"Command"		"submit"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

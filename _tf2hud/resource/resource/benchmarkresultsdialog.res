@@ -32,7 +32,7 @@
 		"labelText"		"#GameUI_BenchmarkResults_UploadNow"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -52,7 +52,7 @@
 		"labelText"		"#vgui_close"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
@@ -73,7 +73,7 @@
 		"labelText"		"#GameUI_BenchmarkResults_Info"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 		"wrap"		"1"
 	}
 }
