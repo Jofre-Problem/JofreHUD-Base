@@ -45,6 +45,7 @@ TF2:
 - clientscheme.res (-> missing font definitions: HudMenuNumberFont (build_menu files); MenuMedium & MenuSmall & MatchmakingDialogMenuSmall & HDRDemoText & Ui (xboxdialog.res)
 - supportnotificationdialog.res (-> wrong fieldname on titlelabel)
 - confirmcustomizetexturedialog.res (-> ypos "00" on line 217, 218, 378, 686 & 834)
+- hudlayout.res (HudAlert has "enable" instead of "enabled")
 
 HL2:
 - askconnectpanel.res (-> wrong fieldnames on line 25)
