@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"trading_panel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
@@ -84,7 +84,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BackgroundHeader"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-2"
 		"wide"			"f0"
@@ -98,7 +98,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HeaderLine"
-		"xpos"			"0"
+		
 		"ypos"			"50"
 		"zpos"			"5"
 		"wide"			"f0"
@@ -567,7 +567,7 @@
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
-			"xpos"			"0"
+			
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"

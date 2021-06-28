@@ -5,7 +5,7 @@
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"mouseoveritempanel"
-		"xpos"			"0"
+		
 		"ypos"			"600"
 		"zpos"			"9999"
 		"wide"			"250"
@@ -25,7 +25,7 @@
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
-			"xpos"			"0"
+			
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"
@@ -71,7 +71,7 @@
 	{
 		"ControlName"	"CTFParticlePanel"
 		"fieldName"		"ParticlePanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"200"
 		"wide"			"f0"
@@ -84,7 +84,7 @@
 	{
 		"ControlName"	"Panel"
 		"fieldName"		"OutterBackground"
-		"xpos"			"0"
+		
 		"ypos"			"90"
 		"zpos"			"-8"
 		"wide"			"f0"
@@ -102,7 +102,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HeaderLine"
-		"xpos"			"0"
+		
 		"ypos"			"-10"
 		"zpos"			"2"
 		"wide"			"f0"
@@ -121,7 +121,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"FooterLine"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"f0"
@@ -152,7 +152,7 @@
 		{
 			"ControlName"	"CMvMVictoryMannUpPlayerTab"
 			"fieldName"		"PlayerTab1"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"-5"
 			"wide"			"63"
@@ -279,7 +279,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"NoItemServerContainer"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"530"
 			"tall"			"480"
@@ -292,7 +292,7 @@
 				"font"			"HudFontMediumSmallBold"
 				"labelText"		"#TF_PVE_Server_GCDownHeader"
 				"textAlignment" "center"
-				"xpos"			"0"
+				
 				"ypos"			"100"
 				"wide"			"530"
 				"fgcolor"		"tanlight"
@@ -305,7 +305,7 @@
 				"font"			"HudFontSmall"
 				"labelText"		"#TF_PVE_Server_GCDownMessage"
 				"textAlignment" "center"
-				"xpos"			"0"
+				
 				"ypos"			"120"
 				"wide"			"530"
 				"tall"			"40"

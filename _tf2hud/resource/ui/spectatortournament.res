@@ -372,7 +372,7 @@
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"itempanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10"
 		"wide"			"190"
@@ -428,7 +428,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"attriblabel"
 			"font"			"ItemFontAttribLarge"
-			"xpos"			"0"
+			
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"
@@ -447,7 +447,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"spectator_extras"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"

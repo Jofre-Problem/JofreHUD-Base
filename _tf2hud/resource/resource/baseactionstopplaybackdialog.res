@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"Frame"
 		"fieldName"		"StopPlayback"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"400"
 		"tall"		"300"
@@ -46,7 +46,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"LeftGrip"
-		"xpos"		"0"
+		
 		"ypos"		"11"
 		"wide"		"5"
 		"tall"		"278"
@@ -74,7 +74,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"TopLeftGrip"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"11"
 		"tall"		"11"
@@ -102,7 +102,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"BottomLeftGrip"
-		"xpos"		"0"
+		
 		"ypos"		"289"
 		"wide"		"11"
 		"tall"		"11"
@@ -201,7 +201,7 @@
 	{
 		"ControlName"		"Menu"
 		"fieldName"		"SysMenu"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"

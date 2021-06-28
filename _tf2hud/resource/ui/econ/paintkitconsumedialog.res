@@ -51,7 +51,7 @@
 	{
 		"fieldName"	"BGPanel"
 		"controlname"	"EditablePanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -64,7 +64,7 @@
 	{
 		"fieldName"	"Shade"
 		"controlname"	"EditablePanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"100"
 		"wide"			"f0"
@@ -220,7 +220,7 @@
 	"InspectionPanel"
 	{
 		"fieldName"	"InspectionPanel"
-		"xpos"		"0"
+		
 		"ypos"		"40"
 		"zpos"		"10"
 		"wide"		"f0"

@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CWarLandingPanel"
 		"fieldName"		"WarPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"100"
 		"wide"			"f0"
@@ -32,7 +32,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Dimmer"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"zpos"		"-2"
 			"wide"		"f0"
@@ -49,7 +49,7 @@
 		{
 			"ControlName"	"Button"
 			"fieldName"		"OutsideCloseButton"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"zpos"		"-1"
 			"wide"		"f0"
@@ -120,7 +120,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"1"
 					"wide"			"14"
@@ -275,7 +275,7 @@
 					{
 						"ControlName"	"Panel"
 						"fieldName"		"Frame"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						"wide"			"f0"
 						"tall"			"f0"
@@ -404,7 +404,7 @@
 						{
 							"ControlName"	"ImagePanel"
 							"fieldName"		"Silhouettes"
-							"xpos"			"0"
+							
 							"ypos"			"0"
 							"zpos"			"2"
 							"wide"			"p1"
@@ -423,7 +423,7 @@
 						{
 							"ControlName"	"ImagePanel"
 							"fieldName"		"Silhouettes"
-							"xpos"			"0"
+							
 							"ypos"			"0"
 							"zpos"			"2"
 							"wide"			"p1"
@@ -443,7 +443,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"AffiliatedContainer"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -497,7 +497,7 @@
 					{
 						"ControlName"	"Panel"
 						"fieldName"		"Frame"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						"wide"			"f0"
 						"tall"			"f0"
@@ -531,7 +531,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"WarOverContainer"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -585,7 +585,7 @@
 					{
 						"ControlName"	"Panel"
 						"fieldName"		"Frame"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						"wide"			"f0"
 						"tall"			"f0"
@@ -619,7 +619,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"CommunicatingWithGCPopup"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -644,7 +644,7 @@
 					{
 						"ControlName"	"EditablePanel"
 						"fieldName"		"ConfirmSelectionContainer"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						"wide"			"f0"
 						"tall"			"f0"
@@ -754,7 +754,7 @@
 					{
 						"ControlName"	"EditablePanel"
 						"fieldName"		"JoiningContainer"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						"wide"			"f0"
 						"tall"			"f0"
@@ -799,7 +799,7 @@
 					{
 						"ControlName"	"EditablePanel"
 						"fieldName"		"TeamJoinedContainer"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						"wide"			"f0"
 						"tall"			"f0"
@@ -868,7 +868,7 @@
 					{
 						"ControlName"	"EditablePanel"
 						"fieldName"		"FailedToJoinContainer"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						"wide"			"f0"
 						"tall"			"f0"
@@ -957,7 +957,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"UnaffiliatedContainer"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -1015,7 +1015,7 @@
 					{
 						"ControlName"	"CExImageButton"
 						"fieldName"		"JoinHeavyButton"
-						"xpos"			"0"
+						
 						"ypos"			"rs1"
 						"zpos"			"5"
 						"wide"			"150"
@@ -1067,7 +1067,7 @@
 					{
 						"ControlName"	"CExImageButton"
 						"fieldName"		"JoinPyroButton"
-						"xpos"			"0"
+						
 						"ypos"			"rs1"
 						"zpos"			"5"
 						"wide"			"150"

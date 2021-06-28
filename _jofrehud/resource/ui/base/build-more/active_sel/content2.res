@@ -3,7 +3,7 @@
 	"active_selection_bg"
 	{
 		"ControlName"	"CIconPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"115"

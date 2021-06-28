@@ -205,7 +205,7 @@
 		"font"			"HudFontSmall"
 		"labelText"		"#CraftInvalidNameDetail"
 		"textAlignment"	"center"
-		"xpos"			"0"
+		
 		"ypos"			"170"
 		
 		"wide"			"400"

@@ -6,7 +6,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"LobbyPanel"
-		"xpos"			"0"
+		
 		"ypos"			"50"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -25,7 +25,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ModeBackgroundImage"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"f0"
@@ -160,7 +160,7 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"SortArrow"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"wide"			"20"
 					"tall"			"f0"
@@ -182,7 +182,7 @@
 				{
 					"ControlName"	"CExButton"
 					"fieldName"		"ResultButton"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"wide"			"p0.18"
 					"tall"			"18"
@@ -572,7 +572,7 @@
 
 			"PartyLowPriorityImage"
 			{
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"50"
 				"tall"			"50"

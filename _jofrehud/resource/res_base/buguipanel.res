@@ -82,7 +82,7 @@
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"BugEmail"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -101,7 +101,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"BugSubitterLabelPublic"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"

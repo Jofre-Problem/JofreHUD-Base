@@ -3,7 +3,7 @@
 	"MatchEntry"
 	{
 		"fieldName"	"MatchEntry"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"17"
@@ -15,7 +15,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Container"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"17"
@@ -27,7 +27,7 @@
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"EntryToggleButton"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -143,7 +143,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BottomStats"
-		"xpos"			"0"
+		
 		"ypos"			"17"
 		"wide"			"f0"
 		"tall"			"0"
@@ -156,7 +156,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"InnerShadow"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -172,7 +172,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"SlidingStatsContainer"
-			"xpos"			"0"
+			
 			"ypos"			"rs1+17"
 			"wide"			"f0"
 			"tall"			"50"
@@ -399,7 +399,7 @@
 				{
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"ScoutIcon"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"wide"			"p0.333"
 					"tall"			"p0.333"
@@ -436,7 +436,7 @@
 				{
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"DemoIcon"
-					"xpos"			"0"
+					
 					"ypos"			"p0.333"
 					"wide"			"p0.333"
 					"tall"			"p0.333"
@@ -473,7 +473,7 @@
 				{
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"MedicIcon"
-					"xpos"			"0"
+					
 					"ypos"			"p0.666"
 					"wide"			"p0.333"
 					"tall"			"p0.333"

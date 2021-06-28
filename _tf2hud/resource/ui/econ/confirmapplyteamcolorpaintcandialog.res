@@ -39,7 +39,7 @@
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
-			"xpos"			"0"
+			
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"
@@ -286,7 +286,7 @@
 		"font"			"HudFontSmall"
 		"labelText"		"#ToolPaintConfirmWarning"
 		"textAlignment"	"center"
-		"xpos"			"0"
+		
 		"ypos"			"170"
 		
 		"wide"			"400"

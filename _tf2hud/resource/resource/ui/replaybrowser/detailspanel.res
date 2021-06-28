@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CReplayBrowserDetailsPanel"
 		"fieldName"		"DetailsPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		
@@ -29,7 +29,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"FieldName"		"PlaybackPanel"
-			"xpos"			"0"
+			
 			"ypos"			"42"
 			"wide"			"320"
 			"tall"			"200"
@@ -39,7 +39,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"FieldName"		"TitleEditPanel"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"590"
 		}
@@ -48,7 +48,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"FieldName"		"CutsPanel"
-			"xpos"			"0"
+			
 			"ypos"			"250"
 			"wide"			"333"
 			"tall"			"85"

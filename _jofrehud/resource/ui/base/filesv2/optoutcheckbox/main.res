@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CheckButton"
 		"fieldName"		"OptOutCheckbox"
-		"xpos"			"0"
+		
 		"ypos"			"217"
 		"zpos"			"2"
 		"wide"			"300"

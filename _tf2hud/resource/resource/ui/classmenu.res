@@ -70,7 +70,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"CancelButton"
-		"xpos"			"0"
+		
 		"ypos"			"308"
 		"wide"			"148"
 		"tall"			"20"

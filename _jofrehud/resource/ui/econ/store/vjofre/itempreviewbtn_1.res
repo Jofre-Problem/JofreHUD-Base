@@ -19,7 +19,7 @@
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"SubButton"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"110"

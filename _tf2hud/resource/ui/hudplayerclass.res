@@ -5,7 +5,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerClass"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"ypos_minmode"	"18"
 		"zpos"			"1"
@@ -127,7 +127,7 @@
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
 		
-		"xpos"			"0"	[$WIN32]
+			[$WIN32]
 		"xpos_minmode"	"0"	[$WIN32]
 		"ypos"			"r214"	[$WIN32]
 		"ypos_minmode"	"r88"	[$WIN32]

@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"LeaderboardEntry"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"275"
@@ -15,7 +15,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Background"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"2"
 			"wide"			"20"

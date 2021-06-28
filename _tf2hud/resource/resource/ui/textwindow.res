@@ -19,7 +19,7 @@
 	{
 		"ControlName"		"HTML"
 		"fieldName"		"HTMLMessage"
-		"xpos"			"0"
+		
 		"ypos"			"116"
 		"wide"			"480"
 		"tall"			"240"
@@ -33,7 +33,7 @@
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"TextMessage"
-		"xpos"			"0"
+		
 		"ypos"			"116"
 		"wide"			"480"
 		"tall"			"240"
@@ -70,7 +70,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"ok"
-		"xpos"			"0"
+		
 		"ypos"			"364"
 		"wide"			"128"
 		"tall"			"20"

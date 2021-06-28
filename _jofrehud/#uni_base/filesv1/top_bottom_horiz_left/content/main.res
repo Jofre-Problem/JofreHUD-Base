@@ -2,7 +2,7 @@
 {
 	"topHorizLeft"
 	{
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -10,7 +10,7 @@
 	}
 	"topVertLeft"
 	{
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -18,7 +18,7 @@
 	}
 	"bottomHorizRight"
 	{
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -26,7 +26,7 @@
 	}
 	"bottomVertRight"
 	{
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"

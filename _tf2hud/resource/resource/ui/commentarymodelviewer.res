@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"Frame"
 		"fieldName"		"commentary_modelviewer"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
@@ -24,7 +24,7 @@
 	{
 		"ControlName"		"CCommentaryModelPanel"
 		"fieldName"		"modelpanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 				
 		"wide"			"f0"

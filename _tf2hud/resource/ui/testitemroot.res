@@ -23,7 +23,7 @@
 		"font"			"HudFontMediumBold"
 		"labelText"		"#IT_Title"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"f0"
@@ -304,7 +304,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_TestingSlot_Weapon"
 			"textAlignment"	"east"
-			"xpos"			"0"
+			
 			"ypos"			"20"
 			"zpos"			"1"
 			"wide"			"85"
@@ -388,7 +388,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_TestingSlot_Headgear"
 			"textAlignment"	"east"
-			"xpos"			"0"
+			
 			"ypos"			"40"
 			"zpos"			"1"
 			"wide"			"85"
@@ -472,7 +472,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_TestingSlot_Misc1"
 			"textAlignment"	"east"
-			"xpos"			"0"
+			
 			"ypos"			"60"
 			"zpos"			"1"
 			"wide"			"85"
@@ -556,7 +556,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_TestingSlot_Misc2"
 			"textAlignment"	"east"
-			"xpos"			"0"
+			
 			"ypos"			"80"
 			"zpos"			"1"
 			"wide"			"85"
@@ -937,7 +937,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SteamWorkshopButtonSubButton"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"200"
 			"tall"			"26"

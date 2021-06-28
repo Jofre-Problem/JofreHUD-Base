@@ -60,7 +60,7 @@
 		{
 			"ControlName"	"CPicker"
 			"fieldName"		"Picker"
-			"xpos"			"0"
+			
 			"ypos"			"28"
 			"wide"			"268"
 			"tall"			"320"

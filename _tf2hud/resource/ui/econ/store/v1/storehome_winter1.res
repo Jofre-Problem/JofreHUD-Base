@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"StorePage"
-		"xpos"			"0"
+		
 		"ypos"			"40"
 		"wide"			"f0"
 		"tall"			"480"
@@ -110,7 +110,7 @@
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
-			"xpos"			"0"
+			
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"
@@ -141,7 +141,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SaxtonImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"275"
@@ -292,7 +292,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"BGImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"355"
@@ -310,7 +310,7 @@
 			"font"			"HudFontMediumSmallBold"
 			"labelText"		"#Store_IntroTitle_Winter1"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"5"
 			"zpos"			"2"
 			"wide"			"355"
@@ -389,7 +389,7 @@
 			"font"			"HudFontSmall"
 			"labelText"		"#Store_Promotions"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"168"
 			"zpos"			"2"
 			"wide"			"355"

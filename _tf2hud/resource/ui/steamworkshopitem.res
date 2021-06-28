@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CSteamWorkshopItemPanel"
 		"fieldName"		"SteamWorkshopItem"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"125"
 		"tall"		"200"
@@ -20,7 +20,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"HighlightPanel"
-		"xpos"		"0"
+		
 		"ypos"		"25"
 		"wide"		"125"
 		"tall"		"125"
@@ -46,7 +46,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"LabelTitle"
-		"xpos"		"0"
+		
 		"ypos"		"155"
 		"wide"		"125"
 		"tall"		"25"

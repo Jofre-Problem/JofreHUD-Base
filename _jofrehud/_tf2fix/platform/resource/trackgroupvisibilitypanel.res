@@ -60,7 +60,7 @@
 		{
 			"ControlName"	"CheckButtonList"
 			"fieldName"		"CheckButtonList"
-			"xpos"			"0"
+			
 			"ypos"			"28"
 			"wide"			"256"
 			"tall"			"420"

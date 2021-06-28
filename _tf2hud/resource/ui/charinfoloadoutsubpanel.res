@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"CharInfoLoadoutSubPanel"
-		"xpos"			"0"
+		
 		"ypos"			"40"
 		"wide"			"f0"
 		"tall"			"480"
@@ -295,7 +295,7 @@
 		"font"			"HudFontSmallestBold"
 		"labelText"		"#BackpackTitle"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		
 		"ypos"			"5"
 		"zpos"			"7"
 		"wide"			"120"
@@ -341,7 +341,7 @@
 		"font"			"HudFontSmallestBold"
 		"labelText"		"#CraftingExplanation_Title"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		
 		"ypos"			"5"
 		"zpos"			"7"
 		"wide"			"120"
@@ -387,7 +387,7 @@
 		"font"			"HudFontSmallestBold"
 		"labelText"		"#Armory"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		
 		"ypos"			"5"
 		"zpos"			"7"
 		"wide"			"120"
@@ -433,7 +433,7 @@
 		"font"			"HudFontSmallestBold"
 		"labelText"		"#TradingExplanation_Title"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		
 		"ypos"			"5"
 		"zpos"			"7"
 		"wide"			"120"
@@ -480,7 +480,7 @@
 		"font"			"HudFontSmallestBold"
 		"labelText"		"#PaintkitTitle"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		
 		"ypos"			"5"
 		"zpos"			"7"
 		"wide"			"120"
@@ -503,7 +503,7 @@
 		"font"			"HudFontSmallBold"
 		"labelText"		"classname"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		
 		"ypos"			"200"
 		"zpos"			"1"
 		"wide"			"300"
@@ -520,7 +520,7 @@
 		"font"			"HudFontSmall"
 		"labelText"		"classname"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		
 		"ypos"			"215"
 		"zpos"			"1"
 		"wide"			"300"
@@ -540,7 +540,7 @@
 		"font"			"HudFontSmallBold"
 		"labelText"		"#NoSteamNoItems"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		
 		"ypos"			"250"
 		"zpos"			"1"
 		"wide"			"f0"
@@ -558,7 +558,7 @@
 		"font"			"HudFontSmallBold"
 		"labelText"		"#NoGCNoItems"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		
 		"ypos"			"250"
 		"zpos"			"1"
 		"wide"			"f0"
@@ -576,7 +576,7 @@
 		"font"			"HudFontSmallBold"
 		"labelText"		"#SelectClassLoadout"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		
 		"ypos"			"300"
 		"zpos"			"1"
 		"wide"			"f0"
@@ -594,7 +594,7 @@
 		"font"			"HudFontSmallBold"
 		"labelText"		"#LoadoutChangesUpdate"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		
 		"ypos"			"35"
 		"zpos"			"1"
 		"wide"			"f0"
@@ -658,7 +658,7 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"StartExplanation"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"250"
@@ -751,7 +751,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -769,7 +769,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"125"
 			"zpos"			"-1"
 			"wide"			"300"
@@ -816,7 +816,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -833,7 +833,7 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"BackpackExplanation"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"250"
@@ -926,7 +926,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -973,7 +973,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -991,7 +991,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"100"
 			"zpos"			"-1"
 			"wide"			"250"
@@ -1038,7 +1038,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -1055,7 +1055,7 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"CraftingExplanation"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"250"
@@ -1148,7 +1148,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -1195,7 +1195,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -1213,7 +1213,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"110"
 			"zpos"			"-1"
 			"wide"			"250"
@@ -1260,7 +1260,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -1277,7 +1277,7 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"ArmoryExplanation"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"250"
@@ -1370,7 +1370,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -1417,7 +1417,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -1435,7 +1435,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"110"
 			"zpos"			"-1"
 			"wide"			"250"
@@ -1482,7 +1482,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -1499,7 +1499,7 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"TradingExplanation"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"250"
@@ -1592,7 +1592,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -1639,7 +1639,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -1657,7 +1657,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"110"
 			"zpos"			"-1"
 			"wide"			"250"
@@ -1704,7 +1704,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -1721,7 +1721,7 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"PatternsExplanation"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"250"
@@ -1814,7 +1814,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -1861,7 +1861,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -1879,7 +1879,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"110"
 			"zpos"			"-1"
 			"wide"			"250"
@@ -1926,7 +1926,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -1943,7 +1943,7 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"ExplanationExplanation"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"250"
@@ -2035,7 +2035,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -2082,7 +2082,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -2100,7 +2100,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"90"
 			"zpos"			"-1"
 			"wide"			"250"

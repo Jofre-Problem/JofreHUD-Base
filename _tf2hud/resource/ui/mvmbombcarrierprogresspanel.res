@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"BaseBackground"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"100"
 		"tall"			"30"
@@ -17,7 +17,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"FillContainer"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"20"
 		"tall"			"30"
@@ -28,7 +28,7 @@
 		{
 			"ControlName"	"ScalableImagePanel"
 			"fieldName"		"FillImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"100"
 			"tall"			"30"
@@ -42,7 +42,7 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"Frame"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"100"
 		"tall"			"30"

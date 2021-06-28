@@ -122,7 +122,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -170,7 +170,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -206,7 +206,7 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"ModesExplanation"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"250"
@@ -304,7 +304,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -352,7 +352,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -400,7 +400,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -530,7 +530,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -578,7 +578,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -626,7 +626,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -755,7 +755,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -803,7 +803,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -901,7 +901,7 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"MedalsHelp"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"250"
@@ -994,7 +994,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -1012,7 +1012,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"145"
 			"zpos"			"-1"
 			"wide"			"300"

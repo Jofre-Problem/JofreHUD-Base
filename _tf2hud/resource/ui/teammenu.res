@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CTeamMenu"
 		"fieldName"		"team"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
@@ -19,7 +19,7 @@
 	{
 		"ControlName"	"Menu"
 		"fieldName"		"SysMenu"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"64"
 		"tall"			"24"
@@ -281,7 +281,7 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MenuBG"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 				
 		"wide"			"f0"
@@ -311,7 +311,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ShadedBar"
-		"xpos"			"0"
+		
 		"ypos"			"r50"
 		//"ypos_lodef"			"r74"
 		//"ypos_hidef"			"r65"
@@ -382,7 +382,7 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"bluedoor"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"2"		
 		"wide"			"f0"
@@ -455,7 +455,7 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"reddoor"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"2"		
 		"wide"			"f0"
@@ -528,7 +528,7 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"autodoor"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"2"		
 		"wide"			"f0"
@@ -577,7 +577,7 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"spectate"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 				
 		"wide"			"f0"

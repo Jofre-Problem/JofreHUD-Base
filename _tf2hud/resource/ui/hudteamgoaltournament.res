@@ -21,7 +21,7 @@
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"HudStopWatchObjectiveBG"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"275"
@@ -43,7 +43,7 @@
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"HudStopWatchObjectiveBGSmall"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"275"

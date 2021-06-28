@@ -132,7 +132,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"BugBSPURL"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -151,7 +151,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"BugVMFURL"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -170,7 +170,7 @@
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"BugIncludedFiles"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -231,7 +231,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"BugSaveBSP"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -251,7 +251,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"BugSaveVMF"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -271,7 +271,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"BugIncludeFile"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -291,7 +291,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"BugClearIncludedFiles"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -388,7 +388,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"BugSubmitter"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -407,7 +407,7 @@
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"		"BugOwner"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -426,7 +426,7 @@
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"		"BugSeverity"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -464,7 +464,7 @@
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"		"BugPriority"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -483,7 +483,7 @@
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"		"BugArea"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -502,7 +502,7 @@
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"		"BugMapNumber"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"

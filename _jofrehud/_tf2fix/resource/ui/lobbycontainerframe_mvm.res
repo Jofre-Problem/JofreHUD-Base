@@ -135,7 +135,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_Matchmaking_PlayWithFriends"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"10"
 			"wide"			"200"

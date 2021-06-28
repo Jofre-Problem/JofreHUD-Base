@@ -3,7 +3,7 @@
 	"ItemBackground"
 	{
 		"ControlName"	"CTFImagePanel"
-		"xpos"			"0"
+		
 		"zpos"			"-2"
 		"wide"			"450"
 		"tall"			"180"

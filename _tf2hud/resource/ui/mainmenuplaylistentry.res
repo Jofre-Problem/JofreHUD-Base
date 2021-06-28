@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ModeImage"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"o4"
@@ -20,7 +20,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PlayListDropShadow"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1000"
 		"wide"			"f0"
@@ -36,7 +36,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGColor"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"f0"
@@ -53,7 +53,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ToolTipHack"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"50"
 		"wide"			"f0"
@@ -121,7 +121,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MatchmakingBanPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"f0"
@@ -203,7 +203,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"DisabledIcon"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"				"49"
 		"wide"				"f0"

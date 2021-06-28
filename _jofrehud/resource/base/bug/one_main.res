@@ -112,7 +112,7 @@
 	}
 	"BugEmail"
 	{
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -121,7 +121,7 @@
 	}
 	"BugSubitterLabelPublic"
 	{
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 	}

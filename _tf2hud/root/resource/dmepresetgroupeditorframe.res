@@ -40,7 +40,7 @@
 		{
 			"ControlName"	"CDmePresetGroupEditorPanel"
 			"fieldName"		"DmePresetGroupEditorPanel"
-			"xpos"			"0"
+			
 			"ypos"			"28"
 			"wide"			"480"
 			"tall"			"320"

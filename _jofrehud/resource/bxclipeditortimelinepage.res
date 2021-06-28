@@ -8,7 +8,7 @@
 	{
 		"ControlName"		"CClipEditorTimelinePage"
 		"fieldName"		"Timeline"
-		"xpos"		"0"
+		
 		"ypos"		"14"
 		"wide"		"1584"
 		"tall"		"223"

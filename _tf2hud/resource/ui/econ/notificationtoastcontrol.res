@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CNotificationToastControl"
 		"fieldName"		"NotificationToastControl"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"190"

@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"CommentaryNode"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"784"
 		"tall"		"480"

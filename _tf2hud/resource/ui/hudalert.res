@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"HudAlertBG"
-		"xpos"			"0"
+		
 		"ypos"			"30"
 		"zpos"			"-1"
 		"wide"			"320"

@@ -116,7 +116,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"topHorizLeft"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -135,7 +135,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"topVertLeft"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -154,7 +154,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"bottomHorizRight"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -173,7 +173,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"bottomVertRight"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"

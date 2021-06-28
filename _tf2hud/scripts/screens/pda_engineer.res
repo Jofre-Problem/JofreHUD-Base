@@ -5,7 +5,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"SentryLabel"
 		"font"			"Default"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"150"
 		"tall"			"30"
@@ -24,7 +24,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"SentryIcon"
-		"xpos"			"0"
+		
 		"ypos"			"15"
 		"wide"			"150"
 		"tall"			"150"
@@ -75,7 +75,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"TeleEnterLabel"
 		"font"			"Default"
-		"xpos"			"0"
+		
 		"ypos"			"185"
 		"wide"			"150"
 		"tall"			"30"
@@ -94,7 +94,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"TeleEnterIcon"
-		"xpos"			"0"
+		
 		"ypos"			"200"
 		"wide"			"150"
 		"tall"			"150"
@@ -145,7 +145,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"CancelLabel"
 		"font"			"Default"
-		"xpos"			"0"
+		
 		"ypos"			"370"
 		"wide"			"300"
 		"tall"			"30"

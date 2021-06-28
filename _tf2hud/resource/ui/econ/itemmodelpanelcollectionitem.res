@@ -19,7 +19,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"LoadingSpinner"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"		
 		"wide"			"f0"
@@ -37,7 +37,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MainContentsContainer"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -49,7 +49,7 @@
 			"ControlName"		"CEmbeddedItemModelPanel"
 			"fieldName"		"itemmodelpanel"
 	
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"		
 			"wide"			"140"
@@ -98,7 +98,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"namelabel"
 			"font"			"ItemFontNameLarge"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"2"
 			"wide"			"100"
@@ -118,7 +118,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"attriblabel"
 			"font"			"ItemFontAttribSmall"
-			"xpos"			"0"
+			
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"100"
@@ -212,7 +212,7 @@
 		{
 			"ControlName"	"CItemMaterialCustomizationIconPanel"
 			"fieldName"		"paint_icon"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"2"
 			"wide"			"16"

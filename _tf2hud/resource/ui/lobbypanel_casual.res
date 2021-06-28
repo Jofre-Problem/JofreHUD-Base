@@ -6,7 +6,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"LobbyPanel"
-		"xpos"			"0"
+		
 		"ypos"			"50"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -25,7 +25,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ModeBackgroundImage"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"f0"
@@ -247,7 +247,7 @@
 
 			"PartyLowPriorityImage"
 			{
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"50"
 				"tall"			"50"

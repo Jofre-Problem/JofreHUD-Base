@@ -5,7 +5,7 @@
 		"fieldName"		"MainMenuOverride"
 		"visible"		"1"
 		
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"f0"
@@ -21,7 +21,7 @@
 		"button_y_delta"	"5"
 		"button_kv"
 		{
-			"xpos"			"0"
+			
 			"ypos"			"150"
 			"wide"			"250"
 			"tall"			"26"
@@ -31,7 +31,7 @@
 			{
 				"ControlName"	"CExImageButton"
 				"fieldName"		"SubButton"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"250"
 				"tall"			"26"
@@ -78,7 +78,7 @@
 		
 		"SaxxySettings"
 		{
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"-101"		
 			"wide"			"f0"
@@ -144,7 +144,7 @@
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
-			"xpos"			"0"
+			
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"
@@ -418,7 +418,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TooltipPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"150"
@@ -527,7 +527,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"Notifications_ShowButtonPanel_SB"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"32"
@@ -558,7 +558,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"32"
@@ -593,7 +593,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SubButton"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -666,7 +666,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SubButton"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -741,7 +741,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"MOTD_ShowButtonPanel_SB"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"32"
@@ -772,7 +772,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"32"
@@ -807,7 +807,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"MOTD_HeaderContainer"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"300"
 			"tall"			"22"
@@ -820,7 +820,7 @@
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
 				"labelText"		"%motdheader%"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"300"
 				"tall"			"24"
@@ -877,7 +877,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -973,7 +973,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"MOTD_TitleImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"100"
 				"wide"			"250"
@@ -1000,7 +1000,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"MOTD_TextPanel"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"250"
 				"tall"			"300"
@@ -1014,7 +1014,7 @@
 					"font"			"HudFontSmall"
 					"labelText"		"%motdtext%"
 					"textAlignment"	"north-west"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"wide"			"250"
 					"tall"			"300"
@@ -1103,7 +1103,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"20"
@@ -1151,7 +1151,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"20"
@@ -1224,7 +1224,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -1270,7 +1270,7 @@
 			{
 				"ControlName"	"CMainMenuNotificationsControl"
 				"fieldName"		"Notifications_Control"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"220"
 				"tall"			"135"
@@ -1314,7 +1314,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SubButton"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"250"
 			"tall"			"26"
@@ -1512,7 +1512,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldname"		"Background"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			
 			"wide"			"260"
@@ -1826,7 +1826,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldname"		"Background"
-			"xpos"			"0"
+			
 			"ypos"			"20"
 			
 			"wide"			"260"
@@ -1845,7 +1845,7 @@
 				"font"			"HudFontSmallBold"
 				"labelText"		"#MMenu_SafeMode_Title"
 				"textAlignment"	"west"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"f0"
 				"tall"			"30"
@@ -2027,7 +2027,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SubButton"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"p1"
 			"tall"			"25"
@@ -2096,7 +2096,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SubButton"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"p1"
 			"tall"			"25"
@@ -2163,7 +2163,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SubButton"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"p1"
 			"tall"			"25"
@@ -2231,7 +2231,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SubButton"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"p1"
 			"tall"			"25"
@@ -2283,7 +2283,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BackgroundFooter"
-		"xpos"			"0"
+		
 		"ypos"			"420"
 		"zpos"			"-50"
 		"wide"			"f0"
@@ -2297,7 +2297,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"FooterLine"
-		"xpos"			"0"
+		
 		"ypos"			"420"
 		"zpos"			"-5"
 		"wide"			"f0"
@@ -2889,7 +2889,7 @@
 		"ControlName"		"CEmbeddedItemModelPanel"
 		"fieldName"		"icon_generator"
 
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"		
 		"wide"			"300"

@@ -6,7 +6,7 @@
 	{
 		"ControlName"	"CQuestMapPanel"
 		"fieldName"		"QuestMap"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1100"
 		"wide"			"f0"
@@ -23,7 +23,7 @@
 		{
 			"ControlName"	"Panel"
 			"fieldName"		"MouseBlocker"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"zpos"		"10000"
 			"wide"		"f0"
@@ -66,7 +66,7 @@
 			"attriblabel"
 			{
 				"font"			"ItemFontAttribLarge"
-				"xpos"			"0"
+				
 				"ypos"			"30"
 				"zpos"			"2"
 				"wide"			"140"
@@ -86,7 +86,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"TooltipPanel"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1001"
 			"wide"			"240"
@@ -127,7 +127,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Dimmer"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"zpos"		"-2"
 			"wide"		"f0"
@@ -144,7 +144,7 @@
 		{
 			"ControlName"	"Button"
 			"fieldName"		"OutsideCloseButton"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"zpos"		"-1"
 			"wide"		"f0"
@@ -214,7 +214,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"1"
 					"wide"			"14"
@@ -263,7 +263,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"1"
 					"wide"			"o1"
@@ -461,7 +461,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"1"
 					"wide"			"14"
@@ -507,7 +507,7 @@
 				{
 					"ControlName"	"EditablePanel"
 					"fieldName"		"Introduction"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"8000"
 					"wide"			"f0"
@@ -519,7 +519,7 @@
 					{
 						"ControlName"	"ImagePanel"
 						"fieldName"		"StaticBG"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						
 						"wide"			"f0"
@@ -539,7 +539,7 @@
 					{
 						"ControlName"	"EditablePanel"
 						"fieldName"		"StaticDarken"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						
 						"wide"			"f0"
@@ -914,7 +914,7 @@
 					{
 						"ControlName"	"Panel"
 						"fieldName"		"BorderOverlay"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						"zpos"			"300"
 						"wide"			"f0"
@@ -944,7 +944,7 @@
 					{
 						"ControlName"	"Label"
 						"fieldName"		"BodyText"
-						"xpos"			"0"
+						
 						"ypos"			"90"
 						"zpos"			"300"
 						"wide"			"f0"
@@ -962,7 +962,7 @@
 				{
 					"ControlName"	"EditablePanel"
 					"fieldName"		"GlobalStatus"
-					"xpos"			"0"
+					
 					"ypos"			"rs1"
 					"zpos"			"3"
 					"wide"			"f0"
@@ -1122,7 +1122,7 @@
 				"SelectedNodeInfoPanel"
 				{
 					"fieldName"		"SelectedNodeInfoPanel"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"10"
 					"wide"			"200"
@@ -1169,7 +1169,7 @@
 					"ItemTrackerPanel"
 					{
 						"fieldName"		"ItemTrackerPanel"
-						"xpos"			"0"	
+							
 						"ypos"			"25"
 						"wide"			"f0"	
 						"tall"			"200"
@@ -1194,7 +1194,7 @@
 
 						"progressbarKV"
 						{
-							"xpos"			"0"
+							
 							"ypos"			"8"
 							"wide"			"f15"
 							"tall"			"6"
@@ -1210,7 +1210,7 @@
 								"ControlName"	"Label"
 								"fieldName"		"PointsLabel"
 								"labeltext"		"%points%"
-								"xpos"			"0"
+								
 								"ypos"			"0"
 								"wide"			"f0"
 								"tall"			"f0"
@@ -1225,7 +1225,7 @@
 							{
 								"ControlName"	"EditablePanel"
 								"fieldName"		"ProgressBarStandardHighlight"
-								"xpos"			"0"
+								
 								"ypos"			"0"
 								"wide"			"f0"
 								"tall"			"f0"
@@ -1240,7 +1240,7 @@
 									"ControlName"	"Label"
 									"fieldName"		"PointsLabelInvert"
 									"labeltext"		"%points%"
-									"xpos"			"0"
+									
 									"ypos"			"0"
 									"wide"			"f0"
 									"tall"			"f0"
@@ -1257,7 +1257,7 @@
 							{
 								"ControlName"	"EditablePanel"
 								"fieldName"		"ProgressBarStandard"
-								"xpos"			"0"
+								
 								"ypos"			"0"
 								"wide"			"f0"
 								"tall"			"f0"
@@ -1273,7 +1273,7 @@
 									"ControlName"	"Label"
 									"fieldName"		"PointsLabelInvert"
 									"labeltext"		"%points%"
-									"xpos"			"0"
+									
 									"ypos"			"0"
 									"wide"			"f0"
 									"tall"			"f0"
@@ -1305,7 +1305,7 @@
 					{
 						"ControlName"	"Panel"
 						"fieldName"		"BlackBG"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						"zpos"			"-2"
 						"wide"			"f0"
@@ -1323,7 +1323,7 @@
 					{
 						"ControlName"	"Panel"
 						"fieldName"		"Dimmer"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						"zpos"			"-1"
 						"wide"			"f0"
@@ -1342,7 +1342,7 @@
 					{
 						"ControlName"	"Panel"
 						"fieldName"		"TitleBorder"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						"zpos"			"-2"
 						"wide"			"f0"
@@ -1458,7 +1458,7 @@
 				{
 					"ControlName"	"EditablePanel"
 					"fieldName"		"DisconnetedContainer"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"wide"			"f0"
 					"tall"			"f0"
@@ -1489,7 +1489,7 @@
 					{
 						"ControlName"	"ImagePanel"
 						"fieldName"		"StaticBackground"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						
 						"wide"			"f0"
@@ -1510,7 +1510,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"StaticBar1"
-					"xpos"			"0"
+					
 					"ypos"			"50"
 					"zpos"			"9000"
 					"wide"			"f0"
@@ -1532,7 +1532,7 @@
 				{
 					"ControlName"	"EditablePanel"
 					"fieldName"		"StaticBar2"
-					"xpos"			"0"
+					
 					"ypos"			"120"
 					"zpos"			"9000"
 					"wide"			"f0"
@@ -1550,7 +1550,7 @@
 				{
 					"ControlName"	"Panel"
 					"fieldName"		"BlackOverlay"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"8999"
 					"wide"			"f0"
@@ -1568,7 +1568,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"StaticOverlay"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"9000"
 					"wide"			"f0"

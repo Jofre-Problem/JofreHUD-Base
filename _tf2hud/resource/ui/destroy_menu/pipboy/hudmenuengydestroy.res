@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MainBackground"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"450"
@@ -18,7 +18,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemBackground"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-2"
 		"wide"			"450"
@@ -51,7 +51,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"DestroyIcon"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"64"

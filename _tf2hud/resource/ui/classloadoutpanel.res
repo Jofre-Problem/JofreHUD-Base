@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"class_loadout_panel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		
@@ -70,7 +70,7 @@
 		"itemoptionpanels_kv"
 		{
 			"ControlName"	"CExButton"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"14"
@@ -240,7 +240,7 @@
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"2"
 			"wide"			"140"
@@ -295,7 +295,7 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"PresetsExplanation"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"250"
@@ -388,7 +388,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -405,7 +405,7 @@
 	{
 		"ControlName"	"CLoadoutParticleSlider"
 		"fieldname"		"ItemOptionsPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"100"
 		"wide"			"140"
@@ -515,7 +515,7 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"TauntsExplanation"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"250"
@@ -608,7 +608,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"

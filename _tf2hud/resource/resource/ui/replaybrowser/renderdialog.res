@@ -25,7 +25,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"250"
 		"visible"		"1"
@@ -42,7 +42,7 @@
 		"font"			"HudFontMediumBold"
 		"labelText"		"#Replay_RenderReplay"
 		"textAlignment"	"west"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"300"
@@ -86,7 +86,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"RenderButton"
-		"xpos"			"0"
+		
 		"ypos"			"10"
 		"zpos"			"20"
 		"wide"			"75"
@@ -119,7 +119,7 @@
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
 		"wrap"			"0"
-		"xpos"			"0"
+		
 		"wide"			"54"
 		"tall"			"20"
 		
@@ -161,7 +161,7 @@
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
 		"wrap"			"0"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"300"
@@ -183,7 +183,7 @@
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
 		"wrap"			"0"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"300"
@@ -201,7 +201,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"SeparatorLine"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"220"
@@ -220,7 +220,7 @@
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
 		"wrap"			"0"
-		"xpos"			"0"
+		
 		"wide"			"54"
 		"tall"			"20"
 		
@@ -262,7 +262,7 @@
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
 		"wrap"			"0"
-		"xpos"			"0"
+		
 		"wide"			"54"
 		"tall"			"20"
 		
@@ -304,7 +304,7 @@
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
 		"wrap"			"0"
-		"xpos"			"0"
+		
 		"wide"			"80"
 		"tall"			"20"
 		
@@ -341,7 +341,7 @@
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
 		"wrap"			"0"
-		"xpos"			"0"
+		
 		"wide"			"60"
 		"tall"			"20"
 		
@@ -378,7 +378,7 @@
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
 		"wrap"			"0"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"300"
@@ -400,7 +400,7 @@
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
 		"wrap"			"0"
-		"xpos"			"0"
+		
 		"wide"			"170"
 		"tall"			"8"
 		
@@ -419,7 +419,7 @@
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
 		"wrap"			"0"
-		"xpos"			"0"
+		
 		"wide"			"170"
 		"tall"			"8"
 		
@@ -438,7 +438,7 @@
 		"font"			"ReplayVerySmall"
 		"labelText"		"#Replay_Title"
 		"textAlignment"	"west"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"300"
@@ -459,7 +459,7 @@
 		"textAlignment"	"west"
 		"unicode"		"0"
 		"wrap"			"0"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"50"
 		"wide"			"220"
@@ -481,7 +481,7 @@
 		"font"			"ReplayVerySmall"
 		"labelText"		"#Replay_NotAllVideoModesAvailable"
 		"textAlignment"	"west"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"220"
@@ -501,7 +501,7 @@
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
 		"wrap"			"0"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"300"
@@ -523,7 +523,7 @@
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
 		"wrap"			"0"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"300"
@@ -545,7 +545,7 @@
 		"Font"			"ReplayVerySmall"
 		"textAlignment"	"west"
 		"wrap"			"0"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"300"
@@ -566,7 +566,7 @@
 		"font"			"ReplayMediumSmall"
 		"labelText"		"#Replay_LockWarning"
 		"textAlignment"	"west"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"250"

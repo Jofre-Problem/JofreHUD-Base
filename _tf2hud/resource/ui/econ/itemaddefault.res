@@ -12,7 +12,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"Background"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"f0"
@@ -66,7 +66,7 @@
 		{
 			"ControlName"	"ScrollBar"
 			"FieldName"		"ScrollBar"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"tall"			"f0"
 			"wide"			"5" // This gets slammed from client schme.  GG.
@@ -100,7 +100,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"ItemAdText"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"f0"
 			"tall"			"100"

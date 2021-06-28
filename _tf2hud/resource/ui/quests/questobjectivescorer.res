@@ -14,7 +14,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ScorerLabel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -30,7 +30,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ScorerLabelBlur"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"

@@ -22,7 +22,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"StatPanelClassImage"
-		"xpos"			"0"
+		
 		//"xpos_lodef"	"3"
 		"ypos"			"30"
 		//"ypos_lodef"	"17"

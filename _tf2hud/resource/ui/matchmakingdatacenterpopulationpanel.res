@@ -16,7 +16,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"DataCenterNameLabel"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"zpos"		"3"
 		"wide"		"f0"
@@ -34,7 +34,7 @@
 	{
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"HealthProgressBar"
-		"xpos"			"0"
+		
 		"ypos"			"cs-0.5"
 		"wide"			"f0"
 		"tall"			"f2"

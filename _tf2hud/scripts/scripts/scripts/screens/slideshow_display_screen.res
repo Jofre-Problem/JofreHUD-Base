@@ -6,7 +6,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"SlideshowImage"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-3"
 		"wide"			"256"
@@ -46,7 +46,7 @@
 	{
 		"ControlName"	"MaterialImage"
 		"fieldName"		"Overlay"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"256"

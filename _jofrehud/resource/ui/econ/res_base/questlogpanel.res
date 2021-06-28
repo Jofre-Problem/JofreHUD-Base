@@ -49,7 +49,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MainContainer"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10"
 		"wide"			"f0"
@@ -81,7 +81,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"QuestLogTitleBg"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"2"
 			"wide"			"300"
@@ -102,7 +102,7 @@
 			"labelText"		"#QuestLog_Title"
 			"textAlignment"	"west"
 			"textinsetx"	"15"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"3"
 			"wide"			"300"
@@ -153,7 +153,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -208,7 +208,7 @@
 		{		
 			"ControlName"	"CItemModelPanel"
 			"fieldName"		"CoinModelPanel"
-			"xpos"			"0"
+			
 			"ypos"			"cs-0.5"
 			"zpos"			"2"
 			"wide"			"30"
@@ -302,7 +302,7 @@
 				"font"			"AdFont_AdText"
 				"labelText"		""
 				"textAlignment"	"center"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"3"
 				"wide"			"f0"
@@ -382,7 +382,7 @@
 				"font"			"AdFont_AdText"
 				"labelText"		""
 				"textAlignment"	"center"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"3"
 				"wide"			"f0"

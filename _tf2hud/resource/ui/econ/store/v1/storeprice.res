@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CStorePricePanel"
 		"fieldName"		"StorePrice"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"15"
 		"visible"		"1"
@@ -103,7 +103,7 @@
 		"fieldName"		"Highlighted"
 		"font"			"FontStorePrice"
 		"textAlignment"	"east"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"18"
 		"wide"			"85"
@@ -142,7 +142,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"StorePriceBorder"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"87"

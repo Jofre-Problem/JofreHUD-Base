@@ -7,7 +7,7 @@
 		"font"			"HudFontSmallestBold"
 		"labelText"		"x"
 		"textAlignment" "center"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"32"
 		"tall"			"32"
@@ -18,7 +18,7 @@
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"EconItemModel"
-		"xpos"			"0"
+		
 		"ypos"			"6"
 		"wide"			"32"
 		"tall"			"20"

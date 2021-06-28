@@ -29,7 +29,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"localPlayerBG"
-		"xpos"			"0"
+		
 		"ypos"			"140"
 		"zpos"			"2"
 		"wide"			"45"
@@ -128,7 +128,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage0"
-		"xpos"			"0"
+		
 		"ypos"			"125"
 		"zpos"			"3"
 		"wide"			"45"
@@ -142,7 +142,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage1"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
@@ -156,7 +156,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage2"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
@@ -170,7 +170,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage3"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
@@ -184,7 +184,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage4"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
@@ -198,7 +198,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage5"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
@@ -212,7 +212,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage6"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
@@ -226,7 +226,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage7"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
@@ -240,7 +240,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage8"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
@@ -254,7 +254,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage9"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
@@ -268,7 +268,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage10"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
@@ -282,7 +282,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage11"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"

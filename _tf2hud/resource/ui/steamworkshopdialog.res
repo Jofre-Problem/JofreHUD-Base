@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CSteamWorkshopDialog"
 		"fieldName"		"SteamWorkshopDialog"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"f0"
@@ -37,7 +37,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Background"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"wide"		"600"
 			"tall"		"400"
@@ -53,7 +53,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"WorkshopBranding"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			
 			"wide"			"600"
@@ -68,7 +68,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"BackgroundBottom"
-			"xpos"		"0"
+			
 			"ypos"		"355"
 			"wide"		"600"
 			"tall"		"45"
@@ -104,7 +104,7 @@
 				"font"			"HudFontMediumBold"
 				"labelText"		"#TF_SteamWorkshop_Title"
 				"textAlignment"	"center"
-				"xpos"			"0"
+				
 				"ypos"			"15"
 				"zpos"			"1"
 				"wide"			"550"

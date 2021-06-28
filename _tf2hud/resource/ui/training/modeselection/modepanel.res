@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ModeInfoContainer"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"225"
 		"tall"			"205"
@@ -18,7 +18,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%modename%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"7"
 			"zpos"			"2"
 			"wide"			"225"
@@ -38,7 +38,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"%description%"
 			"textAlignment"	"north"
-			"xpos"			"0"
+			
 			"ypos"			"175"
 			"zpos"			"2"
 			"wide"			"225"

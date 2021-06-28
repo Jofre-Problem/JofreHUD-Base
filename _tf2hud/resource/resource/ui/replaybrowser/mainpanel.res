@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ReplayBrowser"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
@@ -36,7 +36,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BackgroundHeader"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-2"
 		"wide"			"f0"
@@ -50,7 +50,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BackgroundFooter"
-		"xpos"			"0"
+		
 		"ypos"			"420"
 		"zpos"			"-2"
 		"wide"			"f0"
@@ -64,7 +64,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"FooterLine"
-		"xpos"			"0"
+		
 		"ypos"			"422"
 		"zpos"			"-1"
 		"wide"			"f0"
@@ -89,7 +89,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"HeaderLine"
-			"xpos"			"0"
+			
 			"ypos"			"32"
 			"zpos"			"5"
 			"wide"			"f0"

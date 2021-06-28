@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CVarListPropertyPage"
 		"fieldName"		"ServerConfigPanel"
-		"xpos"		"0"
+		
 		"ypos"		"28"
 		"wide"		"520"
 		"tall"		"332"

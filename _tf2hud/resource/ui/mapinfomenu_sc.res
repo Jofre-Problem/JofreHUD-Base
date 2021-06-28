@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"mapinfo"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"f0"
@@ -250,7 +250,7 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MenuBG"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 				
 		"wide"			"f0"
@@ -280,7 +280,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ShadedBar"
-		"xpos"			"0"
+		
 		"ypos"			"r50"
 		//"ypos_lodef"			"r74"
 		//"ypos_hidef"			"r65"

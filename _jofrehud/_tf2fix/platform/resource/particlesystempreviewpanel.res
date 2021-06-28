@@ -8,10 +8,10 @@
 		
 		
 		"AutoResize"	"3"
-		"PinnedCornerOffsetX" "0"
-		"PinnedCornerOffsetX" "0"
-		"UnpinnedCornerOffsetX" "0"
-		"UnpinnedCornerOffsetY" "0"
+		
+		
+		
+		
 		"splitter0"		"192"
 				
 		"child0"
@@ -20,16 +20,16 @@
 			{
 				"ControlName"	"PropertySheet"
 				"fieldName"		"ControlSheet"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"463"
 				"tall"			"212"
 				"AutoResize"	"3"
 				
-				"PinnedCornerOffsetX" "0"
-				"PinnedCornerOffsetY" "0"
-				"UnpinnedCornerOffsetX" "0"
-				"UnpinnedCornerOffsetY" "0"
+				
+				
+				
+				
 				"visible"		"1"
 				
 				"tabPosition"	"1"
@@ -42,16 +42,16 @@
 			{
 				"ControlName"	"CParticleSystemPanel"
 				"fieldName"		"ParticlePreview"
-				"xpos"			"0"
-				"ypos"			"00"
+				
+				
 				"wide"			"463"
 				"tall"			"212"
 				"AutoResize"	"3"
 				
-				"PinnedCornerOffsetX" "0"
-				"PinnedCornerOffsetY" "0"
-				"UnpinnedCornerOffsetX" "0"
-				"UnpinnedCornerOffsetY" "0"
+				
+				
+				
+				
 				"visible"		"1"
 				
 				"tabPosition"	"1"

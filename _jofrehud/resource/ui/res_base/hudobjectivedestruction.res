@@ -31,7 +31,7 @@
 		"robot_kv"
 		{
 			"ControlName"	"CTFHudRobotDestruction_RobotIndicator"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"20"
 			"tall"			"20"
@@ -252,7 +252,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabel"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"8"
 					"wide"			"95"
@@ -288,7 +288,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelTime"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"8"
 					"wide"			"55"
@@ -432,7 +432,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelTime"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"8"
 					"wide"			"55"
@@ -683,7 +683,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"DroppedIntelImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					
 					"wide"			"f0"
@@ -700,7 +700,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"IntelValue"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"12"
 				"wide"			"f0"
@@ -783,7 +783,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"DroppedIntelImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					
 					"wide"			"f0"
@@ -800,7 +800,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"IntelValue"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"12"
 				"wide"			"f0"

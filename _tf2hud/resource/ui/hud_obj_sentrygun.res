@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"BuildingStatusItem"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"160"
 		"tall"			"60"
@@ -19,7 +19,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"Background"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"120"
@@ -80,7 +80,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"NotBuiltPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"160"
 		"tall"			"60"
@@ -111,7 +111,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BuiltPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"160"
 		"tall"			"60"
@@ -245,7 +245,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"BuildingLabel"
 				"font"			"DefaultSmall"
-				"xpos"			"0"
+				
 				"ypos"			"18"
 				"wide"			"200"
 				"tall"			"12"
@@ -264,7 +264,7 @@
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"BuildingProgress"
 				"font"			"Default"
-				"xpos"			"0"
+				
 				"ypos"			"29"
 				"wide"			"50"
 				"tall"			"8"				
@@ -292,7 +292,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"KillIcon"
-				"xpos"			"0"
+				
 				"ypos"			"12"
 				"zpos"			"1"
 				"wide"			"10"
@@ -327,7 +327,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"ShellIcon"
-				"xpos"			"0"
+				
 				"ypos"			"25"
 				"zpos"			"1"
 				"wide"			"10"
@@ -361,7 +361,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"RocketIcon"
-				"xpos"			"0"
+				
 				"ypos"			"38"
 				"zpos"			"1"
 				"wide"			"10"
@@ -395,7 +395,7 @@
 			{
 				"ControlName"	"CIconPanel"
 				"fieldName"		"UpgradeIcon"
-				"xpos"			"0"
+				
 				"ypos"			"38"
 				"zpos"			"1"
 				"wide"			"10"

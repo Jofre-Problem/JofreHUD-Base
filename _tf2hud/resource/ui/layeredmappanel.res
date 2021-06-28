@@ -9,7 +9,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-2"
 		"wide"			"f0"
@@ -31,7 +31,7 @@
 		{
 			"ControlName"	"ScalableImagePanel"
 			"fieldName"		"BaseMapImage"
-			"xpos"			"0"
+			
 			"ypos"			"-68"
 			"zpos"			"-1"
 			"wide"			"480"
@@ -56,7 +56,7 @@
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"TourLabelBackground"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"300"
 			"tall"			"30"
@@ -80,7 +80,7 @@
 			"font"			"HudFontMediumSmall"
 			"labelText"		"Tour of Duty 1"
 			"textAlignment" "center"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"300"
 			"tall"			"30"
@@ -92,7 +92,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ToolTipPanel"
-		"xpos"			"0"
+		
 		"ypos"			"300"
 		"wide"			"180"
 		"tall"			"180"
@@ -102,7 +102,7 @@
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"Background"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"180"
@@ -127,7 +127,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%tooltipdescription%"
 			"textAlignment" "center"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"180"
 			"tall"			"180"

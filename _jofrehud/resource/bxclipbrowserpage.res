@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CClipBrowserPage"
 		"fieldName"		"#BxToolClipBrowser"
-		"xpos"		"0"
+		
 		"ypos"		"14"
 		"wide"		"968"
 		"tall"		"597"

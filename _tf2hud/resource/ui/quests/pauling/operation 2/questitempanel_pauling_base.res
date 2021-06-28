@@ -73,7 +73,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"PaperImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"1"
 					"wide"			"f0"
@@ -100,7 +100,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"FrontFolderContainer"
-				"xpos"		"0"
+				
 				"ypos"		"0"
 				"zpos"		"100"
 				"wide"		"f0"
@@ -117,7 +117,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"FrontFolderImage"
-					"xpos"			"0"
+					
 					"ypos"			"-10"
 					"zpos"			"9"
 					"wide"			"f0"
@@ -136,7 +136,7 @@
 				{
 					"ControlName"	"CInputProxyPanel"
 					"fieldName"		"FrontInputProxyPanel"
-					"xpos"		"0"
+					
 					"ypos"		"0"
 					"zpos"		"100"
 					"wide"		"f0"
@@ -170,7 +170,7 @@
 						{
 							"ControlName"	"ImagePanel"
 							"fieldName"		"Background"
-							"xpos"			"0"
+							
 							"ypos"			"0"
 							
 							"wide"			"f0"
@@ -232,7 +232,7 @@
 						{
 							"ControlName"	"ImagePanel"
 							"fieldName"		"Background"
-							"xpos"			"0"
+							
 							"ypos"			"0"
 							
 							"wide"			"f0"
@@ -298,7 +298,7 @@
 						{
 							"ControlName"	"ImagePanel"
 							"fieldName"		"Background"
-							"xpos"			"0"
+							
 							"ypos"			"0"
 							
 							"wide"			"f0"

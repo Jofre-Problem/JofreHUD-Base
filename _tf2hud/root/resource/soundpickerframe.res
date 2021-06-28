@@ -60,7 +60,7 @@
 		{
 			"ControlName"	"CSoundPicker"
 			"fieldName"		"AssetPicker"
-			"xpos"			"0"
+			
 			"ypos"			"28"
 			"wide"			"475"
 			"tall"			"320"

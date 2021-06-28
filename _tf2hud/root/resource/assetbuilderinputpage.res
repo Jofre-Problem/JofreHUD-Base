@@ -22,10 +22,10 @@
 			
 			
 			"AutoResize"	"3"
-			"PinnedCornerOffsetX" "0"
-			"PinnedCornerOffsetY" "0"
-			"UnpinnedCornerOffsetX" "0"
-			"UnpinnedCornerOffsetY" "0"
+			
+			
+			
+			
 			"splitter0" "192"
 			
 			"child0"

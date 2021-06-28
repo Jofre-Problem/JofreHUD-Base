@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"FloatingAchievementNumber"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"4"
 		"wide"			"128"
@@ -17,7 +17,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"FloatingNumberLabel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"4"
 		"wide"			"128"

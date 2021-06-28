@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CTankProgressBar"
 		"fieldName"		"TankProgressBar"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"190"

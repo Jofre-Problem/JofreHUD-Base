@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CToolViewportPage"
 		"fieldName"		"#BxToolEngineViewport"
-		"xpos"		"0"
+		
 		"ypos"		"14"
 		"wide"		"1154"
 		"tall"		"944"

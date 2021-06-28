@@ -9,7 +9,7 @@
 	{
 		"ControlName"		"CChatPanel"
 		"fieldName"		"ChatPanel"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -23,7 +23,7 @@
 	{
 		"ControlName"		"CVarListPropertyPage"
 		"fieldName"		"ServerConfigPanel"
-		"xpos"		"0"
+		
 		"ypos"		"28"
 		"wide"		"520"
 		"tall"		"332"
@@ -36,7 +36,7 @@
 	"BudgetPanel"
 	{
 		"ControlName"		"CBudgetPanelContainer"
-		"xpos"		"0"
+		
 		"ypos"		"28"
 		"wide"		"520"
 		"tall"		"332"
@@ -49,7 +49,7 @@
 	{
 		"ControlName"		"CVarListPropertyPage"
 		"fieldName"		"ServerInfo"
-		"xpos"		"0"
+		
 		"ypos"		"28"
 		"wide"		"520"
 		"tall"		"332"

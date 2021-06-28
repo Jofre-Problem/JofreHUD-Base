@@ -119,7 +119,7 @@
 		"Font"			"ReplayMediumSmall"
 		"TextAlignment"	"west"
 		"fgcolor_override"	"117 107 94 255"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"65"
 		"tall"			"10"
@@ -133,7 +133,7 @@
 		"Font"			"ReplayMediumSmall"
 		"TextAlignment"	"west"
 		"fgcolor_override"	"117 107 94 255"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"120"
 		"tall"			"10"

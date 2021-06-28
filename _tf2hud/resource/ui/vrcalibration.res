@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-2"
 		"wide"			"f0"
@@ -34,7 +34,7 @@
 		"font"			"HudFontBiggerBold"
 		"labelText"		"#TF_VR_Calibration"
 		"textAlignment" "center"
-		"xpos"			"0"
+		
 		"ypos"			"75"
 		"wide"			"f0"
 		"tall"			"35"
@@ -57,7 +57,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"IsActive"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"f0"
@@ -73,7 +73,7 @@
 			"font"			"ScoreboardMedium"
 			"labelText"		"%eyestats%"
 			"textAlignment" "center"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"400"
 			"tall"			"35"
@@ -97,7 +97,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"IsActive"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"f0"
@@ -113,7 +113,7 @@
 			"font"			"ScoreboardMedium"
 			"labelText"		"%eyestats%"
 			"textAlignment" "center"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"400"
 			"tall"			"35"
@@ -137,7 +137,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"IsActive"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"f0"
@@ -153,7 +153,7 @@
 			"font"			"ScoreboardMedium"
 			"labelText"		"%ipdstats%"
 			"textAlignment" "center"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"400"
 			"tall"			"35"
@@ -177,7 +177,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"IsActive"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"f0"
@@ -193,7 +193,7 @@
 			"font"			"ScoreboardMedium"
 			"labelText"		"%eyerelief%"
 			"textAlignment" "center"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"400"
 			"tall"			"35"
@@ -217,7 +217,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"IsActive"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"f0"
@@ -233,7 +233,7 @@
 			"font"			"ScoreboardMedium"
 			"labelText"		"%eyerelief%"
 			"textAlignment" "center"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"400"
 			"tall"			"35"
@@ -251,7 +251,7 @@
 		"font"			"ScoreboardMedium"
 		"labelText"		"#TF_VR_MoveLine"		// Will be changed by code.
 		"textAlignment" "center"
-		"xpos"			"0"
+		
 		"ypos"			"215"
 		"wide"			"f0"
 		"tall"			"70"
@@ -268,7 +268,7 @@
 		"font"			"ScoreboardMedium"
 		"labelText"		"#TF_VR_UseControls"
 		"textAlignment" "center"
-		"xpos"			"0"
+		
 		"ypos"			"275"
 		"wide"			"f0"
 		"tall"			"70"

@@ -20,7 +20,7 @@
 	{
 		"ControlName"	"CColorOperationListPanel"
 		"fieldName"		"ColorOperationListPanel"
-		"xpos"			"0"
+		
 		"ypos"			"32"
 		"wide"			"250"
 		"tall"			"448"

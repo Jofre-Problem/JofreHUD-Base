@@ -6,7 +6,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"TimeImage"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"101"
 		"wide"			"20"
@@ -106,7 +106,7 @@
 		"fgcolor_override"	"TanLight"
 		"labelText"		"%expire%"
 		"textalignment"	"north-west"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"f0"
@@ -127,7 +127,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"FlashColor"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"999"
 		"wide"			"f0"
@@ -145,7 +145,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BorderOverlay"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1001"
 		"wide"			"f0"

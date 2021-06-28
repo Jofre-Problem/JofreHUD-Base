@@ -6,7 +6,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"QuestItemPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"o1.1"
@@ -52,7 +52,7 @@
 		"tracker_kv"
 		{
 			"fieldName"	"ItemTrackerPanel"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"wide"		"f0"
 			"tall"		"f0"
@@ -66,7 +66,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"GlowImage"
-				"xpos"			"0"
+				
 				"ypos"			"-15"
 				"zpos"			"1"
 				"wide"			"f0"
@@ -88,7 +88,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"PaperImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"1"
 					"wide"			"f0"
@@ -107,7 +107,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"EncodedImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"199"
 					"wide"			"f0"
@@ -199,7 +199,7 @@
 					{
 						"ControlName"	"EditablePanel"
 						"fieldName"		"Dimmer"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						
 						"wide"			"f0"
@@ -243,7 +243,7 @@
 					{
 						"ControlName"	"EditablePanel"
 						"fieldName"		"Dimmer"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						
 						"wide"			"f0"
@@ -259,7 +259,7 @@
 					{
 						"ControlName"	"EditablePanel"
 						"fieldName"		"GreyDimmer"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						
 						"wide"			"f0"
@@ -275,7 +275,7 @@
 					{
 						"ControlName"	"CExButton"
 						"fieldName"		"TurnInButton"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						"zpos"			"10"
 						"wide"			"f0"
@@ -404,7 +404,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"FrontFolderContainer"
-				"xpos"		"0"
+				
 				"ypos"		"0"
 				"zpos"		"100"
 				"wide"		"f0"

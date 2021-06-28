@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"HudStopWatchBG"
-		"xpos"			"0"
+		
 		"ypos"			"5"
 		"zpos"			"-1"
 		"wide"			"125"
@@ -100,7 +100,7 @@
 		"font"			"HudFontMediumBold"
 		"labelText"		"%scoretobeat%"
 		"textAlignment"		"east"
-		"xpos"			"0"
+		
 		"ypos"			"6"
 		"zpos"			"4"
 		"wide"			"93"
@@ -122,7 +122,7 @@
 		"font"			"HudFontSmallest"
 		"labelText"		"%pointslabel%"
 		"textAlignment"		"east"
-		"xpos"			"0"
+		
 		"ypos"			"9"
 		"zpos"			"4"
 		"wide"			"120"
@@ -167,7 +167,7 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"HudStopWatchDescriptionBG"
-		"xpos"			"0"
+		
 		"ypos"			"27"
 		"zpos"			"-1"
 		"wide"			"125"
@@ -198,7 +198,7 @@
 		"font"			"ClockSubTextTiny"
 		"labelText"		"%descriptionlabel%"
 		"textAlignment"		"center"
-		"xpos"			"0"
+		
 		"ypos"			"23"
 		"zpos"			"4"
 		"wide"			"125"

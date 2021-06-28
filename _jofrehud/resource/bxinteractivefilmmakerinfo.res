@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CInteractiveFilmMakerInfo"
 		"fieldName"		"BxMovieInfo"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"zpos"		"140"
 		"wide"		"1600"
@@ -59,7 +59,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"Skipping"
-		"xpos"		"0"
+		
 		"ypos"		"450"
 		"wide"		"1600"
 		"tall"		"30"

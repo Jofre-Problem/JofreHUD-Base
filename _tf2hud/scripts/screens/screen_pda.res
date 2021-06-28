@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"TestLabel"
-		"xpos"			"0"
+		
 		"ypos"			"30"
 		"wide"			"200"
 		"tall"			"40"

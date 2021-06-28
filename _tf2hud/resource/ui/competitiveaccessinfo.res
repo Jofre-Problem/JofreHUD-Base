@@ -113,7 +113,7 @@
 			{
 				"Controlname"	"EditablePanel"
 				"fieldName"		"Frame"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -127,7 +127,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldname"		"Background"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				
 				"wide"			"f0"
@@ -144,7 +144,7 @@
 			{
 				"ControlName"	"CExImageButton"
 				"fieldName"		"PremiumButton"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"10"
 				"wide"			"p0.3"

@@ -66,7 +66,7 @@
 				{
 					"ControlName"	"EditablePanel"
 					"fieldName"		"InnerShadow"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"100"
 					"wide"			"f0"

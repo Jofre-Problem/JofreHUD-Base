@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"MaterialImage"
 		"fieldName"		"Background"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-2"
 		"wide"			"480"
@@ -17,7 +17,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"TimeRemainingTitle"
-		"xpos"			"0"
+		
 		"ypos"			"20"
 		"wide"			"480"
 		"tall"			"80"
@@ -40,7 +40,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"TimeRemaining"
-		"xpos"			"0"
+		
 		"ypos"			"140"
 		"wide"			"480"
 		"tall"			"80"
@@ -63,7 +63,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"MalfunctionLabel"
-		"xpos"			"0"
+		
 		"ypos"			"80"
 		"wide"			"480"
 		"tall"			"80"

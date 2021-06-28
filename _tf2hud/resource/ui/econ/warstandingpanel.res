@@ -5,7 +5,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Team0Container"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"30"
@@ -91,7 +91,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Team1Container"
-		"xpos"			"0"
+		
 		"ypos"			"r30"
 		"wide"			"f0"
 		"tall"			"30"

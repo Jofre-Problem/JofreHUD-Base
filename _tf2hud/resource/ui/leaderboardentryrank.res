@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"LeaderboardEntry"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"230"
@@ -18,7 +18,7 @@
 			"font"			"HudFontSmallestBold"
 			"labelText"		"%position%"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"2"
 			"zpos"			"2"
 			"wide"			"16"
@@ -116,7 +116,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"16"

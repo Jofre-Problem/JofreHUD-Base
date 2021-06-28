@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ScrollableContainer"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"100"
 		"wide"			"260"
@@ -163,7 +163,7 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"SortArrow"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"wide"			"20"
 					"tall"			"f0"
@@ -185,7 +185,7 @@
 				{
 					"ControlName"	"CExButton"
 					"fieldName"		"ResultButton"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"wide"			"p0.18"
 					"tall"			"18"

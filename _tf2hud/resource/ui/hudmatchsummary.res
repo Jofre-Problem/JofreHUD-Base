@@ -118,7 +118,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"StatsBgPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"f0"
@@ -151,7 +151,7 @@
 	{
 		"Controlname"	"EditablePanel"
 		"fieldnName"	"MainStatsContainer"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"f0"
@@ -162,7 +162,7 @@
 		{
 			"ControlName"	"CTFParticlePanel"
 			"fieldName"		"ParticlePanel"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"55"
 			"wide"			"f0"
@@ -190,7 +190,7 @@
 				"font"			"MatchSummaryStatsAndMedals"
 				"labelText"		"#TF_StatsAndMedals"
 				"textAlignment"		"center"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"4"
 				"wide"			"200"
@@ -225,7 +225,7 @@
 		{
 			"ControlName"		"EditablePanel"
 			"fieldName"		"TeamScoresPanel"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"50"
 			"wide"			"f0"
@@ -452,7 +452,7 @@
 					{
 						"ControlName"	"TFSectionedListPanel"
 						"fieldName"		"BluePlayerList"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						"zpos"			"1"
 						"wide"			"p.465"
@@ -721,7 +721,7 @@
 					{
 						"ControlName"	"TFSectionedListPanel"
 						"fieldName"		"RedPlayerList"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						"zpos"			"1"
 						"wide"			"p.465"
@@ -793,7 +793,7 @@
 				{
 					"ControlName"		"ImagePanel"
 					"fieldName"		"BlueGoldMedal"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"5"
 					"wide"			"15"
@@ -904,7 +904,7 @@
 				{
 					"ControlName"		"ImagePanel"
 					"fieldName"		"RedGoldMedal"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"5"
 					"wide"			"15"

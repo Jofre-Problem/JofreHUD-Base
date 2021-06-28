@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGRect"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"f0"
@@ -20,7 +20,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"LoadingPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10"
 		"wide"			"f0"

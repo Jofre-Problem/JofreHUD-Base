@@ -15,7 +15,7 @@
 		{
 			"ControlName"	"CTFImagePanel"
 			"fieldName"		"background"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			
 			"wide"			"200"
@@ -37,7 +37,7 @@
 		{
 			"ControlName"	"CAvatarImagePanel"
 			"fieldName"		"AvatarImage"
-			"xpos"			"0"
+			
 			"ypos"			"10"
 			"zpos"			"1"
 			"wide"			"58"
@@ -104,7 +104,7 @@
 		{
 			"ControlName"	"CTFImagePanel"
 			"fieldName"		"background"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			
 			"wide"			"200"
@@ -126,7 +126,7 @@
 		{
 			"ControlName"	"CAvatarImagePanel"
 			"fieldName"		"AvatarImage"
-			"xpos"			"0"
+			
 			"ypos"			"10"
 			"zpos"			"1"
 			"wide"			"58"

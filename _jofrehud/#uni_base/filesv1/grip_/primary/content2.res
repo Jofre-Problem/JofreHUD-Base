@@ -16,7 +16,7 @@
 	}
 	"LeftGrip"
 	{
-		"xpos"		"0"
+		
 		"ypos"		"8"
 		"wide"		"5"
 		"tall"		"284"

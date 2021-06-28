@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"	"TFStatsSummary"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"480"
@@ -16,7 +16,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"MainBackground"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
@@ -30,7 +30,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"	"MapInfo"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"480"
@@ -42,7 +42,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"Background"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"640"
 			"tall"			"480"
@@ -83,7 +83,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"BG"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"300"
 				"tall"			"55"
@@ -243,7 +243,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"	"StatData"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"zpos"		"1"
 		"wide"		"f0"
@@ -255,7 +255,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"	"NonInteractiveHeaders"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"zpos"		"2"
 			"wide"		"f0"
@@ -336,7 +336,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"	"InteractiveHeaders"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"zpos"		"2"
 			"wide"		"f0"
@@ -2735,7 +2735,7 @@
 	"TitleBanner" [$X360]
 	{
 		"ControlName"	"ImagePanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"128"

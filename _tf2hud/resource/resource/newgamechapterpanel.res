@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"LevelPicBorder"
-		"xpos"		"0"
+		
 		"ypos"		"40"
 		"wide"		"168"
 		"tall"		"106"
@@ -31,7 +31,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"ChapterLabel"
-		"xpos"		"0"
+		
 		"ypos"		"4"
 		"wide"		"172"
 		"tall"		"20"
@@ -50,7 +50,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"ChapterNameLabel"
-		"xpos"		"0"
+		
 		"ypos"		"20"
 		"wide"		"172"
 		"tall"		"20"

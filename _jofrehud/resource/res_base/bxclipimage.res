@@ -31,7 +31,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"ClipImageBackground"
-		"xpos"		"0"
+		
 		"ypos"		"16"
 		"zpos"		"-1"
 		"wide"		"151"
@@ -46,7 +46,7 @@
 	"ClipName"
 	{
 		"ControlName"		"Label"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"146"
 		"tall"		"16"

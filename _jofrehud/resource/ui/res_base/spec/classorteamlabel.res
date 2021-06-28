@@ -3,7 +3,7 @@
 {
 	"ClassOrTeamLabel"
 	{
-		"xpos"			"0"
+		
 		"ypos"			"15"
 		"wide"			"137"
 		"tall"			"21"

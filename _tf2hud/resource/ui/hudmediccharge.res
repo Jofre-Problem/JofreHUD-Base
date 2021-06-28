@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"Background"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"130"
@@ -189,7 +189,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ResistIcon"
-		"xpos"			"0"
+		
 		"ypos"			"-25"
 		"wide"			"36"
 		"tall"			"36"

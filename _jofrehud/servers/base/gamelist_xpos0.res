@@ -3,6 +3,6 @@
 {
 	"gamelist"
 	{
-		"xpos"		"0"
+		
 	}
 }

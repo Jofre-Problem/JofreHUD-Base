@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CSubPanelUserInfoDetails"
 		"fieldName"		"SubPanelUserInfoDetails"
-		"xpos"		"0"
+		
 		"ypos"		"28"
 		"wide"		"384"
 		"tall"		"328"

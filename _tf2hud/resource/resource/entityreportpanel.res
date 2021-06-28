@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CEntityReportPanel"
 		"fieldName"		"EntityReportPanel"
-		"xpos"		"0"
+		
 		"ypos"		"14"
 		"wide"		"510"
 		"tall"		"522"

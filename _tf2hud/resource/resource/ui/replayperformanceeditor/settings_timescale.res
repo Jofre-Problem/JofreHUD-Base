@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TimeScaleSettings"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"500"
 		

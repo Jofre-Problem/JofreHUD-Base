@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"BasePage"
-		"xpos"			"0"
+		
 		"ypos"			"40"
 		"wide"			"f0"
 		"tall"			"480"

@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"Background_Blue"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-2"
 		"wide"			"252"
@@ -26,7 +26,7 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"Background_Red"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-2"
 		"wide"			"252"

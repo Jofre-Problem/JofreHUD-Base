@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CInfoTargetBrowserPanel"
 		"fieldName"		"InfoTargetBrowserPanel"
-		"xpos"		"0"
+		
 		"ypos"		"14"
 		"wide"		"383"
 		"tall"		"708"

@@ -24,7 +24,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"OuterShadow"
-			"xpos"			"0"
+			
 			"ypos"			"rs1"
 			"zpos"			"-2"
 			"wide"			"f0"
@@ -90,7 +90,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"1"
 					"wide"			"p1"
@@ -140,7 +140,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"1"
 					"wide"			"p1"
@@ -158,7 +158,7 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"DescLabel"
-				"xpos"			"0"
+				
 				"ypos"			"3"
 				"wide"			"f0"
 				"zpos"			"100"

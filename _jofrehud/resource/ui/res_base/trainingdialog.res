@@ -33,7 +33,7 @@
 		{
 			"ControlName"	"PanelListPanel"
 			"fieldName"		"class_list"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"wide"		"620"
 			"tall"		"405"

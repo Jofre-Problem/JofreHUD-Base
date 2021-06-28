@@ -32,7 +32,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"LeftGrip"
-		"xpos"		"0"
+		
 		"ypos"		"11"
 		"wide"		"5"
 		"tall"		"278"

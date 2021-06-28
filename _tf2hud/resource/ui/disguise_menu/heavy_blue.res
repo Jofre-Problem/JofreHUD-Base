@@ -5,7 +5,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemName"
 		"font"			"Default"
-		"xpos"			"0"
+		
 		"ypos"			"10"
 		"zpos"			"1"
 		"wide"			"45"
@@ -24,7 +24,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"ClassIcon"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"45"

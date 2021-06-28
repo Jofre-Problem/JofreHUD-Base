@@ -18,7 +18,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"TopBar"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"tall"			"84"
 		"tall_minmode"	"20"	
@@ -33,7 +33,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"BottomBar"
-		"xpos"			"0"
+		
 		"ypos"			"r70"		
 		"ypos_minmode"	"r20"
 		"tall"			"70"
@@ -48,7 +48,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"bottombarblank"
-		"xpos"			"0"
+		
 		"ypos"			"r70"	
 		"ypos_minmode"	"r0"
 		"tall"			"70"		// this needs to match the size of BottomBar
@@ -87,7 +87,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"BuyBackLabel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"400"
 		"tall"			"f0"
@@ -261,7 +261,7 @@
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"itempanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10"
 		"wide"			"190"
@@ -316,7 +316,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"spectator_extras"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"

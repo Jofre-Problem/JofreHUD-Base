@@ -4,7 +4,7 @@
 	{
 	//	"ControlName"	"EditablePanel"
 		"fieldName"		"CompRanksTooltip"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"30000"
 		"wide"			"320"
@@ -61,7 +61,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"RanksContainer"
-		"xpos"			"0"
+		
 		"ypos"			"30"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -73,7 +73,7 @@
 		{
 			"ControlName"	"CTFStaticBadgePanel"
 			"fieldName"		"Rank1"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			
 			"wide"   "100"
@@ -122,7 +122,7 @@
 		{
 			"ControlName"	"CTFStaticBadgePanel"
 			"fieldName"		"Rank4"
-			"xpos"			"0"
+			
 			"ypos"			"70"
 			
 			"wide"   "100"
@@ -171,7 +171,7 @@
 		{
 			"ControlName"	"CTFStaticBadgePanel"
 			"fieldName"		"Rank7"
-			"xpos"			"0"
+			
 			"ypos"			"140"
 			
 			"wide"   "100"
@@ -220,7 +220,7 @@
 		{
 			"ControlName"	"CTFStaticBadgePanel"
 			"fieldName"		"Rank10"
-			"xpos"			"0"
+			
 			"ypos"			"210"
 			
 			"wide"   "100"

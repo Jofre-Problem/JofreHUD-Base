@@ -26,7 +26,7 @@
 		{
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"300"
@@ -68,7 +68,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"TitleLabel"
 		"font"			"HudFontMediumBold"
-		"xpos"			"0"
+		
 		"ypos"			"10"
 		
 		"wide"			"400"
@@ -118,7 +118,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"recipecontainer"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"380"
 		"tall"			"190"
@@ -130,7 +130,7 @@
 			"ControlName"		"Label"
 			"fieldName"		"CenterPositioner"
 			"font"			"HudFontSmallBold"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			
 			"wide"			"366"
@@ -171,7 +171,7 @@
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
-			"xpos"			"0"
+			
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"
@@ -194,7 +194,7 @@
 		"font"			"HudFontSmallBold"
 		"labelText"		"#CraftNoknownRecipes"
 		"textAlignment"	"center"
-		"xpos"			"0"
+		
 		"ypos"			"120"
 		"zpos"			"10"
 		"wide"			"400"

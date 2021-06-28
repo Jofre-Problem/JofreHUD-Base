@@ -8,10 +8,10 @@
 		
 		
 		"AutoResize"	"3"
-		"PinnedCornerOffsetX" "0"
-		"PinnedCornerOffsetY" "0"
-		"UnpinnedCornerOffsetX" "0"
-		"UnpinnedCornerOffsetY" "0"
+		
+		
+		
+		
 		"splitter0" "15"
 		
 		"child0"
@@ -20,7 +20,7 @@
 			{
 				"ControlName"	"ComboBox"
 				"fieldName"		"FunctionTypeCombo"
-				"xpos"			"0"
+				
 				"ypos"			"6"
 				"wide"			"463"
 				"tall"			"24"
@@ -39,16 +39,16 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"FunctionBrowserArea"
-				"xpos"			"0"
+				
 				"ypos"			"36"
 				"wide"			"463"
 				"tall"			"212"
 				"AutoResize"	"3"
 				
-				"PinnedCornerOffsetX" "0"
+				
 				"PinnedCornerOffsetY" "30"
-				"UnpinnedCornerOffsetX" "0"
-				"UnpinnedCornerOffsetY" "0"
+				
+				
 				"visible"		"1"
 				
 				"tabPosition"	"1"

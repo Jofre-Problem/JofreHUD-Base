@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CCreateMultiplayerGameServerPage"
 		"fieldName"		"ServerPage"
-		"xpos"		"0"
+		
 		"ypos"		"28"
 		"wide"		"332"
 		"tall"		"364"

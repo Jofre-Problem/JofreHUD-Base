@@ -50,7 +50,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"xpos"			"0"
+		
 		"ypos"			"36"
 		"zpos"			"2"
 		"wide"			"140"

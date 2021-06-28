@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CInfoTargetPropertiesPanel"
 		"fieldName"		"InfoTargetPropertiesPanel"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"784"
 		"tall"		"418"
@@ -18,12 +18,12 @@
 	{
 		"ControlName"		"CScrollableEditablePanel"
 		"fieldName"		"InfoTargetScroll"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"784"
 		"tall"		"418"
-		"UnpinnedCornerOffsetX" "0"
-		"UnpinnedCornerOffsetY" "0"
+		
+		
 		"autoResize"		"3"
 		
 		"visible"		"0"

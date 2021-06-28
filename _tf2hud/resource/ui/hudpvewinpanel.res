@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"WinPanelBG"
-		"xpos"			"0"
+		
 		"ypos"			"50"
 		
 		"wide"			"300"
@@ -27,7 +27,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"WaveCompleteContainer"
-		"xpos"			"0"
+		
 		"ypos"			"50"
 		"wide"			"300"
 		"tall"			"24"
@@ -82,7 +82,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinReasonLabel"
 		"font"			"HudFontSmall"
-		"xpos"			"0"
+		
 		"ypos"			"80"
 		"zpos"			"1"
 		"wide"			"292"
@@ -123,7 +123,7 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"RespecBackground"
-		"xpos"			"0"
+		
 		"ypos"			"142"
 		"wide"			"300"
 		"tall"			"25"
@@ -144,7 +144,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"RespecContainer"
-		"xpos"			"0"
+		
 		"ypos"			"142"
 		"wide"			"300"
 		"tall"			"25"
@@ -158,7 +158,7 @@
 			"font"			"HudFontSmall"
 			"labelText"		"#TF_PVE_Respecs"
 			"textAlignment" "center"
-			"xpos"			"0"
+			
 			"ypos"			"3"
 			"wide"			"160"
 			"tall"			"20"

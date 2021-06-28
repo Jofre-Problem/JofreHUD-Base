@@ -46,7 +46,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"DropShadow"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"101"
 			"wide"			"f0"
@@ -62,7 +62,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"MannUpImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			
 			"wide"			"f0"
@@ -79,7 +79,7 @@
 		{
 			"ControlName"		"ImagePanel"
 			"fieldName"		"Gradient"
-			"xpos"		"0"
+			
 			"ypos"		"rs1"
 			"wide"		"f0"
 			"tall"		"100"
@@ -167,7 +167,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"DropShadow"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"101"
 			"wide"			"f0"
@@ -183,7 +183,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"BootcampImage"
-			"xpos"			"0"
+			
 			"ypos"			"rs1"
 			
 			"wide"			"f0"
@@ -200,7 +200,7 @@
 		{
 			"ControlName"		"ImagePanel"
 			"fieldName"		"Gradient"
-			"xpos"		"0"
+			
 			"ypos"		"rs1"
 			"wide"		"f0"
 			"tall"		"100"

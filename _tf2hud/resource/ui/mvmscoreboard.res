@@ -46,7 +46,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_MvM_Difficulty"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"150"
 			"tall"			"10"
@@ -60,7 +60,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%difficultyvalue%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"9"
 			"wide"			"150"
 			"tall"			"10"
@@ -121,7 +121,7 @@
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"CreditStatsBackground"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"400"

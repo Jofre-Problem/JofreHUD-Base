@@ -195,7 +195,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ChapterTitleLabel"
-		"xpos"		"0"
+		
 		"ypos"		"15"
 		"wide"		"795"
 		"tall"		"40"
@@ -213,7 +213,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ChapterTitleLabel2"
-		"xpos"		"0"
+		
 		"ypos"		"15"
 		"wide"		"795"
 		"tall"		"40"

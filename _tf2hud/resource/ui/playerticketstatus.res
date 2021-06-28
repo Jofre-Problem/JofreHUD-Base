@@ -48,7 +48,7 @@
 	{
 		// "ControlName"	"ImagePanel"
 		"fieldName"		"TourOfDutyTicket"
-		"xpos"			"0"
+		
 		"ypos"			"30"
 		"zpos"			"105"
 		"wide"			"28"
@@ -66,7 +66,7 @@
 	{
 		// "ControlName"	"ImagePanel"
 		"fieldName"		"SquadSurplusTicket"
-		"xpos"			"0"
+		
 		"ypos"			"50"
 		"zpos"			"105"
 		"wide"			"28"

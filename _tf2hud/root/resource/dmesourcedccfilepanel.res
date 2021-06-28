@@ -4,13 +4,13 @@
 	{
 		"ControlName"	"ListPanel"
 		"fieldName"		"DCCObjectList"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"256"
 		"tall"			"212"
 		"AutoResize"	"3"
 		
-		"UnpinnedCornerOffsetX" "0"
+		
 		"UnpinnedCornerOffsetY" "-60"
 		"visible"		"1"
 		
@@ -21,7 +21,7 @@
 	{
 		"ControlName"	"Button"
 		"fieldName"		"AddDCCObjectButton"
-		"xpos"			"0"
+		
 		"ypos"			"60"
 		"wide"			"60"
 		"tall"			"24"
@@ -45,7 +45,7 @@
 		
 		"PinCorner"		"3"
 		"PinnedCornerOffsetY" "-30"
-		"PinnedCornerOffsetX" "0"
+		
 		"labelText"		"#AssetBuilder_RemoveSource"
 		"visible"		"1"
 		
@@ -56,13 +56,13 @@
 	{
 		"ControlName"	"Button"
 		"fieldName"		"DCCObjectBrowser"
-		"xpos"			"0"
+		
 		"ypos"			"60"
 		"wide"			"30"
 		"tall"			"24"
 		
 		"PinCorner"		"2"
-		"PinnedCornerOffsetY" "0"
+		
 		"visible"		"1"
 		
 		"tabPosition"	"4"
@@ -77,7 +77,7 @@
 		"wide"		"390"
 		"tall"		"24"
 		"UnpinnedCornerOffsetX" "-66"
-		"PinnedCornerOffsetY" "0"
+		
 		"autoResize"		"1"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -100,8 +100,8 @@
 		"tall"			"24"
 		
 		"PinCorner"		"3"
-		"PinnedCornerOffsetY" "0"
-		"PinnedCornerOffsetX" "0"
+		
+		
 		"labelText"		"#AssetBuilder_ApplyChanges"
 		"visible"		"1"
 		

@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BorderBG"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"46"
@@ -34,7 +34,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"MoneyImagePanel"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"zpos"		"4"
 		"wide"		"14"

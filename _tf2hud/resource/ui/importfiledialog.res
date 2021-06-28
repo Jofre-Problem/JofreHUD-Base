@@ -21,7 +21,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"zpos"		"-100"
 		"wide"		"600"
@@ -38,7 +38,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"WorkshopBG"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-100"
 		"wide"			"600"
@@ -53,7 +53,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BackgroundBottom"
-		"xpos"		"0"
+		
 		"ypos"		"355"
 		"wide"		"600"
 		"tall"		"45"
@@ -184,7 +184,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"EquipRegionLabel"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"wide"		"150"
 			"tall"		"20"
@@ -436,7 +436,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"Icon"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"190"
@@ -965,7 +965,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"LOD0Panel"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"150"
 			"tall"			"50"
@@ -1088,7 +1088,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"LOD1Panel"
-			"xpos"			"0"
+			
 			"ypos"			"60"
 			"wide"			"150"
 			"tall"			"50"
@@ -1215,7 +1215,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"LOD2Panel"
-			"xpos"			"0"
+			
 			"ypos"			"120"
 			"wide"			"150"
 			"tall"			"50"
@@ -1342,7 +1342,7 @@
 		{
 			"ControlName"		"Button"
 			"fieldName"		"ButtonEditQC"
-			"xpos"			"0"
+			
 			"ypos"			"195"
 			"zpos"			"1"
 			"wide"			"92"
@@ -1803,7 +1803,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"AnimationSourcePanel"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"150"
 			"tall"			"50"
@@ -1926,7 +1926,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"AnimationVCDPanel"
-			"xpos"			"0"
+			
 			"ypos"			"60"
 			"wide"			"150"
 			"tall"			"50"
@@ -2036,7 +2036,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"AnimDurationLabel"
-			"xpos"		"0"
+			
 			"ypos"		"120"
 			"wide"		"120"
 			"tall"		"15"
@@ -2053,7 +2053,7 @@
 			"labelText"		"Loop"
 			"Font"			"HudFontSmallest"
 			"textAlignment"	"west"
-			"xpos"			"0" 
+			 
 			"ypos"			"140"
 			"wide"			"80"
 			"tall"			"20"
@@ -2111,7 +2111,7 @@
 		{
 			"ControlName"		"Button"
 			"fieldName"		"ButtonEditQCI"
-			"xpos"			"0"
+			
 			"ypos"			"195"
 			"zpos"			"1"
 			"wide"			"92"

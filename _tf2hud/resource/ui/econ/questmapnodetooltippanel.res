@@ -37,7 +37,7 @@
 				"ControlName"	"Label"
 				"fieldName"		"NameLabel"
 				"labeltext"		"%name%"
-				"xpos"			"0"
+				
 				"ypos"			"10"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -52,7 +52,7 @@
 				"ControlName"	"Label"
 				"fieldName"		"QuestNameLabel"
 				"labeltext"		"%quest%"
-				"xpos"			"0"
+				
 				"ypos"			"30"
 				"wide"			"f0"
 				"tall"			"f0"

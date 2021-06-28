@@ -35,7 +35,7 @@
 			"font"			"MenuSmallFont"
 			"labelText"		"%time%"
 			"textAlignment" "center"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"10"
 			"wide"			"f0"

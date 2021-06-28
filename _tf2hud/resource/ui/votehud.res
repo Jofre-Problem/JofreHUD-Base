@@ -563,7 +563,7 @@
 			"font"			"HudFontMediumBold"
 			"labelText"		"#TF_Vote_Title"
 			"textAlignment"	"north"
-			"xpos"			"0"
+			
 			"ypos"			"10"
 			"wide"			"400"
 			"tall"			"20"

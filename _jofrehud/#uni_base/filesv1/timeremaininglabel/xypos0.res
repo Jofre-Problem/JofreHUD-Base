@@ -2,7 +2,7 @@
 {
 	"TimeRemainingLabel"
 	{
-		"xpos"		"0"
+		
 		"ypos"		"0"
 	}
 }	

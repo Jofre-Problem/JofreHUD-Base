@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CClipEditorStoryboardPage"
 		"fieldName"		"Storyboard"
-		"xpos"		"0"
+		
 		"ypos"		"14"
 		"wide"		"1584"
 		"tall"		"223"

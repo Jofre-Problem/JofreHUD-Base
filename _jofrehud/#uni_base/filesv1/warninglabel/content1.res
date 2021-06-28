@@ -10,7 +10,7 @@
 		//"fieldName"		"WarningLabel"
 		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"xpos"			"0"
+		
 		"ypos"			"170"
 		
 		"wide"			"400"

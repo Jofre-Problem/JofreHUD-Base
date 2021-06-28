@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"Frame"
 		"fieldName"		"OptionsDialog"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"824"
 		"tall"		"736"
@@ -18,7 +18,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"InfoText"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"28"

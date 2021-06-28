@@ -21,7 +21,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"zpos"		"-100"
 		"wide"		"600"
@@ -38,7 +38,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"WorkshopBG"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-99"
 		"wide"			"600"
@@ -53,7 +53,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BackgroundBottom"
-		"xpos"		"0"
+		
 		"ypos"		"355"
 		"wide"		"600"
 		"tall"		"45"
@@ -467,7 +467,7 @@
 			"labelText"		"#TF_Class_Name_Scout"
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"25"
 			"zpos"			"1"
 			"wide"			"75"
@@ -487,7 +487,7 @@
 			"labelText"		"#TF_Class_Name_Sniper"
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"45"
 			"zpos"			"1"
 			"wide"			"75"
@@ -507,7 +507,7 @@
 			"labelText"		"#TF_Class_Name_Soldier"
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"65"
 			"zpos"			"1"
 			"wide"			"75"
@@ -527,7 +527,7 @@
 			"labelText"		"#TF_Class_Name_Demoman"
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"85"
 			"zpos"			"1"
 			"wide"			"75"
@@ -547,7 +547,7 @@
 			"labelText"		"#TF_Class_Name_Medic"
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"105"
 			"zpos"			"1"
 			"wide"			"75"
@@ -567,7 +567,7 @@
 			"labelText"		"#TF_Class_Name_HWGuy"
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"125"
 			"zpos"			"1"
 			"wide"			"75"
@@ -587,7 +587,7 @@
 			"labelText"		"#TF_Class_Name_Pyro"
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"145"
 			"zpos"			"1"
 			"wide"			"75"
@@ -607,7 +607,7 @@
 			"labelText"		"#TF_Class_Name_Spy"
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"165"
 			"zpos"			"1"
 			"wide"			"75"
@@ -849,7 +849,7 @@
 			"labelText"		"#TF_SteamWorkshop_Tag_CTF"
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"25"
 			"zpos"			"1"
 			"wide"			"80"
@@ -869,7 +869,7 @@
 			"labelText"		"#TF_SteamWorkshop_Tag_CP"
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"45"
 			"zpos"			"1"
 			"wide"			"80"
@@ -889,7 +889,7 @@
 			"labelText"		"#TF_SteamWorkshop_Tag_Escort"
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"65"
 			"zpos"			"1"
 			"wide"			"80"
@@ -909,7 +909,7 @@
 			"labelText"		"#TF_SteamWorkshop_Tag_EscortRace"
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"85"
 			"zpos"			"1"
 			"wide"			"80"
@@ -929,7 +929,7 @@
 			"labelText"		"#TF_SteamWorkshop_Tag_RobotDestruction"
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"105"
 			"zpos"			"1"
 			"wide"			"80"
@@ -949,7 +949,7 @@
 			"labelText"		"#TF_SteamWorkshop_Tag_Koth"
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"125"
 			"zpos"			"1"
 			"wide"			"80"
@@ -969,7 +969,7 @@
 			"labelText"		"#TF_SteamWorkshop_Tag_AttackDefense"
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"145"
 			"zpos"			"1"
 			"wide"			"80"
@@ -989,7 +989,7 @@
 			"labelText"		"#TF_SteamWorkshop_Tag_SD"
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"165"
 			"zpos"			"1"
 			"wide"			"80"
@@ -1009,7 +1009,7 @@
 			"labelText"		"#TF_SteamWorkshop_Tag_MVM"
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"185"
 			"zpos"			"1"
 			"wide"			"100"

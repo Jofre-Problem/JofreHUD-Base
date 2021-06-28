@@ -314,7 +314,7 @@
 		"fieldName" "BuildingStatus_Spy"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"0"	[$WIN32]
+			[$WIN32]
 		"ypos"		"0"	[$WIN32]
 		"xpos"		"32"	[$X360]
 		"ypos"		"16"	[$X360]		
@@ -329,7 +329,7 @@
 		"fieldName" "BuildingStatus_Engineer"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"0"
+		
 		//"xpos_hidef"		"32"
 		//"xpos_lodef"		"40"
 		"ypos"		"0"
@@ -346,7 +346,7 @@
 		"fieldName" "HudMannVsMachineStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"zpos"		"1"
 		"wide"		"f0"
@@ -1348,7 +1348,7 @@
 	"CHudVote"
 	{
 		"fieldName"		"CHudVote"
-		"xpos"			"0"			
+					
 		"ypos"			"0"
 		"wide"			"640"
 		"tall"			"480"
@@ -1373,7 +1373,7 @@
 	"CTFStreakNotice"
 	{
 		"fieldName"		"CTFStreakNotice"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"640"
 		"tall"			"480"
@@ -1388,7 +1388,7 @@
 		"fieldName"		"CTFFlagCalloutPanel"
 		"visible" 		"0"
 		"enabled" 		"1"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"	 		"40"
 		"tall"	 		"40"
@@ -1414,7 +1414,7 @@
 		"fieldName" 	"ItemAttributeTracker"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f5"
 		"tall"			"f0"
@@ -1449,7 +1449,7 @@
 		"fieldName" 		"MatchMakingContainer"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"	 		"f0"
 		"tall"	 		"f0"

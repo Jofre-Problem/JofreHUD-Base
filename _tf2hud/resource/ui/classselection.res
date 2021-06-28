@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"class"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
@@ -19,7 +19,7 @@
 	{
 		"ControlName"	"Menu"
 		"fieldName"		"SysMenu"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"64"
 		"tall"			"24"
@@ -81,7 +81,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
@@ -172,7 +172,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
@@ -236,7 +236,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
@@ -299,7 +299,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
@@ -388,7 +388,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
@@ -450,7 +450,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
@@ -511,7 +511,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
@@ -601,7 +601,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
@@ -664,7 +664,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
@@ -727,7 +727,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
@@ -828,7 +828,7 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MenuBG"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 				
 		"wide"			"f0"
@@ -886,7 +886,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ShadedBar"
-		"xpos"			"0"
+		
 		"ypos"			"r50"
 		//"ypos_lodef"			"r74"
 		//"ypos_hidef"			"r65"
@@ -1493,7 +1493,7 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"StartExplanation"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"250"
@@ -1586,7 +1586,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -1604,7 +1604,7 @@
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"TFPlayerModel"
 		
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"6"		
 		"wide"			"480"
@@ -1758,7 +1758,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"

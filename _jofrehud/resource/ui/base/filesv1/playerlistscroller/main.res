@@ -15,7 +15,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"PlayerList"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"190"
 			"tall"			"130"

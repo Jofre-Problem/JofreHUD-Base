@@ -23,7 +23,7 @@
 		"font"			"HudFontMediumBold"
 		"labelText"		"%testtitle%"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"450"
@@ -113,7 +113,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_ExistingItem"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"95"
@@ -174,7 +174,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_ItemReplaces"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"95"
@@ -252,7 +252,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_Bodygroups"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"95"
@@ -269,7 +269,7 @@
 			"font"			"ItemFontAttribSmallest"
 			"labelText"		"#IT_Explanation_Bodygroups"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"15"
 			"zpos"			"1"
 			"wide"			"95"
@@ -461,7 +461,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_PaintTitle"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"95"
@@ -508,7 +508,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_UnusualTitle"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"25"
 			"zpos"			"1"
 			"wide"			"95"

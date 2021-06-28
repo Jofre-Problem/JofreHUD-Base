@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"CallerBG"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"30"
@@ -18,7 +18,7 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"CallerBurning"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"45"
@@ -32,7 +32,7 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"CallerHealth"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"30"
@@ -46,7 +46,7 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"CallerBleeding"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"45"
@@ -60,7 +60,7 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"CallerAuto"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"30"
@@ -74,7 +74,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"CallerReviveEasy"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"30"
@@ -88,7 +88,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"CallerReviveMedium"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"30"
@@ -102,7 +102,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"CallerReviveHard"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"30"

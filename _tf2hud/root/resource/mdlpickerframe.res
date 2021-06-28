@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CMDLPickerFrame"
 		"fieldName"		"AssetPickerFrame"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"640"
 		"tall"			"480"
@@ -60,7 +60,7 @@
 		{
 			"ControlName"	"CMDLPicker"
 			"fieldName"		"AssetPicker"
-			"xpos"			"0"
+			
 			"ypos"			"28"
 			"wide"			"640"
 			"tall"			"420"

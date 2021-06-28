@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HealthIcon"
-		"xpos"			"0"
+		
 		"xpos_minmode"	"0"
 		"ypos"			"0"
 		"ypos_minmode"	"0"
@@ -20,7 +20,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"SpectatorGUIHealth"
-		"xpos"			"0"
+		
 		"xpos_minmode"	"0"
 		"ypos"			"0"
 		"ypos_minmode"	"0"

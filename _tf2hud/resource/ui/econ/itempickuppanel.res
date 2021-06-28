@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"Frame"
 		"fieldName"		"item_pickup"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"f0"
@@ -87,7 +87,7 @@
 		"font"			"HudFontMediumBigBold"
 		"labelText"		"#NewItemsAcquired"
 		"textAlignment"	"center"
-		"xpos"			"0"
+		
 		"ypos"			"30"
 		"zpos"			"1"
 		"wide"			"f0"
@@ -105,7 +105,7 @@
 		"font"			"HudFontMediumSmallBold"
 		"labelText"		""
 		"textAlignment"	"center"
-		"xpos"			"0"
+		
 		"ypos"			"75"
 		"zpos"			"1"
 		"wide"			"f0"

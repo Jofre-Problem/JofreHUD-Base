@@ -32,7 +32,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"NoGCGroupBox"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"zpos"		"1000"
 		"wide"		"f0"
@@ -97,7 +97,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MatchInProgressGroupBox"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"zpos"		"1000"
 		"wide"		"f0"
@@ -508,7 +508,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"PartyLowPriorityImage"
-				"xpos"			"0"
+				
 				"ypos"			"5"
 				
 				"wide"			"50"
@@ -575,7 +575,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"PartyGroupBox"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"zpos"		"-1"
 			"wide"		"200"
@@ -661,7 +661,7 @@
 			"ControlName"	"RichText"
 			"fieldName"		"ChatLog"
 			"Default"			"ChatMiniFont"
-			"xpos"			"0"
+			
 			"ypos"			"170"
 			
 			"wide"			"200"
@@ -675,7 +675,7 @@
 			"ControlName"	"TextEntry"
 			"fieldName"		"ChatTextEntry"
 			"font"			"ChatFont"
-			"xpos"			"0"
+			
 			"ypos"			"290"
 			
 			"wide"			"200"

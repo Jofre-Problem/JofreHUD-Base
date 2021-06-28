@@ -27,7 +27,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"AttribDesc"
 		"labeltext"		"%attr_desc%"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -46,7 +46,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"AttribGlow"
 		"labeltext"		"%attr_desc%"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"

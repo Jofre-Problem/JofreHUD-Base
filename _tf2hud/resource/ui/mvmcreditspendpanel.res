@@ -7,7 +7,7 @@
 		"font"			"HudFontSmallBold"
 		"labelText"		"%header%"
 		"textAlignment" "north-west"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"300"
 		"tall"			"15"
@@ -18,7 +18,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TableBackground"
-		"xpos"			"0"
+		
 		"ypos"			"14"
 		"zpos"			"-1"
 		"wide"			"190"

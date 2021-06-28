@@ -15,7 +15,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"BG"
-			"xpos"			"0"
+			
 			"ypos"			"8"
 			
 			"wide"			"166"

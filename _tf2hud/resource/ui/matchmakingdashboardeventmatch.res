@@ -102,7 +102,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"DropShadow"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"101"
 			"wide"			"f0"
@@ -118,7 +118,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"ModeImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			
 			"wide"			"f0"
@@ -183,7 +183,7 @@
 			"fgcolor_override"	"TanLight"
 			"labelText"		"%desc%"
 			"textAlignment"	"north-west"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"2"
 			"wide"			"f0"

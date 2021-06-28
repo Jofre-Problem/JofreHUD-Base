@@ -3,7 +3,7 @@
 	"Points"
 	{
 		"fieldName"		"Points"
-		"xpos"			"0"
+		
 		"ypos"			"80"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -16,7 +16,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"Label"
 		"labeltext"		"%objective%"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"

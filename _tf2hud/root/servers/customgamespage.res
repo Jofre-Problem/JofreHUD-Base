@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CInternetGames"
 		"fieldName"		"InternetGames"
-		"xpos"		"0"
+		
 		"ypos"		"28"
 		"wide"		"624"
 		"tall"		"278"
@@ -355,7 +355,7 @@
 	{
 		"ControlName"		"ListPanel"
 		"fieldName"		"gamelist"
-		"xpos"		"0"
+		
 		"ypos"		"8"
 		"wide"		"624"
 		"tall"		"182"
@@ -371,7 +371,7 @@
 	{
 		"ControlName"		"PanelListPanel"
 		"fieldName"		"quicklist"
-		"xpos"			"0"
+		
 		"ypos"			"8"
 		"wide"			"624"
 		"tall"			"178"

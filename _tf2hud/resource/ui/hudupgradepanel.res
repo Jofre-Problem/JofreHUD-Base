@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudUpgradePanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1000"
 		"wide"			"f0"
@@ -56,7 +56,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGGrayoutPanel"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"480"
@@ -88,7 +88,7 @@
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"OutterPanelBG"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"-8"
 			"wide"			"500"
@@ -238,7 +238,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"MouseOverUpgradePanel"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"10"
 			"wide"			"157"
@@ -563,7 +563,7 @@
 			"font"			"HudFontMediumSmall"
 			"labelText"		"%credits%"
 			"textAlignment"	"east"
-			"xpos"			"0"
+			
 			"ypos"			"280"
 			"wide"			"245"
 			"tall"			"30"
@@ -687,7 +687,7 @@
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"TipPanelBG"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"-3"
 			"wide"			"500"

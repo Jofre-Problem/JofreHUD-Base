@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudAchievementTrackerItem"
-		"xpos"			"0"		[$WIN32]
+				[$WIN32]
 		"ypos"			"0"		[$WIN32]
 		"zpos"			"3"
 		"wide"			"280"

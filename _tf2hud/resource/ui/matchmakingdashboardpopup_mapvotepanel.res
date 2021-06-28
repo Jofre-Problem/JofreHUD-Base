@@ -81,7 +81,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"NameLabel"
-		"xpos"			"0"
+		
 		"ypos"			"5"
 		"wide"			"f0"
 		"zpos"			"10"

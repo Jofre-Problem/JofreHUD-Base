@@ -90,7 +90,7 @@
 	{
 		"Controlname"	"EditablePanel"
 		"fieldName"		"Frame"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"

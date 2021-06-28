@@ -37,7 +37,7 @@
 		"font"			"HudFontMediumBold"
 		"labelText"		"#Replay_ConfirmQuitTitle"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"400"

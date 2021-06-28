@@ -18,7 +18,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"TitleLabel"
 		"font"			"HudFontSmallBold"
-		"xpos"			"0"
+		
 		"ypos"			"13"
 		"zpos"			"1"
 		"wide"			"320"

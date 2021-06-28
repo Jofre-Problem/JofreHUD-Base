@@ -53,7 +53,7 @@
 			"attriblabel"
 			{
 				"font"			"ItemFontAttribLarge"
-				"xpos"			"0"
+				
 				"ypos"			"30"
 				"zpos"			"2"
 				"wide"			"140"
@@ -250,7 +250,7 @@
 				"font"			"HudFontMediumSmall"
 				"labelText"		"#ToolCustomizeTextureStep1"
 				"textAlignment"	"north-west"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				
 				"wide"			"540"
@@ -261,7 +261,7 @@
 			{
 				"ControlName"		"EditablePanel"
 				"fieldName"		"ImagePaletteGroupBox"
-				"xpos"		"0"
+				
 				"ypos"		"25"
 				"zpos"		"-1"
 				"wide"		"350"
@@ -425,7 +425,7 @@
 				"font"			"HudFontMediumSmall"
 				"labelText"		"#ToolCustomizeTextureStep2"
 				"textAlignment"	"north-west"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				
 				"wide"			"540"
@@ -437,7 +437,7 @@
 				"ControlName"		"EditablePanel"
 				"fieldName"		"SelectFilterGroupBox"
 				"Font"		"HudFontSmallestBold"
-				"xpos"		"0"
+				
 				"ypos"		"25"
 				"zpos"		"-1"
 				"wide"		"160"
@@ -494,7 +494,7 @@
 					{
 						"ControlName"		"CExLabel"
 						"fieldName"		"FilterDescriptionLabel"
-						"xpos"		"0"
+						
 						"ypos"		"0"
 						"wide"		"140"
 						"tall"		"80"
@@ -519,7 +519,7 @@
 					{
 						"ControlName"		"CExLabel"
 						"fieldName"		"FilterDescriptionLabel"
-						"xpos"		"0"
+						
 						"ypos"		"0"
 						"wide"		"120"
 						"tall"		"60"
@@ -534,7 +534,7 @@
 					{
 						"ControlName"		"CExLabel"
 						"fieldName"		"ColorPaletteLabel"
-						"xpos"		"0"
+						
 						"ypos"		"60"
 						"wide"		"140"
 						"tall"		"15"
@@ -547,7 +547,7 @@
 					{
 						"ControlName"	"CExButton"
 						"fieldName"		"PrevStencilPaletteButton"
-						"xpos"			"0"
+						
 						"ypos"			"80"
 						"zpos"			"1"
 						"wide"			"65"
@@ -581,7 +581,7 @@
 					{
 						"ControlName"	"CustomTextureStencilGradientMapWidget"
 						"fieldName"		"StencilGradientMap"
-						"xpos"			"0"
+						
 						"ypos"			"100"
 						"zpos"			"1"
 						"wide"			"140"
@@ -592,7 +592,7 @@
 					{
 						"ControlName"		"ComboBox"
 						"fieldName"		"StencilModeComboBox"
-						"xpos"		"0"
+						
 						"ypos"		"125"
 						"zpos"		"-1"
 						"wide"		"140"
@@ -748,7 +748,7 @@
 				"font"			"HudFontMediumSmall"
 				"labelText"		"#ToolCustomizeTextureStep3"
 				"textAlignment"	"north-west"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				
 				"wide"			"540"
@@ -760,7 +760,7 @@
 				"ControlName"		"EditablePanel"
 				"fieldName"		"WarningTextGroupBox"
 				"Font"		"HudFontSmallestBold"
-				"xpos"		"0"
+				
 				"ypos"		"25"
 				"zpos"		"-1"
 				"wide"		"350"

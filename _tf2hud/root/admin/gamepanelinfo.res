@@ -37,7 +37,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"GameLabel"
-		"xpos"		"0"
+		
 		"ypos"		"12"
 		"wide"		"84"
 		"tall"		"24"
@@ -55,7 +55,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"ServerIPLabel"
-		"xpos"		"0"
+		
 		"ypos"		"40"
 		"wide"		"84"
 		"tall"		"24"

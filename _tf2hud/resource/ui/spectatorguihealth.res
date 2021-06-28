@@ -39,7 +39,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BuildingStatusHealthImageBG"
-		"xpos"			"0"
+		
 		"xpos_minmode"	"2"
 		"ypos"			"2"
 		"ypos_minmode"	"3"

@@ -48,7 +48,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"leftGrip"
-		"xpos"		"0"
+		
 		"ypos"		"8"
 		"wide"		"5"
 		"tall"		"404"
@@ -76,7 +76,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"tlGrip"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
@@ -104,7 +104,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"blGrip"
-		"xpos"		"0"
+		
 		"ypos"		"412"
 		"wide"		"8"
 		"tall"		"8"
@@ -132,7 +132,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"caption"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"390"
 		"tall"		"23"
@@ -146,7 +146,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"minimize"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
@@ -167,7 +167,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"maximize"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
@@ -188,7 +188,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"mintosystray"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"

@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CToolViewportFullscreenPanel"
 		"fieldName"		"FullscreenViewport"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"784"
 		"tall"		"590"
@@ -18,7 +18,7 @@
 	{
 		"ControlName"		"CToolViewportPage"
 		"fieldName"		"Engine"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"784"
 		"tall"		"590"

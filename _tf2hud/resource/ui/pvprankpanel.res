@@ -16,7 +16,7 @@
 		{
 			"ControlName"	"CTFParticlePanel"
 			"fieldName"		"BelowModelParticlePanel"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"f0"
@@ -113,7 +113,7 @@
 		{
 			"ControlName"	"CTFParticlePanel"
 			"fieldName"		"AboveModelParticlePanel"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"f0"
@@ -326,7 +326,7 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"CurrentXPLabel"
-					"xpos"			"0"
+					
 					"ypos"			"rs1"
 					
 					"wide"			"100"
@@ -362,7 +362,7 @@
 				{
 					"Controlname"	"EditablePanel"
 					"fieldName"		"ProgressBarsContainer"
-					"xpos"			"0"
+					
 					"ypos"			"rs1-10"
 					"wide"			"p1"
 					"tall"			"7"
@@ -372,7 +372,7 @@
 					{
 						"ControlName"	"ProgressBar"
 						"fieldName"		"ProgressBar"
-						"xpos"			"0"
+						
 						"ypos"			"cs-0.5"
 						"wide"			"f0"
 						"tall"			"f-2"
@@ -402,7 +402,7 @@
 					{
 						"Controlname"	"EditablePanel"
 						"fieldName"		"Frame"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						"wide"			"f0"
 						"tall"			"f0"
@@ -417,7 +417,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"Stats"
-				"xpos"			"0"
+				
 				"ypos"			"5"
 				"wide"			"f0"
 				"tall"			"p0.45"
@@ -434,7 +434,7 @@
 				{
 					"ControlName"	"EditablePanel"
 					"fieldName"		"Frame"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"10"
 					"wide"			"f0"

@@ -27,7 +27,7 @@
 	{
 		"ControlName"		"CExCheckButton"
 		"fieldName"		"Checkbutton"
-		"xpos"		"0"
+		
 		"ypos"		"2"
 		"zpos"		"3"
 		"wide"		"f0"

@@ -20,7 +20,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"CenterPositioner"
 		"font"			"HudFontSmallBold"
-		"xpos"			"0"
+		
 		"ypos"			"10"
 		
 		"wide"			"200"
@@ -48,7 +48,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"TitleLabel"
 		"font"			"HudFontSmallBold"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"200"
@@ -74,7 +74,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"EllipsesLabel"
 		"font"			"HudFontSmallBold"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"200"

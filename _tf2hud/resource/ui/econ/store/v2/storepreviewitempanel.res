@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CStorePreviewItemPanel"
 		"fieldName"		"storepreviewitem"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1000"
 		"wide"			"f0"
@@ -69,7 +69,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BgPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"f0"
@@ -1155,7 +1155,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"11"
@@ -1200,7 +1200,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"11"
@@ -1245,7 +1245,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"11"
@@ -1317,7 +1317,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"7"
 				"wide"			"19"
@@ -1452,7 +1452,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"14"

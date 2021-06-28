@@ -8,7 +8,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ChargingPanel"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"100"
 				"tall"			"31"

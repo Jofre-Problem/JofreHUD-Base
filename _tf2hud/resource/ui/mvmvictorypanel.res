@@ -18,7 +18,7 @@
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"SplashBackground"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"530"
 			"tall"			"230"
@@ -39,7 +39,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"HeaderContainer"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"530"
 			"tall"			"100"
@@ -66,7 +66,7 @@
 				"font"			"HudFontMediumBold"
 				"labelText"		"%header%"
 				"textAlignment" "center"
-				"xpos"			"0"
+				
 				"ypos"			"12"
 				"wide"			"530"
 				"tall"			"40"
@@ -118,7 +118,7 @@
 				"font"			"HudFontMediumBold"
 				"labelText"		"%ratinglabel%"
 				"textAlignment" "center"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"180"
 				"tall"			"40"
@@ -146,7 +146,7 @@
 				"font"			"HudFontGiantBold"
 				"labelText"		"%ratingscore%"
 				"textAlignment" "center"
-				"xpos"			"0"
+				
 				"ypos"			"40"
 				"wide"			"180"
 				"tall"			"50"

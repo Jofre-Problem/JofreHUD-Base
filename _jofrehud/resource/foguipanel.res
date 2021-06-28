@@ -955,7 +955,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"FrameButton"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"

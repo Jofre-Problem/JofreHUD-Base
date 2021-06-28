@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"QuestNotificationPanel"
-		"xpos"			"0"
+		
 		"ypos"			"100"
 		"zpos"			"2"
 		"wide"			"f0"
@@ -33,7 +33,7 @@
 				"ControlName"	"Label"
 				"fieldName"		"ItemName"
 				"labeltext"		"#QuestNotification_Incoming"
-				"xpos"			"0"
+				
 				"ypos"			"cs-0.5"
 				"wide"			"f0"
 				"tall"			"18"

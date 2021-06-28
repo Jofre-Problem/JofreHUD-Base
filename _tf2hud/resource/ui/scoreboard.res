@@ -163,7 +163,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"MainBG"
-		"xpos"			"0"
+		
 		"ypos"			"38"
 		"zpos"			"-1"
 		"wide"			"640"
@@ -922,7 +922,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"LocalPlayerDuelStatsPanel"
-		"xpos"			"0"
+		
 		"ypos"			"395"
 		"zpos"			"3"
 		"wide"			"600"
@@ -1133,7 +1133,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"LocalPlayerStatsPanel"
-		"xpos"			"0"
+		
 		"ypos"			"395"
 		"zpos"			"3"
 		"wide"			"600"

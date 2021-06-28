@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"dynamic_recipe_panel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"400"
@@ -111,7 +111,7 @@
 			"font"			"ItemFontNameLarge"
 			"labelText"		"%recipetitle%"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"2"
 			"zpos"			"1"
 			"wide"			"280"
@@ -131,7 +131,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"#Craft_Recipe_Inputs"
 			"textAlignment"	"north-west"
-			"xpos"			"0"
+			
 			"ypos"			"35"
 			"zpos"			"1"
 			"wide"			"f0"
@@ -149,7 +149,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"#Dynamic_Recipe_Outputs_Not_Complete"
 			"textAlignment"	"north-west"
-			"xpos"			"0"
+			
 			"ypos"			"238"
 			"zpos"			"1"
 			"wide"			"f0"
@@ -167,7 +167,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"#Dynamic_Recipe_Outputs_Not_Tradable"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"296"
 			"zpos"			"1"
 			"wide"			"250"
@@ -183,7 +183,7 @@
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"CraftButton"
-			"xpos"			"0"
+			
 			"ypos"			"318"
 			"zpos"			"20"
 			"wide"			"200"
@@ -289,7 +289,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"#Dynamic_Recipe_No_Matching_Items"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"125"
 			"zpos"			"1"
 			"wide"			"280"
@@ -330,7 +330,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"#Dynamic_Recipe_Matching_Items"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"30"
 			"zpos"			"1"
 			"wide"			"280"
@@ -347,7 +347,7 @@
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"CancelButton"
-			"xpos"			"0"
+			
 			"ypos"			"318"
 			"zpos"			"20"
 			"wide"			"200"
@@ -372,7 +372,7 @@
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"PrevPageButton"
-			"xpos"			"0"
+			
 			"ypos"			"250"
 			"zpos"			"1"
 			"wide"			"20"
@@ -458,7 +458,7 @@
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
-			"xpos"			"0"
+			
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"

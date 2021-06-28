@@ -48,7 +48,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"frame_leftGrip"
-		"xpos"		"0"
+		
 		"ypos"		"6"
 		"wide"		"3"
 		"tall"		"258"
@@ -76,7 +76,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"frame_tlGrip"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"6"
 		"tall"		"6"
@@ -104,7 +104,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"frame_blGrip"
-		"xpos"		"0"
+		
 		"ypos"		"264"
 		"wide"		"6"
 		"tall"		"6"
@@ -132,7 +132,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"frame_caption"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"470"
 		"tall"		"12"
@@ -146,7 +146,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"frame_minimize"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
@@ -166,7 +166,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"frame_maximize"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
@@ -186,7 +186,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"frame_mintosystray"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
@@ -207,7 +207,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"frame_close"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
@@ -729,7 +729,7 @@
 	{
 		"ControlName"		"BuildModeDialog"
 		"fieldName"		"BuildModeDialog"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"300"
 		"tall"		"420"

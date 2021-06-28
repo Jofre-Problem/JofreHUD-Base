@@ -58,7 +58,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%title%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"3"
 			"zpos"			"10"
 			"wide"			"f0"
@@ -153,7 +153,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TooltipPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"100"
 		"wide"			"100"

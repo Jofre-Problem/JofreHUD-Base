@@ -24,7 +24,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"OuterShadow"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"-2"
 			"wide"			"f0"
@@ -89,7 +89,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"LeaderContainer"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				
 				"wide"			"f0"
@@ -161,7 +161,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"NonLeaderContainer"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				
 				"wide"			"f0"
@@ -229,7 +229,7 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"DescLabel"
-				"xpos"			"0"
+				
 				"ypos"			"7"
 				"wide"			"f0"
 				"zpos"			"100"
@@ -247,7 +247,7 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"VoteEndTimeLabel"
-				"xpos"			"0"
+				
 				"ypos"			"rs1-17"
 				"wide"			"f0"
 				"zpos"			"100"
@@ -321,7 +321,7 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"DescLabel"
-				"xpos"			"0"
+				
 				"ypos"			"7"
 				"wide"			"f0"
 				"zpos"			"100"
@@ -339,7 +339,7 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"VoteEndTimeLabel"
-				"xpos"			"0"
+				
 				"ypos"			"rs1-17"
 				"wide"			"f0"
 				"zpos"			"100"
@@ -357,7 +357,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"NonLeaderContainer"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				
 				"wide"			"f0"
@@ -469,7 +469,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"LeaderContainer"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				
 				"wide"			"f0"
@@ -545,7 +545,7 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"DescLabel"
-				"xpos"			"0"
+				
 				"ypos"			"7"
 				"wide"			"f0"
 				"zpos"			"100"
@@ -563,7 +563,7 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"AutoJoinLabel"
-				"xpos"			"0"
+				
 				"ypos"			"rs1-17"
 				"wide"			"f0"
 				"zpos"			"100"

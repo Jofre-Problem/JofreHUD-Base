@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CRawLogPanel"
 		"fieldName"		"ServerLog"
-		"xpos"		"0"
+		
 		"ypos"		"28"
 		"wide"		"520"
 		"tall"		"332"

@@ -60,7 +60,7 @@
 		{
 			"ControlName"	"CAssetPicker"
 			"fieldName"		"AssetPicker"
-			"xpos"			"0"
+			
 			"ypos"			"28"
 			"wide"			"268"
 			"tall"			"320"

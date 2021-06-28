@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"SkinNameLabel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"60"
 		"tall"			"24"
@@ -27,7 +27,7 @@
 		"ypos"		"0"
 		"wide"		"390"
 		"tall"		"24"
-		"UnpinnedCornerOffsetX" "0"
+		
 		"autoResize"		"1"
 		
 		"visible"		"1"
@@ -44,7 +44,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ScaleLabel"
-		"xpos"			"0"
+		
 		"ypos"			"30"
 		"wide"			"60"
 		"tall"			"24"
@@ -67,7 +67,7 @@
 		"ypos"		"30"
 		"wide"		"390"
 		"tall"		"24"
-		"UnpinnedCornerOffsetX" "0"
+		
 		"autoResize"		"1"
 		
 		"visible"		"1"

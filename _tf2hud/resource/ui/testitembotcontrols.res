@@ -41,7 +41,7 @@
 		"font"			"HudFontSmallest"
 		"labelText"		"#IT_BotAnim_Title"
 		"textAlignment"	"east"
-		"xpos"			"0"
+		
 		"ypos"			"20"
 		"zpos"			"1"
 		"wide"			"85"
@@ -149,7 +149,7 @@
 		"font"			"HudFontSmallest"
 		"labelText"		"#IT_BotAnimSpeed_Title"
 		"textAlignment"	"east"
-		"xpos"			"0"
+		
 		"ypos"			"100"
 		"zpos"			"1"
 		"wide"			"85"

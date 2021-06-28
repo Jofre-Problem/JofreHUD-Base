@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"TargetIDBG"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"252"
@@ -31,7 +31,7 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"TargetIDBG_Spec_Blue"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"252"
@@ -53,7 +53,7 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"TargetIDBG_Spec_Red"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"252"
@@ -175,7 +175,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"MoveableSubPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-5"
 		"wide"			"32"
@@ -187,7 +187,7 @@
 		{
 			"ControlName"	"CIconPanel"
 			"fieldName"		"MoveableIconBG"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			
 			"wide"			"10"
@@ -236,7 +236,7 @@
 			"fieldName"		"MoveableKeyLabel"
 			"font"			"TFFontMedium"
 			"font_minmode"	"DefaultVerySmall"
-			"xpos"			"0"
+			
 			"ypos"			"22"
 			"zpos"			"1"
 			"wide"			"640"

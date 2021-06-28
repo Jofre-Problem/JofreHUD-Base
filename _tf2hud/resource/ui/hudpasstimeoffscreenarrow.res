@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"Image"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"30"

@@ -4,7 +4,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"CenterPositioner"
-		"xpos"			"0"
+		
 		
 		"wide"			"200"
 		"tall"			"0"

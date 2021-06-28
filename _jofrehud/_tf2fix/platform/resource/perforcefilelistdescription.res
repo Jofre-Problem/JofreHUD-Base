@@ -24,9 +24,9 @@
 			
 			"AutoResize"	"3"
 			
-			"xpos"			"0"
+			
 			"ypos"			"6"
-			"UnpinnedCornerOffsetX" "0"
+			
 			"UnpinnedCornerOffsetY" "-30"
 			
 			"child0"
@@ -35,14 +35,14 @@
 				{
 					"ControlName"	"ListPanel"
 					"fieldName"		"Browser"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"wide"			"568"
 					"tall"			"316"
 					"AutoResize"	"3"
 					
-					"UnpinnedCornerOffsetX" "0"
-					"UnpinnedCornerOffsetY" "0"
+					
+					
 					"visible"		"1"
 					
 					
@@ -55,13 +55,13 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"DescriptionLabel"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"wide"			"65"
 					"tall"			"24"
 					"autoResize"	"1"
 					
-					"UnpinnedCornerOffsetX" "0"
+					
 					"visible"		"1"
 					
 					
@@ -75,16 +75,16 @@
 				{
 					"ControlName"	"TextEntry"
 					"fieldName"		"Description"
-					"xpos"			"0"
+					
 					"ypos"			"26"
 					"wide"			"75"
 					"tall"			"24"
 					"autoResize"	"3"
 					
-					"PinnedCornerOffsetX" "0"
+					
 					"PinnedCornerOffsetY" "26"
-					"UnpinnedCornerOffsetX" "0"
-					"UnpinnedCornerOffsetY" "0"
+					
+					
 					"visible"		"1"
 					
 					"editable"		"1"

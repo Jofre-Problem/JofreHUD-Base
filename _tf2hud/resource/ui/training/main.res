@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CTrainingDialog"
 		"fieldName"		"TrainingDialog"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"480"
@@ -56,7 +56,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Background"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"wide"		"450"
 			"tall"		"500"
@@ -75,7 +75,7 @@
 			"font"			"HudFontMediumBold"
 			"labelText"		"%title%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"15"
 			"zpos"			"1"
 			"wide"			"450"
@@ -93,7 +93,7 @@
 			"font"			"HudFontMediumSmall"
 			"labelText"		"%subtitle%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"50"
 			"zpos"			"1"
 			"wide"			"450"

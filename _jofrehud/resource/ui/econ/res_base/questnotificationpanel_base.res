@@ -30,7 +30,7 @@
 				"ControlName"	"Label"
 				"fieldName"		"ItemName"
 				"labeltext"		"#QuestNotification_Incoming"
-				"xpos"			"0"
+				
 				"ypos"			"cs-0.5"
 				"wide"			"f0"
 				"tall"			"18"

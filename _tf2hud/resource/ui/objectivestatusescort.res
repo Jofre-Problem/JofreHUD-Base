@@ -179,7 +179,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"EscortItemPanel"
-		"xpos"			"0"
+		
 		"ypos"			"8"
 		"ypos_minmode"		"48"
 		"zpos"			"2"
@@ -546,7 +546,7 @@
 				
 				"if_multiple_trains"
 				{
-					"xpos"			"0"
+					
 					"ypos"			"0"			
 					"wide"			"35"			
 					"tall"			"42"			
@@ -579,7 +579,7 @@
 				"if_multiple_trains"
 				{
 					"font"			"DefaultVerySmall"
-					"xpos"			"0"
+					
 					"ypos"			"3"			
 					"wide"			"35"			
 					"tall"			"28"			

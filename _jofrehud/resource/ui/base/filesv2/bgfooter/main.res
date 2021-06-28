@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BackgroundFooter"
-		"xpos"			"0"
+		
 		"ypos"			"420"
 		"wide"			"f0"
 		"tall"			"60"

@@ -435,7 +435,7 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"HudTournamentBG"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"250"
@@ -776,7 +776,7 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"HudTournamentBGHelp"
-		"xpos"			"0"
+		
 		"ypos"			"51"
 		"zpos"			"-1"
 		"wide"			"250"
@@ -814,7 +814,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentInstructionsLabel"
 		"font"			"TFFontSmall"
-		"xpos"			"0"
+		
 		"ypos"			"54"
 		"wide"			"250"
 		"tall"			"10"
@@ -864,7 +864,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentInstructionsLabelShadow"
 		"font"			"TFFontSmall"
-		"xpos"			"0"
+		
 		"ypos"			"54"
 		"wide"			"250"
 		"tall"			"10"
@@ -917,7 +917,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TournamentReadyHintIcon"
 		"font"			"GameUIButtonsSteamControllerSmallest"
-		"xpos"			"0"
+		
 		"ypos"			"54"
 		"zpos"			"3"
 		"wide"			"40"

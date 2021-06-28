@@ -8,7 +8,7 @@
 			{
 				"ControlName"	"CIconPanel"
 				"fieldName"		"UpgradeIcon"
-				"xpos"			"0"
+				
 			//	"ypos"			"16"
 				"zpos"			"1"
 				"wide"			"10"

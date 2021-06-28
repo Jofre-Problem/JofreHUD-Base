@@ -28,7 +28,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"InfoPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"160"
 		"tall"			"75"
@@ -39,7 +39,7 @@
 			"FieldName"		"NoScreenshotLabel"
 			"Font"			"HudFontMediumSmall"
 			"visible"		"0"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"160"
 			"tall"			"15"
@@ -52,7 +52,7 @@
 			"FieldName"		"MapLabel"
 			"Font"			"ReplayMediumSmall"
 			"TextAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"15"
 			"wide"			"160"
 			"tall"			"10"
@@ -65,7 +65,7 @@
 			"Font"			"ReplayBrowserSmallest"
 			"TextAlignment"	"west"
 			"fgcolor_override"	"115 106 91 255"
-			"xpos"			"0"
+			
 			"ypos"			"27"
 			"wide"			"160"
 			"tall"			"15"
@@ -78,7 +78,7 @@
 			"Font"			"DefaultVerySmall"
 			"TextAlignment"	"west"
 			"fgcolor_override"	"247 233 198 255"
-			"xpos"			"0"
+			
 			"ypos"			"45"
 			"wide"			"60"
 			"tall"			"10"
@@ -103,7 +103,7 @@
 			"Font"			"DefaultVerySmall"
 			"TextAlignment"	"west"
 			"fgcolor_override"	"247 233 198 255"
-			"xpos"			"0"
+			
 			"ypos"			"55"
 			"wide"			"60"
 			"tall"			"10"
@@ -128,7 +128,7 @@
 			"Font"			"DefaultVerySmall"
 			"TextAlignment"	"west"
 			"fgcolor_override"	"247 233 198 255"
-			"xpos"			"0"
+			
 			"ypos"			"65"
 			"wide"			"60"
 			"tall"			"10"

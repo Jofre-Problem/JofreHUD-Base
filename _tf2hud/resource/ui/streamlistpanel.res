@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HeaderContainer"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"300"
 		"tall"			"22"
@@ -17,7 +17,7 @@
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			"labelText"		"#MMenu_Stream_LiveStream"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"300"
 			"tall"			"24"
@@ -73,7 +73,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"14"
@@ -107,7 +107,7 @@
 	{
 		"ControlName"	"CTFStreamPanel"
 		"fieldName"		"Stream1"
-		"xpos"			"0"
+		
 		"ypos"			"50"
 		"wide"			"p1"
 		"tall"			"50"
@@ -122,7 +122,7 @@
 	{
 		"ControlName"	"CTFStreamPanel"
 		"fieldName"		"Stream2"
-		"xpos"			"0"
+		
 		"ypos"			"105"
 		"wide"			"p1"
 		"tall"			"50"
@@ -137,7 +137,7 @@
 	{
 		"ControlName"	"CTFStreamPanel"
 		"fieldName"		"Stream3"
-		"xpos"			"0"
+		
 		"ypos"			"160"
 		"wide"			"p1"
 		"tall"			"50"
@@ -152,7 +152,7 @@
 	{
 		"ControlName"	"CTFStreamPanel"
 		"fieldName"		"Stream4"
-		"xpos"			"0"
+		
 		"ypos"			"215"
 		"wide"			"p1"
 		"tall"			"50"
@@ -167,7 +167,7 @@
 	{
 		"ControlName"	"CTFStreamPanel"
 		"fieldName"		"Stream5"
-		"xpos"			"0"
+		
 		"ypos"			"270"
 		"wide"			"p1"
 		"tall"			"50"

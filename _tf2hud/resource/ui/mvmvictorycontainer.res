@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-2"
 		"wide"			"f0"
@@ -29,7 +29,7 @@
 		{
 			"ControlName"	"ScalableImagePanel"
 			"fieldName"		"BannerImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"600"
 			"tall"			"50"
@@ -66,7 +66,7 @@
 			"font"			"HudFontBiggerBold"
 			"labelText"		"#TF_MVM_Victory_Complete"
 			"textAlignment" "center"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"600"
 			"tall"			"35"

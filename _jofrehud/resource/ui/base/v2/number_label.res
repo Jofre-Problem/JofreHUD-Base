@@ -6,7 +6,7 @@
 		"fieldName"		"NumberLabel"
 		"font"			"Default"
 		"fgcolor"		"TanLight"
-		"xpos"			"0"
+		
 		"ypos"			"98"
 		"zpos"			"1"
 		"wide"			"100"

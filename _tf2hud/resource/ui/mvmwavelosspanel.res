@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"DarkMask"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"f0"
@@ -99,7 +99,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_PVE_Credit_Collection"
 			"textAlignment" "center"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"140"
 			"fgcolor"		"Black"
@@ -112,7 +112,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_Collected"
 			"textAlignment" "west"
-			"xpos"			"0"
+			
 			"ypos"			"25"
 			"wide"			"120"
 			"fgcolor"		"TanDarker"
@@ -138,7 +138,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_Missed"
 			"textAlignment" "west"
-			"xpos"			"0"
+			
 			"ypos"			"40"
 			"wide"			"120"
 			"fgcolor"		"TanDarker"
@@ -164,7 +164,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_Bonus"
 			"textAlignment" "west"
-			"xpos"			"0"
+			
 			"ypos"			"55"
 			"wide"			"120"
 			"fgcolor"		"TanDarker"
@@ -201,7 +201,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_PVE_Credit_Use"
 			"textAlignment" "center"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"195"
 			"fgcolor"		"Black"
@@ -240,7 +240,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_Buybacks"
 			"textAlignment" "west"
-			"xpos"			"0"
+			
 			"ypos"			"25"
 			"wide"			"120"
 			"fgcolor"		"TanDarker"
@@ -279,7 +279,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_Bottles"
 			"textAlignment" "west"
-			"xpos"			"0"
+			
 			"ypos"			"40"
 			"wide"			"120"
 			"fgcolor"		"TanDarker"
@@ -318,7 +318,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_Inactive_Upgrades"
 			"textAlignment" "west"
-			"xpos"			"0"
+			
 			"ypos"			"55"
 			"wide"			"120"
 			"fgcolor"		"TanDarker"
@@ -365,7 +365,7 @@
 		{
 			"ControlName"	"ScalableImagePanel"
 			"fieldName"		"Background"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"500"
 			"tall"			"150"
@@ -389,7 +389,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_PVE_Hint_Header"
 			"textAlignment" "center"
-			"xpos"			"0"
+			
 			"ypos"			"5"
 			"wide"			"500"
 			"fgcolor"		"Gray"

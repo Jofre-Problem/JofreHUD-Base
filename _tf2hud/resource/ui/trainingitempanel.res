@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CTrainingItemPanel"
 		"fieldName"		"TrainingItemPanel"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"620"
 		"tall"		"195"
@@ -33,7 +33,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"Image"
-		"xpos"			"0"
+		
 		"ypos"			"-64"
 		"wide"			"128"
 		"tall"			"256"

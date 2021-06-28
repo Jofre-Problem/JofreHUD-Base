@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CQuestLogPanel"
 		"fieldName"		"QuestDetails"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"f0"
@@ -18,7 +18,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Dimmer"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"zpos"		"-2"
 		"wide"		"f0"
@@ -35,7 +35,7 @@
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"mouseoveritempanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1000"
 		"wide"			"300"
@@ -56,7 +56,7 @@
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
-			"xpos"			"0"
+			
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"
@@ -79,7 +79,7 @@
 		"font"			"HudFontMediumBold"
 		"labelText"		"#QuestDetails_Title"
 		"textAlignment"	"center"
-		"xpos"			"0"
+		
 		"ypos"			"10"
 		"zpos"			"2"
 		"wide"			"f0"
@@ -205,7 +205,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%questname%"
 			"textAlignment"	"north"
-			"xpos"			"0"
+			
 			"ypos"			"-14"
 			"zpos"			"2"
 			"wide"			"f0"
@@ -258,7 +258,7 @@
 			{
 				"ControlName"	"CExImageButton"
 				"fieldName"		"SubButton"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -331,7 +331,7 @@
 			{
 				"ControlName"	"CExImageButton"
 				"fieldName"		"SubButton"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"

@@ -38,7 +38,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"8"
@@ -88,7 +88,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"f0"
@@ -124,7 +124,7 @@
 	{
 		"ControlName"	"Panel"
 		"fieldName"		"StateBorderOverlay"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"999"
 		"wide"			"f0"
@@ -140,7 +140,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"ExpireLabel"
 		"labeltext"		"%expire_time%"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"199"
 		"tall"			"10"
@@ -169,7 +169,7 @@
 			"ControlName"	"Label"
 			"fieldName"		"ContractsLabel"
 			"labeltext"		"#Quests"
-			"xpos"			"0"
+			
 			"ypos"			"17"
 			"wide"			"f0"
 			"tall"			"15"
@@ -258,7 +258,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"RewardContainer"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"f0"
 			"tall"			"75"
@@ -270,7 +270,7 @@
 				"ControlName"	"Label"
 				"fieldName"		"RewardsLabel"
 				"labeltext"		"#TF_QuestView_Rewards"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"f0"
 				"tall"			"15"
@@ -318,7 +318,7 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"BloodMoneyObtainedIndicator"
-					"xpos"			"0"
+					
 					"ypos"			"cs-0.5"
 					"zpos"			"101"
 					"wide"			"f0"
@@ -358,7 +358,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"CashImage"
-					"xpos"			"0"
+					
 					"ypos"			"-7"
 					"zpos"			"1"
 					"wide"			"f0"
@@ -411,7 +411,7 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"RewardObtainedIndicator"
-					"xpos"			"0"
+					
 					"ypos"			"cs-0.5"
 					"zpos"			"101"
 					"wide"			"f0"

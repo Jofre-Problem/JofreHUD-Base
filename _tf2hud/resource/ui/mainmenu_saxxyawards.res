@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
 		
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-100"
 		"wide"			"f0"
@@ -53,7 +53,7 @@
 		"scaleAmount"	"0"
 		"image"			"replay/saxxycontest/mainmenu_spotlight"
 		
-		"xpos"			"0"
+		
 		"ypos"			"297"
 		"zpos"			"1000"
 		"wide"			"128"
@@ -256,7 +256,7 @@
 			"scaleAmount"	"0"
 			"image"			"replay/mainmenu_curtain_L"
 			
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"101"
 			"wide"			"175"
@@ -301,7 +301,7 @@
 			"scaleAmount"	"0"
 			"image"			"replay/mainmenu_curtains_static"
 			
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"102"
 			"wide"			"350"

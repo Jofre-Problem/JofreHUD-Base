@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"Background"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"250"
 		"tall"			"80"
@@ -25,7 +25,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"WaveCompleteContainer"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"250"
 		"tall"			"35"
@@ -74,7 +74,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"CreditContainer"
-		"xpos"			"0"
+		
 		"ypos"			"30"
 		"wide"			"400"
 		"tall"			"400"
@@ -88,7 +88,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_CurrencyCollected"
 			"textAlignment" "north-east"
-			"xpos"			"0"
+			
 			"ypos"			"9"
 			"wide"			"105"
 			"tall"			"20"
@@ -116,7 +116,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_Missed"
 			"textAlignment" "north-east"
-			"xpos"			"0"
+			
 			"ypos"			"21"
 			"wide"			"105"
 			"tall"			"20"
@@ -144,7 +144,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_Bonus"
 			"textAlignment" "north-east"
-			"xpos"			"0"
+			
 			"ypos"			"33"
 			"wide"			"105"
 			"tall"			"20"
@@ -184,7 +184,7 @@
 			"font"			"HudFontSmall"
 			"labelText"		"%ratinglabel%"
 			"textAlignment" "center"
-			"xpos"			"0"
+			
 			"ypos"			"5"
 			"wide"			"115"
 			"tall"			"20"
@@ -212,7 +212,7 @@
 			"font"			"HudFontMediumBold"
 			"labelText"		"%ratingscore%"
 			"textAlignment" "center"
-			"xpos"			"0"
+			
 			"ypos"			"19"
 			"wide"			"115"
 			"tall"			"30"
@@ -224,7 +224,7 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"RespecBackground"
-		"xpos"			"0"
+		
 		"ypos"			"80"
 		"wide"			"250"
 		"tall"			"25"
@@ -245,7 +245,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"RespecContainer"
-		"xpos"			"0"
+		
 		"ypos"			"80"
 		"wide"			"250"
 		"tall"			"25"
@@ -259,7 +259,7 @@
 			"font"			"HudFontSmall"
 			"labelText"		"#TF_PVE_Respecs"
 			"textAlignment" "center"
-			"xpos"			"0"
+			
 			"ypos"			"3"
 			"wide"			"160"
 			"tall"			"20"

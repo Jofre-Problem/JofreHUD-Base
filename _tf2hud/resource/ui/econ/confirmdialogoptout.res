@@ -24,7 +24,7 @@
 		"font"			"HudFontMediumBold"
 		"labelText"		"#ConfirmTitle"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"300"
@@ -110,7 +110,7 @@
 	{
 		"ControlName"	"CheckButton"
 		"fieldName"		"OptOutCheckbox"
-		"xpos"			"0"
+		
 		"ypos"			"217"
 		"zpos"			"2"
 		"wide"			"300"

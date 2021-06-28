@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"QuestItemPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10"
 		"wide"			"f0"
@@ -80,7 +80,7 @@
 		"tracker_kv"
 		{
 			"fieldName"	"ItemTrackerPanel"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"wide"		"f0"
 			"tall"		"f0"
@@ -114,7 +114,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"PaperImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"1"
 					"wide"			"f0"
@@ -133,7 +133,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"EncodedImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"199"
 					"wide"			"f0"
@@ -151,7 +151,7 @@
 				{
 					"ControlName"	"CInputProxyPanel"
 					"fieldName"		"PaperInputProxyPanel"
-					"xpos"		"0"
+					
 					"ypos"		"0"
 					"zpos"		"100"
 					"wide"		"f0"
@@ -166,7 +166,7 @@
 				{
 					"ControlName"	"CExButton"
 					"fieldName"		"TitleButton"
-					"xpos"		"0"
+					
 					"ypos"		"10"
 					"zpos"		"99"
 					"wide"		"f0"
@@ -198,7 +198,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"PaperClips"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"100"
 					"wide"			"f0"
@@ -229,7 +229,7 @@
 					{
 						"ControlName"	"EditablePanel"
 						"fieldName"		"Dimmer"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						
 						"wide"			"f0"
@@ -245,7 +245,7 @@
 					{
 						"ControlName"	"CExButton"
 						"fieldName"		"IdentifyButton"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						"zpos"			"10"
 						"wide"			"f0"
@@ -294,7 +294,7 @@
 					{
 						"ControlName"	"EditablePanel"
 						"fieldName"		"Dimmer"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						
 						"wide"			"f0"
@@ -310,7 +310,7 @@
 					{
 						"ControlName"	"EditablePanel"
 						"fieldName"		"GreyDimmer"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						
 						"wide"			"f0"
@@ -326,7 +326,7 @@
 					{
 						"ControlName"	"CExButton"
 						"fieldName"		"TurnInButton"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						"zpos"			"10"
 						"wide"			"f0"
@@ -374,7 +374,7 @@
 						{
 							"ControlName"	"Label"
 							"fieldName"		"TurningInLabel"
-							"xpos"			"0"
+							
 							"ypos"			"0"
 							"zpos"			"10"
 							"wide"			"f0"
@@ -621,7 +621,7 @@
 					{
 						"ControlName"	"ImagePanel"
 						"fieldName"		"LoanersBGImage"
-						"xpos"			"0"
+						
 						"ypos"			"0"
 						
 						"wide"			"f0"
@@ -907,7 +907,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"BackFolderContainer"
-				"xpos"		"0"
+				
 				"ypos"		"0"
 				"zpos"		"-5"
 				"wide"		"f0"
@@ -923,7 +923,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"BackFolderImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					
 					"wide"			"f0"
@@ -943,7 +943,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"FrontFolderContainer"
-				"xpos"		"0"
+				
 				"ypos"		"0"
 				"zpos"		"100"
 				"wide"		"f0"
@@ -960,7 +960,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"FrontFolderImage"
-					"xpos"			"0"
+					
 					"ypos"			"20"
 					"zpos"			"9"
 					"wide"			"f0"
@@ -979,7 +979,7 @@
 				{
 					"ControlName"	"CInputProxyPanel"
 					"fieldName"		"FrontInputProxyPanel"
-					"xpos"		"0"
+					
 					"ypos"		"0"
 					"zpos"		"100"
 					"wide"		"f0"
@@ -1013,7 +1013,7 @@
 						{
 							"ControlName"	"ImagePanel"
 							"fieldName"		"Background"
-							"xpos"			"0"
+							
 							"ypos"			"0"
 							
 							"wide"			"f0"
@@ -1075,7 +1075,7 @@
 						{
 							"ControlName"	"ImagePanel"
 							"fieldName"		"Background"
-							"xpos"			"0"
+							
 							"ypos"			"0"
 							
 							"wide"			"f0"
@@ -1141,7 +1141,7 @@
 						{
 							"ControlName"	"ImagePanel"
 							"fieldName"		"Background"
-							"xpos"			"0"
+							
 							"ypos"			"0"
 							
 							"wide"			"f0"

@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CStorePreviewItemPanel"
 		"fieldName"		"storepreviewitem"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"305"
 		"tall"			"255"
@@ -22,7 +22,7 @@
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
 		
-		"xpos"			"0"
+		
 		"ypos"			"0"
 				
 		"wide"			"295"

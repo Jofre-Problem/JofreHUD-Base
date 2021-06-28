@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CPropertiesContainer"
 		"fieldName"		"ElementPropertiesTree"
-		"xpos"		"0"
+		
 		"ypos"		"14"
 		"wide"		"1157"
 		"tall"		"577"
@@ -32,7 +32,7 @@
 	{
 		"ControlName"		"CElementTreeViewListControl"
 		"fieldName"		"ElementTreeList"
-		"xpos"		"0"
+		
 		"ypos"		"22"
 		"wide"		"1157"
 		"tall"		"548"
@@ -46,7 +46,7 @@
 	{
 		"ControlName"		"CPropertiesTreeToolbar"
 		"fieldName"		""ElementTreeToolbar""
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"1157"
 		"tall"		"22"

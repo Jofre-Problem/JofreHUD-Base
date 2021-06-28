@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CRawLogPanel"
 		"fieldName"		"ServerLog"
-		"xpos"		"0"
+		
 		
 		
 		

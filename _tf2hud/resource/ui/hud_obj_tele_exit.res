@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"BuildingStatusItem"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"150"
 		"tall"			"31"
@@ -19,7 +19,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"Background"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"120"
@@ -50,7 +50,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"NotBuiltPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"160"
 		"tall"			"31"
@@ -80,7 +80,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BuiltPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"160"
 		"tall"			"43"
@@ -212,7 +212,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"BuildingLabel"
 				"font"			"DefaultSmall"
-				"xpos"			"0"
+				
 				"ypos"			"5"
 				"wide"			"200"
 				"tall"			"12"
@@ -231,7 +231,7 @@
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"BuildingProgress"
 				"font"			"Default"
-				"xpos"			"0"
+				
 				"ypos"			"16"
 				"wide"			"50"
 				"tall"			"8"				
@@ -259,7 +259,7 @@
 			{
 				"ControlName"	"CIconPanel"
 				"fieldName"		"UpgradeIcon"
-				"xpos"			"0"
+				
 				"ypos"			"16"
 				"zpos"			"1"
 				"wide"			"10"

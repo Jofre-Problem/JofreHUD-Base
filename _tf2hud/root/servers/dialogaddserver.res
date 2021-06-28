@@ -36,7 +36,7 @@
 	{
 		"ControlName"		"ListPanel"
 		"fieldName"		"Servers"
-		"xpos"		"0"
+		
 		"ypos"		"28"
 		"wide"		"526"
 		"tall"		"122"

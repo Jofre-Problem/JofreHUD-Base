@@ -12,7 +12,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"FreezePanelBase"
-		"xpos"			"0"
+		
 		"ypos"			"0"		
 		"wide"			"640"		
 		"tall"			"480"		
@@ -36,7 +36,7 @@
 			{
 				"ControlName"		"ImagePanel"
 				"fieldName"		"NemesisPanelBG"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"5"
 				"wide"			"166"
@@ -328,7 +328,7 @@
 		{
 			"ControlName"		"EditablePanel"
 			"fieldName"		"NemesisSubPanel"
-			"xpos"			"0"		// FIXME
+					// FIXME
 			"ypos"			"130"
 			"zpos"			"4"
 			"wide"			"306"
@@ -421,7 +421,7 @@
 		{
 			"ControlName"		"ImagePanel"
 			"fieldName"		"ScreenshotPanelBG"
-			"xpos"			"0"
+			
 			"ypos"			"8"
 			
 			"wide"			"166"

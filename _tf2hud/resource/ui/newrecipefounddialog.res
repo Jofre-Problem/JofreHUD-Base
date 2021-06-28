@@ -20,7 +20,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"TitleLabel"
 		"font"			"HudFontMediumBold"
-		"xpos"			"0"
+		
 		"ypos"			"10"
 		
 		"wide"			"400"
@@ -60,7 +60,7 @@
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
-			"xpos"			"0"
+			
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"

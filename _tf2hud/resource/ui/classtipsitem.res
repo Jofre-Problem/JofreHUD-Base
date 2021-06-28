@@ -19,7 +19,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"TipIcon"
-			"xpos"			"0"
+			
 			"ypos"			"4"
 			"wide"			"16"
 			"tall"			"16"

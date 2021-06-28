@@ -30,7 +30,7 @@
 	{
 		"ControlName"		"ImagePanel"
 	//	"fieldName"		"MainBackground"
-	//	"xpos"			"0"
+	//	
 	//	"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
@@ -89,7 +89,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"	"TFStatsSummary"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"480"
@@ -102,7 +102,7 @@
 		"fieldName"		"OnYourWayLabel"
 		"labelText"		"#LoadingMap"
 		"textAlignment"		"center"
-		"xpos"			"0"
+		
 		"tall"			"35"
 		
 		
@@ -112,7 +112,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"	"StatData"
-		"xpos"		"0"
+		
 		"zpos"		"1"
 		"wide"		"f0"
 		"tall"		"480"
@@ -123,7 +123,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"	"NonInteractiveHeaders"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"zpos"		"2"
 			"wide"		"f0"
@@ -204,7 +204,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"	"InteractiveHeaders"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"zpos"		"2"
 			"wide"		"f0"
@@ -2543,7 +2543,7 @@
 	"TitleBanner" [$X360]
 	{
 		"ControlName"	"ImagePanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"128"

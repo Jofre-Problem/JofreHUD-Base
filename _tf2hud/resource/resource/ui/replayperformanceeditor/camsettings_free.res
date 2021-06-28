@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"FreeCameraSettings"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"500"
 		

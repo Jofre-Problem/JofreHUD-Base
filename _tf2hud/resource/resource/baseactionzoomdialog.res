@@ -47,7 +47,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"LeftGrip"
-		"xpos"		"0"
+		
 		"ypos"		"8"
 		"wide"		"5"
 		"tall"		"284"
@@ -75,7 +75,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"TopLeftGrip"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
@@ -89,7 +89,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"BottomLeftGrip"
-		"xpos"		"0"
+		
 		"ypos"		"292"
 		"wide"		"8"
 		"tall"		"8"
@@ -117,7 +117,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"CaptionGrip"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"390"
 		"tall"		"23"
@@ -131,7 +131,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"MinimizeButton"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
@@ -150,7 +150,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"FrameButton"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
@@ -169,7 +169,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"MinimiseToSysTray"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"

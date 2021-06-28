@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"	"ControlPointIcon"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"zpos"		"2"
 		"wide"		"33"
@@ -19,7 +19,7 @@
 	{
 		"ControlName"	"CControlPointCountdown"
 		"fieldName"	"Countdown"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"zpos"		"4"
 		"wide"		"33"
@@ -34,7 +34,7 @@
 	{
 		"ControlName"	"ImagePanel"		
 		"fieldName"	"CapPlayerImage"
-		"xpos"		"0"
+		
 		"xpos_minmode"		"0"
 		"ypos"		"0"
 		"ypos_minmode"		"0"
@@ -97,7 +97,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CPTimerLabel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"9"
@@ -118,7 +118,7 @@
 	{
 		"ControlName"	"Panel"
 		"fieldName"		"CPTimerBG"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"		"66"

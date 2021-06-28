@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CPlayerPanel"
 		"fieldName"		"Player List"
-		"xpos"		"0"
+		
 		"ypos"		"28"
 		"wide"		"520"
 		"tall"		"332"
@@ -72,7 +72,7 @@
 	{
 		"ControlName"		"Menu"
 		"fieldName"		"ServerContextMenu"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"zpos"		"1"
 		"wide"		"64"
@@ -87,7 +87,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"Chat"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -107,7 +107,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"slap"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"

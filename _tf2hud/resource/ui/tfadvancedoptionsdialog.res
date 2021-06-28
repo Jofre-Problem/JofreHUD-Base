@@ -32,7 +32,7 @@
 		"font"			"HudFontMediumBold"
 		"labelText"		"#TF_AdvancedOptions"
 		"textAlignment"	"center"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"500"
@@ -112,7 +112,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TooltipPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"100"
 		"wide"			"240"

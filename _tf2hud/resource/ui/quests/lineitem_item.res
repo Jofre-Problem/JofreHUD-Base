@@ -3,7 +3,7 @@
 	"Item"
 	{
 		"fieldName"		"Item"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -15,7 +15,7 @@
 	{		
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"ItemImage"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"f0"

@@ -21,7 +21,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HeaderLine"
-		"xpos"			"0"
+		
 		"ypos"			"r5"
 		"zpos"			"2"
 		"wide"			"f0"
@@ -57,7 +57,7 @@
 	{
 		"ControlName"	"Button"
 		"fieldName"		"TabButton"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"50"
 		"wide"			"f0"
@@ -74,7 +74,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TabImage"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-5"
 		"wide"			"f0"
@@ -93,7 +93,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TabImage2"
-		"xpos"			"0"
+		
 		"ypos"			"20"
 		"zpos"			"-5"
 		"wide"			"f0"
@@ -112,7 +112,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ActiveTabPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"20"
 		"wide"			"f0"

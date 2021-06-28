@@ -2,7 +2,7 @@
 {
 	"TopLeftGrip"
 	{
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"11"
 		"tall"		"11"
@@ -16,7 +16,7 @@
 	}
 	"BottomLeftGrip"
 	{
-		"xpos"		"0"
+		
 		"ypos"		"289"
 		"wide"		"11"
 		"tall"		"11"

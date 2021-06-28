@@ -101,7 +101,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"BottomBar"
-			"xpos"			"0"
+			
 			"ypos"			"r50"
 			//"ypos_lodef"			"r74"
 			//"ypos_hidef"			"r65"
@@ -123,7 +123,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"TopBar"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			//"ypos_lodef"			"r74"
 			//"ypos_hidef"			"r65"
@@ -176,7 +176,7 @@
 		  	"font"			"HudFontMediumSmallBold"
 			"labelText"		"%wintext%"
 			"textAlignment"		"center"
-			"xpos"			"0"
+			
 			"ypos"			"10"
 			"zpos"			"1"
 			"wide"			"400"
@@ -190,7 +190,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"ResultsBG"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"400"
 			"tall"			"275"

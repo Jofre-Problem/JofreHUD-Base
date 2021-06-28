@@ -25,7 +25,7 @@
 			"font"			"EconFontSmall"
 			"labelText"		"#ConfirmTitle"
 			"textAlignment"	"north"
-			"xpos"			"0"
+			
 			"ypos"			"10"
 			"zpos"			"1"
 			"wide"			"220"

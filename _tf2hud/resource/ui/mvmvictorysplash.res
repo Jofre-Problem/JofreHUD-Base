@@ -46,7 +46,7 @@
 			"font"			"HudFontGiantBold"
 			"labelText"		"#TF_MVM_Victory"
 			"textAlignment" "center"
-			"xpos"			"0"
+			
 			"ypos"			"12"
 			"wide"			"300"
 			"tall"			"50"

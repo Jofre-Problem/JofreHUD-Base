@@ -179,7 +179,7 @@
 		"font"			"HudFontSmallest"
 		"labelText"		"#TF_Bot_Difficulty"
 		"textAlignment"	"east"
-		"xpos"			"0"
+		
 		"ypos"			"200"
 		"wide"			"190"
 		"tall"			"20"
@@ -230,7 +230,7 @@
 		"font"			"HudFontSmallest"
 		"labelText"		"#IT_BotAddition_Title"
 		"textAlignment"	"east"
-		"xpos"			"0"
+		
 		"ypos"			"230"
 		"wide"			"190"
 		"tall"			"20"

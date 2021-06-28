@@ -6,7 +6,7 @@
 		"fieldName"		"TitleLabelDropshadow"
 		"font"			"HudFontGiantBold"
 		"fgcolor"		"Black"
-		"xpos"			"0"			// align me to the left edge of the first selection
+					// align me to the left edge of the first selection
 		"ypos"			"-1"
 		"zpos"			"2"
 		"wide"			"300"

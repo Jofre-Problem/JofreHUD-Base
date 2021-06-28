@@ -5,7 +5,7 @@
 //	{
 //		"ControlName"	"MaterialImage"
 //		"fieldName"		"Background"
-//		"xpos"			"0"
+//		
 //		"ypos"			"0"
 //		"zpos"			"-2"
 //		"wide"			"480"

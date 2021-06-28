@@ -54,7 +54,7 @@
 				"ControlName"	"Label"
 				"fieldName"		"PointsLabel"
 				"labeltext"		"%points%"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -69,7 +69,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ProgressBarStandardHighlight"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -84,7 +84,7 @@
 					"ControlName"	"Label"
 					"fieldName"		"PointsLabelInvert"
 					"labeltext"		"%points%"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"wide"			"f0"
 					"tall"			"f0"
@@ -101,7 +101,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ProgressBarStandard"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -117,7 +117,7 @@
 					"ControlName"	"Label"
 					"fieldName"		"PointsLabelInvert"
 					"labeltext"		"%points%"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"wide"			"f0"
 					"tall"			"f0"
@@ -134,7 +134,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ProgressBarJustEarned"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"0"
 				"tall"			"f0"
@@ -164,7 +164,7 @@
 				"ControlName"	"Label"
 				"fieldName"		"PointsLabel"
 				"labeltext"		"%points%"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -180,7 +180,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ProgressBarStandardHighlight"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -196,7 +196,7 @@
 					"ControlName"	"Label"
 					"fieldName"		"PointsLabelInvert"
 					"labeltext"		"%points%"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"wide"			"f0"
 					"tall"			"f0"
@@ -213,7 +213,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ProgressBarStandard"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -229,7 +229,7 @@
 					"ControlName"	"Label"
 					"fieldName"		"PointsLabelInvert"
 					"labeltext"		"%points%"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"wide"			"f0"
 					"tall"			"f0"
@@ -246,7 +246,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ProgressBarJustEarned"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"0"
 				"tall"			"f0"
@@ -262,7 +262,7 @@
 					"ControlName"	"Label"
 					"fieldName"		"PointsLabelInvert"
 					"labeltext"		"%points%"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"wide"			"f0"
 					"tall"			"f0"
@@ -300,7 +300,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PrimaryLabel"
 		"labeltext"		"#QuestPoints_Primary"
-		"xpos"			"0"
+		
 		"ypos"			"50"
 		"wide"			"190"
 		"tall"			"20"
@@ -316,7 +316,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"BonusLabel"
 		"labeltext"		"#QuestPoints_Bonus"
-		"xpos"			"0"
+		
 		"ypos"			"50"
 		"wide"			"190"
 		"tall"			"20"

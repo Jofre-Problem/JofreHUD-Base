@@ -24,7 +24,7 @@
 		"font"			"HudFontSmallBold"
 		"labelText"		"#Replay_Contest_SubmitFormDirections"
 		"textAlignment"	"center"
-		"xpos"			"0"
+		
 		"ypos"			"25"
 		"zpos"			"1"
 		"wide"			"320"

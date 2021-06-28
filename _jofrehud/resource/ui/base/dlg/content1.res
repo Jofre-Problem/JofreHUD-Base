@@ -5,7 +5,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ReplayInputPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		

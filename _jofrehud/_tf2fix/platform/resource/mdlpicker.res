@@ -33,8 +33,8 @@
 					
 					
 					"AutoResize"	"3"
-					"PinnedCornerOffsetX" "0"
-					"PinnedCornerOffsetX" "0"
+					
+					
 					
 					"child0"
 					{
@@ -106,7 +106,7 @@
 							"ControlName"	"CheckButton"
 							"fieldName"		"SubDirCheck"
 							"wide"			"200"
-							"xpos"			"0"
+							
 							"ypos"			"33"
 							
 							"visible"		"1"
@@ -251,10 +251,10 @@
 					
 					"AutoResize"	"3"
 					
-					"xpos"			"0"
+					
 					"ypos"			"0"
-					"UnpinnedCornerOffsetX" "0"
-					"UnpinnedCornerOffsetY" "0"
+					
+					
 					
 					"child0"
 					{

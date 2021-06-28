@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"LobbyPanel"
-		"xpos"			"0"
+		
 		"ypos"			"50"
 		"wide"			"f0"
 		"tall"			"f0"

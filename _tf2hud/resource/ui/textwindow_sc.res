@@ -129,7 +129,7 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MenuBG"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 				
 		"wide"			"f0"
@@ -157,7 +157,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ShadedBar"
-		"xpos"			"0"
+		
 		"ypos"			"r50"
 		"zpos"			"5"
 		"wide"			"f0"

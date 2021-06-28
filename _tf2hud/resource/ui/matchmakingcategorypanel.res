@@ -18,7 +18,7 @@
 	{
 		"Controlname"	"EditablePanel"
 		"fieldName"		"TopContainer"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"f0"
@@ -31,7 +31,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"BGColor"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"f0"
@@ -48,7 +48,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"BGImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			
 			"wide"			"o4"
@@ -63,7 +63,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"EntryToggleButton"
-			"xpos"			"0"
+			
 			"ypos"			"rs1"
 			"zpos"			"100"
 			"wide"			"f0"
@@ -260,7 +260,7 @@
 	{
 		"Controlname"	"EditablePanel"
 		"fieldName"		"MapsContainer"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"f0"

@@ -21,7 +21,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"f0"
@@ -276,7 +276,7 @@
 		{
 			"ControlName"	"CScrollableList"
 			"fieldName"		"DataCenterList"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"2"
 			"wide"			"f0"
@@ -322,7 +322,7 @@
 		{
 			"Controlname"	"EditablePanel"
 			"fieldName"		"Frame"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -336,7 +336,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldname"		"Background"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			
 			"wide"			"f0"

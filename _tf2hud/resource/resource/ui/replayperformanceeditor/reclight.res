@@ -36,7 +36,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"CameraCrosshair"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"430"
 		"tall"			"430"
@@ -78,7 +78,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayImg"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"60"
 		"tall"			"60"
@@ -93,7 +93,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PauseImg"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"60"
 		"tall"			"60"

@@ -8,10 +8,10 @@
 		
 		"AutoResize"	"3"
 		
-		"xpos"			"0"
+		
 		"ypos"			"0"
-		"UnpinnedCornerOffsetX" "0"
-		"UnpinnedCornerOffsetY" "0"
+		
+		
 	}
 		
 	"FunctionList"

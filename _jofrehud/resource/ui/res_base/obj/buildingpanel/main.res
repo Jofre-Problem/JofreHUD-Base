@@ -17,7 +17,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"BuildingLabel"
 				"font"			"DefaultSmall"
-				"xpos"			"0"
+				
 				"ypos"			"5"
 				"wide"			"200"
 				"tall"			"12"
@@ -36,7 +36,7 @@
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"BuildingProgress"
 				"font"			"Default"
-				"xpos"			"0"
+				
 				"ypos"			"16"
 				"wide"			"50"
 				"tall"			"8"				

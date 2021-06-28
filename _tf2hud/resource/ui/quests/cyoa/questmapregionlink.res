@@ -3,7 +3,7 @@
 	"Link"
 	{
 		"fieldName"		"Link"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"99"
 		"wide"			"140"
@@ -16,7 +16,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"RegionIcon"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"101"
 			"wide"			"25"
@@ -36,7 +36,7 @@
 			"ControlName"	"Button"
 			"fieldName"		"LinkRegionNameButton"
 			"labeltext"		"%link_region_name%"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"f0"
 			"tall"			"f0"

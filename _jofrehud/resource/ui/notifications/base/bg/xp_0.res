@@ -2,6 +2,6 @@
 {
 	"Notification_Background"	
 	{
-		"xpos"			"0"
+		
 	}
 }	

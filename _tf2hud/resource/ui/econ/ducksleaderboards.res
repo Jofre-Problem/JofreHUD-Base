@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CTFLeaderboardPanel"
 		"fieldName"		"DucksLeaderboardPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1000"
 		"wide"			"f0"
@@ -111,7 +111,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"SecondaryStatsContainer"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"500"
 				"wide"			"f0"
@@ -132,7 +132,7 @@
 					"font"			"HudFontSmallBold"
 					"labelText"		"#TF_YourStats"
 					"textAlignment"	"center"
-					"xpos"			"0"
+					
 					"ypos"			"3"
 					"zpos"			"10"
 					"wide"			"f0"
@@ -256,7 +256,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"1"
 					"wide"			"14"
@@ -306,7 +306,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"1"
 					"wide"			"f0"
@@ -357,7 +357,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"1"
 					"wide"			"f0"
@@ -376,7 +376,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TooltipPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"100"
 		"wide"			"300"
@@ -411,7 +411,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Dimmer"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"zpos"		"-2"
 		"wide"		"f0"
@@ -428,7 +428,7 @@
 	{
 		"ControlName"	"Button"
 		"fieldName"		"OutsideCloseButton"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"zpos"		"-1"
 		"wide"		"f0"

@@ -14,7 +14,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemEffectMeterBG"
-		"xpos"			"0"
+		
 		"ypos"			"10"
 		"xpos_minmode"	"0"
 		"ypos_minmode"	"10"

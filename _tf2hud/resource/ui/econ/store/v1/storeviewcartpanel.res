@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"store_viewcart_panel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
@@ -32,7 +32,7 @@
 		
 		"item_entry_kv"
 		{
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"580"
 			"tall"			"60"
@@ -41,7 +41,7 @@
 			{
 				"ControlName"	"CItemModelPanel"
 				"fieldname"		"itempanel"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"400"
 				"tall"			"58"
@@ -93,7 +93,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SeparatorLine"
-				"xpos"			"0"
+				
 				"ypos"			"58"
 				"zpos"			"5"
 				"wide"			"580"
@@ -154,7 +154,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BackgroundHeader"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-2"
 		"wide"			"f0"
@@ -168,7 +168,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BackgroundFooter"
-		"xpos"			"0"
+		
 		"ypos"			"420"
 		"zpos"			"1"
 		"wide"			"f0"
@@ -182,7 +182,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"FooterLine"
-		"xpos"			"0"
+		
 		"ypos"			"420"
 		"zpos"			"2"
 		"wide"			"f0"
@@ -197,7 +197,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ClientArea"
-		"xpos"			"0"
+		
 		"ypos"			"55"
 		"wide"			"f0"
 		"tall"			"368"
@@ -207,7 +207,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"HeaderLine"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"5"
 			"wide"			"f0"
@@ -287,7 +287,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ItemListContainer"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"5"
 				"wide"			"500"
@@ -325,7 +325,7 @@
 						"font"			"HudFontSmall"
 						"labelText"		"#Store_EstimatedTotal"
 						"textAlignment"	"south-east"
-						"xpos"			"0"
+						
 						"ypos"			"15"
 						"zpos"			"100"
 						"wide"			"425"
@@ -342,7 +342,7 @@
 						"font"			"HudFontSmallest"
 						"labelText"		"#Store_WAStateSalesTax"
 						"textAlignment"	"north-east"
-						"xpos"			"0"
+						
 						"ypos"			"29"
 						"zpos"			"100"
 						"wide"			"425"
@@ -360,7 +360,7 @@
 						"font"			"HudFontSmallest"
 						"labelText"		"#Store_TotalSubtextB"
 						"textAlignment"	"north-east"
-						"xpos"			"0"
+						
 						"ypos"			"39"
 						"zpos"			"100"
 						"wide"			"425"

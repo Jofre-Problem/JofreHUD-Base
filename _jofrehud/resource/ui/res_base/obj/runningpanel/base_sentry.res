@@ -8,7 +8,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"KillIcon"
-				"xpos"			"0"
+				
 			//	"ypos"			"12"
 				"zpos"			"1"
 				"wide"			"10"
@@ -43,7 +43,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"ShellIcon"
-				"xpos"			"0"
+				
 			//	"ypos"			"30"
 				"zpos"			"1"
 				"wide"			"10"

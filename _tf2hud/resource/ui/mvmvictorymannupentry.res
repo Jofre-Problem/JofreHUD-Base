@@ -18,7 +18,7 @@
 		"modelpanels_kv"
 		{
 			"ControlName"	"CItemModelPanel"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"54"
 			"tall"			"42"
@@ -67,7 +67,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"BottomLine"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"427"
 			"tall"			"1"
@@ -166,7 +166,7 @@
 		"rowpanel_kvs"
 		{
 			"ControlName"	"EditablePanel"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"200"
 			"wide"			"350"
@@ -272,7 +272,7 @@
 	{
 		"ControlName"	"CTFParticlePanel"
 		"fieldName"		"BehindItemParticlePanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"125"
 		"wide"			"f0"
@@ -321,7 +321,7 @@
 			"font"			"HudFontSmallestBold"
 			"labelText"		"%level%"
 			"textAlignment" "center"
-			"xpos"			"0"
+			
 			"ypos"			"1"
 			"zpos"			"2"
 			"wide"			"f0"
@@ -337,7 +337,7 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_MVM_Victory_TourProgress"
 			"textAlignment" "south-west"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"200"
 			"tall"			"f0"
@@ -350,7 +350,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"LevelProgressBarBG"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -362,7 +362,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"LevelProgressBarFGAnim"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"f0"
@@ -378,7 +378,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"LevelProgressBarFGStatic"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"2"
 				"wide"			"20"
@@ -492,7 +492,7 @@
 		"font"			"HudFontSmallestBold"
 		"labelText"		"#TF_MVM_Victory_VeteranBonus"
 		"textAlignment" "south-west"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"80"
 		"tall"			"15"
@@ -525,7 +525,7 @@
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"playermodelpanel"
 			
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"128"		
 		"wide"			"300"

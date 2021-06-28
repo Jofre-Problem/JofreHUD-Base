@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BorderImage"	
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"5"
 		"wide"			"200"
@@ -34,7 +34,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"BarImage"	
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"5"
 			"wide"			"168"

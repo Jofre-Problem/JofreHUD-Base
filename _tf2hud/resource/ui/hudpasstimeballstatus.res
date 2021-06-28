@@ -245,7 +245,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ProgressBallIcon"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10"
 		"wide"			"42"
@@ -264,7 +264,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ProgressSelfPlayerIcon"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-100"
 		"wide"			"42"
@@ -353,7 +353,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"BallPowerMeterFinalSection"	
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				
 				"wide"			"168"
@@ -389,7 +389,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"BallPowerMeterFill"	
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				
 				"wide"			"168"

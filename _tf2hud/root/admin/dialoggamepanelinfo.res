@@ -18,7 +18,7 @@
 	{
 		"ControlName"		"Menu"
 		"fieldName"		"SysMenu"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -60,7 +60,7 @@
 	{
 		"ControlName"		"CPlayerPanel"
 		"fieldName"		"Player List"
-		"xpos"		"0"
+		
 		"ypos"		"28"
 		"wide"		"520"
 		"tall"		"332"
@@ -74,7 +74,7 @@
 	{
 		"ControlName"		"CBanPanel"
 		"fieldName"		"Ban List"
-		"xpos"		"0"
+		
 		"ypos"		"28"
 		"wide"		"520"
 		"tall"		"332"
@@ -88,7 +88,7 @@
 	{
 		"ControlName"		"CRawLogPanel"
 		"fieldName"		"ServerLog"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"200"
 		"tall"		"100"
@@ -102,7 +102,7 @@
 	{
 		"ControlName"		"CChatPanel"
 		"fieldName"		"ChatPanel"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -116,7 +116,7 @@
 	{
 		"ControlName"		"CVarListPropertyPage"
 		"fieldName"		"ServerConfigPanel"
-		"xpos"		"0"
+		
 		"ypos"		"28"
 		"wide"		"520"
 		"tall"		"332"
@@ -130,7 +130,7 @@
 	{
 		"ControlName"		"CGraphPanel"
 		"fieldName"		"GraphsPanel"
-		"xpos"		"0"
+		
 		"ypos"		"28"
 		"wide"		"452"
 		"tall"		"278"
@@ -144,7 +144,7 @@
 	{
 		"ControlName"		"CBudgetPanelContainer"
 		"fieldName"		"BudgetPanel"
-		"xpos"		"0"
+		
 		"ypos"		"28"
 		"wide"		"520"
 		"tall"		"332"
@@ -158,7 +158,7 @@
 	{
 		"ControlName"		"CVarListPropertyPage"
 		"fieldName"		"ServerInfo"
-		"xpos"		"0"
+		
 		"ypos"		"28"
 		"wide"		"520"
 		"tall"		"332"

@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CPanelListPanel"
 		"fieldName"		"PanelListPanel"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"f-19"
 		"tall"		"f0"
@@ -21,7 +21,7 @@
 		{
 			"ControlName"		"CheckButton"
 			"fieldName"		"HatUseHeadCheckButton"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"		"140"
 			"tall"		"20"
@@ -51,7 +51,7 @@
 		{
 			"ControlName"		"CCvarSlider"
 			"fieldName"		"HatParticleSlider"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"		"140"
 			"tall"		"14"
@@ -67,7 +67,7 @@
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"SetStyleButton"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"140"
 			"tall"			"14"

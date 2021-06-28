@@ -18,16 +18,16 @@
 		{
 			"ControlName"	"ScrollableEditablePanel"
 			"fieldName"		"SliderScroll"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"100"
 			"tall"			"24"
 			"autoResize"	"3"
 			
-			"PinnedCornerOffsetX" "0"
-			"PinnedCornerOffsetY" "0"
-			"UnpinnedCornerOffsetX" "0"
-			"UnpinnedCornerOffsetY" "0"
+			
+			
+			
+			
 			"visible"		"1"
 			
 			

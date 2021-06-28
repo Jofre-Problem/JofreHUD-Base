@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"	"TFStatsSummary"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"480"
@@ -16,7 +16,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"MainBackground"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
@@ -32,7 +32,7 @@
 		"font"			"HudFontMediumBold"
 		"labelText"		"#LoadingMap"
 		"textAlignment"		"center"
-		"xpos"			"0"
+		
 		"ypos"			"50"
 		"zpos"			"50"
 		"wide"			"360"
@@ -86,7 +86,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"	"StatData"
-		"xpos"		"0"
+		
 		"ypos"		"-130"
 		"zpos"		"1"
 		"wide"		"f0"
@@ -98,7 +98,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"	"NonInteractiveHeaders"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"zpos"		"2"
 			"wide"		"f0"
@@ -179,7 +179,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"	"InteractiveHeaders"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"zpos"		"2"
 			"wide"		"f0"
@@ -2576,7 +2576,7 @@
 	"TitleBanner" [$X360]
 	{
 		"ControlName"	"ImagePanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"128"

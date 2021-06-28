@@ -123,7 +123,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"ShowPrevButton"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"100"
 		"wide"			"100"

@@ -6,7 +6,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"StorePage"
-		"xpos"			"0"
+		
 		"ypos"			"40"
 		"wide"			"f0"
 		"tall"			"480"
@@ -106,7 +106,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SaxtonImage"
-			"xpos"			"0"
+			
 			"ypos"			"65"
 			"zpos"			"1"
 			"wide"			"275"
@@ -257,7 +257,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"TitleBG"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			
 			"wide"			"325"

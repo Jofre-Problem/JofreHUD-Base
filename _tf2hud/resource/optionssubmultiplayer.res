@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"COptionsSubMultiplayer"
 		"fieldName"		"OptionsSubMultiplayer"
-		"xpos"		"0"
+		
 		"ypos"		"28"
 		"wide"		"496"
 		"tall"		"305"
@@ -389,7 +389,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"CrosshairImage"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -583,7 +583,7 @@
 	{
 		"ControlName"		"Menu"
 		"fieldName"		"SysMenu"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"zpos"		"1"
 		"wide"		"64"

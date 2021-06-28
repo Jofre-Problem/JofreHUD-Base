@@ -21,7 +21,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"CenterPositioner"
 		"font"			"EconFontSmall"
-		"xpos"			"0"
+		
 		"ypos"			"5"
 		
 		"wide"			"200"
@@ -42,7 +42,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"CenterPositioner2"
 		"font"			"EconFontSmall"
-		"xpos"			"0"
+		
 		"ypos"			"60"
 		
 		"wide"			"200"
@@ -63,7 +63,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"CenterPositioner3"
 		"font"			"EconFontSmall"
-		"xpos"			"0"
+		
 		"ypos"			"65"
 		
 		"wide"			"200"
@@ -84,7 +84,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"TitleLabel"
 		"font"			"EconFontSmall"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"200"
@@ -110,7 +110,7 @@
 	{
 		"ControlName"	"ProgressBar"
 		"fieldName"		"Progress"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"tall"			"20"
 		"wide"			"180"
@@ -131,7 +131,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"DurationLabel"
 		"font"			"EconFontSmall"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"200"

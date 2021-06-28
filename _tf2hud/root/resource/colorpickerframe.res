@@ -60,7 +60,7 @@
 		{
 			"ControlName"	"CColorPicker"
 			"fieldName"		"ColorPicker"
-			"xpos"			"0"
+			
 			"ypos"			"28"
 			"wide"			"450"
 			"tall"			"300"

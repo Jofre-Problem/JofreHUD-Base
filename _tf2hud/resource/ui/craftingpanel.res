@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"crafting_panel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"400"
@@ -56,7 +56,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"MainContentsContainer"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -73,7 +73,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"namelabel"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"2"
 					"wide"			"50"
@@ -94,7 +94,7 @@
 		"recipebuttons_kv"
 		{
 			"font"			"HudFontSmallestBold"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"280"
@@ -178,7 +178,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%recipetitle%"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"10"
 			"zpos"			"1"
 			"wide"			"280"
@@ -198,7 +198,7 @@
 			"font"			"ItemFontAttribLarge"
 			"labelText"		"%recipeinputstring%"
 			"textAlignment"	"north-west"
-			"xpos"			"0"
+			
 			"ypos"			"45"
 			"zpos"			"1"
 			"wide"			"280"
@@ -218,7 +218,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"#Craft_Recipe_Inputs"
 			"textAlignment"	"north-west"
-			"xpos"			"0"
+			
 			"ypos"			"68"
 			"zpos"			"1"
 			"wide"			"200"
@@ -236,7 +236,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"#Craft_Recipe_Outputs"
 			"textAlignment"	"north-west"
-			"xpos"			"0"
+			
 			"ypos"			"238"
 			"zpos"			"1"
 			"wide"			"200"
@@ -252,7 +252,7 @@
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"CraftButton"
-			"xpos"			"0"
+			
 			"ypos"			"318"
 			"zpos"			"20"
 			"wide"			"200"
@@ -280,7 +280,7 @@
 			"font"			"HudFontSmallestBold"
 			"labelText"		"#Craft_PremiumRecipe"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"318"
 			"zpos"			"21"
 			"wide"			"200"
@@ -341,7 +341,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"recipecontainer"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"5"
 		"wide"			"280"
@@ -374,7 +374,7 @@
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
-			"xpos"			"0"
+			
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"
@@ -423,7 +423,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TooltipPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"100"
 		"wide"			"140"

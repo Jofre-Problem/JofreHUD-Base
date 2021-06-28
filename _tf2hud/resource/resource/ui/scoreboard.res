@@ -18,7 +18,7 @@
 	{
 		"ControlName"		"Menu"
 		"fieldName"		"SysMenu"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
@@ -49,7 +49,7 @@
 	{
 		"ControlName"		"SectionedListPanel"
 		"fieldName"		"PlayerList"
-		"xpos"		"0"
+		
 		"ypos"		"30"
 		"wide"		"512"
 		"tall"		"375"

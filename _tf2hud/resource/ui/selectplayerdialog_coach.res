@@ -23,7 +23,7 @@
 				
 			"button"
 			{
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"wide"			"350"
 				"tall"			"30"
@@ -69,7 +69,7 @@
 		"font"			"HudFontMediumBold"
 		"labelText"		"%title%"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"400"
@@ -97,7 +97,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"PlayerList"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"190"
 			"tall"			"130"
@@ -124,7 +124,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_SelectPlayer_Select"
 			"textAlignment"	"north"
-			"xpos"			"0"
+			
 			"ypos"			"10"
 			"zpos"			"-1"
 			"wide"			"400"
@@ -204,7 +204,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_SelectPlayer_Friends"
 			"textAlignment"	"north"
-			"xpos"			"0"
+			
 			"ypos"			"10"
 			"wide"			"400"
 			"tall"			"15"
@@ -222,7 +222,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_SelectPlayer_FriendsNone"
 			"textAlignment"	"north"
-			"xpos"			"0"
+			
 			"ypos"			"60"
 			"zpos"			"1"
 			"wide"			"400"

@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"item_slot_panel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"501"
 		"wide"			"f0"

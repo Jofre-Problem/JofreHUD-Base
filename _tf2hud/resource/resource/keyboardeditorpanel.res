@@ -18,7 +18,7 @@
 	{
 		"ControlName"		"VControlsListPanel"
 		"fieldName"		"KeyBindings"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"630"
 		"tall"		"300"

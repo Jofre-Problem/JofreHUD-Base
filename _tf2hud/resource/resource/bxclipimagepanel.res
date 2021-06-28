@@ -32,7 +32,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"ClipImageBackground"
-		"xpos"		"0"
+		
 		"ypos"		"16"
 		"zpos"		"-1"
 		"wide"		"151"
@@ -48,7 +48,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"ClipName"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"146"
 		"tall"		"16"
@@ -68,7 +68,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"ClipCamera"
-		"xpos"		"0"
+		
 		"ypos"		"116"
 		"wide"		"149"
 		"tall"		"16"
@@ -88,7 +88,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"ClipDuration"
-		"xpos"		"0"
+		
 		"ypos"		"130"
 		"wide"		"148"
 		"tall"		"16"
@@ -108,7 +108,7 @@
 	{
 		"ControlName"		"CMouseMessageForwardingPanel"
 		"fieldName"		"MouseMessageForwardingPanel"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"zpos"		"2"
 		"wide"		"150"

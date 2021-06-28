@@ -3,7 +3,7 @@
 	"Credits"
 	{
 		"fieldName"		"Credits"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -16,7 +16,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"Label"
 		"labeltext"		"%credits%"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"

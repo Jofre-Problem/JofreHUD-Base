@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"WaitingForPlayersPanelBG"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"292"
@@ -22,7 +22,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"WaitingForPlayersLabel"
 		"font"			"HudFontMedium"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"292"
@@ -42,7 +42,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"WaitingForPlayersEndingLabel"
 		"font"			"HudFontMedium"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"292"

@@ -14,7 +14,7 @@
 		{
 			"ControlName"		"ImagePanel"
 			"fieldName"		"BlueScoreBG"
-			"xpos"			"0"
+			
 			"ypos"			"13"
 			"wide"			"240"
 			"tall"			"50"
@@ -221,7 +221,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabel"
 		"font"			"ScoreboardTeamName"
-		"xpos"			"0"
+		
 		"ypos"			"78"
 		"zpos"			"1"
 		"wide"			"442"
@@ -261,7 +261,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabel"
 		"font"			"ScoreboardTeamName"
-		"xpos"			"0"
+		
 		"ypos"			"78"
 		"zpos"			"1"
 		"wide"			"442"
@@ -300,7 +300,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinReasonLabel"
 		"font"			"ScoreboardVerySmall"
-		"xpos"			"0"
+		
 		"ypos"			"95"
 		"zpos"			"1"
 		"wide"			"442"

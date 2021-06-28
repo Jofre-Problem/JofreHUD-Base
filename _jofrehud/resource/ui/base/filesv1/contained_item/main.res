@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"LoadingSpinner"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"		
 		"wide"			"f0"

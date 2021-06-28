@@ -43,7 +43,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"TitleLabel"
 		"font"			"MenuLarge"
-		"xpos"			"0"	
+			
 		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"482"
@@ -62,7 +62,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"NoSavesLabel"
 		"font"			"MenuLarge"
-		"xpos"			"0"	
+			
 		"ypos"			"85"
 		//"ypos_hidef"	"120"
 		"zpos"			"2"
@@ -130,7 +130,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"LevelPicBorder"
-		"xpos"		"0"
+		
 		"ypos"			"45"
 		//"ypos_hidef"	"64"
 		"wide"			"119"
@@ -168,7 +168,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"ChapterLabel"
-		"xpos"		"0"
+		
 		"ypos"			"0"
 		"wide"			"119"
 		//"wide_hidef"	"168"
@@ -190,7 +190,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"TimeLabel"
-		"xpos"		"0"
+		
 		"ypos"			"15"
 		//"ypos_hidef"	"22"
 		"wide"			"119"
@@ -213,7 +213,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"ElapsedLabel"
-		"xpos"		"0"
+		
 		"ypos"			"28"
 		//"ypos_hidef"	"40"
 		"wide"			"119"
@@ -236,7 +236,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"TypeLabel"
-		"xpos"		"0"
+		
 		"ypos"		"116"
 		//"ypos_hidef"	"164"
 		"wide"			"122"
@@ -773,7 +773,7 @@
 	
 	"Background"
 	{	
-		"xpos"			"0"
+		
 		"ypos"			"0"
  		"wide"			"363"
  		//"wide_hidef"	"512"
@@ -786,7 +786,7 @@
 
  	"WarningBackground"
  	{	
- 		"xpos"			"0"
+ 		
  		"ypos"			"0"
  		"wide"			"363"
  		//"wide_hidef"	"512"
@@ -799,7 +799,7 @@
  
  	"ErrorBackground"
  	{	
- 		"xpos"			"0"
+ 		
  		"ypos"			"0"
  		"wide"			"363"
  		//"wide_hidef"	"512"
@@ -1006,7 +1006,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"BonusSelectionLabel"
-		"xpos"			"0"
+		
 		"ypos"			"108"
 		//"ypos_hidef"	"152"
 		"zpos"			"100"
@@ -1098,7 +1098,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ChapterTitleLabel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"518"
 		//"wide_hidef"	"730"
@@ -1117,7 +1117,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ChapterTitleLabel2"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"518"
 		//"wide_hidef"	"730"
@@ -1200,7 +1200,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"LevelPicBorder"
-		"xpos"			"0"
+		
 		"ypos"			"34"
 		//"ypos_hidef"	"48"
 		"wide"			"122"
@@ -1254,7 +1254,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ChapterLabel"
-		"xpos"			"0"
+		
 		"ypos"			"14"
 		//"ypos_hidef"	"20"
 		"wide"			"107"
@@ -1279,7 +1279,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ChapterNameLabel"
-		"xpos"			"0"
+		
 		"ypos"			"20"
 		"wide"			"152"
 		"tall"			"20"
@@ -1299,7 +1299,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"HasBonusLabel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"107"
 		//"wide_hidef"	"152"

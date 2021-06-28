@@ -24,7 +24,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"OuterShadow"
-			"xpos"			"0"
+			
 			"ypos"			"rs1"
 			"zpos"			"-2"
 			"wide"			"f0"
@@ -57,7 +57,7 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"DescLabel"
-				"xpos"			"0"
+				
 				"ypos"			"3"
 				"wide"			"f0"
 				"zpos"			"100"
@@ -102,7 +102,7 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"NameLabel"
-				"xpos"			"0"
+				
 				"ypos"			"rs1-2"
 				"wide"			"f0"
 				"zpos"			"10"

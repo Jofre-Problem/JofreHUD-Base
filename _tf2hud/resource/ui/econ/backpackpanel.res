@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"backpack_panel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		
@@ -75,7 +75,7 @@
 				"font"			"FontStorePrice"
 				"textAlignment"	"east"
 				"ypos"			"0"
-				"xpos"			"0"
+				
 				
 				"wide"			"f1"
 				"tall"			"f-3"
@@ -352,7 +352,7 @@
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
-			"xpos"			"0"
+			
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"
@@ -567,7 +567,7 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"StartExplanation"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"250"
@@ -660,7 +660,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -678,7 +678,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"125"
 			"zpos"			"-1"
 			"wide"			"300"
@@ -725,7 +725,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -742,7 +742,7 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"PagesExplanation"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"250"
@@ -835,7 +835,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -882,7 +882,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -900,7 +900,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"85"
 			"zpos"			"-1"
 			"wide"			"300"
@@ -947,7 +947,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -964,7 +964,7 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"ContextExplanation"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"250"
@@ -1057,7 +1057,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -1104,7 +1104,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -1151,7 +1151,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -1169,7 +1169,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"135"
 			"zpos"			"-1"
 			"wide"			"300"
@@ -1186,7 +1186,7 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"StockExplanation"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"250"
@@ -1279,7 +1279,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -1326,7 +1326,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -1373,7 +1373,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -1391,7 +1391,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"135"
 			"zpos"			"-1"
 			"wide"			"300"
@@ -1408,7 +1408,7 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"SortExplanation"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"250"
@@ -1500,7 +1500,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -1547,7 +1547,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"30"
@@ -1565,7 +1565,7 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"105"
 			"zpos"			"-1"
 			"wide"			"300"

@@ -411,7 +411,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"MinimizeButton"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
@@ -431,7 +431,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"FrameButton"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
@@ -451,7 +451,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"MinimiseToSysTray"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"

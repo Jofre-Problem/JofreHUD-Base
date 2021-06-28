@@ -686,7 +686,7 @@
 	"TitleBanner"
 	{
 		"ControlName"	"ImagePanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"128"
@@ -1999,7 +1999,7 @@
 		"Buttons"
 		{
 			"ControlName"	"EditablePanel"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"wide"			"370"
 			//"wide_lodef"	"233"
@@ -2450,7 +2450,7 @@
 	"HostOptions"
 	{
 		"ControlName"	"EditablePanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"0"
 		"tall"			"0"
@@ -3814,7 +3814,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"BonusSelectionLabel"
-		"xpos"			"0"
+		
 		"ypos"			"108"
 		//"ypos_hidef"	"152"
 		"zpos"			"100"
@@ -3906,7 +3906,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ChapterTitleLabel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"518"
 		//"wide_hidef"	"730"
@@ -3925,7 +3925,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ChapterTitleLabel2"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"518"
 		//"wide_hidef"	"730"
@@ -4008,7 +4008,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"LevelPicBorder"
-		"xpos"			"0"
+		
 		"ypos"			"34"
 		//"ypos_hidef"	"48"
 		"wide"			"122"
@@ -4061,7 +4061,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ChapterLabel"
-		"xpos"			"0"
+		
 		"ypos"			"14"
 		//"ypos_hidef"	"20"
 		"wide"			"107"
@@ -4086,7 +4086,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ChapterNameLabel"
-		"xpos"			"0"
+		
 		"ypos"			"20"
 		"wide"			"152"
 		"tall"			"20"
@@ -4106,7 +4106,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"HasBonusLabel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"107"
 		//"wide_hidef"	"152"
@@ -4154,7 +4154,7 @@
 	{
 		"ControlName"		"Frame"
 		"fieldName"			"LoadingDialog"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 
 		"wide"				"200"
@@ -4172,7 +4172,7 @@
 	{
 		"ControlName"		"Frame"
 		"fieldName"			"LoadingDialogBG"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 
 		"wide"				"200"

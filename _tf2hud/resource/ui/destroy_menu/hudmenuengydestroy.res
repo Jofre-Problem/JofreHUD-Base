@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MainBackground"
-		"xpos"			"0"
+		
 		"ypos"			"14"
 		
 		"wide"			"450"
@@ -32,7 +32,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"DestroyIcon"
-		"xpos"			"0"
+		
 		"ypos"			"-2"
 		"zpos"			"1"
 		"wide"			"64"

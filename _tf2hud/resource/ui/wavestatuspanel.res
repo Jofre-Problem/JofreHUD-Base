@@ -46,7 +46,7 @@
 	{
 		"ControlName"	"Panel"
 		"fieldName"		"SeparatorBar"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"1"

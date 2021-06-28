@@ -6,7 +6,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"StorePage"
-		"xpos"			"0"
+		
 		"ypos"			"40"
 		"wide"			"f0"
 		"tall"			"480"
@@ -191,7 +191,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"StoreBackgroundPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"f0"
@@ -204,7 +204,7 @@
 		{
 			"ControlName"	"ScalableImagePanel"
 			"fieldName"		"StoreBackgroundImage"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			
 			"wide"			"f0"
@@ -486,7 +486,7 @@
 			"font"			"HudFontMediumBold"
 			"labelText"		"#Store_Case_Label"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			
 			"wide"			"200"
@@ -504,7 +504,7 @@
 			"font"			"HudFontMediumBold"
 			"labelText"		"#Store_Key_Label"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"70"
 			
 			"wide"			"200"
@@ -522,7 +522,7 @@
 			"font"			"HudFontMediumBold"
 			"labelText"		"#Store_Taunt_Label"
 			"textAlignment"	"west"
-			"xpos"			"0"
+			
 			"ypos"			"140"
 			
 			"wide"			"200"

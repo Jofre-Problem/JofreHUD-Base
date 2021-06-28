@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CTitleEditPanel"
 		"fieldName"		"TitleEditPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"40"
@@ -22,7 +22,7 @@
 		"font"			"ReplayMediumSmall"
 		"labelText"		">>"
 		"textAlignment"	"west"
-		"xpos"			"0"
+		
 		"ypos"			"6"
 		"zpos"			"10"
 		"wide"			"20"
@@ -60,7 +60,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HeaderLine"
-		"xpos"			"0"
+		
 		"zpos"			"5"
 		"wide"			"586"
 		"tall"			"10"

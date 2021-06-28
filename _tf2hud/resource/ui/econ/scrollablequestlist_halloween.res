@@ -6,7 +6,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Container"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"f0"
@@ -19,7 +19,7 @@
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"SelectButton"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			
 			"wide"		"f0"

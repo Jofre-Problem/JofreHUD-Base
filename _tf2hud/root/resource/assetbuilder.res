@@ -20,15 +20,15 @@
 		{
 			"ControlName"	"PropertySheet"
 			"fieldName"		"InputOutputSheet"
-			"xpos"			"0"
-			"ypos"			"00"
+			
+			
 			"wide"			"463"
 			"tall"			"212"
 			"AutoResize"	"3"
 			
-			"PinnedCornerOffsetX" "0"
-			"PinnedCornerOffsetY" "0"
-			"UnpinnedCornerOffsetX" "0"
+			
+			
+			
 			"UnpinnedCornerOffsetY" "-30"
 			"visible"		"1"
 			
@@ -39,13 +39,13 @@
 		{
 			"ControlName"	"Button"
 			"fieldName"		"CompileButton"
-			"xpos"			"0"
+			
 			"ypos"			"60"
 			"wide"			"120"
 			"tall"			"24"
 			
 			"PinCorner"		"2"
-			"PinnedCornerOffsetY" "0"
+			
 			"labelText"		"#AssetBuilder_Compile"
 			"visible"		"1"
 			
@@ -63,7 +63,7 @@
 			"tall"			"24"
 			
 			"PinCorner"		"2"
-			"PinnedCornerOffsetY" "0"
+			
 			"labelText"		"#AssetBuilder_Publish"
 			"visible"		"1"
 			
@@ -82,7 +82,7 @@
 			"AutoResize"	"1"
 			"PinCorner"		"2"
 			"UnpinnedCornerOffsetX" "-124"
-			"PinnedCornerOffsetY" "0"
+			
 			"labelText"		"#AssetBuilder_Publish"
 			"visible"		"1"
 			
@@ -100,8 +100,8 @@
 			"tall"			"24"
 			
 			"PinCorner"		"3"
-			"PinnedCornerOffsetX" "0"
-			"PinnedCornerOffsetY" "0"
+			
+			
 			"labelText"		"#AssetBuilder_AbortCompile"
 			"visible"		"1"
 			

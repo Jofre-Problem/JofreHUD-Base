@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CStorePricePanel"
 		"fieldName"		"StorePrice"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"15"
 		"wide"			"181"
@@ -19,7 +19,7 @@
 		"fieldName"		"Price"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"east"
-		"xpos"			"0"
+		
 		"ypos"			"88"
 		"zpos"			"15"
 		"wide"			"120"
@@ -38,7 +38,7 @@
 		"fieldName"		"OG_Price"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"east"
-		"xpos"			"0"
+		
 		"ypos"			"76"
 		
 		"wide"			"181"
@@ -56,7 +56,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"OG_Price_CrossOut"
-		"xpos"			"0"
+		
 		"ypos"			"82"
 		
 		"wide"			"181"
@@ -73,7 +73,7 @@
 		"fieldName"		"Discount"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"west"
-		"xpos"			"0"
+		
 		"ypos"			"88"
 		"zpos"			"15"
 		"wide"			"87"

@@ -13,7 +13,7 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"RoundSignModel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"3"		
 		"wide"			"f0"
@@ -117,7 +117,7 @@
 	{
 		"ControlName"	"CTFParticlePanel"
 		"fieldName"		"FrontParticlePanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"f0"
@@ -145,7 +145,7 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MatchDoors"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"2"		
 		"wide"			"f0"
@@ -357,7 +357,7 @@
 	{
 		"ControlName"	"CTFTeamStatus"
 		"fieldName"		"TeamStatus"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"f0"
@@ -431,7 +431,7 @@
 			{
 				"ControlName"		"Panel"
 				"fieldName"		"classimagebg"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"2"
 				"wide"			"f0"
@@ -639,7 +639,7 @@
 		{
 			"ControlName"		"EditablePanel"
 			"fieldName"		"BlueTeamBG"
-			"xpos"			"0"
+			
 			"ypos"			"10"
 			"zpos"			"2"
 			"wide"			"147"
@@ -777,7 +777,7 @@
 		{
 			"ControlName"		"EditablePanel"
 			"fieldName"		"RedTeamBG"
-			"xpos"			"0"
+			
 			"ypos"			"10"
 			"zpos"			"2"
 			"wide"			"147"

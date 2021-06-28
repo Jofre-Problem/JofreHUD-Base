@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CKeyBoardEditorPage"
 		"fieldName"		"KeyBoardEditorPage"
-		"xpos"		"0"
+		
 		"ypos"		"14"
 		"wide"		"630"
 		"tall"		"286"
@@ -18,7 +18,7 @@
 	{
 		"ControlName"		"VControlsListPanel"
 		"fieldName"		"KeyBindings"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"630"
 		"tall"		"286"

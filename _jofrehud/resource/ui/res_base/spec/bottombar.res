@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"BottomBar"
-		"xpos"			"0"
+		
 		"ypos"			"r70"
 		"tall"			"70"			
 		

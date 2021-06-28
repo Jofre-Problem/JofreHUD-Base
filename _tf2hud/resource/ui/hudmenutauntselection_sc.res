@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MainBackground"
-		"xpos"			"0"
+		
 		"ypos"			"15"
 		
 		"wide"			"470"
@@ -369,7 +369,7 @@
 	{
 		"ControlName"	"CSCHintIcon"
 		"fieldName"		"PrevHintIcon"
-		"xpos"			"0"
+		
 		"ypos"			"85"
 		"zpos"			"200"
 		"wide"			"25"

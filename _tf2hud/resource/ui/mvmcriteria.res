@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MvMTourOfDutyGroupBox"
-		"xpos"		"0"
+		
 		"ypos"		"10"
 		"zpos"		"-1"
 		"wide"		"400"
@@ -22,7 +22,7 @@
 			"font"			"HudFontMediumSmallBold"
 			"labelText"		"#TF_MvM_TourOfDuty"
 			"textAlignment"	"south-west"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			
 			"wide"			"400"
@@ -79,7 +79,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"TourlistGroupBox"
-			"xpos"			"0"
+			
 			"ypos"			"28"
 			"zpos"			"-1"
 			"wide"			"400"
@@ -95,7 +95,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"GreyOutPanel"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"200"
 				"wide"			"400"
@@ -109,7 +109,7 @@
 				"ControlName"	"SectionedListPanel"
 				"fieldName"		"TourList"
 				"font"			"HudFontSmall"
-				"xpos"			"0"
+				
 				"ypos"			"5"
 				
 				"wide"			"400"
@@ -141,7 +141,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MannUpTourLootDescriptionBox"
-		"xpos"		"0"
+		
 		"ypos"		"240"
 		"zpos"		"-1"
 		"wide"		"400"
@@ -201,7 +201,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MvMEconItemsGroupBox"
-		"xpos"			"0"
+		
 		"ypos"			"240"
 		"zpos"			"-1"
 		"wide"			"400"
@@ -461,7 +461,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MvMPracticeGroupBox"
-		"xpos"		"0"
+		
 		"ypos"		"240"
 		"zpos"		"-1"
 		"wide"		"400"
@@ -550,7 +550,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MvMSelectChallengeGroupBox"
-		"xpos"		"0"
+		
 		"ypos"		"10"
 		"zpos"		"-1"
 		"wide"		"400"
@@ -566,7 +566,7 @@
 			"font"			"HudFontMediumSmallBold"
 			"labelText"		"%tour_name%"
 			"textAlignment"	"south-west"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			
 			"wide"			"400"
@@ -624,7 +624,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"ChallengeListGroupBox"
-			"xpos"			"0"
+			
 			"ypos"			"28"
 			"zpos"			"-1"
 			"wide"			"400"
@@ -640,7 +640,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"GreyOutPanel"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"200"
 				"wide"			"400"

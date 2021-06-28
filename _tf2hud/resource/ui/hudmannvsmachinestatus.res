@@ -92,7 +92,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"UpgradeLevelContainer"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"640"
 		"tall"			"480"
@@ -195,7 +195,7 @@
 	{
 		"ControlName"	"CMvMVictoryPanelContainer"
 		"fieldName"		"VictoryPanelContainer"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
@@ -206,7 +206,7 @@
 	{
 		"ControlName"	"CMvMWaveLossPanel"
 		"fieldName"		"WaveLossPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
@@ -217,7 +217,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ServerChangeMessage"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"

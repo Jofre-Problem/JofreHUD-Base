@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CSaveGamePanel"
 		"fieldName"		"SaveGamePanel"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"300"
 		"tall"		"140"
@@ -17,7 +17,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"SaveGameScreenshotBackground"
-		"xpos"		"0"
+		
 		"ypos"		"8"
 		"wide"		"196"
 		"tall"		"116"

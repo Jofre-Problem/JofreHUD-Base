@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CQuickplayDialog"
 		"fieldName"		"QuickplayDialog"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"480"
@@ -40,7 +40,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Background"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"wide"		"f0"
 			"tall"		"f0"
@@ -162,7 +162,7 @@
 					"font"			"HudFontMediumSmallBold"
 					"labelText"		"%gametype%"
 					"textAlignment"	"center"
-					"xpos"			"0"
+					
 					"ypos"			"7"
 					"zpos"			"2"
 					"wide"			"320"
@@ -243,7 +243,7 @@
 					{
 						"ControlName"	"EditablePanel"
 						"fieldName"		"Background"
-						"xpos"		"0"
+						
 						"ypos"		"0"
 						"wide"		"400"
 						"tall"		"400"
@@ -377,7 +377,7 @@
 					"font"			"HudFontSmallBold"
 					"labelText"		"Game mode"
 					"textAlignment"	"left"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"2"
 					"wide"			"180"
@@ -415,7 +415,7 @@
 					"font"			"HudFontSmallBold"
 					"labelText"		"#TF_Quickplay_ServerHost"
 					"textAlignment"	"left"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"2"
 					"wide"			"175"
@@ -476,7 +476,7 @@
 					"font"			"HudFontSmallBold"
 					"labelText"		"#TF_Quickplay_MaxPlayers"
 					"textAlignment"	"left"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"2"
 					"wide"			"180"
@@ -537,7 +537,7 @@
 					"font"			"HudFontSmallBold"
 					"labelText"		"#TF_Quickplay_RandomCrits"
 					"textAlignment"	"left"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"2"
 					"wide"			"180"
@@ -598,7 +598,7 @@
 					"font"			"HudFontSmallBold"
 					"labelText"		"#TF_Quickplay_RespawnTimes"
 					"textAlignment"	"left"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"2"
 					"wide"			"180"
@@ -659,7 +659,7 @@
 					"font"			"HudFontSmallBold"
 					"labelText"		"#TF_Quickplay_DamageSpread"
 					"textAlignment"	"left"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"2"
 					"wide"			"180"
@@ -838,7 +838,7 @@
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"ExplainBetaButton"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"10"
 			"wide"			"15"
@@ -916,7 +916,7 @@
 		{
 			"ControlName"	"CExplanationPopup"
 			"fieldName"		"BetaExplanation"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"10000"
 			"wide"			"280"
@@ -1011,7 +1011,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"1"
 					"wide"			"14"

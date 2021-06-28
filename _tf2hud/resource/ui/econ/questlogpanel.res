@@ -18,7 +18,7 @@
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"mouseoveritempanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"1000"
 		"wide"			"300"
@@ -40,7 +40,7 @@
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
-			"xpos"			"0"
+			
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"
@@ -60,7 +60,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TooltipPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"200"
@@ -95,7 +95,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MainContainer"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"10"
 		"wide"			"f0"
@@ -183,7 +183,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
@@ -238,7 +238,7 @@
 		{		
 			"ControlName"	"CItemModelPanel"
 			"fieldName"		"CoinModelPanel"
-			"xpos"			"0"
+			
 			"ypos"			"cs-0.5"
 			"zpos"			"2"
 			"wide"			"30"
@@ -332,7 +332,7 @@
 				"font"			"AdFont_AdText"
 				"labelText"		""
 				"textAlignment"	"center"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"3"
 				"wide"			"f0"
@@ -412,7 +412,7 @@
 				"font"			"AdFont_AdText"
 				"labelText"		""
 				"textAlignment"	"center"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"3"
 				"wide"			"f0"

@@ -36,7 +36,7 @@
 		{
 			"ControlName"		"ImagePanel"
 			"fieldName"		"Gradient"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"wide"		"p0.5"
 			"tall"		"f6"
@@ -86,7 +86,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"ToggleChatButton"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"40"
@@ -273,7 +273,7 @@
 			{
 				"ControlName"	"Panel"
 				"fieldName"		"OuterShadow"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"-1"
 				"wide"			"f0"
@@ -303,7 +303,7 @@
 			{
 				"ControlName"	"Button"
 				"fieldName"		"QueueLogoButton"
-				"xpos"			"0"
+				
 				"ypos"			"1"
 				"zpos"			"10"
 				"wide"			"o1"
@@ -332,7 +332,7 @@
 			{
 				"ControlName"	"CTFLogoPanel"
 				"fieldname"		"CTFLogoPanel"
-				"xpos"			"0"
+				
 				"ypos"			"1"
 				"zpos"			"5"
 				"wide"			"o1"
@@ -419,7 +419,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"1"
 					"wide"			"14"
@@ -469,7 +469,7 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
-					"xpos"			"0"
+					
 					"ypos"			"0"
 					"zpos"			"1"
 					"wide"			"14"
@@ -498,7 +498,7 @@
 			{
 				"ControlName"	"Panel"
 				"fieldName"		"OuterShadow"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"-1"
 				"wide"			"f0"

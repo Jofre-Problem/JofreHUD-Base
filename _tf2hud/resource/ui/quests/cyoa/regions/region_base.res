@@ -3,7 +3,7 @@
 	"Region"
 	{
 		"fieldName"		"Region"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"p1"
 		"tall"			"p1"
@@ -48,7 +48,7 @@
 		{
 			"ControlName"	"Panel"
 			"fieldName"		"BGColor"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"f0"
@@ -68,7 +68,7 @@
 		"ZoomPanel"
 		{
 			"fieldName"		"ZoomPanel"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"f0"
@@ -84,7 +84,7 @@
 				// VGUI will delete this and we have pointers, so create in the code
 				// "ControlName"	"CQuestMapPathsPanel"
 				"fieldName"		"PathsPanel"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"2"
 				"wide"			"f0"
@@ -101,7 +101,7 @@
 		{
 			"ControlName"	"Panel"
 			"fieldName"		"Dimmer"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"102"
 			"wide"			"f0"

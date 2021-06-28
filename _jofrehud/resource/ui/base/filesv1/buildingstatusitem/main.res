@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"BuildingStatusItem"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"wide"			"150"
 		

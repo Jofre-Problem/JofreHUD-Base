@@ -17,7 +17,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"CalloutBG"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		
 		"wide"			"76"
@@ -40,7 +40,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CalloutLabel"
 		"font"			"HudFontSmall"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"2"
 		"autoResize"	"1"
@@ -71,7 +71,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"DistanceLabel"
 		"font"			"HudFontSmallest"
-		"xpos"			"0"
+		
 		"ypos"			"28"
 		"zpos"			"2"
 		"wide"			"70"

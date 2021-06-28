@@ -11,7 +11,7 @@
 	"ServerPage"
 	{
 		"fieldName"		"ServerPage"
-		"xpos"		"0"
+		
 		
 		
 		"visible"		"1"

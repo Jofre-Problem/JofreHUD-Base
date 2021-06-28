@@ -4,7 +4,7 @@
 	{
 	//	"ControlName"	"EditablePanel"
 		"fieldName"		"TooltipPanel"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"30000"
 		"wide"			"300"

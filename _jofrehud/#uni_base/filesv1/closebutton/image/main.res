@@ -14,7 +14,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
+			
 			"zpos"			"1"
 			"visible"		"1"
 			

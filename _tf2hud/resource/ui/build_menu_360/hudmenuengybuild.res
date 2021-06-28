@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MainBackground"
-		"xpos"			"0"
+		
 		"ypos"			"10"
 		
 		"wide"			"450"
@@ -237,7 +237,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"active_selection_bg"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"115"

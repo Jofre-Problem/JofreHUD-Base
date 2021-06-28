@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CBonusMapPanel"
 		"fieldName"		"BonusMapPanel"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"180"
 		"tall"		"128"
@@ -17,7 +17,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"BonusMapScreenshotBackground"
-		"xpos"		"0"
+		
 		"ypos"		"108"
 		"wide"		"180"
 		"tall"		"20"
@@ -28,7 +28,7 @@
 	{
 		"ControlName"		"CTGAImagePanel"
 		"fieldName"		"BonusMapTGAImage"
-		"xpos"			"0"
+		
 		"ypos"			"8"
 		"wide"			"180"
 		"tall"			"100"
@@ -38,7 +38,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"BonusMapImage"
-		"xpos"			"0"
+		
 		"ypos"			"8"
 		"wide"			"180"
 		"tall"			"100"
@@ -85,7 +85,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"MapNameLabel"
-		"xpos"		"0"
+		
 		"ypos"		"104"
 		"wide"		"180"
 		"tall"		"26"

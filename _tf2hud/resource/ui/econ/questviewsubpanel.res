@@ -225,7 +225,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"ObjectivesLabel"
 		"labeltext"		"#TF_QuestView_Objectives"
-		"xpos"			"0"
+		
 		"ypos"			"45"
 		"wide"			"f0"
 		"tall"			"15"
@@ -266,7 +266,7 @@
 		"pin_to_sibling_corner" "PIN_CENTER_BOTTOM"
 
 		"fieldName"		"objectives"
-		"xpos"			"0"	
+			
 		"ypos"			"-25"
 		"wide"			"f0"	
 		"tall"			"200"
@@ -276,7 +276,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"TurnInContainer"
-			"xpos"			"0"
+			
 			"ypos"			"0"
 			"zpos"			"101"
 			"wide"			"f0"	
@@ -289,7 +289,7 @@
 			{
 				"ControlName"	"Panel"
 				"fieldName"		"TopDimmer"
-				"xpos"			"0"
+				
 				"ypos"			"0"
 				"zpos"			"100"
 				"wide"			"f0"	
@@ -303,7 +303,7 @@
 			{
 				"ControlName"	"CExButton"
 				"fieldName"		"TurnInButton"
-				"xpos"			"0"
+				
 				"ypos"			"35"
 				"zpos"			"101"
 				"wide"			"f0"	
@@ -344,7 +344,7 @@
 			{
 				"ControlName"	"Panel"
 				"fieldName"		"BottomDimmer"
-				"xpos"			"0"
+				
 				"ypos"			"64"
 				"zpos"			"100"
 				"wide"			"f0"	
@@ -358,7 +358,7 @@
 		"ItemTrackerPanel"
 		{
 			"fieldName"		"ItemTrackerPanel"
-			"xpos"			"0"	
+				
 			"ypos"			"0"
 			"wide"			"f0"	
 			"tall"			"200"

@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CQuickPlayBusyDialog"
 		"fieldName"		"QuickPlayBusyDialog"
-		"xpos"		"0"
+		
 		"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"480"
@@ -38,7 +38,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Background"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"wide"		"450"
 			"tall"		"150"
@@ -56,7 +56,7 @@
 			"fieldName"		"TitleLabel"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"15"
 			"zpos"			"1"
 			"wide"			"450"
@@ -88,7 +88,7 @@
 			"font"			"HudFontSmallestBold"
 			"labelText"		"%numservers%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"75"
 			"zpos"			"1"
 			"wide"			"450"
@@ -148,7 +148,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Background"
-			"xpos"		"0"
+			
 			"ypos"		"0"
 			"wide"		"500"
 			"tall"		"400"
@@ -167,7 +167,7 @@
 			"font"			"HudFontMediumBold"
 			"labelText"		"#TF_MM_ResultsDialog_Title"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"15"
 			"zpos"			"1"
 			"wide"			"500"

@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"TopBar"
-		"xpos"			"0"
+		
 		"ypos"			"0"
 		"tall"			"84"
 		"tall_minmode"	"20"	
