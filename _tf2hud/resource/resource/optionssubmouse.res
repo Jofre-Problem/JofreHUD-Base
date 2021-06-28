@@ -102,7 +102,6 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-			[!$OSX]
 		"enabled"		"0" [$OSX]
 		
 		"labelText"		"#GameUI_MouseAcceleration"
@@ -285,7 +284,6 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-			[!$OSX]
 		"enabled"		"0" [$OSX]
 		
 		"leftText"		"Low"
@@ -306,7 +304,6 @@
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
-			[!$OSX]
 		"enabled"		"0" [$OSX]
 		
 		"textHidden"		"0"

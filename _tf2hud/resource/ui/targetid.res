@@ -258,7 +258,6 @@
 		"xpos"			"6"
 		"xpos_minmode"	"6"
 		"ypos"			"6"	[$WIN32]
-			[$X360]
 		"zpos"			"99"
 		"wide"			"11"
 		"tall"			"11"
