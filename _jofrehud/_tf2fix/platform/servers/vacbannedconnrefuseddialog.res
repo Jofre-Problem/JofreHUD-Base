@@ -8,11 +8,11 @@
 		"ypos"		"475"
 		"wide"		"480"
 		"tall"		"220"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#VAC_ConnectionRefusedTitle"
 	}
@@ -24,8 +24,8 @@
 		"ypos"		"176"
 		"wide"		"84"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -45,11 +45,11 @@
 		"ypos"		"41"
 		"wide"		"352"
 		"tall"		"116"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#VAC_ConnectionRefusedDetail"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -64,11 +64,11 @@
 		"ypos"		"152"
 		"wide"		"340"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#VAC_ForDetails"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -85,11 +85,11 @@
 		"tooltiptext"		"Valve Anti-Cheat"
 		"wide"		"64"
 		"tall"		"64"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"image"		"resource/VAC_shield"
 		"scaleImage"		"0"
 	}

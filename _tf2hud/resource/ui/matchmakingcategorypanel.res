@@ -205,8 +205,8 @@
 			"zpos"			"2"
 			"wide"			"120"
 			"tall"			"40"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 
@@ -228,8 +228,8 @@
 			"zpos"			"1"
 			"wide"			"120"
 			"tall"			"40"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 

@@ -21,11 +21,11 @@
 		"ypos"			"20"
 		"wide"			"240"
 		"tall"			"34"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"No Owner"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -40,11 +40,11 @@
 		"ypos"			"20"
 		"wide"			"240"
 		"tall"			"34"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"Health: 100%"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -59,8 +59,8 @@
 		"ypos"			"160"
 		"wide"			"324"
 		"tall"			"48"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"2"

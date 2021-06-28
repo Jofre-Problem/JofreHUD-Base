@@ -2,6 +2,6 @@
 {
 	"CaratLabel"
 	{
-		////"autoResize"		"0"
+		
 	}
 }	

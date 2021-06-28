@@ -37,8 +37,8 @@
 		"zpos"			"50"
 		"wide"			"360"
 		"tall"			"35"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 	}					
@@ -60,8 +60,8 @@
 		"wide"			"350" [$WIN32]
 		"wide"			"600" [$X360]
 		"tall"			"35"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 	}
@@ -77,8 +77,8 @@
 		"zpos"			"50"
 		"wide"			"350"
 		"tall"			"35"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 	}						
@@ -124,8 +124,8 @@
 				"wide"			"150" [!$X360]
 				"wide"			"170" [$X360]
 				"tall"			"20"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 			}
@@ -146,8 +146,8 @@
 				"zpos"			"5"
 				"wide"			"150"
 				"tall"			"20"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 			}			
@@ -165,8 +165,8 @@
 				"zpos"			"5"
 				"wide"			"200"
 				"tall"			"20"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				//"visible_hidef"		"0"
 				//"visible_lodef"		"0"
@@ -196,8 +196,8 @@
 				"zpos"		"10"
 				"wide"		"154"
 				"tall"		"14"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"		"1"
@@ -216,8 +216,8 @@
 				"zpos"		"10"
 				"wide"		"154"
 				"tall"		"14"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"		"1"
@@ -236,8 +236,8 @@
 				"zpos"		"10"
 				"wide"		"167"
 				"tall"		"14"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"		"1"
@@ -264,8 +264,8 @@
 			"tall"			"300"
 			//"tall_hidef"			"633"
 			//"tall_lodef"			"633"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"border"		"TFThinLineBorder"
@@ -288,8 +288,8 @@
 			//"ypos_lodef"			"32"
 			"wide"			"300"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -306,11 +306,11 @@
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}	
@@ -327,11 +327,11 @@
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -348,11 +348,11 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"162 148 135 255"
 			"PaintBackgroundType"	"0"
 		}
@@ -369,11 +369,11 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"162 148 135 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -393,8 +393,8 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -414,8 +414,8 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -437,8 +437,8 @@
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -455,11 +455,11 @@
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -476,11 +476,11 @@
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -497,11 +497,11 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"93 60 27 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -518,11 +518,11 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"93 60 27 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -542,8 +542,8 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -563,8 +563,8 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -586,8 +586,8 @@
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -604,11 +604,11 @@
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -625,11 +625,11 @@
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -646,11 +646,11 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"134 93 39 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -667,11 +667,11 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"134 93 39 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -691,8 +691,8 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -712,8 +712,8 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -735,8 +735,8 @@
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -753,11 +753,11 @@
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -774,11 +774,11 @@
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -795,11 +795,11 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"207 147 95 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -816,11 +816,11 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"207 147 95 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -840,8 +840,8 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -861,8 +861,8 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -884,8 +884,8 @@
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -902,11 +902,11 @@
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -923,11 +923,11 @@
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -944,11 +944,11 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"226 184 146 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -965,11 +965,11 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"226 184 146 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -989,8 +989,8 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -1010,8 +1010,8 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -1033,8 +1033,8 @@
 			"zpos"			"5"
 			"wide"			"282"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -1051,11 +1051,11 @@
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1072,11 +1072,11 @@
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1093,11 +1093,11 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"162 148 135 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1114,11 +1114,11 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"162 148 135 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1138,8 +1138,8 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -1159,8 +1159,8 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -1182,8 +1182,8 @@
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -1200,11 +1200,11 @@
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1221,11 +1221,11 @@
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1242,11 +1242,11 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"93 60 27 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1263,11 +1263,11 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"93 60 27 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1287,8 +1287,8 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -1308,8 +1308,8 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -1331,8 +1331,8 @@
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}		
@@ -1349,11 +1349,11 @@
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1370,11 +1370,11 @@
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1391,11 +1391,11 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"134 93 39 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1412,11 +1412,11 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"134 93 39 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1436,8 +1436,8 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -1457,8 +1457,8 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -1480,8 +1480,8 @@
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}		
@@ -1498,11 +1498,11 @@
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1519,11 +1519,11 @@
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1540,11 +1540,11 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"207 147 95 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1561,11 +1561,11 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"207 147 95 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1585,8 +1585,8 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -1606,8 +1606,8 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}				
@@ -1629,8 +1629,8 @@
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}		
@@ -1645,8 +1645,8 @@
 			"wide"			"200"
 			//"wide_hidef"			"225"
 			"tall"			"260"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			//"visible_hidef"		"0"
 			//"visible_lodef"		"0"
@@ -1667,8 +1667,8 @@
 			"ypos"			"180" [$OSX]
 			"wide"			"300"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"	[$WIN32]
 			"visible"		"0"	[$X360]
 			"enabled"		"1"
@@ -1690,11 +1690,11 @@
 			"tall"			"157"
 			//"tall_hidef"			"183"
 			//"tall_lodef"			"183"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"	
+				
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1710,8 +1710,8 @@
 			"zpos"			"5"
 			"wide"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"0"	[$WIN32]
 			"visible"		"1"	[$X360]
 			"enabled"		"1"
@@ -1735,8 +1735,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -1759,8 +1759,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -1783,8 +1783,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -1807,8 +1807,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -1831,8 +1831,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -1855,8 +1855,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -1879,8 +1879,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -1903,8 +1903,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -1927,8 +1927,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -1951,8 +1951,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -1975,8 +1975,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -1999,8 +1999,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -2023,8 +2023,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -2047,8 +2047,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -2071,8 +2071,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -2095,8 +2095,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -2119,8 +2119,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -2143,8 +2143,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -2167,8 +2167,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -2191,8 +2191,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -2215,8 +2215,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -2239,8 +2239,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -2263,8 +2263,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -2287,8 +2287,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -2311,8 +2311,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -2335,8 +2335,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -2359,8 +2359,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -2383,8 +2383,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -2407,8 +2407,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}							
@@ -2431,8 +2431,8 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -2474,8 +2474,8 @@
 		"tall"			"48"
 		//"tall_hidef"	"60"
 		//"tall_lodef"	"60"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -2489,11 +2489,11 @@
 		"zpos"			"6"
 		"wide"			"90"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_NextTip"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -2509,11 +2509,11 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_ResetStats"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -2529,11 +2529,11 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"0"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_Close"
 		"textAlignment"	"center"
 		"dulltext"		"0"

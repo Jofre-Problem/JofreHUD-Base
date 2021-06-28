@@ -8,11 +8,11 @@
 		"ypos"		"10"
 		"wide"		"552"
 		"tall"		"448"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"SysMenu"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Message"
 	{
@@ -37,10 +37,10 @@
 		"wide"		"532"
 		"tall"		"365"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -54,11 +54,11 @@
 		"ypos"		"408"
 		"wide"		"70"
 		"tall"		"30"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#PropertyDialog_OK"
 		"textAlignment"		"center"
 		"dulltext"		"0"

@@ -56,8 +56,8 @@
 			"ypos"			"0"
 			"wide"			"f0"
 			"tall"			"f0"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor"		"56 53 49 255"
@@ -92,8 +92,8 @@
 		"ypos"			"5"
 		"wide"			"205"
 		"tall"			"12"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor"		"56 53 49 255"
@@ -110,8 +110,8 @@
 		"ypos"			"18"
 		"wide"			"205"
 		"tall"			"12"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor"		"56 53 49 255"
@@ -128,8 +128,8 @@
 		"ypos"			"31"
 		"wide"			"205"
 		"tall"			"12"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor"		"56 53 49 255"
@@ -144,12 +144,12 @@
 		"zpos"			"100"
 		"wide"			"290"
 		"tall"			"50"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"labelText"		""
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"	"0"
+		
 		"default"		"1"
 		"command"		"stream"
 

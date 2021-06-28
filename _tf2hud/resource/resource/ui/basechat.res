@@ -38,10 +38,10 @@
 		"wide"			"45"
 		"tall"			"15"
 		"autoResize"		"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#chat_filterbutton"
 		"textAlignment"		"center"
 		"dulltext"		"0"

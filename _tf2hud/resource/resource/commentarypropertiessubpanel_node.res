@@ -8,11 +8,11 @@
 		"ypos"		"0"
 		"wide"		"784"
 		"tall"		"480"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"CommentaryNodeName"
 	{
@@ -24,7 +24,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		"UnpinnedCornerOffsetX" "-20"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -42,11 +42,11 @@
 		"ypos"		"86"
 		"wide"		"20"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"..."
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -65,7 +65,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		"UnpinnedCornerOffsetX" "-88"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"2"
@@ -83,12 +83,12 @@
 		"ypos"		"86"
 		"wide"		"64"
 		"tall"		"20"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"1"
 		"PinnedCornerOffsetX" "-20"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Record"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -106,7 +106,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		"UnpinnedCornerOffsetX" "-20"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -126,7 +126,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		"UnpinnedCornerOffsetX" "-20"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"4"
@@ -144,11 +144,11 @@
 		"ypos"		"308"
 		"wide"		"20"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"..."
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -164,11 +164,11 @@
 		"ypos"		"336"
 		"wide"		"20"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"..."
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -186,10 +186,10 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		"UnpinnedCornerOffsetX" "-20"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -206,10 +206,10 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		"UnpinnedCornerOffsetX" "-20"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -224,11 +224,11 @@
 		"ypos"		"362"
 		"wide"		"150"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Prevent Movement"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -246,7 +246,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		"UnpinnedCornerOffsetX" "-20"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"11"
@@ -266,7 +266,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		"UnpinnedCornerOffsetX" "-20"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"12"
@@ -284,11 +284,11 @@
 		"ypos"		"3"
 		"wide"		"170"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Commentary Node Name:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -304,11 +304,11 @@
 		"ypos"		"84"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Audio File"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -323,11 +323,11 @@
 		"ypos"		"112"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Speaker(s)"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -342,11 +342,11 @@
 		"ypos"		"140"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Synopsis (optional)"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -361,11 +361,11 @@
 		"ypos"		"282"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Camera Control:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -381,11 +381,11 @@
 		"ypos"		"306"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"View Position"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -400,11 +400,11 @@
 		"ypos"		"334"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"View Target"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -419,11 +419,11 @@
 		"ypos"		"396"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Operations:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -439,11 +439,11 @@
 		"ypos"		"420"
 		"wide"		"140"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Start Console Commands"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -458,11 +458,11 @@
 		"ypos"		"448"
 		"wide"		"140"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"End Console Commands"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -477,11 +477,11 @@
 		"ypos"		"66"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Audio:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -497,11 +497,11 @@
 		"ypos"		"190"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Location:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -517,11 +517,11 @@
 		"ypos"		"214"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Position"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -536,8 +536,8 @@
 		"ypos"		"214"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"5"
@@ -555,11 +555,11 @@
 		"ypos"		"214"
 		"wide"		"15"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"X"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -574,11 +574,11 @@
 		"ypos"		"214"
 		"wide"		"15"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Y"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -593,11 +593,11 @@
 		"ypos"		"214"
 		"wide"		"15"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Z"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -612,8 +612,8 @@
 		"ypos"		"214"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"6"
@@ -631,8 +631,8 @@
 		"ypos"		"214"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"7"
@@ -650,11 +650,11 @@
 		"ypos"		"242"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Orientation"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -669,8 +669,8 @@
 		"ypos"		"242"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"8"
@@ -688,8 +688,8 @@
 		"ypos"		"242"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"9"
@@ -707,8 +707,8 @@
 		"ypos"		"242"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"10"
@@ -726,11 +726,11 @@
 		"ypos"		"242"
 		"wide"		"30"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Pitch"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -745,11 +745,11 @@
 		"ypos"		"242"
 		"wide"		"30"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Yaw"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -764,11 +764,11 @@
 		"ypos"		"242"
 		"wide"		"30"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Roll"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -785,10 +785,10 @@
 		"tall"		"2"
 		"autoResize"		"1"
 		"UnpinnedCornerOffsetX" "-20"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Divider2"
 	{
@@ -800,10 +800,10 @@
 		"tall"		"2"
 		"autoResize"		"1"
 		"UnpinnedCornerOffsetX" "-20"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Divider3"
 	{
@@ -815,10 +815,10 @@
 		"tall"		"2"
 		"autoResize"		"1"
 		"UnpinnedCornerOffsetX" "-20"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Divider4"
 	{
@@ -830,9 +830,9 @@
 		"tall"		"2"
 		"autoResize"		"1"
 		"UnpinnedCornerOffsetX" "-20"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 }

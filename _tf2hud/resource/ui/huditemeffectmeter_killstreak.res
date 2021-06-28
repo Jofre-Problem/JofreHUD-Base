@@ -48,7 +48,7 @@
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
-		//"tabPosition"			"0"
+		
 		"labelText"				"#TF_KillStreak"
 		"textAlignment"			"center"
 		"dulltext"				"0"
@@ -69,8 +69,8 @@
 		"wide"					"40"
 		"wide_minmode"			"50"
 		"tall"					"6"				
-		//"autoResize"			"0"
-		//"pinCorner"				"0"
+		
+		
 		"visible"				"0"
 		"enabled"				"0"
 		"textAlignment"			"Left"
@@ -91,7 +91,7 @@
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
-		//"tabPosition"			"0"
+		
 		"labelText"				"%progresscount%"
 		"textAlignment"			"north"
 		"dulltext"				"0"

@@ -8,7 +8,7 @@
 
 		"ControlName"		"CSubPanelFindBuddyResults"
 
-		////"autoResize"		"0"PanelFindBuddyResults"
+		PanelFindBuddyResults"
 
 		"xpos"		"5"
 
@@ -18,13 +18,13 @@
 
 		"tall"		"291"
 
-		//"autoResize"		"0"
+		
 
-		//"pinCorner"		"0"
+		
 
 		"visible"		"1"
 
-		////"autoResize"		"0"
+		
 
 		"tabPosition"		"1"
 
@@ -38,7 +38,7 @@
 
 	{
 
-		////"autoResize"		"0"istPanel"
+		istPanel"
 
 		"fieldName"		"Table"
 
@@ -50,9 +50,9 @@
 
 		"tall"		"208"
 
-		//"autoResize"		"0"
+		
 
-		//"pinCorner"		"0"
+		
 
 		"visible"		"1"
 
@@ -78,15 +78,15 @@
 
 		"tall"		"44"
 
-		//"autoResize"		"0"
+		
 
-		//"pinCorner"		"0"
+		
 
 		"visible"		"1"
 
 		"enabled"		"1"
 
-		//"tabPosition"		"0"
+		
 
 		"labelText"		"#TrackerUI_SelectFriendFromList"
 

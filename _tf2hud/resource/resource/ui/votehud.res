@@ -536,11 +536,11 @@
 		"ypos"				"c-150"
 		"wide"				"300"
 		"tall"				"300"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"visible"			"1"
 		"enabled"			"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"	"1"
 		"font"					"ScoreboardSmall"
 		"PaintBackgroundType"	"2" // rounded corners
@@ -557,11 +557,11 @@
 			"zpos"		"2"
 			"wide"		"128"
 			"tall"		"200"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
-			//"autoResize"	"0"
+			
+			
 			"linespacing"	"22"
 			"font"			"ScoreboardVerySmall"
 		}
@@ -575,11 +575,11 @@
 			"zpos"		"2"
 			"wide"		"150"
 			"tall"		"200"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
-			//"autoResize"	"0"
+			
+			
 			"linespacing"	"22"
 			"font"			"ScoreboardVerySmall"
 		}
@@ -592,7 +592,7 @@
 			"ypos"		"250"
 			"wide"		"75"
 			"tall"		"24"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"0"
@@ -613,7 +613,7 @@
 			"ypos"		"250"
 			"wide"		"75"
 			"tall"		"24"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"

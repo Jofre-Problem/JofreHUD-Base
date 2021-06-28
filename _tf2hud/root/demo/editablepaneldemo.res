@@ -8,11 +8,11 @@
 		"ypos"		"30"
 		"wide"		"96"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Internet &Speed"
 		"textAlignment"		"east"
 		"associate"		"InternetSpeed"
@@ -25,11 +25,11 @@
 		"ypos"		"30"
 		"wide"		"200"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"

@@ -8,11 +8,11 @@
 		"ypos"		"251"
 		"wide"		"906"
 		"tall"		"628"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#BxElementPropertiesTree"
 	}
@@ -25,10 +25,10 @@
 		"wide"		"876"
 		"tall"		"553"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"OK"
 	{
@@ -38,11 +38,11 @@
 		"ypos"		"590"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"OK"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -59,11 +59,11 @@
 		"ypos"		"590"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Apply"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -80,11 +80,11 @@
 		"ypos"		"590"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Cancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"

@@ -9,8 +9,8 @@
 		"zpos"			"-11"
 		"wide"			"110"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"border"		"StorePreviewTabSelected"
@@ -24,11 +24,11 @@
 			"zpos"			"1"
 			"wide"			"110"
 			"tall"			"20"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#Store_PreviewItem"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"

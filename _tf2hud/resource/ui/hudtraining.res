@@ -24,8 +24,8 @@
 		"wide"			"300"
 		"tall"			"20"
 
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -45,8 +45,8 @@
 		"wide"			"300"
 		"tall"			"20"
 
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -66,8 +66,8 @@
 		"wide"			"280"
 		"tall"			"45"
 
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -87,8 +87,8 @@
 		"wide"			"280"
 		"tall"			"15"
 
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -107,8 +107,8 @@
 		"wide"			"330"
 		"tall"			"205"
 
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/death_panel_blue_bg"

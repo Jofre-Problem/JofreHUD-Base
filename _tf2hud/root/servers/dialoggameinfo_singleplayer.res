@@ -8,11 +8,11 @@
 		"ypos"		"246"
 		"wide"		"416"
 		"tall"		"180"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"settitlebarvisible"		"1"
 		"title"		"#ServerBrowser_GameInfoWithNameTitle"
@@ -25,7 +25,7 @@
 		"ypos"		"140"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"0"
@@ -44,8 +44,8 @@
 		"ypos"		"137"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -63,7 +63,7 @@
 		"ypos"		"140"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"1"
@@ -82,11 +82,11 @@
 		"ypos"		"111"
 		"wide"		"356"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerNotResponding"
 		"textAlignment"		"west"
@@ -100,7 +100,7 @@
 		"ypos"		"140"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"1"
@@ -119,7 +119,7 @@
 		"ypos"		"115"
 		"wide"		"358"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"1"
@@ -139,7 +139,7 @@
 		"ypos"		"136"
 		"wide"		"356"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"1"
@@ -160,10 +160,10 @@
 		"wide"		"368"
 		"tall"		"0"
 		"AutoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 	}
 	"ServerLabel"
@@ -174,11 +174,11 @@
 		"ypos"		"42"
 		"wide"		"108"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerName"
 		"textAlignment"		"east"
@@ -192,11 +192,11 @@
 		"ypos"		"60"
 		"wide"		"90"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_GameLabel"
 		"textAlignment"		"east"
@@ -210,11 +210,11 @@
 		"ypos"		"66"
 		"wide"		"108"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_IPAddressLabel"
 		"textAlignment"		"east"
@@ -228,11 +228,11 @@
 		"ypos"		"114"
 		"wide"		"108"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_MapLabel"
 		"textAlignment"		"east"
@@ -246,11 +246,11 @@
 		"ypos"		"138"
 		"wide"		"108"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_PlayersLabel"
 		"textAlignment"		"east"
@@ -264,11 +264,11 @@
 		"ypos"		"186"
 		"wide"		"108"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_LatencyLabel"
 		"textAlignment"		"east"
@@ -283,10 +283,10 @@
 		"wide"		"260"
 		"tall"		"20"
 		"AutoResize"		"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"textAlignment"		"west"
 		"wrap"		"0"
@@ -299,11 +299,11 @@
 		"ypos"		"60"
 		"wide"		"260"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"Team Fortress Classic"
 		"textAlignment"		"west"
@@ -317,11 +317,11 @@
 		"ypos"		"64"
 		"wide"		"260"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -337,11 +337,11 @@
 		"ypos"		"114"
 		"wide"		"260"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"textAlignment"		"west"
 		"wrap"		"0"
@@ -354,11 +354,11 @@
 		"ypos"		"138"
 		"wide"		"260"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"textAlignment"		"west"
 		"wrap"		"0"
@@ -371,11 +371,11 @@
 		"ypos"		"186"
 		"wide"		"260"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"textAlignment"		"west"
 		"wrap"		"0"
@@ -388,11 +388,11 @@
 		"ypos"		"162"
 		"wide"		"108"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"Label"
 		"textAlignment"		"east"
@@ -406,11 +406,11 @@
 		"ypos"		"162"
 		"wide"		"260"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"textAlignment"		"west"
 		"wrap"		"0"
@@ -423,11 +423,11 @@
 		"ypos"		"82"
 		"wide"		"256"
 		"tall"		"52"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_FriendNotInGameServer"
 		"textAlignment"		"north-west"
@@ -441,11 +441,11 @@
 		"ypos"		"82"
 		"wide"		"90"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerLabel"
 		"textAlignment"		"north-east"

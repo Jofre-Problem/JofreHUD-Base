@@ -18,8 +18,8 @@
 		"zpos"			"3"		
 		"wide"			"f0"
 		"tall"			"f0"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"fov"			"70"
@@ -68,8 +68,8 @@
 		"wide"			"40"
 		"tall"			"40"
 		"zpos"			"5"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -95,8 +95,8 @@
 		"wide"			"40"
 		"tall"			"40"
 		"zpos"			"4"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -150,8 +150,8 @@
 		"zpos"			"2"		
 		"wide"			"f0"
 		"tall"			"f0"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"fov"			"70"
@@ -237,8 +237,8 @@
 		"wide"			"600"
 		"tall"			"60"
 		"zpos"			"5"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -260,8 +260,8 @@
 		"wide"			"600"
 		"tall"			"60"
 		"zpos"			"5"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -408,8 +408,8 @@
 				"zpos"			"5"
 				"wide"			"50"
 				"tall"			"8"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"0"
 			}
 			"classimage"
@@ -451,8 +451,8 @@
 				"zpos"					"5"
 				"wide"					"f0"
 				"tall"					"2"				
-				//"autoResize"			"0"
-				//"pinCorner"				"0"
+				
+				
 				"visible"				"1"
 				"enabled"				"1"
 				"textAlignment"			"Left"
@@ -471,8 +471,8 @@
 				"zpos"					"6"
 				"wide"					"f0"
 				"tall"					"2"				
-				//"autoResize"			"0"
-				//"pinCorner"				"0"
+				
+				
 				"visible"				"1"
 				"enabled"				"1"
 				"textAlignment"			"Left"
@@ -508,8 +508,8 @@
 				"zpos"			"-1"
 				"wide"			"16"
 				"tall"			"16"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"0"
 				"enabled"		"1"
 				"image"			"../HUD/tournament_panel_brown"
@@ -527,8 +527,8 @@
 				"zpos"			"0"
 				"wide"			"12"
 				"tall"			"12"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"0"
 				"enabled"		"1"
 				"image"			"hud/checkmark"
@@ -544,8 +544,8 @@
 				"zpos"			"5"
 				"wide"			"f0"
 				"tall"			"19"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"center"
@@ -561,8 +561,8 @@
 				"zpos"			"6"
 				"wide"			"25"
 				"tall"			"15"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"0"
 				"labelText"		"%chargeamount%"
 				"textAlignment"	"north"
@@ -578,8 +578,8 @@
 				"zpos"			"5"
 				"wide"			"50"
 				"tall"			"8"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"0"
 				"labelText"		"%specindex%"
 				"textAlignment"	"north-west"
@@ -644,8 +644,8 @@
 			"zpos"			"2"
 			"wide"			"147"
 			"tall"			"36"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"border"		"TFFatLineBorderBlueBGOpaque"
@@ -676,8 +676,8 @@
 			"zpos"			"20"
 			"wide"			"95"
 			"tall"			"30"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"centerwrap"	"1"
@@ -719,10 +719,10 @@
 			"zpos"			"1"
 			"wide"			"136"
 			"tall"			"205"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"autoresize"	"3"
 			"linespacing"	"26"
 			"linegap"		"4"
@@ -742,8 +742,8 @@
 			"zpos"			"0"
 			"wide"			"139"
 			"tall"			"215"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"border"		"TFFatLineBorderClearBG"
@@ -782,8 +782,8 @@
 			"zpos"			"2"
 			"wide"			"147"
 			"tall"			"36"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"border"		"TFFatLineBorderRedBGOpaque"
@@ -814,8 +814,8 @@
 			"zpos"			"20"
 			"wide"			"95"
 			"tall"			"30"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"centerwrap"	"1"
@@ -857,10 +857,10 @@
 			"zpos"			"1"
 			"wide"			"136"
 			"tall"			"205"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"autoresize"	"3"
 			"linespacing"	"26"
 			"linegap"		"4"
@@ -880,8 +880,8 @@
 			"zpos"			"0"
 			"wide"			"139"
 			"tall"			"215"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"border"		"TFFatLineBorderClearBG"

@@ -23,11 +23,11 @@
 		"zpos"			"10"
 		"wide"			"80"
 		"tall"			"16"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labeltext"		"#TF_QuestView_Accept"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -308,11 +308,11 @@
 				"zpos"			"101"
 				"wide"			"f0"	
 				"tall"			"30"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
-				//"tabPosition"	"0"
+				
 				"labeltext"		"#QuestLog_TurnIn"
 				"textAlignment"	"center"
 				"dulltext"		"0"

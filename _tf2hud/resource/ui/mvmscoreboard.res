@@ -98,10 +98,10 @@
 		"ypos"			"79"
 		"wide"			"530"
 		"tall"			"150"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"autoresize"	"3"
 		"linespacing"	"22"
 		"textcolor"		"White"
@@ -126,8 +126,8 @@
 			"zpos"			"-1"
 			"wide"			"400"
 			"tall"			"135"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../HUD/tournament_panel_brown"

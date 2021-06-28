@@ -369,8 +369,8 @@
 			"ypos"			"0"
 			"wide"			"500"
 			"tall"			"150"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../HUD/tournament_panel_black"
@@ -508,10 +508,10 @@
 		"zpos"			"999"
 		"wide"			"200"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_PVE_Vote_MissionRestart"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -534,10 +534,10 @@
 		"zpos"			"1000"
 		"wide"			"100"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#ConfirmButtonText"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"

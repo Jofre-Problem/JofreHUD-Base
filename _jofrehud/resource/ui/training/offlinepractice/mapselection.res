@@ -16,7 +16,7 @@
 		"wide"			"330"
 		"tall"			"40"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -47,11 +47,11 @@
 		"ypos"		"320"
 		"wide"		"330"
 		"tall"		"15"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"bgcolor_override"	"40 37 37 255"
 	}
 	
@@ -83,7 +83,7 @@
 		"wide"			"33"
 		"tall"			"18"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -100,11 +100,11 @@
 		"ypos"				"260"
 		"wide"				"150"
 		"tall"				"30"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"visible"			"1"
 		"enabled"			"1"
-		//"tabPosition"		"0"
+		
 		"labelText"			"#TF_StartPractice"
 		"font"				"HudFontSmallBold"
 		"textAlignment"		"center"
@@ -136,7 +136,7 @@
 		"wide"			"190"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -153,8 +153,8 @@
 		"zpos"				"1"
 		"wide"				"100"
 		"tall"				"20"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"1"
@@ -187,7 +187,7 @@
 		"wide"			"190"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -208,11 +208,11 @@
 		"zpos"			"50"
 		"wide"			"22"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"maxchars"		"2"
 		"NumericInputOnly"	"1"
 		"selectallonfirstfocus"	"1"
@@ -234,7 +234,7 @@
 		"wide"			"100"
 		"tall"			"15"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"

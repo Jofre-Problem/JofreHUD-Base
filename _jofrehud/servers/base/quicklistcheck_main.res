@@ -8,7 +8,7 @@
 		"xpos"		"8"
 		"ypos"		"244"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"

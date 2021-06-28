@@ -8,11 +8,11 @@
 		"ypos"		"256"
 		"wide"		"560"
 		"tall"		"420"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"SysMenu"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"AnAnimatingImagePanel"
 	{
@@ -36,11 +36,11 @@
 		"ypos"		"45"
 		"wide"		"60"
 		"tall"		"32"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"1"
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Panels"
 	{
@@ -51,7 +51,7 @@
 		"wide"		"520"
 		"tall"		"360"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -64,11 +64,11 @@
 		"ypos"		"28"
 		"wide"		"520"
 		"tall"		"332"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Ban list"
 	{
@@ -78,11 +78,11 @@
 		"ypos"		"28"
 		"wide"		"520"
 		"tall"		"332"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"ServerLog"
 	{
@@ -92,11 +92,11 @@
 		"ypos"		"0"
 		"wide"		"200"
 		"tall"		"100"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"ChatPanel"
 	{
@@ -106,11 +106,11 @@
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"ServerConfigPanel"
 	{
@@ -120,11 +120,11 @@
 		"ypos"		"28"
 		"wide"		"520"
 		"tall"		"332"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"GraphsPanel"
 	{
@@ -134,11 +134,11 @@
 		"ypos"		"28"
 		"wide"		"452"
 		"tall"		"278"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"BudgetPanel"
 	{
@@ -148,11 +148,11 @@
 		"ypos"		"28"
 		"wide"		"520"
 		"tall"		"332"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"ServerInfo"
 	{
@@ -162,10 +162,10 @@
 		"ypos"		"28"
 		"wide"		"520"
 		"tall"		"332"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 }

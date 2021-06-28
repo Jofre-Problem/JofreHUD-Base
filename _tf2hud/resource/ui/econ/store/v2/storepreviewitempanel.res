@@ -9,12 +9,12 @@
 		"zpos"			"1000"
 		"wide"			"f0"
 		"tall"			"f0"
-		//"autoResize"	"0"
+		
 		"skip_autoresize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		
 		"small_vertical_break_size"		"0"
 		"medium_vertical_break_size"	"6"
@@ -159,9 +159,9 @@
 			"ypos"			"17"
 			"wide"			"230"
 			"tall"			"15"
-			//"autoResize"	"0"
+			
 			"skip_autoresize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -181,7 +181,7 @@
 			"PaintBackgroundType"	"0"
 			"bgcolor_override"	"0 0 0 0"
 			"skip_autoresize"	"1"
-			////"autoResize"		"0"
+			
 			
 			"ScrollableChild"
 			{
@@ -196,7 +196,7 @@
 				"PaintBackgroundType"	"0"
 				"bgcolor_override"	"0 0 0 0"
 				"skip_autoresize"	"1"
-				////"autoResize"		"0"
+				
 				
 				//
 				// All the controls below get laid out off of the item name label's position and the break sizes defined at the top of this file
@@ -210,8 +210,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"15"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -227,8 +227,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"0"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -244,8 +244,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"0"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -261,8 +261,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -278,8 +278,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -294,8 +294,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -311,8 +311,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -326,8 +326,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"25"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -342,8 +342,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -358,8 +358,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -372,11 +372,11 @@
 					"zpos"			"20"
 					"wide"			"150"
 					"tall"			"20"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
-					//"tabPosition"	"0"
+					
 					"labelText"		"#Store_ItemDesc_ItemWikiPage"
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
@@ -396,8 +396,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"205"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -413,8 +413,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"205"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -429,8 +429,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"205"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -446,8 +446,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"205"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -462,8 +462,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"205"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -479,8 +479,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"205"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -495,8 +495,8 @@
 					"textAlignment"		"north-west"
 					"wide"			"205"
 					"tall"			"10"
-					////"autoResize"		"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -512,8 +512,8 @@
 					"textAlignment"		"north-west"
 					"wide"			"205"
 					"tall"			"10"
-					////"autoResize"		"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -533,7 +533,7 @@
 		"wide"			"220"
 		"tall"			"213"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		
@@ -973,11 +973,11 @@
 		"zpos"			"20"
 		"wide"			"15"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"<"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -1001,11 +1001,11 @@
 		"zpos"			"20"
 		"wide"			"15"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		">"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -1032,7 +1032,7 @@
 		"wide"			"230"
 		"tall"			"55"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override"		"0 0 0 0"
@@ -1052,11 +1052,11 @@
 		"zpos"			"20"
 		"wide"			"20"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"<"
 		"font"			"HudFontBiggerBold"
 		"textAlignment"	"center"
@@ -1081,11 +1081,11 @@
 		"zpos"			"20"
 		"wide"			"20"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		">"
 		"font"			"HudFontBiggerBold"
 		"textAlignment"	"center"
@@ -1106,11 +1106,11 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"NextWeaponButton"
 		"zpos"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#Store_NextWeapon"
 		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
@@ -1131,11 +1131,11 @@
 		"zpos"			"20"
 		"wide"			"11"
 		"tall"			"11"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -1176,11 +1176,11 @@
 		"zpos"			"20"
 		"wide"			"11"
 		"tall"			"11"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -1221,11 +1221,11 @@
 		"zpos"			"20"
 		"wide"			"11"
 		"tall"			"11"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -1266,8 +1266,8 @@
 		"zpos"				"2"
 		"wide"				"19"
 		"tall"				"40"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"visible"			"1"
 		"enabled"			"1"
 		
@@ -1282,11 +1282,11 @@
 		{
 			"wide"				"19"
 			"tall"				"19"
-			////"autoResize"		"0"
+			
 			"pinCorner"			"2"
 			"visible"			"1"
 			"enabled"			"1"
-			//"tabPosition"		"0"
+			
 			"labelText"			""
 			"textAlignment"		"south-west"
 			"scaleImage"		"1"
@@ -1369,7 +1369,7 @@
 		"wide"			"138"
 		"tall"			"28"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -1391,7 +1391,7 @@
 		"wide"			"138"
 		"tall"			"28"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -1410,7 +1410,7 @@
 		"wide"			"110"
 		"tall"			"25"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -1428,11 +1428,11 @@
 		"zpos"			"10"
 		"wide"			"14"
 		"tall"			"14"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -1473,10 +1473,10 @@
 		"zpos"			"2"
 		"wide"			"90"
 		"tall"			"22"
-		//"autoResize"	"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_BackCarat"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -1498,10 +1498,10 @@
 		"zpos"			"2"
 		"wide"			"120"
 		"tall"			"22"
-		//"autoResize"	"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#Store_TryItOut"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -1523,10 +1523,10 @@
 		"zpos"			"2"
 		"wide"			"160"
 		"tall"			"27"
-		//"autoResize"	"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"%storeaddtocart%"
 		"font"			"HudFontSmallishBold"
 		"textAlignment"	"center"

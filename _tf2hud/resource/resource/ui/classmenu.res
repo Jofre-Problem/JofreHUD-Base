@@ -8,11 +8,11 @@
 		"ypos"			"0"
 		"wide"			"552"
 		"tall"			"448"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 
 	"joinClass"
@@ -23,8 +23,8 @@
 		"ypos"			"72"
 		"wide"			"160"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Valve_Join_Class"
@@ -41,8 +41,8 @@
 		"ypos"			"72"
 		"wide"			"180"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#Valve_Class_Info"
@@ -60,10 +60,10 @@
 		"wide"			"400"
 		"tall"			"380"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"0"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 	}
 
 	"CancelButton"
@@ -74,11 +74,11 @@
 		"ypos"			"308"
 		"wide"			"148"
 		"tall"			"20"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#Cstrike_Cancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"

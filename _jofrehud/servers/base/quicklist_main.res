@@ -8,9 +8,9 @@
 		"ypos"			"8"
 		"wide"			"624"
 		"AutoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"	"1"
 	}
 }

@@ -8,11 +8,11 @@
 		"ypos"		"194"	
 		"wide"		"600"	
 		"tall"		"318"	
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"	
 		"title"		"#GameUI_NewGame"
 	}
@@ -24,8 +24,8 @@
 		"ypos"		"200"
 		"wide"		"72"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"4"
@@ -45,8 +45,8 @@
 		"ypos"		"200"
 		"wide"		"72"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -66,8 +66,8 @@
 		"ypos"		"262"
 		"wide"		"72"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -87,8 +87,8 @@
 		"ypos"		"262"
 		"wide"		"72"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -108,11 +108,11 @@
 		"ypos"		"34"
 		"wide"		"548"
 		"tall"		"2"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Div"	
 	{
@@ -122,11 +122,11 @@
 		"ypos"		"236"	
 		"wide"		"548"	
 		"tall"		"2"		
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 }
 
@@ -144,11 +144,11 @@
 		"scrollslow"		"0.2"	
 		"scrollfast"		"0.1"	
 		"centerbgtall"		"190"	
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"0"
 		"title"		"#GameUI_NewGame"
 		"paintbackground"	"1"
@@ -161,8 +161,8 @@
 		"ypos"		"150"
 		"wide"		"32"
 		"tall"		"32"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#GameUI_Icons_LEFTCURSOR"
@@ -180,8 +180,8 @@
 		"ypos"		"150"
 		"wide"		"32"
 		"tall"		"32"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#GameUI_Icons_RIGHTCURSOR"
@@ -199,8 +199,8 @@
 		"ypos"		"15"
 		"wide"		"795"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"		"center"
@@ -217,8 +217,8 @@
 		"ypos"		"15"
 		"wide"		"795"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"		"center"

@@ -5,11 +5,11 @@
 		"ControlName"		"Frame"
 		"fieldName"		"Spectator"
 		"tall"			"480"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"specgui"
 	{
@@ -23,11 +23,11 @@
 		"tall"			"70"	[$WIN32]
 		"tall_minmode"			"70"	[$WIN32]
 		"wide"			"f0"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"border"		"TFThinLineBorder"
 	}
 
@@ -96,8 +96,8 @@
 		"wide"			"240"
 		"tall"			"20"
 		//"tall_hidef"		"30"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"visible_minmode" "1"
 		"enabled"		"1"
@@ -115,8 +115,8 @@
 		"wide"			"240"
 		"tall"			"20"
 		//"tall_hidef"		"30"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"visible_minmode"		"1"
 		"enabled"		"1"
@@ -134,8 +134,8 @@
 		"wide"			"240"
 		"tall"			"20"
 		//"tall_hidef"		"30"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"visible_minmode" "1"
 		"enabled"		"1"
@@ -151,8 +151,8 @@
 		"ypos"			"0"	[$WIN32]
 		"wide"			"200"	[$WIN32]
 		"tall"			"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"	[$WIN32]
 		"enabled"		"1"
 		"labelText"		"#TF_Coach_StudentCommands"
@@ -168,8 +168,8 @@
 		"ypos"			"10"	[$WIN32]
 		"wide"			"60"	[$WIN32]
 		"tall"			"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"	[$WIN32]
 		"enabled"		"1"
 		"labelText"		""
@@ -184,8 +184,8 @@
 		"ypos"			"10"	[$WIN32]
 		"wide"			"125"	[$WIN32]
 		"tall"			"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"	[$WIN32]
 		"visible"		"0"	[$X360]
 		"enabled"		"1"
@@ -201,8 +201,8 @@
 		"ypos"			"20"	[$WIN32]
 		"wide"			"60"	[$WIN32]
 		"tall"			"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
 		"enabled"		"1"
@@ -218,8 +218,8 @@
 		"ypos"			"20"	[$WIN32]
 		"wide"			"125"	[$WIN32]
 		"tall"			"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
 		"enabled"		"1"
@@ -235,8 +235,8 @@
 		"ypos"			"30"	[$WIN32]
 		"wide"			"60"	[$WIN32]
 		"tall"			"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
 		"enabled"		"1"
@@ -252,8 +252,8 @@
 		"ypos"			"30"	[$WIN32]	
 		"wide"			"125"	[$WIN32]
 		"tall"			"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
 		"enabled"		"1"
@@ -269,8 +269,8 @@
 		"ypos"			"40"	[$WIN32]
 		"wide"			"60"	[$WIN32]
 		"tall"			"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
 		"enabled"		"1"
@@ -286,8 +286,8 @@
 		"ypos"			"40"	[$WIN32]	
 		"wide"			"125"	[$WIN32]
 		"tall"			"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
 		"enabled"		"1"
@@ -303,8 +303,8 @@
 		"ypos"			"50"	[$WIN32]
 		"wide"			"60"	[$WIN32]
 		"tall"			"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
 		"enabled"		"1"
@@ -320,8 +320,8 @@
 		"ypos"			"50"	[$WIN32]	
 		"wide"			"125"	[$WIN32]
 		"tall"			"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
 		"enabled"		"1"
@@ -375,8 +375,8 @@
 			"zpos"			"1"
 			"wide"			"270"
 			"tall"			"9"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"#FreezePanel_Item"
@@ -395,8 +395,8 @@
 			"zpos"			"2"
 			"wide"			"140"
 			"tall"			"60"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"%attriblist%"

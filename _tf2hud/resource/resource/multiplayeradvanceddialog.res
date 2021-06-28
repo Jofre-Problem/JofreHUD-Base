@@ -8,11 +8,11 @@
 		"ypos"		"108"
 		"wide"		"540"
 		"tall"		"376"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Cancel"
 	{
@@ -22,8 +22,8 @@
 		"ypos"		"338"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -41,8 +41,8 @@
 		"ypos"		"338"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -60,11 +60,11 @@
 		"ypos"		"56"
 		"wide"		"480"
 		"tall"		"274"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"BuildDialog"
 	{
@@ -74,10 +74,10 @@
 		"ypos"		"108"
 		"wide"		"285"
 		"tall"		"640"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 }

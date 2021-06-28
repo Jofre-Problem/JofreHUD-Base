@@ -8,11 +8,11 @@
 		"ypos"		"193"
 		"wide"		"470"
 		"tall"		"435"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"SysMenu"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"MatchName"
 	{
@@ -36,11 +36,11 @@
 		"ypos"		"40"
 		"wide"		"256"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"StartGameButton"
 	{
@@ -50,11 +50,11 @@
 		"ypos"			"40"
 		"wide"			"100"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SteamAddOn_StartGame"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -69,11 +69,11 @@
 		"ypos"		"70"
 		"wide"		"425"
 		"tall"		"2"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}	
 	
 	"PlayerPositionLabel0"
@@ -84,12 +84,12 @@
 		"ypos"			"85"
 		"wide"			"50"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"labelText"		"#SteamAddOn_North"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}	
 	"TextPlayerName0"
 	{
@@ -99,11 +99,11 @@
 		"ypos"			"85"
 		"wide"			"170"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"InviteButton0"
 	{
@@ -113,11 +113,11 @@
 		"ypos"			"85"
 		"wide"			"64"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SteamAddOn_Invite"
 		"textAlignment"		"west"
 		"Default"		"0"
@@ -130,11 +130,11 @@
 		"ypos"			"85"
 		"wide"			"64"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SteamAddOn_Cancel"
 		"textAlignment"		"west"
 		"Default"		"0"
@@ -148,12 +148,12 @@
 		"ypos"			"120"
 		"wide"			"50"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"labelText"		"#SteamAddOn_East"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}		
 	"TextPlayerName1"
 	{
@@ -163,11 +163,11 @@
 		"ypos"			"120"
 		"wide"			"170"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"InviteButton1"
 	{
@@ -177,11 +177,11 @@
 		"ypos"			"120"
 		"wide"			"64"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SteamAddOn_Invite"
 		"textAlignment"		"west"
 		"Default"		"0"
@@ -194,11 +194,11 @@
 		"ypos"			"120"
 		"wide"			"64"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SteamAddOn_Cancel"
 		"textAlignment"		"west"
 		"Default"		"0"
@@ -211,12 +211,12 @@
 		"ypos"			"155"
 		"wide"			"50"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"labelText"		"#SteamAddOn_South"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}			
 	"TextPlayerName2"
 	{
@@ -226,11 +226,11 @@
 		"ypos"			"155"
 		"wide"			"170"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"InviteButton2"
 	{
@@ -240,11 +240,11 @@
 		"ypos"			"155"
 		"wide"			"64"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SteamAddOn_Invite"
 		"textAlignment"		"west"
 		"Default"		"0"
@@ -257,11 +257,11 @@
 		"ypos"			"155"
 		"wide"			"64"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SteamAddOn_Cancel"
 		"textAlignment"		"west"
 		"Default"		"0"
@@ -274,12 +274,12 @@
 		"ypos"			"190"
 		"wide"			"50"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"labelText"		"#SteamAddOn_West"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}			
 	
 	"TextPlayerName3"
@@ -290,11 +290,11 @@
 		"ypos"			"190"
 		"wide"			"170"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"InviteButton3"
 	{
@@ -304,11 +304,11 @@
 		"ypos"			"190"
 		"wide"			"64"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SteamAddOn_Invite"
 		"textAlignment"		"west"
 		"Default"		"0"
@@ -321,11 +321,11 @@
 		"ypos"			"190"
 		"wide"			"64"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SteamAddOn_Cancel"
 		"textAlignment"		"west"
 		"Default"		"0"
@@ -340,10 +340,10 @@
 		"wide"		"440"
 		"tall"		"125"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -361,7 +361,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"500"
@@ -374,11 +374,11 @@
 		"ypos"		"380"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SteamAddOn_Btn_Send"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -393,11 +393,11 @@
 		"ypos"		"405"
 		"wide"		"300"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Last message received at:"
 		"textAlignment"		"west"
 		"dulltext"		"1"

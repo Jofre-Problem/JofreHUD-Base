@@ -9,10 +9,10 @@
 		"wide"			"256"
 		"tall"			"256"
 		"AutoResize"	"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"PinnedCornerOffsetX" "0"
 		"PinnedCornerOffsetY" "0"
 		"UnpinnedCornerOffsetX" "0"
@@ -27,14 +27,14 @@
 			"wide"			"256"
 			"tall"			"256"
 			"autoResize"	"3"
-			//"pinCorner"		"0"
+			
 			"PinnedCornerOffsetX" "0"
 			"PinnedCornerOffsetY" "0"
 			"UnpinnedCornerOffsetX" "0"
 			"UnpinnedCornerOffsetY" "0"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 		}
 	}
 }

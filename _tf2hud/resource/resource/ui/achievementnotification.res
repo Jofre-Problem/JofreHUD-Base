@@ -9,8 +9,8 @@
 		"zpos"			"-1"
 		"wide"			"240"
 		"tall"			"40"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"
@@ -40,8 +40,8 @@
 		"ypos"			"2"
 		"wide"			"220"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%heading%"
@@ -59,8 +59,8 @@
 		"ypos"			"14"
 		"wide"			"220"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%title%"

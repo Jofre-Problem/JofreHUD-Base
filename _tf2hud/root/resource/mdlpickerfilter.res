@@ -8,11 +8,11 @@
 		"ypos"			"128"
 		"wide"			"640"
 		"tall"			"480"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		
 		"MDLBrowser"
 		{
@@ -23,12 +23,12 @@
 			"wide"			"256"
 			"tall"			"212"
 			"AutoResize"	"3"
-			//"pinCorner"		"0"
+			
 			"UnpinnedCornerOffsetX" "-6"
 			"UnpinnedCornerOffsetY" "-34"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 		}
 		
 		"FilterList"
@@ -47,7 +47,7 @@
 			"UnpinnedCornerOffsetY" "-6"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"textHidden"	"0"
 			"editable"		"1"
 			"maxchars"		"-1"

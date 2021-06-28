@@ -44,7 +44,7 @@
 		"ypos"			"0"
 		"zpos"			"2"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#AnnotationPanel_Callout"
@@ -77,7 +77,7 @@
 		"wide"			"70"
 		"tall"			"10"
 		"autoResize"		"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		""

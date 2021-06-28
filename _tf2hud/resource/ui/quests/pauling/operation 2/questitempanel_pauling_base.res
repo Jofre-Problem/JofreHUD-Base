@@ -105,11 +105,11 @@
 				"zpos"		"100"
 				"wide"		"f0"
 				"tall"		"f0"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
-				//"tabPosition"		"0"
+				
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"1"
 
@@ -197,8 +197,8 @@
 							"zpos"					"1"
 							"wide"					"f0"
 							"tall"					"30"
-							//"autoResize"			"0"
-							//"pinCorner"				"0"
+							
+							
 							"visible"				"1"
 							"enabled"				"1"
 							"proportionaltoparent"	"1"
@@ -259,8 +259,8 @@
 							"zpos"					"1"
 							"wide"					"f0"
 							"tall"					"30"
-							//"autoResize"			"0"
-							//"pinCorner"				"0"
+							
+							
 							"visible"				"1"
 							"enabled"				"1"
 							"proportionaltoparent"	"1"
@@ -325,8 +325,8 @@
 							"zpos"					"1"
 							"wide"					"f0"
 							"tall"					"30"
-							//"autoResize"			"0"
-							//"pinCorner"				"0"
+							
+							
 							"visible"				"1"
 							"enabled"				"1"
 							"proportionaltoparent"	"1"

@@ -68,11 +68,11 @@
 			"zpos"		"50"
 			"wide"		"0"
 			"tall"		"0"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"0"
 			"enabled"		"0"
-			//"tabPosition"		"0"
+			
 			"bgcolor_override"	"255 255 255 252"
 			"proportionaltoparent"	"1"
 		}
@@ -86,8 +86,8 @@
 			"zpos"			"2"
 			"wide"			"300"
 			"tall"			"24"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"paintborder"	"1"
@@ -107,8 +107,8 @@
 			"zpos"			"3"
 			"wide"			"300"
 			"tall"			"24"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"0"
@@ -124,11 +124,11 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -196,11 +196,11 @@
 		"zpos"		"50"
 		"wide"		"p0.95"
 		"tall"		"30"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"bgcolor_override"	"0 0 0 0"
 		"proportionaltoparent"	"1"
 
@@ -249,8 +249,8 @@
 			"zpos"			"2"
 			"wide"			"100"
 			"tall"			"15"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"0"
@@ -267,11 +267,11 @@
 			"zpos"			"2"
 			"wide"			"100"
 			"tall"			"15"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"bgcolor_override"	"235 226 202 255" // Tanlight
 			"proportionaltoparent"	"1"
 
@@ -284,8 +284,8 @@
 				"zpos"			"2"
 				"wide"			"98"
 				"tall"			"13"				
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"dulltext"		"0"
@@ -307,8 +307,8 @@
 				"zpos"			"3"
 				"wide"			"f0"
 				"tall"			"f0"					
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"wrap"			"0"
@@ -329,8 +329,8 @@
 			"zpos"			"2"
 			"wide"			"100"
 			"tall"			"p.45"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"0"
@@ -347,11 +347,11 @@
 			"zpos"			"2"
 			"wide"			"100"
 			"tall"			"15"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"bgcolor_override"	"235 226 202 255" // Tanlight
 			"proportionaltoparent"	"1"
 
@@ -364,8 +364,8 @@
 				"zpos"			"2"
 				"wide"			"98"
 				"tall"			"13"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"dulltext"		"0"
@@ -387,8 +387,8 @@
 				"zpos"			"3"
 				"wide"			"f0"
 				"tall"			"f0"					
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"wrap"			"0"

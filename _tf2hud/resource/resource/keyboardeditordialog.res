@@ -8,11 +8,11 @@
 		"ypos"		"250"
 		"wide"		"650"
 		"tall"		"400"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#KBEditorTitle"
 	}
@@ -24,11 +24,11 @@
 		"ypos"		"370"
 		"wide"		"120"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#KBEditorSave"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -46,11 +46,11 @@
 		"ypos"		"370"
 		"wide"		"120"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#KBEditorCancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -68,11 +68,11 @@
 		"ypos"		"370"
 		"wide"		"120"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#KBEditorRevert"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -90,11 +90,11 @@
 		"ypos"		"370"
 		"wide"		"120"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#KBEditorUseDefaults"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -113,9 +113,9 @@
 		"wide"		"630"
 		"tall"		"330"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 }

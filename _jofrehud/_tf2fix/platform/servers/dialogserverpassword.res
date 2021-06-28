@@ -8,11 +8,11 @@
 		"ypos"		"409"
 		"wide"		"290"
 		"tall"		"176"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#ServerBrowser_ServerRequiresPasswordTitle"
 	}
@@ -24,11 +24,11 @@
 		"ypos"		"68"
 		"wide"		"252"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#ServerBrowser_PasswordRequired"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -43,11 +43,11 @@
 		"ypos"		"42"
 		"wide"		"252"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"222"
 		"textAlignment"		"north-west"
 		"dulltext"		"1"
@@ -62,8 +62,8 @@
 		"ypos"		"96"
 		"wide"		"186"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -81,8 +81,8 @@
 		"ypos"		"136"
 		"wide"		"74"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -102,11 +102,11 @@
 		"ypos"		"95"
 		"wide"		"66"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#ServerBrowser_PasswordLabel"
 		"textAlignment"		"east"
 		"associate"		"PasswordEntry"
@@ -122,8 +122,8 @@
 		"ypos"		"136"
 		"wide"		"74"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"

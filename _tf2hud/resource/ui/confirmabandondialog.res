@@ -8,11 +8,11 @@
 		"ypos"			"140"
 		"wide"			"300"
 		"tall"			"250"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 	}
@@ -30,7 +30,7 @@
 		"wide"			"300"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 	}
@@ -47,8 +47,8 @@
 		"zpos"			"1"
 		"wide"			"220"
 		"tall"			"130"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"centerwrap"	"1"
@@ -64,11 +64,11 @@
 		"zpos"			"20"
 		"wide"			"100"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -104,11 +104,11 @@
 		"wide"			"175"
 		"tall"			"25"
 		"default"		"1"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#ConfirmButtonText"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -143,11 +143,11 @@
 		"zpos"			"2"
 		"wide"			"300"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_Confirm_Opt_Out"
 		"textAlignment"	"center"
 		"dulltext"		"0"

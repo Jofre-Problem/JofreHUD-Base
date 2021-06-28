@@ -11,7 +11,7 @@
 		"ypos"					"0"
 		"wide"					"260"
 		"tall"					"64"
-		//"autoResize"			"0"
+		
 		"visible"			    "1"
 		"enabled"               "1"
 		//"tabPosition"           "0"

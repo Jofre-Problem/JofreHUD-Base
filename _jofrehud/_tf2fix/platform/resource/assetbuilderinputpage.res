@@ -8,11 +8,11 @@
 		"ypos"			"6"
 		"wide"			"256"
 		"tall"			"256"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 			
 		"PropertiesSplitter"
 		{
@@ -20,7 +20,7 @@
 			"fieldName"		"PropertiesSplitter"
 			"visible"		"1"
 			"enabled"		"1"
-			//"pinCorner"		"0"
+			
 			"AutoResize"	"3"
 			"PinnedCornerOffsetX" "0"
 			"PinnedCornerOffsetY" "0"
@@ -39,12 +39,12 @@
 					"wide"			"256"
 					"tall"			"212"
 					"AutoResize"	"3"
-					//"pinCorner"		"0"
+					
 					"UnpinnedCornerOffsetX" "-6"
 					"UnpinnedCornerOffsetY" "-6"
 					"visible"		"1"
 					"enabled"		"1"
-					//"tabPosition"	"0"
+					
 				}
 			}
 			
@@ -58,11 +58,11 @@
 					"ypos"			"6"
 					"wide"			"100"
 					"tall"			"24"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
-					//"tabPosition"	"0"
+					
 					"labelText"		"Compile Options"
 					"textAlignment"	"west"
 					"dulltext"		"1"
@@ -78,12 +78,12 @@
 					"wide"			"256"
 					"tall"			"212"
 					"AutoResize"	"3"
-					//"pinCorner"		"0"
+					
 					"UnpinnedCornerOffsetX" "-6"
 					"UnpinnedCornerOffsetY" "-6"
 					"visible"		"1"
 					"enabled"		"1"
-					//"tabPosition"	"0"
+					
 				}
 			}
 		}

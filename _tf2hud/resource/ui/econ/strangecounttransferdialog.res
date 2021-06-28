@@ -43,7 +43,7 @@
 			"wide"			"210"
 			"tall"			"60"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"centerwrap"	"1"
@@ -62,7 +62,7 @@
 			"wide"			"84"
 			"tall"			"64"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"paintbackground" "0"
@@ -110,7 +110,7 @@
 			"wide"			"84"
 			"tall"			"64"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"paintbackground" "0"
@@ -158,7 +158,7 @@
 			"wide"			"360"
 			"tall"			"100"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -174,11 +174,11 @@
 			"zpos"			"1"
 			"wide"			"130"
 			"tall"			"25"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#Cancel"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -200,11 +200,11 @@
 			"zpos"			"1"
 			"wide"			"130"
 			"tall"			"25"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#CraftNameConfirm"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"

@@ -73,8 +73,8 @@
 		"zpos"			"2"
 		"wide"			"300"
 		"tall"			"38"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_menu_demolish_title"
@@ -94,8 +94,8 @@
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"13"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Cancel"

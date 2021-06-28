@@ -8,11 +8,11 @@
 		"ypos"			"0"
 		"wide"			"160"
 		"tall"			"22"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 	}
 	
 	"Background"
@@ -65,8 +65,8 @@
 			"ypos"			"0"
 			"wide"			"200"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"#Building_hud_disp_sentry_not_built"
@@ -158,8 +158,8 @@
 			"ypos"			"4"
 			"wide"			"8"
 			"tall"			"15"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"textAlignment"	"Left"
@@ -186,8 +186,8 @@
 				"ypos"			"18"
 				"wide"			"200"
 				"tall"			"12"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"#Building_hud_building"
@@ -205,8 +205,8 @@
 				"ypos"			"29"
 				"wide"			"50"
 				"tall"			"8"				
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"textAlignment"	"Left"
@@ -250,8 +250,8 @@
 				"ypos"			"6"
 				"wide"			"200"
 				"tall"			"22"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"0"
 				"enabled"		"0"
 				"labelText"		"#Building_hud_sentry_kills_assists"
@@ -285,8 +285,8 @@
 				"ypos"			"7"
 				"wide"			"38"
 				"tall"			"8"				
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"textAlignment"	"Left"

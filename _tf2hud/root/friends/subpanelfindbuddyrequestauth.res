@@ -18,7 +18,7 @@
 	{
 		"textAlignment"		"west"
 		"labelText"		""
-		//"tabPosition"		"0"
+		
 		"enabled"		"1"
 		"visible"		"1"
 		"BgColor"		"70 70 70 255"

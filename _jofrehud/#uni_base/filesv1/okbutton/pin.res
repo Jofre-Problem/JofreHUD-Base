@@ -2,6 +2,6 @@
 {
 	"OKButton"
 	{
-		//"pinCorner"		"0"
+		
 	}	
 }	

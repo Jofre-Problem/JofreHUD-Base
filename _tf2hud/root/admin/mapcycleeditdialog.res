@@ -8,11 +8,11 @@
 		"ypos"		"266"
 		"wide"		"480"
 		"tall"		"400"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"SysMenu"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"AvailableMapList"
 	{
@@ -36,8 +36,8 @@
 		"ypos"		"42"
 		"wide"		"184"
 		"tall"		"306"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -50,8 +50,8 @@
 		"ypos"		"42"
 		"wide"		"184"
 		"tall"		"276"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -64,8 +64,8 @@
 		"ypos"		"94"
 		"wide"		"24"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"3"
@@ -84,8 +84,8 @@
 		"ypos"		"130"
 		"wide"		"24"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"4"
@@ -104,8 +104,8 @@
 		"ypos"		"324"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"5"
@@ -124,8 +124,8 @@
 		"ypos"		"324"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"6"
@@ -144,8 +144,8 @@
 		"ypos"		"360"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"8"
@@ -164,8 +164,8 @@
 		"ypos"		"360"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"7"

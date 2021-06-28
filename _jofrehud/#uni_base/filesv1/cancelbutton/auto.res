@@ -3,6 +3,6 @@
 {
 	"CancelButton"
 	{
-		////"autoResize"		"0"
+		
 	}
 }

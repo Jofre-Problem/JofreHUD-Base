@@ -10,8 +10,8 @@
 		"zpos"			"1"		
 		"wide"			"100"
 		"tall"			"100"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"useparentbg"		"1"
@@ -41,8 +41,8 @@
 		"wide_minmode"			"140"
 		"tall"	 		"32"
 		"tall_minmode"	 		"22"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/color_panel_brown"
@@ -73,8 +73,8 @@
 		"zpos"			"1"
 		"wide"			"110"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%disguisename%"
@@ -96,8 +96,8 @@
 		"zpos"			"1"
 		"wide"			"110"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%weaponname%"

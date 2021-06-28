@@ -8,11 +8,11 @@
 		"ypos"		"0"
 		"wide"		"784"
 		"tall"		"590"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Engine"
 	{
@@ -23,10 +23,10 @@
 		"wide"		"784"
 		"tall"		"590"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Clip Player"
 	{
@@ -41,7 +41,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"PinnedCornerOffsetX" "6"
 		"PinnedCornerOffsetY" "-6"
 		"UnpinnedCornerOffsetX" "-6"
@@ -56,11 +56,11 @@
 		"zpos"		"1"
 		"wide"		"300"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"ActiveClipLabel"
 	{
@@ -70,11 +70,11 @@
 		"ypos"		"5"
 		"wide"		"80"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Active Clip:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -89,11 +89,11 @@
 		"ypos"		"5"
 		"wide"		"280"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"???"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -108,11 +108,11 @@
 		"ypos"		"18"
 		"wide"		"88"
 		"tall"		"16"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Active Camera:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -130,11 +130,11 @@
 		"ypos"		"20"
 		"wide"		"280"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"???"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -154,7 +154,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"leftText"		"0.0 s."
 		"rightText"		"96.7 s."
 	}

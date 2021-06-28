@@ -8,11 +8,11 @@
 		"ypos"		"14"
 		"wide"		"968"
 		"tall"		"597"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"BxClipBrowserClientArea"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"5"
 		"wide"		"883"
 		"tall"		"577"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"AddClip"
 	{
@@ -36,11 +36,11 @@
 		"ypos"		"6"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"1"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Add..."
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -57,11 +57,11 @@
 		"ypos"		"34"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"1"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Edit..."
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -78,11 +78,11 @@
 		"ypos"		"62"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"1"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Delete"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -99,11 +99,11 @@
 		"ypos"		"535"
 		"wide"		"35"
 		"tall"		"20"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"bm"
 		"textAlignment"		"west"
 		"dulltext"		"0"

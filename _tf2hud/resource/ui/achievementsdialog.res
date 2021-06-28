@@ -11,8 +11,8 @@
 		"ypos"		"154"
 		"wide"		"630"
 		"tall"		"444"
-		//"autoResize"				"0"
-		"pinCorner"					"0"
+		
+		
 		"visible"					"1"
 		"enabled"					"1"
 		"tabPosition"				"0"
@@ -29,7 +29,7 @@
 		"ypos"		"410"
 		"wide"		"70"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
@@ -51,11 +51,11 @@
 		"ypos"		"410"
 		"wide"		"200"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#TF_ConfirmResetAchievements_Title"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -74,7 +74,7 @@
 		"wide"		"600"
 		"tall"		"268"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -92,7 +92,7 @@
 		"zpos"	"-3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"pinCorner"		"0"
+		
 		"autoResize"		"3"
 	}
 	
@@ -132,11 +132,11 @@
 		"ypos"		"46"
 		"wide"		"200"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"0%"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -181,11 +181,11 @@
 		"ypos"		"46"
 		"wide"		"200"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Achievements_Earned"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -203,11 +203,11 @@
 		"ypos"		"102"
 		"wide"		"150"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Achievement_Hide_Achieved"
 		"textAlignment"		"west"
 		"dulltext"		"0"

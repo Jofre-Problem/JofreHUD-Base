@@ -9,12 +9,12 @@
 		"wide"			"256"
 		"tall"			"212"
 		"AutoResize"	"3"
-		//"pinCorner"		"0"
+		
 		"UnpinnedCornerOffsetX" "0"
 		"UnpinnedCornerOffsetY" "-60"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 	}
 
 	"AddDCCObjectButton"
@@ -25,7 +25,7 @@
 		"ypos"			"60"
 		"wide"			"60"
 		"tall"			"24"
-		//"autoResize"	"0"
+		
 		"PinCorner"		"2"
 		"PinnedCornerOffsetY" "-30"
 		"labelText"		"#AssetBuilder_AddSource"
@@ -42,7 +42,7 @@
 		"ypos"			"60"
 		"wide"			"60"
 		"tall"			"24"
-		//"autoResize"	"0"
+		
 		"PinCorner"		"3"
 		"PinnedCornerOffsetY" "-30"
 		"PinnedCornerOffsetX" "0"
@@ -60,7 +60,7 @@
 		"ypos"			"60"
 		"wide"			"30"
 		"tall"			"24"
-		//"autoResize"	"0"
+		
 		"PinCorner"		"2"
 		"PinnedCornerOffsetY" "0"
 		"visible"		"1"
@@ -98,7 +98,7 @@
 		"ypos"			"60"
 		"wide"			"60"
 		"tall"			"24"
-		//"autoResize"	"0"
+		
 		"PinCorner"		"3"
 		"PinnedCornerOffsetY" "0"
 		"PinnedCornerOffsetX" "0"

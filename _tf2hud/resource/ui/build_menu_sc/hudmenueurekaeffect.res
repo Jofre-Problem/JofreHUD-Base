@@ -58,8 +58,8 @@
 		"zpos"			"2"
 		"wide"			"300"
 		"tall"			"38"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Teleport_Title"
@@ -79,8 +79,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"38"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Teleport_Title"

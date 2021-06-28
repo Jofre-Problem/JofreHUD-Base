@@ -8,11 +8,11 @@
 		"ypos"			"140"
 		"wide"			"300"
 		"tall"			"200"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
@@ -32,7 +32,7 @@
 		"wide"			"300"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
@@ -50,8 +50,8 @@
 		"zpos"			"1"
 		"wide"			"220"
 		"tall"			"170"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"centerwrap"	"1"
@@ -67,11 +67,11 @@
 		"zpos"			"20"
 		"wide"			"100"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#GameUI_CancelBold"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
@@ -113,11 +113,11 @@
 		"wide"			"175"
 		"tall"			"25"
 		"default"		"1"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#ConfirmButtonText"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"

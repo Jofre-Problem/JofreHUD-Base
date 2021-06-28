@@ -52,7 +52,7 @@
 		"xpos_minmode"			"0"
 		"textAlignment_minmode"			"west"
 		"enabled"				"1"
-		//"tabPosition"			"0"
+		
 		"labelText"				"#TF_ENERGYDRINK"
 		"textAlignment"			"center"
 		"dulltext"				"0"
@@ -73,8 +73,8 @@
 		"wide"					"30"
 		"wide_minmode"			"50"
 		"tall"					"5"				
-		//"autoResize"			"0"
-		//"pinCorner"				"0"
+		
+		
 		"visible"				"1"
 		"enabled"				"1"
 		"textAlignment"			"Left"
@@ -98,7 +98,7 @@
 		"ypos_minmode"			"0"
 		"xpos_minmode"			"-10"
 		"enabled"				"1"
-		//"tabPosition"			"0"
+		
 		"labelText"				"#TF_KILLCOMBO"
 		"textAlignment"			"center"
 		"dulltext"				"0"

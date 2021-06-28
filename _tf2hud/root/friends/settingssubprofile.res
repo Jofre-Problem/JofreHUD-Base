@@ -8,11 +8,11 @@
 		"ypos"		"24"
 		"wide"		"340"
 		"tall"		"128"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"appearance"		"LabelDull"
 		"labelText"		"#TrackerUI_OptionsUnavailable"
@@ -27,8 +27,8 @@
 		"ypos"		"44"
 		"wide"		"180"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -47,11 +47,11 @@
 		"ypos"		"20"
 		"wide"		"180"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_FriendlyName"
 		"textAlignment"		"west"

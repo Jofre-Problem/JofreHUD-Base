@@ -67,11 +67,11 @@
 		"ypos"			"165"
 	//	"zpos"			"20"
 	//	"tall"			"25"
-	//	//"autoResize"	"0"
-	//	//"pinCorner"		"0"
+	//	
+	//	
 	//	"visible"		"1"
 	//	"enabled"		"1"
-	//	//"tabPosition"	"0"
+	//	
 	//	"labelText"		"#GameUI_CancelBold"
 	//	"font"			"EconFontSmall"
 	//	"textAlignment"	"center"

@@ -8,11 +8,11 @@
 		"ypos"		"154"
 		"wide"		"480"
 		"tall"		"460"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#GameUI_LoadCommentary"
 	}
@@ -25,7 +25,7 @@
 		"wide"		"444"
 		"tall"		"354"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -38,7 +38,7 @@
 		"ypos"		"422"
 		"wide"		"82"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"0"
@@ -59,7 +59,7 @@
 		"ypos"		"422"
 		"wide"		"70"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
@@ -80,11 +80,11 @@
 		"ypos"		"26"
 		"wide"		"444"
 		"tall"		"36"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_LoadCommentaryHelp"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -99,11 +99,11 @@
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Label"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -118,11 +118,11 @@
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Label"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -137,11 +137,11 @@
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Label"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -156,11 +156,11 @@
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Label"
 		"textAlignment"		"west"
 		"dulltext"		"0"

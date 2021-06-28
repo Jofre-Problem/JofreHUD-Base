@@ -8,11 +8,11 @@
 		"ypos"		"390"
 		"wide"		"300"
 		"tall"		"110"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"Filter Log"
 	}
@@ -24,12 +24,12 @@
 		"ypos"		"25"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"selected"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Resample"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -45,11 +45,11 @@
 		"ypos"		"25"
 		"wide"		"150"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Resampled Framerate:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -64,11 +64,11 @@
 		"ypos"		"25"
 		"wide"		"50"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"
@@ -83,12 +83,12 @@
 		"ypos"		"50"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"selected"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Smooth"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -104,11 +104,11 @@
 		"ypos"		"50"
 		"wide"		"150"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Filter Width:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -123,11 +123,11 @@
 		"ypos"		"50"
 		"wide"		"50"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"
@@ -142,11 +142,11 @@
 		"ypos"		"75"
 		"wide"		"50"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Filter"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -163,11 +163,11 @@
 		"ypos"		"75"
 		"wide"		"50"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Cancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"

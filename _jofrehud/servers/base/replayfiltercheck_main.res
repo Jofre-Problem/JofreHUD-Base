@@ -9,7 +9,7 @@
 		"ypos"		"210"
 		"wide"		"222"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"2"
 		"enabled"		"1"
 		"tabPosition"		"8"
@@ -26,7 +26,7 @@
 		"xpos"		"436"
 		"ypos"		"190"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"2"
 		"enabled"		"1"
 		"tabPosition"		"8"

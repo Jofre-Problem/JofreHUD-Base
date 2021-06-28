@@ -8,11 +8,11 @@
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"0 0 0 255"
@@ -29,8 +29,8 @@
 		"zpos"			"0"		
 		"wide"			"f0"
 		"tall"			"480"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 

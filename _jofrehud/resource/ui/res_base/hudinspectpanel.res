@@ -47,8 +47,8 @@
 			"zpos"			"1"
 			"wide"			"120"
 			"tall"			"25"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"textinsetx"	"10"
@@ -70,8 +70,8 @@
 			"zpos"			"2"
 			"wide"			"140"
 			"tall"			"60"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"0"
 			"enabled"		"1"
 			"labelText"		"%attriblist%"

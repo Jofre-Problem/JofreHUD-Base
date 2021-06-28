@@ -8,11 +8,11 @@
 		"ypos"			"280"
 		"wide"			"275"
 		"tall"			"160"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"settitlebarvisible"	"0"
 		
 		"PaintBackgroundType"	"2"
@@ -57,7 +57,7 @@
 		"wide"			"20"
 		"tall"			"15"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
@@ -74,8 +74,8 @@
 		"zpos"			"1"
 		"wide"			"60"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 	}
@@ -92,8 +92,8 @@
 		"zpos"			"1"
 		"wide"			"140"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 	}
@@ -170,8 +170,8 @@
 		"zpos"			"10"
 		"wide"			"220"
 		"tall"			"30"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
@@ -186,11 +186,11 @@
 		"zpos"			"20"
 		"wide"			"25"
 		"tall"			"120"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"paintbackground"	"0"
 	}
 }

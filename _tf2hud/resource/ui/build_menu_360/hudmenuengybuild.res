@@ -58,8 +58,8 @@
 		"zpos"			"2"
 		"wide"			"300"
 		"tall"			"38"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"Engineering"
@@ -79,8 +79,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"38"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"Engineering"
@@ -259,8 +259,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"38"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"1"
@@ -279,8 +279,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"39"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Action_Build"
@@ -300,8 +300,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"39"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Action_Build"
@@ -320,8 +320,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"38"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"0"
@@ -340,8 +340,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"39"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
@@ -361,8 +361,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"39"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
@@ -381,8 +381,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"38"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"B"
@@ -401,8 +401,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"39"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Cancel"
@@ -419,11 +419,11 @@
 		"zpos"			"1"
 		"wide"			"420"
 		"tall"			"30"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"	
+			
 		"fillcolor"		"0 0 0 190"
 		"PaintBackgroundType"	"0"
 	}

@@ -7,8 +7,8 @@
 		"fieldName"		"storepreviewitem"
 		"xpos"			"0"
 		"ypos"			"0"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 	}
@@ -19,7 +19,7 @@
 		"fieldName"		"classmodelpanel"
 		
 		"xpos"			"0"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		
@@ -352,11 +352,11 @@
 		"zpos"			"20"
 		"wide"			"15"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"<"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -373,11 +373,11 @@
 		"zpos"			"20"
 		"wide"			"15"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		">"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -398,7 +398,7 @@
 		"wide"			"230"
 		"tall"			"55"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override"		"0 0 0 0"
@@ -417,11 +417,11 @@
 		"zpos"			"20"
 		"wide"			"20"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"<"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -438,11 +438,11 @@
 		"zpos"			"20"
 		"wide"			"20"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		">"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -457,11 +457,11 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"NextWeaponButton"
 		"zpos"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#Store_NextWeapon"
 		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
@@ -484,7 +484,7 @@
 		"wide"			"110"
 		"tall"			"25"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -503,7 +503,7 @@
 		"wide"			"110"
 		"tall"			"25"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"

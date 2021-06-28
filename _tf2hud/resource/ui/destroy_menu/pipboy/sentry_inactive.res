@@ -10,8 +10,8 @@
 		"zpos"			"1"
 		"wide"			"84"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#TF_Object_Sentry"
@@ -48,8 +48,8 @@
 		"zpos"			"2"
 		"wide"			"80"
 		"tall"			"18"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#TF_NotBuilt"
@@ -69,8 +69,8 @@
 		"zpos"			"2"
 		"wide"			"80"
 		"tall"			"18"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Unavailable"
@@ -106,8 +106,8 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"18"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"1"

@@ -2,6 +2,6 @@
 {
 	"sv_minratelabel"
 	{
-		//"tabPosition"	"0"
+		
 	}
 }

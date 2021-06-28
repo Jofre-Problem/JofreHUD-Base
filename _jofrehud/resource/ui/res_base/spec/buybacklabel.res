@@ -8,8 +8,8 @@
 		"ypos"			"0"
 		"wide"			"400"
 		"tall"			"f0"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		""

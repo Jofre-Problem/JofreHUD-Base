@@ -2,6 +2,6 @@
 {	
 	"WarningLabel"
 	{
-		////"autoResize"		"0"
+		
 	}
 }

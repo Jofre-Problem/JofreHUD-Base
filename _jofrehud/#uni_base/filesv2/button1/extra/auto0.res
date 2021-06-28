@@ -3,6 +3,6 @@
 {
 	"Button1"
 	{
-		////"autoResize"		"0"
+		
 	}
 }

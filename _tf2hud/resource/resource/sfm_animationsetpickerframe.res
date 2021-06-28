@@ -8,11 +8,11 @@
 		"ypos"		"200"
 		"wide"		"400"
 		"tall"		"420"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#BxAnimationSetChooser"
 	}
@@ -24,11 +24,11 @@
 		"ypos"		"0"
 		"wide"		"384"
 		"tall"		"5"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"bottomGrip"
 	{
@@ -38,11 +38,11 @@
 		"ypos"		"415"
 		"wide"		"374"
 		"tall"		"5"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"leftGrip"
 	{
@@ -52,11 +52,11 @@
 		"ypos"		"8"
 		"wide"		"5"
 		"tall"		"404"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"rightGrip"
 	{
@@ -66,11 +66,11 @@
 		"ypos"		"8"
 		"wide"		"5"
 		"tall"		"394"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"tlGrip"
 	{
@@ -80,11 +80,11 @@
 		"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"trGrip"
 	{
@@ -94,11 +94,11 @@
 		"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"blGrip"
 	{
@@ -108,11 +108,11 @@
 		"ypos"		"412"
 		"wide"		"8"
 		"tall"		"8"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"brGrip"
 	{
@@ -122,11 +122,11 @@
 		"ypos"		"402"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"caption"
 	{
@@ -136,11 +136,11 @@
 		"ypos"		"0"
 		"wide"		"390"
 		"tall"		"23"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Minimize"
 	{
@@ -150,11 +150,11 @@
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"0"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -171,11 +171,11 @@
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"1"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -192,11 +192,11 @@
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"o"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -214,11 +214,11 @@
 		"ypos"		"8"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"r"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -235,11 +235,11 @@
 		"ypos"		"8"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
@@ -256,10 +256,10 @@
 		"wide"		"390"
 		"tall"		"340"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"OpenButton"
 	{
@@ -269,11 +269,11 @@
 		"ypos"		"383"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#FileOpenDialog_Open"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -291,11 +291,11 @@
 		"ypos"		"383"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#FileOpenDialog_Cancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"

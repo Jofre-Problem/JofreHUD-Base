@@ -9,10 +9,10 @@
 		"ypos"		"150"
 		"wide"		"164"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"2"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -28,10 +28,10 @@
 		"ypos"		"180"
 		"wide"		"112"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"2"
 		"enabled"		"1"	//for some reason is disabled
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -47,7 +47,7 @@
 		"ypos"		"180"
 		"wide"		"164"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"2"
 		"enabled"		"1"
 		"tabPosition"		"5"
@@ -66,10 +66,10 @@
 		"ypos"		"150"
 		"wide"		"112"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"2"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -85,10 +85,10 @@
 		"ypos"		"210"
 		"wide"		"112"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"2"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"textHidden"		"0"
 		"editable"		"0"
@@ -104,7 +104,7 @@
 		"ypos"		"170"
 		"wide"		"184"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"2"
 		"enabled"		"1"
 		"tabPosition"		"7"
@@ -122,7 +122,7 @@
 		"ypos"		"150"
 		"wide"		"184"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"2"
 		"enabled"		"1"
 		"tabPosition"		"6"

@@ -8,11 +8,11 @@
 		"ypos"			"0"
 		"wide"			"640"
 		"tall"			"480"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"settitlebarvisible"	"1"
 		"title"		"Select .MDL File"
 		
@@ -24,7 +24,7 @@
 			"ypos"		"450"
 			"wide"		"130"
 			"tall"		"24"
-			////"autoResize"		"0"
+			
 			"pinCorner"		"2"
 			"visible"		"1"
 			"enabled"		"1"
@@ -44,7 +44,7 @@
 			"ypos"		"450"
 			"wide"		"130"
 			"tall"		"24"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"2"
 			"visible"		"1"
 			"enabled"		"1"
@@ -65,7 +65,7 @@
 			"wide"			"640"
 			"tall"			"420"
 			"AutoResize"	"3"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"1"

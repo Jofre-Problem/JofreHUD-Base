@@ -8,11 +8,11 @@
 		"ypos"		"20"
 		"wide"		"600"
 		"tall"		"400"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"Loaded Textures Visualizer"
 	}
@@ -24,11 +24,11 @@
 		"ypos"		"30"
 		"wide"		"70"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Refresh"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -46,9 +46,9 @@
 		"wide"		"500"
 		"tall"		"350"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 }

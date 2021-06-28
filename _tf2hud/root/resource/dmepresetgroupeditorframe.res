@@ -8,11 +8,11 @@
 		"ypos"			"128"
 		"wide"			"480"
 		"tall"			"380"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"settitlebarvisible"	"1"
 		"title"		"Manage Presets"
 		
@@ -24,7 +24,7 @@
 			"ypos"		"350"
 			"wide"		"122"
 			"tall"		"24"
-			////"autoResize"		"0"
+			
 			"pinCorner"		"2"
 			"visible"		"1"
 			"enabled"		"1"
@@ -45,7 +45,7 @@
 			"wide"			"480"
 			"tall"			"320"
 			"AutoResize"	"3"
-			//"pinCorner"		"0"
+			
 			"PinnedCornerOffsetX" "6"
 			"PinnedCornerOffsetY" "30"
 			"UnpinnedCornerOffsetX" "-6"

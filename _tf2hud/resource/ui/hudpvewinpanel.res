@@ -10,8 +10,8 @@
 		"wide"			"300"
 		"tall"			"90"
 		"image"			"../hud/tournament_panel_brown"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		
 		"visible"		"1"
 		"enabled"		"1"
@@ -44,8 +44,8 @@
 			"ypos"			"3"
 			"wide"			"295"
 			"tall"			"26"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"#Winpanel_PVE_Evil_Wins"
@@ -68,8 +68,8 @@
 			"ypos"			"2"
 			"wide"			"295"
 			"tall"			"26"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"#Winpanel_PVE_Evil_Wins"
@@ -87,8 +87,8 @@
 		"zpos"			"1"
 		"wide"			"292"
 		"tall"			"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%WinReasonLabel%"
@@ -107,8 +107,8 @@
 		"zpos"			"1"
 		"wide"			"265"
 		"tall"			"30"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%DetailsLabel%"
@@ -127,8 +127,8 @@
 		"ypos"			"142"
 		"wide"			"300"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../HUD/tournament_panel_brown"

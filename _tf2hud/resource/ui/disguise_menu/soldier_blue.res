@@ -10,8 +10,8 @@
 		"zpos"			"1"
 		"wide"			"45"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#TF_Class_Name_Soldier"
@@ -62,8 +62,8 @@
 		"zpos"			"0"
 		"wide"			"15"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"2"
@@ -83,8 +83,8 @@
 		"zpos"			"0"
 		"wide"			"15"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"2"

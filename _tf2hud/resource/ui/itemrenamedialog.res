@@ -44,8 +44,8 @@
 			"zpos"			"2"
 			"wide"			"140"
 			"tall"			"60"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"%attriblist%"
@@ -68,7 +68,7 @@
 		"wide"			"200"
 		"tall"			"60"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"centerwrap"	"1"
@@ -87,7 +87,7 @@
 		"wide"			"84"
 		"tall"			"64"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"paintbackground" "0"
@@ -152,7 +152,7 @@
 		"wide"			"84"
 		"tall"			"64"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"paintbackground" "0"
@@ -217,7 +217,7 @@
 		"wide"			"380"
 		"tall"			"32"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override" "0 0 0 255"
@@ -236,7 +236,7 @@
 		"wide"			"185"
 		"tall"			"32"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "117 107 94 255"
@@ -254,7 +254,7 @@
 		"wide"			"180"
 		"tall"			"24"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "117 107 94 255"
@@ -274,7 +274,7 @@
 		"wide"			"380"
 		"tall"			"32"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override" "0 0 0 255"
@@ -293,7 +293,7 @@
 		"wide"			"185"
 		"tall"			"32"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "117 107 94 255"
@@ -308,10 +308,10 @@
 		"wide"				"180"
 		"tall"				"24"
 		"autoResize"		"1"
-		//"pinCorner"			"0"
+		
 		"visible"			"1"
 		"enabled"			"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"			"1"
 		"maxchars"			"32"
@@ -339,7 +339,7 @@
 		"wide"			"400"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
@@ -354,11 +354,11 @@
 		"zpos"			"1"
 		"wide"			"130"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -379,11 +379,11 @@
 		"zpos"			"1"
 		"wide"			"130"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#CraftNameOk"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"

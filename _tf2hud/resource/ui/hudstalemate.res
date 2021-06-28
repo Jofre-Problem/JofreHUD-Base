@@ -9,8 +9,8 @@
 		"zpos"			"-1"
 		"wide"			"320"
 		"tall"			"150"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/death_panel_black_bg"
@@ -26,8 +26,8 @@
 		"zpos"			"1"
 		"wide"			"280"
 		"tall"			"35"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -44,8 +44,8 @@
 		"zpos"			"1"
 		"wide"			"280"
 		"tall"			"55"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"

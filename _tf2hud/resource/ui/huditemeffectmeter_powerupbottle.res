@@ -67,7 +67,7 @@
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
-		//"tabPosition"			"0"
+		
 		"labelText"				"#TF_Ball"
 		"textAlignment"			"north"
 		"centerwrap"			"1"
@@ -86,8 +86,8 @@
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"6"				
-		//"autoResize"			"0"
-		//"pinCorner"				"0"
+		
+		
 		"visible"				"0"
 		"enabled"				"0"
 		"textAlignment"			"Left"
@@ -109,7 +109,7 @@
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
-		//"tabPosition"			"0"
+		
 		"labelText"				"%progresscount%"
 		"textAlignment"			"north"
 		"dulltext"				"0"

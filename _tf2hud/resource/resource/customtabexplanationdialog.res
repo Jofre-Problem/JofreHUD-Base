@@ -8,11 +8,11 @@
 		"ypos"		"450"
 		"wide"		"400"
 		"tall"		"300"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#GameUI_CustomTab_Title"
 	}
@@ -24,11 +24,11 @@
 		"ypos"		"0"
 		"wide"		"384"
 		"tall"		"5"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_bottomGrip"
 	{
@@ -38,11 +38,11 @@
 		"ypos"		"295"
 		"wide"		"374"
 		"tall"		"5"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_leftGrip"
 	{
@@ -52,11 +52,11 @@
 		"ypos"		"8"
 		"wide"		"5"
 		"tall"		"284"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_rightGrip"
 	{
@@ -66,11 +66,11 @@
 		"ypos"		"8"
 		"wide"		"5"
 		"tall"		"274"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_tlGrip"
 	{
@@ -80,11 +80,11 @@
 		"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_trGrip"
 	{
@@ -94,11 +94,11 @@
 		"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_blGrip"
 	{
@@ -108,11 +108,11 @@
 		"ypos"		"292"
 		"wide"		"8"
 		"tall"		"8"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_brGrip"
 	{
@@ -122,11 +122,11 @@
 		"ypos"		"282"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_caption"
 	{
@@ -136,11 +136,11 @@
 		"ypos"		"0"
 		"wide"		"390"
 		"tall"		"23"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_minimize"
 	{
@@ -150,11 +150,11 @@
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"0"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -170,11 +170,11 @@
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"1"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -190,11 +190,11 @@
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"o"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -211,11 +211,11 @@
 		"ypos"		"8"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"r"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -231,11 +231,11 @@
 		"ypos"		"8"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
@@ -250,11 +250,11 @@
 		"ypos"		"41"
 		"wide"		"338"
 		"tall"		"37"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_CustomTab_Explanation"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -269,11 +269,11 @@
 		"ypos"		"83"
 		"wide"		"338"
 		"tall"		"71"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_CustomTab_Explanation2"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -288,11 +288,11 @@
 		"ypos"		"168"
 		"wide"		"320"
 		"tall"		"48"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_CustomTab_Explanation3"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -307,11 +307,11 @@
 		"ypos"		"218"
 		"wide"		"250"
 		"tall"		"27"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_CustomTab_Link"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -327,11 +327,11 @@
 		"ypos"		"256"
 		"wide"		"88"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#vgui_ok"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -349,11 +349,11 @@
 		"ypos"		"256"
 		"wide"		"88"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#vgui_Cancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -371,11 +371,11 @@
 		"ypos"		"662"
 		"wide"		"300"
 		"tall"		"420"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"
 	}

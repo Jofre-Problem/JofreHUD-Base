@@ -9,7 +9,7 @@
 		"wide"		"540" 
 		"tall"		"230"
 		"autoResize"	"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"1"

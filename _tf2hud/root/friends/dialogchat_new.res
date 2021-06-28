@@ -8,11 +8,11 @@
 		"ypos"		"733"
 		"wide"		"439"
 		"tall"		"292"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"settitlebarvisible"		"1"
 		"title"		"#Friends_Chat_Title"
@@ -46,10 +46,10 @@
 		"wide"		"423"
 		"tall"		"134"
 		"AutoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"maxchars"		"-1"
 	}
@@ -61,7 +61,7 @@
 		"ypos"		"214"
 		"wide"		"56"
 		"tall"		"44"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
@@ -85,7 +85,7 @@
 		"PinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_LastMessageReceived"
 		"textAlignment"		"west"
@@ -101,10 +101,10 @@
 		"wide"		"354"
 		"tall"		"24"
 		"AutoResize"		"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_ChatToPlusStatus"
 		"textAlignment"		"west"

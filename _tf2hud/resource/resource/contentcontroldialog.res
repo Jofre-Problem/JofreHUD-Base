@@ -8,11 +8,11 @@
 		"ypos"		"197"
 		"wide"		"328"
 		"tall"		"250"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"ContentStatus"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"30"
 		"wide"		"280"
 		"tall"		"28"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"	"#GameUI_ContentStatusDisabled"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -39,11 +39,11 @@
 		"ypos"		"68"
 		"wide"		"166"
 		"tall"		"28"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_PasswordPrompt"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -56,11 +56,11 @@
 		"ypos"		"124"
 		"wide"		"166"
 		"tall"		"28"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_PasswordReentryPrompt"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -73,11 +73,11 @@
 		"ypos"		"182"
 		"wide"		"272"
 		"tall"		"28"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		""
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -90,8 +90,8 @@
 		"ypos"		"98"
 		"wide"		"166"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -107,8 +107,8 @@
 		"ypos"		"154"
 		"wide"		"166"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -124,8 +124,8 @@
 		"ypos"		"216"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -143,8 +143,8 @@
 		"ypos"		"216"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"4"
@@ -162,10 +162,10 @@
 		"ypos"		"51"
 		"wide"		"285"
 		"tall"		"590"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 }

@@ -536,11 +536,11 @@
 		"ypos"				"c-150"
 		"wide"				"400"
 		"tall"				"310"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"visible"			"1"
 		"enabled"			"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"	"0"
 		"border"			"TFFatLineBorderOpaque"
 		"bgcolor_override"	"0 0 0 0"
@@ -567,8 +567,8 @@
 			"ypos"			"10"
 			"wide"			"400"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"0"
@@ -583,11 +583,11 @@
 			"zpos"		"2"
 			"wide"		"180"
 			"tall"		"200"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
-			//"autoResize"	"0"
+			
+			
 			
 			"linespacing"	"16"
 		}
@@ -601,11 +601,11 @@
 			"zpos"		"2"
 			"wide"		"200"
 			"tall"		"200"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
-			//"autoResize"	"0"
+			
+			
 			"linespacing"	"16"
 		}
 
@@ -622,7 +622,7 @@
 			"wide"			"75"
 			"tall"			"20"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -636,8 +636,8 @@
 			"zpos"				"1"
 			"wide"				"235"
 			"tall"				"20"
-			////"autoResize"		"0"
-			//"pinCorner"			"0"
+			
+			
 			"visible"			"1"
 			"enabled"			"1"
 			"tabPosition"		"1"
@@ -664,7 +664,7 @@
 			"ypos"		"275"
 			"wide"		"160"
 			"tall"		"24"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"0"
@@ -685,7 +685,7 @@
 			"ypos"		"275"
 			"wide"		"80"
 			"tall"		"24"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"

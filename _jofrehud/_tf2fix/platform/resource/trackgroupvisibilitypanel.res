@@ -8,11 +8,11 @@
 		"ypos"			"128"
 		"wide"			"256"
 		"tall"			"480"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"settitlebarvisible"	"1"
 		"title"		"Change Track Group Visibility"
 		
@@ -24,11 +24,11 @@
 			"ypos"		"450"
 			"wide"		"96"
 			"tall"		"24"
-			////"autoResize"		"0"
+			
 			"pinCorner"		"2"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"labelText"		"Ok"
 			"textAlignment"		"center"
 			"dulltext"		"0"
@@ -44,7 +44,7 @@
 			"ypos"		"450"
 			"wide"		"96"
 			"tall"		"24"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
@@ -65,10 +65,10 @@
 			"wide"			"256"
 			"tall"			"420"
 			"AutoResize"	"3"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 		}
 	}
 }

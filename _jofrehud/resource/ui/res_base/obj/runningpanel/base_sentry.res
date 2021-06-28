@@ -29,8 +29,8 @@
 			//	"ypos"			"13"
 				"wide"			"200"
 				"tall"			"22"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"#Building_hud_sentry_kills_assists"
@@ -64,8 +64,8 @@
 			//	"ypos"			"31"
 				"wide"			"38"
 				"tall"			"8"				
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"textAlignment"	"Left"

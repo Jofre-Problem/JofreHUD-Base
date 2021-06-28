@@ -8,11 +8,11 @@
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"	"0"
 	}
 	
@@ -24,11 +24,11 @@
 		"ypos"				"0"
 		"wide"				"f0"
 		"tall"				"70"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"visible"			"0"
 		"enabled"			"0"
-		//"tabPosition"		"0"
+		
 	}
 
 	"Skip" [$WIN32] 
@@ -44,11 +44,11 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#Button_SkipIntro"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -71,11 +71,11 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#TF_Continue"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -94,7 +94,7 @@
 		"zpos"			"7"
 		"wide"			"25"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
@@ -117,7 +117,7 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
@@ -139,7 +139,7 @@
 		"zpos"			"7"
 		"wide"			"25"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
@@ -162,7 +162,7 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"1"
@@ -188,11 +188,11 @@
 		"tall"			"50"
 		//"tall_lodef"			"74"
 		//"tall_hidef"			"65"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"	
+			
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
 		"PaintBackgroundType"	"0"
@@ -207,8 +207,8 @@
 		"zpos"			"3"		
 		"wide"			"300"
 		"tall"			"225"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"start_delay"	"2.0"
@@ -224,8 +224,8 @@
 		"zpos"			"0"		
 		"wide"			"f0"
 		"tall"			"480"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fov"			"20"
@@ -273,8 +273,8 @@
 		"zpos"			"6"
 		"wide"			"295"
 		"tall"			"70"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		" "

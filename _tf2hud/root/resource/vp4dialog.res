@@ -8,11 +8,11 @@
 		"ypos"		"128"
 		"wide"		"1024"
 		"tall"		"768"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"
 	}
@@ -24,11 +24,11 @@
 		"ypos"		"32"
 		"wide"		"292"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -44,10 +44,10 @@
 		"wide"		"292"
 		"tall"		"670"
 		"AutoResize"		"2"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"ViewsSheet"
 	{
@@ -58,9 +58,9 @@
 		"wide"		"682"
 		"tall"		"704"
 		"AutoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 }

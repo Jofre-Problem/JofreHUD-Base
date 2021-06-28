@@ -8,11 +8,11 @@
 		"ypos"			"6"
 		"wide"			"256"
 		"tall"			"256"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 	
 		"OutputPreview"
 		{
@@ -25,10 +25,10 @@
 			"UnpinnedCornerOffsetX" "-6"
 			"UnpinnedCornerOffsetY" "-6"
 			"autoResize"		"3"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 		}
 	}
 }

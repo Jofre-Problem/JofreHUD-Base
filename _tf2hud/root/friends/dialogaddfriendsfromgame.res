@@ -8,11 +8,11 @@
 		"ypos"		"330"
 		"wide"		"461"
 		"tall"		"366"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"SysMenu"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"PlayerList"
 	{
@@ -37,7 +37,7 @@
 		"wide"		"422"
 		"tall"		"256"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -50,7 +50,7 @@
 		"ypos"		"326"
 		"wide"		"104"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"0"
@@ -71,10 +71,10 @@
 		"wide"		"417"
 		"tall"		"24"
 		"autoResize"		"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#TrackerUI_AddFriendsInfo"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -88,7 +88,7 @@
 		"ypos"		"326"
 		"wide"		"72"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"

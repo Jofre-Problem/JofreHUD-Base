@@ -54,8 +54,8 @@
 		"zpos"			"3"
 		"wide"			"360"
 		"tall"			"38"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Taunt_Title"
@@ -75,8 +75,8 @@
 		"zpos"			"3"
 		"wide"			"360"
 		"tall"			"38"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Taunt_Title"
@@ -374,8 +374,8 @@
 		"zpos"			"200"
 		"wide"			"25"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"actionSet"		"InGameHUDControls"
@@ -391,8 +391,8 @@
 		"zpos"			"200"
 		"wide"			"25"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"actionSet"		"InGameHUDControls"
@@ -408,8 +408,8 @@
 		"zpos"			"1"
 		"wide"			"25"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"actionSet"		"InGameHUDControls"
@@ -426,8 +426,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"39"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Taunt_Title"
@@ -445,8 +445,8 @@
 		"zpos"			"2"
 		"wide"			"25"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"actionSet"		"InGameHUDControls"
@@ -463,8 +463,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"39"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Taunt_Weapon_NoKey"
@@ -482,8 +482,8 @@
 		"zpos"			"1"
 		"wide"			"25"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"actionSet"		"InGameHUDControls"
@@ -501,8 +501,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"39"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Cancel"

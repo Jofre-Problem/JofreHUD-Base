@@ -8,11 +8,11 @@
 		"ypos"				"220"
 		"wide"				"160"
 		"tall"				"35"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"visible"			"1"
 		"enabled"			"1"
-		//"tabPosition"		"0"
+		
 		"labelText"			"#TF_Training_StartTraining"
 		"font"				"HudFontSmallBold"
 		"textAlignment"		"center"
@@ -40,8 +40,8 @@
 		"ypos"				"0"
 		"wide"				"300"
 		"tall"				"200"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"visible"			"1"
 		"enabled"			"1"
 		"paintbackground"	"1"
@@ -61,7 +61,7 @@
 			"wide"			"430"
 			"tall"			"20"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -78,7 +78,7 @@
 			"wide"			"280"
 			"tall"			"100"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -96,7 +96,7 @@
 			"wide"			"300"
 			"tall"			"15"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "116 108 101 255"
@@ -153,7 +153,7 @@
 			"wide"			"70"
 			"tall"			"15"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -170,7 +170,7 @@
 			"wide"			"70"
 			"tall"			"15"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -187,7 +187,7 @@
 			"wide"			"70"
 			"tall"			"15"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}

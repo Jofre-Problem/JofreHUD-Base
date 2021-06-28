@@ -2,6 +2,6 @@
 {
 	"ConfirmButton"
 	{
-		//"pinCorner"		"0"
+		
 	}	
 }	

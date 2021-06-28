@@ -6,10 +6,10 @@
 		"zpos"			"100"
 		"wide"			"130"
 		"tall"			"75"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"0"
 
@@ -28,7 +28,7 @@
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
-			//"autoResize"	"0"
+			
 			"drawcolor"	"255 255 255 255"
 		}
 		
@@ -64,7 +64,7 @@
 			"enabled"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"1"
-			//"autoResize"	"0"
+			
 			"fgcolor_override"	"QuestMap_ActiveOrange"
 			"font"			"QuestMap_Large"
 			"textAlignment"	"east"
@@ -88,7 +88,7 @@
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
-			//"autoResize"	"0"
+			
 			"drawcolor"	"QuestMap_ActiveOrange"
 		}
 
@@ -139,10 +139,10 @@
 			"zpos"			"100"
 			"wide"			"28"
 			"tall"			"28"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"proportionaltoparent"	"1"
 			"autoResize"	"3"
 			"paintbackground" "0"		
@@ -158,10 +158,10 @@
 			"zpos"			"10"
 			"wide"			"28"
 			"tall"			"28"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"

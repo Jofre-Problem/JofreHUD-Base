@@ -8,11 +8,11 @@
 		"ypos"		"14"
 		"wide"		"383"
 		"tall"		"708"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Entities"
 	{
@@ -23,7 +23,7 @@
 		"wide"		"255"
 		"tall"		"636"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -36,11 +36,11 @@
 		"ypos"		"36"
 		"wide"		"94"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"1"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Create Targets"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -58,11 +58,11 @@
 		"ypos"		"70"
 		"wide"		"94"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"1"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Delete"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -80,11 +80,11 @@
 		"ypos"		"676"
 		"wide"		"94"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Save"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -102,11 +102,11 @@
 		"ypos"		"676"
 		"wide"		"94"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Restart Map"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -124,11 +124,11 @@
 		"ypos"		"8"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Entities:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -143,11 +143,11 @@
 		"ypos"		"104"
 		"wide"		"94"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"1"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Quick Save"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -164,11 +164,11 @@
 		"ypos"		"138"
 		"wide"		"94"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"1"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Quick Load"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -185,11 +185,11 @@
 		"ypos"		"78"
 		"wide"		"409"
 		"tall"		"504"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"
 	}

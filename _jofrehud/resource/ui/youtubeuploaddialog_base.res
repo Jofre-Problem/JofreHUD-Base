@@ -59,11 +59,11 @@
 	//	"zpos"			"20"
 	//	"tall"			"25"
 	//	"default"		"1"
-	//	//"autoResize"	"0"
-	//	//"pinCorner"		"0"
+	//	
+	//	
 	//	"visible"		"1"
 	//	"enabled"		"1"
-	//	//"tabPosition"	"0"
+	//	
 	//	"textAlignment"	"center"
 	//	"textinsetx"	"50"
 	//	"dulltext"		"0"

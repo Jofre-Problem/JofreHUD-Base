@@ -8,11 +8,11 @@
 		"ypos"			"128"
 		"wide"			"268"
 		"tall"			"380"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"settitlebarvisible"	"1"
 		"title"		"#Frame_Untitled"
 			
@@ -25,7 +25,7 @@
 			"wide"			"463"
 			"tall"			"212"
 			"AutoResize"	"3"
-			//"pinCorner"		"0"
+			
 			"PinnedCornerOffsetX" "0"
 			"PinnedCornerOffsetY" "0"
 			"UnpinnedCornerOffsetX" "0"
@@ -43,7 +43,7 @@
 			"ypos"			"60"
 			"wide"			"120"
 			"tall"			"24"
-			//"autoResize"	"0"
+			
 			"PinCorner"		"2"
 			"PinnedCornerOffsetY" "0"
 			"labelText"		"#AssetBuilder_Compile"
@@ -61,7 +61,7 @@
 			"ypos"			"60"
 			"wide"			"120"
 			"tall"			"24"
-			//"autoResize"	"0"
+			
 			"PinCorner"		"2"
 			"PinnedCornerOffsetY" "0"
 			"labelText"		"#AssetBuilder_Publish"
@@ -98,7 +98,7 @@
 			"ypos"			"60"
 			"wide"			"120"
 			"tall"			"24"
-			//"autoResize"	"0"
+			
 			"PinCorner"		"3"
 			"PinnedCornerOffsetX" "0"
 			"PinnedCornerOffsetY" "0"

@@ -68,7 +68,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_RocketPack_Disabled"
 		"textAlignment"	"west"
 		"dulltext"		"0"
@@ -90,8 +90,8 @@
 		"wide"			"22"
 		"wide_minmode"	"22"
 		"tall"			"8"				
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"Left"
@@ -112,8 +112,8 @@
 		"zpos"			"2"
 		"wide"			"22"
 		"tall"			"8"				
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"Left"

@@ -2,6 +2,6 @@
 {
 	"MapLabel"
 	{
-		////"autoResize"		"0"
+		
 	}	
 }	

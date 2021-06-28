@@ -27,8 +27,8 @@
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"40"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "TanLight"
@@ -47,8 +47,8 @@
 		"zpos"			"2"
 		"wide"			"f20"
 		"tall"			"40"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"

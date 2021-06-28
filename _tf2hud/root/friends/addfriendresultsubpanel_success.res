@@ -8,8 +8,8 @@
 		"ypos"		"48"
 		"wide"		"464"
 		"tall"		"264"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -25,11 +25,11 @@
 		"ypos"		"60"
 		"wide"		"384"
 		"tall"		"60"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_FriendHasBeenAddedToYourList"
 		"textAlignment"		"north-west"

@@ -171,11 +171,11 @@
 					"zpos"		"99"
 					"wide"		"f0"
 					"tall"		"30"
-					////"autoResize"		"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
-					//"tabPosition"		"0"
+					
 					"labelText"			"%title%"
 					"bgcolor_override"	"0 0 0 220"
 					"fgcolor"		"Black"
@@ -250,10 +250,10 @@
 						"zpos"			"10"
 						"wide"			"f0"
 						"tall"			"f0"
-						//"autoResize"	"0"
+						
 						"visible"		"1"
 						"enabled"		"1"
-						//"tabPosition"	"0"
+						
 						"proportionaltoparent"	"1"
 						"labelText"		"#QuestLog_Identify"
 						"actionsignallevel" "4"
@@ -331,10 +331,10 @@
 						"zpos"			"10"
 						"wide"			"f0"
 						"tall"			"f0"
-						//"autoResize"	"0"
+						
 						"visible"		"1"
 						"enabled"		"1"
-						//"tabPosition"	"0"
+						
 						"proportionaltoparent"	"1"
 						"labelText"		"#QuestLog_TurnIn"
 						"actionsignallevel" "4"
@@ -551,11 +551,11 @@
 					"wide"			"p.42"
 					"tall"			"15"
 					"visible"		"1"
-					//"autoResize"	"0"
+					
 					"pinCorner"		"3"
 					"visible"		"1"
 					"enabled"		"1"
-					//"tabPosition"	"0"
+					
 					"proportionaltoparent"	"1"
 					"labelText"		"#TF_Quest_FindServer"
 					"use_proportional_insets" "0"
@@ -606,8 +606,8 @@
 						"zpos"					"1"
 						"wide"					"f0"
 						"tall"					"15"
-						//"autoResize"			"0"
-						//"pinCorner"				"0"
+						
+						
 						"visible"				"1"
 						"enabled"				"1"
 						"wrap"					"1"
@@ -643,11 +643,11 @@
 						"wide"			"p.77"
 						"tall"			"15"
 						"visible"		"1"
-						//"autoResize"	"0"
+						
 						"pinCorner"		"3"
 						"visible"		"1"
 						"enabled"		"1"
-						//"tabPosition"	"0"
+						
 						"proportionaltoparent"	"1"
 						"labelText"		"#TF_Quest_RequestLoanerItems"
 						"use_proportional_insets" "0"
@@ -683,11 +683,11 @@
 						"wide"			"p.77"
 						"tall"			"15"
 						"visible"		"1"
-						//"autoResize"	"0"
+						
 						"pinCorner"		"3"
 						"visible"		"1"
 						"enabled"		"1"
-						//"tabPosition"	"0"
+						
 						"proportionaltoparent"	"1"
 						"labelText"		"#TF_Quest_EquipLoanerItems"
 						"use_proportional_insets" "0"
@@ -790,7 +790,7 @@
 					"wide"					"p0.42"
 					"tall"					"220"
 					"proportionaltoparent"	"1"
-					//"autoResize"			"0"
+					
 					"skip_autoresize"		"1"
 
 					"allow_mouse_wheel_to_scroll" "1"
@@ -841,8 +841,8 @@
 						"zpos"					"1"
 						"wide"					"f0"
 						"tall"					"40"
-						//"autoResize"			"0"
-						//"pinCorner"				"0"
+						
+						
 						"visible"				"1"
 						"enabled"				"1"
 						"wrap"					"1"
@@ -865,8 +865,8 @@
 						"zpos"					"1"
 						"wide"					"f0"
 						"tall"					"40"
-						//"autoResize"			"0"
-						//"pinCorner"				"0"
+						
+						
 						"visible"				"1"
 						"enabled"				"1"
 						"wrap"					"1"
@@ -889,8 +889,8 @@
 						"zpos"					"1"
 						"wide"					"f0"
 						"tall"					"1000"
-						//"autoResize"			"0"
-						//"pinCorner"				"0"
+						
+						
 						"visible"				"1"
 						"enabled"				"1"
 						"wrap"					"1"
@@ -912,11 +912,11 @@
 				"zpos"		"-5"
 				"wide"		"f0"
 				"tall"		"f0"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
-				//"tabPosition"		"0"
+				
 				"proportionaltoparent"	"1"
 
 				"BackFolderImage"
@@ -948,11 +948,11 @@
 				"zpos"		"100"
 				"wide"		"f0"
 				"tall"		"f0"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
-				//"tabPosition"		"0"
+				
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"1"
 
@@ -1040,8 +1040,8 @@
 							"zpos"					"1"
 							"wide"					"f0"
 							"tall"					"30"
-							//"autoResize"			"0"
-							//"pinCorner"				"0"
+							
+							
 							"visible"				"1"
 							"enabled"				"1"
 							"proportionaltoparent"	"1"
@@ -1102,8 +1102,8 @@
 							"zpos"					"1"
 							"wide"					"f0"
 							"tall"					"30"
-							//"autoResize"			"0"
-							//"pinCorner"				"0"
+							
+							
 							"visible"				"1"
 							"enabled"				"1"
 							"proportionaltoparent"	"1"
@@ -1168,8 +1168,8 @@
 							"zpos"					"1"
 							"wide"					"f0"
 							"tall"					"30"
-							//"autoResize"			"0"
-							//"pinCorner"				"0"
+							
+							
 							"visible"				"1"
 							"enabled"				"1"
 							"proportionaltoparent"	"1"

@@ -8,11 +8,11 @@
 		"ypos"		"400"
 		"wide"		"360"
 		"tall"		"230"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"Title"		"#GameUI_RefreshLogin"
 	}
@@ -24,8 +24,8 @@
 		"ypos"		"94"
 		"wide"		"200"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
@@ -43,8 +43,8 @@
 		"ypos"		"126"
 		"wide"		"200"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -62,8 +62,8 @@
 		"ypos"		"158"
 		"wide"		"250"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -83,11 +83,11 @@
 		"ypos"		"39"
 		"wide"		"300"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_RefreshLogin_InfoTicketExpired"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -102,11 +102,11 @@
 		"ypos"		"93"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_RefreshLogin_UserName"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -121,11 +121,11 @@
 		"ypos"		"125"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_RefreshLogin_Password"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -140,8 +140,8 @@
 		"ypos"		"193"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"4"
@@ -161,8 +161,8 @@
 		"ypos"		"193"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"5"

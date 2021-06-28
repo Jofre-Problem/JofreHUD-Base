@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"MuteButton"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"

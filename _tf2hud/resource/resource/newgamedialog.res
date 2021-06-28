@@ -8,11 +8,11 @@
 		"ypos"		"284"
 		"wide"		"600"
 		"tall"		"296"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#GameUI_NewGame"
 	}
@@ -24,8 +24,8 @@
 		"ypos"		"200"
 		"wide"		"72"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"4"
@@ -45,8 +45,8 @@
 		"ypos"		"200"
 		"wide"		"72"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -66,8 +66,8 @@
 		"ypos"		"252"
 		"wide"		"124"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -87,8 +87,8 @@
 		"ypos"		"252"
 		"wide"		"72"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -108,11 +108,11 @@
 		"ypos"		"34"
 		"wide"		"548"
 		"tall"		"2"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Div"
 	{
@@ -122,10 +122,10 @@
 		"ypos"		"236"
 		"wide"		"548"
 		"tall"		"2"	
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 }

@@ -8,11 +8,11 @@
 		"ypos"		"376"
 		"wide"		"280"
 		"tall"		"180"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"OKButton"
 	{
@@ -22,8 +22,8 @@
 		"ypos"		"144"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -42,8 +42,8 @@
 		"ypos"		"144"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -62,8 +62,8 @@
 		"ypos"		"88"
 		"wide"		"240"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -80,11 +80,11 @@
 		"ypos"		"44"
 		"wide"		"240"
 		"tall"		"48"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Changes take effect when you press 'OK'."
 		"textAlignment"		"west"
 		"dulltext"		"1"

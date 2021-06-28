@@ -8,11 +8,11 @@
 		"ypos"			"0"
 		"wide"			"60"
 		"tall"			"24"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"Skin Name"
 		"textAlignment"	"west"
 		"dulltext"		"1"
@@ -29,10 +29,10 @@
 		"tall"		"24"
 		"UnpinnedCornerOffsetX" "0"
 		"autoResize"		"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"
@@ -48,11 +48,11 @@
 		"ypos"			"30"
 		"wide"			"60"
 		"tall"			"24"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"Scale"
 		"textAlignment"	"west"
 		"dulltext"		"1"
@@ -69,10 +69,10 @@
 		"tall"		"24"
 		"UnpinnedCornerOffsetX" "0"
 		"autoResize"		"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"
@@ -88,8 +88,8 @@
 		"ypos"		"56"
 		"wide"		"216"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"disabled"		"1"

@@ -61,11 +61,11 @@
 			"zpos"			"100"
 			"wide"			"15"
 			"tall"			"o1"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -104,11 +104,11 @@
 			"zpos"			"100"
 			"wide"			"15"
 			"tall"			"o1"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -147,11 +147,11 @@
 			"zpos"			"100"
 			"wide"			"15"
 			"tall"			"o1"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"?"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"

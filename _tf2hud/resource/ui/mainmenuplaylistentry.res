@@ -148,7 +148,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"proportionaltoparent"	"1"
 
 			"paintbackground"	"0"
@@ -167,8 +167,8 @@
 		"zpos"			"2"
 		"wide"			"125"
 		"tall"			"40"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -189,8 +189,8 @@
 		"zpos"			"1"
 		"wide"			"125"
 		"tall"			"40"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"

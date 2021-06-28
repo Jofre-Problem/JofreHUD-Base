@@ -8,11 +8,11 @@
 		"ypos"		"390"
 		"wide"		"450"
 		"tall"		"110"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"Choose Midi Source"
 	}
@@ -24,11 +24,11 @@
 		"ypos"		"25"
 		"wide"		"60"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Midi Source:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -43,8 +43,8 @@
 		"ypos"		"25"
 		"wide"		"350"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -62,8 +62,8 @@
 		"ypos"		"75"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -83,8 +83,8 @@
 		"ypos"		"75"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"

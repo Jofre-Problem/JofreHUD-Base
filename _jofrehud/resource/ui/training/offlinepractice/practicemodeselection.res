@@ -54,7 +54,7 @@
 		"wide"			"330"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -74,7 +74,7 @@
 		"wide"			"40"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -90,11 +90,11 @@
 		"ypos"				"260"
 		"wide"				"130"
 		"tall"				"30"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"visible"			"1"
 		"enabled"			"1"
-		//"tabPosition"		"0"
+		
 		"labelText"			"#TF_Select"
 		"font"				"HudFontSmallBold"
 		"textAlignment"		"center"

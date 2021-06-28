@@ -10,7 +10,7 @@
 		"tall"				"320"
 		"visible"			"1"
 		"enabled"			"1"
-		//"tabPosition"		"0"
+		
 	}
 	"AnimationSetBrowser"
 	{
@@ -21,12 +21,12 @@
 		"wide"		"276"
 		"tall"		"220"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"UnpinnedCornerOffsetX" "-6"
 		"UnpinnedCornerOffsetY" "-64"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Label2"
 	{
@@ -36,12 +36,12 @@
 		"ypos"		"260"
 		"wide"		"54"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"PinnedCornerOffsetY" "-36"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Filter:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -62,7 +62,7 @@
 		"UnpinnedCornerOffsetX" "-6"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"
@@ -77,12 +77,12 @@
 		"ypos"		"290"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"PinnedCornerOffsetY" "-6"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#VGui_OK"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -100,12 +100,12 @@
 		"ypos"		"290"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"PinnedCornerOffsetY" "-6"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#VGui_Cancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"

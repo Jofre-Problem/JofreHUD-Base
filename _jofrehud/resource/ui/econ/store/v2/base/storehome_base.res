@@ -10,11 +10,11 @@
 		"ypos"			"40"
 		"wide"			"f0"
 		"tall"			"480"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"	"46 43 42 255"
@@ -101,7 +101,7 @@
 			"wide"			"16"
 			"tall"			"10"
 			"autoResize"	"1"
-			//"pinCorner"		"0"	
+				
 			"visible"		"0"
 			"enabled"		"1"
 			
@@ -152,7 +152,7 @@
 			"wide"			"16"
 			"tall"			"10"
 			"autoResize"	"1"
-			//"pinCorner"		"0"	
+				
 			"visible"		"0"
 			"enabled"		"1"
 			"use_item_sounds" "1"		
@@ -227,8 +227,8 @@
 		"zpos"				"0"
 		"wide"				"430"
 		"tall"				"30"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"visible"			"1"
 		"enabled"			"1"
 		
@@ -243,11 +243,11 @@
 			"wide"				"100"
 			"tall"				"30"
 			"textinsety"		"-5"
-			////"autoResize"		"0"
+			
 			"pinCorner"			"2"
 			"visible"			"1"
 			"enabled"			"1"
-			//"tabPosition"		"0"
+			
 			"textAlignment"		"center"
 			"scaleImage"		"1"
 			"font"			"HudFontSmallestBold"
@@ -283,11 +283,11 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"<"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -311,7 +311,7 @@
 		"wide"			"40"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
@@ -326,11 +326,11 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		">"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -354,7 +354,7 @@
 		"wide"			"160"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 	}
@@ -406,11 +406,11 @@
 		"zpos"			"2"
 		"wide"			"160"
 		"tall"			"23"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#Store_BrowseTheStore"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -431,11 +431,11 @@
 		"zpos"			"2"
 		"wide"			"170"
 		"tall"			"24"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#Store_MarketPlace"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -462,7 +462,7 @@
 		"wide"			"350"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"0"
 		"enabled"		"1"
 	}
@@ -492,7 +492,7 @@
 			"wide"			"200"
 			"tall"			"20"
 			"autoresize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"0"
 			"enabled"		"1"
 		}
@@ -510,7 +510,7 @@
 			"wide"			"200"
 			"tall"			"20"
 			"autoresize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"0"
 			"enabled"		"1"
 		}
@@ -528,7 +528,7 @@
 			"wide"			"200"
 			"tall"			"20"
 			"autoresize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"0"
 			"enabled"		"1"
 		}

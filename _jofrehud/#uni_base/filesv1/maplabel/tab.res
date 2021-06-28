@@ -2,6 +2,6 @@
 {
 	"MapLabel"
 	{
-		//"tabPosition"		"0"
+		
 	}	
 }	

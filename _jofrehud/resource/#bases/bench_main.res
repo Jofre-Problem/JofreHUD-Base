@@ -11,8 +11,8 @@
 		"ypos"		"217"
 		"wide"		"82"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -30,7 +30,7 @@
 		"ypos"		"40"
 		"wide"		"320"
 		"tall"		"120"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_BenchmarkResults_Info"
 		"dulltext"		"0"
 		"brighttext"		"0"

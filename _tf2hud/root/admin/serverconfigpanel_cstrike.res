@@ -10,11 +10,11 @@
 		"ypos"		"30"
 		"wide"		"100"
 		"tall"		"20"
-		//"autoResize"	"0"
+		
 		"pinCorner"	"0"
 		"visible"	"1"
 		"enabled"	"1"
-		//"tabPosition"	"0"
+		
 		"labelText"	"C4 Timer"
 	}
 	"mp_c4timer"
@@ -25,8 +25,8 @@
 		"ypos"		"30"
 		"wide"		"100"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -44,11 +44,11 @@
 		"ypos"		"55"
 		"wide"		"100"
 		"tall"		"20"
-		//"autoResize"	"0"
+		
 		"pinCorner"	"0"
 		"visible"	"1"
 		"enabled"	"1"
-		//"tabPosition"	"0"
+		
 		"labelText"	"Timelimit"
 	}
 	"mp_timelimit"
@@ -59,8 +59,8 @@
 		"ypos"		"55"
 		"wide"		"100"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -77,11 +77,11 @@
 		"ypos"		"80"
 		"wide"		"100"
 		"tall"		"20"
-		//"autoResize"	"0"
+		
 		"pinCorner"	"0"
 		"visible"	"1"
 		"enabled"	"1"
-		//"tabPosition"	"0"
+		
 		"labelText"	"Round time"
 	}
 	"mp_roundtime"
@@ -92,8 +92,8 @@
 		"ypos"		"80"
 		"wide"		"100"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -112,8 +112,8 @@
 		"ypos"		"130"
 		"wide"		"150"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"4"
@@ -135,8 +135,8 @@
 		"ypos"		"5"
 		"wide"		"120"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"5"
@@ -153,11 +153,11 @@
 		"ypos"		"30"
 		"wide"		"75"
 		"tall"		"20"
-		//"autoResize"	"0"
+		
 		"pinCorner"	"0"
 		"visible"	"1"
 		"enabled"	"1"
-		//"tabPosition"	"0"
+		
 		"labelText"	"MinRate"
 	}
 	"sv_minrate"
@@ -168,8 +168,8 @@
 		"ypos"		"30"
 		"wide"		"100"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"6"
@@ -186,11 +186,11 @@
 		"ypos"		"55"
 		"wide"		"75"
 		"tall"		"20"
-		//"autoResize"	"0"
+		
 		"pinCorner"	"0"
 		"visible"	"1"
 		"enabled"	"1"
-		//"tabPosition"	"0"
+		
 		"labelText"	"MaxRate"
 	}
 	"sv_maxrate"
@@ -201,8 +201,8 @@
 		"ypos"		"55"
 		"wide"		"100"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"7"
@@ -219,8 +219,8 @@
 		"ypos"		"80"
 		"wide"		"150"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"8"
@@ -236,8 +236,8 @@
 		"ypos"		"105"
 		"wide"		"150"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"9"

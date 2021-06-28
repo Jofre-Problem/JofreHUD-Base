@@ -8,11 +8,11 @@
 		"ypos"		"420"
 		"wide"		"600"
 		"tall"		"360"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#SFM_Extract_Phonemes_Title"
 	}
@@ -25,11 +25,11 @@
 		"ypos"		"328"
 		"wide"		"370"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -44,11 +44,11 @@
 		"ypos"		"236"
 		"wide"		"300"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -63,11 +63,11 @@
 		"ypos"		"32"
 		"wide"		"560"
 		"tall"		"147"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Extract"
 	{
@@ -77,11 +77,11 @@
 		"ypos"		"264"
 		"wide"		"90"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#extract_button"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -97,11 +97,11 @@
 		"ypos"		"294"
 		"wide"		"90"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#reapply_button"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -117,11 +117,11 @@
 		"ypos"		"323"
 		"wide"		"90"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#vgui_Cancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -137,11 +137,11 @@
 		"ypos"		"183"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#sfm_play"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -157,11 +157,11 @@
 		"ypos"		"211"
 		"wide"		"565"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"
@@ -176,11 +176,11 @@
 		"ypos"		"236"
 		"wide"		"50"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -195,11 +195,11 @@
 		"ypos"		"236"
 		"wide"		"50"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -214,11 +214,11 @@
 		"ypos"		"264"
 		"wide"		"363"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SFM_UseWaveFilePhonemes"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -235,11 +235,11 @@
 		"ypos"		"284"
 		"wide"		"370"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SFM_IgnoreAnimationSetVisibility"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -256,11 +256,11 @@
 		"ypos"		"303"
 		"wide"		"370"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SFM_CreateBookmarks"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -277,11 +277,11 @@
 		"ypos"		"191"
 		"wide"		"560"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Sentence Text:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -296,11 +296,11 @@
 		"ypos"		"235"
 		"wide"		"70"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Sample Rate:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -315,11 +315,11 @@
 		"ypos"		"235"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Filter Size:"
 		"textAlignment"		"west"
 		"dulltext"		"0"

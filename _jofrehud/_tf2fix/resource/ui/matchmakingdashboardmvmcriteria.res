@@ -36,11 +36,11 @@
 		"zpos"			"100"
 		"wide"			"90"
 		"tall"			"20"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -82,11 +82,11 @@
 		"zpos"			"100"
 		"wide"			"170"
 		"tall"			"20"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -131,11 +131,11 @@
 		"zpos"			"100"
 		"wide"			"270"
 		"tall"			"20"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -163,11 +163,11 @@
 		"zpos"			"100"
 		"wide"			"f20"
 		"tall"			"20"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
 		"dulltext"		"0"

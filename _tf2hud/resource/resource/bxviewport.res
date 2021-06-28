@@ -8,11 +8,11 @@
 		"ypos"		"14"
 		"wide"		"1154"
 		"tall"		"944"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Engine"
 	{
@@ -23,10 +23,10 @@
 		"wide"		"1124"
 		"tall"		"826"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Clip Player"
 	{
@@ -41,7 +41,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"TimeCode"
 	{
@@ -52,11 +52,11 @@
 		"zpos"		"1"
 		"wide"		"300"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Clip Slider"
 	{
@@ -71,7 +71,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"leftText"		"0.0 s."
 		"rightText"		"60.0 s."
 	}
@@ -83,11 +83,11 @@
 		"ypos"		"5"
 		"wide"		"180"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"sequence"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -102,11 +102,11 @@
 		"ypos"		"20"
 		"wide"		"180"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"camera"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -121,11 +121,11 @@
 		"ypos"		"5"
 		"wide"		"80"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Active Clip:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -140,11 +140,11 @@
 		"ypos"		"18"
 		"wide"		"88"
 		"tall"		"16"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Active Camera:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -162,10 +162,10 @@
 		"ypos"		"901"
 		"wide"		"70"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 }

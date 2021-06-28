@@ -2,6 +2,6 @@
 {
 	"CloseButton"
 	{
-		////"autoResize"		"0"
+		
 	}	
 }	

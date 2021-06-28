@@ -8,8 +8,8 @@
 		"ypos"		"43"
 		"wide"		"175"
 		"tall"		"50"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
@@ -27,8 +27,8 @@
 		"ypos"		"43"
 		"wide"		"175"
 		"tall"		"50"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
@@ -46,8 +46,8 @@
 		"ypos"		"179"
 		"wide"		"175"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
@@ -68,8 +68,8 @@
 		"ypos"		"116"
 		"wide"		"175"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
@@ -90,8 +90,8 @@
 		"ypos"		"116"
 		"wide"		"175"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
@@ -112,8 +112,8 @@
 		"ypos"		"179"
 		"wide"		"175"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
@@ -134,8 +134,8 @@
 		"ypos"		"230"
 		"wide"		"430"
 		"tall"		"28"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
@@ -162,8 +162,8 @@
 		"ypos"		"270"
 		"wide"		"200"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
@@ -191,14 +191,14 @@
 		"ypos"		"155"
 		"wide"		"175"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GAMEUI_AudioSpokenLanguage"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -217,14 +217,14 @@
 		"ypos"		"199"
 		"wide"		"175"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GAMEUI_RequiresRestart"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -243,14 +243,14 @@
 		"ypos"		"19"
 		"wide"		"160"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_SoundEffectVolume"
 		"textAlignment"		"west"
 		"associate"		"SFXSlider"
@@ -270,14 +270,14 @@
 		"ypos"		"19"
 		"wide"		"160"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_MusicVolume"
 		"textAlignment"		"west"
 		"associate"		"MusicSlider"
@@ -297,14 +297,14 @@
 		"ypos"		"92"
 		"wide"		"179"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_SoundQuality"
 		"textAlignment"		"west"
 		"associate"		"SoundQuality"
@@ -324,14 +324,14 @@
 		"ypos"		"92"
 		"wide"		"184"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_SpeakerConfiguration"
 		"textAlignment"		"west"
 		"associate"		"SpeakerSetup"
@@ -351,14 +351,14 @@
 		"ypos"		"222"
 		"wide"		"182"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_TestSpeakerSettingsWarning"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -378,8 +378,8 @@
 		"ypos"		"194"
 		"wide"		"160"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
@@ -407,14 +407,14 @@
 		"ypos"		"155"
 		"wide"		"175"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Captioning"
 		"textAlignment"		"west"
 		"associate"		"CloseCaptionCheck"

@@ -2,6 +2,6 @@
 {
 	"ExplanationLabel"
 	{
-		////"autoResize"		"0"
+		
 	}	
 }	

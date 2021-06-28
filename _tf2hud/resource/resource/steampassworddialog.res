@@ -8,11 +8,11 @@
 		"ypos"		"270"
 		"wide"		"372"
 		"tall"		"260"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"HelpText"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"48"
 		"wide"		"310"
 		"tall"		"90"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textAlignment"		"west"
 		"dulltext"		"1"
 	}
@@ -38,8 +38,8 @@
 		"ypos"		"158"
 		"wide"		"300"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -56,8 +56,8 @@
 		"ypos"		"222"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -75,8 +75,8 @@
 		"ypos"		"222"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -94,10 +94,10 @@
 		"ypos"		"218"
 		"wide"		"285"
 		"tall"		"665"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 }

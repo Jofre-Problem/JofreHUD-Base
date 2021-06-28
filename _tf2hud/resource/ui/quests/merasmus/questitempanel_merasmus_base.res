@@ -130,11 +130,11 @@
 					"ypos"		"10"
 					"wide"		"p0.63"
 					"tall"		"30"
-					////"autoResize"		"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
-					//"tabPosition"		"0"
+					
 					"labelText"			"%title%"
 					"bgcolor_override"	"0 0 0 220"
 					"fgcolor"		"Black"
@@ -163,8 +163,8 @@
 					"xpos"			"25"
 					"ypos"			"52"
 					"wide"			"100"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 
 					"SubButton"
 					{
@@ -280,10 +280,10 @@
 						"zpos"			"10"
 						"wide"			"f0"
 						"tall"			"f0"
-						//"autoResize"	"0"
+						
 						"visible"		"1"
 						"enabled"		"1"
-						//"tabPosition"	"0"
+						
 						"proportionaltoparent"	"1"
 						"labelText"		"#QuestLog_TurnIn"
 						"actionsignallevel" "4"
@@ -409,11 +409,11 @@
 				"zpos"		"100"
 				"wide"		"f0"
 				"tall"		"f0"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
-				//"tabPosition"		"0"
+				
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"1"
 

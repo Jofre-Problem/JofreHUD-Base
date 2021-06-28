@@ -12,11 +12,11 @@
 		"ypos"		"14"
 		"wide"		"1584"
 		"tall"		"223"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"ClipImagePanel"
 	{
@@ -26,10 +26,10 @@
 		"ypos"		"60"
 		"wide"		"1459"
 		"tall"		"64"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 }

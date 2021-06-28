@@ -8,11 +8,11 @@
 		"ypos"			"0"
 		"wide"			"150"
 		"tall"			"31"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 	}
 	
 	"Background"
@@ -65,8 +65,8 @@
 			"ypos"			"0"
 			"wide"			"200"
 			"tall"			"31"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"#Building_hud_sapper_not_built"
@@ -95,8 +95,8 @@
 			"ypos"			"2"
 			"wide"			"8"
 			"tall"			"24"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"textAlignment"	"Left"
@@ -123,8 +123,8 @@
 				"ypos"			"5"
 				"wide"			"200"
 				"tall"			"12"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"#Building_hud_building"
@@ -142,8 +142,8 @@
 				"ypos"			"16"
 				"wide"			"50"
 				"tall"			"8"				
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"textAlignment"	"Left"
@@ -186,8 +186,8 @@
 				"ypos"			"12"
 				"wide"			"35"
 				"tall"			"8"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"textAlignment"	"Left"

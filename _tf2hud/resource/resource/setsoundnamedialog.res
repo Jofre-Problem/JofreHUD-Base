@@ -8,11 +8,11 @@
 		"ypos"		"430"
 		"wide"		"450"
 		"tall"		"210"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"Set Sound Name"
 	}
@@ -24,8 +24,8 @@
 		"ypos"		"170"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"6"
@@ -45,8 +45,8 @@
 		"ypos"		"170"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"7"
@@ -66,11 +66,11 @@
 		"ypos"		"45"
 		"wide"		"90"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Sound Directory:"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -85,8 +85,8 @@
 		"ypos"		"45"
 		"wide"		"303"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -104,8 +104,8 @@
 		"ypos"		"45"
 		"wide"		"20"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"6"
@@ -125,11 +125,11 @@
 		"ypos"		"75"
 		"wide"		"90"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"New Sound Name:"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -144,8 +144,8 @@
 		"ypos"		"75"
 		"wide"		"303"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -163,12 +163,12 @@
 		"ypos"		"105"
 		"wide"		"120"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"selected"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Rename Clips"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -184,8 +184,8 @@
 		"ypos"		"135"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -203,8 +203,8 @@
 		"ypos"		"135"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"4"
@@ -222,8 +222,8 @@
 		"ypos"		"135"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"5"
@@ -241,11 +241,11 @@
 		"ypos"		"135"
 		"wide"		"40"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"First:"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -260,11 +260,11 @@
 		"ypos"		"135"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Increment:"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -279,11 +279,11 @@
 		"ypos"		"135"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Num Digits:"
 		"textAlignment"		"east"
 		"dulltext"		"0"

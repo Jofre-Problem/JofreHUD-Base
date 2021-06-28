@@ -8,11 +8,11 @@
 		"ypos"		"cs-0.5"
 		"wide"		"467"
 		"tall"		"380"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"medal_width"			"20"
 		"avatar_width"			"65"
@@ -29,7 +29,7 @@
 		"wide"		"410"
 		"tall"		"279"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -42,7 +42,7 @@
 		"ypos"		"340"
 		"wide"		"144"
 		"tall"		"25"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
@@ -63,7 +63,7 @@
 		"zpos"				"1"
 		"wide"				"200"
 		"tall"				"25"
-		////"autoResize"		"0"
+		
 		"pinCorner"			"2"
 		"visible"			"1"
 		"enabled"			"1"
@@ -82,7 +82,7 @@
 		"ypos"		"380"
 		"wide"		"86"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"3"
 		"visible"		"0"
 		"enabled"		"1"

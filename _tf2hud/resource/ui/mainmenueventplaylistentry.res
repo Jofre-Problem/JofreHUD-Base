@@ -114,7 +114,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"proportionaltoparent"	"1"
 		"textinsetx"	"23"
 		"textinsety"	"9"

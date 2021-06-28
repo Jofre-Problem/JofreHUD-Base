@@ -199,7 +199,7 @@
 				"zpos"			"1"
 				"wide"			"200"
 				"tall"			"300"
-				//"pinCorner"		"0"	
+					
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"#TF_TradeUp_CommonStatClock_output"

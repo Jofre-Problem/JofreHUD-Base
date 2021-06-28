@@ -13,7 +13,7 @@
 		"wide"			"84"
 		"tall"			"64"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"paintbackground" "0"

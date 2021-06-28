@@ -11,8 +11,8 @@
 		"ypos"			"10"
 		"wide"			"f20"
 		"tall"			"30"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -32,8 +32,8 @@
 		"ypos"			"45"
 		"wide"			"f20"
 		"tall"			"135"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -51,10 +51,10 @@
 		"zpos"			"10"
 		"wide"			"24"
 		"tall"			"20"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -65,7 +65,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"Command"		"close"
 		"proportionaltoparent"	"1"
-		////"autoResize"		"0"
+		
 			
 		"paintbackground"	"0"
 			
@@ -103,7 +103,7 @@
 		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -148,10 +148,10 @@
 		"zpos"			"10"
 		"wide"			"30"
 		"tall"			"30"
-		//"autoResize"	"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"

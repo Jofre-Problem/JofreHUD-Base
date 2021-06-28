@@ -20,11 +20,11 @@
 		"ypos"		"c-205"
 		"wide"		"400"
 		"tall"		"410"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
 		"border"				"QuickplayBorder"
@@ -38,11 +38,11 @@
 		"ypos"		"c-200"
 		"wide"		"600"
 		"tall"		"400"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
 		"border"				"SteamWorkshopBorder"		
@@ -93,11 +93,11 @@
 		"zpos"		"0"
 		"wide"		"450"
 		"tall"		"400"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
 		"border"				"QuickplayBorder"							

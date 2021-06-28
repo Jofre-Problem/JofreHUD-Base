@@ -8,11 +8,11 @@
 		"ypos"		"249"
 		"wide"		"380"
 		"tall"		"74"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"InfoLabel"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"34"
 		"wide"		"340"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		""
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -40,11 +40,11 @@
 		"ypos"		"34"
 		"wide"		"340"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"CancelButton"
 	{
@@ -54,11 +54,11 @@
 		"ypos"		"34"
 		"wide"		"72"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -74,11 +74,11 @@
 		"ypos"		"104"
 		"wide"		"340"
 		"tall"		"2"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Label1"
 	{
@@ -88,11 +88,11 @@
 		"ypos"		"109"
 		"wide"		"340"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_LoadingDialog_ContentHosting"
 		"textAlignment"		"west"
 		"dulltext"		"1"
@@ -106,11 +106,11 @@
 		"ypos"		"136"
 		"wide"		"340"
 		"tall"		"56"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"SecondaryProgressLabel"
 	{
@@ -120,11 +120,11 @@
 		"ypos"		"90"
 		"wide"		"260"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Label"
 		"textAlignment"		"west"
 		"dulltext"		"1"
@@ -138,11 +138,11 @@
 		"ypos"		"114"
 		"wide"		"260"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"TimeRemainingLabel"
 	{
@@ -152,11 +152,11 @@
 		"ypos"		"108"
 		"wide"		"260"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		""
 		"textAlignment"		"west"
 		"dulltext"		"1"

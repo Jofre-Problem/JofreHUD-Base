@@ -27,7 +27,7 @@
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"0"
-			//"autoresize" "0"
+			
 			"skip_autoresize" "1"
 			
 			"model_xpos"	"2"
@@ -154,11 +154,11 @@
 			"ypos"		"50"
 			"wide"		"427"
 			"tall"		"225"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"PaintBackgroundType"	"0"
 			"bgcolor_override"		"0 0 0 0"
 		}
@@ -530,8 +530,8 @@
 		"zpos"			"128"		
 		"wide"			"300"
 		"tall"			"280"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 

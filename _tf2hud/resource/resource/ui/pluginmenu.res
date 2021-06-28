@@ -8,11 +8,11 @@
 		"ypos"		"60"
 		"wide"		"380"
 		"tall"		"350"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"text"
 	{
@@ -23,11 +23,11 @@
 		"wide"		"256"
 		"tall"		"300"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		//"tabPosition"		"0"
+		
 		"maxchars"		"-1"
 		"textAlignment"		"north-west"
 	}
@@ -39,8 +39,8 @@
 		"ypos"		"30"
 		"wide"		"152"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -60,8 +60,8 @@
 		"ypos"		"60"
 		"wide"		"152"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -81,8 +81,8 @@
 		"ypos"		"90"
 		"wide"		"152"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -102,8 +102,8 @@
 		"ypos"		"120"
 		"wide"		"152"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"4"
@@ -123,8 +123,8 @@
 		"ypos"		"150"
 		"wide"		"152"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"5"
@@ -144,8 +144,8 @@
 		"ypos"		"180"
 		"wide"		"152"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"6"
@@ -165,8 +165,8 @@
 		"ypos"		"210"
 		"wide"		"152"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"7"
@@ -186,8 +186,8 @@
 		"ypos"		"240"
 		"wide"		"152"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"8"

@@ -2,6 +2,6 @@
 {
 	"CloseButton"
 	{
-		//"tabPosition"		"0"
+		
 	}	
 }	

@@ -26,8 +26,8 @@
 		"zpos"			"0"
 		"wide"			"230"
 		"tall"			"90"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -47,11 +47,11 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#GameUI_Ok"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"

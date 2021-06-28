@@ -8,8 +8,8 @@
 		"ypos"		"126"
 		"wide"		"182"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"4"
@@ -28,8 +28,8 @@
 		"ypos"		"50"
 		"wide"		"160"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -47,8 +47,8 @@
 		"ypos"		"126"
 		"wide"		"160"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -66,8 +66,8 @@
 		"ypos"		"196"
 		"wide"		"160"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -85,8 +85,8 @@
 		"ypos"		"196"
 		"wide"		"182"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"5"
@@ -105,11 +105,11 @@
 		"ypos"		"230"
 		"wide"		"130"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_LaunchBenchmarkVideoPanel"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -125,8 +125,8 @@
 		"ypos"		"270"
 		"wide"		"225"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"6"
@@ -146,8 +146,8 @@
 		"ypos"		"50"
 		"wide"		"182"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -165,11 +165,11 @@
 		"ypos"		"117"
 		"wide"		"140"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Gamma"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -184,8 +184,8 @@
 		"ypos"		"52"
 		"wide"		"160"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -203,11 +203,11 @@
 		"ypos"		"24"
 		"wide"		"160"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Resolution"
 		"textAlignment"		"west"
 		"associate"		"Resolution"
@@ -223,11 +223,11 @@
 		"ypos"		"28"
 		"wide"		"160"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Renderer"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -242,11 +242,11 @@
 		"ypos"		"24"
 		"wide"		"160"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_DisplayMode"
 		"textAlignment"		"west"
 		"associate"		"DisplayModeCombo"
@@ -262,11 +262,11 @@
 		"ypos"		"100"
 		"wide"		"160"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_AspectRatio"
 		"textAlignment"		"west"
 		"associate"		"AspectRatio"
@@ -282,14 +282,14 @@
 		"ypos"		"240"
 		"wide"		"250"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_HDContent"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -310,11 +310,11 @@
 		"ypos"		"170"
 		"wide"		"160"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_VRMode"
 		"textAlignment"		"west"
 		"associate"		"VRMode"

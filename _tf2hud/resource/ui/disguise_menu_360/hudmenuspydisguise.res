@@ -27,8 +27,8 @@
 		"wide"			"300"
 		"tall"			"45"
 		//"tall_lodef"	"46"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Disguise_Title"
@@ -48,8 +48,8 @@
 		"zpos"			"3"
 		"wide"			"300"
 		//"tall_lodef"	"46"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Disguise_Title"
@@ -67,11 +67,11 @@
 		"zpos"			"0"
 		"wide"			"442"
 		"tall"			"87"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"	
+			
 		"fillcolor"		"0 0 0 150"
 		"PaintBackgroundType"	"0"
 	}
@@ -330,8 +330,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"38"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"Y"
@@ -350,8 +350,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"39"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Spy_Toggle"
@@ -370,8 +370,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"38"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"A"
@@ -390,8 +390,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"39"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Spy_Select_Disguise"
@@ -410,8 +410,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"38"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"B"
@@ -430,8 +430,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"39"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Cancel"
@@ -448,11 +448,11 @@
 		"zpos"			"1"
 		"wide"			"442"
 		"tall"			"30"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"	
+			
 		"fillcolor"		"0 0 0 190"
 		"PaintBackgroundType"	"0"
 	}

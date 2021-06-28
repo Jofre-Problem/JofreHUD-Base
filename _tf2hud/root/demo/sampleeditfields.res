@@ -9,11 +9,11 @@
 		"ypos"		"25"
 		"wide"		"200"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Label on top"
 		"textAlignment"		"west"
 	}
@@ -25,8 +25,8 @@
 		"ypos"		"50"
 		"wide"		"210"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -42,11 +42,11 @@
 		"ypos"		"100"
 		"wide"		"100"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Label at left"
 		"textAlignment"		"west"
 	}
@@ -58,8 +58,8 @@
 		"ypos"		"100"
 		"wide"		"130"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -75,11 +75,11 @@
 		"ypos"		"150"
 		"wide"		"50"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Disabled"
 		"textAlignment"		"west"
 	}
@@ -91,8 +91,8 @@
 		"ypos"		"150"
 		"wide"		"150"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
@@ -108,11 +108,11 @@
 		"ypos"		"200"
 		"wide"		"50"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Disabled"
 		"textAlignment"		"west"
 	}

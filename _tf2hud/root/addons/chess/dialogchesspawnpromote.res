@@ -8,11 +8,11 @@
 		"ypos"		"306"
 		"wide"		"250"
 		"tall"		"230"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"TextLabel"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"35"
 		"wide"		"225"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#Chess_PawnPromotion_Text"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -40,11 +40,11 @@
 		"ypos"		"84"
 		"wide"		"128"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#Chess_PromoteQueen"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -59,11 +59,11 @@
 		"ypos"		"115"
 		"wide"		"128"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#Chess_PromoteRook"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -78,11 +78,11 @@
 		"ypos"		"145"
 		"wide"		"128"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#Chess_PromoteBishop"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -97,11 +97,11 @@
 		"ypos"		"176"
 		"wide"		"128"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#Chess_PromoteKnight"
 		"textAlignment"		"west"
 		"dulltext"		"0"

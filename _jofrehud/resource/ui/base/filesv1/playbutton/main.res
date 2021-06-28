@@ -8,11 +8,11 @@
 		"ypos"		"168"
 		"wide"		"120"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Play"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -30,11 +30,11 @@
 		"zpos"			"3"
 		"wide"			"120"
 		"tall"			"25"
-		//"pinCorner"		"0"
-		//"autoResize"	"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#Replay_Watch"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
@@ -57,11 +57,11 @@
 		"wide"			"48"
 		"tall"			"48"
 		"zpos"			"3"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		""
 		"Command"		"play"
 		"sound_depressed"	"UI/buttonclick.wav"

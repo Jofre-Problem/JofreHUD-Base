@@ -8,7 +8,7 @@
 	{
 
 		"ControlName"		"WizardSubPanel"
-////"autoResize"		"0"
+
 		"fieldName"		"SubPanelFindBuddyComplete"
 
 		"xpos"		"5"
@@ -19,12 +19,12 @@
 
 		"tall"		"291"
 
-		//"autoResize"		"0"
+		
 
-		//"pinCorner"		"0"
+		
 
 		"visible"		"1"
-////"autoResize"		"0"
+
 		"enabled"		"1"
 
 		"tabPosition"		"1"
@@ -51,15 +51,15 @@
 
 		"tall"		"87"
 
-		//"autoResize"		"0"
+		
 
-		//"pinCorner"		"0"
+		
 
 		"visible"		"1"
 
 		"enabled"		"1"
 
-		//"tabPosition"		"0"
+		
 
 		"labelText"		"#TrackerUI_AuthRequestSent"
 

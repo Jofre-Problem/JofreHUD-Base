@@ -9,10 +9,10 @@
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"	"46 43 42 255"
@@ -122,7 +122,7 @@
 		"wide"			"20"
 		"tall"			"15"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
@@ -139,8 +139,8 @@
 		"zpos"			"1"
 		"wide"			"560"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 	}
@@ -187,8 +187,8 @@
 		"zpos"			"-1"
 		"wide"			"300"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "200 187 161 255"
@@ -205,8 +205,8 @@
 		"zpos"			"-1"
 		"wide"			"200"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -225,8 +225,8 @@
 		"zpos"			"-1"
 		"wide"			"300"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "200 187 161 255"
@@ -243,8 +243,8 @@
 		"zpos"			"-1"
 		"wide"			"300"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -262,8 +262,8 @@
 		"zpos"			"-1"
 		"wide"			"300"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -279,11 +279,11 @@
 		"zpos"			"1"
 		"wide"			"40"
 		"tall"			"40"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -340,8 +340,8 @@
 		"zpos"			"-1"
 		"wide"			"100"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -361,8 +361,8 @@
 		"zpos"			"-1"
 		"wide"			"300"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "200 187 161 255"
@@ -379,8 +379,8 @@
 		"zpos"			"-1"
 		"wide"			"300"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -398,8 +398,8 @@
 		"zpos"			"-1"
 		"wide"			"300"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -460,8 +460,8 @@
 		"zpos"			"-1"
 		"wide"			"100"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -481,8 +481,8 @@
 		"zpos"			"-1"
 		"wide"			"160"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"fgcolor_override" "200 187 161 255"
@@ -499,8 +499,8 @@
 		"zpos"			"-1"
 		"wide"			"225"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -518,8 +518,8 @@
 		"zpos"			"-1"
 		"wide"			"225"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"fgcolor_override" "117 107 94 255"
@@ -536,8 +536,8 @@
 		"zpos"			"-1"
 		"wide"			"225"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"fgcolor_override" "117 107 94 255"
@@ -572,8 +572,8 @@
 			"zpos"			"2"
 			"wide"			"140"
 			"tall"			"60"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"%attriblist%"
@@ -621,11 +621,11 @@
 		"zpos"			"20"
 		"wide"			"100"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#BackpackShowDetails"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -646,11 +646,11 @@
 		"zpos"			"1"
 		"wide"			"20"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"<"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -673,7 +673,7 @@
 		"wide"			"45"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
@@ -687,11 +687,11 @@
 		"zpos"			"1"
 		"wide"			"20"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		">"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -712,7 +712,7 @@
 		"tall"				"50"
 		"wrap"				"1"
 		"autoResize"		"1"
-		//"pinCorner"			"0"
+		
 		"visible"			"1"
 		"enabled"			"1"
 		"labelText"			"CHAT TEXT"
@@ -746,7 +746,7 @@
 		"wide"			"286"
 		"tall"			"15"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"0"
 		"enabled"		"1"
 	}
@@ -763,8 +763,8 @@
 		"zpos"			"1"
 		"wide"			"40"
 		"tall"			"40"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"fgcolor_override" "46 43 42 255"
@@ -781,8 +781,8 @@
 		"zpos"			"-1"
 		"wide"			"230"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
@@ -796,11 +796,11 @@
 		"zpos"			"20"
 		"wide"			"230"
 		"tall"			"40"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_TradeWindow_WaitingForTrade"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
@@ -822,11 +822,11 @@
 		"zpos"			"20"
 		"wide"			"100"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"

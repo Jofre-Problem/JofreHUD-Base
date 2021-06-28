@@ -8,11 +8,11 @@
 		"ypos"		"531"
 		"wide"		"324"
 		"tall"		"286"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"SysMenu"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"IDTextEntry"
 	{
@@ -36,8 +36,8 @@
 		"ypos"		"98"
 		"wide"		"200"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -53,8 +53,8 @@
 		"ypos"		"246"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"6"
@@ -73,8 +73,8 @@
 		"ypos"		"166"
 		"wide"		"96"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -93,8 +93,8 @@
 		"ypos"		"190"
 		"wide"		"102"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -113,8 +113,8 @@
 		"ypos"		"192"
 		"wide"		"50"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"4"
@@ -130,8 +130,8 @@
 		"ypos"		"192"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"5"
@@ -147,11 +147,11 @@
 		"ypos"		"78"
 		"wide"		"123"
 		"tall"		"16"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#Add_Ban_ID_IP_Label"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -165,8 +165,8 @@
 		"ypos"		"246"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"7"
@@ -185,11 +185,11 @@
 		"ypos"		"40"
 		"wide"		"35"
 		"tall"		"16"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#Add_Ban_Player"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -203,8 +203,8 @@
 		"ypos"		"38"
 		"wide"		"200"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
@@ -220,11 +220,11 @@
 		"ypos"		"144"
 		"wide"		"77"
 		"tall"		"16"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#Add_Ban_Duration_Label"
 		"textAlignment"		"west"
 		"dulltext"		"0"

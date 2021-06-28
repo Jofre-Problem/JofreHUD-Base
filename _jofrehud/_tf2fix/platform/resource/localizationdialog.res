@@ -8,11 +8,11 @@
 		"ypos"		"247"
 		"wide"		"781"
 		"tall"		"568"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 	}
 	"TokenList"
@@ -24,7 +24,7 @@
 		"wide"		"734"
 		"tall"		"458"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -38,11 +38,11 @@
 		"zpos"		"1"
 		"wide"		"105"
 		"tall"		"68"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"FileMenuButton"
 	{
@@ -52,11 +52,11 @@
 		"ypos"		"32"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"&File"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -71,7 +71,7 @@
 		"ypos"		"32"
 		"wide"		"96"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"1"
 		"visible"		"1"
 		"enabled"		"1"
@@ -90,8 +90,8 @@
 		"ypos"		"32"
 		"wide"		"180"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -109,11 +109,11 @@
 		"ypos"		"528"
 		"wide"		"180"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"
@@ -128,11 +128,11 @@
 		"ypos"		"528"
 		"wide"		"180"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"
@@ -147,11 +147,11 @@
 		"ypos"		"32"
 		"wide"		"70"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Show:"
 		"textAlignment"		"east"
 		"dulltext"		"1"
@@ -165,11 +165,11 @@
 		"ypos"		"32"
 		"wide"		"36"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"266"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -183,11 +183,11 @@
 		"ypos"		"32"
 		"wide"		"113"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Out-of-date tokens:"
 		"textAlignment"		"east"
 		"dulltext"		"1"
@@ -201,11 +201,11 @@
 		"ypos"		"528"
 		"wide"		"106"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Token name filter:"
 		"textAlignment"		"west"
 		"dulltext"		"1"
@@ -219,11 +219,11 @@
 		"ypos"		"528"
 		"wide"		"88"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Value filter:"
 		"textAlignment"		"east"
 		"dulltext"		"1"

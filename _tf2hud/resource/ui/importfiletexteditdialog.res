@@ -51,11 +51,11 @@
 		"ypos"		"325"
 		"wide"		"150"
 		"tall"		"25"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#Cancel"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -74,11 +74,11 @@
 		"ypos"		"325"
 		"wide"		"150"
 		"tall"		"25"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"center"
 		"dulltext"		"0"

@@ -12,7 +12,7 @@
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
-		//"tabPosition"			"0"
+		
 		"labelText"				"%progresscount%"
 		"textAlignment"			"north"
 		"dulltext"				"0"

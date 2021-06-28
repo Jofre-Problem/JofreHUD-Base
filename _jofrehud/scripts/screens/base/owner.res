@@ -8,11 +8,11 @@
 		"ypos"			"20"
 		"wide"			"240"
 		"tall"			"34"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"No Owner"
 		"textAlignment"	"center"
 		"dulltext"		"0"

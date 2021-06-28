@@ -28,8 +28,8 @@
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
@@ -59,8 +59,8 @@
 			"zpos"			"1"
 			"wide"			"200"
 			"tall"			"15"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -77,8 +77,8 @@
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"dulltext"		"0"
@@ -97,8 +97,8 @@
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"dulltext"		"0"
@@ -117,8 +117,8 @@
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"dulltext"		"0"
@@ -137,8 +137,8 @@
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"dulltext"		"0"
@@ -157,8 +157,8 @@
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"dulltext"		"0"
@@ -177,8 +177,8 @@
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"dulltext"		"0"
@@ -197,8 +197,8 @@
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"dulltext"		"0"
@@ -217,8 +217,8 @@
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"dulltext"		"0"
@@ -237,8 +237,8 @@
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"dulltext"		"0"
@@ -257,8 +257,8 @@
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"dulltext"		"0"
@@ -291,8 +291,8 @@
 			"zpos"			"1"
 			"wide"			"200"
 			"tall"			"15"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -309,8 +309,8 @@
 			"zpos"			"1"
 			"wide"			"85"
 			"tall"			"15"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -326,8 +326,8 @@
 			"zpos"			"1"
 			"wide"			"165"
 			"tall"			"15"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
@@ -342,11 +342,11 @@
 			"zpos"			"1"
 			"wide"			"90"
 			"tall"			"15"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#IT_Item_Add"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -366,11 +366,11 @@
 			"zpos"			"1"
 			"wide"			"20"
 			"tall"			"15"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#IT_Item_Remove"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -393,8 +393,8 @@
 			"zpos"			"1"
 			"wide"			"85"
 			"tall"			"15"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -410,8 +410,8 @@
 			"zpos"			"1"
 			"wide"			"165"
 			"tall"			"15"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
@@ -426,11 +426,11 @@
 			"zpos"			"1"
 			"wide"			"90"
 			"tall"			"15"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#IT_Item_Add"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -450,11 +450,11 @@
 			"zpos"			"1"
 			"wide"			"20"
 			"tall"			"15"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#IT_Item_Remove"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -477,8 +477,8 @@
 			"zpos"			"1"
 			"wide"			"85"
 			"tall"			"15"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -494,8 +494,8 @@
 			"zpos"			"1"
 			"wide"			"165"
 			"tall"			"15"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
@@ -510,11 +510,11 @@
 			"zpos"			"1"
 			"wide"			"90"
 			"tall"			"15"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#IT_Item_Add"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -534,11 +534,11 @@
 			"zpos"			"1"
 			"wide"			"20"
 			"tall"			"15"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#IT_Item_Remove"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -561,8 +561,8 @@
 			"zpos"			"1"
 			"wide"			"85"
 			"tall"			"15"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -578,8 +578,8 @@
 			"zpos"			"1"
 			"wide"			"165"
 			"tall"			"15"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
@@ -594,11 +594,11 @@
 			"zpos"			"1"
 			"wide"			"90"
 			"tall"			"15"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#IT_Item_Add"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -618,11 +618,11 @@
 			"zpos"			"1"
 			"wide"			"20"
 			"tall"			"15"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#IT_Item_Remove"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -659,8 +659,8 @@
 			"zpos"			"1"
 			"wide"			"200"
 			"tall"			"15"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -677,8 +677,8 @@
 			"zpos"			"1"
 			"wide"			"90"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"dulltext"		"0"
@@ -698,8 +698,8 @@
 			"zpos"			"1"
 			"wide"			"90"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"dulltext"		"0"
@@ -716,11 +716,11 @@
 			"zpos"			"1"
 			"wide"			"70"
 			"tall"			"15"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#IT_Bot_Add"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -742,8 +742,8 @@
 			"zpos"				"1"
 			"wide"				"100"
 			"tall"				"15"
-			////"autoResize"		"0"
-			//"pinCorner"			"0"
+			
+			
 			"visible"			"1"
 			"enabled"			"1"
 			"tabPosition"		"1"
@@ -771,11 +771,11 @@
 			"zpos"			"1"
 			"wide"			"120"
 			"tall"			"15"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#IT_Bot_RemoveAll"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -809,11 +809,11 @@
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#IT_ExportLoadout"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -833,11 +833,11 @@
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#IT_ImportLoadout"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -857,11 +857,11 @@
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#IT_ImportLast"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -882,11 +882,11 @@
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -906,11 +906,11 @@
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#IT_Ok"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -941,11 +941,11 @@
 			"ypos"			"0"
 			"wide"			"200"
 			"tall"			"26"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"textinsetx"	"25"
 			"textalignment" "center"
 			"use_proportional_insets" "1"
@@ -989,11 +989,11 @@
 		"zpos"			"25"
 		"wide"			"30"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"R"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"

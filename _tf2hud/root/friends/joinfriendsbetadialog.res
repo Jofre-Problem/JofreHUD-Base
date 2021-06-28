@@ -8,11 +8,11 @@
 		"ypos"		"429"
 		"wide"		"374"
 		"tall"		"314"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"settitlebarvisible"		"1"
 		"title"		"#Friends_JoinFriendsBeta_Title"
@@ -25,8 +25,8 @@
 		"ypos"		"270"
 		"wide"		"214"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -44,8 +44,8 @@
 		"ypos"		"221"
 		"wide"		"243"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -64,8 +64,8 @@
 		"ypos"		"270"
 		"wide"		"103"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -84,11 +84,11 @@
 		"ypos"		"55"
 		"wide"		"322"
 		"tall"		"77"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_JoinFriendsBeta_Info"
 		"textAlignment"		"north-west"
@@ -102,11 +102,11 @@
 		"ypos"		"195"
 		"wide"		"264"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_NameToUseInFriendsBeta"
 		"textAlignment"		"west"
@@ -120,8 +120,8 @@
 		"ypos"		"129"
 		"wide"		"344"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -139,11 +139,11 @@
 		"ypos"		"175"
 		"wide"		"340"
 		"tall"		"2"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 	}
 }

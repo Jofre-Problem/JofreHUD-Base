@@ -10,7 +10,7 @@
 		"wide"			"f0"
 		"tall"			"480"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 	}
@@ -27,8 +27,8 @@
 		"zpos"			"1"
 		"wide"			"225"
 		"tall"			"24"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%mapname%"
@@ -49,8 +49,8 @@
 		"zpos"			"1"
 		"wide"			"225"
 		"tall"			"24"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%gamemode%"
@@ -77,7 +77,7 @@
 		//"tall_hidef"			"200"
 		//"tall_lodef"	"200"
 		"autoResize"	"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"paintborder"	"0"
@@ -121,7 +121,7 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
@@ -144,7 +144,7 @@
 		"zpos"			"7"
 		"wide"			"25"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
@@ -166,7 +166,7 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
@@ -189,7 +189,7 @@
 		"zpos"			"7"
 		"wide"			"25"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
@@ -213,7 +213,7 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
@@ -235,7 +235,7 @@
 		"zpos"			"7"
 		"wide"			"25"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
@@ -255,8 +255,8 @@
 		"zpos"			"0"		
 		"wide"			"f0"
 		"tall"			"480"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fov"			"20"
@@ -289,11 +289,11 @@
 		"tall"			"50"
 		//"tall_lodef"			"74"
 		//"tall_hidef"			"65"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"	
+			
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
 		"PaintBackgroundType"	"0"

@@ -7,7 +7,7 @@
 		"fieldName"		"AddServerButton"
 		"ypos"		"244"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"3"
 		"enabled"		"1"
 		"tabPosition"		"2"

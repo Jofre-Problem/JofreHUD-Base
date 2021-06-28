@@ -36,7 +36,7 @@
 		"zpos"			"3"
 		"wide"			"124"
 		"tall"			"310"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
@@ -64,7 +64,7 @@
 		"zpos"			"3"
 		"wide"			"124"
 		"tall"			"310"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
@@ -95,11 +95,11 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_Cancel"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -121,8 +121,8 @@
 		"zpos"			"6"
 		"wide"			"450"
 		"tall"			"30"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		//"visible_lodef"		"0"
 		"enabled"		"1"
@@ -147,8 +147,8 @@
 		"zpos"			"1"
 		"wide"			"90"
 		"tall"			"30"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%bluecount%"
@@ -171,8 +171,8 @@
 		"zpos"			"1"
 		"wide"			"90"
 		"tall"			"30"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%redcount%"
@@ -192,8 +192,8 @@
 		"zpos"			"2"		
 		"wide"			"f0"
 		"tall"			"480"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fov"			"20"
@@ -265,8 +265,8 @@
 		"zpos"			"2"		
 		"wide"			"f0"
 		"tall"			"480"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fov"			"20"
@@ -338,8 +338,8 @@
 		"zpos"			"6"
 		"wide"			"105"
 		"tall"			"35"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#TF_Highlander_Mode"
@@ -360,8 +360,8 @@
 		"zpos"			"6"
 		"wide"			"105"
 		"tall"			"35"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#TF_Highlander_Mode"
@@ -382,8 +382,8 @@
 		"zpos"			"6"
 		"wide"			"105"
 		"tall"			"35"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#TF_Teams_Full"
@@ -404,8 +404,8 @@
 		"zpos"			"6"
 		"wide"			"105"
 		"tall"			"35"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#TF_Teams_Full"

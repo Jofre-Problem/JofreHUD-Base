@@ -15,7 +15,7 @@
 	//	"wide"		"150"
 	//	"tall"		"15"
 	//	"zpos"		"1"
-	//	//"tabPosition"		"0"
+	//	
 		"labelText"		"#GameUI_LoadingDialog_ContentHosting"
 	//	"dulltext"		"1"
 	//	"brighttext"		"0"

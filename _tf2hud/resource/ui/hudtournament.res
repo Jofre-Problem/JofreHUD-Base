@@ -72,8 +72,8 @@
 			"zpos"			"0"
 			"wide"			"60"
 			"tall"			"60"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"0"
 			"enabled"		"1"
 			"image"			"competitive/competitive_logo_laurel"
@@ -124,8 +124,8 @@
 				"zpos"			"5"
 				"wide"			"50"
 				"tall"			"8"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"labelText"		"%playername%"
 				"textAlignment"	"north-west"
@@ -274,8 +274,8 @@
 				"zpos"			"-1"
 				"wide"			"16"
 				"tall"			"16"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"0"
 				"enabled"		"1"
 				"image"			"../HUD/tournament_panel_brown"
@@ -316,8 +316,8 @@
 				"zpos"			"0"
 				"wide"			"12"
 				"tall"			"12"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"0"
 				"enabled"		"1"
 				"image"			"hud/checkmark"
@@ -354,8 +354,8 @@
 				"zpos"			"5"
 				"wide"			"23"
 				"tall"			"10"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"west"
@@ -382,8 +382,8 @@
 				"zpos"			"6"
 				"wide"			"25"
 				"tall"			"15"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"labelText"		"%chargeamount%"
 				"textAlignment"	"north"
@@ -414,8 +414,8 @@
 				"zpos"			"5"
 				"wide"			"50"
 				"tall"			"8"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"labelText"		"%specindex%"
 				"textAlignment"	"north-west"
@@ -440,8 +440,8 @@
 		"zpos"			"-1"
 		"wide"			"250"
 		"tall"			"55"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../HUD/tournament_panel_brown"
@@ -482,8 +482,8 @@
 		"zpos"			"1"
 		"wide"			"240"
 		"tall"			"19"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -518,8 +518,8 @@
 		"zpos"			"-1"
 		"wide"			"120"
 		"tall"			"16"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../HUD/tournament_panel_blu"
@@ -558,8 +558,8 @@
 		"zpos"			"1"
 		"wide"			"65"
 		"tall"			"15"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -594,8 +594,8 @@
 		"zpos"			"1"
 		"wide"			"65"
 		"tall"			"15"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -630,8 +630,8 @@
 		"zpos"			"-1"
 		"wide"			"120"
 		"tall"			"16"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../HUD/tournament_panel_red"
@@ -670,8 +670,8 @@
 		"zpos"			"1"
 		"wide"			"65"
 		"tall"			"15"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -705,8 +705,8 @@
 		"zpos"			"1"
 		"wide"			"65"
 		"tall"			"15"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -741,8 +741,8 @@
 		"zpos"			"1"
 		"wide"			"250"
 		"tall"			"35"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -781,8 +781,8 @@
 		"zpos"			"-1"
 		"wide"			"250"
 		"tall"			"17"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../HUD/tournament_panel_brown"
@@ -819,8 +819,8 @@
 		"wide"			"250"
 		"tall"			"10"
 		"zpos"			"1"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -869,8 +869,8 @@
 		"wide"			"250"
 		"tall"			"10"
 		"zpos"			"2"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -922,8 +922,8 @@
 		"zpos"			"3"
 		"wide"			"40"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"0"
 		"labelText"		"Y"
@@ -963,8 +963,8 @@
 		"zpos"			"1"
 		"wide"			"40"
 		"tall"			"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../HUD/color_panel_red"
@@ -999,8 +999,8 @@
 		"wide"			"40"
 		"tall"			"40"
 		"zpos"			"5"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -1033,8 +1033,8 @@
 		"wide"			"40"
 		"tall"			"40"
 		"zpos"			"4"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"wrap"			"0"

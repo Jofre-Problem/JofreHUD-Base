@@ -8,11 +8,11 @@
 		"ypos"		"382"
 		"wide"		"480"
 		"tall"		"270"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"
 	}
@@ -24,11 +24,11 @@
 		"ypos"		"0"
 		"wide"		"468"
 		"tall"		"3"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_bottomGrip"
 	{
@@ -38,11 +38,11 @@
 		"ypos"		"267"
 		"wide"		"462"
 		"tall"		"3"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_leftGrip"
 	{
@@ -52,11 +52,11 @@
 		"ypos"		"6"
 		"wide"		"3"
 		"tall"		"258"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_rightGrip"
 	{
@@ -66,11 +66,11 @@
 		"ypos"		"6"
 		"wide"		"3"
 		"tall"		"252"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_tlGrip"
 	{
@@ -80,11 +80,11 @@
 		"ypos"		"0"
 		"wide"		"6"
 		"tall"		"6"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_trGrip"
 	{
@@ -94,11 +94,11 @@
 		"ypos"		"0"
 		"wide"		"6"
 		"tall"		"6"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_blGrip"
 	{
@@ -108,11 +108,11 @@
 		"ypos"		"264"
 		"wide"		"6"
 		"tall"		"6"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_brGrip"
 	{
@@ -122,11 +122,11 @@
 		"ypos"		"258"
 		"wide"		"12"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_caption"
 	{
@@ -136,11 +136,11 @@
 		"ypos"		"0"
 		"wide"		"470"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_minimize"
 	{
@@ -150,11 +150,11 @@
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"0"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -170,11 +170,11 @@
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"1"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -190,11 +190,11 @@
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"o"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -211,11 +211,11 @@
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"r"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -231,11 +231,11 @@
 		"ypos"		"8"
 		"wide"		"7"
 		"tall"		"7"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
@@ -250,11 +250,11 @@
 		"ypos"		"235"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Record"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -271,11 +271,11 @@
 		"ypos"		"235"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Cancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -292,11 +292,11 @@
 		"ypos"		"25"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Choose Dem:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -311,11 +311,11 @@
 		"ypos"		"25"
 		"wide"		"250"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"
@@ -330,11 +330,11 @@
 		"ypos"		"50"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Choose Map:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -349,11 +349,11 @@
 		"ypos"		"50"
 		"wide"		"250"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"
@@ -368,11 +368,11 @@
 		"ypos"		"50"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Choose Map"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -389,11 +389,11 @@
 		"ypos"		"75"
 		"wide"		"145"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Record Camera Position"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -410,11 +410,11 @@
 		"ypos"		"75"
 		"wide"		"145"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Record Camera Angles"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -431,11 +431,11 @@
 		"ypos"		"75"
 		"wide"		"140"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Record Camera FOV"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -452,11 +452,11 @@
 		"ypos"		"100"
 		"wide"		"145"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"View From Player"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -473,11 +473,11 @@
 		"ypos"		"100"
 		"wide"		"175"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Snap Player To Tool Camera"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -494,11 +494,11 @@
 		"ypos"		"100"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Enable noclip"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -515,11 +515,11 @@
 		"ypos"		"125"
 		"wide"		"120"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Record World"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -536,11 +536,11 @@
 		"ypos"		"125"
 		"wide"		"150"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Record Stationary Ents"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -557,11 +557,11 @@
 		"ypos"		"125"
 		"wide"		"150"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Record Sprites"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -578,11 +578,11 @@
 		"ypos"		"150"
 		"wide"		"120"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Record Sounds"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -599,11 +599,11 @@
 		"ypos"		"150"
 		"wide"		"130"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Record Narration"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -620,11 +620,11 @@
 		"ypos"		"150"
 		"wide"		"150"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"From Start of Sequence"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -641,11 +641,11 @@
 		"ypos"		"175"
 		"wide"		"119"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Sequence Name"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -660,11 +660,11 @@
 		"ypos"		"175"
 		"wide"		"200"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"
@@ -679,11 +679,11 @@
 		"ypos"		"200"
 		"wide"		"119"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Shot Name"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -698,11 +698,11 @@
 		"ypos"		"200"
 		"wide"		"200"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"
@@ -717,11 +717,11 @@
 		"ypos"		"128"
 		"wide"		"268"
 		"tall"		"380"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"
 	}
@@ -733,11 +733,11 @@
 		"ypos"		"0"
 		"wide"		"300"
 		"tall"		"420"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"
 	}

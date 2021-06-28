@@ -2,7 +2,7 @@
 {
 	"Frame"
 	{
-		//"tabPosition"		"0"
+		
 		"enabled"		"0"
 		"visible"		"1"
 		"tall"		"280"

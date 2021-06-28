@@ -11,12 +11,12 @@
 		"ypos"						"0"
 		"wide"						"500"
 		"tall"						"40"
-		//"autoResize"				"0"
+		
 		"visible"					"1"
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"settitlebarvisible"		"0"
-		"pinCorner"					"0"
+		
 		"ProgressBarColor" 	"200 184 148 255" [$WIN32]
 		"PaintBackgroundType"	"2"
 	}

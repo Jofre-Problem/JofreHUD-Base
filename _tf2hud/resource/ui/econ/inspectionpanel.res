@@ -128,8 +128,8 @@
 		"zpos"				"100"
 		"wide"				"60"
 		"tall"				"25"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"visible"			"1"
 		"enabled"			"1"
 		"proportionaltoparent"	"1"
@@ -145,11 +145,11 @@
 		{
 			"wide"				"19"
 			"tall"				"19"
-			////"autoResize"		"0"
+			
 			"pinCorner"			"2"
 			"visible"			"1"
 			"enabled"			"1"
-			//"tabPosition"		"0"
+			
 			"labelText"			""
 			"textAlignment"		"south-west"
 			"scaleImage"		"1"
@@ -259,11 +259,11 @@
 			"zpos"			"1005"
 			"wide"			"8"
 			"tall"			"8"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"0"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -312,8 +312,8 @@
 			"zpos"				"100"
 			"wide"				"200"
 			"tall"				"15"
-			////"autoResize"		"0"
-			//"pinCorner"			"0"
+			
+			
 			"visible"			"1"
 			"enabled"			"1"
 			"textHidden"		"0"
@@ -350,8 +350,8 @@
 			"ypos"			"10"
 			"wide"			"80"
 			"tall"			"15"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override"	"235 227 203 255"
@@ -377,8 +377,8 @@
 			"zpos"				"100"
 			"wide"				"200"
 			"tall"				"15"
-			////"autoResize"		"0"
-			//"pinCorner"			"0"
+			
+			
 			"visible"			"1"
 			"enabled"			"1"
 			"textHidden"		"0"
@@ -420,8 +420,8 @@
 			}
 			"wide"			"80"
 			"tall"			"15"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override"	"235 227 203 255"
@@ -484,8 +484,8 @@
 			}
 			"wide"			"80"
 			"tall"			"15"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override"	"235 227 203 255"
@@ -518,10 +518,10 @@
 			"zpos"			"10"
 			"wide"			"70"
 			"tall"			"20"
-			//"autoResize"	"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#TF_ItemPreview_PaintkitSeed"
 			"actionsignallevel" "2"
 			"use_proportional_insets" "1"
@@ -558,10 +558,10 @@
 			"zpos"			"10"
 			"wide"			"115"
 			"tall"			"20"
-			//"autoResize"	"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"actionsignallevel" "2"
 			"default"		"1"
 			"NumericInputOnly"	"1"

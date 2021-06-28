@@ -8,8 +8,8 @@
 	//	"ypos"			"186"
 		"wide"			"64"
 		"tall"			"16"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"labelText"		""		
 		"textAlignment"		"west"
 		"visible"		"1"
@@ -23,8 +23,8 @@
 		"ypos"			"81"
 		"wide"			"64"
 		"tall"			"16"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"labelText"		""		
 		"textAlignment"		"west"
 		"visible"		"1"
@@ -38,8 +38,8 @@
 	//	"ypos"			"186"
 		"wide"			"64"
 		"tall"			"16"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"labelText"		""		
 		"textAlignment"		"west"
 		"visible"		"1"
@@ -53,8 +53,8 @@
 		"ypos"			"301"
 		"wide"			"64"
 		"tall"			"16"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"labelText"		""		
 		"textAlignment"		"west"
 		"visible"		"1"

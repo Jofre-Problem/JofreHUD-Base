@@ -23,8 +23,8 @@
 		"zpos"			"1"		
 		"wide"			"f0"
 		"tall"			"f0"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"paintborder"	"0"
@@ -53,8 +53,8 @@
 			"zpos"			"1"		
 			"wide"			"140"
 			"tall"			"100"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"useparentbg"		"1"
@@ -74,8 +74,8 @@
 			"zpos"			"2"
 			"wide"			"100"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"%itemname%"
@@ -94,8 +94,8 @@
 			"zpos"			"2"
 			"wide"			"100"
 			"tall"			"60"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"%attriblist%"
@@ -114,8 +114,8 @@
 			"zpos"			"2"
 			"wide"			"100"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"0"
 			"enabled"		"1"
 			"labelText"		"%collectionname%"
@@ -134,8 +134,8 @@
 			"zpos"			"2"
 			"wide"			"100"
 			"tall"			"60"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"0"
 			"enabled"		"1"
 			"labelText"		"%collectionlist%"
@@ -168,8 +168,8 @@
 			"zpos"			"2"
 			"wide"			"35"
 			"tall"			"10"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"#ItemPanelEquipped"
@@ -203,8 +203,8 @@
 			"zpos"			"2"
 			"wide"			"10"
 			"tall"			"10"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"0"
 			"enabled"		"1"
 			"labelText"		""
@@ -224,8 +224,8 @@
 			"zpos"			"2"
 			"wide"			"14"
 			"tall"			"10"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"0"
 			"enabled"		"1"
 			"labelText"		""
@@ -245,8 +245,8 @@
 			"zpos"			"2"
 			"wide"			"20"
 			"tall"			"10"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"0"
 			"enabled"		"1"
 			"labelText"		""
@@ -263,8 +263,8 @@
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"0"
@@ -278,8 +278,8 @@
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"0"
@@ -293,8 +293,8 @@
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"0"
@@ -308,8 +308,8 @@
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"0"

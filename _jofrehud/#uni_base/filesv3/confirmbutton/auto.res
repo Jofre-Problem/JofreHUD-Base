@@ -2,6 +2,6 @@
 {
 	"ConfirmButton"
 	{
-		////"autoResize"		"0"
+		
 	}	
 }	

@@ -8,11 +8,11 @@
 		"ypos"		"250"
 		"wide"		"300"
 		"tall"		"154"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#BxCreateAnimationSet"
 	}
@@ -25,10 +25,10 @@
 		"wide"		"200"
 		"tall"		"24"
 		"autoResize"		"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"
@@ -43,11 +43,11 @@
 		"ypos"		"93"
 		"wide"		"200"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Create Model At Camera"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -63,11 +63,11 @@
 		"ypos"		"36"
 		"wide"		"200"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -82,11 +82,11 @@
 		"ypos"		"124"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#vgui_ok"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -104,11 +104,11 @@
 		"ypos"		"124"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#vgui_Cancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -126,11 +126,11 @@
 		"ypos"		"66"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Name:"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -145,11 +145,11 @@
 		"ypos"		"36"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Model Name:"
 		"textAlignment"		"east"
 		"dulltext"		"0"

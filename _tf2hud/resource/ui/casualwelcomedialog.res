@@ -7,11 +7,11 @@
 		// Auto-centered by GenericConfirmDialog
 		"wide"			"564"
 		"tall"			"200" // Bottom of confirm button + 10 margin
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
@@ -32,8 +32,8 @@
 		"zpos"			"1"
 		"wide"			"p0.9"
 		"tall"			"14"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"centerwrap"	"1"
@@ -53,8 +53,8 @@
 		"zpos"			"1"
 		"wide"			"p0.9"
 		"tall"			"14"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "TanLight"
@@ -73,8 +73,8 @@
 		"zpos"			"1"
 		"wide"			"p0.9"
 		"tall"			"11"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -94,8 +94,8 @@
 		"zpos"			"1"
 		"wide"			"p0.9"
 		"tall"			"44" // Size 11 font - 4 rows
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -116,8 +116,8 @@
 		"zpos"			"1"
 		"wide"			"p0.9"
 		"tall"			"11"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -137,8 +137,8 @@
 		"zpos"			"1"
 		"wide"			"p0.9"
 		"tall"			"44" // Size 11 font - 4 rows
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -156,11 +156,11 @@
 		"wide"			"150"
 		"tall"			"25"
 		"default"		"1"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_MM_TakeUITour"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
@@ -189,11 +189,11 @@
 		"wide"			"150"
 		"tall"			"25"
 		"default"		"1"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_Competitive_Welcome_Confirm"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"

@@ -9,10 +9,10 @@
 		"wide"		"421"
 		"tall"		"365"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"AnimationSetBrowser"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"34"
 		"wide"		"414"
 		"tall"		"330"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"FilterList"
 	{
@@ -37,10 +37,10 @@
 		"wide"		"415"
 		"tall"		"24"
 		"autoResize"		"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"

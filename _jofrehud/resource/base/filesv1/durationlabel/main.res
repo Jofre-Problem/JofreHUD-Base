@@ -8,8 +8,8 @@
 		"zpos"			"0"
 		"wide"			"200"
 		"tall"			"60"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%duration%"

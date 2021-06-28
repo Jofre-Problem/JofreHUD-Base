@@ -8,8 +8,8 @@
 		"ypos"		"134"
 		"wide"		"240"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -25,8 +25,8 @@
 		"ypos"		"184"
 		"wide"		"240"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -42,8 +42,8 @@
 		"ypos"		"234"
 		"wide"		"240"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"4"
@@ -59,8 +59,8 @@
 		"ypos"		"84"
 		"wide"		"240"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -76,11 +76,11 @@
 		"ypos"		"160"
 		"wide"		"240"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#TrackerUI_FirstName"
 		"textAlignment"		"west"
 		"associate"		"FirstNameEdit"
@@ -95,11 +95,11 @@
 		"ypos"		"110"
 		"wide"		"240"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#TrackerUI_UserName"
 		"textAlignment"		"west"
 		"associate"		"UserNameEdit"
@@ -114,11 +114,11 @@
 		"ypos"		"210"
 		"wide"		"240"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#TrackerUI_LastName"
 		"textAlignment"		"west"
 		"associate"		"LastNameEdit"
@@ -133,11 +133,11 @@
 		"ypos"		"60"
 		"wide"		"240"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#TrackerUI_EMailAddress"
 		"textAlignment"		"west"
 		"associate"		"EmailEdit"
@@ -152,11 +152,11 @@
 		"ypos"		"22"
 		"wide"		"430"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#TrackerUI_EnterInformationAboutFriend"
 		"textAlignment"		"north-west"
 		"dulltext"		"1"

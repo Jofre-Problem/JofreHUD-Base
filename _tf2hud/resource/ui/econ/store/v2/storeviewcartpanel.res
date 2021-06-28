@@ -8,11 +8,11 @@
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"settitlebarvisible"	"1"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"				"46 43 42 0"
@@ -84,7 +84,7 @@
 				"wide"			"16"
 				"tall"			"10"
 				"autoResize"	"1"
-				//"pinCorner"		"0"
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"%quantity%"
@@ -114,11 +114,11 @@
 				"zpos"			"5"
 				"wide"			"100"
 				"tall"			"25"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
-				//"tabPosition"	"0"
+				
 				"labelText"		"#Store_Remove"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
@@ -142,7 +142,7 @@
 				"wide"			"95"
 				"tall"			"60"
 				"autoResize"	"1"
-				//"pinCorner"		"0"
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"%price%"
@@ -161,7 +161,7 @@
 				"tall"			"15"
 				"zpos"			"15"
 				"autoResize"	"1"
-				//"pinCorner"		"0"
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"%preview_item%"
@@ -251,7 +251,7 @@
 			"wide"			"350"
 			"tall"			"20"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -284,7 +284,7 @@
 			"wide"			"600"
 			"tall"			"240"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"0"
 			"enabled"		"1"
 		}
@@ -383,7 +383,7 @@
 						"wide"			"425"
 						"tall"			"15"
 						"autoResize"	"1"
-						//"pinCorner"		"0"
+						
 						"visible"		"1"
 						"enabled"		"1"
 					}
@@ -400,7 +400,7 @@
 						"wide"			"425"
 						"tall"			"12"
 						"autoResize"	"1"
-						//"pinCorner"		"0"
+						
 						"visible"		"1"
 						"enabled"		"1"
 						"fgcolor_override" "130 120 104 255"
@@ -418,7 +418,7 @@
 						"wide"			"425"
 						"tall"			"12"
 						"autoResize"	"1"
-						//"pinCorner"		"0"
+						
 						"visible"		"1"
 						"enabled"		"1"
 						"fgcolor_override" "130 120 104 255"
@@ -436,7 +436,7 @@
 						"wide"			"100"
 						"tall"			"60"
 						"autoResize"	"1"
-						//"pinCorner"		"0"
+						
 						"visible"		"1"
 						"enabled"		"1"
 						"labelText"		"%totalprice%"
@@ -457,11 +457,11 @@
 		"zpos"			"2"
 		"wide"			"200"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#Store_ContinueShopping"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -482,11 +482,11 @@
 		"zpos"			"2"
 		"wide"			"130"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#Store_Checkout"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"

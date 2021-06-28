@@ -2,6 +2,6 @@
 {
 	"OKButton"
 	{
-		////"autoResize"		"0"
+		
 	}	
 }	

@@ -8,11 +8,11 @@
 		"ypos"					"267"
 		"wide"					"250"
 		"tall"					"480"
-		//"autoResize"			"0"
-		//"pinCorner"				"0"
+		
+		
 		"visible"				"1"
 		"enabled"				"1"
-		//"tabPosition"			"0"
+		
 		"settitlebarvisible"	"1"
 		"title"					"Color Correction Tools"
 	}
@@ -24,10 +24,10 @@
 		"ypos"			"32"
 		"wide"			"250"
 		"tall"			"448"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 	}
 }

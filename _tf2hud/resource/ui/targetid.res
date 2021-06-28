@@ -9,8 +9,8 @@
 		"zpos"			"-1"
 		"wide"			"252"
 		"tall"	 		"50"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/color_panel_brown"
@@ -36,8 +36,8 @@
 		"zpos"			"-1"
 		"wide"			"252"
 		"tall"	 		"30"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/color_panel_blu"
@@ -58,8 +58,8 @@
 		"zpos"			"-1"
 		"wide"			"252"
 		"tall"	 		"30"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/color_panel_red"
@@ -85,8 +85,8 @@
 		"zpos"			"1"
 		"wide"			"640"
 		"tall"			"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%targetname%"
@@ -109,8 +109,8 @@
 		"zpos"			"1"
 		"wide"			"280"
 		"tall"			"15"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%targetdata%"
@@ -241,8 +241,8 @@
 			"zpos"			"1"
 			"wide"			"640"
 			"tall"			"24"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"%movekey%"

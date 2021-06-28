@@ -9,11 +9,11 @@
 		"zpos"			"1000"
 		"wide"			"f0"
 		"tall"			"480"		
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"settitlebarvisible"	"0"
 		
 		"itempanel_xpos"	"15"
@@ -61,11 +61,11 @@
 		"wide"		"f0"
 		"tall"		"480"
 		"zpos"		"-1"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"bgcolor_override"	"0 0 0 210"
 	}
 	
@@ -77,11 +77,11 @@
 		"ypos"			"85"
 		"wide"			"500"
 		"tall"			"350"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"bgcolor_override"	"63 59 55 0"
 		
 		"OutterPanelBG"
@@ -93,8 +93,8 @@
 			"zpos"			"-8"
 			"wide"			"500"
 			"tall"			"310"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../HUD/tournament_panel_brown"
@@ -116,8 +116,8 @@
 			"zpos"			"-1"
 			"wide"			"480"
 			"tall"			"230"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			
@@ -148,11 +148,11 @@
 			"zpos"			"-2"
 			"wide"			"70"
 			"tall"			"50"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"PLAYER"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -207,11 +207,11 @@
 			"zpos"			"-3"
 			"wide"			"74"
 			"tall"			"54"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"bgcolor_override"	"142 132 121 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -225,11 +225,11 @@
 			"zpos"			"-6"
 			"wide"			"72"
 			"tall"			"54"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"0"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"bgcolor_override"	"239 128 73 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -243,11 +243,11 @@
 			"zpos"			"10"
 			"wide"			"157"
 			"tall"			"47"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"0"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"bgcolor_override"	"239 128 73 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -261,11 +261,11 @@
 			"zpos"			"-5"
 			"wide"			"70"
 			"tall"			"54"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -279,11 +279,11 @@
 			"zpos"			"-5"
 			"wide"			"70"
 			"tall"			"54"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -297,11 +297,11 @@
 			"zpos"			"-5"
 			"wide"			"70"
 			"tall"			"54"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -315,11 +315,11 @@
 			"zpos"			"-5"
 			"wide"			"70"
 			"tall"			"54"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -333,11 +333,11 @@
 			"zpos"			"-5"
 			"wide"			"70"
 			"tall"			"54"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -351,11 +351,11 @@
 			"zpos"			"-5"
 			"wide"			"70"
 			"tall"			"54"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -369,11 +369,11 @@
 			"zpos"			"-4"
 			"wide"			"480"
 			"tall"			"5"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"bgcolor_override"	"0 0 0 128"
 		}
 
@@ -391,8 +391,8 @@
 			"zpos"			"2"
 			"wide"			"240"
 			"tall"			"140"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"mouseinputenabled" "0"
@@ -407,11 +407,11 @@
 			"zpos"			"1"
 			"wide"			"120"
 			"tall"			"17"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"0"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#TF_PVE_Quick_Equip_Bottle"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -432,11 +432,11 @@
 			"zpos"			"1"
 			"wide"			"120"
 			"tall"			"17"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"0"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#OpenGeneralLoadout"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -457,8 +457,8 @@
 			"zpos"			"0"
 			"wide"			"130"
 			"tall"			"65"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			
@@ -479,8 +479,8 @@
 			"zpos"			"2"
 			"wide"			"120"
 			"tall"			"65"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -494,8 +494,8 @@
 			"zpos"			"0"
 			"wide"			"130"
 			"tall"			"130"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			
@@ -511,8 +511,8 @@
 			"zpos"			"1"
 			"wide"			"130"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			
@@ -531,8 +531,8 @@
 			"zpos"			"2"
 			"wide"			"130"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -549,8 +549,8 @@
 			"zpos"			"2"
 			"wide"			"120"
 			"tall"			"105"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -567,8 +567,8 @@
 			"ypos"			"280"
 			"wide"			"245"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor"		"121 195 58 255"
@@ -585,8 +585,8 @@
 			"ypos"			"280"
 			"wide"			"500"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor"		"tanlight"
@@ -601,11 +601,11 @@
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"17"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#TF_PVE_UpgradeCancel"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -626,11 +626,11 @@
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"17"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"0"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#TF_PVE_UpgradeDone"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -651,11 +651,11 @@
 			"zpos"			"1"
 			"wide"			"120"
 			"tall"			"17"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"0"
 			"enabled"		"0"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#TF_PVE_UpgradeRespec"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -677,8 +677,8 @@
 		"zpos"			"10"
 		"wide"			"500"
 		"tall"			"40"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override"	"63 59 55 0"
@@ -692,8 +692,8 @@
 			"zpos"			"-3"
 			"wide"			"500"
 			"tall"			"40"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../HUD/tournament_panel_brown"
@@ -717,8 +717,8 @@
 			"zpos"			"11"
 			"wide"			"460"
 			"tall"			"40"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -734,11 +734,11 @@
 			"zpos"			"12"
 			"wide"			"20"
 			"tall"			"23"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		" > "
 			"textAlignment"	"center"
 			"dulltext"		"0"

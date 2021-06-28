@@ -21,10 +21,10 @@
 		"zpos"		"-100"
 		"wide"		"f0"
 		"tall"		"f0"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"bgcolor_override"	"0 0 0 255"
 	}
 
@@ -66,11 +66,11 @@
 		"ypos"		"c-218"
 		"wide"		"55"
 		"tall"		"25"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		""
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -91,11 +91,11 @@
 		"ypos"		"c-218"
 		"wide"		"55"
 		"tall"		"25"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		""
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -132,7 +132,7 @@
 		"zpos"			"1"
 		"wide"			"19"
 		"tall"			"15"
-		//"autoResize"	"0"
+		
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"
@@ -180,8 +180,8 @@
 		"ypos"		"60"
 		"wide"		"190"
 		"tall"		"15"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"labelText"			"#TF_PublishFile_NoFileSelected"
 		"font"		"ImportToolSmallest"
 		"fillcolor"	"255 0 0 255"
@@ -197,7 +197,7 @@
 		"zpos"			"1"
 		"wide"			"19"
 		"tall"			"15"
-		//"autoResize"	"0"
+		
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"
@@ -231,7 +231,7 @@
 		"ypos"			"77"
 		"wide"			"15"
 		"tall"			"15"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
@@ -280,8 +280,8 @@
 		"ypos"		"77"
 		"wide"		"190"
 		"tall"		"15"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"labelText"			"#TF_PublishFile_Optional"
 		"font"		"ImportToolSmallest"
 		"fillcolor"	"255 0 0 255"
@@ -311,8 +311,8 @@
 		"ypos"				"90"
 		"wide"				"175"
 		"tall"				"12"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"editable"			"0"
 		"visible"			"1"
 	}
@@ -342,8 +342,8 @@
 		"ypos"			"103"
 		"wide"			"30"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"dulltext"		"0"
@@ -361,7 +361,7 @@
 		"zpos"			"1"
 		"wide"			"19"
 		"tall"			"15"
-		//"autoResize"	"0"
+		
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"
@@ -395,7 +395,7 @@
 		"ypos"			"125"
 		"wide"			"15"
 		"tall"			"15"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
@@ -444,8 +444,8 @@
 		"ypos"		"125"
 		"wide"		"190"
 		"tall"		"15"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"labelText"			"#TF_PublishFile_Optional"
 		"font"		"ImportToolSmallest"
 		"fillcolor"	"255 0 0 255"
@@ -474,8 +474,8 @@
 		"ypos"		"145"
 		"wide"		"35"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -512,8 +512,8 @@
 		"ypos"		"160"
 		"wide"		"35"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -550,8 +550,8 @@
 		"ypos"		"175"
 		"wide"		"35"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -588,8 +588,8 @@
 		"ypos"		"190"
 		"wide"		"35"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -630,8 +630,8 @@
 		"ypos"			"203"
 		"wide"			"30"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"dulltext"		"0"
@@ -665,8 +665,8 @@
 		"ypos"			"223"
 		"wide"			"30"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"dulltext"		"0"
@@ -701,8 +701,8 @@
 		"ypos"			"243"
 		"wide"			"30"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"dulltext"		"0"
@@ -734,8 +734,8 @@
 		"ypos"		"265"
 		"wide"		"35"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
@@ -773,8 +773,8 @@
 		"ypos"		"280"
 		"wide"		"35"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
@@ -797,8 +797,8 @@
 		"ypos"		"280"
 		"wide"		"35"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
@@ -821,8 +821,8 @@
 		"ypos"		"280"
 		"wide"		"35"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
@@ -862,8 +862,8 @@
 		"ypos"			"293"
 		"wide"			"30"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"dulltext"		"0"
@@ -897,8 +897,8 @@
 		"ypos"			"293"
 		"wide"			"30"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"dulltext"		"0"
@@ -933,8 +933,8 @@
 		"ypos"			"293"
 		"wide"			"30"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"dulltext"		"0"
@@ -966,8 +966,8 @@
 		"ypos"				"315"
 		"wide"				"175"
 		"tall"				"12"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"editable"			"0"
 		"visible"			"1"
 	}
@@ -996,8 +996,8 @@
 		"ypos"				"330"
 		"wide"				"175"
 		"tall"				"12"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"editable"			"0"
 		"visible"			"1"
 		"enabled"			"0"
@@ -1026,8 +1026,8 @@
 		"ypos"		"345"
 		"wide"		"35"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
@@ -1050,8 +1050,8 @@
 		"ypos"		"345"
 		"wide"		"35"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
@@ -1074,8 +1074,8 @@
 		"ypos"		"345"
 		"wide"		"35"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
@@ -1115,8 +1115,8 @@
 		"ypos"			"357"
 		"wide"			"30"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"dulltext"		"0"
@@ -1134,7 +1134,7 @@
 		"zpos"			"1"
 		"wide"			"19"
 		"tall"			"15"
-		//"autoResize"	"0"
+		
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"
@@ -1168,7 +1168,7 @@
 		"ypos"			"380"
 		"wide"			"15"
 		"tall"			"15"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
@@ -1217,8 +1217,8 @@
 		"ypos"		"380"
 		"wide"		"190"
 		"tall"		"15"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"labelText"			"#TF_PublishFile_Optional"
 		"font"		"ImportToolSmallest"
 		"fillcolor"	"255 0 0 255"
@@ -1248,8 +1248,8 @@
 		"ypos"		"400"
 		"wide"		"35"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
@@ -1272,8 +1272,8 @@
 		"ypos"		"400"
 		"wide"		"35"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
@@ -1296,8 +1296,8 @@
 		"ypos"		"400"
 		"wide"		"35"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
@@ -1320,11 +1320,11 @@
 		"ypos"		"420"
 		"wide"		"175"
 		"tall"		"25"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -1343,11 +1343,11 @@
 		"ypos"		"420"
 		"wide"		"175"
 		"tall"		"25"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#Cancel"
 		"textAlignment"		"center"
 		"dulltext"		"0"

@@ -18,8 +18,8 @@
         "zpos"          "1"
         "wide"          "400"
         "tall"          "25"
-    // // "autoResize"    "0"
-     //   //"pinCorner"     "0"
+    // 
+     //  
       //  "visible"       "1"
     //    "enabled"       "1"
         "fgcolor_override" "200 80 60 255"
@@ -50,7 +50,7 @@
                 "ypos"          "0"
                 "wide"          "350"
                 "tall"          "30"
-               // "autoResize"    "0"
+               
                 "pinCorner"     "3"
                 "visible"       "1"
                 "enabled"       "1"
@@ -105,8 +105,8 @@
             "font"          "HudFontSmallBold"
             "textAlignment" "north"
             "zpos"          "-1"
-           // "autoResize"    "0"
-            //"pinCorner"     "0"
+           
+           
             "visible"       "1"
             "enabled"       "1"
             "fgcolor_override" "200 187 161 255"
@@ -120,7 +120,7 @@
             "zpos"          "1"
             "wide"          "200"
             "tall"          "25"
-           // "autoResize"    "0"
+           
             "pinCorner"     "3"
             "visible"       "1"
             "enabled"       "1"
@@ -143,7 +143,7 @@
             "zpos"          "1"
             "wide"          "200"
             "tall"          "25"
-           // "autoResize"    "0"
+           
             "pinCorner"     "3"
             "visible"       "1"
             "enabled"       "1"
@@ -179,8 +179,8 @@
             "ypos"          "10"
             "wide"          "400"
             "tall"          "15"
-           // "autoResize"    "0"
-            //"pinCorner"     "0"
+           
+           
             "visible"       "1"
             "enabled"       "1"
             "fgcolor_override" "200 187 161 255"
@@ -198,8 +198,8 @@
             "zpos"          "1"
             "wide"          "400"
             "tall"          "30"
-           // "autoResize"    "0"
-            //"pinCorner"     "0"
+           
+           
             "visible"       "1"
             "enabled"       "1"
             "wrap"          "1"

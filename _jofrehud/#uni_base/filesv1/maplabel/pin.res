@@ -2,6 +2,6 @@
 {
 	"MapLabel"
 	{
-		//"pinCorner"		"0"
+		
 	}	
 }	

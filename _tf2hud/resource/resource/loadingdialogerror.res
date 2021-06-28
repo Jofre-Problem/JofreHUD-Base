@@ -8,11 +8,11 @@
 		"ypos"		"249"
 		"wide"		"380"
 		"tall"		"436"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"InfoLabel"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"34"
 		"wide"		"340"
 		"tall"		"348"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_ParseBaseline"
 		"textAlignment"		"north"
 		"dulltext"		"0"
@@ -41,11 +41,11 @@
 		"ypos"		"88"
 		"wide"		"260"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"CancelButton"
 	{
@@ -55,11 +55,11 @@
 		"ypos"		"388"
 		"wide"		"72"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -75,11 +75,11 @@
 		"ypos"		"104"
 		"wide"		"340"
 		"tall"		"2"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Label1"
 	{
@@ -89,11 +89,11 @@
 		"ypos"		"109"
 		"wide"		"340"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_LoadingDialog_ContentHosting"
 		"textAlignment"		"west"
 		"dulltext"		"1"
@@ -107,10 +107,10 @@
 		"ypos"		"136"
 		"wide"		"340"
 		"tall"		"56"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 }

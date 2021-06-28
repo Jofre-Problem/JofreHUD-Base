@@ -8,11 +8,11 @@
 		"ypos"		"22"
 		"wide"		"575"
 		"tall"		"380"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"BoardGo"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"35"
 		"wide"		"320"
 		"tall"		"320"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"SummaryLabel"
 	{
@@ -36,11 +36,11 @@
 		"ypos"		"25"
 		"wide"		"200"
 		"tall"		"48"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SteamAddOn_ReviewMoves"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -55,10 +55,10 @@
 		"wide"		"200"
 		"tall"		"250"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
@@ -71,11 +71,11 @@
 		"ypos"		"330"
 		"wide"		"75"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SteamAddOn_Close"
 		"textAlignment"		"west"
 		"dulltext"		"0"

@@ -8,11 +8,11 @@
 		"ypos"		"357"
 		"wide"		"400"
 		"tall"		"300"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#GameUI_CommentaryDialogTitle"
 	}
@@ -24,11 +24,11 @@
 		"ypos"		"44"
 		"wide"		"320"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GAMEUI_Commentary_LabelOn"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -44,11 +44,11 @@
 		"ypos"		"76"
 		"wide"		"320"
 		"tall"		"96"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GAMEUI_Commentary_WhatIs"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -63,11 +63,11 @@
 		"ypos"		"170"
 		"wide"		"306"
 		"tall"		"64"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GAMEUI_Commentary_HowToUse_Attack"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -82,11 +82,11 @@
 		"ypos"		"256"
 		"wide"		"88"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#vgui_ok"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -104,11 +104,11 @@
 		"ypos"		"256"
 		"wide"		"88"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#vgui_cancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"

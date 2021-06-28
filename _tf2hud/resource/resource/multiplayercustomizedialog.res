@@ -8,11 +8,11 @@
 		"ypos"		"159"
 		"wide"		"540"
 		"tall"		"358"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Cancel"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"322"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -42,11 +42,11 @@
 		"ypos"		"322"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -62,11 +62,11 @@
 		"ypos"		"238"
 		"wide"		"90"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Advanced"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -82,11 +82,11 @@
 		"ypos"		"56"
 		"wide"		"96"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_PlayerName"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -100,11 +100,11 @@
 		"ypos"		"80"
 		"wide"		"120"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"-1"
@@ -117,11 +117,11 @@
 		"ypos"		"172"
 		"wide"		"160"
 		"tall"		"50"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Secondary Color Slider"
 	{
@@ -131,11 +131,11 @@
 		"ypos"		"234"
 		"wide"		"160"
 		"tall"		"50"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"High Quality Models"
 	{
@@ -145,11 +145,11 @@
 		"ypos"		"264"
 		"wide"		"174"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_HighModels"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -164,11 +164,11 @@
 		"ypos"		"114"
 		"wide"		"160"
 		"tall"		"58"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"SpraypaintList"
 	{
@@ -178,11 +178,11 @@
 		"ypos"		"58"
 		"wide"		"104"
 		"tall"		"44"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"SpraypaintColor"
 	{
@@ -192,11 +192,11 @@
 		"ypos"		"180"
 		"wide"		"104"
 		"tall"		"46"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"ModelImage"
 	{
@@ -206,11 +206,11 @@
 		"ypos"		"62"
 		"wide"		"164"
 		"tall"		"200"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"LogoImage"
 	{
@@ -220,11 +220,11 @@
 		"ypos"		"108"
 		"wide"		"64"
 		"tall"		"64"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"topHorizLeft"
 	{
@@ -234,11 +234,11 @@
 		"ypos"		"276"
 		"wide"		"29"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"402"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -252,11 +252,11 @@
 		"ypos"		"136"
 		"wide"		"29"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"296"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -270,11 +270,11 @@
 		"ypos"		"316"
 		"wide"		"29"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"296"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -288,11 +288,11 @@
 		"ypos"		"335"
 		"wide"		"29"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"296"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -306,10 +306,10 @@
 		"ypos"		"159"
 		"wide"		"285"
 		"tall"		"465"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 }

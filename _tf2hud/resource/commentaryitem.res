@@ -8,8 +8,8 @@
 		"ypos"		"0"
 		"wide"		"300"
 		"tall"		"140"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 	}
@@ -55,8 +55,8 @@
 		"ypos"		"26"
 		"wide"		"180"
 		"tall"		"64"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"textAlignment"	"north-west"
 		"font"	"DefaultSmall"
 	}

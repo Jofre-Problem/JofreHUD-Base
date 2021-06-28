@@ -8,11 +8,11 @@
 		"ypos"			"40"
 		"wide"			"f0"
 		"tall"			"480"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"	"46 43 42 255"
@@ -83,7 +83,7 @@
 			"wide"			"16"
 			"tall"			"10"
 			"autoResize"	"1"
-			//"pinCorner"		"0"	
+				
 			"visible"		"0"
 			"enabled"		"1"
 			"use_item_sounds" "1"		
@@ -133,7 +133,7 @@
 			"wide"			"16"
 			"tall"			"10"
 			"autoResize"	"1"
-			//"pinCorner"		"0"	
+				
 			"visible"		"0"
 			"enabled"		"1"
 			"use_item_sounds" "1"		
@@ -169,8 +169,8 @@
 			"zpos"			"2"
 			"wide"			"140"
 			"tall"			"60"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"%attriblist%"
@@ -189,11 +189,11 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"<"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -217,7 +217,7 @@
 		"wide"			"40"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
@@ -232,11 +232,11 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		">"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -256,8 +256,8 @@
 		"zpos"			"-11"
 		"wide"			"110"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"border"		"StorePreviewTabSelected"
@@ -271,11 +271,11 @@
 			"zpos"			"1"
 			"wide"			"110"
 			"tall"			"20"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#Store_PreviewItem"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -300,8 +300,8 @@
 		"zpos"			"-11"
 		"wide"			"110"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"border"		"StorePreviewTabSelected"
@@ -315,11 +315,11 @@
 			"zpos"			"1"
 			"wide"			"110"
 			"tall"			"20"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#Store_DetailsItem"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -375,7 +375,7 @@
 		"wide"			"303"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -391,8 +391,8 @@
 		"zpos"			"25"
 		"wide"			"165"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"border"		"StoreAddToCart"
@@ -406,11 +406,11 @@
 			"zpos"			"1"
 			"wide"			"165"
 			"tall"			"20"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#Store_AddToCart"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -439,7 +439,7 @@
 		"wide"			"60"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 	}
@@ -453,8 +453,8 @@
 		"zpos"				"1"
 		"wide"				"150"
 		"tall"				"20"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"1"
@@ -482,11 +482,11 @@
 		"zpos"			"25"
 		"wide"			"120"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#Store_TryItem"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -511,7 +511,7 @@
 		"wide"			"200"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 	}
@@ -525,11 +525,11 @@
 		"zpos"			"5"
 		"wide"			"130"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#Store_Checkout"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -603,11 +603,11 @@
 		"zpos"			"25"
 		"wide"			"100"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"RELOADSCHEME"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
@@ -628,11 +628,11 @@
 		"zpos"			"100"
 		"wide"			"20"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"?"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -678,8 +678,8 @@
 			"ypos"			"10"
 			"wide"			"260"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -697,8 +697,8 @@
 			"ypos"			"45"
 			"wide"			"260"
 			"tall"			"85"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -714,11 +714,11 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -764,8 +764,8 @@
 			"zpos"			"-1"
 			"wide"			"300"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
@@ -779,11 +779,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -853,8 +853,8 @@
 			"ypos"			"10"
 			"wide"			"260"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -872,8 +872,8 @@
 			"ypos"			"45"
 			"wide"			"260"
 			"tall"			"85"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -889,11 +889,11 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -936,11 +936,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -986,8 +986,8 @@
 			"zpos"			"-1"
 			"wide"			"300"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
@@ -1001,11 +1001,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -1075,8 +1075,8 @@
 			"ypos"			"10"
 			"wide"			"260"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1094,8 +1094,8 @@
 			"ypos"			"45"
 			"wide"			"260"
 			"tall"			"135"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1111,11 +1111,11 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -1158,11 +1158,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -1205,11 +1205,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -1255,8 +1255,8 @@
 			"zpos"			"-1"
 			"wide"			"300"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
@@ -1297,8 +1297,8 @@
 			"ypos"			"10"
 			"wide"			"260"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1316,8 +1316,8 @@
 			"ypos"			"45"
 			"wide"			"260"
 			"tall"			"135"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1333,11 +1333,11 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -1380,11 +1380,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -1427,11 +1427,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -1477,8 +1477,8 @@
 			"zpos"			"-1"
 			"wide"			"300"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
@@ -1519,8 +1519,8 @@
 			"ypos"			"10"
 			"wide"			"260"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1538,8 +1538,8 @@
 			"ypos"			"45"
 			"wide"			"260"
 			"tall"			"135"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1555,11 +1555,11 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -1602,11 +1602,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -1649,11 +1649,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -1699,8 +1699,8 @@
 			"zpos"			"-1"
 			"wide"			"300"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
@@ -1741,8 +1741,8 @@
 			"ypos"			"10"
 			"wide"			"260"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1760,8 +1760,8 @@
 			"ypos"			"45"
 			"wide"			"260"
 			"tall"			"135"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1777,11 +1777,11 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -1824,11 +1824,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -1871,11 +1871,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -1921,8 +1921,8 @@
 			"zpos"			"-1"
 			"wide"			"300"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
@@ -1963,8 +1963,8 @@
 			"ypos"			"10"
 			"wide"			"260"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1982,8 +1982,8 @@
 			"ypos"			"45"
 			"wide"			"260"
 			"tall"			"135"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1999,11 +1999,11 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -2046,11 +2046,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -2093,11 +2093,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -2143,8 +2143,8 @@
 			"zpos"			"-1"
 			"wide"			"300"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
@@ -2185,8 +2185,8 @@
 			"ypos"			"10"
 			"wide"			"260"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -2204,8 +2204,8 @@
 			"ypos"			"45"
 			"wide"			"260"
 			"tall"			"135"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -2221,11 +2221,11 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -2268,11 +2268,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -2315,11 +2315,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -2365,8 +2365,8 @@
 			"zpos"			"-1"
 			"wide"			"300"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
@@ -2407,8 +2407,8 @@
 			"ypos"			"10"
 			"wide"			"260"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -2426,8 +2426,8 @@
 			"ypos"			"45"
 			"wide"			"260"
 			"tall"			"135"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -2443,11 +2443,11 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -2490,11 +2490,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -2537,11 +2537,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -2587,8 +2587,8 @@
 			"zpos"			"-1"
 			"wide"			"300"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
@@ -2628,8 +2628,8 @@
 			"ypos"			"10"
 			"wide"			"260"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -2647,8 +2647,8 @@
 			"ypos"			"45"
 			"wide"			"260"
 			"tall"			"135"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -2664,11 +2664,11 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -2711,11 +2711,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -2762,8 +2762,8 @@
 			"zpos"			"-1"
 			"wide"			"300"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"

@@ -8,11 +8,11 @@
 		"ypos"		"c-200"
 		"wide"		"600"
 		"tall"		"400"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"0"
 		"border"				"SteamWorkshopBorder"
 	}
@@ -26,11 +26,11 @@
 		"zpos"		"-100"
 		"wide"		"600"
 		"tall"		"400"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"bgcolor_override"	"0 0 0 255"
 	}
 
@@ -57,11 +57,11 @@
 		"ypos"		"355"
 		"wide"		"600"
 		"tall"		"45"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"bgcolor_override"	"57 52 49 255"
 	}
 
@@ -73,11 +73,11 @@
 		"ypos"		"15"
 		"wide"		"250"
 		"tall"		"25"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#TF_ImportFile_Title"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -94,11 +94,11 @@
 		"ypos"		"0"
 		"wide"		"200"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#TF_ImportFile_NameLabel"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -115,8 +115,8 @@
 		"ypos"		"20"
 		"wide"		"190"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -139,11 +139,11 @@
 		"ypos"		"43"
 		"wide"		"150"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#TF_ImportFile_TypeLabel"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -161,8 +161,8 @@
 		"ypos"				"63"
 		"wide"				"190"
 		"tall"				"20"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"editable"			"0"
 		"visible"			"1"
 	}
@@ -175,8 +175,8 @@
 		"ypos"				"85"
 		"wide"				"190"
 		"tall"				"40"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"editable"			"0"
 		"visible"			"1"
 
@@ -188,11 +188,11 @@
 			"ypos"		"0"
 			"wide"		"150"
 			"tall"		"20"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"labelText"		"#TF_ImportFile_EquipRegionLabel"
 			"textAlignment"		"west"
 			"dulltext"		"0"
@@ -210,8 +210,8 @@
 			"ypos"				"20"
 			"wide"				"190"
 			"tall"				"20"
-			////"autoResize"		"0"
-			//"pinCorner"			"0"
+			
+			
 			"editable"			"0"
 			"visible"			"1"
 		}
@@ -225,11 +225,11 @@
 		"ypos"		"0"
 		"wide"		"200"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#TF_ImportFile_WorkshopIDLabel"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -246,8 +246,8 @@
 		"ypos"		"20"
 		"wide"		"190"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -270,11 +270,11 @@
 		"ypos"		"43"
 		"wide"		"200"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"TF_English Name"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -291,8 +291,8 @@
 		"ypos"		"63"
 		"wide"		"190"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -318,8 +318,8 @@
 		"ypos"			"85"
 		"wide"			"80"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"dulltext"		"0"
@@ -338,8 +338,8 @@
 		"ypos"			"85"
 		"wide"			"80"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"dulltext"		"0"
@@ -369,7 +369,7 @@
 			"zpos"			"2"
 			"wide"			"15"
 			"tall"			"15"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"textinsetx"	"15"
 			"use_proportional_insets" "1"
@@ -405,7 +405,7 @@
 			"zpos"			"2"
 			"wide"			"19"
 			"tall"			"15"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"3"
 			"textinsetx"	"15"
 			"use_proportional_insets" "1"
@@ -452,11 +452,11 @@
 			"zpos"		"2"
 			"wide"		"105"
 			"tall"		"15"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"labelText"		"#TF_ImportFile_IconLabel"
 			"textAlignment"		"west"
 			"dulltext"		"0"
@@ -486,11 +486,11 @@
 			"ypos"		"-3"
 			"wide"		"100"
 			"tall"		"25"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"labelText"		"#TF_ImportFile_Models"
 			"textAlignment"		"west"
 			"dulltext"		"0"
@@ -738,11 +738,11 @@
 			"ypos"		"-3"
 			"wide"		"100"
 			"tall"		"25"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"labelText"		"#TF_ImportFile_Bodygroups"
 			"textAlignment"		"west"
 			"dulltext"		"0"
@@ -762,8 +762,8 @@
 			"ypos"			"18"
 			"wide"			"150"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"0"
 			"dulltext"		"0"
@@ -784,8 +784,8 @@
 			"ypos"			"38"
 			"wide"			"150"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"0"
 			"dulltext"		"0"
@@ -806,8 +806,8 @@
 			"ypos"			"58"
 			"wide"			"150"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"0"
 			"dulltext"		"0"
@@ -828,8 +828,8 @@
 			"ypos"			"78"
 			"wide"			"150"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"0"
 			"dulltext"		"0"
@@ -850,8 +850,8 @@
 			"ypos"			"98"
 			"wide"			"150"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"0"
 			"dulltext"		"0"
@@ -872,8 +872,8 @@
 			"ypos"			"118"
 			"wide"			"150"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"0"
 			"dulltext"		"0"
@@ -894,8 +894,8 @@
 			"ypos"			"138"
 			"wide"			"150"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"0"
 			"dulltext"		"0"
@@ -916,8 +916,8 @@
 			"ypos"			"158"
 			"wide"			"150"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"0"
 			"dulltext"		"0"
@@ -938,8 +938,8 @@
 			"ypos"			"178"
 			"wide"			"150"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"0"
 			"dulltext"		"0"
@@ -982,8 +982,8 @@
 				"ypos"		"-3"
 				"wide"		"150"
 				"tall"		"25"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"labelText"		"#TF_ImportFile_LOD0"
 				"textAlignment"		"west"
 				"font"		"HudFontSmallestBold"
@@ -996,7 +996,7 @@
 				"ypos"			"2"
 				"wide"			"15"
 				"tall"			"15"
-				//"autoResize"	"0"
+				
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
@@ -1030,7 +1030,7 @@
 				"ypos"			"2"
 				"wide"			"19"
 				"tall"			"15"
-				//"autoResize"	"0"
+				
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
@@ -1064,8 +1064,8 @@
 				"ypos"		"20"
 				"wide"		"150"
 				"tall"		"15"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"labelText"			"#TF_PublishFile_NoFileSelected"
 				"font"		"HudFontSmallest"
 			}
@@ -1077,8 +1077,8 @@
 				"ypos"		"35"
 				"wide"		"150"
 				"tall"		"15"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"labelText"			""
 				"font"		"HudFontSmallest"
 			}
@@ -1104,8 +1104,8 @@
 				"ypos"		"-3"
 				"wide"		"150"
 				"tall"		"25"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"labelText"		"#TF_ImportFile_LOD1"
 				"textAlignment"		"west"
 				"font"		"HudFontSmallestBold"
@@ -1119,7 +1119,7 @@
 				"ypos"			"2"
 				"wide"			"15"
 				"tall"			"15"
-				//"autoResize"	"0"
+				
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
@@ -1154,7 +1154,7 @@
 				"ypos"			"2"
 				"wide"			"19"
 				"tall"			"15"
-				//"autoResize"	"0"
+				
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
@@ -1189,8 +1189,8 @@
 				"ypos"		"20"
 				"wide"		"150"
 				"tall"		"15"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"labelText"			"#TF_PublishFile_NoFileSelected"
 				"font"		"HudFontSmallest"
 				"enabled"		"0"
@@ -1203,8 +1203,8 @@
 				"ypos"		"35"
 				"wide"		"150"
 				"tall"		"15"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"labelText"			""
 				"font"		"HudFontSmallest"
 				"enabled"		"0"
@@ -1231,8 +1231,8 @@
 				"ypos"		"-3"
 				"wide"		"150"
 				"tall"		"25"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"labelText"		"#TF_ImportFile_LOD2"
 				"textAlignment"		"west"
 				"font"		"HudFontSmallestBold"
@@ -1246,7 +1246,7 @@
 				"ypos"			"2"
 				"wide"			"15"
 				"tall"			"15"
-				//"autoResize"	"0"
+				
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
@@ -1281,7 +1281,7 @@
 				"ypos"			"2"
 				"wide"			"19"
 				"tall"			"15"
-				//"autoResize"	"0"
+				
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
@@ -1316,8 +1316,8 @@
 				"ypos"		"20"
 				"wide"		"150"
 				"tall"		"15"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"labelText"			"#TF_PublishFile_NoFileSelected"
 				"font"		"HudFontSmallest"
 				"enabled"		"0"
@@ -1330,8 +1330,8 @@
 				"ypos"		"35"
 				"wide"		"150"
 				"tall"		"15"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"labelText"			""
 				"font"		"HudFontSmallest"
 				"enabled"		"0"
@@ -1347,11 +1347,11 @@
 			"zpos"			"1"
 			"wide"			"92"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#TF_ImportFile_EditQC"
 			"textAlignment"	"center"
 			"dulltext"		"0"
@@ -1383,11 +1383,11 @@
 			"ypos"		"-3"
 			"wide"		"100"
 			"tall"		"25"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"labelText"		"#TF_ImportFile_Skins"
 			"textAlignment"		"west"
 			"dulltext"		"0"
@@ -1404,11 +1404,11 @@
 			"ypos"		"3"
 			"wide"		"60"
 			"tall"		"12"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"0"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"labelText"		"#TF_ImportFile_SwapVMT"
 			"textAlignment"		"center"
 			"dulltext"		"0"
@@ -1428,8 +1428,8 @@
 			"ypos"				"18"
 			"wide"				"181"
 			"tall"				"20"
-			////"autoResize"		"0"
-			//"pinCorner"			"0"
+			
+			
 			"editable"			"0"
 			"visible"			"1"
 		}
@@ -1453,8 +1453,8 @@
 				"ypos"		"3"
 				"wide"		"240"
 				"tall"		"15"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"textAlignment"		"west"
 				"font"		"HudFontSmallestBold"
 			}
@@ -1466,7 +1466,7 @@
 				"ypos"			"3"
 				"wide"			"19"
 				"tall"			"15"
-				//"autoResize"	"0"
+				
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
@@ -1500,8 +1500,8 @@
 				"ypos"		"18"
 				"wide"		"190"
 				"tall"		"15"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"labelText"			"#TF_PublishFile_NoFileSelected"
 				"font"		"HudFontSmallest"
 			}
@@ -1526,8 +1526,8 @@
 				"ypos"		"3"
 				"wide"		"240"
 				"tall"		"15"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"textAlignment"		"west"
 				"font"		"HudFontSmallestBold"
 			}
@@ -1539,7 +1539,7 @@
 				"ypos"			"3"
 				"wide"			"19"
 				"tall"			"15"
-				//"autoResize"	"0"
+				
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
@@ -1573,8 +1573,8 @@
 				"ypos"		"18"
 				"wide"		"190"
 				"tall"		"15"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"labelText"			"#TF_PublishFile_NoFileSelected"
 				"font"		"HudFontSmallest"
 				"fillcolor"	"255 0 0 255"
@@ -1600,8 +1600,8 @@
 				"ypos"		"3"
 				"wide"		"240"
 				"tall"		"15"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"textAlignment"		"west"
 				"font"		"HudFontSmallestBold"
 			}
@@ -1613,7 +1613,7 @@
 				"ypos"			"3"
 				"wide"			"19"
 				"tall"			"15"
-				//"autoResize"	"0"
+				
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
@@ -1647,8 +1647,8 @@
 				"ypos"		"18"
 				"wide"		"190"
 				"tall"		"15"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"labelText"			"#TF_PublishFile_NoFileSelected"
 				"font"		"HudFontSmallest"
 			}
@@ -1673,8 +1673,8 @@
 				"ypos"		"3"
 				"wide"		"240"
 				"tall"		"15"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"textAlignment"		"west"
 				"font"		"HudFontSmallestBold"
 			}
@@ -1686,7 +1686,7 @@
 				"ypos"			"3"
 				"wide"			"19"
 				"tall"			"15"
-				//"autoResize"	"0"
+				
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
@@ -1720,8 +1720,8 @@
 				"ypos"		"18"
 				"wide"		"190"
 				"tall"		"15"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"labelText"			"#TF_PublishFile_NoFileSelected"
 				"font"		"HudFontSmallest"
 			}
@@ -1738,8 +1738,8 @@
 			"ypos"			"190"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"0"
 			"enabled"		"1"
 			"dulltext"		"0"
@@ -1760,8 +1760,8 @@
 			"ypos"			"190"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"0"
 			"enabled"		"1"
 			"dulltext"		"0"
@@ -1780,8 +1780,8 @@
 		"ypos"		"105"
 		"wide"		"150"
 		"tall"		"25"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"labelText"		"#TF_ImportFile_AnimationProp"
 		"textAlignment"		"west"
 		"font"		"HudFontSmallestBold"
@@ -1820,8 +1820,8 @@
 				"ypos"		"-3"
 				"wide"		"150"
 				"tall"		"25"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"labelText"		"#TF_ImportFile_AnimationSource"
 				"textAlignment"		"west"
 				"font"		"HudFontSmallestBold"
@@ -1834,7 +1834,7 @@
 				"ypos"			"2"
 				"wide"			"15"
 				"tall"			"15"
-				//"autoResize"	"0"
+				
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
@@ -1868,7 +1868,7 @@
 				"ypos"			"2"
 				"wide"			"19"
 				"tall"			"15"
-				//"autoResize"	"0"
+				
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
@@ -1902,8 +1902,8 @@
 				"ypos"		"20"
 				"wide"		"150"
 				"tall"		"15"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"labelText"			"#TF_PublishFile_NoFileSelected"
 				"font"		"HudFontSmallest"
 			}
@@ -1915,8 +1915,8 @@
 				"ypos"		"35"
 				"wide"		"150"
 				"tall"		"15"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"labelText"			""
 				"font"		"HudFontSmallest"
 			}
@@ -1943,8 +1943,8 @@
 				"ypos"		"-3"
 				"wide"		"150"
 				"tall"		"25"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"labelText"		"#TF_ImportFile_AnimationVCD"
 				"textAlignment"		"west"
 				"font"		"HudFontSmallestBold"
@@ -1957,7 +1957,7 @@
 				"ypos"			"2"
 				"wide"			"15"
 				"tall"			"15"
-				//"autoResize"	"0"
+				
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
@@ -1991,7 +1991,7 @@
 				"ypos"			"2"
 				"wide"			"19"
 				"tall"			"15"
-				//"autoResize"	"0"
+				
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
@@ -2025,8 +2025,8 @@
 				"ypos"		"20"
 				"wide"		"150"
 				"tall"		"15"
-				////"autoResize"		"0"
-				//"pinCorner"		"0"
+				
+				
 				"labelText"			"#TF_PublishFile_NoFileSelected"
 				"font"		"HudFontSmallest"
 			}
@@ -2040,8 +2040,8 @@
 			"ypos"		"120"
 			"wide"		"120"
 			"tall"		"15"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"labelText"			"#TF_ImportFile_AnimationDuration"
 			"font"		"HudFontSmallest"
 		}
@@ -2057,8 +2057,8 @@
 			"ypos"			"140"
 			"wide"			"80"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"dulltext"		"0"
@@ -2076,8 +2076,8 @@
 			"wide"		"60"
 			"tall"		"15"
 			"proportionaltoparent"	"1"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"labelText"			"Start Time:"
 			"font"		"HudFontSmallest"
 		}
@@ -2091,8 +2091,8 @@
 			"wide"		"40"
 			"tall"		"20"
 			"proportionaltoparent"	"1"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"0"
 			"tabPosition"		"1"
@@ -2116,11 +2116,11 @@
 			"zpos"			"1"
 			"wide"			"92"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labelText"		"#TF_ImportFile_EditQCI"
 			"textAlignment"	"center"
 			"dulltext"		"0"
@@ -2140,7 +2140,7 @@
 		"ypos"			"370"
 		"wide"			"25"
 		"tall"			"15"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
@@ -2175,11 +2175,11 @@
 		"ypos"			"365"
 		"wide"			"100"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_Close"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
@@ -2197,11 +2197,11 @@
 		"ypos"		"365"
 		"wide"		"100"
 		"tall"		"25"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#TF_ImportFile_Preview"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -2220,11 +2220,11 @@
 		"ypos"		"365"
 		"wide"		"100"
 		"tall"		"25"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#TF_ImportFile_Verify"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -2243,11 +2243,11 @@
 		"ypos"		"365"
 		"wide"		"100"
 		"tall"		"25"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#TF_ImportFile_Build"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -2283,7 +2283,7 @@
 		"wide"			"340"
 		"tall"			"313"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"0"
 		"enabled"		"1"
 		

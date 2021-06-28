@@ -34,7 +34,7 @@
 			"border"		"OuterShadowBorder"
 			"proportionaltoparent"	"1"
 
-			//"pinCorner"		"0"
+			
 			"autoResize"	"2"
 		}
 

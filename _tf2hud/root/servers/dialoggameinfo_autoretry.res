@@ -8,11 +8,11 @@
 		"ypos"		"183"
 		"wide"		"416"
 		"tall"		"500"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 	}
 	"Connect"
@@ -23,7 +23,7 @@
 		"ypos"		"400"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
@@ -44,7 +44,7 @@
 		"ypos"		"400"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
@@ -65,7 +65,7 @@
 		"ypos"		"400"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
@@ -86,11 +86,11 @@
 		"ypos"		"371"
 		"wide"		"356"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#ServerBrowser_AlertWhenSlotIsFree"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -105,7 +105,7 @@
 		"ypos"		"400"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
@@ -126,11 +126,11 @@
 		"ypos"		"435"
 		"wide"		"358"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#ServerBrowser_AlertMeWhenSlotOpens"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -148,11 +148,11 @@
 		"ypos"		"456"
 		"wide"		"356"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#ServerBrowser_JoinWhenSlotOpens"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -171,10 +171,10 @@
 		"wide"		"368"
 		"tall"		"140"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"SysMenu"
 	{
@@ -185,11 +185,11 @@
 		"zpos"		"1"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"ServerLabel"
 	{
@@ -199,11 +199,11 @@
 		"ypos"		"42"
 		"wide"		"108"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#ServerBrowser_ServerName"
 		"textAlignment"		"east"
 		"dulltext"		"1"
@@ -218,11 +218,11 @@
 		"ypos"		"90"
 		"wide"		"108"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#ServerBrowser_GameLabel"
 		"textAlignment"		"east"
 		"dulltext"		"1"
@@ -237,11 +237,11 @@
 		"ypos"		"66"
 		"wide"		"108"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#ServerBrowser_IPAddressLabel"
 		"textAlignment"		"east"
 		"dulltext"		"1"
@@ -256,11 +256,11 @@
 		"ypos"		"114"
 		"wide"		"108"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#ServerBrowser_MapLabel"
 		"textAlignment"		"east"
 		"dulltext"		"1"
@@ -275,11 +275,11 @@
 		"ypos"		"138"
 		"wide"		"108"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#ServerBrowser_PlayersLabel"
 		"textAlignment"		"east"
 		"dulltext"		"1"
@@ -294,11 +294,11 @@
 		"ypos"		"186"
 		"wide"		"108"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#ServerBrowser_LatencyLabel"
 		"textAlignment"		"east"
 		"dulltext"		"1"
@@ -314,10 +314,10 @@
 		"wide"		"260"
 		"tall"		"20"
 		"autoResize"		"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"test"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -332,11 +332,11 @@
 		"ypos"		"90"
 		"wide"		"260"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Day of Defeat: Source"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -351,11 +351,11 @@
 		"ypos"		"64"
 		"wide"		"260"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -370,11 +370,11 @@
 		"ypos"		"114"
 		"wide"		"260"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"dod_anzio"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -389,11 +389,11 @@
 		"ypos"		"138"
 		"wide"		"260"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"2 / 2"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -408,11 +408,11 @@
 		"ypos"		"186"
 		"wide"		"260"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"12"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -427,11 +427,11 @@
 		"ypos"		"162"
 		"wide"		"108"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#ServerBrowser_ValveAntiCheat"
 		"textAlignment"		"east"
 		"dulltext"		"1"
@@ -446,11 +446,11 @@
 		"ypos"		"162"
 		"wide"		"260"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#ServerBrowser_Secure"
 		"textAlignment"		"west"
 		"dulltext"		"0"

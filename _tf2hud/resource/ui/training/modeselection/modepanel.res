@@ -23,8 +23,8 @@
 			"zpos"			"2"
 			"wide"			"225"
 			"tall"			"25"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"mouseinputenabled" "0"
@@ -43,8 +43,8 @@
 			"zpos"			"2"
 			"wide"			"225"
 			"tall"			"55"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override"	"89 81 71 255"
@@ -92,11 +92,11 @@
 		"zpos"				"100"
 		"wide"				"130"
 		"tall"				"30"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"visible"			"1"
 		"enabled"			"1"
-		//"tabPosition"		"0"
+		
 		"labelText"			"#TF_Training_SelectMode"
 		"font"				"HudFontSmallBold"
 		"textAlignment"		"center"

@@ -2,6 +2,6 @@
 {
 	"DeleteButton"
 	{
-		//"pinCorner"		"0"
+		
 	}
 }	

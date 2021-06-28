@@ -2,6 +2,6 @@
 {
 	"NameLabel"
 	{
-		//"pinCorner"		"0"
+		
 	}
 }

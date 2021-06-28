@@ -8,11 +8,11 @@
 		"ypos"		"381"
 		"wide"		"320"
 		"tall"		"180"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"SysMenu"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"InfoLabel"
 	{
@@ -36,11 +36,11 @@
 		"ypos"		"39"
 		"wide"		"268"
 		"tall"		"32"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#Ban_Change_Time"
 		"textAlignment"		"west"
 		"dulltext"		"1"
@@ -54,11 +54,11 @@
 		"ypos"		"72"
 		"wide"		"220"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"12.13.14.15"
 		"textAlignment"		"west"
 		"dulltext"		"1"
@@ -72,8 +72,8 @@
 		"ypos"		"102"
 		"wide"		"200"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -90,8 +90,8 @@
 		"ypos"		"140"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -110,11 +110,11 @@
 		"ypos"		"72"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#Cvar_Dialog_Name"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -128,11 +128,11 @@
 		"ypos"		"100"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#Cvar_Dialog_Value"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -146,8 +146,8 @@
 		"ypos"		"140"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"

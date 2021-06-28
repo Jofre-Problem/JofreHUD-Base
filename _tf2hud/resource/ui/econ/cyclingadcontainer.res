@@ -9,11 +9,11 @@
 		"zpos"		"2"
 		"wide"		"10"
 		"tall"		"25"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"			"<"
 		"bgcolor_override"	"0 0 0 220"
 		"fgcolor"		"White"
@@ -44,11 +44,11 @@
 		"zpos"		"2"
 		"wide"		"10"
 		"tall"		"25"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"			">"
 		"bgcolor_override"	"0 0 0 220"
 		"fgcolor"		"White"

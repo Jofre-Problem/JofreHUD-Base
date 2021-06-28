@@ -8,12 +8,12 @@
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
-		//"autoResize"	"0"
+		
 		"skip_autoresize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		
 		"small_vertical_break_size"		"0"
 		"medium_vertical_break_size"	"6"
@@ -85,9 +85,9 @@
 			"ypos"			"17"
 			"wide"			"230"
 			"tall"			"15"
-			//"autoResize"	"0"
+			
 			"skip_autoresize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -106,7 +106,7 @@
 			"PaintBackgroundType"	"0"
 			"bgcolor_override"	"0 0 0 0"
 			"skip_autoresize"	"1"
-			////"autoResize"		"0"
+			
 				
 			//
 			// All the controls below get laid out off of the item name label's position and the break sizes defined at the top of this file
@@ -120,8 +120,8 @@
 				"textAlignment"	"north-west"
 				"wide"			"228"
 				"tall"			"10"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"wrap"			"1"
@@ -137,8 +137,8 @@
 				"textAlignment"	"north-west"
 				"wide"			"228"
 				"tall"			"10"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"wrap"			"1"
@@ -153,8 +153,8 @@
 				"textAlignment"	"north-west"
 				"wide"			"228"
 				"tall"			"10"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"wrap"			"1"
@@ -170,8 +170,8 @@
 				"textAlignment"	"north-west"
 				"wide"			"228"
 				"tall"			"10"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"wrap"			"1"
@@ -185,8 +185,8 @@
 				"textAlignment"	"north-west"
 				"wide"			"228"
 				"tall"			"300"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
 				"wrap"			"1"
@@ -205,7 +205,7 @@
 		"wide"			"340"
 		"tall"			"313"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		
@@ -278,8 +278,8 @@
 		"zpos"				"5"
 		"wide"				"60"
 		"tall"				"25"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"editable"			"0"
 	}
 	
@@ -443,8 +443,8 @@
 		"zpos"				"2"
 		"wide"				"19"
 		"tall"				"40"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"visible"			"1"
 		"enabled"			"1"
 		
@@ -459,11 +459,11 @@
 		{
 			"wide"				"19"
 			"tall"				"19"
-			////"autoResize"		"0"
+			
 			"pinCorner"			"2"
 			"visible"			"1"
 			"enabled"			"1"
-			//"tabPosition"		"0"
+			
 			"labelText"			""
 			"textAlignment"		"south-west"
 			"scaleImage"		"1"
@@ -543,11 +543,11 @@
 		"zpos"			"20"
 		"wide"			"11"
 		"tall"			"11"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -601,9 +601,9 @@
 			"ypos"			"0"
 			"wide"			"200"
 			"tall"			"15"
-			//"autoResize"	"0"
+			
 			"skip_autoresize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -618,8 +618,8 @@
 			"ypos"				"15"
 			"wide"				"200"
 			"tall"				"25"
-			////"autoResize"		"0"
-			//"pinCorner"			"0"
+			
+			
 			"editable"			"0"
 		}
 	
@@ -634,9 +634,9 @@
 			"ypos"			"45"
 			"wide"			"95"
 			"tall"			"15"
-			//"autoResize"	"0"
+			
 			"skip_autoresize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -651,8 +651,8 @@
 			"ypos"				"60"
 			"wide"				"95"
 			"tall"				"25"
-			////"autoResize"		"0"
-			//"pinCorner"			"0"
+			
+			
 			"editable"			"0"
 		}
 
@@ -664,8 +664,8 @@
 			"ypos"			"43"
 			"wide"			"100"
 			"tall"			"15"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"#TF_ImportPreview_ActionLabel"
@@ -687,8 +687,8 @@
 			"ypos"				"60"
 			"wide"				"100"
 			"tall"				"25"
-			////"autoResize"		"0"
-			//"pinCorner"			"0"
+			
+			
 			"editable"			"0"
 		}
 	
@@ -703,9 +703,9 @@
 			"ypos"			"90"
 			"wide"			"200"
 			"tall"			"15"
-			//"autoResize"	"0"
+			
 			"skip_autoresize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -720,8 +720,8 @@
 			"ypos"				"105"
 			"wide"				"200"
 			"tall"				"25"
-			////"autoResize"		"0"
-			//"pinCorner"			"0"
+			
+			
 			"editable"			"0"
 		}
 	}
@@ -734,11 +734,11 @@
 		"ypos"		"c40"
 		"wide"		"92"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#TF_ImportFile_EditQCI"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -759,8 +759,8 @@
 		"ypos"			"c40"
 		"wide"			"200"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -789,11 +789,11 @@
 			"ypos"		"5"
 			"wide"		"92"
 			"tall"		"20"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"labelText"		"#TF_ImportFile_EditQC"
 			"textAlignment"		"center"
 			"dulltext"		"0"
@@ -812,11 +812,11 @@
 			"ypos"		"28"
 			"wide"		"92"
 			"tall"		"20"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"labelText"		""
 			"textAlignment"		"center"
 			"dulltext"		"0"
@@ -835,11 +835,11 @@
 			"ypos"		"28"
 			"wide"		"92"
 			"tall"		"20"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"labelText"		""
 			"textAlignment"		"center"
 			"dulltext"		"0"
@@ -858,11 +858,11 @@
 			"ypos"		"51"
 			"wide"		"92"
 			"tall"		"20"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"labelText"		""
 			"textAlignment"		"center"
 			"dulltext"		"0"
@@ -881,11 +881,11 @@
 			"ypos"		"51"
 			"wide"		"92"
 			"tall"		"20"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"		"0"
+			
 			"labelText"		""
 			"textAlignment"		"center"
 			"dulltext"		"0"
@@ -905,11 +905,11 @@
 		"ypos"			"45"
 		"wide"			"20"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"?"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
@@ -953,8 +953,8 @@
 			"ypos"			"10"
 			"wide"			"260"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -972,8 +972,8 @@
 			"ypos"			"45"
 			"wide"			"260"
 			"tall"			"85"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -989,11 +989,11 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -1039,8 +1039,8 @@
 			"zpos"			"-1"
 			"wide"			"300"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
@@ -1054,11 +1054,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -1128,8 +1128,8 @@
 			"ypos"			"10"
 			"wide"			"210"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1147,8 +1147,8 @@
 			"ypos"			"45"
 			"wide"			"210"
 			"tall"			"85"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1164,11 +1164,11 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -1211,11 +1211,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -1261,8 +1261,8 @@
 			"zpos"			"-1"
 			"wide"			"250"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
@@ -1276,11 +1276,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -1350,8 +1350,8 @@
 			"ypos"			"10"
 			"wide"			"210"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1369,8 +1369,8 @@
 			"ypos"			"45"
 			"wide"			"210"
 			"tall"			"85"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1386,11 +1386,11 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -1433,11 +1433,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -1483,8 +1483,8 @@
 			"zpos"			"-1"
 			"wide"			"250"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
@@ -1498,11 +1498,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -1571,8 +1571,8 @@
 			"ypos"			"10"
 			"wide"			"210"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1590,8 +1590,8 @@
 			"ypos"			"45"
 			"wide"			"210"
 			"tall"			"65"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1607,11 +1607,11 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -1654,11 +1654,11 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -1704,8 +1704,8 @@
 			"zpos"			"-1"
 			"wide"			"250"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
@@ -1720,11 +1720,11 @@
 		"ypos"		"405"
 		"wide"		"150"
 		"tall"		"25"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#TF_ImportPreview_Refresh"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -1743,11 +1743,11 @@
 		"ypos"		"405"
 		"wide"		"150"
 		"tall"		"25"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"center"
 		"dulltext"		"0"

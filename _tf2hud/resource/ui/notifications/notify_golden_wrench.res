@@ -9,8 +9,8 @@
 		"zpos"			"-1"
 		"wide"			"140"
 		"tall"			"44"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/notification_black"
@@ -40,8 +40,8 @@
 		"ypos"			"9"
 		"wide"			"200"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"60 seconds until gates open"

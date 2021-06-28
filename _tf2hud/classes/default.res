@@ -10,11 +10,11 @@
 		"zpos"			"5"	
 		"wide"			"230"
 		"tall"			"30"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"textAlignment"	"north-west"
 		"dulltext"		"0"
 		"brighttext"	"1"

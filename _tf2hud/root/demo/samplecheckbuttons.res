@@ -7,8 +7,8 @@
 		"ypos"		"25"
 		"wide"		"304"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -23,8 +23,8 @@
 		"ypos"		"50"
 		"wide"		"124"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -40,8 +40,8 @@
 		"ypos"		"75"
 		"wide"		"124"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -57,8 +57,8 @@
 		"ypos"		"100"
 		"wide"		"124"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -74,8 +74,8 @@
 		"ypos"		"125"
 		"wide"		"124"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -91,8 +91,8 @@
 		"ypos"		"150"
 		"wide"		"124"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
@@ -108,11 +108,11 @@
 		"ypos"		"50"
 		"wide"		"200"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Reverse mouse up/down axis"
 		"textAlignment"		"west"
 	}
@@ -124,11 +124,11 @@
 		"ypos"		"75"
 		"wide"		"200"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Use the mouse to look around"
 		"textAlignment"		"west"
 	}
@@ -140,11 +140,11 @@
 		"ypos"		"100"
 		"wide"		"200"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Smoothes mouse movement"
 		"textAlignment"		"west"
 	}
@@ -156,11 +156,11 @@
 		"ypos"		"125"
 		"wide"		"200"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Enable the joystick"
 		"textAlignment"		"west"
 	}
@@ -172,11 +172,11 @@
 		"ypos"		"150"
 		"wide"		"200"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Use the joystick to look around"
 		"textAlignment"		"west"
 	}

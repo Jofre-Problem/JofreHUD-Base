@@ -2,6 +2,6 @@
 {
 	"StartButton"
 	{
-		////"autoResize"		"0"
+		
 	}	
 }	

@@ -33,11 +33,11 @@
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"settitlebarvisible"	"1"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"				"46 43 42 0"
@@ -78,11 +78,11 @@
 		"zpos"			"100"
 		"wide"			"20"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -142,7 +142,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 		}
 	}
 
@@ -156,11 +156,11 @@
 		"zpos"			"2"
 		"wide"			"180"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		//"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -184,11 +184,11 @@
 		"zpos"			"10"
 		"wide"			"180"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_Matchmaking_StartParty"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"

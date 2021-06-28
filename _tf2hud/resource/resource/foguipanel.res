@@ -8,14 +8,14 @@
 		"ypos"		"563"
 		"wide"		"420"
 		"tall"		"360"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"Fog Panel"
 	}
@@ -27,14 +27,14 @@
 		"ypos"		"35"
 		"wide"		"109"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Fog Override"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -55,14 +55,14 @@
 		"ypos"		"64"
 		"wide"		"109"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Fog Enable"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -83,14 +83,14 @@
 		"ypos"		"97"
 		"wide"		"98"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 	}
 	"FogStartText"
 	{
@@ -100,14 +100,14 @@
 		"ypos"		"97"
 		"wide"		"48"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"5"
@@ -122,14 +122,14 @@
 		"ypos"		"128"
 		"wide"		"98"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 	}
 	"FogEndText"
 	{
@@ -139,14 +139,14 @@
 		"ypos"		"128"
 		"wide"		"48"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"5"
@@ -161,14 +161,14 @@
 		"ypos"		"97"
 		"wide"		"98"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 	}
 	"FogColorRedText"
 	{
@@ -178,14 +178,14 @@
 		"ypos"		"97"
 		"wide"		"48"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"3"
@@ -200,14 +200,14 @@
 		"ypos"		"128"
 		"wide"		"98"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 	}
 	"FogColorGreenText"
 	{
@@ -217,14 +217,14 @@
 		"ypos"		"128"
 		"wide"		"48"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"3"
@@ -239,14 +239,14 @@
 		"ypos"		"158"
 		"wide"		"98"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 	}
 	"FogColorBlueText"
 	{
@@ -256,14 +256,14 @@
 		"ypos"		"158"
 		"wide"		"48"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"3"
@@ -278,14 +278,14 @@
 		"ypos"		"170"
 		"wide"		"109"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Enable Skybox"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -306,14 +306,14 @@
 		"ypos"		"197"
 		"wide"		"98"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 	}
 	"FogStartTextSky"
 	{
@@ -323,14 +323,14 @@
 		"ypos"		"197"
 		"wide"		"48"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"5"
@@ -345,14 +345,14 @@
 		"ypos"		"228"
 		"wide"		"98"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 	}
 	"FogEndTextSky"
 	{
@@ -362,14 +362,14 @@
 		"ypos"		"228"
 		"wide"		"48"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"5"
@@ -384,14 +384,14 @@
 		"ypos"		"197"
 		"wide"		"98"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 	}
 	"FogColorRedTextSky"
 	{
@@ -401,14 +401,14 @@
 		"ypos"		"197"
 		"wide"		"48"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"3"
@@ -423,14 +423,14 @@
 		"ypos"		"228"
 		"wide"		"98"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 	}
 	"FogColorGreenTextSky"
 	{
@@ -440,14 +440,14 @@
 		"ypos"		"228"
 		"wide"		"48"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"3"
@@ -462,14 +462,14 @@
 		"ypos"		"258"
 		"wide"		"98"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 	}
 	"FogColorBlueTextSky"
 	{
@@ -479,14 +479,14 @@
 		"ypos"		"258"
 		"wide"		"48"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"3"
@@ -501,14 +501,14 @@
 		"ypos"		"288"
 		"wide"		"109"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"FarZ Override"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -529,14 +529,14 @@
 		"ypos"		"318"
 		"wide"		"98"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 	}
 	"FarZText"
 	{
@@ -546,14 +546,14 @@
 		"ypos"		"318"
 		"wide"		"48"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"5"
@@ -568,14 +568,14 @@
 		"ypos"		"97"
 		"wide"		"54"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Start"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -594,14 +594,14 @@
 		"ypos"		"106"
 		"wide"		"6"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"|"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -620,14 +620,14 @@
 		"ypos"		"128"
 		"wide"		"54"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"End"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -646,14 +646,14 @@
 		"ypos"		"137"
 		"wide"		"6"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"|"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -672,14 +672,14 @@
 		"ypos"		"97"
 		"wide"		"16"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"R"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -698,14 +698,14 @@
 		"ypos"		"128"
 		"wide"		"16"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"G"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -724,14 +724,14 @@
 		"ypos"		"158"
 		"wide"		"16"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"B"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -750,14 +750,14 @@
 		"ypos"		"197"
 		"wide"		"54"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Start"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -776,14 +776,14 @@
 		"ypos"		"206"
 		"wide"		"6"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"|"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -802,14 +802,14 @@
 		"ypos"		"228"
 		"wide"		"54"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"End"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -828,14 +828,14 @@
 		"ypos"		"237"
 		"wide"		"6"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"|"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -854,14 +854,14 @@
 		"ypos"		"197"
 		"wide"		"16"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"R"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -880,14 +880,14 @@
 		"ypos"		"228"
 		"wide"		"16"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"G"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -906,14 +906,14 @@
 		"ypos"		"258"
 		"wide"		"16"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"B"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -932,14 +932,14 @@
 		"ypos"		"318"
 		"wide"		"54"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"FarZ"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -958,14 +958,14 @@
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"1"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -985,14 +985,14 @@
 		"ypos"		"349"
 		"wide"		"319"
 		"tall"		"760"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"
 	}

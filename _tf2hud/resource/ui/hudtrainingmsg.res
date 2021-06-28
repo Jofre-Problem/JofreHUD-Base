@@ -9,8 +9,8 @@
 		"zpos"			"-1"
 		"wide"			"400"
 		"tall"			"265"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/death_panel_blue_bg"
@@ -28,8 +28,8 @@
 		"zpos"			"1"
 		"wide"			"345"
 		"tall"			"105"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
@@ -45,8 +45,8 @@
 		"zpos"			"1"
 		"wide"			"45"
 		"tall"			"45"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/hud_icon_attack"

@@ -8,11 +8,11 @@
 		"ypos"			"6"
 		"wide"			"256"
 		"tall"			"256"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 	
 		"PhysicsObject"
 		{
@@ -22,8 +22,8 @@
 			"ypos"		"6"
 			"wide"		"216"
 			"tall"		"24"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"disabled"		"1"
@@ -43,8 +43,8 @@
 			"ypos"		"6"
 			"wide"		"216"
 			"tall"		"24"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"disabled"		"1"
@@ -64,8 +64,8 @@
 			"ypos"		"28"
 			"wide"		"216"
 			"tall"		"24"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"disabled"		"1"
@@ -85,8 +85,8 @@
 			"ypos"		"28"
 			"wide"		"216"
 			"tall"		"24"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"disabled"		"1"
@@ -106,8 +106,8 @@
 			"ypos"		"50"
 			"wide"		"216"
 			"tall"		"24"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"1"
@@ -126,8 +126,8 @@
 			"ypos"		"50"
 			"wide"		"216"
 			"tall"		"24"
-			////"autoResize"		"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"1"

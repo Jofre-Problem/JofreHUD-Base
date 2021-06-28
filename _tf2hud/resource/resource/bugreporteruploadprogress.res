@@ -8,11 +8,11 @@
 		"ypos"		"304"
 		"wide"		"300"
 		"tall"		"140"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"Bug Reporter"
 	}
@@ -24,11 +24,11 @@
 		"ypos"		"98"
 		"wide"		"255"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"progress"		"0.910043"
 	}
 	"FakeButton"
@@ -39,11 +39,11 @@
 		"ypos"		"-100"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -59,11 +59,11 @@
 		"ypos"		"38"
 		"wide"		"240"
 		"tall"		"48"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Bug_Submitting"
 		"textAlignment"		"west"
 		"dulltext"		"1"

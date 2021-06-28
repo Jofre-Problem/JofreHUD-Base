@@ -8,8 +8,8 @@
 		"ypos"		"32"
 		"wide"		"128"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -25,11 +25,11 @@
 		"ypos"		"56"
 		"wide"		"224"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
 	}
@@ -42,8 +42,8 @@
 		"ypos"		"84"
 		"wide"		"128"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -59,11 +59,11 @@
 		"ypos"		"108"
 		"wide"		"224"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
 	}
@@ -76,8 +76,8 @@
 		"ypos"		"138"
 		"wide"		"128"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -93,11 +93,11 @@
 		"ypos"		"164"
 		"wide"		"224"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
 	}
@@ -110,8 +110,8 @@
 		"ypos"		"192"
 		"wide"		"128"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -127,11 +127,11 @@
 		"ypos"		"220"
 		"wide"		"224"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
 	}
@@ -144,8 +144,8 @@
 		"ypos"		"24"
 		"wide"		"128"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -162,11 +162,11 @@
 		"ypos"		"48"
 		"wide"		"64"
 		"tall"		"64"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
 	}
@@ -178,8 +178,8 @@
 		"ypos"		"100"
 		"wide"		"128"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -195,11 +195,11 @@
 		"ypos"		"120"
 		"wide"		"96"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
 	}
@@ -212,8 +212,8 @@
 		"ypos"		"150"
 		"wide"		"128"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -229,11 +229,11 @@
 		"ypos"		"170"
 		"wide"		"96"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
 	}
@@ -246,8 +246,8 @@
 		"ypos"		"200"
 		"wide"		"128"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -263,11 +263,11 @@
 		"ypos"		"220"
 		"wide"		"96"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
 	}
@@ -280,8 +280,8 @@
 		"ypos"		"250"
 		"wide"		"128"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -297,11 +297,11 @@
 		"ypos"		"270"
 		"wide"		"96"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
 	}
@@ -314,8 +314,8 @@
 		"ypos"		"24"
 		"wide"		"128"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -332,11 +332,11 @@
 		"ypos"		"48"
 		"wide"		"64"
 		"tall"		"64"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
 	}
@@ -348,8 +348,8 @@
 		"ypos"		"100"
 		"wide"		"128"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -365,11 +365,11 @@
 		"ypos"		"120"
 		"wide"		"96"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
 	}
@@ -382,8 +382,8 @@
 		"ypos"		"150"
 		"wide"		"128"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -399,11 +399,11 @@
 		"ypos"		"170"
 		"wide"		"96"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
 	}
@@ -417,8 +417,8 @@
 		"ypos"		"200"
 		"wide"		"128"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -434,11 +434,11 @@
 		"ypos"		"220"
 		"wide"		"96"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
 	}
@@ -451,8 +451,8 @@
 		"ypos"		"250"
 		"wide"		"128"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -470,11 +470,11 @@
 		"ypos"		"270"
 		"wide"		"96"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
 	}
@@ -487,8 +487,8 @@
 		"ypos"		"270"
 		"wide"		"96"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"

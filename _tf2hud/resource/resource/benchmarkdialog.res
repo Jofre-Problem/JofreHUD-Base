@@ -8,11 +8,11 @@
 		"ypos"		"256"
 		"wide"		"384"
 		"tall"		"256"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#GameUI_LaunchBenchmark_Title"
 	}
@@ -24,8 +24,8 @@
 		"ypos"		"198"
 		"wide"		"150"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -44,8 +44,8 @@
 		"ypos"		"198"
 		"wide"		"99"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -65,11 +65,11 @@
 		"ypos"		"60"
 		"wide"		"340"
 		"tall"		"140"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_LaunchBenchmark_Info"
 		"textAlignment"		"west"
 		"dulltext"		"0"

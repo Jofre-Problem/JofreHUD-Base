@@ -8,11 +8,11 @@
 		"ypos"		"390"
 		"wide"		"450"
 		"tall"		"180"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"Set Clip Name"
 	}
@@ -24,8 +24,8 @@
 		"ypos"		"140"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"6"
@@ -45,8 +45,8 @@
 		"ypos"		"140"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"7"
@@ -66,11 +66,11 @@
 		"ypos"		"43"
 		"wide"		"90"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"New Clip Name:"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -85,8 +85,8 @@
 		"ypos"		"44"
 		"wide"		"320"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -104,12 +104,12 @@
 		"ypos"		"74"
 		"wide"		"120"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"selected"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Renumber Clips"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -125,8 +125,8 @@
 		"ypos"		"105"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -144,8 +144,8 @@
 		"ypos"		"105"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"4"
@@ -163,8 +163,8 @@
 		"ypos"		"105"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"5"
@@ -182,11 +182,11 @@
 		"ypos"		"105"
 		"wide"		"40"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"First:"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -201,11 +201,11 @@
 		"ypos"		"105"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Increment:"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -220,11 +220,11 @@
 		"ypos"		"105"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Num Digits:"
 		"textAlignment"		"east"
 		"dulltext"		"0"

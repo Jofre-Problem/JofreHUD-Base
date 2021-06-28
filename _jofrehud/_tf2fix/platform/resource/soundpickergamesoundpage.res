@@ -8,11 +8,11 @@
 		"ypos"			"6"
 		"wide"			"256"
 		"tall"			"256"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		
 		"GameSoundsList"
 		{
@@ -23,7 +23,7 @@
 			"wide"			"256"
 			"tall"			"212"
 			"AutoResize"	"3"
-			//"pinCorner"		"0"
+			
 			"UnpinnedCornerOffsetX" "-6"
 			"UnpinnedCornerOffsetY" "-36"
 			"visible"		"1"
@@ -39,7 +39,7 @@
 			"ypos"			"210"
 			"wide"			"65"
 			"tall"			"24"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"2"
 			"PinnedCornerOffsetX" "6"
 			"PinnedCornerOffsetY" "-6"

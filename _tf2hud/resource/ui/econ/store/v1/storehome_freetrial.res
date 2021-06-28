@@ -8,11 +8,11 @@
 		"ypos"			"40"
 		"wide"			"f0"
 		"tall"			"480"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"	"46 43 42 255"
@@ -67,7 +67,7 @@
 			"wide"			"16"
 			"tall"			"10"
 			"autoResize"	"1"
-			//"pinCorner"		"0"	
+				
 			"visible"		"0"
 			"enabled"		"1"
 			
@@ -104,8 +104,8 @@
 			"zpos"			"2"
 			"wide"			"140"
 			"tall"			"60"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"%attriblist%"
@@ -200,7 +200,7 @@
 		"wide"			"160"
 		"tall"			"70"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 	}		
@@ -217,7 +217,7 @@
 		"wide"			"50"
 		"tall"			"50"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 	}		
@@ -249,7 +249,7 @@
 		"wide"			"200"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"0"
 		"enabled"		"1"
 	}
@@ -263,11 +263,11 @@
 		"zpos"			"1"
 		"wide"			"210"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#Store_StartShopping"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -317,7 +317,7 @@
 			"wide"			"325"
 			"tall"			"45"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -334,7 +334,7 @@
 			"wide"			"325"
 			"tall"			"45"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor"		"0 0 0 255"
@@ -353,7 +353,7 @@
 			"wide"			"280"
 			"tall"			"40"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -387,7 +387,7 @@
 			"wide"			"325"
 			"tall"			"20"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -421,7 +421,7 @@
 			"wide"			"280"
 			"tall"			"20"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -455,7 +455,7 @@
 			"wide"			"280"
 			"tall"			"20"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -489,7 +489,7 @@
 			"wide"			"280"
 			"tall"			"40"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -509,7 +509,7 @@
 			"wide"			"325"
 			"tall"			"40"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor"		"178 82 22 255"
@@ -528,7 +528,7 @@
 			"wide"			"200"
 			"tall"			"60"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -559,11 +559,11 @@
 		"zpos"			"25"
 		"wide"			"100"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"RELOADSCHEME"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"

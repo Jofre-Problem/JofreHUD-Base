@@ -8,11 +8,11 @@
 		"ypos"		"22"
 		"wide"		"600"
 		"tall"		"435"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"SysMenu"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"BoardGo"
 	{
@@ -36,11 +36,11 @@
 		"ypos"		"35"
 		"wide"		"320"
 		"tall"		"320"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"ChatTextLog"
 	{
@@ -51,10 +51,10 @@
 		"wide"		"235"
 		"tall"		"222"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -71,7 +71,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"1"
 		"maxchars"		"500"
@@ -84,11 +84,11 @@
 		"ypos"		"370"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SteamAddOn_Btn_Send"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -103,11 +103,11 @@
 		"ypos"		"370"
 		"wide"		"75"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SteamAddOn_Btn_Pass"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -122,11 +122,11 @@
 		"ypos"		"370"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SteamAddOn_Btn_Resign"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -141,11 +141,11 @@
 		"ypos"		"370"
 		"wide"		"75"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#Go_Btn_Submit"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -160,11 +160,11 @@
 		"ypos"		"370"
 		"wide"		"110"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#SteamAddOn_Btn_ShowHistory"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -179,11 +179,11 @@
 		"ypos"		"405"
 		"wide"		"250"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Last Move made at:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -197,11 +197,11 @@
 		"ypos"		"405"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"3"
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Turn: 1"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -215,11 +215,11 @@
 		"ypos"		"86"
 		"wide"		"12"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"WhiteIcon"
 	{
@@ -229,11 +229,11 @@
 		"ypos"		"41"
 		"wide"		"12"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"BlackName"
 	{
@@ -243,11 +243,11 @@
 		"ypos"		"80"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"PLAYER BLACK"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -261,11 +261,11 @@
 		"ypos"		"35"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"PLAYER WHITE"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -279,11 +279,11 @@
 		"ypos"		"102"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Prisoners: 0"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -297,11 +297,11 @@
 		"ypos"		"57"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"0"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Prisoners: 0"
 		"textAlignment"		"west"
 		"dulltext"		"0"

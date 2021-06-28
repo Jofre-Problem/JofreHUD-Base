@@ -2,6 +2,6 @@
 {
 	"CancelHintIcon"
 	{
-		//"pinCorner"		"0"
+		
 	}
 }

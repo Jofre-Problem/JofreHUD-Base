@@ -20,11 +20,11 @@
 //		"ypos"					"c-225"
 //		"wide"					"560"
 //		"tall"					"345"
-//		////"autoResize"		"0"
-//		//"pinCorner"		"0"
+//		
+//		
 //		"visible"		"1"
 //		"enabled"		"1"
-//		//"tabPosition"		"0"
+//		
 //		"PaintBackgroundType"	"0"
 //		"paintbackground"		"1"
 //		"border"				"QuickplayBorder"

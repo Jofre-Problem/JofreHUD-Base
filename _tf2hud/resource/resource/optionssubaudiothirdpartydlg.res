@@ -8,11 +8,11 @@
 		"ypos"		"50"
 		"wide"		"440"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Miles_Audio"
 		"textAlignment"		"north-west"
 		"dulltext"		"1"
@@ -28,11 +28,11 @@
 		"ypos"		"90"
 		"wide"		"460"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Miles_Voice"
 		"textAlignment"		"north-west"
 		"dulltext"		"1"
@@ -48,11 +48,11 @@
 		"ypos"		"120"
 		"wide"		"460"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Bink"
 		"textAlignment"		"north-west"
 		"dulltext"		"1"
@@ -68,8 +68,8 @@
 		"ypos"		"170"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -89,8 +89,8 @@
 		"ypos"		"120"
 		"wide"		"64"
 		"tall"		"64"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"		"west"

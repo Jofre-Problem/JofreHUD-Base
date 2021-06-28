@@ -7,8 +7,8 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"0"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"tabPosition"	"10"
@@ -24,8 +24,8 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"120"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"10"
@@ -49,7 +49,7 @@
 			"wide"			"300"
 			"tall"			"20"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"10"
@@ -68,7 +68,7 @@
 			"wide"			"300"
 			"tall"			"20"
 			"autoResize"	"1"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"10"
@@ -88,8 +88,8 @@
 			"zpos"			"50"
 			"wide"			"275"
 			"tall"			"15"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"bgcolor_override"		"117 107 95 255"
@@ -107,8 +107,8 @@
 			"zpos"			"20"
 			"wide"			"80"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"2"
@@ -132,8 +132,8 @@
 			"zpos"			"20"
 			"wide"			"100"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"1"

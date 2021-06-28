@@ -10,8 +10,8 @@
 		"zpos"			"1"
 		"wide"			"84"
 		"tall"			"15"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#TF_Object_Sentry"
@@ -65,8 +65,8 @@
 		"zpos"			"1"
 		"wide"			"44"
 		"tall"			"13"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		""
@@ -100,8 +100,8 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"18"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"1"

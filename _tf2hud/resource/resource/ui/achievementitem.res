@@ -11,12 +11,12 @@
 		"ypos"						"0"
 		"wide"						"594"
 		"tall"						"64"
-		//"autoResize"				"0"
+		
 		"visible"					"1"
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"settitlebarvisible"		"0"
-		"pinCorner"					"0"
+		
 		"ProgressBarColor" 	"200 184 148 255" [$WIN32]
 		"PaintBackgroundType"	"2"
 	}
@@ -96,11 +96,11 @@
 		"ypos"		"41"
 		"wide"		"150"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"0%"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -116,11 +116,11 @@
 		"ypos"		"7"
 		"wide"		"150"
 		"tall"		"12"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Achievement_Show_HUD"
 		"textAlignment"		"west"
 		"dulltext"		"0"

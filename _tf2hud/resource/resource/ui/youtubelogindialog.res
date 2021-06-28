@@ -9,11 +9,11 @@
 		"zpos"			"1000"
 		"wide"			"300"
 		"tall"			"200"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 	}
@@ -31,7 +31,7 @@
 		"wide"			"300"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
@@ -49,8 +49,8 @@
 		"zpos"			"1"
 		"wide"			"150"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 	}
@@ -69,8 +69,8 @@
 		"zpos"			"1"
 		"wide"			"280"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"1"
@@ -91,8 +91,8 @@
 		"zpos"			"1"
 		"wide"			"150"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 	}
@@ -110,8 +110,8 @@
 		"zpos"			"1"
 		"wide"			"280"
 		"tall"			"20"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"2"
@@ -130,11 +130,11 @@
 		"zpos"			"20"
 		"wide"			"85"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#YouTube_LoginDlg_Register"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
@@ -156,11 +156,11 @@
 		"wide"			"95"
 		"tall"			"25"
 		"default"		"1"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#YouTube_LoginDlg_Login"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
@@ -181,11 +181,11 @@
 		"zpos"			"20"
 		"wide"			"95"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#Cancel"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"

@@ -26,8 +26,8 @@
 		"zpos"			"0"
 		"wide"			"200"
 		"tall"			"0"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -47,8 +47,8 @@
 		"zpos"			"0"
 		"wide"			"200"
 		"tall"			"0"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -68,8 +68,8 @@
 		"zpos"			"0"
 		"wide"			"200"
 		"tall"			"0"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -89,8 +89,8 @@
 		"zpos"			"0"
 		"wide"			"200"
 		"tall"			"60"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
@@ -114,8 +114,8 @@
 		"ypos"			"0"
 		"tall"			"20"
 		"wide"			"180"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
 		"progress"		"0"
@@ -136,8 +136,8 @@
 		"zpos"			"0"
 		"wide"			"200"
 		"tall"			"60"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%duration%"
@@ -158,11 +158,11 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#Cancel"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"

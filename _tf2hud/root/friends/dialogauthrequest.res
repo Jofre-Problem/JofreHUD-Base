@@ -8,11 +8,11 @@
 		"ypos"		"234"
 		"wide"		"472"
 		"tall"		"204"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 	}
 	"InfoText"
@@ -23,11 +23,11 @@
 		"ypos"		"84"
 		"wide"		"108"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#TrackerUI_DoYouWantTo"
 		"textAlignment"		"west"
 		"dulltext"		"1"
@@ -41,11 +41,11 @@
 		"ypos"		"32"
 		"wide"		"408"
 		"tall"		"48"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"test4 wishes to add you to his/her contact list.
 test4@testers.com"
 		"textAlignment"		"west"
@@ -60,8 +60,8 @@ test4@testers.com"
 		"ypos"		"108"
 		"wide"		"440"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -81,8 +81,8 @@ test4@testers.com"
 		"ypos"		"130"
 		"wide"		"440"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -102,8 +102,8 @@ test4@testers.com"
 		"ypos"		"168"
 		"wide"		"72"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -122,8 +122,8 @@ test4@testers.com"
 		"ypos"		"167"
 		"wide"		"72"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"

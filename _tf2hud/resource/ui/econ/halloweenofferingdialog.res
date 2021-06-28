@@ -122,7 +122,7 @@
 				"zpos"			"1"
 				"wide"			"p0.2"
 				"tall"			"300"
-				//"pinCorner"		"0"	
+					
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"#TF_CollectionCrafting_Halloween_Paragraph1"
@@ -145,7 +145,7 @@
 				"zpos"			"1"
 				"wide"			"p0.2"
 				"tall"			"300"
-				//"pinCorner"		"0"	
+					
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"#TF_CollectionCrafting_Halloween_Paragraph2"
@@ -168,7 +168,7 @@
 				"zpos"			"1"
 				"wide"			"p0.8"
 				"tall"			"300"
-				//"pinCorner"		"0"	
+					
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"#TF_CollectionCrafting_Halloween_Paragraph3"
@@ -191,7 +191,7 @@
 				"zpos"			"1"
 				"wide"			"p0.4"
 				"tall"			"300"
-				//"pinCorner"		"0"	
+					
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"#TF_CollectionCrafting_Instructions_Halloween"

@@ -10,7 +10,7 @@
 		"tall"		"240"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"InfoText"
 	{
@@ -22,7 +22,7 @@
 		"tall"		"136"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textAlignment"		"center"
 	}
 	"CloseButton"

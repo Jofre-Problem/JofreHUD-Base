@@ -8,11 +8,11 @@
 		"ypos"			"140"
 		"wide"			"324"
 		"tall"			"200"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
@@ -32,7 +32,7 @@
 		"wide"			"324"
 		"tall"			"25"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 	}
@@ -49,8 +49,8 @@
 		"zpos"			"1"
 		"wide"			"244"
 		"tall"			"170"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"centerwrap"	"1"
@@ -66,11 +66,11 @@
 		"zpos"			"20"
 		"wide"			"124"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#GameUI_CancelBold"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
@@ -97,11 +97,11 @@
 		"zpos"			"22"
 		"wide"			"25"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"actionSet"		"MenuControls"
 		"actionName"	"menu_cancel"
 	}
@@ -116,11 +116,11 @@
 		"wide"			"175"
 		"tall"			"25"
 		"default"		"1"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#ConfirmButtonText"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
@@ -147,11 +147,11 @@
 		"zpos"			"22"
 		"wide"			"25"
 		"tall"			"25"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"actionSet"		"MenuControls"
 		"actionName"	"menu_select"
 	}			

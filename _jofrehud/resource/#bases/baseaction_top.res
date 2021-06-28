@@ -8,11 +8,11 @@
 		"ypos"		"-11"
 		"wide"		"14"
 		"tall"		"16"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"94"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -26,11 +26,11 @@
 		"ypos"		"-7"
 		"wide"		"7"
 		"tall"		"16"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"2"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -44,11 +44,11 @@
 		"ypos"		"22"
 		"wide"		"7"
 		"tall"		"16"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"2"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -62,11 +62,11 @@
 		"ypos"		"154"
 		"wide"		"7"
 		"tall"		"16"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"2"
 		"textAlignment"		"west"
 		"dulltext"		"0"

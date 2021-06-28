@@ -17,7 +17,7 @@
 				"PaintBackgroundType"	"0"
 				"bgcolor_override"	"0 0 0 0"
 				"skip_autoresize"	"1"
-				////"autoResize"		"0"
+				
 				
 				//
 				// All the controls below get laid out off of the item name label's position and the break sizes defined at the top of this file
@@ -31,8 +31,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"15"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -48,8 +48,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"0"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -65,8 +65,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"0"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -82,8 +82,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -99,8 +99,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -115,8 +115,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -132,8 +132,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -147,8 +147,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -163,8 +163,8 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
@@ -177,11 +177,11 @@
 					"zpos"			"20"
 					"wide"			"150"
 					"tall"			"20"
-					//"autoResize"	"0"
-					//"pinCorner"		"0"
+					
+					
 					"visible"		"1"
 					"enabled"		"1"
-					//"tabPosition"	"0"
+					
 					"labelText"		"#Store_ItemDesc_ItemWikiPage"
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"

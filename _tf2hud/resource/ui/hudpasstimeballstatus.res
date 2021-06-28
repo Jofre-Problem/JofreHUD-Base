@@ -134,11 +134,11 @@
 		"zpos"			"1"									
 		"wide"			"17"
 		"tall"			"17"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		""
 		"image"			"../passtime/hud/passtime_goal_blue_icon"
 		"scaleImage"	"1"	
@@ -153,11 +153,11 @@
 		"zpos"			"1"									
 		"wide"			"17"
 		"tall"			"17"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		""
 		"image"			"../passtime/hud/passtime_goal_blue_icon"
 		"scaleImage"	"1"	
@@ -172,11 +172,11 @@
 		"zpos"			"1"									
 		"wide"			"17"
 		"tall"			"17"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		""
 		"image"			"../passtime/hud/passtime_goal_blue_icon"
 		"scaleImage"	"1"	
@@ -192,11 +192,11 @@
 		"zpos"			"1"									
 		"wide"			"17"
 		"tall"			"17"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		""
 		"image"			"../passtime/hud/passtime_goal_red_icon"
 		"scaleImage"	"1"	
@@ -211,11 +211,11 @@
 		"zpos"			"1"									
 		"wide"			"17"
 		"tall"			"17"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		""
 		"image"			"../passtime/hud/passtime_goal_red_icon"
 		"scaleImage"	"1"	
@@ -231,11 +231,11 @@
 		"zpos"			"1"									
 		"wide"			"17"
 		"tall"			"17"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		""
 		"image"			"../passtime/hud/passtime_goal_red_icon"
 		"scaleImage"	"1"	
@@ -250,11 +250,11 @@
 		"zpos"			"10"
 		"wide"			"42"
 		"tall"			"42"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		""
 		"image"			"../passtime/hud/passtime_ball"
 		"scaleImage"	"1"	
@@ -269,11 +269,11 @@
 		"zpos"			"-100"
 		"wide"			"42"
 		"tall"			"42"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		""
 		"scaleImage"	"1"	
 	}	
@@ -310,7 +310,7 @@
 		"zpos" "5"
 		"wide" "f0"
 		"tall" "f0"
-		//"autoResize"	"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 
@@ -323,11 +323,11 @@
 			"zpos"			"5"
 			"wide"			"200"
 			"tall"			"50"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"image"			"../passtime/hud/passtime_powerball_meter_frame"
 			"scaleImage"	"1"					
 		}
@@ -358,11 +358,11 @@
 				"zpos"			"0"
 				"wide"			"168"
 				"tall"			"18"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
-				//"tabPosition"	"0"
+				
 				"image"			"white"
 				"scaleImage"	"1"					
 			}
@@ -394,11 +394,11 @@
 				"zpos"			"0"
 				"wide"			"168"
 				"tall"			"18"
-				//"autoResize"	"0"
-				//"pinCorner"		"0"
+				
+				
 				"visible"		"1"
 				"enabled"		"1"
-				//"tabPosition"	"0"
+				
 				"image"			"white"
 				"scaleImage"	"1"					
 			}

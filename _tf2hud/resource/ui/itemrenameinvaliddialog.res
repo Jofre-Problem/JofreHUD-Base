@@ -29,7 +29,7 @@
 		"wide"			"200"
 		"tall"			"60"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"centerwrap"	"1"
@@ -48,7 +48,7 @@
 		"wide"			"84"
 		"tall"			"64"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"paintbackground" "0"
@@ -110,7 +110,7 @@
 		"wide"			"84"
 		"tall"			"64"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"paintbackground" "0"
@@ -173,7 +173,7 @@
 		"wide"			"360"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
@@ -192,7 +192,7 @@
 		"wide"			"360"
 		"tall"			"32"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override"	"235 226 202 255"
@@ -211,7 +211,7 @@
 		"wide"			"400"
 		"tall"			"20"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
@@ -226,11 +226,11 @@
 		"zpos"			"1"
 		"wide"			"130"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_OK"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"

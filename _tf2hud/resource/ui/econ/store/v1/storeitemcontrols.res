@@ -21,11 +21,11 @@
 		"ypos"			"0"
 		"wide"			"15"
 		"tall"			"15"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"textinsetx"	"100"
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"

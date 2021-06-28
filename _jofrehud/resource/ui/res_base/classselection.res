@@ -20,11 +20,11 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		////"autoResize"		"0"
+		
 		"pinCorner"			"2"
 		"visible"			"1"
 		"enabled"			"1"
-		//"tabPosition"		"0"
+		
 		"labelText"			""
 		"textAlignment"		"south-west"
 		"Command"			"select 12"
@@ -88,7 +88,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_Offense"
 		"textAlignment"	"left"
 		"font"			"MenuClassBuckets"
@@ -109,11 +109,11 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		////"autoResize"		"0"
+		
 		"pinCorner"			"2"
 		"visible"			"1"
 		"enabled"			"1"
-		//"tabPosition"		"0"
+		
 		"labelText"			"1"	[$WIN32]
 		"labelText"			""		[$X360]
 		"textAlignment"		"south-west"
@@ -173,11 +173,11 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		////"autoResize"		"0"
+		
 		"pinCorner"			"2"
 		"visible"			"1"
 		"enabled"			"1"
-		//"tabPosition"		"0"
+		
 		"labelText"			"2"	[$WIN32]
 		"labelText"			""		[$X360]
 		"textAlignment"		"south-west"
@@ -237,11 +237,11 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		////"autoResize"		"0"
+		
 		"pinCorner"			"2"
 		"visible"			"1"
 		"enabled"			"1"
-		//"tabPosition"		"0"
+		
 		"labelText"			"3"	[$WIN32]
 		"labelText"			""		[$X360]
 		"textAlignment"		"south-west"
@@ -306,7 +306,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_Defense"
 		"textAlignment"	"left"
 		"font"			"MenuClassBuckets"
@@ -326,11 +326,11 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		////"autoResize"		"0"
+		
 		"pinCorner"			"2"
 		"visible"			"1"
 		"enabled"			"1"
-		//"tabPosition"		"0"
+		
 		"labelText"			"4"	[$WIN32]
 		"labelText"			""		[$X360]
 		"textAlignment"		"south-west"
@@ -388,11 +388,11 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		////"autoResize"		"0"
+		
 		"pinCorner"			"2"
 		"visible"			"1"
 		"enabled"			"1"
-		//"tabPosition"		"0"
+		
 		"labelText"			"5"	[$WIN32]
 		"labelText"			""		[$X360]
 		"textAlignment"		"south-west"
@@ -449,11 +449,11 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		////"autoResize"		"0"
+		
 		"pinCorner"			"2"
 		"visible"			"1"
 		"enabled"			"1"
-		//"tabPosition"		"0"
+		
 		"labelText"			"6"	[$WIN32]
 		"labelText"			""		[$X360]
 		"textAlignment"		"south-west"
@@ -518,7 +518,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_Support"
 		"textAlignment"	"left"
 		"font"			"MenuClassBuckets"
@@ -539,11 +539,11 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		////"autoResize"		"0"
+		
 		"pinCorner"			"2"
 		"visible"			"1"
 		"enabled"			"1"
-		//"tabPosition"		"0"
+		
 		"labelText"			"7"	[$WIN32]
 		"labelText"			""		[$X360]
 		"textAlignment"		"south-west"
@@ -602,11 +602,11 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		////"autoResize"		"0"
+		
 		"pinCorner"			"2"
 		"visible"			"1"
 		"enabled"			"1"
-		//"tabPosition"		"0"
+		
 		"labelText"			"8"	[$WIN32]
 		"labelText"			""		[$X360]
 		"textAlignment"		"south-west"
@@ -665,11 +665,11 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		////"autoResize"		"0"
+		
 		"pinCorner"			"2"
 		"visible"			"1"
 		"enabled"			"1"
-		//"tabPosition"		"0"
+		
 		"labelText"			"9"	[$WIN32]
 		"labelText"			""		[$X360]
 		"textAlignment"		"south-west"
@@ -725,11 +725,11 @@
 		"zpos"			"6"
 		"wide"			"100"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_ClassMenu_Cancel"
 		"textAlignment"	"center"
 		"Command"		"vguicancel"
@@ -746,11 +746,11 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#EditLoadout"
 		"textAlignment"	"center"
 		"Command"		"openloadout"
@@ -766,11 +766,11 @@
 		"zpos"			"6"
 		"wide"			"110"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_ClassMenu_Reset"
 		"textAlignment"	"center"
 		"Command"		"resetclass"
@@ -790,8 +790,8 @@
 		"zpos"			"5"
 		"wide"			"450"
 		"tall"			"30"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		//"visible_lodef"	"0"
 		"enabled"		"1"
@@ -820,7 +820,7 @@
 		"pinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"%hint%"
 		"textAlignment"	"left"
 		"wrap"			"1"
@@ -1031,7 +1031,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_TeamCount"
 		"textAlignment"	"left"
 		"font"			"HudFontMediumSmallSecondary"
@@ -1051,7 +1051,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"%numScout%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
@@ -1071,7 +1071,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"%numSoldier%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
@@ -1091,7 +1091,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"%numPyro%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
@@ -1111,7 +1111,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"%numDemoman%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
@@ -1131,7 +1131,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"%numHeavy%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
@@ -1151,7 +1151,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"%numEngineer%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
@@ -1171,7 +1171,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"%numMedic%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
@@ -1191,7 +1191,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"%numSniper%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
@@ -1211,7 +1211,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"%numSpy%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
@@ -1387,8 +1387,8 @@
 			"ypos"			"10"
 			"wide"			"260"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1406,8 +1406,8 @@
 			"ypos"			"45"
 			"wide"			"260"
 			"tall"			"170"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1423,11 +1423,11 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -1474,8 +1474,8 @@
 		"wide"			"480"
 		"tall"			"480"
 		
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		
@@ -1516,11 +1516,11 @@
 		"zpos"			"7"
 		"wide"			"235"
 		"tall"			"165"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 	}
 	
 	"ClassHighlightPanel"
@@ -1559,8 +1559,8 @@
 			"ypos"			"10"
 			"wide"			"210"
 			"tall"			"20"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1578,8 +1578,8 @@
 			"ypos"			"30"
 			"wide"			"210"
 			"tall"			"115"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
@@ -1595,11 +1595,11 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"

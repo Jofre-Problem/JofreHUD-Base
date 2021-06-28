@@ -11,12 +11,12 @@
 		"ypos"					"0"
 		"wide"					"260"
 		"tall"					"64"
-		//"autoResize"			"0"
+		
 		"visible"			    "1"
 		"enabled"               "1"
-		//"tabPosition"           "0"
+	
 		"settitlebarvisible"    "0"
-		//"pinCorner"			    "0"
+	
 	}
 
 	"GroupIcon"
@@ -82,11 +82,11 @@
 		"ypos"		            "40"
 		"wide"		            "50"
 		"tall"		            "12"
-		//"autoResize"	    	"0"
-		//"pinCorner"		        "0"
+		
+		
 		"visible"		        "1"
 		"enabled"		        "1"
-		//"tabPosition"	    	"0"
+		
 		"labelText"		        ""
 		"textAlignment"	    	"west"
 		"dulltext"		        "0"

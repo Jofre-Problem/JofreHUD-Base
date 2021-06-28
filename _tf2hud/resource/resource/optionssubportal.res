@@ -8,8 +8,8 @@
 		"ypos"		"28"
 		"wide"		"148"
 		"tall"		"28"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
@@ -35,8 +35,8 @@
 		"ypos"		"106"
 		"wide"		"175"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
@@ -57,14 +57,14 @@
 		"ypos"		"31"
 		"wide"		"320"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_PortalFunnelLabel"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -83,14 +83,14 @@
 		"ypos"		"82"
 		"wide"		"179"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_PortalDepthLabel"
 		"textAlignment"		"west"
 		"associate"		"PortalDepth"
@@ -110,14 +110,14 @@
 		"ypos"		"174"
 		"wide"		"300"
 		"tall"		"420"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"RoundedCorners"		"15"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"
 	}

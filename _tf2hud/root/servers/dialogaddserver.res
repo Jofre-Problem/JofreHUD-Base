@@ -8,11 +8,11 @@
 		"ypos"		"487"
 		"wide"		"572"
 		"tall"		"390"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"settitlebarvisible"		"1"
 		"title"		"#ServerBrowser_AddServersTitle"
@@ -26,10 +26,10 @@
 		"wide"		"526"
 		"tall"		"150"
 		"AutoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 	}
 	"Servers"
@@ -40,11 +40,11 @@
 		"ypos"		"28"
 		"wide"		"526"
 		"tall"		"122"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 	}
 	"ServerNameText"
@@ -55,8 +55,8 @@
 		"ypos"		"74"
 		"wide"		"330"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -75,8 +75,8 @@
 		"ypos"		"102"
 		"wide"		"190"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -95,8 +95,8 @@
 		"ypos"		"74"
 		"wide"		"190"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -115,11 +115,11 @@
 		"ypos"		"340"
 		"wide"		"230"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"PinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddSelectedToFavorites"
 		"textAlignment"		"west"
@@ -134,11 +134,11 @@
 		"ypos"		"46"
 		"wide"		"330"
 		"tall"		"20"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_EnterIPofServerToAdd"
 		"textAlignment"		"west"
@@ -153,11 +153,11 @@
 		"ypos"		"106"
 		"wide"		"328"
 		"tall"		"74"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"appearance"		"LabelDull"
 		"labelText"		"#ServerBrowser_Examples"
@@ -172,8 +172,8 @@
 		"ypos"		"131"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"4"

@@ -21,11 +21,11 @@
 		"ypos"			"20"
 		"wide"			"480"
 		"tall"			"80"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"Time Remaining"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -44,11 +44,11 @@
 		"ypos"			"140"
 		"wide"			"480"
 		"tall"			"80"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"0"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -67,11 +67,11 @@
 		"ypos"			"80"
 		"wide"			"480"
 		"tall"			"80"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"MALFUNCTION"
 		"textAlignment"	"center"
 		"dulltext"		"0"

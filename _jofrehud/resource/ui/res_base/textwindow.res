@@ -26,11 +26,11 @@
 		"zpos"			"6"
 		"wide"			"150"
 	//	"tall"			"30"
-		////"autoResize"	"0"
+		//
 	//	"pinCorner"		"2"
 	//	"visible"		"1"
 		//"enabled"		"1"
-		////"tabPosition"		"0"
+		//
 		"labelText"		"#TF_Continue"
 		//"textAlignment"		"center"
 	//	"dulltext"		"0"
@@ -48,11 +48,11 @@
 		"ypos"					"0"
 		"wide"					"f0"
 		"tall"					"480"
-		//"autoResize"			"0"
-		//"pinCorner"				"0"
+		
+		
 		"visible"				"1"
 		"enabled"				"1"
-		//"tabPosition"			"0"
+		
 		"settitlebarvisible"	"0"
 	}
 	
@@ -65,8 +65,8 @@
 		"zpos"			"1"
 		"wide"			"420"
 		"tall"			"24"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#TF_WELCOME"
@@ -96,7 +96,7 @@
 		"wide"			"415"
 		"tall"			"240"
 		"autoResize"	"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"paintborder"	"0"
@@ -114,10 +114,10 @@
 		"wide"			"415"
 		"tall"			"295"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintborder"	"0"
 	}
 	

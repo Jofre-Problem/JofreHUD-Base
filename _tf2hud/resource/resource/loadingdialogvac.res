@@ -8,11 +8,11 @@
 		"ypos"		"249"
 		"wide"		"380"
 		"tall"		"180"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"InfoLabel"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"34"
 		"wide"		"340"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_ParseBaseline"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -40,11 +40,11 @@
 		"ypos"		"64"
 		"wide"		"260"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"CancelButton"
 	{
@@ -54,11 +54,11 @@
 		"ypos"		"64"
 		"wide"		"72"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -74,11 +74,11 @@
 		"ypos"		"108"
 		"wide"		"260"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		""
 		"textAlignment"		"west"
 		"dulltext"		"1"
@@ -92,12 +92,12 @@
 		"ypos"		"100"
 		"wide"		"300"
 		"tall"		"60"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#VAC_ConnectingToSecureServer"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -111,8 +111,8 @@
 		"ypos"		"110"
 		"wide"		"64"
 		"tall"		"64"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"border"		""

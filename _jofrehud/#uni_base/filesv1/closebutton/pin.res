@@ -2,6 +2,6 @@
 {
 	"CloseButton"
 	{
-		//"pinCorner"		"0"
+		
 	}	
 }	

@@ -31,7 +31,7 @@
 		"zpos"			"0"
 		"wide"			"360"
 		"autoResize"	"1"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override"	"235 226 202 255"

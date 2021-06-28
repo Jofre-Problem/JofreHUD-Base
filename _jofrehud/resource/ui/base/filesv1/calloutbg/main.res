@@ -40,7 +40,7 @@
 		"fieldName"		"CalloutLabel"
 		"font"			"HudFontSmall"
 		"zpos"			"2"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"center"

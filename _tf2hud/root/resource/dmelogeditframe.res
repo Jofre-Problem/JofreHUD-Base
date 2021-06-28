@@ -8,11 +8,11 @@
 		"ypos"			"128"
 		"wide"			"268"
 		"tall"			"358"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"settitlebarvisible"	"1"
 		"title"		"Edit Log"
 		
@@ -43,7 +43,7 @@
 			"ypos"		"328"
 			"wide"		"122"
 			"tall"		"24"
-			////"autoResize"		"0"
+			
 			"pinCorner"		"2"
 			"visible"		"1"
 			"enabled"		"1"
@@ -63,7 +63,7 @@
 			"ypos"		"328"
 			"wide"		"122"
 			"tall"		"24"
-			//"autoResize"	"0"
+			
 			"pinCorner"		"2"
 			"visible"		"1"
 			"enabled"		"1"
@@ -84,10 +84,10 @@
 			"wide"			"256"
 			"tall"			"256"
 			"AutoResize"	"3"
-			//"pinCorner"		"0"
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 		}
 	}
 }

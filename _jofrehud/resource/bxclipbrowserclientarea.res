@@ -8,11 +8,11 @@
 		"ypos"		"6"
 		"wide"		"551"
 		"tall"		"373"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"BxClipScrollbar"
 	{
@@ -22,10 +22,10 @@
 		"ypos"		"30"
 		"wide"		"18"
 		"tall"		"343"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 }

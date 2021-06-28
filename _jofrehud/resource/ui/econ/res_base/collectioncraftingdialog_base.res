@@ -654,8 +654,8 @@
 			"zpos"				"100"
 			"wide"				"60"
 			"tall"				"25"
-			////"autoResize"		"0"
-			//"pinCorner"			"0"
+			
+			
 			"visible"			"0"
 			"enabled"			"1"
 			"proportionaltoparent"	"1"
@@ -671,11 +671,11 @@
 			{
 				"wide"				"19"
 				"tall"				"19"
-				////"autoResize"		"0"
+				
 				"pinCorner"			"2"
 				"visible"			"0"
 				"enabled"			"1"
-				//"tabPosition"		"0"
+				
 				"labelText"			""
 				"textAlignment"		"south-west"
 				"scaleImage"		"1"

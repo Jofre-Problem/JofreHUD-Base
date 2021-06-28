@@ -285,10 +285,10 @@
 		"ypos"			"340"
 		"wide"			"60"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_VR_LessLots"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -310,10 +310,10 @@
 		"ypos"			"340"
 		"wide"			"60"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_VR_Less"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -335,10 +335,10 @@
 		"ypos"			"340"
 		"wide"			"60"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_VR_More"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -360,10 +360,10 @@
 		"ypos"			"340"
 		"wide"			"60"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_VR_MoreLots"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -385,10 +385,10 @@
 		"ypos"			"380"
 		"wide"			"80"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_VR_NextAdjust"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
@@ -410,10 +410,10 @@
 		"ypos"			"380"
 		"wide"			"80"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#TF_VR_Close"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"

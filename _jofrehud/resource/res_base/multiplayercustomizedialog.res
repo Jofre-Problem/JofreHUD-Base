@@ -23,11 +23,11 @@
 		"fieldName"		"Cancel"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -41,8 +41,8 @@
 		"ControlName"		"Button"
 		"fieldName"		"Advanced"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#GameUI_Advanced"
@@ -56,16 +56,16 @@
 	{
 		"ControlName"		"CCvarSlider"
 		"fieldName"		"Primary Color Slider"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"enabled"		"1"
 	}
 	"Secondary Color Slider"
 	{
 		"ControlName"		"CCvarSlider"
 		"fieldName"		"Secondary Color Slider"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"enabled"		"1"
 	}
 	"High Quality Models"
@@ -74,8 +74,8 @@
 		"fieldName"		"High Quality Models"
 		"wide"		"174"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"enabled"		"1"
 		"labelText"		"#GameUI_HighModels"
 		"textAlignment"		"west"
@@ -88,16 +88,16 @@
 		"ControlName"		"CLabeledCommandComboBox"
 		"fieldName"		"Player model"
 		"xpos"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"enabled"		"1"
 	}
 	"SpraypaintList"
 	{
 		"ControlName"		"CLabeledCommandComboBox"
 		"fieldName"		"SpraypaintList"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 	}
@@ -107,10 +107,10 @@
 		"fieldName"		"ModelImage"
 		"wide"		"164"
 		"tall"		"200"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"LogoImage"
 	{
@@ -118,11 +118,11 @@
 		"fieldName"		"LogoImage"
 		"wide"		"64"
 		"tall"		"64"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"topHorizLeft"
 	{
@@ -130,7 +130,7 @@
 		"fieldName"		"topHorizLeft"
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
@@ -139,11 +139,11 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"topVertLeft"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
@@ -152,11 +152,11 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"bottomHorizRight"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
@@ -165,11 +165,11 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"bottomVertRight"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"

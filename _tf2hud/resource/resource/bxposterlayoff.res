@@ -8,11 +8,11 @@
 		"ypos"		"410"
 		"wide"		"450"
 		"tall"		"420"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#BxPosterLayoff"
 	}
@@ -24,11 +24,11 @@
 		"ypos"		"388"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Export"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -46,11 +46,11 @@
 		"ypos"		"388"
 		"wide"		"64"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Cancel"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -68,11 +68,11 @@
 		"ypos"		"42"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Choose File"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -90,11 +90,11 @@
 		"ypos"		"255"
 		"wide"		"190"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Progressive Refinement Settings..."
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -112,8 +112,8 @@
 		"ypos"		"41"
 		"wide"		"250"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -131,8 +131,8 @@
 		"ypos"		"185"
 		"wide"		"65"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"7"
@@ -150,8 +150,8 @@
 		"ypos"		"185"
 		"wide"		"65"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"8"
@@ -169,8 +169,8 @@
 		"ypos"		"80"
 		"wide"		"60"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -188,8 +188,8 @@
 		"ypos"		"115"
 		"wide"		"60"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"5"
@@ -207,11 +207,11 @@
 		"ypos"		"185"
 		"wide"		"40"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Time"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -226,8 +226,8 @@
 		"ypos"		"80"
 		"wide"		"65"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -245,8 +245,8 @@
 		"ypos"		"115"
 		"wide"		"65"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"4"
@@ -264,8 +264,8 @@
 		"ypos"		"150"
 		"wide"		"65"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"6"
@@ -283,11 +283,11 @@
 		"ypos"		"215"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Clear Decals"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -303,11 +303,11 @@
 		"ypos"		"240"
 		"wide"		"120"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Draw Game Entities:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -322,11 +322,11 @@
 		"ypos"		"260"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Draw Players"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -342,11 +342,11 @@
 		"ypos"		"280"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Draw NPCs"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -362,11 +362,11 @@
 		"ypos"		"300"
 		"wide"		"140"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Draw Other Entities"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -382,11 +382,11 @@
 		"ypos"		"340"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Draw Ropes"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -402,11 +402,11 @@
 		"ypos"		"320"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Draw Beams"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -422,11 +422,11 @@
 		"ypos"		"360"
 		"wide"		"140"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Draw Particle Systems"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -442,11 +442,11 @@
 		"ypos"		"300"
 		"wide"		"140"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Draw Recorded Elements:"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -461,11 +461,11 @@
 		"ypos"		"320"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Draw Puppets"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -481,11 +481,11 @@
 		"ypos"		"340"
 		"wide"		"100"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Draw Effects"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -501,11 +501,11 @@
 		"ypos"		"360"
 		"wide"		"140"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Draw Particle Systems"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -521,11 +521,11 @@
 		"ypos"		"80"
 		"wide"		"40"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Width"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -540,11 +540,11 @@
 		"ypos"		"115"
 		"wide"		"40"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Height"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -559,11 +559,11 @@
 		"ypos"		"150"
 		"wide"		"40"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"dpi"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -578,11 +578,11 @@
 		"ypos"		"40"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Output File:"
 		"textAlignment"		"west"
 		"dulltext"		"0"

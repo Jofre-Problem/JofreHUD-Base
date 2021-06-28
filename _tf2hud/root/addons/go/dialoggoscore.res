@@ -8,11 +8,11 @@
 		"ypos"		"306"
 		"wide"		"400"
 		"tall"		"180"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"TextLabel"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"25"
 		"wide"		"320"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Setting up YYY Game with XXX"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -40,11 +40,11 @@
 		"ypos"		"65"
 		"wide"		"150"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Black Territory: 0"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -58,11 +58,11 @@
 		"ypos"		"85"
 		"wide"		"150"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Black Captured: 0"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -76,11 +76,11 @@
 		"ypos"		"105"
 		"wide"		"150"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Black Score: 0"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -94,11 +94,11 @@
 		"ypos"		"65"
 		"wide"		"150"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"White Territory: 0"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -112,11 +112,11 @@
 		"ypos"		"85"
 		"wide"		"150"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"White Captured: 0"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -130,11 +130,11 @@
 		"ypos"		"105"
 		"wide"		"150"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"White Score: 0"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -148,11 +148,11 @@
 		"ypos"		"140"
 		"wide"		"150"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Close Game Window"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -167,11 +167,11 @@
 		"ypos"		"140"
 		"wide"		"150"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Keep Game Window"
 		"textAlignment"		"west"
 		"dulltext"		"0"

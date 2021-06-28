@@ -8,11 +8,11 @@
 		"ypos"		"28"
 		"wide"		"520"
 		"tall"		"332"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"RulesList"
 	{
@@ -23,7 +23,7 @@
 		"wide"		"496"
 		"tall"		"276"
 		"autoResize"		"3"
-		//"pinCorner"		"0"
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -36,7 +36,7 @@
 		"ypos"		"298"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
+		
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"

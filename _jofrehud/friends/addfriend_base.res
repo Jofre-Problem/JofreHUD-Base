@@ -19,8 +19,8 @@
 		"ypos"		"30"
 		"wide"		"460"
 		"tall"		"289"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -34,10 +34,10 @@
 		"xpos"		"24"
 		"wide"		"384"
 		"tall"		"60"
-	//	////"autoResize"		"0"
-	//	//"pinCorner"		"0"
+	//	
+	//	
 	//	"visible"		"1"
 	//	"enabled"		"1"
-	//	//"tabPosition"		"0"
+	//	
 	}
 }

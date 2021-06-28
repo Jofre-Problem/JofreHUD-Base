@@ -8,11 +8,11 @@
 		"ypos"		"35"
 		"wide"		"230"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Fade Visualization Mode:"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -27,11 +27,11 @@
 		"ypos"		"65"
 		"wide"		"230"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"8"
@@ -46,11 +46,11 @@
 		"ypos"		"95"
 		"wide"		"120"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Min Screen Width:"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -65,8 +65,8 @@
 		"ypos"		"95"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -84,11 +84,11 @@
 		"ypos"		"125"
 		"wide"		"120"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"Max Screen Width:"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -103,8 +103,8 @@
 		"ypos"		"125"
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"

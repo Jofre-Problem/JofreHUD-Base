@@ -8,8 +8,8 @@
 		"ypos"		"48"
 		"wide"		"364"
 		"tall"		"234"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -25,8 +25,8 @@
 		"ypos"		"92"
 		"wide"		"380"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -45,11 +45,11 @@
 		"ypos"		"32"
 		"wide"		"390"
 		"tall"		"40"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_EnterAccountNameOrEmailAddress"
 		"textAlignment"		"north-west"

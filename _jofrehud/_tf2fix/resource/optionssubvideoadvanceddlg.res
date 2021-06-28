@@ -9,11 +9,11 @@
 		"wide"		"482"
 		"tall"		"510" [!$OSX]
 		"tall"		"358" [$OSX]
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#GameUI_VideoAdvanced_Title"
 	}
@@ -25,11 +25,11 @@
 		"ypos"		"0"
 		"wide"		"466"
 		"tall"		"5"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_bottomGrip"
 	{
@@ -39,11 +39,11 @@
 		"ypos"		"503"
 		"wide"		"456"
 		"tall"		"5"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_leftGrip"
 	{
@@ -53,11 +53,11 @@
 		"ypos"		"8"
 		"wide"		"5"
 		"tall"		"492"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_rightGrip"
 	{
@@ -67,11 +67,11 @@
 		"ypos"		"8"
 		"wide"		"5"
 		"tall"		"482"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_tlGrip"
 	{
@@ -81,11 +81,11 @@
 		"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_trGrip"
 	{
@@ -95,11 +95,11 @@
 		"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_blGrip"
 	{
@@ -109,11 +109,11 @@
 		"ypos"		"500"
 		"wide"		"8"
 		"tall"		"8"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_brGrip"
 	{
@@ -123,11 +123,11 @@
 		"ypos"		"490"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_caption"
 	{
@@ -137,11 +137,11 @@
 		"ypos"		"0"
 		"wide"		"472"
 		"tall"		"23"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"frame_minimize"
 	{
@@ -151,11 +151,11 @@
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"0"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -171,11 +171,11 @@
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"1"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -191,11 +191,11 @@
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"0"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"o"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -212,11 +212,11 @@
 		"ypos"		"8"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"r"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
@@ -232,11 +232,11 @@
 		"ypos"		"8"
 		"wide"		"18"
 		"tall"		"18"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
@@ -251,8 +251,8 @@
 		"ypos"		"385"
 		"wide"		"132"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
 		"enabled"		"0"
@@ -271,8 +271,8 @@
 		"ypos"		"58"
 		"wide"		"132"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
@@ -290,8 +290,8 @@
 		"ypos"		"58"
 		"wide"		"132"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
@@ -309,8 +309,8 @@
 		"ypos"		"196"
 		"wide"		"132"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"7"
@@ -328,8 +328,8 @@
 		"ypos"		"196"
 		"wide"		"132"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"8"
@@ -347,8 +347,8 @@
 		"ypos"		"118"
 		"wide"		"132"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"5"
@@ -366,8 +366,8 @@
 		"ypos"		"316"
 		"wide"		"132"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1" [!$OSX]
 		"visible"		"0" [$OSX]
 		"enabled"		"1"
@@ -386,8 +386,8 @@
 		"ypos"		"118"
 		"wide"		"132"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"4"
@@ -405,8 +405,8 @@
 		"ypos"		"196"
 		"wide"		"132"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"9"
@@ -424,8 +424,8 @@
 		"ypos"		"58"
 		"wide"		"132"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
@@ -443,8 +443,8 @@
 		"ypos"		"118"
 		"wide"		"132"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"6"
@@ -462,8 +462,8 @@
 		"ypos"		"258"
 		"wide"		"132"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"10"
@@ -481,8 +481,8 @@
 		"ypos"		"316"
 		"wide"		"292"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1" [!$OSX]
 		"visible"		"0" [$OSX]
 		"enabled"		"1"
@@ -503,11 +503,11 @@
 		"ypos"		"232"
 		"wide"		"138"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_MotionBlur"
 		"textAlignment"		"west"
 		"associate"		"HDR"
@@ -524,8 +524,8 @@
 		"ypos"		"316" [$OSX]
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"16"
@@ -547,8 +547,8 @@
 		"ypos"		"316" [$OSX]
 		"wide"		"80"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"17"
@@ -569,12 +569,12 @@
 		"ypos"		"385"
 		"wide"		"288"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_DX_Level"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -589,12 +589,12 @@
 		"ypos"		"360"
 		"wide"		"288"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_DX_Installed"
 		"textAlignment"		"east"
 		"dulltext"		"0"
@@ -609,11 +609,11 @@
 		"ypos"		"34"
 		"wide"		"112"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Model_Detail"
 		"textAlignment"		"west"
 		"associate"		"ModelDetail"
@@ -629,11 +629,11 @@
 		"ypos"		"34"
 		"wide"		"124"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Texture_Detail"
 		"textAlignment"		"west"
 		"associate"		"TextureDetail"
@@ -649,11 +649,11 @@
 		"ypos"		"172"
 		"wide"		"156"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Antialiasing_Mode"
 		"textAlignment"		"west"
 		"associate"		"AntialiasingMode"
@@ -669,11 +669,11 @@
 		"ypos"		"172"
 		"wide"		"152"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Filtering_Mode"
 		"textAlignment"		"west"
 		"associate"		"FilteringMode"
@@ -689,12 +689,12 @@
 		"ypos"		"360"
 		"wide"		"130"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"DirectX v9.0"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -709,12 +709,12 @@
 		"ypos"		"352"
 		"wide"		"438"
 		"tall"		"2"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"Label7"
 	{
@@ -724,11 +724,11 @@
 		"ypos"		"94"
 		"wide"		"132"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Water_Detail"
 		"textAlignment"		"west"
 		"associate"		"WaterDetail"
@@ -744,11 +744,11 @@
 		"ypos"		"94"
 		"wide"		"132"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Shadow_Detail"
 		"textAlignment"		"west"
 		"associate"		"ShadowDetail"
@@ -764,11 +764,11 @@
 		"ypos"		"94"
 		"wide"		"132"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Color_Correction"
 		"textAlignment"		"west"
 		"associate"		"ColorCorrection"
@@ -784,11 +784,11 @@
 		"ypos"		"172"
 		"wide"		"154"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Wait_For_VSync"
 		"textAlignment"		"west"
 		"associate"		"VSync"
@@ -804,11 +804,11 @@
 		"ypos"		"34"
 		"wide"		"132"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_Shader_Detail"
 		"textAlignment"		"west"
 		"associate"		"ShaderDetail"
@@ -825,11 +825,11 @@
 		"ypos"		"310" [$OSX]
 		"wide"		"280"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_RecommendedSettings"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -845,12 +845,12 @@
 		"ypos"		"292"
 		"wide"		"138"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1" [!$OSX]
 		"visible"		"0" [$OSX]
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_HDR"
 		"textAlignment"		"west"
 		"associate"		"HDR"
@@ -866,11 +866,11 @@
 		"ypos"		"160"
 		"wide"		"438"
 		"tall"		"2"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 	}
 	"BuildModeDialog"
 	{
@@ -880,11 +880,11 @@
 		"ypos"		"648"
 		"wide"		"300"
 		"tall"		"420"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"
 	}
@@ -896,8 +896,8 @@
 		"ypos"		"252"
 		"wide"		"140"
 		"tall"		"50"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"11"
@@ -916,11 +916,11 @@
 		"ypos"		"232"
 		"wide"		"168"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_FOV"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -935,11 +935,11 @@
 		"ypos"		"232"
 		"wide"		"168"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"		"0"
+		
 		"labelText"		"#GameUI_MulticoreRendering"
 		"textAlignment"		"west"
 		"dulltext"		"0"
@@ -954,8 +954,8 @@
 		"ypos"		"258"
 		"wide"		"132"
 		"tall"		"24"
-		////"autoResize"		"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"10"

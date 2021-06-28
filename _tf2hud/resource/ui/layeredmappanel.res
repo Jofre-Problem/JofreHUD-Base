@@ -60,8 +60,8 @@
 			"ypos"			"0"
 			"wide"			"300"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../HUD/color_panel_blu"
@@ -107,8 +107,8 @@
 			"zpos"			"-1"
 			"wide"			"180"
 			"tall"			"180"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../HUD/tournament_panel_brown"

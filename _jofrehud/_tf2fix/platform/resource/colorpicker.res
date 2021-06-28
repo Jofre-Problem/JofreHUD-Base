@@ -8,11 +8,11 @@
 		"ypos"			"128"
 		"wide"			"640"
 		"tall"			"480"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"settitlebarvisible"	"1"
 		"title"		"#Frame_Untitled"
 		
@@ -24,11 +24,11 @@
 			"ypos"			"10"
 			"wide"			"256"
 			"tall"			"256"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 		}
 
 		"ColorZPreview"
@@ -39,11 +39,11 @@
 			"ypos"			"4"
 			"wide"			"36"
 			"tall"			"268"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 		}
 		
 		"CurrentColor"
@@ -54,11 +54,11 @@
 			"ypos"			"10"
 			"wide"			"100"
 			"tall"			"50"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 		}
 
 		"InitialColor"
@@ -69,11 +69,11 @@
 			"ypos"			"67"
 			"wide"			"100"
 			"tall"			"50"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 		}
 
 		"HueRadio"
@@ -84,8 +84,8 @@
 			"ypos"			"125"
 			"wide"			"48"
 			"tall"			"24"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"selected"		"1"
@@ -107,8 +107,8 @@
 			"ypos"			"150"
 			"wide"			"48"
 			"tall"			"24"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"8"
@@ -129,8 +129,8 @@
 			"ypos"			"175"
 			"wide"			"48"
 			"tall"			"24"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"8"
@@ -151,8 +151,8 @@
 			"ypos"			"200"
 			"wide"			"48"
 			"tall"			"24"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"8"
@@ -173,8 +173,8 @@
 			"ypos"			"225"
 			"wide"			"48"
 			"tall"			"24"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"8"
@@ -195,8 +195,8 @@
 			"ypos"			"250"
 			"wide"			"48"
 			"tall"			"24"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"8"
@@ -217,8 +217,8 @@
 			"ypos"			"125"
 			"wide"			"48"
 			"tall"			"24"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"NumericInputOnly" "1"
@@ -237,8 +237,8 @@
 			"ypos"			"150"
 			"wide"			"48"
 			"tall"			"24"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"NumericInputOnly" "1"
@@ -257,12 +257,12 @@
 			"ypos"			"150"
 			"wide"			"15"
 			"tall"			"24"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"NumericInputOnly" "1"
-			//"tabPosition"		"0"
+			
 			"labelText"			"%"
 			"textAlignment"		"west"
 			"dulltext"			"0"
@@ -277,8 +277,8 @@
 			"ypos"			"175"
 			"wide"			"48"
 			"tall"			"24"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"NumericInputOnly" "1"
@@ -297,12 +297,12 @@
 			"ypos"			"175"
 			"wide"			"15"
 			"tall"			"24"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"NumericInputOnly" "1"
-			//"tabPosition"		"0"
+			
 			"labelText"			"%"
 			"textAlignment"		"west"
 			"dulltext"			"0"
@@ -317,8 +317,8 @@
 			"ypos"			"200"
 			"wide"			"48"
 			"tall"			"24"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"NumericInputOnly" "1"
@@ -337,8 +337,8 @@
 			"ypos"			"225"
 			"wide"			"48"
 			"tall"			"24"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"NumericInputOnly" "1"
@@ -358,8 +358,8 @@
 			"wide"			"48"
 			"tall"			"24"
 			"NumericInputOnly" "1"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"6"
@@ -378,8 +378,8 @@
 			"wide"			"48"
 			"tall"			"24"
 			"NumericInputOnly" "1"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"7"
@@ -397,12 +397,12 @@
 			"ypos"			"275"
 			"wide"			"15"
 			"tall"			"24"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"NumericInputOnly" "1"
-			//"tabPosition"		"0"
+			
 			"labelText"			"A"
 			"textAlignment"		"west"
 			"dulltext"			"0"

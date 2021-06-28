@@ -16,8 +16,8 @@
 		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"1"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"visible"			"0"
 		"fgcolor_override"	"117 108 93 255"
 	}
@@ -32,8 +32,8 @@
 		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"1"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"visible"			"0"
 		"fgcolor_override"	"117 108 93 255"
 	}
@@ -58,8 +58,8 @@
 		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"1"
-		////"autoResize"		"0"
-		//"pinCorner"			"0"
+		
+		
 		"visible"			"0"
 		"fgcolor_override"	"117 108 93 255"
 	}

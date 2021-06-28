@@ -2,6 +2,6 @@
 {
 	"classmodelpanel"
 	{
-		//"pinCorner"		"0"
+		
 	}
 }

@@ -53,11 +53,11 @@
 			"zpos"			"50"
 			"wide"			"p0.987"
 			"tall"			"1"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
-			//"tabPosition"	"0"
+			
 			"bgcolor_override"	"255 255 255 252"
 			"proportionaltoparent"	"1"
 		}
@@ -74,8 +74,8 @@
 			"zpos"			"2"
 			"wide"			"f0"
 			"tall"			"30"
-			//"autoResize"	"0"
-			//"pinCorner"		"0"
+			
+			
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"0"
@@ -124,8 +124,8 @@
 				"zpos"				"2"
 				"wide"				"85"
 				"tall"				"15"
-				////"autoResize"		"0"
-				//"pinCorner"			"0"
+				
+				
 				"visible"			"1"
 				"enabled"			"1"
 				"textHidden"		"0"
@@ -153,11 +153,11 @@
 				"zpos"			"2"
 				"wide"			"160"
 				"tall"			"25"
-				//"autoResize"	"0"
+				
 				//"pinCorner"		"3"
 				"visible"		"1"
 				"enabled"		"1"
-				//"tabPosition"	"0"
+				
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_StartSearch"
@@ -177,11 +177,11 @@
 				"zpos"			"2"
 				"wide"			"160"
 				"tall"			"25"
-				//"autoResize"	"0"
+				
 				"pinCorner"		"3"
 				"visible"		"0"
 				"enabled"		"1"
-				//"tabPosition"	"0"
+				
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_CancelSearch"

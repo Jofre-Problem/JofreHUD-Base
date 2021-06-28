@@ -8,11 +8,11 @@
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
+		
+		
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"setclosebuttonvisible"	"0"
 		"settitlebarvisible"	"1"
 		"PaintBackgroundType"	"0"
@@ -122,11 +122,11 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"25"
-		//"autoResize"	"0"
+		
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
-		//"tabPosition"	"0"
+		
 		"labelText"		"#Replay_BackCarat"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"

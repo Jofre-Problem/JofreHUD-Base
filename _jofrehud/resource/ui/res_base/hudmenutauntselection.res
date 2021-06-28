@@ -57,8 +57,8 @@
 		"zpos"			"3"
 		"wide"			"360"
 		"tall"			"38"
-	//	//"autoResize"	"0"
-	//	//"pinCorner"		"0"
+	//	
+	//	
 	//	"visible"		"1"
 	//	"enabled"		"1"
 		"labelText"		"#Hud_Menu_Taunt_Title"
