@@ -3,7 +3,7 @@
 	"InputStringForItemBackpackOverlayDialog"
 	{
 		"fieldName"				"InputStringForItemBackpackOverlayDialog"
-		"visible"				"1"
+		
 		
 		"xpos"					"c-140"
 		"ypos"					"c-165"

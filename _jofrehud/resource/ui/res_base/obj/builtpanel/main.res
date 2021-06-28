@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BuiltPanel"
 		
-		"ypos"			"0"
+		
 		"wide"			"160"
 		"visible"		"0"
 	}

@@ -64,7 +64,7 @@
 		"zpos"					"9"
 		"wide"					"260"
 		"tall"					"60"
-		"visible"				"1"
+		
 		
 		"scaleImage"			"1"
 		"proportionaltoparent"	"1"

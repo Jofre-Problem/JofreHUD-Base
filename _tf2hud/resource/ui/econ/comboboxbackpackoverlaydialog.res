@@ -3,7 +3,7 @@
 	"ComboBoxBackpackOverlayDialogBase"
 	{
 		"fieldName"				"ComboBoxBackpackOverlayDialogBase"
-		"visible"				"1"
+		
 		
 		"xpos"					"c-140"
 		"ypos"					"105"
@@ -23,7 +23,7 @@
 		"labelText"		"#TF_Item_SelectStyle"
 		"textAlignment"	"center"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"280"
 		"tall"			"60"

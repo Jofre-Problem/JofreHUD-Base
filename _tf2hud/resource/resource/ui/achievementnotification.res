@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notification_Background"
 		"xpos"			"r250"
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"240"
 		"tall"			"40"

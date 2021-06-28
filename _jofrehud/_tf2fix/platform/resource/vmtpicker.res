@@ -25,7 +25,7 @@
 			"AutoResize"	"3"
 			
 			
-			"ypos"			"0"
+			
 			
 			
 			
@@ -246,7 +246,7 @@
 					"AutoResize"	"3"
 					
 					
-					"ypos"			"0"
+					
 					
 					
 					

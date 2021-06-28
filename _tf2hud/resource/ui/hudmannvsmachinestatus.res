@@ -77,7 +77,7 @@
 		"ControlName"	"CWarningSwoop"
 		"fieldName"		"WarningSwoop"
 		"xpos"			"c-12"
-		"ypos"			"0"
+		
 		"zpos"			"10"
 		"wide"			"24"
 		"tall"			"220"
@@ -93,7 +93,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"UpgradeLevelContainer"
 		
-		"ypos"			"0"
+		
 		"wide"			"640"
 		"tall"			"480"
 		"visible"		"0"
@@ -196,7 +196,7 @@
 		"ControlName"	"CMvMVictoryPanelContainer"
 		"fieldName"		"VictoryPanelContainer"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"0"
@@ -207,7 +207,7 @@
 		"ControlName"	"CMvMWaveLossPanel"
 		"fieldName"		"WaveLossPanel"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"0"
@@ -218,7 +218,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ServerChangeMessage"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"0"

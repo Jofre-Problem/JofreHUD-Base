@@ -176,7 +176,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"MannCoImage"
 			"xpos"			"15"
-			"ypos"			"0"
+			
 			
 			"wide"			"420"
 			"tall"			"220"
@@ -192,7 +192,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"StoreBackgroundPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -205,7 +205,7 @@
 			"ControlName"	"ScalableImagePanel"
 			"fieldName"		"StoreBackgroundImage"
 			
-			"ypos"			"0"
+			
 			
 			"wide"			"f0"
 			"tall"			"f0"
@@ -487,7 +487,7 @@
 			"labelText"		"#Store_Case_Label"
 			"textAlignment"	"west"
 			
-			"ypos"			"0"
+			
 			
 			"wide"			"200"
 			"tall"			"20"

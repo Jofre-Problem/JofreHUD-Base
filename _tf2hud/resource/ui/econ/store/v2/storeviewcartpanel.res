@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"store_viewcart_panel"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"480"
 		
@@ -33,7 +33,7 @@
 		"item_entry_kv"
 		{
 			
-			"ypos"			"0"
+			
 			"wide"			"580"
 			"tall"			"60"
 		
@@ -42,7 +42,7 @@
 				"ControlName"	"CItemModelPanel"
 				"fieldname"		"itempanel"
 				
-				"ypos"			"0"
+				
 				"wide"			"400"
 				"tall"			"58"
 				"visible"		"1"
@@ -137,7 +137,7 @@
 				"font"			"FontCartPrice"
 				"textAlignment"	"east"
 				"xpos"			"475"
-				"ypos"			"0"
+				
 				"zpos"			"15"
 				"wide"			"95"
 				"tall"			"60"
@@ -175,7 +175,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BackgroundHeader"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"55"
@@ -228,7 +228,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"HeaderLine"
 			
-			"ypos"			"0"
+			
 			"zpos"			"5"
 			"wide"			"f0"
 			"tall"			"10"
@@ -340,7 +340,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ItemListContainer"
 				
-				"ypos"			"0"
+				
 				"zpos"			"5"
 				"wide"			"500"
 				"tall"			"240"
@@ -431,7 +431,7 @@
 						"font"			"FontCartPrice"
 						"textAlignment"	"east"
 						"xpos"			"475"
-						"ypos"			"0"
+						
 						"zpos"			"15"
 						"wide"			"100"
 						"tall"			"60"

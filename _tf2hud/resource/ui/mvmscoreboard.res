@@ -47,7 +47,7 @@
 			"labelText"		"#TF_MvM_Difficulty"
 			"textAlignment"	"center"
 			
-			"ypos"			"0"
+			
 			"wide"			"150"
 			"tall"			"10"
 			"fgcolor"		"tanlight"
@@ -122,7 +122,7 @@
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"CreditStatsBackground"
 			
-			"ypos"			"0"
+			
 			"zpos"			"-1"
 			"wide"			"400"
 			"tall"			"135"

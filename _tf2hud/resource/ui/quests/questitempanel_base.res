@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"QuestItemPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10"
 		"wide"			"f0"
 		"tall"			"o1.1"
@@ -92,7 +92,7 @@
 		{
 			"ControlName"			"EditablePanel"
 			"fieldName"				"MainContainer"
-			"xpos"					"0"
+			
 			"ypos"					"r0"
 			"wide"					"f0"
 			"tall"					"f0"
@@ -102,12 +102,12 @@
 			{
 				"ControlName"			"EditablePanel"
 				"fieldName"				"QuestPaperContainer"
-				"xpos"					"0"
+				
 				"ypos"					"10"
 				"zpos"					"10"
 				"wide"					"f0"
 				"tall"					"f0"
-				"visible"				"1"
+				
 				"proportionaltoparent"	"1"
 
 				"PaperImage"
@@ -115,7 +115,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"PaperImage"
 					
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"f0"
 					"tall"			"o1"
@@ -134,7 +134,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"EncodedImage"
 					
-					"ypos"			"0"
+					
 					"zpos"			"199"
 					"wide"			"f0"
 					"tall"			"o1"
@@ -199,7 +199,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"PaperClips"
 					
-					"ypos"			"0"
+					
 					"zpos"			"100"
 					"wide"			"f0"
 					"tall"			"o1"
@@ -217,7 +217,7 @@
 				{
 					"ControlName"			"EditablePanel"
 					"fieldName"				"IdentifyButtonContainer"
-					"xpos"					"0"
+					
 					"ypos"					"130"
 					"zpos"					"200"
 					"wide"					"f0"
@@ -230,7 +230,7 @@
 						"ControlName"	"EditablePanel"
 						"fieldName"		"Dimmer"
 						
-						"ypos"			"0"
+						
 						
 						"wide"			"f0"
 						"tall"			"f0"
@@ -246,7 +246,7 @@
 						"ControlName"	"CExButton"
 						"fieldName"		"IdentifyButton"
 						
-						"ypos"			"0"
+						
 						"zpos"			"10"
 						"wide"			"f0"
 						"tall"			"f0"
@@ -282,7 +282,7 @@
 				{
 					"ControlName"			"EditablePanel"
 					"fieldName"				"TurnInContainer"
-					"xpos"					"0"
+					
 					"ypos"					"130"
 					"zpos"					"200"
 					"wide"					"f0"
@@ -295,7 +295,7 @@
 						"ControlName"	"EditablePanel"
 						"fieldName"		"Dimmer"
 						
-						"ypos"			"0"
+						
 						
 						"wide"			"f0"
 						"tall"			"f0"
@@ -311,7 +311,7 @@
 						"ControlName"	"EditablePanel"
 						"fieldName"		"GreyDimmer"
 						
-						"ypos"			"0"
+						
 						
 						"wide"			"f0"
 						"tall"			"f0"
@@ -327,7 +327,7 @@
 						"ControlName"	"CExButton"
 						"fieldName"		"TurnInButton"
 						
-						"ypos"			"0"
+						
 						"zpos"			"10"
 						"wide"			"f0"
 						"tall"			"f0"
@@ -362,12 +362,12 @@
 					{
 						"ControlName"			"EditablePanel"
 						"fieldName"				"TurnInSpinnerContainer"
-						"xpos"					"0"
-						"ypos"					"0"
+						
+						
 						"zpos"					"200"
 						"wide"					"f0"
 						"tall"					"f0"
-						"visible"				"1"
+						
 						"proportionaltoparent"	"1"
 
 						"TurningInLabel"
@@ -375,7 +375,7 @@
 							"ControlName"	"Label"
 							"fieldName"		"TurningInLabel"
 							
-							"ypos"			"0"
+							
 							"zpos"			"10"
 							"wide"			"f0"
 							"tall"			"f0"
@@ -608,7 +608,7 @@
 						"tall"					"15"
 						
 						
-						"visible"				"1"
+						
 						
 						"wrap"					"1"
 						"proportionaltoparent"	"1"
@@ -622,7 +622,7 @@
 						"ControlName"	"ImagePanel"
 						"fieldName"		"LoanersBGImage"
 						
-						"ypos"			"0"
+						
 						
 						"wide"			"f0"
 						"tall"			"f0"
@@ -802,7 +802,7 @@
 						"ControlName"	"ScrollBar"
 						"FieldName"		"ScrollBar"
 						"xpos"			"rs1"
-						"ypos"			"0"
+						
 						"tall"			"f0"
 						"wide"			"5" // This gets slammed from client schme.  GG.
 						"zpos"			"1000"
@@ -836,14 +836,14 @@
 						"font"					"QuestFlavorText"
 						"labelText"				"%expiration%"
 						"textAlignment"			"north-west"
-						"xpos"					"0"
-						"ypos"					"0"
+						
+						
 						"zpos"					"1"
 						"wide"					"f0"
 						"tall"					"40"
 						
 						
-						"visible"				"1"
+						
 						
 						"wrap"					"1"
 						"proportionaltoparent"	"1"
@@ -860,14 +860,14 @@
 						"font"					"QuestFlavorText"
 						"labelText"				"#TF_QuestObjective_Explanation"
 						"textAlignment"			"north-west"
-						"xpos"					"0"
-						"ypos"					"0"
+						
+						
 						"zpos"					"1"
 						"wide"					"f0"
 						"tall"					"40"
 						
 						
-						"visible"				"1"
+						
 						
 						"wrap"					"1"
 						"proportionaltoparent"	"1"
@@ -884,14 +884,14 @@
 						"font"					"QuestFlavorText"
 						"labelText"				"%flavor_text%"
 						"textAlignment"			"north-west"
-						"xpos"					"0"
-						"ypos"					"0"
+						
+						
 						"zpos"					"1"
 						"wide"					"f0"
 						"tall"					"1000"
 						
 						
-						"visible"				"1"
+						
 						
 						"wrap"					"1"
 						"proportionaltoparent"	"1"
@@ -924,7 +924,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"BackFolderImage"
 					
-					"ypos"			"0"
+					
 					
 					"wide"			"f0"
 					"tall"			"o1"
@@ -995,7 +995,7 @@
 					"ControlName"	"CQuestStatusPanel"
 					"fieldName"		"EncodedStatus"
 					"xpos"			"20"
-					"ypos"			"0"
+					
 					"wide"			"100"
 					"tall"			"100"
 
@@ -1003,8 +1003,8 @@
 					{
 						"ControlName"			"EditablePanel"
 						"fieldName"				"movingcontainer"
-						"xpos"					"0"
-						"ypos"					"0"
+						
+						
 						"wide"					"f0"
 						"tall"					"f0"
 						"proportionaltoparent"	"1"
@@ -1014,7 +1014,7 @@
 							"ControlName"	"ImagePanel"
 							"fieldName"		"Background"
 							
-							"ypos"			"0"
+							
 							
 							"wide"			"f0"
 							"tall"			"f0"
@@ -1035,14 +1035,14 @@
 							"font"					"QuestStickyText"
 							"labelText"				"#TF_Quest_Status_Encoded"
 							"textAlignment"			"center"
-							"xpos"					"0"
-							"ypos"					"0"
+							
+							
 							"zpos"					"1"
 							"wide"					"f0"
 							"tall"					"30"
 							
 							
-							"visible"				"1"
+							
 							
 							"proportionaltoparent"	"1"
 
@@ -1057,7 +1057,7 @@
 					"ControlName"	"CQuestStatusPanel"
 					"fieldName"		"ReadyToTurnInStatus"
 					"xpos"			"20"
-					"ypos"			"0"
+					
 					"wide"			"100"
 					"tall"			"100"
 
@@ -1065,8 +1065,8 @@
 					{
 						"ControlName"			"EditablePanel"
 						"fieldName"				"movingcontainer"
-						"xpos"					"0"
-						"ypos"					"0"
+						
+						
 						"wide"					"f0"
 						"tall"					"f0"
 						"proportionaltoparent"	"1"
@@ -1076,7 +1076,7 @@
 							"ControlName"	"ImagePanel"
 							"fieldName"		"Background"
 							
-							"ypos"			"0"
+							
 							
 							"wide"			"f0"
 							"tall"			"f0"
@@ -1097,14 +1097,14 @@
 							"font"					"QuestStickyText"
 							"labelText"				"#TF_Quest_Status_ReadyToTurnIn"
 							"textAlignment"			"center"
-							"xpos"					"0"
-							"ypos"					"0"
+							
+							
 							"zpos"					"1"
 							"wide"					"f0"
 							"tall"					"30"
 							
 							
-							"visible"				"1"
+							
 							
 							"proportionaltoparent"	"1"
 
@@ -1119,7 +1119,7 @@
 					"ControlName"	"CQuestStatusPanel"
 					"fieldName"		"InactiveStatus"
 					"xpos"			"8"
-					"ypos"			"0"
+					
 					"zpos"			"8"
 					"wide"			"100"
 					"tall"			"100"
@@ -1128,8 +1128,8 @@
 					{
 						"ControlName"			"EditablePanel"
 						"fieldName"				"movingcontainer"
-						"xpos"					"0"
-						"ypos"					"0"
+						
+						
 						"wide"					"f0"
 						"tall"					"f0"
 						"proportionaltoparent"	"1"
@@ -1142,7 +1142,7 @@
 							"ControlName"	"ImagePanel"
 							"fieldName"		"Background"
 							
-							"ypos"			"0"
+							
 							
 							"wide"			"f0"
 							"tall"			"f0"
@@ -1163,14 +1163,14 @@
 							"font"					"QuestStickyText"
 							"labelText"				"#TF_Quest_Status_Inactive"
 							"textAlignment"			"center"
-							"xpos"					"0"
-							"ypos"					"0"
+							
+							
 							"zpos"					"1"
 							"wide"					"f0"
 							"tall"					"30"
 							
 							
-							"visible"				"1"
+							
 							
 							"proportionaltoparent"	"1"
 

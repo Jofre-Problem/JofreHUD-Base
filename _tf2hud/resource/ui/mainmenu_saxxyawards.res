@@ -6,7 +6,7 @@
 		"fieldName"		"Background"
 		
 		
-		"ypos"			"0"
+		
 		"zpos"			"-100"
 		"wide"			"f0"
 		"tall"			"480"
@@ -257,7 +257,7 @@
 			"image"			"replay/mainmenu_curtain_L"
 			
 			
-			"ypos"			"0"
+			
 			"zpos"			"101"
 			"wide"			"175"
 			"tall"			"290"
@@ -281,7 +281,7 @@
 			"image"			"replay/mainmenu_curtain_R"
 			
 			"xpos"			"175"
-			"ypos"			"0"
+			
 			"zpos"			"101"
 			"wide"			"175"
 			"tall"			"290"
@@ -302,7 +302,7 @@
 			"image"			"replay/mainmenu_curtains_static"
 			
 			
-			"ypos"			"0"
+			
 			"zpos"			"102"
 			"wide"			"350"
 			"tall"			"290"

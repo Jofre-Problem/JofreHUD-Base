@@ -32,7 +32,7 @@
 		{
 			"ControlName"	"CTFHudRobotDestruction_RobotIndicator"
 			
-			"ypos"			"0"
+			
 			"wide"			"20"
 			"tall"			"20"
 			"visible"		"1"
@@ -141,13 +141,13 @@
 		{
 			"fieldName"				"CarriedProgressBar"
 			"ControlName"			"ImagePanel"
-			"xpos"					"0"
-			"ypos"					"0"
+			
+			
 			"zpos"					"10"
 			"wide"					"f0"
 			"tall"					"f0"
 			"scaleimage"			"0"
-			"visible"				"1"
+			
 			"proportionalToParent"	"1"
 			"positionImage"			"0"
 			"drawcolor"				"84 111 127 255"
@@ -204,7 +204,7 @@
 		"wide"					"400"
 		"tall"					"120"
 		"scaleimage"			"0"
-		"visible"				"1"
+		
 		
 
 		"ProgressBarContainer"
@@ -216,7 +216,7 @@
 			"zpos"					"1"
 			"wide"					"300"
 			"tall"					"60"
-			"visible"				"1"
+			
 			
 			"proportionalToParent"	"1"
 		
@@ -224,13 +224,13 @@
 			{
 				"fieldName"				"ScoreOutline"
 				"ControlName"			"ImagePanel"
-				"xpos"					"0"
-				"ypos"					"0"
+				
+				
 				"zpos"					"10"
 				"wide"					"f0"
 				"tall"					"f0"
 				"scaleimage"			"1"
-				"visible"				"1"
+				
 				
 				"Image"					"../hud/objectives_corepanel_bg"
 			}
@@ -253,7 +253,7 @@
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabel"
 					
-					"ypos"			"0"
+					
 					"zpos"			"8"
 					"wide"			"95"
 					"tall"			"35"
@@ -289,7 +289,7 @@
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelTime"
 					
-					"ypos"			"0"
+					
 					"zpos"			"8"
 					"wide"			"55"
 					"tall"			"35"
@@ -333,13 +333,13 @@
 			{
 				"fieldName"				"BlueProgressBarFill"
 				"ControlName"			"ImagePanel"
-				"xpos"					"0"
-				"ypos"					"0"
+				
+				
 				"zpos"					"2"
 				"wide"					"150"
 				"tall"					"f0"
 				"scaleimage"			"0"
-				"visible"				"1"
+				
 				"proportionalToParent"	"1"
 				"positionImage"			"0"
 				"drawcolor"				"84 111 127 255"
@@ -358,13 +358,13 @@
 			{
 				"fieldName"				"BlueProgressBarEscrow"
 				"ControlName"			"ImagePanel"
-				"xpos"					"0"
-				"ypos"					"0"
+				
+				
 				"zpos"					"1"
 				"wide"					"150"
 				"tall"					"f0"
 				"scaleimage"			"0"
-				"visible"				"1"
+				
 				"proportionalToParent"	"1"
 				"positionImage"			"0"
 				"drawcolor"				"141 160 171 255"
@@ -397,7 +397,7 @@
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabel"
 					"xpos"			"140"
-					"ypos"			"0"
+					
 					"zpos"			"8"
 					"wide"			"90"
 					"tall"			"35"
@@ -433,7 +433,7 @@
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelTime"
 					
-					"ypos"			"0"
+					
 					"zpos"			"8"
 					"wide"			"55"
 					"tall"			"35"
@@ -478,13 +478,13 @@
 				"fieldName"				"RedProgressBarFill"
 				"ControlName"			"ImagePanel"
 				"xpos"					"150"
-				"ypos"					"0"
+				
 				"zpos"					"2"
 				"wide"					"150"
 				"tall"					"f0"
 				"scaleimage"			"0"
 				"positionImage"			"0"
-				"visible"				"1"
+				
 				"proportionalToParent"	"1"
 				"drawcolor"				"171 59 59 255"
 				"Image"					"../hud/objectives_corepanel_meter_solid_right"
@@ -503,13 +503,13 @@
 				"fieldName"				"RedProgressBarEscrow"
 				"ControlName"			"ImagePanel"
 				"xpos"					"150"
-				"ypos"					"0"
+				
 				"zpos"					"1"
 				"wide"					"150"
 				"tall"					"f0"
 				"scaleimage"			"0"
 				"positionImage"			"0"
-				"visible"				"1"
+				
 				"proportionalToParent"	"1"
 				"drawcolor"				"212 151 151 255"
 				"Image"					"../hud/objectives_corepanel_meter_right"
@@ -684,7 +684,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"DroppedIntelImage"
 					
-					"ypos"			"0"
+					
 					
 					"wide"			"f0"
 					"tall"			"20"
@@ -701,7 +701,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"IntelValue"
 				
-				"ypos"			"0"
+				
 				"zpos"			"12"
 				"wide"			"f0"
 				"tall"			"20"
@@ -784,7 +784,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"DroppedIntelImage"
 					
-					"ypos"			"0"
+					
 					
 					"wide"			"f0"
 					"tall"			"20"
@@ -801,7 +801,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"IntelValue"
 				
-				"ypos"			"0"
+				
 				"zpos"			"12"
 				"wide"			"f0"
 				"tall"			"20"

@@ -5,7 +5,7 @@
 		"ControlName"	"CTFMapStampsInfoDialog"
 		"fieldName"		"MapStampsInfoDialog"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1000"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -22,7 +22,7 @@
 		"ControlName"	"Panel"
 		"fieldName"		"BgPanel"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"f0"
 		"tall"			"f0"
@@ -171,7 +171,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"

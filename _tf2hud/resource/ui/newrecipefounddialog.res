@@ -3,7 +3,7 @@
 	"CraftingStatusDialog"
 	{
 		"fieldName"				"CraftingStatusDialog"
-		"visible"				"1"
+		
 		
 		"xpos"					"c-200"
 		"ypos"					"160"

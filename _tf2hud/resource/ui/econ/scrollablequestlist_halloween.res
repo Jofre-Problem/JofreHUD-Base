@@ -7,7 +7,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Container"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"f0"

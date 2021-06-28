@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"LobbyContainerFrame"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"480"
 		
@@ -38,7 +38,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BackgroundHeader"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"120"
@@ -220,7 +220,7 @@
 			"labelText"		"#TF_Matchmaking_Ban_Duration_Remaining"
 			"textalignment"	"center"
 			"xpos"			"5"
-			"ypos"			"0"
+			
 			"zpos"			"2"
 			"wide"			"200"
 			"tall"			"40"

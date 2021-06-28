@@ -5,7 +5,7 @@
 		"ControlName"	"Frame"
 		"fieldName"		"backpack_panel"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		
 		
@@ -74,7 +74,7 @@
 				"fieldName"		"New"
 				"font"			"FontStorePrice"
 				"textAlignment"	"east"
-				"ypos"			"0"
+				
 				
 				
 				"wide"			"f1"
@@ -131,7 +131,7 @@
 				"font"			"FontStorePrice"
 				"textAlignment"	"east"
 				"xpos"			"rs1"
-				"ypos"			"0"
+				
 				"zpos"			"15"
 				"wide"			"25"
 				"tall"			"12"
@@ -265,7 +265,7 @@
 		"labelText"		"#Store_NameFilterLabel"
 		"textAlignment"	"west"
 		"xpos"			"c+137"
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"90"
 		"tall"			"20"
@@ -568,7 +568,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"StartExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"140"
@@ -661,7 +661,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -726,7 +726,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -743,7 +743,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"PagesExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"100"
@@ -836,7 +836,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -883,7 +883,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -948,7 +948,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -965,7 +965,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"ContextExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"160"
@@ -1058,7 +1058,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1105,7 +1105,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1152,7 +1152,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1187,7 +1187,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"StockExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"160"
@@ -1280,7 +1280,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1327,7 +1327,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1374,7 +1374,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1409,7 +1409,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"SortExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"160"
@@ -1501,7 +1501,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1548,7 +1548,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"

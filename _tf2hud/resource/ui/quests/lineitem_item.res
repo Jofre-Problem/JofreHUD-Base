@@ -4,7 +4,7 @@
 	{
 		"fieldName"		"Item"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"f0"
 		"zpos"			"1"
@@ -16,7 +16,7 @@
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"ItemImage"
 		
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"f0"

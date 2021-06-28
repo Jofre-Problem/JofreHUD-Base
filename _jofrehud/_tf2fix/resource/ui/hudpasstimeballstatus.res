@@ -232,7 +232,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ProgressBallIcon"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10"
 		"wide"			"42"
 		"tall"			"42"
@@ -251,7 +251,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ProgressSelfPlayerIcon"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-100"
 		"wide"			"42"
 		"tall"			"42"
@@ -269,11 +269,11 @@
 		"ControlName"			"Label"
 		"fieldName"				"ProgressBallCarrierName"
 		//font					TargetID
-		"visible"				"1"
+		
 		
 		"zpos"					"-400"
-		"xpos"					"0"
-		"ypos"					"0"
+		
+		
 		"wide"					"150"
 		"tall"					"16"
 		"textAlignment"			"center"
@@ -305,7 +305,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"BallPowerMeterFrame"	
 			"xpos"			"c-100"
-			"ypos"			"0"
+			
 			"zpos"			"5"
 			"wide"			"200"
 			"tall"			"50"
@@ -340,7 +340,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"BallPowerMeterFinalSection"	
 				
-				"ypos"			"0"
+				
 				
 				"wide"			"168"
 				"tall"			"18"
@@ -376,7 +376,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"BallPowerMeterFill"	
 				
-				"ypos"			"0"
+				
 				
 				"wide"			"168"
 				"tall"			"18"

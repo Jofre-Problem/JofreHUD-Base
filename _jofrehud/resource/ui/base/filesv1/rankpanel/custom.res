@@ -3,6 +3,6 @@
 	"RankPanel"
 	{
 		
-		"ypos"			"0"
+		
 	}
 }	

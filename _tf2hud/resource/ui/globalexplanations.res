@@ -4,7 +4,7 @@
 	{
 		"fieldName"		"ExplanationManager"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10002"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -22,7 +22,7 @@
 			"ControlName"	"CExplanationPopup"
 			"fieldName"		"CasualIntro"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10000"
 			"wide"			"250"
 			"tall"			"20"
@@ -50,7 +50,7 @@
 			"ControlName"	"CExplanationPopup"
 			"fieldName"		"CasualLeveling"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10000"
 			"wide"			"250"
 			"tall"			"20"
@@ -78,7 +78,7 @@
 			"ControlName"	"CExplanationPopup"
 			"fieldName"		"CasualCriteria"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10000"
 			"wide"			"250"
 			"tall"			"20"
@@ -106,7 +106,7 @@
 			"ControlName"	"CExplanationPopup"
 			"fieldName"		"CriteriaSaving"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10000"
 			"wide"			"250"
 			"tall"			"20"
@@ -134,7 +134,7 @@
 			"ControlName"	"CExplanationPopup"
 			"fieldName"		"CasualLateJoin"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10000"
 			"wide"			"250"
 			"tall"			"260"
@@ -162,7 +162,7 @@
 			"ControlName"	"CExplanationPopup"
 			"fieldName"		"MapSelectionDetailsExplanation"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10000"
 			"wide"			"250"
 			"tall"			"260"
@@ -190,7 +190,7 @@
 			"ControlName"	"CExplanationPopup"
 			"fieldName"		"CompIntro"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10000"
 			"wide"			"250"
 			"tall"			"20"
@@ -218,7 +218,7 @@
 			"ControlName"	"CExplanationPopup"
 			"fieldName"		"EventPlaceholderIntro"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10000"
 			"wide"			"250"
 			"tall"			"20"
@@ -246,7 +246,7 @@
 			"ControlName"	"CExplanationPopup"
 			"fieldName"		"CompVsCasual"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10000"
 			"wide"			"250"
 			"tall"			"20"
@@ -274,7 +274,7 @@
 			"ControlName"	"CExplanationPopup"
 			"fieldName"		"CompAbandon"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10000"
 			"wide"			"250"
 			"tall"			"20"
@@ -302,7 +302,7 @@
 			"ControlName"	"CExplanationPopup"
 			"fieldName"		"CompDisconnects"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10000"
 			"wide"			"250"
 			"tall"			"20"
@@ -330,7 +330,7 @@
 			"ControlName"	"CExplanationPopup"
 			"fieldName"		"CompCustomHUD"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10000"
 			"wide"			"250"
 			"tall"			"20"
@@ -357,7 +357,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"WarPaintUse"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"20"
@@ -480,7 +480,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -589,7 +589,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -701,7 +701,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -813,7 +813,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -925,7 +925,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1037,7 +1037,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1054,7 +1054,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"FindAMatch"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"260"
@@ -1081,7 +1081,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"SpecialEvents"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"260"
@@ -1110,7 +1110,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"SpecialEventsExpiration"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"260"

@@ -16,7 +16,7 @@
 			"ControlName"	"CTFImagePanel"
 			"fieldName"		"background"
 			
-			"ypos"			"0"
+			
 			
 			"wide"			"200"
 			"tall"			"50"
@@ -55,7 +55,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"teamname"
 			"xpos"			"30"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"200"
 			"tall"			"50"
@@ -105,7 +105,7 @@
 			"ControlName"	"CTFImagePanel"
 			"fieldName"		"background"
 			
-			"ypos"			"0"
+			
 			
 			"wide"			"200"
 			"tall"			"50"
@@ -143,7 +143,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"teamname"
 			"xpos"			"30"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"160"
 			"tall"			"50"

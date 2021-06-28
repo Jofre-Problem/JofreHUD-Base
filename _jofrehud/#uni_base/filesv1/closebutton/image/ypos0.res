@@ -4,7 +4,7 @@
 	{
 		"SubImage"
 		{
-			"ypos"			"0"			
+						
 		}				
 	}	
 }	

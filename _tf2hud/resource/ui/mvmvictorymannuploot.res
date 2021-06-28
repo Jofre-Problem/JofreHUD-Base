@@ -8,7 +8,7 @@
 		"labelText"		"x"
 		"textAlignment" "center"
 		
-		"ypos"			"0"
+		
 		"wide"			"32"
 		"tall"			"32"
 		"fgcolor_override"		"100 50 50 250"

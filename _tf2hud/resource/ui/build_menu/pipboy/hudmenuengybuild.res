@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MainBackground"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"450"
 		"tall"			"180"
@@ -19,7 +19,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemBackground"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-2"
 		"wide"			"450"
 		"tall"			"180"
@@ -52,7 +52,7 @@
 		"ControlName"	"CIconPanel"
 		"fieldName"		"BuildIcon"
 		"xpos"			"15"
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"48"
 		"tall"			"48"

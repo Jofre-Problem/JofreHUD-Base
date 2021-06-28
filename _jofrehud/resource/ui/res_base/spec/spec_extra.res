@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"spectator_extras"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"480"
 		

@@ -5,7 +5,7 @@
 	//	"ControlName"	"EditablePanel"
 		"fieldName"		"CompRanksTooltip"
 		
-		"ypos"			"0"
+		
 		"zpos"			"30000"
 		"wide"			"320"
 		"tall"			"400"
@@ -74,7 +74,7 @@
 			"ControlName"	"CTFStaticBadgePanel"
 			"fieldName"		"Rank1"
 			
-			"ypos"			"0"
+			
 			
 			"wide"   "100"
 			"tall"			"80"
@@ -90,7 +90,7 @@
 			"ControlName"	"CTFStaticBadgePanel"
 			"fieldName"		"Rank2"
 			"xpos"			"110"
-			"ypos"			"0"
+			
 			
 			"wide"   "100"
 			"tall"			"80"
@@ -106,7 +106,7 @@
 			"ControlName"	"CTFStaticBadgePanel"
 			"fieldName"		"Rank3"
 			"xpos"			"220"
-			"ypos"			"0"
+			
 			
 			"wide"   "100"
 			"tall"			"80"

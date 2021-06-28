@@ -19,7 +19,7 @@
 		"fieldName"		"ItemEffectMeterBG"
 		"xpos"			"4"
 		"xpos_minmode"	"28"
-		"ypos"			"0"
+		
 		"ypos_minmode"	"28"
 		"zpos"			"1"
 		"wide"			"110"

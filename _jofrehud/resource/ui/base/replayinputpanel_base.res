@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Dlg"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		
 		

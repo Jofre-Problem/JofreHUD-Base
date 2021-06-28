@@ -5,7 +5,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"Background"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"130"
 		"tall"			"65"

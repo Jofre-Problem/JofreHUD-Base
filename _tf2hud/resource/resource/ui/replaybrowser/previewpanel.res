@@ -29,7 +29,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"InfoPanel"
 		
-		"ypos"			"0"
+		
 		"wide"			"160"
 		"tall"			"75"
 	
@@ -40,7 +40,7 @@
 			"Font"			"HudFontMediumSmall"
 			"visible"		"0"
 			
-			"ypos"			"0"
+			
 			"wide"			"160"
 			"tall"			"15"
 			"TextAlignment"	"center"

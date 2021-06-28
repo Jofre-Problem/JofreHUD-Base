@@ -4,7 +4,7 @@
 	"mouseoveritempanel"
 	{
 		
-		"ypos"			"0"
+		
 		"zpos"			"1000"
 		"border"		"MainMenuBGBorder"
 	}

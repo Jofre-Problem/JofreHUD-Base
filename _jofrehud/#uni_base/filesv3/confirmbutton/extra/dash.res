@@ -3,7 +3,7 @@
 	"ConfirmButton"
 	{
 		"xpos"			"rs1"
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"15"
 		"tall"			"f0"

@@ -5,7 +5,7 @@
 		"ControlName"	"CIconPanel"
 		"fieldName"		"ClassIcon"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"visible"		"1"
 		

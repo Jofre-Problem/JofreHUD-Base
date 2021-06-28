@@ -206,7 +206,7 @@
 	HudPosture	[$WIN32]
 	{
 		"fieldName" 		"HudPosture"
-		"visible" 		"1"
+		
 		"PaintBackgroundType"	"2"
 		"xpos"	"16"
 		"ypos"	"316"
@@ -219,7 +219,7 @@
 	HudPosture	[$X360]
 	{
 		"fieldName" 		"HudPosture"
-		"visible" 		"1"
+		
 		"PaintBackgroundType"	"2"
 		"xpos"	"48"
 		"ypos"	"316"
@@ -403,8 +403,8 @@
 		"fieldName" "HudChat"
 		"visible" "0"
 		
-		"xpos"	"0"
-		"ypos"	"0"
+		
+		
 		"wide"	 "4"
 		"tall"	 "4"
 	}
@@ -600,8 +600,8 @@
 		"fieldName"	"HudCredits"
 		"TextFont"	"Default"
 		"visible"	"1"
-		"xpos"	"0"
-		"ypos"	"0"
+		
+		
 		"wide"	"640"
 		"tall"	"480"
 		"TextColor"	"255 255 255 192"
@@ -650,8 +650,8 @@
 	HudHDRDemo
 	{
 		"fieldName" "HudHDRDemo"
-		"xpos"	"0"
-		"ypos"	"0"
+		
+		
 		"wide"	"640"
 		"tall"  "480"
 		"visible" "1"
@@ -675,9 +675,9 @@
 	AchievementNotificationPanel	
 	{
 		"fieldName"				"AchievementNotificationPanel"
-		"visible"				"1"
 		
-		"xpos"					"0"
+		
+		
 		"ypos"					"180"
 		"wide"					"f10"	[$WIN32]
 		"wide"					"f60"	[$X360]
@@ -688,7 +688,7 @@
 	{
 		"fieldName"		"CHudVote"
 					
-		"ypos"			"0"
+		
 		"wide"			"640"
 		"tall"			"480"
 		"visible"		"1"

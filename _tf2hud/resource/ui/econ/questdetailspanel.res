@@ -5,7 +5,7 @@
 		"ControlName"	"CQuestLogPanel"
 		"fieldName"		"QuestDetails"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -36,7 +36,7 @@
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"mouseoveritempanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1000"
 		"wide"			"300"
 		"tall"			"300"
@@ -259,7 +259,7 @@
 				"ControlName"	"CExImageButton"
 				"fieldName"		"SubButton"
 				
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				
@@ -332,7 +332,7 @@
 				"ControlName"	"CExImageButton"
 				"fieldName"		"SubButton"
 				
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				

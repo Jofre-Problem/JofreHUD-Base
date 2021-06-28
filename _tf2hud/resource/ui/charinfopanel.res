@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"character_info"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"480"
 		
@@ -36,7 +36,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BackgroundHeader"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"120"

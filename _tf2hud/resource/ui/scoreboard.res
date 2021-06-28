@@ -176,7 +176,7 @@
 		
 		if_mvm
 		{
-			"ypos"			"0"
+			
 			"tall"			"448"
 		}
 	}							
@@ -376,7 +376,7 @@
 		
 		if_mvm
 		{
-			"ypos"			"0"
+			
 			"visible"		"1"
 		}
 	}
@@ -484,7 +484,7 @@
 		
 		if_mvm
 		{
-			"ypos"			"0"
+			
 			"visible"		"1"
 		}
 	}							
@@ -975,7 +975,7 @@
 			"ControlName"		"EditablePanel"
 			"fieldName"		"LocalPlayerData"
 			"xpos"			"75"
-			"ypos"			"0"
+			
 			"wide"			"200"
 			"tall"			"53"
 			
@@ -1054,7 +1054,7 @@
 			"ControlName"		"EditablePanel"
 			"fieldName"		"OpponentData"
 			"xpos"			"325"
-			"ypos"			"0"
+			
 			"wide"			"200"
 			"tall"			"53"
 			
@@ -1156,7 +1156,7 @@
 			"labelText"		"#TF_ScoreBoard_KillsLabel"
 			"textAlignment"		"east"
 			"xpos"			"80"
-			"ypos"			"0"
+			
 			"zpos"			"3"
 			"wide"			"95"
 			"tall"			"20"
@@ -1224,7 +1224,7 @@
 			"labelText"		"%kills%"
 			"textAlignment"		"west"
 			"xpos"			"180"
-			"ypos"			"0"
+			
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
@@ -1310,7 +1310,7 @@
 			"labelText"		"#TF_ScoreBoard_CapturesLabel"
 			"textAlignment"		"east"
 			"xpos"			"200"
-			"ypos"			"0"
+			
 			"zpos"			"3"
 			"wide"			"100"
 			"tall"			"20"
@@ -1378,7 +1378,7 @@
 			"labelText"		"%captures%"
 			"textAlignment"		"west"
 			"xpos"			"305"
-			"ypos"			"0"
+			
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
@@ -1463,7 +1463,7 @@
 			"labelText"		"#TF_ScoreBoard_InvulnLabel"
 			"textAlignment"		"east"
 			"xpos"			"326"
-			"ypos"			"0"
+			
 			"zpos"			"3"
 			"wide"			"95"
 			"tall"			"20"
@@ -1531,7 +1531,7 @@
 			"labelText"		"%invulns%"
 			"textAlignment"		"west"
 			"xpos"			"425"
-			"ypos"			"0"
+			
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
@@ -1582,7 +1582,7 @@
 			"labelText"		"#TF_ScoreBoard_BackstabsLabel"
 			"textAlignment"		"east"
 			"xpos"			"445"
-			"ypos"			"0"
+			
 			"zpos"			"3"
 			"wide"			"95"
 			"tall"			"20"
@@ -1599,7 +1599,7 @@
 			"labelText"		"%backstabs%"
 			"textAlignment"		"west"
 			"xpos"			"545"
-			"ypos"			"0"
+			
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
@@ -1748,7 +1748,7 @@
 			"fieldName"		"SelectHintIcon"
 			"font"			"GameUIButtons"
 			"xpos"			"10"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"300"
 			"tall"			"38"
@@ -1788,7 +1788,7 @@
 			"fieldName"		"GamerCardIcon"
 			"font"			"GameUIButtons"
 			"xpos"			"150"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"300"
 			"tall"			"38"
@@ -1828,7 +1828,7 @@
 			"fieldName"		"ReputationIcon"
 			"font"			"GameUIButtons"
 			"xpos"			"350"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"300"
 			"tall"			"38"

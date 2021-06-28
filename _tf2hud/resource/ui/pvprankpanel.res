@@ -17,7 +17,7 @@
 			"ControlName"	"CTFParticlePanel"
 			"fieldName"		"BelowModelParticlePanel"
 			
-			"ypos"			"0"
+			
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -114,7 +114,7 @@
 			"ControlName"	"CTFParticlePanel"
 			"fieldName"		"AboveModelParticlePanel"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -298,7 +298,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"StatsContainer"
 			"xpos"			"rs1-5"
-			"ypos"			"0"
+			
 			"wide"			"f70"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
@@ -306,7 +306,7 @@
 			if_mini
 			{
 				"xpos"			"rs1-10"
-				"ypos"			"0"
+				
 				"wide"			"p0.85"
 			}
 
@@ -403,7 +403,7 @@
 						"Controlname"	"EditablePanel"
 						"fieldName"		"Frame"
 						
-						"ypos"			"0"
+						
 						"wide"			"f0"
 						"tall"			"f0"
 						"zpos"			"5"
@@ -435,7 +435,7 @@
 					"ControlName"	"EditablePanel"
 					"fieldName"		"Frame"
 					
-					"ypos"			"0"
+					
 					"zpos"			"10"
 					"wide"			"f0"
 					"tall"			"f0"
@@ -451,7 +451,7 @@
 					"ControlName"	"Label"
 					"fieldName"		"GamesLabel"
 					"xpos"			"10"
-					"ypos"			"0"
+					
 					
 					"wide"			"100"
 					"tall"			"20"
@@ -506,7 +506,7 @@
 					"ControlName"	"Label"
 					"fieldName"		"DamageLabel"
 					"xpos"			"c-20"
-					"ypos"			"0"
+					
 					
 					"wide"			"100"
 					"tall"			"20"
@@ -561,7 +561,7 @@
 					"ControlName"	"Label"
 					"fieldName"		"ScoreLabel"
 					"xpos"			"rs1"
-					"ypos"			"0"
+					
 					
 					"wide"			"100"
 					"tall"			"20"

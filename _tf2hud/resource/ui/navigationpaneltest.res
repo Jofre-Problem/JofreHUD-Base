@@ -56,7 +56,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"7"
 				"wide"			"100"
 				"tall"			"200"

@@ -2,6 +2,6 @@
 {	
 	"MainBackground"
 	{
-		"xpos"	"0"
+		
 	}
 }	

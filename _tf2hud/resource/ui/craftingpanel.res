@@ -5,7 +5,7 @@
 		"ControlName"	"Frame"
 		"fieldName"		"crafting_panel"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"400"
 		"zpos"			"501"
@@ -57,7 +57,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"MainContentsContainer"
 				
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"1"
@@ -74,7 +74,7 @@
 					"ControlName"	"CExLabel"
 					"fieldName"		"namelabel"
 					
-					"ypos"			"0"
+					
 					"zpos"			"2"
 					"wide"			"50"
 					"tall"			"30"
@@ -95,7 +95,7 @@
 		{
 			"font"			"HudFontSmallestBold"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"280"
 			"tall"			"13"
@@ -164,7 +164,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"selectedrecipecontainer"
 		"xpos"			"c0"
-		"ypos"			"0"
+		
 		"zpos"			"5"
 		"wide"			"300"
 		"tall"			"350"
@@ -342,7 +342,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"recipecontainer"
 		
-		"ypos"			"0"
+		
 		"zpos"			"5"
 		"wide"			"280"
 		"tall"			"240"
@@ -424,7 +424,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TooltipPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"100"
 		"wide"			"140"
 		"tall"			"50"

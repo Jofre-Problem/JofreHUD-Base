@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ReplayPerformanceEditor"
 		
-		"ypos"			"0"
+		
 		
 		
 		
@@ -119,7 +119,7 @@
 	{
 		"ControlName"	"CReplayButton"
 		"fieldName"		"TimeScaleButton"
-		"ypos"			"0"
+		
 		"wide"			"40"
 		"tall"			"40"
 		"zpos"			"3"
@@ -157,7 +157,7 @@
 	{
 		"ControlName"	"CReplayButton"
 		"fieldName"		"CameraFirst"
-		"ypos"			"0"
+		
 		"wide"			"40"
 		"tall"			"40"
 		"zpos"			"3"
@@ -195,7 +195,7 @@
 	{
 		"ControlName"	"CReplayButton"
 		"fieldName"		"CameraThird"
-		"ypos"			"0"
+		
 		"wide"			"40"
 		"tall"			"40"
 		"zpos"			"3"
@@ -234,7 +234,7 @@
 		"ControlName"	"CReplayButton"
 		"fieldName"		"CameraFree"
 		"xpos"			"c100"
-		"ypos"			"0"
+		
 		"wide"			"40"
 		"tall"			"40"
 		"zpos"			"3"
@@ -273,7 +273,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurTimeLabel"
 		"xpos"			"c-74"
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"visible"		"1"
 		
@@ -287,7 +287,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TotalTimeLabel"
 		"xpos"			"c35"
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"visible"		"1"
 		

@@ -469,7 +469,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"		"ArenaWinPanelWinnersPanel"
 		"xpos"			"20"
-		"ypos"			"0"
+		
 		"wide"			"500"
 		"tall"			"218"
 		"visible"		"1"
@@ -829,7 +829,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"		"ArenaWinPanelLosersPanel"
 		"xpos"			"20"
-		"ypos"			"0"
+		
 		"wide"			"500"
 		"tall"			"218"
 		"visible"		"1"

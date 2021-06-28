@@ -6,7 +6,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Team0Container"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"30"
 		"proportionaltoparent"	"1"
@@ -19,7 +19,7 @@
 			"labelText"		"%team0name%"
 			"textAlignment"	"east"
 			"xpos"			"rp0.7+s-1-40"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"200"
 			"tall"			"20"
@@ -56,7 +56,7 @@
 			"ControlName"	"ContinuousProgressBar"
 			"fieldName"		"Team0ProgressBar"
 			"xpos"	"rs1-35"
-			"ypos"	"0"
+			
 			"wide"	"p0.7"
 			"tall"	"20"
 			"progress"	"0"
@@ -73,7 +73,7 @@
 			"labelText"		"%team0score%"
 			"textAlignment"	"west"
 			"xpos"			"rs1"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"100"
 			"tall"			"20"
@@ -105,7 +105,7 @@
 			"labelText"		"%team1name%"
 			"textAlignment"	"east"
 			"xpos"			"rp0.7+s-1-40"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"200"
 			"tall"			"20"
@@ -142,7 +142,7 @@
 			"ControlName"	"ContinuousProgressBar"
 			"fieldName"		"Team1ProgressBar"
 			"xpos"	"rs1-35"
-			"ypos"	"0"
+			
 			"wide"	"p0.7"
 			"tall"	"20"
 			"progress"	"0"
@@ -159,7 +159,7 @@
 			"labelText"		"%team1score%"
 			"textAlignment"	"west"
 			"xpos"			"rs1"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"100"
 			"tall"			"20"

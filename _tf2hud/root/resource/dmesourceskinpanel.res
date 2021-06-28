@@ -5,7 +5,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"SkinNameLabel"
 		
-		"ypos"			"0"
+		
 		"wide"			"60"
 		"tall"			"24"
 		

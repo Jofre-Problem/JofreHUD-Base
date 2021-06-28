@@ -58,7 +58,7 @@
 		"ControlName"	"Button"
 		"fieldName"		"TabButton"
 		
-		"ypos"			"0"
+		
 		"zpos"			"50"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -75,7 +75,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TabImage"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-5"
 		"wide"			"f0"
 		"tall"			"f15"
@@ -113,7 +113,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ActiveTabPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"20"
 		"wide"			"f0"
 		"tall"			"f0"

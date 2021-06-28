@@ -19,7 +19,7 @@
 
 	"ItemEffectMeter"
 	{	
-		"xpos"					"0"
+		
 		"ypos"					"2"
 		"wide"					"140"
 		"tall"					"2"

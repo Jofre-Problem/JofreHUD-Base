@@ -378,7 +378,7 @@
 					"labelText"		"Game mode"
 					"textAlignment"	"left"
 					
-					"ypos"			"0"
+					
 					"zpos"			"2"
 					"wide"			"180"
 					"tall"			"15"
@@ -416,7 +416,7 @@
 					"labelText"		"#TF_Quickplay_ServerHost"
 					"textAlignment"	"left"
 					
-					"ypos"			"0"
+					
 					"zpos"			"2"
 					"wide"			"175"
 					"tall"			"15"
@@ -477,7 +477,7 @@
 					"labelText"		"#TF_Quickplay_MaxPlayers"
 					"textAlignment"	"left"
 					
-					"ypos"			"0"
+					
 					"zpos"			"2"
 					"wide"			"180"
 					"tall"			"15"
@@ -538,7 +538,7 @@
 					"labelText"		"#TF_Quickplay_RandomCrits"
 					"textAlignment"	"left"
 					
-					"ypos"			"0"
+					
 					"zpos"			"2"
 					"wide"			"180"
 					"tall"			"15"
@@ -599,7 +599,7 @@
 					"labelText"		"#TF_Quickplay_RespawnTimes"
 					"textAlignment"	"left"
 					
-					"ypos"			"0"
+					
 					"zpos"			"2"
 					"wide"			"180"
 					"tall"			"15"
@@ -660,7 +660,7 @@
 					"labelText"		"#TF_Quickplay_DamageSpread"
 					"textAlignment"	"left"
 					
-					"ypos"			"0"
+					
 					"zpos"			"2"
 					"wide"			"180"
 					"tall"			"15"
@@ -839,7 +839,7 @@
 			"ControlName"	"CExButton"
 			"fieldName"		"ExplainBetaButton"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10"
 			"wide"			"15"
 			"tall"			"15"
@@ -879,7 +879,7 @@
 			"tall"					"20"
 			
 			
-			"visible"				"1"
+			
 			
 			"dulltext"				"0"
 			"brighttext"			"0"
@@ -917,7 +917,7 @@
 			"ControlName"	"CExplanationPopup"
 			"fieldName"		"BetaExplanation"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10000"
 			"wide"			"280"
 			"tall"			"160"
@@ -1012,7 +1012,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"

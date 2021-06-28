@@ -5,7 +5,7 @@
 		"ControlName"	"CQuestMapPanel"
 		"fieldName"		"QuestMap"
 		
-		"ypos"			"0"
+		
 		"zpos"			"100"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -85,7 +85,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"TooltipPanel"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1001"
 			"wide"			"240"
 			"tall"			"50"
@@ -213,7 +213,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
@@ -262,7 +262,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"o1"
 					"tall"			"p1"
@@ -460,7 +460,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
@@ -506,7 +506,7 @@
 					"ControlName"	"EditablePanel"
 					"fieldName"		"Introduction"
 					
-					"ypos"			"0"
+					
 					"zpos"			"8000"
 					"wide"			"f0"
 					"tall"			"f0"
@@ -518,7 +518,7 @@
 						"ControlName"	"ImagePanel"
 						"fieldName"		"StaticBG"
 						
-						"ypos"			"0"
+						
 						
 						"wide"			"f0"
 						"tall"			"f0"
@@ -538,7 +538,7 @@
 						"ControlName"	"EditablePanel"
 						"fieldName"		"StaticDarken"
 						
-						"ypos"			"0"
+						
 						
 						"wide"			"f0"
 						"tall"			"f0"
@@ -584,7 +584,7 @@
 						"ControlName"	"Label"
 						"fieldName"		"IntroDesc"
 						"labeltext"		"#TF_QuestMap_Intro_Desc"
-						"xpos"					"0"
+						
 						"ypos"			"50"
 						"wide"			"p0.5"
 						"tall"			"100"
@@ -913,7 +913,7 @@
 						"ControlName"	"Panel"
 						"fieldName"		"BorderOverlay"
 						
-						"ypos"			"0"
+						
 						"zpos"			"300"
 						"wide"			"f0"
 						"tall"			"f0"
@@ -976,7 +976,7 @@
 						"ControlName"	"Panel"
 						"fieldName"		"BloodMoneyTooltip"
 						"xpos"			"20"
-						"ypos"			"0"
+						
 						"zpos"			"100"
 						"wide"			"60"
 						"tall"			"50"
@@ -1024,7 +1024,7 @@
 						"ControlName"	"Panel"
 						"fieldName"		"StarsAvailableTooltip"
 						"xpos"			"94"
-						"ypos"			"0"
+						
 						"zpos"			"100"
 						"wide"			"40"
 						"tall"			"50"
@@ -1072,7 +1072,7 @@
 						"ControlName"	"Panel"
 						"fieldName"		"TotalStarsTooltip"
 						"xpos"			"r70"
-						"ypos"			"0"
+						
 						"zpos"			"100"
 						"wide"			"40"
 						"tall"			"50"
@@ -1121,7 +1121,7 @@
 				{
 					"fieldName"		"SelectedNodeInfoPanel"
 					
-					"ypos"			"0"
+					
 					"zpos"			"10"
 					"wide"			"200"
 					"tall"			"220"
@@ -1209,7 +1209,7 @@
 								"fieldName"		"PointsLabel"
 								"labeltext"		"%points%"
 								
-								"ypos"			"0"
+								
 								"wide"			"f0"
 								"tall"			"f0"
 								"zpos"			"1"
@@ -1224,7 +1224,7 @@
 								"ControlName"	"EditablePanel"
 								"fieldName"		"ProgressBarStandardHighlight"
 								
-								"ypos"			"0"
+								
 								"wide"			"f0"
 								"tall"			"f0"
 								"bgcolor_override"		"QuestUncommitted"
@@ -1239,7 +1239,7 @@
 									"fieldName"		"PointsLabelInvert"
 									"labeltext"		"%points%"
 									
-									"ypos"			"0"
+									
 									"wide"			"f0"
 									"tall"			"f0"
 									"zpos"			"8"
@@ -1256,7 +1256,7 @@
 								"ControlName"	"EditablePanel"
 								"fieldName"		"ProgressBarStandard"
 								
-								"ypos"			"0"
+								
 								"wide"			"f0"
 								"tall"			"f0"
 								"zpos"			"3"
@@ -1272,7 +1272,7 @@
 									"fieldName"		"PointsLabelInvert"
 									"labeltext"		"%points%"
 									
-									"ypos"			"0"
+									
 									"wide"			"f0"
 									"tall"			"f0"
 									"zpos"			"8"
@@ -1304,7 +1304,7 @@
 						"ControlName"	"Panel"
 						"fieldName"		"BlackBG"
 						
-						"ypos"			"0"
+						
 						"zpos"			"-2"
 						"wide"			"f0"
 						"tall"			"f0"
@@ -1322,7 +1322,7 @@
 						"ControlName"	"Panel"
 						"fieldName"		"Dimmer"
 						
-						"ypos"			"0"
+						
 						"zpos"			"-1"
 						"wide"			"f0"
 						"tall"			"f0"
@@ -1341,7 +1341,7 @@
 						"ControlName"	"Panel"
 						"fieldName"		"TitleBorder"
 						
-						"ypos"			"0"
+						
 						"zpos"			"-2"
 						"wide"			"f0"
 						"tall"			"50"
@@ -1421,7 +1421,7 @@
 							"ControlName"	"ScrollBar"
 							"FieldName"		"ScrollBar"
 							"xpos"			"rs1-5"
-							"ypos"			"0"
+							
 							"tall"			"f0"
 							"wide"			"5" // This gets slammed from client schme.  GG.
 							"zpos"			"1000"
@@ -1457,7 +1457,7 @@
 					"ControlName"	"EditablePanel"
 					"fieldName"		"DisconnetedContainer"
 					
-					"ypos"			"0"
+					
 					"wide"			"f0"
 					"tall"			"f0"
 					"zpos"			"50"
@@ -1488,7 +1488,7 @@
 						"ControlName"	"ImagePanel"
 						"fieldName"		"StaticBackground"
 						
-						"ypos"			"0"
+						
 						
 						"wide"			"f0"
 						"tall"			"f0"
@@ -1549,7 +1549,7 @@
 					"ControlName"	"Panel"
 					"fieldName"		"BlackOverlay"
 					
-					"ypos"			"0"
+					
 					"zpos"			"8999"
 					"wide"			"f0"
 					"tall"			"f0"
@@ -1567,7 +1567,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"StaticOverlay"
 					
-					"ypos"			"0"
+					
 					"zpos"			"9000"
 					"wide"			"f0"
 					"tall"			"f0"

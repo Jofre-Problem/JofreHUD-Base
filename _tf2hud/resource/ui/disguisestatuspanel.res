@@ -6,7 +6,7 @@
 		"fieldName"		"itemmodelpanel"
 	
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"		
 		"wide"			"100"
 		"tall"			"100"

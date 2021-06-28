@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BorderBG"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"46"
 		"tall"			"14"

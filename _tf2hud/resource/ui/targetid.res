@@ -5,7 +5,7 @@
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"TargetIDBG"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"252"
 		"tall"	 		"50"
@@ -32,7 +32,7 @@
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"TargetIDBG_Spec_Blue"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"252"
 		"tall"	 		"30"
@@ -54,7 +54,7 @@
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"TargetIDBG_Spec_Red"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"252"
 		"tall"	 		"30"
@@ -176,7 +176,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"		"MoveableSubPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-5"
 		"wide"			"32"
 		"tall"			"36"
@@ -188,7 +188,7 @@
 			"ControlName"	"CIconPanel"
 			"fieldName"		"MoveableIconBG"
 			
-			"ypos"			"0"
+			
 			
 			"wide"			"10"
 			"tall"			"36"
@@ -258,7 +258,7 @@
 		"xpos"			"6"
 		"xpos_minmode"	"6"
 		"ypos"			"6"	[$WIN32]
-		"ypos"			"0"	[$X360]
+			[$X360]
 		"zpos"			"99"
 		"wide"			"11"
 		"tall"			"11"

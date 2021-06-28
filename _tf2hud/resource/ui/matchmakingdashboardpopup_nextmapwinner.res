@@ -5,7 +5,7 @@
 		"ControlName"	"CExpandablePanel"
 		"fieldName"		"NextMapWinner"
 		"xpos"			"cs-0.5"
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"260"
 		"tall"			"80"
@@ -88,7 +88,7 @@
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"MapImage"
 					"xpos"			"cs-0.5"
-					"ypos"			"0"
+					
 					"wide"			"f0"
 					"tall"			"o1"
 					

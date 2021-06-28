@@ -5,7 +5,7 @@
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"CallerBG"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"30"
 		"tall"			"30"
@@ -19,7 +19,7 @@
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"CallerBurning"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"45"
 		"tall"			"45"
@@ -33,7 +33,7 @@
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"CallerHealth"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"30"
 		"tall"			"30"
@@ -47,7 +47,7 @@
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"CallerBleeding"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"45"
 		"tall"			"45"
@@ -61,7 +61,7 @@
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"CallerAuto"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"30"
 		"tall"			"30"
@@ -75,7 +75,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"CallerReviveEasy"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"30"
 		"tall"			"30"
@@ -89,7 +89,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"CallerReviveMedium"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"30"
 		"tall"			"30"
@@ -103,7 +103,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"CallerReviveHard"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"30"
 		"tall"			"30"

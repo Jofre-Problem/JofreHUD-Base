@@ -5,7 +5,7 @@
 		"ControlName"	"Frame"
 		"fieldName"		"dynamic_recipe_panel"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"400"
 		"zpos"			"501"
@@ -97,7 +97,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"recipecontainer"
 		"xpos"			"c0"
-		"ypos"			"0"
+		
 		"zpos"			"5"
 		"wide"			"300"
 		"tall"			"350"
@@ -275,7 +275,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"inventorycontainer"
 		"xpos"			"c-300"
-		"ypos"			"0"
+		
 		"zpos"			"5"
 		"wide"			"300"
 		"tall"			"350"

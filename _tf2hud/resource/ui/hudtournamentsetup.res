@@ -5,7 +5,7 @@
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"HudTournamentSetupBG"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"180"
 		"tall"			"65"
@@ -29,7 +29,7 @@
 		"fieldName"		"TournamentLabel"
 		"font"			"HudFontSmallBold"
 		"xpos"			"8"
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"180"
 		"tall"			"35"

@@ -35,7 +35,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"LeaderIcon"
 		
-		"ypos"			"0"
+		
 		"zpos"			"105"
 		"wide"			"8"
 		"tall"			"8"

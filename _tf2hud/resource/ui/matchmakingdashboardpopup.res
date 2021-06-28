@@ -5,7 +5,7 @@
 		"ControlName"	"CExpandablePanel"
 		"fieldName"		"MMPopup"
 		"xpos"			"cs-0.5"
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"260"
 		"tall"			"70"
@@ -25,7 +25,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"OuterShadow"
 			
-			"ypos"			"0"
+			
 			"zpos"			"-2"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -59,7 +59,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"ChooseRematchOrRequeueContainer"
 			"xpos"			"cs-0.5"
-			"ypos"			"0"
+			
 			
 			"wide"			"f8"
 			"tall"			"f4"
@@ -90,7 +90,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"LeaderContainer"
 				
-				"ypos"			"0"
+				
 				
 				"wide"			"f0"
 				"tall"			"f0"
@@ -162,7 +162,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"NonLeaderContainer"
 				
-				"ypos"			"0"
+				
 				
 				"wide"			"f0"
 				"tall"			"f0"
@@ -291,7 +291,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"RematchWaitingForOthers"
 			"xpos"			"cs-0.5"
-			"ypos"			"0"
+			
 			
 			"wide"			"f8"
 			"tall"			"f4"
@@ -358,7 +358,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"NonLeaderContainer"
 				
-				"ypos"			"0"
+				
 				
 				"wide"			"f0"
 				"tall"			"f0"
@@ -402,7 +402,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"SearchingContainer"
 			"xpos"			"cs-0.5"
-			"ypos"			"0"
+			
 			
 			"wide"			"f8"
 			"tall"			"f4"
@@ -470,7 +470,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"LeaderContainer"
 				
-				"ypos"			"0"
+				
 				
 				"wide"			"f0"
 				"tall"			"f0"
@@ -515,7 +515,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"MatchReadyAndWaitingContainer"
 			"xpos"			"cs-0.5"
-			"ypos"			"0"
+			
 			
 			"wide"			"f8"
 			"tall"			"f4"
@@ -645,7 +645,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"RematchStartingContainer"
 			"xpos"			"cs-0.5"
-			"ypos"			"0"
+			
 			
 			"wide"			"f8"
 			"tall"			"f4"

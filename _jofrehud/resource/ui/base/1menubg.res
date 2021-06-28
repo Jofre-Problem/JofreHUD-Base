@@ -5,7 +5,7 @@
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MenuBG"
 		
-		"ypos"			"0"
+		
 				
 		"wide"			"f0"
 		"tall"			"480"

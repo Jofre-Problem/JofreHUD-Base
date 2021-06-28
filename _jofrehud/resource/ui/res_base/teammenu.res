@@ -188,7 +188,7 @@
 		"ControlName"	"CModelPanel"
 		"fieldName"		"bluedoor"
 		
-		"ypos"			"0"
+		
 		"zpos"			"2"		
 		"wide"			"f0"
 		"tall"			"480"
@@ -261,7 +261,7 @@
 		"ControlName"	"CModelPanel"
 		"fieldName"		"reddoor"
 		
-		"ypos"			"0"
+		
 		"zpos"			"2"		
 		"wide"			"f0"
 		"tall"			"480"

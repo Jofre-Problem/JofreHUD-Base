@@ -3,7 +3,7 @@
 	"ConfirmApplyPaintCanDialog"
 	{
 		"fieldName"				"ConfirmApplyPaintCanDialog"
-		"visible"				"1"
+		
 		
 		"xpos"					"c-200"
 		"ypos"					"c-200"

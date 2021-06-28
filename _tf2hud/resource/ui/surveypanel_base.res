@@ -18,7 +18,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"QuestionContainer"
 			
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			"visible"		"1"
@@ -30,7 +30,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"SubmittingContainer"
 			
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			"visible"		"0"
@@ -76,7 +76,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"ThanksContainer"
 			
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			"visible"		"0"
@@ -160,7 +160,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"

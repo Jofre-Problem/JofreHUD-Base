@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Container"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"17"
 		"proportionaltoparent"	"1"
@@ -51,7 +51,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Container"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"f0"
 		"tall"			"f0"
@@ -64,7 +64,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Container"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -77,7 +77,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Container"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"f0"

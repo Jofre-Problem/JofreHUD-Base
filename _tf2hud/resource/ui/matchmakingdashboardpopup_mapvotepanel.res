@@ -17,7 +17,7 @@
 			"ControlName"	"ScalableImagePanel"
 			"fieldName"		"MapImage"
 			"xpos"			"cs-0.5"
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"o1"
 			

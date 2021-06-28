@@ -141,7 +141,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"MapStampBackground"
 		"xpos"			"-400"
-		"ypos"			"0"
+		
 		"wide"			"640"
 		"tall"			"480"
 		"visible"		"1"
@@ -311,7 +311,7 @@
 			"ControlName"	"CExButton"
 			"fieldName"		"SubButton"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"110"
 			"tall"			"20"
@@ -355,7 +355,7 @@
 			"ControlName"	"CExButton"
 			"fieldName"		"SubButton"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"110"
 			"tall"			"20"
@@ -446,7 +446,7 @@
 			"ControlName"	"CExButton"
 			"fieldName"		"SubButton"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"165"
 			"tall"			"20"
@@ -621,7 +621,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"StartExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"140"
@@ -714,7 +714,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -779,7 +779,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -796,7 +796,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"TabsExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"160"
@@ -889,7 +889,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -936,7 +936,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1001,7 +1001,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1018,7 +1018,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"ItemsExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"160"
@@ -1111,7 +1111,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1158,7 +1158,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1205,7 +1205,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1240,7 +1240,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"DetailsExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"140"
@@ -1333,7 +1333,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1380,7 +1380,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1427,7 +1427,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1462,7 +1462,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"PreviewExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"180"
@@ -1555,7 +1555,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1602,7 +1602,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1649,7 +1649,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1684,7 +1684,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"PreviewToggleExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"160"
@@ -1777,7 +1777,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1824,7 +1824,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1871,7 +1871,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1906,7 +1906,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"AddToCartExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"160"
@@ -1999,7 +1999,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -2046,7 +2046,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -2093,7 +2093,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -2128,7 +2128,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"CartStatusExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"180"
@@ -2221,7 +2221,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -2268,7 +2268,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -2315,7 +2315,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -2350,7 +2350,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"CheckoutExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"160"
@@ -2443,7 +2443,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -2490,7 +2490,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -2537,7 +2537,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -2572,7 +2572,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"HelpExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"160"
@@ -2664,7 +2664,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -2711,7 +2711,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"

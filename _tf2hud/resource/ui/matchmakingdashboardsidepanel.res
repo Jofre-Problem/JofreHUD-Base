@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Shade"
 		"xpos"			"3"
-		"ypos"			"0"
+		
 		"zpos"			"1000"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -72,7 +72,7 @@
 
 		if_left
 		{
-			"xpos"	"0"
+			
 			"rotation"		"2"
 		}
 
@@ -105,7 +105,7 @@
 			"labelText"		"<"
 		}
 
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"15"
 		"tall"			"f0"
@@ -135,7 +135,7 @@
 			"labelText"		">"
 		}
 
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"20"
 		"tall"			"f0"
@@ -158,7 +158,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"f-20"

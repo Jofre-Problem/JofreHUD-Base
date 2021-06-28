@@ -19,7 +19,7 @@
 		{
 			"ControlName"	"CItemModelPanel"
 			
-			"ypos"			"0"
+			
 			"wide"			"54"
 			"tall"			"42"
 			"visible"		"0"
@@ -55,7 +55,7 @@
 			"ControlName"			"ImagePanel"
 			"proportionalToParent"	"0"
 			"xpos"					"-1000"
-			"ypos"					"0"
+			
 			"wide"					"54"
 			"tall"					"52"
 			"image"					"../backpack/player/items/crafting/crate"
@@ -68,7 +68,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"BottomLine"
 			
-			"ypos"			"0"
+			
 			"wide"			"427"
 			"tall"			"1"
 			"visible"		"0"
@@ -167,7 +167,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			
-			"ypos"			"0"
+			
 			"zpos"			"200"
 			"wide"			"350"
 			"tall"			"45"
@@ -273,7 +273,7 @@
 		"ControlName"	"CTFParticlePanel"
 		"fieldName"		"BehindItemParticlePanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"125"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -306,7 +306,7 @@
 			"labelText"		"%level%"
 			"textAlignment" "center"
 			"xpos"			"-1"
-			"ypos"			"0"
+			
 			"zpos"			"3"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -338,7 +338,7 @@
 			"labelText"		"#TF_MVM_Victory_TourProgress"
 			"textAlignment" "south-west"
 			
-			"ypos"			"0"
+			
 			"wide"			"200"
 			"tall"			"f0"
 			"fgcolor"		"tanlight"
@@ -351,7 +351,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"LevelProgressBarBG"
 			
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			"visible"		"1"
@@ -363,7 +363,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"LevelProgressBarFGAnim"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -379,7 +379,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"LevelProgressBarFGStatic"
 				
-				"ypos"			"0"
+				
 				"zpos"			"2"
 				"wide"			"20"
 				"tall"			"f0"
@@ -409,7 +409,7 @@
 	{
 		"ControlName"			"Panel"
 		"fieldName"				"LabelDivider"
-		"xpos"					"0"
+		
 		"ypos"					"r1"
 		"zpos"					"20"
 		"wide"					"423"
@@ -430,7 +430,7 @@
 		"labelText"		"#TF_MVM_Victory_MannUpLoot"
 		"textAlignment" "south-west"
 		"xpos"			"-2"
-		"ypos"			"0"
+		
 		"wide"			"150"
 		"tall"			"15"
 		"visible"		"1"
@@ -451,7 +451,7 @@
 		"labelText"		"#TF_MVM_Victory_SquadSurplus"
 		"textAlignment" "south-west"
 		"xpos"			"10"
-		"ypos"			"0"
+		
 		"wide"			"150"
 		"tall"			"15"
 		"visible"		"1"
@@ -472,7 +472,7 @@
 		"labelText"		"#TF_MvM_TourLootTitle"
 		"textAlignment" "south-west"
 		"xpos"			"18"
-		"ypos"			"0"
+		
 		"wide"			"150"
 		"tall"			"15"
 		"visible"		"1"
@@ -493,7 +493,7 @@
 		"labelText"		"#TF_MVM_Victory_VeteranBonus"
 		"textAlignment" "south-west"
 		
-		"ypos"			"0"
+		
 		"wide"			"80"
 		"tall"			"15"
 		"visible"		"0"
@@ -526,7 +526,7 @@
 		"fieldName"		"playermodelpanel"
 			
 		
-		"ypos"			"0"
+		
 		"zpos"			"128"		
 		"wide"			"300"
 		"tall"			"280"

@@ -16,7 +16,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Container"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"17"
 		"proportionaltoparent"	"1"
@@ -28,7 +28,7 @@
 			"ControlName"	"CExButton"
 			"fieldName"		"EntryToggleButton"
 			
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
@@ -53,7 +53,7 @@
 			"ControlName"	"Label"
 			"fieldName"		"WinLabel"
 			"xpos"			"10"
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
@@ -71,7 +71,7 @@
 			"ControlName"	"Label"
 			"fieldName"		"LossLabel"
 			"xpos"			"10"
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
@@ -89,7 +89,7 @@
 			"ControlName"	"Label"
 			"fieldName"		"DateLabel"
 			"xpos"			"p0.2"
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
@@ -107,7 +107,7 @@
 			"ControlName"	"Label"
 			"fieldName"		"MapNameLabel"
 			"xpos"			"p0.60"
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
@@ -125,7 +125,7 @@
 			"ControlName"	"Label"
 			"fieldName"		"KDLabel"
 			"xpos"			"p0.9"
-			"ypos"			"0"
+			
 			"wide"			"100"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
@@ -157,7 +157,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"InnerShadow"
 			
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			"zpos"			"1"
@@ -185,7 +185,7 @@
 				"ControlName"	"ScalableImagePanel"
 				"fieldName"		"BGImage"
 				"xpos"			"-2"
-				"ypos"			"0"
+				
 				"wide"			"o1"
 				"tall"			"50"
 				"image"			"casual\gametype_koth"
@@ -197,7 +197,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"GradientImage"
 				"xpos"			"8"
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"o1"
 				"tall"			"40"
@@ -225,7 +225,7 @@
 				"ControlName"	"Label"
 				"fieldName"		"KillsLabel"
 				"xpos"			"p0.2"
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"15"
 				"proportionaltoparent"	"1"
@@ -306,7 +306,7 @@
 				"ControlName"	"Label"
 				"fieldName"		"HealingLabel"
 				"xpos"			"p0.6"
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"15"
 				"proportionaltoparent"	"1"
@@ -400,7 +400,7 @@
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"ScoutIcon"
 					
-					"ypos"			"0"
+					
 					"wide"			"p0.333"
 					"tall"			"p0.333"
 					"image"			"class_icons/filter_scout"
@@ -412,7 +412,7 @@
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"PyroIcon"
 					"xpos"			"p0.333"
-					"ypos"			"0"
+					
 					"wide"			"p0.333"
 					"tall"			"p0.333"
 					"image"			"class_icons/filter_pyro"
@@ -424,7 +424,7 @@
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"SoldierIcon"
 					"xpos"			"p0.666"
-					"ypos"			"0"
+					
 					"wide"			"p0.333"
 					"tall"			"p0.333"
 					"image"			"class_icons/filter_soldier"

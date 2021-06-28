@@ -21,7 +21,7 @@
 			"ControlName"	"PropertySheet"
 			"fieldName"		"InputOutputSheet"
 			
-			"ypos"			"0"
+			
 			"wide"			"463"
 			"tall"			"212"
 			"AutoResize"	"3"

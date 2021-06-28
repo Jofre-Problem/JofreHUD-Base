@@ -3,7 +3,7 @@
 	"GenericWaitingDialog"
 	{
 		"fieldName"				"GenericWaitingDialog"
-		"visible"				"1"
+		
 		
 		"xpos"					"c-100"
 		"ypos"					"200"

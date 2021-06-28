@@ -5,7 +5,7 @@
 		"ControlName"		"Frame"
 		"fieldName"		"item_pickup"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"f0"
 		"tall"			"480"
@@ -314,7 +314,7 @@
 			"labelText"		"#DiscardItem"
 			"textAlignment"	"center"
 			"xpos"			"12"
-			"ypos"			"0"
+			
 			"wide"			"80"
 			"tall"			"50"
 			

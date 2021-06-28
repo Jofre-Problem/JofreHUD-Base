@@ -3,7 +3,7 @@
 	"ServerNotConnectedToSteamDialog"
 	{
 		"fieldName"				"ServerNotConnectedToSteamDialog"
-		"visible"				"1"
+		
 		
 		"xpos"					"c-160"
 		"ypos"					"170"

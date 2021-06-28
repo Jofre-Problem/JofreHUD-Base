@@ -4,13 +4,13 @@
 	{
 		"ControlName"			"CTFClassTipsItemPanel"
 		"fieldName"				"ClassTipsItemPanel"
-		"xpos"					"0"
-		"ypos"					"0"
+		
+		
 		"wide"					"160"
 		"tall"					"30"
 		
 		"pinCorner"				"1"
-		"visible"				"1"
+		
 		
 		"bgcolor_override"		"0 0 0 0"
 		"textAlignment"			"north-west"

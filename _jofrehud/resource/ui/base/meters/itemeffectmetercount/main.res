@@ -10,7 +10,7 @@
 		"wide"					"40"
 		"tall"					"20"	
 		"pinCorner"				"2"
-		"visible"				"1"
+		
 		
 		
 		"labelText"				"%progresscount%"

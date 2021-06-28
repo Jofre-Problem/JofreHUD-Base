@@ -20,7 +20,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MainContentsContainer"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
@@ -32,7 +32,7 @@
 			"fieldName"		"itemmodelpanel"
 	
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"		
 			"wide"			"140"
 			"tall"			"100"
@@ -53,7 +53,7 @@
 			"fieldName"		"namelabel"
 			"font"			"MenuKeys"
 			
-			"ypos"			"0"
+			
 			"zpos"			"2"
 			"wide"			"100"
 			"tall"			"30"
@@ -166,7 +166,7 @@
 			"ControlName"	"CItemMaterialCustomizationIconPanel"
 			"fieldName"		"paint_icon"
 			
-			"ypos"			"0"
+			
 			"zpos"			"2"
 			"wide"			"16"
 			"tall"			"16"

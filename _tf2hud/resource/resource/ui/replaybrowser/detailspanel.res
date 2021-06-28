@@ -5,7 +5,7 @@
 		"ControlName"	"CReplayBrowserDetailsPanel"
 		"fieldName"		"DetailsPanel"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		
 		
@@ -40,7 +40,7 @@
 			"ControlName"	"EditablePanel"
 			"FieldName"		"TitleEditPanel"
 			
-			"ypos"			"0"
+			
 			"wide"			"590"
 		}
 		

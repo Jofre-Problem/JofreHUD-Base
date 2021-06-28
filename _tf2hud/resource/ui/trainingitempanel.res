@@ -20,12 +20,12 @@
 		"PinCorner"				"2"
 		"AutoResize"			"1"
 		"fieldName"				"background"
-		"xpos"					"0"
-		"ypos"					"0"
+		
+		
 		
 		"wide"					"620"
 		"tall"					"195"
-		"visible"				"1"
+		
 		
 		"PaintBackgroundType"			"0"
 	}

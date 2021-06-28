@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"480"
@@ -58,7 +58,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"IsActive"
 			
-			"ypos"			"0"
+			
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -74,7 +74,7 @@
 			"labelText"		"%eyestats%"
 			"textAlignment" "center"
 			
-			"ypos"			"0"
+			
 			"wide"			"400"
 			"tall"			"35"
 			"visible"		"1"
@@ -98,7 +98,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"IsActive"
 			
-			"ypos"			"0"
+			
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -114,7 +114,7 @@
 			"labelText"		"%eyestats%"
 			"textAlignment" "center"
 			
-			"ypos"			"0"
+			
 			"wide"			"400"
 			"tall"			"35"
 			"visible"		"1"
@@ -138,7 +138,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"IsActive"
 			
-			"ypos"			"0"
+			
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -154,7 +154,7 @@
 			"labelText"		"%ipdstats%"
 			"textAlignment" "center"
 			
-			"ypos"			"0"
+			
 			"wide"			"400"
 			"tall"			"35"
 			"visible"		"1"
@@ -178,7 +178,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"IsActive"
 			
-			"ypos"			"0"
+			
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -194,7 +194,7 @@
 			"labelText"		"%eyerelief%"
 			"textAlignment" "center"
 			
-			"ypos"			"0"
+			
 			"wide"			"400"
 			"tall"			"35"
 			"visible"		"1"
@@ -218,7 +218,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"IsActive"
 			
-			"ypos"			"0"
+			
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -234,7 +234,7 @@
 			"labelText"		"%eyerelief%"
 			"textAlignment" "center"
 			
-			"ypos"			"0"
+			
 			"wide"			"400"
 			"tall"			"35"
 			"visible"		"1"

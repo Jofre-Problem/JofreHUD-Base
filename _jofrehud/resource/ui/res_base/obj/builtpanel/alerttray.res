@@ -6,7 +6,7 @@
 		{
 			"ControlName"	"CBuildingStatusAlertTray"
 			"fieldName"		"AlertTray"
-			"ypos"			"0"
+			
 			"visible"		"1"
 				
 		}

@@ -3,8 +3,8 @@
 	"MatchmakingCategoryPanel"
 	{
 		"fieldName"				"MatchmakingCategoryPanel"
-		"xpos"					"0"
-		"ypos"					"0"
+		
+		
 		"wide"					"f0"
 		"tall"					"50"
 		"proportionaltoparent"	"1"
@@ -19,7 +19,7 @@
 		"Controlname"	"EditablePanel"
 		"fieldName"		"TopContainer"
 		
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"p1.17"
@@ -32,7 +32,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"BGColor"
 			
-			"ypos"			"0"
+			
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -49,7 +49,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"BGImage"
 			
-			"ypos"			"0"
+			
 			
 			"wide"			"o4"
 			"tall"			"f0"
@@ -261,7 +261,7 @@
 		"Controlname"	"EditablePanel"
 		"fieldName"		"MapsContainer"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"f0"
 		"tall"			"0"

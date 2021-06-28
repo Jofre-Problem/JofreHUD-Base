@@ -5,7 +5,7 @@
 		"ControlName"	"CModelImagePanel"
 		"fieldName"		"BadgePanel"
 		
-		"ypos"			"0"
+		
 				
 		"wide"			"f0"
 		"tall"			"f0"

@@ -5,7 +5,7 @@
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"HudStalemateBG"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"320"
 		"tall"			"150"

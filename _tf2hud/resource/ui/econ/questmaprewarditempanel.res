@@ -24,7 +24,7 @@
 		"ControlName"	"Panel"
 		"fieldName"		"BGBorder"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"f0"

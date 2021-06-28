@@ -23,7 +23,7 @@
 			"labelText"		"#TF_MvM_TourOfDuty"
 			"textAlignment"	"south-west"
 			
-			"ypos"			"0"
+			
 			
 			"wide"			"400"
 			"tall"			"26"
@@ -38,7 +38,7 @@
 			"labelText"		"#TF_MvM_Difficulty"
 			"textAlignment"	"south-west"
 			"xpos"			"189"
-			"ypos"			"0"
+			
 			
 			"wide"			"100"
 			"tall"			"24"
@@ -53,7 +53,7 @@
 			"labelText"		"#TF_MvM_TourOfDutyProgress"
 			"textAlignment"	"south-west"
 			"xpos"			"279"
-			"ypos"			"0"
+			
 			
 			"wide"			"80"
 			"tall"			"24"
@@ -68,7 +68,7 @@
 			"labelText"		"#TF_MvM_TourNumber"
 			"textAlignment"	"south-west"
 			"xpos"			"345"
-			"ypos"			"0"
+			
 			
 			"wide"			"80"
 			"tall"			"26"
@@ -96,7 +96,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"GreyOutPanel"
 				
-				"ypos"			"0"
+				
 				"zpos"			"200"
 				"wide"			"400"
 				"tall"			"225"
@@ -567,7 +567,7 @@
 			"labelText"		"%tour_name%"
 			"textAlignment"	"south-west"
 			
-			"ypos"			"0"
+			
 			
 			"wide"			"400"
 			"tall"			"26"
@@ -582,7 +582,7 @@
 			"labelText"		"%complete_heading%"
 			"textAlignment"	"south-west"
 			"xpos"			"264"
-			"ypos"			"0"
+			
 			
 			"wide"			"100"
 			"tall"			"24"
@@ -613,7 +613,7 @@
 			"labelText"		"%tour_level%"
 			"textAlignment"	"south"
 			"xpos"			"357"
-			"ypos"			"0"
+			
 			
 			"wide"			"30"
 			"tall"			"26"
@@ -641,7 +641,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"GreyOutPanel"
 				
-				"ypos"			"0"
+				
 				"zpos"			"200"
 				"wide"			"400"
 				"tall"			"225"

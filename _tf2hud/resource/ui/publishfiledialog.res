@@ -39,7 +39,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"WorkshopBG"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-99"
 		"wide"			"600"
 		"tall"			"300"
@@ -338,7 +338,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"xpos"			"115"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"25"
 			"tall"			"25"
@@ -397,7 +397,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"xpos"			"115"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"25"
 			"tall"			"25"

@@ -27,7 +27,7 @@
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"300"
 			"tall"			"20"
@@ -119,7 +119,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"recipecontainer"
 		
-		"ypos"			"0"
+		
 		"wide"			"380"
 		"tall"			"190"
 		"PaintBackgroundType"	"2"
@@ -131,7 +131,7 @@
 			"fieldName"		"CenterPositioner"
 			"font"			"HudFontSmallBold"
 			
-			"ypos"			"0"
+			
 			
 			"wide"			"366"
 			"tall"			"0"

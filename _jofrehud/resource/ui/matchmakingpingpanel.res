@@ -22,7 +22,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"f0"
 		"tall"			"f-50"
@@ -277,7 +277,7 @@
 			"ControlName"	"CScrollableList"
 			"fieldName"		"DataCenterList"
 			
-			"ypos"			"0"
+			
 			"zpos"			"2"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -290,7 +290,7 @@
 				"ControlName"	"ScrollBar"
 				"FieldName"		"ScrollBar"
 				"xpos"			"rs1-1"
-				"ypos"			"0"
+				
 				"tall"			"f0"
 				"wide"			"5" // This gets slammed from client schme.  GG.
 				"zpos"			"1000"
@@ -323,7 +323,7 @@
 			"Controlname"	"EditablePanel"
 			"fieldName"		"Frame"
 			
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			"zpos"			"5"
@@ -337,7 +337,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldname"		"Background"
 			
-			"ypos"			"0"
+			
 			
 			"wide"			"f0"
 			"tall"			"f0"

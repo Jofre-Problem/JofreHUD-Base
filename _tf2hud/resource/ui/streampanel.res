@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGRect"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"f0"
 		"tall"			"f0"
@@ -21,7 +21,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"LoadingPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -33,7 +33,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"PreviewImage"
 			"xpos"			"20"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"50"
 			"tall"			"50"
@@ -53,7 +53,7 @@
 			"labelText"		"#MMenu_Stream_Loading"
 			"textAlignment"	"west"
 			"xpos"			"90"
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			
@@ -140,7 +140,7 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"Stream_URLButton"
 		"xpos"			"5"
-		"ypos"			"0"
+		
 		"zpos"			"100"
 		"wide"			"290"
 		"tall"			"50"

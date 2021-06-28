@@ -13,7 +13,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"FreezePanelBase"
 		
-		"ypos"			"0"		
+				
 		"wide"			"640"		
 		"tall"			"480"		
 		"visible"		"1"
@@ -37,7 +37,7 @@
 				"ControlName"		"ImagePanel"
 				"fieldName"		"NemesisPanelBG"
 				
-				"ypos"			"0"
+				
 				"zpos"			"5"
 				"wide"			"166"
 				"tall"			"38"
@@ -170,7 +170,7 @@
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"itempanel"
 		"xpos"			"r200"
-		"ypos"			"0"
+		
 		"zpos"			"10"
 		"wide"			"190"
 		"tall"			"100"
@@ -436,7 +436,7 @@
 			"ControlName"		"ImagePanel"
 			"fieldName"		"ScreenshotIcon"
 			"xpos"			"3"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"36"
 			"tall"			"36"

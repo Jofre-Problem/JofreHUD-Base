@@ -4,13 +4,13 @@
 	{
 		"fieldName"				"DeadState"
 		"ControlName"			"CTFHudRobotDestruction_StateImage"
-		"xpos"					"0"
-		"ypos"					"0"
+		
+		
 		"zpos"					"5"
 		"wide"					"20"
 		"tall"					"20"
 		"scaleimage"			"1"
-		"visible"				"1"
+		
 		"redimage"				"../HUD/obj_circle_red"
 		"blueimage"				"../HUD/obj_circle_blue"
 
@@ -18,13 +18,13 @@
 		{
 			"fieldName"				"Image"
 			"ControlName"			"ImagePanel"
-			"xpos"					"0"
-			"ypos"					"0"
+			
+			
 			"zpos"					"5"
 			"wide"					"f0"
 			"tall"					"f0"
 			"scaleimage"			"1"
-			"visible"				"1"
+			
 			"proportionalToParent"	"1"
 		}
 
@@ -36,7 +36,7 @@
 			"labelText"		"%time%"
 			"textAlignment" "center"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10"
 			"wide"			"f0"
 			"tall"			"f0"

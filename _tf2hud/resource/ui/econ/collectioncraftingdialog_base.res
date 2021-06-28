@@ -52,7 +52,7 @@
 				"font"			"TradeUp_Quote"
 				"textAlignment"	"center"
 				"xpos"			"cs-0.5"
-				"ypos"			"0"
+				
 				
 				"wide"			"p0.8"
 				"tall"			"f0"
@@ -176,7 +176,7 @@
 	{
 		"fieldName"				"Dimmer"
 		"ControlName"			"EditablePanel"
-		"visible"				"1"
+		
 		
 		"xpos"					"cs-0.5"
 		"ypos"					"cs-0.5"
@@ -192,10 +192,10 @@
 	{
 		"fieldName"				"BG"
 		"ControlName"			"EditablePanel"
-		"visible"				"1"
+		
 		
 		"xpos"					"cs-0.5"
-		"ypos"					"0"
+		
 		"zpos"					"1"
 		"wide"					"p1"
 		"tall"					"300"
@@ -205,7 +205,7 @@
 		{
 			"fieldName"				"Border"
 			"ControlName"			"EditablePanel"
-			"visible"				"1"
+			
 			
 			"xpos"					"cs-0.5"
 			"ypos"					"cs-0.5"
@@ -225,7 +225,7 @@
 	{
 		"fieldName"				"DrawingPanel"
 		"ControlName"			"CDrawingPanel"
-		"visible"				"1"
+		
 		
 		"xpos"					"cs-0.5"
 		"ypos"					"60"
@@ -241,7 +241,7 @@
 	{
 		"fieldName"				"LetterBack_Bottom"
 		"ControlName"			"ImagePanel"
-		"visible"				"1"
+		
 		
 		"xpos"					"cs-0.5"
 		"ypos"					"35"
@@ -258,7 +258,7 @@
 	{
 		"fieldName"				"LetterBack_Top"
 		"ControlName"			"ImagePanel"
-		"visible"				"1"
+		
 		
 		"xpos"					"cs-0.5"
 		"ypos"					"35"
@@ -275,7 +275,7 @@
 	{
 		"fieldName"				"LetterBack_Flap"
 		"ControlName"			"ImagePanel"
-		"visible"				"1"
+		
 		
 		"xpos"					"cs-0.5"
 		"ypos"					"35"
@@ -293,7 +293,7 @@
 		"ControlName"	"CTFParticlePanel"
 		"fieldName"		"BehindItemParticlePanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -612,7 +612,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -686,7 +686,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					
-					"ypos"			"0"
+					
 					"zpos"			"7"
 					"wide"			"19"
 					"tall"			"19"
@@ -732,7 +732,7 @@
 		"fieldName"		"ReturnModel"
 			
 		"xpos"			"cs-0.5"
-		"ypos"			"0"
+		
 		"zpos"			"100"		
 		"wide"			"o1.3333"
 		"tall"			"450"
@@ -767,7 +767,7 @@
 	{
 		"fieldName"				"LetterFront"
 		"ControlName"			"ImagePanel"
-		"visible"				"1"
+		
 		
 		"xpos"					"cs-0.5"
 		"ypos"					"60"
@@ -784,7 +784,7 @@
 	{
 		"fieldName"				"Stamp"
 		"ControlName"			"ImagePanel"
-		"visible"				"1"
+		
 		
 		"xpos"					"c150"
 		"ypos"					"63"
@@ -867,7 +867,7 @@
 	{
 		"fieldName"				"TradeUpContainer"
 		"ControlName"			"EditablePanel"
-		"visible"				"1"
+		
 		
 		"xpos"					"cs-0.5"
 		"ypos"					"s-1"
@@ -884,7 +884,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"PaperContainer"
 			"xpos"			"cs-0.5"
-			"ypos"			"0"
+			
 			
 			"wide"			"o2"
 			"tall"			"p1"
@@ -896,7 +896,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"BlankPaperImage"
 				
-				"ypos"			"0"
+				
 				
 				"wide"			"p1"
 				"tall"			"p1"
@@ -912,7 +912,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"LocalizedPaperImagePaperImage"
 				
-				"ypos"			"0"
+				
 				
 				"wide"			"p1"
 				"tall"			"p1"
@@ -1000,7 +1000,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -1117,7 +1117,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"StartExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"140"
@@ -1210,7 +1210,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1275,7 +1275,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1292,7 +1292,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"ItemSlotsExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"200"
@@ -1385,7 +1385,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1433,7 +1433,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1469,7 +1469,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"SigningExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"120"
@@ -1563,7 +1563,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1630,7 +1630,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1647,7 +1647,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"StampExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"150"
@@ -1740,7 +1740,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1788,7 +1788,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"

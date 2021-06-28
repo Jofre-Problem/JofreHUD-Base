@@ -3,7 +3,7 @@
 	"StoreStatusDialog"
 	{
 		"fieldName"				"StoreStatusDialog"
-		"visible"				"1"
+		
 		
 		"xpos"					"c-125"
 		"ypos"					"180"

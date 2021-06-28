@@ -72,7 +72,7 @@
 		"ControlName"	"CTFParticlePanel"
 		"fieldName"		"ParticlePanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"200"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -122,7 +122,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"FooterLine"
 		
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"10"
@@ -153,7 +153,7 @@
 			"ControlName"	"CMvMVictoryMannUpPlayerTab"
 			"fieldName"		"PlayerTab1"
 			
-			"ypos"			"0"
+			
 			"zpos"			"-5"
 			"wide"			"63"
 			"tall"			"f0"
@@ -171,7 +171,7 @@
 			"ControlName"	"CMvMVictoryMannUpPlayerTab"
 			"fieldName"		"PlayerTab2"
 			"xpos"			"68"
-			"ypos"			"0"
+			
 			"zpos"			"-5"
 			"wide"			"62"
 			"tall"			"f0"
@@ -190,7 +190,7 @@
 			"ControlName"	"CMvMVictoryMannUpPlayerTab"
 			"fieldName"		"PlayerTab3"
 			"xpos"			"135"
-			"ypos"			"0"
+			
 			"zpos"			"-5"
 			"wide"			"62"
 			"tall"			"f0"
@@ -209,7 +209,7 @@
 			"ControlName"	"CMvMVictoryMannUpPlayerTab"
 			"fieldName"		"PlayerTab4"
 			"xpos"			"202"
-			"ypos"			"0"
+			
 			"zpos"			"-5"
 			"wide"			"62"
 			"tall"			"f0"
@@ -228,7 +228,7 @@
 			"ControlName"	"CMvMVictoryMannUpPlayerTab"
 			"fieldName"		"PlayerTab5"
 			"xpos"			"269"
-			"ypos"			"0"
+			
 			"zpos"			"-5"
 			"wide"			"62"
 			"tall"			"f0"
@@ -247,7 +247,7 @@
 			"ControlName"	"CMvMVictoryMannUpPlayerTab"
 			"fieldName"		"PlayerTab6"
 			"xpos"			"336"
-			"ypos"			"0"
+			
 			"zpos"			"-5"
 			"wide"			"62"
 			"tall"			"f0"
@@ -280,7 +280,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"NoItemServerContainer"
 			
-			"ypos"			"0"
+			
 			"wide"			"530"
 			"tall"			"480"
 			"visible"		"1"

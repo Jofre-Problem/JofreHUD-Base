@@ -33,7 +33,7 @@
 		"labelText"		"#TF_AdvancedOptions"
 		"textAlignment"	"center"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"500"
 		"tall"			"40"
@@ -113,7 +113,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TooltipPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"100"
 		"wide"			"240"
 		"tall"			"50"

@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"EnemyCountPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"20"
 		"tall"			"34"
@@ -48,7 +48,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"EnemyCountCritImageBG"
 		"xpos"			"1"
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"18"
 		"tall"			"18"

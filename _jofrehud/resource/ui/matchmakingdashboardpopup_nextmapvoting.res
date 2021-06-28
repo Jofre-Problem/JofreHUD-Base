@@ -5,7 +5,7 @@
 		"ControlName"	"CExpandablePanel"
 		"fieldName"		"NextMapVoting"
 		"xpos"			"cs-0.5"
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"260"
 		"tall"			"80"
@@ -91,7 +91,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"p1"
 					"tall"			"p1"
@@ -141,7 +141,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"p1"
 					"tall"			"p1"

@@ -5,7 +5,7 @@
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"Background_Blue"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-2"
 		"wide"			"252"
 		"tall"	 		"40"
@@ -27,7 +27,7 @@
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"Background_Red"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-2"
 		"wide"			"252"
 		"tall"	 		"40"
@@ -81,7 +81,7 @@
 		"font"			"HudFontMediumSmallSecondary"
 		"font_minmode"	"TFFontLarge"
 		"xpos"			"42"
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"110"
 		"tall"			"25"

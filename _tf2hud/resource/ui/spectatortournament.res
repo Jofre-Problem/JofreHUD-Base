@@ -373,7 +373,7 @@
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"itempanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10"
 		"wide"			"190"
 		"tall"			"100"
@@ -448,7 +448,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"spectator_extras"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"480"
 		

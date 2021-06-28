@@ -30,7 +30,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"Icon"
 			"xpos"			"3"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"36"
 			"tall"			"36"

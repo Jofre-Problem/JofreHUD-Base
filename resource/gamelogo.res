@@ -7,7 +7,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"GameLogo"
 		
-		"ypos"			"0"
+		
 		"zpos"			"50"
 		"wide"			"400"
 		"tall"			"100"

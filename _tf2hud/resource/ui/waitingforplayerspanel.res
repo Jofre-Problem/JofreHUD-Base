@@ -5,7 +5,7 @@
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"WaitingForPlayersPanelBG"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"292"
 		"tall"			"64"
@@ -23,7 +23,7 @@
 		"fieldName"		"WaitingForPlayersLabel"
 		"font"			"HudFontMedium"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"292"
 		"tall"			"64"
@@ -43,7 +43,7 @@
 		"fieldName"		"WaitingForPlayersEndingLabel"
 		"font"			"HudFontMedium"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"292"
 		"tall"			"64"

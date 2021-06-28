@@ -24,7 +24,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ModeBackgroundImage"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"f0"
 		"tall"			"p0.8"
@@ -246,7 +246,7 @@
 			"PartyLowPriorityImage"
 			{
 				
-				"ypos"			"0"
+				
 				"wide"			"50"
 				"tall"			"50"
 				"scaleImage"	"1"

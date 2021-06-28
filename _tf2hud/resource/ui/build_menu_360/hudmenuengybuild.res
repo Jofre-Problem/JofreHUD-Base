@@ -238,7 +238,7 @@
 		"ControlName"	"CIconPanel"
 		"fieldName"		"active_selection_bg"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"115"
 		"tall"			"138"

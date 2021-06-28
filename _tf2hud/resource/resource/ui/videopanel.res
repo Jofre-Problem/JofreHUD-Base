@@ -5,7 +5,7 @@
 		"ControlName"		"VideoPanel"
 		"fieldName"		"videopanel"
 		
-		"ypos"			"0"
+		
 		"wide"			"640"
 		"tall"			"480"
 		

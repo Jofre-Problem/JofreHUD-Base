@@ -5,7 +5,7 @@
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"HudTeamGoalBG"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"320"
 		"tall"			"150"

@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"480"
@@ -30,7 +30,7 @@
 			"ControlName"	"ScalableImagePanel"
 			"fieldName"		"BannerImage"
 			
-			"ypos"			"0"
+			
 			"wide"			"600"
 			"tall"			"50"
 			"visible"		"1"
@@ -67,7 +67,7 @@
 			"labelText"		"#TF_MVM_Victory_Complete"
 			"textAlignment" "center"
 			
-			"ypos"			"0"
+			
 			"wide"			"600"
 			"tall"			"35"
 			"fgcolor"		"tanlight"

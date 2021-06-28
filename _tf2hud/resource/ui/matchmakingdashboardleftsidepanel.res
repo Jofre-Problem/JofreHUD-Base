@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Shade"
 		"xpos"			"3"
-		"ypos"			"0"
+		
 		"zpos"			"1000"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -80,7 +80,7 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"CloseButton"
 		"xpos"			"rs1"
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"15"
 		"tall"			"f0"
@@ -102,7 +102,7 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"ReturnButton"
 		"xpos"			"3"
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"20"
 		"tall"			"f0"
@@ -124,7 +124,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"f-20"

@@ -19,7 +19,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MainContainer"
 		"xpos"			"40"
-		"ypos"			"0"
+		
 		"zpos"			"10"
 		"wide"			"f0"
 		"tall"			"p0.9"
@@ -33,7 +33,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"ModeBackgroundImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"p0.7"

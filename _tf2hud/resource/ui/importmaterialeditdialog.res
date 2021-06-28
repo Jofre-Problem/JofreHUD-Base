@@ -3,10 +3,10 @@
 	"ImportMaterialEditDialog"
 	{
 		"fieldName"				"ImportMaterialEditDialog"
-		"visible"				"1"
 		
-		"xpos"					"0"
-		"ypos"					"0"
+		
+		
+		
 		"wide"					"f0"
 		"tall"					"f0"
 		"border"				"GrayDialogBorder"

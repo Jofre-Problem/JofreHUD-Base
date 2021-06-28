@@ -4,7 +4,7 @@
 	"ItemRenameConfirmationDialog"
 	{
 		"fieldName"				"ItemRenameConfirmationDialog"
-		"visible"				"1"
+		
 		
 		"xpos"					"c-200"
 		"ypos"					"105"

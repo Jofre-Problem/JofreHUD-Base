@@ -5,7 +5,7 @@
 		"ControlName"	"Frame"
 		"fieldName"		"BuildingStatusItem"
 		
-		"ypos"			"0"
+		
 		"wide"			"160"
 		"tall"			"22"
 		
@@ -20,7 +20,7 @@
 		"ControlName"	"CIconPanel"
 		"fieldName"		"Background"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"120"
 		"tall"			"22"
@@ -51,7 +51,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"NotBuiltPanel"
 		
-		"ypos"			"0"
+		
 		"wide"			"160"
 		"tall"			"20"
 		"visible"		"1"
@@ -62,7 +62,7 @@
 			"fieldName"		"NotBuiltLabel"
 			"font"			"DefaultVerySmall"
 			"xpos"			"60"
-			"ypos"			"0"
+			
 			"wide"			"200"
 			"tall"			"20"
 			
@@ -81,7 +81,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BuiltPanel"
 		
-		"ypos"			"0"
+		
 		"wide"			"160"
 		"tall"			"20"
 		"visible"		"0"
@@ -107,8 +107,8 @@
 			"ControlName"	"CBuildingStatusAlertTray"
 			"fieldName"		"AlertTray"
 			"xpos"			"114"
-			"ypos"			"0"
-			"ypos"			"0"
+			
+			
 			"zpos"			"-2"
 			"wide"			"44"
 			"tall"			"30"
@@ -172,7 +172,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"BuildingPanel"
 			"xpos"			"60"
-			"ypos"			"0"
+			
 			"wide"			"100"
 			"tall"			"30"
 			"visible"		"0"
@@ -220,7 +220,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"RunningPanel"
 			"xpos"			"60"
-			"ypos"			"0"
+			
 			"wide"			"100"
 			"tall"			"20"
 			"visible"		"0"

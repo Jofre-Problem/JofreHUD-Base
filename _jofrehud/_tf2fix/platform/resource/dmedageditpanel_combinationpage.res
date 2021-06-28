@@ -19,7 +19,7 @@
 			"ControlName"	"ScrollableEditablePanel"
 			"fieldName"		"SliderScroll"
 			
-			"ypos"			"0"
+			
 			"wide"			"100"
 			"tall"			"24"
 			"autoResize"	"3"

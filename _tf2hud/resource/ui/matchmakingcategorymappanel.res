@@ -3,8 +3,8 @@
 	"MatchmakingCategoryMapPanel"
 	{
 		"fieldName"				"MatchmakingCategoryMapPanel"
-		"xpos"					"0"
-		"ypos"					"0"
+		
+		
 		"wide"					"p0.5"
 		"tall"					"18"
 		"proportionaltoparent"	"1"

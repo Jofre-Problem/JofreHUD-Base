@@ -68,7 +68,7 @@
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"east"
 			"xpos"			"80"
-			"ypos"			"0"
+			
 			"zpos"			"3"
 			"wide"			"100"
 			"tall"			"50"
@@ -155,7 +155,7 @@
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"west"
 			"xpos"			"202"
-			"ypos"			"0"
+			
 			"zpos"			"3"
 			"wide"			"100"
 			"tall"			"50"

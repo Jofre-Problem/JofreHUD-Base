@@ -124,7 +124,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"TopBar"
 			
-			"ypos"			"0"
+			
 			//"ypos_lodef"			"r74"
 			//"ypos_hidef"			"r65"
 			"zpos"			"5"
@@ -191,7 +191,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"ResultsBG"
 			
-			"ypos"			"0"
+			
 			"wide"			"400"
 			"tall"			"275"
 			"visible"		"1"

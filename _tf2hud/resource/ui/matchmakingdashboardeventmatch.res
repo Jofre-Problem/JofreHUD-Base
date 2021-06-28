@@ -103,7 +103,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"DropShadow"
 			
-			"ypos"			"0"
+			
 			"zpos"			"101"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -119,7 +119,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"ModeImage"
 			
-			"ypos"			"0"
+			
 			
 			"wide"			"f0"
 			"tall"			"f0"
@@ -148,7 +148,7 @@
 			"ControlName"	"ScrollBar"
 			"FieldName"		"ScrollBar"
 			"xpos"			"rs1-5"
-			"ypos"			"0"
+			
 			"tall"			"f0"
 			"wide"			"5" // This gets slammed from client schme.  GG.
 			"zpos"			"1000"
@@ -184,7 +184,7 @@
 			"labelText"		"%desc%"
 			"textAlignment"	"north-west"
 			
-			"ypos"			"0"
+			
 			"zpos"			"2"
 			"wide"			"f0"
 			"tall"			"300"

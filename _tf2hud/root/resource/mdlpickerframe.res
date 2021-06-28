@@ -5,7 +5,7 @@
 		"ControlName"	"CMDLPickerFrame"
 		"fieldName"		"AssetPickerFrame"
 		
-		"ypos"			"0"
+		
 		"wide"			"640"
 		"tall"			"480"
 		

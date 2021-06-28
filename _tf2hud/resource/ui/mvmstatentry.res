@@ -8,7 +8,7 @@
 		"labelText"		"%labeltext%"
 		"textAlignment" "north-west"
 		
-		"ypos"			"0"
+		
 		"wide"			"70"
 		"fgcolor"		"tanlight"
 	}
@@ -21,7 +21,7 @@
 		"labelText"		"%valuetext%"
 		"textAlignment" "north-east"
 		"xpos"			"70"
-		"ypos"			"0"
+		
 		"wide"			"70"
 		"fgcolor"		"tanlight"
 	}

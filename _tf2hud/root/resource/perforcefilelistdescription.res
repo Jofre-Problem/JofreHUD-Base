@@ -36,7 +36,7 @@
 					"ControlName"	"ListPanel"
 					"fieldName"		"Browser"
 					
-					"ypos"			"0"
+					
 					"wide"			"568"
 					"tall"			"316"
 					"AutoResize"	"3"
@@ -56,7 +56,7 @@
 					"ControlName"	"Label"
 					"fieldName"		"DescriptionLabel"
 					
-					"ypos"			"0"
+					
 					"wide"			"65"
 					"tall"			"24"
 					"autoResize"	"1"

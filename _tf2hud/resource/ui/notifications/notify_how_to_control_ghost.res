@@ -5,7 +5,7 @@
 		"ControlName"	"CImagePanel"
 		"fieldName"		"Notification_Background"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"140"
 		"tall"			"100"

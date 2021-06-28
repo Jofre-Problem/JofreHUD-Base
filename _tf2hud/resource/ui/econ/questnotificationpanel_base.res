@@ -19,10 +19,10 @@
 			"ControlName"			"EditablePanel"
 			"fieldName"				"MainContainer"
 			"xpos"					"r0"
-			"ypos"					"0"
+			
 			"wide"					"110"
 			"tall"					"20"
-			"visible"				"1"
+			
 			"proportionaltoparent"	"1"
 
 			"border"	"QuestStatusBorder"

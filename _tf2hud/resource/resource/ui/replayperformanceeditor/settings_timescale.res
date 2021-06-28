@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TimeScaleSettings"
 		
-		"ypos"			"0"
+		
 		"zpos"			"500"
 		
 		
@@ -25,6 +25,6 @@
 		"visible"		"1"
 		
 		"xpos"			"-1"
-		"ypos"			"0"
+		
 	}
 }

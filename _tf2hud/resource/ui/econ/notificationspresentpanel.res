@@ -20,7 +20,7 @@
 		"fieldName"		"TextLabel"
 		"fgcolor"		"TanLight"
 		"xpos"			"cs-0.5"
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"wide"			"f10"
 		"tall"			"f0"

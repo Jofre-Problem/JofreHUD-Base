@@ -15,14 +15,14 @@
 	{
 		"ControlName"			"EditablePanel"
 		"FieldName"				"BorderPanel"
-		"xpos"					"0"
-		"ypos"					"0"
+		
+		
 		
 		"wide"					"88"
 		"tall"					"54"
 		
 		
-		"visible"				"1"
+		
 		
 		"border"				"ReplayDefaultBorder"
 	}
@@ -124,7 +124,7 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"DownloadButton"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10"
 		"wide"			"40"
 		"tall"			"40"

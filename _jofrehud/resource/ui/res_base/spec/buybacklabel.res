@@ -5,7 +5,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"BuyBackLabel"
 		
-		"ypos"			"0"
+		
 		"wide"			"400"
 		"tall"			"f0"
 		

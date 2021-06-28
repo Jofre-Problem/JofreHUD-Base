@@ -5,7 +5,7 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"DebugButton"
 		"xpos"			"5"
-		"ypos"			"0"
+		
 		"zpos"			"1005"
 		"wide"			"8"
 		"tall"			"8"
@@ -39,7 +39,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"8"
 			"tall"			"8"
@@ -89,7 +89,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -107,7 +107,7 @@
 		"fieldName"		"TitleLabel"
 		"labeltext"		"%name%"
 		"xpos"			"rs1+1"
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"15"
 		"zpos"			"1000"
@@ -125,7 +125,7 @@
 		"ControlName"	"Panel"
 		"fieldName"		"StateBorderOverlay"
 		
-		"ypos"			"0"
+		
 		"zpos"			"999"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -141,7 +141,7 @@
 		"fieldName"		"ExpireLabel"
 		"labeltext"		"%expire_time%"
 		
-		"ypos"			"0"
+		
 		"wide"			"199"
 		"tall"			"10"
 		"zpos"			"1000"
@@ -157,7 +157,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ContentContainer"
 		"xpos"			"1"
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"199"
 		"tall"			"f3"
@@ -259,7 +259,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"RewardContainer"
 			
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"75"
 			"proportionaltoparent"	"1"
@@ -271,7 +271,7 @@
 				"fieldName"		"RewardsLabel"
 				"labeltext"		"#TF_QuestView_Rewards"
 				
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"15"
 				"zpos"			"1"

@@ -3,7 +3,7 @@
 	"CheatDetectionDialog"
 	{
 		"fieldName"				"CheatDetectionDialog"
-		"visible"				"1"
+		
 		
 		"xpos"					"c-160"
 		"ypos"					"155"

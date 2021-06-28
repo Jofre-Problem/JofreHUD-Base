@@ -5,7 +5,7 @@
 		"ControlName"	"CNotificationToastControl"
 		"fieldName"		"NotificationToastContainer"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"150"
 		"tall"			"50"
@@ -21,7 +21,7 @@
 		"fieldName"		"HelpTextLabel"
 		"fgcolor"		"RedSolid"
 		"xpos"			"5"
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"wide"			"140"
 		"tall"			"38"

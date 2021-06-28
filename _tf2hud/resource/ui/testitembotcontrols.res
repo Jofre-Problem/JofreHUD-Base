@@ -3,7 +3,7 @@
 	"TestItemBotControls"
 	{
 		"fieldName"				"TestItemBotControls"
-		"visible"				"1"
+		
 		
 		"xpos"					"r200"
 		"ypos"					"150"
@@ -24,7 +24,7 @@
 		"labelText"		"#IT_BotControl_Title"
 		"textAlignment"	"west"
 		"xpos"			"5"
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"15"

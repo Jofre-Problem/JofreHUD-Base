@@ -76,11 +76,11 @@
 		"ControlName"			"EditablePanel"
 		"fieldName"				"AdsContainer"
 		"xpos"					"cs-0.5"
-		"ypos"					"0"
+		
 		
 		"wide"					"f0"
 		"tall"					"f0"
-		"visible"				"1"
+		
 		
 		"scaleImage"			"1"
 		"proportionaltoparent"	"1"
@@ -91,7 +91,7 @@
 		"Controlname"	"EditablePanel"
 		"fieldName"		"Frame"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"f0"
 		"zpos"			"5"
@@ -105,11 +105,11 @@
 		"ControlName"			"EditablePanel"
 		"fieldName"				"FadeTransition"
 		"xpos"					"cs-0.5"
-		"ypos"					"0"
+		
 		"zpos"					"1"
 		"wide"					"f0"
 		"tall"					"f0"
-		"visible"				"1"
+		
 		
 		"scaleImage"			"1"
 		"proportionaltoparent"	"1"

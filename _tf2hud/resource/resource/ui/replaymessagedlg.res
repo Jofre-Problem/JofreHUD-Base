@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ReplayMessageDlg"
 		
-		"ypos"			"0"
+		
 		
 		
 		
@@ -20,7 +20,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Dlg"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"290"
 		"tall"			"160"

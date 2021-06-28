@@ -4,8 +4,6 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudAchievementTrackerItem"
-				[$WIN32]
-		"ypos"			"0"		[$WIN32]
 		"zpos"			"3"
 		"wide"			"280"
 		"tall"			"29"
@@ -21,7 +19,7 @@
 		"fieldName"		"AchievementName"
 		"labeltext"		""
 		"xpos"			"5"
-		"ypos"			"0"
+		
 		"wide"			"270"
 		"tall"			"10"
 		"zpos"			"4"
@@ -35,7 +33,7 @@
 		"fieldName"		"AchievementNameGlow"
 		"labeltext"		""
 		"xpos"			"5"
-		"ypos"			"0"
+		
 		"wide"			"270"
 		"tall"			"10"
 		"zpos"			"4"

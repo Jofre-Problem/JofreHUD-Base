@@ -3,7 +3,7 @@
 	"CraftingStatusDialog"
 	{
 		"fieldName"				"CraftingStatusDialog"
-		"visible"				"1"
+		
 		
 		"xpos"					"c-100"
 		"ypos"					"200"
@@ -49,7 +49,7 @@
 		"fieldName"		"TitleLabel"
 		"font"			"HudFontSmallBold"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"200"
 		"tall"			"60"
@@ -75,7 +75,7 @@
 		"fieldName"		"EllipsesLabel"
 		"font"			"HudFontSmallBold"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"200"
 		"tall"			"60"

@@ -3,7 +3,7 @@
 	"StrangeCountTrasnferDialog"
 	{
 		"fieldName"				"StrangeCountTrasnferDialog"
-		"visible"				"1"
+		
 		
 		"xpos"					"cs-0.5"
 		"ypos"					"cs-0.5"
@@ -17,7 +17,7 @@
 	{
 		"fieldName"				"BG"
 		"ControlName"			"EditablePanel"
-		"visible"				"1"
+		
 		
 		"xpos"					"cs-0.5"
 		"ypos"					"cs-0.7"

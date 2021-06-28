@@ -5,7 +5,7 @@
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"Background"
 		
-		"ypos"			"0"
+		
 		"wide"			"250"
 		"tall"			"80"
 		
@@ -26,7 +26,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"WaveCompleteContainer"
 		
-		"ypos"			"0"
+		
 		"wide"			"250"
 		"tall"			"35"
 		"visible"		"1"

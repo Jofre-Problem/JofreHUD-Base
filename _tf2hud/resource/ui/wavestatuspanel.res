@@ -47,7 +47,7 @@
 		"ControlName"	"Panel"
 		"fieldName"		"SeparatorBar"
 		
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"1"
 		"tall"			"30"

@@ -5,7 +5,7 @@
 		"ControlName"	"CWarLandingPanel"
 		"fieldName"		"WarPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"100"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -121,7 +121,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
@@ -235,7 +235,7 @@
 					"ControlName"	"CExLabel"
 					"fieldName"		"EndDateLabel"
 					"xpos"			"cs-0.5"
-					"ypos"			"0"
+					
 					"zpos"			"500"
 					"wide"			"300"
 					"tall"			"20"
@@ -276,7 +276,7 @@
 						"ControlName"	"Panel"
 						"fieldName"		"Frame"
 						
-						"ypos"			"0"
+						
 						"wide"			"f0"
 						"tall"			"f0"
 						"proportionaltoparent"	"1"
@@ -292,7 +292,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"Background"
 					"xpos"			"cs-0.5"
-					"ypos"			"0"
+					
 					
 					"wide"			"p1"
 					"tall"			"o1"
@@ -319,7 +319,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"Heavy"
 					"xpos"			"cs-0.5-p0.27"
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"p0.4"
 					"tall"			"o2"
@@ -339,7 +339,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"Pyro"
 					"xpos"			"cs-0.5+p0.27"
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"p0.4"
 					"tall"			"o2"
@@ -377,7 +377,7 @@
 					"ControlName"	"EditablePanel"
 					"fieldName"		"Foreground"
 					"xpos"			"cs-0.5"
-					"ypos"			"0"
+					
 					"zpos"			"2"
 					"wide"			"p1"
 					"tall"			"o1"
@@ -405,7 +405,7 @@
 							"ControlName"	"ImagePanel"
 							"fieldName"		"Silhouettes"
 							
-							"ypos"			"0"
+							
 							"zpos"			"2"
 							"wide"			"p1"
 							"tall"			"o0.25"
@@ -424,7 +424,7 @@
 							"ControlName"	"ImagePanel"
 							"fieldName"		"Silhouettes"
 							
-							"ypos"			"0"
+							
 							"zpos"			"2"
 							"wide"			"p1"
 							"tall"			"o0.25"
@@ -444,7 +444,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"AffiliatedContainer"
 				
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"proportionaltoparent"	"1"
@@ -498,7 +498,7 @@
 						"ControlName"	"Panel"
 						"fieldName"		"Frame"
 						
-						"ypos"			"0"
+						
 						"wide"			"f0"
 						"tall"			"f0"
 						"proportionaltoparent"	"1"
@@ -532,7 +532,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"WarOverContainer"
 				
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"proportionaltoparent"	"1"
@@ -586,7 +586,7 @@
 						"ControlName"	"Panel"
 						"fieldName"		"Frame"
 						
-						"ypos"			"0"
+						
 						"wide"			"f0"
 						"tall"			"f0"
 						"proportionaltoparent"	"1"
@@ -620,7 +620,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"CommunicatingWithGCPopup"
 				
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"zpos"			"100"
@@ -645,7 +645,7 @@
 						"ControlName"	"EditablePanel"
 						"fieldName"		"ConfirmSelectionContainer"
 						
-						"ypos"			"0"
+						
 						"wide"			"f0"
 						"tall"			"f0"
 						"proportionaltoparent"	"1"
@@ -755,7 +755,7 @@
 						"ControlName"	"EditablePanel"
 						"fieldName"		"JoiningContainer"
 						
-						"ypos"			"0"
+						
 						"wide"			"f0"
 						"tall"			"f0"
 						"proportionaltoparent"	"1"
@@ -800,7 +800,7 @@
 						"ControlName"	"EditablePanel"
 						"fieldName"		"TeamJoinedContainer"
 						
-						"ypos"			"0"
+						
 						"wide"			"f0"
 						"tall"			"f0"
 						"proportionaltoparent"	"1"
@@ -869,7 +869,7 @@
 						"ControlName"	"EditablePanel"
 						"fieldName"		"FailedToJoinContainer"
 						
-						"ypos"			"0"
+						
 						"wide"			"f0"
 						"tall"			"f0"
 						"proportionaltoparent"	"1"
@@ -958,7 +958,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"UnaffiliatedContainer"
 				
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"proportionaltoparent"	"1"

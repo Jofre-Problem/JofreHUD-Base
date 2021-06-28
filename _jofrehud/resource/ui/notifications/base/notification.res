@@ -3,7 +3,7 @@
 	"Notification_Background"
 	{
 		"fieldName"		"Notification_Background"
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		
 		

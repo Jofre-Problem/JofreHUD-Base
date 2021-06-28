@@ -5,7 +5,7 @@
 		"ControlName"	"CTitleEditPanel"
 		"fieldName"		"TitleEditPanel"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"40"
 		
@@ -44,7 +44,7 @@
 		"unicode"		"1"
 		"wrap"			"0"
 		"xpos"			"15"
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		
 		

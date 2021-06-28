@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"DataCenterPopulationPanel"
 		"xpos"					"cs-0.5"
-		"ypos"					"0"
+		
 		"wide"					"p0.95"
 		"tall"					"13"
 		"proportionaltoparent"	"1"

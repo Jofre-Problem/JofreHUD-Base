@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ItemSelectionPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"500"
 		"wide"			"f0"
 		"tall"			"480"
@@ -132,7 +132,7 @@
 		"labelText"		"#Store_NameFilterLabel"
 		"textAlignment"	"west"
 		"xpos"			"c+205"
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"90"
 		"tall"			"20"

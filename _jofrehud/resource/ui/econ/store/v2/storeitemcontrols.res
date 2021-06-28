@@ -5,7 +5,7 @@
 		"ControlName"	"CStoreItemControlsPanel"
 		"fieldName"		"StoreItemControls"
 		
-		"ypos"			"0"
+		
 		"zpos"			"20"
 		"wide"			"20"
 		"tall"			"20"
@@ -18,7 +18,7 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"AddToCartButton"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10"
 		"wide"			"20"
 		"tall"			"20"

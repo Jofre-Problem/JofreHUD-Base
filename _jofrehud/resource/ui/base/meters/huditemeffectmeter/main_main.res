@@ -6,7 +6,7 @@
 		"visible"		"1"
 		
 	//	
-	//	"ypos"			"0"
+	//	
 	//	"wide"			"f0"
 	//	"tall"			"f0"		
 	}

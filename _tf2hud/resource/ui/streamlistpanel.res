@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HeaderContainer"
 		
-		"ypos"			"0"
+		
 		"wide"			"300"
 		"tall"			"22"
 		"visible"		"1"
@@ -18,7 +18,7 @@
 			"textAlignment"	"center"
 			"labelText"		"#MMenu_Stream_LiveStream"
 			
-			"ypos"			"0"
+			
 			"wide"			"300"
 			"tall"			"24"
 			
@@ -74,7 +74,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"

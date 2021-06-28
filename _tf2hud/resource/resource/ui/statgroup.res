@@ -8,7 +8,7 @@
 		"ControlName"	        "CAchievementDialogGroupPanel"
 		"fieldName"		        "StatGroupPanel"
 		"xpos"					"50"	
-		"ypos"					"0"
+		
 		"wide"					"260"
 		"tall"					"64"
 		

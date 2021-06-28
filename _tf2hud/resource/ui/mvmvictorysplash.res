@@ -15,7 +15,7 @@
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"SplashBackground"
 			"xpos"			"25"
-			"ypos"			"0"
+			
 			"wide"			"250"
 			"tall"			"70"
 			

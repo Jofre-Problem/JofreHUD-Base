@@ -119,7 +119,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"StatsBgPanel"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"f0"
 		"tall"			"f0"
@@ -152,7 +152,7 @@
 		"Controlname"	"EditablePanel"
 		"fieldnName"	"MainStatsContainer"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -163,7 +163,7 @@
 			"ControlName"	"CTFParticlePanel"
 			"fieldName"		"ParticlePanel"
 			
-			"ypos"			"0"
+			
 			"zpos"			"55"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -191,7 +191,7 @@
 				"labelText"		"#TF_StatsAndMedals"
 				"textAlignment"		"center"
 				
-				"ypos"			"0"
+				
 				"zpos"			"4"
 				"wide"			"200"
 				"tall"			"15"
@@ -226,7 +226,7 @@
 			"ControlName"		"EditablePanel"
 			"fieldName"		"TeamScoresPanel"
 			
-			"ypos"			"0"
+			
 			"zpos"			"50"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -238,7 +238,7 @@
 	 			"ControlName"		"EditablePanel"
 				"fieldName"		"BlueTeamPanel"
 				"xpos"			"-320"
-				"ypos"			"0"
+				
 				
 				"wide"			"f0"
 				"tall"			"f0"
@@ -453,7 +453,7 @@
 						"ControlName"	"TFSectionedListPanel"
 						"fieldName"		"BluePlayerList"
 						
-						"ypos"			"0"
+						
 						"zpos"			"1"
 						"wide"			"p.465"
 						"tall"			"205"
@@ -508,7 +508,7 @@
 	 			"ControlName"		"EditablePanel"
 				"fieldName"		"RedTeamPanel"
 				"xpos"			"320"
-				"ypos"			"0"
+				
 				
 				"wide"			"f0"
 				"tall"			"f0"
@@ -722,7 +722,7 @@
 						"ControlName"	"TFSectionedListPanel"
 						"fieldName"		"RedPlayerList"
 						
-						"ypos"			"0"
+						
 						"zpos"			"1"
 						"wide"			"p.465"
 						"tall"			"205"
@@ -794,7 +794,7 @@
 					"ControlName"		"ImagePanel"
 					"fieldName"		"BlueGoldMedal"
 					
-					"ypos"			"0"
+					
 					"zpos"			"5"
 					"wide"			"15"
 					"tall"			"15"
@@ -811,7 +811,7 @@
 					"labelText"		"%blueteammedals_gold%"
 					"textAlignment"		"center"
 					"xpos"			"15"
-					"ypos"			"0"
+					
 					"zpos"			"6"
 					"wide"			"15"
 					"tall"			"15"
@@ -825,7 +825,7 @@
 					"ControlName"		"ImagePanel"
 					"fieldName"		"BlueSilverMedal"
 					"xpos"			"55"
-					"ypos"			"0"
+					
 					"zpos"			"5"
 					"wide"			"15"
 					"tall"			"15"
@@ -842,7 +842,7 @@
 					"labelText"		"%blueteammedals_silver%"
 					"textAlignment"		"center"
 					"xpos"			"70"
-					"ypos"			"0"
+					
 					"zpos"			"6"
 					"wide"			"15"
 					"tall"			"15"
@@ -856,7 +856,7 @@
 					"ControlName"		"ImagePanel"
 					"fieldName"		"BlueBronzeMedal"
 					"xpos"			"110"
-					"ypos"			"0"
+					
 					"zpos"			"5"
 					"wide"			"15"
 					"tall"			"15"
@@ -873,7 +873,7 @@
 					"labelText"		"%blueteammedals_bronze%"
 					"textAlignment"		"center"
 					"xpos"			"125"
-					"ypos"			"0"
+					
 					"zpos"			"6"
 					"wide"			"15"
 					"tall"			"15"
@@ -905,7 +905,7 @@
 					"ControlName"		"ImagePanel"
 					"fieldName"		"RedGoldMedal"
 					
-					"ypos"			"0"
+					
 					"zpos"			"5"
 					"wide"			"15"
 					"tall"			"15"
@@ -922,7 +922,7 @@
 					"labelText"		"%redteammedals_gold%"
 					"textAlignment"		"center"
 					"xpos"			"15"
-					"ypos"			"0"
+					
 					"zpos"			"6"
 					"wide"			"15"
 					"tall"			"15"
@@ -936,7 +936,7 @@
 					"ControlName"		"ImagePanel"
 					"fieldName"		"RedSilverMedal"
 					"xpos"			"55"
-					"ypos"			"0"
+					
 					"zpos"			"5"
 					"wide"			"15"
 					"tall"			"15"
@@ -953,7 +953,7 @@
 					"labelText"		"%redteammedals_silver%"
 					"textAlignment"		"center"
 					"xpos"			"70"
-					"ypos"			"0"
+					
 					"zpos"			"6"
 					"wide"			"15"
 					"tall"			"15"
@@ -967,7 +967,7 @@
 					"ControlName"		"ImagePanel"
 					"fieldName"		"RedBronzeMedal"
 					"xpos"			"110"
-					"ypos"			"0"
+					
 					"zpos"			"5"
 					"wide"			"15"
 					"tall"			"15"
@@ -984,7 +984,7 @@
 					"labelText"		"%redteammedals_bronze%"
 					"textAlignment"		"center"
 					"xpos"			"125"
-					"ypos"			"0"
+					
 					"zpos"			"6"
 					"wide"			"15"
 					"tall"			"15"

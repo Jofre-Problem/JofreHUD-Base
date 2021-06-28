@@ -6,7 +6,7 @@
 		"fieldName"				"HudTournament"
 				
 		"xpos"					"c-125"
-		"ypos"					"0"
+		
 		"wide"					"250"
 		"tall"					"480"
 		"proportionaltoparent"	"1"
@@ -29,7 +29,7 @@
 		if_mvm
 		{
 			"xpos"					"c-250"
-			"ypos"					"0"
+			
 			"wide"					"500"
 			"tall"					"480"
 
@@ -436,7 +436,7 @@
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"HudTournamentBG"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"250"
 		"tall"			"55"

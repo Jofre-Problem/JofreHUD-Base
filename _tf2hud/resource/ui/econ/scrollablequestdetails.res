@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Container"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"f0"
 		"tall"			"f0"
@@ -40,7 +40,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"ItemContainer"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10"
 			"wide"			"80"
 			"tall"			"60"
@@ -96,7 +96,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ScrollingContainer"
 		
-		"ypos"			"0"
+		
 		"zpos"			"5"
 		"wide"			"f0"
 		"tall"			"f0"

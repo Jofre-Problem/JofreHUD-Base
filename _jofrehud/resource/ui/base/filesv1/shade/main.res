@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Shade"
 		"xpos"			"3"
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"

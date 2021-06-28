@@ -97,7 +97,7 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"PrevButton"
 		"xpos"			"10"
-		"ypos"			"0"
+		
 		"zpos"			"10"
 		"wide"			"30"
 		"tall"			"30"
@@ -129,7 +129,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"30"
 			"tall"			"30"
@@ -144,7 +144,7 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"NextButton"
 		"xpos"			"rs1-5"
-		"ypos"			"0"
+		
 		"zpos"			"10"
 		"wide"			"30"
 		"tall"			"30"
@@ -177,7 +177,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"30"
 			"tall"			"30"
@@ -195,7 +195,7 @@
 		"labelText"		"%explanationnumber%"
 		"textAlignment"	"center"
 		"xpos"			"cs-0.5"
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"300"
 		"tall"			"30"

@@ -3,7 +3,7 @@
 	"GenericWaitingDialog"
 	{
 		"fieldName"				"GenericWaitingDialog"
-		"visible"				"1"
+		
 		
 		"xpos"					"c-100"
 		"ypos"					"200"
@@ -85,7 +85,7 @@
 		"fieldName"		"TitleLabel"
 		"font"			"EconFontSmall"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"200"
 		"tall"			"60"
@@ -111,7 +111,7 @@
 		"ControlName"	"ProgressBar"
 		"fieldName"		"Progress"
 		
-		"ypos"			"0"
+		
 		"tall"			"20"
 		"wide"			"180"
 		
@@ -132,7 +132,7 @@
 		"fieldName"		"DurationLabel"
 		"font"			"EconFontSmall"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"200"
 		"tall"			"60"

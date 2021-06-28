@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"LeaderboardEntry"
 		
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"30"
@@ -16,11 +16,11 @@
 		{
 			"ControlName"			"EditablePanel"
 			"fieldName"				"Border"
-			"xpos"					"0"
-			"ypos"					"0"
+			
+			
 			"wide"					"f0"
 			"tall"					"f0"
-			"visible"				"1"
+			
 			"border"				"MainMenuBGBorderAlpha"
 			"proportionaltoparent"	"1"
 		}
@@ -106,7 +106,7 @@
 			"zpos"					"100"
 			"wide"					"80"
 			"tall"					"10"
-			"visible"				"1"
+			
 			"border"				"MainMenuBGBorderAlpha"
 			"proportionaltoparent"	"1"
 		
@@ -134,12 +134,12 @@
 			{
 				"ControlName"			"EditablePanel"
 				"fieldName"				"Overlay"
-				"xpos"					"0"
-				"ypos"					"0"
+				
+				
 				"zpos"					"1"
 				"wide"					"f0"
 				"tall"					"f0"
-				"visible"				"1"
+				
 				"border"				"MainMenuBGBorderAlpha"
 				"proportionaltoparent"	"1"
 			}

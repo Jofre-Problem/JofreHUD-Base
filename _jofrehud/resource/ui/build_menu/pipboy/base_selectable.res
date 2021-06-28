@@ -30,6 +30,6 @@
 {
 	"ItemBackground"
 	{
-		"ypos"			"0"
+		
 	}
 }

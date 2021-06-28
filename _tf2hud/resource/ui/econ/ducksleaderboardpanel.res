@@ -154,7 +154,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TooltipPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"100"
 		"wide"			"100"
 		"tall"			"50"

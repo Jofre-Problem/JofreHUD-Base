@@ -5,7 +5,7 @@
 		"ControlName"		"CTeamMenu"
 		"fieldName"		"team"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"480"
 		
@@ -20,7 +20,7 @@
 		"ControlName"	"Menu"
 		"fieldName"		"SysMenu"
 		
-		"ypos"			"0"
+		
 		"wide"			"64"
 		"tall"			"24"
 		
@@ -199,7 +199,7 @@
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MenuBG"
 		
-		"ypos"			"0"
+		
 				
 		"wide"			"f0"
 		"tall"			"480"
@@ -253,7 +253,7 @@
 		"ControlName"	"CModelPanel"
 		"fieldName"		"autodoor"
 		
-		"ypos"			"0"
+		
 		"zpos"			"2"		
 		"wide"			"f0"
 		"tall"			"480"
@@ -302,7 +302,7 @@
 		"ControlName"	"CModelPanel"
 		"fieldName"		"spectate"
 		
-		"ypos"			"0"
+		
 				
 		"wide"			"f0"
 		"tall"			"480"

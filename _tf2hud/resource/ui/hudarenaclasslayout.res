@@ -143,7 +143,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage1"
 		
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
@@ -157,7 +157,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage2"
 		
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
@@ -171,7 +171,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage3"
 		
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
@@ -185,7 +185,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage4"
 		
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
@@ -199,7 +199,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage5"
 		
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
@@ -213,7 +213,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage6"
 		
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
@@ -227,7 +227,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage7"
 		
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
@@ -241,7 +241,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage8"
 		
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
@@ -255,7 +255,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage9"
 		
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
@@ -269,7 +269,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage10"
 		
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
@@ -283,7 +283,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage11"
 		
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"

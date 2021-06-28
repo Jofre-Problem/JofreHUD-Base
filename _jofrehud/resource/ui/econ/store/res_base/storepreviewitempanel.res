@@ -6,7 +6,7 @@
 		"ControlName"		"CStorePreviewItemPanel"
 		"fieldName"		"storepreviewitem"
 		
-		"ypos"			"0"
+		
 		
 		
 		"visible"		"1"
@@ -52,7 +52,7 @@
 	{		
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"PreviewItemModelPanel"
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"visible"		"1"
 

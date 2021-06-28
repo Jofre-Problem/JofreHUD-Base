@@ -5,7 +5,7 @@
 		"ControlName"	"ListPanel"
 		"fieldName"		"DCCObjectList"
 		
-		"ypos"			"0"
+		
 		"wide"			"256"
 		"tall"			"212"
 		"AutoResize"	"3"

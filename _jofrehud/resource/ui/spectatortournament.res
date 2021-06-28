@@ -28,7 +28,7 @@
 				"fieldName"		"playername"
 				"font"			"QuestMediumText_Merasmus"
 				"xpos"			"52"
-				"ypos"			"0"
+				
 				"zpos"			"5"
 				"wide"			"70"
 				"tall"			"15"
@@ -55,7 +55,7 @@
 				"fieldName"		"playername2"
 				"font"			"QuestMediumText_Merasmus"
 				"xpos"			"52"
-				"ypos"			"0"
+				
 				"zpos"			"5"
 				"wide"			"70"
 				"tall"			"15"
@@ -82,7 +82,7 @@
 				"ControlName"	"CTFClassImage"
 				"fieldName"		"classimage"
 				"xpos"			"4"
-				"ypos"			"0"
+				
 				"zpos"			"2"
 				"wide"			"16"
 				"tall"			"16"
@@ -194,7 +194,7 @@
 				"fieldName"		"respawntime"
 				"font"			"XPSource"
 				"xpos"			"22"
-				"ypos"			"0"
+				
 				"zpos"			"4"
 				"wide"			"32"
 				"tall"			"16"
@@ -219,7 +219,7 @@
 				"fieldName"		"chargeamount2"
 				"font"			"XPSource"
 				"xpos"			"124"
-				"ypos"			"0"
+				
 				"zpos"			"5"
 				"wide"			"25"
 				"tall"			"16"
@@ -238,7 +238,7 @@
 				"fieldName"		"chargeamount"
 				"font"			"XPSource"
 				"xpos"			"124"
-				"ypos"			"0"
+				
 				"zpos"			"6"
 				"wide"			"25"
 				"tall"			"16"

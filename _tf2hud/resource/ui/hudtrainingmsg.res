@@ -5,7 +5,7 @@
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"HudTrainingMsgBG"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"400"
 		"tall"			"265"

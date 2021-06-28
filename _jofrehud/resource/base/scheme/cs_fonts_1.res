@@ -67,9 +67,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Segoe UI"
 				"tall"		"12"
-				"weight"	"500"
+			//	"weight"	"500"
 				"antialias"	"1"
 			}
 		}

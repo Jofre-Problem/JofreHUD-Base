@@ -41,7 +41,7 @@
 		"fieldName"		"TitleLabel"
 		"font"			"MenuLarge"
 		"xpos"			"20"	
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"wide"			"720"
 		"tall"			"35"
@@ -471,7 +471,7 @@
 		"ControlName"	"label"
 		"xpos"			"425"
 		//"xpos_lodef"	"325"
-		"ypos"			"0"
+		
 		//"ypos_lodef"	"3"
 		"wide"			"30"
 		//"wide_lodef"	"25"
@@ -687,7 +687,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"128"
 		"image"			"menu_header"
@@ -2000,7 +2000,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			
-			"ypos"			"0"
+			
 			"wide"			"370"
 			//"wide_lodef"	"233"
 			"tall"			"123"
@@ -2451,7 +2451,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		
-		"ypos"			"0"
+		
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
@@ -2781,7 +2781,7 @@
  			{
 				"header"		"#TF_Scoreboard_Ping"
 				//"header_lodef"		" "
-  				"ypos"			"0"
+  				
   				//"ypos_lodef"			"0"
 				"wide"			"40"
 				//"wide_lodef"	"25"
@@ -3699,7 +3699,7 @@
 		//"centerbgtall_hidef"		"170"
 		
 		
-		"visible"				"1"
+		
 		
 		
 		"settitlebarvisible"	"0"
@@ -3907,7 +3907,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"ChapterTitleLabel"
 		
-		"ypos"			"0"
+		
 		"wide"			"518"
 		//"wide_hidef"	"730"
 		"tall"			"40"
@@ -3926,7 +3926,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"ChapterTitleLabel2"
 		
-		"ypos"			"0"
+		
 		"wide"			"518"
 		//"wide_hidef"	"730"
 		"tall"			"40"
@@ -4107,7 +4107,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"HasBonusLabel"
 		
-		"ypos"			"0"
+		
 		"wide"			"107"
 		//"wide_hidef"	"152"
 		"tall"			"14"
@@ -4155,7 +4155,7 @@
 		"ControlName"		"Frame"
 		"fieldName"			"LoadingDialog"
 		
-		"ypos"			"0"
+		
 
 		"wide"				"200"
 		//"wide_hidef"		"250"
@@ -4173,7 +4173,7 @@
 		"ControlName"		"Frame"
 		"fieldName"			"LoadingDialogBG"
 		
-		"ypos"			"0"
+		
 
 		"wide"				"200"
 		//"wide_hidef"		"250"

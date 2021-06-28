@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"LeaderboardEntry"
 		
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"wide"			"275"
 		"tall"			"22"
@@ -16,7 +16,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"AvatarPanel0"
 			
-			"ypos"			"0"
+			
 			"zpos"			"2"
 			"wide"			"20"
 			"tall"			"20"

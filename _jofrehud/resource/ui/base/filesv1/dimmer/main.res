@@ -4,7 +4,7 @@
 	{
 		"fieldName"				"Dimmer"
 		"ControlName"			"EditablePanel"
-		"visible"				"1"
+		
 		
 		"wide"					"f0"
 		"tall"					"f0"

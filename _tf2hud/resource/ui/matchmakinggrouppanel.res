@@ -3,8 +3,8 @@
 	"MatchmakingGroupPanel"
 	{
 		"fieldName"				"ScrollableImageListEntry"
-		"xpos"					"0"
-		"ypos"					"0"
+		
+		
 		"wide"					"f0"
 		"tall"					"25"
 		"proportionaltoparent"	"1"

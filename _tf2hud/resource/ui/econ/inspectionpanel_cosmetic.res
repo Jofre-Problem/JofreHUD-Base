@@ -5,7 +5,7 @@
 		"ControlName"	"CStorePreviewItemPanel"
 		"fieldName"		"storepreviewitem"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1000"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -32,7 +32,7 @@
 			"ControlName"	"CMouseMessageForwardingPanel"
 			"fieldName"		"FullscreenStorePreview"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10000"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -138,7 +138,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
@@ -194,7 +194,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BgPanel"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"f0"
 		"tall"			"f0"
@@ -276,7 +276,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ScrollableChild"
 				"xpos"			"240"
-				"ypos"			"0"
+				
 				"zpos"			"100"
 				"wide"			"230"
 				"tall"			"222"
@@ -816,7 +816,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"11"
 			"tall"			"11"
@@ -861,7 +861,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"11"
 			"tall"			"11"
@@ -933,7 +933,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"7"
 				"wide"			"19"
 				"tall"			"19"
@@ -1068,7 +1068,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"

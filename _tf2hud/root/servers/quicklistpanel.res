@@ -23,12 +23,12 @@
 		"PinCorner"			"2"
 		"AutoResize"			"1"
 		"fieldName"				"background"
-		"xpos"					"0"
-		"ypos"					"0"
+		
+		
 		
 		"wide"					"624"
 		"tall"					"100"
-		"visible"				"1"
+		
 		
 		"PaintBackgroundType"			"0"
 //		"bgcolor_override"			"69 64 58 255"

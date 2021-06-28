@@ -23,7 +23,7 @@
 			"ControlName"	"ListPanel"
 			"fieldName"		"AnimationList"
 			
-			"ypos"			"0"
+			
 			"wide"			"256"
 			"tall"			"256"
 			"autoResize"	"3"

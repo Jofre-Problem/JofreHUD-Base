@@ -3,7 +3,7 @@
 	"MMDashboard"
 	{
 		"fieldName"				"MMDashboard"
-		"visible"				"1"
+		
 		
 		"xpos"					"cs-0.5"
 		"ypos"					"-5"
@@ -22,7 +22,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TopBar"
 		"xpos"			"cs-0.5"
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"35"
@@ -57,7 +57,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"BGPanel"
 			"xpos"			"cs-0.5"
-			"ypos"			"0"
+			
 			"zpos"			"-1"
 			"wide"			"p1.1"
 			"tall"			"f5"
@@ -87,7 +87,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"ToggleChatButton"
 			
-			"ypos"			"0"
+			
 			"zpos"			"100"
 			"wide"			"40"
 			"tall"			"f6"
@@ -274,7 +274,7 @@
 				"ControlName"	"Panel"
 				"fieldName"		"OuterShadow"
 				
-				"ypos"			"0"
+				
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -420,7 +420,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
@@ -470,7 +470,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
@@ -499,7 +499,7 @@
 				"ControlName"	"Panel"
 				"fieldName"		"OuterShadow"
 				
-				"ypos"			"0"
+				
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -588,7 +588,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"QuitButton"
 			"xpos"			"rs1"
-			"ypos"			"0"
+			
 			"zpos"			"100"
 			"wide"			"30"
 			"tall"			"f6"
@@ -645,7 +645,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"DisconnectButton"
 			"xpos"			"rs1"
-			"ypos"			"0"
+			
 			"zpos"			"100"
 			"wide"			"110"
 			"tall"			"f6"
@@ -704,7 +704,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"ResumeButton"
 			"xpos"			"rs1-31-131"
-			"ypos"			"0"
+			
 			"zpos"			"100"
 			"wide"			"90"
 			"tall"			"f6"
@@ -762,7 +762,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"FindAGameButton"
 			"xpos"			"rs1-31"
-			"ypos"			"0"
+			
 			"zpos"			"100"
 			"wide"			"115"
 			"tall"			"f6"

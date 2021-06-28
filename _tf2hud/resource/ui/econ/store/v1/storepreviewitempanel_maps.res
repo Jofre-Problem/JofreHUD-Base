@@ -5,7 +5,7 @@
 		"ControlName"		"CStorePreviewItemPanel"
 		"fieldName"		"storepreviewitem"
 		
-		"ypos"			"0"
+		
 		"wide"			"305"
 		"tall"			"255"
 		
@@ -23,7 +23,7 @@
 		"fieldName"		"classmodelpanel"
 		
 		
-		"ypos"			"0"
+		
 				
 		"wide"			"295"
 		"tall"			"250"

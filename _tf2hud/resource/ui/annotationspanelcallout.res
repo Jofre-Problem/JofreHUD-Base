@@ -18,7 +18,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"CalloutBG"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"76"
 		"tall"			"24"
@@ -41,7 +41,7 @@
 		"fieldName"		"CalloutLabel"
 		"font"			"HudFontSmall"
 		
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"autoResize"	"1"
 		

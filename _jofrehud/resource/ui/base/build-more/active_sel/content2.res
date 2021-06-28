@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"115"
 		"tall"			"138"

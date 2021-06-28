@@ -5,7 +5,7 @@
 		"ControlName"		"Frame"
 		"fieldName"		"commentary_modelviewer"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"480"
 		
@@ -25,7 +25,7 @@
 		"ControlName"		"CCommentaryModelPanel"
 		"fieldName"		"modelpanel"
 		
-		"ypos"			"0"
+		
 				
 		"wide"			"f0"
 		"tall"			"480"

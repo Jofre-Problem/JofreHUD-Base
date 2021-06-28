@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ModeInfoContainer"
 		
-		"ypos"			"0"
+		
 		"wide"			"225"
 		"tall"			"205"
 		"visible"		"1"
@@ -58,7 +58,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"ImageFrame"
 			"xpos"			"10"
-			"ypos"			"0"
+			
 			"wide"			"205"
 			"tall"			"205"
 			"visible"		"1"

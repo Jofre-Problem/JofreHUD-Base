@@ -5,7 +5,7 @@
 		"ControlName"		"CTeamMenu"
 		"fieldName"		"team"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"480"
 		

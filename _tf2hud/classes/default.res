@@ -5,7 +5,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"classNameLabel"
 		
-		"ypos"			"0"
+		
 		//"ypos_lodef"	"170"
 		"zpos"			"5"	
 		"wide"			"230"

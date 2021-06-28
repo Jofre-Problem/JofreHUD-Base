@@ -13,7 +13,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"Background"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"f0"
 		"tall"			"f0"
@@ -30,7 +30,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemName"
 		"xpos"			"2"
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"30"
 		"zpos"			"10"
@@ -67,7 +67,7 @@
 			"ControlName"	"ScrollBar"
 			"FieldName"		"ScrollBar"
 			
-			"ypos"			"0"
+			
 			"tall"			"f0"
 			"wide"			"5" // This gets slammed from client schme.  GG.
 			"zpos"			"1000"
@@ -101,7 +101,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"ItemAdText"
 			
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"100"
 			"zpos"			"10"

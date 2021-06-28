@@ -5,7 +5,7 @@
 		"ControlName"	"CStorePreviewItemPanel"
 		"fieldName"		"storepreviewitem"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"f0"
 		
@@ -32,7 +32,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BgPanel"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"f0"
 		"tall"			"f0"
@@ -495,7 +495,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"7"
 				"wide"			"19"
 				"tall"			"19"
@@ -568,7 +568,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"11"
 			"tall"			"11"
@@ -598,7 +598,7 @@
 			"labelText"		"#TF_ImportPreview_LoadoutLabel"
 			"textAlignment"	"west"
 			
-			"ypos"			"0"
+			
 			"wide"			"200"
 			"tall"			"15"
 			
@@ -924,7 +924,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"StartExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"140"
@@ -1017,7 +1017,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1082,7 +1082,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1099,7 +1099,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"OptionsExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"120"
@@ -1192,7 +1192,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1239,7 +1239,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1304,7 +1304,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1321,7 +1321,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"AdvancedExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"120"
@@ -1414,7 +1414,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1461,7 +1461,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1526,7 +1526,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
@@ -1543,7 +1543,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"ExplanationExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"120"
@@ -1635,7 +1635,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1682,7 +1682,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"

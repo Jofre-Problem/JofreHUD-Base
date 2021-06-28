@@ -133,7 +133,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"itemcontainer"
 		"xpos"			"30"
-		"ypos"			"0"
+		
 		"wide"			"240"
 		"tall"			"125"
 		"PaintBackgroundType"	"2"
@@ -166,7 +166,7 @@
 		"labelText"		"#NoItemsToEquip"
 		"textAlignment"	"center"
 		"xpos"			"3"
-		"ypos"			"0"
+		
 		"zpos"			"10"
 		"wide"			"220"
 		"tall"			"30"

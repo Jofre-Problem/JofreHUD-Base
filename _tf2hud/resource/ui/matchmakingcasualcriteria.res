@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PlaylistBGPanel"
 		"xpos"			"cs-0.5"
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"p0.98"
 		"tall"			"p1"
@@ -255,7 +255,7 @@
 				"ControlName"	"ScrollBar"
 				"FieldName"		"ScrollBar"
 				"xpos"			"rs1-1"
-				"ypos"			"0"
+				
 				"tall"			"f0"
 				"wide"			"5" // This gets slammed from client schme.  GG.
 				"zpos"			"1000"

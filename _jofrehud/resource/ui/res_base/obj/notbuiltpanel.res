@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"NotBuiltPanel"
 		
-		"ypos"			"0"
+		
 		"wide"			"160"
 		"visible"		"1"
 
@@ -15,7 +15,7 @@
 			"fieldName"		"NotBuiltLabel"
 			"font"			"DefaultSmall"
 			"xpos"			"60"
-			"ypos"			"0"
+			
 			"wide"			"200"
 			
 			

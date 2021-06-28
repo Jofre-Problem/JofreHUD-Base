@@ -49,7 +49,7 @@
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
+		
 		
 		
 		"labelText"				"#TF_Ball"
@@ -93,7 +93,7 @@
 		"wide"					"50"
 		"tall"					"20"	
 		"pinCorner"				"2"
-		"visible"				"1"
+		
 		
 		
 		"labelText"				"%progresscount%"

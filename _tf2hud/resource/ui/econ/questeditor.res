@@ -116,7 +116,7 @@
 				"ControlName"	"ScrollBar"
 				"FieldName"		"ScrollBar"
 				"xpos"			"rs1.4"
-				"ypos"			"0"
+				
 				"tall"			"f0"
 				"wide"			"10"
 				"zpos"			"1000"
@@ -192,7 +192,7 @@
 				"ControlName"	"ScrollBar"
 				"FieldName"		"ScrollBar"
 				"xpos"			"rs1.4"
-				"ypos"			"0"
+				
 				"tall"			"f0"
 				"wide"			"10"
 				"zpos"			"1000"
@@ -243,7 +243,7 @@
 				"ControlName"	"ScrollBar"
 				"FieldName"		"ScrollBar"
 				"xpos"			"rs1.4"
-				"ypos"			"0"
+				
 				"tall"			"f0"
 				"wide"			"10"
 				"zpos"			"1000"

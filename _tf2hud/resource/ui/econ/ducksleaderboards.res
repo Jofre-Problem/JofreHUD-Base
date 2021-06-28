@@ -5,7 +5,7 @@
 		"ControlName"	"CTFLeaderboardPanel"
 		"fieldName"		"DucksLeaderboardPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1000"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -17,8 +17,8 @@
 		"ScoreEntryKVs"
 		{
 			"ControlName"			"EditablePanel"
-			"xpos"					"0"
-			"ypos"					"0"
+			
+			
 			"wide"					"f0"
 			"tall"					"30"
 			"visible"				"0"
@@ -95,7 +95,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"EOTLImage"
 				"xpos"			"rs1.01"
-				"ypos"			"0"
+				
 				
 				"wide"			"o1"
 				"tall"			"p1.09"
@@ -112,7 +112,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"SecondaryStatsContainer"
 				
-				"ypos"			"0"
+				
 				"zpos"			"500"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -257,7 +257,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
@@ -307,7 +307,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"f0"
 					"tall"			"f0"
@@ -358,7 +358,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"f0"
 					"tall"			"f0"
@@ -377,7 +377,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TooltipPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"100"
 		"wide"			"300"
 		"tall"			"50"

@@ -3,7 +3,7 @@
 	"TestItemDialog"
 	{
 		"fieldName"				"TestItemDialog"
-		"visible"				"1"
+		
 		
 		"xpos"					"c-275"
 		"ypos"					"80"
@@ -114,7 +114,7 @@
 			"labelText"		"#IT_ExistingItem"
 			"textAlignment"	"west"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"95"
 			"tall"			"15"
@@ -175,7 +175,7 @@
 			"labelText"		"#IT_ItemReplaces"
 			"textAlignment"	"west"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"95"
 			"tall"			"15"
@@ -221,7 +221,7 @@
 			"labelText"		"#IT_ItemReplaced_Invalid"
 			"textAlignment"	"west"
 			"xpos"			"95"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"200"
 			"tall"			"25"
@@ -253,7 +253,7 @@
 			"labelText"		"#IT_Bodygroups"
 			"textAlignment"	"west"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"95"
 			"tall"			"15"
@@ -289,7 +289,7 @@
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
 			"xpos"			"95"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"150"
 			"tall"			"20"
@@ -329,7 +329,7 @@
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
 			"xpos"			"190"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"150"
 			"tall"			"20"
@@ -369,7 +369,7 @@
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
 			"xpos"			"290"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"150"
 			"tall"			"20"
@@ -409,7 +409,7 @@
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"
 			"xpos"			"385"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"150"
 			"tall"			"20"
@@ -462,7 +462,7 @@
 			"labelText"		"#IT_PaintTitle"
 			"textAlignment"	"west"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"95"
 			"tall"			"15"

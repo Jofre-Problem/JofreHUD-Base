@@ -88,7 +88,7 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"0"
+			
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"wide"					"p1"
@@ -152,7 +152,7 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"0"
+			
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"wide"					"p1"
@@ -216,7 +216,7 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"0"
+			
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"wide"					"p1"
@@ -281,7 +281,7 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"0"
+			
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"wide"					"p1"
@@ -346,7 +346,7 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"0"
+			
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"wide"					"p1"

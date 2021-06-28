@@ -42,7 +42,7 @@
 	"NameLabel"
 	{
 		"xpos"					"rs1+7"
-		"ypos"					"0"
+		
 		"zpos"					"100"
 		"wide"					"f22"
 		"tall"					"10"
@@ -64,7 +64,7 @@
 		"wide"					"f22"
 		"tall"					"10"
 		"textAlignment"			"north-west"
-		"visible"				"1"
+		
 		
 		"proportionaltoparent"	"1"
 		"wrap"					"1"

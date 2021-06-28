@@ -3,6 +3,6 @@
 {
 	"Background"
 	{
-		"xpos"	"0"
+		
 	}
 }

@@ -6,7 +6,7 @@
 		"fieldName"		"SentryLabel"
 		"font"			"Default"
 		
-		"ypos"			"0"
+		
 		"wide"			"150"
 		"tall"			"30"
 		
@@ -41,7 +41,7 @@
 		"fieldName"		"DispenserLabel"
 		"font"			"Default"
 		"xpos"			"150"
-		"ypos"			"0"
+		
 		"wide"			"150"
 		"tall"			"30"
 		

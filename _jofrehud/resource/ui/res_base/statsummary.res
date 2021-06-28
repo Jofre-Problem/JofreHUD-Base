@@ -31,7 +31,7 @@
 		"ControlName"		"ImagePanel"
 	//	"fieldName"		"MainBackground"
 	//	
-	//	"ypos"			"0"
+	//	
 		"wide"			"f0"
 		"tall"			"480"
 	//	
@@ -2544,7 +2544,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"128"
 		"image"			"menu_header"

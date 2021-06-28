@@ -7,7 +7,7 @@
 		"font"			"HudFontMedium"
 		"font_minmode"		"HudFontMediumSmall"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"30"
 		"tall"			"30"

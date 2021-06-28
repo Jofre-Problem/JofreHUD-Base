@@ -43,7 +43,7 @@
 		"ControlName"	"CIconPanel"
 		"fieldName"		"ItemBackground"
 		"xpos"			"4"
-		"ypos"			"0"
+		
 		
 		"wide"			"98"
 		"tall"			"135"

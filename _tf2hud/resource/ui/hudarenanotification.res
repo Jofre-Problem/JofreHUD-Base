@@ -5,7 +5,7 @@
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"HudArenaNotificationBG"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"320"
 		"tall"			"200"

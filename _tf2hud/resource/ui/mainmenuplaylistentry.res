@@ -5,7 +5,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ModeImage"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"o4"
 		"tall"			"p1.17"
@@ -21,7 +21,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PlayListDropShadow"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1000"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -37,7 +37,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGColor"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -54,7 +54,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ToolTipHack"
 		
-		"ypos"			"0"
+		
 		"zpos"			"50"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -122,7 +122,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MatchmakingBanPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -141,7 +141,7 @@
 			"labelText"		"#TF_Matchmaking_Ban_Duration_Remaining"
 			"textalignment"	"south-west"
 			"xpos"			"5"
-			"ypos"			"0"
+			
 			"zpos"			"2"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -204,7 +204,7 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"DisabledIcon"
 		
-		"ypos"			"0"
+		
 		"zpos"				"49"
 		"wide"				"f0"
 		"tall"				"f0"

@@ -39,7 +39,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"WorkshopBG"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-100"
 		"wide"			"600"
 		"tall"			"400"
@@ -437,7 +437,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"Icon"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"190"
 			"tall"			"122"
@@ -966,7 +966,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"LOD0Panel"
 			
-			"ypos"			"0"
+			
 			"wide"			"150"
 			"tall"			"50"
 			"visible"		"1"
@@ -1804,7 +1804,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"AnimationSourcePanel"
 			
-			"ypos"			"0"
+			
 			"wide"			"150"
 			"tall"			"50"
 			"visible"		"1"

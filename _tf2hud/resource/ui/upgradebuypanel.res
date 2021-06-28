@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"UpgradeBuyPanel"
 		
-		"ypos"			"0"
+		
 		"wide"			"155"
 		"tall"			"45"		
 		
@@ -43,7 +43,7 @@
 		"ControlName"	"Panel"
 		"fieldName"		"InnerPanelRim"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"155"
 		"tall"			"45"
@@ -140,7 +140,7 @@
 		"ControlName"	"Panel"
 		"fieldName"		"BuySellBG"
 		"xpos"			"135"
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"20"
 		"tall"			"45"

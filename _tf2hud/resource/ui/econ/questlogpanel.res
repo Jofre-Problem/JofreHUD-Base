@@ -19,7 +19,7 @@
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"mouseoveritempanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1000"
 		"wide"			"300"
 		"tall"			"300"
@@ -61,7 +61,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TooltipPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"200"
 		"tall"			"100"
@@ -96,7 +96,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MainContainer"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -184,7 +184,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -275,7 +275,7 @@
 			"labelText"		"#QuestLog_BadgeProgress"
 			"textAlignment"	"west"
 			"xpos"			"p.15"
-			"ypos"			"0"
+			
 			"zpos"			"2"
 			"wide"			"100"
 			"tall"			"15"
@@ -333,7 +333,7 @@
 				"labelText"		""
 				"textAlignment"	"center"
 				
-				"ypos"			"0"
+				
 				"zpos"			"3"
 				"wide"			"f0"
 				"tall"			"f0"					
@@ -355,7 +355,7 @@
 			"labelText"		"#QuestLog_ContractsCompleted"
 			"textAlignment"	"west"
 			"xpos"			"p.57"
-			"ypos"			"0"
+			
 			"zpos"			"2"
 			"wide"			"100"
 			"tall"			"p.45"
@@ -413,7 +413,7 @@
 				"labelText"		""
 				"textAlignment"	"center"
 				
-				"ypos"			"0"
+				
 				"zpos"			"3"
 				"wide"			"f0"
 				"tall"			"f0"					

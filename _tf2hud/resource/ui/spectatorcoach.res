@@ -19,7 +19,7 @@
 		"ControlName"		"Panel"
 		"fieldName"		"TopBar"
 		
-		"ypos"			"0"
+		
 		"tall"			"70"	[$WIN32]
 		"tall_minmode"			"70"	[$WIN32]
 		"wide"			"f0"
@@ -148,7 +148,6 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"DirectionsLabel"
 		"xpos"			"r200"		[$WIN32]
-		"ypos"			"0"	[$WIN32]
 		"wide"			"200"	[$WIN32]
 		"tall"			"20"
 		
@@ -335,7 +334,7 @@
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"itempanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10"
 		"wide"			"190"
 		"tall"			"100"

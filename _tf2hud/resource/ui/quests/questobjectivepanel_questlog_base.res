@@ -28,7 +28,7 @@
 		"fieldName"		"AttribDesc"
 		"labeltext"		"%attr_desc%"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"f0"
 		"zpos"			"4"
@@ -47,7 +47,7 @@
 		"fieldName"		"AttribGlow"
 		"labeltext"		"%attr_desc%"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"f0"
 		"zpos"			"4"

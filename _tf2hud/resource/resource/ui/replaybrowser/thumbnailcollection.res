@@ -8,7 +8,7 @@
 		"tall"					"180"
 		
 		
-		"visible"				"1"
+		
 		
 		
 		"settitlebarvisible"	"1"
@@ -124,7 +124,7 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"ShowPrevButton"
 		
-		"ypos"			"0"
+		
 		"zpos"			"100"
 		"wide"			"100"
 		"tall"			"12"

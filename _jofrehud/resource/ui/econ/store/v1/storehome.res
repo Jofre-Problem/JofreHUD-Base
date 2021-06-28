@@ -92,7 +92,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"MannCoImage"
 			"xpos"			"15"
-			"ypos"			"0"
+			
 			
 			"wide"			"220"
 			"tall"			"80"
@@ -257,7 +257,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"BGImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"-1"
 			"wide"			"355"
 			"tall"			"290"

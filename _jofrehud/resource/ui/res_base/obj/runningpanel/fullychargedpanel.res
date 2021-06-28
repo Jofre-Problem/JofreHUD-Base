@@ -9,7 +9,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"FullyChargedPanel"
 				
-				"ypos"			"0"
+				
 				"wide"			"100"
 				"tall"			"31"
 				"visible"		"0"

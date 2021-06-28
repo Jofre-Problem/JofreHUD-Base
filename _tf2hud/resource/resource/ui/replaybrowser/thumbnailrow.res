@@ -8,7 +8,7 @@
 		"tall"					"75"
 		
 		
-		"visible"				"1"
+		
 		
 		"zpos"					"2"
 		

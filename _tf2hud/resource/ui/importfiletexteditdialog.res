@@ -3,7 +3,7 @@
 	"ImportFileTextEditDialog"
 	{
 		"fieldName"				"ImportFileTextEditDialog"
-		"visible"				"1"
+		
 		
 		"xpos"					"c-280"
 		"ypos"					"c-180"

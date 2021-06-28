@@ -3,10 +3,10 @@
 	"TestItemRoot"
 	{
 		"fieldName"				"TestItemRoot"
-		"visible"				"1"
 		
-		"xpos"					"0"
-		"ypos"					"0"
+		
+		
+		
 		"wide"					"f0"
 		"tall"					"480"
 		"bgcolor_override"		"46 43 42 255"
@@ -55,7 +55,7 @@
 			"labelText"		"#IT_ClassUsage"
 			"textAlignment"	"west"
 			"xpos"			"5"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"200"
 			"tall"			"15"
@@ -287,7 +287,7 @@
 			"labelText"		"#IT_CurrentlyTesting"
 			"textAlignment"	"west"
 			"xpos"			"5"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"200"
 			"tall"			"15"
@@ -655,7 +655,7 @@
 			"labelText"		"#IT_BotControl_Title"
 			"textAlignment"	"west"
 			"xpos"			"5"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"200"
 			"tall"			"15"
@@ -791,7 +791,7 @@
 	"TestItemBotControls"
 	{
 		"fieldName"				"TestItemBotControls"
-		"visible"				"1"
+		
 		
 		"xpos"					"c100"
 		"ypos"					"150"
@@ -938,7 +938,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SteamWorkshopButtonSubButton"
 			
-			"ypos"			"0"
+			
 			"wide"			"200"
 			"tall"			"26"
 			

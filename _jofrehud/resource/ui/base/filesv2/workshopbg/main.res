@@ -5,7 +5,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"WorkshopBG"
 		
-		"ypos"			"0"
+		
 		"wide"			"600"
 		"visible"		"1"
 		

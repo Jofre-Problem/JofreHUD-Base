@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Container"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -65,7 +65,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BackgroundFolderImage"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-100"
 		"wide"			"f0"
 		"tall"			"o1"

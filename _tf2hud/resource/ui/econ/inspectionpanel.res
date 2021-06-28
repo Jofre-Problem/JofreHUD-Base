@@ -5,7 +5,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BGImage"
 		"xpos"			"cs-0.5"
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"o1"
 		"tall"			"p0.75"
@@ -21,7 +21,7 @@
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"ItemName"
 		"xpos"			"cs-0.5"
-		"ypos"			"0"
+		
 		"zpos"			"5"
 		"wide"			"f0"
 		"tall"			"200"
@@ -53,7 +53,7 @@
 	{
 		"fieldName"		"ModelInspectionPanel"
 		"xpos"			"cs-0.5"
-		"ypos"			"0"
+		
 		"zpos"			"5"
 		"wide"			"o1.5"
 		"tall"			"p0.8"
@@ -181,7 +181,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"7"
 				"wide"			"19"
 				"tall"			"19"
@@ -255,7 +255,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"DebugButton"
 			"xpos"			"5"
-			"ypos"			"0"
+			
 			"zpos"			"1005"
 			"wide"			"8"
 			"tall"			"8"
@@ -289,7 +289,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"8"
 				"tall"			"8"

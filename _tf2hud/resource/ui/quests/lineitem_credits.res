@@ -4,7 +4,7 @@
 	{
 		"fieldName"		"Credits"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"f0"
 		"zpos"			"1"
@@ -17,7 +17,7 @@
 		"fieldName"		"Label"
 		"labeltext"		"%credits%"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"f0"
 		"zpos"			"1"

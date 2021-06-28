@@ -26,7 +26,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGPanel"
 		
-		"ypos"			"0"
+		
 		"wide"			"250"
 		"visible"		"1"
 		"bgcolor_override"	"Replay.RenderDialog.BgColor"
@@ -43,7 +43,7 @@
 		"labelText"		"#Replay_RenderReplay"
 		"textAlignment"	"west"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"25"
@@ -162,7 +162,7 @@
 		"textAlignment"	"west"
 		"wrap"			"0"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"13"
@@ -184,7 +184,7 @@
 		"textAlignment"	"west"
 		"wrap"			"0"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"13"
@@ -202,7 +202,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"SeparatorLine"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"220"
 		"tall"			"5"
@@ -379,7 +379,7 @@
 		"textAlignment"	"west"
 		"wrap"			"0"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"15"
@@ -439,7 +439,7 @@
 		"labelText"		"#Replay_Title"
 		"textAlignment"	"west"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"10"
@@ -460,7 +460,7 @@
 		"unicode"		"0"
 		"wrap"			"0"
 		
-		"ypos"			"0"
+		
 		"zpos"			"50"
 		"wide"			"220"
 		"tall"			"12"
@@ -482,7 +482,7 @@
 		"labelText"		"#Replay_NotAllVideoModesAvailable"
 		"textAlignment"	"west"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"220"
 		"autoResize"	"1"
@@ -502,7 +502,7 @@
 		"textAlignment"	"west"
 		"wrap"			"0"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"13"
@@ -524,7 +524,7 @@
 		"textAlignment"	"west"
 		"wrap"			"0"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"13"
@@ -546,7 +546,7 @@
 		"textAlignment"	"west"
 		"wrap"			"0"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"13"
@@ -567,7 +567,7 @@
 		"labelText"		"#Replay_LockWarning"
 		"textAlignment"	"west"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"250"
 		"tall"			"30"

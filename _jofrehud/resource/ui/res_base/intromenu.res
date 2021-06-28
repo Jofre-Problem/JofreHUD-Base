@@ -17,7 +17,7 @@
 		"ControlName"		"CTFIntroMenu"
 		"fieldName"		"intro"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"480"
 		

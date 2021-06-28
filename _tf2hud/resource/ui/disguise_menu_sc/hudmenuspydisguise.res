@@ -22,7 +22,7 @@
 		"fieldName"		"TitleLabel"
 		"font"			"HudFontGiantBold"
 		"xpos"			"19"			// align me to the left edge of the first selection
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"300"
 		"tall"			"45"

@@ -5,7 +5,7 @@
 		"ControlName"	"CTFArrowPanel"
 		"fieldName"		"Arrow"
 		"xpos"			"40"
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"80"

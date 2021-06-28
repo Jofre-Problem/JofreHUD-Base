@@ -7,7 +7,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"QuestItemPanel"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"o1.1"
 		"visible"		"1"
@@ -89,7 +89,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"PaperImage"
 					
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"f0"
 					"tall"			"o1"
@@ -108,7 +108,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"EncodedImage"
 					
-					"ypos"			"0"
+					
 					"zpos"			"199"
 					"wide"			"f0"
 					"tall"			"o1"
@@ -187,7 +187,7 @@
 				{
 					"ControlName"			"EditablePanel"
 					"fieldName"				"IdentifyButtonContainer"
-					"xpos"					"0"
+					
 					"ypos"					"130"
 					"zpos"					"200"
 					"wide"					"f0"
@@ -200,7 +200,7 @@
 						"ControlName"	"EditablePanel"
 						"fieldName"		"Dimmer"
 						
-						"ypos"			"0"
+						
 						
 						"wide"			"f0"
 						"tall"			"f0"
@@ -231,7 +231,7 @@
 				{
 					"ControlName"			"EditablePanel"
 					"fieldName"				"TurnInContainer"
-					"xpos"					"0"
+					
 					"ypos"					"130"
 					"zpos"					"200"
 					"wide"					"f0"
@@ -244,7 +244,7 @@
 						"ControlName"	"EditablePanel"
 						"fieldName"		"Dimmer"
 						
-						"ypos"			"0"
+						
 						
 						"wide"			"f0"
 						"tall"			"f0"
@@ -260,7 +260,7 @@
 						"ControlName"	"EditablePanel"
 						"fieldName"		"GreyDimmer"
 						
-						"ypos"			"0"
+						
 						
 						"wide"			"f0"
 						"tall"			"f0"
@@ -276,7 +276,7 @@
 						"ControlName"	"CExButton"
 						"fieldName"		"TurnInButton"
 						
-						"ypos"			"0"
+						
 						"zpos"			"10"
 						"wide"			"f0"
 						"tall"			"f0"
@@ -311,12 +311,12 @@
 					{
 						"ControlName"			"EditablePanel"
 						"fieldName"				"TurnInSpinnerContainer"
-						"xpos"					"0"
-						"ypos"					"0"
+						
+						
 						"zpos"					"200"
 						"wide"					"f0"
 						"tall"					"f0"
-						"visible"				"1"
+						
 						"proportionaltoparent"	"1"
 
 						"TurningInLabel"

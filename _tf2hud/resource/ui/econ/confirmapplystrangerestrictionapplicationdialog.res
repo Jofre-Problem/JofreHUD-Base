@@ -3,7 +3,7 @@
 	"ConfirmApplyStrangeRestrictionApplicationDialog"
 	{
 		"fieldName"				"ConfirmApplyStrangeRestrictionApplicationDialog"
-		"visible"				"1"
+		
 		
 		"xpos"					"c-200"
 		"ypos"					"c-200"

@@ -3,7 +3,7 @@
 	"SelectPlayerDialog"
 	{
 		"fieldName"				"SelectPlayerDialog"
-		"visible"				"1"
+		
 		
 		"xpos"					"c-200"
 		"ypos"					"80"
@@ -17,14 +17,14 @@
 		"button_kv"
 		{
 			"xpos"			"10"
-			"ypos"			"0"
+			
 			"wide"			"350"
 			"tall"			"30"
 				
 			"button"
 			{
 				
-				"ypos"			"0"
+				
 				"wide"			"350"
 				"tall"			"30"
 				
@@ -98,7 +98,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"PlayerList"
 			
-			"ypos"			"0"
+			
 			"wide"			"190"
 			"tall"			"130"
 			"visible"		"1"
@@ -111,7 +111,7 @@
 		"fieldName" 			"StatePanel0"
 		"visible" 				"1"
 		
-		"xpos"					"0"
+		
 		"ypos"					"50"
 		"wide"	 				"400"
 		"tall"	 				"180"
@@ -191,7 +191,7 @@
 		"fieldName" 			"StatePanel1"
 		"visible" 				"1"
 		
-		"xpos"					"0"
+		
 		"ypos"					"50"
 		"wide"	 				"400"
 		"tall"	 				"180"

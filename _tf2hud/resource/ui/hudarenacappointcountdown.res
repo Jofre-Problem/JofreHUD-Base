@@ -6,7 +6,7 @@
 		"fieldName"		"CapCountdownLabel"
 		"font"			"HudFontMedium"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"30"
 		"tall"			"30"

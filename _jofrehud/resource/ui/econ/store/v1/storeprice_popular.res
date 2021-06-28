@@ -5,7 +5,7 @@
 		"ControlName"	"CStorePricePanel"
 		"fieldName"		"StorePrice"
 		
-		"ypos"			"0"
+		
 		"zpos"			"15"
 		"wide"			"118"
 		"tall"			"66"
@@ -20,7 +20,7 @@
 		"font"			"HudFontMediumBold"
 		"textAlignment"	"west"
 		
-		"ypos"			"0"
+		
 		"zpos"			"15"
 		"wide"			"85"
 		"tall"			"32"
@@ -40,7 +40,7 @@
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"west"
 		
-		"ypos"			"0"
+		
 		"zpos"			"15"
 		"wide"			"85"
 		"tall"			"18"
@@ -136,7 +136,7 @@
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"east"
 		
-		"ypos"			"0"
+		
 		"zpos"			"15"
 		"wide"			"85"
 		"tall"			"12"

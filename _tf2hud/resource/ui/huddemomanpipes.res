@@ -32,7 +32,7 @@
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
+		
 		"visible_minmode"		"0"
 		
 		
@@ -58,7 +58,7 @@
 		"tall"					"6"				
 		
 		
-		"visible"				"1"
+		
 		
 		"textAlignment"			"Left"
 		"dulltext"				"0"
@@ -70,7 +70,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PipesPresentPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"50"
@@ -153,7 +153,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"NoPipesPresentPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"50"

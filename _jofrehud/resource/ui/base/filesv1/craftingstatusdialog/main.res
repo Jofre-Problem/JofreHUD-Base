@@ -3,7 +3,7 @@
 	"CraftingStatusDialog"
 	{
 		"fieldName"				"CraftingStatusDialog"
-		"visible"				"1"
+		
 		
 		"bgcolor_override"		"46 43 42 0"
 		"paintbackgroundtype"	"0"

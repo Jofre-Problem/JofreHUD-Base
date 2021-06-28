@@ -120,7 +120,7 @@
 		"TextAlignment"	"west"
 		"fgcolor_override"	"117 107 94 255"
 		
-		"ypos"			"0"
+		
 		"wide"			"65"
 		"tall"			"10"
 		"labelText"		"#Replay_Original"
@@ -134,7 +134,7 @@
 		"TextAlignment"	"west"
 		"fgcolor_override"	"117 107 94 255"
 		
-		"ypos"			"0"
+		
 		"wide"			"120"
 		"tall"			"10"
 		"labelText"		"#Replay_Performances"

@@ -17,7 +17,7 @@
 		"fieldName"		"Label"
 		"labeltext"		"%objective%"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"f0"
 		"zpos"			"1"

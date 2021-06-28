@@ -24,7 +24,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemEffectMeterBG"
 		"xpos"			"12"
-		"ypos"			"0"
+		
 		
 		"wide"			"100"
 		"tall"			"50"
@@ -52,7 +52,7 @@
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
+		
 		"visible_minmode"		"1"
 		"textAlignment_minmode"			"west"
 		
@@ -96,7 +96,7 @@
 		"wide"					"40"
 		"tall"					"20"	
 		"pinCorner"				"2"
-		"visible"				"1"
+		
 		
 		
 		"labelText"				"%progresscount%"

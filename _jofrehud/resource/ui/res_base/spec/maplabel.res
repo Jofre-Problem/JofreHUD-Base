@@ -13,7 +13,7 @@
 //		"fieldName"		"MapLabel"
 		"font"			"HudFontSmall"
 		"xpos"			"r260"
-		"ypos"			"0"
+		
 		"wide"			"240"
 		"tall"			"21"
 //		

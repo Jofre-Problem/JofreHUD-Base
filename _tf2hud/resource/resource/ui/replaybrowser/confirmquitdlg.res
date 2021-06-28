@@ -22,7 +22,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGPanel"
 		"xpos"			"25"
-		"ypos"			"0"
+		
 		"wide"			"350"
 		"tall"			"190"
 		"visible"		"1"

@@ -66,7 +66,7 @@
 		"fieldName"		"TitleLabel"
 		"font"			"HudFontGiantBold"
 		"xpos"			"68"			// align me to the left edge of the first selection
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"wide"			"300"
 		"tall"			"38"

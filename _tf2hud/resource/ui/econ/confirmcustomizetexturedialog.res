@@ -3,7 +3,7 @@
 	"ConfirmCustomizeTextureDialog"
 	{
 		"fieldName"				"ConfirmCustomizeTextureDialog"
-		"visible"				"1"
+		
 		
 		"xpos"					"c-280"
 		"ypos"					"c-225"
@@ -251,7 +251,7 @@
 				"labelText"		"#ToolCustomizeTextureStep1"
 				"textAlignment"	"north-west"
 				
-				"ypos"			"0"
+				
 				
 				"wide"			"540"
 				"tall"			"20"
@@ -426,7 +426,7 @@
 				"labelText"		"#ToolCustomizeTextureStep2"
 				"textAlignment"	"north-west"
 				
-				"ypos"			"0"
+				
 				
 				"wide"			"540"
 				"tall"			"20"
@@ -749,7 +749,7 @@
 				"labelText"		"#ToolCustomizeTextureStep3"
 				"textAlignment"	"north-west"
 				
-				"ypos"			"0"
+				
 				
 				"wide"			"540"
 				"tall"			"20"

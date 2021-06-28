@@ -5,7 +5,7 @@
 		"ControlName"	"CClassMenu"
 		"fieldName"		"class"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"480"
 		

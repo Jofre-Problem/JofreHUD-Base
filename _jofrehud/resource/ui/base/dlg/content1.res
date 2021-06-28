@@ -6,7 +6,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ReplayInputPanel"
 		
-		"ypos"			"0"
+		
 		
 		
 		

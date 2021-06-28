@@ -59,7 +59,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BGImage"
 		"xpos"			"rs1"
-		"ypos"			"0"
+		
 		
 		"wide"			"f0"
 		"tall"			"o0.25"
@@ -77,7 +77,7 @@
 		"fieldName"		"NameLabel"
 		"labeltext"		"%name%"
 		"xpos"			"rs1"
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"20"
 		"zpos"			"2"
@@ -147,7 +147,7 @@
 		"ControlName"	"Panel"
 		"fieldName"		"BGImageDarkener"
 		"xpos"			"rs1"
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"o0.25"
@@ -164,7 +164,7 @@
 		"ControlName"	"Panel"
 		"fieldName"		"ActivationFlash"
 		"xpos"			"rs1"
-		"ypos"			"0"
+		
 		
 		"wide"			"f0"
 		"tall"			"o0.25"
@@ -184,7 +184,7 @@
 		"fieldName"		"SelectHint"
 		"labeltext"		"#TF_QuestView_Choose"
 		"xpos"			"rs1"
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"o0.25"
 		"zpos"			"1"
@@ -204,7 +204,7 @@
 		"fieldName"		"SelectHintShadow"
 		"labeltext"		"#TF_QuestView_Choose"
 		"xpos"			"rs1"
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"o0.25"
 		"zpos"			"1"
@@ -248,7 +248,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ObjectivesInfoImage"
 		"xpos"			"-5"
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"wide"			"10"
 		"tall"			"10"
@@ -277,7 +277,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"TurnInContainer"
 			
-			"ypos"			"0"
+			
 			"zpos"			"101"
 			"wide"			"f0"	
 			"tall"			"500"
@@ -290,7 +290,7 @@
 				"ControlName"	"Panel"
 				"fieldName"		"TopDimmer"
 				
-				"ypos"			"0"
+				
 				"zpos"			"100"
 				"wide"			"f0"	
 				"tall"			"35"
@@ -359,7 +359,7 @@
 		{
 			"fieldName"		"ItemTrackerPanel"
 				
-			"ypos"			"0"
+			
 			"wide"			"f0"	
 			"tall"			"200"
 			"progress_bar_standard_loc_token"	"#QuestPoints_Standard"

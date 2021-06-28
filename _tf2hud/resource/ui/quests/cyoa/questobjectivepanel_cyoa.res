@@ -7,7 +7,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"QuestObjectiveTextPanel"
 		"xpos"			"cs-0.5"		
-		"ypos"			"0"		
+				
 		"zpos"			"3"
 		"wide"			"148"
 		"tall"			"18"
@@ -31,7 +31,7 @@
 		"fieldName"		"AttribGlow"
 		"labeltext"		"%attr_desc%"
 		"xpos"			"rs1"
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"18"
 		"zpos"			"5"
@@ -50,7 +50,7 @@
 		"fieldName"		"AttribDesc"
 		"labeltext"		"%attr_desc%"
 		"xpos"			"rs1"
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"18"
 		"zpos"			"4"
@@ -68,7 +68,7 @@
 		"fieldName"		"AttribBlur"
 		"labeltext"		"%attr_desc%"
 		"xpos"			"rs1"
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"10"
 		"zpos"			"3"

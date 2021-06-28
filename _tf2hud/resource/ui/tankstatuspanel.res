@@ -5,7 +5,7 @@
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"Background"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"200"
 		"tall"			"24"

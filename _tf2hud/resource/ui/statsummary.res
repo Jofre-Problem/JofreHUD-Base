@@ -17,7 +17,7 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"		"MainBackground"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"
@@ -43,7 +43,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"Background"
 			
-			"ypos"			"0"
+			
 			"wide"			"640"
 			"tall"			"480"
 			"visible"		"1"
@@ -84,7 +84,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"BG"
 				
-				"ypos"			"0"
+				
 				"wide"			"300"
 				"tall"			"55"
 				
@@ -102,7 +102,7 @@
 				"labelText"		"#TF_Contributed"
 				"textAlignment"		"center"
 				"xpos"			"10"
-				"ypos"			"0"
+				
 				"zpos"			"40"
 				"wide"			"280"
 				"tall"			"55"
@@ -2736,7 +2736,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"128"
 		"image"			"menu_header"

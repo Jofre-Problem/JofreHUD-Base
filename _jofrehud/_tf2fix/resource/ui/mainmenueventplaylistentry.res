@@ -5,7 +5,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"TimeImage"
 		
-		"ypos"			"0"
+		
 		"zpos"			"101"
 		"wide"			"20"
 		"tall"			"20"
@@ -105,7 +105,7 @@
 		"labelText"		"%expire%"
 		"textalignment"	"north-west"
 		
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -126,7 +126,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"FlashColor"
 		
-		"ypos"			"0"
+		
 		"zpos"			"999"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -144,7 +144,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BorderOverlay"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1001"
 		"wide"			"f0"
 		"tall"			"f0"

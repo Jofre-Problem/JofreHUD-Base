@@ -47,7 +47,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"DropShadow"
 			
-			"ypos"			"0"
+			
 			"zpos"			"101"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -63,7 +63,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"MannUpImage"
 			
-			"ypos"			"0"
+			
 			
 			"wide"			"f0"
 			"tall"			"o1"
@@ -168,7 +168,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"DropShadow"
 			
-			"ypos"			"0"
+			
 			"zpos"			"101"
 			"wide"			"f0"
 			"tall"			"f0"

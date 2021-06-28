@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName" 		"HudChat"
-		"visible" 		"1"
+		
 		
 		"xpos"			"10"	[$WIN32]
 		"xpos"			"42"	[$X360]
@@ -19,7 +19,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName" 		ChatInputLine
-		"visible" 		"1"
+		
 		
 		"xpos"			"10"	[$WIN32]
 		"xpos"			"42"	[$X360]

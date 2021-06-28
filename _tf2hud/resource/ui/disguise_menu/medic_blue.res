@@ -25,7 +25,7 @@
 		"ControlName"	"CIconPanel"
 		"fieldName"		"ClassIcon"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"45"
 		"tall"			"90"

@@ -10,7 +10,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"480"
@@ -57,7 +57,7 @@
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"TourLabelBackground"
 			
-			"ypos"			"0"
+			
 			"wide"			"300"
 			"tall"			"30"
 			
@@ -81,7 +81,7 @@
 			"labelText"		"Tour of Duty 1"
 			"textAlignment" "center"
 			
-			"ypos"			"0"
+			
 			"wide"			"300"
 			"tall"			"30"
 			"fgcolor"		"tanlight"
@@ -103,7 +103,7 @@
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"Background"
 			
-			"ypos"			"0"
+			
 			"zpos"			"-1"
 			"wide"			"180"
 			"tall"			"180"
@@ -128,7 +128,7 @@
 			"labelText"		"%tooltipdescription%"
 			"textAlignment" "center"
 			
-			"ypos"			"0"
+			
 			"wide"			"180"
 			"tall"			"180"
 			"fgcolor"		"tanlight"

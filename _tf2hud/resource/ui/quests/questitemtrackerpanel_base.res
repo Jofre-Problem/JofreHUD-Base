@@ -23,7 +23,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"NotYetCommittedContainer"
 		"xpos"			"rs1"		
-		"ypos"			"0"		
+				
 		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"10"
@@ -38,7 +38,7 @@
 			"fieldName"		"PendingText"
 			"labeltext"		"#QuestTracker_Pending"
 			"xpos"			"rs1"
-			"ypos"			"0"
+			
 			"wide"			"190"
 			"tall"			"f0"
 			"zpos"			"4"

@@ -9,7 +9,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ScrollableChild"
 				"xpos"			"240"
-				"ypos"			"0"
+				
 				"zpos"			"100"
 				"wide"			"230"
 				"tall"			"222"

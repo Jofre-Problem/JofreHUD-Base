@@ -4,8 +4,8 @@
 {	
 	"ItemTrackerPanel"
 	{
-		"xpos"					"0"
-		"ypos"					"0"
+		
+		
 		"wide"					"f0"
 		"tall"					"100"
 		"propotionaltoparent"	"1"

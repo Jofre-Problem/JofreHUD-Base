@@ -5,7 +5,7 @@
 		"ControlName"		"CTextWindow"
 		"fieldName"		"TextWindow"
 		"xpos"			"76"
-		"ypos"			"0"
+		
 		"wide"			"552"
 		"tall"			"448"
 		

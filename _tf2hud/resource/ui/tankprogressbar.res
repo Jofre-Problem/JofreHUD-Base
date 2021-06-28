@@ -5,7 +5,7 @@
 		"ControlName"	"CTankProgressBar"
 		"fieldName"		"TankProgressBar"
 		
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"190"
 		"tall"			"18"
@@ -18,7 +18,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"TankImage"
 		"xpos"			"5"
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"18"
 		"tall"			"18"

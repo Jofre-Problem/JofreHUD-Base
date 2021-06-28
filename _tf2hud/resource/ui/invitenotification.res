@@ -40,7 +40,7 @@
 		}
 
 		"xpos"			"rs1-30"
-		"ypos"			"0"
+		
 		"wide"			"f65"
 		"tall"			"17"
 		"labelText"		"%invite%"

@@ -8,7 +8,7 @@
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
+		
 		
 		
 		"dulltext"				"0"

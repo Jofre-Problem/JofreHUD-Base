@@ -54,7 +54,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"WorkshopBranding"
 			
-			"ypos"			"0"
+			
 			
 			"wide"			"600"
 			"tall"			"300"

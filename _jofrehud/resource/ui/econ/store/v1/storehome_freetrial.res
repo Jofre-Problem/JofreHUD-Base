@@ -93,7 +93,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"MannCoImage"
 			"xpos"			"15"
-			"ypos"			"0"
+			
 			
 			"wide"			"220"
 			"tall"			"80"
@@ -258,7 +258,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"TitleBG"
 			
-			"ypos"			"0"
+			
 			
 			"wide"			"325"
 			"tall"			"40"
@@ -274,7 +274,7 @@
 			"labelText"		"#Store_FreeTrial_Title"
 			"textAlignment"	"west"
 			"xpos"			"10"
-			"ypos"			"0"
+			
 			"zpos"			"2"
 			"wide"			"325"
 			"tall"			"45"

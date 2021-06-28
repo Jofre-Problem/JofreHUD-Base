@@ -6,7 +6,7 @@
 		"fieldName"		"HudWeaponAmmoBG"
 		"xpos"			"4"
 		"xpos_minmode"	"28"
-		"ypos"			"0"
+		
 		"ypos_minmode"	"7"
 		"zpos"			"1"
 		"wide"			"90"
@@ -26,7 +26,7 @@
 		"fieldName"		"HudWeaponLowAmmoImage"
 		"xpos"			"4"
 		"xpos_minmode"	"28"
-		"ypos"			"0"
+		
 		"ypos_minmode"	"7"
 		
 		"wide"			"90"
@@ -48,7 +48,7 @@
 		"fgcolor"		"TanLight"
 		"xpos"			"4"
 		"xpos_minmode"	"8"
-		"ypos"			"0"
+		
 		"ypos_minmode"	"2"
 		"zpos"			"5"
 		"wide"			"55"

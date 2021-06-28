@@ -138,7 +138,7 @@
 			"labelText"		"#TF_Matchmaking_PlayWithFriends"
 			"textAlignment"	"center"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10"
 			"wide"			"200"
 			"tall"			"32"

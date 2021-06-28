@@ -30,7 +30,7 @@
 		//"centerbgtall_hidef"		"180"
 		
 		
-		"visible"				"1"
+		
 		
 		
 		"settitlebarvisible"	"0"
@@ -44,7 +44,7 @@
 		"fieldName"		"TitleLabel"
 		"font"			"MenuLarge"
 			
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"wide"			"482"
 		//"wide_hidef"	"680"
@@ -169,7 +169,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"ChapterLabel"
 		
-		"ypos"			"0"
+		
 		"wide"			"119"
 		//"wide_hidef"	"168"
 		"tall"			"14"
@@ -276,7 +276,7 @@
 		"fieldName"		"TitleLabel"
 		"font"			"MenuLarge"
 		"xpos"			"20"	
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"wide"			"720"
 		"tall"			"35"
@@ -774,7 +774,7 @@
 	"Background"
 	{	
 		
-		"ypos"			"0"
+		
  		"wide"			"363"
  		//"wide_hidef"	"512"
  		"tall"			"145"
@@ -787,7 +787,7 @@
  	"WarningBackground"
  	{	
  		
- 		"ypos"			"0"
+ 		
  		"wide"			"363"
  		//"wide_hidef"	"512"
  		"tall"			"145"
@@ -800,7 +800,7 @@
  	"ErrorBackground"
  	{	
  		
- 		"ypos"			"0"
+ 		
  		"wide"			"363"
  		//"wide_hidef"	"512"
  		"tall"			"145"
@@ -817,7 +817,7 @@
 		"font"			"MenuLarge"
 		"xpos"			"14"
 		//"xpos_hidef"	"20"
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"wide"			"355"
 		//"wide_hidef"	"500"
@@ -891,7 +891,7 @@
 		//"centerbgtall_hidef"		"170"
 		
 		
-		"visible"				"1"
+		
 		
 		
 		"settitlebarvisible"	"0"
@@ -1099,7 +1099,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"ChapterTitleLabel"
 		
-		"ypos"			"0"
+		
 		"wide"			"518"
 		//"wide_hidef"	"730"
 		"tall"			"40"
@@ -1118,7 +1118,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"ChapterTitleLabel2"
 		
-		"ypos"			"0"
+		
 		"wide"			"518"
 		//"wide_hidef"	"730"
 		"tall"			"40"
@@ -1300,7 +1300,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"HasBonusLabel"
 		
-		"ypos"			"0"
+		
 		"wide"			"107"
 		//"wide_hidef"	"152"
 		"tall"			"14"

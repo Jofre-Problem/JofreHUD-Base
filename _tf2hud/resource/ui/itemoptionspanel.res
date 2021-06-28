@@ -22,7 +22,7 @@
 			"ControlName"		"CheckButton"
 			"fieldName"		"HatUseHeadCheckButton"
 			
-			"ypos"			"0"
+			
 			"wide"		"140"
 			"tall"		"20"
 			
@@ -52,7 +52,7 @@
 			"ControlName"		"CCvarSlider"
 			"fieldName"		"HatParticleSlider"
 			
-			"ypos"			"0"
+			
 			"wide"		"140"
 			"tall"		"14"
 			
@@ -68,7 +68,7 @@
 			"ControlName"	"CExButton"
 			"fieldName"		"SetStyleButton"
 			
-			"ypos"			"0"
+			
 			"wide"			"140"
 			"tall"			"14"
 			

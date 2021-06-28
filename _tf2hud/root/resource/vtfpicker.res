@@ -25,7 +25,7 @@
 			"AutoResize"	"3"
 			
 			
-			"ypos"			"0"
+			
 			
 			
 			

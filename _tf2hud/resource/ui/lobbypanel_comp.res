@@ -26,7 +26,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ModeBackgroundImage"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"f0"
 		"tall"			"p0.8"
@@ -102,7 +102,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"PlaylistBGPanel"
 			"xpos"			"cs-0.5"
-			"ypos"			"0"
+			
 			"zpos"			"-1"
 			"wide"			"p0.98"
 			"tall"			"p1"
@@ -161,7 +161,7 @@
 					"ControlName"	"Label"
 					"fieldName"		"SortArrow"
 					
-					"ypos"			"0"
+					
 					"wide"			"20"
 					"tall"			"f0"
 					"proportionaltoparent"	"1"
@@ -183,7 +183,7 @@
 					"ControlName"	"CExButton"
 					"fieldName"		"ResultButton"
 					
-					"ypos"			"0"
+					
 					"wide"			"p0.18"
 					"tall"			"18"
 					"proportionaltoparent"	"1"
@@ -217,7 +217,7 @@
 					"ControlName"	"CExButton"
 					"fieldName"		"DateButton"
 					"xpos"			"p0.18"
-					"ypos"			"0"
+					
 					"wide"			"p0.4"
 					"tall"			"18"
 					"proportionaltoparent"	"1"
@@ -251,7 +251,7 @@
 					"ControlName"	"CExButton"
 					"fieldName"		"MapButton"
 					"xpos"			"p0.58"
-					"ypos"			"0"
+					
 					"wide"			"p0.29"
 					"tall"			"18"
 					"proportionaltoparent"	"1"
@@ -285,7 +285,7 @@
 					"ControlName"	"CExButton"
 					"fieldName"		"KDRButton"
 					"xpos"			"p0.87"
-					"ypos"			"0"
+					
 					"wide"			"p0.12"
 					"tall"			"18"
 					"proportionaltoparent"	"1"
@@ -331,7 +331,7 @@
 					"ControlName"	"ScrollBar"
 					"FieldName"		"ScrollBar"
 					"xpos"			"rs1-1"
-					"ypos"			"0"
+					
 					"tall"			"f0"
 					"wide"			"5" // This gets slammed from client schme.  GG.
 					"zpos"			"1000"
@@ -573,7 +573,7 @@
 			"PartyLowPriorityImage"
 			{
 				
-				"ypos"			"0"
+				
 				"wide"			"50"
 				"tall"			"50"
 				"scaleImage"	"1"

@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudUpgradePanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1000"
 		"wide"			"f0"
 		"tall"			"480"		
@@ -89,7 +89,7 @@
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"OutterPanelBG"
 			
-			"ypos"			"0"
+			
 			"zpos"			"-8"
 			"wide"			"500"
 			"tall"			"310"
@@ -239,7 +239,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"MouseOverUpgradePanel"
 			
-			"ypos"			"0"
+			
 			"zpos"			"10"
 			"wide"			"157"
 			"tall"			"47"
@@ -688,7 +688,7 @@
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"TipPanelBG"
 			
-			"ypos"			"0"
+			
 			"zpos"			"-3"
 			"wide"			"500"
 			"tall"			"40"
@@ -713,7 +713,7 @@
 			"labelText"		"%tiptext%"
 			"textAlignment" "west"
 			"xpos"			"10"
-			"ypos"			"0"
+			
 			"zpos"			"11"
 			"wide"			"460"
 			"tall"			"40"

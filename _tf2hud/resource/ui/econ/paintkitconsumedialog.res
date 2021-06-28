@@ -52,7 +52,7 @@
 		"fieldName"	"BGPanel"
 		"controlname"	"EditablePanel"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"f0"
 		"proportionaltoparent"	"1"
@@ -65,7 +65,7 @@
 		"fieldName"	"Shade"
 		"controlname"	"EditablePanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"100"
 		"wide"			"f0"
 		"tall"			"f0"

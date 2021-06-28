@@ -5,7 +5,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BookPage"
 		"xpos"			"s-0.1667"
-		"ypos"			"0"
+		
 		
 		"wide"			"o1"
 		"tall"			"f0"

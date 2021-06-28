@@ -5,7 +5,7 @@
 		"ControlName"	"CStorePricePanel"
 		"fieldName"		"StorePrice"
 		
-		"ypos"			"0"
+		
 		"zpos"			"15"
 		"wide"			"181"
 		"tall"			"100"

@@ -5,7 +5,7 @@
 		"ControlName"		"Frame"
 		"fieldName"		"giveaway_item"
 		
-		"ypos"			"0"
+		
 		"wide"			"f0"
 		"tall"			"480"
 		

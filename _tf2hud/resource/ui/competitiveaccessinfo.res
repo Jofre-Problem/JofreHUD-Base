@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MainContainer"
 		"xpos"			"-15"
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"350"
@@ -114,7 +114,7 @@
 				"Controlname"	"EditablePanel"
 				"fieldName"		"Frame"
 				
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"zpos"			"5"
@@ -128,7 +128,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldname"		"Background"
 				
-				"ypos"			"0"
+				
 				
 				"wide"			"f0"
 				"tall"			"f0"
@@ -145,7 +145,7 @@
 				"ControlName"	"CExImageButton"
 				"fieldName"		"PremiumButton"
 				
-				"ypos"			"0"
+				
 				"zpos"			"10"
 				"wide"			"p0.3"
 				"tall"			"f0"
@@ -175,7 +175,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					"xpos"			"cs-0.5"
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"o1"
 					"tall"			"f0"
@@ -212,7 +212,7 @@
 				"labelText"		"+"
 				"textAlignment"	"center"
 				"xpos"			"p0.3"
-				"ypos"			"0"
+				
 				"wide"			"p0.05"
 				"tall"			"f0"
 				
@@ -228,7 +228,7 @@
 				"ControlName"	"CExImageButton"
 				"fieldName"		"PhoneButton"
 				"xpos"			"p0.35"
-				"ypos"			"0"
+				
 				"zpos"			"10"
 				"wide"			"p0.3"
 				"tall"			"f0"
@@ -258,7 +258,7 @@
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					"xpos"			"cs-0.5"
-					"ypos"			"0"
+					
 					"zpos"			"1"
 					"wide"			"o1"
 					"tall"			"f0"
@@ -295,7 +295,7 @@
 				"labelText"		"+"
 				"textAlignment"	"center"
 				"xpos"			"p0.65"
-				"ypos"			"0"
+				
 				"wide"			"p0.05"
 				"tall"			"f0"
 				
@@ -330,7 +330,7 @@
 				"ControlName"	"CExImageButton"
 				"fieldName"		"RankButton"
 				"xpos"			"p0.7"
-				"ypos"			"0"
+				
 				"zpos"			"11"
 				"wide"			"p0.3"
 				"tall"			"f0"
@@ -422,7 +422,7 @@
 			"zpos"					"100"
 			"wide"					"f40"
 			"tall"					"p0.2"
-			"visible"				"1"
+			
 			
 			"scaleImage"			"1"
 			"proportionaltoparent"	"1"

@@ -3,7 +3,7 @@
 	"AbuseReportSubmitDialog"
 	{
 		"fieldName"				"AbuseReportSubmitDialog"
-		"visible"				"1"
+		
 		
 		"xpos"					"c-280"
 		"ypos"					"c-240"

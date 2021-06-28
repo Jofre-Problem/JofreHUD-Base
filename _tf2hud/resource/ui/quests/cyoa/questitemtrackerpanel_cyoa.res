@@ -50,7 +50,7 @@
 				"fieldName"		"PointsLabel"
 				"labeltext"		"%points%"
 				
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"zpos"			"1"
@@ -65,7 +65,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ProgressBarStandardHighlight"
 				
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"bgcolor_override"		"QuestUncommitted"
@@ -80,7 +80,7 @@
 					"fieldName"		"PointsLabelInvert"
 					"labeltext"		"%points%"
 					
-					"ypos"			"0"
+					
 					"wide"			"f0"
 					"tall"			"f0"
 					"zpos"			"8"
@@ -96,7 +96,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ProgressBarStandard"
 				
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"zpos"			"3"
@@ -112,7 +112,7 @@
 					"fieldName"		"PointsLabelInvert"
 					"labeltext"		"%points%"
 					
-					"ypos"			"0"
+					
 					"wide"			"f0"
 					"tall"			"f0"
 					"zpos"			"8"
@@ -143,7 +143,7 @@
 				"fieldName"		"PointsLabel"
 				"labeltext"		"%points%"
 				
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"zpos"			"1"
@@ -159,7 +159,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ProgressBarStandardHighlight"
 				
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"bgcolor_override"		"QuestUncommitted"
@@ -174,7 +174,7 @@
 					"fieldName"		"PointsLabelInvert"
 					"labeltext"		"%points%"
 					
-					"ypos"			"0"
+					
 					"wide"			"f0"
 					"tall"			"f0"
 					"zpos"			"8"
@@ -191,7 +191,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ProgressBarStandard"
 				
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"f0"
 				"zpos"			"3"
@@ -207,7 +207,7 @@
 					"fieldName"		"PointsLabelInvert"
 					"labeltext"		"%points%"
 					
-					"ypos"			"0"
+					
 					"wide"			"f0"
 					"tall"			"f0"
 					"zpos"			"8"
@@ -311,7 +311,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"NotYetCommittedContainer"
 		"xpos"			"rs1"		
-		"ypos"			"0"		
+				
 		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"10"
@@ -326,7 +326,7 @@
 			"fieldName"		"PendingText"
 			"labeltext"		"#QuestTracker_Pending"
 			
-			"ypos"			"0"
+			
 			"wide"			"190"
 			"tall"			"f0"
 			"zpos"			"4"

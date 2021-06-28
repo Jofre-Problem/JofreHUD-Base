@@ -8,7 +8,7 @@
 		"labelText"		"%header%"
 		"textAlignment" "north-west"
 		
-		"ypos"			"0"
+		
 		"wide"			"300"
 		"tall"			"15"
 		"fgcolor"		"tanlight"

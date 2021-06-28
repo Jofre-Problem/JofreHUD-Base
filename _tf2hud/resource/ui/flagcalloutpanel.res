@@ -5,7 +5,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"FlagCalloutPanel"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"30"
 		"tall"			"30"
@@ -20,7 +20,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"FlagValueLabel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"4"
 		"wide"			"25"
 		"tall"			"15"
@@ -37,7 +37,7 @@
  		"ControlName"	"CTFImagePanel"
  		"fieldName"		"StatusIcon"
  		
- 		"ypos"			"0"
+ 		
  		"zpos"			"3"
  		"wide"			"14"
  		"tall"			"14"

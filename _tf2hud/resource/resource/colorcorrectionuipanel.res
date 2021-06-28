@@ -10,7 +10,7 @@
 		"tall"					"480"
 		
 		
-		"visible"				"1"
+		
 		
 		
 		"settitlebarvisible"	"1"

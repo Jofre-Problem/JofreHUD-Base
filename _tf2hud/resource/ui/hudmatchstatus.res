@@ -14,7 +14,7 @@
 		"ControlName"	"CModelPanel"
 		"fieldName"		"RoundSignModel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"3"		
 		"wide"			"f0"
 		"tall"			"f0"
@@ -118,7 +118,7 @@
 		"ControlName"	"CTFParticlePanel"
 		"fieldName"		"FrontParticlePanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -146,7 +146,7 @@
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MatchDoors"
 		
-		"ypos"			"0"
+		
 		"zpos"			"2"		
 		"wide"			"f0"
 		"tall"			"f0"
@@ -358,7 +358,7 @@
 		"ControlName"	"CTFTeamStatus"
 		"fieldName"		"TeamStatus"
 		
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"75"
@@ -417,7 +417,7 @@
 				"ControlName"	"CTFClassImage"
 				"fieldName"		"classimage"
 				"xpos"			"cs-0.5"
-				"ypos"			"0"
+				
 				"zpos"			"3"
 				"wide"			"19"
 				"tall"			"19"
@@ -432,7 +432,7 @@
 				"ControlName"		"Panel"
 				"fieldName"		"classimagebg"
 				
-				"ypos"			"0"
+				
 				"zpos"			"2"
 				"wide"			"f0"
 				"tall"			"19"
@@ -446,14 +446,14 @@
 				"ControlName"			"ContinuousProgressBar"
 				"fieldName"				"healthbar"
 				"font"					"Default"																		
-				"xpos"					"0"
+				
 				"ypos"					"19"
 				"zpos"					"5"
 				"wide"					"f0"
 				"tall"					"2"				
 				
 				
-				"visible"				"1"
+				
 				
 				"textAlignment"			"Left"
 				"dulltext"				"0"
@@ -466,14 +466,14 @@
 				"ControlName"			"ContinuousProgressBar"
 				"fieldName"				"overhealbar"
 				"font"					"Default"																		
-				"xpos"					"0"
+				
 				"ypos"					"19"
 				"zpos"					"6"
 				"wide"					"f0"
 				"tall"					"2"				
 				
 				
-				"visible"				"1"
+				
 				
 				"textAlignment"			"Left"
 				"dulltext"				"0"
@@ -540,7 +540,7 @@
 				"fieldName"		"respawntime"
 				"font"			"PlayerPanelPlayerName"
 				"xpos"			"cs-0.5"
-				"ypos"			"0"
+				
 				"zpos"			"5"
 				"wide"			"f0"
 				"tall"			"19"
@@ -590,7 +590,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"DeathPanel"
 				"xpos"			"cs-0.5"
-				"ypos"			"0"
+				
 				
 				"wide"			"f0"
 				"tall"			"24"
@@ -655,7 +655,7 @@
 			"ControlName"		"ImagePanel"
 			"fieldName"		"BlueTeamImage"
 			"xpos"			"9"
-			"ypos"			"0"
+			
 			"zpos"			"5"
 			"wide"			"56"
 			"tall"			"56"

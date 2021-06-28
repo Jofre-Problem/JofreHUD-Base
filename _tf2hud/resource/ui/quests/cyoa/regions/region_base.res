@@ -4,7 +4,7 @@
 	{
 		"fieldName"		"Region"
 		
-		"ypos"			"0"
+		
 		"wide"			"p1"
 		"tall"			"p1"
 		"proportionaltoparent" "1"
@@ -49,7 +49,7 @@
 			"ControlName"	"Panel"
 			"fieldName"		"BGColor"
 			
-			"ypos"			"0"
+			
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -69,7 +69,7 @@
 		{
 			"fieldName"		"ZoomPanel"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -85,7 +85,7 @@
 				// "ControlName"	"CQuestMapPathsPanel"
 				"fieldName"		"PathsPanel"
 				
-				"ypos"			"0"
+				
 				"zpos"			"2"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -102,7 +102,7 @@
 			"ControlName"	"Panel"
 			"fieldName"		"Dimmer"
 			
-			"ypos"			"0"
+			
 			"zpos"			"102"
 			"wide"			"f0"
 			"tall"			"f0"

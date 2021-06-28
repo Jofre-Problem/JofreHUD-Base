@@ -6,7 +6,7 @@
 		"visible"		"1"
 		
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"f0"
 		"tall"			"480"
@@ -32,7 +32,7 @@
 				"ControlName"	"CExImageButton"
 				"fieldName"		"SubButton"
 				
-				"ypos"			"0"
+				
 				"wide"			"250"
 				"tall"			"26"
 				
@@ -79,7 +79,7 @@
 		"SaxxySettings"
 		{
 			
-			"ypos"			"0"
+			
 			"zpos"			"-101"		
 			"wide"			"f0"
 			"tall"			"480"
@@ -165,7 +165,7 @@
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"Background"
 		"xpos"			"cs-0.5"
-		"ypos"			"0"
+		
 		"zpos"			"-200"
 		"wide"			"o1.6"
 		"tall"			"f0"
@@ -419,7 +419,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TooltipPanel"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"150"
 		"tall"			"50"
@@ -493,7 +493,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"xpos"			"16"
-			"ypos"			"0"
+			
 			"zpos"			"3"
 			"wide"			"16"
 			"tall"			"16"
@@ -512,7 +512,7 @@
 			"labelText"		"%noticount%"
 			"textAlignment"	"center"
 			"xpos"			"16"
-			"ypos"			"0"
+			
 			"zpos"			"4"
 			"wide"			"16"
 			"tall"			"16"
@@ -528,7 +528,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"Notifications_ShowButtonPanel_SB"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"32"
 			"tall"			"32"
@@ -559,7 +559,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"32"
 				"tall"			"32"
@@ -594,7 +594,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SubButton"
 			
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			
@@ -667,7 +667,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SubButton"
 			
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			
@@ -742,7 +742,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"MOTD_ShowButtonPanel_SB"
 			
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"32"
 			"tall"			"32"
@@ -773,7 +773,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"32"
 				"tall"			"32"
@@ -808,7 +808,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"MOTD_HeaderContainer"
 			
-			"ypos"			"0"
+			
 			"wide"			"300"
 			"tall"			"22"
 			"visible"		"1"
@@ -821,7 +821,7 @@
 				"textAlignment"	"center"
 				"labelText"		"%motdheader%"
 				
-				"ypos"			"0"
+				
 				"wide"			"300"
 				"tall"			"24"
 				
@@ -878,7 +878,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -974,7 +974,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"MOTD_TitleImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"100"
 				"wide"			"250"
 				"tall"			"250"
@@ -1001,7 +1001,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"MOTD_TextPanel"
 				
-				"ypos"			"0"
+				
 				"wide"			"250"
 				"tall"			"300"
 				"visible"		"1"
@@ -1015,7 +1015,7 @@
 					"labelText"		"%motdtext%"
 					"textAlignment"	"north-west"
 					
-					"ypos"			"0"
+					
 					"wide"			"250"
 					"tall"			"300"
 					
@@ -1104,7 +1104,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"20"
 				"tall"			"20"
@@ -1152,7 +1152,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"20"
 				"tall"			"20"
@@ -1225,7 +1225,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1271,7 +1271,7 @@
 				"ControlName"	"CMainMenuNotificationsControl"
 				"fieldName"		"Notifications_Control"
 				
-				"ypos"			"0"
+				
 				"wide"			"220"
 				"tall"			"135"
 				"visible"		"1"
@@ -1315,7 +1315,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SubButton"
 			
-			"ypos"			"0"
+			
 			"wide"			"250"
 			"tall"			"26"
 			
@@ -1392,7 +1392,7 @@
 			"labelText"		"#TF_Competitive_Friends"
 			"textAlignment"	"west"
 			"xpos"			"12"
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"30"
 			
@@ -1451,7 +1451,7 @@
 				"ControlName"	"ScrollBar"
 				"FieldName"		"ScrollBar"
 				"xpos"			"rs1-1"
-				"ypos"			"0"
+				
 				"tall"			"f0"
 				"wide"			"5" // This gets slammed from client schme.  GG.
 				"zpos"			"1000"
@@ -1513,7 +1513,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldname"		"Background"
 			
-			"ypos"			"0"
+			
 			
 			"wide"			"260"
 //			"tall"			"120"
@@ -1533,7 +1533,7 @@
 				"labelText"		"#MMenu_Update"
 				"textAlignment"	"west"
 				"xpos"			"12"
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"30"
 				
@@ -1580,7 +1580,7 @@
 //					"ControlName"	"CExImageButton"
 //					"fieldName"		"SubButton"
 //					"xpos"			"cs-0.5"
-//					"ypos"			"0"
+//					
 //					"wide"			"f0"
 //					"tall"			"f0"
 //					
@@ -1650,7 +1650,7 @@
 //					"ControlName"	"CExImageButton"
 //					"fieldName"		"SubButton"
 //					"xpos"			"cs-0.5"
-//					"ypos"			"0"
+//					
 //					"wide"			"f0"
 //					"tall"			"f0"
 //					
@@ -1695,7 +1695,7 @@
 				"wide"					"f10"
 //				"tall"					"p0.5"
 				"tall"					"60"
-				"visible"				"1"
+				
 				
 				"scaleImage"			"1"
 				"proportionaltoparent"	"1"
@@ -1846,7 +1846,7 @@
 				"labelText"		"#MMenu_SafeMode_Title"
 				"textAlignment"	"west"
 				
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"30"
 				
@@ -1940,7 +1940,7 @@
 				"wide"					"p0.92"
 				"tall"					"p0.5"
 				"textAlignment"			"north-west"
-				"visible"				"1"
+				
 				
 				"scaleImage"			"1"
 				"proportionaltoparent"	"1"
@@ -1961,7 +1961,7 @@
 			"zpos"					"100"
 			"wide"					"40"
 			"tall"					"o1"
-			"visible"				"1"
+			
 			
 			"image"					"info"
 			"scaleImage"			"1"
@@ -2028,7 +2028,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SubButton"
 			
-			"ypos"			"0"
+			
 			"wide"			"p1"
 			"tall"			"25"
 			
@@ -2097,7 +2097,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SubButton"
 			
-			"ypos"			"0"
+			
 			"wide"			"p1"
 			"tall"			"25"
 			
@@ -2164,7 +2164,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SubButton"
 			
-			"ypos"			"0"
+			
 			"wide"			"p1"
 			"tall"			"25"
 			
@@ -2232,7 +2232,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SubButton"
 			
-			"ypos"			"0"
+			
 			"wide"			"p1"
 			"tall"			"25"
 			
@@ -2890,7 +2890,7 @@
 		"fieldName"		"icon_generator"
 
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"		
 		"wide"			"300"
 		"tall"			"300"

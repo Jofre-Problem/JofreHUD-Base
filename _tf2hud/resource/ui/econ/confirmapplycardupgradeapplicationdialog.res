@@ -3,7 +3,7 @@
 	"ConfirmApplyCardUpgradeApplicationDialog"
 	{
 		"fieldName"				"ConfirmApplyCardUpgradeApplicationDialog"
-		"visible"				"1"
+		
 		
 		"xpos"					"c-200"
 		"ypos"					"c-200"

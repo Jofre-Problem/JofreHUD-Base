@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"DarkMask"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"f0"
 		"tall"			"480"
@@ -100,7 +100,7 @@
 			"labelText"		"#TF_PVE_Credit_Collection"
 			"textAlignment" "center"
 			
-			"ypos"			"0"
+			
 			"wide"			"140"
 			"fgcolor"		"Black"
 		}
@@ -202,7 +202,7 @@
 			"labelText"		"#TF_PVE_Credit_Use"
 			"textAlignment" "center"
 			
-			"ypos"			"0"
+			
 			"wide"			"195"
 			"fgcolor"		"Black"
 		}
@@ -366,7 +366,7 @@
 			"ControlName"	"ScalableImagePanel"
 			"fieldName"		"Background"
 			
-			"ypos"			"0"
+			
 			"wide"			"500"
 			"tall"			"150"
 			

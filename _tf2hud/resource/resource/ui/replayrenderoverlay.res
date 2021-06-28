@@ -112,7 +112,7 @@
 		"textAlignment"	"west"
 		"wrap"			"0"
 		
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"15"

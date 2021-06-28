@@ -59,7 +59,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
@@ -150,7 +150,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
@@ -214,7 +214,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
@@ -277,7 +277,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
@@ -366,7 +366,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
@@ -428,7 +428,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
@@ -489,7 +489,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
@@ -579,7 +579,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
@@ -642,7 +642,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
@@ -705,7 +705,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			
-			"ypos"			"0"
+			
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
@@ -1358,7 +1358,7 @@
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"StartExplanation"
 		
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"165"
@@ -1451,7 +1451,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
@@ -1469,7 +1469,7 @@
 		"fieldName"		"TFPlayerModel"
 		
 		
-		"ypos"			"0"
+		
 		"zpos"			"6"		
 		"wide"			"480"
 		"tall"			"480"
@@ -1623,7 +1623,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"

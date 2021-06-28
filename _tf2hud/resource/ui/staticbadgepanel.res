@@ -4,7 +4,7 @@
 	{
 		"fieldName"		"BadgePanel"
 		"xpos"			"cs-0.5"
-		"ypos"			"0"
+		
 				
 		"wide"			"o1"
 		"tall"			"f0"

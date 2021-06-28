@@ -19,7 +19,7 @@
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"SplashBackground"
 			
-			"ypos"			"0"
+			
 			"wide"			"530"
 			"tall"			"230"
 			
@@ -40,7 +40,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"HeaderContainer"
 			
-			"ypos"			"0"
+			
 			"wide"			"530"
 			"tall"			"100"
 			"visible"		"1"
@@ -119,7 +119,7 @@
 				"labelText"		"%ratinglabel%"
 				"textAlignment" "center"
 				
-				"ypos"			"0"
+				
 				"wide"			"180"
 				"tall"			"40"
 				"fgcolor"		"tanlight"

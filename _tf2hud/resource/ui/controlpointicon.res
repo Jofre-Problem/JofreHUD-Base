@@ -98,7 +98,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CPTimerLabel"
 		
-		"ypos"			"0"
+		
 		
 		"wide"			"9"
 		"wide_minmode"			"7"
@@ -119,7 +119,7 @@
 		"ControlName"	"Panel"
 		"fieldName"		"CPTimerBG"
 		
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"		"66"
 		"wide_minmode"		"42"
