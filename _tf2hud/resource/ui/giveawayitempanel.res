@@ -27,7 +27,7 @@
 			"wide"				"240"
 			"tall"				"22"
 			"fgcolor_local"		"LightRed"
-			"fgcolor_other"		"235 226 202 255"
+			"fgcolor_other"		"TanLight"
 		
 			"name_label"
 			{
@@ -128,7 +128,7 @@
 		"tall"			"125"
 		//"visible"		"1"
 		"bgcolor_override"		"Blank"
-		"noitem_textcolor"		"117 107 94 255"
+		"noitem_textcolor"		"TanDark"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		

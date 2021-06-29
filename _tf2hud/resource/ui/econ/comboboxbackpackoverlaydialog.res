@@ -46,7 +46,7 @@
 		//"visible"		"1"
 		
 		"bgcolor_override"		"Blank"
-		"noitem_textcolor"		"117 107 94 255"
+		"noitem_textcolor"		"TanDark"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		"model_xpos"	"2"
@@ -86,7 +86,7 @@
 		"NumericInputOnly"	"0"
 		"unicode"			"0"
 		
-		"fgcolor_override"	"117 107 94 255"
+		"fgcolor_override"	"TanDark"
 		"bgcolor_override"	"251 235 202 0"
 		"disabledFgColor_override" "117 107 94 0"
 		"disabledBgColor_override" "251 235 202 0"

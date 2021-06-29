@@ -273,7 +273,7 @@
 		"armedBgColor_override" "145 73 59 255"
 		"depressedBgColor_override" "117 107 94 255"
 			
-		"image_drawcolor"	"235 226 202 255"		
+		"image_drawcolor"	"TanLight"		
 		"image_armedcolor"	"235 226 202 255"		
 		
 		"SubImage"

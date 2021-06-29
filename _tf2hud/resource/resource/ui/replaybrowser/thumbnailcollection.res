@@ -116,7 +116,7 @@
 		//"visible"		"1"
 		
 		"centerwrap"	"1"
-		"fgcolor_override"	"117 107 94 255"
+		"fgcolor_override"	"TanDark"
 	}
 	
 	"ShowPrevButton"

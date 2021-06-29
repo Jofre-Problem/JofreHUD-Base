@@ -23,8 +23,8 @@
 		{
 			"paintbackground"		"1"
 			"image_drawcolor"		"255 255 255 255"
-			"image_armedcolor"		"255 255 255 255"
-			"image_selectedcolor"	"255 255 255 255"
+			"image_armedcolor"		"HudWhite"
+			"image_selectedcolor"		"HudWhite"
 			
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
@@ -75,7 +75,7 @@
 		"visible"		"0"
 		
 		"centerwrap"	"1"
-		"fgcolor_override"	"117 107 94 255"
+		"fgcolor_override"	"TanDark"
 	}
 	
 	"PrevButton"
@@ -118,7 +118,7 @@
 		"FieldName"		"OriginalLabel"
 		"Font"			"ReplayMediumSmall"
 		//"textAlignment"	"west"
-		"fgcolor_override"	"117 107 94 255"
+		"fgcolor_override"	"TanDark"
 		
 		
 		"wide"			"65"
@@ -132,7 +132,7 @@
 		"FieldName"		"CutsLabel"
 		"Font"			"ReplayMediumSmall"
 		//"textAlignment"	"west"
-		"fgcolor_override"	"117 107 94 255"
+		"fgcolor_override"	"TanDark"
 		
 		
 		"wide"			"120"
@@ -152,7 +152,7 @@
 		//"visible"		"1"
 		
 		//"centerwrap"	"0"
-		"fgcolor_override"	"117 107 94 255"
+		"fgcolor_override"	"TanDark"
 	}
 	
 }

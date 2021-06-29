@@ -108,8 +108,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"	"255 255 255 255"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"		"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -219,8 +219,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"	"255 255 255 255"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"		"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -303,8 +303,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"	"255 255 255 255"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"		"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -385,8 +385,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"	"255 255 255 255"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"		"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -493,8 +493,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"	"255 255 255 255"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"		"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -574,8 +574,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"	"255 255 255 255"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"		"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -654,8 +654,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"	"255 255 255 255"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"		"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -762,8 +762,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"	"255 255 255 255"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"		"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -845,8 +845,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"	"255 255 255 255"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"		"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -928,8 +928,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"	"255 255 255 255"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"		"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -1851,8 +1851,8 @@
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
 			
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_drawcolor"	"TanDark"
+			"image_armedcolor"	"LightRed"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2023,8 +2023,8 @@
 			"armedFgColor_override" "TanLight"
 			"depressedFgColor_override" "TanDarker"
 			
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_drawcolor"	"TanDark"
+			"image_armedcolor"	"LightRed"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"

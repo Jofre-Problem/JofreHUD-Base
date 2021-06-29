@@ -27,7 +27,7 @@
 		"tall"			"200"
 		//"visible"		"1"
 		"bgcolor_override"		"Blank"
-		"noitem_textcolor"		"117 107 94 255"
+		"noitem_textcolor"		"TanDark"
 		"PaintBackgroundType"	"2"
 		//"paintborder"	"0"
 		"mouseinputenabled"	"0"
@@ -171,7 +171,7 @@
 			
 			"image_drawcolor"		"255 255 255 77"
 			"image_armedcolor"		"255 255 255 128"
-			"image_selectedcolor"	"255 255 255 255"
+			"image_selectedcolor"		"HudWhite"
 			
 			"stayselectedonclick"	"1"
 			"keyboardinputenabled"	"0"
@@ -283,7 +283,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"TanDark"
-			"image_armedcolor"	"200 80 60 255"
+			"image_armedcolor"	"LightRed"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"

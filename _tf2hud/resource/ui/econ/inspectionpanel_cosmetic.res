@@ -562,8 +562,8 @@
 		"wide"			"30"
 		"tall"			"20"
 		//"visible"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"0"
 		"PaintBackgroundType"	"2"
 		
@@ -617,8 +617,8 @@
 		"tall"			"20"
 		//"visible"		"1"
 		
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -633,8 +633,8 @@
 		"tall"			"20"
 		//"visible"		"1"
 		
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -649,8 +649,8 @@
 		"tall"			"20"
 		//"visible"		"1"
 		
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -665,8 +665,8 @@
 		"tall"			"20"
 		//"visible"		"1"
 		
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -681,8 +681,8 @@
 		"tall"			"20"
 		//"visible"		"1"
 		
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -697,8 +697,8 @@
 		"tall"			"20"
 		//"visible"		"1"
 		
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -923,7 +923,7 @@
 			
 			"image_drawcolor"		"255 255 255 77"
 			"image_armedcolor"		"255 255 255 128"
-			"image_selectedcolor"	"255 255 255 255"
+			"image_selectedcolor"		"HudWhite"
 			
 			"stayselectedonclick"	"1"
 			"keyboardinputenabled"	"0"
@@ -1089,7 +1089,7 @@
 		"tall"			"150"
 		"visible"		"0"
 		"bgcolor_override"		"Blank"
-		"noitem_textcolor"		"117 107 94 255"
+		"noitem_textcolor"		"TanDark"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 

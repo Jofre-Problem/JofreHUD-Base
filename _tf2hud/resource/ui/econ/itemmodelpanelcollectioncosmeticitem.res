@@ -80,7 +80,7 @@
 			
 			"labelText"		"%itemname%"
 			//"textAlignment"	"west"
-			"fgcolor"		"235 226 202 255"
+			"fgcolor"		"TanLight"
 			"centerwrap"	"1"
 		}
 		
@@ -120,7 +120,7 @@
 			
 			"labelText"		"%collectionname%"
 			//"textAlignment"	"west"
-			"fgcolor"		"235 226 202 255"
+			"fgcolor"		"TanLight"
 			//"centerwrap"	"0"
 		}
 	
@@ -327,7 +327,7 @@
 			"tall"			"18"
 			"visible"		"0"
 			"bgcolor_override"		"0 0 0 200"
-			"noitem_textcolor"		"117 107 94 255"
+			"noitem_textcolor"		"TanDark"
 			"PaintBackgroundType"	"2"
 			//"paintborder"	"0"
 			"useparentbg"	"0"

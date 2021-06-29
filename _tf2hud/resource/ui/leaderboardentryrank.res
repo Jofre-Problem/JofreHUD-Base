@@ -110,7 +110,7 @@
 			
 			"paintbackground"	"0"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"TanLight"
 			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{

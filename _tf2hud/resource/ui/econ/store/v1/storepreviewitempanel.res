@@ -163,8 +163,8 @@
 		"wide"			"30"
 		"tall"			"20"
 		//"visible"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"0"
 		"PaintBackgroundType"	"2"
 		
@@ -217,8 +217,8 @@
 		"wide"			"30"
 		"tall"			"20"
 		//"visible"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"0"
 		"PaintBackgroundType"	"2"
 		
@@ -271,8 +271,8 @@
 		"wide"			"30"
 		"tall"			"20"
 		//"visible"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"0"
 		"PaintBackgroundType"	"2"
 		
@@ -325,8 +325,8 @@
 		"wide"			"30"
 		"tall"			"20"
 		//"visible"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"0"
 		"PaintBackgroundType"	"2"
 		
@@ -379,8 +379,8 @@
 		"wide"			"30"
 		"tall"			"20"
 		//"visible"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"0"
 		"PaintBackgroundType"	"2"
 		
@@ -434,8 +434,8 @@
 		"tall"			"20"
 		//"visible"		"1"
 		
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -450,8 +450,8 @@
 		"tall"			"20"
 		//"visible"		"1"
 		
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -466,8 +466,8 @@
 		"tall"			"20"
 		//"visible"		"1"
 		
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -482,8 +482,8 @@
 		"tall"			"20"
 		//"visible"		"1"
 		
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -498,8 +498,8 @@
 		"tall"			"20"
 		//"visible"		"1"
 		
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -514,8 +514,8 @@
 		"tall"			"20"
 		//"visible"		"1"
 		
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}

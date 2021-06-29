@@ -44,7 +44,7 @@
 				//"visible"		"1"
 				"labelText"		"%playername%"
 				"textAlignment"	"north-west"
-				//"fgcolor"		"235 226 202 255"
+				//"fgcolor"		"TanLight"
 					
 				if_mvm
 				{
@@ -182,7 +182,7 @@
 				//"visible"		"1"
 				"labelText"		"%respawntime%"
 				//"textAlignment"	"west"
-				//"fgcolor"		"235 226 202 255"
+				//"fgcolor"		"TanLight"
 				
 				if_mvm
 				{
@@ -223,7 +223,7 @@
 				//"visible"		"1"
 				"labelText"		"%specindex%"
 				"textAlignment"	"north-west"
-				//"fgcolor"		"235 226 202 255"
+				//"fgcolor"		"TanLight"
 			}
 			
 			if_mvm
@@ -439,7 +439,7 @@
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"south"
-			"fgcolor"		"235 226 202 255"
+			"fgcolor"		"TanLight"
 			"centerwrap"	"1"
 		}
 	}	

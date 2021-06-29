@@ -23,7 +23,7 @@
 			"tall"			"42"
 			"visible"		"0"
 			"bgcolor_override"		"0 0 0 255"
-			"noitem_textcolor"		"117 107 94 255"
+			"noitem_textcolor"		"TanDark"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
 			
@@ -59,7 +59,7 @@
 		"tall"			"300"
 		"visible"		"0"
 		"bgcolor_override"		"Blank"
-		"noitem_textcolor"		"117 107 94 255"
+		"noitem_textcolor"		"TanDark"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		
@@ -120,7 +120,7 @@
 		//"visible"		"1"
 		
 		"bgcolor_override"		"Blank"
-		"noitem_textcolor"		"117 107 94 255"
+		"noitem_textcolor"		"TanDark"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		"model_xpos"	"2"
@@ -236,7 +236,7 @@
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"unicode"		"1"
-		"fgcolor_override"	"117 107 94 255"
+		"fgcolor_override"	"TanDark"
 		"bgcolor_override"	"251 235 202 255"
 		"paintbackgroundtype" "2"
 		

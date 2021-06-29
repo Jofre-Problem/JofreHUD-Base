@@ -49,7 +49,7 @@
 		"wrap"			"1"
 		"labelText"		"#TF_ServerNoSteamConn_Explanation"
 		"textAlignment"		"North"
-		"fgcolor_override"	"117 107 94 255"
+		"fgcolor_override"	"TanDark"
 	}
 	"CloseButton"
 	{

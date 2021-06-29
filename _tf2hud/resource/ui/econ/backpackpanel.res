@@ -46,7 +46,7 @@
 			"tall"			"10"
 			"visible"		"0"
 			"bgcolor_override"		"Blank"
-			"noitem_textcolor"		"117 107 94 255"
+			"noitem_textcolor"		"TanDark"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
 
@@ -58,7 +58,7 @@
 				"tall"			"13"
 				//"visible"		"1"
 				"bgcolor_override"		"Blank"
-				"noitem_textcolor"		"117 107 94 255"
+				"noitem_textcolor"		"TanDark"
 				"PaintBackgroundType"	"2"
 				"paintborder"	"1"
 				"textAlignment"	"center"
@@ -103,7 +103,7 @@
 			"tall"			"42"
 			"visible"		"0"
 			"bgcolor_override"		"Blank"
-			"noitem_textcolor"		"117 107 94 255"
+			"noitem_textcolor"		"TanDark"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
 			
@@ -292,7 +292,7 @@
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"unicode"		"1"
-		"fgcolor_override"	"117 107 94 255"
+		"fgcolor_override"	"TanDark"
 		"bgcolor_override"	"251 235 202 255"
 		"paintbackgroundtype" "2"
 		"font"		"HudFontSmallest"
@@ -340,7 +340,7 @@
 		"tall"			"300"
 		"visible"		"0"
 		"bgcolor_override"		"Blank"
-		"noitem_textcolor"		"117 107 94 255"
+		"noitem_textcolor"		"TanDark"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		
@@ -380,7 +380,7 @@
 		"tall"			"21"
 		"visible"		"0"
 		"bgcolor_override"		"Blank"
-		"noitem_textcolor"		"117 107 94 255"
+		"noitem_textcolor"		"TanDark"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		
@@ -654,8 +654,8 @@
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
 			
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_drawcolor"	"TanDark"
+			"image_armedcolor"	"LightRed"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -719,7 +719,7 @@
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"TanLight"
 			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
@@ -829,8 +829,8 @@
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
 			
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_drawcolor"	"TanDark"
+			"image_armedcolor"	"LightRed"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -876,7 +876,7 @@
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"TanLight"
 			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
@@ -941,7 +941,7 @@
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"TanLight"
 			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
@@ -1051,8 +1051,8 @@
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
 			
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_drawcolor"	"TanDark"
+			"image_armedcolor"	"LightRed"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1098,7 +1098,7 @@
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"TanLight"
 			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
@@ -1145,7 +1145,7 @@
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"TanLight"
 			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
@@ -1273,8 +1273,8 @@
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
 			
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_drawcolor"	"TanDark"
+			"image_armedcolor"	"LightRed"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1320,7 +1320,7 @@
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"TanLight"
 			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
@@ -1367,7 +1367,7 @@
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"TanLight"
 			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
@@ -1494,8 +1494,8 @@
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
 			
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_drawcolor"	"TanDark"
+			"image_armedcolor"	"LightRed"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1541,7 +1541,7 @@
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"TanLight"
 			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{

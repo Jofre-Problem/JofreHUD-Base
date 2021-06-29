@@ -42,7 +42,7 @@
 		"tall"			"300"
 		"visible"		"0"
 		"bgcolor_override"		"Blank"
-		"noitem_textcolor"		"117 107 94 255"
+		"noitem_textcolor"		"TanDark"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		"border"		"MainMenuBGBorder"
@@ -289,7 +289,7 @@
 				"armedFgColor_override" "TanLight"
 				"depressedFgColor_override" "TanDarker"
 			
-				"image_drawcolor"	"117 107 94 255"
+				"image_drawcolor"	"TanDark"
 				"image_armedcolor"	"235 226 202 255"
 
 				"command"	"accept_quest"
@@ -362,7 +362,7 @@
 				"armedFgColor_override" "TanLight"
 				"depressedFgColor_override" "TanDarker"
 			
-				"image_drawcolor"	"117 107 94 255"
+				"image_drawcolor"	"TanDark"
 				"image_armedcolor"	"235 226 202 255"
 
 				"command"	"discard_quest"

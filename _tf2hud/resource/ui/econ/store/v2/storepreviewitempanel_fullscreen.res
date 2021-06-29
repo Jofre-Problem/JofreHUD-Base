@@ -211,7 +211,7 @@
 			
 			"image_drawcolor"		"255 255 255 77"
 			"image_armedcolor"		"255 255 255 128"
-			"image_selectedcolor"	"255 255 255 255"
+			"image_selectedcolor"		"HudWhite"
 			
 			"stayselectedonclick"	"1"
 			"keyboardinputenabled"	"0"

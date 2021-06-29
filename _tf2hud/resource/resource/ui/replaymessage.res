@@ -17,7 +17,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ReplayLabel"
-		"font"			"HudFontMediumBold"
+		//test//"font"			"HudFontMediumBold"
 		"xpos"			"35"
 		"ypos"			"2"
 		
@@ -27,20 +27,20 @@
 		
 		"labelText"		"#Replay_ReplayMsgTitle"
 		"textAlignment"	"north-west"
-		"fgcolor"		"235 226 202 255"
+		//test//"fgcolor"		"TanLight"
 	}
 	"MessageLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MessageLabel"
-		"font"			"ItemFontAttribLarge"
+		//test//"font"			"ItemFontAttribLarge"
 		
 		"wide"			"180"
 		"tall"			"0"
 		//"visible"		"1"
 		
 		"textAlignment"	"north"
-		"fgcolor"		"235 226 202 255"
+		//test//"fgcolor"		"TanLight"
 		//"centerwrap"	"0"
 		"wrap"			"1"
 	}

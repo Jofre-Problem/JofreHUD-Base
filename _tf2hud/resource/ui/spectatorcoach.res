@@ -400,7 +400,7 @@
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"south"
-			"fgcolor"		"235 226 202 255"
+			"fgcolor"		"TanLight"
 			"centerwrap"	"1"
 		}
 	}	

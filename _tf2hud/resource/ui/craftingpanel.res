@@ -38,7 +38,7 @@
 			"tall"			"45"
 			"visible"		"0"
 			"bgcolor_override"		"Blank"
-			"noitem_textcolor"		"117 107 94 255"
+			"noitem_textcolor"		"TanDark"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
 			
@@ -84,7 +84,7 @@
 					
 					"labelText"		"%itemname%"
 					"textAlignment"	"south"
-					"fgcolor"		"235 226 202 255"
+					"fgcolor"		"TanLight"
 					"wrap"			"1"
 					"centerwrap"	"1"
 				}
@@ -361,7 +361,7 @@
 		"tall"			"300"
 		"visible"		"0"
 		"bgcolor_override"		"Blank"
-		"noitem_textcolor"		"117 107 94 255"
+		"noitem_textcolor"		"TanDark"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		
@@ -402,7 +402,7 @@
 		"tall"			"42"
 		"visible"		"0"
 		"bgcolor_override"		"Blank"
-		"noitem_textcolor"		"117 107 94 255"
+		"noitem_textcolor"		"TanDark"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		

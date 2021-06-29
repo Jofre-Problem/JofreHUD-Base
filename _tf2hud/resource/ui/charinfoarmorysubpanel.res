@@ -37,7 +37,7 @@
 			"tall"			"49"
 			"visible"		"0"
 			"bgcolor_override"		"0 0 0 255"
-			"noitem_textcolor"		"117 107 94 255"
+			"noitem_textcolor"		"TanDark"
 			"PaintBackgroundType"	"2"
 			//"paintborder"	"0"
 			
@@ -137,7 +137,7 @@
 		
 		"fgcolor_override"	"TanLight"
 		"bgcolor_override"	"51 47 46 255"
-		"disabledFgColor_override" "235 226 202 255"
+		"disabledFgColor_override" "TanLight"
 		"disabledBgColor_override" "51 47 46 255"
 		"selectionColor_override" "51 47 46 255"
 		"selectionTextColor_override" "TanLight"
@@ -252,7 +252,7 @@
 		"tall"			"180"
 		"visible"		"0"
 		"bgcolor_override"		"Blank"
-		"noitem_textcolor"		"117 107 94 255"
+		"noitem_textcolor"		"TanDark"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		

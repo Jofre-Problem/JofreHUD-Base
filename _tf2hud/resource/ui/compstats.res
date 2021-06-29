@@ -204,7 +204,7 @@
 					"armedFgColor_override"	"Orange"
 					"selectedFgColor_override" "TanLight"
 
-					"image_selectedcolor"	"255 255 255 255"
+					"image_selectedcolor"		"HudWhite"
 					"image_armedcolor"		"0 0 0 0"
 					"image_drawcolor"		"0 0 0 0"
 
@@ -238,7 +238,7 @@
 					"armedFgColor_override"	"Orange"
 					"selectedFgColor_override" "TanLight"
 
-					"image_selectedcolor"	"255 255 255 255"
+					"image_selectedcolor"		"HudWhite"
 					"image_armedcolor"		"0 0 0 0"
 					"image_drawcolor"		"0 0 0 0"
 
@@ -272,7 +272,7 @@
 					"armedFgColor_override"	"Orange"
 					"selectedFgColor_override" "TanLight"
 
-					"image_selectedcolor"	"255 255 255 255"
+					"image_selectedcolor"		"HudWhite"
 					"image_armedcolor"		"0 0 0 0"
 					"image_drawcolor"		"0 0 0 0"
 
@@ -304,7 +304,7 @@
 					"armedFgColor_override"	"Orange"
 					"selectedFgColor_override" "TanLight"
 
-					"image_selectedcolor"	"255 255 255 255"
+					"image_selectedcolor"		"HudWhite"
 					"image_armedcolor"		"0 0 0 0"
 					"image_drawcolor"		"0 0 0 0"
 

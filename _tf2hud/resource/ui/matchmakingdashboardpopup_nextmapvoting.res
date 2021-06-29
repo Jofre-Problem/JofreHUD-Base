@@ -83,8 +83,8 @@
 
 				"image_default"		"glyph_collapse"						
 
-				"image_drawcolor"	"235 226 202 255"
-				"image_armedcolor"	"200 80 60 255"
+				"image_drawcolor"	"TanLight"
+				"image_armedcolor"	"LightRed"
 
 				"SubImage"
 				{
@@ -133,8 +133,8 @@
 
 				"image_default"		"glyph_expand"						
 
-				"image_drawcolor"	"235 226 202 255"
-				"image_armedcolor"	"200 80 60 255"
+				"image_drawcolor"	"TanLight"
+				"image_armedcolor"	"LightRed"
 
 				"SubImage"
 				{
