@@ -11,7 +11,7 @@
 		"tall"			"31"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../HUD/tournament_panel_brown"
 
@@ -37,7 +37,7 @@
 		
 		"wide"			"17"
 		"tall"			"17"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/ico_time_10"
 		"scaleImage"		"1"	
@@ -87,7 +87,7 @@
 			"wide"			"45"
 			"wide_minmode"		"45"
 			"tall"			"31"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"textAlignment"		"center"
 		}	
@@ -129,7 +129,7 @@
 		"tall"			"30"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"wrap"			"0"
 

@@ -7,7 +7,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -25,7 +25,7 @@
 		"wide"			"f0"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"border"		"TFThinLineBorder"
@@ -40,7 +40,7 @@
 		"zpos"			"-1"
 		"wide"			"42"
 		"tall"			"42"
-		////"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"TanDark"
 	}
@@ -53,7 +53,7 @@
 		
 		"wide"			"32"
 		"tall"			"32"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			""
 		"scaleImage"	"1"	
@@ -79,7 +79,7 @@
 		"zpos"			"-100"
 		"wide"			"16"
 		"tall"			"16"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"crosshairs/default"
 		"scaleImage"	"1"
@@ -98,7 +98,7 @@
 		//"tall_hidef"		"30"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"visible_minmode" "1"
 		
 		"labelText"		"%student_name%"
@@ -117,7 +117,7 @@
 		//"tall_hidef"		"30"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"visible_minmode"		"1"
 		
 		"labelText"		""
@@ -136,7 +136,7 @@
 		//"tall_hidef"		"30"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"visible_minmode" "1"
 		
 		"labelText"		"%student_distance%"
@@ -152,7 +152,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"	[$WIN32]
+		//"visible"		"1"	[$WIN32]
 		
 		"labelText"		"#TF_Coach_StudentCommands"
 		//"textAlignment"		"west"
@@ -169,7 +169,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"	[$WIN32]
+		//"visible"		"1"	[$WIN32]
 		
 		"labelText"		""
 		"textAlignment"		"east"
@@ -185,7 +185,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"	[$WIN32]
+		//"visible"		"1"	[$WIN32]
 		
 		
 		"labelText"		"#TF_Coach_ControlView"
@@ -202,7 +202,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"	[$WIN32]
+		//"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
 		
 		"labelText"		""
@@ -219,7 +219,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"	[$WIN32]
+		//"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
 		
 		"labelText"		"#TF_Coach_AttackDesc"
@@ -236,7 +236,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"	[$WIN32]
+		//"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
 		
 		"labelText"		""
@@ -253,7 +253,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"	[$WIN32]
+		//"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
 		
 		"labelText"		"#TF_Coach_DefendDesc"
@@ -270,7 +270,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"	[$WIN32]
+		//"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
 		
 		"labelText"		"%coach_command_1%"
@@ -287,7 +287,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"	[$WIN32]
+		//"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
 		
 		"labelText"		"#TF_Coach_Slot1Desc"
@@ -304,7 +304,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"	[$WIN32]
+		//"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
 		
 		"labelText"		"%coach_command_2%"
@@ -321,7 +321,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"	[$WIN32]
+		//"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
 		
 		"labelText"		"#TF_Coach_Slot2Desc"
@@ -376,7 +376,7 @@
 			"tall"			"9"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"#FreezePanel_Item"
 			"textAlignment"	"Left"
@@ -396,7 +396,7 @@
 			"tall"			"60"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"south"

@@ -23,7 +23,7 @@
 		"wide"			"32"
 		"tall"			"20"
 				
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"PaintBackgroundType"	"2"
 		//"paintborder"	"0"

@@ -42,7 +42,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"ProgressBarStandard"
 
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"proportionaltoparent" "1"
 

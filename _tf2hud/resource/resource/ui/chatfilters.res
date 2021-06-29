@@ -23,7 +23,7 @@
 		"tall"			"10"
 		"autoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#filter_joinleave"
@@ -42,7 +42,7 @@
 		"tall"			"10"
 		"autoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#filter_namechange"
@@ -61,7 +61,7 @@
 		"tall"			"10"
 		"autoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#filter_publicchat"
@@ -80,7 +80,7 @@
 		"tall"			"10"
 		"autoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#filter_servermsg"
@@ -99,7 +99,7 @@
 		"tall"			"10"
 		"autoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#filter_teamchange"
@@ -119,7 +119,7 @@
 		"tall"			"10"
 		"autoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#filter_achievement"

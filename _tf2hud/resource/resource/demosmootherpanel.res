@@ -10,7 +10,7 @@
 		"tall"		"300"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -25,7 +25,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Process->"
@@ -44,7 +44,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Revert"
@@ -64,7 +64,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"OK"
@@ -84,7 +84,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Cancel"
@@ -104,7 +104,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"Save"
@@ -124,7 +124,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Reload"
@@ -144,7 +144,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -162,7 +162,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -180,7 +180,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Show Original"
@@ -200,7 +200,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Show Processed"
@@ -220,7 +220,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Back off"
@@ -239,7 +239,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Hide legend"
@@ -258,7 +258,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Hide original"
@@ -277,7 +277,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Hide processed"
@@ -296,7 +296,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"No smoothing info loaded"
@@ -314,7 +314,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Show All"
@@ -333,7 +333,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Select"
@@ -353,7 +353,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"Resume"
@@ -373,7 +373,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		">>"
@@ -393,7 +393,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"<<"
@@ -413,7 +413,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Revert Pt."
@@ -433,7 +433,7 @@
 		"tall"		"22"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"Make Keyframe"
@@ -453,7 +453,7 @@
 		"tall"		"22"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"Make Look Target"
@@ -473,7 +473,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"Undo"
@@ -493,7 +493,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"Redo"
@@ -513,7 +513,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"+Key"
@@ -533,7 +533,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"-Key"
@@ -553,7 +553,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"+Target"
@@ -573,7 +573,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"-Target"
@@ -593,7 +593,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Set View"
@@ -613,7 +613,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Edge->"
@@ -632,7 +632,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -650,7 +650,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"Save Key"
@@ -671,7 +671,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -689,7 +689,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Jump To"
@@ -709,7 +709,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Start Tick:"
@@ -727,7 +727,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"End Tick:"
@@ -745,7 +745,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Edge Ticks:"

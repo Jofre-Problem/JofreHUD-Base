@@ -10,7 +10,7 @@
 		"tall"		"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Internet &Speed"
@@ -27,7 +27,7 @@
 		"tall"		"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"

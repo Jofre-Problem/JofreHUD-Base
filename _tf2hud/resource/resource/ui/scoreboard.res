@@ -19,7 +19,7 @@
 		"ControlName"		"Menu"
 		"fieldName"		"SysMenu"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -38,7 +38,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		""
 		//"textAlignment"		"west"
@@ -55,7 +55,7 @@
 		"tall"		"375"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}

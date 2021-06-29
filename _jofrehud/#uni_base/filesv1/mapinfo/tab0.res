@@ -2,6 +2,6 @@
 {
 	"mapinfo"
 	{
-		"tabPosition"	"0"
+		//"tabposition"	"0"
 	}
 }	

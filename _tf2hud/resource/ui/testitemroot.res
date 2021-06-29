@@ -30,7 +30,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 	}
@@ -43,7 +43,7 @@
 		"ypos"			"50"
 		"wide"			"400"
 		"tall"			"95"
-		////"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"0 0 0 128"
 		
@@ -61,7 +61,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		
@@ -79,7 +79,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -99,7 +99,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -119,7 +119,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -139,7 +139,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -159,7 +159,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -179,7 +179,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -199,7 +199,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -219,7 +219,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -239,7 +239,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -259,7 +259,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -275,7 +275,7 @@
 		"ypos"			"150"
 		"wide"			"400"
 		"tall"			"105"
-		////"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"0 0 0 128"
 	
@@ -293,7 +293,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		
@@ -311,7 +311,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"TestItemEntry0"
@@ -328,7 +328,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 			"bgcolor_override" "24 24 24 128"
@@ -344,7 +344,7 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#IT_Item_Add"
@@ -368,7 +368,7 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#IT_Item_Remove"
@@ -395,7 +395,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"TestItemEntry1"
@@ -412,7 +412,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 			"bgcolor_override" "24 24 24 128"
@@ -428,7 +428,7 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#IT_Item_Add"
@@ -452,7 +452,7 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#IT_Item_Remove"
@@ -479,7 +479,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"TestItemEntry2"
@@ -496,7 +496,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 			"bgcolor_override" "24 24 24 128"
@@ -512,7 +512,7 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#IT_Item_Add"
@@ -536,7 +536,7 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#IT_Item_Remove"
@@ -563,7 +563,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"TestItemEntry3"
@@ -580,7 +580,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 			"bgcolor_override" "24 24 24 128"
@@ -596,7 +596,7 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#IT_Item_Add"
@@ -620,7 +620,7 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#IT_Item_Remove"
@@ -643,7 +643,7 @@
 		"ypos"			"50"
 		"wide"			"200"
 		"tall"			"95"
-		////"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"0 0 0 128"
 		
@@ -661,7 +661,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		
@@ -679,7 +679,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -700,7 +700,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -718,7 +718,7 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#IT_Bot_Add"
@@ -773,7 +773,7 @@
 			"tall"			"15"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#IT_Bot_RemoveAll"
@@ -811,7 +811,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#IT_ExportLoadout"
@@ -835,7 +835,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#IT_ImportLoadout"
@@ -859,7 +859,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#IT_ImportLast"
@@ -884,7 +884,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"
@@ -908,7 +908,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#IT_Ok"
@@ -931,7 +931,7 @@
 		"zpos"			"11"
 		"wide"			"200"
 		"tall"			"36"
-		////"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"SteamWorkshopButtonSubButton"
 		{
@@ -943,7 +943,7 @@
 			"tall"			"26"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"textinsetx"	"25"
@@ -972,7 +972,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"scaleImage"	"1"
 				"image"			"glyph_steamworkshop"

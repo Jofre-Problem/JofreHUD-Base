@@ -10,7 +10,7 @@
 		"tall"		"400"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"0"
@@ -22,13 +22,13 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"-100"
 		"wide"		"600"
 		"tall"		"400"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"bgcolor_override"	"0 0 0 255"
@@ -43,7 +43,7 @@
 		"zpos"			"-99"
 		"wide"			"600"
 		"tall"			"300"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"workshop_blue_top"
 		"scaleImage"	"1"
@@ -59,7 +59,7 @@
 		"tall"		"45"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"bgcolor_override"	"57 52 49 255"
@@ -75,7 +75,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_Title"
@@ -96,7 +96,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_Preview"
@@ -118,7 +118,7 @@
 		"tall"		"150"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"border"				"SteamWorkshopBorder"
@@ -128,12 +128,12 @@
 			"ControlName"		"Label"
 			"fieldName"		"PreviewDescription"
 			"xpos"		"5"
-			"ypos"		"0"
+			//"ypos"		"0"
 			"wide"		"140"
 			"tall"		"120"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_PublishFile_PreviewDesc"
@@ -166,7 +166,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_Browse"
@@ -189,7 +189,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_TitleLabel"
@@ -210,7 +210,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -234,7 +234,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_DescLabel"
@@ -254,7 +254,7 @@
 		"tall"		"125"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -278,7 +278,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_FileLabel"
@@ -299,7 +299,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"			"#TF_PublishFile_NoFileSelected"
@@ -321,7 +321,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_Cosmetics"
@@ -357,7 +357,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_Other"
@@ -380,7 +380,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_Maps"
@@ -416,7 +416,7 @@
 		"tall"		"55"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_BrowseDesc"
@@ -438,7 +438,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_Tags"
@@ -457,7 +457,7 @@
 		"ypos"			"45"
 		"wide"			"160"
 		"tall"			"228"
-		////"visible"		"1"
+		//"visible"		"1"
 		"paintbackground" "0"
 
 		"ClassCheckBox1"
@@ -474,7 +474,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -494,7 +494,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -514,7 +514,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -534,7 +534,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -554,7 +554,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -574,7 +574,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -594,7 +594,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -614,7 +614,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -634,7 +634,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -655,7 +655,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -675,7 +675,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -695,7 +695,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -715,7 +715,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -735,7 +735,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -755,7 +755,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -775,7 +775,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -795,7 +795,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -815,7 +815,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -835,7 +835,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -856,7 +856,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -876,7 +876,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -896,7 +896,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -916,7 +916,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -936,7 +936,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -956,7 +956,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -976,7 +976,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -996,7 +996,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1016,7 +1016,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1036,7 +1036,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1056,7 +1056,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1076,7 +1076,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1096,7 +1096,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1116,7 +1116,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1136,7 +1136,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1156,7 +1156,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1176,7 +1176,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1196,7 +1196,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1214,7 +1214,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"
@@ -1237,7 +1237,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_Publish"

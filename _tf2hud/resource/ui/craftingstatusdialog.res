@@ -27,7 +27,7 @@
 		"tall"			"0"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"wrap"			"0"
 		//"centerwrap"	"0"
@@ -55,7 +55,7 @@
 		"tall"			"60"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"wrap"			"0"
 		"centerwrap"	"1"
@@ -81,7 +81,7 @@
 		"tall"			"60"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%ellipses%"
 		//"textAlignment"		"west"
@@ -89,7 +89,7 @@
 		"bgcolor_override" "Blank"
 		
 		"pin_to_sibling"               "TitleLabel"
-        "pin_corner_to_sibling"        "0"          
+        //"pin_corner_to_sibling"        "0"          
         "pin_to_sibling_corner"        "1"          	
 	}
 	
@@ -104,7 +104,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Ok"

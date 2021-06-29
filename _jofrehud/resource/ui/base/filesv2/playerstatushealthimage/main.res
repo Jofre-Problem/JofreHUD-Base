@@ -4,8 +4,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		//"enabled"		"1"
 		"scaleImage"	"1"	
 	}				
 }

@@ -11,7 +11,7 @@
 		"zpos"			"101"
 		"wide"			"20"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"viewmode_loaner"
 		"scaleImage"	"1"
@@ -23,11 +23,11 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"		"Gradient"
 		"xpos"		"rs1-50"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"100"
 		"tall"		"f0"
 		"zpos"	"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"rotation"		"1"
 		"proportionaltoparent"	"1"
@@ -43,11 +43,11 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"		"Gradient2"
 		"xpos"		"rs1-50"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"100"
 		"tall"		"f0"
 		"zpos"	"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"rotation"		"1"
 		"proportionaltoparent"	"1"
@@ -63,11 +63,11 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"		"Gradient3"
 		"xpos"		"rs1-50"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"100"
 		"tall"		"f0"
 		"zpos"	"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"rotation"		"1"
 		"proportionaltoparent"	"1"
@@ -83,11 +83,11 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"		"GradientHoriz"
 		"xpos"		"rs1-50"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"30"
 		"zpos"	"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"rotation"		"3"
 		"proportionaltoparent"	"1"
@@ -111,7 +111,7 @@
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"f0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"autoResize"	"1"
 		
@@ -132,7 +132,7 @@
 		"zpos"			"999"
 		"wide"			"f0"
 		"tall"			"f0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"mouseinputenabled"		"0"
@@ -150,7 +150,7 @@
 		"zpos"			"1001"
 		"wide"			"f0"
 		"tall"			"f0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"mouseinputenabled"		"0"

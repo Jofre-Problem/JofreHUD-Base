@@ -30,7 +30,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -48,7 +48,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"BotAnimationComboBox"
@@ -95,7 +95,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"dulltext"		"0"
 		//"brighttext"	"0"
@@ -115,7 +115,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"dulltext"		"0"
 		//"brighttext"	"0"
@@ -135,7 +135,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"dulltext"		"0"
 		//"brighttext"	"0"
@@ -156,7 +156,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"BotAnimationSpeedSlider"
@@ -170,7 +170,7 @@
 		"tall"			"20"
 		"leftText"		"0"
 		"rightText"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 
@@ -185,7 +185,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"
@@ -209,7 +209,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#IT_Apply"
@@ -234,7 +234,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"R"

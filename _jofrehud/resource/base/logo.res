@@ -10,7 +10,7 @@
 		"tall"			"40"
 		"zpos"			"50"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../logo/TF2_Logo"
 		"scaleImage"	"1"		
 	}

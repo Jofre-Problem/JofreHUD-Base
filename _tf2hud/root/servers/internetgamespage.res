@@ -10,7 +10,7 @@
 		"tall"		"278"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -25,7 +25,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		"paintbackground"		"1"
@@ -45,7 +45,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"paintbackground"		"1"
@@ -65,7 +65,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"paintbackground"		"1"
@@ -126,7 +126,7 @@
 		"tall"		"226"
 		"AutoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -142,10 +142,10 @@
 		"tall"			"226"
 		"AutoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 	}
 	"QuickListCheck"
 	{
@@ -157,7 +157,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"6"
 		"paintbackground"		"1"
@@ -177,7 +177,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"paintbackground"		"1"
@@ -196,7 +196,7 @@
 		"tall"		"24"
 		"AutoResize"		"1"
 		"PinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"

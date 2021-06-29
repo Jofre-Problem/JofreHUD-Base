@@ -10,7 +10,7 @@
 		"tall"		"400"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -25,7 +25,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"

@@ -10,7 +10,7 @@
 		"tall"		"262"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,7 +26,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Label"
@@ -46,7 +46,7 @@
 		"tall"		"60"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GAMEUI_Commentary_HowToUse"
@@ -65,7 +65,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#vgui_ok"

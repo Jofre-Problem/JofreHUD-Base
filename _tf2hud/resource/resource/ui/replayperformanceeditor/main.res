@@ -30,7 +30,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"tileImage"		"0"
 				"scaleImage"	"1"
@@ -45,7 +45,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BottomPanel"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"	"0 0 0 255"
 		
 		"LeftLine"
@@ -56,11 +56,11 @@
 			"ypos"			"17"
 			"wide"			"85"
 			"tall"			"1"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"bgcolor_override" "122 111 98 255"
-			"paintbackground"	"1"
+			//"paintbackground"	"1"
 		}
 		
 		"RightLine"
@@ -71,18 +71,18 @@
 			"ypos"			"17"
 			"wide"			"85"
 			"tall"			"1"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"bgcolor_override" "122 111 98 255"
-			"paintbackground"	"1"
+			//"paintbackground"	"1"
 		}
 	
 		"PlayerCellsPanel"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"PlayerCellsPanel"
-			////"visible"		"1"
+			//"visible"		"1"
 			"tall"			"40"
 			"bgcolor_override"	"HUDDeathWarning"
 			"paintbackground"	"0"
@@ -92,7 +92,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"RedLabel"
 				"zpos"			"3"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"PerformanceModeSmall"
 				"LabelText"		"#Replay_Team0"
@@ -105,7 +105,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"BlueLabel"
 				"zpos"			"3"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"PerformanceModeSmall"
 				"LabelText"		"#Replay_Team1"
@@ -125,7 +125,7 @@
 		"zpos"			"3"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -143,7 +143,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tileImage"		"0"
 			"scaleImage"	"1"
@@ -163,7 +163,7 @@
 		"zpos"			"3"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -181,7 +181,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tileImage"		"0"
 			"scaleImage"	"1"
@@ -201,7 +201,7 @@
 		"zpos"			"3"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -219,7 +219,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tileImage"		"0"
 			"scaleImage"	"1"
@@ -240,7 +240,7 @@
 		"zpos"			"3"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -258,7 +258,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tileImage"		"0"
 			"scaleImage"	"1"
@@ -275,7 +275,7 @@
 		"xpos"			"c-74"
 		
 		"zpos"			"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"font"			"ReplayMediumBig"
 		"fgcolor_override" "122 111 98 255"
@@ -289,7 +289,7 @@
 		"xpos"			"c35"
 		
 		"zpos"			"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"font"			"ReplayMediumBig"
 		"fgcolor_override" "122 111 98 255"
@@ -301,7 +301,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerNameLabel"
 		"zpos"			"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"font"			"PerformanceModeSmall"
 		"LabelText"		""
@@ -337,7 +337,7 @@
 		"zpos"			"3"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -356,7 +356,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tileImage"		"0"
 			"scaleImage"	"1"
@@ -377,7 +377,7 @@
 		"zpos"			"3"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -395,7 +395,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tileImage"		"0"
 			"scaleImage"	"1"
@@ -416,7 +416,7 @@
 		"zpos"			"3"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -434,7 +434,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tileImage"		"0"
 			"scaleImage"	"1"
@@ -455,7 +455,7 @@
 		"zpos"			"3"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -473,7 +473,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tileImage"		"0"
 			"scaleImage"	"1"
@@ -494,7 +494,7 @@
 		"zpos"			"3"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -511,7 +511,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tileImage"		"0"
 			"scaleImage"	"1"
@@ -532,7 +532,7 @@
 		"zpos"			"3"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -550,7 +550,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tileImage"		"0"
 			"scaleImage"	"1"
@@ -571,7 +571,7 @@
 		"zpos"			"3"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -590,7 +590,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tileImage"		"0"
 			"scaleImage"	"1"
@@ -611,7 +611,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -633,7 +633,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tileImage"		"0"
 			"scaleImage"	"1"
@@ -655,7 +655,7 @@
 		
 		"font"			"ReplayMediumSmall"
 		"centerwrap"	"1"
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 		"bgcolor_override"	"60 53 45 255"
 		"border"		"ButtonBorder"
 	}

@@ -43,7 +43,7 @@
 			"zpos"			"1"
 			"wide"			"8"
 			"tall"			"8"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"glyph_workshop_edit"
 			"scaleImage"	"1"
@@ -61,7 +61,7 @@
 		"tall"			"o1"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labeltext"		""
@@ -93,7 +93,7 @@
 			"zpos"			"1"
 			"wide"			"f0"
 			"tall"			"f0"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"close_button"
 			"scaleImage"	"1"
@@ -192,7 +192,7 @@
 			"zpos"			"2"
 			"wide"			"10"
 			"tall"			"10"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"scaleImage"	"1"	
 			"proportionaltoparent"	"1"
@@ -207,7 +207,7 @@
 			
 			"wide"			"f0"
 			"tall"			"o0.25"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"proportionaltoparent"	"1"
 
@@ -222,7 +222,7 @@
 			
 			"wide"			"f0"
 			"tall"			"o0.25"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"proportionaltoparent"	"1"
 
@@ -241,7 +241,7 @@
 			
 			"wide"			"f0"
 			"tall"			"o0.25"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"proportionaltoparent"	"1"
 
@@ -293,7 +293,7 @@
 				"zpos"			"2"
 				"wide"			"10"
 				"tall"			"10"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"scaleImage"	"1"	
 				"proportionaltoparent"	"1"
@@ -323,7 +323,7 @@
 					"zpos"			"101"
 					"wide"			"f0"
 					"tall"			"20"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"proportionaltoparent"	"1"
 					"mouseinputenabled"	"0"	
@@ -363,7 +363,7 @@
 					"zpos"			"1"
 					"wide"			"f0"
 					"tall"			"f0"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"image"			"cyoa/cyoa_cash_large"
 					"scaleImage"	"1"
@@ -416,7 +416,7 @@
 					"zpos"			"101"
 					"wide"			"f0"
 					"tall"			"20"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"proportionaltoparent"	"1"
 					"mouseinputenabled"	"0"	

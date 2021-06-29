@@ -9,7 +9,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Label for the group of radio buttons"
@@ -25,7 +25,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"SubTabPosition"  "0"
@@ -43,7 +43,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"SubTabPosition"  "1"
@@ -61,7 +61,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"SubTabPosition"  "2"
@@ -79,7 +79,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"SubTabPosition"  "3"
@@ -97,7 +97,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"SubTabPosition"  "4"
@@ -115,7 +115,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Description"
@@ -131,7 +131,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Description"
@@ -147,7 +147,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Description"
@@ -163,7 +163,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Description"
@@ -179,7 +179,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"Description"

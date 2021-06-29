@@ -10,7 +10,7 @@
 		"tall"		"260"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"90"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
@@ -40,7 +40,7 @@
 		"tall"		"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"1"
@@ -58,7 +58,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_OK"
@@ -77,7 +77,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_Quit"
@@ -96,7 +96,7 @@
 		"tall"		"665"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}

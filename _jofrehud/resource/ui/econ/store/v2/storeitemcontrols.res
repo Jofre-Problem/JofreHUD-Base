@@ -9,7 +9,7 @@
 		"zpos"			"20"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 
@@ -56,7 +56,7 @@
 			"zpos"			"13"
 			"wide"			"18"
 			"tall"			"18"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"store_cart"
 			"scaleImage"	"1"

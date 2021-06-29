@@ -10,7 +10,7 @@
 		"tall"			"380"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"	"1"
@@ -20,7 +20,7 @@
 		{
 			"ControlName"	"Splitter"
 			"fieldName"		"PreviewSplitter"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"AutoResize"	"3"
 			
@@ -43,7 +43,7 @@
 					
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					
 				}
@@ -62,7 +62,7 @@
 					"autoResize"	"1"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"labelText"		"Enter Description:"
@@ -85,7 +85,7 @@
 					"PinnedCornerOffsetY" "26"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					//"editable"		"1"
 					"tabPosition"	"1"
@@ -107,7 +107,7 @@
 			"tall"		"24"
 			
 			"pinCorner"		"2"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"2"
 			"labelText"		"Yes"
@@ -127,7 +127,7 @@
 			"tall"		"24"
 			
 			"pinCorner"		"2"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"2"
 			"labelText"		"No"

@@ -9,7 +9,7 @@
 		"zpos"			"10000"
 		"wide"			"260"
 		"tall"			"70"
-		////"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 		"keyboardinputenabled"	"0"
 		"mouseinputenabled"		"1"
@@ -29,7 +29,7 @@
 			"zpos"			"-2"
 			"wide"			"f0"
 			"tall"			"f0"
-			////"visible"		"1"
+			//"visible"		"1"
 			"PaintBackgroundType"	"0"
 			"border"		"OuterShadowBorder"
 			"proportionaltoparent"	"1"
@@ -79,7 +79,7 @@
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
-				////"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"border"		"ReplayDefaultBorder"
 				"proportionaltoparent"	"1"
@@ -94,7 +94,7 @@
 				
 				"wide"			"f0"
 				"tall"			"f0"
-				////"visible"		"1"
+				//"visible"		"1"
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"		"1"
 
@@ -109,7 +109,7 @@
 					"tall"			"15"
 					
 					"pinCorner"		"3"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"font"			"HudFontSmallestBold"
@@ -138,7 +138,7 @@
 					"tall"			"15"
 					
 					"pinCorner"		"3"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"font"			"HudFontSmallestBold"
@@ -181,7 +181,7 @@
 					"tall"			"20"
 					
 					"pinCorner"		"3"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"font"			"HudFontSmallest"
@@ -190,7 +190,7 @@
 					//"brighttext"	"0"
 					"proportionaltoparent"	"1"
 					"labeltext"		"#TF_Matchmaking_RollingQueue_RequeueNonLeader"
-					"paintbackground"	"1"
+					//"paintbackground"	"1"
 				}
 
 
@@ -205,7 +205,7 @@
 					"tall"			"15"
 					
 					"pinCorner"		"3"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"font"			"HudFontSmallestBold"
@@ -218,7 +218,7 @@
 					"mouseinputenabled"	"1"
 					"keyboardinputenabled"	"0"
 					"actionsignallevel"	"3"
-					"paintbackground"	"1"
+					//"paintbackground"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
@@ -234,7 +234,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"TanLight"
@@ -252,7 +252,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"HudFontSmallest"
 				"fgcolor_override"	"TanLight"
@@ -272,7 +272,7 @@
 				"tall"			"20"
 				
 				"pinCorner"		"3"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"font"			"HudFontSmallest"
@@ -281,7 +281,7 @@
 				//"brighttext"	"0"
 				"proportionaltoparent"	"1"
 				"labeltext"		"%votes_needed%"
-				"paintbackground"	"1"
+				//"paintbackground"	"1"
 			}
 
 		}
@@ -311,7 +311,7 @@
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
-				////"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"border"		"ReplayDefaultBorder"
 				"proportionaltoparent"	"1"
@@ -326,7 +326,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"TanLight"
@@ -344,7 +344,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"HudFontSmallest"
 				"fgcolor_override"	"TanLight"
@@ -376,7 +376,7 @@
 					"tall"			"15"
 					
 					"pinCorner"		"3"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"font"			"HudFontSmallestBold"
@@ -389,7 +389,7 @@
 					"mouseinputenabled"	"1"
 					"keyboardinputenabled"	"0"
 					"actionsignallevel"	"3"
-					"paintbackground"	"1"
+					//"paintbackground"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
@@ -422,7 +422,7 @@
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
-				////"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"border"		"ReplayDefaultBorder"
 				"proportionaltoparent"	"1"
@@ -437,7 +437,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"TanLight"
@@ -457,7 +457,7 @@
 				"tall"			"40"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				//"paintborder"	"0"
 				"image"			"animated/tf2_logo_hourglass"
@@ -489,7 +489,7 @@
 					"tall"			"15"
 					
 					"pinCorner"		"3"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"font"			"HudFontSmallestBold"
@@ -502,7 +502,7 @@
 					"mouseinputenabled"	"1"
 					"keyboardinputenabled"	"0"
 					"actionsignallevel"	"3"
-					"paintbackground"	"1"
+					//"paintbackground"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
@@ -535,7 +535,7 @@
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
-				////"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"border"		"ReplayDefaultBorder"
 				"proportionaltoparent"	"1"
@@ -550,7 +550,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"TanLight"
@@ -568,7 +568,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"HudFontSmallest"
 				"fgcolor_override"	"TanLight"
@@ -588,7 +588,7 @@
 				"tall"			"15"
 				
 				"pinCorner"		"3"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"font"			"HudFontSmallestBold"
@@ -601,7 +601,7 @@
 				"mouseinputenabled"	"1"
 				"keyboardinputenabled"	"0"
 				"actionsignallevel"	"2"
-				"paintbackground"	"1"
+				//"paintbackground"	"1"
 
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -618,7 +618,7 @@
 				"tall"			"15"
 				
 				"pinCorner"		"3"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"font"			"HudFontSmallestBold"
@@ -665,7 +665,7 @@
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
-				////"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"border"		"ReplayDefaultBorder"
 				"proportionaltoparent"	"1"
@@ -680,7 +680,7 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"TanLight"
@@ -700,7 +700,7 @@
 				"tall"			"40"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				//"paintborder"	"0"
 				"image"			"animated/tf2_logo_hourglass"

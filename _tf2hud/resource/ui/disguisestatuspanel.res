@@ -12,7 +12,7 @@
 		"tall"			"100"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"useparentbg"		"1"
 
@@ -43,7 +43,7 @@
 		"tall_minmode"	 		"22"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/color_panel_brown"
 		"scaleImage"		"1"
@@ -75,7 +75,7 @@
 		"tall"			"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%disguisename%"
 		"textAlignment"		"North-West"
@@ -98,7 +98,7 @@
 		"tall"			"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%weaponname%"
 		"textAlignment"		"North-West"
@@ -116,7 +116,7 @@
 		"ypos_minmode"	"45"
 		"wide"			"32"
 		"tall"			"32"
-		////"visible"		"1"
+		//"visible"		"1"
 			
 		"HealthBonusPosAdj"	"10"
 		"HealthDeathWarning"	"0.49"

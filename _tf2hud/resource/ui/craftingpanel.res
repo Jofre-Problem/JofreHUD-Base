@@ -9,7 +9,7 @@
 		"wide"			"f0"
 		"tall"			"400"
 		"zpos"			"501"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		
@@ -60,7 +60,7 @@
 				
 				"wide"			"f0"
 				"tall"			"f0"
-				////"visible"		"1"
+				//"visible"		"1"
 				"bgcolor_override"		"Blank"
 			
 				"itemmodelpanel"
@@ -80,7 +80,7 @@
 					"tall"			"30"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"labelText"		"%itemname%"
 					"textAlignment"	"south"
@@ -101,7 +101,7 @@
 			"tall"			"13"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			//"wrap"			"0"
 			//"centerwrap"	"0"
 			"textAlignment" "west"
@@ -154,7 +154,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "HudOffWhite"
 	}
@@ -185,7 +185,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"HudOffWhite"
 			"wrap"			"1"
@@ -205,7 +205,7 @@
 			"tall"			"25"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"153 204 255 255"
 			"wrap"			"1"
@@ -225,7 +225,7 @@
 			"tall"			"25"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"TanDark"
 		}
@@ -243,7 +243,7 @@
 			"tall"			"25"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"TanDark"
 		}
@@ -259,7 +259,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			"enabled"		"0"
 			
 			"labelText"		"#CraftConfirm"
@@ -287,7 +287,7 @@
 			"tall"			"25"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor"		"Orange"
@@ -303,7 +303,7 @@
 			"tall"			"25"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_Trial_Upgrade"
@@ -381,7 +381,7 @@
 			"tall"			"60"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -446,7 +446,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override"	"TanLight"
 			"wrap"			"1"

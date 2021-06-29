@@ -8,7 +8,7 @@
 		"zpos"			"101"
 		"wide"			"80"
 		"tall"			"16"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"proportionaltoparent" "1"
 		"eatmouseinput"	"0"		
@@ -25,7 +25,7 @@
 		"tall"			"16"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labeltext"		"#TF_QuestView_Accept"
@@ -43,7 +43,7 @@
 		"font"			"QuestMap_Large"
 		"roundedcorners"	"0"
 
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 			
 		"defaultBgColor_override"	"StoreGreen"
 		"armedBgColor_override"		"CreditsGreen"
@@ -63,7 +63,7 @@
 		
 		"wide"			"f0"
 		"tall"			"o0.25"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"proportionaltoparent"	"1"
@@ -151,7 +151,7 @@
 		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"o0.25"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
@@ -168,7 +168,7 @@
 		
 		"wide"			"f0"
 		"tall"			"o0.25"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
@@ -252,7 +252,7 @@
 		"zpos"			"2"
 		"wide"			"10"
 		"tall"			"10"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"proportionaltoparent"	"1"
@@ -296,7 +296,7 @@
 				"tall"			"35"
 				"proportionaltoparent"	"1"	
 				"bgcolor_override"	"0 0 0 240"
-				////"visible"		"1"
+				//"visible"		"1"
 			}
 
 			"TurnInButton"
@@ -310,7 +310,7 @@
 				"tall"			"30"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"labeltext"		"#QuestLog_TurnIn"
@@ -328,7 +328,7 @@
 				"font"			"QuestMap_Large"
 				"roundedcorners"	"0"
 
-				"paintbackground"	"1"
+				//"paintbackground"	"1"
 				"paintborder"		"0"
 
 				"defaultBgColor_override"	"76 107 34 240"
@@ -351,7 +351,7 @@
 				"tall"			"300"
 				"proportionaltoparent"	"1"	
 				"bgcolor_override"	"0 0 0 240"
-				////"visible"		"1"
+				//"visible"		"1"
 			}
 		}
 

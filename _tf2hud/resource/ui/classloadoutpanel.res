@@ -9,7 +9,7 @@
 		"wide"			"f0"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -104,7 +104,7 @@
 		"tall"			"15"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 	}
@@ -122,7 +122,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 
@@ -140,7 +140,7 @@
 		"tall"			"15"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 	}
@@ -158,7 +158,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -171,7 +171,7 @@
 		"zpos"			"2"
 		"wide"			"610"
 		"tall"			"10"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
@@ -190,7 +190,7 @@
 		"tall"			"340"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"render_texture"	"0"
@@ -247,7 +247,7 @@
 			"tall"			"60"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -285,7 +285,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"	"0"
@@ -327,7 +327,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -346,7 +346,7 @@
 			"tall"			"200"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -363,7 +363,7 @@
 			"tall"			"14"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labeltext"		""
@@ -393,7 +393,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -428,7 +428,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#TF_ClassLoadoutTauntInputHint"
 		"textAlignment"	"east"
@@ -447,7 +447,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"dulltext"		"0"
@@ -466,7 +466,7 @@
 			"zpos"			"1"
 			"wide"			"17"
 			"tall"			"17"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"scaleImage"	"1"
 			"image"			"glyph_items"
@@ -485,7 +485,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"dulltext"		"0"
@@ -504,7 +504,7 @@
 			"zpos"			"1"
 			"wide"			"17"
 			"tall"			"17"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"scaleImage"	"1"
 			"image"			"../hud/ico_reel"
@@ -547,7 +547,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -566,7 +566,7 @@
 			"tall"			"200"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -583,7 +583,7 @@
 			"tall"			"14"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labeltext"		""
@@ -613,7 +613,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"

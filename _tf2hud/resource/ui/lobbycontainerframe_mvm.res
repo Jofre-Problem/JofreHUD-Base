@@ -20,7 +20,7 @@
 		"tall"			"25"
 		
 		//"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_MvM_LearnMore"
@@ -49,7 +49,7 @@
 		"tall"			"40"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_MvM_MannUp"
@@ -88,7 +88,7 @@
 		"tall"			"40"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_MvM_BootCamp"
@@ -153,7 +153,7 @@
 			
 			"wide"			"180"
 			"tall"			"90"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"pve/mvm_friends_image"
 			"scaleImage"	"1"

@@ -5,12 +5,12 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"		"InfoTarget"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"784"
 		"tall"		"152"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -25,7 +25,7 @@
 		"autoResize"		"1"
 		"UnpinnedCornerOffsetX" "-20"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -44,7 +44,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Target Name:"
@@ -64,7 +64,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Location:"
@@ -84,7 +84,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Position"
@@ -103,7 +103,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		//"textHidden"		"0"
@@ -122,7 +122,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"X"
@@ -141,7 +141,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Y"
@@ -160,7 +160,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Z"
@@ -179,7 +179,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -198,7 +198,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		//"textHidden"		"0"
@@ -217,7 +217,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Orientation"
@@ -236,7 +236,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"5"
 		//"textHidden"		"0"
@@ -255,7 +255,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"6"
 		//"textHidden"		"0"
@@ -274,7 +274,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"7"
 		//"textHidden"		"0"
@@ -293,7 +293,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Pitch"
@@ -312,7 +312,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Yaw"
@@ -331,7 +331,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Roll"
@@ -351,7 +351,7 @@
 		"autoResize"		"1"
 		"UnpinnedCornerOffsetX" "-20"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}

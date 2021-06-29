@@ -10,7 +10,7 @@
 		"zpos"			"-1"
 		"wide"			"300"
 		"tall"			"300"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	
 		"MannCoImage"
@@ -28,12 +28,12 @@
 			
 //			if_halloween
 //			{
-//				"visible"		"1"
+//				//"visible"		"1"
 //				"image"		"store/store_halloween_premium_callout"
 //			}
 			if_christmas
 			{
-				"visible"		"1"
+				//"visible"		"1"
 				"ypos"			"15"
 				"image"		"store/store_australian_christmas_callout_sale"
 			}

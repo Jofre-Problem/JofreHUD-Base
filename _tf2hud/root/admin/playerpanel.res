@@ -10,7 +10,7 @@
 		"tall"		"332"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"276"
 		"autoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 	}
@@ -38,7 +38,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"2"
 		"labelText"		"#Player_Panel_Kick"
@@ -58,7 +58,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"3"
 		"labelText"		"#Player_Panel_Ban"
@@ -73,7 +73,7 @@
 		"ControlName"		"Menu"
 		"fieldName"		"ServerContextMenu"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"1"
 		"wide"		"64"
 		"tall"		"24"
@@ -88,7 +88,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"Chat"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -108,7 +108,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"slap"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		

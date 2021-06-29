@@ -29,7 +29,7 @@
 				"tall"			"30"
 				
 				"pinCorner"		"3"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"labelText"		""
@@ -54,7 +54,7 @@
 				"wide"			"20"
 				"tall"			"20"
 				"image"			""
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"scaleImage"	"1"	
 				"color_outline"	"52 48 45 255"
@@ -76,7 +76,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 	}
@@ -101,7 +101,7 @@
 			
 			"wide"			"190"
 			"tall"			"130"
-			////"visible"		"1"
+			//"visible"		"1"
 		}
 	}
 
@@ -131,7 +131,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "HudOffWhite"
 		}	
@@ -147,7 +147,7 @@
 			"tall"			"25"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_TradeStartDialog_SelectFriends"
@@ -171,7 +171,7 @@
 			"tall"			"25"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_TradeStartDialog_SelectServer"
@@ -195,7 +195,7 @@
 			"tall"			"25"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_TradeStartDialog_SelectProfile"
@@ -234,7 +234,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "HudOffWhite"
 		}	
@@ -253,7 +253,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"centerwrap"	"1"
@@ -286,7 +286,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "HudOffWhite"
 		}	
@@ -305,7 +305,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"centerwrap"	"1"
@@ -338,7 +338,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "HudOffWhite"
 		}	
@@ -357,7 +357,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"centerwrap"	"1"
@@ -423,7 +423,7 @@
 			"maxchars"			"256"
 			"NumericInputOnly"	"0"
 			"unicode"			"0"
-			"wrap"				"0"
+			//"wrap"				"0"
 			"fgcolor_override"	"TanLight"
 			"bgcolor_override"	"0 0 0 60"
 			"paintbackgroundtype" "2"
@@ -443,7 +443,7 @@
 			"tall"			"25"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_TradeStartDialog_ProfileGo"
@@ -469,7 +469,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"

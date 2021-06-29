@@ -20,7 +20,7 @@
 			
 			"wide"			"166"
 			"tall"			"38"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"../hud/freezecam_black_bg"
 			"scaleImage"	"1"
@@ -34,7 +34,7 @@
 			"zpos"			"1"
 			"wide"			"36"
 			"tall"			"36"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"replay/replayicon"
 			"scaleImage"	"1"	
@@ -51,7 +51,7 @@
 			"tall"			"12"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%text%"
 			//"textAlignment"		"west"

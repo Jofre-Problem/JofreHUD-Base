@@ -10,7 +10,7 @@
 		"tall"			"32"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"image"			"resource/mic_meter_dead"
@@ -28,7 +28,7 @@
 		"tall"			"32"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"image"		"resource/mic_meter_live"
@@ -45,7 +45,7 @@
 		"tall"		"42"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		"leftText"		""
@@ -61,7 +61,7 @@
 		"tall"		"26"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 	}
@@ -75,7 +75,7 @@
 		"tall"		"28"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_EnableVoice"
@@ -94,7 +94,7 @@
 		"tall"		"28"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_BoostMicrophone"
@@ -113,7 +113,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"associate"		"#GameUI_MicrophoneVolume"
@@ -132,7 +132,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_VoiceReceiveVolume"
@@ -223,7 +223,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_TestMicrophone"
@@ -243,7 +243,7 @@
 		"tall"			"48"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Miles_Voice"

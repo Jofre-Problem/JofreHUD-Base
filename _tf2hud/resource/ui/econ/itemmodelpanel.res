@@ -42,7 +42,7 @@
 		
 		"wide"			"f0"
 		"tall"			"f0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 
 		"itemmodelpanel"
@@ -57,7 +57,7 @@
 			"tall"			"100"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"useparentbg"		"1"
 		
@@ -90,7 +90,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%itemname%"
 			"textAlignment"	"south"
@@ -109,7 +109,7 @@
 			"tall"			"60"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"south"
@@ -129,7 +129,7 @@
 			"tall"			"10"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"#ItemPanelEquipped"
 			"textAlignment"	"center"

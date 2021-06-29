@@ -10,7 +10,7 @@
 		"tall"		"470"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,7 +26,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		//"textHidden"		"0"
@@ -45,7 +45,7 @@
 		"tall"		"71"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -64,7 +64,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"6"
 		//"textHidden"		"0"
@@ -83,7 +83,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"PublicUser"
@@ -102,7 +102,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
@@ -120,7 +120,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
@@ -133,7 +133,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"BugBSPURL"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -152,7 +152,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"BugVMFURL"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -171,7 +171,7 @@
 		"ControlName"		"TextEntry"
 		"fieldName"		"BugIncludedFiles"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -195,7 +195,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_Bug_TakeScreenshot"
@@ -216,7 +216,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_Bug_AttachSavedGame"
@@ -232,7 +232,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"BugSaveBSP"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -252,7 +252,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"BugSaveVMF"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -272,7 +272,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"BugIncludeFile"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -292,7 +292,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"BugClearIncludedFiles"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -317,7 +317,7 @@
 		"tall"		"22"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Console"
@@ -336,7 +336,7 @@
 		"tall"		"22"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Console"
@@ -355,7 +355,7 @@
 		"tall"		"22"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Console"
@@ -374,7 +374,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"2092"
@@ -389,7 +389,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"BugSubmitter"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -408,7 +408,7 @@
 		"ControlName"		"ComboBox"
 		"fieldName"		"BugOwner"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -427,7 +427,7 @@
 		"ControlName"		"ComboBox"
 		"fieldName"		"BugSeverity"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -451,7 +451,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -465,7 +465,7 @@
 		"ControlName"		"ComboBox"
 		"fieldName"		"BugPriority"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -484,7 +484,7 @@
 		"ControlName"		"ComboBox"
 		"fieldName"		"BugArea"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -503,7 +503,7 @@
 		"ControlName"		"ComboBox"
 		"fieldName"		"BugMapNumber"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -527,7 +527,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"9"
 		"labelText"		"#GameUI_Bug_Submit"
@@ -548,7 +548,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"10"
 		"labelText"		"#GameUI_Cancel"
@@ -569,7 +569,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"8"
 		"labelText"		"#GameUI_Bug_ClearForm"
@@ -590,7 +590,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Bug_Title"
@@ -609,7 +609,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Bug_Description"
@@ -628,7 +628,7 @@
 		"tall"		"22"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Bug_Position"
@@ -647,7 +647,7 @@
 		"tall"		"22"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Bug_Map"
@@ -666,7 +666,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Bug_EngineBuild"
@@ -686,7 +686,7 @@
 		"tall"		"22"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Bug_Orientation"
@@ -705,7 +705,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Bug_ReportType"
@@ -724,7 +724,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Bug_EmailAddress"
@@ -743,7 +743,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Bug_PrivacyPolicy"
@@ -764,7 +764,7 @@
 		"tall"		"2"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -778,7 +778,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Bug_Optional"
@@ -797,7 +797,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Bug_AccountName"

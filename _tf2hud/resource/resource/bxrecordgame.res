@@ -10,7 +10,7 @@
 		"tall"		"270"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -21,12 +21,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"frame_topGrip"
 		"xpos"		"6"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"468"
 		"tall"		"3"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -40,7 +40,7 @@
 		"tall"		"3"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -54,7 +54,7 @@
 		"tall"		"258"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -68,7 +68,7 @@
 		"tall"		"252"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -77,12 +77,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"frame_tlGrip"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"6"
 		"tall"		"6"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -91,12 +91,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"frame_trGrip"
 		"xpos"		"474"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"6"
 		"tall"		"6"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -110,7 +110,7 @@
 		"tall"		"6"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -124,7 +124,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -133,12 +133,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"frame_caption"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"470"
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -147,7 +147,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"frame_minimize"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -167,7 +167,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"frame_maximize"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -187,7 +187,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"frame_mintosystray"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -208,7 +208,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"frame_close"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -233,7 +233,7 @@
 		"tall"		"7"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
@@ -252,7 +252,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Record"
@@ -273,7 +273,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Cancel"
@@ -294,7 +294,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Choose Dem:"
@@ -313,7 +313,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -332,7 +332,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Choose Map:"
@@ -351,7 +351,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -370,7 +370,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Choose Map"
@@ -391,7 +391,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Record Camera Position"
@@ -412,7 +412,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Record Camera Angles"
@@ -433,7 +433,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Record Camera FOV"
@@ -454,7 +454,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"View From Player"
@@ -475,7 +475,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Snap Player To Tool Camera"
@@ -496,7 +496,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Enable noclip"
@@ -517,7 +517,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Record World"
@@ -538,7 +538,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Record Stationary Ents"
@@ -559,7 +559,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Record Sprites"
@@ -580,7 +580,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Record Sounds"
@@ -601,7 +601,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Record Narration"
@@ -622,7 +622,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"From Start of Sequence"
@@ -643,7 +643,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Sequence Name"
@@ -662,7 +662,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -681,7 +681,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Shot Name"
@@ -700,7 +700,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -730,12 +730,12 @@
 		"ControlName"		"BuildModeDialog"
 		"fieldName"		"BuildModeDialog"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"300"
 		"tall"		"420"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"

@@ -10,7 +10,7 @@
 		"tall"		"522"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"340"
 		"autoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 	}
@@ -38,7 +38,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Go To"
@@ -59,7 +59,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Delete"
@@ -81,7 +81,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Properties"
@@ -103,7 +103,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Close"
@@ -124,7 +124,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Entities:"
@@ -143,7 +143,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Filter:"
@@ -162,7 +162,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Everything"
@@ -184,7 +184,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Point"
@@ -206,7 +206,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Brush"
@@ -228,7 +228,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Include Hidden Objects"
@@ -249,7 +249,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"By Key/Value"
@@ -270,7 +270,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		//"textHidden"		"0"
@@ -289,7 +289,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"="
@@ -308,7 +308,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -327,7 +327,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Exact Matches Only"
@@ -348,7 +348,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"By Class Name"
@@ -369,7 +369,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		//"textHidden"		"0"

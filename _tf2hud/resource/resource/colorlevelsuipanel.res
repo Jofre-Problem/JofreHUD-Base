@@ -10,7 +10,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Channel:"
@@ -28,7 +28,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -46,7 +46,7 @@
 		"tall"		"192"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -60,7 +60,7 @@
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -74,7 +74,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"-----------Output Level-----------"
@@ -92,7 +92,7 @@
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -106,7 +106,7 @@
 		"tall"		"34"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Blend Factor:"
@@ -124,7 +124,7 @@
 		"tall"		"34"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		"0"

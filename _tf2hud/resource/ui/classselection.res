@@ -10,7 +10,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -86,7 +86,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"class_sel_sm_random_inactive"
 			"scaleImage"	"1"
@@ -109,7 +109,7 @@
 		//"tall_lodef"			"22"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_Offense"
@@ -176,7 +176,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"class_sel_sm_scout_inactive"
 			"scaleImage"	"1"
@@ -240,7 +240,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"class_sel_sm_soldier_inactive"
 			"scaleImage"	"1"
@@ -303,7 +303,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"class_sel_sm_pyro_inactive"
 			"scaleImage"	"1"
@@ -326,7 +326,7 @@
 		//"tall_lodef"			"22"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_Defense"
@@ -392,7 +392,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"class_sel_sm_demo_inactive"
 			"scaleImage"	"1"
@@ -454,7 +454,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"class_sel_sm_heavy_inactive"
 			"scaleImage"	"1"
@@ -515,7 +515,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"class_sel_sm_engineer_inactive"
 			"scaleImage"	"1"
@@ -538,7 +538,7 @@
 		//"tall_lodef"			"22"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_Support"
@@ -605,7 +605,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"class_sel_sm_medic_inactive"
 			"scaleImage"	"1"
@@ -668,7 +668,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"class_sel_sm_sniper_inactive"
 			"scaleImage"	"1"
@@ -731,7 +731,7 @@
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"class_sel_sm_spy_inactive"
 			"scaleImage"	"1"
@@ -749,7 +749,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_ClassMenu_Cancel"
@@ -770,7 +770,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#EditLoadout"
@@ -814,7 +814,7 @@
 		"tall"			"30"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		//"visible_lodef"	"0"
 		
 		"labelText"		"#TF_SelectAClass"
@@ -834,7 +834,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fov"			"16"
 		
@@ -896,7 +896,7 @@
 		//"tall_hidef"			"65"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 			
 		"image"			"loadout_bottom_gradient"
@@ -1164,7 +1164,7 @@
 		"tall"			"18"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_TeamCount"
@@ -1184,7 +1184,7 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%numScout%"
@@ -1204,7 +1204,7 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%numSoldier%"
@@ -1224,7 +1224,7 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%numPyro%"
@@ -1244,7 +1244,7 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%numDemoman%"
@@ -1264,7 +1264,7 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%numHeavy%"
@@ -1284,7 +1284,7 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%numEngineer%"
@@ -1304,7 +1304,7 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%numMedic%"
@@ -1324,7 +1324,7 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%numSniper%"
@@ -1344,7 +1344,7 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%numSpy%"
@@ -1524,7 +1524,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1543,7 +1543,7 @@
 			"tall"			"170"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1560,7 +1560,7 @@
 			"tall"			"14"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labeltext"		""
@@ -1590,7 +1590,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -1611,7 +1611,7 @@
 		
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"render_texture"	"0"
@@ -1653,7 +1653,7 @@
 		"tall"			"165"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -1696,7 +1696,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1715,7 +1715,7 @@
 			"tall"			"115"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"

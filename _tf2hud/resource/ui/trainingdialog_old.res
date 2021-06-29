@@ -10,7 +10,7 @@
 		"tall"		"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -25,7 +25,7 @@
 		"tall"		"405"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		
@@ -34,15 +34,15 @@
 			"ControlName"	"PanelListPanel"
 			"fieldName"		"class_list"
 			
-			"ypos"		"0"
+			//"ypos"		"0"
 			"wide"		"620"
 			"tall"		"405"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
-			"paintbackground"	"1"
+			//"paintbackground"	"1"
 		}
 	}
 

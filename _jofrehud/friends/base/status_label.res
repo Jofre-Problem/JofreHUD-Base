@@ -11,7 +11,7 @@
 		"AutoResize"		"1"
 		"PinCorner"		"2"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"labelText"		"#Friends_LastMessageReceived"

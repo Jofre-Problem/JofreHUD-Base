@@ -10,7 +10,7 @@
 		"tall"		"365"
 		"autoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"330"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -38,7 +38,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"

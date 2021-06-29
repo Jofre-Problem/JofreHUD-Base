@@ -30,7 +30,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 	}
@@ -49,7 +49,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"ModelLabel"
@@ -66,7 +66,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 	}
@@ -81,7 +81,7 @@
 		"tall"			"15"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#IT_SelectModel"
@@ -102,7 +102,7 @@
 		"ypos"			"90"
 		"wide"			"400"
 		"tall"			"50"
-		////"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"TanDarker"
 		
@@ -120,7 +120,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 		}
@@ -163,7 +163,7 @@
 		"ypos"			"140"
 		"wide"			"400"
 		"tall"			"50"
-		////"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"TanDarker"
 		
@@ -181,7 +181,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"ItemReplacedComboBox"
@@ -242,7 +242,7 @@
 		"ypos"			"100"
 		"wide"			"550"
 		"tall"			"50"
-		////"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		
 		"HideBodygroupLabel"
@@ -259,7 +259,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"HideBodygroupExplanationLabel"
@@ -276,7 +276,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor"		"TanDark"
@@ -295,7 +295,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -315,7 +315,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -335,7 +335,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -355,7 +355,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -375,7 +375,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -395,7 +395,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -415,7 +415,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -435,7 +435,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -451,7 +451,7 @@
 		"ypos"			"200"
 		"wide"			"530"
 		"tall"			"50"
-		////"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		
 		"PaintColorLabel"
@@ -468,7 +468,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"PaintColorComboBox"
@@ -515,7 +515,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"UnusualEffectComboBox"
@@ -560,7 +560,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"
@@ -584,7 +584,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"#GameUI_Ok"
@@ -609,7 +609,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"R"

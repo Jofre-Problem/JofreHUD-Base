@@ -46,7 +46,7 @@
 		"zpos"			"100"
 		"wide"			"260"
 		"tall"			"290"
-		////"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"border"		"MainMenuBGBorder"
@@ -258,7 +258,7 @@
 			{
 				"font"		"HudFontSmallest"
 				"xpos"		"60"
-				"ypos"		"0"
+				//"ypos"		"0"
 				"zpos"		"2"
 				"wide"		"f70"
 				"tall"		"f0"

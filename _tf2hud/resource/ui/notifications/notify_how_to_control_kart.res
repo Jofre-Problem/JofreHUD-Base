@@ -11,7 +11,7 @@
 		"tall"			"120"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/notification_black"
 		"scaleImage"	"1"
@@ -25,7 +25,7 @@
 		"ypos"			"35"
 		"wide"			"30"
 		"tall"			"30"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_kart"
@@ -42,7 +42,7 @@
 		"tall"			"300"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#TF_How_To_Control_Kart"
 		"textAlignment"	"North-West"

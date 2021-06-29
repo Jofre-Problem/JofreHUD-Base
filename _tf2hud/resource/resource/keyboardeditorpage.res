@@ -10,7 +10,7 @@
 		"tall"		"286"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -19,12 +19,12 @@
 		"ControlName"		"VControlsListPanel"
 		"fieldName"		"KeyBindings"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"630"
 		"tall"		"286"
 		"autoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}

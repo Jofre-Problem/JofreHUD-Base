@@ -10,7 +10,7 @@
 		"tall"		"85"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,7 +26,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"Play"
@@ -47,7 +47,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"Stop"
@@ -68,7 +68,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Load..."
@@ -89,7 +89,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"|<"
@@ -110,7 +110,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		">|"
@@ -130,7 +130,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		">>"
@@ -150,7 +150,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"<<"
@@ -170,7 +170,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"<"
@@ -191,7 +191,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		">"
@@ -212,7 +212,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -226,7 +226,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Tick: 0 / 0"
@@ -245,7 +245,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Time: 00:00 / 00:00"
@@ -264,7 +264,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -278,7 +278,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"100.0 %"

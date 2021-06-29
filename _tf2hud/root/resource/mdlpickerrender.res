@@ -10,7 +10,7 @@
 		"tall"			"256"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	
@@ -24,7 +24,7 @@
 			"tall"		"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"1"
 			"labelText"		"Wireframe"
@@ -44,7 +44,7 @@
 			"tall"		"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"2"
 			"labelText"		"Collision Model"
@@ -64,7 +64,7 @@
 			"tall"		"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"3"
 			"labelText"		"No Ground"
@@ -84,7 +84,7 @@
 			"tall"		"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"4"
 			"labelText"		"Lock View"
@@ -104,7 +104,7 @@
 			"tall"		"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"4"
 			"labelText"		"Thumbnail Safe Zone"
@@ -124,7 +124,7 @@
 			"tall"		"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"selected"		"1"
 			"tabPosition"	"5"
@@ -145,7 +145,7 @@
 			"tall"		"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"6"
 			"labelText"		"&Select Light Probe"

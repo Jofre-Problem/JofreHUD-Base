@@ -5,12 +5,12 @@
 		"ControlName"		"CBonusMapPanel"
 		"fieldName"		"BonusMapPanel"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"180"
 		"tall"		"128"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"BonusMapScreenshotBackground"
@@ -32,7 +32,7 @@
 		"ypos"			"8"
 		"wide"			"180"
 		"tall"			"100"
-		////"visible"		"1"
+		//"visible"		"1"
 	}
 	"BonusMapImage"
 	{
@@ -59,7 +59,7 @@
 		"tall"		"64"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"image"		"hud/icon_locked"

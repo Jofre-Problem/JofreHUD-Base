@@ -9,8 +9,8 @@
 		"zpos"			"1"
 		"wide"			"10"
 		"tall"			"10"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		//"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
 	}

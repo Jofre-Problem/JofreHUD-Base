@@ -27,7 +27,7 @@
 			"tall"			"30"
 			
 			"pinCorner"		"2"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#Button_NextTraining"
@@ -56,7 +56,7 @@
 			"tall"			"30"
 			
 			"pinCorner"		"2"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#Button_QuitTraining"
@@ -84,7 +84,7 @@
 			"tall"			"30"
 			
 			"pinCorner"		"2"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"#Button_ReplayTraining"
 			"textAlignment"	"center"
@@ -112,7 +112,7 @@
 			//"tall_hidef"			"65"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 				
 			"fillcolor"		"56 51 44 255"
@@ -134,7 +134,7 @@
 			//"tall_hidef"			"65"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 				
 			"fillcolor"		"56 51 44 255"
@@ -151,7 +151,7 @@
 		"zpos"			"2"
 		"wide"			"128"
 		"tall"			"128"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/graduation_bomb"
 		"scaleImage"	"1"
@@ -183,7 +183,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"ResultsBG"
@@ -194,7 +194,7 @@
 			
 			"wide"			"400"
 			"tall"			"275"
-			////"visible"		"1"
+			//"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"TrainingResultsBG"
 		}
@@ -209,7 +209,7 @@
 			"tall"			"215"
 			"autoResize"		"3"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"maxchars"		"-1"

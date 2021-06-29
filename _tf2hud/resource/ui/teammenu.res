@@ -10,7 +10,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -74,7 +74,7 @@
 		"tall"			"310"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"3"
 		"labelText"		"&3"	[$WIN32]
@@ -102,7 +102,7 @@
 		"tall"			"310"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"4"
 		"labelText"		"&4"	[$WIN32]
@@ -130,7 +130,7 @@
 		"tall"			"310"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"1"
 		"labelText"		"&1"	[$WIN32]
@@ -156,7 +156,7 @@
 		"tall"			"57"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"&2"	[$WIN32]
@@ -211,7 +211,7 @@
 		"tall"			"30"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		//"visible_lodef"		"0"
 		
 		"labelText"		"#TF_SelectATeam"
@@ -239,7 +239,7 @@
 		"tall"			"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#TF_Random"
 		"textAlignment"	"center"
@@ -265,7 +265,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#TF_Spectate"
 		"textAlignment"	"north"
@@ -288,7 +288,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -322,7 +322,7 @@
 		//"tall_hidef"			"65"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 			
 		"image"			"loadout_bottom_gradient"
@@ -344,7 +344,7 @@
 		"tall"			"30"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%bluecount%"
 		"textAlignment"	"center"
@@ -368,7 +368,7 @@
 		"tall"			"30"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%redcount%"
 		"textAlignment"	"center"
@@ -389,7 +389,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -462,7 +462,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -535,7 +535,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -584,7 +584,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fov"			"20"
 		

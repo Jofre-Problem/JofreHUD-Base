@@ -11,7 +11,7 @@
 		"tall"			"20"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"border"		"StorePreviewTabSelected"
 		
@@ -26,7 +26,7 @@
 			"tall"			"20"
 			
 			"pinCorner"		"3"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#Store_PreviewItem"

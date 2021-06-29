@@ -14,9 +14,9 @@
 			"tall"			"15"
 			"autoResize"	"0"
 			"skip_autoresize"	"1"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			//"pinCorner"		"0"
+			//"visible"		"1"
+			//"enabled"		"1"
 			"wrap"			"1"
 		}		
 	}	

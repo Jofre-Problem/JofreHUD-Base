@@ -10,7 +10,7 @@
 		"tall"		"278"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -25,7 +25,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		"paintbackground"		"1"
@@ -45,7 +45,7 @@
 		"tall"		"230"
 		"AutoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"

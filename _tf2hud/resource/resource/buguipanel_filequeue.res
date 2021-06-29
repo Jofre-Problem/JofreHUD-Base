@@ -10,7 +10,7 @@
 		"tall"		"439"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -21,12 +21,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"frame_topGrip"
 		"xpos"		"8"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"584"
 		"tall"		"5"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -40,7 +40,7 @@
 		"tall"		"5"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -54,7 +54,7 @@
 		"tall"		"464"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -68,7 +68,7 @@
 		"tall"		"454"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -77,12 +77,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"frame_tlGrip"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -91,12 +91,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"frame_trGrip"
 		"xpos"		"592"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -110,7 +110,7 @@
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -124,7 +124,7 @@
 		"tall"		"18"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -133,12 +133,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"frame_caption"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"590"
 		"tall"		"23"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -147,7 +147,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"frame_minimize"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -167,7 +167,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"frame_maximize"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -187,7 +187,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"frame_mintosystray"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -213,7 +213,7 @@
 		"tall"		"18"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"r"
@@ -233,7 +233,7 @@
 		"tall"		"18"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
@@ -252,7 +252,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -271,7 +271,7 @@
 		"tall"		"111"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		//"textHidden"		"0"
@@ -285,7 +285,7 @@
 		"ControlName"		"TextEntry"
 		"fieldName"		"BugEmail"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -304,12 +304,12 @@
 		"ControlName"		"Label"
 		"fieldName"		"BugSubitterLabelPublic"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
@@ -327,7 +327,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Shot URL"
@@ -346,7 +346,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		".sav File"
@@ -365,7 +365,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		".bsp file"
@@ -403,7 +403,7 @@
 		"tall"		"49"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -422,7 +422,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"11"
 		"labelText"		"Take shot"
@@ -443,7 +443,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"12"
 		"labelText"		"Save game"
@@ -464,7 +464,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Include .bsp"
@@ -528,7 +528,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Include file..."
@@ -549,7 +549,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Clear files"
@@ -570,7 +570,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
@@ -588,7 +588,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
@@ -606,7 +606,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
@@ -624,7 +624,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
@@ -660,7 +660,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"Triage"
 		"tabPosition"		"3"
@@ -680,7 +680,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		//"textHidden"		"0"
@@ -737,7 +737,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"7"
 		//"textHidden"		"0"
@@ -756,7 +756,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"editable"		"1"
 		
@@ -776,7 +776,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"8"
 		"labelText"		"Submit"
@@ -797,7 +797,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"9"
 		"labelText"		"Cancel"
@@ -818,7 +818,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"10"
 		"labelText"		"Clear Form"
@@ -839,7 +839,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Title:"
@@ -858,7 +858,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Description:"
@@ -877,7 +877,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Position:"
@@ -896,7 +896,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Map:"
@@ -915,7 +915,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Build:"
@@ -953,7 +953,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Owner:"
@@ -972,7 +972,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Severity:"
@@ -1029,7 +1029,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Product:"
@@ -1048,7 +1048,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Orientation:"
@@ -1067,7 +1067,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Component:"
@@ -1086,7 +1086,7 @@
 		"tall"		"420"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"

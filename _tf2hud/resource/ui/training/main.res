@@ -5,12 +5,12 @@
 		"ControlName"	"CTrainingDialog"
 		"fieldName"		"TrainingDialog"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"bgcolor_override"	"0 0 0 200"
@@ -27,7 +27,7 @@
 		"tall"		"400"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"PaintBackgroundType"	"0"
@@ -49,7 +49,7 @@
 			"image"			"training/gradient"
 			"border"		"ButtonBorder"
 			"paintbackgroundtype"	"2"
-			"paintbackground"	"1"
+			//"paintbackground"	"1"
 		}
 
 		"Background"
@@ -57,12 +57,12 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Background"
 			
-			"ypos"		"0"
+			//"ypos"		"0"
 			"wide"		"450"
 			"tall"		"500"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"bgcolor_override"	"40 37 37 255"
@@ -82,7 +82,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 
@@ -100,7 +100,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 
@@ -138,7 +138,7 @@
 			"tall"			"25"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#Cancel"

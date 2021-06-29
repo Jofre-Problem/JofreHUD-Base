@@ -47,7 +47,7 @@
 			"tall"			"9"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"#FreezePanel_Item"
 			"textAlignment"	"Left"

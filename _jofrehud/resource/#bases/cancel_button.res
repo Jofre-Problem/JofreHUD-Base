@@ -14,7 +14,7 @@
 		//"dulltext"		"0"
 		//"brighttext"		"0"		
 	//	
-	//	"visible"		"1"
+	//	//"visible"		"1"
 	//	
 		"labelText"		"Cancel"
 	}

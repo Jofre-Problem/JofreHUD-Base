@@ -55,7 +55,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"proportionaltoparent"	"1"
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		"border"		"SharpWhiteContainer"
 
@@ -88,7 +88,7 @@
 			"tall"			"24"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"paintborder"	"1"
 			"border"		"SharpBrownContainer"
@@ -109,7 +109,7 @@
 			"tall"			"24"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			//"wrap"			"0"
 			"fgcolor"		"245 240 230 255"
@@ -126,7 +126,7 @@
 			"tall"			"14"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		""
@@ -158,7 +158,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -174,7 +174,7 @@
 			"zpos"			"10"
 			"wide"			"290"
 			"tall"			"o1"
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"proportionaltoparent" "1"
 
@@ -213,7 +213,7 @@
 			"zpos"			"2"
 			"wide"			"30"
 			"tall"			"30"
-			//"visible"		"1"
+			////"visible"		"1"
 			"PaintBackgroundType"	"0"
 			//"paintborder"	"0"
 			"proportionaltoparent"	"1"
@@ -251,7 +251,7 @@
 			"tall"			"15"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			//"wrap"			"0"
 			"proportionaltoparent"	"1"
@@ -269,7 +269,7 @@
 			"tall"			"15"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"235 226 202 255" // Tanlight
@@ -286,7 +286,7 @@
 				"tall"			"13"				
 				
 				
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				//"dulltext"		"0"
 				//"brighttext"	"0"
@@ -309,7 +309,7 @@
 				"tall"			"f0"					
 				
 				
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				//"wrap"			"0"
 				"proportionaltoparent"	"1"
@@ -331,7 +331,7 @@
 			"tall"			"p.45"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			//"wrap"			"0"
 			"proportionaltoparent"	"1"
@@ -349,7 +349,7 @@
 			"tall"			"15"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"bgcolor_override"	"235 226 202 255" // Tanlight
@@ -366,7 +366,7 @@
 				"tall"			"13"
 				
 				
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				//"dulltext"		"0"
 				//"brighttext"	"0"
@@ -389,7 +389,7 @@
 				"tall"			"f0"					
 				
 				
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				//"wrap"			"0"
 				"proportionaltoparent"	"1"

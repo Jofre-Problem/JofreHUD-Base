@@ -3,11 +3,11 @@
 {	
 	"available_target_3"
 	{
-		"visible"		"1"
+		//"visible"		"1"
 	}	
 	
 	"available_target_4"
 	{
-		"visible"		"1"
+		//"visible"		"1"
 	}	
 }	

@@ -10,7 +10,7 @@
 		"tall"		"400"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -19,7 +19,7 @@
 		"ControlName"		"Menu"
 		"fieldName"		"SysMenu"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -38,7 +38,7 @@
 		"tall"		"306"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 	}
@@ -52,7 +52,7 @@
 		"tall"		"276"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 	}
@@ -66,7 +66,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"3"
 		"labelText"		"->"
@@ -86,7 +86,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"<-"
@@ -106,7 +106,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"5"
 		"labelText"		"Move up"
@@ -126,7 +126,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"6"
 		"labelText"		"Move down"
@@ -146,7 +146,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"8"
 		"labelText"		"Cancel"
@@ -166,7 +166,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"7"
 		"labelText"		"OK"

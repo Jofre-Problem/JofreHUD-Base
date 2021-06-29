@@ -11,7 +11,7 @@
 		"tall"			"150"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"bgcolor_override"		"131 66 55 255"
 		"paintbackground"		"1"
@@ -29,7 +29,7 @@
 			"tall"			"20"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"bgcolor_override"		"34 30 31 255"
 			"paintbackground"		"1"
@@ -47,7 +47,7 @@
 			"tall"			"108"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"bgcolor_override"		"34 30 31 255"
 			"paintbackground"		"1"
@@ -67,7 +67,7 @@
 			"tall"			"28"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 		}
@@ -83,7 +83,7 @@
 			"zpos"			"2"
 			"wide"			"5"
 			"tall"			"5"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"Orange"
 		}				
@@ -101,7 +101,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor"		"180 168 145 255"
@@ -117,7 +117,7 @@
 			"zpos"			"2"
 			"wide"			"3"
 			"tall"			"5"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"Orange"
 		}				
@@ -135,7 +135,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor"		"180 168 145 255"
@@ -151,7 +151,7 @@
 			"zpos"			"2"
 			"wide"			"3"
 			"tall"			"5"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"Orange"
 		}				
@@ -169,7 +169,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor"		"180 168 145 255"
@@ -185,7 +185,7 @@
 			"zpos"			"2"
 			"wide"			"3"
 			"tall"			"5"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"Orange"
 		}				
@@ -203,7 +203,7 @@
 			"tall"			"40"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor"		"180 168 145 255"
@@ -223,7 +223,7 @@
 			"tall"			"40"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"Orange"
 		}
@@ -242,7 +242,7 @@
 			"tall"			"60"
 			"autoResize"	"1"
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor"		"180 168 145 255"
@@ -258,7 +258,7 @@
 		"zpos"			"3"
 		"wide"			"58"
 		"tall"			"58"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"store/store_starburst"
 		"scaleImage"	"1"
@@ -273,7 +273,7 @@
 		"zpos"			"4"
 		"wide"			"85"
 		"tall"			"85"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../backpack/player/items/all_class/all_manncap_large"
 		"scaleImage"	"1"

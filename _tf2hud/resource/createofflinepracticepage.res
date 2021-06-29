@@ -10,7 +10,7 @@
 		"tall"		"420"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"5"
 		//"textHidden"		"0"
@@ -43,7 +43,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Map"
@@ -64,7 +64,7 @@
 		"tall"		"2"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -79,7 +79,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%gametype%"
@@ -99,7 +99,7 @@
 		"tall"		"96"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -119,7 +119,7 @@
 		"tall"			"120"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"maxchars"		"-1"
@@ -138,7 +138,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_Bot_NumberOfBots"
@@ -157,7 +157,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -177,7 +177,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -197,7 +197,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_Bot_Difficulty"
@@ -216,7 +216,7 @@
 		"tall"		"50"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		""
@@ -233,7 +233,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty3"
@@ -253,7 +253,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty2"
@@ -273,7 +273,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty1"
@@ -293,7 +293,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty0"

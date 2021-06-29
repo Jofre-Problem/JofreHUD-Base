@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BottomPanel"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"	"TanDarker"
 	}
 	
@@ -18,7 +18,7 @@
 		"zpos"			"10"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "White"
 	}
@@ -33,7 +33,7 @@
 		"zpos"			"10"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 	}
@@ -75,7 +75,7 @@
 		"zpos"			"10"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "White"
 	}
@@ -89,7 +89,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Replay_CancelRender"
@@ -118,7 +118,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"dulltext"		"0"
 		//"brighttext"	"0"

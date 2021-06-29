@@ -10,7 +10,7 @@
 		"tall"		"597"
 		
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"577"
 		
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 	}
@@ -38,7 +38,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Add..."
@@ -59,7 +59,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Edit..."
@@ -80,7 +80,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Delete"
@@ -101,7 +101,7 @@
 		"tall"		"20"
 		
 		"pinCorner"		"3"
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"bm"

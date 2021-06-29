@@ -2,7 +2,7 @@
 {
 	"ItemNameLabel"
 	{	
-		"xpos"			"0"
+		//"xpos"			"0"
 		"ypos"			"10"
 		"wide"			"45"
 		"tall"			"20"

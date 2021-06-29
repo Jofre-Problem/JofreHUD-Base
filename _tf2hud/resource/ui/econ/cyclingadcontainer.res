@@ -11,7 +11,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"			"<"
@@ -21,7 +21,7 @@
 		"textAlignment"	"center"
 
 		"proportionaltoparent"	"1"
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 		"command"	"prev"
 		"actionsignallevel" "2"
 
@@ -46,7 +46,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"			">"
@@ -56,7 +56,7 @@
 		"textAlignment"	"center"
 
 		"proportionaltoparent"	"1"
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 		"command"	"next"
 		"actionsignallevel" "2"
 

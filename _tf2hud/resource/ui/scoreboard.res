@@ -10,7 +10,7 @@
 		"tall"			"448"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"medal_width"		"20"
@@ -34,7 +34,7 @@
 		"tall"			"71"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/score_panel_blue_bg_solid"
 		"scaleImage"		"1"
@@ -53,7 +53,7 @@
 		"zpos"			"20"
 		"wide"			"60"
 		"tall"			"60"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/team_blue"
 		"scaleImage"		"1"
@@ -101,7 +101,7 @@
 		"tall"			"71"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/score_panel_red_bg_solid"
 		"scaleImage"		"1"
@@ -121,7 +121,7 @@
 		"zpos"			"20"
 		"wide"			"80"
 		"tall"			"80"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/team_red"
 		"scaleImage"		"1"
@@ -170,7 +170,7 @@
 		"tall"			"410"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"border"		"TFThinLineBorder"
 		
@@ -216,7 +216,7 @@
 		"tall"			"55"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		if_mvm
@@ -239,7 +239,7 @@
 		"tall"			"55"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		if_mvm
@@ -260,7 +260,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		if_mvm
@@ -304,7 +304,7 @@
 		"tall"			"55"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		if_mvm
@@ -327,7 +327,7 @@
 		"tall"			"55"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		if_mvm
@@ -348,7 +348,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		if_mvm
@@ -377,7 +377,7 @@
 		if_mvm
 		{
 			
-			////"visible"		"1"
+			//"visible"		"1"
 		}
 	}
 	"TimerBG"
@@ -391,7 +391,7 @@
 		"tall"			"43"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"border"		"TFThinLineBorder"
 		
@@ -411,7 +411,7 @@
 		"tall"			"23"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"border"		"TFFatLineBorderOpaque"
 
@@ -434,7 +434,7 @@
 		"tall"			"10"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		if_mvm
@@ -456,7 +456,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor"		"BrightYellow"
 		"centerwrap"	"1"
@@ -485,7 +485,7 @@
 		if_mvm
 		{
 			
-			////"visible"		"1"
+			//"visible"		"1"
 		}
 	}							
 	"BluePlayerList"
@@ -498,7 +498,7 @@
 		"wide"			"310"
 		"tall"			"280"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"autoresize"	"3"
@@ -522,7 +522,7 @@
 		"wide"			"310"
 		"tall"			"280"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"autoresize"	"3"
@@ -572,7 +572,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		if_mvm
@@ -594,7 +594,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		if_mvm
@@ -613,7 +613,7 @@
 		"tall"			"72"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 			
 		"fillcolor"		"0 0 0 153"
@@ -621,7 +621,7 @@
 		
 		if_mvm
 		{
-			////"visible"		"1"
+			//"visible"		"1"
 		}
 	}
 	"ClassImage"
@@ -641,7 +641,7 @@
 		
 		if_mvm
 		{
-			////"visible"		"1"
+			//"visible"		"1"
 		}
 	}
 	"classmodelpanel"
@@ -796,7 +796,7 @@
 		"tall"			"29"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"border"		"TFThinLineBorder"
 		
@@ -819,12 +819,12 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		if_mvm
 		{
-			////"visible"		"1"
+			//"visible"		"1"
 			"wide"			"175"
 		}
 	}
@@ -842,7 +842,7 @@
 		"tall"			"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		if_mvm
@@ -864,7 +864,7 @@
 		"tall"			"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor"		"236 227 203 255"
 
@@ -892,7 +892,7 @@
 		
 		if_mvm
 		{
-			////"visible"		"1"
+			//"visible"		"1"
 		}
 	}
 	"PlayerScoreLabel"
@@ -929,7 +929,7 @@
 		"tall"			"53"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		if_mvm
@@ -951,7 +951,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 
@@ -964,7 +964,7 @@
 			"zpos"			"2"
 			"wide"			"32"
 			"tall"			"32"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"../backpack/player/items/crafting/icon_dueling"
 			"scaleImage"	"1"
@@ -980,7 +980,7 @@
 			"tall"			"53"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 	
 			"AvatarBGPanel"
@@ -992,7 +992,7 @@
 				"zpos"			"-1"
 				"wide"			"36"
 				"tall"			"36"
-				////"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"bgcolor_override"	"TanDark"
 			}
@@ -1005,7 +1005,7 @@
 				
 				"wide"			"32"
 				"tall"			"32"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			""
 				"scaleImage"	"1"	
@@ -1023,7 +1023,7 @@
 				"tall"			"18"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				//"wrap"			"0"
 				"labelText"		"%playername%"
@@ -1043,7 +1043,7 @@
 				"tall"			"20"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"ScoreboardMedium"
 			}
@@ -1059,7 +1059,7 @@
 			"tall"			"53"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 	
 			"AvatarBGPanel"
@@ -1071,7 +1071,7 @@
 				"zpos"			"-1"
 				"wide"			"36"
 				"tall"			"36"
-				////"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"bgcolor_override"	"TanDark"
 			}
@@ -1084,7 +1084,7 @@
 				
 				"wide"			"32"
 				"tall"			"32"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			""
 				"scaleImage"	"1"	
@@ -1102,7 +1102,7 @@
 				"tall"			"18"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				//"wrap"			"0"
 				"labelText"		"%playername%"
@@ -1122,7 +1122,7 @@
 				"tall"			"20"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"ScoreboardMedium"
 			}
@@ -1140,12 +1140,12 @@
 		"tall"			"448"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		if_mvm
 		{
-			////"visible"		"1"
+			//"visible"		"1"
 		}
 
 		"KillsLabel"
@@ -1162,7 +1162,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"DeathsLabel"
@@ -1179,7 +1179,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"AssistsLabel"
@@ -1196,7 +1196,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"DestructionLabel"
@@ -1213,7 +1213,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}												
 		"Kills"
@@ -1230,7 +1230,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"Deaths"
@@ -1247,7 +1247,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}	
 		"GameType"
@@ -1282,7 +1282,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"Destruction"
@@ -1299,7 +1299,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"CapturesLabel"
@@ -1316,7 +1316,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"DefensesLabel"
@@ -1333,7 +1333,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"DominationLabel"
@@ -1350,7 +1350,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"RevengeLabel"
@@ -1367,7 +1367,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"Captures"
@@ -1384,7 +1384,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"Defenses"
@@ -1401,7 +1401,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"Domination"
@@ -1418,7 +1418,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"Revenge"
@@ -1435,7 +1435,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"HealingLabel"
@@ -1452,7 +1452,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"InvulnLabel"
@@ -1469,7 +1469,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"TeleportsLabel"
@@ -1486,7 +1486,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"HeadshotsLabel"
@@ -1503,7 +1503,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"Healing"
@@ -1520,7 +1520,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"Invuln"
@@ -1537,7 +1537,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"Teleports"
@@ -1554,7 +1554,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"Headshots"
@@ -1571,7 +1571,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}						
 		"BackstabsLabel"
@@ -1588,7 +1588,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"Backstabs"
@@ -1605,7 +1605,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}		
 		"BonusLabel"
@@ -1623,7 +1623,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"Bonus"
@@ -1640,7 +1640,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"SupportLabel"
@@ -1657,7 +1657,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"Support"
@@ -1674,7 +1674,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"DamageLabel"
@@ -1691,7 +1691,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"Damage"
@@ -1708,7 +1708,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 	}
@@ -1724,7 +1724,7 @@
 		"tall"			"38"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 			
 		"fillcolor"		"0 0 0 153"
@@ -1740,7 +1740,7 @@
 		"zpos"			"1"
 		"wide"			"539"
 		"tall"			"150"
-		////"visible"		"1"
+		//"visible"		"1"
 										
 		"SelectHintIcon"
 		{
@@ -1754,7 +1754,7 @@
 			"tall"			"38"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"C"
 			"textAlignment"	"Left"
@@ -1774,7 +1774,7 @@
 			"tall"			"39"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"#GameUI_Select"
 			"textAlignment"	"Left"
@@ -1794,7 +1794,7 @@
 			"tall"			"38"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"A"
 			"textAlignment"	"Left"
@@ -1814,7 +1814,7 @@
 			"tall"			"39"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"#TF_ViewGamercard"
 			"textAlignment"	"Left"
@@ -1834,7 +1834,7 @@
 			"tall"			"38"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"X"
 			"textAlignment"	"Left"
@@ -1854,7 +1854,7 @@
 			"tall"			"39"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"#GameUI_PlayerReview"
 			"textAlignment"	"Left"
@@ -1879,7 +1879,7 @@
 		
 		if_mvm
 		{
-			////"visible"		"1"
+			//"visible"		"1"
 		}
 	}
 }

@@ -3,6 +3,6 @@
 {
 	"Background"
 	{
-		"zpos"	"0"
+	//	"zpos"	"0"
 	}
 }

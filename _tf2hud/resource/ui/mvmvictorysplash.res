@@ -8,7 +8,7 @@
 		"ypos"			"c-20"
 		"wide"			"300"
 		"tall"			"300"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"SplashBackground"
 		{
@@ -20,7 +20,7 @@
 			"tall"			"70"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"../hud/ammo_red_bg"
 		}

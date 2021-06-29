@@ -10,7 +10,7 @@
 		"tall"			"256"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	
@@ -24,7 +24,7 @@
 			"tall"			"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"Compile Output"
@@ -45,7 +45,7 @@
 			"UnpinnedCornerOffsetY" "-6"
 			"autoResize"		"3"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			//"textHidden"		"0"

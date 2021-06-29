@@ -10,7 +10,7 @@
 		"tall"		"243"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -19,7 +19,7 @@
 		"ControlName"		"Menu"
 		"fieldName"		"SysMenu"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -38,7 +38,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#TrackerUI_Close"
@@ -58,7 +58,7 @@
 		"tall"		"155"
 		"autoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"maxchars"		"-1"

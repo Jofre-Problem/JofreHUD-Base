@@ -10,7 +10,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_SkillEasy"
@@ -31,7 +31,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_SkillNormal"
@@ -52,7 +52,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_SkillHard"
@@ -73,7 +73,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_SelectDifficulty"
@@ -92,7 +92,7 @@
 		"tall"		"36"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_EasyDescription"
@@ -111,7 +111,7 @@
 		"tall"		"36"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_NormalDescription"
@@ -130,7 +130,7 @@
 		"tall"		"36"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_HardDescription"

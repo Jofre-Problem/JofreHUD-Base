@@ -10,7 +10,7 @@
 		"tall"		"448"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -19,7 +19,7 @@
 		"ControlName"		"Menu"
 		"fieldName"		"SysMenu"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -38,7 +38,7 @@
 		"tall"		"365"
 		"autoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -56,7 +56,7 @@
 		"tall"		"30"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#PropertyDialog_OK"

@@ -10,7 +10,7 @@
 		"tall"		"216"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -19,7 +19,7 @@
 		"ControlName"		"Menu"
 		"fieldName"		"SysMenu"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -38,7 +38,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"#TrackerUI_RemoveUser"
@@ -58,7 +58,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#TrackerUI_Cancel"
@@ -78,7 +78,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"You are about to remove johnc from your contact list."
@@ -96,7 +96,7 @@
 		"tall"		"92"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TrackerUI_WarningNoLongerSeeYou"

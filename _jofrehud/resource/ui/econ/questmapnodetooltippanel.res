@@ -22,7 +22,7 @@
 			"wide"			"f0"
 			"tall"			"f0"
 			"autoResize"	"3"
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"

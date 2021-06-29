@@ -10,7 +10,7 @@
 		"tall"		"204"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -25,7 +25,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TrackerUI_DoYouWantTo"
@@ -43,7 +43,7 @@
 		"tall"		"48"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"test4 wishes to add you to his/her contact list.
@@ -62,7 +62,7 @@ test4@testers.com"
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#TrackerUI_AllowPersonToSeeYou"
@@ -83,7 +83,7 @@ test4@testers.com"
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#TrackerUI_BlockThisPerson"
@@ -104,7 +104,7 @@ test4@testers.com"
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"#TrackerUI_OK"
@@ -124,7 +124,7 @@ test4@testers.com"
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		"labelText"		"#TrackerUI_Cancel"

@@ -9,7 +9,7 @@
 		
 		"wide"			"o4"
 		"tall"			"p1.17"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"proportionaltoparent"	"1"
@@ -25,7 +25,7 @@
 		"zpos"			"1000"
 		"wide"			"f0"
 		"tall"			"f0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"border"		"InnerShadowBorderThin"
 		"proportionaltoparent"	"1"
@@ -41,7 +41,7 @@
 		"zpos"			"-1"
 		"wide"			"f0"
 		"tall"			"f0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"proportionaltoparent"	"1"
@@ -91,7 +91,7 @@
 		"zpos"			"6"
 		"wide"			"122"
 		"tall"			"15"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%button_token%"
 		"textinsetx"	"4"
@@ -107,7 +107,7 @@
 
 		//"border_default"	"MainMenuMiniButtonDefault"
 		//"border_armed"		"MainMenuMiniButtonArmed"
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -145,7 +145,7 @@
 			"zpos"			"2"
 			"wide"			"f0"
 			"tall"			"f0"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"autoResize"	"1"
 			
@@ -169,7 +169,7 @@
 		"tall"			"40"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"fgcolor_override" "TanLight"
@@ -191,7 +191,7 @@
 		"tall"			"40"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"fgcolor_override" "Black"
@@ -237,7 +237,7 @@
 			"zpos"			"1"
 			"wide"			"15"
 			"tall"			"15"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"locked_icon"
 			"scaleImage"	"1"

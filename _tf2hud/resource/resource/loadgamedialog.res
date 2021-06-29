@@ -10,7 +10,7 @@
 		"tall"		"460"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,7 +26,7 @@
 		"tall"		"354"
 		"autoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 	}
@@ -40,7 +40,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_Load"
@@ -61,7 +61,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_Cancel"
@@ -82,7 +82,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_Delete"
@@ -103,7 +103,7 @@
 		"tall"		"36"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_LoadGameHelp"
@@ -117,7 +117,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"topHorizLeft"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -136,7 +136,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"topVertLeft"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -155,7 +155,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"bottomHorizRight"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -174,7 +174,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"bottomVertRight"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		

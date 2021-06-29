@@ -10,7 +10,7 @@
 		"tall"		"140"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,7 +26,7 @@
 		"tall"		"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"progress"		"0.910043"
@@ -41,7 +41,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"#GameUI_Cancel"
@@ -61,7 +61,7 @@
 		"tall"		"48"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Bug_Submitting"

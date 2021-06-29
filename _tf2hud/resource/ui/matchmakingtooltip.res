@@ -44,7 +44,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override"	"TanLight"
 			"auto_wide_tocontents" "1"

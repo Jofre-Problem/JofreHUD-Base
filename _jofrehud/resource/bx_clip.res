@@ -8,7 +8,7 @@
 		"wide"		"150"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -22,7 +22,7 @@
 		"tall"		"96"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -37,7 +37,7 @@
 		"tall"		"103"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"scaleImage"		"0"

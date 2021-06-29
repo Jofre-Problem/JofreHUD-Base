@@ -3,6 +3,6 @@
 	"active_selection_bg"
 	{
 		"fieldName"		"active_selection_bg"
-		"visible"		"1"
+		//"visible"		"1"
 	}
 }	

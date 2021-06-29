@@ -33,13 +33,13 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Dimmer"
 			
-			"ypos"		"0"
+			//"ypos"		"0"
 			"zpos"		"-2"
 			"wide"		"f0"
 			"tall"		"f0"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"bgcolor_override"	"0 0 0 240"
@@ -50,13 +50,13 @@
 			"ControlName"	"Button"
 			"fieldName"		"OutsideCloseButton"
 			
-			"ypos"		"0"
+			//"ypos"		"0"
 			"zpos"		"-1"
 			"wide"		"f0"
 			"tall"		"f0"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"			""
@@ -77,7 +77,7 @@
 			"tall"			"350"
 			"autoResize"	"3"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"border"		"MainMenuBGBorder"
@@ -93,7 +93,7 @@
 				"tall"			"14"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"labeltext"		""
@@ -125,7 +125,7 @@
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"image"			"close_button"
 					"scaleImage"	"1"
@@ -153,7 +153,7 @@
 					
 					"wide"			"200"
 					"tall"			"p0.8"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
@@ -172,7 +172,7 @@
 					
 					"wide"			"o1"
 					"tall"			"40"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"image"			"glyph_alert"
 		
@@ -204,7 +204,7 @@
 					"tall"			"20"
 					
 					"pinCorner"		"3"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"textinsetx"	"25"
@@ -221,7 +221,7 @@
 					"actionsignallevel"	"3"
 			
 				
-					"paintbackground"	"1"
+					//"paintbackground"	"1"
 			
 					"defaultFgColor_override"	"TanLight"
 					"armedFgColor_override"		"TanLight"
@@ -241,7 +241,7 @@
 					"tall"			"20"
 					
 					"pinCorner"		"3"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"textinsetx"	"25"
@@ -296,7 +296,7 @@
 					
 					"wide"			"p1"
 					"tall"			"o1"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"scaleImage"	"1"
 
@@ -364,7 +364,7 @@
 						"zpos"			"1"
 						"wide"			"p0.80"
 						"tall"			"o1"
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						"scaleImage"	"1"
 						"image"			"heavy_pyro_war/winner_screen_pyro"
@@ -381,7 +381,7 @@
 					"zpos"			"2"
 					"wide"			"p1"
 					"tall"			"o1"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"proportionaltoparent" "1"
 
@@ -409,7 +409,7 @@
 							"zpos"			"2"
 							"wide"			"p1"
 							"tall"			"o0.25"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							"scaleImage"	"1"
 							"image"			"heavy_pyro_war/war_screen_foreground"
@@ -428,7 +428,7 @@
 							"zpos"			"2"
 							"wide"			"p1"
 							"tall"			"o0.25"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							"scaleImage"	"1"
 							"image"			"heavy_pyro_war/winner_screen_foreground"
@@ -459,7 +459,7 @@
 					
 					"wide"			"270"
 					"tall"			"200"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"font"			"HudFontMediumBold"
 					"fgcolor_override"	"TanLight"
@@ -517,7 +517,7 @@
 					
 					"wide"			"500"
 					"tall"			"200"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"font"			"HudFontSmall"
 					"fgcolor_override"	"TanLight"
@@ -547,7 +547,7 @@
 					
 					"wide"			"270"
 					"tall"			"200"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"font"			"HudFontMediumBold"
 					"fgcolor_override"	"HUDRedTeamSolid"
@@ -605,7 +605,7 @@
 					
 					"wide"			"f0"
 					"tall"			"200"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"font"			"HudFontSmall"
 					"fgcolor_override"	"TanLight"
@@ -659,7 +659,7 @@
 							
 							"wide"			"p0.8"
 							"tall"			"200"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							"font"			"HudFontSmallest"
 							"fgcolor_override"	"TanLight"
@@ -680,7 +680,7 @@
 							"tall"			"26"
 							
 							"pinCorner"		"3"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							
 							"textinsetx"	"25"
@@ -720,7 +720,7 @@
 							"tall"			"26"
 							
 							"pinCorner"		"3"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							
 							"textinsetx"	"25"
@@ -769,7 +769,7 @@
 							
 							"wide"			"p0.8"
 							"tall"			"50"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							"font"			"HudFontSmallest"
 							"fgcolor_override"	"TanLight"
@@ -787,7 +787,7 @@
 							
 							"wide"			"o1"
 							"tall"			"80"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							"image"			"animated/tf2_logo_hourglass"
 		
@@ -814,7 +814,7 @@
 							
 							"wide"			"p0.8"
 							"tall"			"50"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							"font"			"HudFontSmallestBold"
 							"fgcolor_override"	"TanLight"
@@ -834,7 +834,7 @@
 							"tall"			"26"
 							
 							"pinCorner"		"3"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							
 							"textinsetx"	"25"
@@ -883,7 +883,7 @@
 							"zpos"			"-1"
 							"wide"			"30"
 							"tall"			"o1"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							"scaleImage"	"1"
 							"image"			"glyph_alert"
@@ -901,7 +901,7 @@
 							
 							"wide"			"p0.6"
 							"tall"			"50"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							"font"			"HudFontSmallest"
 							"fgcolor_override"	"TanLight"
@@ -921,7 +921,7 @@
 							"tall"			"26"
 							
 							"pinCorner"		"3"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							
 							"textinsetx"	"25"
@@ -972,7 +972,7 @@
 					"zpos"			"-1"
 					"wide"			"100"
 					"tall"			"o1"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"		"heavy_pyro_war/heavy_logo"
@@ -990,7 +990,7 @@
 					"zpos"			"-1"
 					"wide"			"100"
 					"tall"			"o1"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"		"heavy_pyro_war/pyro_logo"
@@ -1022,7 +1022,7 @@
 						"tall"			"26"
 						
 						"pinCorner"		"3"
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						
 						"textinsetx"	"25"
@@ -1074,7 +1074,7 @@
 						"tall"			"26"
 						
 						"pinCorner"		"3"
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						
 						"textinsetx"	"25"
@@ -1113,7 +1113,7 @@
 					
 					"wide"			"270"
 					"tall"			"200"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"

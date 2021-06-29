@@ -23,7 +23,7 @@
 		"tall"			"34"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"No Owner"
@@ -42,7 +42,7 @@
 		"tall"			"34"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Health: 100%"
@@ -61,7 +61,7 @@
 		"tall"			"48"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"Dismantle"

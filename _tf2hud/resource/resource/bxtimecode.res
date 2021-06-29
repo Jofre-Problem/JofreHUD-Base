@@ -11,7 +11,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -20,12 +20,12 @@
 		"ControlName"		"Label"
 		"fieldName"		"CurTime"
 		"xpos"		"3"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"143"
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"00:00:00:000"
@@ -45,7 +45,7 @@
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -59,7 +59,7 @@
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}

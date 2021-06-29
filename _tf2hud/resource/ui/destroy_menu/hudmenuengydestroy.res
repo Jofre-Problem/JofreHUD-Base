@@ -9,7 +9,7 @@
 		
 		"wide"			"450"
 		"tall"			"170"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"
@@ -37,7 +37,7 @@
 		"zpos"			"1"
 		"wide"			"64"
 		"tall"			"64"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_demolish"
@@ -57,7 +57,7 @@
 		"tall"			"35"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Hud_menu_demolish_title"
 		"textAlignment"	"Left"
@@ -77,7 +77,7 @@
 		"tall"			"38"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Hud_menu_demolish_title"
 		"textAlignment"	"Left"
@@ -97,7 +97,7 @@
 		"tall"			"13"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Build_Cancel"
 		"textAlignment"	"East"
@@ -162,7 +162,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		////"visible"		"1"
+		//"visible"		"1"
 	}	
 	
 	"inactive_item_2"
@@ -174,7 +174,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		////"visible"		"1"
+		//"visible"		"1"
 	}	
 	
 	"inactive_item_3"
@@ -186,7 +186,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		////"visible"		"1"
+		//"visible"		"1"
 	}	
 	
 	"inactive_item_4"
@@ -198,7 +198,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		////"visible"		"1"
+		//"visible"		"1"
 	}	
 
 	"unavailable_item_1"
@@ -210,7 +210,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		////"visible"		"1"
+		//"visible"		"1"
 	}	
 	
 	"unavailable_item_2"
@@ -222,7 +222,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		////"visible"		"1"
+		//"visible"		"1"
 	}	
 	
 	"unavailable_item_3"
@@ -234,7 +234,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		////"visible"		"1"
+		//"visible"		"1"
 	}	
 	
 	"unavailable_item_4"
@@ -246,6 +246,6 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		////"visible"		"1"
+		//"visible"		"1"
 	}
 }

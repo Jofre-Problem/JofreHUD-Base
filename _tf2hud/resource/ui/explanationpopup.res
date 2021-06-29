@@ -13,7 +13,7 @@
 		"tall"			"30"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"proportionaltoparent"	"1"
@@ -34,7 +34,7 @@
 		"tall"			"135"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"proportionaltoparent"	"1"
@@ -52,7 +52,7 @@
 		"wide"			"24"
 		"tall"			"20"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labeltext"		""
@@ -84,7 +84,7 @@
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"close_button"
 			"scaleImage"	"1"
@@ -101,7 +101,7 @@
 		"zpos"			"10"
 		"wide"			"30"
 		"tall"			"30"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labeltext"		""
@@ -133,7 +133,7 @@
 			"zpos"			"1"
 			"wide"			"30"
 			"tall"			"30"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"blog_back"
 			"scaleImage"	"1"
@@ -149,7 +149,7 @@
 		"wide"			"30"
 		"tall"			"30"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labeltext"		""
@@ -181,7 +181,7 @@
 			"zpos"			"1"
 			"wide"			"30"
 			"tall"			"30"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"blog_forward"
 			"scaleImage"	"1"
@@ -199,7 +199,7 @@
 		"zpos"			"-1"
 		"wide"			"300"
 		"tall"			"30"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 		"proportionaltoparent"	"1"

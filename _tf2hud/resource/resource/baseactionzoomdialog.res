@@ -10,7 +10,7 @@
 		"tall"		"300"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -20,12 +20,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"TopGrip"
 		"xpos"		"8"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"384"
 		"tall"		"5"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -39,7 +39,7 @@
 		"tall"		"5"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -53,7 +53,7 @@
 		"tall"		"284"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -62,12 +62,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"RightGrip"
 		"xpos"		"392"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -76,12 +76,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"TopLeftGrip"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -95,7 +95,7 @@
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -109,7 +109,7 @@
 		"tall"		"18"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -118,12 +118,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"CaptionGrip"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"390"
 		"tall"		"23"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -132,7 +132,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"MinimizeButton"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -151,7 +151,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"FrameButton"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -170,7 +170,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"MinimiseToSysTray"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -195,7 +195,7 @@
 		"tall"		"18"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"r"
@@ -214,7 +214,7 @@
 		"tall"		"18"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		//"textAlignment"		"west"
@@ -232,7 +232,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"OK"
@@ -252,7 +252,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Cancel"
@@ -272,7 +272,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -290,7 +290,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -308,7 +308,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -326,7 +326,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -344,7 +344,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -362,7 +362,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -380,7 +380,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -398,7 +398,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Spline"
@@ -417,7 +417,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Stay Out"
@@ -436,7 +436,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Name:"
@@ -454,7 +454,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Start on:"
@@ -472,7 +472,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Final FOV:"
@@ -490,7 +490,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Zoom In Time"
@@ -508,7 +508,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Zoom Out Time"
@@ -526,7 +526,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Hold Time:"

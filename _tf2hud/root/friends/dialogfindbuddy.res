@@ -4,7 +4,7 @@
 	{
 		
 		"enabled"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"tall"		"280"
 		"wide"		"332"
 		"ypos"		"236"

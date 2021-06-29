@@ -11,7 +11,7 @@
 		"tall"		"120"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -27,7 +27,7 @@
 		"tall"		"30"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Open for edit?"

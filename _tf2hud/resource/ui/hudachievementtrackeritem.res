@@ -70,7 +70,7 @@
 		"tall"		"6"
 		"fillcolor"	 "250 234 201 51"
 		"zpos"			"4"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -84,7 +84,7 @@
 		"tall"			"6"
 		"fillcolor"		"251 235 202 255"
 		"zpos"			"5"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 }

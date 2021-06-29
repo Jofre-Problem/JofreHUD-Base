@@ -24,7 +24,7 @@
 		
 		"UnpinnedCornerOffsetX" "-6"
 		"UnpinnedCornerOffsetY" "-64"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -39,7 +39,7 @@
 		
 		"pinCorner"		"2"
 		"PinnedCornerOffsetY" "-36"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Filter:"
@@ -60,7 +60,7 @@
 		"pinCorner"		"2"
 		"PinnedCornerOffsetY" "-36"
 		"UnpinnedCornerOffsetX" "-6"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -80,7 +80,7 @@
 		
 		"pinCorner"		"2"
 		"PinnedCornerOffsetY" "-6"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#VGui_OK"
@@ -103,7 +103,7 @@
 		
 		"pinCorner"		"2"
 		"PinnedCornerOffsetY" "-6"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#VGui_Cancel"

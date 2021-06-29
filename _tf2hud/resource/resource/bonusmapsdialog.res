@@ -10,7 +10,7 @@
 		"tall"		"444"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,7 +26,7 @@
 		"tall"		"280"
 		"autoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 	}
@@ -62,7 +62,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_Load"
@@ -83,7 +83,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_Cancel"
@@ -104,7 +104,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_ImportBonusMapsEllipsis"
@@ -192,7 +192,7 @@
 		"tall"		"36"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_BonusMapsHelp"
@@ -212,7 +212,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textAlignment"		"north-west"
@@ -228,7 +228,7 @@
 		"ypos"		"358"
 		"wide"		"360"
 		"tall"		"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textAlignment"	"north-west"

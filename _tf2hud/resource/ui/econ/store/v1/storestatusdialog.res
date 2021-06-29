@@ -28,7 +28,7 @@
 		"tall"			"90"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"wrap"			"0"
 		"centerwrap"	"1"
@@ -49,7 +49,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Ok"

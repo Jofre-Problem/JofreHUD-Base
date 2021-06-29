@@ -9,7 +9,7 @@
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"480"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"20 20 20 255"
 	}
 	
@@ -50,7 +50,7 @@
 		"ypos"			"130"
 		"wide"			"400"
 		"tall"			"30"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		
 		"IsActive"
@@ -77,7 +77,7 @@
 			
 			"wide"			"400"
 			"tall"			"35"
-			////"visible"		"1"
+			//"visible"		"1"
 			"fgcolor"		"tanlight"
 		}
 	}
@@ -90,7 +90,7 @@
 		"ypos"			"155"
 		"wide"			"400"
 		"tall"			"30"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		
 		"IsActive"
@@ -117,7 +117,7 @@
 			
 			"wide"			"400"
 			"tall"			"35"
-			////"visible"		"1"
+			//"visible"		"1"
 			"fgcolor"		"tanlight"
 		}
 	}
@@ -130,7 +130,7 @@
 		"ypos"			"180"
 		"wide"			"400"
 		"tall"			"35"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		
 		"IsActive"
@@ -157,7 +157,7 @@
 			
 			"wide"			"400"
 			"tall"			"35"
-			////"visible"		"1"
+			//"visible"		"1"
 			"fgcolor"		"tanlight"
 		}
 	}
@@ -197,7 +197,7 @@
 			
 			"wide"			"400"
 			"tall"			"35"
-			////"visible"		"1"
+			//"visible"		"1"
 			"fgcolor"		"tanlight"
 		}
 	}
@@ -237,7 +237,7 @@
 			
 			"wide"			"400"
 			"tall"			"35"
-			////"visible"		"1"
+			//"visible"		"1"
 			"fgcolor"		"tanlight"
 		}
 	}
@@ -286,7 +286,7 @@
 		"wide"			"60"
 		"tall"			"25"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_VR_LessLots"
@@ -312,7 +312,7 @@
 		"wide"			"60"
 		"tall"			"25"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_VR_Less"
@@ -338,7 +338,7 @@
 		"wide"			"60"
 		"tall"			"25"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_VR_More"
@@ -364,7 +364,7 @@
 		"wide"			"60"
 		"tall"			"25"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_VR_MoreLots"
@@ -390,7 +390,7 @@
 		"wide"			"80"
 		"tall"			"25"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_VR_NextAdjust"
@@ -416,7 +416,7 @@
 		"wide"			"80"
 		"tall"			"25"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_VR_Close"

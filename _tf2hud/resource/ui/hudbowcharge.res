@@ -13,7 +13,7 @@
 		"tall"			"6"				
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"

@@ -10,7 +10,7 @@
 		"tall"		"420"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -21,12 +21,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"topGrip"
 		"xpos"		"8"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"384"
 		"tall"		"5"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -40,7 +40,7 @@
 		"tall"		"5"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -54,7 +54,7 @@
 		"tall"		"404"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -68,7 +68,7 @@
 		"tall"		"394"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -77,12 +77,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"tlGrip"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -91,12 +91,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"trGrip"
 		"xpos"		"392"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -110,7 +110,7 @@
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -124,7 +124,7 @@
 		"tall"		"18"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -133,12 +133,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"caption"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"390"
 		"tall"		"23"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -147,7 +147,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"minimize"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -168,7 +168,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"maximize"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -189,7 +189,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"mintosystray"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -216,7 +216,7 @@
 		"tall"		"18"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"r"
@@ -237,7 +237,7 @@
 		"tall"		"18"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		//"textAlignment"		"west"
@@ -257,7 +257,7 @@
 		"tall"		"340"
 		"autoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -271,7 +271,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#FileOpenDialog_Open"
@@ -293,7 +293,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#FileOpenDialog_Cancel"

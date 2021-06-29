@@ -29,7 +29,7 @@
 		"tall"			"60"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"centerwrap"	"1"
 	}
@@ -43,7 +43,7 @@
 		"zpos"			"1"
 		"wide"			"160"
 		"tall"			"120"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
@@ -106,7 +106,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"
@@ -131,7 +131,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_OK"

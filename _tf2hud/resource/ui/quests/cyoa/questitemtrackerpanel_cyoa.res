@@ -38,7 +38,7 @@
 			"wide"			"f0"
 			"tall"			"9"
 			"zpos"			"4"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"proportionaltoparent" "1"
 
@@ -70,7 +70,7 @@
 				"tall"			"f0"
 				"bgcolor_override"		"QuestUncommitted"
 				"zpos"			"2"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"proportionaltoparent" "1"
 
@@ -100,7 +100,7 @@
 				"wide"			"f0"
 				"tall"			"f0"
 				"zpos"			"3"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"proportionaltoparent" "1"
 
@@ -131,7 +131,7 @@
 			"wide"			"f0"
 			"tall"			"6"
 			"zpos"			"4"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"proportionaltoparent" "1"
 
@@ -164,7 +164,7 @@
 				"tall"			"f0"
 				"bgcolor_override"		"QuestUncommitted"
 				"zpos"			"2"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"proportionaltoparent" "1"
 
@@ -195,7 +195,7 @@
 				"wide"			"f0"
 				"tall"			"f0"
 				"zpos"			"3"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"proportionaltoparent" "1"
 
@@ -267,7 +267,7 @@
 		"zpos"			"1"
 		"wide"			"10"
 		"tall"			"10"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"cyoa/star_on"
 		"scaleImage"	"1"
@@ -283,7 +283,7 @@
 		"zpos"			"1"
 		"wide"			"10"
 		"tall"			"10"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"cyoa/star_on"
 		"scaleImage"	"1"
@@ -299,7 +299,7 @@
 		"zpos"			"1"
 		"wide"			"10"
 		"tall"			"10"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"cyoa/star_on"
 		"scaleImage"	"1"
@@ -315,7 +315,7 @@
 		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"10"
-		////"visible"		"1"
+		//"visible"		"1"
 			
 
 		"proportionaltoparent" "1"

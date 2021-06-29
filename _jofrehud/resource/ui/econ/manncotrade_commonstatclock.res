@@ -155,7 +155,7 @@
 				"zpos"			"1"
 				"wide"			"300"
 				"tall"			"300"
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				"wrap"			"1"
 				"labelText"		"#TF_TradeUp_CommonStatClock_Title"
@@ -177,7 +177,7 @@
 				"zpos"			"1"
 				"wide"			"150"
 				"tall"			"50"
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				"labelText"		"#TF_TradeUp_CommonStatClock_desc"
 				"wrap"			"1"
@@ -200,7 +200,7 @@
 				"wide"			"200"
 				"tall"			"300"
 					
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				"labelText"		"#TF_TradeUp_CommonStatClock_output"
 				"mouseinputenabled" "0"
@@ -221,7 +221,7 @@
 				"zpos"			"1"
 				"wide"			"p0.56"
 				"tall"			"300"
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				"labelText"		"#TF_TradeUp_CommonStatClock_input"
 				"mouseinputenabled" "0"
@@ -242,7 +242,7 @@
 				"wide"			"p0.175"
 				"tall"			"p0.085"
 				"pinCorner"		"3"
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				"labelText"		"#TF_CollectionCrafting_Submit"
 				"font"			"HudFontSmall"

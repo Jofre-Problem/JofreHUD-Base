@@ -13,7 +13,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"leftText"		"#GameUI_Low"
@@ -32,7 +32,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"leftText"		"#GameUI_Low"
@@ -51,7 +51,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"6"
 		//"textHidden"		"0"
@@ -73,7 +73,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		//"textHidden"		"0"
@@ -95,7 +95,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -117,7 +117,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"7"
 		//"textHidden"		"0"
@@ -139,7 +139,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_SndMuteLoseFocus"
@@ -167,7 +167,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"8"
 		"labelText"		"#GameUI_ThirdPartyTechCredits"
@@ -196,7 +196,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GAMEUI_AudioSpokenLanguage"
@@ -222,7 +222,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GAMEUI_RequiresRestart"
@@ -248,7 +248,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_SoundEffectVolume"
@@ -275,7 +275,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_MusicVolume"
@@ -302,7 +302,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_SoundQuality"
@@ -329,7 +329,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_SpeakerConfiguration"
@@ -412,7 +412,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Captioning"

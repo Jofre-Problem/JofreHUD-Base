@@ -7,7 +7,7 @@
 		"labelText"		"#TrackerUI_Close"
 		"tabPosition"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"BgColor"		"70 70 70 255"
 		"FgColor"		"255 170 0 255"
 		"tall"		"24"
@@ -24,7 +24,7 @@
 		"labelText"		"#TrackerUI_Reply"
 		"tabPosition"		"2"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"BgColor"		"70 70 70 255"
 		"FgColor"		"255 170 0 255"
 		"tall"		"24"
@@ -40,7 +40,7 @@
 		"labelText"		"test2"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"BgColor"		"70 70 70 255"
 		"fgcolor"		"HUDWhite"
 		"tall"		"20"
@@ -56,7 +56,7 @@
 		"labelText"		"#TrackerUI_MessageFrom"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"BgColor"		"70 70 70 255"
 		"FgColor"		"255 170 0 255"
 		"tall"		"20"
@@ -70,7 +70,7 @@
 	{
 		"tabPosition"		"1"
 		"enabled"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"BgColor"		"100 100 100 255"
 		"FgColor"		"255 170 0 255"
 		"tall"		"128"
@@ -84,7 +84,7 @@
 	{
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"BgColor"		"70 70 70 255"
 		"FgColor"		"255 170 0 255"
 		"tall"		"224"

@@ -10,7 +10,7 @@
 		"tall"		"285"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,7 +26,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"Ok"
@@ -47,7 +47,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		"labelText"		"#FileOpenDialog_Cancel"
@@ -68,7 +68,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Play"
@@ -89,7 +89,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Record"
@@ -110,7 +110,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Recording Into File:"
@@ -130,7 +130,7 @@
 		"autoResize"		"1"
 		"UnpinnedCornerOffsetX" "-20"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		//"textHidden"		"0"
@@ -149,7 +149,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Time Recorded"
@@ -168,7 +168,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		//"textHidden"		"0"
@@ -187,7 +187,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"sec"
@@ -207,7 +207,7 @@
 		"autoResize"		"1"
 		"UnpinnedCornerOffsetX" "-20"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}

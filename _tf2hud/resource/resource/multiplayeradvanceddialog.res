@@ -10,7 +10,7 @@
 		"tall"		"376"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_Cancel"
@@ -43,7 +43,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_OK"
@@ -62,7 +62,7 @@
 		"tall"		"274"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -76,7 +76,7 @@
 		"tall"		"640"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}

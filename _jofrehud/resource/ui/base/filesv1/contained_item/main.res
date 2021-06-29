@@ -4,15 +4,15 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"LoadingSpinner"
-		"xpos"			"0"
+		//"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"1"		
 		"wide"			"f0"
 		"tall"			"f0"
 		"autoResize"	"0"
-		"pinCorner"		"0"
+		//"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"paintborder"	"0"
 		"image"			"animated/tf2_logo_hourglass"
 		"scaleImage"	"1"
@@ -34,7 +34,7 @@
 			"paintborder"	"0"
 			"useparentbg"	"0"
 		
-			"enabled"		"1"
+			//"enabled"		"1"
 		
 			"model_xpos"	"1"
 			"model_ypos"	"1"

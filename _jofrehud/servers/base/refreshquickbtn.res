@@ -7,7 +7,7 @@
 		"fieldName"		"RefreshQuickButton"
 		"ypos"		"244"
 		"tall"		"24"
-		"AutoResize"		"0"
+		//"autoResize"		"0"
 		"PinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"0"

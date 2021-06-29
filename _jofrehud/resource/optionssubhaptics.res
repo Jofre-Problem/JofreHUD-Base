@@ -10,7 +10,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -27,7 +27,7 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		"#GameUI_Low"
@@ -44,7 +44,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -61,7 +61,7 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		"#GameUI_Low"
@@ -78,7 +78,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -95,7 +95,7 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		"#GameUI_Low"
@@ -112,7 +112,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -129,7 +129,7 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		"#GameUI_Low"
@@ -146,7 +146,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -164,7 +164,7 @@
 		"tall"		"64"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		"#GameUI_Low"
@@ -180,7 +180,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -197,7 +197,7 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		"#GameUI_Low"
@@ -214,7 +214,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -231,7 +231,7 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		"#GameUI_Low"
@@ -248,7 +248,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -265,7 +265,7 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		"#GameUI_Low"
@@ -282,7 +282,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -299,7 +299,7 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		"#GameUI_Low"
@@ -316,7 +316,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -334,7 +334,7 @@
 		"tall"		"64"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		"#GameUI_Low"
@@ -350,7 +350,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -367,7 +367,7 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		"#GameUI_Low"
@@ -384,7 +384,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -401,7 +401,7 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		"#GameUI_Low"
@@ -419,7 +419,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -436,7 +436,7 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		"#GameUI_Low"
@@ -453,7 +453,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -472,7 +472,7 @@
 		"tall"		"40"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		"#GameUI_Low"
@@ -489,7 +489,7 @@
 		"tall"		"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"

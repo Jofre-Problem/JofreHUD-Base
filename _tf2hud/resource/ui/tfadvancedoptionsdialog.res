@@ -10,7 +10,7 @@
 		"tall"		"350"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"bgcolor_override"		"TanDarker"
@@ -39,7 +39,7 @@
 		"tall"			"40"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 	}
@@ -54,7 +54,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"
@@ -78,7 +78,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Ok"
@@ -102,7 +102,7 @@
 		"tall"		"260"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"bgcolor_override"	"Blank"
@@ -135,7 +135,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override"	"TanLight"
 			"wrap"			"1"

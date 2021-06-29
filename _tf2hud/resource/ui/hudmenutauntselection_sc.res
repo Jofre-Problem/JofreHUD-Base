@@ -9,7 +9,7 @@
 		
 		"wide"			"470"
 		"tall"			"170"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"
@@ -37,7 +37,7 @@
 		"zpos"			"1"
 		"wide"			"50"
 		"tall"			"50"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_taunt_menu_icon"
@@ -56,7 +56,7 @@
 		"tall"			"38"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Taunt_Title"
 		"textAlignment"	"Left"
@@ -77,7 +77,7 @@
 		"tall"			"38"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Taunt_Title"
 		"textAlignment"	"Left"
@@ -94,7 +94,7 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
@@ -129,7 +129,7 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
@@ -164,7 +164,7 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
@@ -199,7 +199,7 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
@@ -234,7 +234,7 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
@@ -269,7 +269,7 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
@@ -304,7 +304,7 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
@@ -339,7 +339,7 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
@@ -376,7 +376,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_left"
@@ -393,7 +393,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_right"
@@ -410,7 +410,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
@@ -428,7 +428,7 @@
 		"tall"			"39"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Taunt_Title"
 		"textAlignment"	"Left"
@@ -447,7 +447,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_alt_function"
@@ -465,7 +465,7 @@
 		"tall"			"39"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Taunt_Weapon_NoKey"
 		"textAlignment"	"Left"
@@ -484,7 +484,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_cancel"
@@ -503,7 +503,7 @@
 		"tall"			"39"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Cancel"
 		"textAlignment"	"Left"

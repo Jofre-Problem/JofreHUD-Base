@@ -26,14 +26,14 @@
 		"tall"			"120"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"10"
 		"paintbackgroundtype"	"0"
 		"bgcolor_override"	"ReplayBrowser.BgColor"
 		"border"			"EconItemBorder"
 		"paintborder"		"1"
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 		
 	
 		"NameYourTakeLabel"
@@ -50,7 +50,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"10"
 		}
@@ -69,7 +69,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"10"
 		}
@@ -90,7 +90,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"bgcolor_override"		"117 107 95 255"
 			"fgcolor_override"		"202 190 164 255"
@@ -134,7 +134,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"2"
 			"labelText"		"#Replay_Cancel"
@@ -159,7 +159,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"1"
 			"labelText"		"#Replay_SavePerformance"

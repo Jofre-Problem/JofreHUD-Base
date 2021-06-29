@@ -12,7 +12,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"PaintBackgroundType"	"2"
@@ -31,7 +31,7 @@
 		"tall"			"340"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"tileImage"		"0"
@@ -111,7 +111,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Contest_SubmitEntry"
@@ -141,7 +141,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Contest_Details"
@@ -177,7 +177,7 @@
 
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -194,7 +194,7 @@
 		
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"PaintBackgroundType"	"2"
@@ -204,7 +204,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SaxxyTitleImage"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tileImage"		"0"
 			"scaleImage"	"1"
@@ -230,7 +230,7 @@
 			"tall"			"195"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 
 			"fov"			"20"
@@ -263,7 +263,7 @@
 			"tall"			"290"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"PaintBackgroundType"	"2"
@@ -287,7 +287,7 @@
 			"tall"			"290"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		
@@ -308,7 +308,7 @@
 			"tall"			"290"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		

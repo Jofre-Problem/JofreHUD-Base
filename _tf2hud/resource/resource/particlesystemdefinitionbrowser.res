@@ -10,7 +10,7 @@
 		"tall"		"522"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"450"
 		"autoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"PinnedCornerOffsetX" "6"
@@ -42,7 +42,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Create"
@@ -66,7 +66,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Delete"
@@ -90,7 +90,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Copy"
@@ -114,7 +114,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Create From KV"
@@ -138,7 +138,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Save"
@@ -162,7 +162,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Save and Test"
@@ -186,7 +186,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Particle System Definitions:"

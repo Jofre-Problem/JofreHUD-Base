@@ -2,6 +2,6 @@
 {
 	"NameLabel"
 	{
-		"AutoResize"		"0"
+		//"autoResize"		"0"
 	}
 }

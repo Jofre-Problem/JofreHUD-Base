@@ -28,7 +28,7 @@
 		"zpos"			"1"
 		"wide"			"280"
 		"tall"			"80"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/objectives_flagpanel_bg_left"
 		"scaleImage"	"1"	
@@ -59,7 +59,7 @@
 		"zpos"			"1"
 		"wide"			"280"
 		"tall"			"80"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/objectives_flagpanel_bg_right"
 		"scaleImage"	"1"	
@@ -90,7 +90,7 @@
 		"zpos"			"2"
 		"wide"			"280"
 		"tall"			"80"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/objectives_flagpanel_bg_outline"
 		"scaleImage"	"1"	
@@ -124,7 +124,7 @@
 		"tall"			"35"
 		//"tall_hidef"	"100"
 		//"tall_lodef"	"75"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
@@ -162,7 +162,7 @@
 		"tall"			"35"
 		//"tall_hidef"	"100"
 		//"tall_lodef"	"75"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
@@ -200,7 +200,7 @@
 		"tall"			"35"
 		//"tall_hidef"	"100"
 		//"tall_lodef"	"75"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
@@ -238,7 +238,7 @@
 		"tall"			"35"
 		//"tall_hidef"	"100"
 		//"tall_lodef"	"75"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
@@ -273,7 +273,7 @@
 		"zpos"			"9"
 		"wide"			"100"
 		"tall"			"50"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/objectives_flagpanel_carried_outline"
 		"scaleImage"	"1"	
@@ -317,7 +317,7 @@
 		"wide"			"140"	[$WIN32]
 		"wide"			"120"	[$X360]
 		"tall"			"30"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#TF_PlayingTo"
 		"textAlignment"	"center"
@@ -355,7 +355,7 @@
 		"wide"			"140"	[$X360]
 		"tall"			"38"	[$WIN32]
 		"tall"			"35"	[$X360]
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/objectives_flagpanel_bg_playingto"
 		//"image_hidef"	"../hud/objectives_flagpanel_bg_playingto_hidef"
@@ -387,7 +387,7 @@
 		"zpos"			"5"
 		"wide"			"160"
 		"tall"			"90"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"if_hybrid"
@@ -427,7 +427,7 @@
 		"zpos"			"5"
 		"wide"			"160"
 		"tall"			"90"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 				
 		"if_hybrid"

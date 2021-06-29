@@ -106,7 +106,7 @@
 			"ypos"			"r35"
 			"wide"			"640"
 			"tall"			"480"
-			////"visible"		"1"	
+			//"visible"		"1"	
 		}
 		
 		"UpgradeLevel1" 
@@ -119,7 +119,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"image"			"../hud/hud_mvm_bomb_upgrade_1_disabled"
@@ -136,7 +136,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"image"			"../hud/hud_mvm_bomb_upgrade_2_disabled"
@@ -153,7 +153,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"image"			"../hud/hud_mvm_bomb_upgrade_3_disabled"
@@ -233,7 +233,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"../hud/color_panel_red"
 
@@ -255,7 +255,7 @@
 			"ypos"			"400"
 			"wide"			"300"
 			"tall"			"20"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"tanlight"		
 		}

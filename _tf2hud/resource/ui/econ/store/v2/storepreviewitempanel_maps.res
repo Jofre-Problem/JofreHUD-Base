@@ -26,7 +26,7 @@
 		
 		"wide"			"f0"
 		"tall"			"f0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"PaintBackgroundType"	"0"
 		"bgcolor_override" "0 0 0 128"
@@ -42,7 +42,7 @@
 		
 		"wide"			"280"
 		"tall"			"300"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"paintbackground"	"0"
 		"border"		"TFFatLineBorderOpaque"
@@ -58,7 +58,7 @@
 			"zpos"			"1"
 			"wide"			"260"
 			"tall"			"209"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"paintborder"	"1"
 			"border"		"StoreInnerShadowBorder"
@@ -74,11 +74,11 @@
 			"zpos"			"1"
 			"wide"			"275"
 			"tall"			"10"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"paintborder"	"0"
 			"PaintBackgroundType"	"0"
-			"paintbackground"	"1"
+			//"paintbackground"	"1"
 			"bgcolor_override" "50 46 41 255"
 		}
 		
@@ -92,11 +92,11 @@
 			"zpos"			"1"
 			"wide"			"275"
 			"tall"			"58"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"paintborder"	"0"
 			"PaintBackgroundType"	"2"
-			"paintbackground"	"1"
+			//"paintbackground"	"1"
 			"bgcolor_override" "50 46 41 255"
 		}
 	}
@@ -113,7 +113,7 @@
 		"tall"			"220"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"render_texture"	"0"
@@ -152,7 +152,7 @@
 		"zpos"			"1"
 		"wide"			"225"
 		"tall"			"200"
-		////"visible"		"1"
+		//"visible"		"1"
 		"paintbackground"	"0"
 		//"paintborder"	"0"
 		
@@ -188,7 +188,7 @@
 		"tall"			"33"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"centerwrap"	"1"
@@ -203,7 +203,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -219,7 +219,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -235,7 +235,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -251,7 +251,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -267,7 +267,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -283,7 +283,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -302,7 +302,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"<"
@@ -325,7 +325,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		">"
@@ -351,7 +351,7 @@
 		"tall"			"55"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"bgcolor_override"		"Blank"
 		"PaintBackgroundType"	"2"
@@ -372,7 +372,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"<"
@@ -396,7 +396,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		">"
@@ -497,7 +497,7 @@
 		"tall"			"25"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"centerwrap"	"1"
@@ -516,7 +516,7 @@
 		"tall"			"25"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"centerwrap"	"1"
@@ -533,7 +533,7 @@
 		"tall"			"14"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labeltext"		""
@@ -560,7 +560,7 @@
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"close_button"
 			"scaleImage"	"1"
@@ -577,7 +577,7 @@
 		"wide"			"80"
 		"tall"			"22"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_BackCarat"
@@ -602,7 +602,7 @@
 		"wide"			"160"
 		"tall"			"27"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Store_AddToCart"

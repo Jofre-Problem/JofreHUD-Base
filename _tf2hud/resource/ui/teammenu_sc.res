@@ -10,7 +10,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -73,7 +73,7 @@
 		"tall"			"25"
 		"zpos"			"4"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"south-west"
 		
@@ -91,7 +91,7 @@
 		"tall"			"25"
 		"zpos"			"4"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"actionSet"		"InGameHUDControls"
@@ -109,7 +109,7 @@
 		"tall"			"310"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"3"
 		"labelText"		""	[$WIN32]
@@ -154,7 +154,7 @@
 		"tall"			"310"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"4"
 		"labelText"		""
@@ -198,7 +198,7 @@
 		"tall"			"310"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"1"
 		"labelText"		""
@@ -240,7 +240,7 @@
 		"tall"			"57"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		""
@@ -331,7 +331,7 @@
 		"tall"			"30"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		//"visible_lodef"		"0"
 		
 		"labelText"		"#TF_SelectATeam"
@@ -357,7 +357,7 @@
 		"tall"			"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#TF_Random"
 		"textAlignment"	"center"
@@ -383,7 +383,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#TF_Spectate"
 		"textAlignment"	"north"
@@ -406,7 +406,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -440,7 +440,7 @@
 		//"tall_hidef"			"65"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 			
 		"image"			"loadout_bottom_gradient"
@@ -462,7 +462,7 @@
 		"tall"			"30"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%bluecount%"
 		"textAlignment"	"center"
@@ -486,7 +486,7 @@
 		"tall"			"30"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%redcount%"
 		"textAlignment"	"center"
@@ -507,7 +507,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -580,7 +580,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -653,7 +653,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fov"			"20"
 		
@@ -702,7 +702,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fov"			"20"
 		

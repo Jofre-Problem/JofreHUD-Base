@@ -5,12 +5,12 @@
 		"ControlName"		"CToolViewportFullscreenPanel"
 		"fieldName"		"FullscreenViewport"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"784"
 		"tall"		"590"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -19,12 +19,12 @@
 		"ControlName"		"CToolViewportPage"
 		"fieldName"		"Engine"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"784"
 		"tall"		"590"
 		"autoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -39,7 +39,7 @@
 		"tall"		"36"
 		"autoResize"		"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"PinnedCornerOffsetX" "6"
@@ -58,7 +58,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -72,7 +72,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Active Clip:"
@@ -91,7 +91,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"???"
@@ -110,7 +110,7 @@
 		"tall"		"16"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Active Camera:"
@@ -132,7 +132,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"???"
@@ -152,7 +152,7 @@
 		"tall"		"34"
 		"autoResize"		"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		"0.0 s."

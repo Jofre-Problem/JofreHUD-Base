@@ -10,7 +10,7 @@
 		"tall"			"200"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -33,7 +33,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 	}
@@ -52,7 +52,7 @@
 		"tall"			"170"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"centerwrap"	"1"
 		"fgcolor_override" "TanLight"
@@ -69,7 +69,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_CancelBold"
@@ -98,7 +98,7 @@
 		"zpos"			"25"
 		"wide"			"25"
 		"tall"			"25"
-		////"visible"		"1"
+		//"visible"		"1"
 		"actionSet"		"MenuControls"
 		"actionName"	"menu_cancel"
 	}		
@@ -115,7 +115,7 @@
 		//"Default"		"1"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#ConfirmButtonText"
@@ -144,7 +144,7 @@
 		"zpos"			"25"
 		"wide"			"25"
 		"tall"			"25"
-		////"visible"		"1"
+		//"visible"		"1"
 		"actionSet"		"MenuControls"
 		"actionName"	"menu_select"
 	}					

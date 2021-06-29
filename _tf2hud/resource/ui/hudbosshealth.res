@@ -11,7 +11,7 @@
 		"tall"			"50"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"image"			"../hud/halloween_bar_surround"
@@ -41,7 +41,7 @@
 			"tall"			"18"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"image"			"../hud/halloween_bar"
@@ -61,7 +61,7 @@
 		"tall"			"8"				
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"

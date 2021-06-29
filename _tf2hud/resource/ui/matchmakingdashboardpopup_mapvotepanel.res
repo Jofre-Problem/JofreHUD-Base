@@ -38,7 +38,7 @@
 		
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"font"			"HudFontSmallestBold"
@@ -51,7 +51,7 @@
 		"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"3"
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 		"stay_armed_on_click"	"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -67,7 +67,7 @@
 		"zpos"			"10"
 		"wide"			"40"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"font"			"MapVotesPercentage"
 		"fgcolor_override"	"TanLight"
@@ -86,7 +86,7 @@
 		"wide"			"f0"
 		"zpos"			"10"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"font"			"ItemFontAttribSmall"
 		"fgcolor_override"	"TanLight"

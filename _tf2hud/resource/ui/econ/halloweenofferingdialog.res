@@ -123,7 +123,7 @@
 				"wide"			"p0.2"
 				"tall"			"300"
 					
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"labelText"		"#TF_CollectionCrafting_Halloween_Paragraph1"
 				"mouseinputenabled" "0"
@@ -146,7 +146,7 @@
 				"wide"			"p0.2"
 				"tall"			"300"
 					
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"labelText"		"#TF_CollectionCrafting_Halloween_Paragraph2"
 				"mouseinputenabled" "0"
@@ -169,7 +169,7 @@
 				"wide"			"p0.8"
 				"tall"			"300"
 					
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"labelText"		"#TF_CollectionCrafting_Halloween_Paragraph3"
 				"mouseinputenabled" "0"
@@ -192,7 +192,7 @@
 				"wide"			"p0.4"
 				"tall"			"300"
 					
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"labelText"		"#TF_CollectionCrafting_Instructions_Halloween"
 				"mouseinputenabled" "0"

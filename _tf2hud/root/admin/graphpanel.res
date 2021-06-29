@@ -10,7 +10,7 @@
 		"tall"		"332"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"264"
 		"autoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"border"		"ButtonDepressedBorder"
@@ -40,7 +40,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"5"
 		"labelText"		"#Graph_In"
@@ -60,7 +60,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"6"
 		"labelText"		"#Graph_Out"
@@ -80,7 +80,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"8"
 		"labelText"		"#Graph_FPS"
@@ -100,7 +100,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"7"
 		"labelText"		"#Graph_CPU"
@@ -120,7 +120,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#Graph_Ping"
@@ -140,7 +140,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		"labelText"		"#Graph_Players"
@@ -160,7 +160,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		//"textHidden"		"0"
@@ -179,7 +179,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -198,7 +198,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Graph_Total_Players"
@@ -217,7 +217,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"0"
@@ -236,7 +236,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Graph_Vertical_Units"
@@ -255,7 +255,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Graph_Timebase"
@@ -274,7 +274,7 @@
 		"tall"		"16"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"100%"
@@ -293,7 +293,7 @@
 		"tall"		"16"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"50%"
@@ -312,7 +312,7 @@
 		"tall"		"16"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"0%"

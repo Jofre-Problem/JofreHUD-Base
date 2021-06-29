@@ -47,7 +47,7 @@
 			"tall"			"60"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -83,7 +83,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override"	"TanLight"
 			"wrap"			"1"
@@ -101,7 +101,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"proportionaltoparent"	"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"border"		"MainMenuBGBorder"
 
@@ -138,7 +138,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"wrap"			"0"
 			"proportionaltoparent"	"1"
@@ -156,7 +156,7 @@
 			"tall"			"14"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labeltext"		""
@@ -188,7 +188,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -204,7 +204,7 @@
 			"zpos"			"10"
 			"wide"			"p.95"
 			"tall"			"o1"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"proportionaltoparent" "1"
 
@@ -243,7 +243,7 @@
 			"zpos"			"2"
 			"wide"			"30"
 			"tall"			"30"
-			////"visible"		"1"
+			//"visible"		"1"
 			"PaintBackgroundType"	"0"
 			//"paintborder"	"0"
 			"proportionaltoparent"	"1"
@@ -281,7 +281,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"wrap"			"0"
 			"proportionaltoparent"	"1"
@@ -299,7 +299,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"bgcolor_override"	"235 226 202 255" // tanlight
@@ -316,7 +316,7 @@
 				"tall"			"13"				
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				//"dulltext"		"0"
 				//"brighttext"	"0"
@@ -339,7 +339,7 @@
 				"tall"			"f0"					
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				//"wrap"			"0"
 				"proportionaltoparent"	"1"
@@ -361,7 +361,7 @@
 			"tall"			"p.45"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"wrap"			"0"
 			"proportionaltoparent"	"1"
@@ -379,7 +379,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"bgcolor_override"	"235 226 202 255" // tanlight
@@ -396,7 +396,7 @@
 				"tall"			"13"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				//"dulltext"		"0"
 				//"brighttext"	"0"
@@ -419,7 +419,7 @@
 				"tall"			"f0"					
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				//"wrap"			"0"
 				"proportionaltoparent"	"1"

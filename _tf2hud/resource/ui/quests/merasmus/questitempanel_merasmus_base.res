@@ -10,7 +10,7 @@
 		
 		"wide"			"f0"
 		"tall"			"o1.1"
-		////"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"1"
 		"keyboardinputenabled" "1"
@@ -53,7 +53,7 @@
 		{
 			"fieldName"	"ItemTrackerPanel"
 			
-			"ypos"		"0"
+			//"ypos"		"0"
 			"wide"		"f0"
 			"tall"		"f0"
 			"zpos"		"11"
@@ -71,7 +71,7 @@
 				"zpos"			"1"
 				"wide"			"f0"
 				"tall"			"o0.5"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"scaleImage"	"1"
 				"alpha"			"0"
@@ -93,7 +93,7 @@
 					"zpos"			"1"
 					"wide"			"f0"
 					"tall"			"o1"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"			"contracts\halloween\contracts_papers1"
@@ -112,7 +112,7 @@
 					"zpos"			"199"
 					"wide"			"f0"
 					"tall"			"o1"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"			"contracts\halloween\contracts_papers_encoded"
@@ -132,7 +132,7 @@
 					"tall"		"30"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"labelText"			"%title%"
@@ -204,7 +204,7 @@
 						
 						"wide"			"f0"
 						"tall"			"f0"
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						"proportionaltoparent" "1"
 						"bgcolor_override"	"0 0 0 247"
@@ -248,7 +248,7 @@
 						
 						"wide"			"f0"
 						"tall"			"f0"
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						"proportionaltoparent" "1"
 						"bgcolor_override"	"150 255 0 100"
@@ -264,7 +264,7 @@
 						
 						"wide"			"f0"
 						"tall"			"f0"
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						"proportionaltoparent" "1"
 						"bgcolor_override"	"0 0 0 230"
@@ -281,7 +281,7 @@
 						"wide"			"f0"
 						"tall"			"f0"
 						
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						
 						"proportionaltoparent"	"1"
@@ -405,13 +405,13 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"FrontFolderContainer"
 				
-				"ypos"		"0"
+				//"ypos"		"0"
 				"zpos"		"100"
 				"wide"		"f0"
 				"tall"		"f0"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"proportionaltoparent"	"1"
@@ -431,7 +431,7 @@
 					"zpos"			"10"
 					"wide"			"o1"
 					"tall"			"87"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"			"contracts\halloween\contracts_scroll_sleeve"

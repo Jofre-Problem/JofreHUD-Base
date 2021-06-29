@@ -10,7 +10,7 @@
 		"tall"			"45"		
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		
@@ -49,7 +49,7 @@
 		"tall"			"45"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"PaintBackgroundType" "2"
@@ -67,7 +67,7 @@
 		"tall"			"30"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"PaintBackgroundType" "2"
@@ -85,7 +85,7 @@
 		"zpos"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		
@@ -105,7 +105,7 @@
 		"zpos"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		
@@ -125,7 +125,7 @@
 		"zpos"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"wrap"			"1"
@@ -146,7 +146,7 @@
 		"tall"			"45"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"PaintBackgroundType" "2"
@@ -164,7 +164,7 @@
 		"zpos"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		
@@ -198,7 +198,7 @@
 		"zpos"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		

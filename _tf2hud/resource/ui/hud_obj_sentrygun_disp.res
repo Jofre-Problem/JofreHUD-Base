@@ -10,7 +10,7 @@
 		"tall"			"22"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"zpos"			"-1"
 		"wide"			"120"
 		"tall"			"22"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_background_disabled"
@@ -39,7 +39,7 @@
 		"ypos"			"1"
 		"wide"			"15"
 		"tall"			"15"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"obj_status_sentrygun_1"
@@ -54,7 +54,7 @@
 		
 		"wide"			"160"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 
 		"NotBuiltLabel"
 		{
@@ -67,7 +67,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"#Building_hud_disp_sentry_not_built"
 			"textAlignment"	"Left"
@@ -160,7 +160,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"textAlignment"	"Left"
 			//"dulltext"		"0"
@@ -188,7 +188,7 @@
 				"tall"			"12"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"labelText"		"#Building_hud_building"
 				"textAlignment"	"Left"
@@ -207,7 +207,7 @@
 				"tall"			"8"				
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"textAlignment"	"Left"
 				//"dulltext"		"0"
@@ -269,7 +269,7 @@
 				"zpos"			"1"
 				"wide"			"10"
 				"tall"			"10"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"scaleImage"	"1"
 				"image"			"../hud/hud_obj_status_ammo_64"
@@ -287,7 +287,7 @@
 				"tall"			"8"				
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"textAlignment"	"Left"
 				//"dulltext"		"0"

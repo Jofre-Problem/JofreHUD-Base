@@ -10,7 +10,7 @@
 		"tall"			"275"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -25,7 +25,7 @@
 		
 		"wide"			"350"
 		"tall"			"190"
-		////"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"59 54 48 255"
 	}
@@ -44,7 +44,7 @@
 		"tall"			"50"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 	}
@@ -63,7 +63,7 @@
 		"tall"			"100"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"centerwrap"	"1"
 	}
@@ -79,7 +79,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Replay_RenderNow"
@@ -104,7 +104,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Replay_TakeMeToReplays"
@@ -129,7 +129,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Replay_YesReallyQuit"
@@ -158,7 +158,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"dulltext"		"0"
 		//"brighttext"	"0"

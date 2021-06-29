@@ -27,7 +27,7 @@
 		"tall"			"42"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"wrap"			"0"
 		"centerwrap"	"1"
@@ -49,7 +49,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%ellipses%"
 		"textAlignment"		"north"
@@ -69,7 +69,7 @@
 		"tall"			"60"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%duration%"
 		"textAlignment"		"north"
@@ -88,7 +88,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"

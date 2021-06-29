@@ -21,7 +21,7 @@
 			"zpos"			"101"
 			"wide"			"25"
 			"tall"			"o1"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"cyoa/cyoa_directory_icon"
 			"scaleImage"	"1"

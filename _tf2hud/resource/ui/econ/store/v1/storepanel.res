@@ -10,7 +10,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"	"1"
@@ -40,7 +40,7 @@
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"120"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"loadout_header"
 		"tileImage"		"1"
@@ -54,7 +54,7 @@
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"60"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
@@ -68,7 +68,7 @@
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"10"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
@@ -93,7 +93,7 @@
 			"zpos"			"5"
 			"wide"			"f0"
 			"tall"			"10"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"loadout_solid_line"
 			"scaleImage"	"1"
@@ -124,7 +124,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Close"

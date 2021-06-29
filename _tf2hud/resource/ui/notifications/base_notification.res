@@ -11,7 +11,7 @@
 		"tall"			"44"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/score_panel_blue_bg"
 		"scaleImage"	"1"
@@ -25,7 +25,7 @@
 		"ypos"			"9"
 		"wide"			"20"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_notify_sixty_seconds"
@@ -42,7 +42,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"60 seconds until gates open"
 		//"textAlignment"	"west"

@@ -9,7 +9,7 @@
 		"zpos"			"20"
 		"wide"			"20"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 
@@ -37,7 +37,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"Command"		"addtocart"
 		
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 		
 		"defaultBgColor_override"	"76 107 34 255"
 		"ArmedBgColor_override"	"86 117 44 255"
@@ -56,7 +56,7 @@
 			"zpos"			"13"
 			"wide"			"18"
 			"tall"			"18"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"store_cart"
 			"scaleImage"	"1"

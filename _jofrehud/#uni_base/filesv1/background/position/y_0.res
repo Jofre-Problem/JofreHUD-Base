@@ -3,6 +3,6 @@
 {
 	"Background"
 	{
-		"ypos"	"0"
+	//	"ypos"	"0"
 	}
 }

@@ -10,7 +10,7 @@
 		"tall"		"400"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"0"
@@ -22,13 +22,13 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"-100"
 		"wide"		"600"
 		"tall"		"400"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"bgcolor_override"	"0 0 0 255"
@@ -43,7 +43,7 @@
 		"zpos"			"-100"
 		"wide"			"600"
 		"tall"			"400"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"workshop_sandvich_top"
 		"scaleImage"	"1"
@@ -59,7 +59,7 @@
 		"tall"		"45"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"bgcolor_override"	"57 52 49 255"
@@ -91,12 +91,12 @@
 		"ControlName"		"Label"
 		"fieldName"		"NameLabel"
 		"xpos"		"5"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"200"
 		"tall"		"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_ImportFile_NameLabel"
@@ -117,7 +117,7 @@
 		"tall"		"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -141,7 +141,7 @@
 		"tall"		"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_ImportFile_TypeLabel"
@@ -185,12 +185,12 @@
 			"ControlName"		"Label"
 			"fieldName"		"EquipRegionLabel"
 			
-			"ypos"		"0"
+			//"ypos"		"0"
 			"wide"		"150"
 			"tall"		"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_ImportFile_EquipRegionLabel"
@@ -222,7 +222,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"WorkshopIDLabel"
 		"xpos"		"205"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"200"
 		"tall"		"20"
 		
@@ -320,7 +320,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"dulltext"		"0"
 		//"brighttext"	"0"
@@ -340,7 +340,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"dulltext"		"0"
 		//"brighttext"	"0"
@@ -349,7 +349,7 @@
 
 	"IconPanel"
 	{
-		////"visible"		"1"
+		//"visible"		"1"
 
 		"ControlName"	"EditablePanel"
 		"fieldName"		"IconPanel"
@@ -448,13 +448,13 @@
 			"ControlName"		"Label"
 			"fieldName"		"IconLabel"
 			"xpos"		"4"
-			"ypos"		"0"
+			//"ypos"		"0"
 			"zpos"		"2"
 			"wide"		"105"
 			"tall"		"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_ImportFile_IconLabel"
@@ -474,7 +474,7 @@
 		"ypos"			"130"
 		"wide"			"70"
 		"tall"			"219"
-		////"visible"		"1"
+		//"visible"		"1"
 		"paintbackground" "0"
 		"border"				"SteamWorkshopBorder"
 
@@ -488,7 +488,7 @@
 			"tall"		"25"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_ImportFile_Models"
@@ -725,7 +725,7 @@
 		"ypos"			"130"
 		"wide"			"90"
 		"tall"			"219"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"paintbackground" "0"
 		"border"				"SteamWorkshopBorder"
@@ -740,7 +740,7 @@
 			"tall"		"25"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_ImportFile_Bodygroups"
@@ -764,7 +764,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			"enabled"		"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -786,7 +786,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			"enabled"		"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -808,7 +808,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			"enabled"		"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -830,7 +830,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			"enabled"		"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -852,7 +852,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			"enabled"		"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -874,7 +874,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			"enabled"		"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -896,7 +896,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			"enabled"		"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -918,7 +918,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			"enabled"		"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -940,7 +940,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			"enabled"		"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -958,7 +958,7 @@
 		"ypos"			"130"
 		"wide"			"150"
 		"tall"			"270"
-		////"visible"		"1"
+		//"visible"		"1"
 		"paintbackground" "0"
 	
 		"LOD0Panel"
@@ -969,7 +969,7 @@
 			
 			"wide"			"150"
 			"tall"			"50"
-			////"visible"		"1"
+			//"visible"		"1"
 			"paintbackground" "0"
 			"border"				"SteamWorkshopBorder"
 
@@ -1092,7 +1092,7 @@
 			"ypos"			"60"
 			"wide"			"150"
 			"tall"			"50"
-			////"visible"		"1"
+			//"visible"		"1"
 			"paintbackground" "0"
 			"border"				"SteamWorkshopBorder"
 
@@ -1219,7 +1219,7 @@
 			"ypos"			"120"
 			"wide"			"150"
 			"tall"			"50"
-			////"visible"		"1"
+			//"visible"		"1"
 			"paintbackground" "0"
 			"border"				"SteamWorkshopBorder"
 
@@ -1349,7 +1349,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_ImportFile_EditQC"
@@ -1371,7 +1371,7 @@
 		"ypos"			"130"
 		"wide"			"190"
 		"tall"			"219"
-		////"visible"		"1"
+		//"visible"		"1"
 		"paintbackground" "0"
 		"border"				"SteamWorkshopBorder"
 		
@@ -1385,7 +1385,7 @@
 			"tall"		"25"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_ImportFile_Skins"
@@ -1795,7 +1795,7 @@
 		"ypos"			"130"
 		"wide"			"150"
 		"tall"			"219"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"paintbackground" "0"
 
@@ -1807,7 +1807,7 @@
 			
 			"wide"			"150"
 			"tall"			"50"
-			////"visible"		"1"
+			//"visible"		"1"
 			"paintbackground" "0"
 			"border"				"SteamWorkshopBorder"
 
@@ -1930,7 +1930,7 @@
 			"ypos"			"60"
 			"wide"			"150"
 			"tall"			"50"
-			////"visible"		"1"
+			//"visible"		"1"
 			"paintbackground" "0"
 			"border"				"SteamWorkshopBorder"
 
@@ -2059,7 +2059,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -2093,7 +2093,7 @@
 			"proportionaltoparent"	"1"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			"enabled"		"0"
 			"tabPosition"		"1"
 			//"textHidden"		"0"
@@ -2118,7 +2118,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_ImportFile_EditQCI"
@@ -2177,7 +2177,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_Close"
@@ -2199,7 +2199,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_ImportFile_Preview"
@@ -2222,7 +2222,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_ImportFile_Verify"
@@ -2245,7 +2245,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_ImportFile_Build"

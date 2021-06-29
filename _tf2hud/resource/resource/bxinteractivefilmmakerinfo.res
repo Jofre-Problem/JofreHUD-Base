@@ -5,7 +5,7 @@
 		"ControlName"		"CInteractiveFilmMakerInfo"
 		"fieldName"		"BxMovieInfo"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"140"
 		"wide"		"1600"
 		"tall"		"900"
@@ -25,7 +25,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"pos:  -9820 -5600 21"
@@ -45,7 +45,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"roll: 0 pitch 3 yaw -3"

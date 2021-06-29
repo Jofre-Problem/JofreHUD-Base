@@ -29,7 +29,7 @@
 		"zpos"			"1"
 		"wide"			"45"
 		"tall"			"90"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_soldier_blu"
@@ -44,7 +44,7 @@
 		
 		"wide"			"15"
 		"tall"			"15"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
@@ -85,7 +85,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"2"
 		"textAlignment"	"Center"

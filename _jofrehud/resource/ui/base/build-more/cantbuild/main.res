@@ -10,9 +10,9 @@
 		"zpos"			"2"
 		"wide"			"80"
 		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		//"pinCorner"		"0"
+		//"visible"		"1"
+		//"enabled"		"1"
 		"textAlignment"	"Center"
 	}
 }	

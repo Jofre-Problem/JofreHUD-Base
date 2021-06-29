@@ -5,12 +5,12 @@
 		"ControlName"	"CPanelListPanel"
 		"fieldName"		"PanelListPanel"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"f-19"
 		"tall"		"f0"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"proportionalToParent"	"1"

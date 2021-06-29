@@ -3,7 +3,7 @@
 	NotificationQueuePanel
 	{
 		"fieldName"		"NotificationQueuePanel"
-		//"enabled"		"1"	
+		////"enabled"		"1"	
 		"zpos"			"100"
 		"wide"			"200"
 	}	

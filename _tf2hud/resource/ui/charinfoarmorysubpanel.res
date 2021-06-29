@@ -6,7 +6,7 @@
 		"fieldName"		"armory_panel"
 		"wide"			"f0"
 		"zpos"			"501"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		
@@ -74,7 +74,7 @@
 		"tall"			"15"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 	}
@@ -92,7 +92,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 
@@ -110,7 +110,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -153,7 +153,7 @@
 		
 		"wide"			"270"
 		"tall"			"253"
-		////"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 		"border"		"StorePreviewBorder"
@@ -171,7 +171,7 @@
 			"tall"			"125"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"TanLight"
 			"wrap"			"1"
@@ -196,7 +196,7 @@
 		"zpos"			"1"
 		"wide"			"260"
 		"tall"			"135"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"PaintBackgroundType"	"2"
 		//"paintborder"	"0"
@@ -290,7 +290,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"<"
@@ -317,7 +317,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 	}
@@ -333,7 +333,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		">"
@@ -357,7 +357,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#ArmoryButton_Wiki"
@@ -382,7 +382,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#ArmoryButton_SetDetails"

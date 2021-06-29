@@ -10,7 +10,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"	"0"
@@ -46,7 +46,7 @@
 		"tall"			"30"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Button_SkipIntro"
@@ -96,7 +96,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
@@ -119,7 +119,7 @@
 		"tall"			"30"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#TF_Back"
 		"textAlignment"	"center"
@@ -141,7 +141,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
@@ -190,7 +190,7 @@
 		//"tall_hidef"			"65"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 			
 		"image"			"loadout_bottom_gradient"
@@ -209,7 +209,7 @@
 		"tall"			"225"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"start_delay"	"2.0"
 		"end_delay"		"2.0"
@@ -226,7 +226,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fov"			"20"
 		

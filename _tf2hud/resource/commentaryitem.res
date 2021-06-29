@@ -5,7 +5,7 @@
 		"ControlName"		"CCommentaryItemPanel"
 		"fieldName"		"CommentaryItemPanel"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"300"
 		"tall"		"140"
 		

@@ -10,7 +10,7 @@
 		"zpos"			"101"
 		"wide"			"15"
 		"tall"			"15"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"cyoa/cyoa_cash_large"
 		"scaleImage"	"1"
@@ -27,7 +27,7 @@
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"0"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"		"0"
@@ -90,7 +90,7 @@
 		"zpos"			"100"
 		"wide"			"o1"
 		"tall"			"p1.5"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"cyoa/sold_out"
 		"scaleImage"	"1"

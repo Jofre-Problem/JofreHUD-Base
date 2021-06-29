@@ -10,7 +10,7 @@
 		"ypos_minmode"	"0"
 		"wide"			"32"
 		"tall"			"32"
-		////"visible"		"1"
+		//"visible"		"1"
 			
 		"TFFont"		"HudFontSmall"
 		"TextColor"		"HudOffWhite"
@@ -26,7 +26,7 @@
 		"ypos_minmode"	"0"
 		"wide"			"128"
 		"tall"			"128"
-		////"visible"		"1"
+		//"visible"		"1"
 			
 		"TFFont"		"HudFontSmall"
 		"TextColor"		"HudOffWhite"

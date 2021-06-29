@@ -9,7 +9,7 @@
 		"zpos"			"10"
 		"wide"			"f0"
 		"tall"			"o1.1"
-		////"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"1"
 		"keyboardinputenabled" "1"
@@ -81,7 +81,7 @@
 		{
 			"fieldName"	"ItemTrackerPanel"
 			
-			"ypos"		"0"
+			//"ypos"		"0"
 			"wide"		"f0"
 			"tall"		"f0"
 			"zpos"		"11"
@@ -119,7 +119,7 @@
 					"zpos"			"1"
 					"wide"			"f0"
 					"tall"			"o1"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"			"contracts\contracts_papers1"
@@ -152,11 +152,11 @@
 					"ControlName"	"CInputProxyPanel"
 					"fieldName"		"PaperInputProxyPanel"
 					
-					"ypos"		"0"
+					//"ypos"		"0"
 					"zpos"		"100"
 					"wide"		"f0"
 					"tall"		"f0"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 
 					"proportionaltoparent"	"1"
@@ -173,7 +173,7 @@
 					"tall"		"30"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"labelText"			"%title%"
@@ -203,7 +203,7 @@
 					"zpos"			"100"
 					"wide"			"f0"
 					"tall"			"o1"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"			"contracts\contracts_staples1"
@@ -234,7 +234,7 @@
 						
 						"wide"			"f0"
 						"tall"			"f0"
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						"proportionaltoparent" "1"
 						"bgcolor_override"	"0 0 0 247"
@@ -251,7 +251,7 @@
 						"wide"			"f0"
 						"tall"			"f0"
 						
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						
 						"proportionaltoparent"	"1"
@@ -299,7 +299,7 @@
 						
 						"wide"			"f0"
 						"tall"			"f0"
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						"proportionaltoparent" "1"
 						"bgcolor_override"	"150 255 0 100"
@@ -315,7 +315,7 @@
 						
 						"wide"			"f0"
 						"tall"			"f0"
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						"proportionaltoparent" "1"
 						"bgcolor_override"	"0 0 0 230"
@@ -332,7 +332,7 @@
 						"wide"			"f0"
 						"tall"			"f0"
 						
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						
 						"proportionaltoparent"	"1"
@@ -379,7 +379,7 @@
 							"zpos"			"10"
 							"wide"			"f0"
 							"tall"			"f0"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							"proportionaltoparent"	"1"
 							"labelText"		"#QuestLog_TurningIn"
@@ -518,7 +518,7 @@
 					"zpos"			"51"
 					"wide"			"p0.375"
 					"tall"			"o1"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"image"			"contracts/photo_static"
 					"scaleImage"	"1"	
@@ -534,7 +534,7 @@
 					"zpos"			"50"
 					"wide"			"p0.375"
 					"tall"			"o1"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"image"			"quest_pauling"
 					"scaleImage"	"1"	
@@ -550,10 +550,10 @@
 					"zpos"			"101"
 					"wide"			"p.42"
 					"tall"			"15"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"pinCorner"		"3"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"proportionaltoparent"	"1"
@@ -590,7 +590,7 @@
 					"zpos"			"101"
 					"wide"			"p0.53"
 					"tall"			"o1"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"proportionaltoparent"	"1"
 
@@ -626,7 +626,7 @@
 						
 						"wide"			"f0"
 						"tall"			"f0"
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						"image"			"contracts/contracts_papers1_vacation_items"
 						"scaleImage"	"1"	
@@ -642,10 +642,10 @@
 						"zpos"			"1"
 						"wide"			"p.77"
 						"tall"			"15"
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						"pinCorner"		"3"
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						
 						"proportionaltoparent"	"1"
@@ -682,10 +682,10 @@
 						"zpos"			"1"
 						"wide"			"p.77"
 						"tall"			"15"
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						"pinCorner"		"3"
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						
 						"proportionaltoparent"	"1"
@@ -908,13 +908,13 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"BackFolderContainer"
 				
-				"ypos"		"0"
+				//"ypos"		"0"
 				"zpos"		"-5"
 				"wide"		"f0"
 				"tall"		"f0"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"proportionaltoparent"	"1"
@@ -928,7 +928,7 @@
 					
 					"wide"			"f0"
 					"tall"			"o1"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"			"contracts\contracts_folder1_back"
@@ -944,13 +944,13 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"FrontFolderContainer"
 				
-				"ypos"		"0"
+				//"ypos"		"0"
 				"zpos"		"100"
 				"wide"		"f0"
 				"tall"		"f0"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"proportionaltoparent"	"1"
@@ -965,7 +965,7 @@
 					"zpos"			"9"
 					"wide"			"f0"
 					"tall"			"o1"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"scaleImage"	"1"
 					"image"			"contracts\contracts_folder1_front"
@@ -980,11 +980,11 @@
 					"ControlName"	"CInputProxyPanel"
 					"fieldName"		"FrontInputProxyPanel"
 					
-					"ypos"		"0"
+					//"ypos"		"0"
 					"zpos"		"100"
 					"wide"		"f0"
 					"tall"		"f0"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 
 					"proportionaltoparent"	"1"
@@ -1018,7 +1018,7 @@
 							
 							"wide"			"f0"
 							"tall"			"f0"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							"scaleImage"	"1"
 							"image"			"contracts/sticky"
@@ -1080,7 +1080,7 @@
 							
 							"wide"			"f0"
 							"tall"			"f0"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							"scaleImage"	"1"
 							"image"			"contracts/sticky_turn_in"
@@ -1146,7 +1146,7 @@
 							
 							"wide"			"f0"
 							"tall"			"f0"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							"scaleImage"	"1"
 							"image"			"contracts/sticky_inactive"

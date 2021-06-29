@@ -2,6 +2,6 @@
 {
 	"FooterLine"
 	{
-		"xpos"			"0"
+		//"xpos"			"0"
 	}
 }

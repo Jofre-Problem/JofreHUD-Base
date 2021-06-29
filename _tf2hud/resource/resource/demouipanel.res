@@ -10,7 +10,7 @@
 		"tall"		"224"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,7 +26,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"Play"
@@ -47,7 +47,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"Stop"
@@ -68,7 +68,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Load..."
@@ -89,7 +89,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Edit..."
@@ -110,7 +110,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Smooth..."
@@ -131,7 +131,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Drive..."
@@ -152,7 +152,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"|<"
@@ -173,7 +173,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		">|"
@@ -193,7 +193,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		">>"
@@ -213,7 +213,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"<<"
@@ -233,7 +233,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"<"
@@ -254,7 +254,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		">"
@@ -275,7 +275,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
@@ -293,7 +293,7 @@
 		"tall"		"13"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"progress"		"0.000000"
@@ -308,7 +308,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
@@ -326,7 +326,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
@@ -344,7 +344,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -358,7 +358,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"100.00 %"
@@ -377,7 +377,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"Goto:"
@@ -398,7 +398,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -412,7 +412,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"MinimizeButton"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -432,7 +432,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"FrameButton"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -452,7 +452,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"MinimiseToSysTray"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		

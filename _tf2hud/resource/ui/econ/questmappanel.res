@@ -22,7 +22,7 @@
 			"ControlName"	"Panel"
 			"fieldName"		"MouseBlocker"
 			
-			"ypos"		"0"
+			//"ypos"		"0"
 			"zpos"		"10000"
 			"wide"		"f0"
 			"tall"		"f0"
@@ -71,7 +71,7 @@
 				"tall"			"60"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"labelText"		"%attriblist%"
 				"textAlignment"	"center"
@@ -107,7 +107,7 @@
 				"tall"			"30"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"fgcolor_override"	"TanLight"
 				"wrap"			"1"
@@ -126,13 +126,13 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Dimmer"
 			
-			"ypos"		"0"
+			//"ypos"		"0"
 			"zpos"		"-2"
 			"wide"		"f0"
 			"tall"		"f0"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"bgcolor_override"	"20 15 5 230"
@@ -143,13 +143,13 @@
 			"ControlName"	"Button"
 			"fieldName"		"OutsideCloseButton"
 			
-			"ypos"		"0"
+			//"ypos"		"0"
 			"zpos"		"-1"
 			"wide"		"f0"
 			"tall"		"f0"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"			""
@@ -169,7 +169,7 @@
 			"wide"			"700"
 			"tall"			"700"
 			"skip_autoresize"	"1"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"paintborder"		"0"
@@ -185,7 +185,7 @@
 				"tall"			"14"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"labeltext"		""
@@ -217,7 +217,7 @@
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"image"			"close_button"
 					"scaleImage"	"1"
@@ -235,7 +235,7 @@
 				"tall"			"88"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"font"			"HudFontSmallBold"
@@ -266,7 +266,7 @@
 					"zpos"			"1"
 					"wide"			"o1"
 					"tall"			"p1"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"image"			"glyph_store"
 					"scaleImage"	"1"
@@ -319,7 +319,7 @@
 				"tall"			"43"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"font"			"HudFontSmallBold"
@@ -348,7 +348,7 @@
 					"zpos"			"1"
 					"wide"			"o1.81"
 					"tall"			"p1.32"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"image"			"glyph_store"
 					"scaleImage"	"1"
@@ -384,7 +384,7 @@
 				"tall"			"43"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"font"			"HudFontSmallBold"
@@ -413,7 +413,7 @@
 					"zpos"			"1"
 					"wide"			"o1.81"
 					"tall"			"p1.32"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"image"			"glyph_store"
 					"scaleImage"	"1"
@@ -464,7 +464,7 @@
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"image"			"glyph_workshop_edit"
 					"scaleImage"	"1"
@@ -480,7 +480,7 @@
 				"zpos"			"1"
 				"wide"			"700"
 				"tall"			"700"
-				////"visible"		"1"
+				//"visible"		"1"
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"		"0"
 				"keyboardinputenabled"	"0"
@@ -510,7 +510,7 @@
 					"zpos"			"8000"
 					"wide"			"f0"
 					"tall"			"f0"
-					////"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
 					"StaticBG"
@@ -522,7 +522,7 @@
 						
 						"wide"			"f0"
 						"tall"			"f0"
-						////"visible"		"1"
+						//"visible"		"1"
 						"PaintBackgroundType"	"0"
 						"proportionaltoparent"	"1"
 						"mouseinputenabled"		"0"
@@ -542,7 +542,7 @@
 						
 						"wide"			"f0"
 						"tall"			"f0"
-						////"visible"		"1"
+						//"visible"		"1"
 						"proportionaltoparent"	"1"
 
 						"bgcolor_override"	"0 0 0 240"
@@ -627,7 +627,7 @@
 							"zpos"			"1"
 							"wide"			"10"
 							"tall"			"10"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							"scaleImage"	"1"
 							"image"			"info"
@@ -663,7 +663,7 @@
 							"zpos"			"1"
 							"wide"			"10"
 							"tall"			"10"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							"scaleImage"	"1"
 							"image"			"info"
@@ -699,7 +699,7 @@
 							"zpos"			"1"
 							"wide"			"10"
 							"tall"			"10"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							"scaleImage"	"1"
 							"image"			"info"
@@ -730,7 +730,7 @@
 							"zos"			"2"
 							"wide"			"100"
 							"tall"			"20"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							"textAlignment"	"center"	
 							"labelText"		"#TF_QuestMap_Intro_OK"
@@ -745,7 +745,7 @@
 							"proportionaltoparent" "1"
 							"actionsignallevel"	"5"
 
-							"paintbackground"	"1"
+							//"paintbackground"	"1"
 
 							"sound_depressed"	"UI/buttonclick.wav"
 							"sound_released"	"UI/buttonclickrelease.wav"
@@ -993,7 +993,7 @@
 						
 						"wide"			"o1"
 						"tall"			"26"
-						////"visible"		"1"
+						//"visible"		"1"
 						"PaintBackgroundType"	"0"
 						"proportionaltoparent"	"1"
 						"mouseinputenabled"		"0"
@@ -1041,7 +1041,7 @@
 						
 						"wide"			"o1"
 						"tall"			"20"
-						////"visible"		"1"
+						//"visible"		"1"
 						"PaintBackgroundType"	"0"
 						"proportionaltoparent"	"1"
 						"mouseinputenabled"		"0"
@@ -1090,7 +1090,7 @@
 						
 						"wide"			"o1"
 						"tall"			"20"
-						////"visible"		"1"
+						//"visible"		"1"
 						"PaintBackgroundType"	"0"
 						"proportionaltoparent"	"1"
 						"mouseinputenabled"		"0"
@@ -1197,7 +1197,7 @@
 							"wide"			"f15"
 							"tall"			"6"
 							"zpos"			"4"
-							////"visible"		"1"
+							//"visible"		"1"
 							
 							"proportionaltoparent" "1"
 
@@ -1229,7 +1229,7 @@
 								"tall"			"f0"
 								"bgcolor_override"		"QuestUncommitted"
 								"zpos"			"2"
-								////"visible"		"1"
+								//"visible"		"1"
 								
 								"proportionaltoparent" "1"
 
@@ -1260,7 +1260,7 @@
 								"wide"			"f0"
 								"tall"			"f0"
 								"zpos"			"3"
-								////"visible"		"1"
+								//"visible"		"1"
 								
 								"proportionaltoparent" "1"
 
@@ -1308,7 +1308,7 @@
 						"zpos"			"-2"
 						"wide"			"f0"
 						"tall"			"f0"
-						////"visible"		"1"
+						//"visible"		"1"
 						"PaintBackgroundType"	"0"
 						"proportionaltoparent"	"1"
 						"mouseinputenabled"		"0"
@@ -1326,7 +1326,7 @@
 						"zpos"			"-1"
 						"wide"			"f0"
 						"tall"			"f0"
-						////"visible"		"1"
+						//"visible"		"1"
 						"PaintBackgroundType"	"0"
 						"proportionaltoparent"	"1"
 						"mouseinputenabled"		"0"
@@ -1345,7 +1345,7 @@
 						"zpos"			"-2"
 						"wide"			"f0"
 						"tall"			"50"
-						////"visible"		"1"
+						//"visible"		"1"
 						"PaintBackgroundType"	"0"
 						"proportionaltoparent"	"1"
 						"mouseinputenabled"		"0"
@@ -1365,7 +1365,7 @@
 						"tall"			"14"
 						
 						
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						
 						"labeltext"		"#TF_QuestMap_RewardStore_Title"
@@ -1389,7 +1389,7 @@
 						"tall"			"14"
 						
 						
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						
 						"labeltext"		"#TF_QuestMap_RewardStore_Desc"
@@ -1410,7 +1410,7 @@
 						"ypos"			"50"
 						"wide"			"p1"
 						"tall"			"f50"
-						////"visible"		"1"
+						//"visible"		"1"
 						"proportionaltoparent" "1"
 						"mouseinputenabled"	"1"
 						"bottom_buffer"	"50"
@@ -1492,7 +1492,7 @@
 						
 						"wide"			"f0"
 						"tall"			"f0"
-						////"visible"		"1"
+						//"visible"		"1"
 						"PaintBackgroundType"	"0"
 						"proportionaltoparent"	"1"
 						"mouseinputenabled"		"0"
@@ -1513,7 +1513,7 @@
 					"zpos"			"9000"
 					"wide"			"f0"
 					"tall"			"50"
-					////"visible"		"1"
+					//"visible"		"1"
 					"PaintBackgroundType"	"0"
 					"proportionaltoparent"	"1"
 					"mouseinputenabled"		"0"
@@ -1535,7 +1535,7 @@
 					"zpos"			"9000"
 					"wide"			"f0"
 					"tall"			"50"
-					////"visible"		"1"
+					//"visible"		"1"
 					"PaintBackgroundType"	"0"
 					"proportionaltoparent"	"1"
 					"mouseinputenabled"		"0"
@@ -1553,7 +1553,7 @@
 					"zpos"			"8999"
 					"wide"			"f0"
 					"tall"			"f0"
-					////"visible"		"1"
+					//"visible"		"1"
 					"PaintBackgroundType"	"0"
 					"proportionaltoparent"	"1"
 					"mouseinputenabled"		"0"
@@ -1571,7 +1571,7 @@
 					"zpos"			"9000"
 					"wide"			"f0"
 					"tall"			"f0"
-					////"visible"		"1"
+					//"visible"		"1"
 					"PaintBackgroundType"	"0"
 					"proportionaltoparent"	"1"
 					"mouseinputenabled"		"0"

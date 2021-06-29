@@ -9,7 +9,7 @@
 		"zpos"			"1"
 		"wide"			"150"
 		"tall"			"50"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor"		"56 47 29 255"
 		"fgcolor_override"		"56 47 29 255"
@@ -24,7 +24,7 @@
 		"zpos"			"-1"
 		"wide"			"36"
 		"tall"			"36"
-		////"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"TanDark"
 	}
@@ -37,7 +37,7 @@
 		
 		"wide"			"32"
 		"tall"			"32"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			""
 		"scaleImage"	"1"

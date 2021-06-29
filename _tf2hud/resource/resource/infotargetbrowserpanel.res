@@ -10,7 +10,7 @@
 		"tall"		"708"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"636"
 		"autoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 	}
@@ -38,7 +38,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Create Targets"
@@ -60,7 +60,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Delete"
@@ -82,7 +82,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Save"
@@ -104,7 +104,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Restart Map"
@@ -126,7 +126,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Entities:"
@@ -145,7 +145,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Quick Save"
@@ -166,7 +166,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Quick Load"
@@ -187,7 +187,7 @@
 		"tall"		"504"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"

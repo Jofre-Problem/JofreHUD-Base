@@ -10,7 +10,7 @@
 		"tall"		"40"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Miles_Audio"
@@ -30,7 +30,7 @@
 		"tall"		"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Miles_Voice"
@@ -50,7 +50,7 @@
 		"tall"		"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Bink"
@@ -70,7 +70,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_Close"
@@ -91,7 +91,7 @@
 		"tall"		"64"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"textAlignment"		"west"
 		"image"			"techcredits/bink"

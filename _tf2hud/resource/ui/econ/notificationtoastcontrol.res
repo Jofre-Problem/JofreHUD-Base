@@ -9,7 +9,7 @@
 		"zpos"			"1"
 		"wide"			"190"
 		"tall"			"30"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"border"		"NotificationDefault"
 		"if_high_priority"
@@ -66,7 +66,7 @@
 			"zpos"			"1"
 			"wide"			"16"
 			"tall"			"16"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"glyph_close_X"
 			"scaleImage"	"1"
@@ -121,7 +121,7 @@
 			"zpos"			"1"
 			"wide"			"16"
 			"tall"			"16"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"glyph_view"
 			"scaleImage"	"1"
@@ -176,7 +176,7 @@
 			"zpos"			"1"
 			"wide"			"16"
 			"tall"			"16"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"glyph_view"
 			"scaleImage"	"1"
@@ -227,7 +227,7 @@
 			"zpos"			"1"
 			"wide"			"16"
 			"tall"			"16"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"glyph_close_X"
 			"scaleImage"	"1"

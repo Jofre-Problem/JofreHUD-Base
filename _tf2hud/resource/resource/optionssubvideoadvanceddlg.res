@@ -11,7 +11,7 @@
 		"tall"		"358" [$OSX]
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -22,12 +22,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"frame_topGrip"
 		"xpos"		"8"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"466"
 		"tall"		"5"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -41,7 +41,7 @@
 		"tall"		"5"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -55,7 +55,7 @@
 		"tall"		"492"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -69,7 +69,7 @@
 		"tall"		"482"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -78,12 +78,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"frame_tlGrip"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -92,12 +92,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"frame_trGrip"
 		"xpos"		"474"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -111,7 +111,7 @@
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -125,7 +125,7 @@
 		"tall"		"18"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -134,12 +134,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"frame_caption"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"472"
 		"tall"		"23"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -148,7 +148,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"frame_minimize"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -168,7 +168,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"frame_maximize"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -188,7 +188,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"frame_mintosystray"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -214,7 +214,7 @@
 		"tall"		"18"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"r"
@@ -234,7 +234,7 @@
 		"tall"		"18"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
@@ -253,7 +253,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1" [!$POSIX]
+		//"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
 		"enabled"		"0"
 		"tabPosition"		"14"
@@ -273,7 +273,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -292,7 +292,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		//"textHidden"		"0"
@@ -311,7 +311,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"7"
 		//"textHidden"		"0"
@@ -330,7 +330,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"8"
 		//"textHidden"		"0"
@@ -349,7 +349,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"5"
 		//"textHidden"		"0"
@@ -368,7 +368,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1" [!$OSX]
+		//"visible"		"1" [!$OSX]
 		"visible"		"0" [$OSX]
 		
 		"tabPosition"		"12"
@@ -388,7 +388,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		//"textHidden"		"0"
@@ -407,7 +407,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"9"
 		//"textHidden"		"0"
@@ -426,7 +426,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -445,7 +445,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"6"
 		//"textHidden"		"0"
@@ -464,7 +464,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"10"
 		//"textHidden"		"0"
@@ -483,7 +483,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1" [!$OSX]
+		//"visible"		"1" [!$OSX]
 		"visible"		"0" [$OSX]
 		
 		"tabPosition"		"13"
@@ -505,7 +505,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_MotionBlur"
@@ -526,7 +526,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"16"
 		"labelText"		"#GameUI_OK"
@@ -549,7 +549,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"17"
 		"labelText"		"#GameUI_Cancel"
@@ -571,7 +571,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1" [!$POSIX]
+		//"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
 		
 		
@@ -591,7 +591,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1" [!$POSIX]
+		//"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
 		
 		
@@ -611,7 +611,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Model_Detail"
@@ -631,7 +631,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Texture_Detail"
@@ -651,7 +651,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Antialiasing_Mode"
@@ -671,7 +671,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Filtering_Mode"
@@ -691,7 +691,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1" [!$POSIX]
+		//"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
 		
 		
@@ -711,7 +711,7 @@
 		"tall"		"2"
 		
 		
-		////"visible"		"1" [!$POSIX]
+		//"visible"		"1" [!$POSIX]
 		"visible"		"0" [$POSIX]
 		
 		
@@ -726,7 +726,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Water_Detail"
@@ -746,7 +746,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Shadow_Detail"
@@ -766,7 +766,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Color_Correction"
@@ -786,7 +786,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Wait_For_VSync"
@@ -806,7 +806,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Shader_Detail"
@@ -827,7 +827,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_RecommendedSettings"
@@ -847,7 +847,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1" [!$OSX]
+		//"visible"		"1" [!$OSX]
 		"visible"		"0" [$OSX]
 		
 		
@@ -868,7 +868,7 @@
 		"tall"		"2"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -882,7 +882,7 @@
 		"tall"		"420"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -898,7 +898,7 @@
 		"tall"		"50"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"11"
 		"leftText"		"0.00"
@@ -918,7 +918,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_FOV"
@@ -937,7 +937,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_MulticoreRendering"
@@ -956,7 +956,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"10"
 		//"textHidden"		"0"

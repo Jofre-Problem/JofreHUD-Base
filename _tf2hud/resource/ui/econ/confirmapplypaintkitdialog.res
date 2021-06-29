@@ -24,7 +24,7 @@
 		"tall"			"100"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 		"centerwrap"	"1"
@@ -44,7 +44,7 @@
 		"tall"			"100"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "TanLight"
 		"centerwrap"	"1"
@@ -59,7 +59,7 @@
 		"zpos"			"5"
 		"wide"			"300"
 		"tall"			"150"
-		////"visible"		"1"
+		//"visible"		"1"
 		"border"		"StorePreviewBorder"
 		"paintborder"	"1"
 

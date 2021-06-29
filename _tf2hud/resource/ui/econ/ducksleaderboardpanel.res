@@ -10,7 +10,7 @@
 		"tall"			"f0"
 		"autoResize"	"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"PaintBackgroundType"	"0"
@@ -43,7 +43,7 @@
 			"zpos"			"1"
 			"wide"			"100"
 			"tall"			"100"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"animated/tf2_logo_hourglass"
 			"scaleImage"	"1"
@@ -65,7 +65,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override"	"TanLight"
 			"proportionaltoparent" "1"
@@ -101,7 +101,7 @@
 			"tall"			"40"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override"	"TanLight"
@@ -122,7 +122,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override"	"TanLight"
 			"proportionaltoparent" "1"
@@ -142,7 +142,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override"	"TanLight"
 			"proportionaltoparent" "1"
@@ -176,7 +176,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override"	"TanLight"
 			"wrap"			"1"

@@ -10,7 +10,7 @@
 		"tall"		"360"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -25,7 +25,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -43,7 +43,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		//"textHidden"		"0"
@@ -61,7 +61,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"5"
 		//"textHidden"		"0"
@@ -79,7 +79,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -97,7 +97,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"9"
 		"labelText"		"#Start_Server_Button"
@@ -117,7 +117,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"10"
 		"labelText"		"#Start_Server_Cancel"
@@ -137,7 +137,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"8"
 		"labelText"		"#Start_Server_Secure"
@@ -152,7 +152,7 @@
 		"ControlName"		"Menu"
 		"fieldName"		"SysMenu"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -171,7 +171,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		//"textHidden"		"0"
@@ -189,7 +189,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Start_Server_Name_Label"
@@ -208,7 +208,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Start_Server_Max_Players_Label"
@@ -227,7 +227,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Game"
@@ -246,7 +246,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Start_Server_Map_Label"
@@ -265,7 +265,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Start_Server_Network_Label"
@@ -284,7 +284,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"7"
 		//"textHidden"		"0"
@@ -302,7 +302,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Start_Server_RCON_Password"
@@ -321,7 +321,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"UDP Port"
@@ -340,7 +340,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"6"
 		//"textHidden"		"0"

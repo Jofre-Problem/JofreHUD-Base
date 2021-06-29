@@ -8,12 +8,12 @@
 	//	"ypos"			"186"
 		"wide"			"64"
 		"tall"			"16"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		//"autoResize"		"0"
+		//"pinCorner"		"0"
 		"labelText"		""		
 		"textAlignment"		"west"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 	}
 	"LabelPlayerTricks1"
 	{
@@ -23,12 +23,12 @@
 		"ypos"			"81"
 		"wide"			"64"
 		"tall"			"16"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		//"autoResize"		"0"
+		//"pinCorner"		"0"
 		"labelText"		""		
 		"textAlignment"		"west"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 	}
 	"LabelPlayerTricks2"
 	{
@@ -38,12 +38,12 @@
 	//	"ypos"			"186"
 		"wide"			"64"
 		"tall"			"16"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		//"autoResize"		"0"
+		//"pinCorner"		"0"
 		"labelText"		""		
 		"textAlignment"		"west"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 	}
 	"LabelPlayerTricks3"
 	{
@@ -53,11 +53,11 @@
 		"ypos"			"301"
 		"wide"			"64"
 		"tall"			"16"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		//"autoResize"		"0"
+		//"pinCorner"		"0"
 		"labelText"		""		
 		"textAlignment"		"west"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 	}
 }

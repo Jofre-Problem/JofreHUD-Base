@@ -7,10 +7,10 @@
 	{
 		"wide"		"64"
 		"tall"		"24"
-		"autoResize"		"0"
+		//"autoResize"		"0"
 	//	"pinCorner"		"1"
 	//	"visible"		"1"
-	//	"enabled"		"1"
+	//	//"enabled"		"1"
 		"tabPosition"		"0"
 		"labelText"		"Delete"
 		"textAlignment"		"west"

@@ -106,7 +106,7 @@
 			"tall"			"60"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -123,7 +123,7 @@
 		"ypos"			"10"
 		"wide"			"300"
 		"tall"			"300"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	
 		"MannCoImage"
@@ -135,7 +135,7 @@
 			
 			"wide"			"220"
 			"tall"			"80"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"store/store_mannco_logo"
 			"scaleImage"	"1"
@@ -149,7 +149,7 @@
 			"zpos"			"1"
 			"wide"			"275"
 			"tall"			"200"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"store/store_saxton_thumbs_up"
 			"scaleImage"	"1"
@@ -165,7 +165,7 @@
 		"zpos"			"1"
 		"wide"			"140"
 		"tall"			"80"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
@@ -201,7 +201,7 @@
 		"tall"			"70"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}		
 	"FeaturedItemPrice"
@@ -218,7 +218,7 @@
 		"tall"			"50"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}		
 	"FeaturedItemSymbol"
@@ -230,7 +230,7 @@
 		"zpos"			"3"
 		"wide"			"50"
 		"tall"			"50"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"store/store_starburst"
 		"scaleImage"	"1"
@@ -265,7 +265,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Store_StartShopping"
@@ -300,7 +300,7 @@
 			
 			"wide"			"325"
 			"tall"			"40"
-			////"visible"		"1"
+			//"visible"		"1"
 			"border"		"StoreFreeTrialBorder"
 		}
 		
@@ -318,7 +318,7 @@
 			"tall"			"45"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"FreeTrialTitleShadow"
@@ -335,7 +335,7 @@
 			"tall"			"45"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"0 0 0 255"
 		}
@@ -354,7 +354,7 @@
 			"tall"			"40"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 		}
@@ -368,7 +368,7 @@
 			"zpos"			"2"
 			"wide"			"3"
 			"tall"			"5"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"loadout_dotted_line"
 			"tileImage"		"1"
@@ -388,7 +388,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor"		"TanDark"
@@ -402,7 +402,7 @@
 			"zpos"			"2"
 			"wide"			"3"
 			"tall"			"5"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"loadout_dotted_line"
 			"tileImage"		"1"
@@ -422,7 +422,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor"		"TanDark"
@@ -436,7 +436,7 @@
 			"zpos"			"2"
 			"wide"			"3"
 			"tall"			"5"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"loadout_dotted_line"
 			"tileImage"		"1"
@@ -456,7 +456,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor"		"TanDark"
@@ -470,7 +470,7 @@
 			"zpos"			"2"
 			"wide"			"3"
 			"tall"			"5"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"loadout_dotted_line"
 			"tileImage"		"1"
@@ -490,7 +490,7 @@
 			"tall"			"40"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor"		"TanDark"
@@ -510,7 +510,7 @@
 			"tall"			"40"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"Orange"
 		}
@@ -529,7 +529,7 @@
 			"tall"			"60"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 		}
@@ -543,7 +543,7 @@
 			"zpos"			"2"
 			"wide"			"100"
 			"tall"			"100"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"../backpack/player/items/all_class/all_manncap_large"
 			"scaleImage"	"1"

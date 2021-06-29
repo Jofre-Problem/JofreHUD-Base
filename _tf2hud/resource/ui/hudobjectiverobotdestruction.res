@@ -35,7 +35,7 @@
 			
 			"wide"			"20"
 			"tall"			"20"
-			////"visible"		"1"
+			//"visible"		"1"
 			"bgcolor_override"		"Blank"
 			"PaintBackgroundType"	"0"
 			//"paintborder"	"0"
@@ -56,7 +56,7 @@
 		"wide"			"140"	[$WIN32]
 		"wide"			"120"	[$X360]
 		"tall"			"30"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#TF_PlayingTo"
 		"textAlignment"	"center"
@@ -94,7 +94,7 @@
 		"wide"			"140"	[$X360]
 		"tall"			"38"	[$WIN32]
 		"tall"			"35"	[$X360]
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/objectives_flagpanel_bg_playingto"
 		//"image_hidef"	"../hud/objectives_flagpanel_bg_playingto_hidef"
@@ -138,7 +138,7 @@
 			"zpos"			"10"
 			"wide"			"f0"
 			"tall"			"f0"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"../hud/obj_rd_powersupply_outline"
 			"scaleImage"	"1"
@@ -179,7 +179,7 @@
 			"tall"			"35"
 			//"tall_hidef"	"100"
 			//"tall_lodef"	"75"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"textAlignment"	"center"	
 			"labelText"		"%flagvalue%"
@@ -201,7 +201,7 @@
 			"tall"			"35"
 			//"tall_hidef"	"100"
 			//"tall_lodef"	"75"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"textAlignment"	"center"	
 			"labelText"		"%flagvalue%"
@@ -277,7 +277,7 @@
 					"zpos"			"8"
 					"wide"			"95"
 					"tall"			"35"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
@@ -295,7 +295,7 @@
 					"zpos"			"7"
 					"wide"			"95"
 					"tall"			"35"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
@@ -313,7 +313,7 @@
 					"zpos"			"8"
 					"wide"			"55"
 					"tall"			"35"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
@@ -335,7 +335,7 @@
 					"zpos"			"7"
 					"wide"			"55"
 					"tall"			"35"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
@@ -421,7 +421,7 @@
 					"zpos"			"8"
 					"wide"			"90"
 					"tall"			"35"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
@@ -439,7 +439,7 @@
 					"zpos"			"7"
 					"wide"			"90"
 					"tall"			"35"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
@@ -457,7 +457,7 @@
 					"zpos"			"8"
 					"wide"			"55"
 					"tall"			"35"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
@@ -479,7 +479,7 @@
 					"zpos"			"7"
 					"wide"			"55"
 					"tall"			"35"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
@@ -567,7 +567,7 @@
 				"zpos"			"8"
 				"wide"			"55"
 				"tall"			"35"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				//"textAlignment"	"west"	
 				"labelText"		"%score%"
@@ -587,7 +587,7 @@
 				"zpos"			"7"
 				"wide"			"55"
 				"tall"			"35"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				//"textAlignment"	"west"	
 				"labelText"		"%score%"
@@ -622,7 +622,7 @@
 				"zpos"			"8"
 				"wide"			"55"
 				"tall"			"35"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"textAlignment"	"east"	
 				"labelText"		"%score%"
@@ -642,7 +642,7 @@
 				"zpos"			"7"
 				"wide"			"55"
 				"tall"			"35"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"textAlignment"	"east"	
 				"labelText"		"%score%"
@@ -708,7 +708,7 @@
 					
 					"wide"			"f0"
 					"tall"			"20"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"image"			"../HUD/obj_rd_thief_dropped_blue"
 					"scaleImage"	"1"
@@ -725,7 +725,7 @@
 				"zpos"			"12"
 				"wide"			"f0"
 				"tall"			"20"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
@@ -744,7 +744,7 @@
 				"zpos"			"11"
 				"wide"			"f0"
 				"tall"			"20"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
@@ -808,7 +808,7 @@
 					
 					"wide"			"f0"
 					"tall"			"20"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"image"			"../HUD/obj_rd_thief_dropped_red"
 					"scaleImage"	"1"
@@ -825,7 +825,7 @@
 				"zpos"			"12"
 				"wide"			"f0"
 				"tall"			"20"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
@@ -844,7 +844,7 @@
 				"zpos"			"11"
 				"wide"			"f0"
 				"tall"			"20"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"

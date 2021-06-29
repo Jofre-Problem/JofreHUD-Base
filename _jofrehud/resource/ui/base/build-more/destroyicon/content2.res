@@ -2,7 +2,7 @@
 {
 	"ClassIcon"
 	{	
-		"xpos"			"0"
+		//"xpos"			"0"
 		"wide"			"64"
 		"tall"			"64"	
 	}	

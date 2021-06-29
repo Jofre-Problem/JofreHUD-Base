@@ -10,7 +10,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"	"1"
@@ -26,7 +26,7 @@
 			"tall"		"24"
 			
 			"pinCorner"		"2"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"Ok"
@@ -46,7 +46,7 @@
 			"tall"		"24"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"1"
 			"labelText"		"Cancel"
@@ -66,7 +66,7 @@
 			"tall"			"420"
 			"AutoResize"	"3"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 		}

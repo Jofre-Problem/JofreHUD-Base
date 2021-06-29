@@ -44,7 +44,7 @@
 		
 		//"visible"			"1"
 		
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 		"bgcolor_override"	"40 37 37 255"
 		"border"			"ButtonBorder"
 		
@@ -62,7 +62,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		
@@ -79,7 +79,7 @@
 			"tall"			"100"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 		}
@@ -97,7 +97,7 @@
 			"tall"			"15"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "116 108 101 255"
 		}
@@ -110,7 +110,7 @@
 			"ypos"			"110"
 			"wide"			"70"
 			"tall"			"70"
-			////"visible"		"1"
+			//"visible"		"1"
 			"tileImage"		"0"
 			"scaleImage"	"1"
 		}
@@ -123,7 +123,7 @@
 			"ypos"			"110"
 			"wide"			"70"
 			"tall"			"70"
-			////"visible"		"1"
+			//"visible"		"1"
 			"tileImage"		"0"
 			"scaleImage"	"1"
 		}
@@ -136,7 +136,7 @@
 			"ypos"			"110"
 			"wide"			"70"
 			"tall"			"70"
-			////"visible"		"1"
+			//"visible"		"1"
 			"tileImage"		"0"
 			"scaleImage"	"1"
 		}
@@ -154,7 +154,7 @@
 			"tall"			"15"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		
@@ -171,7 +171,7 @@
 			"tall"			"15"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		
@@ -188,7 +188,7 @@
 			"tall"			"15"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 	}
@@ -202,7 +202,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"200"
-		////"visible"		"1"
+		//"visible"		"1"
 		"tileImage"		"0"
 		"scaleImage"	"1"
 	}
@@ -215,7 +215,7 @@
 		"ypos"			"20"
 		"wide"			"50"
 		"tall"			"50"
-		////"visible"		"1"
+		//"visible"		"1"
 		"tileImage"		"0"
 		"scaleImage"	"1"
 		"alpha"			"32"

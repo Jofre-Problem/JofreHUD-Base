@@ -24,7 +24,7 @@
 		"tall"			"34"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"No Owner"
@@ -43,7 +43,7 @@
 		"tall"			"34"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Shells:  0 / 0"
@@ -62,7 +62,7 @@
 		"tall"		"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"progress"		"0.0"
@@ -97,7 +97,7 @@
 		"tall"			"32"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"Rotate Left 45"
@@ -143,7 +143,7 @@
 		"tall"			"32"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"Rotate 180"
@@ -189,7 +189,7 @@
 		"tall"			"32"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"Rotate Right 45"
@@ -235,7 +235,7 @@
 		"tall"			"34"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Health: 100%"
@@ -254,7 +254,7 @@
 		"tall"			"48"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"Dismantle"
@@ -306,7 +306,7 @@
 			"tall"			"34"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"Gone in"
@@ -325,7 +325,7 @@
 			"tall"			"34"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"5 seconds"
@@ -344,7 +344,7 @@
 			"tall"			"48"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"2"
 			"labelText"		"Cancel"
@@ -396,7 +396,7 @@
 			"tall"			"44"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"2"
 			"labelText"		"Buy"

@@ -29,7 +29,7 @@
 		"ypos"			"4"
 		"wide"			"56"
 		"tall"			"56"
-		////"visible"		"1"
+		//"visible"		"1"
 		"scaleImage"		"1"
 	}
 			

@@ -4,8 +4,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MessageLabel"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		//"enabled"		"1"
 		"wrap"			"1"
 	}
 }	

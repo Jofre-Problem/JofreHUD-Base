@@ -9,7 +9,7 @@
 		
 		
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 	}
 	
@@ -20,7 +20,7 @@
 		
 		
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"render_texture"	"0"
@@ -54,7 +54,7 @@
 		"fieldName"		"PreviewItemModelPanel"
 		
 		"zpos"			"1"
-		//"visible"		"1"
+		////"visible"		"1"
 
 		//"paintborder"	"0"
 		
@@ -84,7 +84,7 @@
 		"zpos"			"13"
 		"wide"			"30"
 		"tall"			"20"
-		//"visible"		"1"
+		////"visible"		"1"
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"0"
@@ -99,7 +99,7 @@
 			"zpos"			"-10"
 			"wide"			"26"
 			"tall"			"16"
-			//"visible"		"1"
+			////"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
 			"bgcolor_override" "51 47 46 255"
@@ -138,7 +138,7 @@
 		"zpos"			"13"
 		"wide"			"30"
 		"tall"			"20"
-		//"visible"		"1"
+		////"visible"		"1"
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"0"
@@ -153,7 +153,7 @@
 			"zpos"			"-10"
 			"wide"			"26"
 			"tall"			"16"
-			//"visible"		"1"
+			////"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
 			"bgcolor_override" "51 47 46 255"
@@ -192,7 +192,7 @@
 		"zpos"			"13"
 		"wide"			"30"
 		"tall"			"20"
-		//"visible"		"1"
+		////"visible"		"1"
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"0"
@@ -207,7 +207,7 @@
 			"zpos"			"-10"
 			"wide"			"26"
 			"tall"			"16"
-			//"visible"		"1"
+			////"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
 			"bgcolor_override" "51 47 46 255"
@@ -246,7 +246,7 @@
 		"zpos"			"13"
 		"wide"			"30"
 		"tall"			"20"
-		//"visible"		"1"
+		////"visible"		"1"
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"0"
@@ -261,7 +261,7 @@
 			"zpos"			"-10"
 			"wide"			"26"
 			"tall"			"16"
-			//"visible"		"1"
+			////"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
 			"bgcolor_override" "51 47 46 255"
@@ -300,7 +300,7 @@
 		"zpos"			"13"
 		"wide"			"30"
 		"tall"			"20"
-		//"visible"		"1"
+		////"visible"		"1"
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"0"
@@ -315,7 +315,7 @@
 			"zpos"			"-10"
 			"wide"			"26"
 			"tall"			"16"
-			//"visible"		"1"
+			////"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
 			"bgcolor_override" "51 47 46 255"
@@ -354,7 +354,7 @@
 		"tall"			"15"
 		
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"<"
@@ -375,7 +375,7 @@
 		"tall"			"15"
 		
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		">"
@@ -399,7 +399,7 @@
 		"tall"			"55"
 		"autoResize"	"1"
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		"bgcolor_override"		"Blank"
 		"PaintBackgroundType"	"2"
@@ -419,7 +419,7 @@
 		"tall"			"20"
 		
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"<"
@@ -440,7 +440,7 @@
 		"tall"			"20"
 		
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		">"
@@ -485,7 +485,7 @@
 		"tall"			"25"
 		"autoResize"	"1"
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"centerwrap"	"1"
@@ -504,7 +504,7 @@
 		"tall"			"25"
 		"autoResize"	"1"
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		"wrap"			"1"
 		"centerwrap"	"1"

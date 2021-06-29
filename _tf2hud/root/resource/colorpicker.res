@@ -10,7 +10,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"	"1"
@@ -26,7 +26,7 @@
 			"tall"			"256"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 		}
@@ -41,7 +41,7 @@
 			"tall"			"268"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 		}
@@ -56,7 +56,7 @@
 			"tall"			"50"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 		}
@@ -71,7 +71,7 @@
 			"tall"			"50"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 		}
@@ -86,7 +86,7 @@
 			"tall"			"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"selected"		"1"
 			"tabPosition"		"8"
@@ -94,7 +94,7 @@
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
-			"wrap"				"0"
+			//"wrap"				"0"
 			"Default"			"0"
 			"SubTabPosition"	"1"
 		}
@@ -109,14 +109,14 @@
 			"tall"			"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"8"
 			"labelText"			"S"
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
-			"wrap"				"0"
+			//"wrap"				"0"
 			"Default"			"0"
 			"SubTabPosition"	"2"
 		}
@@ -131,14 +131,14 @@
 			"tall"			"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"8"
 			"labelText"			"V"
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
-			"wrap"				"0"
+			//"wrap"				"0"
 			"Default"			"0"
 			"SubTabPosition"	"3"
 		}
@@ -153,14 +153,14 @@
 			"tall"			"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"8"
 			"labelText"			"R"
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
-			"wrap"				"0"
+			//"wrap"				"0"
 			"Default"			"0"
 			"SubTabPosition"	"4"
 		}
@@ -175,14 +175,14 @@
 			"tall"			"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"8"
 			"labelText"			"G"
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
-			"wrap"				"0"
+			//"wrap"				"0"
 			"Default"			"0"
 			"SubTabPosition"	"5"
 		}
@@ -197,14 +197,14 @@
 			"tall"			"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"8"
 			"labelText"			"B"
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
-			"wrap"				"0"
+			//"wrap"				"0"
 			"Default"			"0"
 			"SubTabPosition"	"6"
 		}
@@ -219,7 +219,7 @@
 			"tall"			"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			"tabPosition"		"1"
@@ -239,7 +239,7 @@
 			"tall"			"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			"tabPosition"		"2"
@@ -259,7 +259,7 @@
 			"tall"			"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			
@@ -279,7 +279,7 @@
 			"tall"			"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			"tabPosition"		"3"
@@ -299,7 +299,7 @@
 			"tall"			"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			
@@ -319,7 +319,7 @@
 			"tall"			"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			"tabPosition"		"4"
@@ -339,7 +339,7 @@
 			"tall"			"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			"tabPosition"		"5"
@@ -360,7 +360,7 @@
 			"NumericInputOnly" "1"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"6"
 			"labelText"			""
@@ -380,7 +380,7 @@
 			"NumericInputOnly" "1"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"		"7"
 			"labelText"			""
@@ -399,7 +399,7 @@
 			"tall"			"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			

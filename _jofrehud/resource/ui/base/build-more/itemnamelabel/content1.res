@@ -6,6 +6,6 @@
 		"ypos"			"0"
 		"wide"			"84"
 		"tall"			"15"
-		"visible"		"1"
+		//"visible"		"1"
 	}	
 }	

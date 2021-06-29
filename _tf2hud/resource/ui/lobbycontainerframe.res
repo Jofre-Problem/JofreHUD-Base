@@ -10,7 +10,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"	"1"
@@ -42,7 +42,7 @@
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"120"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"loadout_header"
 		"tileImage"		"1"
@@ -56,7 +56,7 @@
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"60"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
@@ -70,7 +70,7 @@
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"10"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
@@ -95,7 +95,7 @@
 			"zpos"			"5"
 			"wide"			"f0"
 			"tall"			"10"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"loadout_solid_line"
 			"scaleImage"	"1"
@@ -126,7 +126,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -150,7 +150,7 @@
 			"zpos"			"1"
 			"wide"			"16"
 			"tall"			"16"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"glyph_options"
 			"scaleImage"	"1"
@@ -168,7 +168,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"font"			"HudFontSmallBold"
@@ -224,7 +224,7 @@
 			"zpos"			"2"
 			"wide"			"200"
 			"tall"			"40"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"autoResize"	"1"
 			
@@ -243,7 +243,7 @@
 		"tall"			"25"
 		
 		//"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"font"			"HudFontSmallBold"
@@ -271,7 +271,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_Matchmaking_StartParty"

@@ -10,7 +10,7 @@
 		"tall"		"292"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -27,7 +27,7 @@
 		"tall"		"44"
 		"AutoResize"		"1"
 		"PinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"paintbackground"		"1"
@@ -47,7 +47,7 @@
 		"tall"		"134"
 		"AutoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"paintbackground"		"1"
@@ -63,7 +63,7 @@
 		"tall"		"44"
 		
 		"PinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"paintbackground"		"1"
@@ -83,7 +83,7 @@
 		"tall"		"18"
 		"AutoResize"		"1"
 		"PinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -102,7 +102,7 @@
 		"tall"		"24"
 		"AutoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"

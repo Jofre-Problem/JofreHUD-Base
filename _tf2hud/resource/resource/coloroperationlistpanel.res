@@ -11,7 +11,7 @@
 		"tall"			"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"center"
 		//"dulltext"		"0"
@@ -29,7 +29,7 @@
 		"tall"			"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"center"
 		//"dulltext"		"0"
@@ -47,7 +47,7 @@
 		"tall"			"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"center"
 		//"dulltext"		"0"
@@ -65,7 +65,7 @@
 		"tall"			"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"center"
 		//"dulltext"		"0"
@@ -83,7 +83,7 @@
 		"tall"			"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"center"
 		//"dulltext"		"0"

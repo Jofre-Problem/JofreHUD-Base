@@ -10,7 +10,7 @@
 		"tall"			"150"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"PaintBackgroundType"	"2"
@@ -31,7 +31,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"wrap"			"0"
 	}
@@ -52,7 +52,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"fgcolor_override"		"0 0 0 255"
@@ -75,7 +75,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"dulltext"		"0"
 		//"brighttext"	"0"
@@ -97,7 +97,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Cancel"
@@ -122,7 +122,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Contest_Rules"
@@ -147,7 +147,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Contest_Submit"

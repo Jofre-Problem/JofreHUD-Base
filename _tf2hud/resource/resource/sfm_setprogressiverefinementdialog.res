@@ -10,7 +10,7 @@
 		"tall"		"170"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -21,12 +21,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"frame_topGrip"
 		"xpos"		"8"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"334"
 		"tall"		"5"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -40,7 +40,7 @@
 		"tall"		"5"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -54,7 +54,7 @@
 		"tall"		"154"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -68,7 +68,7 @@
 		"tall"		"144"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -77,12 +77,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"frame_tlGrip"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -91,12 +91,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"frame_trGrip"
 		"xpos"		"342"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -110,7 +110,7 @@
 		"tall"		"8"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -124,7 +124,7 @@
 		"tall"		"18"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -133,12 +133,12 @@
 		"ControlName"		"Panel"
 		"fieldName"		"frame_caption"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"340"
 		"tall"		"23"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -147,7 +147,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"frame_minimize"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -167,7 +167,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"frame_maximize"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -187,7 +187,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"frame_mintosystray"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -208,7 +208,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"frame_close"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -233,7 +233,7 @@
 		"tall"		"18"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
@@ -252,7 +252,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"7"
 		"labelText"		"#vgui_ok"
@@ -273,7 +273,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"8"
 		"labelText"		"#vgui_Cancel"
@@ -294,7 +294,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"Progressive Refinement"
@@ -314,7 +314,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"Depth of Field"
@@ -334,7 +334,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"# Samples:"
@@ -353,7 +353,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -372,7 +372,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"Motion Blur"
@@ -392,7 +392,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"# Samples:"
@@ -411,7 +411,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"5"
 		//"textHidden"		"0"
@@ -430,7 +430,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"6"
 		"labelText"		"Subpixel Jitter AA"

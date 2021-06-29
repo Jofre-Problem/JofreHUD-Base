@@ -10,7 +10,7 @@
 		"tall"		"418"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -19,7 +19,7 @@
 		"ControlName"		"Menu"
 		"fieldName"		"SysMenu"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -38,7 +38,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#baseGames_Refresh"
@@ -58,7 +58,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#baseGames_AddIP"
@@ -78,7 +78,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"7"
 		"labelText"		"#baseGames_Manage"
@@ -97,7 +97,7 @@
 		"tall"		"290"
 		"autoResize"	"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 	}
@@ -111,7 +111,7 @@
 		"tall"		"20"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textAlignment"		"north-west"
@@ -123,7 +123,7 @@
 		"ControlName"		"Menu"
 		"fieldName"		"ServerContextMenu"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -141,7 +141,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"#baseGames_Options"
@@ -161,7 +161,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"5"
 		"labelText"		"#baseGames_Start_Local"
@@ -181,7 +181,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"6"
 		"labelText"		"#baseGames_Remove"

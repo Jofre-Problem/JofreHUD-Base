@@ -98,7 +98,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 		
 		"image_default"		"replay/info_button_small"
 		"image_armed"		"replay/info_button_over_small"
@@ -112,7 +112,7 @@
 			"zpos"			"1"
 			"wide"			"20"
 			"tall"			"20"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"scaleImage"	"1"
 		}	
@@ -127,7 +127,7 @@
 		"tall"			"18"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Replay_YouTubeUpload"
@@ -149,7 +149,7 @@
 		"tall"			"18"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"#Replay_YouTubeView"
@@ -171,7 +171,7 @@
 		"tall"			"18"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"#Replay_YouTubeShareURL"
@@ -194,7 +194,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#X_Delete"
 		"font"			"ReplayMedium"
@@ -222,7 +222,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Replay_Watch"
@@ -249,7 +249,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Replay_RenderEllipsis"
 		"font"			"ReplayMedium"

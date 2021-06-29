@@ -9,7 +9,7 @@
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"f0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"proportionaltoparent" "1"
 
@@ -44,11 +44,11 @@
 			"ControlName"	"CExButton"
 			"fieldName"		"SelectButton"
 			
-			"ypos"		"0"
+			//"ypos"		"0"
 			
 			"wide"		"f0"
 			"tall"		"f0"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"textAlignment"	"east"
 			"labelText"			""
@@ -69,7 +69,7 @@
 		"zpos"			"-100"
 		"wide"			"f0"
 		"tall"			"o1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"
 		"image"			"contracts\contracts_base1"

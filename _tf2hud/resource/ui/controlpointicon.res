@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"	"ControlPointIcon"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"2"
 		"wide"		"33"
 		"wide_minmode"		"21"
@@ -20,7 +20,7 @@
 		"ControlName"	"CControlPointCountdown"
 		"fieldName"	"Countdown"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"4"
 		"wide"		"33"
 		"wide_minmode"		"21"
@@ -36,7 +36,7 @@
 		"fieldName"	"CapPlayerImage"
 		
 		"xpos_minmode"		"0"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"ypos_minmode"		"0"
 		"zpos"		"3"
 		"wide"		"10"
@@ -66,7 +66,7 @@
 		"tall_minmode"			"21"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#ControlPointIconCappers"
 		//"textAlignment"		"west"
@@ -80,7 +80,7 @@
 		"fieldName"	"OverlayImage"
 		"xpos"		"19"
 		"xpos_minmode"		"12"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"ypos_minmode"		"0"
 		"zpos"		"4"
 		"wide"		"14"

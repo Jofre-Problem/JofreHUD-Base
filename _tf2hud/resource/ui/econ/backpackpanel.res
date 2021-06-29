@@ -9,7 +9,7 @@
 		"wide"			"f0"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -56,7 +56,7 @@
 				"ControlName"	"CExButton"
 				"wide"			"25"
 				"tall"			"13"
-				////"visible"		"1"
+				//"visible"		"1"
 				"bgcolor_override"		"Blank"
 				"noitem_textcolor"		"117 107 94 255"
 				"PaintBackgroundType"	"2"
@@ -167,7 +167,7 @@
 		"tall"			"15"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 	}
@@ -185,7 +185,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -211,7 +211,7 @@
 		"ControlName"		"ComboBox"
 		"fieldName"			"ShowRarityComboBox"
 		"Font"				"HudFontSmallestBold"
-		"wrap"				"0"
+		//"wrap"				"0"
 		"xpos"				"c-85"
 		"ypos"				"37"
 		"zpos"				"1"
@@ -251,7 +251,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"dulltext"		"0"
 		//"brighttext"	"0"
@@ -271,7 +271,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor"		"StoreDarkTan"
 	}
@@ -286,7 +286,7 @@
 		"tall"		"19"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -359,7 +359,7 @@
 			"tall"			"60"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -409,7 +409,7 @@
 	//	"tall"			"20"
 	//	
 	//	
-	//	////"visible"		"1"
+	//	//"visible"		"1"
 	//	
 	//	
 	//	"labelText"		"<"
@@ -436,7 +436,7 @@
 	//	"tall"			"20"
 	//	"autoResize"	"1"
 	//	
-	//	////"visible"		"1"
+	//	//"visible"		"1"
 	//	
 	//	"fgcolor_override" "LightRed"
 	//}
@@ -452,7 +452,7 @@
 	//	"tall"			"20"
 	//	
 	//	
-	//	////"visible"		"1"
+	//	//"visible"		"1"
 	//	
 	//	
 	//	"labelText"		">"
@@ -549,7 +549,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"?"
@@ -599,7 +599,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -618,7 +618,7 @@
 			"tall"			"85"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -635,7 +635,7 @@
 			"tall"			"14"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labeltext"		""
@@ -665,7 +665,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -685,7 +685,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 		}
@@ -700,7 +700,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labeltext"		""
@@ -730,7 +730,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -774,7 +774,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -793,7 +793,7 @@
 			"tall"			"45"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -810,7 +810,7 @@
 			"tall"			"14"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labeltext"		""
@@ -840,7 +840,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -857,7 +857,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labeltext"		""
@@ -887,7 +887,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -907,7 +907,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 		}
@@ -922,7 +922,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labeltext"		""
@@ -952,7 +952,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -996,7 +996,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1015,7 +1015,7 @@
 			"tall"			"135"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1032,7 +1032,7 @@
 			"tall"			"14"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labeltext"		""
@@ -1062,7 +1062,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -1079,7 +1079,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labeltext"		""
@@ -1109,7 +1109,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -1126,7 +1126,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labeltext"		""
@@ -1156,7 +1156,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -1176,7 +1176,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 		}
@@ -1218,7 +1218,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1237,7 +1237,7 @@
 			"tall"			"135"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1254,7 +1254,7 @@
 			"tall"			"14"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labeltext"		""
@@ -1284,7 +1284,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -1301,7 +1301,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labeltext"		""
@@ -1331,7 +1331,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -1348,7 +1348,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labeltext"		""
@@ -1378,7 +1378,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -1398,7 +1398,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 		}
@@ -1439,7 +1439,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1458,7 +1458,7 @@
 			"tall"			"135"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1475,7 +1475,7 @@
 			"tall"			"14"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labeltext"		""
@@ -1505,7 +1505,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -1522,7 +1522,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labeltext"		""
@@ -1552,7 +1552,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -1572,7 +1572,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 		}

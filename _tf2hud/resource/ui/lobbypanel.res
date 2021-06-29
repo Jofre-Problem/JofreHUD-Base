@@ -49,7 +49,7 @@
 			"tall"			"10"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override"	"TanLight"
 			"auto_wide_tocontents"	"1"
@@ -61,7 +61,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"NoGCGroupBox"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"1000"
 		"wide"		"f0"
 		"tall"		"f0"
@@ -113,7 +113,7 @@
 			
 			"wide"			"o1"
 			"tall"			"80"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"animated/tf2_logo_hourglass"
 		
@@ -126,7 +126,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MatchInProgressGroupBox"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"1000"
 		"wide"		"f0"
 		"tall"		"f0"
@@ -178,7 +178,7 @@
 			
 			"wide"			"o1"
 			"tall"			"80"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"animated/tf2_logo_hourglass"
 		
@@ -541,7 +541,7 @@
 				
 				"wide"			"50"
 				"tall"			"50"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"mouseinputenabled" "0"
 				"image"			"pve/mvm_timeout_active_large"
@@ -554,7 +554,7 @@
 				"font"			"HudFontSmall"
 				"labelText"		"#TF_Matchmaking_PartyPenalty"
 				"xpos"		"60"
-				"ypos"		"0"
+				//"ypos"		"0"
 				"zpos"			"2"
 				"wide"		"275"
 				"tall"		"60"
@@ -604,7 +604,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"PartyGroupBox"
 			
-			"ypos"		"0"
+			//"ypos"		"0"
 			"zpos"		"-1"
 			"wide"		"200"
 			"tall"		"160"
@@ -640,7 +640,7 @@
 				"tall"			"20"
 				
 				//"pinCorner"		"3"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"labelText"		"#TF_Matchmaking_Invite"

@@ -8,7 +8,7 @@
 		
 		"wide"			"f0"
 		"tall"			"480"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		
@@ -89,7 +89,7 @@
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"50"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"loadout_header"
 		"tileImage"		"1"
@@ -103,7 +103,7 @@
 		"zpos"			"5"
 		"wide"			"f0"
 		"tall"			"10"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
@@ -123,7 +123,7 @@
 		"tall"			"15"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 	}
@@ -141,7 +141,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 
@@ -154,7 +154,7 @@
 		"zpos"			"2"
 		"wide"			"36"
 		"tall"			"36"
-		////"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"TanDark"
 
@@ -167,7 +167,7 @@
 			"zpos"			"1"
 			"wide"			"32"
 			"tall"			"32"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			""
 			"scaleImage"	"1"	
@@ -189,7 +189,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "HudOffWhite"
 	}
@@ -207,7 +207,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"fgcolor_override" "117 107 94 255"
@@ -227,7 +227,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "HudOffWhite"
 	}
@@ -245,7 +245,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"fgcolor_override" "117 107 94 255"
@@ -281,7 +281,7 @@
 		"tall"			"40"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -308,7 +308,7 @@
 		"zpos"			"2"
 		"wide"			"36"
 		"tall"			"36"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"bgcolor_override" "TanDarker"
 	}
@@ -321,7 +321,7 @@
 		"zpos"			"3"
 		"wide"			"40"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"checkmark"
 		"scaleImage"	"1"	
@@ -342,7 +342,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"centerwrap"	"1"
@@ -363,7 +363,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "HudOffWhite"
 	}
@@ -381,7 +381,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"fgcolor_override" "117 107 94 255"
@@ -415,7 +415,7 @@
 		"zpos"			"1"
 		"wide"			"40"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"bgcolor_override" "117 107 94 255"
 		
@@ -428,7 +428,7 @@
 			"zpos"			"1"
 			"wide"			"36"
 			"tall"			"36"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"bgcolor_override" "TanDarker"
 		}
@@ -442,7 +442,7 @@
 		"zpos"			"2"
 		"wide"			"40"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"checkmark"
 		"scaleImage"	"1"	
@@ -462,7 +462,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"centerwrap"	"1"
@@ -574,7 +574,7 @@
 			"tall"			"60"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -623,7 +623,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"#BackpackShowDetails"
@@ -648,7 +648,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"<"
@@ -674,7 +674,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 	}
@@ -689,7 +689,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		">"
@@ -798,7 +798,7 @@
 		"tall"			"40"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"#TF_TradeWindow_WaitingForTrade"
@@ -824,7 +824,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"

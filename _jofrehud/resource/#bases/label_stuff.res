@@ -14,7 +14,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -36,7 +36,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Cancel"

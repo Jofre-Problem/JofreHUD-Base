@@ -11,7 +11,7 @@
 		"tall"			"f0"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -26,9 +26,9 @@
 		
 		"wide"			"f0"
 		"tall"			"f0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override" "0 0 0 128"
 	}
@@ -43,7 +43,7 @@
 		
 		"wide"			"240"
 		"tall"			"300"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"paintbackground"	"0"
 		"border"		"TFFatLineBorderOpaque"
@@ -59,7 +59,7 @@
 			"zpos"			"1"
 			"wide"			"220"
 			"tall"			"209"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"paintborder"	"1"
 			"border"		"StoreInnerShadowBorder"
@@ -76,11 +76,11 @@
 			"zpos"			"1"
 			"wide"			"235"
 			"tall"			"10"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"paintborder"	"0"
 			"PaintBackgroundType"	"0"
-			"paintbackground"	"1"
+			//"paintbackground"	"1"
 			"bgcolor_override" "50 46 41 255"
 		}
 		
@@ -94,11 +94,11 @@
 			"zpos"			"1"
 			"wide"			"235"
 			"tall"			"58"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"paintborder"	"0"
 			"PaintBackgroundType"	"2"
-			"paintbackground"	"1"
+			//"paintbackground"	"1"
 			"bgcolor_override" "50 46 41 255"
 		}
 		
@@ -116,7 +116,7 @@
 			"tall"			"200"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 		}	
@@ -130,7 +130,7 @@
 			"zpos"			"2"
 			"wide"			"150"
 			"tall"			"150"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"../backpack/player/items/all_class/world_traveller_large"
 			"scaleImage"	"1"
@@ -148,7 +148,7 @@
 		"tall"			"14"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labeltext"		""
@@ -175,7 +175,7 @@
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"close_button"
 			"scaleImage"	"1"
@@ -192,7 +192,7 @@
 		"wide"			"80"
 		"tall"			"22"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_BackCarat"

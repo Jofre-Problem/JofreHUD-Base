@@ -9,7 +9,7 @@
 		"wide"			"f0"
 		"tall"			"400"
 		"zpos"			"501"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		
@@ -118,7 +118,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"HudOffWhite"
 			"wrap"			"1"
@@ -138,7 +138,7 @@
 			"tall"			"25"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"TanDark"
 		}
@@ -156,7 +156,7 @@
 			"tall"			"25"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"TanDark"
 		}
@@ -190,7 +190,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			"enabled"		"0"
 			
 			"labelText"		"#CraftConfirm"
@@ -215,7 +215,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"<"
@@ -241,7 +241,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 		}
@@ -256,7 +256,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		">"
@@ -316,7 +316,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -337,7 +337,7 @@
 			"tall"			"25"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"HudOffWhite"
 			"wrap"			"1"
@@ -354,7 +354,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#Cancel"
@@ -379,7 +379,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"<"
@@ -405,7 +405,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 		}
@@ -420,7 +420,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		">"
@@ -465,7 +465,7 @@
 			"tall"			"60"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"

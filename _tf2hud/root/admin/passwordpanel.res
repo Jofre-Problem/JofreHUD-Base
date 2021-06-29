@@ -10,7 +10,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -27,7 +27,7 @@
 		"tall"		"16"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Password_Panel_Old"
 		//"textAlignment"		"west"
@@ -44,7 +44,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		//"textHidden"		"0"
@@ -61,7 +61,7 @@
 		"tall"		"16"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Password_Panel_New"
 		//"textAlignment"		"west"
@@ -78,7 +78,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -95,7 +95,7 @@
 		"tall"		"16"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Password_Panel_Confirm"
 		//"textAlignment"		"west"
@@ -112,7 +112,7 @@
 		"tall"		"16"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Password_Panel_Player"
 		//"textAlignment"		"west"
@@ -129,7 +129,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		//"textHidden"		"0"
@@ -146,7 +146,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"5"
 		"labelText"		"#Password_Panel_Remove"

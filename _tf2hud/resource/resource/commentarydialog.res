@@ -10,7 +10,7 @@
 		"tall"		"300"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,7 +26,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"COMMENTARY MODE IS CURRENTLY: OFF"
@@ -46,7 +46,7 @@
 		"tall"		"60"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GAMEUI_LostCoastHasCommentary"
@@ -65,7 +65,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#GAMEUI_Commentary_TurnOn"
@@ -87,7 +87,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"#GAMEUI_Commentary_LeaveOff"
@@ -109,7 +109,7 @@
 		"tall"			"64"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"image"			"hud/icon_commentary"
@@ -124,7 +124,7 @@
 		"tall"			"64"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"image"			"hud/icon_commentary_off"

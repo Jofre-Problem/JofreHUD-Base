@@ -36,7 +36,7 @@
 		"wide"			"f0"
 		"tall"			"30"
 		"zpos"			"10"
-		//"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 
@@ -107,7 +107,7 @@
 			"wide"			"f0"
 			"tall"			"100"
 			"zpos"			"10"
-			//"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 
 			"font"			"AdFont_AdText"
@@ -129,7 +129,7 @@
 		"zpos"			"9"
 		"wide"			"o1.5"
 		"tall"			"p.9"
-		//"visible"		"1"
+		////"visible"		"1"
 		"PaintBackgroundType"	"2"
 		//"paintborder"	"0"
 		"proportionaltoparent"	"1"

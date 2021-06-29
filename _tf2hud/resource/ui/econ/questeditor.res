@@ -9,7 +9,7 @@
 		"zpos"			"2"
 		"wide"			"1400"
 		"tall"			"p0.8"
-		////"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"P4Warning"
@@ -35,7 +35,7 @@
 			"tall"			"30"
 			
 			"pinCorner"		"1"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			//"labelText"		"#GameUI_GameMenu_Options"
@@ -62,7 +62,7 @@
 				"zpos"			"1"
 				"wide"			"p0.8"
 				"tall"			"p0.8"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"scaleImage"	"1"
 				"image"			"glyph_options"
@@ -231,7 +231,7 @@
 			"zpos"			"2"
 			"wide"			"p0.6"
 			"tall"			"p0.9"
-			////"visible"		"1"
+			//"visible"		"1"
 			"proportionaltoparent"	"1"
 			"PaintBackgroundType"	"2"
 			"fgcolor_override"	"118 107 94 255"	// Gets copied to the scrollbar fgcolor as part of ScrollableEditablePanel

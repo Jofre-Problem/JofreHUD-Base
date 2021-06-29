@@ -5,12 +5,12 @@
 		"ControlName"	"CSteamWorkshopItemPanel"
 		"fieldName"		"SteamWorkshopItem"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"125"
 		"tall"		"200"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"bgcolor_override"	"0 0 0 240"
@@ -52,7 +52,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%title%"

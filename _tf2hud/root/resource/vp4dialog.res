@@ -10,7 +10,7 @@
 		"tall"		"768"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,7 +26,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -45,7 +45,7 @@
 		"tall"		"670"
 		"AutoResize"		"2"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -59,7 +59,7 @@
 		"tall"		"704"
 		"AutoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}

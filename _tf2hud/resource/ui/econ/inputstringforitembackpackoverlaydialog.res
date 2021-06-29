@@ -79,7 +79,7 @@
 			"tall"			"60"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -102,7 +102,7 @@
 		"tall"			"60"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"centerwrap"	"1"
 		"proportionalToParent"	"1"
@@ -117,7 +117,7 @@
 		"zpos"			"1"
 		"wide"			"120"
 		"tall"			"90"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
@@ -157,7 +157,7 @@
 		"tall"			"60"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"centerwrap"	"1"
 		"proportionalToParent"	"1"
@@ -178,7 +178,7 @@
 		"fgcolor"		"ItemAttribPositive"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"centerwrap"	"1"
 		"proportionalToParent"	"1"
@@ -198,7 +198,7 @@
 		"tall"			"60"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"centerwrap"	"1"
 		"proportionalToParent"	"1"
@@ -215,7 +215,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"proportionalToParent"	"1"
 	}
@@ -231,7 +231,7 @@
 		"wide"				"200"
 		"tall"				"15"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
@@ -254,7 +254,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"#ShuffleContents"
@@ -281,7 +281,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"1"
 		"labelText"		"#TF_VR_Close"
@@ -308,7 +308,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"#GetKey"
@@ -334,7 +334,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"2"
 		"labelText"		"#UseKey"

@@ -9,7 +9,7 @@
 		
 		"wide"			"f0"
 		"tall"			"f0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"proportionaltoparent" "1"
 		"skip_autoresize"	"1"
@@ -28,7 +28,7 @@
 			"tall"			"f0"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"wrap"			"0"
 			"proportionaltoparent"	"1"
@@ -45,7 +45,7 @@
 			"wide"			"80"
 			"tall"			"60"
 			"proportionaltoparent"	"1"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"paintborder"	"0"
 	
@@ -58,7 +58,7 @@
 				"zpos"			"5"
 				"wide"			"f0"
 				"tall"			"f0"
-				////"visible"		"1"
+				//"visible"		"1"
 				"bgcolor_override"		"Blank"
 				"noitem_textcolor"		"117 107 94 255"
 				"PaintBackgroundType"	"2"

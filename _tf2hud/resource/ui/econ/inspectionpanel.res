@@ -9,7 +9,7 @@
 		"zpos"			"1"
 		"wide"			"o1"
 		"tall"			"p0.75"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"item_carousel_bg"
 		"scaleImage"	"1"
@@ -25,7 +25,7 @@
 		"zpos"			"5"
 		"wide"			"f0"
 		"tall"			"200"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
@@ -57,7 +57,7 @@
 		"zpos"			"5"
 		"wide"			"o1.5"
 		"tall"			"p0.8"
-		////"visible"		"1"
+		//"visible"		"1"
 
 		"proportionaltoparent"	"1"
 
@@ -185,7 +185,7 @@
 				"zpos"			"7"
 				"wide"			"19"
 				"tall"			"19"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"scaleImage"	"1"
 			}				
@@ -293,7 +293,7 @@
 				"zpos"			"1"
 				"wide"			"8"
 				"tall"			"8"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"glyph_workshop_edit"
 				"scaleImage"	"1"
@@ -306,7 +306,7 @@
 			"ControlName"		"ComboBox"
 			"fieldName"			"ComboBoxValidPaintkits"
 			"Font"				"HudFontSmallest"
-			"wrap"				"0"
+			//"wrap"				"0"
 			"xpos"				"rs1-10"
 			"ypos"				"10"
 			"zpos"				"100"
@@ -352,7 +352,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override"	"235 227 203 255"
 
@@ -367,7 +367,7 @@
 			"ControlName"		"ComboBox"
 			"fieldName"			"ComboBoxValidItems"
 			"Font"				"HudFontSmallest"
-			"wrap"				"0"
+			//"wrap"				"0"
 			"xpos"				"rs1-10"
 			"ypos"				"30"
 			"fixed_paintkit"
@@ -422,7 +422,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override"	"235 227 203 255"
 
@@ -486,7 +486,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override"	"235 227 203 255"
 
@@ -519,7 +519,7 @@
 			"wide"			"70"
 			"tall"			"20"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_ItemPreview_PaintkitSeed"
@@ -559,7 +559,7 @@
 			"wide"			"115"
 			"tall"			"20"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"actionsignallevel" "2"
@@ -597,7 +597,7 @@
 			"textAlignment"	"center"
 		
 			"proportionaltoparent"	"1"
-			"paintbackground"	"1"
+			//"paintbackground"	"1"
 			"command"	"market"
 			"actionsignallevel" "2"
 			"RoundedCorners"	"0"

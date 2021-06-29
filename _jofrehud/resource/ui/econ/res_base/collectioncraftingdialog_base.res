@@ -83,7 +83,7 @@
 			"zpos"			"1"
 			"wide"			"o1"
 			"tall"			"p0.25"
-			//"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 
 			"InstructionsLabel"
@@ -97,7 +97,7 @@
 				
 				"wide"			"p0.8"
 				"tall"			"f0"
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				"labelText"		"#TF_CollectionCrafting_AttachItem"
 				"mouseinputenabled" "0"
@@ -117,7 +117,7 @@
 				"zpos"			"1"
 				"wide"			"o1"
 				"tall"			"p0.8"
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				"labelText"		""
 				"font"			"HudFontSmall"
@@ -153,7 +153,7 @@
 					"zpos"			"1"
 					"wide"			"o1"
 					"tall"			"p1.5"
-					//"visible"		"1"
+					////"visible"		"1"
 					
 					"image"			"trade_ups/trade_ups_attach_box"
 					"scaleImage"	"1"
@@ -318,7 +318,7 @@
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"f0"
-		//"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"ParticleEffects"
@@ -427,7 +427,7 @@
 			"wide"			"f0"
 			"tall"			"50"
 				
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"labelText"		"%resultstring%"
 			"mouseinputenabled" "0"
@@ -446,7 +446,7 @@
 			"zpos"			"5"
 			"wide"			"o1.5"
 			"tall"			"p0.5"
-			//"visible"		"1"
+			////"visible"		"1"
 			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
@@ -478,7 +478,7 @@
 			"zpos"			"1"
 			"wide"			"p0.7"
 			"tall"			"p0.4"
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"item_carousel_bg"
 			"scaleImage"	"1"
@@ -494,7 +494,7 @@
 			"zpos"			"6"
 			"wide"			"o1.5"
 			"tall"			"p0.5"
-			//"visible"		"1"
+			////"visible"		"1"
 			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
@@ -528,7 +528,7 @@
 			"zpos"			"6"
 			"wide"			"o1.5"
 			"tall"			"p0.5"
-			//"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 			"bgcolor_override"	"HUDDeathWarning"
 
@@ -711,7 +711,7 @@
 					"zpos"			"7"
 					"wide"			"19"
 					"tall"			"19"
-					//"visible"		"1"
+					////"visible"		"1"
 					
 					"scaleImage"	"1"
 				}				
@@ -829,7 +829,7 @@
 		"tall"			"p0.12"
 		
 		"pinCorner"		"3"
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"#TF_CollectionCrafting_ApplyStamp"
@@ -863,7 +863,7 @@
 		"tall"			"20"
 		
 		"pinCorner"		"3"
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"Send"
@@ -909,7 +909,7 @@
 			
 			"wide"			"o2"
 			"tall"			"p1"
-			//"visible"		"1"
+			////"visible"		"1"
 			"proportionaltoparent"	"1"
 
 			"BlankPaperImage"
@@ -921,7 +921,7 @@
 				
 				"wide"			"p1"
 				"tall"			"p1"
-				//"visible"		"1"
+				////"visible"		"1"
 				"proportionaltoparent"	"1"
 
 				"scaleImage"	"1"	
@@ -937,7 +937,7 @@
 				
 				"wide"			"p1"
 				"tall"			"p1"
-				//"visible"		"1"
+				////"visible"		"1"
 				"proportionaltoparent"	"1"
 
 				"scaleImage"	"1"	
@@ -955,7 +955,7 @@
 				"tall"			"p0.085"
 				
 				"pinCorner"		"3"
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				
 				"labelText"		"#TF_CollectionCrafting_Submit"
@@ -1015,7 +1015,7 @@
 		"tall"			"20"
 		
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"?"
@@ -1065,7 +1065,7 @@
 		"tall"			"20"
 		
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"?"
@@ -1115,7 +1115,7 @@
 			"tall"			"30"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1134,7 +1134,7 @@
 			"tall"			"85"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1151,7 +1151,7 @@
 			"tall"			"14"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1181,7 +1181,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -1201,7 +1201,7 @@
 			"tall"			"30"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 		}
@@ -1216,7 +1216,7 @@
 			"tall"			"30"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1246,7 +1246,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -1289,7 +1289,7 @@
 			"tall"			"30"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1308,7 +1308,7 @@
 			"tall"			"p0.8"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
@@ -1326,7 +1326,7 @@
 			"tall"			"14"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1356,7 +1356,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -1373,7 +1373,7 @@
 			"tall"			"30"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1404,7 +1404,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -1424,7 +1424,7 @@
 			"tall"			"30"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "LightRed"
@@ -1467,7 +1467,7 @@
 			"tall"			"30"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1486,7 +1486,7 @@
 			"tall"			"p0.8"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
@@ -1504,7 +1504,7 @@
 			"tall"			"14"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1534,7 +1534,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -1554,7 +1554,7 @@
 			"tall"			"30"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "LightRed"
@@ -1570,7 +1570,7 @@
 			"tall"			"30"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1601,7 +1601,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -1644,7 +1644,7 @@
 			"tall"			"30"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1663,7 +1663,7 @@
 			"tall"			"p0.8"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
@@ -1681,7 +1681,7 @@
 			"tall"			"14"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1711,7 +1711,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -1728,7 +1728,7 @@
 			"tall"			"30"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1759,7 +1759,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				//"visible"		"1"
+				////"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -1779,7 +1779,7 @@
 			"tall"			"30"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "LightRed"

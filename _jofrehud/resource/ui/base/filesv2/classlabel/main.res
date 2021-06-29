@@ -4,7 +4,7 @@
 	{
 		"fieldName"		"ClassLabel"
 		"autoResize"	"0"
-		"pinCorner"		"0"
-		"enabled"		"1"
+		//"pinCorner"		"0"
+		//"enabled"		"1"
 	}	
 }	

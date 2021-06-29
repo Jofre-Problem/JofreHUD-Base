@@ -13,7 +13,7 @@
 		matchgroup				MatchGroup_Casual_12v12		// check out!
 		show_model				1					// check out!
 		show_type				1	
-		//"visible"		"1"
+		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"		
 		}

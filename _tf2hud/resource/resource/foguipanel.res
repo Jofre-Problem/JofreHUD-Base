@@ -13,7 +13,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -32,7 +32,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Fog Override"
@@ -60,7 +60,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"Fog Enable"
@@ -88,7 +88,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 	}
@@ -105,7 +105,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		//"textHidden"		"0"
@@ -127,7 +127,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 	}
@@ -144,7 +144,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		//"textHidden"		"0"
@@ -166,7 +166,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 	}
@@ -183,7 +183,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		//"textHidden"		"0"
@@ -205,7 +205,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 	}
@@ -222,7 +222,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		//"textHidden"		"0"
@@ -244,7 +244,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 	}
@@ -261,7 +261,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		//"textHidden"		"0"
@@ -283,7 +283,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"Enable Skybox"
@@ -311,7 +311,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 	}
@@ -328,7 +328,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		//"textHidden"		"0"
@@ -350,7 +350,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 	}
@@ -367,7 +367,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		//"textHidden"		"0"
@@ -389,7 +389,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 	}
@@ -406,7 +406,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		//"textHidden"		"0"
@@ -428,7 +428,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 	}
@@ -445,7 +445,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		//"textHidden"		"0"
@@ -467,7 +467,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 	}
@@ -484,7 +484,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		//"textHidden"		"0"
@@ -506,7 +506,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"FarZ Override"
@@ -534,7 +534,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 	}
@@ -551,7 +551,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		//"textHidden"		"0"
@@ -573,7 +573,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Start"
@@ -599,7 +599,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"|"
@@ -625,7 +625,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"End"
@@ -651,7 +651,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"|"
@@ -677,7 +677,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"R"
@@ -703,7 +703,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"G"
@@ -729,7 +729,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"B"
@@ -755,7 +755,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Start"
@@ -781,7 +781,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"|"
@@ -807,7 +807,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"End"
@@ -833,7 +833,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"|"
@@ -859,7 +859,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"R"
@@ -885,7 +885,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"G"
@@ -911,7 +911,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"B"
@@ -937,7 +937,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"FarZ"
@@ -955,7 +955,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"FrameButton"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
 		
@@ -990,7 +990,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"

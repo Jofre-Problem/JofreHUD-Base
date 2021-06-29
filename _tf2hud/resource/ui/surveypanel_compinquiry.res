@@ -22,7 +22,7 @@
 				"tall"			"30"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				//"wrap"			"0"
 				"centerwrap"	"1"
@@ -39,7 +39,7 @@
 				"zpos"			"-1"
 				"wide"			"350"
 				"tall"			"150"
-				////"visible"		"1"
+				//"visible"		"1"
 				"proportionaltoparent"	"1"
 				"bgcolor_override"	"0 0 0 100"
 
@@ -52,7 +52,7 @@
 					"zpos"			"100"
 					"wide"			"f0"
 					"tall"			"f0"
-					////"visible"		"1"
+					//"visible"		"1"
 					"PaintBackgroundType"	"2"
 					"border"		"InnerShadowBorder"
 					"proportionaltoparent"	"1"
@@ -68,7 +68,7 @@
 					"zpos"			"1"
 					"wide"			"15"
 					"tall"			"20"
-					////"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
@@ -87,7 +87,7 @@
 					"zpos"			"1"
 					"wide"			"250"
 					"tall"			"20"
-					////"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 					
 					"labelText"		"#TF_SurveyQuestion_CompInquiry_Answer0"
@@ -106,7 +106,7 @@
 					"zpos"			"2"
 					"wide"			"15"
 					"tall"			"20"
-					////"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
@@ -125,7 +125,7 @@
 					"zpos"			"1"
 					"wide"			"250"
 					"tall"			"20"
-					////"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 					
 					"labelText"		"#TF_SurveyQuestion_CompInquiry_Answer1"
@@ -142,7 +142,7 @@
 					"zpos"			"3"
 					"wide"			"15"
 					"tall"			"20"
-					////"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
@@ -161,7 +161,7 @@
 					"zpos"			"1"
 					"wide"			"250"
 					"tall"			"20"
-					////"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 					
 					"labelText"		"#TF_SurveyQuestion_CompInquiry_Answer2"
@@ -179,7 +179,7 @@
 					"zpos"			"4"
 					"wide"			"15"
 					"tall"			"20"
-					////"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
@@ -198,7 +198,7 @@
 					"zpos"			"1"
 					"wide"			"250"
 					"tall"			"20"
-					////"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 					
 					"labelText"		"#TF_SurveyQuestion_CompInquiry_Answer3"
@@ -215,7 +215,7 @@
 					"zpos"			"5"
 					"wide"			"15"
 					"tall"			"20"
-					////"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
@@ -234,7 +234,7 @@
 					"zpos"			"1"
 					"wide"			"250"
 					"tall"			"20"
-					////"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 					
 					"labelText"		"#TF_SurveyQuestion_CompInquiry_Answer4"
@@ -251,7 +251,7 @@
 					"zpos"			"5"
 					"wide"			"15"
 					"tall"			"20"
-					////"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
@@ -270,7 +270,7 @@
 					"zpos"			"1"
 					"wide"			"250"
 					"tall"			"20"
-					////"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 					
 					"labelText"		"#TF_SurveyQuestion_CompInquiry_Answer5"

@@ -20,7 +20,7 @@
 			"ypos"			"10"
 			"wide"			"17"
 			"tall"			"17"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"scaleImage"	"1"
 			"image"			"hud/vote_yes"
@@ -34,7 +34,7 @@
 			"ypos"			"10"
 			"wide"			"98"
 			"tall"			"17"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"#GameUI_vote_passed"
 			//"textAlignment"	"west"
@@ -53,7 +53,7 @@
 			"ypos"			"29"
 			"wide"			"130"
 			"tall"			"40"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%passedresult%"
 			"textAlignment"	"north-west"
@@ -86,7 +86,7 @@
 			"ypos"			"5"
 			"wide"			"130"
 			"tall"			"20"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%header%"
 			"textAlignment"		"north-west"
@@ -105,7 +105,7 @@
 			"ypos"			"22"
 			"wide"			"120"
 			"tall"			"40"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%voteissue%"
 			"textAlignment"	"north-west"
@@ -156,7 +156,7 @@
 			"wide"			"130"
 			"tall"			"16"
 			"zpos"			"2"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"	"left"
@@ -176,7 +176,7 @@
 			"tall"			"16"
 			"zpos"			"1"
 			"fillcolor"		"88 119 140 180"
-			////"visible"		"1"
+			//"visible"		"1"
 		}
 		
 		"Option1CountLabel"
@@ -188,7 +188,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"zpos"			"2"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"Yes"
 			"textAlignment"	"center"
@@ -207,7 +207,7 @@
 			"wide"			"130"
 			"tall"			"16"
 			"zpos"			"2"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"	"left"
@@ -227,7 +227,7 @@
 			"tall"			"16"
 			"zpos"			"1"
 			"fillcolor"		"88 119 140 180"
-			////"visible"		"1"
+			//"visible"		"1"
 		}
 		
 		"Option2CountLabel"
@@ -239,7 +239,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"zpos"			"2"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"No"
 			"textAlignment"	"center"
@@ -258,7 +258,7 @@
 			"wide"			"130"
 			"tall"			"16"
 			"zpos"			"2"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"	"left"
@@ -290,7 +290,7 @@
 			"wide"			"130"
 			"tall"			"16"
 			"zpos"			"2"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"	"left"
@@ -322,7 +322,7 @@
 			"wide"			"130"
 			"tall"			"16"
 			"zpos"			"2"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"	"left"
@@ -366,7 +366,7 @@
 			"ypos"			"100"
 			"wide"			"140"
 			"tall"			"20"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"#GameUI_vote_current_vote_count"
 			"textAlignment"	"north-west"
@@ -386,7 +386,7 @@
 			"wide"			"130"
 			"tall"			"18"
 			"zpos"			"2"
-			////"visible"		"1"
+			//"visible"		"1"
 						
 			"box_size"		"16"
 			"spacer"		"6"
@@ -417,7 +417,7 @@
 			"ypos"			"10"
 			"wide"			"17"
 			"tall"			"17"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"scaleImage"	"1"
 			"image"			"hud/vote_no"
@@ -431,7 +431,7 @@
 			"ypos"			"10"
 			"wide"			"80"
 			"tall"			"17"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"#GameUI_vote_failed"
 			//"textAlignment"	"west"
@@ -450,7 +450,7 @@
 			"ypos"			"29"
 			"wide"			"140"
 			"tall"			"40"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%FailedReason%"
 			"textAlignment"	"north-west"
@@ -483,7 +483,7 @@
 			"ypos"			"10"
 			"wide"			"17"
 			"tall"			"17"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"scaleImage"	"1"
 			"image"			"hud/vote_no"
@@ -497,7 +497,7 @@
 			"ypos"			"10"
 			"wide"			"98"
 			"tall"			"17"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"#GameUI_vote_failed"
 			//"textAlignment"	"west"
@@ -516,7 +516,7 @@
 			"ypos"			"29"
 			"wide"			"130"
 			"tall"			"40"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"	"north-west"
@@ -569,7 +569,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"wrap"			"0"
 		}
@@ -584,7 +584,7 @@
 			"wide"		"180"
 			"tall"		"200"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			
@@ -602,7 +602,7 @@
 			"wide"		"200"
 			"tall"		"200"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			
@@ -623,7 +623,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"ComboBox"
@@ -666,7 +666,7 @@
 			"tall"		"24"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			"enabled"		"0"
 			"tabPosition"	"4"
 			"labelText"		"#TF_call_vote"
@@ -687,7 +687,7 @@
 			"tall"		"24"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"4"
 			"labelText"		"#GameUI_Close"

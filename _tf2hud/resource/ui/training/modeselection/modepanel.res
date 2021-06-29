@@ -8,7 +8,7 @@
 		
 		"wide"			"225"
 		"tall"			"205"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 
 		"ModeNameLabel"
@@ -25,7 +25,7 @@
 			"tall"			"25"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"mouseinputenabled" "0"
 			"fgcolor_override"	"87 79 70 255"
@@ -45,7 +45,7 @@
 			"tall"			"55"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override"	"89 81 71 255"
 			"auto_wide_tocontents" "0"
@@ -61,7 +61,7 @@
 			
 			"wide"			"205"
 			"tall"			"205"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"border"		"MainMenuHighlightBorder"
 		}
@@ -75,7 +75,7 @@
 			"ypos"			"32"
 			"wide"			"185"
 			"tall"			"185"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tileImage"		"0"
 			"scaleImage"	"1"

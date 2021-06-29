@@ -5,7 +5,7 @@
 		"ControlName"	"CTFLogoPanel"
 		"fieldName"		"Spinner"
 		"zpos"			"104"
-		"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 		"alpha"			"200"

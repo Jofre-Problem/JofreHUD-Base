@@ -10,7 +10,7 @@
 		"tall"		"420"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -19,7 +19,7 @@
 		"ControlName"		"Menu"
 		"fieldName"		"SysMenu"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -52,7 +52,7 @@
 		"tall"		"360"
 		"autoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 	}
@@ -89,7 +89,7 @@
 		"ControlName"		"CRawLogPanel"
 		"fieldName"		"ServerLog"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"200"
 		"tall"		"100"
 		
@@ -103,7 +103,7 @@
 		"ControlName"		"CChatPanel"
 		"fieldName"		"ChatPanel"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -164,7 +164,7 @@
 		"tall"		"332"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}

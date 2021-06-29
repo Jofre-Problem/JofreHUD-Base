@@ -11,7 +11,7 @@
 		"tall"			"40"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"
 		"paintbackgroundtype"	"2"
@@ -25,7 +25,7 @@
 		"ypos"			"9"
 		"wide"			"20"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			""
@@ -42,7 +42,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%heading%"
 		"textAlignment"	"center"
@@ -61,7 +61,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%title%"
 		"textAlignment"	"center"

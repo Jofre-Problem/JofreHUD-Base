@@ -232,7 +232,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"10"
 				//"weight"	"500"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		// fonts are used in order that they are listed
@@ -243,7 +243,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"7"
 				//"weight"	"500"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"DefaultFixedOutline"
@@ -720,7 +720,7 @@ Scheme
 				//"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"4"
 			{
@@ -729,7 +729,7 @@ Scheme
 				//"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"5"
 			{
@@ -738,7 +738,7 @@ Scheme
 				//"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 		}
 	

@@ -10,7 +10,7 @@
 		"tall"		"150"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"96"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -39,7 +39,7 @@
 		"tall"		"103"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"scaleImage"		"0"
@@ -49,12 +49,12 @@
 		"ControlName"		"Label"
 		"fieldName"		"ClipName"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"146"
 		"tall"		"16"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"foo"
@@ -74,7 +74,7 @@
 		"tall"		"16"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"cam: cam1"
@@ -94,7 +94,7 @@
 		"tall"		"16"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"5.200 s."
@@ -109,13 +109,13 @@
 		"ControlName"		"CMouseMessageForwardingPanel"
 		"fieldName"		"MouseMessageForwardingPanel"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"2"
 		"wide"		"150"
 		"tall"		"150"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}

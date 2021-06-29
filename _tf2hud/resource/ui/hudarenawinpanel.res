@@ -8,7 +8,7 @@
 		"ypos"			"21"
 		"wide"			"480"
 		"tall"			"60"
-		////"visible"		"1"
+		//"visible"		"1"
 
 		"BlueScoreBG"
 		{
@@ -20,7 +20,7 @@
 			"tall"			"50"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"../hud/winpanel_blue_bg_team"
 			//"image_lodef"	"../hud/winpanel_blue_bg_team_lodef"
@@ -36,7 +36,7 @@
 			"tall"			"50"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"../hud/winpanel_red_bg_team"
 			//"image_lodef"	"../hud/winpanel_red_bg_team_lodef"
@@ -57,7 +57,7 @@
 			//"tall_hidef"	"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}							
 		"BlueTeamScore"
@@ -76,7 +76,7 @@
 			//"tall_hidef"	"75"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"BlueTeamScoreDropshadow"
@@ -96,7 +96,7 @@
 			//"tall_hidef"	"75"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}							
 		"RedTeamLabel"
@@ -114,7 +114,7 @@
 			//"tall_hidef"	"24"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}							
 		"RedTeamScore"
@@ -133,7 +133,7 @@
 			//"tall_hidef"	"75"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		"RedTeamScoreDropshadow"
@@ -153,7 +153,7 @@
 			//"tall_hidef"	"75"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}		
 
@@ -169,7 +169,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"../HUD/tournament_panel_black"
 			"scaleImage"		"1"
@@ -194,7 +194,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%arenastreaktext%"
 			"textAlignment"		"Center"
@@ -212,7 +212,7 @@
 		
 		"wide"			"700"
 		"tall"			"174"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"		"1"	
 	}
@@ -228,7 +228,7 @@
 		"tall"			"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%WinningTeamLabel%"
 		"textAlignment"		"Center"
@@ -248,7 +248,7 @@
 		"tall"			"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%WinningTeamLabel%"
 		"textAlignment"		"Center"
@@ -268,7 +268,7 @@
 		"tall"			"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%LosingTeamLabel%"
 		"textAlignment"		"Center"
@@ -288,7 +288,7 @@
 		"tall"			"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%LosingTeamLabel%"
 		"textAlignment"		"Center"
@@ -307,7 +307,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%WinReasonLabel%"
 		"textAlignment"		"Center"
@@ -326,7 +326,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%DetailsLabel%"
 		"textAlignment"		"Center"
@@ -344,7 +344,7 @@
 		"tall"			"84"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 			
 		"fillcolor"		"0 0 0 150"
@@ -363,7 +363,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%TopPlayersLabel%"
 		//"textAlignment"		"west"
@@ -382,7 +382,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#TF_Arena_Winpanel_DamageThisRound"
 		//"textAlignment"		"west"
@@ -401,7 +401,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#TF_Arena_Winpanel_HealingThisRound"
 		//"textAlignment"		"west"
@@ -420,7 +420,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#TF_Arena_Winpanel_TimeAliveThisRound"
 		//"textAlignment"		"west"
@@ -439,7 +439,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#TF_Arena_Winpanel_KillingBlows"
 		//"textAlignment"		"west"
@@ -457,7 +457,7 @@
 		"tall"			"1"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 			
 		"fillcolor"		"250 234 201 255"
@@ -472,7 +472,7 @@
 		
 		"wide"			"500"
 		"tall"			"218"
-		////"visible"		"1"
+		//"visible"		"1"
 		"zpos"			"3"
 
 		"Player1Avatar"
@@ -483,7 +483,7 @@
 			"ypos"			"141"
 			"wide"			"14"
 			"tall"			"14"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			""
 			"scaleImage"		"1"	
@@ -499,7 +499,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			//"textAlignment"		"west"
@@ -516,7 +516,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			//"textAlignment"		"west"
@@ -533,7 +533,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -550,7 +550,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -567,7 +567,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -584,7 +584,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -599,7 +599,7 @@
 			"ypos"			"163"
 			"wide"			"14"
 			"tall"			"14"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			""
 			"scaleImage"		"1"	
@@ -615,7 +615,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			//"textAlignment"		"west"
@@ -632,7 +632,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			//"textAlignment"		"west"
@@ -649,7 +649,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -666,7 +666,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -683,7 +683,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -700,7 +700,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -715,7 +715,7 @@
 			"ypos"			"185"
 			"wide"			"14"
 			"tall"			"14"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			""
 			"scaleImage"		"1"	
@@ -731,7 +731,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			//"textAlignment"		"west"
@@ -748,7 +748,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			//"textAlignment"		"west"
@@ -765,7 +765,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -782,7 +782,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -799,7 +799,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -816,7 +816,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -832,7 +832,7 @@
 		
 		"wide"			"500"
 		"tall"			"218"
-		////"visible"		"1"
+		//"visible"		"1"
 		"zpos"			"3"
 
 		"Player1Avatar"
@@ -843,7 +843,7 @@
 			"ypos"			"141"
 			"wide"			"14"
 			"tall"			"14"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			""
 			"scaleImage"		"1"	
@@ -859,7 +859,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			//"textAlignment"		"west"
@@ -876,7 +876,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			//"textAlignment"		"west"
@@ -893,7 +893,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -910,7 +910,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -927,7 +927,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -944,7 +944,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -959,7 +959,7 @@
 			"ypos"			"163"
 			"wide"			"14"
 			"tall"			"14"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			""
 			"scaleImage"		"1"	
@@ -975,7 +975,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			//"textAlignment"		"west"
@@ -992,7 +992,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			//"textAlignment"		"west"
@@ -1009,7 +1009,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -1026,7 +1026,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -1043,7 +1043,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -1060,7 +1060,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -1075,7 +1075,7 @@
 			"ypos"			"185"
 			"wide"			"14"
 			"tall"			"14"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			""
 			"scaleImage"		"1"	
@@ -1091,7 +1091,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			//"textAlignment"		"west"
@@ -1108,7 +1108,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			//"textAlignment"		"west"
@@ -1125,7 +1125,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -1142,7 +1142,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -1159,7 +1159,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"
@@ -1176,7 +1176,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		""
 			"textAlignment"		"east"

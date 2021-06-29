@@ -9,7 +9,7 @@
 		
 		"wide"			"130"
 		"tall"			"65"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/medic_charge_blue_bg"
 		"scaleImage"	"1"	
@@ -30,7 +30,7 @@
 		"tall"			"15"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_Ubercharge"
@@ -54,7 +54,7 @@
 		"tall"			"15"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_IndividualUbercharges"
@@ -79,7 +79,7 @@
 		"tall"			"8"				
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
@@ -100,7 +100,7 @@
 		"tall"			"8"				
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
@@ -121,7 +121,7 @@
 		"tall"			"8"				
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
@@ -142,7 +142,7 @@
 		"tall"			"8"				
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
@@ -163,7 +163,7 @@
 		"tall"			"8"				
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"	"Left"
 		//"dulltext"		"0"
@@ -178,7 +178,7 @@
 		"ypos"			"17"
 		"wide"			"36"
 		"tall"			"36"
-		////"visible"		"1"
+		//"visible"		"1"
 		"visible_minmode"		"0"
 		
 		"image"			"../hud/ico_health_cluster"
@@ -193,7 +193,7 @@
 		"ypos"			"-25"
 		"wide"			"36"
 		"tall"			"36"
-		////"visible"		"1"
+		//"visible"		"1"
 		"visible_minmode"		"0"
 		
 		"image"			"../HUD/defense_buff_bullet_blue"

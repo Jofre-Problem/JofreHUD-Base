@@ -2,6 +2,6 @@
 {
 	"Label10"
 	{
-		"autoresize"		"0"
+		//"autoResize"		"0"
 	}	
 }	

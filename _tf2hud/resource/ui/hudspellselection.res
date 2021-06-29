@@ -20,7 +20,7 @@
 		"ypos_minmode"	"10"
 		"wide"			"80"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"visible_minmode"	"0"
 		"image"			"../hud/ammo_blue_bg"
@@ -40,7 +40,7 @@
 		
 		"wide"			"64"
 		"tall"			"56"
-		////"visible"		"1"
+		//"visible"		"1"
 		"visible_minmode"	"0"
 		
 		"image"			"spellbook_book"
@@ -58,7 +58,7 @@
 		"zpos"			"7"
 		"wide"			"24"
 		"tall"			"24"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"image"			"../signs/death_wheel_whammy"
@@ -77,7 +77,7 @@
 		"wide"			"100"
 		"tall"			"10"
 		"fgcolor"		"tanlight"
-		////"visible"		"1"
+		//"visible"		"1"
 	}
 	
 	"SpellText"

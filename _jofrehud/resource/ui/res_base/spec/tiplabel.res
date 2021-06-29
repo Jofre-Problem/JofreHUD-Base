@@ -15,10 +15,10 @@
 		"tall"			"64"
 		//"tall_hidef"	"70"
 		//"tall_lodef"	"70"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		//"autoResize"		"0"
+		//"pinCorner"		"0"
+		//"visible"		"1"
+		//"enabled"		"1"
 		"labelText"		"%tip%"
 		"textAlignment"		"center"	[$WIN32]
 		"textAlignment"		"north-west"	[$X360]

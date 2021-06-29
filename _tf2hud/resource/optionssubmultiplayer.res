@@ -13,7 +13,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -30,7 +30,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Cancel"
@@ -59,7 +59,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_OK"
@@ -88,7 +88,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Apply"
@@ -117,7 +117,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_AdvancedEllipsis"
@@ -146,7 +146,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_ImportSprayEllipsis"
@@ -263,7 +263,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		//"textHidden"		"0"
@@ -302,7 +302,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"image"		"logos/UI/spray"
@@ -390,7 +390,7 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"		"CrosshairImage"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -422,7 +422,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		" "
@@ -441,7 +441,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		" "
@@ -460,7 +460,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		" "
@@ -479,7 +479,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"leftText"		" "
@@ -498,7 +498,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		//"textHidden"		"0"
@@ -544,7 +544,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"6"
 		//"textHidden"		"0"
@@ -584,7 +584,7 @@
 		"ControlName"		"Menu"
 		"fieldName"		"SysMenu"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"1"
 		"wide"		"64"
 		"tall"		"24"
@@ -766,7 +766,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_SpraypaintImage"
@@ -793,7 +793,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_SpraypaintServerNote"
@@ -820,7 +820,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_CrosshairDescription"
@@ -846,7 +846,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_CrosshairRed"
@@ -873,7 +873,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_CrosshairGreen"
@@ -900,7 +900,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_CrosshairBlue"
@@ -927,7 +927,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_CrosshairScale"
@@ -954,7 +954,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -971,7 +971,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_DownloadFilter_Title"
@@ -998,7 +998,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"

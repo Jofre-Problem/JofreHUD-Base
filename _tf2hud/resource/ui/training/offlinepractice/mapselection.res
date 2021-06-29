@@ -8,12 +8,12 @@
 		
 		"wide"			"330"
 		"tall"			"330"
-		////"visible"		"1"
+		//"visible"		"1"
 		"tileImage"		"0"
 		"scaleImage"	"1"
 		"border"		"ButtonBorder"
 		"paintbackgroundtype"	"2"
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 	}
 
 	"HackCoverBottomOfMapImagePanel"
@@ -26,7 +26,7 @@
 		"tall"		"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"bgcolor_override"	"40 37 37 255"
@@ -41,7 +41,7 @@
 		"zpos"			"1"
 		"wide"			"330"
 		"tall"			"80"
-		////"visible"		"1"
+		//"visible"		"1"
 		"tileImage"		"0"
 		"scaleImage"	"1"
 		"image"			"training/gradient_black"
@@ -58,7 +58,7 @@
 		"tall"			"43"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_LessThan"
@@ -83,7 +83,7 @@
 		"tall"			"43"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_GreaterThan"
@@ -111,7 +111,7 @@
 		"tall"			"40"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"wrap"			"0"
 		"fgcolor_override"	"246 237 211 255"
@@ -132,7 +132,7 @@
 		"tall"			"18"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"wrap"			"0"
 		"fgcolor_override"	"246 237 211 255"
@@ -185,7 +185,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"wrap"			"0"
 		"fgcolor_override"	"246 237 211 255"
@@ -236,7 +236,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"wrap"			"0"
 		"fgcolor_override"	"246 237 211 255"
@@ -258,7 +258,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"maxchars"		"2"
@@ -283,7 +283,7 @@
 		"tall"			"15"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"wrap"			"0"
 		"fgcolor_override"	"116 105 92 255"

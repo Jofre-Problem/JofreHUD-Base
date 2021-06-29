@@ -6,7 +6,7 @@
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"30"
-		////"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"paintbackground"	"0"
@@ -21,7 +21,7 @@
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"30"
-		////"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 		"RoundedCorners"	"0"
 		"font"			"HudFontSmallest"
@@ -31,7 +31,7 @@
 
 		"bgcolor_override"	"0 0 0 250"
 
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 	
 		"ScrollBar"
 		{

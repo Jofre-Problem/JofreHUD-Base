@@ -10,7 +10,7 @@
 		"tall"		"210"
 		"autoResize"	"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"1"
 	}
@@ -24,7 +24,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"#Rules_Panel_List_Edit"

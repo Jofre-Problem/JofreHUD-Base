@@ -16,7 +16,7 @@
 		"tall"			"33"
 		"tall_minmode"	"23"
 		//"tall_lodef"	"38"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/objectives_timepanel_blue_bg"	
 		"scaleImage"		"1"	

@@ -67,7 +67,7 @@
 		"tall"			"25"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -85,7 +85,7 @@
 		"tall"			"25"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor"		"96 90 85 255"
 	}
@@ -101,7 +101,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Store_LearnMore"

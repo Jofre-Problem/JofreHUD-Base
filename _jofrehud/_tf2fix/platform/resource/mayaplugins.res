@@ -370,8 +370,8 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"10"
-				"weight"	"500"
-				"antialias" "1"
+				//"weight"	"500"
+				//"antialias" "1"
 			}
 		}
 		// fonts are used in order that they are listed
@@ -381,8 +381,8 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"7"
-				"weight"	"500"
-				"antialias" "1"
+				//"weight"	"500"
+				//"antialias" "1"
 			}
 		}
 		"DefaultFixedOutline"
@@ -391,8 +391,8 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"10"
-				"weight"	"0"
-				"outline"	"1"
+				//"weight"	"0"
+				//"outline"	"1"
 			}
 		}
 		"Default"
@@ -401,8 +401,8 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"
-				"weight"	"800"
-				"antialias" "1"
+				//"weight"	"800"
+				//"antialias" "1"
 				// "dropshadow" "1"
 			}
 		}
@@ -412,8 +412,8 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"14"
-				"weight"	"1000"
-				"antialias" "1"
+				//"weight"	"1000"
+				//"antialias" "1"
 			}
 		}
 		"DefaultUnderline"
@@ -422,7 +422,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"16"
-				"weight"	"500"
+				//"weight"	"500"
 				"underline" "1"
 			}
 		}
@@ -432,7 +432,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"
-				"weight"	"0"
+				//"weight"	"0"
 			}
 		}
 		"DefaultSmallDropShadow"
@@ -441,7 +441,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"13"
-				"weight"	"0"
+				//"weight"	"0"
 				"dropshadow" "1"
 			}
 		}
@@ -452,8 +452,8 @@ Scheme
 				"name"		"Segoe UI"
 				//"name"		"Segoe UI"
 				"tall"		"12"
-				"weight"	"0"
-				"antialias" "1"
+				//"weight"	"0"
+				//"antialias" "1"
 			}
 		}
 
@@ -463,7 +463,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"18"
-				"weight"	"0"
+				//"weight"	"0"
 			}
 		}
 		"DefaultLargeOutline"
@@ -472,9 +472,9 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"32"
-				"weight"	"1000"
-				"outline"	"1"
-				"antialias" "1"
+				//"weight"	"1000"
+				//"outline"	"1"
+				//"antialias" "1"
 			}
 		}
 		
@@ -484,7 +484,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"
-				"weight"	"1000"
+				//"weight"	"1000"
 			}
 		}
 		"UiBoldSmall"
@@ -493,8 +493,8 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"
-				"weight"	"1000"
-				"antialias" "1"
+				//"weight"	"1000"
+				//"antialias" "1"
 			}
 		}
 
@@ -504,8 +504,8 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"
-				"weight"	"0"
-				"antialias" "1"
+				//"weight"	"0"
+				//"antialias" "1"
 			}
 		}
 
@@ -515,8 +515,8 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"13"
-				"weight"	"0"
-				"antialias" "1"
+				//"weight"	"0"
+				//"antialias" "1"
 			}
 		}
 
@@ -526,8 +526,8 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"14"
-				"weight"	"0"
-				"antialias" "1"
+				//"weight"	"0"
+				//"antialias" "1"
 			}
 		}
 
@@ -537,8 +537,8 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"18"
-				"weight"	"0"
-				"antialias" "1"
+				//"weight"	"0"
+				//"antialias" "1"
 			}
 		}
 
@@ -548,8 +548,8 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"22"
-				"weight"	"0"
-				"antialias" "1"
+				//"weight"	"0"
+				//"antialias" "1"
 			}
 		}
 
@@ -559,8 +559,8 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"16"
-				"weight"	"600"
-				"antialias" "1"
+				//"weight"	"600"
+				//"antialias" "1"
 			}
 		}
 
@@ -570,7 +570,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"10"
-				"weight"	"500"
+				//"weight"	"500"
 			}
 		}
 
@@ -581,7 +581,7 @@ Scheme
 			{
 				"name"		"Marlett"
 				"tall"		"14"
-				"weight"	"0"
+				//"weight"	"0"
 				"symbol"	"1"
 			}
 		}
@@ -591,7 +591,7 @@ Scheme
 			{
 				"name"		"Marlett"
 				"tall"		"10"
-				"weight"	"0"
+				//"weight"	"0"
 				"symbol"	"1"
 			}
 		}
@@ -601,7 +601,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"24"
-				//"weight"	"900"
+				////"weight"	"900"
 			}
 		}
 
@@ -612,7 +612,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"20"
-				//"weight"	"900"
+				////"weight"	"900"
 			}
 		}
 
@@ -622,7 +622,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"18"
-				//"weight"	"900"
+				////"weight"	"900"
 			}
 		}
 
@@ -634,7 +634,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"40"
-				//"weight"	"900"
+				////"weight"	"900"
 			}
 		}
 		"HUDNumber1"
@@ -643,7 +643,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"41"
-				//"weight"	"900"
+				////"weight"	"900"
 			}
 		}
 		"HUDNumber2"
@@ -652,7 +652,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"42"
-				//"weight"	"900"
+				////"weight"	"900"
 			}
 		}
 		"HUDNumber3"
@@ -661,7 +661,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"43"
-				//"weight"	"900"
+				////"weight"	"900"
 			}
 		}
 		"HUDNumber4"
@@ -670,7 +670,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"44"
-				//"weight"	"900"
+				////"weight"	"900"
 			}
 		}
 		"HUDNumber5"
@@ -679,7 +679,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"45"
-				//"weight"	"900"
+				////"weight"	"900"
 			}
 		}
 		"DefaultFixed"
@@ -688,13 +688,13 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"10"
-				"weight"	"0"
+				//"weight"	"0"
 			}
 //			"1"
 //			{
 //				"name"		"FixedSys"
 //				"tall"		"20"
-//				"weight"	"0"
+//				//"weight"	"0"
 //			}
 		}
 
@@ -704,14 +704,14 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"10"
-				"weight"	"0"
+				//"weight"	"0"
 				"dropshadow" "1"
 			}
 //			"1"
 //			{
 //				"name"		"FixedSys"
 //				"tall"		"20"
-//				"weight"	"0"
+//				//"weight"	"0"
 //			}
 		}
 
@@ -721,7 +721,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"16"
-				"weight"	"500"
+				//"weight"	"500"
 			}
 		}
 		"CloseCaption_Italic"
@@ -730,7 +730,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"16"
-				"weight"	"500"
+				//"weight"	"500"
 				"italic"	"1"
 			}
 		}
@@ -740,7 +740,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"16"
-				//"weight"	"900"
+				////"weight"	"900"
 			}
 		}
 		"CloseCaption_BoldItalic"
@@ -749,7 +749,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"16"
-				//"weight"	"900"
+				////"weight"	"900"
 				"italic"	"1"
 			}
 		}

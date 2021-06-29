@@ -146,7 +146,7 @@
 				"wide"			"150"
 				"tall"			"50"
 					
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"labelText"		"#TF_CollectionCrafting_TitleJoke0"
 				"wrap"			"1"
@@ -169,7 +169,7 @@
 				"wide"			"250"
 				"tall"			"300"
 					
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"labelText"		"#TF_CollectionCrafting_SaxtonMessage"
 				"mouseinputenabled" "0"
@@ -191,7 +191,7 @@
 				"wide"			"p0.56"
 				"tall"			"300"
 					
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"labelText"		"#TF_CollectionCrafting_Instructions"
 				"mouseinputenabled" "0"
@@ -213,7 +213,7 @@
 				"tall"			"p0.085"
 				
 				"pinCorner"		"3"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"labelText"		"#TF_CollectionCrafting_Submit"

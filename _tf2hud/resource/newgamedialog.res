@@ -10,7 +10,7 @@
 		"tall"		"318"	
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"	
@@ -26,7 +26,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_Next"
@@ -68,7 +68,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_Start"
@@ -89,7 +89,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_Cancel"
@@ -110,7 +110,7 @@
 		"tall"		"2"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -124,7 +124,7 @@
 		"tall"		"2"		
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -146,12 +146,12 @@
 		"centerbgtall"		"190"	
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"0"
 		"title"		"#GameUI_NewGame"
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 	}
 	"LeftArrow" 
 	{
@@ -163,7 +163,7 @@
 		"tall"		"32"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#GameUI_Icons_LEFTCURSOR"
 		"textAlignment"	"center"
@@ -182,7 +182,7 @@
 		"tall"		"32"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#GameUI_Icons_RIGHTCURSOR"
 		"textAlignment"	"center"
@@ -201,7 +201,7 @@
 		"tall"		"40"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"		"center"
 		//"dulltext"		"0"
@@ -219,7 +219,7 @@
 		"tall"		"40"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"		"center"
 		//"dulltext"		"0"

@@ -10,7 +10,7 @@
 		"tall"			"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Skin Name"
@@ -24,13 +24,13 @@
 		"ControlName"		"TextEntry"
 		"fieldName"		"SkinName"
 		"xpos"		"70"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"390"
 		"tall"		"24"
 		
 		"autoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -50,7 +50,7 @@
 		"tall"			"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Scale"
@@ -70,7 +70,7 @@
 		
 		"autoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -90,7 +90,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"disabled"		"1"
 		"tabPosition"	"1"

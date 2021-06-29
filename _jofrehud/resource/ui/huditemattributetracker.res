@@ -64,7 +64,7 @@
 			
 			"wide"			"o1"
 			"tall"			"p0.8"
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"image"			"tf2_folder_icon"
 			"scaleImage"	"1"	

@@ -52,7 +52,7 @@
 		"wide"			"256"
 		"tall"			"128"
 
-		////"visible"		"1"
+		//"visible"		"1"
 		"material"		"vgui/screens/vgui_overlay"
 	}
 }

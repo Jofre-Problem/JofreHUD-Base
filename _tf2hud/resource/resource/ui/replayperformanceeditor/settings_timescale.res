@@ -22,7 +22,7 @@
 		"fieldName"		"TimeScaleSlider"
 		"leftText"		"#Replay_TimeScaleMin"
 		"rightText"		"#Replay_TimeScaleMax"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"xpos"			"-1"
 		

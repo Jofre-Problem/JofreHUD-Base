@@ -10,7 +10,7 @@
 		"tall"			"230"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -33,7 +33,7 @@
 		"tall"			"30"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -51,7 +51,7 @@
 		"tall"			"170"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"centerwrap"	"1"
 		"fgcolor_override" "LightRed"
@@ -68,7 +68,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#ConfirmButtonText"
@@ -99,7 +99,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"actionSet"		"MenuControls"

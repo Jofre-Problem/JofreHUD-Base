@@ -4,10 +4,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"LeaderboardEntry"
-		"xpos"			"0"
+		//"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"2"
-		"visible"		"1"
+		//"visible"		"1"
 	
 		"Background"
 		{
@@ -17,7 +17,7 @@
 			"zpos"			"2"
 			"wide"			"20"
 			"tall"			"20"
-			"visible"		"1"
+			//"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"bgcolor_override"	"TanDark"
 		}
@@ -29,8 +29,8 @@
 			"zpos"			"3"
 			"wide"			"16"
 			"tall"			"16"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			//"enabled"		"1"
 			"image"			""
 			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
@@ -45,9 +45,9 @@
 			"zpos"			"2"
 			"tall"			"16"
 			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			//"pinCorner"		"0"
+			//"visible"		"1"
+			//"enabled"		"1"
 			"wrap"			"0"
 		}
 	}	

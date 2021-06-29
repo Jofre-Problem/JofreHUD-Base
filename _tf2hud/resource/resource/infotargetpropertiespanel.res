@@ -5,12 +5,12 @@
 		"ControlName"		"CInfoTargetPropertiesPanel"
 		"fieldName"		"InfoTargetPropertiesPanel"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"784"
 		"tall"		"418"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -19,7 +19,7 @@
 		"ControlName"		"CScrollableEditablePanel"
 		"fieldName"		"InfoTargetScroll"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"784"
 		"tall"		"418"
 		

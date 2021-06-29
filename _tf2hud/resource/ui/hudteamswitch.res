@@ -11,7 +11,7 @@
 		"tall"			"150"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/death_panel_blue_bg"
 		"scaleImage"		"1"
@@ -32,7 +32,7 @@
 		"tall"			"55"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"labelText"		"#TF_teambalanced"
@@ -53,7 +53,7 @@
 		"tall"			"55"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"labelText"		""
@@ -70,7 +70,7 @@
 		"tall"			"50"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/ico_teambalance"
 		"scaleImage"		"1"

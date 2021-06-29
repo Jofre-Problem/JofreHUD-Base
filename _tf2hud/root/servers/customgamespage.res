@@ -10,7 +10,7 @@
 		"tall"		"278"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -25,7 +25,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		"paintbackground"		"1"
@@ -45,7 +45,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"paintbackground"		"1"
@@ -65,7 +65,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		
 		"paintbackground"		"1"
@@ -127,7 +127,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"6"
 		"paintbackground"		"1"
@@ -147,7 +147,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"paintbackground"		"1"
@@ -166,7 +166,7 @@
 		"tall"		"24"
 		"AutoResize"		"1"
 		"PinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -361,7 +361,7 @@
 		"tall"		"182"
 		"AutoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -377,10 +377,10 @@
 		"tall"			"178"
 		"AutoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 	}
 	"Divider1"
 	{
@@ -392,7 +392,7 @@
 		"tall"		"2"
 		"autoResize"		"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -410,7 +410,7 @@
 		"enabled"		"0"
 		"if_workshop_enabled"
 		{
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		
@@ -436,7 +436,7 @@
 		"if_workshop_enabled"
 		{
 			
-			////"visible"		"1"
+			//"visible"		"1"
 		}
 		
 		"paintbackground"		"1"
@@ -460,7 +460,7 @@
 		"enabled"		"0"
 		"if_workshop_enabled"
 		{
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 		
@@ -479,7 +479,7 @@
 		"tall"		"24"
 		"AutoResize"		"1"
 		"PinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -503,7 +503,7 @@
 		"zpos"		"1"
 		
 		"PinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -530,7 +530,7 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"
@@ -551,7 +551,7 @@
 		"tall"		"24"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textHidden"		"0"

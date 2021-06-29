@@ -155,7 +155,7 @@
 		"tall"			"20"
 		
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"labelText"		"<"
@@ -178,7 +178,7 @@
 		"tall"			"20"
 		
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		"border"		"StorePreviewTabSelected"
 		
@@ -193,7 +193,7 @@
 			"tall"			"20"
 			
 			"pinCorner"		"3"
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#Store_DetailsItem"
@@ -243,7 +243,7 @@
 		"tall"			"20"
 		
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		"border"		"StoreAddToCart"
 		
@@ -258,7 +258,7 @@
 			"tall"			"20"
 			
 			"pinCorner"		"3"
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#Store_AddToCart"
@@ -287,7 +287,7 @@
 		"tall"			"20"
 		
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		"border"		"StoreAddToCart"
 		
@@ -302,7 +302,7 @@
 			"tall"			"20"
 			
 			"pinCorner"		"3"
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 			"labelText"		"#Store_TryItem"
@@ -334,7 +334,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"ClassFilterComboBox"
@@ -381,7 +381,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -396,7 +396,7 @@
 		"tall"			"25"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Store_Checkout"
@@ -422,7 +422,7 @@
 		"zpos"			"12"
 		"wide"			"60"
 		"tall"			"25"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"PaintBackgroundType"	"2"
 		"textinsetx"	"15"
@@ -442,7 +442,7 @@
 		"zpos"			"13"
 		"wide"			"24"
 		"tall"			"20"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"store_cart"
 		"scaleImage"	"1"
@@ -484,7 +484,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -503,7 +503,7 @@
 			"tall"			"85"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -520,7 +520,7 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -550,7 +550,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -570,7 +570,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 		}
@@ -585,7 +585,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -615,7 +615,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -659,7 +659,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -678,7 +678,7 @@
 			"tall"			"85"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -695,7 +695,7 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -725,7 +725,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -742,7 +742,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -772,7 +772,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -792,7 +792,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 		}
@@ -807,7 +807,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -837,7 +837,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -881,7 +881,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -900,7 +900,7 @@
 			"tall"			"135"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -917,7 +917,7 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -947,7 +947,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -964,7 +964,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -994,7 +994,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -1011,7 +1011,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1041,7 +1041,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -1061,7 +1061,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 		}
@@ -1103,7 +1103,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1122,7 +1122,7 @@
 			"tall"			"135"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1139,7 +1139,7 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1169,7 +1169,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -1186,7 +1186,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1216,7 +1216,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -1233,7 +1233,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1263,7 +1263,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -1283,7 +1283,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 		}
@@ -1325,7 +1325,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1344,7 +1344,7 @@
 			"tall"			"135"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1361,7 +1361,7 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1391,7 +1391,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -1408,7 +1408,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1438,7 +1438,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -1455,7 +1455,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1485,7 +1485,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -1505,7 +1505,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 		}
@@ -1547,7 +1547,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1566,7 +1566,7 @@
 			"tall"			"135"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1583,7 +1583,7 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1613,7 +1613,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -1630,7 +1630,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1660,7 +1660,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -1677,7 +1677,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1707,7 +1707,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -1727,7 +1727,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 		}
@@ -1769,7 +1769,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1788,7 +1788,7 @@
 			"tall"			"135"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -1805,7 +1805,7 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1835,7 +1835,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -1852,7 +1852,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1882,7 +1882,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -1899,7 +1899,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -1929,7 +1929,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -1949,7 +1949,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 		}
@@ -1991,7 +1991,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -2010,7 +2010,7 @@
 			"tall"			"135"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -2027,7 +2027,7 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -2057,7 +2057,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -2074,7 +2074,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -2104,7 +2104,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -2121,7 +2121,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -2151,7 +2151,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -2171,7 +2171,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 		}
@@ -2213,7 +2213,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -2232,7 +2232,7 @@
 			"tall"			"135"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -2249,7 +2249,7 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -2279,7 +2279,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -2296,7 +2296,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -2326,7 +2326,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -2343,7 +2343,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -2373,7 +2373,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
@@ -2393,7 +2393,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 		}
@@ -2434,7 +2434,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -2453,7 +2453,7 @@
 			"tall"			"135"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanDarker"
@@ -2470,7 +2470,7 @@
 			"tall"			"14"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -2500,7 +2500,7 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"close_button"
 				"scaleImage"	"1"
@@ -2517,7 +2517,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""
@@ -2547,7 +2547,7 @@
 				"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"blog_back"
 				"scaleImage"	"1"
@@ -2568,7 +2568,7 @@
 			"tall"			"30"
 			
 			
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "LightRed"
 		}

@@ -5,12 +5,12 @@
 		"ControlName"		"CPublishedFileBrowserDialog"
 		"fieldName"		"PublishedFileBrowserDialog"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"600"
 		"tall"		"292"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -23,13 +23,13 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"-100"
 		"wide"		"600"
 		"tall"		"292"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"bgcolor_override"	"40 37 37 255"
@@ -45,7 +45,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishedFiles_Files"
@@ -65,7 +65,7 @@
 		"tall"		"180"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
@@ -84,7 +84,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_TitleLabel"
@@ -104,7 +104,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
@@ -126,7 +126,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishFile_DescLabel"
@@ -146,7 +146,7 @@
 		"tall"		"112"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textAlignment"		"north-west"
@@ -168,7 +168,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishedFiles_Add"
@@ -190,7 +190,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishedFiles_Delete"
@@ -212,7 +212,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishedFiles_Edit"
@@ -234,7 +234,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_PublishedFiles_Refresh"
@@ -256,7 +256,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_CLOSE"

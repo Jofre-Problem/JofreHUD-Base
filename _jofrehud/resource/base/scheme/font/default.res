@@ -11,7 +11,7 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"12"
-				"antialias"	"1"
+				//"antialias"	"1"
 				"underline" "1"
 			}
 			"2"
@@ -20,7 +20,7 @@ Scheme
 				
 				"tall"		"11"
 				//"range" 		"0x0000 0x00FF"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}			
 		}
 		"DefaultSmall"
@@ -42,7 +42,7 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"			"16"
-				"antialias"		"1"
+				//"antialias"		"1"
 			}
 			"4"
 			{
@@ -52,7 +52,7 @@ Scheme
 				//"weight"		"0"
 				//"range"			"0x0000 0x017F"
 				//"yres"			"1024 1199"
-				"antialias"		"1"
+				//"antialias"		"1"
 			}
 			"5"
 			{
@@ -62,7 +62,7 @@ Scheme
 				//"weight"		"0"
 				//"range"			"0x0000 0x017F"
 				//"yres"			"1200 6000"
-				"antialias"		"1"
+				//"antialias"		"1"
 			}
 			"6"
 			{
@@ -101,7 +101,7 @@ Scheme
 				//"weight"		"0"
 				//"range"			"0x0000 0x017F"
 				//"yres"			"768 1023"
-				"antialias"		"1"
+				//"antialias"		"1"
 			}
 			"4"
 			{
@@ -111,7 +111,7 @@ Scheme
 				//"weight"		"0"
 				//"range"			"0x0000 0x017F"
 				//"yres"			"1024 1199"
-				"antialias"		"1"
+				//"antialias"		"1"
 			}
 			"5"
 			{
@@ -121,7 +121,7 @@ Scheme
 				//"weight"		"0"
 				//"range"			"0x0000 0x017F"
 				//"yres"			"1200 6000"
-				"antialias"		"1"
+				//"antialias"		"1"
 			}
 		}
 
@@ -153,7 +153,7 @@ Scheme
 				//"weight"		"900"
 				//"range"			"0x0000 0x017F"
 				//"yres"			"768 1023"
-				"antialias"		"1"
+				//"antialias"		"1"
 			}
 			"4"
 			{
@@ -163,7 +163,7 @@ Scheme
 				//"weight"		"900"
 				//"range"			"0x0000 0x017F"
 				//"yres"			"1024 1199"
-				"antialias"		"1"
+				//"antialias"		"1"
 			}
 			"5"
 			{
@@ -173,7 +173,7 @@ Scheme
 				//"weight"		"900"
 				//"range"			"0x0000 0x017F"
 				//"yres"			"1200 6000"
-				"antialias"		"1"
+				//"antialias"		"1"
 			}
 			"6"
 			{

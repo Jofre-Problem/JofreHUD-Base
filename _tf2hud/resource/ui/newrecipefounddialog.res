@@ -27,7 +27,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"wrap"			"0"
 		"labelText"		"#NewRecipeFound"
@@ -45,7 +45,7 @@
 		"zpos"			"100"
 		"wide"			"300"
 		"tall"			"130"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"235 226 202 255"
 		"PaintBackgroundType"	"2"
@@ -67,7 +67,7 @@
 			"tall"			"100"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -87,7 +87,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Ok"

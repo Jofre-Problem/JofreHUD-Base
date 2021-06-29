@@ -9,7 +9,7 @@
 		
 		"wide"			"140"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/misc_ammo_area_blue"
 		"scaleImage"	"1"	
@@ -27,7 +27,7 @@
 		"ypos"			"-6"
 		"wide"			"45"
 		"tall"			"45"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"war_soldier_kills"
 		"scaleImage"	"1"
@@ -40,7 +40,7 @@
 		"ypos"			"-10"
 		"wide"			"50"
 		"tall"			"50"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"war_demo_kills"
 		"scaleImage"	"1"
@@ -57,7 +57,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_WarContribution"
@@ -79,7 +79,7 @@
 		//"tall_lodef"	"28"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%warkills%"
@@ -101,7 +101,7 @@
 		//"tall_lodef"	"28"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%warkills%"

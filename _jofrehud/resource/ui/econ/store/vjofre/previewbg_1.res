@@ -9,7 +9,7 @@
 		"zpos"			"-10"
 		"wide"			"225"
 		"tall"			"280"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"

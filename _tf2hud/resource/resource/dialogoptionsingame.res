@@ -5,12 +5,12 @@
 		"ControlName"		"Frame"
 		"fieldName"		"OptionsDialog"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"824"
 		"tall"		"736"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -19,12 +19,12 @@
 		"ControlName"		"Label"
 		"fieldName"		"InfoText"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"28"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_InfoText"
@@ -40,7 +40,7 @@
 		"tall"		"28"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Close"
@@ -57,7 +57,7 @@
 		"tall"		"445"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}

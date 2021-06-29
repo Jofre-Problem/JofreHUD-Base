@@ -24,7 +24,7 @@
 		"wide"			"f0"
 		"tall"			"p0.9"
 		"proportionaltoparent"	"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"border"		"MainMenuBGBorder"
 
@@ -37,7 +37,7 @@
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"p0.7"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"mouseinputenabled" "0"
 			"image"			"competitive/comp_background_tier001a"
@@ -55,7 +55,7 @@
 			"tall"			"1"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"bgcolor_override"	"255 255 255 252"
@@ -76,7 +76,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"wrap"			"0"
 			"proportionaltoparent"	"1"
@@ -105,7 +105,7 @@
 				"zpos"			"2"
 				"wide"			"50"
 				"tall"			"20"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"font"			"HudFontSmallestBold"
 				//"fgcolor_override"	"89 81 71 255"
@@ -155,7 +155,7 @@
 				"tall"			"25"
 				
 				//"pinCorner"		"3"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"font"			"HudFontSmallBold"
@@ -551,7 +551,7 @@
 					
 					"wide"			"50"
 					"tall"			"50"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"mouseinputenabled" "0"
 					"image"			"pve/mvm_timeout_active_large"
@@ -565,7 +565,7 @@
 					"font"			"HudFontSmall"
 					"labelText"		"#TF_Matchmaking_PartyPenalty"
 					"xpos"		"60"
-					"ypos"		"0"
+					//"ypos"		"0"
 					"zpos"			"2"
 					"wide"		"275"
 					"tall"		"60"

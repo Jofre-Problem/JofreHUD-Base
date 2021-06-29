@@ -5,9 +5,9 @@
 		"fieldName"		"TeamToggleHintIcon"
 		"zpos"			"1"
 		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		//"pinCorner"		"0"
+		//"visible"		"1"
+		//"enabled"		"1"
 	}
 	"DisguiseHintIcon"
 	{
@@ -19,9 +19,9 @@
 		"wide"			"25"
 		"tall"			"25"
 		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		//"pinCorner"		"0"
+		//"visible"		"1"
+		//"enabled"		"1"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
 	}

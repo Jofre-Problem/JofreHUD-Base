@@ -25,7 +25,7 @@
 		"tall"			"240"
 		"autoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -39,7 +39,7 @@
 		"tall"			"240"
 		"autoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"textAlignment"		"northwest"
 		//"textHidden"		"0"
@@ -58,7 +58,7 @@
 		"tall"			"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"Message Title"
 		//"textAlignment"		"west"
@@ -76,7 +76,7 @@
 		"tall"			"20"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#PropertyDialog_OK"
 		"textAlignment"		"center"

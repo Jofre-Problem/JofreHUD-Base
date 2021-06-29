@@ -641,8 +641,8 @@
 		"count_ypos"	"8"
 		
 		"icon_texture"	"vgui/hud/icon_commentary"
-		"icon_xpos"		"0"
-		"icon_ypos"		"0"		
+		//"icon_xpos"		"0"
+		//"icon_ypos"		"0"		
 		"icon_width"	"40"
 		"icon_height"	"40"
 	}
@@ -691,7 +691,7 @@
 		
 		"wide"			"640"
 		"tall"			"480"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"bgcolor_override"	"Blank"
 		"PaintBackgroundType"	"0" // rounded corners

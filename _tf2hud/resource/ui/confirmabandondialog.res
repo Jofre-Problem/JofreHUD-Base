@@ -10,7 +10,7 @@
 		"tall"			"250"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -31,7 +31,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -49,7 +49,7 @@
 		"tall"			"130"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"centerwrap"	"1"
 		"fgcolor_override" "LightRed"
@@ -66,7 +66,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"
@@ -89,7 +89,7 @@
 		"zpos"			"25"
 		"wide"			"25"
 		"tall"			"25"
-		////"visible"		"1"
+		//"visible"		"1"
 		"actionSet"		"MenuControls"
 		"actionName"	"menu_cancel"
 	}
@@ -106,7 +106,7 @@
 		//"Default"		"1"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#ConfirmButtonText"
@@ -129,7 +129,7 @@
 		"zpos"			"25"
 		"wide"			"25"
 		"tall"			"25"
-		////"visible"		"1"
+		//"visible"		"1"
 		"actionSet"		"MenuControls"
 		"actionName"	"menu_select"
 	}
@@ -145,7 +145,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_Confirm_Opt_Out"

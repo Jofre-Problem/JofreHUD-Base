@@ -19,7 +19,7 @@
 		"ControlName"		"Panel"
 		"fieldName"		"TopGrip"
 		"xpos"		"11"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"378"
 		"tall"		"5"
 		
@@ -75,7 +75,7 @@
 		"ControlName"		"Panel"
 		"fieldName"		"TopLeftGrip"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"11"
 		"tall"		"11"
 		
@@ -89,7 +89,7 @@
 		"ControlName"		"Panel"
 		"fieldName"		"TopRightGrip"
 		"xpos"		"389"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"11"
 		"tall"		"11"
 		
@@ -202,7 +202,7 @@
 		"ControlName"		"Menu"
 		"fieldName"		"SysMenu"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		

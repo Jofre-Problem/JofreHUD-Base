@@ -25,7 +25,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"wrap"			"0"
 		"labelText"		"#TF_ServerNoSteamConn_Title"
@@ -44,7 +44,7 @@
 		"tall"			"55"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"labelText"		"#TF_ServerNoSteamConn_Explanation"
@@ -62,7 +62,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Ok"

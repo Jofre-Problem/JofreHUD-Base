@@ -30,7 +30,7 @@
 		
 		"wide"			"254"
 		"tall"			"4"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		""
 		"image"			"../hud/cart_track"
@@ -72,7 +72,7 @@
 			"ypos"			"114"
 			"zpos"			"6"
 			"tall"			"12"
-			////"visible"		"1"
+			//"visible"		"1"
 		}
 	}		
 	
@@ -91,7 +91,7 @@
 		"tall_minmode"		"18"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -187,7 +187,7 @@
 		"wide_minmode"		"52"		
 		"tall"			"115"
 		"tall_minmode"		"75"		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 				
 		"if_multiple_trains"
@@ -215,7 +215,7 @@
 			"tall_minmode"		"7"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%recede%"
 			"textAlignment"	"center"
@@ -256,7 +256,7 @@
 			"tall_minmode"		"26"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		""

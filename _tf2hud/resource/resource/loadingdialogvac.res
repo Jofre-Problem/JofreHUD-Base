@@ -10,7 +10,7 @@
 		"tall"		"180"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_ParseBaseline"
@@ -42,7 +42,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -56,7 +56,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Cancel"
@@ -94,7 +94,7 @@
 		"tall"		"60"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		
@@ -113,7 +113,7 @@
 		"tall"		"64"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"border"		""
 		"scaleimage"	"1"

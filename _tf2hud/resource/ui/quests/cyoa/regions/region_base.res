@@ -53,7 +53,7 @@
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"f0"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"scaleImage"	"1"
 			"image"			"cyoa\cyoa_map_lvl2_bg_a"
@@ -62,7 +62,7 @@
 			"mouseinputenabled"	"0"
 			"keyboardinputenabled" "	0"
 			"bgcolor_override"	"43 43 43 255"
-			"paintbackground"	"1"
+			//"paintbackground"	"1"
 		}
 
 		"ZoomPanel"
@@ -73,7 +73,7 @@
 			"zpos"			"1"
 			"wide"			"f0"
 			"tall"			"f0"
-			////"visible"		"1"
+			//"visible"		"1"
 			"proportionaltoparent" "1"
 			"skip_autoresize"	"1"
 			"max_zoom"		"5"
@@ -89,7 +89,7 @@
 				"zpos"			"2"
 				"wide"			"f0"
 				"tall"			"f0"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"proportionaltoparent" "1"
 				"mouseinputenabled"		"0"
@@ -106,7 +106,7 @@
 			"zpos"			"102"
 			"wide"			"f0"
 			"tall"			"f0"
-			////"visible"		"1"
+			//"visible"		"1"
 			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"		"0"

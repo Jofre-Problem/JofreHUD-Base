@@ -9,7 +9,7 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"350"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"PaintBackgroundType"	"2"
 		"paintbackground"	"0"
@@ -28,7 +28,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "TanLight"
 			"proportionaltoparent"	"1"
@@ -47,7 +47,7 @@
 			"tall"			"40"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanLight"
@@ -67,7 +67,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "TanLight"
 			"proportionaltoparent"	"1"
@@ -86,7 +86,7 @@
 			"tall"			"60"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanLight"
@@ -104,7 +104,7 @@
 			"tall"			"p0.2"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"proportionaltoparent"	"1"
@@ -132,7 +132,7 @@
 				
 				"wide"			"f0"
 				"tall"			"f0"
-				////"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"0"
 				"proportionaltoparent"	"1"
 
@@ -150,7 +150,7 @@
 				"wide"			"p0.3"
 				"tall"			"f0"
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				//"Default"		"1"
@@ -162,7 +162,7 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 			
-				"paintbackground"	"1"
+				//"paintbackground"	"1"
 
 				"defaultBgColor_override" "0 0 0 64"
 				"armedBgColor_override" "0 0 0 0"
@@ -179,7 +179,7 @@
 					"zpos"			"1"
 					"wide"			"o1"
 					"tall"			"f0"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"scaleImage"	"1"
 					"proportionaltoparent"	"1"
@@ -217,7 +217,7 @@
 				"tall"			"f0"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"fgcolor_override" "TanLight"
 				"proportionaltoparent"	"1"
@@ -233,7 +233,7 @@
 				"wide"			"p0.3"
 				"tall"			"f0"
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				//"Default"		"1"
@@ -245,7 +245,7 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 			
-				"paintbackground"	"1"
+				//"paintbackground"	"1"
 
 				"defaultBgColor_override" "0 0 0 64"
 				"armedBgColor_override" "0 0 0 0"
@@ -262,7 +262,7 @@
 					"zpos"			"1"
 					"wide"			"o1"
 					"tall"			"f0"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"scaleImage"	"1"
 					"proportionaltoparent"	"1"
@@ -300,7 +300,7 @@
 				"tall"			"f0"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"fgcolor_override" "TanLight"
 				"proportionaltoparent"	"1"
@@ -315,7 +315,7 @@
 				"zpos"			"10"
 				"wide"			"p0.3"
 				"tall"			"f0"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"proportionaltoparent"	"1"
 
@@ -335,7 +335,7 @@
 				"wide"			"p0.3"
 				"tall"			"f0"
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				//"Default"		"1"
@@ -347,7 +347,7 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 			
-				"paintbackground"	"1"
+				//"paintbackground"	"1"
 			
 				"defaultBgColor_override" "0 0 0 64"
 				"armedBgColor_override" "0 0 0 0"
@@ -387,7 +387,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "TanLight"
 			"proportionaltoparent"	"1"
@@ -406,7 +406,7 @@
 			"tall"			"40"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"fgcolor_override" "TanLight"

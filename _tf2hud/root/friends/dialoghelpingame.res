@@ -8,7 +8,7 @@
 		"ypos"		"206"
 		"wide"		"484"
 		"tall"		"240"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -20,7 +20,7 @@
 		"ypos"		"36"
 		"wide"		"450"
 		"tall"		"136"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textAlignment"		"center"
@@ -33,7 +33,7 @@
 		"ypos"		"188"
 		"wide"		"64"
 		"tall"		"24"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"labelText"		"#TrackerUI_Close"
@@ -49,7 +49,7 @@
 		"ypos"		"186"
 		"wide"		"194"
 		"tall"		"24"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"labelText"		"#TrackerUI_NeverShowThisDialogAgain"

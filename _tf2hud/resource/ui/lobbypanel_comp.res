@@ -46,7 +46,7 @@
 		"zpos"			"100"
 		"wide"			"260"
 		"tall"			"290"
-		////"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"ShowLeaderboardsButton"
@@ -58,7 +58,7 @@
 			
 			"wide"			"p0.45"
 			"tall"			"15"
-			////"visible"		"1"
+			//"visible"		"1"
 			"proportionaltoparent"	"1"
 
 				
@@ -82,7 +82,7 @@
 			
 			"wide"			"p0.45"
 			"tall"			"15"
-			////"visible"		"1"
+			//"visible"		"1"
 			"proportionaltoparent"	"1"
 
 			"actionsignallevel"		"2"
@@ -106,7 +106,7 @@
 			"zpos"			"-1"
 			"wide"			"p0.98"
 			"tall"			"p1"
-			////"visible"		"1"
+			//"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"MainMenuBGBorder"
 			"proportionaltoparent"	"1"
@@ -123,7 +123,7 @@
 				"zpos"			"100"
 				"wide"			"p0.95"
 				"tall"			"p0.89"
-				////"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"border"		"InnerShadowBorder"
 				"proportionaltoparent"	"1"
@@ -139,7 +139,7 @@
 				"zpos"		"10"
 				"wide"			"p0.95"
 				"tall"			"20"
-				////"visible"		"1"
+				//"visible"		"1"
 				"proportionaltoparent"	"1"
 
 				"BGPanel"
@@ -151,7 +151,7 @@
 					"zpos"			"-100"
 					"wide"			"p1.2"
 					"tall"			"p1.3"
-					////"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 					"border"		"MainMenuBGBorder"
 				}
@@ -165,7 +165,7 @@
 					"wide"			"20"
 					"tall"			"f0"
 					"proportionaltoparent"	"1"
-					////"visible"		"1"
+					//"visible"		"1"
 					"paintbackground"	"0"
 					"mouseinputenabled"	"0"
 			
@@ -187,7 +187,7 @@
 					"wide"			"p0.18"
 					"tall"			"18"
 					"proportionaltoparent"	"1"
-					////"visible"		"1"
+					//"visible"		"1"
 					"paintbackground"	"0"
 					"border_default"		"SortCategoryBorder"	
 			
@@ -221,7 +221,7 @@
 					"wide"			"p0.4"
 					"tall"			"18"
 					"proportionaltoparent"	"1"
-					////"visible"		"1"
+					//"visible"		"1"
 					"paintbackground"	"0"	
 					"border_default"		"SortCategoryBorder"
 			
@@ -255,7 +255,7 @@
 					"wide"			"p0.29"
 					"tall"			"18"
 					"proportionaltoparent"	"1"
-					////"visible"		"1"
+					//"visible"		"1"
 					"paintbackground"	"0"
 					"border_default"		"SortCategoryBorder"
 			
@@ -289,7 +289,7 @@
 					"wide"			"p0.12"
 					"tall"			"18"
 					"proportionaltoparent"	"1"
-					////"visible"		"1"
+					//"visible"		"1"
 					"paintbackground"	"0"
 			
 					"labeltext"			"#TF_Competitive_KDR"
@@ -321,7 +321,7 @@
 				"ypos"			"40"
 				"wide"			"p0.95"
 				"tall"			"p0.84"
-				////"visible"		"1"
+				//"visible"		"1"
 				"proportionaltoparent"	"1"
 				"restrict_width" "0"
 
@@ -583,7 +583,7 @@
 			{
 				"font"		"HudFontSmallest"
 				"xpos"		"60"
-				"ypos"		"0"
+				//"ypos"		"0"
 				"zpos"		"2"
 				"wide"		"f70"
 				"tall"		"f0"

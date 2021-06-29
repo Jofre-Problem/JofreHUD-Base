@@ -20,7 +20,7 @@
 		
 		"wide"			"84"
 		"tall"			"42"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/misc_ammo_area_blue"
 		"scaleImage"	"1"	
@@ -43,7 +43,7 @@
 		//"wide_lodef"	"15"
 		"tall"			"10"
 		//"tall_lodef"	"15"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
@@ -62,7 +62,7 @@
 		"tall"			"26"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%metal%"

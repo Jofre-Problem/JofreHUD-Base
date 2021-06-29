@@ -6,7 +6,7 @@
 		"fieldName"		"CutsPanel"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"paintbackground"	"0"
 		
@@ -34,7 +34,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"zpos"			"1"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"scaleImage"	"1"
 			}				
@@ -57,7 +57,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"VerticalLine"
 		"wide"				"1"
-		"PaintBackground"	"1"
+		//"paintbackground"	"1"
 		"bgcolor_override" "122 111 98 255"
 	}
 	
@@ -149,7 +149,7 @@
 		"zpos"			"1"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"centerwrap"	"0"
 		"fgcolor_override"	"117 107 94 255"

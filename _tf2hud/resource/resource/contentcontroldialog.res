@@ -10,7 +10,7 @@
 		"tall"		"250"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"28"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"	"#GameUI_ContentStatusDisabled"
@@ -41,7 +41,7 @@
 		"tall"		"28"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_PasswordPrompt"
@@ -58,7 +58,7 @@
 		"tall"		"28"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_PasswordReentryPrompt"
@@ -75,7 +75,7 @@
 		"tall"		"28"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -92,7 +92,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"textHidden"		"1"
@@ -109,7 +109,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		"textHidden"		"1"
@@ -126,7 +126,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_OK"
@@ -145,7 +145,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_Cancel"
@@ -164,7 +164,7 @@
 		"tall"		"590"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}

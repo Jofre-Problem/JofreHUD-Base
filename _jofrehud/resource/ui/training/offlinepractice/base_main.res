@@ -11,7 +11,7 @@
 		"tall"			"43"
 		
 		
-		////"visible"		"1"
+		//////"visible"		"1"
 		
 		
 		"labelText"		"#TF_LessThan"
@@ -36,7 +36,7 @@
 		"tall"			"43"
 		
 		
-		////"visible"		"1"
+		//////"visible"		"1"
 		
 		
 		"labelText"		"#TF_GreaterThan"

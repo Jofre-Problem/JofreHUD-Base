@@ -10,7 +10,7 @@
 		"tall"		"396"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,7 +26,7 @@
 		"tall"		"40"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		"leftText"		"#GameUI_LIGHT"
@@ -42,7 +42,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_Gamma"
@@ -61,7 +61,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"2"
 		//"textHidden"		"0"
@@ -80,7 +80,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"3"
 		"labelText"		"#vgui_ok"
@@ -101,7 +101,7 @@
 		"tall"		"192"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"image"		"gamma"
@@ -117,7 +117,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"4"
 		"labelText"		"#vgui_Cancel"
@@ -138,7 +138,7 @@
 		"tall"		"53"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_GammaInfo"

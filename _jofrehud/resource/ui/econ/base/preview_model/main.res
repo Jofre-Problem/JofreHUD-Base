@@ -6,7 +6,7 @@
 		"fieldName"		"preview_model"
 		"ypos"			"40"
 		"zpos"			"1"
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"

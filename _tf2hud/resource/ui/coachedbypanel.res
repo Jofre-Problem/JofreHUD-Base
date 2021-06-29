@@ -54,7 +54,7 @@
 		"zpos"			"-1"
 		"wide"			"36"
 		"tall"			"36"
-		////"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"TanDark"
 	}
@@ -67,7 +67,7 @@
 		
 		"wide"			"32"
 		"tall"			"32"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			""
 		"scaleImage"	"1"	
@@ -87,7 +87,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		""
 		//"textAlignment"	"west"
@@ -107,7 +107,7 @@
 		"tall"			"10"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"labelText"		"#TF_Coach_KickCoach"

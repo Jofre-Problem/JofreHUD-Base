@@ -10,7 +10,7 @@
 		"tall"		"330"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,7 +26,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GAMEUI_Commentary_LabelOn"
@@ -46,7 +46,7 @@
 		"tall"		"54"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GAMEUI_Commentary_WhatIs"
@@ -65,7 +65,7 @@
 		"tall"		"58"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GAMEUI_Commentary_HowToUse"
@@ -84,7 +84,7 @@
 		"tall"		"58"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GAMEUI_COMMENTARY_GOD"
@@ -103,7 +103,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#vgui_ok"
@@ -125,7 +125,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#vgui_cancel"

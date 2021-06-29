@@ -17,12 +17,12 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"-100"
 		"wide"		"f0"
 		"tall"		"f0"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"bgcolor_override"	"0 0 0 255"
@@ -344,7 +344,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"dulltext"		"0"
 		//"brighttext"	"0"
@@ -476,7 +476,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -514,7 +514,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -552,7 +552,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -590,7 +590,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -632,7 +632,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
@@ -667,7 +667,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"dulltext"		"0"
 		//"brighttext"	"0"
@@ -703,7 +703,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
@@ -736,7 +736,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -775,7 +775,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -799,7 +799,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -823,7 +823,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -864,7 +864,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"dulltext"		"0"
 		//"brighttext"	"0"
@@ -899,7 +899,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"dulltext"		"0"
 		//"brighttext"	"0"
@@ -935,7 +935,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
@@ -1028,7 +1028,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -1052,7 +1052,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -1076,7 +1076,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -1117,7 +1117,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		//"dulltext"		"0"
 		//"brighttext"	"0"
@@ -1250,7 +1250,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -1274,7 +1274,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -1298,7 +1298,7 @@
 		"tall"		"12"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
 		//"textHidden"		"0"
@@ -1322,7 +1322,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_OK"
@@ -1345,7 +1345,7 @@
 		"tall"		"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Cancel"

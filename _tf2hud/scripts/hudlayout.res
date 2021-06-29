@@ -57,8 +57,8 @@
 	HudItemEffectMeter
 	{
 		"fieldName"		"HudItemEffectMeter"
-		////"visible"		"1"
-		//"enabled"		"1"
+		//"visible"		"1"
+		////"enabled"		"1"
 		"xpos"			"r162"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
@@ -74,8 +74,8 @@
 	HudMedicCharge
 	{
 		"fieldName"		"HudMedicCharge"
-		////"visible"		"1"
-		//"enabled"		"1"
+		//"visible"		"1"
+		////"enabled"		"1"
 		"xpos"			"r138"	[$WIN32]
 		"xpos_minmode"	"r100"	[$WIN32]
 		"ypos"			"r69"	[$WIN32]
@@ -89,8 +89,8 @@
 	HudDemomanCharge
 	{
 		"fieldName"		"HudDemomanCharge"
-		////"visible"		"1"
-		//"enabled"		"1"
+		//"visible"		"1"
+		////"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r21"	[$WIN32]
@@ -108,8 +108,8 @@
 	HudBowCharge
 	{
 		"fieldName"		"HudBowCharge"
-		////"visible"		"1"
-		//"enabled"		"1"
+		//"visible"		"1"
+		////"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r21"	[$WIN32]
@@ -127,8 +127,8 @@
 	HudFlameRocketCharge
 	{
 		"fieldName"		"HudFlameRocketCharge"
-		////"visible"		"1"
-		//"enabled"		"1"
+		//"visible"		"1"
+		////"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r21"	[$WIN32]
@@ -146,8 +146,8 @@
 	HudBossHealth
 	{
 		"fieldName"		"HudBossHealth"
-		////"visible"		"1"
-		//"enabled"		"1"
+		//"visible"		"1"
+		////"enabled"		"1"
 		"xpos"			"c-100"
 		"ypos"			"42"
 					// draw in front of ammo
@@ -314,7 +314,7 @@
 		"fieldName" "BuildingStatus_Spy"
 		"visible"	"1"
 		"enabled"	"1"
-		"ypos"		"0"	[$WIN32]
+		//"ypos"		"0"	[$WIN32]
 		"xpos"		"32"	[$X360]
 		"ypos"		"16"	[$X360]		
 		"wide"		"640"
@@ -331,7 +331,7 @@
 		
 		//"xpos_hidef"		"32"
 		//"xpos_lodef"		"40"
-		"ypos"		"0"
+		//"ypos"		"0"
 		//"ypos_hidef"		"16"
 		//"ypos_lodef"		"25"
 		"wide"		"640"
@@ -346,7 +346,7 @@
 		"visible"	"1"
 		"enabled"	"1"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"1"
 		"wide"		"f0"
 		"tall"		"480"
@@ -383,7 +383,7 @@
 
 		"FlashColor" "HudIcon_Red"		
 
-		"icon_xpos"		"0"
+		//"icon_xpos"		"0"
 		"icon_ypos"		"2"
 		"digit_xpos"	"34"
 		"digit_ypos"	"2"
@@ -449,8 +449,8 @@
 		"count_ypos"	"8"
 		
 		"icon_texture"	"vgui/hud/icon_commentary"
-		"icon_xpos"		"0"
-		"icon_ypos"		"0"		
+		//"icon_xpos"		"0"
+		//"icon_ypos"		"0"		
 		"icon_width"	"40"
 		"icon_height"	"40"
 
@@ -958,7 +958,7 @@
 	{
 		"fieldName"		"HudUpgradePanel"
 		"visible"		"0"
-		//"enabled"		"1"	
+		////"enabled"		"1"	
 		"xpos"			"c-200"
 		"ypos"			"260"
 		"wide"			"400"
@@ -1033,8 +1033,8 @@
 	HudDemomanPipes
 	{
 		"fieldName"		"HudDemomanPipes"
-		////"visible"		"1"
-		//"enabled"		"1"
+		//"visible"		"1"
+		////"enabled"		"1"
 		"xpos"			"r162"	[$WIN32]
 		"xpos_minmode"	"r110"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
@@ -1234,8 +1234,8 @@
 		"zpos"			"2"
 		"wide"			"280"
 		"tall"			"280"
-		////"visible"		"1"
-		//"enabled"		"1"	
+		//"visible"		"1"
+		////"enabled"		"1"	
 	}
 	
 	HudTrainingInfoMsg
@@ -1295,14 +1295,14 @@
 	{
 		"fieldName"		"ReplayReminder"
 		"visible"		"0"
-		//"enabled"		"1"	
+		////"enabled"		"1"	
 	}
 	
 	MainMenuAdditions
 	{
 		"fieldName"		"MainMenuAdditions"
-		////"visible"		"1"
-		//"enabled"		"1"
+		//"visible"		"1"
+		////"enabled"		"1"
 		"xpos"			"c0"
 		"ypos"			"310"
 		
@@ -1314,7 +1314,7 @@
 	{
 		"fieldName"		"CoachedByPanel"
 		"visible"		"0"
-		//"enabled"		"1"	
+		////"enabled"		"1"	
 		"xpos"			"5"
 		"ypos"			"10"
 		"wide"			"250"
@@ -1325,7 +1325,7 @@
 	{
 		"fieldName"		"ItemTestHUDPanel"
 		"visible"		"0"
-		//"enabled"		"1"	
+		////"enabled"		"1"	
 		"xpos"			"5"
 		"ypos"			"10"
 		"wide"			"150"
@@ -1336,7 +1336,7 @@
 	{
 		"fieldName"		"NotificationQueuePanel"
 		"visible"		"0"
-		//"enabled"		"1"	
+		////"enabled"		"1"	
 		"xpos"			"r155"
 		"ypos"			"r90"
 		"zpos"			"100"
@@ -1351,8 +1351,8 @@
 		
 		"wide"			"640"
 		"tall"			"480"
-		////"visible"		"1"
-		//"enabled"		"1"
+		//"visible"		"1"
+		////"enabled"		"1"
 		"bgcolor_override"	"Blank"
 		"PaintBackgroundType"	"0" // rounded corners
 	}
@@ -1361,7 +1361,7 @@
 	{
 		"fieldName"		"HudAlert"
 		"visible"		"0"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		// might fix something
 		"xpos"			"c-160"
 		"ypos"			"100"
@@ -1377,8 +1377,8 @@
 		
 		"wide"			"640"
 		"tall"			"480"
-		////"visible"		"1"
-		//"enabled"		"1"
+		//"visible"		"1"
+		////"enabled"		"1"
 		"bgcolor_override"	"Blank"
 		"PaintBackgroundType"	"0" // rounded corners
 	}

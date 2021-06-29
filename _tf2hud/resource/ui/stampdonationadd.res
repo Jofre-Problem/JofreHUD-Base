@@ -10,7 +10,7 @@
 		"tall"			"260"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -31,7 +31,7 @@
 		"tall"			"30"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -49,7 +49,7 @@
 		"tall"			"50"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"fgcolor_override" "LightRed"
@@ -69,7 +69,7 @@
 		"tall"			"170"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"fgcolor_override" "LightRed"
@@ -85,7 +85,7 @@
 		"tall"			"150"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"scaleImage"		"1"
@@ -101,7 +101,7 @@
 		"tall"			"140"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"scaleImage"		"1"
@@ -142,7 +142,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Store_AddToCart"
@@ -170,7 +170,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"centerwrap"	"1"
 		"fgcolor_override" "121 195 58 255"

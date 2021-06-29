@@ -32,7 +32,7 @@
 			"tall"			"60"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -51,7 +51,7 @@
 		"wide"			"106"
 		"tall"			"25"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#DoneButton"
@@ -76,7 +76,7 @@
 		"zpos"			"200"
 		"wide"			"f0"
 		"tall"			"f0"
-		////"visible"		"1"
+		//"visible"		"1"
 	}
 
 
@@ -91,7 +91,7 @@
 		"tall"			"320"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 			
 		"PaintBackgroundType" "2"
@@ -107,7 +107,7 @@
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"10"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
@@ -126,13 +126,13 @@
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"10"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
 
 		"pin_to_sibling"               "OutterBackground"
-		"pin_corner_to_sibling"        "0"          
+		//"pin_corner_to_sibling"        "0"          
 		"pin_to_sibling_corner"        "2" 
 	}	
 	
@@ -146,7 +146,7 @@
 		"zpos"			"100"
 		"wide"			"399"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 
 		"PlayerTab1"
 		{
@@ -158,7 +158,7 @@
 			"wide"			"63"
 			"tall"			"f0"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"bgcolor_override"	"42 41 39 255"
@@ -177,7 +177,7 @@
 			"tall"			"f0"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"bgcolor_override"	"77 72 68 255"
@@ -196,7 +196,7 @@
 			"tall"			"f0"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"bgcolor_override"	"77 72 68 255"
@@ -215,7 +215,7 @@
 			"tall"			"f0"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"bgcolor_override"	"77 72 68 255"
@@ -234,7 +234,7 @@
 			"tall"			"f0"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"bgcolor_override"	"77 72 68 255"
@@ -253,7 +253,7 @@
 			"tall"			"f0"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"bgcolor_override"	"77 72 68 255"
@@ -271,7 +271,7 @@
 		"zpos"			"-10"
 		"wide"			"f0"
 		"tall"			"480"
-		////"visible"		"1"
+		//"visible"		"1"
 
 
 			
@@ -283,7 +283,7 @@
 			
 			"wide"			"530"
 			"tall"			"480"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"NoItemServerHeader"
 			{

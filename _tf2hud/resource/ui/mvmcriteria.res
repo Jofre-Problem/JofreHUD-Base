@@ -160,7 +160,7 @@
 			
 			"wide"			"110"
 			"tall"			"110"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"mouseinputenabled" "0"
 			"image"			"pve/mvm_loot_image"
@@ -237,7 +237,7 @@
 			
 			"wide"			"70"
 			"tall"			"40"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"mouseinputenabled" "1"
 			//"paintborder"	"0"
@@ -281,7 +281,7 @@
 			
 			"wide"			"70"
 			"tall"			"40"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"mouseinputenabled" "1"
 			//"paintborder"	"0"
@@ -430,7 +430,7 @@
 			"zpos"			"105"
 			"wide"			"35"
 			"tall"			"35"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"glyph_alert"
 			"scaleImage"	"1"
@@ -485,7 +485,7 @@
 			
 			"wide"			"110"
 			"tall"			"110"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"mouseinputenabled" "0"
 			"image"			"pve/mvm_loot_image"
@@ -532,7 +532,7 @@
 			"tall"			"20"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_MvM_MannUpNow"
@@ -598,7 +598,7 @@
 			
 			"wide"			"60"
 			"tall"			"60"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"mouseinputenabled" "0"
 			"image"			"../hud/mvm_tours"

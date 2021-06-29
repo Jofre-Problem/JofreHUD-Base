@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"	"ControlPointProgressBar"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"20"
 		"wide"		"100"
 		"wide_minmode"		"65"
@@ -42,7 +42,7 @@
 		"fieldName"	"Teardrop"
 		"xpos"		"24"
 		"xpos_minmode"		"16"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"ypos_minmode"		"0"
 		"zpos"		"21"
 		"wide"		"54"
@@ -62,7 +62,7 @@
 		"fieldName"	"TeardropSide"
 		"xpos"		"24"
 		"xpos_minmode"		"15"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"ypos_minmode"		"0"
 		"zpos"		"21"
 		"wide"		"54"
@@ -93,7 +93,7 @@
 		"tall_minmode"			"36"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"progress"
 		//"dulltext"		"0"

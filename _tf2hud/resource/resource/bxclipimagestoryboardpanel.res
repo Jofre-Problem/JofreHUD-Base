@@ -10,7 +10,7 @@
 		"tall"		"135"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		"tall"		"96"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -39,7 +39,7 @@
 		"tall"		"103"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		//"scaleImage"		"0"
@@ -49,12 +49,12 @@
 		"ControlName"		"Label"
 		"fieldName"		"ClipName"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"146"
 		"tall"		"16"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Street Level"
@@ -74,7 +74,7 @@
 		"tall"		"16"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"whee"
@@ -95,7 +95,7 @@
 		"tall"		"165"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}

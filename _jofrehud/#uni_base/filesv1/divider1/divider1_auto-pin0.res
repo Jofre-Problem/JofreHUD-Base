@@ -2,7 +2,7 @@
 {
 	"Divider1"
 	{
-		"AutoResize"		"0"
-		"PinCorner"		"0"
+		//"autoResize"		"0"
+		//"pinCorner"		"0"
 	}
 }

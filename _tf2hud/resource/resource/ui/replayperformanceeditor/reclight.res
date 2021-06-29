@@ -24,7 +24,7 @@
 		"fieldName"		"CameraFringe"
 		
 		"wide"			"f0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"replay/replay_camera_fringe"
 		"tileImage"		"0"
@@ -40,7 +40,7 @@
 		
 		"wide"			"430"
 		"tall"			"430"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"replay/replay_camera_crosshair"
 		"tileImage"		"0"
@@ -55,7 +55,7 @@
 		"wide"			"42"
 		"tall"			"42"
 		"zpos"			"11"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"replay/replay_camera_reclight_on"
 		"scaleImage"	"1"	
@@ -68,7 +68,7 @@
 		"wide"			"42"
 		"tall"			"42"
 		"zpos"			"11"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"replay/replay_camera_reclight_off"
 		"scaleImage"	"1"	

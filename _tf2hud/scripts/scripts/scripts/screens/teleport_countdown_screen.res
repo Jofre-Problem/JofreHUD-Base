@@ -23,7 +23,7 @@
 		"tall"			"80"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"Time Remaining"
@@ -46,7 +46,7 @@
 		"tall"			"80"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"0"
@@ -69,7 +69,7 @@
 		"tall"			"80"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"MALFUNCTION"

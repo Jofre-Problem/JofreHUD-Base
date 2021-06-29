@@ -9,7 +9,7 @@
 		
 		"wide"			"470"
 		"tall"			"170"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"
@@ -37,7 +37,7 @@
 		"zpos"			"1"
 		"wide"			"50"
 		"tall"			"50"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_taunt_menu_icon"
@@ -56,7 +56,7 @@
 		"tall"			"38"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Taunt_Title"
 		"textAlignment"	"Left"
@@ -77,7 +77,7 @@
 		"tall"			"38"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Taunt_Title"
 		"textAlignment"	"Left"
@@ -97,7 +97,7 @@
 		"tall"			"13"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Taunt_Weapon"
 		//"textAlignment"	"west"
@@ -117,7 +117,7 @@
 		"tall"			"13"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Taunt_Cancel"
 		"textAlignment"	"east"
@@ -134,7 +134,7 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
@@ -169,7 +169,7 @@
 		"zpos"			"4"
 		"wide"			"15"
 		"tall"			"15"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
@@ -189,7 +189,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"1"
 		"textAlignment"	"Center"
@@ -206,7 +206,7 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
@@ -241,7 +241,7 @@
 		"zpos"			"4"
 		"wide"			"15"
 		"tall"			"15"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
@@ -261,7 +261,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"2"
 		"textAlignment"	"Center"
@@ -278,7 +278,7 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
@@ -313,7 +313,7 @@
 		"zpos"			"4"
 		"wide"			"15"
 		"tall"			"15"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
@@ -333,7 +333,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"3"
 		"textAlignment"	"Center"
@@ -350,7 +350,7 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
@@ -385,7 +385,7 @@
 		"zpos"			"4"
 		"wide"			"15"
 		"tall"			"15"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
@@ -405,7 +405,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"4"
 		"textAlignment"	"Center"
@@ -422,7 +422,7 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
@@ -457,7 +457,7 @@
 		"zpos"			"4"
 		"wide"			"15"
 		"tall"			"15"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
@@ -477,7 +477,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"5"
 		"textAlignment"	"Center"
@@ -494,7 +494,7 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
@@ -529,7 +529,7 @@
 		"zpos"			"4"
 		"wide"			"15"
 		"tall"			"15"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
@@ -549,7 +549,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"6"
 		"textAlignment"	"Center"
@@ -566,7 +566,7 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
@@ -601,7 +601,7 @@
 		"zpos"			"4"
 		"wide"			"15"
 		"tall"			"15"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
@@ -621,7 +621,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"7"
 		"textAlignment"	"Center"
@@ -638,7 +638,7 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
@@ -673,7 +673,7 @@
 		"zpos"			"4"
 		"wide"			"15"
 		"tall"			"15"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
@@ -693,7 +693,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"8"
 		"textAlignment"	"Center"

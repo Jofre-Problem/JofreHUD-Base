@@ -3,7 +3,7 @@
 	HudItemEffectMeter
 	{
 		"fieldName"		"HudItemEffectMeter"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"xpos"			"r86"	[$WIN32]
 		"ypos"			"r102"	[$WIN32]
@@ -24,7 +24,7 @@
 		
 		"wide"			"90"
 		"tall"			"56"
-		////"visible"		"1"
+		//"visible"		"1"
 		"visible_minmode"	"0"
 		
 		"image"			"../hud/misc_ammo_area_blue"
@@ -48,7 +48,7 @@
 		"wide_minmode"	"20"
 		"tall"			"27"
 		"tall_minmode"	"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"../hud/ico_powerup_critboost_red"
 		"scaleImage"	"1"

@@ -26,7 +26,7 @@
 		"tall"			"160"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"tabPosition"	"10"
 		"paintborder"	"1"
@@ -41,7 +41,7 @@
 			"zpos"			"1"
 			"wide"			"18"
 			"tall"			"18"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"replay/replayicon"
 			"scaleImage"	"1"	
@@ -61,7 +61,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"10"
 			"fgcolor_override" "255 255 255 255"
@@ -80,7 +80,7 @@
 			"tall"			"300"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override" "255 255 255 255"
 			"wrap"			"1"
@@ -119,7 +119,7 @@
 			"tall"			"20"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"tabPosition"	"2"
 			"font"			"ReplayMediumSmall"

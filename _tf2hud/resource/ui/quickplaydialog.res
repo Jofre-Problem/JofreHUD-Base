@@ -5,12 +5,12 @@
 		"ControlName"	"CQuickplayDialog"
 		"fieldName"		"QuickplayDialog"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"bgcolor_override"	"0 0 0 240"
@@ -29,7 +29,7 @@
 		"tall"		"410"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"PaintBackgroundType"	"0"
@@ -41,12 +41,12 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Background"
 			
-			"ypos"		"0"
+			//"ypos"		"0"
 			"wide"		"f0"
 			"tall"		"f0"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"bgcolor_override"	"40 37 37 255"
@@ -67,7 +67,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 
@@ -97,7 +97,7 @@
 				"tall"			"20"
 				"autoResize"	"1"
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"fgcolor_override"	"89 81 71 255"
 			}
@@ -113,7 +113,7 @@
 				"tall"			"15"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"labelText"		"?"
@@ -132,7 +132,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ModeInfoContainer"
 				"xpos"		"30"
-				"ypos"		"0"
+				//"ypos"		"0"
 				"wide"		"320"
 				"tall"		"245"
 				"visible"	"1"
@@ -148,7 +148,7 @@
 					
 					"wide"			"230"
 					"tall"			"230"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"mouseinputenabled" "0"
 					"image"			"maps/menu_screen_ctf_2fort"
@@ -169,7 +169,7 @@
 					"tall"			"25"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"mouseinputenabled" "0"
 					"fgcolor_override"	"89 81 71 255"
@@ -189,7 +189,7 @@
 					"tall"			"50"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"fgcolor_override"	"89 81 71 255"
 					"auto_wide_tocontents" "0"
@@ -212,7 +212,7 @@
 					"tall"			"15"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"fgcolor_override"	"201 79 57 255"
 					"auto_wide_tocontents" "0"
@@ -244,7 +244,7 @@
 						"ControlName"	"EditablePanel"
 						"fieldName"		"Background"
 						
-						"ypos"		"0"
+						//"ypos"		"0"
 						"wide"		"400"
 						"tall"		"400"
 						
@@ -269,7 +269,7 @@
 						"tall"			"160"
 						"autoResize"	"1"
 						
-						////"visible"		"1"
+						//"visible"		"1"
 						
 						"wrap"			"1"
 						"centerwrap"	"1"
@@ -288,7 +288,7 @@
 				"tall"			"40"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"labelText"		"<"
@@ -312,7 +312,7 @@
 				"tall"			"40"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"labelText"		">"
@@ -354,7 +354,7 @@
 				"tall"			"15"
 				"autoResize"	"1"
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 			}
 
@@ -716,7 +716,7 @@
 			"tall"			"40"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_Quickplay_PlayNow"
@@ -749,7 +749,7 @@
 			"tall"			"40"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#TF_Quickplay_ShowServers"
@@ -782,7 +782,7 @@
 			"tall"			"25"
 			
 			"pinCorner"		"3"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			//"labelText"		"#GameUI_GameMenu_Options"
@@ -808,7 +808,7 @@
 				"zpos"			"1"
 				"wide"			"19"
 				"tall"			"19"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"scaleImage"	"1"
 				"image"			"glyph_options"
@@ -830,7 +830,7 @@
 			"tall"			"30"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}
 
@@ -845,7 +845,7 @@
 			"tall"			"15"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"?"
@@ -898,7 +898,7 @@
 			"tall"			"25"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"labelText"		"#Cancel"
@@ -948,7 +948,7 @@
 				"tall"			"30"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"wrap"			"1"
 				"fgcolor_override" "TanDarker"
@@ -967,7 +967,7 @@
 				"tall"			"f0"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"wrap"			"1"
 				"fgcolor_override" "TanDarker"
@@ -985,7 +985,7 @@
 				"tall"			"14"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"labeltext"		""
@@ -1016,7 +1016,7 @@
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"image"			"close_button"
 					"scaleImage"	"1"

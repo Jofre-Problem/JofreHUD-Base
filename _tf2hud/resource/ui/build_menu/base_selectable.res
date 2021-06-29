@@ -9,7 +9,7 @@
 		
 		"wide"			"98"
 		"tall"			"135"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg"
@@ -28,7 +28,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"#TF_Empty_Slot"
 		//"labelText_lodef"		"#TF_Empty_Slot"
@@ -47,7 +47,7 @@
 		
 		"wide"			"98"
 		"tall"			"135"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg"

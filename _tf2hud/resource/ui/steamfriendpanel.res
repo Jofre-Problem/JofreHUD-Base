@@ -16,7 +16,7 @@
 	{
 		"fieldName"	"InteractButton"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"-1"
 		"wide"		"f0"
 		"tall"		"f0"
@@ -26,7 +26,7 @@
 		"textalignment"	"center"
 		"stay_armed_on_click"	"1"
 		"roundedcorners"	"0"
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 
 		"defaultBgColor_override"	"Blank"
 		"armedBgColor_override"	"94 150 49 5"

@@ -9,7 +9,7 @@
 		"zpos"			"1000"
 		"wide"			"f0"
 		"tall"			"f0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 
 		"score_step"	"30"
@@ -39,7 +39,7 @@
 				"tall"			"16"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				//"wrap"			"0"
 				"proportionaltoparent"	"1"
@@ -61,7 +61,7 @@
 				"tall"			"16"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				//"wrap"			"0"
 				"proportionaltoparent"	"1"
@@ -84,7 +84,7 @@
 			"tall"			"300"
 			"autoResize"	"3"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			
 			"border"		"MainMenuBGBorder"
@@ -99,7 +99,7 @@
 				
 				"wide"			"o1"
 				"tall"			"p1.09"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"image"			"../HUD/eotl_leaderboard_background"
 				"scaleImage"	"1"
@@ -118,7 +118,7 @@
 				"tall"			"f0"
 				"autoResize"	"3"
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"PaintBackgroundType"	"2"
@@ -139,7 +139,7 @@
 					"tall"			"20"
 					"autoResize"	"1"
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"fgcolor_override"	"TanLight"
 					"proportionaltoparent" "1"
@@ -175,7 +175,7 @@
 					"tall"			"40"
 					"autoResize"	"1"
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 					"fgcolor_override"	"TanLight"
@@ -191,7 +191,7 @@
 					"wide"			"p0.9"
 					"tall"			"p0.8"
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"proportionaltoparent"	"1"
@@ -212,7 +212,7 @@
 				"tall"			"20"
 				"autoResize"	"1"
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"fgcolor_override"	"TanLight"
 				"proportionaltoparent" "1"
@@ -229,7 +229,7 @@
 				"tall"			"14"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"labeltext"		""
@@ -261,7 +261,7 @@
 					"zpos"			"1"
 					"wide"			"14"
 					"tall"			"14"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"image"			"close_button"
 					"scaleImage"	"1"
@@ -279,7 +279,7 @@
 				"tall"			"20"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"labeltext"		""
@@ -311,7 +311,7 @@
 					"zpos"			"1"
 					"wide"			"f0"
 					"tall"			"f0"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"image"			"blog_forward_solid"
 					"scaleImage"	"1"
@@ -330,7 +330,7 @@
 				"tall"			"20"
 				
 				
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				
 				"labeltext"		""
@@ -362,7 +362,7 @@
 					"zpos"			"1"
 					"wide"			"f0"
 					"tall"			"f0"
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"image"			"blog_back_solid"
 					"scaleImage"	"1"
@@ -399,7 +399,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override"	"TanLight"
 			"wrap"			"1"
@@ -412,13 +412,13 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Dimmer"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"-2"
 		"wide"		"f0"
 		"tall"		"f0"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"bgcolor_override"	"0 0 0 252"
@@ -429,13 +429,13 @@
 		"ControlName"	"Button"
 		"fieldName"		"OutsideCloseButton"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"-1"
 		"wide"		"f0"
 		"tall"		"f0"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"			""

@@ -60,7 +60,7 @@
 				"zpos"			"7"
 				"wide"			"100"
 				"tall"			"200"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"scaleImage"	"1"
 			}				

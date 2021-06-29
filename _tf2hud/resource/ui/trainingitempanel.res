@@ -5,12 +5,12 @@
 		"ControlName"		"CTrainingItemPanel"
 		"fieldName"		"TrainingItemPanel"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"620"
 		"tall"		"195"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -39,7 +39,7 @@
 		"tall"			"256"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"scaleImage"		"1"
@@ -54,7 +54,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%name%"
@@ -73,7 +73,7 @@
 		"tall"		"100"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%description%"
@@ -92,7 +92,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TR_Completed"
@@ -113,7 +113,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TR_Not_Completed"

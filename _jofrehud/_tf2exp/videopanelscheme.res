@@ -339,7 +339,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"16"
 				//"weight"	"600"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		GameUIButtons

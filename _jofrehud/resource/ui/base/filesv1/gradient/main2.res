@@ -4,8 +4,8 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"Gradient"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		//"enabled"		"1"
 		"proportionaltoparent"	"1"
 		"scaleimage"	"1"
 		"mouseinputenabled"	"0"

@@ -14,7 +14,7 @@
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"480"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"50 50 50 200"
 	}
 	
@@ -36,7 +36,7 @@
 			"zpos"			"-1"
 			"wide"			"480"
 			"tall"			"480"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"mvm/campaign_1_map"
 		}
@@ -50,7 +50,7 @@
 		"ypos"			"35"
 		"wide"			"300"
 		"tall"			"30"
-		////"visible"		"1"
+		//"visible"		"1"
 			
 		"TourLabelBackground"
 		{
@@ -62,7 +62,7 @@
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"../HUD/color_panel_blu"
 
@@ -109,7 +109,7 @@
 			"tall"			"180"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"../HUD/tournament_panel_brown"
 
@@ -149,7 +149,7 @@
 		"ypos"			"300"
 		"wide"			"60"
 		"tall"			"60"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"mapitem_kv"
@@ -167,7 +167,7 @@
 		"ypos"			"200"
 		"wide"			"60"
 		"tall"			"60"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"mapitem_kv"

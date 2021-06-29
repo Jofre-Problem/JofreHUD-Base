@@ -13,7 +13,7 @@
 		
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"src_corner_height"	"22"				// pixels inside the image
@@ -31,7 +31,7 @@
 		"ypos"			"50"
 		"wide"			"300"
 		"tall"			"24"
-		////"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType" "2"
 		
 		"WinningTeamLabelDropshadow"
@@ -46,7 +46,7 @@
 			"tall"			"26"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"#Winpanel_PVE_Evil_Wins"
 			"textAlignment"		"Center"
@@ -70,7 +70,7 @@
 			"tall"			"26"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"#Winpanel_PVE_Evil_Wins"
 			"textAlignment"		"Center"
@@ -89,7 +89,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%WinReasonLabel%"
 		"textAlignment"		"Center"
@@ -109,7 +109,7 @@
 		"tall"			"30"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"%DetailsLabel%"
 		"textAlignment"		"Center"
@@ -148,7 +148,7 @@
 		"ypos"			"142"
 		"wide"			"300"
 		"tall"			"25"
-		////"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType" "2"
 	
 		"RespecTextLabelLoss"

@@ -66,7 +66,7 @@
 			"wide_minmode"	"30"
 			//"wide_lodef"	"50"
 			"tall"			"31"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"textAlignment"		"center"
 			"labelText"		"0:00"
@@ -148,7 +148,7 @@
 			"wide_minmode"	"30"
 			//"wide_lodef"	"50"
 			"tall"			"31"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"textAlignment"		"center"
 			"labelText"		"0:00"

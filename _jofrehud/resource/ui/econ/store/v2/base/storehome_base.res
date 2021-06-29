@@ -168,7 +168,7 @@
 		"zpos"			"-1"
 		"wide"			"300"
 		"tall"			"300"
-		"visible"		"1"
+		//"visible"		"1"
 		
 	
 		"MannCoImage"
@@ -196,7 +196,7 @@
 		"zpos"			"-1"
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"proportiontoparent"	"1"
 
@@ -209,8 +209,8 @@
 			
 			"wide"			"f0"
 			"tall"			"f0"
-			"visible"		"1"
-			//"enabled"		"1"	
+			//"visible"		"1"
+			////"enabled"		"1"	
 			"image"			"store/store_bg001"
 			"scale_image"	"1"
 			"proportiontoparent"	"1"
@@ -312,7 +312,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 	}
@@ -355,7 +355,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -371,7 +371,7 @@
 		"zpos"			"12"
 		"wide"			"56"
 		"tall"			"24"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"PaintBackgroundType"	"2"
 		"textinsetx"	"15"
@@ -391,7 +391,7 @@
 		"zpos"			"13"
 		"wide"			"24"
 		"tall"			"20"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"store_cart"
 		"scaleImage"	"1"
@@ -433,7 +433,7 @@
 		"tall"			"24"
 		
 		
-		"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Store_MarketPlace"

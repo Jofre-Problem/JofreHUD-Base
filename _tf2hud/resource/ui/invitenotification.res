@@ -6,7 +6,7 @@
 		"zpos"			"1001"
 		"wide"			"200"
 		"tall"			"35"
-		////"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 		"border"		"ReplayDefaultBorder"
 		"paintbackground"	"0"
@@ -22,7 +22,7 @@
 		"zpos"			"101"
 		"wide"			"25"
 		"tall"			"25"
-		////"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 		"scaleImage"	"1"
 	}
@@ -87,7 +87,7 @@
 		"zpos"			"104"
 		"wide"			"o1"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 
 		if_incoming
 		{
@@ -114,7 +114,7 @@
 		"zpos"			"100"
 		"tall"			"15"
 				
-		////"visible"		"1"
+		//"visible"		"1"
 
 		
 		
@@ -153,7 +153,7 @@
 		"zpos"			"100"
 		"tall"			"15"
 				
-		////"visible"		"1"
+		//"visible"		"1"
 
 		
 		

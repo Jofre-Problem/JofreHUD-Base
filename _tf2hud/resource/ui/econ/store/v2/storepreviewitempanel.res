@@ -36,7 +36,7 @@
 		"wide"			"11"
 		"tall"			"200"
 		"zpos"			"1000"
-		////"visible"		"1"
+		//"visible"		"1"
 		"nobuttons"		"1"
 		
 		"Slider"
@@ -74,7 +74,7 @@
 		
 		"wide"			"f0"
 		"tall"			"f0"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"PaintBackgroundType"	"0"
 		"bgcolor_override" "0 0 0 128"
@@ -90,7 +90,7 @@
 		
 		"wide"			"480"
 		"tall"			"300"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"paintbackground"	"0"
 		"border"		"TFFatLineBorderOpaque"
@@ -106,7 +106,7 @@
 			"zpos"			"1"
 			"wide"			"220"
 			"tall"			"213"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"paintborder"	"1"
 			"border"		"StoreInnerShadowBorder"
@@ -122,11 +122,11 @@
 			"zpos"			"1"
 			"wide"			"474"
 			"tall"			"10"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"paintborder"	"0"
 			"PaintBackgroundType"	"0"
-			"paintbackground"	"1"
+			//"paintbackground"	"1"
 			"bgcolor_override" "50 46 41 255"
 		}
 		
@@ -140,11 +140,11 @@
 			"zpos"			"1"
 			"wide"			"474"
 			"tall"			"58"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			//"paintborder"	"0"
 			"PaintBackgroundType"	"2"
-			"paintbackground"	"1"
+			//"paintbackground"	"1"
 			"bgcolor_override" "50 46 41 255"
 		}
 		
@@ -162,7 +162,7 @@
 			
 			"skip_autoresize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 		}		
@@ -177,7 +177,7 @@
 			"zpos"			"100"
 			"wide"			"230"
 			"tall"			"201"
-			////"visible"		"1"
+			//"visible"		"1"
 			"PaintBackgroundType"	"0"
 			"bgcolor_override"	"Blank"
 			"skip_autoresize"	"1"
@@ -192,7 +192,7 @@
 				"zpos"			"100"
 				"wide"			"230"
 				"tall"			"222"
-				////"visible"		"1"
+				//"visible"		"1"
 				"PaintBackgroundType"	"0"
 				"bgcolor_override"	"Blank"
 				"skip_autoresize"	"1"
@@ -212,7 +212,7 @@
 					"tall"			"15"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 					"fgcolor"		"118 107 94 255"
@@ -263,7 +263,7 @@
 					"tall"			"10"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 					"fgcolor"		"173 165 146 255"
@@ -280,7 +280,7 @@
 					"tall"			"10"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 				}		
@@ -296,7 +296,7 @@
 					"tall"			"10"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 					"fgcolor"		"173 165 146 255"
@@ -313,7 +313,7 @@
 					"tall"			"10"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 				}		
@@ -328,7 +328,7 @@
 					"tall"			"25"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 					"labeltext"		"%price%"
@@ -344,7 +344,7 @@
 					"tall"			"10"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 					"labeltext"		"%armory_text%"
@@ -360,7 +360,7 @@
 					"tall"			"10"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 				}		
@@ -374,7 +374,7 @@
 					"tall"			"20"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					
 					"labelText"		"#Store_ItemDesc_ItemWikiPage"
@@ -398,7 +398,7 @@
 					"tall"			"10"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 					"fgcolor"		"173 165 146 255"
@@ -415,7 +415,7 @@
 					"tall"			"10"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 				}		
@@ -431,7 +431,7 @@
 					"tall"			"10"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 					"fgcolor"		"173 165 146 255"
@@ -448,7 +448,7 @@
 					"tall"			"10"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 				}		
@@ -464,7 +464,7 @@
 					"tall"			"10"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 					"fgcolor"		"173 165 146 255"
@@ -481,7 +481,7 @@
 					"tall"			"10"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 				}		
@@ -497,7 +497,7 @@
 					"tall"			"10"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 					"fgcolor"		"173 165 146 255"
@@ -514,7 +514,7 @@
 					"tall"			"10"
 					
 					
-					////"visible"		"1"
+					//"visible"		"1"
 					
 					"wrap"			"1"
 				}
@@ -534,7 +534,7 @@
 		"tall"			"213"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"render_texture"	"0"
@@ -573,7 +573,7 @@
 		"zpos"			"1"
 		"wide"			"220"
 		"tall"			"220"
-		////"visible"		"1"
+		//"visible"		"1"
 		"paintbackground"	"0"
 		//"paintborder"	"0"
 		
@@ -606,7 +606,7 @@
 		"zpos"			"13"
 		"wide"			"30"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"0"
@@ -621,7 +621,7 @@
 			"zpos"			"-10"
 			"wide"			"26"
 			"tall"			"16"
-			////"visible"		"1"
+			//"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
 			"bgcolor_override" "51 47 46 255"
@@ -660,7 +660,7 @@
 		"zpos"			"13"
 		"wide"			"30"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"0"
@@ -675,7 +675,7 @@
 			"zpos"			"-10"
 			"wide"			"26"
 			"tall"			"16"
-			////"visible"		"1"
+			//"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
 			"bgcolor_override" "51 47 46 255"
@@ -714,7 +714,7 @@
 		"zpos"			"13"
 		"wide"			"30"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"0"
@@ -729,7 +729,7 @@
 			"zpos"			"-10"
 			"wide"			"26"
 			"tall"			"16"
-			////"visible"		"1"
+			//"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
 			"bgcolor_override" "51 47 46 255"
@@ -768,7 +768,7 @@
 		"zpos"			"13"
 		"wide"			"30"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"0"
@@ -783,7 +783,7 @@
 			"zpos"			"-10"
 			"wide"			"26"
 			"tall"			"16"
-			////"visible"		"1"
+			//"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
 			"bgcolor_override" "51 47 46 255"
@@ -822,7 +822,7 @@
 		"zpos"			"13"
 		"wide"			"30"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"0"
@@ -837,7 +837,7 @@
 			"zpos"			"-10"
 			"wide"			"26"
 			"tall"			"16"
-			////"visible"		"1"
+			//"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
 			"bgcolor_override" "51 47 46 255"
@@ -876,7 +876,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -892,7 +892,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -908,7 +908,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -924,7 +924,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -940,7 +940,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -956,7 +956,7 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"panel_bgcolor" "117 107 94 255"
 		"panel_bgcolor_mouseover" "255 255 255 255"
@@ -975,7 +975,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"<"
@@ -1003,7 +1003,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		">"
@@ -1033,7 +1033,7 @@
 		"tall"			"55"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"bgcolor_override"		"Blank"
 		"PaintBackgroundType"	"2"
@@ -1054,7 +1054,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"<"
@@ -1083,7 +1083,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		">"
@@ -1160,7 +1160,7 @@
 			"zpos"			"1"
 			"wide"			"11"
 			"tall"			"11"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"store/store_fullscreen"
 			"scaleImage"	"1"
@@ -1178,7 +1178,7 @@
 		"tall"			"11"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labeltext"		""
@@ -1205,7 +1205,7 @@
 			"zpos"			"1"
 			"wide"			"11"
 			"tall"			"11"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"store/store_zoom"
 			"scaleImage"	"1"
@@ -1250,7 +1250,7 @@
 			"zpos"			"1"
 			"wide"			"11"
 			"tall"			"11"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"glyph_options"
 			"scaleImage"	"1"
@@ -1322,7 +1322,7 @@
 				"zpos"			"7"
 				"wide"			"19"
 				"tall"			"19"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"scaleImage"	"1"
 			}				
@@ -1370,7 +1370,7 @@
 		"tall"			"28"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"centerwrap"	"1"
@@ -1411,7 +1411,7 @@
 		"tall"			"25"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"wrap"			"1"
 		"centerwrap"	"1"
@@ -1430,7 +1430,7 @@
 		"tall"			"14"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labeltext"		""
@@ -1457,7 +1457,7 @@
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"close_button"
 			"scaleImage"	"1"
@@ -1474,7 +1474,7 @@
 		"wide"			"90"
 		"tall"			"22"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_BackCarat"
@@ -1499,7 +1499,7 @@
 		"wide"			"120"
 		"tall"			"22"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Store_TryItOut"
@@ -1524,7 +1524,7 @@
 		"wide"			"160"
 		"tall"			"27"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%storeaddtocart%"

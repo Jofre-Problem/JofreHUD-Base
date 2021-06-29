@@ -10,7 +10,7 @@
 		"zpos"			"1001"
 		"wide"			"300"
 		"tall"			"f70"
-		////"visible"		"1"
+		//////"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"datacenter_y"	"3"
@@ -26,7 +26,7 @@
 		"zpos"			"-1"
 		"wide"			"f0"
 		"tall"			"f-50"
-		////"visible"		"1"
+		//////"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"border"		"MainMenuBGBorder"
 		"proportionaltoparent"	"1"
@@ -246,7 +246,7 @@
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
-		////"visible"		"1"
+		//////"visible"		"1"
 		
 		
 		"proportionaltoparent"	"1"
@@ -266,7 +266,7 @@
 		"tall"			"f220"
 		
 		
-		////"visible"		"1"
+		//////"visible"		"1"
 		
 		
 		"proportionaltoparent"	"1"
@@ -280,7 +280,7 @@
 			"zpos"			"2"
 			"wide"			"f0"
 			"tall"			"f0"
-			////"visible"		"1"
+			//////"visible"		"1"
 			"proportionaltoparent"	"1"
 			"restrict_width" "0"
 
@@ -340,7 +340,7 @@
 			
 			"wide"			"f0"
 			"tall"			"f0"
-			////"visible"		"1"
+			//////"visible"		"1"
 			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 

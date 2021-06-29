@@ -6,6 +6,6 @@
 		"fieldName"		"NotificationsPresentPanel"
 		"zpos"			"10000"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 	}
 }	

@@ -11,7 +11,7 @@
 		"tall"			"f0"
 		"visible"		"0"
 		
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override" "0 0 0 255"
 		
@@ -35,7 +35,7 @@
 		"tall"			"f0"
 		"visible"		"0"
 		
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override" "0 0 0 255"
 	}
@@ -51,7 +51,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"<"
@@ -78,7 +78,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		">"
@@ -126,7 +126,7 @@
 		"tall"			"15"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labeltext"		""
@@ -153,7 +153,7 @@
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"store/store_zoom"
 			"scaleImage"	"1"
@@ -225,7 +225,7 @@
 				"zpos"			"7"
 				"wide"			"38"
 				"tall"			"38"
-				////"visible"		"1"
+				//"visible"		"1"
 				
 				"scaleImage"	"1"
 			}				
@@ -271,7 +271,7 @@
 		"tall"			"14"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labeltext"		""
@@ -298,7 +298,7 @@
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"store/store_fullscreen_exit"
 			"scaleImage"	"1"
@@ -340,7 +340,7 @@
 		"wide"			"160"
 		"tall"			"27"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Store_AddToCart"

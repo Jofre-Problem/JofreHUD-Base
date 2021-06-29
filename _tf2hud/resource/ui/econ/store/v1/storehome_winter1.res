@@ -117,7 +117,7 @@
 			"tall"			"60"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
@@ -134,7 +134,7 @@
 		
 		"wide"			"300"
 		"tall"			"300"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	
 		"SaxtonImage"
@@ -146,7 +146,7 @@
 			"zpos"			"1"
 			"wide"			"275"
 			"tall"			"275"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"store/store_xmas_sale_1"
 			"scaleImage"	"1"
@@ -162,7 +162,7 @@
 		"zpos"			"1"
 		"wide"			"140"
 		"tall"			"80"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
@@ -198,7 +198,7 @@
 		"tall"			"70"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}		
 	"FeaturedItemPrice"
@@ -215,7 +215,7 @@
 		"tall"			"50"
 		"autoResize"	"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}		
 	"FeaturedItemSymbol"
@@ -227,7 +227,7 @@
 		"zpos"			"3"
 		"wide"			"50"
 		"tall"			"50"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"store/store_starburst"
 		"scaleImage"	"1"
@@ -262,7 +262,7 @@
 		"tall"			"25"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Store_StartShopping"
@@ -285,7 +285,7 @@
 		
 		"wide"			"355"
 		"tall"			"290"
-		////"visible"		"1"
+		//"visible"		"1"
 		"border"		""
 
 		"BGImage"
@@ -297,7 +297,7 @@
 			"zpos"			"-1"
 			"wide"			"355"
 			"tall"			"290"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"store/store_home_background"
 			"scaleImage"	"1"
@@ -317,7 +317,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"TanDarker"
 		}		
@@ -335,7 +335,7 @@
 			"tall"			"115"
 			"autoResize"	"3"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"text"			"#Store_IntroText_Winter1"
@@ -358,7 +358,7 @@
 			"zpos"			"1"
 			"wide"			"100"
 			"tall"			"25"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"store/store_saxton_signature"
 			"scaleImage"	"1"
@@ -377,7 +377,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor"		"TanDarker"
 		}		
@@ -396,7 +396,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 		}		
 		
@@ -409,7 +409,7 @@
 			"zpos"			"1"
 			"wide"			"160"
 			"tall"			"95"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"border"		"StorePromotion"
 		}
@@ -427,7 +427,7 @@
 			"tall"			"50"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"centerwrap"	"1"
@@ -442,7 +442,7 @@
 			"zpos"			"2"
 			"wide"			"60"
 			"tall"			"30"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"store/store_surprise"
 			"scaleImage"	"1"
@@ -461,7 +461,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"centerwrap"	"1"
@@ -477,7 +477,7 @@
 			"zpos"			"1"
 			"wide"			"165"
 			"tall"			"95"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"border"		"StorePromotion"
 		}
@@ -495,7 +495,7 @@
 			"tall"			"50"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"centerwrap"	"1"
@@ -510,7 +510,7 @@
 			"zpos"			"2"
 			"wide"			"100"
 			"tall"			"100"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"../backpack/player/items/all_class/all_manncap_large"
 			"scaleImage"	"1"
@@ -529,7 +529,7 @@
 			"tall"			"20"
 			"autoResize"	"1"
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"wrap"			"1"
 			"centerwrap"	"1"

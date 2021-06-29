@@ -11,7 +11,7 @@
 		"tall"			"480"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"	"0"
@@ -61,7 +61,7 @@
 		"zpos"			"6"
 		"wide"			"36"
 		"tall"			"36"
-		////"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override" "0 0 0 255"
 	}
 	
@@ -74,7 +74,7 @@
 		"zpos"			"7"
 		"wide"			"30"
 		"tall"			"30"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"image"			"achievements/tf_medic_heal_grind"
 		"scaleImage"	"1"
@@ -94,7 +94,7 @@
 		"tall"			"35"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -112,7 +112,7 @@
 		"tall"			"35"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -130,7 +130,7 @@
 		"tall"			"10"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	"SelectedItemNumberLabel"
@@ -147,7 +147,7 @@
 		"tall"			"40"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 	}
 	
@@ -162,7 +162,7 @@
 		"tall"			"30"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#NextItem"
@@ -185,7 +185,7 @@
 		"tall"			"30"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#PreviousItem"
@@ -209,7 +209,7 @@
 		"tall"			"30"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#CloseItemPanel"
@@ -233,7 +233,7 @@
 		"tall"			"30"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%loadouttext%"
@@ -257,7 +257,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		""
@@ -285,7 +285,7 @@
 			"zpos"			"1"
 			"wide"			"p1"
 			"tall"			"p1"
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"image"			"icon_trash_on"
 			"scaleImage"	"1"
@@ -319,7 +319,7 @@
 			"tall"			"50"
 			
 			
-			////"visible"		"1"
+			//"visible"		"1"
 			
 			"fgcolor_override"	"TanLight"
 			"wrap"			"1"
@@ -340,7 +340,7 @@
 		"tall"			"60"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"fgcolor_override" "LightRed"
 		"bgcolor_override"	"TanDarker"
@@ -364,7 +364,7 @@
 		"maxchars"			"5"
 		"NumericInputOnly"	"0"
 		"unicode"			"0"
-		"wrap"				"0"
+		//"wrap"				"0"
 		"fgcolor_override"	"TanLight"
 		"bgcolor_override"	"0 0 0 255"
 		"labelText"			"Enter Score Here"

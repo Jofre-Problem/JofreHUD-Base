@@ -113,7 +113,7 @@
 		"zpos"			"5"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"centerwrap"	"1"
 		"fgcolor_override"	"117 107 94 255"
@@ -130,7 +130,7 @@
 		"tall"			"12"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%prevbuttontext%"
@@ -158,7 +158,7 @@
 		"tall"			"12"
 		
 		"pinCorner"		"3"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"%nextbuttontext%"

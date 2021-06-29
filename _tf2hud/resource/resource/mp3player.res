@@ -10,7 +10,7 @@
 		"tall"		"639"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -26,7 +26,7 @@
 		"tall"		"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#MP3Menu"
@@ -46,7 +46,7 @@
 		"tall"		"295"
 		"autoResize"		"3"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -60,7 +60,7 @@
 		"tall"		"194"
 		"autoResize"		"1"
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -74,7 +74,7 @@
 		"tall"		"20"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Play"
@@ -95,7 +95,7 @@
 		"tall"		"20"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Stop"
@@ -116,7 +116,7 @@
 		"tall"		"21"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Next"
@@ -137,7 +137,7 @@
 		"tall"		"20"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Prev"
@@ -158,7 +158,7 @@
 		"tall"		"20"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Mute"
@@ -178,7 +178,7 @@
 		"tall"		"20"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#Shuffle"
@@ -198,7 +198,7 @@
 		"tall"		"20"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -212,7 +212,7 @@
 		"tall"		"16"
 		"autoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#NoSong"
@@ -232,7 +232,7 @@
 		"tall"		"16"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"textAlignment"		"east"
@@ -251,7 +251,7 @@
 		"tall"		"6"
 		"autoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 	}
@@ -265,7 +265,7 @@
 		"tall"		"20"
 		
 		"pinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#VolumeLabel"

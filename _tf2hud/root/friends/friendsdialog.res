@@ -10,7 +10,7 @@
 		"tall"		"440"
 		"AutoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -42,7 +42,7 @@
 		"tall"		"80"
 		"AutoResize"		"1"
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"
@@ -60,7 +60,7 @@
 		"tall"		"24"
 		
 		"PinCorner"		"2"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"paintbackground"		"1"

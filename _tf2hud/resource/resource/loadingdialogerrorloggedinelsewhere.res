@@ -10,7 +10,7 @@
 		"tall"		"180"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -36,7 +36,7 @@
 		"ControlName"		"ProgressBar"
 		"fieldName"		"Progress2"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -56,7 +56,7 @@
 		"tall"		"24"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_RefreshLogin_Login"
@@ -72,7 +72,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"TimeRemainingLabel"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
 		
@@ -95,7 +95,7 @@
 		"tall"		"88"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"labelText"		"#VAC_LoggedInElsewhereReason"

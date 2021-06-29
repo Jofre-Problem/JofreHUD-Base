@@ -10,7 +10,7 @@
 		"tall"		"100"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -44,7 +44,7 @@
 		"tall"			"96"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"image"			""
@@ -63,7 +63,7 @@
 		"tall"			"30"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"MAPNAME"
 		//"textAlignment"	"west"
@@ -83,7 +83,7 @@
 		"tall"			"20"
 		
 		
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"(capture the flag)"
 		//"textAlignment"		"west"
@@ -106,7 +106,7 @@
 		"tall"			"30"
 		"autoResize"		"1"
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"Yo wats up"
 		//"textAlignment"	"west"
@@ -127,7 +127,7 @@
 		"tall"			"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"image"			"..\vgui\icon_con_high"
@@ -145,7 +145,7 @@
 		"tall"			"20"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"54 ms"
 		"textAlignment"		"east"
@@ -165,7 +165,7 @@
 		"tall"			"20"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"15/24 players"
 		"textAlignment"		"east"
@@ -185,7 +185,7 @@
 		"tall"			"25"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		"labelText"		"50 other servers"
 		"textAlignment"		"east"
@@ -205,7 +205,7 @@
 		"tall"			"24"
 		
 		"pinCorner"		"1"
-		////"visible"		"1"
+		//"visible"		"1"
 		
 		
 		"image"			"servers\icon_replay"

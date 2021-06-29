@@ -56,7 +56,7 @@
 
 		"StatsContainer"
 		{
-			//"visible"		"1"
+			////"visible"		"1"
 
 			if_mini
 			{
@@ -71,7 +71,7 @@
 
 				"CurrentXPLabel"
 				{
-					//"visible"		"1"
+					////"visible"		"1"
 
 					if_mini
 					{
