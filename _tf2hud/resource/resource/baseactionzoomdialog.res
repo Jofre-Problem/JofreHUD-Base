@@ -217,7 +217,7 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -236,10 +236,10 @@
 		
 		
 		"labelText"		"OK"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
-		"Default"		"1"
+		//"Default"		"1"
 		"command"		"OK"
 	}
 	"Cancel"
@@ -256,7 +256,7 @@
 		
 		
 		"labelText"		"Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -275,10 +275,10 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"actionstart"
 	{
@@ -293,10 +293,10 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"ActionStartType"
 	{
@@ -311,10 +311,10 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"ZoomFOV"
 	{
@@ -329,10 +329,10 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"ZoomOut"
 	{
@@ -347,10 +347,10 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"ZoomIn"
 	{
@@ -365,10 +365,10 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"ZoomHold"
 	{
@@ -383,10 +383,10 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"ZoomSpline"
 	{
@@ -402,7 +402,7 @@
 		
 		
 		"labelText"		"Spline"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -421,7 +421,7 @@
 		
 		
 		"labelText"		"Stay Out"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -440,7 +440,7 @@
 		
 		
 		"labelText"		"Name:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -458,7 +458,7 @@
 		
 		
 		"labelText"		"Start on:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -476,7 +476,7 @@
 		
 		
 		"labelText"		"Final FOV:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -494,7 +494,7 @@
 		
 		
 		"labelText"		"Zoom In Time"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -512,7 +512,7 @@
 		
 		
 		"labelText"		"Zoom Out Time"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -530,7 +530,7 @@
 		
 		
 		"labelText"		"Hold Time:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}

@@ -21,7 +21,7 @@
 		"tall"			"f0"
 		"visible"		"0"
 		
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		"image"			"animated/tf2_logo_hourglass"
 		"scaleImage"	"1"
 	}
@@ -73,7 +73,7 @@
 			////"visible"		"1"
 			
 			"labelText"		"%itemname%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"fgcolor"		"235 226 202 255"
 			"centerwrap"	"1"
 		}
@@ -93,7 +93,7 @@
 			////"visible"		"1"
 			
 			"labelText"		"%attriblist%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"fgcolor"		"117 107 94 255"
 			//"centerwrap"	"0"
 		}
@@ -113,7 +113,7 @@
 			"visible"		"0"
 			
 			"labelText"		"%collectionname%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"fgcolor"		"235 226 202 255"
 			//"centerwrap"	"0"
 		}
@@ -133,7 +133,7 @@
 			"visible"		"0"
 			
 			"labelText"		"%collectionlist%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"fgcolor"		"117 107 94 255"
 			//"centerwrap"	"0"
 		}
@@ -168,7 +168,7 @@
 			
 			"labelText"		"#ItemPanelEquipped"
 			"textAlignment"	"center"
-			"fgcolor"		"200 80 60 255"
+			"fgcolor"		"LightRed"
 			"PaintBackgroundType"	"2"
 		}
 	
@@ -202,7 +202,7 @@
 			
 			"labelText"		""
 			"textAlignment"	"center"
-			"fgcolor"		"200 80 60 255"
+			"fgcolor"		"LightRed"
 			"PaintBackgroundType"	"2"
 		}
 
@@ -321,7 +321,7 @@
 			"bgcolor_override"		"0 0 0 200"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			"useparentbg"	"0"
 		
 			

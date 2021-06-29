@@ -43,10 +43,10 @@
 				"textinsetx"	"25"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				//"dulltext"		"0"
 				//"brighttext"	"0"
-				"default"		"1"
+				//"Default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 				
@@ -54,9 +54,9 @@
 				"border_armed"		"MainMenuButtonArmed"
 				"paintbackground"	"0"
 				
-				"defaultFgColor_override" "46 43 42 255"
-				"armedFgColor_override" "235 226 202 255"
-				"depressedFgColor_override" "46 43 42 255"
+				"defaultFgColor_override" "TanDarker"
+				"armedFgColor_override" "TanLight"
+				"depressedFgColor_override" "TanDarker"
 				
 				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"235 226 202 255"
@@ -288,10 +288,10 @@
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"
 		"command"		"open_rank_type_menu"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"vo/null.mp3"
 		"actionsignallevel" "1"
@@ -463,7 +463,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor_override"	"235 226 202 255"
+			"fgcolor_override"	"TanLight"
 			"auto_wide_tocontents" "1"
 		}
 	}	
@@ -542,7 +542,7 @@
 			"textAlignment"	"center"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"actionsignallevel" "2"
 
 			"Command"		"noti_show"
@@ -607,10 +607,10 @@
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallBold"
 			"command"		"watch_stream"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"vo/null.mp3"
 			"actionsignallevel" "2"
@@ -680,10 +680,10 @@
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallBold"
 			"command"		"questlog"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"vo/null.mp3"
 			"actionsignallevel" "2"
@@ -756,7 +756,7 @@
 			"textAlignment"	"center"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 
 			"actionsignallevel" "2"
 			"Command"		"motd_show"
@@ -829,7 +829,7 @@
 				////"visible"		"1"
 				
 				"PaintBackgroundType" "2"
-				"fgcolor_override"	"235 226 202 255"
+				"fgcolor_override"	"TanLight"
 				"bgcolor_override"	"141 178 61 255"
 			}
 		}
@@ -866,10 +866,10 @@
 			"paintbackground"	"0"
 			
 			//"defaultFgColor_override" "235 226 202 255"
-			//"armedFgColor_override" "46 43 42 255"
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"
+			//"armedFgColor_override" "TanDarker"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanLight"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -910,7 +910,7 @@
 			"fieldName"		"MOTD_TitleLabel"
 			"font"			"HudFontSmallBold"
 			"labelText"		"%motdtitle%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"10"
 			"ypos"			"25"
 			"wide"			"250"
@@ -1048,7 +1048,7 @@
 			"textAlignment"	"center"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"command"		"motd_viewurl"
 			"proportionaltoparent" "1"
 			"actionsignallevel"	"2"
@@ -1062,8 +1062,8 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"defaultFgColor_override" "235 226 202 255"
-			"defaultBgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
+			"defaultBgColor_override" "TanDarker"
+			"armedFgColor_override" "TanLight"
 			"depressedFgColor_override" "235 226 202 255"
 		}	
 		
@@ -1086,7 +1086,7 @@
 			"textAlignment"	"center"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"Command"		"motd_prev"
 			"actionsignallevel"	"2"
 
@@ -1134,7 +1134,7 @@
 			"textAlignment"	"center"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"Command"		"motd_next"
 			"actionsignallevel"	"2"
 
@@ -1214,9 +1214,9 @@
 
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanLight"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -1326,10 +1326,10 @@
 			"textinsetx"	"25"
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallBold"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
@@ -1337,9 +1337,9 @@
 			"border_armed"		"MainMenuButtonArmed"
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanLight"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"235 226 202 255"
@@ -1390,7 +1390,7 @@
 			"fieldName"		"TitleLabel"
 			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_Competitive_Friends"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"12"
 			
 			"wide"			"f0"
@@ -1531,7 +1531,7 @@
 				"fieldName"		"TitleLabel"
 				"font"			"HudFontSmallBold"
 				"labelText"		"#MMenu_Update"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				"xpos"			"12"
 				
 				"wide"			"f0"
@@ -1556,7 +1556,7 @@
 //				"visible"		"0"
 //				"proportionaltoparent"	"1"
 //
-//				"paintborder"	"0"
+//				//"paintborder"	"0"
 //				"border"	"MainMenuButtonGlow"
 //				"paintbackground"		"3"
 //				"bgcolor_override"	"238 103 17 255"
@@ -1593,7 +1593,7 @@
 //					"textAlignment"	"center"
 //					//"dulltext"		"0"
 //					//"brighttext"	"0"
-//					"default"		"1"
+//					//"Default"		"1"
 //					"sound_depressed"	"UI/buttonclick.wav"
 //					"sound_released"	"UI/buttonclickrelease.wav"
 //					"labeltext"		"#MMenu_ViewUpdateDetails"
@@ -1605,9 +1605,9 @@
 //					"border_armed"		"MainMenuButtonArmed"
 //					"paintbackground"	"0"
 //			
-//					"defaultFgColor_override" "46 43 42 255"
-//					"armedFgColor_override" "235 226 202 255"
-//					"depressedFgColor_override" "46 43 42 255"
+//					"defaultFgColor_override" "TanDarker"
+//					"armedFgColor_override" "TanLight"
+//					"depressedFgColor_override" "TanDarker"
 //			
 //					"image_drawcolor"	"117 107 94 255"
 //					"image_armedcolor"	"235 226 202 255"
@@ -1626,7 +1626,7 @@
 //				"visible"		"0"
 //				"proportionaltoparent"	"1"
 //
-//				"paintborder"	"0"
+//				//"paintborder"	"0"
 //				"border"	"MainMenuButtonGlow"
 //				"paintbackground"		"3"
 //				"bgcolor_override"	"238 103 17 255"
@@ -1663,7 +1663,7 @@
 //					"textAlignment"	"center"
 //					//"dulltext"		"0"
 //					//"brighttext"	"0"
-//					"default"		"1"
+//					//"Default"		"1"
 //					"sound_depressed"	"UI/buttonclick.wav"
 //					"sound_released"	"UI/buttonclickrelease.wav"
 //					"labeltext"		"#MMenu_ViewWar"
@@ -1675,9 +1675,9 @@
 //					"border_armed"		"MainMenuButtonArmed"
 //					"paintbackground"	"0"
 //			
-//					"defaultFgColor_override" "46 43 42 255"
-//					"armedFgColor_override" "235 226 202 255"
-//					"depressedFgColor_override" "46 43 42 255"
+//					"defaultFgColor_override" "TanDarker"
+//					"armedFgColor_override" "TanLight"
+//					"depressedFgColor_override" "TanDarker"
 //			
 //					"image_drawcolor"	"117 107 94 255"
 //					"image_armedcolor"	"235 226 202 255"
@@ -1844,7 +1844,7 @@
 				"fieldName"		"TitleLabel"
 				"font"			"HudFontSmallBold"
 				"labelText"		"#MMenu_SafeMode_Title"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				
 				
 				"wide"			"f0"
@@ -1873,10 +1873,10 @@
 				
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				//"dulltext"		"0"
 				//"brighttext"	"0"
-				"default"		"1"
+				//"Default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 				"labeltext"		"#MMenu_SafeMode_SaveSettings"
@@ -1888,9 +1888,9 @@
 				"border_armed"		"MainMenuButtonArmed"
 				"paintbackground"	"0"
 			
-				"defaultFgColor_override" "46 43 42 255"
-				"armedFgColor_override" "235 226 202 255"
-				"depressedFgColor_override" "46 43 42 255"
+				"defaultFgColor_override" "TanDarker"
+				"armedFgColor_override" "TanLight"
+				"depressedFgColor_override" "TanDarker"
 			}
 
 	
@@ -1910,10 +1910,10 @@
 				
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				//"dulltext"		"0"
 				//"brighttext"	"0"
-				"default"		"1"
+				//"Default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 				"labeltext"		"#MMenu_SafeMode_LeaveSafeMode"
@@ -1925,9 +1925,9 @@
 				"border_armed"		"MainMenuButtonArmed"
 				"paintbackground"	"0"
 			
-				"defaultFgColor_override" "46 43 42 255"
-				"armedFgColor_override" "235 226 202 255"
-				"depressedFgColor_override" "46 43 42 255"
+				"defaultFgColor_override" "TanDarker"
+				"armedFgColor_override" "TanLight"
+				"depressedFgColor_override" "TanDarker"
 			}
 
 			"Explanation"
@@ -1991,7 +1991,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"command"		"showpromocodes"
@@ -2000,9 +2000,9 @@
 		"border_armed"		"MainMenuButtonArmed"
 		"paintbackground"	"0"
 		
-		"defaultFgColor_override" "46 43 42 255"
-		"armedFgColor_override" "235 226 202 255"
-		"depressedFgColor_override" "46 43 42 255"
+		"defaultFgColor_override" "TanDarker"
+		"armedFgColor_override" "TanLight"
+		"depressedFgColor_override" "TanDarker"
 	}
 
 	// command comes from GameMenu.res
@@ -2039,19 +2039,19 @@
 			"textinsetx"	"100"
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallBold"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"RoundedCorners"	"5"
 			
 			"paintbackground"	"1"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "46 43 42 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanDarker"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"235 226 202 255"
@@ -2108,19 +2108,19 @@
 			"textinsetx"	"100"
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallBold"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"border_default"	"MainMenuSubButtonBorder"
 			"paintbackground"	"1"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "46 43 42 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanDarker"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"235 226 202 255"
@@ -2175,19 +2175,19 @@
 			"textinsetx"	"100"
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallBold"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"border_default"	"MainMenuSubButtonBorder"
 			"paintbackground"	"1"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "46 43 42 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanDarker"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"235 226 202 255"
@@ -2243,19 +2243,19 @@
 			"textinsetx"	"100"
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallBold"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			
 			"paintbackground"	"1"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "46 43 42 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanDarker"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"235 226 202 255"
@@ -2324,10 +2324,10 @@
 		"textinsetx"	"25"
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"command"		"engine open_charinfo"
 		"labeltext"		"#MMenu_CharacterSetup"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -2385,10 +2385,10 @@
 		"textinsetx"	"25"
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"labeltext" "#MMenu_Shop"
 		"command" "engine open_store"
 		"proportionaltoparent"	"1"
@@ -2431,12 +2431,12 @@
 		
 		"labelText"		""
 		"font"			"HudFontSmallBold"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"textinsetx"	"25"
 		"use_proportional_insets" "1"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"OpenOptionsDialog"
 
 		"navUp"			"Notifications_Panel"
@@ -2482,7 +2482,7 @@
 		"textinsetx"	"18"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"opentf2options"
 		"use_proportional_insets"	"1"
 
@@ -2530,7 +2530,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"view_newuser_forums"
 
 		"navUp"			"VRModeButton"
@@ -2578,7 +2578,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"OpenAchievementsDialog"
 
 		"navUp"			"VRModeButton"
@@ -2625,7 +2625,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"OpenLoadSingleplayerCommentaryDialog"
 
 		"navUp"			"VRModeButton"
@@ -2672,7 +2672,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"engine cl_coach_toggle"
 
 		"navUp"			"VRModeButton"
@@ -2719,7 +2719,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"engine OpenSteamWorkshopDialog"
 
 		"navUp"			"VRModeButton"
@@ -2766,7 +2766,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"engine replay_reloadbrowser"
 
 		"navUp"			"VRModeButton"
@@ -2813,7 +2813,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"engine bug"
 
 		"navUp"			"VRModeButton"
@@ -2857,12 +2857,12 @@
 		
 		"labelText"		"#GameUI_GameMenu_ExitReplay"
 		"font"			"HudFontSmallBold"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"textinsetx"	"35"
 		"use_proportional_insets" "1"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"exitreplayeditor"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

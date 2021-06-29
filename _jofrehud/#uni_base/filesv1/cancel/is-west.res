@@ -2,6 +2,6 @@
 {
 	"Cancel"
 	{
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 }

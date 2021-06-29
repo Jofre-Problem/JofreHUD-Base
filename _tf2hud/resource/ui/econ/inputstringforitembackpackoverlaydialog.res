@@ -233,8 +233,8 @@
 		
 		////"visible"		"1"
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"unicode"		"1"
 		"fgcolor_override"	"117 107 94 255"
 		"bgcolor_override"	"251 235 202 255"
@@ -262,7 +262,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		
 		"Command"		"shuffle"
 		"sound_depressed"	"UI/buttonclick.wav"

@@ -30,11 +30,11 @@
 		"visible"		"0"
 		
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"FilterType"
 	{
@@ -49,11 +49,11 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"Waves"
 	{
@@ -83,7 +83,7 @@
 		
 		
 		"labelText"		"#extract_button"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -103,7 +103,7 @@
 		
 		
 		"labelText"		"#reapply_button"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -123,7 +123,7 @@
 		
 		
 		"labelText"		"#vgui_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -143,7 +143,7 @@
 		
 		
 		"labelText"		"#sfm_play"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -162,11 +162,11 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"SampleRate"
 	{
@@ -181,11 +181,11 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"FilterSize"
 	{
@@ -200,11 +200,11 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"UseWave"
 	{
@@ -220,7 +220,7 @@
 		
 		
 		"labelText"		"#SFM_UseWaveFilePhonemes"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"font"		"DefaultSmall"
@@ -241,7 +241,7 @@
 		
 		
 		"labelText"		"#SFM_IgnoreAnimationSetVisibility"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"font"		"DefaultSmall"
@@ -262,7 +262,7 @@
 		
 		
 		"labelText"		"#SFM_CreateBookmarks"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"font"		"DefaultSmall"
@@ -283,7 +283,7 @@
 		
 		
 		"labelText"		"Sentence Text:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -302,7 +302,7 @@
 		
 		
 		"labelText"		"Sample Rate:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -321,7 +321,7 @@
 		
 		
 		"labelText"		"Filter Size:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

@@ -165,7 +165,7 @@
 					"labelText"		"#TF_SurveyQuestion_Rating2"
 					"font"			"HudFontSmallest"
 					"textAlignment"	"center"
-					"default"		"1"
+					//"Default"		"1"
 				}
 
 				"Radio3" // Good

@@ -13,9 +13,9 @@
 		"visible"		"1"
 		"tabPosition"		"2"
 		"labelText"		"Edit..."
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 }

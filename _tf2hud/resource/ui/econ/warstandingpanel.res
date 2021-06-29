@@ -71,7 +71,7 @@
 			"fieldName"		"Team0Score"
 			"font"			"HudFontSmallBold"
 			"labelText"		"%team0score%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"rs1"
 			
 			"zpos"			"1"
@@ -157,7 +157,7 @@
 			"fieldName"		"Team1Score"
 			"font"			"HudFontSmallBold"
 			"labelText"		"%team1score%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"rs1"
 			
 			"zpos"			"1"

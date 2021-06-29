@@ -61,7 +61,7 @@
 		"visible"		"1"
 		
 		"labelText"		"|<"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -79,7 +79,7 @@
 		"visible"		"1"
 		
 		"labelText"		">|"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -96,7 +96,7 @@
 		"visible"		"1"
 		
 		"labelText"		">>"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -114,7 +114,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"<<"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -132,7 +132,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"<"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -151,7 +151,7 @@
 		"enabled"		"0"
 		
 		"labelText"		">"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -178,7 +178,7 @@
 		"visible"		"1"
 		
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		"brighttext"		"1"
 		//"wrap"		"0"
@@ -194,7 +194,7 @@
 		"visible"		"1"
 		
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		"brighttext"		"1"
 		//"wrap"		"0"
@@ -223,7 +223,7 @@
 		"visible"		"1"
 		
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

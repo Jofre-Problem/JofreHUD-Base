@@ -54,11 +54,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"6"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"SoundQuality"
 	{
@@ -76,11 +76,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"4"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"SpeakerSetup"
 	{
@@ -98,11 +98,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"3"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"AudioSpokenLanguage"
 	{
@@ -120,11 +120,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"7"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"snd_mute_losefocus"
 	{
@@ -143,7 +143,7 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_SndMuteLoseFocus"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -171,7 +171,7 @@
 		
 		"tabPosition"		"8"
 		"labelText"		"#GameUI_ThirdPartyTechCredits"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -180,7 +180,7 @@
 		//"textinsety"		"0"
 		//"auto_wide_tocontents"		"0"
 		"command"		"ShowThirdPartyAudioCredits"
-		"Default"		"1"
+		//"Default"		"1"
 		"selected"		"0"
 	}
 	"AudioSpokenLanguageLabel"
@@ -200,7 +200,7 @@
 		
 		
 		"labelText"		"#GAMEUI_AudioSpokenLanguage"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -226,7 +226,7 @@
 		
 		
 		"labelText"		"#GAMEUI_RequiresRestart"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -252,7 +252,7 @@
 		
 		
 		"labelText"		"#GameUI_SoundEffectVolume"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"SFXSlider"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -279,7 +279,7 @@
 		
 		
 		"labelText"		"#GameUI_MusicVolume"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"MusicSlider"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -306,7 +306,7 @@
 		
 		
 		"labelText"		"#GameUI_SoundQuality"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"SoundQuality"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -333,7 +333,7 @@
 		
 		
 		"labelText"		"#GameUI_SpeakerConfiguration"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"SpeakerSetup"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -387,7 +387,7 @@
 		
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_TestSpeakerSettings"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -396,7 +396,7 @@
 		//"textinsety"		"0"
 		//"auto_wide_tocontents"		"0"
 		"command"		"TestSpeakers"
-		"Default"		"1"
+		//"Default"		"1"
 		"selected"		"0"
 	}
 	"Label2"
@@ -416,7 +416,7 @@
 		
 		
 		"labelText"		"#GameUI_Captioning"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"CloseCaptionCheck"
 		//"dulltext"		"0"
 		//"brighttext"		"0"

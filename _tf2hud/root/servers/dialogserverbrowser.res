@@ -41,7 +41,7 @@
 		////"visible"		"1"
 		
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		"zpos"	"1"
 	}

@@ -13,10 +13,10 @@
 		//"visible"		"1"
 		
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"SelectionButton"
 	{
@@ -59,7 +59,7 @@
 		
 		
 		"labelText"		"Hue:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -93,7 +93,7 @@
 		
 		
 		"labelText"		"Saturation:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -127,7 +127,7 @@
 		
 		
 		"labelText"		"Value:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -162,7 +162,7 @@
 		
 		
 		"labelText"			"Tolerance:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"			"0"
 		//"brighttext"		"0"
 	}
@@ -198,7 +198,7 @@
 		
 		
 		"labelText"			"Fuzziness:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"			"0"
 		//"brighttext"		"0"
 	}
@@ -234,7 +234,7 @@
 		
 		
 		"labelText"			"Blend Factor:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"			"0"
 		//"brighttext"		"0"
 	}
@@ -270,7 +270,7 @@
 		
 		
 		"labelText"			"Colorize"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"			"0"
 		//"brighttext"		"0"
 	}
@@ -289,7 +289,7 @@
 		
 		
 		"labelText"			"Invert Selection"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"			"0"
 		//"brighttext"		"0"
 	}

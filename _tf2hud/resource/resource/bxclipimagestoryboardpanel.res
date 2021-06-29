@@ -58,7 +58,7 @@
 		
 		
 		"labelText"		"Street Level"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"font"		"DefaultVerySmall"
@@ -78,7 +78,7 @@
 		
 		
 		"labelText"		"whee"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"font"		"DefaultVerySmall"

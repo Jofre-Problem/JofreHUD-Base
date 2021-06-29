@@ -181,7 +181,7 @@
 				
 				////"visible"		"1"
 				"labelText"		"%respawntime%"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				//"fgcolor"		"235 226 202 255"
 				
 				if_mvm

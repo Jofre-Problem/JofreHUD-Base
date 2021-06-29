@@ -15,7 +15,7 @@
 		
 		
 		"settitlebarvisible"	"0"
-		"bgcolor_override"	"46 43 42 255"
+		"bgcolor_override"	"TanDarker"
 		
 		"item_ypos"		"60"
 		"item_ydelta"	"80"
@@ -94,7 +94,7 @@
 		"fieldName"		"CaratLabel"
 		"font"			"HudFontSmallestBold"
 		"labelText"		">>"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"c-300"
 		"ypos"			"20"
 		"zpos"			"1"
@@ -104,7 +104,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	"ClassLabel"
 	{
@@ -112,7 +112,7 @@
 		"fieldName"		"ClassLabel"
 		"font"			"HudFontMediumBold"
 		"labelText"		"#ClassBeingEquipped"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"c-280"
 		"ypos"			"15"
 		"zpos"			"1"
@@ -130,7 +130,7 @@
 		"fieldName"		"NameFilterLabel"
 		"font"			"HudFontSmallestBold"
 		"labelText"		"#Store_NameFilterLabel"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"c+205"
 		
 		"zpos"			"1"
@@ -157,8 +157,8 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"unicode"		"1"
 		"fgcolor_override"	"117 107 94 255"
 		"bgcolor_override"	"251 235 202 255"
@@ -203,7 +203,7 @@
 		"fieldName"		"ItemSlotLabel"
 		"font"			"HudFontMediumBold"
 		"labelText"		"#PrimaryWeapon"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"c-55"
 		"ypos"			"15"
 		"zpos"			"1"
@@ -231,7 +231,7 @@
 		
 		"visible"		"0"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	
 	"CancelButton"
@@ -367,7 +367,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	
 	"NextPageButton"

@@ -161,7 +161,7 @@
 			"textAlignment"	"center"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"selected"
@@ -172,9 +172,9 @@
 			"paintbackground" "0"
 			"button_activation_type"	"1" // pressed
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"			
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanLight"
+			"depressedFgColor_override" "TanDarker"			
 		}	
 	}
 }

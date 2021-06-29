@@ -30,7 +30,7 @@
 		
 		
 		"labelText"		"Midi Source:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -48,11 +48,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"Choose"
 	{
@@ -68,12 +68,12 @@
 		
 		"tabPosition"		"2"
 		"labelText"		"Choose"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"ChooseMidiSource"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"Cancel"
 	{
@@ -89,7 +89,7 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

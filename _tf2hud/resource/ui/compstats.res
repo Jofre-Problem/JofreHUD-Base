@@ -174,7 +174,7 @@
 			
 					"labeltext"			"6"
 					"font"				"MarlettSmall"
-					"textAlignment"		"west"
+					//"textAlignment"		"west"
 
 					"defaultFgColor_override" "TanDark"
 					"armedFgColor_override"	"TanDark"
@@ -197,7 +197,7 @@
 					"labeltext"			"#TF_Competitive_Result"
 					"font"				"HudFontSmallest"
 					"fgcolor_override"	"141 63 63 255"
-					"textAlignment"		"west"
+					//"textAlignment"		"west"
 					"textinsetx"		"15"
 
 					"defaultFgColor_override" "TanDark"
@@ -231,7 +231,7 @@
 					"labeltext"			"#TF_Competitive_Date"
 					"font"				"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
-					"textAlignment"		"west"
+					//"textAlignment"		"west"
 					"textinsetx"		"15"
 
 					"defaultFgColor_override" "TanDark"
@@ -265,7 +265,7 @@
 					"labeltext"			"#TF_Competitive_Map"
 					"font"				"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
-					"textAlignment"		"west"
+					//"textAlignment"		"west"
 					"textinsetx"		"15"
 
 					"defaultFgColor_override" "TanDark"
@@ -298,7 +298,7 @@
 					"labeltext"			"#TF_Competitive_KDR"
 					"font"				"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
-					"textAlignment"		"west"
+					//"textAlignment"		"west"
 
 					"defaultFgColor_override" "TanDark"
 					"armedFgColor_override"	"Orange"

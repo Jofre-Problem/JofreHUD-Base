@@ -62,7 +62,7 @@
 			//"visible"		"1"
 			
 			"labelText"		"%itemname%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"fgcolor"		"235 226 202 255"
 			"centerwrap"	"1"
 		}
@@ -82,7 +82,7 @@
 			//"visible"		"1"
 			
 			"labelText"		"%attriblist%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"fgcolor"		"117 107 94 255"
 			//"centerwrap"	"0"
 		}
@@ -102,7 +102,7 @@
 			"visible"		"0"
 			
 			"labelText"		"%collectionname%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"fgcolor"		"235 226 202 255"
 			//"centerwrap"	"0"
 		}
@@ -122,7 +122,7 @@
 			"visible"		"0"
 			
 			"labelText"		"%collectionlist%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"fgcolor"		"117 107 94 255"
 			//"centerwrap"	"0"
 		}
@@ -157,7 +157,7 @@
 			
 			"labelText"		"#ItemPanelEquipped"
 			"textAlignment"	"center"
-			"fgcolor"		"200 80 60 255"
+			"fgcolor"		"LightRed"
 			"PaintBackgroundType"	"2"
 		}
 	
@@ -191,7 +191,7 @@
 			
 			"labelText"		""
 			"textAlignment"	"center"
-			"fgcolor"		"200 80 60 255"
+			"fgcolor"		"LightRed"
 			"PaintBackgroundType"	"2"
 		}
 

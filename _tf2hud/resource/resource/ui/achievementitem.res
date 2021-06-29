@@ -43,7 +43,7 @@
 		"wide"			"400"
 		"tall"			"20"
 		"font"			"AchievementItemTitle"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 	
 	"AchievementDesc"
@@ -102,7 +102,7 @@
 		
 		
 		"labelText"		"0%"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -122,7 +122,7 @@
 		
 		
 		"labelText"		"#GameUI_Achievement_Show_HUD"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

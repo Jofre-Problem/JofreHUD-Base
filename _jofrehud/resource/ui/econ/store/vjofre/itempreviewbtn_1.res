@@ -34,12 +34,12 @@
 			"textAlignment"	"center"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"Command"		"show_preview"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
-			"armedFgColor_override" "200 80 60 255"
+			"armedFgColor_override" "LightRed"
 			"defaultFgColor_override" "235 226 202 255"
 		}
 	}	

@@ -30,8 +30,8 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 
@@ -64,8 +64,8 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"2"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 
@@ -97,8 +97,8 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"3"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 
@@ -118,7 +118,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"Enable Friendly Fire"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 
 
@@ -141,7 +141,7 @@
 		
 		"tabPosition"		"5"
 		"labelText"		"Allow Uploads"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 
 
@@ -173,8 +173,8 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"6"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 
@@ -206,8 +206,8 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"7"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 
@@ -225,7 +225,7 @@
 		
 		"tabPosition"		"8"
 		"labelText"		"Allow Voice"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 
 	"mp_fadetoblack"
@@ -242,7 +242,7 @@
 		
 		"tabPosition"		"9"
 		"labelText"		"Fade Screen to Black"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 
 }

@@ -10,7 +10,7 @@
 		"visible"		"1"
 		
 		"tabPosition"		"5"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"Advanced"

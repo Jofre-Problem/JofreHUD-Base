@@ -18,7 +18,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"Rank1"
 		"font"			"HudFontMediumBold"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		
 		
 		"zpos"			"15"
@@ -38,7 +38,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"Rank2"
 		"font"			"HudFontMediumSmallBold"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		
 		
 		"zpos"			"15"
@@ -113,7 +113,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"Discount"
 		"font"			"HudFontSmallestBold"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		
 		"ypos"			"54"
 		"zpos"			"15"

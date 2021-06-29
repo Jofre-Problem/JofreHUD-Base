@@ -113,7 +113,7 @@
 			
 			
 			"labelText"		"%activepipes%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"font"			"HudFontMedium"
@@ -138,7 +138,7 @@
 			
 			
 			"labelText"		"%activepipes%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"font"			"HudFontMedium"
@@ -196,7 +196,7 @@
 			
 			
 			"labelText"		"%activepipes%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"dulltext"		"1"
 			//"brighttext"	"0"
 			"font"			"HudFontMedium"
@@ -221,7 +221,7 @@
 			
 			
 			"labelText"		"%activepipes%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"dulltext"		"1"
 			//"brighttext"	"0"
 			"font"			"HudFontMedium"

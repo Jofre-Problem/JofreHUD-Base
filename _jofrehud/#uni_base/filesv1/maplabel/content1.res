@@ -6,7 +6,7 @@
 		"tall"		"24"
 		"visible"		"1"
 		"labelText"		"#GameUI_Map"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"MapList"
 		//"dulltext"		"0"
 		//"brighttext"		"0"

@@ -58,7 +58,7 @@
 		
 		"wrap"			"1"
 		"labelText"		"%avatartext%"
-		"textAlignment"	"West"
+		//"textAlignment"	"west"
 		"font"			"TFFontSmall"
 	}
 
@@ -78,7 +78,7 @@
 		
 		"wrap"			"1"
 		"labelText"		"%text%"
-		"textAlignment"	"West"
+		//"textAlignment"	"west"
 		"font"			"TFFontSmall"
 	}
 }

@@ -27,7 +27,7 @@
 		"visible"		"1"
 		"enabled"		"0"
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}	

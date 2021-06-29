@@ -52,6 +52,6 @@
 		//"auto_tall_tocontents"		"0"
 		//"use_proportional_insets"		"0"
 		"Command"		"Cancel"
-		"default"		"1"
+		//"Default"		"1"
 	}	
 }

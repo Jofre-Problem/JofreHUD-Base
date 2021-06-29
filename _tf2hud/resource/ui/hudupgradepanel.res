@@ -33,7 +33,7 @@
 			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_ypos"	"5"
 			"model_tall"	"32"
@@ -580,7 +580,7 @@
 			"fieldName"		"CreditsTextLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_UpgradeAmount"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"250"
 			"ypos"			"280"
 			"wide"			"500"

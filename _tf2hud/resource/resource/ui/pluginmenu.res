@@ -45,12 +45,12 @@
 		
 		"tabPosition"		"1"
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"option1"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"option2"
 	{
@@ -66,7 +66,7 @@
 		
 		"tabPosition"		"2"
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -87,7 +87,7 @@
 		
 		"tabPosition"		"3"
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -108,7 +108,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -129,7 +129,7 @@
 		
 		"tabPosition"		"5"
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -150,7 +150,7 @@
 		
 		"tabPosition"		"6"
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -171,7 +171,7 @@
 		
 		"tabPosition"		"7"
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -192,7 +192,7 @@
 		
 		"tabPosition"		"8"
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

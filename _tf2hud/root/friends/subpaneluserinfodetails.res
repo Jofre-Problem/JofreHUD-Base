@@ -110,7 +110,7 @@
 		"tabPosition"		"5"
 		"paintbackground"		"1"
 		"labelText"		"#Friends_RemoveUser"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Command"		"RemoveUser"
 		"Default"		"0"

@@ -31,7 +31,7 @@
 		
 		
 		"labelText"		"Resample"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -51,7 +51,7 @@
 		
 		
 		"labelText"		"Resampled Framerate:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -69,11 +69,11 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"Smooth"
 	{
@@ -90,7 +90,7 @@
 		
 		
 		"labelText"		"Smooth"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -110,7 +110,7 @@
 		
 		
 		"labelText"		"Filter Width:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -128,11 +128,11 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"Filter"
 	{
@@ -148,12 +148,12 @@
 		
 		
 		"labelText"		"Filter"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"FilterLog"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"Cancel"
 	{
@@ -169,7 +169,7 @@
 		
 		
 		"labelText"		"Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

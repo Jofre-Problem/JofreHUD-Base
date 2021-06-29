@@ -36,7 +36,7 @@
 				
 				////"visible"		"1"
 				"labelText"		"%playername%"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				"fgcolor_override"		"HudWhite"
 					
 				if_mvm
@@ -63,7 +63,7 @@
 				
 				////"visible"		"1"
 				"labelText"		"%playername%"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				"fgcolor"		"Black"
 				"fgcolor_override"		"Black"
 					

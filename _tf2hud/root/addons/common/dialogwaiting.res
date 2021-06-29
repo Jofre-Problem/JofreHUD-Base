@@ -28,7 +28,7 @@
 		
 		
 		"labelText"		"Setting up YYY Game with XXX"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -46,7 +46,7 @@
 		
 		
 		"labelText"		"Abort"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"

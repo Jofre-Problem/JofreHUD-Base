@@ -30,7 +30,7 @@
 		
 		"tabPosition"		"6"
 		"labelText"		"#vgui_ok"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -51,7 +51,7 @@
 		
 		"tabPosition"		"7"
 		"labelText"		"#vgui_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -90,11 +90,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"SoundDirectoryPicker"
 	{
@@ -110,7 +110,7 @@
 		
 		"tabPosition"		"6"
 		"labelText"		"..."
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -149,11 +149,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"RenameClips"
 	{
@@ -170,7 +170,7 @@
 		"selected"		"1"
 		
 		"labelText"		"Rename Clips"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -189,11 +189,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"3"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"Increment"
 	{
@@ -208,11 +208,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"4"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"NumDigits"
 	{
@@ -227,11 +227,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"5"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"FirstNumberLabel"
 	{

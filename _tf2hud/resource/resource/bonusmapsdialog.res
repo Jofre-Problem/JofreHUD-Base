@@ -45,7 +45,7 @@
 		"enabled"		"0"
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_Back"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -66,12 +66,12 @@
 		"enabled"		"0"
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_Load"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"loadbonusmap"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"Cancel" //cancel button
 	{
@@ -87,7 +87,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -108,7 +108,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_ImportBonusMapsEllipsis"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -138,7 +138,7 @@
 		"ypos"		"410"
 		"wide"		"0"
 		"tall"		"24"
-		"fillcolor"	"255 255 255 255"
+		"fillcolor"	"White"
 		"zpos"	"-1"
 		"visible"		"0"
 		
@@ -176,7 +176,7 @@
 		
 		
 		"labelText"		"#GameUI_BonusMapsCompletion" //located in localization text file
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -196,7 +196,7 @@
 		
 		
 		"labelText"		"#GameUI_BonusMapsHelp"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"wrap"		"1"
@@ -249,11 +249,11 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"tabPosition"		"4"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"ChallengeCommentLabel" //when you select a challenge it's the text description
 	{

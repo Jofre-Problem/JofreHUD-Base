@@ -48,7 +48,7 @@
 		
 		
 		"proportionaltoparent"	"1"
-		"wrap"					"0"
+		//"wrap"					"0"
 		"labelText"				"%name%"
 		"proportionaltoparent"	"1"
 		"font"					"ControlPointTimer"
@@ -67,7 +67,7 @@
 		
 		
 		"proportionaltoparent"	"1"
-		"wrap"					"0"
+		//"wrap"					"0"
 		"labelText"				"%status%"
 		"proportionaltoparent"	"1"
 		"font"					"QuestObjectiveTracker_Desc"

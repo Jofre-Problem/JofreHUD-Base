@@ -27,11 +27,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"5"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"MapLabel"
 	{
@@ -47,7 +47,7 @@
 		
 		
 		"labelText"		"#GameUI_Map"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"MapList"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -103,7 +103,7 @@
 		
 		
 		"labelText"		""
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -142,7 +142,7 @@
 		
 		
 		"labelText"		"#TF_Bot_NumberOfBots"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -160,11 +160,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"3"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"2"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 
 	"MapRecommendedNumPlayersLabel"
@@ -181,7 +181,7 @@
 		
 		
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"dulltext"		"1"
 		//"brighttext"	"0"
 		//"wrap"		"0"
@@ -201,7 +201,7 @@
 		
 		
 		"labelText"		"#TF_Bot_Difficulty"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -297,7 +297,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty0"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"

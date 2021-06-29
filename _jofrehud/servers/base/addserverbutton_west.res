@@ -3,6 +3,6 @@
 {
 	"AddServerButton"
 	{
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 }

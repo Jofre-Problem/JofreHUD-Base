@@ -236,7 +236,7 @@
 		////"visible"		"1"
 		
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -294,7 +294,7 @@
 		
 		
 		"labelText"		"#GameUI_CustomTab_Explanation3"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"wrap"		"1"
@@ -338,7 +338,7 @@
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"ok"
-		"Default"		"1"
+		//"Default"		"1"
 		"selected"		"0"
 	}
 	"Cancel"
@@ -355,7 +355,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"#vgui_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

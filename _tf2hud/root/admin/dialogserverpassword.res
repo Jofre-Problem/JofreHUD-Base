@@ -25,7 +25,7 @@
 		////"visible"		"1"
 		
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 	"PasswordEntry"
 	{
@@ -39,7 +39,7 @@
 		
 		"tabPosition"		"1"
 		"textHidden"		"1"
-		"editable"		"1"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 	"ServerNameLabel"
@@ -84,7 +84,7 @@
 		"labelText"		"#Dialog_Server_With_Password_Connect"
 		"textAlignment"		"center"
 		"command"		"Connect"
-		"default"		"1"
+		//"Default"		"1"
 	}
 	"CancelButton"
 	{

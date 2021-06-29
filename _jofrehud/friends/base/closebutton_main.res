@@ -18,6 +18,6 @@
 	//	
 		"labelText"		"#TrackerUI_Close"
 	//	"Command"		"Close"
-	//	"Default"		"1"
+	//	//"Default"		"1"
 	}
 }

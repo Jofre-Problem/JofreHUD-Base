@@ -102,7 +102,7 @@
 		"visible_minmode" "1"
 		
 		"labelText"		"%student_name%"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 	"MapLabel"
 	{
@@ -121,7 +121,7 @@
 		"visible_minmode"		"1"
 		
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}	
 	"DistanceLabel"
 	{
@@ -140,7 +140,7 @@
 		"visible_minmode" "1"
 		
 		"labelText"		"%student_distance%"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 
 	"DirectionsLabel"
@@ -155,7 +155,7 @@
 		////"visible"		"1"	[$WIN32]
 		
 		"labelText"		"#TF_Coach_StudentCommands"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"		
 	}
 
@@ -186,10 +186,10 @@
 		
 		
 		////"visible"		"1"	[$WIN32]
-		"visible"		"0"	[$X360]
+		
 		
 		"labelText"		"#TF_Coach_ControlView"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 	"CycleTargetFwdKeyLabel"
@@ -223,7 +223,7 @@
 		"visible_minmode"		"1"
 		
 		"labelText"		"#TF_Coach_AttackDesc"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 	"CycleTargetRevKeyLabel"
@@ -257,7 +257,7 @@
 		"visible_minmode"		"1"
 		
 		"labelText"		"#TF_Coach_DefendDesc"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 	"Slot1KeyLabel"
@@ -291,7 +291,7 @@
 		"visible_minmode"		"1"
 		
 		"labelText"		"#TF_Coach_Slot1Desc"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 	"Slot2KeyLabel"
@@ -325,7 +325,7 @@
 		"visible_minmode"		"1"
 		
 		"labelText"		"#TF_Coach_Slot2Desc"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 

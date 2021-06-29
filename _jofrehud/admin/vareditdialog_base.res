@@ -39,10 +39,10 @@
 		
 		
 
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 
 	"Label1"

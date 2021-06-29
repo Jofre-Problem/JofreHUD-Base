@@ -29,7 +29,7 @@
 			"disabled"		"1"
 			"tabPosition"	"1"
 			"labelText"		"Render Bounding Box"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 			"Default"		"0"
@@ -50,7 +50,7 @@
 			"disabled"		"1"
 			"tabPosition"	"1"
 			"labelText"		"Render Culling Bounds"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 			"Default"		"0"
@@ -70,7 +70,7 @@
 			
 			"tabPosition"	"2"
 			"labelText"		""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 			"Default"		"0"
@@ -89,7 +89,7 @@
 			
 			
 			"labelText"		"Background Color"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 		}
@@ -109,7 +109,7 @@
 			"selected"		"1"
 			"tabPosition"	"3"
 			"labelText"		"Render Helpers"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 			"Default"		"0"

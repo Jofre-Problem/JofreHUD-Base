@@ -30,7 +30,7 @@
 		
 		
 		"labelText"		"#KBEditorSave"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -52,7 +52,7 @@
 		
 		
 		"labelText"		"#KBEditorCancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -74,7 +74,7 @@
 		
 		
 		"labelText"		"#KBEditorRevert"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -96,7 +96,7 @@
 		
 		
 		"labelText"		"#KBEditorUseDefaults"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

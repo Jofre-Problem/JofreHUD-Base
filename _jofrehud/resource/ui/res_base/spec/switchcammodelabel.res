@@ -10,10 +10,10 @@
 		
 		
 		////"visible"		"1"	[$WIN32]
-		"visible"		"0"	[$X360]
+		
 		
 		"labelText"		"#TF_Coach_ControlView"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 }	

@@ -84,7 +84,7 @@
 			"fieldName"		"PlayerCellsPanel"
 			////"visible"		"1"
 			"tall"			"40"
-			"bgcolor_override"	"255 0 0 255"
+			"bgcolor_override"	"HUDDeathWarning"
 			"paintbackground"	"0"
 			
 			"RedLabel"

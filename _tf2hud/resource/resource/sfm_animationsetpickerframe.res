@@ -240,7 +240,7 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -275,7 +275,7 @@
 		
 		
 		"labelText"		"#FileOpenDialog_Open"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -297,12 +297,12 @@
 		
 		
 		"labelText"		"#FileOpenDialog_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Cancel"
-		"Default"		"1"
+		//"Default"		"1"
 		"selected"		"0"
 	}
 }

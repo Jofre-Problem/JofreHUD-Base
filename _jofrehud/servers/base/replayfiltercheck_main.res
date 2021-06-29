@@ -15,7 +15,7 @@
 		"tabPosition"		"8"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_SupportsReplays"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Default"		"0"	
 	}	
@@ -32,7 +32,7 @@
 		"tabPosition"		"8"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_IsNotPasswordProtected"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Default"		"0"
 	}	

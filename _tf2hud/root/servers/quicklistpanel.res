@@ -66,7 +66,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"MAPNAME"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 	}
@@ -86,7 +86,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"(capture the flag)"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"pin_to_sibling"	"mapname"
@@ -109,7 +109,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"Yo wats up"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		//"fgcolor_override"	"185 185 188 255"

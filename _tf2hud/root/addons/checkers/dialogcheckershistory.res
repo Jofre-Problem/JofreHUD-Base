@@ -42,7 +42,7 @@
 		
 		
 		"labelText"		"#SteamAddOn_ReviewMoves"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -59,7 +59,7 @@
 		////"visible"		"1"
 		
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -77,7 +77,7 @@
 		
 		
 		"labelText"		"#SteamAddOn_Close"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"

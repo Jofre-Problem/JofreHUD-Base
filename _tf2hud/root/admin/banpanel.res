@@ -28,7 +28,7 @@
 		
 		"tabPosition"		"2"
 		"labelText"		"#Ban_List_Add"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -47,7 +47,7 @@
 		"enabled"		"0"
 		"tabPosition"		"3"
 		"labelText"		"#Ban_List_Remove"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -66,10 +66,10 @@
 		"enabled"		"0"
 		"tabPosition"		"4"
 		"labelText"		"#Ban_List_Edit"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"Import"
 	{
@@ -85,7 +85,7 @@
 		
 		"tabPosition"		"5"
 		"labelText"		"#Ban_List_Import"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"

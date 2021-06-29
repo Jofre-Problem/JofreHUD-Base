@@ -15,7 +15,7 @@
 		"tabPosition"		"6"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_QuickListCheck"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Default"		"0"
 	}

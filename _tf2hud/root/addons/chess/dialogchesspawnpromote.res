@@ -28,7 +28,7 @@
 		
 		
 		"labelText"		"#Chess_PawnPromotion_Text"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -46,7 +46,7 @@
 		
 		
 		"labelText"		"#Chess_PromoteQueen"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -65,7 +65,7 @@
 		
 		
 		"labelText"		"#Chess_PromoteRook"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -84,7 +84,7 @@
 		
 		
 		"labelText"		"#Chess_PromoteBishop"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -103,9 +103,9 @@
 		
 		
 		"labelText"		"#Chess_PromoteKnight"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 }

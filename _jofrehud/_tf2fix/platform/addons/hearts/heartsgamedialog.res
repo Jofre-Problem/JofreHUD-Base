@@ -63,7 +63,7 @@
 		
 		
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -78,7 +78,7 @@
 		
 		
 		"labelText"		""		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -93,7 +93,7 @@
 		
 		
 		"labelText"		""		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -108,7 +108,7 @@
 		
 		
 		"labelText"		""		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -123,7 +123,7 @@
 		
 		
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -138,7 +138,7 @@
 		
 		
 		"labelText"		""		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -153,7 +153,7 @@
 		
 		
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -168,7 +168,7 @@
 		
 		
 		"labelText"		""		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -196,7 +196,7 @@
 		
 		"tabPosition"		"21"
 		"labelText"		"#Hearts_DealNextHand"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}    
 	
 	"GameTablePanel"
@@ -602,7 +602,7 @@
 		
 		"tabPosition"		"18"
 		"labelText"		"#SteamAddOn_ShowScore"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}		     
 	"LastTrickBtn"
@@ -619,7 +619,7 @@
 		"enabled"		"0"
 		"tabPosition"		"19"
 		"labelText"		"#SteamAddOn_LastTrick"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}		     
 	"LastTrickLabel"
@@ -636,7 +636,7 @@
 		
 		
 		"labelText"		"#SteamAddOn_LastTrick"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}		     
 	"ChatTextLog"
@@ -652,10 +652,10 @@
 		//"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"TextEntry"
 	{
@@ -670,8 +670,8 @@
 		//"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"500"
 	}
 	"SendBtn"
@@ -688,8 +688,8 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#SteamAddOn_Btn_Send"
-		"textAlignment"		"west"
-		"Default"		"1"
+		//"textAlignment"		"west"
+		//"Default"		"1"
 	}	
 	"LastMessageLabel"
 	{
@@ -705,7 +705,7 @@
 		
 		
 		"labelText"		"Last message received at:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"dulltext"		"1"
 		//"brighttext"		"0"
 	}

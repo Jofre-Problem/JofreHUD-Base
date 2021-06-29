@@ -45,7 +45,7 @@
 			"fieldName"		"UserName"
 			"font"			"HudFontSmallestBold"
 			"labelText"		"%username%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"25"
 			"ypos"			"2"
 			"zpos"			"2"

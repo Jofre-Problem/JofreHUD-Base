@@ -34,7 +34,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	
 	"MovieTitleLabel"
@@ -43,7 +43,7 @@
 		"fieldName"		"MovieTitleLabel"
 		"font"			"HudFontSmallBold"
 		"labelText"		"#YouTube_UploadDlg_MovieTitle"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"10"
 		"ypos"			"50"
 		"zpos"			"1"
@@ -61,7 +61,7 @@
 		"fieldName"		"MovieTitleTextEntry"
 		"maxchars"		"60"
 		"textHidden"	"0"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"unicode"		"1"
 		//"wrap"			"0"
 		"xpos"			"10"
@@ -85,7 +85,7 @@
 		"fieldName"		"MovieDescLabel"
 		"font"			"HudFontSmallBold"
 		"labelText"		"#YouTube_UploadDlg_MovieDesc"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"10"
 		"ypos"			"100"
 		"zpos"			"1"
@@ -103,7 +103,7 @@
 		"fieldName"		"MovieDescTextEntry"
 		"maxchars"		"1024"
 		"textHidden"	"0"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"unicode"		"1"
 		//"wrap"			"0"
 		"xpos"			"10"
@@ -136,7 +136,7 @@
 		
 		
 		"labelText"		"#YouTube_UploadDlg_Unlisted"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
@@ -197,7 +197,7 @@
 		"zpos"			"20"
 		"wide"			"145"
 		"tall"			"25"
-		"default"		"1"
+		//"Default"		"1"
 		
 		
 		////"visible"		"1"

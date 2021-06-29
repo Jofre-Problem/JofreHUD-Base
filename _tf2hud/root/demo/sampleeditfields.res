@@ -15,7 +15,7 @@
 		
 		
 		"labelText"		"Label on top"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 	"Editbox1"
 	{
@@ -30,7 +30,7 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"default"		"0"
 	}
 
@@ -48,7 +48,7 @@
 		
 		
 		"labelText"		"Label at left"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 	"Edit2"
 	{
@@ -63,7 +63,7 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"default"		"0"
 	}
 
@@ -81,7 +81,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"Disabled"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 	"Edit3"
 	{
@@ -96,7 +96,7 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"default"		"0"
 	}
 
@@ -114,7 +114,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"Disabled"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 
 }

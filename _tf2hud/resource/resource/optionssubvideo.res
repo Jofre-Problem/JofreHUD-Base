@@ -14,7 +14,7 @@
 		"enabled"		"0"
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_AdjustGamma"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -33,11 +33,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"AspectRatio"
 	{
@@ -52,11 +52,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"3"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"VRMode"
 	{
@@ -71,11 +71,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"3"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"AdvancedButton"
 	{
@@ -91,7 +91,7 @@
 		
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_AdvancedEllipsis"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -111,7 +111,7 @@
 		
 		
 		"labelText"		"#GameUI_LaunchBenchmarkVideoPanel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -131,7 +131,7 @@
 		
 		"tabPosition"		"6"
 		"labelText"		"#GameUI_ThirdPartyTechCredits"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -151,11 +151,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"2"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"Gamma label"
 	{
@@ -171,7 +171,7 @@
 		
 		
 		"labelText"		"#GameUI_Gamma"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -189,11 +189,11 @@
 		"visible"		"0"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"Label1"
 	{
@@ -209,7 +209,7 @@
 		
 		
 		"labelText"		"#GameUI_Resolution"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"Resolution"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -229,7 +229,7 @@
 		
 		
 		"labelText"		"#GameUI_Renderer"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -248,7 +248,7 @@
 		
 		
 		"labelText"		"#GameUI_DisplayMode"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"DisplayModeCombo"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -268,7 +268,7 @@
 		
 		
 		"labelText"		"#GameUI_AspectRatio"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"AspectRatio"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -291,7 +291,7 @@
 		
 		
 		"labelText"		"#GameUI_HDContent"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -316,7 +316,7 @@
 		
 		
 		"labelText"		"#GameUI_VRMode"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"VRMode"
 		//"dulltext"		"0"
 		//"brighttext"		"0"

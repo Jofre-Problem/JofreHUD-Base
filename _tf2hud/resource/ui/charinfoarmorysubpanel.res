@@ -13,9 +13,9 @@
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"46 43 42 255"
-		"infocus_bgcolor_override" "46 43 42 255"
-		"outoffocus_bgcolor_override" "46 43 42 255"
+		"bgcolor_override"	"TanDarker"
+		"infocus_bgcolor_override" "TanDarker"
+		"outoffocus_bgcolor_override" "TanDarker"
 		
 		"thumbnail_bgcolor"			"51 47 46 255"
 		"thumbnail_bgcolor_mouseover"	"156 146 128 255"
@@ -39,7 +39,7 @@
 			"bgcolor_override"		"0 0 0 255"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"7"
 			"model_ypos"	"5"
@@ -66,7 +66,7 @@
 		"fieldName"		"CaratLabel"
 		"font"			"HudFontSmallestBold"
 		"labelText"		">>"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"c-300"
 		"ypos"			"7"
 		"zpos"			"1"
@@ -76,7 +76,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	"ArmoryLabel"
 	{
@@ -84,7 +84,7 @@
 		"fieldName"		"ArmoryLabel"
 		"font"			"HudFontMediumSmallBold"
 		"labelText"		"#Armory"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"c-280"
 		"ypos"			"2"
 		"zpos"			"1"
@@ -102,7 +102,7 @@
 		"fieldName"		"FiltersLabel"
 		"font"			"HudFontSmallestBold"
 		"labelText"		"#Store_FilterLabel"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"c-300"
 		"ypos"			"32"
 		"zpos"			"1"
@@ -129,18 +129,18 @@
 		//"visible"			"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"			"0"
 		"maxchars"			"-1"
 		"NumericInputOnly"	"0"
 		"unicode"			"0"
 		
-		"fgcolor_override"	"235 226 202 255"
+		"fgcolor_override"	"TanLight"
 		"bgcolor_override"	"51 47 46 255"
 		"disabledFgColor_override" "235 226 202 255"
 		"disabledBgColor_override" "51 47 46 255"
 		"selectionColor_override" "51 47 46 255"
-		"selectionTextColor_override" "235 226 202 255"
+		"selectionTextColor_override" "TanLight"
 		"defaultSelectionBG2Color_override" "51 47 46 255"
 	}
 	
@@ -199,7 +199,7 @@
 		////"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"PaintBackgroundType"	"2"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		
 		"model_hide"	"1"
 		"text_center"	"1"
@@ -224,7 +224,7 @@
 		"visible"		"0"
 		"bgcolor_override"		"Blank"
 		"PaintBackgroundType"	"2"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		
 		"model_ypos"	"10"
 		"model_tall"	"120"
@@ -319,7 +319,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	
 	"NextPageButton"

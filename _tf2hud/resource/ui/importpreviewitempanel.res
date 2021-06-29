@@ -80,7 +80,7 @@
 			"fieldName"		"ItemNameLabel"
 			"font"			"HudFontSmallestBold"
 			"labelText"		"%itemname%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"360"
 			"ypos"			"17"
 			"wide"			"230"
@@ -247,7 +247,7 @@
 		"tall"			"320"
 		////"visible"		"1"
 		"paintbackground"	"0"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		
 		"model_xpos"	"10"
 		"model_ypos"	"10"
@@ -596,7 +596,7 @@
 			"fieldName"		"LoadoutLabel"
 			"font"			"HudFontSmallestBold"
 			"labelText"		"#TF_ImportPreview_LoadoutLabel"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			
 			
 			"wide"			"200"
@@ -629,7 +629,7 @@
 			"fieldName"		"PoseLabel"
 			"font"			"HudFontSmallestBold"
 			"labelText"		"#TF_ImportPreview_PoseLabel"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			
 			"ypos"			"45"
 			"wide"			"95"
@@ -669,7 +669,7 @@
 			////"visible"		"1"
 			
 			"labelText"		"#TF_ImportPreview_ActionLabel"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"wrap"			"1"
@@ -698,7 +698,7 @@
 			"fieldName"		"EffectLabel"
 			"font"			"HudFontSmallestBold"
 			"labelText"		"#TF_ImportPreview_EffectLabel"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			
 			"ypos"			"90"
 			"wide"			"200"
@@ -915,7 +915,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"show_explanations"
 	}
 	
@@ -958,7 +958,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"TextLabel"
@@ -977,7 +977,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"CloseButton"
@@ -1006,9 +1006,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -1043,7 +1043,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "LightRed"
 		}
 		"NextButton"
 		{
@@ -1064,16 +1064,16 @@
 			"textAlignment"	"center"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"nextexplanation"
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1133,7 +1133,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"TextLabel"
@@ -1152,7 +1152,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"CloseButton"
@@ -1181,9 +1181,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -1228,9 +1228,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1265,7 +1265,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "LightRed"
 		}
 		"NextButton"
 		{
@@ -1286,16 +1286,16 @@
 			"textAlignment"	"center"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"nextexplanation"
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1355,7 +1355,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"TextLabel"
@@ -1374,7 +1374,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"CloseButton"
@@ -1403,9 +1403,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -1450,9 +1450,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1487,7 +1487,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "LightRed"
 		}
 		"NextButton"
 		{
@@ -1508,16 +1508,16 @@
 			"textAlignment"	"center"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"nextexplanation"
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1576,7 +1576,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"TextLabel"
@@ -1595,7 +1595,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"CloseButton"
@@ -1617,16 +1617,16 @@
 			"textAlignment"	"center"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"close"
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanLight"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -1671,9 +1671,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1708,7 +1708,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "LightRed"
 		}
 	}	
 	
@@ -1754,7 +1754,7 @@
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
-		"Default"		"1"
+		//"Default"		"1"
 		"font"		"HudFontSmallestBold"
 	}
 }

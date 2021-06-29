@@ -193,7 +193,7 @@
 			"tall"		"20"
 			"proportionaltoparent"	"1"
 			"labeltext"		"%selected_maps_count%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"font"			"HudFontSmallest"
 			"fgcolor_override"	"TanDark"
 		

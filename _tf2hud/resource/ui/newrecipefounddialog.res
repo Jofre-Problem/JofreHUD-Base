@@ -32,7 +32,7 @@
 		//"wrap"			"0"
 		"labelText"		"#NewRecipeFound"
 		"textAlignment"		"center"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 		"bgcolor_override" "Blank"
 	}
 
@@ -49,7 +49,7 @@
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"235 226 202 255"
 		"PaintBackgroundType"	"2"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		
 		"text_ypos"			"20"
 		"text_center"		"1"
@@ -95,7 +95,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"close"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

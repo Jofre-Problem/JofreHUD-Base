@@ -27,7 +27,7 @@
 		
 		
 		"labelText"		"#filter_joinleave"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"		
@@ -46,7 +46,7 @@
 		
 		
 		"labelText"		"#filter_namechange"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"		
@@ -65,7 +65,7 @@
 		
 		
 		"labelText"		"#filter_publicchat"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"		
@@ -84,7 +84,7 @@
 		
 		
 		"labelText"		"#filter_servermsg"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"		
@@ -103,7 +103,7 @@
 		
 		
 		"labelText"		"#filter_teamchange"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"		
@@ -123,7 +123,7 @@
 		
 		
 		"labelText"		"#filter_achievement"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"		

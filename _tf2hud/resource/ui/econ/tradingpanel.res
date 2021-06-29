@@ -15,9 +15,9 @@
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"46 43 42 255"
-		"infocus_bgcolor_override" "46 43 42 255"
-		"outoffocus_bgcolor_override" "46 43 42 255"
+		"bgcolor_override"	"TanDarker"
+		"infocus_bgcolor_override" "TanDarker"
+		"outoffocus_bgcolor_override" "TanDarker"
 		
 		"item_xpos_offcenter_a"	"-310"
 		"item_xpos_offcenter_b"	"165"
@@ -115,7 +115,7 @@
 		"fieldName"		"CaratLabel"
 		"font"			"HudFontSmallBold"
 		"labelText"		">>"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"c-300"
 		"ypos"			"20"
 		"zpos"			"1"
@@ -125,7 +125,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	"TitleLabel"
 	{
@@ -133,7 +133,7 @@
 		"fieldName"		"TitleLabel"
 		"font"			"HudFontMediumBold"
 		"labelText"		"#TF_TradeWindow_Title"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"c-280"
 		"ypos"			"15"
 		"zpos"			"1"
@@ -296,7 +296,7 @@
 		
 		"PaintBackgroundType" "0"
 		
-		"armedBgColor_override" "200 80 60 255"
+		"armedBgColor_override" "LightRed"
 		"defaultBgColor_override" "235 226 202 255"
 	}	
 	"MyReadyImageBGCenter"
@@ -310,7 +310,7 @@
 		"tall"			"36"
 		////"visible"		"1"
 		
-		"bgcolor_override" "46 43 42 255"
+		"bgcolor_override" "TanDarker"
 	}
 	"MyReadyImage"
 	{
@@ -326,7 +326,7 @@
 		"image"			"checkmark"
 		"scaleImage"	"1"	
 		"drawcolor"		"200 80 60 255"
-		"bgcolor_override" "46 43 42 255"
+		"bgcolor_override" "TanDarker"
 	}
 	"MyReadyLabel"
 	{
@@ -430,7 +430,7 @@
 			"tall"			"36"
 			////"visible"		"1"
 			
-			"bgcolor_override" "46 43 42 255"
+			"bgcolor_override" "TanDarker"
 		}
 	}
 	"TheirReadyImage"
@@ -676,7 +676,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	"NextPageButton"
 	{
@@ -757,7 +757,7 @@
 		"fieldName"		"ConfirmEllipsis"
 		"font"			"HudFontSmallBold"
 		"labelText"		"%confirm_button_ellipsis%"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"c50"
 		"ypos"			"350"
 		"zpos"			"1"
@@ -767,7 +767,7 @@
 		
 		"visible"		"0"
 		
-		"fgcolor_override" "46 43 42 255"
+		"fgcolor_override" "TanDarker"
 	}
 	"ConfirmDisabledLabel"
 	{
@@ -785,7 +785,7 @@
 		
 		"visible"		"0"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	"ConfirmButton"
 	{
@@ -836,7 +836,7 @@
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"default"		"1"
+		//"Default"		"1"
 	}		
 
 	"armory_panel"

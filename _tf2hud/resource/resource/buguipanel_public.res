@@ -29,11 +29,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"2"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"BugDescription"
 	{
@@ -48,11 +48,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"3"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"BugEmail"
 	{
@@ -67,11 +67,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"6"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"BugSubitterLabelPublic"
 	{
@@ -87,7 +87,7 @@
 		
 		
 		"labelText"		"PublicUser"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -105,7 +105,7 @@
 		////"visible"		"1"
 		
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -123,7 +123,7 @@
 		////"visible"		"1"
 		
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -142,7 +142,7 @@
 		
 		
 		"labelText"		"#GameUI_Bug_BSP_File"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -161,7 +161,7 @@
 		
 		
 		"labelText"		"#GameUI_Bug_VMF_File"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -179,11 +179,11 @@
 		"visible"		"0"
 		
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"BugTakeShot"
 	{
@@ -199,7 +199,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_Bug_TakeScreenshot"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -220,7 +220,7 @@
 		"enabled"		"0"
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_Bug_AttachSavedGame"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -241,7 +241,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"#GameUI_Bug_Include_BSP"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -261,7 +261,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"#GameUI_Bug_Include_VMF"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -281,7 +281,7 @@
 		
 		
 		"labelText"		"#GameUI_Bug_IncludeFile"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -301,7 +301,7 @@
 		
 		
 		"labelText"		"#GameUI_Bug_ClearFiles"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -321,7 +321,7 @@
 		
 		
 		"labelText"		"#GameUI_Console"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -340,7 +340,7 @@
 		
 		
 		"labelText"		"#GameUI_Console"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -359,7 +359,7 @@
 		
 		
 		"labelText"		"#GameUI_Console"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -398,7 +398,7 @@
 		
 		
 		"labelText"		"PublicUser"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -416,11 +416,11 @@
 		"visible"		"0"
 		
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"BugSeverity"
 	{
@@ -435,11 +435,11 @@
 		"visible"		"0"
 		
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"BugReportType"
 	{
@@ -454,11 +454,11 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"BugPriority"
 	{
@@ -473,11 +473,11 @@
 		"visible"		"0"
 		
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"BugArea"
 	{
@@ -492,11 +492,11 @@
 		"visible"		"0"
 		
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"BugMapNumber"
 	{
@@ -511,11 +511,11 @@
 		"visible"		"0"
 		
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"BugSubmit"
 	{
@@ -531,7 +531,7 @@
 		"enabled"		"0"
 		"tabPosition"		"9"
 		"labelText"		"#GameUI_Bug_Submit"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -552,7 +552,7 @@
 		
 		"tabPosition"		"10"
 		"labelText"		"#GameUI_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -573,12 +573,12 @@
 		
 		"tabPosition"		"8"
 		"labelText"		"#GameUI_Bug_ClearForm"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"clearform"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"Label1"
 	{
@@ -747,7 +747,7 @@
 		
 		
 		"labelText"		"#GameUI_Bug_PrivacyPolicy"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

@@ -10,6 +10,6 @@
 		"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 }

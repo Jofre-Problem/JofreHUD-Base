@@ -2,6 +2,6 @@
 {
 	"OkClose"
 	{
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 }	

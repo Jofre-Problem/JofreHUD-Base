@@ -28,7 +28,7 @@
 		
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		"command"		"Close"
 		"default"		"0"
@@ -47,10 +47,10 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_OK"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		"command"		"Ok"
-		"default"		"1"
+		//"Default"		"1"
 	}
 	"PanelListPanel"
 	{

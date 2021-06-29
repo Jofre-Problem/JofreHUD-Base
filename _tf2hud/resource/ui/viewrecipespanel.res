@@ -39,7 +39,7 @@
 			
 			"defaultFgColor_override" "117 107 94 255"
 			"defaultBgColor_override" "Blank"
-			"armedFgColor_override" "235 226 202 255"
+			"armedFgColor_override" "TanLight"
 			"armedBgColor_override" "0 0 0 0"
 			"depressedFgColor_override" "178 82 22 255"
 			"depressedBgColor_override" "0 0 0 0"
@@ -81,7 +81,7 @@
 		"centerwrap"	"1"
 		"labelText"		"#CraftRecipe"
 		"textAlignment"		"center"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 		"bgcolor_override" "Blank"
 	}
 	
@@ -203,14 +203,14 @@
 		
 		"visible"		"0"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	
 	"OkButton"
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"OkButton"
-		"Default"		"1"
+		//"Default"		"1"
 		"xpos"			"150"
 		"ypos"			"250"
 		"zpos"			"20"

@@ -42,7 +42,7 @@
 		"fieldName"		"URLInput"
 		"maxchars"		"255"
 		"textHidden"	"0"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"unicode"		"1"
 		//"wrap"			"0"
 		"xpos"			"60"
@@ -66,7 +66,7 @@
 	{
 		"ControlName"	"ComboBox"
 		"fieldName"		"CategoryCombo"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		"xpos"			"60"
 		"ypos"			"75"

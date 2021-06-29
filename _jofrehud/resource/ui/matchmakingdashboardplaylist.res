@@ -25,7 +25,7 @@
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_HeaderModeSelect"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"font"			"HudFontMediumBigBold"
 		"fgcolor_override"	"TanDark"
 		

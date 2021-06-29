@@ -29,7 +29,7 @@
 		
 		
 		"labelText"		"Process->"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -48,7 +48,7 @@
 		
 		
 		"labelText"		"Revert"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"revert"
@@ -68,7 +68,7 @@
 		
 		
 		"labelText"		"OK"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"close"
@@ -88,7 +88,7 @@
 		
 		
 		"labelText"		"Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"cancel"
@@ -108,7 +108,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"Save"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"save"
@@ -128,7 +128,7 @@
 		
 		
 		"labelText"		"Reload"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"reload"
@@ -147,10 +147,10 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"DemoSmoothEndFrame"
 	{
@@ -165,10 +165,10 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"DemoSmoothPreviewOriginal"
 	{
@@ -184,7 +184,7 @@
 		
 		
 		"labelText"		"Show Original"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"original"
@@ -204,7 +204,7 @@
 		
 		
 		"labelText"		"Show Processed"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"processed"
@@ -224,7 +224,7 @@
 		
 		
 		"labelText"		"Back off"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -243,7 +243,7 @@
 		
 		
 		"labelText"		"Hide legend"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -262,7 +262,7 @@
 		
 		
 		"labelText"		"Hide original"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -281,7 +281,7 @@
 		
 		
 		"labelText"		"Hide processed"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -300,7 +300,7 @@
 		
 		
 		"labelText"		"No smoothing info loaded"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -318,7 +318,7 @@
 		
 		
 		"labelText"		"Show All"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -337,7 +337,7 @@
 		
 		
 		"labelText"		"Select"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"select"
@@ -357,7 +357,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"Resume"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"togglepause"
@@ -377,7 +377,7 @@
 		"enabled"		"0"
 		
 		"labelText"		">>"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"stepforward"
@@ -397,7 +397,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"<<"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"stepbackward"
@@ -417,7 +417,7 @@
 		
 		
 		"labelText"		"Revert Pt."
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"revertpoint"
@@ -437,7 +437,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"Make Keyframe"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"keyframe"
@@ -457,7 +457,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"Make Look Target"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"looktarget"
@@ -477,7 +477,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"Undo"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"undo"
@@ -497,7 +497,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"Redo"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"redo"
@@ -517,7 +517,7 @@
 		
 		
 		"labelText"		"+Key"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"nextkey"
@@ -537,7 +537,7 @@
 		
 		
 		"labelText"		"-Key"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"prevkey"
@@ -557,7 +557,7 @@
 		
 		
 		"labelText"		"+Target"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"nexttarget"
@@ -577,7 +577,7 @@
 		
 		
 		"labelText"		"-Target"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"prevtarget"
@@ -597,7 +597,7 @@
 		
 		
 		"labelText"		"Set View"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"setview"
@@ -617,7 +617,7 @@
 		
 		
 		"labelText"		"Edge->"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -635,10 +635,10 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"DemoSmoothSaveKey"
 	{
@@ -654,7 +654,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"Save Key"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"processkey"
@@ -674,10 +674,10 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"DemoSmoothGoto"
 	{
@@ -693,7 +693,7 @@
 		
 		
 		"labelText"		"Jump To"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"gotoframe"
@@ -713,7 +713,7 @@
 		
 		
 		"labelText"		"Start Tick:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -731,7 +731,7 @@
 		
 		
 		"labelText"		"End Tick:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -749,7 +749,7 @@
 		
 		
 		"labelText"		"Edge Ticks:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}

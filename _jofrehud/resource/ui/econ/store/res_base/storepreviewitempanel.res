@@ -56,7 +56,7 @@
 		"zpos"			"1"
 		//"visible"		"1"
 
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		
 
 		"name_only"		"0"
@@ -110,7 +110,7 @@
 			"fieldName"		"itempanel"
 			
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"1"
 			"model_ypos"	"2"
@@ -164,7 +164,7 @@
 			"fieldName"		"itempanel"
 			
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"1"
 			"model_ypos"	"2"
@@ -218,7 +218,7 @@
 			"fieldName"		"itempanel"
 			
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"1"
 			"model_ypos"	"2"
@@ -272,7 +272,7 @@
 			"fieldName"		"itempanel"
 			
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"1"
 			"model_ypos"	"2"
@@ -326,7 +326,7 @@
 			"fieldName"		"itempanel"
 			
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"1"
 			"model_ypos"	"2"

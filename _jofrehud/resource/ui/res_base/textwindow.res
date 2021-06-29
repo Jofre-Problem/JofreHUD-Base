@@ -37,7 +37,7 @@
 		////"brighttext"		"0"
 	//	//"wrap"		"0"
 		//"command"		"okay"
-	//	"default"		"1"
+	//	//"Default"		"1"
 		"font"			"MenuSmallFont"
 	}
 	"info"
@@ -70,7 +70,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#TF_WELCOME"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"ChalkboardTitle"
@@ -99,7 +99,7 @@
 		
 		////"visible"		"1"
 		
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		"textAlignment"	"northwest"
 		"fgcolor"		"Gray"
 	}
@@ -118,7 +118,7 @@
 		////"visible"		"1"
 		
 		
-		"paintborder"	"0"
+		//"paintborder"	"0"
 	}
 	
 

@@ -80,7 +80,7 @@
 		//"visible"			"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"			"0"
 		"maxchars"			"-1"
 		"NumericInputOnly"	"0"
@@ -139,7 +139,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"apply"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

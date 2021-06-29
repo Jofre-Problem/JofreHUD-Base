@@ -33,8 +33,8 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"8"
 		"NumericInputOnly"		"1"
 	}
@@ -71,8 +71,8 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"2"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
 	}

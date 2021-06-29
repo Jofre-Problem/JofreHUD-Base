@@ -145,7 +145,7 @@
 		"fieldName"		"StopWatchLabel"
 		"font"			"HudFontSmallest"
 		"labelText"		"%stopwatchlabel%"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"xpos"			"25"
 		"ypos"			"5"
 		"zpos"			"4"

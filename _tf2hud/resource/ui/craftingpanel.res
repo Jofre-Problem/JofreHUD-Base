@@ -16,9 +16,9 @@
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"46 43 42 255"
-		"infocus_bgcolor_override" "46 43 42 255"
-		"outoffocus_bgcolor_override" "46 43 42 255"
+		"bgcolor_override"	"TanDarker"
+		"infocus_bgcolor_override" "TanDarker"
+		"outoffocus_bgcolor_override" "TanDarker"
 
 		"item_ypos"						"85"
 		"output_item_ypos"				"255"		
@@ -108,7 +108,7 @@
 			//"textinsetx"	"0"
 			"defaultFgColor_override" "117 107 94 255"
 			"defaultBgColor_override" "Blank"
-			"armedFgColor_override" "235 226 202 255"
+			"armedFgColor_override" "TanLight"
 			"armedBgColor_override" "0 0 0 0"
 			"depressedFgColor_override" "178 82 22 255"
 			"depressedBgColor_override" "0 0 0 0"
@@ -177,7 +177,7 @@
 			"fieldName"		"RecipeTitle"
 			"font"			"HudFontSmallBold"
 			"labelText"		"%recipetitle%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			
 			"ypos"			"10"
 			"zpos"			"1"
@@ -279,7 +279,7 @@
 			"fieldName"		"FreeAccountLabel"
 			"font"			"HudFontSmallestBold"
 			"labelText"		"#Craft_PremiumRecipe"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			
 			"ypos"			"318"
 			"zpos"			"21"
@@ -290,7 +290,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor"		"178 82 22 255"
+			"fgcolor"		"Orange"
 		}
 		"UpgradeButton"
 		{
@@ -448,7 +448,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor_override"	"235 226 202 255"
+			"fgcolor_override"	"TanLight"
 			"wrap"			"1"
 			"centerwrap"	"1"
 		}
@@ -473,7 +473,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"reloadscheme"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

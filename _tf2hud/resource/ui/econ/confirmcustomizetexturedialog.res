@@ -109,7 +109,7 @@
 			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			"model_xpos"	"2"
 			"model_ypos"	"5"
 			"model_wide"	"80"
@@ -184,7 +184,7 @@
 			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			"model_xpos"	"2"
 			"model_ypos"	"5"
 			"model_wide"	"80"
@@ -213,7 +213,7 @@
 			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			//"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			"model_xpos"	"00"
 			"model_ypos"	"00"
 			"model_wide"	"160"
@@ -277,7 +277,7 @@
 					"wide"				"330"
 					"tall"				"20"
 					"labelText"		"#ToolCustomizeTextureUseAvatarImage"
-					"textAlignment"		"west"
+					//"textAlignment"		"west"
 					"font"			"HudFontSmallBold"
 				}
 
@@ -290,7 +290,7 @@
 					"wide"				"330"
 					"tall"				"20"
 					"labelText"		"#ToolCustomizeTextureUseAnyImage"
-					"textAlignment"		"west"
+					//"textAlignment"		"west"
 					"font"			"HudFontSmallBold"
 				}
 
@@ -360,12 +360,12 @@
 					"editable"		"0"
 					"font"			"HudFontSmall"
 
-					//"fgcolor_override"	"235 226 202 255"
+					//"fgcolor_override"	"TanLight"
 					"bgcolor_override"	"0 0 0 255"
 					//"disabledFgColor_override" "235 226 202 255"
 					"disabledBgColor_override" "0 0 0 255"
 					"selectionColor_override" "0 0 0 255"
-					"selectionTextColor_override" "235 226 202 255"
+					"selectionTextColor_override" "TanLight"
 					"defaultSelectionBG2Color_override" "Blank"
 				}
 
@@ -471,12 +471,12 @@
 					"font"			"HudFontSmall"
 					"visible"	"0"
 
-					//"fgcolor_override"	"235 226 202 255"
+					//"fgcolor_override"	"TanLight"
 					"bgcolor_override"	"0 0 0 255"
 					//"disabledFgColor_override" "235 226 202 255"
 					"disabledBgColor_override" "0 0 0 255"
 					"selectionColor_override" "0 0 0 255"
-					"selectionTextColor_override" "235 226 202 255"
+					"selectionTextColor_override" "TanLight"
 					"defaultSelectionBG2Color_override" "Blank"
 				}
 
@@ -600,12 +600,12 @@
 						"editable"		"0"
 						"font"			"HudFontSmall"
 
-						//"fgcolor_override"	"235 226 202 255"
+						//"fgcolor_override"	"TanLight"
 						"bgcolor_override"	"0 0 0 255"
 						//"disabledFgColor_override" "235 226 202 255"
 						"disabledBgColor_override" "0 0 0 255"
 						"selectionColor_override" "0 0 0 255"
-						"selectionTextColor_override" "235 226 202 255"
+						"selectionTextColor_override" "TanLight"
 						"defaultSelectionBG2Color_override" "Blank"
 					}
 				}
@@ -777,7 +777,7 @@
 					"wide"		"330"
 					"tall"		"180"
 					"labelText"		 "#ToolCustomizeTextureConfirmWarning"
-					"textAlignment"	"west"
+					//"textAlignment"	"west"
 					"wrap"	"1"
 				}
 			}
@@ -874,7 +874,7 @@
 				"labelText"		"#ToolCustomizeTextureOKButton"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"default"		"1"
+				//"Default"		"1"
 				"Command"		"apply"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"

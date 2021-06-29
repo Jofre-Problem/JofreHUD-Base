@@ -48,7 +48,7 @@
 			"fieldName"		"BlueTeamLabel"
 			"font"			"ScoreboardTeamName"
 			"labelText"		"%blueteamname%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"56"
 			"ypos"			"25"
 			"wide"			"100"
@@ -123,7 +123,7 @@
 			"fieldName"		"RedTeamScore"
 			"font"			"ScoreboardTeamScore"
 			"labelText"		"%redteamscore%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"207"
 			"ypos"			"-2"
 			"zpos"			"3"
@@ -143,7 +143,7 @@
 			"font"			"ScoreboardTeamScore"
 			"fgcolor"		"Black"
 			"labelText"		"%redteamscore%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"208"
 			"ypos"			"-1"
 			"zpos"			"3"
@@ -366,7 +366,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"%TopPlayersLabel%"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -385,7 +385,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#TF_Arena_Winpanel_DamageThisRound"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -404,7 +404,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#TF_Arena_Winpanel_HealingThisRound"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -423,7 +423,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#TF_Arena_Winpanel_TimeAliveThisRound"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -442,7 +442,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#TF_Arena_Winpanel_KillingBlows"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -502,7 +502,7 @@
 			////"visible"		"1"
 			
 			"labelText"		""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 		}
@@ -519,7 +519,7 @@
 			////"visible"		"1"
 			
 			"labelText"		""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 		}
@@ -618,7 +618,7 @@
 			////"visible"		"1"
 			
 			"labelText"		""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 		}
@@ -635,7 +635,7 @@
 			////"visible"		"1"
 			
 			"labelText"		""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 		}
@@ -734,7 +734,7 @@
 			////"visible"		"1"
 			
 			"labelText"		""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 		}
@@ -751,7 +751,7 @@
 			////"visible"		"1"
 			
 			"labelText"		""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 		}
@@ -862,7 +862,7 @@
 			////"visible"		"1"
 			
 			"labelText"		""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 		}
@@ -879,7 +879,7 @@
 			////"visible"		"1"
 			
 			"labelText"		""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 		}
@@ -978,7 +978,7 @@
 			////"visible"		"1"
 			
 			"labelText"		""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 		}
@@ -995,7 +995,7 @@
 			////"visible"		"1"
 			
 			"labelText"		""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 		}
@@ -1094,7 +1094,7 @@
 			////"visible"		"1"
 			
 			"labelText"		""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 		}
@@ -1111,7 +1111,7 @@
 			////"visible"		"1"
 			
 			"labelText"		""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 		}

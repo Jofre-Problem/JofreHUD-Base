@@ -28,7 +28,7 @@
 		
 		
 		"labelText"		"Setting up YYY Game with XXX"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -46,7 +46,7 @@
 		
 		
 		"labelText"		"Black Territory: 0"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -64,7 +64,7 @@
 		
 		
 		"labelText"		"Black Captured: 0"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -82,7 +82,7 @@
 		
 		
 		"labelText"		"Black Score: 0"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -100,7 +100,7 @@
 		
 		
 		"labelText"		"White Territory: 0"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -118,7 +118,7 @@
 		
 		
 		"labelText"		"White Captured: 0"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -136,7 +136,7 @@
 		
 		
 		"labelText"		"White Score: 0"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -154,7 +154,7 @@
 		
 		
 		"labelText"		"Close Game Window"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -173,7 +173,7 @@
 		
 		
 		"labelText"		"Keep Game Window"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"

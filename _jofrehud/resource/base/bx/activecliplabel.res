@@ -12,7 +12,7 @@
 		"visible"		"1"
 		
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -31,7 +31,7 @@
 		
 		
 		"labelText"		"Active Clip:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -50,12 +50,12 @@
 		
 		
 		"labelText"		"Active Camera:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"ToggleWorkCamera"
-		"Default"		"1"
+		//"Default"		"1"
 		"selected"		"0"
 	}
 }

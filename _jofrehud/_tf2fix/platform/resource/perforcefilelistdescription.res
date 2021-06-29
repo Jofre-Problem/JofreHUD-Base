@@ -66,7 +66,7 @@
 					
 					
 					"labelText"		"Enter Description:"
-					"textAlignment"	"west"
+					//"textAlignment"	"west"
 					"dulltext"		"1"
 					//"brighttext"	"0"
 				}
@@ -87,10 +87,10 @@
 					
 					//"visible"		"1"
 					
-					"editable"		"1"
+					//"editable"		"1"
 					"tabPosition"	"1"
 					"labelText"		""
-					"textAlignment"	"west"
+					//"textAlignment"	"west"
 					"dulltext"		"1"
 					//"brighttext"	"0"
 				}						
@@ -114,7 +114,7 @@
 			"textAlignment"		"center"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
-			"Default"		"1"
+			//"Default"		"1"
 		}
 
 		"NoButton"
@@ -134,7 +134,7 @@
 			"textAlignment"		"center"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
-			"Default"		"1"
+			//"Default"		"1"
 		}
 	}
 }

@@ -33,10 +33,10 @@
 		
 		"tabPosition"		"1"
 		"paintbackground"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 		"unicode"		"1"
 	}
 	"Label1"
@@ -54,7 +54,7 @@
 		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_FriendlyName"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"UserNameEdit"
 		//"wrap"		"0"
 	}

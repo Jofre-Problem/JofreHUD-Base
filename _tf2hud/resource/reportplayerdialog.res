@@ -48,11 +48,11 @@
 		
 		"tabPosition"		"3"
 		"labelText"			"#GameUI_ReportPlayer"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"			"0"
 		//"brighttext"		"0"
 		"Command"		"Report"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"ReasonBox"
 	{
@@ -68,7 +68,7 @@
 		//"visible"			"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"			"0"
 		"maxchars"			"-1"
 		"NumericInputOnly"	"0"
@@ -88,7 +88,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_Close"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"Close"

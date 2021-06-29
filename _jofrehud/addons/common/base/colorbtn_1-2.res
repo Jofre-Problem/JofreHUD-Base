@@ -14,7 +14,7 @@
 		
 		
 		"labelText"		"Color One"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -33,7 +33,7 @@
 		
 		
 		"labelText"		"Color Two"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"

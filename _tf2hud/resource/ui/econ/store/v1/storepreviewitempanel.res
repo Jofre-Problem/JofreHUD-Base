@@ -85,7 +85,7 @@
 		////"visible"		"1"
 		"bgcolor_override"		"0 0 0 255"
 		"PaintBackgroundType"	"2"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		
 		"model_xpos"	"25"
 		"model_ypos"	"50"
@@ -188,7 +188,7 @@
 			"fieldName"		"itempanel"
 			
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"1"
 			"model_ypos"	"2"
@@ -242,7 +242,7 @@
 			"fieldName"		"itempanel"
 			
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"1"
 			"model_ypos"	"2"
@@ -296,7 +296,7 @@
 			"fieldName"		"itempanel"
 			
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"1"
 			"model_ypos"	"2"
@@ -350,7 +350,7 @@
 			"fieldName"		"itempanel"
 			
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"1"
 			"model_ypos"	"2"
@@ -404,7 +404,7 @@
 			"fieldName"		"itempanel"
 			
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"1"
 			"model_ypos"	"2"

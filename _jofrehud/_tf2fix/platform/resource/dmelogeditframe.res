@@ -29,11 +29,11 @@
 			//"visible"		"1"
 			
 			"tabPosition"		"3"
-			"textHidden"		"0"
+			//"textHidden"		"0"
 			"editable"		"0"
 			"maxchars"		"-1"
-			"NumericInputOnly"		"0"
-			"unicode"		"0"
+			//"NumericInputOnly"		"0"
+			//"unicode"		"0"
 		}
 		"OkButton"
 		{
@@ -52,7 +52,7 @@
 			"textAlignment"		"center"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
-			"Default"		"1"
+			//"Default"		"1"
 		}
 
 		"CancelButton"

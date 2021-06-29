@@ -110,9 +110,9 @@
 			
 				"paintbackground"	"0"
 			
-				"defaultFgColor_override" "46 43 42 255"
-				"armedFgColor_override" "200 80 60 255"
-				"depressedFgColor_override" "46 43 42 255"
+				"defaultFgColor_override" "TanDarker"
+				"armedFgColor_override" "LightRed"
+				"depressedFgColor_override" "TanDarker"
 			
 				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"200 80 60 255"
@@ -213,7 +213,7 @@
 					"textAlignment"	"south-east"
 					//"dulltext"		"0"
 					//"brighttext"	"0"
-					"default"		"1"
+					//"Default"		"1"
 					"labelText"			"#MMenu_ViewUpdateComic" 
 					"command"		"view_update_comic"
 					"sound_depressed"	"UI/buttonclick.wav"
@@ -250,7 +250,7 @@
 					"textAlignment"	"center"
 					//"dulltext"		"0"
 					//"brighttext"	"0"
-					"default"		"1"
+					//"Default"		"1"
 					"labelText"			"%end_date%" 
 					
 					if_war_active
@@ -689,7 +689,7 @@
 							"textAlignment"	"center"
 							//"dulltext"		"0"
 							//"brighttext"	"0"
-							"default"		"1"
+							//"Default"		"1"
 							"labelText"			"#Voice_Menu_Yes" 
 							"command"		"confirm_team"
 							"sound_depressed"	"UI/buttonclick.wav"
@@ -700,9 +700,9 @@
 							"border_armed"		"MainMenuButtonArmed"
 							"paintbackground"	"0"
 			
-							"defaultFgColor_override" "46 43 42 255"
-							"armedFgColor_override" "235 226 202 255"
-							"depressedFgColor_override" "46 43 42 255"
+							"defaultFgColor_override" "TanDarker"
+							"armedFgColor_override" "TanLight"
+							"depressedFgColor_override" "TanDarker"
 			
 							"image_drawcolor"	"117 107 94 255"
 							"image_armedcolor"	"235 226 202 255"
@@ -729,7 +729,7 @@
 							"textAlignment"	"center"
 							//"dulltext"		"0"
 							//"brighttext"	"0"
-							"default"		"1"
+							//"Default"		"1"
 							"labelText"			"#Store_CANCEL" 
 							"command"		"dismiss_joining_result"
 							"sound_depressed"	"UI/buttonclick.wav"
@@ -740,9 +740,9 @@
 							"border_armed"		"MainMenuButtonArmed"
 							"paintbackground"	"0"
 			
-							"defaultFgColor_override" "46 43 42 255"
-							"armedFgColor_override" "235 226 202 255"
-							"depressedFgColor_override" "46 43 42 255"
+							"defaultFgColor_override" "TanDarker"
+							"armedFgColor_override" "TanLight"
+							"depressedFgColor_override" "TanDarker"
 			
 							"image_drawcolor"	"117 107 94 255"
 							"image_armedcolor"	"235 226 202 255"
@@ -843,7 +843,7 @@
 							"textAlignment"	"center"
 							//"dulltext"		"0"
 							//"brighttext"	"0"
-							"default"		"1"
+							//"Default"		"1"
 							"labelText"			"#TF_OK" 
 							"command"		"dismiss_joining_result"
 							"sound_depressed"	"UI/buttonclick.wav"
@@ -854,9 +854,9 @@
 							"border_armed"		"MainMenuButtonArmed"
 							"paintbackground"	"0"
 			
-							"defaultFgColor_override" "46 43 42 255"
-							"armedFgColor_override" "235 226 202 255"
-							"depressedFgColor_override" "46 43 42 255"
+							"defaultFgColor_override" "TanDarker"
+							"armedFgColor_override" "TanLight"
+							"depressedFgColor_override" "TanDarker"
 			
 							"image_drawcolor"	"117 107 94 255"
 							"image_armedcolor"	"235 226 202 255"
@@ -905,7 +905,7 @@
 							
 							"font"			"HudFontSmallest"
 							"fgcolor_override"	"TanLight"
-							"textAlignment"	"west"
+							//"textAlignment"	"west"
 							"labelText"		"#TF_War_FailedToJoin"
 							"proportionaltoparent"	"1"
 						}
@@ -930,7 +930,7 @@
 							"textAlignment"	"center"
 							//"dulltext"		"0"
 							//"brighttext"	"0"
-							"default"		"1"
+							//"Default"		"1"
 							"labelText"			"#TF_OK" 
 							"command"		"dismiss_joining_result"
 							"sound_depressed"	"UI/buttonclick.wav"
@@ -941,9 +941,9 @@
 							"border_armed"		"MainMenuButtonArmed"
 							"paintbackground"	"0"
 			
-							"defaultFgColor_override" "46 43 42 255"
-							"armedFgColor_override" "235 226 202 255"
-							"depressedFgColor_override" "46 43 42 255"
+							"defaultFgColor_override" "TanDarker"
+							"armedFgColor_override" "TanLight"
+							"depressedFgColor_override" "TanDarker"
 			
 							"image_drawcolor"	"117 107 94 255"
 							"image_armedcolor"	"235 226 202 255"
@@ -1031,7 +1031,7 @@
 						"textAlignment"	"center"
 						//"dulltext"		"0"
 						//"brighttext"	"0"
-						"default"		"1"
+						//"Default"		"1"
 						"labelText"			"#JoinHeavyButton" 
 						"command"		"join_war0"
 						"sound_depressed"	"UI/buttonclick.wav"
@@ -1042,9 +1042,9 @@
 						"border_armed"		"MainMenuButtonArmed"
 						"paintbackground"	"0"
 			
-						"defaultFgColor_override" "46 43 42 255"
-						"armedFgColor_override" "235 226 202 255"
-						"depressedFgColor_override" "46 43 42 255"
+						"defaultFgColor_override" "TanDarker"
+						"armedFgColor_override" "TanLight"
+						"depressedFgColor_override" "TanDarker"
 			
 						"image_drawcolor"	"117 107 94 255"
 						"image_armedcolor"	"235 226 202 255"
@@ -1083,7 +1083,7 @@
 						"textAlignment"	"center"
 						//"dulltext"		"0"
 						//"brighttext"	"0"
-						"default"		"1"
+						//"Default"		"1"
 						"labelText"			"#JoinPyroButton" 
 						"command"		"join_war1"
 						"sound_depressed"	"UI/buttonclick.wav"
@@ -1094,9 +1094,9 @@
 						"border_armed"		"MainMenuButtonArmed"
 						"paintbackground"	"0"
 			
-						"defaultFgColor_override" "46 43 42 255"
-						"armedFgColor_override" "235 226 202 255"
-						"depressedFgColor_override" "46 43 42 255"
+						"defaultFgColor_override" "TanDarker"
+						"armedFgColor_override" "TanLight"
+						"depressedFgColor_override" "TanDarker"
 			
 						"image_drawcolor"	"117 107 94 255"
 						"image_armedcolor"	"235 226 202 255"

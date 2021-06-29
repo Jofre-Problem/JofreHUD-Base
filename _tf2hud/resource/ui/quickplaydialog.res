@@ -121,7 +121,7 @@
 				"textAlignment"	"center"
 				//"dulltext"		"0"
 				//"brighttext"	"0"
-				"default"		"1"
+				//"Default"		"1"
 				"Command"		"more_info"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -733,9 +733,9 @@
 			"border_armed"		"MainMenuButtonArmed"
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanLight"
+			"depressedFgColor_override" "TanDarker"
 		}
 
 		"ShowServersButton"
@@ -766,9 +766,9 @@
 			"border_armed"		"MainMenuButtonArmed"
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanLight"
+			"depressedFgColor_override" "TanDarker"
 		}
 
 		"OptionsButton"
@@ -787,12 +787,12 @@
 			
 			//"labelText"		"#GameUI_GameMenu_Options"
 			"font"			"HudFontSmallBold"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"textinsetx"	"35"
 			"use_proportional_insets" "1"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"Command"		"ToggleShowOptions"
 
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -853,7 +853,7 @@
 			"textAlignment"	"center"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"Command"		"explain_beta"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -951,7 +951,7 @@
 				////"visible"		"1"
 				
 				"wrap"			"1"
-				"fgcolor_override" "46 43 42 255"
+				"fgcolor_override" "TanDarker"
 			}
 		
 			"TextLabel"
@@ -970,7 +970,7 @@
 				////"visible"		"1"
 				
 				"wrap"			"1"
-				"fgcolor_override" "46 43 42 255"
+				"fgcolor_override" "TanDarker"
 				"proportionaltoparent"	"1"
 			}
 		
@@ -1001,9 +1001,9 @@
 			
 				"paintbackground"	"0"
 			
-				"defaultFgColor_override" "46 43 42 255"
-				"armedFgColor_override" "235 226 202 255"
-				"depressedFgColor_override" "46 43 42 255"
+				"defaultFgColor_override" "TanDarker"
+				"armedFgColor_override" "TanLight"
+				"depressedFgColor_override" "TanDarker"
 			
 				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"200 80 60 255"

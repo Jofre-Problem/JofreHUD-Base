@@ -60,7 +60,7 @@
 		
 		
 		"labelText"		"#GameUI_RefreshLogin_Login"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -80,7 +80,7 @@
 		"visible"		"0"
 		
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -99,7 +99,7 @@
 		
 		
 		"labelText"		"#VAC_LoggedInElsewhereReason"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"wrap"		"1"

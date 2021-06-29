@@ -28,7 +28,7 @@
 		
 		
 		"labelText"	"#GameUI_ContentStatusDisabled"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 	}
 	"PasswordPrompt"
@@ -45,7 +45,7 @@
 		
 		
 		"labelText"		"#GameUI_PasswordPrompt"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 	}
 	"PasswordReentryPrompt"
@@ -62,7 +62,7 @@
 		
 		
 		"labelText"		"#GameUI_PasswordReentryPrompt"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 	}
 	"ContentControlExplain"
@@ -79,7 +79,7 @@
 		
 		
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 	}
 	"Password"
@@ -96,7 +96,7 @@
 		
 		"tabPosition"		"1"
 		"textHidden"		"1"
-		"editable"		"1"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 	"Password2"
@@ -113,7 +113,7 @@
 		
 		"tabPosition"		"2"
 		"textHidden"		"1"
-		"editable"		"1"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 	"Ok"
@@ -130,10 +130,10 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_OK"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		"command"		"Ok"
-		"default"		"1"
+		//"Default"		"1"
 	}
 	"Cancel"
 	{
@@ -149,7 +149,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		"command"		"Cancel"
 		"default"		"0"

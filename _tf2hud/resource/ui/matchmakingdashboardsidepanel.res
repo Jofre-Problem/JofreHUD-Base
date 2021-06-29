@@ -144,7 +144,7 @@
 		"command"		"nav_to"
 		"labelText"		"<"
 
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"font"			"HudFontSmallBold"
 
 		"armedBgColor_override"	"Blank"

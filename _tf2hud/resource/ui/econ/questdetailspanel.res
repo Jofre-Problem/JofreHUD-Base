@@ -139,7 +139,7 @@
 			"proportionaltoparent"	"1"
 			////"visible"		"1"
 			
-			"paintborder"	"0"
+			//"paintborder"	"0"
 
 			"CharacterBackdropImage"
 			{
@@ -272,10 +272,10 @@
 				"labelText"		"#QuestDetails_Accept"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				//"dulltext"		"0"
 				//"brighttext"	"0"
-				"default"		"1"
+				//"Default"		"1"
 				"actionsignallevel" "3"
 
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -285,9 +285,9 @@
 				"border_armed"		"MainMenuButtonArmed"
 				"paintbackground"	"0"
 			
-				"defaultFgColor_override" "46 43 42 255"
-				"armedFgColor_override" "235 226 202 255"
-				"depressedFgColor_override" "46 43 42 255"
+				"defaultFgColor_override" "TanDarker"
+				"armedFgColor_override" "TanLight"
+				"depressedFgColor_override" "TanDarker"
 			
 				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"235 226 202 255"
@@ -345,10 +345,10 @@
 				"labelText"		"#QuestDetails_Discard"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				//"dulltext"		"0"
 				//"brighttext"	"0"
-				"default"		"1"
+				//"Default"		"1"
 				"actionsignallevel" "3"
 
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -358,9 +358,9 @@
 				"border_armed"		"MainMenuButtonArmed"
 				"paintbackground"	"0"
 			
-				"defaultFgColor_override" "46 43 42 255"
-				"armedFgColor_override" "235 226 202 255"
-				"depressedFgColor_override" "46 43 42 255"
+				"defaultFgColor_override" "TanDarker"
+				"armedFgColor_override" "TanLight"
+				"depressedFgColor_override" "TanDarker"
 			
 				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"235 226 202 255"

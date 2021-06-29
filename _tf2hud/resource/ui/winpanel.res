@@ -46,7 +46,7 @@
 			"fieldName"		"BlueTeamLabel"
 			"font"			"ScoreboardTeamName"
 			"labelText"		"%blueteamname%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"56"
 			"ypos"			"25"
 			"zpos"			"10"
@@ -153,7 +153,7 @@
 			"fieldName"		"RedTeamScore"
 			"font"			"ScoreboardTeamScore"
 			"labelText"		"%redteamscore%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"202"
 			
 			"zpos"			"3"
@@ -173,7 +173,7 @@
 			"font"			"ScoreboardTeamScore"
 			"fgcolor"		"Black"
 			"labelText"		"%redteamscore%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"203"
 			"ypos"			"1"
 			"zpos"			"3"
@@ -380,7 +380,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"%TopPlayersLabel%"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -463,7 +463,7 @@
 		////"visible"		"1"
 		
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -481,7 +481,7 @@
 		////"visible"		"1"
 		
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -546,7 +546,7 @@
 		////"visible"		"1"
 		
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -564,7 +564,7 @@
 		////"visible"		"1"
 		
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -629,7 +629,7 @@
 		////"visible"		"1"
 		
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -647,7 +647,7 @@
 		////"visible"		"1"
 		
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -686,7 +686,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#Winpanel_KillStreakLeader"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 	}
@@ -769,7 +769,7 @@
 		////"visible"		"1"
 		
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -787,7 +787,7 @@
 		////"visible"		"1"
 		
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}

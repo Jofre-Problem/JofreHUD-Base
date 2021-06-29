@@ -15,7 +15,7 @@
 		"wrap"			"1"
 		
 		"labelText"		"#VAC_ConnectingToSecureServer"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	//	"fgcolor_override"	"W_ColorIcons1"		

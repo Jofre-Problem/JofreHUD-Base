@@ -29,7 +29,7 @@
 		
 		
 		"labelText"		"pos:  -9820 -5600 21"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"font"		"Trebuchet20"
@@ -49,7 +49,7 @@
 		
 		
 		"labelText"		"roll: 0 pitch 3 yaw -3"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"font"		"Trebuchet20"

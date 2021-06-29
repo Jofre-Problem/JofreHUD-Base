@@ -56,11 +56,11 @@
 		"enabled"		"0"
 		"tabPosition"		"2"
 		"labelText"		"#TrackerUI_AddFriendsButton"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"AddFriends"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"Label1"
 	{
@@ -76,7 +76,7 @@
 		
 		
 		"labelText"		"#TrackerUI_AddFriendsInfo"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -94,7 +94,7 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"#TrackerUI_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"Close"

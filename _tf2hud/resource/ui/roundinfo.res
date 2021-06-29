@@ -44,7 +44,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#round_info_header"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"ChalkboardTitle"
@@ -65,7 +65,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"%mapname%"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"ChalkboardTitle"
@@ -94,7 +94,7 @@
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		"command"		"continue"
-		"default"		"1"
+		//"Default"		"1"
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
 	}

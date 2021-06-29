@@ -17,7 +17,7 @@
 	{
 		"wide"			"300"
 		"tall"			"20"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	
 	"ExplanationLabel"

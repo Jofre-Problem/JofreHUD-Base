@@ -28,7 +28,7 @@
 		
 		
 		"labelText"		"#GameUI_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"Cancel"
@@ -49,7 +49,7 @@
 		"wrap"			"1"
 		
 		"labelText"		"#VAC_ConnectionRefusedDetail"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}

@@ -183,7 +183,7 @@
 				"fieldName"		"TitleLabel"
 				"font"			"HudFontMediumBold"
 				"labelText"		"#TF_SteamWorkshop_YourItems"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				"xpos"			"15"
 				"ypos"			"15"
 				"zpos"			"1"
@@ -284,7 +284,7 @@
 				
 				////"visible"		"1"
 				
-				"fgcolor_override" "200 80 60 255"
+				"fgcolor_override" "LightRed"
 			}
 			
 			"NextPageButton"
@@ -352,10 +352,10 @@
 				"textinsetx"	"25"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				//"dulltext"		"0"
 				//"brighttext"	"0"
-				"default"		"1"
+				//"Default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 				
@@ -397,10 +397,10 @@
 				"textinsetx"	"25"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				//"dulltext"		"0"
 				//"brighttext"	"0"
-				"default"		"1"
+				//"Default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 				
@@ -442,10 +442,10 @@
 				"textinsetx"	"25"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				//"dulltext"		"0"
 				//"brighttext"	"0"
-				"default"		"1"
+				//"Default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 				
@@ -495,9 +495,9 @@
 			"border_default"	"MainMenuButtonDefault"
 			"border_armed"		"MainMenuButtonArmed"
 			"paintbackground"	"0"
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanLight"
+			"depressedFgColor_override" "TanDarker"
 		}
 
 		"LoadTestMapButton"
@@ -524,9 +524,9 @@
 			"border_armed"		"MainMenuButtonArmed"
 			"border_disabled"	"MainMenuButtonDisabled"
 			"paintbackground"	"0"
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanLight"
+			"depressedFgColor_override" "TanDarker"
 		}
 
 		"PublishButton"
@@ -552,9 +552,9 @@
 			"border_default"	"MainMenuButtonDefault"
 			"border_armed"		"MainMenuButtonArmed"
 			"paintbackground"	"0"
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanLight"
+			"depressedFgColor_override" "TanDarker"
 		}		
 
 		"LearnMore2Button"

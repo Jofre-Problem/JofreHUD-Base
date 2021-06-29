@@ -21,7 +21,7 @@
 		"fieldName"		"CaratLabel"
 		"font"			"ReplayMediumSmall"
 		"labelText"		">>"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		
 		"ypos"			"6"
 		"zpos"			"10"
@@ -40,7 +40,7 @@
 		"fieldName"		"TitleInput"
 		"maxchars"		"255"
 		"textHidden"	"0"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"unicode"		"1"
 		//"wrap"			"0"
 		"xpos"			"15"

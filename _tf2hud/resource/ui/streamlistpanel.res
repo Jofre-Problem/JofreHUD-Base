@@ -26,7 +26,7 @@
 			////"visible"		"1"
 			
 			"PaintBackgroundType" "2"
-			"fgcolor_override"	"235 226 202 255"
+			"fgcolor_override"	"TanLight"
 			"bgcolor_override"	"184 108 55 255"
 		}
 	}
@@ -62,10 +62,10 @@
 		"paintbackground"	"0"
 			
 		//"defaultFgColor_override" "235 226 202 255"
-		//"armedFgColor_override" "46 43 42 255"
-		"defaultFgColor_override" "46 43 42 255"
-		"armedFgColor_override" "235 226 202 255"
-		"depressedFgColor_override" "46 43 42 255"
+		//"armedFgColor_override" "TanDarker"
+		"defaultFgColor_override" "TanDarker"
+		"armedFgColor_override" "TanLight"
+		"depressedFgColor_override" "TanDarker"
 			
 		"image_drawcolor"	"235 226 202 255"
 		"image_armedcolor"	"200 80 60 255"
@@ -91,7 +91,7 @@
 		"fieldName"		"TitleLabel"
 		"font"			"HudFontSmallBold"
 		"labelText"		"#MMenu_Stream_Title"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"5"
 		"ypos"			"26"
 		"wide"			"200"
@@ -198,15 +198,15 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"command"		"view_more"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 			
 		"defaultFgColor_override" "235 226 202 255"
-		"defaultBgColor_override" "46 43 42 255"
-		"armedFgColor_override" "235 226 202 255"
+		"defaultBgColor_override" "TanDarker"
+		"armedFgColor_override" "TanLight"
 		"depressedFgColor_override" "235 226 202 255"
 	}	
 }

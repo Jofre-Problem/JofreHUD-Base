@@ -26,7 +26,7 @@
 		////"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"PaintBackgroundType"	"2"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		
 		"model_ypos"	"0"
 		"model_tall"	"20"

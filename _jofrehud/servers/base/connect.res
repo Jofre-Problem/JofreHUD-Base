@@ -12,8 +12,8 @@
 		"pinCorner"		"2"
 		"tabPosition"		"1"
 		"labelText"		"#ServerBrowser_JoinGame"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 }

@@ -56,7 +56,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"#SteamAddOn_StartGame"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -119,7 +119,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"#SteamAddOn_Invite"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"CancelInviteButton0"
@@ -136,7 +136,7 @@
 		
 		
 		"labelText"		"#SteamAddOn_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}
 	
@@ -183,7 +183,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"#SteamAddOn_Invite"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"CancelInviteButton1"
@@ -200,7 +200,7 @@
 		
 		
 		"labelText"		"#SteamAddOn_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"PlayerPositionLabel2"
@@ -246,7 +246,7 @@
 		
 		
 		"labelText"		"#SteamAddOn_Invite"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"CancelInviteButton2"
@@ -263,7 +263,7 @@
 		
 		
 		"labelText"		"#SteamAddOn_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"PlayerPositionLabel3"
@@ -310,7 +310,7 @@
 		
 		
 		"labelText"		"#SteamAddOn_Invite"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"CancelInviteButton3"
@@ -327,7 +327,7 @@
 		
 		
 		"labelText"		"#SteamAddOn_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}
 	
@@ -344,10 +344,10 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"TextEntry"
 	{
@@ -362,8 +362,8 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"500"
 	}
 	"SendBtn"
@@ -380,7 +380,7 @@
 		
 		
 		"labelText"		"#SteamAddOn_Btn_Send"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -399,7 +399,7 @@
 		
 		
 		"labelText"		"Last message received at:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"dulltext"		"1"
 		//"brighttext"		"0"
 	}

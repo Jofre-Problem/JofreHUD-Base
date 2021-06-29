@@ -2,6 +2,6 @@
 {
 	"Cancel"
 	{
-		"Default"		"1"
+		//"Default"		"1"
 	}
 }

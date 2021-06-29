@@ -15,9 +15,9 @@
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"46 43 42 255"
-		"infocus_bgcolor_override" "46 43 42 255"
-		"outoffocus_bgcolor_override" "46 43 42 255"
+		"bgcolor_override"	"TanDarker"
+		"infocus_bgcolor_override" "TanDarker"
+		"outoffocus_bgcolor_override" "TanDarker"
 		
 		"item_controls_xoffset"	"2"
 		"item_controls_yoffset"	"2"
@@ -62,7 +62,7 @@
 			"bgcolor_override"		"0 0 0 255"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 						
 			"model_xpos"	"24"
 			"model_ypos"	"6"
@@ -118,7 +118,7 @@
 			"bgcolor_override"		"0 0 0 255"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"2"
 			"model_ypos"	"2"
@@ -376,7 +376,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	
 	"NextPageButton"
@@ -409,7 +409,7 @@
 		"fieldName"		"BackpackSpaceLabel"
 		"font"			"HudFontSmallestBold"
 		"labelText"		"%freebackpackspace%"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"c-237"
 		"ypos"			"283"
 		"zpos"			"10"
@@ -478,7 +478,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"startshopping"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -503,10 +503,10 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"marketplace"
 		"paintbackground"	"1"
-		"defaultBgColor_override" "46 43 42 255"
+		"defaultBgColor_override" "TanDarker"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
@@ -517,7 +517,7 @@
 		"fieldName"		"TitleLabel"
 		"font"			"HudFontSmallest"
 		"labelText"		""
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"c-45"
 		"ypos"			"c-230"
 		"zpos"			"100"
@@ -547,7 +547,7 @@
 			"fieldName"		"CaseLabel"
 			"font"			"HudFontMediumBold"
 			"labelText"		"#Store_Case_Label"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			
 			
 			
@@ -565,7 +565,7 @@
 			"fieldName"		"KeyLabel"
 			"font"			"HudFontMediumBold"
 			"labelText"		"#Store_Key_Label"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			
 			"ypos"			"70"
 			
@@ -583,7 +583,7 @@
 			"fieldName"		"CaseLabel"
 			"font"			"HudFontMediumBold"
 			"labelText"		"#Store_Taunt_Label"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			
 			"ypos"			"140"
 			

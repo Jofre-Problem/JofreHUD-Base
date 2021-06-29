@@ -82,7 +82,7 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#Options_Panel_AutoRefresh"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -101,7 +101,7 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"#Options_Panel_SaveRcon"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -119,8 +119,8 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"2"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 	"GraphsButton"
@@ -137,7 +137,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"#Options_Panel_Collect_Stats"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -155,8 +155,8 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"5"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 	"LogsButton"
@@ -173,7 +173,7 @@
 		
 		"tabPosition"		"6"
 		"labelText"		"#Options_Panel_Get_Logs"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -191,7 +191,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#Options_Panel_Seconds"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"RefreshCheckButton"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -209,7 +209,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#Options_Panel_SaveRcon_Unsecure"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"dulltext"		"1"
 		//"brighttext"		"0"
 	}
@@ -226,7 +226,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#Options_Panel_Collect_Stats_Time"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -243,7 +243,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#Options_Panel_Seconds"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}

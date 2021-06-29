@@ -9,7 +9,7 @@
 		
 		"visible"		"1"
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 	}
 }

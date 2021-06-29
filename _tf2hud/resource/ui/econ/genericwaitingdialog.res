@@ -33,7 +33,7 @@
 		"centerwrap"	"1"
 		"labelText"		"%updatetext%"
 		"textAlignment"		"center"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 		"bgcolor_override" "Blank"
 	}
 
@@ -53,7 +53,7 @@
 		
 		"labelText"		"%ellipses%"
 		"textAlignment"		"north"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 		"bgcolor_override" "Blank"
 	}
 
@@ -73,7 +73,7 @@
 		
 		"labelText"		"%duration%"
 		"textAlignment"		"north"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 		"bgcolor_override" "Blank"
 	}
 	
@@ -96,7 +96,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"user_close"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

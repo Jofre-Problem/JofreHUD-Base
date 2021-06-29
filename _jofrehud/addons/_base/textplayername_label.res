@@ -3,21 +3,21 @@
 	"TextPlayerName0"
 	{
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 	"TextPlayerName1"
 	{
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 	"TextPlayerName2"
 	{
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 	"TextPlayerName3"
 	{
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 }	

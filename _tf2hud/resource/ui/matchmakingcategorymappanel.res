@@ -23,7 +23,7 @@
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		""
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"font"			"HudFontSmallest"
 		"smallcheckimage"	"1"
 
@@ -42,7 +42,7 @@
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		"%title_token%"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"font"			"HudFontSmallest"
 		"textinsetx"	"20"
 		"use_proportional_insets"	"1"

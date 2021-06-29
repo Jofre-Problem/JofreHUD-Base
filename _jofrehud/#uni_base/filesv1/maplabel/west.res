@@ -2,6 +2,6 @@
 {
 	"MapLabel"
 	{
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}	
 }	

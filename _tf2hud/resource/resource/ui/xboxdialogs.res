@@ -418,7 +418,7 @@
 		
 		////"visible"		"1"
 		
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
@@ -442,7 +442,7 @@
 		
 		////"visible"		"1"
 		
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
@@ -602,7 +602,7 @@
 		"ypos"			"7"
 		"wide"		"0"
 		"tall"		"15"
-		"fillcolor"	"255 255 255 255"
+		"fillcolor"	"White"
 		"zpos"	"20"
 		"visible"		"0"
 		
@@ -1373,7 +1373,7 @@
 		
 		//"visible"			"1"
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 	
 	// unused, just used to anchor layout params

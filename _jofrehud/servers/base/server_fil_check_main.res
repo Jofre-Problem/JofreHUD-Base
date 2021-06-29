@@ -14,11 +14,11 @@
 		
 		
 		"paintbackground"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"LocationFilter"
 	{
@@ -33,11 +33,11 @@
 			//for some reason is disabled
 		
 		"paintbackground"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"MapFilter"
 	{
@@ -52,11 +52,11 @@
 		
 		"tabPosition"		"5"
 		"paintbackground"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"PingFilter"
 	{
@@ -71,11 +71,11 @@
 		
 		
 		"paintbackground"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"SecureFilter"
 	{
@@ -90,11 +90,11 @@
 		
 		
 		"paintbackground"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"ServerEmptyFilterCheck"
 	{
@@ -110,7 +110,7 @@
 		"tabPosition"		"7"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_HasUsersPlaying"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -128,7 +128,7 @@
 		"tabPosition"		"6"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerNotFull"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Default"		"0"
 	}	

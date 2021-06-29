@@ -137,8 +137,7 @@
 		//"visible"			"1"
 		
 		
-		"labelText"			"1"	[$WIN32]
-		"labelText"			""		[$X360]
+		"labelText"			"1"
 		"textAlignment"		"south-west"
 		"Command"			"select 1"
 		"Default"			"0"
@@ -202,7 +201,7 @@
 		
 		
 		"labelText"			"2"	[$WIN32]
-		"labelText"			""		[$X360]
+		
 		"textAlignment"		"south-west"
 		"Command"			"select 3"
 		"Default"			"0"
@@ -266,7 +265,7 @@
 		
 		
 		"labelText"			"3"	[$WIN32]
-		"labelText"			""		[$X360]
+		
 		"textAlignment"		"south-west"
 		"Command"			"select 7"
 		"Default"			"0"
@@ -355,7 +354,7 @@
 		
 		
 		"labelText"			"4"	[$WIN32]
-		"labelText"			""		[$X360]
+		
 		"textAlignment"		"south-west"
 		"Command"			"select 4"
 		"Default"			"0"
@@ -417,7 +416,7 @@
 		
 		
 		"labelText"			"5"	[$WIN32]
-		"labelText"			""		[$X360]
+		
 		"textAlignment"		"south-west"
 		"Command"			"select 6"
 		"Default"			"0"
@@ -478,7 +477,7 @@
 		
 		
 		"labelText"			"6"	[$WIN32]
-		"labelText"			""		[$X360]
+		
 		"textAlignment"		"south-west"
 		"Command"			"select 9"
 		"Default"			"0"
@@ -568,7 +567,7 @@
 		
 		
 		"labelText"			"7"	[$WIN32]
-		"labelText"			""		[$X360]
+		
 		"textAlignment"		"south-west"
 		"Command"			"select 5"
 		"Default"			"0"
@@ -631,7 +630,7 @@
 		
 		
 		"labelText"			"8"	[$WIN32]
-		"labelText"			""		[$X360]
+		
 		"textAlignment"		"south-west"
 		"Command"			"select 2"
 		"Default"			"0"
@@ -694,7 +693,7 @@
 		
 		
 		"labelText"			"9"	[$WIN32]
-		"labelText"			""		[$X360]
+		
 		"textAlignment"		"south-west"
 		"Command"			"select 8"
 		"Default"			"0"
@@ -757,7 +756,7 @@
 		"textAlignment"	"center"
 		"Command"		"vguicancel"
 		"font"			"HudFontSmallBold"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	
 	"EditLoadoutButton" [$WIN32] 
@@ -819,7 +818,7 @@
 		//"visible_lodef"	"0"
 		
 		"labelText"		"#TF_SelectAClass"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"font"			"MenuMainTitle"
 		"fgcolor"		"HudOffWhite"
 	}
@@ -1528,7 +1527,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"TextLabel"
@@ -1547,7 +1546,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"CloseButton"
@@ -1576,9 +1575,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -1700,7 +1699,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"ClassHighlightText"
@@ -1719,7 +1718,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"CloseButton"
@@ -1741,16 +1740,16 @@
 			"textAlignment"	"center"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"close"
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanLight"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"

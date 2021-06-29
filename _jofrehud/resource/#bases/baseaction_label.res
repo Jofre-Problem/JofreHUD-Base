@@ -14,7 +14,7 @@
 		
 		
 		"labelText"		"Rate:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -32,7 +32,7 @@
 		
 		
 		"labelText"		"Stop:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}

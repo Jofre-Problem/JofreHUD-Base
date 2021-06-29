@@ -78,7 +78,7 @@
 				////"visible"		"1"
 				
 				"labelText"		"%nemesisname%"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 			}
 		}
 		"FreezePanelBG"
@@ -384,7 +384,7 @@
 				////"visible"		"1"
 				
 				"labelText"		"%nemesisname%"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 			}
 			"NemesisLabel2"
 			{	
@@ -401,7 +401,7 @@
 				"visible"		"0"
 				
 				"labelText"		"%nemesisadvice%"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 			}
 		}
 	}
@@ -460,7 +460,7 @@
 			////"visible"		"1"
 			
 			"labelText"		"%text%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 		}

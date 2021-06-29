@@ -77,7 +77,7 @@
 			
 			"wrap"			"1"
 			"labelText"		"%objectivelabel%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 		}
 		"HudStopWatchObjectiveText1"
 		{
@@ -93,7 +93,7 @@
 			////"visible"		"1"
 			
 			"labelText"		""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"font"			"HudFontSmallestShadow"
 			"maxchars"		"-1"
 		}
@@ -130,7 +130,7 @@
 			////"visible"		"1"
 			
 			"labelText"		""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"font"			"HudFontSmallestShadow"
 			"maxchars"		"-1"
 		}

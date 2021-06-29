@@ -24,7 +24,7 @@
 		"fieldName"		"SearchTextEntry"
 		"maxchars"		"255"
 		"textHidden"	"0"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"unicode"		"1"
 		//"wrap"			"0"
 		"tall"			"12"
@@ -37,7 +37,7 @@
 		"fgcolor_override"		"ReplayBrowser.Search.FgColor"
 		"bgcolor_override"		"ReplayBrowser.Search.BgColor"
 		"Font"			"ReplayBrowserSmallest"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		"selectallonfirstfocus"		"1"
 	}
 

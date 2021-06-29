@@ -42,11 +42,11 @@
 		"enabled"		"0"
 		"tabPosition"		"6"
 		"labelText"		"#GameUI_OK"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"OK"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"CancelButton"
 	{
@@ -62,7 +62,7 @@
 		
 		"tabPosition"		"7"
 		"labelText"		"#GameUI_Quit"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"Cancel"
@@ -81,10 +81,10 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"5"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"Entry2"
 	{
@@ -99,10 +99,10 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"2"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"5"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"Entry3"
 	{
@@ -117,10 +117,10 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"3"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"5"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"Entry4"
 	{
@@ -135,10 +135,10 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"4"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"5"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"Entry5"
 	{
@@ -153,10 +153,10 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"5"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"5"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"Label1"
 	{

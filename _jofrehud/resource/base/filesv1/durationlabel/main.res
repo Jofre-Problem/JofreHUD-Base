@@ -13,7 +13,7 @@
 		"visible"		"1"
 		
 		"labelText"		"%duration%"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 		"bgcolor_override" "Blank"
 	}
 }	

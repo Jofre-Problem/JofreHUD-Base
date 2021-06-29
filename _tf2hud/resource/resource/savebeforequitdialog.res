@@ -30,12 +30,12 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_SaveAndQuit"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"SaveAndQuit"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"Button2"
 	{
@@ -51,7 +51,7 @@
 		
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_DontSaveAndQuit"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -72,7 +72,7 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"#vgui_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

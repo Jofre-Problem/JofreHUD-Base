@@ -459,7 +459,7 @@
 				
 				////"visible"		"1"
 				
-				"paintborder"	"0"
+				//"paintborder"	"0"
 				"image"			"animated/tf2_logo_hourglass"
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
@@ -702,7 +702,7 @@
 				
 				////"visible"		"1"
 				
-				"paintborder"	"0"
+				//"paintborder"	"0"
 				"image"			"animated/tf2_logo_hourglass"
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"

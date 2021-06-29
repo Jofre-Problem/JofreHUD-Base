@@ -29,7 +29,7 @@
 		
 		"visible"		"0"
 		
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		"image"			"animated/tf2_logo_hourglass"
 		"scaleImage"	"1"
 	}
@@ -133,7 +133,7 @@
 			
 			"labelText"		"#ItemPanelEquipped"
 			"textAlignment"	"center"
-			"fgcolor"		"200 80 60 255"
+			"fgcolor"		"LightRed"
 			"bgcolor_override"		"0 0 0 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -168,7 +168,7 @@
 			
 			"labelText"		""
 			"textAlignment"	"center"
-			"fgcolor"		"200 80 60 255"
+			"fgcolor"		"LightRed"
 			"bgcolor_override"		"0 0 0 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -289,7 +289,7 @@
 			"bgcolor_override"		"0 0 0 200"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			"useparentbg"	"0"
 		
 			

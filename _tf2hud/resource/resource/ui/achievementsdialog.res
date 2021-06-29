@@ -35,7 +35,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_Back"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -120,7 +120,7 @@
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
-		"fillcolor"	"255 255 255 255"
+		"fillcolor"	"White"
 		"font"		"AchievementItemDescription"	//"defaultlarg"
 	}
 	
@@ -165,11 +165,11 @@
 		
 		
 		"labelText"		"#GameUI_Achievements_Earned"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
-		"fillcolor"	"255 255 255 255"
+		"fillcolor"	"White"
 		"font"		"AchievementItemDescription"	//"defaultlarg"
 	}
 	
@@ -187,7 +187,7 @@
 		
 		
 		"labelText"		"#GameUI_Achievement_Hide_Achieved"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

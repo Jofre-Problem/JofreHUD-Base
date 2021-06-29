@@ -27,7 +27,7 @@
 		////"visible"		"1"
 		
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"dulltext"		"1"
 	}
 	"PasswordEdit"
@@ -44,9 +44,9 @@
 		
 		"tabPosition"		"1"
 		"textHidden"		"1"
-		"editable"		"1"
+		//"editable"		"1"
 		"maxchars"		"32"
-		"default"		"1"
+		//"Default"		"1"
 	}
 	"Done"
 	{
@@ -62,7 +62,7 @@
 		
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_OK"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		"command"		"Close"
 		"default"		"0"
@@ -81,7 +81,7 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_Quit"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		"command"		"QuitGame"
 		"default"		"0"

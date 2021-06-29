@@ -28,10 +28,10 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"SendChat"
 	{
@@ -47,9 +47,9 @@
 		
 		"tabPosition"		"2"
 		"labelText"		"#Chat_Panel_Send"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 }

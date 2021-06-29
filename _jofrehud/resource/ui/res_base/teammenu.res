@@ -41,18 +41,17 @@
 		////"visible"		"1"
 		
 		"tabPosition"	"3"
-		"labelText"		"&3"	[$WIN32]
-		"labelText"		""		[$X360]
+		"labelText"		"&3"
 		"textAlignment"	"south-west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		"command"		"jointeam blue"
 		"team"				"3"		// team blue
 		"associated_model"	"bluedoor"
 		"hover"				"2.0"
 		"font"			"MenuMainTitle"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"HUDWhite"
 	}
 
 	"teambutton1"
@@ -69,18 +68,17 @@
 		////"visible"		"1"
 		
 		"tabPosition"	"4"
-		"labelText"		"&4"	[$WIN32]
-		"labelText"		""		[$X360]
+		"labelText"		"&4"
 		"textAlignment"	"south-west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		"command"		"jointeam red"
 		"team"				"2"		// team red
 		"associated_model"	"reddoor"	
 		"hover"				"2.0"
 		"font"			"MenuMainTitle"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"HUDWhite"
 	}
 	
 	"CancelButton" [$WIN32] 
@@ -127,7 +125,7 @@
 		//"visible_lodef"		"0"
 		
 		"labelText"		"#TF_SelectATeam"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"MenuMainTitle"
@@ -215,7 +213,7 @@
 			{
 				"name"			"idle_enabled"
 				"sequence"		"idle"
-				"default"		"1"
+				//"Default"		"1"
 			}
 
 			"animation"
@@ -288,7 +286,7 @@
 			{
 				"name"			"idle_enabled"
 				"sequence"		"idle"
-				"default"		"1"
+				//"Default"		"1"
 			}
 
 			"animation"
@@ -343,7 +341,7 @@
 		"visible"		"0"
 		
 		"labelText"		"#TF_Highlander_Mode"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"CapPlayerFont"
@@ -365,7 +363,7 @@
 		"visible"		"0"
 		
 		"labelText"		"#TF_Highlander_Mode"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"CapPlayerFont"
@@ -387,7 +385,7 @@
 		"visible"		"0"
 		
 		"labelText"		"#TF_Teams_Full"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"CapPlayerFont"
@@ -409,7 +407,7 @@
 		"visible"		"0"
 		
 		"labelText"		"#TF_Teams_Full"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"CapPlayerFont"

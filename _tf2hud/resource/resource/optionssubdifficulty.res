@@ -14,7 +14,7 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_SkillEasy"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -35,7 +35,7 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_SkillNormal"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -56,7 +56,7 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_SkillHard"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -77,7 +77,7 @@
 		
 		
 		"labelText"		"#GameUI_SelectDifficulty"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

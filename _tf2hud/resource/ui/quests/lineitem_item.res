@@ -22,7 +22,7 @@
 		"tall"			"f0"
 		////"visible"		"1"
 		"PaintBackgroundType"	"0"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 		"border"		"EconItemBorder"

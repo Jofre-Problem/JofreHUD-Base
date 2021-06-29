@@ -109,7 +109,7 @@
 				
 				"font"			"HudFontSmallestBold"
 				//"fgcolor_override"	"89 81 71 255"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				"labelText"		"MODE:"
 			}
 
@@ -128,19 +128,19 @@
 				
 				//"visible"			"1"
 				
-				"textHidden"		"0"
+				//"textHidden"		"0"
 				"editable"			"0"
 				"maxchars"			"-1"
 				"NumericInputOnly"	"0"
 				"unicode"			"0"
 				"default"			"0"
 		
-				"fgcolor_override"	"235 226 202 255"
+				"fgcolor_override"	"TanLight"
 				"bgcolor_override"	"Blank"
 				"disabledFgColor_override" "235 226 202 255"
 				"disabledBgColor_override" "Blank"
 				"selectionColor_override" "Blank"
-				"selectionTextColor_override" "235 226 202 255"
+				"selectionTextColor_override" "TanLight"
 				"defaultSelectionBG2Color_override" "Blank"
 			}
 
@@ -569,7 +569,7 @@
 					"zpos"			"2"
 					"wide"		"275"
 					"tall"		"60"
-					"textAlignment"	"west"
+					//"textAlignment"	"west"
 					"visible"	"1"
 					
 					"wrap"		"1"

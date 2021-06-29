@@ -34,12 +34,12 @@
 				
 				"labelText"		""
 				"font"			"HudFontSmallBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				"textinsetx"	"34"
 				"use_proportional_insets" "1"
 				//"dulltext"		"0"
 				//"brighttext"	"0"
-				"default"		"1"
+				//"Default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 			}
@@ -78,7 +78,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	
 	"PlayerListScroller"
@@ -155,7 +155,7 @@
 			"textAlignment"	"center"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"Command"		"friends"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -179,7 +179,7 @@
 			"textAlignment"	"center"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"Command"		"server"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -203,7 +203,7 @@
 			"textAlignment"	"center"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"Command"		"profile"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -382,7 +382,7 @@
 			
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "LightRed"
 		}	
 		"URLSearchingLabel"
 		{
@@ -402,7 +402,7 @@
 			
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "LightRed"
 		}	
 		
 		"URLEntry"
@@ -418,18 +418,18 @@
 			//"visible"			"1"
 			
 			
-			"textHidden"		"0"
+			//"textHidden"		"0"
 			"editable"			"1"
 			"maxchars"			"256"
 			"NumericInputOnly"	"0"
 			"unicode"			"0"
 			"wrap"				"0"
-			"fgcolor_override"	"235 226 202 255"
+			"fgcolor_override"	"TanLight"
 			"bgcolor_override"	"0 0 0 60"
 			"paintbackgroundtype" "2"
 			"labelText"			""
 			"font"				"HudFontSmall"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 		}
 		
 		"subbutton0"
@@ -451,7 +451,7 @@
 			"textAlignment"	"center"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"Command"		"url_ok"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -477,7 +477,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

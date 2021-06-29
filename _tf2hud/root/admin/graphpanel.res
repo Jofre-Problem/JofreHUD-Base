@@ -44,7 +44,7 @@
 		
 		"tabPosition"		"5"
 		"labelText"		"#Graph_In"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -64,7 +64,7 @@
 		
 		"tabPosition"		"6"
 		"labelText"		"#Graph_Out"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -84,7 +84,7 @@
 		
 		"tabPosition"		"8"
 		"labelText"		"#Graph_FPS"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -104,7 +104,7 @@
 		
 		"tabPosition"		"7"
 		"labelText"		"#Graph_CPU"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -124,7 +124,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"#Graph_Ping"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -144,7 +144,7 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"#Graph_Players"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -163,11 +163,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"2"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"VertCombo"
 	{
@@ -182,11 +182,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"Label5"
 	{
@@ -202,7 +202,7 @@
 		
 		
 		"labelText"		"#Graph_Total_Players"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

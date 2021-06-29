@@ -78,7 +78,7 @@
 			"tall"			"10"
 			////"visible"		"1"
 			
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			"PaintBackgroundType"	"0"
 			"paintbackground"	"1"
 			"bgcolor_override" "50 46 41 255"
@@ -96,7 +96,7 @@
 			"tall"			"58"
 			////"visible"		"1"
 			
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			"PaintBackgroundType"	"2"
 			"paintbackground"	"1"
 			"bgcolor_override" "50 46 41 255"
@@ -200,7 +200,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"close"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

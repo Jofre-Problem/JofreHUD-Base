@@ -37,7 +37,7 @@
 			////"visible"		"1"
 			
 			"labelText"		"#GameUI_vote_passed"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"font"			"ScoreboardSmall"
@@ -434,7 +434,7 @@
 			////"visible"		"1"
 			
 			"labelText"		"#GameUI_vote_failed"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"font"			"ScoreboardSmall"
@@ -500,7 +500,7 @@
 			////"visible"		"1"
 			
 			"labelText"		"#GameUI_vote_failed"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"font"			"ScoreboardSmall"
@@ -641,7 +641,7 @@
 			//"visible"			"1"
 			
 			"tabPosition"		"1"
-			"textHidden"		"0"
+			//"textHidden"		"0"
 			"editable"			"0"
 			"maxchars"			"-1"
 			"NumericInputOnly"	"0"

@@ -139,13 +139,6 @@ Scheme
 				"tall"		"18"
 			}
 		}
-		"MenuLarge"
-		{
-			"1"	[$X360]
-			{
-				//"tall_hidef"		"24"
-			}
-		}
 
 		"ServerBrowserTitle"
 		{

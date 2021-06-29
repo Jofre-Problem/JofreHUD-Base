@@ -35,7 +35,7 @@
 		
 		"labelText"		"#TF_Ubercharge"
 		"labelText_minmode"		"#TF_UberchargeMinHUD"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"HudFontSmallest"
@@ -59,7 +59,7 @@
 		
 		"labelText"		"#TF_IndividualUbercharges"
 		"labelText_minmode"		"#TF_IndividualUberchargesMinHUD"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"HudFontSmallest"

@@ -2,24 +2,15 @@
 {
 	"ReloadSchemeButton"
 	{
-		"ControlName"		"CExButton"
-		"fieldName"			"ReloadSchemeButton"
-		"xpos"				"5"
-		"ypos"				"25"
-		"zpos"				"250"
-		"wide"				"16"
-		"tall"				"16"
-		"autoResize"		"1"
-		
-		"visible"			"0"				//1 to enable
-		
-		
-		"labelText"			"RS"
-		"font"				"Default"
-		"textAlignment"		"center"
-		//"dulltext"			"0"
-		//"brighttext"		"0"
-		"Command"			"reloadscheme"
-		"paintbackground"	"0"
+		"ControlName"	"CExButton"
+		"fieldName"		"ReloadSchemeButton"
+		"zpos"			"25"
+		"font"			"HudFontSmallestBold"
+		"textAlignment"	"center"
+		"textinsetx"	"50"		
+		"tall"			"15"
+		"Command"		"reloadscheme"
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
 	}
 }

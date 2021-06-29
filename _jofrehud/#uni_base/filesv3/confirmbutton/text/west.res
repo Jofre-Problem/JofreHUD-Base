@@ -2,6 +2,6 @@
 {
 	"ConfirmButton"
 	{
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}	
 }	

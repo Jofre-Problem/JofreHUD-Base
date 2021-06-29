@@ -91,7 +91,7 @@
 			"selected"		"1"
 			"tabPosition"		"8"
 			"labelText"			"H"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 			"wrap"				"0"
@@ -113,7 +113,7 @@
 			
 			"tabPosition"		"8"
 			"labelText"			"S"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 			"wrap"				"0"
@@ -135,7 +135,7 @@
 			
 			"tabPosition"		"8"
 			"labelText"			"V"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 			"wrap"				"0"
@@ -157,7 +157,7 @@
 			
 			"tabPosition"		"8"
 			"labelText"			"R"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 			"wrap"				"0"
@@ -179,7 +179,7 @@
 			
 			"tabPosition"		"8"
 			"labelText"			"G"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 			"wrap"				"0"
@@ -201,7 +201,7 @@
 			
 			"tabPosition"		"8"
 			"labelText"			"B"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 			"wrap"				"0"
@@ -224,7 +224,7 @@
 			"NumericInputOnly" "1"
 			"tabPosition"		"1"
 			"labelText"			""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -244,7 +244,7 @@
 			"NumericInputOnly" "1"
 			"tabPosition"		"2"
 			"labelText"			""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -264,7 +264,7 @@
 			"NumericInputOnly" "1"
 			
 			"labelText"			"%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -284,7 +284,7 @@
 			"NumericInputOnly" "1"
 			"tabPosition"		"3"
 			"labelText"			""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -304,7 +304,7 @@
 			"NumericInputOnly" "1"
 			
 			"labelText"			"%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -324,7 +324,7 @@
 			"NumericInputOnly" "1"
 			"tabPosition"		"4"
 			"labelText"			""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -344,7 +344,7 @@
 			"NumericInputOnly" "1"
 			"tabPosition"		"5"
 			"labelText"			""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -364,7 +364,7 @@
 			
 			"tabPosition"		"6"
 			"labelText"			""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}		
@@ -384,7 +384,7 @@
 			
 			"tabPosition"		"7"
 			"labelText"			""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}	
@@ -404,7 +404,7 @@
 			"NumericInputOnly" "1"
 			
 			"labelText"			"A"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}

@@ -65,7 +65,7 @@
 			
 			"font"			"HudFontMediumBold"
 			"labelText"		"%blueleader%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"fgcolor"		"HudOffWhite"
 		}	
 	}
@@ -153,7 +153,7 @@
 			
 			"font"			"HudFontMediumBold"
 			"labelText"		"%redleader%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"fgcolor"		"HudOffWhite"
 		}	
 	}

@@ -2,6 +2,6 @@
 {
 	"Ok"
 	{
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}	
 }	

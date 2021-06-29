@@ -33,7 +33,7 @@
 			{
 				"name"			"idle_enabled"
 				"sequence"		"idle"
-				"default"		"1"
+				//"Default"		"1"
 			}
 
 			"animation"
@@ -82,7 +82,7 @@
 			{
 				"name"			"idle_enabled"
 				"sequence"		"idle"
-				"default"		"1"
+				//"Default"		"1"
 			}
 
 			"animation"

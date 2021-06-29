@@ -42,11 +42,11 @@
 		
 		"tabPosition"		"2"
 		"labelText"		"OK"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"OK"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"CancelButton"
 	{
@@ -62,7 +62,7 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"Cancel"
@@ -81,10 +81,10 @@
 		"visible"		"0"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"ComboEdit"
 	{
@@ -99,10 +99,10 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"Label1"
 	{
@@ -118,7 +118,7 @@
 		
 		
 		"labelText"		"Changes take effect when you press 'OK'."
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"dulltext"		"1"
 		//"brighttext"		"0"
 	}

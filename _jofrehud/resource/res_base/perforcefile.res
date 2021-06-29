@@ -32,7 +32,7 @@
 			"textAlignment"		"center"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
-			"Default"		"1"
+			//"Default"		"1"
 		}
 
 		"NoButton"
@@ -51,7 +51,7 @@
 			"textAlignment"		"center"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
-			"Default"		"1"
+			//"Default"		"1"
 		}
 	}
 }

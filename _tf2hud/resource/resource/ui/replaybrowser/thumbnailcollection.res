@@ -19,7 +19,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CaratLabel"
 		"font"			"ReplayMediumSmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"labelText"		">>"
 		"auto_wide_tocontents" "1"
 		"tall"			"15"
@@ -38,7 +38,7 @@
 		"fieldName"		"TitleLabel"
 		"font"			"ReplayMediumSmall"
 		"labelText"		"%titleandcount%"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"zpos"			"2"
 		
 		
@@ -53,7 +53,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"DateLabel"
 		"font"			"ReplayMediumSmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"zpos"			"2"
 		
 		
@@ -68,7 +68,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"WarningLabel"
 		"font"			"ReplaySmaller"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"zpos"			"1"
 		
 		
@@ -138,7 +138,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"show_prev"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -166,7 +166,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"show_next"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

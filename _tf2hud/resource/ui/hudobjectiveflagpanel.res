@@ -126,7 +126,7 @@
 		//"tall_lodef"	"75"
 		////"visible"		"1"
 		
-		"textAlignment"	"west"	
+		//"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
 		"font"			"HudFontBig"
 		//"font_hidef"	"HudFontGiant"
@@ -164,7 +164,7 @@
 		//"tall_lodef"	"75"
 		////"visible"		"1"
 		
-		"textAlignment"	"west"	
+		//"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
 		"font"			"HudFontBig"
 		//"font_hidef"	"HudFontGiant"

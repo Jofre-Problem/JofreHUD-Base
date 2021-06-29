@@ -56,7 +56,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"%title%"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 	}
@@ -80,7 +80,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"%statdesc%"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"wrap"			"1"
@@ -104,7 +104,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"%stattextlarge%"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -126,7 +126,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"%stattextsmall%"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}

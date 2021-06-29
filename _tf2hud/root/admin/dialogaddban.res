@@ -41,8 +41,8 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"2"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 	"OkayButton"
@@ -59,11 +59,11 @@
 		
 		"tabPosition"		"6"
 		"labelText"		"#Okay_Button"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"Okay"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"PermBanRadio"
 	{
@@ -79,7 +79,7 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"#Add_Ban_Time_Permanent"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -99,7 +99,7 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"#Add_Ban_Time_Temporary"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -118,8 +118,8 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"4"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 	"TimeCombo"
@@ -135,7 +135,7 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"5"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
 	}
@@ -171,7 +171,7 @@
 		
 		"tabPosition"		"7"
 		"labelText"		"#Cancel_Button"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"Close"
@@ -191,7 +191,7 @@
 		
 		
 		"labelText"		"#Add_Ban_Player"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -208,8 +208,8 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 	"Label2"
@@ -226,7 +226,7 @@
 		
 		
 		"labelText"		"#Add_Ban_Duration_Label"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}

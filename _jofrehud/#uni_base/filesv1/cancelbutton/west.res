@@ -3,6 +3,6 @@
 {
 	"CancelButton"
 	{
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 }

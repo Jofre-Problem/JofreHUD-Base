@@ -155,7 +155,7 @@
 		
 		////"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
-		"visible"		"0"	[$X360]
+		
 		
 		"labelText"		"#TF_Spectator_ChangeTeam"
 		"textAlignment"		"center"
@@ -180,7 +180,7 @@
 		
 		////"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
-		"visible"		"0"	[$X360]
+		
 		
 		"labelText"		"#TF_Spectator_ChangeTeam"
 		"textAlignment"		"east"
@@ -202,10 +202,10 @@
 		
 		////"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
-		"visible"		"0"	[$X360]
+		
 		
 		"labelText"		"#TF_Spectator_SwitchCamMode"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 	"CycleTargetFwdKeyLabel"
@@ -223,7 +223,7 @@
 		
 		////"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
-		"visible"		"0"	[$X360]
+		
 		
 		"labelText"		"#TF_Spectator_ClassOrTeamKey"
 		"textAlignment"		"east"
@@ -244,10 +244,10 @@
 		
 		////"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
-		"visible"		"0"	[$X360]
+		
 		
 		"labelText"		"#TF_Spectator_CycleTargetFwd"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 	"CycleTargetRevKeyLabel"
@@ -265,7 +265,7 @@
 		
 		////"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
-		"visible"		"0"	[$X360]
+		
 		
 		"labelText"		"#TF_Spectator_ClassOrTeamKey"
 		"textAlignment"		"east"
@@ -286,10 +286,10 @@
 		
 		////"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
-		"visible"		"0"	[$X360]
+		
 		
 		"labelText"		"#TF_Spectator_CycleTargetRev"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 	"TipLabel"

@@ -20,7 +20,7 @@
 			"fieldName"		"RewardsLabel"
 			"font"			"HudFontSmallBold"
 			"labelText"		"#QuestDetails_Reward"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"10"
 			"ypos"			"20"
 			"zpos"			"2"
@@ -47,7 +47,7 @@
 			"proportionaltoparent"	"1"
 			////"visible"		"1"
 			
-			"paintborder"	"0"
+			//"paintborder"	"0"
 	
 			"ItemPanel"
 			{
@@ -62,7 +62,7 @@
 				"bgcolor_override"		"Blank"
 				"noitem_textcolor"		"117 107 94 255"
 				"PaintBackgroundType"	"2"
-				"paintborder"	"0"
+				//"paintborder"	"0"
 				"proportionaltoparent"	"1"
 			
 				"model_xpos"	"4"
@@ -105,6 +105,6 @@
 		"fgcolor_override"	"59 54 48 255"
 		"bgcolor_override"	"0 0 0 255"
 		"autohide_buttons" "1"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 	}
 }

@@ -15,7 +15,7 @@
 		"visible"		"0"
 		
 		//"scaleImage"	"0"
-		"fillcolor"		"255 255 255 255"
+		"fillcolor"		"White"
 	}
 	
 // TEXT ENTRIES

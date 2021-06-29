@@ -30,7 +30,7 @@
 		"tabPosition"		"1"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddSelectedToFavorites"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Command"		"OnAddToFavorites"
 		"Default"		"0"
@@ -67,7 +67,7 @@
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_RefreshAll"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Command"		"GetNewList"
 		"Default"		"0"
@@ -87,7 +87,7 @@
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_RefreshQuick"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Command"		"refresh"
 		"Default"		"0"
@@ -107,7 +107,7 @@
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddServer"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Command"		"AddServerByName"
 		"Default"		"0"
@@ -128,7 +128,7 @@
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddCurrentServer"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Command"		"AddCurrentServer"
 		"Default"		"0"
@@ -148,7 +148,7 @@
 		"tabPosition"		"4"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ChangeFilters"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -167,7 +167,7 @@
 		
 		"paintbackground"		"1"
 		"borderset"		"LabelDull"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		dulltext	1
 	}
@@ -185,11 +185,11 @@
 		
 		
 		"paintbackground"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"LocationFilter"
 	{
@@ -205,11 +205,11 @@
 		"enabled"		"0"
 		
 		"paintbackground"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"MapFilter"
 	{
@@ -225,11 +225,11 @@
 		
 		"tabPosition"		"5"
 		"paintbackground"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"PingFilter"
 	{
@@ -245,11 +245,11 @@
 		
 		
 		"paintbackground"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"SecureFilter"
 	{
@@ -265,11 +265,11 @@
 		
 		
 		"paintbackground"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"ServerEmptyFilterCheck"
 	{
@@ -286,7 +286,7 @@
 		"tabPosition"		"7"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_HasUsersPlaying"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -305,7 +305,7 @@
 		"tabPosition"		"6"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerNotFull"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -324,7 +324,7 @@
 		"tabPosition"		"8"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_IsNotPasswordProtected"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -343,7 +343,7 @@
 		"tabPosition"		"8"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_SupportsReplays"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Default"		"0"
 	}

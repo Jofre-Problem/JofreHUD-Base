@@ -4,6 +4,6 @@
 	"NameLabel"
 	{
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 }

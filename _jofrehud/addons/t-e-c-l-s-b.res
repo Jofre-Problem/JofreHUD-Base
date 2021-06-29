@@ -10,10 +10,10 @@
 		"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"TextEntry"
 	{
@@ -26,8 +26,8 @@
 		"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"500"
 	}
 	"SendBtn"
@@ -42,7 +42,7 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#SteamAddOn_Btn_Send"
-		"textAlignment"		"west"
-		"Default"		"1"
+		//"textAlignment"		"west"
+		//"Default"		"1"
 	}	
 }

@@ -86,7 +86,7 @@
 		
 		//"visible"		"1"
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"image"			"techcredits/bink"
 		"scaleImage"	"1"
 	}

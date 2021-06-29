@@ -12,7 +12,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#TF_Spectator_CycleTargetRev"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 }	

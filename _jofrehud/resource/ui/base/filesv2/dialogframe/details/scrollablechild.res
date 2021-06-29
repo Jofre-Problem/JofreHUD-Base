@@ -53,7 +53,7 @@
 					"visible"		"0"
 					
 					"wrap"			"1"
-					"fgcolor"		"200 80 60 255"
+					"fgcolor"		"LightRed"
 				}		
 				
 				"RestrictionsTextLabel"
@@ -70,7 +70,7 @@
 					"visible"		"0"
 					
 					"wrap"			"1"
-					"fgcolor"		"200 80 60 255"
+					"fgcolor"		"LightRed"
 				}		
 				
 				"UsedByLabel"

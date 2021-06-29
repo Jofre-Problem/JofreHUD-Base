@@ -25,8 +25,8 @@
 		
 		"visible"		"1"
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}	
 	"mp_friendlyfire"
@@ -43,7 +43,7 @@
 		"visible"		"1"
 		
 		"tabPosition"		"4"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 	"sv_allowupload"
 	{
@@ -57,7 +57,7 @@
 		
 		"visible"		"1"
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}	
 	"sv_minratelabel"
 	{
@@ -84,8 +84,8 @@
 		
 		"visible"		"1"
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}	
 	"sv_maxratelabel"
@@ -113,8 +113,8 @@
 		
 		"visible"		"1"
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}	
 	"sv_voiceenable"
@@ -129,6 +129,6 @@
 		
 		"visible"		"1"
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}	
 }

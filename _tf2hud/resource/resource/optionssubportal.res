@@ -17,7 +17,7 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_PortalFunnel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -43,11 +43,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"4"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"Portal Funnel label"
 	{
@@ -66,7 +66,7 @@
 		
 		
 		"labelText"		"#GameUI_PortalFunnelLabel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -92,7 +92,7 @@
 		
 		
 		"labelText"		"#GameUI_PortalDepthLabel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"PortalDepth"
 		//"dulltext"		"0"
 		//"brighttext"		"0"

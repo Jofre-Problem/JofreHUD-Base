@@ -51,7 +51,7 @@
 		"wide"		"146"
 		"tall"		"16"
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"font"		"DefaultVerySmall"

@@ -18,6 +18,6 @@
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"OK"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 }

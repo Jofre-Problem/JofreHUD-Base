@@ -24,7 +24,7 @@
 	//	"visible"		"1"
 	//	
 	//	"labelText"		"OK"
-	//	"textAlignment"		"west"
+	//	//"textAlignment"		"west"
 	//	//"dulltext"		"0"
 	//	//"brighttext"		"0"
 	//	"Command"		"OK"

@@ -30,7 +30,7 @@
 		
 		
 		"labelText"		"Export"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -52,7 +52,7 @@
 		
 		
 		"labelText"		"Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -118,7 +118,7 @@
 		
 		
 		"labelText"		"Output .avi file"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -139,7 +139,7 @@
 		
 		
 		"labelText"		"Output .tga files"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -160,7 +160,7 @@
 		
 		
 		"labelText"		"Output .wav file"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -181,7 +181,7 @@
 		
 		
 		"labelText"		"Draw Players"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -202,7 +202,7 @@
 		
 		
 		"labelText"		"Draw NPCs"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -223,7 +223,7 @@
 		
 		
 		"labelText"		"Draw Other Entities"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -244,7 +244,7 @@
 		
 		
 		"labelText"		"Draw Ropes"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -265,7 +265,7 @@
 		
 		
 		"labelText"		"Draw Beams"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -286,7 +286,7 @@
 		
 		
 		"labelText"		"Draw Particle Systems"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -306,7 +306,7 @@
 		
 		
 		"labelText"		"Draw Recorded Elements:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -325,11 +325,11 @@
 		
 		
 		"labelText"		"Draw Puppets"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"DrawEffects"
 	{
@@ -345,11 +345,11 @@
 		
 		
 		"labelText"		"Draw Effects"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"DrawParticleSystems"
 	{
@@ -365,11 +365,11 @@
 		
 		
 		"labelText"		"Draw Particle Systems"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"filename"
 	{
@@ -384,11 +384,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"StartFrame"
 	{
@@ -403,11 +403,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"2"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"EndFrame"
 	{
@@ -422,11 +422,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"3"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"framerate"
 	{
@@ -441,11 +441,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"5"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"FrameSelect"
 	{
@@ -460,11 +460,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"4"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"StartLabel"
 	{
@@ -517,11 +517,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"6"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"OutputHeight"
 	{
@@ -536,11 +536,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"7"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"SizeType"
 	{
@@ -555,11 +555,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"4"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"ShutterspeedOverride"
 	{
@@ -575,7 +575,7 @@
 		
 		
 		"labelText"		"Override Shutter Speed:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -595,11 +595,11 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"5"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"LabelOutputFile"
 	{
@@ -615,7 +615,7 @@
 		
 		
 		"labelText"		"Output File:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -691,7 +691,7 @@
 		
 		
 		"labelText"		"Clear Decals"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

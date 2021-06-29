@@ -73,7 +73,7 @@
 				
 				
 				"labelText"		""
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				//"dulltext"		"0"
 				//"brighttext"	"0"
 			}			

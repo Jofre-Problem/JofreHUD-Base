@@ -11,7 +11,7 @@
 		
 		
 		"labelText"		""		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"visible"		"1"
 		
 	}
@@ -26,7 +26,7 @@
 		
 		
 		"labelText"		""		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"visible"		"1"
 		
 	}
@@ -41,7 +41,7 @@
 		
 		
 		"labelText"		""		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"visible"		"1"
 		
 	}
@@ -56,7 +56,7 @@
 		
 		
 		"labelText"		""		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"visible"		"1"
 		
 	}

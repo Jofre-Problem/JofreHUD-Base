@@ -28,7 +28,7 @@
 		
 		
 		"labelText"		"#GameUI_ParseBaseline"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"dulltext"		"1"
 		//"brighttext"		"0"
 	}
@@ -60,7 +60,7 @@
 		
 		
 		"labelText"		"#GameUI_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"Cancel"
@@ -94,7 +94,7 @@
 		
 		
 		"labelText"		"#GameUI_LoadingDialog_ContentHosting"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"dulltext"		"1"
 		//"brighttext"		"0"
 	}

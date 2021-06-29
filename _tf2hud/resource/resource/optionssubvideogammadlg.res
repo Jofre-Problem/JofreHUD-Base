@@ -46,7 +46,7 @@
 		
 		
 		"labelText"		"#GameUI_Gamma"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -64,11 +64,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"2"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"OKButton"
 	{
@@ -84,11 +84,11 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"#vgui_ok"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"ImagePanel1"
 	{
@@ -121,7 +121,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"#vgui_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

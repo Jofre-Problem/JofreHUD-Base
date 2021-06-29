@@ -2,6 +2,6 @@
 {
 	"UserNameEdit"
 	{
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 }

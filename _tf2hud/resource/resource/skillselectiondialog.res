@@ -30,7 +30,7 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_Easy"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -51,7 +51,7 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_Medium"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -72,7 +72,7 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_Hard"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -93,7 +93,7 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -114,11 +114,11 @@
 		
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_Start"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Play"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 }

@@ -122,7 +122,7 @@
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		"model_xpos"	"2"
 		"model_ypos"	"5"
 		"model_wide"	"80"
@@ -184,7 +184,7 @@
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		"model_xpos"	"2"
 		"model_ypos"	"5"
 		"model_wide"	"80"
@@ -215,7 +215,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	
 	"GivenName"
@@ -235,7 +235,7 @@
 		////"visible"		"1"
 		
 		"centerwrap"	"1"
-		"fgcolor_override"	"235 226 202 255"
+		"fgcolor_override"	"TanLight"
 	}
 
 	"WarningLabel"
@@ -254,7 +254,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 
 	"CancelButton"
@@ -301,7 +301,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"apply"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

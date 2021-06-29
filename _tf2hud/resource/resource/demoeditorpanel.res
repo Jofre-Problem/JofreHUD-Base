@@ -29,7 +29,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"Save"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"save"
@@ -49,7 +49,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"Revert"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"revert"
@@ -69,7 +69,7 @@
 		
 		
 		"labelText"		"OK"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"Close"
@@ -89,7 +89,7 @@
 		
 		
 		"labelText"		"Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"cancel"
@@ -109,7 +109,7 @@
 		
 		
 		"labelText"		"New->"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -128,7 +128,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"Edit..."
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"edit"
@@ -148,7 +148,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"Delete"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"delete"
@@ -168,7 +168,7 @@
 		
 		
 		"labelText"		"yahn.dem"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}

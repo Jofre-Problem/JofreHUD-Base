@@ -2,6 +2,6 @@
 {
 	"InfoLabel"
 	{
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}	
 }	

@@ -69,7 +69,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#ControlPointIconCappers"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}

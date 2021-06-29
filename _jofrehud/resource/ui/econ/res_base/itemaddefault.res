@@ -131,7 +131,7 @@
 		"tall"			"p.9"
 		//"visible"		"1"
 		"PaintBackgroundType"	"2"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		"proportionaltoparent"	"1"
 			
 		"model_xpos"	"0"

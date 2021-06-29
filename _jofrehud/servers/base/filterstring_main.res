@@ -16,7 +16,7 @@
 		
 		"paintbackground"		"1"
 		"borderset"		"LabelDull"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 	}
 	"Filter"
@@ -34,7 +34,7 @@
 		"tabPosition"		"4"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Filters"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Default"		"0"
 	}	

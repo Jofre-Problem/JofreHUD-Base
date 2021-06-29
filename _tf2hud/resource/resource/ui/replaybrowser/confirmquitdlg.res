@@ -46,7 +46,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	
 	"ExplanationLabel"
@@ -149,7 +149,7 @@
 		"fieldName"		"DontShowThisAgainCheckbox"
 		"labelText"		"#Replay_DontShowThisAgain"
 		"Font"			"ItemFontAttribSmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		"xpos"			"130"
 		"ypos"			"165"

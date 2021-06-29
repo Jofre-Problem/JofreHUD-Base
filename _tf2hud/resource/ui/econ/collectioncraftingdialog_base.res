@@ -101,9 +101,9 @@
 				"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
 				"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 			
-				"defaultFgColor_override" "46 43 42 255"
-				"armedFgColor_override" "200 80 60 255"
-				"depressedFgColor_override" "46 43 42 255"
+				"defaultFgColor_override" "TanDarker"
+				"armedFgColor_override" "LightRed"
+				"depressedFgColor_override" "TanDarker"
 			
 				"image_drawcolor"	"0 0 0 255"
 				"image_armedcolor"	"200 80 60 255"
@@ -153,7 +153,7 @@
 				"bgcolor_override"		"Blank"
 				"noitem_textcolor"		"117 107 94 255"
 				"PaintBackgroundType"	"2"
-				"paintborder"	"0"
+				//"paintborder"	"0"
 				"model_center_x"	"1"
 				"model_center_y"	"1"
 				"model_wide"	"40"
@@ -429,7 +429,7 @@
 			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			"mouseinputenabled"	"0"
 			"proportionaltoparent"	"1"
 
@@ -477,7 +477,7 @@
 			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			"actionsignallevel"	"4"
 			"proportionaltoparent"	"1"
 
@@ -509,7 +509,7 @@
 			"tall"			"p0.5"
 			////"visible"		"1"
 			"proportionaltoparent"	"1"
-			"bgcolor_override"	"255 0 0 255"
+			"bgcolor_override"	"HUDDeathWarning"
 
 			"force_use_model"		"1"
 			"use_item_rendertarget" "0"
@@ -601,9 +601,9 @@
 			"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
 			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"150 60 45 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -818,7 +818,7 @@
 		//"wrap"			"0"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"placestamp"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -827,7 +827,7 @@
 		"paintbackground"			"0"
 
 		"defaultFgColor_override" "50 50 50 245"
-		"armedFgColor_override" "200 80 60 255"
+		"armedFgColor_override" "LightRed"
 		"depressedFgColor_override" "200 100 80 255"
 	}
 
@@ -850,7 +850,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"envelopesend"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -859,7 +859,7 @@
 		"paintbackground"			"1"
 
 		"defaultFgColor_override" "235 226 202 255"
-		"armedFgColor_override" "200 80 60 255"
+		"armedFgColor_override" "LightRed"
 		"depressedFgColor_override" "200 100 80 255"
 	}
 
@@ -942,7 +942,7 @@
 				"textAlignment"	"center"
 				//"dulltext"		"0"
 				//"brighttext"	"0"
-				"default"		"1"
+				//"Default"		"1"
 				"Command"		"doneselectingitems"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -951,7 +951,7 @@
 				"paintbackground"			"0"
 
 				"defaultFgColor_override" "235 226 202 255"
-				"armedFgColor_override" "200 80 60 255"
+				"armedFgColor_override" "LightRed"
 				"depressedFgColor_override" "200 100 80 255"
 			}
 		}
@@ -989,9 +989,9 @@
 		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
 		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 			
-		"defaultFgColor_override" "46 43 42 255"
-		"armedFgColor_override" "200 80 60 255"
-		"depressedFgColor_override" "46 43 42 255"
+		"defaultFgColor_override" "TanDarker"
+		"armedFgColor_override" "LightRed"
+		"depressedFgColor_override" "TanDarker"
 			
 		"image_drawcolor"	"150 60 45 255"
 		"image_armedcolor"	"200 80 60 255"
@@ -1151,7 +1151,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"TextLabel"
@@ -1170,7 +1170,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"CloseButton"
@@ -1199,9 +1199,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -1236,7 +1236,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "LightRed"
 		}
 		"NextButton"
 		{
@@ -1264,9 +1264,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1325,7 +1325,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"TextLabel"
@@ -1345,7 +1345,7 @@
 			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"CloseButton"
@@ -1374,9 +1374,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -1422,9 +1422,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1460,7 +1460,7 @@
 			////"visible"		"1"
 			
 			"proportionaltoparent"	"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "LightRed"
 		}	
 	}	
 
@@ -1503,7 +1503,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"TextLabel"
@@ -1523,7 +1523,7 @@
 			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"CloseButton"
@@ -1552,9 +1552,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -1590,7 +1590,7 @@
 			////"visible"		"1"
 			
 			"proportionaltoparent"	"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "LightRed"
 		}
 		"NextButton"
 		{
@@ -1619,9 +1619,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1680,7 +1680,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"TextLabel"
@@ -1700,7 +1700,7 @@
 			
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"CloseButton"
@@ -1729,9 +1729,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -1777,9 +1777,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1815,7 +1815,7 @@
 			////"visible"		"1"
 			
 			"proportionaltoparent"	"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "LightRed"
 		}
 	}	
 }

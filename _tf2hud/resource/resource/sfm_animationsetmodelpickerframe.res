@@ -43,7 +43,7 @@
 		
 		
 		"labelText"		"Filter:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -63,11 +63,11 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"OkButton"
 	{
@@ -84,12 +84,12 @@
 		
 		
 		"labelText"		"#VGui_OK"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Ok"
-		"Default"		"1"
+		//"Default"		"1"
 		"selected"		"0"
 	}
 	"CancelButton"
@@ -107,7 +107,7 @@
 		
 		
 		"labelText"		"#VGui_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

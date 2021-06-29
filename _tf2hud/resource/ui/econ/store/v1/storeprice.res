@@ -63,7 +63,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"Discount"
 		"font"			"FontStorePrice"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"zpos"			"15"
 		"wide"			"87"
 		"tall"			"12"

@@ -90,7 +90,7 @@
 
 		"labelText"		"#TrackerUI_SelectFriendFromList"
 
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 
 		//"dulltext"		"0"
 

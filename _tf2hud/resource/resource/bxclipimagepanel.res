@@ -58,7 +58,7 @@
 		
 		
 		"labelText"		"foo"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"font"		"DefaultVerySmall"
@@ -78,7 +78,7 @@
 		
 		
 		"labelText"		"cam: cam1"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"font"		"DefaultVerySmall"
@@ -98,7 +98,7 @@
 		
 		
 		"labelText"		"5.200 s."
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"font"		"DefaultVerySmall"

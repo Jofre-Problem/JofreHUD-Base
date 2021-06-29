@@ -32,9 +32,9 @@
 		//"visible"		"1"
 		
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"8"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 }

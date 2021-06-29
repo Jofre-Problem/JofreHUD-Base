@@ -219,7 +219,7 @@
 			{
 				"name"			"Down"
 				"sequence"		"screendown"
-				"default"		"1"
+				//"Default"		"1"
 			}
 		}
 	}					

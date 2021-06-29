@@ -34,7 +34,7 @@
 			
 			
 			"labelText"		"#GameUI_ParticleHatUseHead"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			"brighttext"		"1"
 			//"wrap"		"0"
@@ -81,7 +81,7 @@
 			"textAlignment"	"center"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"set_style"

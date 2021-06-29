@@ -79,7 +79,7 @@
 		
 		
 		"labelText"		"#TF_ImportFile_Title"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -100,7 +100,7 @@
 		
 		
 		"labelText"		"#TF_ImportFile_NameLabel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -120,10 +120,10 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"128"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 		"unicode"		"1"
 		"fgcolor_override"	"0 0 0 255"
 		"bgcolor_override"	"235 226 202 255"
@@ -145,7 +145,7 @@
 		
 		
 		"labelText"		"#TF_ImportFile_TypeLabel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -194,7 +194,7 @@
 			
 			
 			"labelText"		"#TF_ImportFile_EquipRegionLabel"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 			//"wrap"		"0"
@@ -231,7 +231,7 @@
 		
 		
 		"labelText"		"#TF_ImportFile_WorkshopIDLabel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -251,8 +251,8 @@
 		"visible"		"0"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"128"
 		"NumericInputOnly"		"1"
 		"unicode"		"1"
@@ -276,7 +276,7 @@
 		
 		
 		"labelText"		"TF_English Name"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -296,10 +296,10 @@
 		"visible"		"0"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"128"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 		"unicode"		"1"
 		"fgcolor_override"	"0 0 0 255"
 		"bgcolor_override"	"235 226 202 255"
@@ -313,7 +313,7 @@
 		"fieldName"		"PerforceCheckButton"
 		"labelText"		"Perforce"
 		"Font"			"HudFontSmallest"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"245" 
 		"ypos"			"85"
 		"wide"			"80"
@@ -333,7 +333,7 @@
 		"fieldName"		"PartnerCheckButton"
 		"labelText"		"Partner"
 		"Font"			"HudFontSmallest"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"325" 
 		"ypos"			"85"
 		"wide"			"80"
@@ -374,7 +374,7 @@
 			"textinsetx"	"15"
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallestBold"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 				
 			"labelText"		""
 			"command"		"ClearIcon"				
@@ -410,7 +410,7 @@
 			"textinsetx"	"15"
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallestBold"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 				
 			"labelText"		""
 			"command"		"BrowseIcon"					
@@ -458,7 +458,7 @@
 			
 			
 			"labelText"		"#TF_ImportFile_IconLabel"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 			//"wrap"		"0"
@@ -492,7 +492,7 @@
 			
 			
 			"labelText"		"#TF_ImportFile_Models"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 			//"wrap"		"0"
@@ -744,7 +744,7 @@
 			
 			
 			"labelText"		"#TF_ImportFile_Bodygroups"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 			//"wrap"		"0"
@@ -757,7 +757,7 @@
 			"fieldName"		"Bodygroup0"
 			"labelText"		""
 			"Font"			"HudFontSmallest"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"18"
 			"wide"			"150"
@@ -779,7 +779,7 @@
 			"fieldName"		"Bodygroup1"
 			"labelText"		""
 			"Font"			"HudFontSmallest"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"38"
 			"wide"			"150"
@@ -801,7 +801,7 @@
 			"fieldName"		"Bodygroup2"
 			"labelText"		""
 			"Font"			"HudFontSmallest"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"58"
 			"wide"			"150"
@@ -823,7 +823,7 @@
 			"fieldName"		"Bodygroup3"
 			"labelText"		""
 			"Font"			"HudFontSmallest"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"78"
 			"wide"			"150"
@@ -845,7 +845,7 @@
 			"fieldName"		"Bodygroup4"
 			"labelText"		""
 			"Font"			"HudFontSmallest"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"98"
 			"wide"			"150"
@@ -867,7 +867,7 @@
 			"fieldName"		"Bodygroup5"
 			"labelText"		""
 			"Font"			"HudFontSmallest"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"118"
 			"wide"			"150"
@@ -889,7 +889,7 @@
 			"fieldName"		"Bodygroup6"
 			"labelText"		""
 			"Font"			"HudFontSmallest"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"138"
 			"wide"			"150"
@@ -911,7 +911,7 @@
 			"fieldName"		"Bodygroup7"
 			"labelText"		""
 			"Font"			"HudFontSmallest"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"158"
 			"wide"			"150"
@@ -933,7 +933,7 @@
 			"fieldName"		"Bodygroup8"
 			"labelText"		""
 			"Font"			"HudFontSmallest"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"178"
 			"wide"			"150"
@@ -985,7 +985,7 @@
 				
 				
 				"labelText"		"#TF_ImportFile_LOD0"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 				"font"		"HudFontSmallestBold"
 			}
 			"ButtonLOD0Clear"
@@ -1001,7 +1001,7 @@
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				
 				"labelText"		""
 				"command"		"ClearLOD0"				
@@ -1035,7 +1035,7 @@
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				
 				"labelText"		""
 				"command"		"BrowseLOD0"				
@@ -1107,7 +1107,7 @@
 				
 				
 				"labelText"		"#TF_ImportFile_LOD1"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 				"font"		"HudFontSmallestBold"
 				"enabled"		"0"
 			}
@@ -1124,7 +1124,7 @@
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				"enabled"		"0"
 				
 				"labelText"		""
@@ -1159,7 +1159,7 @@
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				"enabled"		"0"
 				
 				"labelText"		""
@@ -1234,7 +1234,7 @@
 				
 				
 				"labelText"		"#TF_ImportFile_LOD2"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 				"font"		"HudFontSmallestBold"
 				"enabled"		"0"
 			}
@@ -1251,7 +1251,7 @@
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				"enabled"		"0"
 				
 				"labelText"		""
@@ -1286,7 +1286,7 @@
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				"enabled"		"0"
 				
 				"labelText"		""
@@ -1389,7 +1389,7 @@
 			
 			
 			"labelText"		"#TF_ImportFile_Skins"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 			//"wrap"		"0"
@@ -1415,7 +1415,7 @@
 			//"brighttext"		"0"
 			//"wrap"		"0"
 			"Command"		"SwapVMT"
-			"Default"		"1"
+			//"Default"		"1"
 			"font"		"HudFontSmallestBold"
 		}
 
@@ -1455,7 +1455,7 @@
 				"tall"		"15"
 				
 				
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 				"font"		"HudFontSmallestBold"
 			}
 			"ButtonMaterial0Edit"
@@ -1471,7 +1471,7 @@
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 					
 				"labelText"		""
 				"command"		"EditMaterial0"				
@@ -1528,7 +1528,7 @@
 				"tall"		"15"
 				
 				
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 				"font"		"HudFontSmallestBold"
 			}
 			"ButtonMaterial1Edit"
@@ -1544,7 +1544,7 @@
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 					
 				"labelText"		""
 				"command"		"EditMaterial1"				
@@ -1602,7 +1602,7 @@
 				"tall"		"15"
 				
 				
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 				"font"		"HudFontSmallestBold"
 			}
 			"ButtonMaterial2Edit"
@@ -1618,7 +1618,7 @@
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 					
 				"labelText"		""
 				"command"		"EditMaterial2"				
@@ -1675,7 +1675,7 @@
 				"tall"		"15"
 				
 				
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 				"font"		"HudFontSmallestBold"
 			}
 			"ButtonMaterial3Edit"
@@ -1691,7 +1691,7 @@
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 					
 				"labelText"		""
 				"command"		"EditMaterial3"				
@@ -1733,7 +1733,7 @@
 			"fieldName"		"Paintable0CheckBox"
 			"labelText"		"#TF_ImportFile_Paintable0"
 			"Font"			"HudFontSmallest"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"190"
 			"wide"			"100"
@@ -1755,7 +1755,7 @@
 			"fieldName"		"Paintable1CheckBox"
 			"labelText"		"#TF_ImportFile_Paintable1"
 			"Font"			"HudFontSmallest"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"100" 
 			"ypos"			"190"
 			"wide"			"100"
@@ -1783,7 +1783,7 @@
 		
 		
 		"labelText"		"#TF_ImportFile_AnimationProp"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"		"HudFontSmallestBold"
 	}
 
@@ -1823,7 +1823,7 @@
 				
 				
 				"labelText"		"#TF_ImportFile_AnimationSource"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 				"font"		"HudFontSmallestBold"
 			}
 			"ButtonAnimationSourceClear"
@@ -1839,7 +1839,7 @@
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				
 				"labelText"		""
 				"command"		"ClearAnimationSource"				
@@ -1873,7 +1873,7 @@
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				
 				"labelText"		""
 				"command"		"BrowseAnimationSource"				
@@ -1946,7 +1946,7 @@
 				
 				
 				"labelText"		"#TF_ImportFile_AnimationVCD"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 				"font"		"HudFontSmallestBold"
 			}
 			"ButtonAnimationVCDClear"
@@ -1962,7 +1962,7 @@
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				
 				"labelText"		""
 				"command"		"ClearAnimationVCD"				
@@ -1996,7 +1996,7 @@
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				
 				"labelText"		""
 				"command"		"BrowseAnimationVCD"				
@@ -2052,7 +2052,7 @@
 			"fieldName"		"AnimationLoopCheckButton"
 			"labelText"		"Loop"
 			"Font"			"HudFontSmallest"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			 
 			"ypos"			"140"
 			"wide"			"80"
@@ -2096,8 +2096,8 @@
 			////"visible"		"1"
 			"enabled"		"0"
 			"tabPosition"		"1"
-			"textHidden"		"0"
-			"editable"		"1"
+			//"textHidden"		"0"
+			//"editable"		"1"
 			"maxchars"		"128"
 			"NumericInputOnly"		"1"
 			"unicode"		"1"
@@ -2145,7 +2145,7 @@
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallestBold"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 				
 		"labelText"		"#TF_ImportFile_Browse"
 		"command"		"Load"				
@@ -2208,7 +2208,7 @@
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"BuildPreview"
-		"Default"		"1"
+		//"Default"		"1"
 		"font"		"HudFontSmallestBold"
 	}
 
@@ -2231,7 +2231,7 @@
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"BuildVerify"
-		"Default"		"1"
+		//"Default"		"1"
 		"font"		"HudFontSmallestBold"
 	}
 
@@ -2254,7 +2254,7 @@
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"BuildFinal"
-		"Default"		"1"
+		//"Default"		"1"
 		"font"		"HudFontSmallestBold"
 	}
 

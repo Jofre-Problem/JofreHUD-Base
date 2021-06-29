@@ -29,7 +29,7 @@
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		"mouseinputenabled"	"0"
 		"proportionaltoparent"	"1"
 
@@ -279,8 +279,8 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "Blank"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"TanDark"
 			"image_armedcolor"	"200 80 60 255"
@@ -316,7 +316,7 @@
 			
 			//"visible"			"1"
 			
-			"textHidden"		"0"
+			//"textHidden"		"0"
 			"editable"			"0"
 			"maxchars"			"-1"
 			"NumericInputOnly"	"0"
@@ -330,12 +330,12 @@
 				"visible"	"0"
 			}
 		
-			"fgcolor_override"	"235 226 202 255"
+			"fgcolor_override"	"TanLight"
 			"bgcolor_override"	"Blank"
 			"disabledFgColor_override" "235 226 202 255"
 			"disabledBgColor_override" "Blank"
 			"selectionColor_override" "Blank"
-			"selectionTextColor_override" "235 226 202 255"
+			"selectionTextColor_override" "TanLight"
 			"defaultSelectionBG2Color_override" "Blank"
 		}
 
@@ -345,7 +345,7 @@
 			"fieldName"		"PaintkitLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_ItemPreview_ItemPaintkit"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"8"
 			"ypos"			"10"
 			"wide"			"80"
@@ -381,7 +381,7 @@
 			
 			//"visible"			"1"
 			
-			"textHidden"		"0"
+			//"textHidden"		"0"
 			"editable"			"0"
 			"maxchars"			"-1"
 			"NumericInputOnly"	"0"
@@ -396,12 +396,12 @@
 
 			"proportionaltoparent"	"1"
 		
-			"fgcolor_override"	"235 226 202 255"
+			"fgcolor_override"	"TanLight"
 			"bgcolor_override"	"Blank"
 			"disabledFgColor_override" "TanDark"
 			"disabledBgColor_override" "Blank"
 			"selectionColor_override" "Blank"
-			"selectionTextColor_override" "235 226 202 255"
+			"selectionTextColor_override" "TanLight"
 			"defaultSelectionBG2Color_override" "Blank"
 		}
 
@@ -411,7 +411,7 @@
 			"fieldName"		"ItemLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_ItemPreview_ItemPreview"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"8"
 			"ypos"			"30"
 			"fixed_paintkit"
@@ -475,7 +475,7 @@
 			"fieldName"		"WearLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_ItemPreview_ItemWear"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"8"
 			"ypos"			"50"
 			"fixed_item"
@@ -563,7 +563,7 @@
 			
 			
 			"actionsignallevel" "2"
-			"default"		"1"
+			//"Default"		"1"
 			"NumericInputOnly"	"1"
 			"bgcolor_override"	"0 0 0 200"
 			"maxchars"		"18"

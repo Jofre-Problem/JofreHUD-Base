@@ -38,7 +38,7 @@
 			//"visible"		"1"
 			"bgcolor_override"		"Blank"
 			"PaintBackgroundType"	"0"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"skip_autoresize" "1"
 		}
@@ -48,13 +48,10 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayingTo"
-		"xpos"			"c-70"	[$WIN32]
-		"xpos"			"c-60"	[$X360]
-		"ypos"			"r28"	[$WIN32]
-		"ypos"			"r48"	[$X360]
+		"xpos"			"c-70"
+		"ypos"			"r28"
 		"zpos"			"4"
-		"wide"			"140"	[$WIN32]
-		"wide"			"120"	[$X360]
+		"wide"			"140"
 		"tall"			"30"
 		//"visible"		"1"
 		
@@ -85,15 +82,11 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayingToBG"
-		"xpos"			"c-75"	[$WIN32]
-		"xpos"			"c-70"	[$X360]
-		"ypos"			"r31"	[$WIN32]
-		"ypos"			"r51"	[$X360]
+		"xpos"			"c-75"
+		"ypos"			"r31"	
 		"zpos"			"3"
-		"wide"			"150"	[$WIN32]
-		"wide"			"140"	[$X360]
-		"tall"			"38"	[$WIN32]
-		"tall"			"35"	[$X360]
+		"wide"			"150"
+		"tall"			"38"
 		//"visible"		"1"
 		
 		"image"			"../hud/objectives_flagpanel_bg_playingto"
@@ -259,7 +252,7 @@
 					"tall"			"35"
 					//"visible"		"1"
 					
-					"textAlignment"	"west"	
+					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
 					"font"			"HudFontSmallBold"
 					"fgcolor"		"TanLight"		
@@ -277,7 +270,7 @@
 					"tall"			"35"
 					//"visible"		"1"
 					
-					"textAlignment"	"west"	
+					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
 					"font"			"HudFontSmallBold"
 					"fgcolor"		"Black"		
@@ -295,7 +288,7 @@
 					"tall"			"35"
 					//"visible"		"1"
 					
-					"textAlignment"	"west"	
+					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
 					"font"			"HudFontSmallBold"
 					"fgcolor"		"TanLight"		
@@ -317,7 +310,7 @@
 					"tall"			"35"
 					//"visible"		"1"
 					
-					"textAlignment"	"west"	
+					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
 					"font"			"HudFontSmallBold"
 					"fgcolor"		"Black"		
@@ -403,7 +396,7 @@
 					"tall"			"35"
 					//"visible"		"1"
 					
-					"textAlignment"	"west"	
+					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
 					"font"			"HudFontSmallBold"
 					"fgcolor"		"TanLight"		
@@ -421,7 +414,7 @@
 					"tall"			"35"
 					//"visible"		"1"
 					
-					"textAlignment"	"west"	
+					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
 					"font"			"HudFontSmallBold"
 					"fgcolor"		"Black"		
@@ -439,7 +432,7 @@
 					"tall"			"35"
 					//"visible"		"1"
 					
-					"textAlignment"	"west"	
+					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
 					"font"			"HudFontSmallBold"
 					"fgcolor"		"TanLight"		
@@ -461,7 +454,7 @@
 					"tall"			"35"
 					//"visible"		"1"
 					
-					"textAlignment"	"west"	
+					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
 					"font"			"HudFontSmallBold"
 					"fgcolor"		"Black"		
@@ -549,7 +542,7 @@
 				"tall"			"35"
 				//"visible"		"1"
 				
-				"textAlignment"	"west"	
+				//"textAlignment"	"west"	
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
 				//"font_hidef"	"HudFontGiant"
@@ -569,7 +562,7 @@
 				"tall"			"35"
 				//"visible"		"1"
 				
-				"textAlignment"	"west"	
+				//"textAlignment"	"west"	
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
 				//"font_hidef"	"HudFontGiant"

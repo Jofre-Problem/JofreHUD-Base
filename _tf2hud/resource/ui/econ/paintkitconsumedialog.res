@@ -269,7 +269,7 @@
 		"zpos"			"20"
 		"wide"			"140"
 		"tall"			"25"
-		"default"		"1"
+		//"Default"		"1"
 		
 		
 		////"visible"		"1"

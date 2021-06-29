@@ -13,8 +13,8 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"2"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 	"FirstNameEdit"
@@ -30,8 +30,8 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"3"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 	"LastNameEdit"
@@ -47,8 +47,8 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"4"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 	"EmailEdit"
@@ -64,8 +64,8 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 	"LastNameText"
@@ -82,7 +82,7 @@
 		
 		
 		"labelText"		"#TrackerUI_FirstName"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"FirstNameEdit"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -101,7 +101,7 @@
 		
 		
 		"labelText"		"#TrackerUI_UserName"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"UserNameEdit"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -120,7 +120,7 @@
 		
 		
 		"labelText"		"#TrackerUI_LastName"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"LastNameEdit"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -139,7 +139,7 @@
 		
 		
 		"labelText"		"#TrackerUI_EMailAddress"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"EmailEdit"
 		//"dulltext"		"0"
 		//"brighttext"		"0"

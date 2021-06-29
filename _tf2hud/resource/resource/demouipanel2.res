@@ -77,7 +77,7 @@
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"load"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"DemoGoStart"
 	{
@@ -93,7 +93,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"|<"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -114,7 +114,7 @@
 		"enabled"		"0"
 		
 		"labelText"		">|"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -134,7 +134,7 @@
 		"enabled"		"0"
 		
 		"labelText"		">>"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -154,7 +154,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"<<"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -174,7 +174,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"<"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -195,7 +195,7 @@
 		"enabled"		"0"
 		
 		"labelText"		">"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -230,7 +230,7 @@
 		
 		
 		"labelText"		"Tick: 0 / 0"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		"brighttext"		"1"
 		//"wrap"		"0"
@@ -249,7 +249,7 @@
 		
 		
 		"labelText"		"Time: 00:00 / 00:00"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		"brighttext"		"1"
 		//"wrap"		"0"
@@ -282,7 +282,7 @@
 		
 		
 		"labelText"		"100.0 %"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

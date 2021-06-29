@@ -70,7 +70,7 @@
 		"enabled"		"0"
 		"tabPosition"		"3"
 		"labelText"		"->"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"ArrowRight"
@@ -90,7 +90,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"<-"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"ArrowLeft"
@@ -110,7 +110,7 @@
 		
 		"tabPosition"		"5"
 		"labelText"		"Move up"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"ArrowUp"
@@ -130,11 +130,11 @@
 		
 		"tabPosition"		"6"
 		"labelText"		"Move down"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"ArrowDown"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"CancelButton"
 	{
@@ -150,7 +150,7 @@
 		
 		"tabPosition"		"8"
 		"labelText"		"Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"Cancel"
@@ -170,7 +170,7 @@
 		
 		"tabPosition"		"7"
 		"labelText"		"OK"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"OK"

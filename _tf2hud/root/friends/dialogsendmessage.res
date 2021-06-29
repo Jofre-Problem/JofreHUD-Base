@@ -36,13 +36,13 @@
 	}
 	"NameLabel"
 	{
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"labelText"		"test2"
 		
 		
 		////"visible"		"1"
 		"BgColor"		"70 70 70 255"
-		"FgColor"		"255 255 255 255"
+		"fgcolor"		"HUDWhite"
 		"tall"		"20"
 		"wide"		"148"
 		"ypos"		"32"
@@ -52,7 +52,7 @@
 	}
 	"InfoText"
 	{
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"labelText"		"#TrackerUI_MessageFrom"
 		
 		

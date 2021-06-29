@@ -13,7 +13,7 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"Label Tooltip"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"tooltiptext" "Test tooltip"
 
 	}
@@ -31,7 +31,7 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"RadioButton"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"default"		"0"
 		"tooltiptext" "Test tooltip two lines"
 	}
@@ -49,7 +49,7 @@
 		
 		
 		"labelText"		"CheckButton"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"tooltiptext" "Test radio button tooltip now we have three lines"
 
 	}
@@ -67,7 +67,7 @@
 		
 		
 		"labelText"		"Label Tooltip 4"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"tooltiptext" "Test radio button tooltip now we have three lines and here is four"
 
 	}
@@ -85,7 +85,7 @@
 		
 		
 		"labelText"		"Label Tooltip 5"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"tooltiptext" "Test radio button tooltip now we have three lines and here is five lines"
 	}
 
@@ -102,7 +102,7 @@
 		
 		
 		"labelText"		"Label Tooltip 6"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"tooltiptext" "Test radio button tooltip now we have three lines and here is five lines go to six lines"
 	}
 
@@ -119,7 +119,7 @@
 		
 		
 		"labelText"		"ToggleButton"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"tooltiptext" "This button has had its tool tip text forced to be on one line only."
 	}
 
@@ -136,7 +136,7 @@
 		
 		
 		"labelText"		"AnimatingImage"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"tooltiptext" "Test radio button tooltip now we have three lines and here is five lines go to six lines lets go to seven lets go to eight"
 	}
 

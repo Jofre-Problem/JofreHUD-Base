@@ -34,7 +34,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	
 	"UserNameLabel"
@@ -43,7 +43,7 @@
 		"fieldName"		"UserNameLabel"
 		"font"			"EconFontSmall"
 		"labelText"		"#YouTube_LoginDlg_UserName"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"10"
 		"ypos"			"50"
 		"zpos"			"1"
@@ -61,7 +61,7 @@
 		"fieldName"		"UserNameTextEntry"
 		"maxchars"		"255"
 		"textHidden"	"0"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"unicode"		"1"
 		//"wrap"			"0"
 		"xpos"			"10"
@@ -85,7 +85,7 @@
 		"fieldName"		"PasswordLabel"
 		"font"			"EconFontSmall"
 		"labelText"		"#YouTube_LoginDlg_Password"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"10"
 		"ypos"			"100"
 		"zpos"			"1"
@@ -102,7 +102,7 @@
 		"ControlName"	"TextEntry"
 		"fieldName"		"PasswordTextEntry"
 		"maxchars"		"255"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"unicode"		"1"
 		//"wrap"			"0"
 		"xpos"			"10"
@@ -155,7 +155,7 @@
 		"zpos"			"20"
 		"wide"			"95"
 		"tall"			"25"
-		"default"		"1"
+		//"Default"		"1"
 		
 		
 		////"visible"		"1"

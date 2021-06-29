@@ -43,7 +43,7 @@
 		
 		"paintbackground"		"1"
 		"borderset"		"LabelDull"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"labelText"		"#ServerBrowser_Workshop"
 	}
@@ -66,11 +66,11 @@
 		}
 		
 		"paintbackground"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"Divider2"
 	{
@@ -102,7 +102,7 @@
 		
 		"paintbackground"		"1"
 		"borderset"		"LabelDull"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"labelText"		"#ServerBrowser_Tags"
 	}
@@ -124,11 +124,11 @@
 		
 		
 		"paintbackground"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 
 	"TagFilter"
@@ -150,11 +150,11 @@
 		//"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 
 	"AddTagList"
@@ -170,10 +170,10 @@
 		//"visible"		"1"
 		
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 }

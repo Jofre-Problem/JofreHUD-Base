@@ -16,9 +16,9 @@
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"46 43 42 255"
-		"infocus_bgcolor_override" "46 43 42 255"
-		"outoffocus_bgcolor_override" "46 43 42 255"
+		"bgcolor_override"	"TanDarker"
+		"infocus_bgcolor_override" "TanDarker"
+		"outoffocus_bgcolor_override" "TanDarker"
 
 		"item_ypos"						"50"
 		"output_item_ypos"				"255"		
@@ -110,7 +110,7 @@
 			"fieldName"		"RecipeTitle"
 			"font"			"ItemFontNameLarge"
 			"labelText"		"%recipetitle%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			
 			"ypos"			"2"
 			"zpos"			"1"
@@ -166,7 +166,7 @@
 			"fieldName"		"UntradableLabel"
 			"font"			"HudFontSmallBold"
 			"labelText"		"#Dynamic_Recipe_Outputs_Not_Tradable"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			
 			"ypos"			"296"
 			"zpos"			"1"
@@ -243,7 +243,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "LightRed"
 		}
 		"NextInputPageButton"
 		{
@@ -288,7 +288,7 @@
 			"fieldName"		"NoMatches"
 			"font"			"HudFontSmallBold"
 			"labelText"		"#Dynamic_Recipe_No_Matching_Items"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			
 			"ypos"			"125"
 			"zpos"			"1"
@@ -308,7 +308,7 @@
 			"fieldName"		"UntradableCheckBox"
 			"labelText"		"#Dynamic_Recipe_Untradable_Checkbox"
 			"Font"			"HudFontSmallestBold"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"-4"
 			"ypos"			"2"
 			"zpos"			"1"
@@ -329,7 +329,7 @@
 			"fieldName"		"BackpackItems"
 			"font"			"HudFontSmallBold"
 			"labelText"		"#Dynamic_Recipe_Matching_Items"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			
 			"ypos"			"30"
 			"zpos"			"1"
@@ -407,7 +407,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "LightRed"
 		}
 		"NextPageButton"
 		{

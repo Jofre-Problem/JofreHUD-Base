@@ -63,7 +63,7 @@
 		
 		
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -78,7 +78,7 @@
 		
 		
 		"labelText"		""		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -93,7 +93,7 @@
 		
 		
 		"labelText"		""		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -108,7 +108,7 @@
 		
 		
 		"labelText"		""		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -123,7 +123,7 @@
 		
 		
 		"labelText"		""		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -138,7 +138,7 @@
 		
 		
 		"labelText"		""		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -153,7 +153,7 @@
 		
 		
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -168,7 +168,7 @@
 		
 		
 		"labelText"		""		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -183,7 +183,7 @@
 		
 		
 		"labelText"		""		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -198,7 +198,7 @@
 		
 		
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -213,7 +213,7 @@
 		
 		
 		"labelText"		""		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -228,7 +228,7 @@
 		
 		
 		"labelText"		""		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"visible"		"1"
 		
 	}
@@ -256,7 +256,7 @@
 		
 		"tabPosition"		"21"
 		"labelText"		"#Spades_DealNextHand"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}    
 	
 	"GameTablePanel"
@@ -660,7 +660,7 @@
 		
 		"tabPosition"		"2"
 		"labelText"		"#Spades_DoubleNILBid"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}	
 	
 	"ShowCardsButton"
@@ -677,7 +677,7 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"#Spades_ShowCards"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}    
 	
 	"Bid01Button"
@@ -694,7 +694,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"1"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	} 
@@ -712,7 +712,7 @@
 		
 		"tabPosition"		"5"
 		"labelText"		"2"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	} 
@@ -730,7 +730,7 @@
 		
 		"tabPosition"		"6"
 		"labelText"		"3"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	} 
@@ -748,7 +748,7 @@
 		
 		"tabPosition"		"7"
 		"labelText"		"4"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	} 
@@ -766,7 +766,7 @@
 		
 		"tabPosition"		"8"
 		"labelText"		"5"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	} 
@@ -784,7 +784,7 @@
 		
 		"tabPosition"		"9"
 		"labelText"		"6"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	} 
@@ -802,7 +802,7 @@
 		
 		"tabPosition"		"10"
 		"labelText"		"7"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	} 
 	"Bid08Button"
 	{
@@ -818,7 +818,7 @@
 		
 		"tabPosition"		"11"
 		"labelText"		"8"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	} 
 	"Bid09Button"
 	{
@@ -834,7 +834,7 @@
 		
 		"tabPosition"		"12"
 		"labelText"		"9"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	} 
 	"Bid10Button"
 	{
@@ -850,7 +850,7 @@
 		
 		"tabPosition"		"13"
 		"labelText"		"10"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	} 
 	"Bid11Button"
 	{
@@ -866,7 +866,7 @@
 		
 		"tabPosition"		"14"
 		"labelText"		"11"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	} 
 	"Bid12Button"
 	{
@@ -882,7 +882,7 @@
 		
 		"tabPosition"		"15"
 		"labelText"		"12"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	} 
 	"Bid13Button"
 	{
@@ -898,7 +898,7 @@
 		
 		"tabPosition"		"16"
 		"labelText"		"13"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	} 
 	"NilBidButton"
 	{
@@ -914,7 +914,7 @@
 		
 		"tabPosition"		"17"
 		"labelText"		"#Spades_NIL"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}  
 	"ShowScoreBtn"
 	{
@@ -930,7 +930,7 @@
 		
 		"tabPosition"		"18"
 		"labelText"		"#SteamAddOn_ShowScore"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}		     
 	"LastTrickBtn"
@@ -947,7 +947,7 @@
 		"enabled"		"0"
 		"tabPosition"		"19"
 		"labelText"		"#SteamAddOn_LastTrick"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}		     
 	"LastTrickLabel"
@@ -964,7 +964,7 @@
 		
 		
 		"labelText"		"#SteamAddOn_LastTrick"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}		     	
 	"ChatTextLog"
@@ -980,10 +980,10 @@
 		//"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"TextEntry"
 	{
@@ -998,8 +998,8 @@
 		//"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"500"
 	}
 	"SendBtn"
@@ -1016,8 +1016,8 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#SteamAddOn_Btn_Send"
-		"textAlignment"		"west"
-		"Default"		"1"
+		//"textAlignment"		"west"
+		//"Default"		"1"
 	}	
 	"LastMessageLabel"
 	{
@@ -1033,7 +1033,7 @@
 		
 		
 		"labelText"		"Last message received at:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"dulltext"		"1"
 		//"brighttext"		"0"
 	}

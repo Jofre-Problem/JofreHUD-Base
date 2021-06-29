@@ -30,7 +30,7 @@
 		//"wrap"			"0"
 		"labelText"		"#TF_CheatDetected_Title"
 		"textAlignment"		"North"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	"ExplanationLabel"
 	{	
@@ -69,7 +69,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"close"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

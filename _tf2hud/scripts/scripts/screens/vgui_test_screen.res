@@ -70,7 +70,7 @@
 		//"brighttext"	"0"
 		"Default"		"0"
 		"command"		"Dismantle"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 
 		"enabledImage"
 		{

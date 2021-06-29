@@ -9,8 +9,8 @@
 		"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"500"
 		"unicode"		"1"
 	}

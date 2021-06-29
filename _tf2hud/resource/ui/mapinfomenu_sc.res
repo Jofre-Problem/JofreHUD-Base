@@ -32,7 +32,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"%mapname%"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"font"			"ChalkboardTitle"
 		"fgcolor"		"White"
 	}
@@ -54,7 +54,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"%gamemode%"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"font"			"ChalkboardText"
 		"fgcolor"		"Gray"
 	}	
@@ -80,7 +80,7 @@
 		
 		////"visible"		"1"
 		
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		"textAlignment"	"northwest"
 		"fgcolor"		"Gray"
 	}
@@ -130,7 +130,7 @@
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		"command"		"continue"
-		"default"		"1"
+		//"Default"		"1"
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
 	}
@@ -175,7 +175,7 @@
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		"command"		"intro"
-		"default"		"1"
+		//"Default"		"1"
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
 	}

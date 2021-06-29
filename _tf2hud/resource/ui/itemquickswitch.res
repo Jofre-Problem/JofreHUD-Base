@@ -16,7 +16,7 @@
 		"settitlebarvisible"	"0"
 		
 		"PaintBackgroundType"	"2"
-		"bgcolor_override"	"46 43 42 255"
+		"bgcolor_override"	"TanDarker"
 		
 		"itempanel_xpos"	"0"
 		"itempanel_ydelta"	"0"
@@ -27,7 +27,7 @@
 			"tall"			"40"
 			"bgcolor_override"		"59 54 48 255"
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			"text_forcesize" "2"
 			
 			"model_xpos"	"25"
@@ -50,7 +50,7 @@
 		"fieldName"		"CaratLabel"
 		"font"			"HudFontSmallestBold"
 		"labelText"		">>"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"5"
 		"ypos"			"5"
 		"zpos"			"1"
@@ -60,7 +60,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	"ClassLabel"
 	{
@@ -68,7 +68,7 @@
 		"fieldName"		"ClassLabel"
 		"font"			"HudFontSmallestBold"
 		"labelText"		"#ClassBeingEquipped"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"20"
 		"ypos"			"5"
 		"zpos"			"1"
@@ -86,7 +86,7 @@
 		"fieldName"		"ItemSlotLabel"
 		"font"			"HudFontSmallestBold"
 		"labelText"		"#PrimaryWeapon"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"80"
 		"ypos"			"5"
 		"zpos"			"1"
@@ -153,7 +153,7 @@
 			"tall"			"40"
 			////"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "LightRed"
 			"bgcolor_override"	"Blank"
 		}
 	}
@@ -174,7 +174,7 @@
 		
 		"visible"		"0"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	
 	"loadout_preset_panel"

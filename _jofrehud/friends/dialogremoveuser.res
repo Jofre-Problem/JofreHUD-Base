@@ -55,7 +55,7 @@
 	//	
 	//	"tabPosition"		"2"
 		"labelText"		"#TrackerUI_RemoveUser"
-	//	"textAlignment"		"west"
+	//	//"textAlignment"		"west"
 	//	//"dulltext"		"0"
 	//	//"brighttext"		"0"
 	//	"Command"		"OK"
@@ -83,7 +83,7 @@
 	//	
 		
 		"labelText"		"You are about to remove johnc from your contact list."
-	//	"textAlignment"		"west"
+	//	//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}	

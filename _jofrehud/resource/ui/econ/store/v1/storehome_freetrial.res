@@ -17,9 +17,9 @@
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"46 43 42 255"
-		"infocus_bgcolor_override" "46 43 42 255"
-		"outoffocus_bgcolor_override" "46 43 42 255"
+		"bgcolor_override"	"TanDarker"
+		"infocus_bgcolor_override" "TanDarker"
+		"outoffocus_bgcolor_override" "TanDarker"
 		
 		"item_panels"			"0"
 		
@@ -37,7 +37,7 @@
 			"bgcolor_override"		"Black"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"18"
 			"model_ypos"	"5"
@@ -235,7 +235,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"startshopping"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -272,7 +272,7 @@
 			"fieldName"		"FreeTrialTitle"
 			"font"			"HudFontMediumBold"
 			"labelText"		"#Store_FreeTrial_Title"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"10"
 			
 			"zpos"			"2"
@@ -289,7 +289,7 @@
 			"fieldName"		"FreeTrialTitleShadow"
 			"font"			"HudFontMediumBold"
 			"labelText"		"#Store_FreeTrial_Title"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"12"
 			"ypos"			"2"
 			"zpos"			"1"
@@ -342,7 +342,7 @@
 			"fieldName"		"FreeTrialPoint1"
 			"font"			"HudFontSmall"
 			"labelText"		"#Store_FreeTrial_Point1"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"24"
 			"ypos"			"88"
 			"zpos"			"2"
@@ -376,7 +376,7 @@
 			"fieldName"		"FreeTrialPoint2"
 			"font"			"HudFontSmall"
 			"labelText"		"#Store_FreeTrial_Point2"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"24"
 			"ypos"			"104"
 			"zpos"			"2"
@@ -410,7 +410,7 @@
 			"fieldName"		"FreeTrialPoint3"
 			"font"			"HudFontSmall"
 			"labelText"		"#Store_FreeTrial_Point4"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"24"
 			"ypos"			"120"
 			"zpos"			"2"
@@ -474,7 +474,7 @@
 			
 			//"visible"		"1"
 			
-			"fgcolor"		"178 82 22 255"
+			"fgcolor"		"Orange"
 		}
 		
 		"BonusTextLabel"

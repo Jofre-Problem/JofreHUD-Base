@@ -23,9 +23,9 @@
 	//	
 		"tabPosition"		"2"
 		"paintbackground"		"1"
-	//	"textAlignment"		"west"
+	//	//"textAlignment"		"west"
 	//	//"wrap"		"0"
 	//	"Command"		"OK"
-	//	"Default"		"1"
+	//	//"Default"		"1"
 	}
 }

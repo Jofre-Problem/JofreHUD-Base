@@ -24,7 +24,7 @@
 	//	"tabPosition"		"3"
 	//	"paintbackground"		"1"
 	//	"labelText"		"#vgui_Cancel"
-	//	"textAlignment"		"west"
+	//	//"textAlignment"		"west"
 	//	//"wrap"		"0"
 	//	"Command"		"Close"
 	//	"Default"		"0"

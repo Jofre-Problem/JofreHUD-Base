@@ -15,7 +15,7 @@
 		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_LastMessageReceived"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"		"DefaultSmall"
 		//"wrap"		"0"
 	}

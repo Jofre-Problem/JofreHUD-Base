@@ -28,7 +28,7 @@
 			
 			"tabPosition"	"1"
 			"labelText"		"Wireframe"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 			"Default"		"0"
@@ -48,7 +48,7 @@
 			
 			"tabPosition"	"2"
 			"labelText"		"Collision Model"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 			"Default"		"0"
@@ -68,7 +68,7 @@
 			
 			"tabPosition"	"3"
 			"labelText"		"No Ground"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 			"Default"		"0"
@@ -88,7 +88,7 @@
 			
 			"tabPosition"	"4"
 			"labelText"		"Lock View"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 			"Default"		"0"
@@ -109,7 +109,7 @@
 			"selected"		"1"
 			"tabPosition"	"5"
 			"labelText"		"Look At Camera"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 			"Default"		"0"

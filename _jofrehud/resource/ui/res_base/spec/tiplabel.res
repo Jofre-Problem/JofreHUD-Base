@@ -20,8 +20,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"%tip%"
-		"textAlignment"		"center"	[$WIN32]
-		"textAlignment"		"north-west"	[$X360]
+		"textAlignment"		"center"
 		"font"			"SpectatorKeyHints"
 		//"font_hidef"	"HudFontSmall"
 		//"font_lodef"	"DefaultVerySmall"

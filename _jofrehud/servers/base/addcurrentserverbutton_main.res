@@ -13,7 +13,7 @@
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddCurrentServer"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Command"		"AddCurrentServer"
 		"Default"		"0"

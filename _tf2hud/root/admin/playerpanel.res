@@ -42,7 +42,7 @@
 		"enabled"		"0"
 		"tabPosition"		"2"
 		"labelText"		"#Player_Panel_Kick"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -62,11 +62,11 @@
 		"enabled"		"0"
 		"tabPosition"		"3"
 		"labelText"		"#Player_Panel_Ban"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"ServerContextMenu"
 	{
@@ -97,7 +97,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"#Player_Panel_Chat"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -117,7 +117,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"#Player_Panel_Slap"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

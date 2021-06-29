@@ -74,7 +74,7 @@
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"yes"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"No"
 	{

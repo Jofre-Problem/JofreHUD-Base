@@ -60,7 +60,7 @@
 			"fieldName"		"HeaderText"
 			"font"			"HudFontSmallestBold"
 			"labelText"		"#Store_FreeTrial_UpgradeCalloutHeader"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"10"
 			"ypos"			"2"
 			"wide"			"210"
@@ -85,7 +85,7 @@
 			"tall"			"5"
 			"visible"		"1"
 			
-			"fgcolor"		"178 82 22 255"
+			"fgcolor"		"Orange"
 		}				
 		"FreeTrialPoint1"
 		{
@@ -93,7 +93,7 @@
 			"fieldName"		"FreeTrialPoint1"
 			"font"			"HudFontSmallest"
 			"labelText"		"#Store_FreeTrial_Point1"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"24"
 			"ypos"			"38"
 			"zpos"			"2"
@@ -119,7 +119,7 @@
 			"tall"			"5"
 			"visible"		"1"
 			
-			"fgcolor"		"178 82 22 255"
+			"fgcolor"		"Orange"
 		}				
 		"FreeTrialPoint2"
 		{
@@ -127,7 +127,7 @@
 			"fieldName"		"FreeTrialPoint2"
 			"font"			"HudFontSmallest"
 			"labelText"		"#Store_FreeTrial_Point2"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"24"
 			"ypos"			"54"
 			"zpos"			"2"
@@ -153,7 +153,7 @@
 			"tall"			"5"
 			"visible"		"1"
 			
-			"fgcolor"		"178 82 22 255"
+			"fgcolor"		"Orange"
 		}				
 		"FreeTrialPoint3"
 		{
@@ -161,7 +161,7 @@
 			"fieldName"		"FreeTrialPoint3"
 			"font"			"HudFontSmallest"
 			"labelText"		"#Store_FreeTrial_Point4"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"24"
 			"ypos"			"70"
 			"zpos"			"2"
@@ -187,7 +187,7 @@
 			"tall"			"5"
 			"visible"		"1"
 			
-			"fgcolor"		"178 82 22 255"
+			"fgcolor"		"Orange"
 		}				
 		"FreeTrialPoint4"
 		{
@@ -225,7 +225,7 @@
 			
 			"visible"		"1"
 			
-			"fgcolor"		"178 82 22 255"
+			"fgcolor"		"Orange"
 		}
 		
 		"Plus2Label"

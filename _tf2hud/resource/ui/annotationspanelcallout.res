@@ -9,7 +9,7 @@
 			"down"		"../hud/freezecam_callout_arrow"
 		}
 		
-//		"bgcolor_override"	"255 0 0 255"
+//		"bgcolor_override"	"HUDDeathWarning"
 //		"PaintBackgroundType"	"1"
 	}
 	

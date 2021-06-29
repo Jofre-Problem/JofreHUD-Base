@@ -29,11 +29,11 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_MuteIngameVoice"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"Mute"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"PlayerList"
 	{
@@ -63,7 +63,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_Close"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"Close"

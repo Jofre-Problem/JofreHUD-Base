@@ -29,7 +29,7 @@
 			"NumericInputOnly" "1"
 			
 			"labelText"			"Width:"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -49,7 +49,7 @@
 			"NumericInputOnly" "1"
 			"tabPosition"		"1"
 			"labelText"			""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -69,7 +69,7 @@
 			"NumericInputOnly" "1"
 			
 			"labelText"			"Height:"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -89,7 +89,7 @@
 			"NumericInputOnly" "1"
 			"tabPosition"		"3"
 			"labelText"			"Color"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -109,7 +109,7 @@
 			"NumericInputOnly" "1"
 			
 			"labelText"			"Background:"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -127,7 +127,7 @@
 			
 			"tabPosition"	"5"
 			"labelText"		""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 			"Default"		"0"
@@ -148,7 +148,7 @@
 			"NumericInputOnly" "1"
 			
 			"labelText"			"Output:"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -168,7 +168,7 @@
 			"NumericInputOnly" "1"
 			
 			"labelText"			"."
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -228,7 +228,7 @@
 			"NumericInputOnly" "1"
 			
 			"labelText"			""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -268,7 +268,7 @@
 			"NumericInputOnly" "1"
 			
 			"labelText"			"Control Key on Capture for Specific Item Only."
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -288,7 +288,7 @@
 			"NumericInputOnly" "1"
 			
 			"labelText"			"Control Key on Restore for Specific Prefs Only."
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -308,7 +308,7 @@
 			"NumericInputOnly" "1"
 			
 			"labelText"			"Right Click on Model List to select Attachment."
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -328,7 +328,7 @@
 			"NumericInputOnly" "1"
 			
 			"labelText"			"Control Key on Model List to Clear Attachment."
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -389,7 +389,7 @@
 			"NumericInputOnly" "1"
 			
 			"labelText"			"Backpack Output Name Suffix:"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}
@@ -408,7 +408,7 @@
 			
 			"tabPosition"		"1"
 			"labelText"			""
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"dulltext"			"0"
 			//"brighttext"		"0"
 		}

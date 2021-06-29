@@ -183,7 +183,7 @@
 		
 		////"visible"		"1"
 		
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
@@ -207,7 +207,7 @@
 		
 		////"visible"		"1"
 		
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
@@ -650,7 +650,7 @@
 		"ypos"			"7"
 		"wide"		"0"
 		"tall"		"15"
-		"fillcolor"	"255 255 255 255"
+		"fillcolor"	"White"
 		"zpos"	"20"
 		"visible"		"0"
 		
@@ -3175,7 +3175,7 @@
 		"wide"				"240"
 		//"tall_hidef"		"40"
 		"ControlName"		"Label"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"				"MatchmakingDialogMenuLarge"
 		//"font_lodef"		"MatchmakingDialogMenuSmall"
 		"labeltext"			"#GameUI_Select"
@@ -3205,7 +3205,7 @@
 		"wide"				"240"
 		//"tall_hidef"		"40"
 		"ControlName"		"Label"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"				"MatchmakingDialogMenuLarge"
 		//"font_lodef"		"MatchmakingDialogMenuSmall"
 		"labeltext"			"#GameUI_Back"
@@ -3582,7 +3582,7 @@
 		"zpos"				"7"
 		"wide"				"240"
 		"ControlName"		"Label"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"				"MatchmakingDialogMenuLarge"
 		//"font_lodef"		"MatchmakingDialogMenuSmall"
 		"labeltext"			"#GameUI_Select"
@@ -3612,7 +3612,7 @@
 		"zpos"				"8"
 		"wide"				"240"
 		"ControlName"		"Label"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"				"MatchmakingDialogMenuLarge"
 		//"font_lodef"		"MatchmakingDialogMenuSmall"
 		"labeltext"			"#GameUI_Back"
@@ -4201,7 +4201,7 @@
 		
 		//"visible"			"1"
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 	
 	// unused, just used to anchor layout params

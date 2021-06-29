@@ -69,7 +69,7 @@
 		
 		
 		"labelText"		"#TF_RocketPack_Disabled"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"HudFontSmallest"

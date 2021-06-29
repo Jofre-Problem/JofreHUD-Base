@@ -14,7 +14,7 @@
 		"paintborder"		"1"		
 		"border"		"SteamWorkshopBorder"
 		"paintbackground"	"1"
-		"bgcolor_override"	"46 43 42 255"
+		"bgcolor_override"	"TanDarker"
 		"model_ypos"			"18"
 		"model_center_x"		"1"
 		"model_wide"			"70"

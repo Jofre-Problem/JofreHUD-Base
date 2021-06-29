@@ -10,7 +10,7 @@
 		"visible"		"1"
 		
 		
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"brighttext"	"0"
 	}
 }	

@@ -29,7 +29,7 @@
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_HeaderSpecialEvent"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"font"			"HudFontMediumBigBold"
 		"fgcolor_override"	"TanDark"
 		
@@ -47,7 +47,7 @@
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		"%title%"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"font"			"HudFontMediumSmallBold"
 		"fgcolor_override"	"Orange"
 		

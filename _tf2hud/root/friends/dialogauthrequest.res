@@ -29,7 +29,7 @@
 		
 		
 		"labelText"		"#TrackerUI_DoYouWantTo"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"dulltext"		"1"
 		//"brighttext"		"0"
 	}
@@ -48,7 +48,7 @@
 		
 		"labelText"		"test4 wishes to add you to his/her contact list.
 test4@testers.com"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -66,7 +66,7 @@ test4@testers.com"
 		
 		"tabPosition"		"1"
 		"labelText"		"#TrackerUI_AllowPersonToSeeYou"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"accept"
@@ -87,7 +87,7 @@ test4@testers.com"
 		
 		"tabPosition"		"1"
 		"labelText"		"#TrackerUI_BlockThisPerson"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"decline"
@@ -108,11 +108,11 @@ test4@testers.com"
 		
 		"tabPosition"		"2"
 		"labelText"		"#TrackerUI_OK"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"OK"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"CancelButton"
 	{
@@ -128,7 +128,7 @@ test4@testers.com"
 		
 		"tabPosition"		"3"
 		"labelText"		"#TrackerUI_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"Cancel"

@@ -72,7 +72,7 @@
 		"labelText"			"%limit%"
 		"font"			"QuestMap_Medium"
 		//"textinsetx"		"0"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"mouseinputenabled"		"0"
 		"proportionaltoparent"	"1"
 		"paintbackground"	"1"

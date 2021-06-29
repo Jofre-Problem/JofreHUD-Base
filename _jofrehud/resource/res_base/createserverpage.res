@@ -28,11 +28,11 @@
 		"visible"		"1"
 		
 		"tabPosition"		"5"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"MapLabel"
 	{
@@ -46,7 +46,7 @@
 	//	
 	//	
 		"labelText"		"#GameUI_Map"
-	//	"textAlignment"		"west"
+	//	//"textAlignment"		"west"
 		"associate"		"MapList"
 		//"dulltext"		"0"
 		//"brighttext"		"0"

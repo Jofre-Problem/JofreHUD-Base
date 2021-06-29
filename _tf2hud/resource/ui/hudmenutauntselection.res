@@ -100,7 +100,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Taunt_Weapon"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 	}

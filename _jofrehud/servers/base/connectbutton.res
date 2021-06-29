@@ -15,9 +15,9 @@
 		"tabPosition"		"1"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Connect"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Command"		"connect"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 }

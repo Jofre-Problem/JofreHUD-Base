@@ -153,7 +153,7 @@
 				////"visible"		"1"
 				
 				
-				"default"		"1"
+				//"Default"		"1"
 				"labelText"		""
 				"command"		"addpremium"
 				"proportionaltoparent"	"1"
@@ -236,7 +236,7 @@
 				////"visible"		"1"
 				
 				
-				"default"		"1"
+				//"Default"		"1"
 				"labelText"		""
 				"command"		"addphone"
 				"proportionaltoparent"	"1"
@@ -338,7 +338,7 @@
 				////"visible"		"1"
 				
 				
-				"default"		"1"
+				//"Default"		"1"
 				"labelText"		""
 				"command"		"open_casual"
 				"proportionaltoparent"	"1"

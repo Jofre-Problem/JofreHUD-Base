@@ -12,7 +12,7 @@
 			"tall"			"58"
 			//"visible"		"1"
 			
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			"PaintBackgroundType"	"2"
 			"paintbackground"	"1"
 			"bgcolor_override" "50 46 41 255"

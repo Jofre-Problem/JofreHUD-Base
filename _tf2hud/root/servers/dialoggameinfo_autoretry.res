@@ -29,11 +29,11 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#ServerBrowser_JoinGame"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"1"
+		//"Default"		"1"
 		"selected"		"0"
 	}
 	"Close"
@@ -50,7 +50,7 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"#ServerBrowser_Close"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -71,7 +71,7 @@
 		
 		"tabPosition"		"2"
 		"labelText"		"#ServerBrowser_Refresh"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -92,7 +92,7 @@
 		
 		
 		"labelText"		"#ServerBrowser_AlertWhenSlotIsFree"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -111,7 +111,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"#ServerBrowser_AutoRetry"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -132,7 +132,7 @@
 		
 		
 		"labelText"		"#ServerBrowser_AlertMeWhenSlotOpens"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -154,7 +154,7 @@
 		
 		
 		"labelText"		"#ServerBrowser_JoinWhenSlotOpens"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -319,7 +319,7 @@
 		
 		
 		"labelText"		"test"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -338,7 +338,7 @@
 		
 		
 		"labelText"		"Day of Defeat: Source"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -356,11 +356,11 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"MapText"
 	{
@@ -376,7 +376,7 @@
 		
 		
 		"labelText"		"dod_anzio"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -395,7 +395,7 @@
 		
 		
 		"labelText"		"2 / 2"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -414,7 +414,7 @@
 		
 		
 		"labelText"		"12"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -452,7 +452,7 @@
 		
 		
 		"labelText"		"#ServerBrowser_Secure"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

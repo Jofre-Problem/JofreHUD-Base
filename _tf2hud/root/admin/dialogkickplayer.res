@@ -75,11 +75,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"3"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"Okay"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"CancelButton"
 	{
@@ -95,7 +95,7 @@
 		
 		"tabPosition"		"2"
 		"labelText"		"#Cancel_Button"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"Close"

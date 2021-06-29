@@ -14,7 +14,7 @@
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_RefreshQuick"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Command"		"refresh"
 		"Default"		"0"

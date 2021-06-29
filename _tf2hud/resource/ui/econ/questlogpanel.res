@@ -85,7 +85,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor_override"	"235 226 202 255"
+			"fgcolor_override"	"TanLight"
 			"wrap"			"1"
 			"centerwrap"	"1"
 		}
@@ -173,9 +173,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -245,7 +245,7 @@
 			"tall"			"30"
 			////"visible"		"1"
 			"PaintBackgroundType"	"0"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			"proportionaltoparent"	"1"
 		
 			"model_xpos"	"0"
@@ -273,7 +273,7 @@
 			"fieldName"		"BadgeProgressLabel"
 			"font"			"AdFont_AdText"
 			"labelText"		"#QuestLog_BadgeProgress"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"p.15"
 			
 			"zpos"			"2"
@@ -353,7 +353,7 @@
 			"fieldName"		"ContractsCompletedLabel"
 			"font"			"AdFont_AdText"
 			"labelText"		"#QuestLog_ContractsCompleted"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"p.57"
 			
 			"zpos"			"2"

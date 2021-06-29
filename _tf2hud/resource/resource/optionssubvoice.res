@@ -79,7 +79,7 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_EnableVoice"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -98,7 +98,7 @@
 		
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_BoostMicrophone"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -118,7 +118,7 @@
 		
 		"associate"		"#GameUI_MicrophoneVolume"
 		"labelText"		"#GameUI_VoiceTransmitVolume"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -136,7 +136,7 @@
 		
 		
 		"labelText"		"#GameUI_VoiceReceiveVolume"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"VoiceReceive"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -155,7 +155,7 @@
 		
 		
 		"labelText"		"40"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -173,7 +173,7 @@
 		
 		
 		"labelText"		"176"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -191,7 +191,7 @@
 		
 		
 		"labelText"		"176"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -209,7 +209,7 @@
 		
 		
 		"labelText"		"176"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -227,7 +227,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_TestMicrophone"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"TestMicrophone"
@@ -247,7 +247,7 @@
 		
 		
 		"labelText"		"#GameUI_Miles_Voice"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"dulltext"		"1"
 		//"brighttext"		"0"
 		"wrap"			"1"

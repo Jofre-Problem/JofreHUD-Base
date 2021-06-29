@@ -13,7 +13,7 @@
 		
 		"visible"		"0"
 		
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		"image"			"animated/tf2_logo_hourglass"
 		"scaleImage"	"1"
 	}
@@ -31,7 +31,7 @@
 			"bgcolor_override"		"0 0 0 200"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			"useparentbg"	"0"
 		
 			

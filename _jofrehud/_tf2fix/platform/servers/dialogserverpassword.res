@@ -68,10 +68,10 @@
 		
 		"tabPosition"		"1"
 		"textHidden"		"1"
-		"editable"		"1"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"ConnectButton"
 	{
@@ -87,12 +87,12 @@
 		
 		"tabPosition"		"2"
 		"labelText"		"#ServerBrowser_Connect"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Connect"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"PasswordLabel"
 	{
@@ -128,7 +128,7 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"#ServerBrowser_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

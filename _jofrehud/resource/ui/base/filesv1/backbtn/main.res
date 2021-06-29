@@ -9,7 +9,7 @@
 		"tall"		"24"
 		
 		"labelText"		"#GameUI_Back"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

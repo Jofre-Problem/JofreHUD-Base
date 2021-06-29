@@ -28,10 +28,10 @@
 		"enabled"		"0"
 		"tabPosition"		"2"
 		"labelText"		"#TrackerUI_Send"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
-		"default"		"1"
+		//"Default"		"1"
 	}
 	"NameLabel"
 	{
@@ -47,7 +47,7 @@
 		
 		
 		"labelText"		"#TrackerUI_ToJohnC"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -64,7 +64,7 @@
 		////"visible"		"1"
 		
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -81,8 +81,8 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"unicode"		"1"
 		"maxchars"		"500"
 	}
@@ -99,7 +99,7 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
 	}
@@ -117,7 +117,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"#TrackerUI_Invite"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"default"		"0"

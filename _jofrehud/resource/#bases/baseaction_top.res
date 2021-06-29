@@ -14,7 +14,7 @@
 		
 		
 		"labelText"		"94"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -32,7 +32,7 @@
 		
 		
 		"labelText"		"2"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -50,7 +50,7 @@
 		
 		
 		"labelText"		"2"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -68,7 +68,7 @@
 		
 		
 		"labelText"		"2"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}

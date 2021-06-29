@@ -69,7 +69,7 @@
 		"tall"			"35"
 		////"visible"		"1"
 		
-		"textAlignment"	"west"	
+		//"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
 		"font"			"HudFontBig"
 		"fgcolor"		"TanLight"
@@ -86,7 +86,7 @@
 		"tall"			"35"
 		////"visible"		"1"
 		
-		"textAlignment"	"west"	
+		//"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
 		"font"			"HudFontBig"
 		"fgcolor"		"Black"

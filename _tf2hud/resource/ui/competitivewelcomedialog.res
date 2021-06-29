@@ -279,7 +279,7 @@
 		"zpos"			"20"
 		"wide"			"150"
 		"tall"			"25"
-		"default"		"1"
+		//"Default"		"1"
 		
 		
 		////"visible"		"1"
@@ -312,7 +312,7 @@
 		"zpos"			"20"
 		"wide"			"150"
 		"tall"			"25"
-		"default"		"1"
+		//"Default"		"1"
 		
 		
 		////"visible"		"1"

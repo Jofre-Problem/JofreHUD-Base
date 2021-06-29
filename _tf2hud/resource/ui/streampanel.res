@@ -51,7 +51,7 @@
 			"fieldName"		"DescriptionLabel"
 			"font"			"HudFontSmallestBold"
 			"labelText"		"#MMenu_Stream_Loading"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"90"
 			
 			"wide"			"f0"
@@ -87,7 +87,7 @@
 		"fieldName"		"DisplayNameLabel"
 		"font"			"HudFontSmallestBold"
 		"labelText"		"%display_name%"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"90"
 		"ypos"			"5"
 		"wide"			"205"
@@ -123,7 +123,7 @@
 		"fieldName"		"ViewerCountLabel"
 		"font"			"HudFontSmallest"
 		"labelText"		"%viewer_count%"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"90"
 		"ypos"			"31"
 		"wide"			"205"
@@ -150,7 +150,7 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"default"		"1"
+		//"Default"		"1"
 		"command"		"stream"
 
 		"sound_depressed"	"UI/buttonclick.wav"

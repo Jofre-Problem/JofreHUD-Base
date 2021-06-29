@@ -106,7 +106,7 @@
 		//"brighttext"	"0"
 		"Default"		"0"
 		"command"		"rotateleft"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 
 		"enabledImage"
 		{
@@ -152,7 +152,7 @@
 		//"brighttext"	"0"
 		"Default"		"0"
 		"command"		"rotate180"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 
 		"enabledImage"
 		{
@@ -198,7 +198,7 @@
 		//"brighttext"	"0"
 		"Default"		"0"
 		"command"		"rotateright"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 
 		"enabledImage"
 		{
@@ -263,7 +263,7 @@
 		//"brighttext"	"0"
 		"Default"		"0"
 		"command"		"Dismantle"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 
 		"enabledImage"
 		{
@@ -353,7 +353,7 @@
 			//"brighttext"	"0"
 			"Default"		"0"
 			"command"		"CancelDismantle"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 
 			"enabledImage"
 			{
@@ -405,7 +405,7 @@
 			//"brighttext"	"0"
 			"Default"		"0"
 			"command"		"AssumeControl"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 
 			"enabledImage"
 			{

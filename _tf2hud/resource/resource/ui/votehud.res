@@ -41,7 +41,7 @@
 			////"visible"		"1"
 			
 			"labelText"		"#GameUI_vote_passed"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"font"			"ScoreboardSmall"
@@ -432,7 +432,7 @@
 			////"visible"		"1"
 			
 			"labelText"		"#GameUI_vote_failed"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"font"			"ScoreboardSmall"
@@ -500,7 +500,7 @@
 			////"visible"		"1"
 			
 			"labelText"		"#GameUI_vote_failed"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"font"			"ScoreboardSmall"

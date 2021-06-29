@@ -54,7 +54,7 @@
 		////"visible"		"1"
 		
 		"centerwrap"	"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 		
 	"CancelButton"
@@ -115,7 +115,7 @@
 		"zpos"			"20"
 		"wide"			"175"
 		"tall"			"25"
-		"default"		"1"
+		//"Default"		"1"
 		
 		
 		////"visible"		"1"

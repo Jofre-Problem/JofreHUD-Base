@@ -156,7 +156,7 @@
 		"visible_minmode"		"0"
 		
 		"labelText"		"#TF_Spectator_ChangeTeam_NoKey"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 	"CycleTargetFwdHintIcon"
@@ -205,10 +205,10 @@
 		
 		////"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
-		"visible"		"0"	[$X360]
+		
 		
 		"labelText"		"#TF_Spectator_CycleTargetFwd"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 	"CycleTargetRevLabel"
@@ -225,7 +225,7 @@
 		"visible_minmode"		"0"
 		
 		"labelText"		"#TF_Spectator_CycleTargetRev"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 	"TipLabel"

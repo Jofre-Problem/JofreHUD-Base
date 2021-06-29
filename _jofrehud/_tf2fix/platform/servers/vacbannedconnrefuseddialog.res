@@ -30,12 +30,12 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#vgui_close"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"Label1"
 	{
@@ -70,7 +70,7 @@
 		
 		
 		"labelText"		"#VAC_ForDetails"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

@@ -42,7 +42,7 @@
 		
 		
 		"labelText"		"#Ban_Change_Time"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"dulltext"		"1"
 		//"brighttext"		"0"
 	}
@@ -60,7 +60,7 @@
 		
 		
 		"labelText"		"12.13.14.15"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"dulltext"		"1"
 		//"brighttext"		"0"
 	}
@@ -77,10 +77,10 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 	}
 	"OkayButton"
 	{
@@ -96,11 +96,11 @@
 		
 		"tabPosition"		"2"
 		"labelText"		"#Okay_Button"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"Okay"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"CvarNameLabel"
 	{
@@ -152,7 +152,7 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"#Cancel_Button"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"Close"

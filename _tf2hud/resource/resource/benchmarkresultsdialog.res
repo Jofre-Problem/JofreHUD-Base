@@ -30,7 +30,7 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_BenchmarkResults_UploadNow"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -50,7 +50,7 @@
 		
 		"tabPosition"		"2"
 		"labelText"		"#vgui_close"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -71,7 +71,7 @@
 		
 		
 		"labelText"		"#GameUI_BenchmarkResults_Info"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"wrap"		"1"

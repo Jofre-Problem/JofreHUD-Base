@@ -34,7 +34,7 @@
 			"fieldName"		"TitleInput"
 			"font"			"ReplayBrowserSmallest"
 			"textHidden"	"0"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"unicode"		"1"
 			//"wrap"			"0"
 			"xpos"			"13"

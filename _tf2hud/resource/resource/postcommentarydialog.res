@@ -30,7 +30,7 @@
 		
 		
 		"labelText"		"Label"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -50,7 +50,7 @@
 		
 		
 		"labelText"		"#GAMEUI_Commentary_HowToUse"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"wrap"		"1"
@@ -69,12 +69,12 @@
 		
 		
 		"labelText"		"#vgui_ok"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"close"
-		"Default"		"1"
+		//"Default"		"1"
 		"selected"		"0"
 	}
 }

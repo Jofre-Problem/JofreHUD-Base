@@ -81,12 +81,12 @@
 		"editable"		"0"
 		"font"			"HudFontSmall"
 
-		//"fgcolor_override"	"235 226 202 255"
+		//"fgcolor_override"	"TanLight"
 		"bgcolor_override"	"0 0 0 255"
 		//"disabledFgColor_override" "235 226 202 255"
 		"disabledBgColor_override" "0 0 0 255"
 		"selectionColor_override" "0 0 0 255"
-		"selectionTextColor_override" "235 226 202 255"
+		"selectionTextColor_override" "TanLight"
 		"defaultSelectionBG2Color_override" "Blank"
 	}
 
@@ -116,12 +116,12 @@
 		"editable"		"0"
 		"font"			"HudFontSmall"
 
-		//"fgcolor_override"	"235 226 202 255"
+		//"fgcolor_override"	"TanLight"
 		"bgcolor_override"	"0 0 0 255"
 		//"disabledFgColor_override" "235 226 202 255"
 		"disabledBgColor_override" "0 0 0 255"
 		"selectionColor_override" "0 0 0 255"
-		"selectionTextColor_override" "235 226 202 255"
+		"selectionTextColor_override" "TanLight"
 		"defaultSelectionBG2Color_override" "Blank"
 	}
 
@@ -151,12 +151,12 @@
 		"editable"		"0"
 		"font"			"HudFontSmall"
 
-		//"fgcolor_override"	"235 226 202 255"
+		//"fgcolor_override"	"TanLight"
 		"bgcolor_override"	"0 0 0 255"
 		//"disabledFgColor_override" "235 226 202 255"
 		"disabledBgColor_override" "0 0 0 255"
 		"selectionColor_override" "0 0 0 255"
-		"selectionTextColor_override" "235 226 202 255"
+		"selectionTextColor_override" "TanLight"
 		"defaultSelectionBG2Color_override" "Blank"
 	}
 
@@ -183,7 +183,7 @@
 		"tall"			"18"
 		"labelText"		"Screenshot shows abuse; upload it with report."
 		"font"			"HudFontSmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}

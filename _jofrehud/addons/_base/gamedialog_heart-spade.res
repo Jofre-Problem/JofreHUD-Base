@@ -23,7 +23,7 @@
 		
 		"tabPosition"		"21"
 	//	"labelText"		"#Spades_DealNextHand"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}    	
 	"GameTablePanel"
 	{

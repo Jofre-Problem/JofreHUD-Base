@@ -2,6 +2,6 @@
 {
 	"ShowExplanationsButton"
 	{
-		"default"		"1"
+		//"Default"		"1"
 	}
 }

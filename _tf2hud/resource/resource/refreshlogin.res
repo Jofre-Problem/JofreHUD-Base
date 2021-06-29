@@ -29,11 +29,11 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"password"
 	{
@@ -49,10 +49,10 @@
 		
 		"tabPosition"		"2"
 		"textHidden"		"1"
-		"editable"		"1"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"SavePasswordCheck"
 	{
@@ -68,7 +68,7 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_RefreshLogin_RememberPassword"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -89,7 +89,7 @@
 		
 		
 		"labelText"		"#GameUI_RefreshLogin_InfoTicketExpired"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		"brighttext"		"1"
 		"wrap"		"1"
@@ -151,7 +151,7 @@
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Login"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"CancelButton"
 	{

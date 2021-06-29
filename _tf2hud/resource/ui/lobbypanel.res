@@ -15,7 +15,7 @@
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"46 43 42 255"
+		"bgcolor_override"	"TanDarker"
 		"proportionaltoparent"	"1"
 
 		"NavToRelay"	"MvMTourOfDutyGroupBox"
@@ -41,7 +41,7 @@
 			"fieldName"		"TipLabel"
 			"font"			"HudFontSmallestBold"
 			"labelText"		"%tiptext%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"20"
 			"ypos"			"10"
 			"zpos"			"2"
@@ -558,7 +558,7 @@
 				"zpos"			"2"
 				"wide"		"275"
 				"tall"		"60"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				"visible"	"1"
 				
 				"wrap"		"1"
@@ -575,7 +575,7 @@
 				"zpos"			"3"
 				"wide"		"175"
 				"tall"		"30"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				"visible"	"1"
 				
 				"wrap"		"1"
@@ -621,7 +621,7 @@
 				"fieldName"		"PartyLabel"
 				"font"			"HudFontMediumBold"
 				"labelText"		"#TF_Matchmaking_Party"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				"xpos"			"5"
 				"ypos"			"5"
 				
@@ -648,7 +648,7 @@
 				"textAlignment"	"center"
 				//"dulltext"		"0"
 				//"brighttext"	"0"
-				"default"		"1"
+				//"Default"		"1"
 				"Command"		"invite"
 
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -731,7 +731,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"JoinLateValueLabel"
 		"font"			"HudFontSmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"		"c+100"
 		"ypos"		"325"
 		"zpos"		"-1"

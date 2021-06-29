@@ -26,7 +26,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 		"centerwrap"	"1"
 	}
 

@@ -36,7 +36,7 @@
 		
 		
 		"labelText"		"Fog Override"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -64,7 +64,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"Fog Enable"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -108,11 +108,11 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"5"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"FogEnd"
 	{
@@ -147,11 +147,11 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"5"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"FogColorRed"
 	{
@@ -186,11 +186,11 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"3"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"FogColorGreen"
 	{
@@ -225,11 +225,11 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"3"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"FogColorBlue"
 	{
@@ -264,11 +264,11 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"3"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"FogEnableSky"
 	{
@@ -287,7 +287,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"Enable Skybox"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -331,11 +331,11 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"5"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"FogEndSky"
 	{
@@ -370,11 +370,11 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"5"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"FogColorRedSky"
 	{
@@ -409,11 +409,11 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"3"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"FogColorGreenSky"
 	{
@@ -448,11 +448,11 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"3"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"FogColorBlueSky"
 	{
@@ -487,11 +487,11 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"3"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"FarZOverride"
 	{
@@ -510,7 +510,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"FarZ Override"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -554,11 +554,11 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"5"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"FogStartLabel"
 	{
@@ -577,7 +577,7 @@
 		
 		
 		"labelText"		"Start"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -603,7 +603,7 @@
 		
 		
 		"labelText"		"|"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -629,7 +629,7 @@
 		
 		
 		"labelText"		"End"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -655,7 +655,7 @@
 		
 		
 		"labelText"		"|"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -759,7 +759,7 @@
 		
 		
 		"labelText"		"Start"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -785,7 +785,7 @@
 		
 		
 		"labelText"		"|"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -811,7 +811,7 @@
 		
 		
 		"labelText"		"End"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -837,7 +837,7 @@
 		
 		
 		"labelText"		"|"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -941,7 +941,7 @@
 		
 		
 		"labelText"		"FarZ"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

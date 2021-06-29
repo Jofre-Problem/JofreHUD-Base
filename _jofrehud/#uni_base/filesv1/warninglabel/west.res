@@ -2,6 +2,6 @@
 {	
 	"WarningLabel"
 	{
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 }

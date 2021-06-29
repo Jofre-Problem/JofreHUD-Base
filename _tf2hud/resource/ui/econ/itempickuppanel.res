@@ -16,9 +16,9 @@
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"46 43 42 255"
-		"infocus_bgcolor_override" "46 43 42 255"
-		"outoffocus_bgcolor_override" "46 43 42 255"
+		"bgcolor_override"	"TanDarker"
+		"infocus_bgcolor_override" "TanDarker"
+		"outoffocus_bgcolor_override" "TanDarker"
 		
 		"modelpanels_spacing"		"40"
 		"modelpanels_width"			"500"
@@ -218,7 +218,7 @@
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"vguicancel"
-		"default"		"1"
+		//"Default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
@@ -321,7 +321,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor_override"	"235 226 202 255"
+			"fgcolor_override"	"TanLight"
 			"wrap"			"1"
 			"centerwrap"	"1"
 		}
@@ -342,8 +342,8 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
-		"bgcolor_override"	"46 43 42 255"
+		"fgcolor_override" "LightRed"
+		"bgcolor_override"	"TanDarker"
 	}
 	
 	"ScoreEntry"
@@ -359,13 +359,13 @@
 		"visible"			"0"
 		"enabled"			"0"
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"			"1"
 		"maxchars"			"5"
 		"NumericInputOnly"	"0"
 		"unicode"			"0"
 		"wrap"				"0"
-		"fgcolor_override"	"235 226 202 255"
+		"fgcolor_override"	"TanLight"
 		"bgcolor_override"	"0 0 0 255"
 		"labelText"			"Enter Score Here"
 		"textAlignment"		"center"

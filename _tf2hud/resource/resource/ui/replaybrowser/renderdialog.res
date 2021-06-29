@@ -41,7 +41,7 @@
 		"fieldName"		"TitleLabel"
 		"font"			"HudFontMediumBold"
 		"labelText"		"#Replay_RenderReplay"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		
 		
 		"zpos"			"1"
@@ -117,7 +117,7 @@
 		"fieldName"		"QualityPresetLabel"
 		"labelText"		"#Replay_RenderSetting"
 		"Font"			"ReplayVerySmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
 		"wide"			"54"
@@ -136,7 +136,7 @@
 		"ControlName"	"ComboBox"
 		"fieldName"		"QualityPresetCombo"
 		"Font"			"ReplayVerySmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		"xpos"			"70"
 		"ypos"			"-1"
@@ -159,7 +159,7 @@
 		"fieldName"		"PlayVoice"
 		"labelText"		"#Replay_PlayVoice"
 		"Font"			"ReplayVerySmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
 		
@@ -181,7 +181,7 @@
 		"fieldName"		"ShowAdvancedOptions"
 		"labelText"		"#Replay_RenderAdvancedOptions"
 		"Font"			"ReplayVerySmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
 		
@@ -218,7 +218,7 @@
 		"fieldName"		"VideoModeLabel"
 		"labelText"		"#GameUI_Resolution"
 		"Font"			"ReplayVerySmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
 		"wide"			"54"
@@ -237,7 +237,7 @@
 		"ControlName"	"ComboBox"
 		"fieldName"		"VideoModeCombo"
 		"Font"			"ReplayVerySmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		"xpos"			"70"
 		"ypos"			"-1"
@@ -260,7 +260,7 @@
 		"fieldName"		"CodecLabel"
 		"labelText"		"#Replay_Codec"
 		"Font"			"ReplayVerySmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
 		"wide"			"54"
@@ -279,7 +279,7 @@
 		"ControlName"	"ComboBox"
 		"fieldName"		"CodecCombo"
 		"Font"			"ReplayVerySmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		"xpos"			"70"
 		"ypos"			"-1"
@@ -302,7 +302,7 @@
 		"fieldName"		"MotionBlurLabel"
 		"labelText"		"#Replay_MotionBlur"
 		"Font"			"ReplayVerySmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
 		"wide"			"80"
@@ -339,7 +339,7 @@
 		"fieldName"		"QualityLabel"
 		"labelText"		"#Replay_Quality"
 		"Font"			"ReplayVerySmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
 		"wide"			"60"
@@ -376,7 +376,7 @@
 		"fieldName"		"MotionBlurEnabled"
 		"labelText"		"#Replay_MotionBlur_Enabled"
 		"Font"			"ReplayVerySmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
 		
@@ -398,7 +398,7 @@
 		"fieldName"		"EstimateTimeLabel"
 		"labelText"		""
 		"Font"			"ReplayVerySmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
 		"wide"			"170"
@@ -417,7 +417,7 @@
 		"fieldName"		"EstimateFileLabel"
 		"labelText"		""
 		"Font"			"ReplayVerySmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
 		"wide"			"170"
@@ -437,7 +437,7 @@
 		"fieldName"		"EnterANameLabel"
 		"font"			"ReplayVerySmall"
 		"labelText"		"#Replay_Title"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		
 		
 		"zpos"			"1"
@@ -456,8 +456,8 @@
 		"fieldName"		"TitleInput"
 		"font"			"ReplaySmaller"
 		"textHidden"	"0"
-		"textAlignment"	"west"
-		"unicode"		"0"
+		//"textAlignment"	"west"
+		//"unicode"		"0"
 		//"wrap"			"0"
 		
 		
@@ -480,7 +480,7 @@
 		"fieldName"		"ResolutionNoteLabel"
 		"font"			"ReplayVerySmall"
 		"labelText"		"#Replay_NotAllVideoModesAvailable"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		
 		
 		"zpos"			"1"
@@ -490,7 +490,7 @@
 		"visible"		"0"
 		
 		"wrap"			"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	
 	"QuitWhenDone"
@@ -499,7 +499,7 @@
 		"fieldName"		"QuitWhenDone"
 		"labelText"		"#Replay_QuitWhenDone"
 		"Font"			"ReplayVerySmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
 		
@@ -521,7 +521,7 @@
 		"fieldName"		"ExportRaw"
 		"labelText"		"#Replay_ExportRaw"
 		"Font"			"ReplayVerySmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
 		
@@ -543,7 +543,7 @@
 		"fieldName"		"GlowEnabled"
 		"labelText"		"#Replay_Glow_Enabled"
 		"Font"			"ReplayVerySmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
 		
@@ -565,7 +565,7 @@
 		"fieldName"		"LockWarningLabel"
 		"font"			"ReplayMediumSmall"
 		"labelText"		"#Replay_LockWarning"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		
 		
 		"zpos"			"1"
@@ -576,6 +576,6 @@
 		////"visible"		"1"
 		"wrap"			"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 }

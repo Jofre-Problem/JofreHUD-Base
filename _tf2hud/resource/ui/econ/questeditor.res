@@ -40,12 +40,12 @@
 			
 			//"labelText"		"#GameUI_GameMenu_Options"
 			"font"			"HudFontSmallBold"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"textinsetx"	"35"
 			"use_proportional_insets" "1"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"Command"		"open_edit_context"
 			"proportionaltoparent"	"1"
 

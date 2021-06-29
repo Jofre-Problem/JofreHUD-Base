@@ -41,7 +41,7 @@
 			{
 				"name"			"ref"
 				"sequence"		"ref"
-				"default"		"1"
+				//"Default"		"1"
 			}
 
 			"animation"
@@ -172,7 +172,7 @@
 			{
 				"name"			"ref"
 				"sequence"		"ref"
-				"default"		"1"
+				//"Default"		"1"
 			}
 
 			"animation"

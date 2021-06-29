@@ -39,7 +39,7 @@
 		
 		//"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 
 	"TournamentTeamNameLabel"
@@ -58,7 +58,7 @@
 		
 		//"wrap"			"0"
 		"labelText"		"#Tournament_TeamNamePanel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 
 	"TournamentNameEdit"
@@ -74,16 +74,16 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"5"
 		"NumericInputOnly"	"0"
-		"unicode"		"0"
+		//"unicode"		"0"
 		//"wrap"			"0"
 		"fgcolor_override"		"235 226 202 255"
 		"bgcolor_override"	"0 0 0 255"
 		"labelText"		"%teamname%"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 
 	"HudTournamentNameBG"
@@ -121,7 +121,7 @@
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		"command"		"teamnotready"
-		"default"		"1"
+		//"Default"		"1"
 		"font"			"HudFontSmallestBold"
 		"fgcolor"		"Red"
 	}
@@ -144,7 +144,7 @@
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		"command"		"teamready" 
-		"default"		"1"
+		//"Default"		"1"
 		"font"			"HudFontSmallestBold"
 		"fgcolor"		"FooterBGBlack"
 	}

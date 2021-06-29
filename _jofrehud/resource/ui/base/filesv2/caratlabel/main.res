@@ -5,7 +5,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"CaratLabel"
 		"labelText"		">>"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"tall"			"15"
 		
 		

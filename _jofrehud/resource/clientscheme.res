@@ -547,12 +547,7 @@ Scheme
 		}
 		DebugOverlay
 		{
-			"1"	[$WIN32]
-			{
-				"name"		"Segoe UI"
-				
-			}
-			"1"	[$X360]
+			"1"
 			{
 				"name"		"Segoe UI"
 				
@@ -564,7 +559,6 @@ Scheme
 			{
 				name  	"tfd" // tfd.ttf
 				tall  	"28"
-				weight 	"0"
 				antialias 	"1"
 			}
 		}
@@ -575,7 +569,6 @@ Scheme
 			 {
 				name  	"Team Fortress" // tf.ttf
 				tall  	"28"
-				weight 	"0"
 				additive 	"1"
 				antialias 	"1"
 			}

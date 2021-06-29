@@ -30,7 +30,7 @@
 		
 		
 		"labelText"		"#GAMEUI_Commentary_LabelOn"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -50,7 +50,7 @@
 		
 		
 		"labelText"		"#GAMEUI_Commentary_WhatIs"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"wrap"		"1"
@@ -69,7 +69,7 @@
 		
 		
 		"labelText"		"#GAMEUI_Commentary_HowToUse"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"wrap"		"1"
@@ -88,7 +88,7 @@
 		
 		
 		"labelText"		"#GAMEUI_COMMENTARY_GOD"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"wrap"		"1"
@@ -107,12 +107,12 @@
 		
 		
 		"labelText"		"#vgui_ok"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"ok"
-		"Default"		"1"
+		//"Default"		"1"
 		"selected"		"0"
 	}
 	"Cancel"
@@ -129,12 +129,12 @@
 		
 		
 		"labelText"		"#vgui_cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"cancel"
-		"Default"		"1"
+		//"Default"		"1"
 		"selected"		"0"
 	}
 }

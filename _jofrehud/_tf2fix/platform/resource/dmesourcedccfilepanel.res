@@ -83,10 +83,10 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"5"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 		"unicode"		"1"
 	}
 	
@@ -106,6 +106,6 @@
 		//"visible"		"1"
 		
 		"tabPosition"	"1"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 }

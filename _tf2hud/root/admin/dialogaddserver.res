@@ -39,8 +39,8 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 	"infolabel"
@@ -73,7 +73,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#Dialog_AddServer_Example"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"dulltext"		"1"
 		//"brighttext"		"0"
 	}
@@ -95,7 +95,7 @@
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"OK"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"CancelButton"
 	{

@@ -34,7 +34,7 @@
 		
 		
 		"labelText"		"#GameUI_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -63,7 +63,7 @@
 		
 		
 		"labelText"		"#GameUI_OK"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -92,7 +92,7 @@
 		
 		
 		"labelText"		"#GameUI_Apply"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -121,7 +121,7 @@
 		
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_AdvancedEllipsis"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -150,7 +150,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_ImportSprayEllipsis"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -217,7 +217,7 @@
 		
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_HighModels"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -244,11 +244,11 @@
 		"visible"		"0"
 		
 		"tabPosition"		"2"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"SpraypaintList"
 	{
@@ -266,11 +266,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"3"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"ModelImage"
 	{
@@ -329,11 +329,11 @@
 		"visible"		"0"
 		
 		"tabPosition"		"8"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"CrosshairSizeComboBox"
 	{
@@ -351,11 +351,11 @@
 		"visible"		"0"
 		
 		"tabPosition"		"6"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"CrosshairTranslucencyCheckbox"
 	{
@@ -374,7 +374,7 @@
 		
 		
 		"labelText"		"#GameUI_Translucent"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -501,11 +501,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"2"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"AdvCrosshairImage"
 	{
@@ -547,11 +547,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"6"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"CrosshairLabel"
 	{
@@ -570,7 +570,7 @@
 		
 		
 		"labelText"		"#GameUI_CrosshairDescription"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -614,7 +614,7 @@
 		
 		
 		"labelText"		"392"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -640,7 +640,7 @@
 		
 		
 		"labelText"		"133"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -666,7 +666,7 @@
 		
 		
 		"labelText"		"133"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -692,7 +692,7 @@
 		
 		
 		"labelText"		"133"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -718,7 +718,7 @@
 		
 		
 		"labelText"		"#GameUI_ColorSliders"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -744,7 +744,7 @@
 		
 		
 		"labelText"		"#GameUI_PlayerModel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -770,7 +770,7 @@
 		
 		
 		"labelText"		"#GameUI_SpraypaintImage"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"SpraypaintList"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -824,7 +824,7 @@
 		
 		
 		"labelText"		"#GameUI_CrosshairDescription"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -931,7 +931,7 @@
 		
 		
 		"labelText"		"#GameUI_CrosshairScale"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"font"		"defaultSmall"
@@ -975,7 +975,7 @@
 		
 		
 		"labelText"		"#GameUI_DownloadFilter_Title"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"DownloadFilterCheck"
 		//"dulltext"		"0"
 		//"brighttext"		"0"

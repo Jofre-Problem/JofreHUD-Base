@@ -90,7 +90,7 @@
 		////"visible"		"1"
 		
 		"labelText"		""
-		"textAlignment"	"West"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 	}
@@ -111,7 +111,7 @@
 		
 		"wrap"			"1"
 		"labelText"		"#TF_Coach_KickCoach"
-		"textAlignment"	"West"
+		//"textAlignment"	"west"
 		"font"			"TFFontSmall"
 	}
 
@@ -131,7 +131,7 @@
 		
 		"wrap"			"1"
 		"labelText"		"#TF_Coach_LikeCoach"
-		"textAlignment"	"West"
+		//"textAlignment"	"west"
 		"font"			"TFFontSmall"
 	}
 

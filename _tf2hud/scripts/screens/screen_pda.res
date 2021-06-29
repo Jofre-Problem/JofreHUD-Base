@@ -14,7 +14,7 @@
 		
 		
 		"labelText"		"Testing 1 2 3"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		"paintBackground" "0"
 	}

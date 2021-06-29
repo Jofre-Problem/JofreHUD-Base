@@ -242,7 +242,7 @@
 			"fieldName"		"ItemNameLabel"
 			"font"			"HudFontSmallBold"
 			"labelText"		"%itemname%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"240"
 			"ypos"			"17"
 			"wide"			"230"
@@ -320,7 +320,7 @@
 					"visible"		"0"
 					
 					"wrap"			"1"
-					"fgcolor"		"200 80 60 255"
+					"fgcolor"		"LightRed"
 				}		
 				
 				"RestrictionsTextLabel"
@@ -337,7 +337,7 @@
 					"visible"		"0"
 					
 					"wrap"			"1"
-					"fgcolor"		"200 80 60 255"
+					"fgcolor"		"LightRed"
 				}		
 				
 				"UsedByLabel"
@@ -530,7 +530,7 @@
 		"tall"			"220"
 		////"visible"		"1"
 		"paintbackground"	"0"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		
 		"model_xpos"	"10"
 		"model_ypos"	"10"
@@ -587,7 +587,7 @@
 			"fieldName"		"itempanel"
 			
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"1"
 			"model_ypos"	"2"

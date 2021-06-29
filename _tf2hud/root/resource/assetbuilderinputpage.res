@@ -64,7 +64,7 @@
 					
 					
 					"labelText"		"Compile Options"
-					"textAlignment"	"west"
+					//"textAlignment"	"west"
 					"dulltext"		"1"
 					//"brighttext"	"0"
 				}

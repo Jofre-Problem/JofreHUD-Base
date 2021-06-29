@@ -13,7 +13,7 @@
 		"visible"		"1"
 		
 
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"default"		"0"
 	}
 	"RadioDesc1"

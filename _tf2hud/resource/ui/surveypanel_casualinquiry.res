@@ -167,7 +167,7 @@
 					"labelText"		"#TF_SurveyQuestion_CasualInquiry_Answer2"
 					"font"			"HudFontSmallest"
 					"textAlignment"	"left"
-					"default"		"1"
+					//"Default"		"1"
 				}
 
 				"Answer3"

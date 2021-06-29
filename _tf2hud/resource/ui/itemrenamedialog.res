@@ -122,7 +122,7 @@
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		
 		"model_xpos"	"2"
 		"model_ypos"	"5"
@@ -187,7 +187,7 @@
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		
 		"model_xpos"	"2"
 		"model_ypos"	"5"
@@ -248,7 +248,7 @@
 		"fieldName"		"OldItemNameLabel"
 		"font"			"HudFontSmallBold"
 		"labelText"		"%oldname%"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"200"
 		"ypos"			"94"
 		"wide"			"180"
@@ -312,18 +312,18 @@
 		//"visible"			"1"
 		
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"			"1"
 		"maxchars"			"32"
 		"NumericInputOnly"	"0"
 		"unicode"			"0"
 		"wrap"				"0"
-		"fgcolor_override"	"235 226 202 255"
-		"bgcolor_override"	"46 43 42 255"
+		"fgcolor_override"	"TanLight"
+		"bgcolor_override"	"TanDarker"
 		"paintbackgroundtype" "2"
 		"labelText"			""
 		"font"				"HudFontSmall"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 	
 	"WarningLabel"
@@ -342,7 +342,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 
 	"CancelButton"
@@ -389,7 +389,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"apply"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

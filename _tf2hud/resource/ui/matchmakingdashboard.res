@@ -318,7 +318,7 @@
 				"textAlignment"	"center"
 				//"dulltext"		"0"
 				//"brighttext"	"0"
-				"default"		"1"
+				//"Default"		"1"
 				"Command"		"queue_logo_clicked"
 				"proportionaltoparent"	"1"
 				"actionsignallevel"	"3"
@@ -359,7 +359,7 @@
 				
 				"font"			"HudFontSmallestBold"
 				"fgcolor_override"	"TanLight"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				"labelText"		"%queue_state%"
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"0"
@@ -400,7 +400,7 @@
 				"textAlignment"	"center"
 				//"dulltext"		"0"
 				//"brighttext"	"0"
-				"default"		"1"
+				//"Default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 				"Command"		"manage_queues"
@@ -409,9 +409,9 @@
 			
 				"paintbackground"	"0"
 			
-				"defaultFgColor_override" "46 43 42 255"
-				"armedFgColor_override" "235 226 202 255"
-				"depressedFgColor_override" "46 43 42 255"
+				"defaultFgColor_override" "TanDarker"
+				"armedFgColor_override" "TanLight"
+				"depressedFgColor_override" "TanDarker"
 			
 				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"200 80 60 255"
@@ -450,7 +450,7 @@
 				"textAlignment"	"center"
 				//"dulltext"		"0"
 				//"brighttext"	"0"
-				"default"		"1"
+				//"Default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 				"Command"		"leave_queue"
@@ -459,9 +459,9 @@
 			
 				"paintbackground"	"0"
 			
-				"defaultFgColor_override" "46 43 42 255"
-				"armedFgColor_override" "235 226 202 255"
-				"depressedFgColor_override" "46 43 42 255"
+				"defaultFgColor_override" "TanDarker"
+				"armedFgColor_override" "TanLight"
+				"depressedFgColor_override" "TanDarker"
 			
 				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"200 80 60 255"
@@ -537,7 +537,7 @@
 				
 				"font"			"HudFontSmallestBold"
 				"fgcolor_override"	"TanLight"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				"labelText"		"#TF_MM_JoinPartyLobby_Prompt"
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"0"
@@ -598,7 +598,7 @@
 			
 			
 			"font"			"HudFontSmallBold"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"textinsetx"	"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -655,7 +655,7 @@
 			
 			
 			"font"			"HudFontSmallBold"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"quit"
@@ -714,7 +714,7 @@
 			
 			
 			"font"			"HudFontSmallBold"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"resume_game"
@@ -772,7 +772,7 @@
 			
 			
 			"font"			"HudFontSmallBold"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"find_game"

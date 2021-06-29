@@ -32,7 +32,7 @@
 		
 		"paintbackground"		"1"
 		"labelText"		"%warning%"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"wrap"		"1"
 	}
 	"DontShowThisAgainCheckbutton"
@@ -50,7 +50,7 @@
 		"tabPosition"		"7"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerWarningCheckButton"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -69,10 +69,10 @@
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerWarningOk"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Command"		"OK"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"CancelButton"
 	{
@@ -89,7 +89,7 @@
 		"tabPosition"		"4"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"

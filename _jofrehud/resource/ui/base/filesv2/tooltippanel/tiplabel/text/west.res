@@ -4,7 +4,7 @@
 	{
 		"TipLabel"
 		{
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 		}		
 	}
 }

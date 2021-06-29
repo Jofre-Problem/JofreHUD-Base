@@ -173,7 +173,7 @@
 			"fieldName"		"ToorLootTitle"
 			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_MvM_TourLootTitle"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"10"
 			"ypos"			"5"
 			
@@ -187,7 +187,7 @@
 			"fieldName"		"ToorLootDetailLabel"
 			"font"			"HudFontSmall"
 			"labelText"		"%tour_loot_detail%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"wrap"			"1"
 			"xpos"			"10"
 			"ypos"			"30"
@@ -240,7 +240,7 @@
 			////"visible"		"1"
 			
 			"mouseinputenabled" "1"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 
 			"items"
 			{
@@ -284,7 +284,7 @@
 			////"visible"		"1"
 			
 			"mouseinputenabled" "1"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 
 			"items"
 			{
@@ -498,7 +498,7 @@
 			"fieldName"		"NoMannUpTitleLabel"
 			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_MvM_NoMannUpTitle"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"10"
 			"ypos"			"5"
 			
@@ -512,7 +512,7 @@
 			"fieldName"		"NoMannUpDescriptionLabel"
 			"font"			"HudFontSmall"
 			"labelText"		"#TF_MvM_NoMannUpDescription"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"wrap"			"1"
 			"xpos"			"10"
 			"ypos"			"30"

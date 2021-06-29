@@ -208,7 +208,7 @@
 				"tall"			"p0.085"
 				
 				"defaultFgColor_override" "235 226 202 255"
-				"armedFgColor_override" "200 80 60 255"
+				"armedFgColor_override" "LightRed"
 				"depressedFgColor_override" "200 100 80 255"
 			}
 		}

@@ -9,7 +9,7 @@
 		"visible"		"0"
 		
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 	}
 	"topVertLeft"
@@ -21,7 +21,7 @@
 		"visible"		"0"
 		
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 	}
 	"bottomHorizRight"
@@ -33,7 +33,7 @@
 		"visible"		"0"
 		
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 	}
 	"bottomVertRight"
@@ -45,7 +45,7 @@
 		"visible"		"0"
 		
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 	}
 }	

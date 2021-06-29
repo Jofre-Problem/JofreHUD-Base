@@ -109,7 +109,7 @@
 				
 				////"visible"		"1"
 				
-				"fgcolor_override"	"235 226 202 255"
+				"fgcolor_override"	"TanLight"
 				"wrap"			"1"
 			}
 
@@ -202,9 +202,9 @@
 			
 				"paintbackground"	"0"
 			
-				"defaultFgColor_override" "46 43 42 255"
-				"armedFgColor_override" "200 80 60 255"
-				"depressedFgColor_override" "46 43 42 255"
+				"defaultFgColor_override" "TanDarker"
+				"armedFgColor_override" "LightRed"
+				"depressedFgColor_override" "TanDarker"
 			
 				"image_drawcolor"	"200 80 60 255"
 				"image_armedcolor"	"255 80 60 255"
@@ -449,9 +449,9 @@
 			
 				"paintbackground"	"0"
 			
-				"defaultFgColor_override" "46 43 42 255"
-				"armedFgColor_override" "200 80 60 255"
-				"depressedFgColor_override" "46 43 42 255"
+				"defaultFgColor_override" "TanDarker"
+				"armedFgColor_override" "LightRed"
+				"depressedFgColor_override" "TanDarker"
 			
 				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"200 80 60 255"
@@ -737,10 +737,10 @@
 							"textinsetx"	"4"
 							"use_proportional_insets" "1"
 							"font"			"HudFontSmallBold"
-							"textAlignment"	"west"
+							//"textAlignment"	"west"
 							//"dulltext"		"0"
 							//"brighttext"	"0"
-							"default"		"1"
+							//"Default"		"1"
 							"command"		"endintro"
 							"proportionaltoparent" "1"
 							"actionsignallevel"	"5"
@@ -1160,7 +1160,7 @@
 						"font"		"QuestMap_Medium"
 						"fgcolor_override"	"75 75 75 255"
 						"bgcolor_override"	"0 0 0 255"
-						"textAlignment"	"west"
+						//"textAlignment"	"west"
 						"textinsetx"	"5"
 					}
 

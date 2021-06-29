@@ -2,6 +2,6 @@
 {
 	"ExplanationLabel"
 	{
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}	
 }	

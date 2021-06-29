@@ -55,7 +55,7 @@
 		"xpos"		"10"
 	//	"wide"		"64"
 		"labelText"		"Submitter:"
-	//	"textAlignment"		"west"
+	//	//"textAlignment"		"west"
 	}	
 	"Label8"
 	{
@@ -63,14 +63,14 @@
 		"ypos"		"372"
 	//	"wide"		"64"
 		"labelText"		"Owner:"
-	//	"textAlignment"		"west"
+	//	//"textAlignment"		"west"
 	}
 	"Label9"
 	{
 		"xpos"		"10"
 	//	"wide"		"64"
 		"labelText"		"Severity:"
-	//	"textAlignment"		"west"
+	//	//"textAlignment"		"west"
 	}
 
 	"Label13"
@@ -85,7 +85,7 @@
 		//"visible"		"1"
 		
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -100,7 +100,7 @@
 		"xpos"		"320"
 		"wide"		"92"
 		"labelText"		"Orientation:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}		
 	"BugDescription"
 	{
@@ -212,7 +212,7 @@
 		
 		
 		"labelText"		"Folder..."
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"font"		"DefaultVerySmall"
@@ -259,7 +259,7 @@
 		"xpos"		"420"
 		"wide"		"160"
 		"tall"		"24"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}	
 	"BugSubmitter"
 	{
@@ -312,7 +312,7 @@
 		"ypos"		"454"
 		"wide"		"64"
 		"labelText"		"Cancel"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"BugClearForm"
 	{
@@ -328,7 +328,7 @@
 		"wide"		"64"
 		
 		"labelText"		"Title:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 	"Label2"
 	{
@@ -336,7 +336,7 @@
 		"ypos"		"65"
 	//	"wide"		"80"
 		"labelText"		"Description:"
-	//	"textAlignment"		"west"
+	//	//"textAlignment"		"west"
 	}
 
 
@@ -350,7 +350,7 @@
 	{
 		"xpos"		"320"
 		"labelText"		"Build:"
-	//	"textAlignment"		"west"
+	//	//"textAlignment"		"west"
 	}	
 
 	"BuildModeDialog"

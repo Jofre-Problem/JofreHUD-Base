@@ -59,7 +59,7 @@
 		
 		"wrap"			"1"
 		"labelText"		""
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 
 	"BalanceLabelTip"
@@ -81,7 +81,7 @@
 		
 		"wrap"			"1"
 		"labelText"		"%notificationtip%"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 	"SwitchImage"
 	{

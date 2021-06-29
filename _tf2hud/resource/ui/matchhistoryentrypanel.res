@@ -63,7 +63,7 @@
 			"labeltext"			"#TF_Competitive_MatchHistory_Win"
 			"font"				"HudFontSmallestBold"
 			"fgcolor_override"	"95 164 44 255"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 		}
 
 		"LossLabel"
@@ -81,7 +81,7 @@
 			"labeltext"			"#TF_Competitive_MatchHistory_Loss"
 			"font"				"HudFontSmallestBold"
 			"fgcolor_override"	"141 63 63 255"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 		}
 
 		"DateLabel"
@@ -99,7 +99,7 @@
 			"labeltext"			"%match_date%"
 			"font"				"MMenuPlayListDesc"
 			"fgcolor_override"	"TanLight"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 		}
 
 		"MapNameLabel"
@@ -117,7 +117,7 @@
 			"labeltext"			"%map_name%"
 			"font"				"MMenuPlayListDesc"
 			"fgcolor_override"	"TanLight"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 		}
 
 		"KDLabel"
@@ -135,7 +135,7 @@
 			"labeltext"			"%kd_ratio%"
 			"font"				"MMenuPlayListDesc"
 			"fgcolor_override"	"TanLight"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 		}
 	}
 
@@ -235,7 +235,7 @@
 				"labeltext"			"%stat_kills%"
 				"font"				"MMenuPlayListDesc"
 				"fgcolor_override"	"TanLight"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 			}
 
 			"DeathsLabel"
@@ -253,7 +253,7 @@
 				"labeltext"			"%stat_deaths%"
 				"font"				"MMenuPlayListDesc"
 				"fgcolor_override"	"TanLight"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 			}
 
 			"DamageMedal"
@@ -284,7 +284,7 @@
 				"labeltext"			"%stat_damage%"
 				"font"				"MMenuPlayListDesc"
 				"fgcolor_override"	"TanLight"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 			}
 
 			// Second column
@@ -316,7 +316,7 @@
 				"labeltext"			"%stat_healing%"
 				"font"				"MMenuPlayListDesc"
 				"fgcolor_override"	"TanLight"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 			}
 
 			"SupportMedal"
@@ -347,7 +347,7 @@
 				"labeltext"			"%stat_support%"
 				"font"				"MMenuPlayListDesc"
 				"fgcolor_override"	"TanLight"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 			}
 
 			"ScoreMedal"
@@ -380,7 +380,7 @@
 				"labeltext"			"%stat_score%"
 				"font"				"MMenuPlayListDesc"
 				"fgcolor_override"	"TanLight"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 			}
 
 			"ClassIcons"

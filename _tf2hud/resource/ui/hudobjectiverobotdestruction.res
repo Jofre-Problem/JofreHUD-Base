@@ -38,7 +38,7 @@
 			////"visible"		"1"
 			"bgcolor_override"		"Blank"
 			"PaintBackgroundType"	"0"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"skip_autoresize" "1"
 		}
@@ -279,7 +279,7 @@
 					"tall"			"35"
 					////"visible"		"1"
 					
-					"textAlignment"	"west"	
+					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
 					"font"			"HudFontSmallBold"
 					"fgcolor"		"TanLight"		
@@ -297,7 +297,7 @@
 					"tall"			"35"
 					////"visible"		"1"
 					
-					"textAlignment"	"west"	
+					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
 					"font"			"HudFontSmallBold"
 					"fgcolor"		"Black"		
@@ -315,7 +315,7 @@
 					"tall"			"35"
 					////"visible"		"1"
 					
-					"textAlignment"	"west"	
+					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
 					"font"			"HudFontSmallBold"
 					"fgcolor"		"TanLight"		
@@ -337,7 +337,7 @@
 					"tall"			"35"
 					////"visible"		"1"
 					
-					"textAlignment"	"west"	
+					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
 					"font"			"HudFontSmallBold"
 					"fgcolor"		"Black"		
@@ -423,7 +423,7 @@
 					"tall"			"35"
 					////"visible"		"1"
 					
-					"textAlignment"	"west"	
+					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
 					"font"			"HudFontSmallBold"
 					"fgcolor"		"TanLight"		
@@ -441,7 +441,7 @@
 					"tall"			"35"
 					////"visible"		"1"
 					
-					"textAlignment"	"west"	
+					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
 					"font"			"HudFontSmallBold"
 					"fgcolor"		"Black"		
@@ -459,7 +459,7 @@
 					"tall"			"35"
 					////"visible"		"1"
 					
-					"textAlignment"	"west"	
+					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
 					"font"			"HudFontSmallBold"
 					"fgcolor"		"TanLight"		
@@ -481,7 +481,7 @@
 					"tall"			"35"
 					////"visible"		"1"
 					
-					"textAlignment"	"west"	
+					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
 					"font"			"HudFontSmallBold"
 					"fgcolor"		"Black"		
@@ -569,7 +569,7 @@
 				"tall"			"35"
 				////"visible"		"1"
 				
-				"textAlignment"	"west"	
+				//"textAlignment"	"west"	
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
 				//"font_hidef"	"HudFontGiant"
@@ -589,7 +589,7 @@
 				"tall"			"35"
 				////"visible"		"1"
 				
-				"textAlignment"	"west"	
+				//"textAlignment"	"west"	
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
 				//"font_hidef"	"HudFontGiant"

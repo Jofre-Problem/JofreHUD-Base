@@ -61,11 +61,11 @@
 		
 		"tabPosition"		"1"
 		"paintbackground"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"TestServersButton"
 	{
@@ -82,7 +82,7 @@
 		"tabPosition"		"3"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_FindGames"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Command"		"TestServers"
 		"Default"		"0"
@@ -102,10 +102,10 @@
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddAddressToFavorites"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Command"		"OK"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"SelectedOKButton"
 	{
@@ -122,7 +122,7 @@
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddSelectedToFavorites"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -141,7 +141,7 @@
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_EnterIPofServerToAdd"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"		"UiBold"
 		//"wrap"		"0"
 	}
@@ -179,7 +179,7 @@
 		"tabPosition"		"4"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"

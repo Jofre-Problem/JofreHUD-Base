@@ -32,9 +32,9 @@
 		"tabPosition"		"1"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_JoinGame"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"Close"
 	{
@@ -51,7 +51,7 @@
 		"tabPosition"		"3"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Close"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -70,7 +70,7 @@
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Refresh"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -89,7 +89,7 @@
 		
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerNotResponding"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 	}
 	"AutoRetry"
@@ -107,7 +107,7 @@
 		"tabPosition"		"4"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AutoRetry"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -126,7 +126,7 @@
 		"tabPosition"		"5"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AlertMeWhenSlotOpens"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"1"
@@ -146,7 +146,7 @@
 		"tabPosition"		"5"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_JoinWhenSlotOpens"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"2"
@@ -288,7 +288,7 @@
 		
 		
 		"paintbackground"		"1"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 	}
 	"GameText"
@@ -306,7 +306,7 @@
 		
 		"paintbackground"		"1"
 		"labelText"		"Team Fortress Classic"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 	}
 	"ServerIPText"
@@ -323,11 +323,11 @@
 		"enabled"		"0"
 		
 		"paintbackground"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"MapText"
 	{
@@ -343,7 +343,7 @@
 		
 		
 		"paintbackground"		"1"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 	}
 	"PlayersText"
@@ -360,7 +360,7 @@
 		
 		
 		"paintbackground"		"1"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 	}
 	"PingText"
@@ -377,7 +377,7 @@
 		
 		
 		"paintbackground"		"1"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 	}
 	"Label1"
@@ -412,7 +412,7 @@
 		
 		
 		"paintbackground"		"1"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 	}
 	"Label2"

@@ -50,7 +50,7 @@
 			"bgcolor_override"		"Blank"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			"proportionaltoparent"	"1"
 			
 			"model_xpos"	"0"
@@ -263,7 +263,7 @@
 						"textAlignment"	"center"
 						//"dulltext"		"0"
 						//"brighttext"	"0"
-						"default"		"1"
+						//"Default"		"1"
 
 						"sound_depressed"	"UI/buttonclick.wav"
 						"sound_released"	"UI/buttonclickrelease.wav"
@@ -344,7 +344,7 @@
 						"textAlignment"	"center"
 						//"dulltext"		"0"
 						//"brighttext"	"0"
-						"default"		"1"
+						//"Default"		"1"
 
 						"sound_depressed"	"UI/buttonclick.wav"
 						"sound_released"	"UI/buttonclickrelease.wav"
@@ -387,7 +387,7 @@
 							"textinsetx"			"55"
 							"font"			"QuestLargeText"
 							"allcaps"	"1"
-							"textAlignment"	"west"
+							//"textAlignment"	"west"
 							//"dulltext"		"0"
 							//"brighttext"	"0"
 							"paintbackground"	"0"
@@ -564,7 +564,7 @@
 					"textAlignment"	"center"
 					//"dulltext"		"0"
 					//"brighttext"	"0"
-					"default"		"1"
+					//"Default"		"1"
 					"actionsignallevel" "3"
 
 					"sound_depressed"	"UI/buttonclick.wav"
@@ -656,7 +656,7 @@
 						"textAlignment"	"center"
 						//"dulltext"		"0"
 						//"brighttext"	"0"
-						"default"		"1"
+						//"Default"		"1"
 						"actionsignallevel" "4"
 
 						"sound_depressed"	"UI/buttonclick.wav"
@@ -696,7 +696,7 @@
 						"textAlignment"	"center"
 						//"dulltext"		"0"
 						//"brighttext"	"0"
-						"default"		"1"
+						//"Default"		"1"
 						"actionsignallevel" "4"
 
 						"sound_depressed"	"UI/buttonclick.wav"

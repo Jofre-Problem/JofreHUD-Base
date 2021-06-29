@@ -42,7 +42,7 @@
 		
 		
 		"labelText"		"Add..."
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -63,7 +63,7 @@
 		
 		
 		"labelText"		"Edit..."
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -84,7 +84,7 @@
 		
 		
 		"labelText"		"Delete"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -105,11 +105,11 @@
 		
 		
 		"labelText"		"bm"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"tweak"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 }

@@ -2,6 +2,6 @@
 {
 	"Notification_Label"
 	{	
-		"textAlignment"	"West"
+		//"textAlignment"	"west"
 	}
 }	

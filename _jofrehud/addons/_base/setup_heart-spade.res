@@ -14,7 +14,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"#SteamAddOn_StartGame"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"

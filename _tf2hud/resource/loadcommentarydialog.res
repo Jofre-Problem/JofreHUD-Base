@@ -44,12 +44,12 @@
 		"enabled"		"0"
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_Load"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"loadcommentary"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"Cancel"
 	{
@@ -65,7 +65,7 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -86,7 +86,7 @@
 		
 		
 		"labelText"		"#GameUI_LoadCommentaryHelp"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"wrap"		"1"
@@ -105,7 +105,7 @@
 		
 		
 		"labelText"		"Label"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -124,7 +124,7 @@
 		
 		
 		"labelText"		"Label"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -143,7 +143,7 @@
 		
 		
 		"labelText"		"Label"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -162,7 +162,7 @@
 		
 		
 		"labelText"		"Label"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

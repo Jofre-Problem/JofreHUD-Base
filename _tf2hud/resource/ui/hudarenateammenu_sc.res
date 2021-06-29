@@ -58,7 +58,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"labelText"		""
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		"brighttext"	"1"
 	}
@@ -114,11 +114,11 @@
 		"textAlignment"	"south-west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		"command"		"jointeam spectate"
 		"associated_model"	"autodoor"
 		"font"			"MenuMainTitle"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"HUDWhite"
 	}
 
 	"JoinAutoHintIcon"
@@ -155,11 +155,11 @@
 		"textAlignment"	"south-west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		"command"		"jointeam spectatearena"
 		"associated_model"	"spectate"	
 		"font"			"MenuMainTitle"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"HUDWhite"
 	}
 
 	"JoinSpectatorsHintIcon"
@@ -364,7 +364,7 @@
 			{
 				"name"			"idle_enabled"
 				"sequence"		"idle"
-				"default"		"1"
+				//"Default"		"1"
 			}
 
 			"animation"
@@ -413,7 +413,7 @@
 			{
 				"name"			"idle_enabled"
 				"sequence"		"idle"
-				"default"		"1"
+				//"Default"		"1"
 			}
 
 			"animation"

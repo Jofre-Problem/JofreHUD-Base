@@ -5,7 +5,7 @@
 		"ControlName"	"TextEntry"
 		"fieldName"		"TitleInput"
 		"textHidden"	"0"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
 		

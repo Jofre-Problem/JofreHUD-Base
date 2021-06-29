@@ -50,7 +50,7 @@
 			//"visible"		"1"
 			
 			"tabPosition"	"1"
-			"Default"		"1"
+			//"Default"		"1"
 		}
 
 		"PublishButton"
@@ -68,7 +68,7 @@
 			//"visible"		"1"
 			
 			"tabPosition"	"2"
-			"Default"		"1"
+			//"Default"		"1"
 		}
 
 		"CompileStatus"
@@ -87,7 +87,7 @@
 			//"visible"		"1"
 			
 			"tabPosition"	"2"
-			"Default"		"1"
+			//"Default"		"1"
 		}
 
 		"AbortCompileButton"
@@ -106,7 +106,7 @@
 			//"visible"		"1"
 			
 			"tabPosition"	"2"
-			"Default"		"1"
+			//"Default"		"1"
 		}		
 	}
 }

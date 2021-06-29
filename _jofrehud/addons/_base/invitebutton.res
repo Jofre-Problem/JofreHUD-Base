@@ -14,7 +14,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"#SteamAddOn_Invite"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"CancelInviteButton0"
@@ -31,7 +31,7 @@
 		
 		
 		"labelText"		"#SteamAddOn_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"InviteButton1"
@@ -48,7 +48,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"#SteamAddOn_Invite"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"CancelInviteButton1"
@@ -65,7 +65,7 @@
 		
 		
 		"labelText"		"#SteamAddOn_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"InviteButton2"
@@ -82,7 +82,7 @@
 		
 		
 		"labelText"		"#SteamAddOn_Invite"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"CancelInviteButton2"
@@ -99,7 +99,7 @@
 		
 		
 		"labelText"		"#SteamAddOn_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"InviteButton3"
@@ -116,7 +116,7 @@
 		
 		
 		"labelText"		"#SteamAddOn_Invite"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"CancelInviteButton3"
@@ -133,7 +133,7 @@
 		
 		
 		"labelText"		"#SteamAddOn_Cancel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"Default"		"0"
 	}
 }

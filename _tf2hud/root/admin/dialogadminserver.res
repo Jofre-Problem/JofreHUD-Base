@@ -42,11 +42,11 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#baseGames_Refresh"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"refresh"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"AddIPButton"
 	{
@@ -62,7 +62,7 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"#baseGames_AddIP"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"addip"
@@ -82,7 +82,7 @@
 		
 		"tabPosition"		"7"
 		"labelText"		"#baseGames_Manage"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -145,7 +145,7 @@
 		
 		"tabPosition"		"2"
 		"labelText"		"#baseGames_Options"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"config"
@@ -165,7 +165,7 @@
 		"enabled"		"0"
 		"tabPosition"		"5"
 		"labelText"		"#baseGames_Start_Local"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"launch"
@@ -185,7 +185,7 @@
 		
 		"tabPosition"		"6"
 		"labelText"		"#baseGames_Remove"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"remove"

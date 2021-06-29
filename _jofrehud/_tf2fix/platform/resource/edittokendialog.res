@@ -14,7 +14,7 @@
 		"enabled"		"0"
 		"tabPosition"		"2"
 		"labelText"		"Apply change"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -33,7 +33,7 @@
 		
 		"tabPosition"		"3"
 		"labelText"		"Mark as up-to-date"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -51,10 +51,10 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 		"unicode"		"1"
 	}
 	"EnglishView"
@@ -70,10 +70,10 @@
 		//"visible"		"1"
 		
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 		"unicode"		"1"
 	}
 	"LocalizedFromView"
@@ -90,10 +90,10 @@
 		//"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 		"unicode"		"1"
 	}
 	"NameView"
@@ -110,7 +110,7 @@
 		
 		
 		"labelText"		"Requires localization"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -200,10 +200,10 @@
 		
 		"tabPosition"		"4"
 		"labelText"		"Close"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Command"		"Close"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 }

@@ -17,9 +17,9 @@
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"46 43 42 255"
-		"infocus_bgcolor_override" "46 43 42 255"
-		"outoffocus_bgcolor_override" "46 43 42 255"
+		"bgcolor_override"	"TanDarker"
+		"infocus_bgcolor_override" "TanDarker"
+		"outoffocus_bgcolor_override" "TanDarker"
 		
 		"item_ypos"		"60"
 		"item_mod_wide"	"40"
@@ -48,7 +48,7 @@
 			"bgcolor_override"		"0 0 0 255"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"18"
 			"model_ypos"	"5"
@@ -232,7 +232,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"startshopping"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -281,7 +281,7 @@
 			
 			"visible"		"1"
 			
-			"fgcolor"		"46 43 42 255"
+			"fgcolor"		"TanDarker"
 		}		
 
 		"IntroRichText"
@@ -301,7 +301,7 @@
 			
 			"wrap"			"1"
 			"text"			"#Store_IntroText_Winter3"
-			"fgcolor"		"46 43 42 255"
+			"fgcolor"		"TanDarker"
 			
 			"image_up_arrow"				"scroll_up_off"
 			"image_up_arrow_mouseover"		"scroll_up_on"
@@ -341,7 +341,7 @@
 			
 			"visible"		"1"
 			
-			"fgcolor"		"46 43 42 255"
+			"fgcolor"		"TanDarker"
 		}		
 
 		"PromotionsTitleLabel"
@@ -393,7 +393,7 @@
 			
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor"		"46 43 42 255"
+			"fgcolor"		"TanDarker"
 		}		
 		"PromotionImage_BonusItem"
 		{
@@ -427,7 +427,7 @@
 			
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor"		"46 43 42 255"
+			"fgcolor"		"TanDarker"
 		}		
 		
 		"PromotionHat"
@@ -461,7 +461,7 @@
 			
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor"		"46 43 42 255"
+			"fgcolor"		"TanDarker"
 		}		
 		"PromotionImage_Hat"
 		{
@@ -495,7 +495,7 @@
 			
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor"		"46 43 42 255"
+			"fgcolor"		"TanDarker"
 		}		
 	}
 }

@@ -32,7 +32,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	
 	"SelectModelLabel"
@@ -41,7 +41,7 @@
 		"fieldName"		"SelectModelLabel"
 		"font"			"HudFontSmallest"
 		"labelText"		"#IT_YourModel"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"10"
 		"ypos"			"70"
 		"zpos"			"1"
@@ -58,7 +58,7 @@
 		"fieldName"		"ModelLabel"
 		"font"			"ItemFontAttribSmall"
 		"labelText"		"%testmodel%"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"105"
 		"ypos"			"70"
 		"zpos"			"1"
@@ -68,7 +68,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	"SelectModelButton"
 	{
@@ -89,7 +89,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"select_model"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -104,7 +104,7 @@
 		"tall"			"50"
 		////"visible"		"1"
 		"PaintBackgroundType"	"2"
-		"bgcolor_override"	"46 43 42 255"
+		"bgcolor_override"	"TanDarker"
 		
 		"ItemReplacedLabel"
 		{
@@ -112,7 +112,7 @@
 			"fieldName"		"ItemReplacedLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_ExistingItem"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			
 			
 			"zpos"			"1"
@@ -139,7 +139,7 @@
 			//"visible"			"1"
 			
 			"tabPosition"		"1"
-			"textHidden"		"0"
+			//"textHidden"		"0"
 			"editable"			"0"
 			"maxchars"			"-1"
 			"NumericInputOnly"	"0"
@@ -165,7 +165,7 @@
 		"tall"			"50"
 		////"visible"		"1"
 		"PaintBackgroundType"	"2"
-		"bgcolor_override"	"46 43 42 255"
+		"bgcolor_override"	"TanDarker"
 		
 		"ItemReplacedLabel"
 		{
@@ -173,7 +173,7 @@
 			"fieldName"		"ItemReplacedLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_ItemReplaces"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			
 			
 			"zpos"			"1"
@@ -199,7 +199,7 @@
 			//"visible"			"1"
 			
 			"tabPosition"		"1"
-			"textHidden"		"0"
+			//"textHidden"		"0"
 			"editable"			"0"
 			"maxchars"			"-1"
 			"NumericInputOnly"	"0"
@@ -219,7 +219,7 @@
 			"fieldName"		"NoItemsToReplaceLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_ItemReplaced_Invalid"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"95"
 			
 			"zpos"			"1"
@@ -230,7 +230,7 @@
 			"visible"		"0"
 			
 			"wrap"			"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "LightRed"
 		}
 	}
 	
@@ -251,7 +251,7 @@
 			"fieldName"		"HideBodygroupLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_Bodygroups"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			
 			
 			"zpos"			"1"
@@ -268,7 +268,7 @@
 			"fieldName"		"HideBodygroupExplanationLabel"
 			"font"			"ItemFontAttribSmallest"
 			"labelText"		"#IT_Explanation_Bodygroups"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			
 			"ypos"			"15"
 			"zpos"			"1"
@@ -287,7 +287,7 @@
 			"fieldName"		"HideBodygroupCheckBox0"
 			"labelText"		"#IT_Bodygroup_Hat"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"95"
 			
 			"zpos"			"1"
@@ -307,7 +307,7 @@
 			"fieldName"		"HideBodygroupCheckBox1"
 			"labelText"		"#IT_Bodygroup_Headphone"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"95"
 			"ypos"			"25"
 			"zpos"			"1"
@@ -327,7 +327,7 @@
 			"fieldName"		"HideBodygroupCheckBox2"
 			"labelText"		"#IT_Bodygroup_Medals"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"190"
 			
 			"zpos"			"1"
@@ -347,7 +347,7 @@
 			"fieldName"		"HideBodygroupCheckBox3"
 			"labelText"		"#IT_Bodygroup_Grenades"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"190"
 			"ypos"			"25"
 			"zpos"			"1"
@@ -367,7 +367,7 @@
 			"fieldName"		"HideBodygroupCheckBox4"
 			"labelText"		"#IT_Bodygroup_Bullets"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"290"
 			
 			"zpos"			"1"
@@ -387,7 +387,7 @@
 			"fieldName"		"HideBodygroupCheckBox5"
 			"labelText"		"#IT_Bodygroup_Arrows"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"290"
 			"ypos"			"25"
 			"zpos"			"1"
@@ -407,7 +407,7 @@
 			"fieldName"		"HideBodygroupCheckBox6"
 			"labelText"		"#IT_Bodygroup_RightArm"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"385"
 			
 			"zpos"			"1"
@@ -427,7 +427,7 @@
 			"fieldName"		"HideBodygroupCheckBox7"
 			"labelText"		"#IT_Bodygroup_Shoes_Socks"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"385"
 			"ypos"			"25"
 			"zpos"			"1"
@@ -460,7 +460,7 @@
 			"fieldName"		"PaintColorLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_PaintTitle"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			
 			
 			"zpos"			"1"
@@ -486,7 +486,7 @@
 			//"visible"			"1"
 			
 			"tabPosition"		"1"
-			"textHidden"		"0"
+			//"textHidden"		"0"
 			"editable"			"0"
 			"maxchars"			"-1"
 			"NumericInputOnly"	"0"
@@ -507,7 +507,7 @@
 			"fieldName"		"UnusualEffectLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_UnusualTitle"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			
 			"ypos"			"25"
 			"zpos"			"1"
@@ -533,7 +533,7 @@
 			//"visible"			"1"
 			
 			"tabPosition"		"1"
-			"textHidden"		"0"
+			//"textHidden"		"0"
 			"editable"			"0"
 			"maxchars"			"-1"
 			"NumericInputOnly"	"0"
@@ -568,7 +568,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -592,7 +592,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"ok"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

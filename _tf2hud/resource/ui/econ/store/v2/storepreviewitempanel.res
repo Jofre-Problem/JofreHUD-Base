@@ -124,7 +124,7 @@
 			"tall"			"10"
 			////"visible"		"1"
 			
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			"PaintBackgroundType"	"0"
 			"paintbackground"	"1"
 			"bgcolor_override" "50 46 41 255"
@@ -142,7 +142,7 @@
 			"tall"			"58"
 			////"visible"		"1"
 			
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			"PaintBackgroundType"	"2"
 			"paintbackground"	"1"
 			"bgcolor_override" "50 46 41 255"
@@ -154,7 +154,7 @@
 			"fieldName"		"ItemNameLabel"
 			"font"			"HudFontSmallBold"
 			"labelText"		"%itemname%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"240"
 			"ypos"			"17"
 			"wide"			"230"
@@ -232,7 +232,7 @@
 					"visible"		"0"
 					
 					"wrap"			"1"
-					"fgcolor"		"200 80 60 255"
+					"fgcolor"		"LightRed"
 				}		
 				
 				"RestrictionsTextLabel"
@@ -249,7 +249,7 @@
 					"visible"		"0"
 					
 					"wrap"			"1"
-					"fgcolor"		"200 80 60 255"
+					"fgcolor"		"LightRed"
 				}		
 				
 				"UsedByLabel"
@@ -575,7 +575,7 @@
 		"tall"			"220"
 		////"visible"		"1"
 		"paintbackground"	"0"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		
 		"model_xpos"	"10"
 		"model_ypos"	"10"
@@ -632,7 +632,7 @@
 			"fieldName"		"itempanel"
 			
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"1"
 			"model_ypos"	"2"
@@ -686,7 +686,7 @@
 			"fieldName"		"itempanel"
 			
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"1"
 			"model_ypos"	"2"
@@ -740,7 +740,7 @@
 			"fieldName"		"itempanel"
 			
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"1"
 			"model_ypos"	"2"
@@ -794,7 +794,7 @@
 			"fieldName"		"itempanel"
 			
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"1"
 			"model_ypos"	"2"
@@ -848,7 +848,7 @@
 			"fieldName"		"itempanel"
 			
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_xpos"	"1"
 			"model_ypos"	"2"
@@ -1482,7 +1482,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"close"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1507,7 +1507,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"tryitout"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1532,7 +1532,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"addtocart"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

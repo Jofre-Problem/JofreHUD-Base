@@ -42,7 +42,7 @@
 		////"visible"		"1"
 		
 		"textAlignment"		"northwest"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
 		"NumericInputOnly"	"0"
@@ -61,7 +61,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"Message Title"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -83,6 +83,6 @@
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"command"		"okay"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 }

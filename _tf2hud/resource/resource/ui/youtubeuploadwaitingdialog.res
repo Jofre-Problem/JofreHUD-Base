@@ -97,7 +97,7 @@
 		"centerwrap"	"1"
 		"labelText"		"%updatetext%"
 		"textAlignment"		"center"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 		"bgcolor_override" "Blank"
 		"auto_wide_tocontents" "1"
 		
@@ -142,7 +142,7 @@
 		
 		"labelText"		"%duration%"
 		"textAlignment"		"center"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 		"bgcolor_override" "Blank"
 		"pin_to_sibling"               "CenterPositioner3"
         "pin_corner_to_sibling"        "4"
@@ -168,7 +168,7 @@
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"1"
+		//"Default"		"1"
 		"Command"		"user_close"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

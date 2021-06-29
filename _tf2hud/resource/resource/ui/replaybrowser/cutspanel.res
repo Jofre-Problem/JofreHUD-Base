@@ -117,7 +117,7 @@
 		"ControlName"	"CExLabel"
 		"FieldName"		"OriginalLabel"
 		"Font"			"ReplayMediumSmall"
-		"TextAlignment"	"west"
+		//"textAlignment"	"west"
 		"fgcolor_override"	"117 107 94 255"
 		
 		
@@ -131,7 +131,7 @@
 		"ControlName"	"CExLabel"
 		"FieldName"		"CutsLabel"
 		"Font"			"ReplayMediumSmall"
-		"TextAlignment"	"west"
+		//"textAlignment"	"west"
 		"fgcolor_override"	"117 107 94 255"
 		
 		

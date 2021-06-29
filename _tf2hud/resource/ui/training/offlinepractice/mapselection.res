@@ -167,9 +167,9 @@
 		"border_armed"		"MainMenuButtonArmed"
 		"paintbackground"	"0"
 		
-		"defaultFgColor_override" "46 43 42 255"
-		"armedFgColor_override" "235 226 202 255"
-		"depressedFgColor_override" "46 43 42 255"
+		"defaultFgColor_override" "TanDarker"
+		"armedFgColor_override" "TanLight"
+		"depressedFgColor_override" "TanDarker"
 	}
 	
 	"DifficultyLabel"
@@ -206,7 +206,7 @@
 		//"visible"			"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"			"0"
 		"maxchars"			"-1"
 		"NumericInputOnly"	"0"
@@ -219,7 +219,7 @@
 		"disabledFgColor_override" "235 226 202 255"
 		"disabledBgColor_override" "51 47 46 255"
 		"selectionColor_override" "51 47 46 255"
-		"selectionTextColor_override" "235 226 202 255"
+		"selectionTextColor_override" "TanLight"
 		"defaultSelectionBG2Color_override" "51 47 46 255"
 	}
 	
@@ -248,7 +248,7 @@
 		"fieldName"		"NumPlayersTextEntry"
 		"font"			"HudFontSmallest"
 		"textHidden"	"0"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"unicode"		"1"
 		//"wrap"			"0"
 		"xpos"			"200"
@@ -275,7 +275,7 @@
 		"fieldName"		"SuggestedPlayerCountLabel"
 		"font"			"HudFontSmallest"
 		"labelText"		""
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"230"
 		"ypos"			"230"
 		"zpos"			"2"

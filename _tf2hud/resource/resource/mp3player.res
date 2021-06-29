@@ -30,7 +30,7 @@
 		
 		
 		"labelText"		"#MP3Menu"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -78,7 +78,7 @@
 		
 		
 		"labelText"		"#Play"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -99,12 +99,12 @@
 		
 		
 		"labelText"		"#Stop"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"stop"
-		"Default"		"1"
+		//"Default"		"1"
 	}
 	"NextTrack"
 	{
@@ -120,7 +120,7 @@
 		
 		
 		"labelText"		"#Next"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -141,7 +141,7 @@
 		
 		
 		"labelText"		"#Prev"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -162,7 +162,7 @@
 		
 		
 		"labelText"		"#Mute"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -182,7 +182,7 @@
 		
 		
 		"labelText"		"#Shuffle"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -216,7 +216,7 @@
 		
 		
 		"labelText"		"#NoSong"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"font"		"DefaultVerySmall"
@@ -269,7 +269,7 @@
 		
 		
 		"labelText"		"#VolumeLabel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

@@ -72,7 +72,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"Discount"
 		"font"			"HudFontSmallestBold"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		
 		"ypos"			"88"
 		"zpos"			"15"

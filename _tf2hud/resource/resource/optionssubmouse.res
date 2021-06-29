@@ -18,7 +18,7 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_ReverseMouse"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -47,7 +47,7 @@
 		
 		"tabPosition"		"2"
 		"labelText"		"#GameUI_MouseFilter"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -76,7 +76,7 @@
 		
 		
 		"labelText"		"#GameUI_MouseRaw"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -105,7 +105,7 @@
 		"enabled"		"0" [$OSX]
 		
 		"labelText"		"#GameUI_MouseAcceleration"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -133,7 +133,7 @@
 		
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_JoystickLabel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -161,7 +161,7 @@
 		"enabled"		"0"
 		"tabPosition"		"6"
 		"labelText"		"#GameUI_JoystickSouthpaw"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -189,7 +189,7 @@
 		"enabled"		"0"
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_ReverseJoystick"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -217,7 +217,7 @@
 		"enabled"		"0"
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_HudQuickInfo"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
@@ -263,11 +263,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"3"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"MouseAccelerationSlider"
 	{
@@ -306,11 +306,11 @@
 		////"visible"		"1"
 		"enabled"		"0" [$OSX]
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
-		"NumericInputOnly"		"0"
-		"unicode"		"0"
+		//"NumericInputOnly"		"0"
+		//"unicode"		"0"
 	}
 	"JoystickYawSlider"
 	{
@@ -348,7 +348,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"#GameUI_JoystickLookSpeedYaw"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"Slider"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -395,7 +395,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"#GameUI_JoystickLookSpeedPitch"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"Slider"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -422,11 +422,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"3"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"JoystickPitchSensitivityLabel"
 	{
@@ -444,11 +444,11 @@
 		////"visible"		"1"
 		
 		"tabPosition"		"3"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		"unicode"		"0"
+		//"unicode"		"0"
 	}
 	"Label3"
 	{
@@ -467,7 +467,7 @@
 		
 		
 		"labelText"		"#GameUI_MouseSensitivity"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"associate"		"Slider"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -495,7 +495,7 @@
 		
 		
 		"labelText"		"#GameUI_HudQuickInfo_Info"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"

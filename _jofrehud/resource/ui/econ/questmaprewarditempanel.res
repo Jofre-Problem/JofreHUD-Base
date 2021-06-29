@@ -71,7 +71,7 @@
 		"labelText"			"%limit%"
 		"font"			"ScoreboardSmall"
 		//"textinsetx"		"0"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"mouseinputenabled"		"0"
 		"proportionaltoparent"	"1"
 		"paintbackground"	"1"

@@ -31,10 +31,10 @@
 		
 		"tabPosition"		"1"
 		"paintbackground"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"2048"
-		"NumericInputOnly"		"0"
+		//"NumericInputOnly"		"0"
 		"unicode"		"1"
 	}
 	"ChatHistory"
@@ -68,9 +68,9 @@
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#Friends_Chat_Send"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
-		"Default"		"1"
+		//"Default"		"1"
 		"selected"		"0"
 	}
 	"StatusLabel"
@@ -88,7 +88,7 @@
 		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_LastMessageReceived"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"		"DefaultSmall"
 		//"wrap"		"0"
 	}
@@ -107,7 +107,7 @@
 		
 		"paintbackground"		"1"
 		"labelText"		"#Friends_ChatTo"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"wrap"		"0"
 	}
 }

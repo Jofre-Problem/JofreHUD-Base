@@ -45,8 +45,8 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"1"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 	"TokenValue"
@@ -62,8 +62,8 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"2"
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 	}
 	"CloseButton"
@@ -100,7 +100,7 @@
 		"labelText"		"&OK"
 		"textAlignment"		"center"
 		"command"		"OK"
-		"default"		"1"
+		//"Default"		"1"
 	}
 	"TokenNameLabel"
 	{
@@ -116,7 +116,7 @@
 		
 		
 		"labelText"		"Token Name"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 	"TokenValueLabel"
 	{
@@ -132,6 +132,6 @@
 		
 		
 		"labelText"		"Token Value"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 }

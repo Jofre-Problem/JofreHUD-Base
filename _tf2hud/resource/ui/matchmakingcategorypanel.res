@@ -73,7 +73,7 @@
 			"actionsignallevel"	"2"
 			"command"		"toggle_collapse"
 			"labeltext"		"#TF_Casual_ViewMaps"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"font"	"MMenuPlayListDesc"
 			"textinsetx"	"40"
 
@@ -161,7 +161,7 @@
 			"textAlignment"	"east"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"proportionaltoparent" "1"
 			"mouseinputenabled"	"0"
 
@@ -186,7 +186,7 @@
 			"textAlignment"	"east"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"1"
+			//"Default"		"1"
 			"proportionaltoparent" "1"
 			"mouseinputenabled"	"0"
 

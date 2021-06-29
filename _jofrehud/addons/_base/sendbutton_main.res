@@ -12,7 +12,7 @@
 		
 		"tabPosition"		"1"
 		"labelText"		"#SteamAddOn_Btn_Send"
-		"textAlignment"		"west"
-		"Default"		"1"
+		//"textAlignment"		"west"
+		//"Default"		"1"
 	}	
 }

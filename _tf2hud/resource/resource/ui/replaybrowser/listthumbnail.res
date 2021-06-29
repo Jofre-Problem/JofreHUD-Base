@@ -60,7 +60,7 @@
 		"fieldName"		"RecordingInProgressLabel"
 		"font"			"ReplayMediumSmall"
 		"labelText"		"#Replay_RecordingInProgress"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"zpos"			"3"
 		
 		
@@ -77,7 +77,7 @@
 		"fieldName"		"DownloadLabel"
 		"font"			"ReplayMediumSmall"
 		"labelText"		"#Replay_Connecting"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"zpos"			"3"
 		
 		
@@ -92,7 +92,7 @@
 		"fieldName"		"ErrorLabel"
 		"font"			"HudFontMediumBold"
 		"labelText"		"#Replay_Error"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"zpos"			"3"
 		
 		
@@ -172,6 +172,6 @@
 		"textAlignment"	"center"
 		//"wrap"			"0"
 		"Command"		"delete_replayitem"
-		"fgcolor"		"200 80 60 255"
+		"fgcolor"		"LightRed"
 	}
 }

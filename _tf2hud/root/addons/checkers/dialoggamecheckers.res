@@ -55,7 +55,7 @@
 		////"visible"		"1"
 		"enabled"		"0"
 		
-		"textHidden"		"0"
+		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
 	}
@@ -72,8 +72,8 @@
 		////"visible"		"1"
 		
 		
-		"textHidden"		"0"
-		"editable"		"1"
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"-1"
 		"unicode"		"1"
 	}
@@ -91,10 +91,10 @@
 		
 		
 		"labelText"		"#SteamAddOn_Btn_Send"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
-		"default"		"1"
+		//"Default"		"1"
 	}
 	"DeclareDrawBtn"
 	{
@@ -110,7 +110,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"#Checkers_Btn_DeclareDraw"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"default"		"0"
@@ -129,7 +129,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"#SteamAddOn_Btn_Resign"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"default"		"0"
@@ -148,7 +148,7 @@
 		
 		
 		"labelText"		"#SteamAddOn_Btn_ShowHistory"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"Default"		"0"
@@ -167,7 +167,7 @@
 		
 		
 		"labelText"		"Last Move made at:"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -185,7 +185,7 @@
 		
 		
 		"labelText"		"Turn: 1"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -230,7 +230,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}
@@ -247,7 +247,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 	}

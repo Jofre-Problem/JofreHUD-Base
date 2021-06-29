@@ -29,7 +29,7 @@
 		
 		
 		"labelText"		"00:00:00:000"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"font"		"Trebuchet24"

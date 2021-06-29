@@ -58,7 +58,7 @@
 	//	"fieldName"		"ConfirmButton"
 	//	"zpos"			"20"
 	//	"tall"			"25"
-	//	"default"		"1"
+	//	//"Default"		"1"
 	//	
 	//	
 	//	////"visible"		"1"

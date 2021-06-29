@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BottomPanel"
 		////"visible"		"1"
-		"bgcolor_override"	"46 43 42 255"
+		"bgcolor_override"	"TanDarker"
 	}
 	
 	"FilenameLabel"
@@ -14,7 +14,7 @@
 		"fieldName"		"FilenameLabel"
 		"font"			"DefaultVerySmall"
 		"labelText"		""
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"zpos"			"10"
 		
 		
@@ -29,13 +29,13 @@
 		"fieldName"		"TitleLabel"
 		"font"			"EconFontSmall"
 		"labelText"		"#Replay_RenderOverlayText"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"zpos"			"10"
 		
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightRed"
 	}
 	
 	"ReplayRenderOverlay"
@@ -109,7 +109,7 @@
 		"fieldName"		"PreviewCheckButton"
 		"labelText"		"#Replay_RenderPreview"
 		"Font"			"DefaultVerySmall"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
 		
