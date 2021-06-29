@@ -24,6 +24,6 @@
 		
 		"font"			"EconFontSmall"
 		"centerwrap"	"1"
-		"fgcolor_override"	"255 255 255 255"
+		"fgcolor_override"	"HUDWhite"
 	}
 }

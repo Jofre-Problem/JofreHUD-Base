@@ -133,7 +133,7 @@
 				////"visible"		"1"
 				
 				"wrap"			"1"
-				"fgcolor_override"		"46 43 42 255"
+				"fgcolor_override"		"TanDarker"
 			}
 
 			"LearnMoreButton"

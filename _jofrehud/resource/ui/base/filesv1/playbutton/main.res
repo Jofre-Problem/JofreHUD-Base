@@ -69,7 +69,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"255 255 255 255"
+		"image_armedcolor"	"HUDWhite"
 		
 		"tipname"			"#Replay_EditorButtonTip_PlayButton"
 				

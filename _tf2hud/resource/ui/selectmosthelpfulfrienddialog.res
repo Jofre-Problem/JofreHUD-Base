@@ -134,7 +134,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor_override" "200 187 161 255"
+			"fgcolor_override" "HudOffWhite"
 		}	
 
 		"subbutton0"
@@ -213,7 +213,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor_override" "200 187 161 255"
+			"fgcolor_override" "HudOffWhite"
 		}	
 		
 		"EmptyPlayerListLabel"
@@ -234,7 +234,7 @@
 			
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "200 187 161 255"
+			"fgcolor_override" "HudOffWhite"
 		}
 
 		"RetrievingPlayerListLabel"
@@ -255,7 +255,7 @@
 			
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "200 187 161 255"
+			"fgcolor_override" "HudOffWhite"
 		}	
 	}
 	"StatePanel2"
@@ -286,7 +286,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor_override" "200 187 161 255"
+			"fgcolor_override" "HudOffWhite"
 		}	
 		
 		"EmptyPlayerListLabel"
@@ -307,7 +307,7 @@
 			
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "200 187 161 255"
+			"fgcolor_override" "HudOffWhite"
 		}	
 	}
 	

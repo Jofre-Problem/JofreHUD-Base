@@ -156,7 +156,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 187 161 255"
+		"fgcolor_override" "HudOffWhite"
 	}
 	
 	"selectedrecipecontainer"
@@ -187,7 +187,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor"		"200 187 161 255"
+			"fgcolor"		"HudOffWhite"
 			"wrap"			"1"
 		}
 		
@@ -227,7 +227,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 		}
 		"OutputLabel"
 		{
@@ -245,7 +245,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 		}
 		
 		"CraftButton"
@@ -385,7 +385,7 @@
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 			"centerwrap"	"1"
 		}
 	}

@@ -94,7 +94,7 @@
 			"enabled"		"1"
 			"labelText"		"%attriblist%"
 			"textAlignment"	"west"
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 			"centerwrap"	"0"
 		}
 
@@ -134,7 +134,7 @@
 			"enabled"		"1"
 			"labelText"		"%collectionlist%"
 			"textAlignment"	"west"
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 			"centerwrap"	"0"
 		}
 			

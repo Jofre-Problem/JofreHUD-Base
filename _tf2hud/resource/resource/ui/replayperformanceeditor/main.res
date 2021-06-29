@@ -135,7 +135,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"255 255 255 255"
+		"image_armedcolor"	"HUDWhite"
 		
 		"tipname"			"#Replay_EditorButtonTip_TimeScaleButton"
 		
@@ -173,7 +173,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"255 255 255 255"
+		"image_armedcolor"	"HUDWhite"
 		
 		"tipname"			"#Replay_EditorButtonTip_FirstPersonButton"
 		
@@ -211,7 +211,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"255 255 255 255"
+		"image_armedcolor"	"HUDWhite"
 		
 		"tipname"			"#Replay_EditorButtonTip_ThirdPersonButton"
 		
@@ -250,7 +250,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"255 255 255 255"
+		"image_armedcolor"	"HUDWhite"
 		
 		"tipname"			"#Replay_EditorButtonTip_FreeCamButton"
 		
@@ -347,7 +347,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"255 255 255 255"
+		"image_armedcolor"	"HUDWhite"
 		"image_selectedcolor"	"230 128 128 255"
 		
 		"tipname"			"#Replay_EditorButtonTip_InButton"
@@ -387,7 +387,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"255 255 255 255"
+		"image_armedcolor"	"HUDWhite"
 		
 		"tipname"			"#Replay_EditorButtonTip_RwHardButton"
 		
@@ -426,7 +426,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"255 255 255 255"
+		"image_armedcolor"	"HUDWhite"
 		
 		"tipname"			"#Replay_EditorButtonTip_RwButton"
 		
@@ -465,7 +465,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"255 255 255 255"
+		"image_armedcolor"	"HUDWhite"
 		
 		"tipname"			"#Replay_EditorButtonTip_PlayButton"
 		
@@ -503,7 +503,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"255 255 255 255"
+		"image_armedcolor"	"HUDWhite"
 		
 		"tipname"			"#Replay_EditorButtonTip_FfButton"
 		
@@ -542,7 +542,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"255 255 255 255"
+		"image_armedcolor"	"HUDWhite"
 		
 		"tipname"			"#Replay_EditorButtonTip_FfHardButton"
 		
@@ -581,7 +581,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"255 255 255 255"
+		"image_armedcolor"	"HUDWhite"
 		"image_selectedcolor"	"230 128 128 255"
 		
 		"tipname"		"#Replay_EditorButtonTip_OutButton"
@@ -626,7 +626,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"255 255 255 255"
+		"image_armedcolor"	"HUDWhite"
 		"image_selectedcolor"	"230 128 128 255"
 		
 		"SubImage"

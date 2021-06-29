@@ -46,7 +46,7 @@
 			//"brighttext"	"0"
 			"font"			"ScoreboardSmall"
 			"wrap"			"1"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"HUDWhite"
 		}
 		
 		"PassedResult"
@@ -65,7 +65,7 @@
 			//"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"HUDWhite"
 			"noshortcutsyntax" "1"
 		}		
 	}
@@ -118,7 +118,7 @@
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"font"			"ScoreboardSmall"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"HUDWhite"
 			"wrap"			"1"
 			"noshortcutsyntax" "1"
 		}
@@ -154,7 +154,7 @@
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"HUDWhite"
 		}
 		
 		"Option1Background_Selected"
@@ -187,7 +187,7 @@
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"font"			"ScoreboardSmall"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"HUDWhite"
 		}
 		
 		"LabelOption2"
@@ -206,7 +206,7 @@
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"HUDWhite"
 		}
 		
 		"Option2Background_Selected"
@@ -239,7 +239,7 @@
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"font"			"ScoreboardSmall"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"HUDWhite"
 		}
 		
 		"LabelOption3"
@@ -258,7 +258,7 @@
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"HUDWhite"
 		}
 		
 		"Option3Background_Selected"
@@ -291,7 +291,7 @@
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"HUDWhite"
 		}
 		
 		"Option4Background_Selected"
@@ -324,7 +324,7 @@
 			//"dulltext"		"0"
 			//"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"HUDWhite"
 		}
 		
 		"Option5Background_Selected"
@@ -456,7 +456,7 @@
 			//"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"HUDWhite"
 		}		
 	}
 	
@@ -524,7 +524,7 @@
 			//"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"HUDWhite"
 		}		
 	}
 	

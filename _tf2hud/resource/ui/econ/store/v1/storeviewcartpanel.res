@@ -23,9 +23,9 @@
 		"title_font"	"HudFontMediumBold"
 		"titletextinsetX"	"40"
 		"titletextinsetY"	"0"
-		"titlebarfgcolor_override"				"200 187 161 255"
-		"titlebardisabledfgcolor_override"		"200 187 161 255"
-		"titlebarbgcolor_override"				"46 43 42 255"
+		"titlebarfgcolor_override"				"HudOffWhite"
+		"titlebardisabledfgcolor_override"		"HudOffWhite"
+		"titlebarbgcolor_override"				"TanDarker"
 		
 		"clientinsetx_override"			"0"
 		"sheetinset_bottom"				"40"
@@ -201,7 +201,7 @@
 		"ypos"			"55"
 		"wide"			"f0"
 		"tall"			"368"
-		"bgcolor_override"				"46 43 42 255"
+		"bgcolor_override"				"TanDarker"
 		
 		"HeaderLine"
 		{

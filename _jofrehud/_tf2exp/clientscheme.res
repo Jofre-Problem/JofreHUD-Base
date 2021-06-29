@@ -488,7 +488,7 @@ Scheme
 				////"weight"	"900"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres""	"768 1023"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"4"
 			{
@@ -497,7 +497,7 @@ Scheme
 				////"weight"	"900"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres""	"1024 1199"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"5"
 			{
@@ -506,7 +506,7 @@ Scheme
 				////"weight"	"900"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres""	"1200 6000"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"6"
 			{
@@ -568,7 +568,7 @@ Scheme
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F"
 				//"yres""	"768 1023"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"4"
 			{
@@ -577,7 +577,7 @@ Scheme
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F"
 				//"yres""	"1024 1199"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"5"
 			{
@@ -586,7 +586,7 @@ Scheme
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F"
 				//"yres""	"1200 6000"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"6"
 			{
@@ -623,7 +623,7 @@ Scheme
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres""	"768 1023"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"4"
 			{
@@ -632,7 +632,7 @@ Scheme
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres""	"1024 1199"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"5"
 			{
@@ -641,7 +641,7 @@ Scheme
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres""	"1200 6000"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 		}
 		DefaultLarge
@@ -669,7 +669,7 @@ Scheme
 				////"weight"	"900"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres""		"768 1023"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"4"
 			{
@@ -678,7 +678,7 @@ Scheme
 				////"weight"	"900"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres""		"1024 1199"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"5"
 			{
@@ -687,7 +687,7 @@ Scheme
 				////"weight"	"900"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres""	"1200 6000"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"6"
 			{
@@ -712,7 +712,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"18"
 				////"weight"	"900"
-				"antialias" "1"
+				//"antialias" "1"
 				"additive"	"1"
 			}
 		}
@@ -725,7 +725,7 @@ Scheme
 				"tall"		"6"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		HudHintText
@@ -775,7 +775,7 @@ Scheme
 				
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 				//"yres""		"480 599"
 			}
 			"2"
@@ -785,7 +785,7 @@ Scheme
 				//"tall_hidef"	"120"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 				//"yres""		"600 767"
 			}
 			"3"
@@ -794,7 +794,7 @@ Scheme
 				"tall"		"44"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 				//"yres""		"768 1023"
 			}
 			"4"
@@ -803,7 +803,7 @@ Scheme
 				"tall"		"48"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 				//"yres""		"1024 1199"
 			}
 			"5"
@@ -812,7 +812,7 @@ Scheme
 				"tall"		"52"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 				//"yres""		"1200 10000"
 			}
 		}
@@ -825,7 +825,7 @@ Scheme
 				//"tall_lodef"	"52"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 
@@ -838,7 +838,7 @@ Scheme
 				//"tall_lodef"	"40"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 
@@ -851,7 +851,7 @@ Scheme
 				//"tall_hidef"	"48"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"HudFontMediumBig"
@@ -862,7 +862,7 @@ Scheme
 				"tall"		"30"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}	
 		"HudFontMediumBigBold"
@@ -873,7 +873,7 @@ Scheme
 				"tall"		"30"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}		
 		"HudFontMedium"
@@ -885,7 +885,7 @@ Scheme
 				//"tall_lodef"		"28"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"HudFontMediumSecondary"
@@ -896,7 +896,7 @@ Scheme
 				"tall"		"24"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"HudFontMediumBold"
@@ -907,7 +907,7 @@ Scheme
 				"tall"		"24"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"HudFontMediumSmallBold"
@@ -918,7 +918,7 @@ Scheme
 				"tall"		"18"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"HudFontMediumSmall"
@@ -931,7 +931,7 @@ Scheme
 				//"tall_lodef"	"18"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"HudFontMediumSmallSecondary"
@@ -944,7 +944,7 @@ Scheme
 				//"tall_lodef"	"20"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"HudFontSmall"
@@ -956,7 +956,7 @@ Scheme
 				//"tall_lodef"	"16"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}	
 		"HudFontSmallishBold"
@@ -967,7 +967,7 @@ Scheme
 				"tall"		"16"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"HudFontSmallBold"
@@ -978,7 +978,7 @@ Scheme
 				"tall"		"14"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"HudFontSmallBoldShadow"
@@ -989,7 +989,7 @@ Scheme
 				"tall"		"14"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 				"dropshadow"	"1"
 			}
 		}
@@ -1001,7 +1001,7 @@ Scheme
 				"tall"		"11"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 		"HudFontSmallestShadow"
@@ -1012,7 +1012,7 @@ Scheme
 				"tall"		"11"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 				"dropshadow"	"1"
 			}
 		}
@@ -1024,7 +1024,7 @@ Scheme
 				"tall"		"11"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"PerformanceModeSmall"
@@ -1035,7 +1035,7 @@ Scheme
 				"tall"		"4"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"StorePromotionsTitle"
@@ -1046,7 +1046,7 @@ Scheme
 				"tall"		"10"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"FontCartPrice"
@@ -1057,7 +1057,7 @@ Scheme
 				"tall"		"16"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"FontStorePrice"
@@ -1068,7 +1068,7 @@ Scheme
 				"tall"		"9"
 				//"weight"	"0"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"FontStoreOriginalPrice"
@@ -1079,7 +1079,7 @@ Scheme
 				"tall"		"9"
 				//"weight"	"0"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"FontStorePriceSmall"
@@ -1090,7 +1090,7 @@ Scheme
 				"tall"		"6"
 				//"weight"	"0"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"FontStorePromotion"
@@ -1103,7 +1103,7 @@ Scheme
 				//"tall_lodef"	"16"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"TextTooltipFont"
@@ -1114,7 +1114,7 @@ Scheme
 				"tall"		"11"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		GameUIButtons
@@ -1191,7 +1191,7 @@ Scheme
 				//"tall_lodef"	"18"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"HudClassHealth"
@@ -1204,7 +1204,7 @@ Scheme
 				//"tall_lodef"	"22"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"SpectatorKeyHints"
@@ -1215,7 +1215,7 @@ Scheme
 				"tall"		"8"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"ClockSubText"
@@ -1226,7 +1226,7 @@ Scheme
 				"tall"		"9"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"ClockSubTextSuddenDeath"
@@ -1239,7 +1239,7 @@ Scheme
 				//"tall_lodef"	"10"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"ClockSubTextTiny"
@@ -1251,7 +1251,7 @@ Scheme
 				//"tall_hidef"	"7"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"HudSelectionText"
@@ -1261,7 +1261,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"15"
 				//"weight"	"700"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 				//"yres""		"1 599"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"additive"	"1"
@@ -1271,7 +1271,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"15"
 				//"weight"	"700"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 				//"yres""		"600 767"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"additive"	"1"
@@ -1281,7 +1281,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"18"
 				////"weight"	"900"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 				//"yres""		"768 1023"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1290,7 +1290,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"21"
 				////"weight"	"900"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 				//"yres""		"1024 1199"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1299,7 +1299,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"24"
 				//"weight"	"1000"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 				//"yres""		"1200 10000"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1321,7 +1321,7 @@ Scheme
 			{
 				"name"  	"tfd" // tfd.ttf
 				"tall"  	"28"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 		
@@ -1333,7 +1333,7 @@ Scheme
 				"tall"  	"28"
 				//"weight" 	"0"
 				"additive" 	"1"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 		"BetaFont"
@@ -1344,7 +1344,7 @@ Scheme
 				"tall"		"90"
 				////"weight"	"900"
 				//"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
+				//"antialias" "1"
 				//"additive"	"0"
 			}
 		}
@@ -1357,7 +1357,7 @@ Scheme
 				"tall"  "28"
 				//"weight" "0"
 				"additive" "1"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 			"2"
 			{
@@ -1365,7 +1365,7 @@ Scheme
 				"tall"  "28"
 				//"weight" "0"
 				"additive" "1"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"CloseCaption_Normal"
@@ -1455,7 +1455,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"24"
-				"antialias" "1"
+				//"antialias" "1"
 				//"weight"	"500"
 			}
 		}
@@ -1466,7 +1466,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"11"
 				//"tall_lodef"	"14"
-				"antialias" "1"
+				//"antialias" "1"
 				//"weight"	"500"
 			}
 		}
@@ -1476,7 +1476,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"
-				"antialias" "1"
+				//"antialias" "1"
 				//"weight"	"500"
 			}
 		}
@@ -1491,7 +1491,7 @@ Scheme
 				//"tall_lodef"	"17"
 				//"weight"	"800"
 				//"additive"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}		
 		
@@ -1503,7 +1503,7 @@ Scheme
 				"tall"			"28"
 				//"tall_lodef"	"48"
 				//"tall_hidef"	"48"
-				"antialias"		"1" 
+				//"antialias"		"1" 
 				//"weight"		"500"
 				//"weight_lodef"	"800"
 				//"weight_hidef"	"1000"
@@ -1517,7 +1517,7 @@ Scheme
 				"tall"			"40"
 				//"tall_lodef"	"48"
 				//"tall_hidef"	"48"
-				"antialias"		"1"
+				//"antialias"		"1"
 				//"weight"		"500"
 				//"weight_lodef"	"800"
 				//"weight_hidef"	"1000"
@@ -1531,7 +1531,7 @@ Scheme
 				"tall"		"24"
 				//"tall_lodef"	"36"
 				//"tall_hidef"	"36"
-				"antialias" "1"
+				//"antialias" "1"
 				//"weight"	"500"
 			}
 		}
@@ -1543,7 +1543,7 @@ Scheme
 				"tall"			"14"
 				//"tall_lodef"	"32"
 				//"tall_hidef"	"32"
-				"antialias"		"1"
+				//"antialias"		"1"
 				//"weight"		"500"
 			}
 		}
@@ -1555,7 +1555,7 @@ Scheme
 				"tall"		"6"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"ScoreboardVerySmall"
@@ -1568,7 +1568,7 @@ Scheme
 				//"tall_lodef"	"14"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"ScoreboardSmall"
@@ -1581,7 +1581,7 @@ Scheme
 				//"tall_lodef"	"14"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"ScoreboardMediumSmall"
@@ -1592,7 +1592,7 @@ Scheme
 				"tall"		"14"
 				//"weight"	"500"
 				//"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
+				//"antialias" "1"
 				//"additive"	"0"
 			}
 		}
@@ -1604,7 +1604,7 @@ Scheme
 				"tall"		"20"
 				//"weight"	"500"
 				//"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
+				//"antialias" "1"
 				//"additive"	"0"
 			}
 		}
@@ -1618,7 +1618,7 @@ Scheme
 				//"tall_lodef"	"24"
 				//"weight"	"500"
 				//"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
+				//"antialias" "1"
 				//"additive"	"0"
 			}
 		}
@@ -1630,7 +1630,7 @@ Scheme
 				"tall"		"14"
 				//"weight"	"500"
 				//"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
+				//"antialias" "1"
 				//"additive"	"0"
 			}
 		}
@@ -1642,7 +1642,7 @@ Scheme
 				"tall"		"20"
 				//"weight"	"500"
 				//"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
+				//"antialias" "1"
 				//"additive"	"0"
 			}
 		}
@@ -1656,7 +1656,7 @@ Scheme
 				//"tall_lodef"	"38"
 				//"weight"	"500"
 				//"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
+				//"antialias" "1"
 				//"additive"	"0"
 			}
 		}
@@ -1670,7 +1670,7 @@ Scheme
 				//"tall_hidef"	"48"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"ScoreboardTeamScore"
@@ -1683,7 +1683,7 @@ Scheme
 				//"range" 	"0x0000 0x00FF"
 				//"weight"	"400"
 				//"yres""		"1 599"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 			"2"
 			{
@@ -1693,7 +1693,7 @@ Scheme
 				//"range" 	"0x0000 0x00FF"
 				//"weight"	"400"
 				//"yres""		"600 767"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 			"3"
 			{
@@ -1702,7 +1702,7 @@ Scheme
 				//"range" 	"0x0000 0x00FF"
 				//"weight"	"400"
 				//"yres""		"768 1023"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 			"4"
 			{
@@ -1711,7 +1711,7 @@ Scheme
 				//"range" 	"0x0000 0x00FF"
 				//"weight"	"400"
 				//"yres""		"1024 1199"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 			"5"
 			{
@@ -1720,7 +1720,7 @@ Scheme
 				//"range" 	"0x0000 0x00FF"
 				//"weight"	"400"
 				//"yres""		"1200 10000"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"MatchSummaryTeamScores"
@@ -1731,7 +1731,7 @@ Scheme
 				"tall"		"36"
 				//"weight"	"500"
 				//"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
+				//"antialias" "1"
 				//"additive"	"0"
 			}
 		}
@@ -1743,7 +1743,7 @@ Scheme
 				"tall"		"14"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"MatchSummaryWinner"
@@ -1754,7 +1754,7 @@ Scheme
 				"tall"		"20"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"CompMatchStartTeamNames"
@@ -1765,7 +1765,7 @@ Scheme
 				"tall"		"14"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"ControlPointTimer"
@@ -1776,7 +1776,7 @@ Scheme
 				"tall"		"10"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"ControlPointTimerSmaller"
@@ -1787,7 +1787,7 @@ Scheme
 				"tall"		"7"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 
@@ -1801,7 +1801,7 @@ Scheme
 				//"tall_lodef"	"14"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		
@@ -1944,7 +1944,7 @@ Scheme
 				//"tall_lodef"	"12"
 				//"range" 		"0x0000 0x00FF"
 				//"weight"		"300"
-				"antialias"		"1"
+				//"antialias"		"1"
 			}
 		}	
 		
@@ -1958,7 +1958,7 @@ Scheme
 				//"range" 		"0x0000 0x00FF"
 				//"weight"		"300"
 				//"weight_lodef"	"600"
-				"antialias"		"1"
+				//"antialias"		"1"
 			}
 		}			
 		CapPlayerFont
@@ -1970,7 +1970,7 @@ Scheme
 				//"weight"	"500"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"TextColor"	"Black"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 		CapPlayerFontSmall
@@ -1982,7 +1982,7 @@ Scheme
 				//"weight"	"500"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"TextColor"	"Black"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 
@@ -1996,7 +1996,7 @@ Scheme
 				//"tall_lodef"	"12"
 				//"weight"	"0"
 				"additive"	"1"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}		
 		TFFontMedium
@@ -2009,7 +2009,7 @@ Scheme
 				//"tall_lodef"	"16"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}		
 		
@@ -2021,7 +2021,7 @@ Scheme
 				"tall"		"11"
 				//"weight"	"800"
 				//"additive"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}		
 		
@@ -2129,7 +2129,7 @@ Scheme
 				"tall"		"36"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"TeamMenu"
@@ -2140,7 +2140,7 @@ Scheme
 				"tall"		"11"
 				//"weight"	"600"
 				//"additive"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}		
 		"IntroMenuCaption"
@@ -2151,7 +2151,7 @@ Scheme
 				"tall"		"18"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}			
 		"AchievementNotification"
@@ -2161,7 +2161,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"14"
 				////"weight"	"900"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"ImportToolSmallestBold"
@@ -2172,7 +2172,7 @@ Scheme
 				"tall"		"10"
 				//"weight"	"600"
 				//"additive"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 		"ImportToolSmallest"
@@ -2183,7 +2183,7 @@ Scheme
 				"tall"		"10"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 		"SpectatorVerySmall"
@@ -2194,7 +2194,7 @@ Scheme
 				"tall"		"7"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		// Used by scoreboard and spectator UI for names which don't map in the normal fashion
@@ -2207,7 +2207,7 @@ Scheme
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres""		"480 599"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"2"
 			{
@@ -2216,7 +2216,7 @@ Scheme
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres""		"600 1199"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"3"
 			{
@@ -2225,7 +2225,7 @@ Scheme
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres""		"1200 6000"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 		}
 		
@@ -2237,7 +2237,7 @@ Scheme
 				"tall"		"8"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"ItemFontNameSmall"
@@ -2248,7 +2248,7 @@ Scheme
 				"tall"		"9"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"ItemFontNameLarge"
@@ -2259,7 +2259,7 @@ Scheme
 				"tall"		"12"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"ItemFontNameLarger"
@@ -2270,7 +2270,7 @@ Scheme
 				"tall"		"18"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"ItemFontAttribSmallest"
@@ -2281,7 +2281,7 @@ Scheme
 				"tall"		"7"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 		ItemFontAttribSmallv2
@@ -2290,7 +2290,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"8"
-				"antialias" "1"
+				//"antialias" "1"
 				//"weight"	"500"
 			}
 		}
@@ -2302,7 +2302,7 @@ Scheme
 				"tall"		"8"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 		"ItemFontAttribLarge"
@@ -2313,7 +2313,7 @@ Scheme
 				"tall"		"11"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}	
 		"ItemFontAttribLarger"
@@ -2324,7 +2324,7 @@ Scheme
 				"tall"		"14"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 		
@@ -2336,7 +2336,7 @@ Scheme
 				"tall"		"9"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 		"AchievementTracker_NameGlow"
@@ -2348,7 +2348,7 @@ Scheme
 				//"weight"	"500"
 				"blur"		"3"
 				"additive"	"1"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 		"AchievementTracker_Desc"
@@ -2359,7 +2359,7 @@ Scheme
 				"tall"		"7"
 				//"weight"	"0"
 				"additive"	"1"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 		"QuestObjectiveTracker_Desc"
@@ -2370,7 +2370,7 @@ Scheme
 				"tall"		"7"
 				//"weight"	"0"
 				"additive"	"1"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 		"QuestObjectiveTracker_DescGlow"
@@ -2380,7 +2380,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"7"
 				//"weight"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 		"QuestObjectiveTracker_DescBlur"
@@ -2392,7 +2392,7 @@ Scheme
 				//"weight"	"0"
 				"blur"		"3"
 				"additive"	"1"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 		"ItemTrackerScore_InGame"
@@ -2402,7 +2402,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"7"
 				//"weight"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 
@@ -2415,7 +2415,7 @@ Scheme
 				//"weight"	"400"
 				//"yres""		"480 599"
 				//"additive"	"0"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"2"
 			{
@@ -2424,7 +2424,7 @@ Scheme
 				//"weight"	"400"
 				//"additive"	"0"
 				//"yres""		"600 1023"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"3"
 			{
@@ -2433,7 +2433,7 @@ Scheme
 				//"weight"	"400"
 				//"additive"	"0"
 				//"yres""		"1024 6000"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 		}
 
@@ -2446,7 +2446,7 @@ Scheme
 				//"weight"	"800"
 				//"yres""		"480 599"
 				//"additive"	"0"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"2"
 			{
@@ -2455,7 +2455,7 @@ Scheme
 				//"weight"	"800"
 				//"additive"	"0"
 				//"yres""		"600 1023"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"3"
 			{
@@ -2464,7 +2464,7 @@ Scheme
 				//"weight"	"800"
 				//"additive"	"0"
 				//"yres""		"1024 6000"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 		}
 		
@@ -2476,7 +2476,7 @@ Scheme
 				"tall"		"16"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 
@@ -2486,7 +2486,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"20"
-				"antialias" "1"
+				//"antialias" "1"
 				//"weight"	"500"
 			}
 		}
@@ -2500,7 +2500,7 @@ Scheme
 				//"weight"	"400"
 				//"yres""		"480 599"
 				//"additive"	"0"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"2"
 			{
@@ -2509,7 +2509,7 @@ Scheme
 				//"weight"	"400"
 				//"additive"	"0"
 				//"yres""		"600 1023"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"3"
 			{
@@ -2518,7 +2518,7 @@ Scheme
 				//"weight"	"400"
 				//"additive"	"0"
 				//"yres""		"1024 6000"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 		}
 
@@ -2531,7 +2531,7 @@ Scheme
 				//"weight"	"400"
 				//"yres""		"480 599"
 				//"additive"	"0"
-				"antialias"	"1"
+				//"antialias"	"1"
 				"italic"	"1"
 			}
 			"2"
@@ -2541,7 +2541,7 @@ Scheme
 				//"weight"	"400"
 				//"additive"	"0"
 				//"yres""		"600 1023"
-				"antialias"	"1"
+				//"antialias"	"1"
 				"italic"	"1"
 			}
 			"3"
@@ -2551,7 +2551,7 @@ Scheme
 				//"weight"	"400"
 				//"additive"	"0"
 				//"yres""		"1024 6000"
-				"antialias"	"1"
+				//"antialias"	"1"
 				"italic"	"1"
 			}
 		}
@@ -2565,7 +2565,7 @@ Scheme
 				//"weight"	"800"
 				//"yres""		"480 599"
 				//"additive"	"0"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"2"
 			{
@@ -2574,7 +2574,7 @@ Scheme
 				//"weight"	"800"
 				//"additive"	"0"
 				//"yres""		"600 1023"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"3"
 			{
@@ -2583,7 +2583,7 @@ Scheme
 				//"weight"	"800"
 				//"additive"	"0"
 				//"yres""		"1024 6000"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 		}
 
@@ -2595,7 +2595,7 @@ Scheme
 				"tall"		"13"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		
@@ -2607,7 +2607,7 @@ Scheme
 				"tall"		"16"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 
@@ -2619,7 +2619,7 @@ Scheme
 				"tall"		"10"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		
@@ -2631,7 +2631,7 @@ Scheme
 				"tall"		"8"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"AdFont_PurchaseButton"
@@ -2641,7 +2641,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"8"
 				//"weight"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 
@@ -2652,7 +2652,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"8"
 				//"weight"	"400"
-				"antialias" "1"
+				//"antialias" "1"
 				//"additive"	"0"
 			}
 		}
@@ -2664,7 +2664,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"9"
 				//"weight"	"400"
-				"antialias" "1"
+				//"antialias" "1"
 				//"additive"	"0"
 				"italic"	"1"
 			}
@@ -2698,7 +2698,7 @@ Scheme
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres""	"768 1023"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"4"
 			{
@@ -2707,7 +2707,7 @@ Scheme
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres""	"1024 1199"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"5"
 			{
@@ -2716,7 +2716,7 @@ Scheme
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres""	"1200 6000"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 		}
 		"ReplayBrowserSmallest"
@@ -2727,7 +2727,7 @@ Scheme
 				"tall"		"11"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 		"ReplaySmaller"
@@ -2755,7 +2755,7 @@ Scheme
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F"
 				//"yres""	"768 1023"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"4"
 			{
@@ -2764,7 +2764,7 @@ Scheme
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F"
 				//"yres""	"1024 1199"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"5"
 			{
@@ -2773,7 +2773,7 @@ Scheme
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F"
 				//"yres""	"1200 6000"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 			"6"
 			{
@@ -2791,7 +2791,7 @@ Scheme
 				"tall"		"11"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"ReplayMedium"
@@ -2802,7 +2802,7 @@ Scheme
 				"tall"		"14"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"ReplayMediumBig"
@@ -2815,7 +2815,7 @@ Scheme
 				//"tall_lodef"	"18"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"ReplayBrowserTab"
@@ -2826,7 +2826,7 @@ Scheme
 				"tall"		"24"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"ReplayLarger"
@@ -2839,7 +2839,7 @@ Scheme
 				//"tall_lodef"	"20"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		
@@ -2854,7 +2854,7 @@ Scheme
 				"tall"		"14"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 		"EconFontMedium"
@@ -2865,7 +2865,7 @@ Scheme
 				"tall"		"24"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 
@@ -2877,7 +2877,7 @@ Scheme
 				"tall"		"15"
 				//"weight"	"500"
 				//"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
+				//"antialias" "1"
 				//"additive"	"0"
 			}
 		}
@@ -2890,7 +2890,7 @@ Scheme
 				"tall"		"9"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 
@@ -2901,7 +2901,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"11"
 				//"weight"	"500"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 
@@ -2914,7 +2914,7 @@ Scheme
 				//"weight"	"500"
 				"blur"		"3"
 				"additive"	"1"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 
@@ -2926,7 +2926,7 @@ Scheme
 				"tall"		"12"
 				//"weight"	"500"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 				"dropshadow"	"1"
 			}
 		}
@@ -2940,7 +2940,7 @@ Scheme
 				//"weight"	"0"
 				"blur"		"3"
 				"additive"	"1"
-				"antialias" 	"1"
+				//"antialias" 	"1"
 			}
 		}
 
@@ -2952,7 +2952,7 @@ Scheme
 				"tall"		"7"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 
@@ -2964,7 +2964,7 @@ Scheme
 				"tall"		"10"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 
@@ -2976,7 +2976,7 @@ Scheme
 				"tall"		"14"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 
@@ -2988,7 +2988,7 @@ Scheme
 				"tall"		"30"
 				//"weight"	"400"
 				//"additive"	"0"
-				"antialias" "1"
+				//"antialias" "1"
 			}
 		}
 	}

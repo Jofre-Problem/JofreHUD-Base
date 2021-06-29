@@ -768,7 +768,7 @@
 			"enabled"		"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 			"command"		"UpdateBodygroup"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -790,7 +790,7 @@
 			"enabled"		"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 			"command"		"UpdateBodygroup"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -812,7 +812,7 @@
 			"enabled"		"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 			"command"		"UpdateBodygroup"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -834,7 +834,7 @@
 			"enabled"		"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 			"command"		"UpdateBodygroup"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -856,7 +856,7 @@
 			"enabled"		"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 			"command"		"UpdateBodygroup"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -878,7 +878,7 @@
 			"enabled"		"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 			"command"		"UpdateBodygroup"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -900,7 +900,7 @@
 			"enabled"		"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 			"command"		"UpdateBodygroup"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -922,7 +922,7 @@
 			"enabled"		"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 			"command"		"UpdateBodygroup"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -944,7 +944,7 @@
 			"enabled"		"0"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 			"command"		"UpdateBodygroup"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -1744,7 +1744,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 			"command"		"UpdatePaintable0"	
 			"border"				"SteamWorkshopBorder"
 		}
@@ -1766,7 +1766,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 			"command"		"UpdatePaintable1"	
 			"border"				"SteamWorkshopBorder"
 		}

@@ -29,7 +29,7 @@
             "pinCorner"     "0"
             "visible"       "1"
             "enabled"       "1"
-            "fgcolor_override" "200 187 161 255"
+            "fgcolor_override" "HudOffWhite"
         }   
         
         "EmptyPlayerListLabel"
@@ -50,7 +50,7 @@
             "enabled"       "1"
             "wrap"          "1"
             "centerwrap"    "1"
-            "fgcolor_override" "200 187 161 255"
+            "fgcolor_override" "HudOffWhite"
         }   
     }
 }

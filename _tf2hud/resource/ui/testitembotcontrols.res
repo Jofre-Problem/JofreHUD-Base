@@ -99,7 +99,7 @@
 		
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"disabledfgcolor2_override"	"117 107 94 255"
+		"disabledfgcolor2_override"	"TanDark"
 	}	
 	"BotTurntableCheckBox"
 	{
@@ -119,7 +119,7 @@
 		
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"disabledfgcolor2_override"	"117 107 94 255"
+		"disabledfgcolor2_override"	"TanDark"
 	}	
 	"BotViewScanCheckBox"
 	{
@@ -139,7 +139,7 @@
 		
 		//"dulltext"		"0"
 		//"brighttext"	"0"
-		"disabledfgcolor2_override"	"117 107 94 255"
+		"disabledfgcolor2_override"	"TanDark"
 	}	
 	
 	"BotAnimationAnimTitle"

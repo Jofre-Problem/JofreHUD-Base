@@ -125,7 +125,7 @@
 			"tall"			"44"
 			////"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"	"117 107 94 255"
+			"bgcolor_override"	"TanDark"
 		}									
 		"RedTeamLabel"
 		{
@@ -212,7 +212,7 @@
 			"tall"			"44"
 			////"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"	"117 107 94 255"
+			"bgcolor_override"	"TanDark"
 		}
 	}
 

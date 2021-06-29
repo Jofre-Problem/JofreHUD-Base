@@ -211,7 +211,7 @@
 		"textAlignment"	"north-west"
 		"font"			"HudFontSmallest"
 		"wrap"		"1"
-		"fgcolor"		"117 107 94 255"
+		"fgcolor"		"TanDark"
 
 		"sound_depressed"	"UI/buttonclickrelease.wav"	
 		"button_activation_type"	"1"

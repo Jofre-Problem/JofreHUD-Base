@@ -155,7 +155,7 @@
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 			"centerwrap"	"1"
 		}
 	}
@@ -302,7 +302,7 @@
 		"paintbackground"	"1"
 		"paintborder"		"0"
 		"image_drawcolor"	"235 226 202 255"
-		"image_armedcolor"	"255 255 255 255"
+		"image_armedcolor"	"HUDWhite"
 
 		"SubImage"
 		{
@@ -520,7 +520,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"HUDWhite"
 		}
 	
 		"Notifications_ShowButtonPanel_SB"
@@ -552,7 +552,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			
 			"SubImage"
 			{
@@ -621,7 +621,7 @@
 			"paintbackground"	"0"
 			"paintborder"		"0"
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 
 			"SubImage"
 			{
@@ -694,7 +694,7 @@
 			"paintbackground"	"0"
 			"paintborder"		"0"
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 
 			"SubImage"
 			{
@@ -766,7 +766,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 
 			"SubImage"
 			{
@@ -1098,7 +1098,7 @@
 			"paintbackground" "0"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1146,7 +1146,7 @@
 			"paintbackground" "0"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"

@@ -83,7 +83,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox1"
 		{
@@ -103,7 +103,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox2"
 		{
@@ -123,7 +123,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox3"
 		{
@@ -143,7 +143,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox4"
 		{
@@ -163,7 +163,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox5"
 		{
@@ -183,7 +183,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox6"
 		{
@@ -203,7 +203,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox7"
 		{
@@ -223,7 +223,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox8"
 		{
@@ -243,7 +243,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox9"
 		{
@@ -263,7 +263,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}	
 	}
 	
@@ -683,7 +683,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}	
 		
 		"BotsOnBlueTeamCheckBox"
@@ -704,7 +704,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		
 		"AddBotButton"

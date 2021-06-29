@@ -120,7 +120,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor"		"200 187 161 255"
+			"fgcolor"		"HudOffWhite"
 			"wrap"			"1"
 		}
 	
@@ -140,7 +140,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 		}
 		"OutputLabel"
 		{
@@ -158,7 +158,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 		}
 		"UntradableLabel"
 		{
@@ -176,7 +176,7 @@
 			
 			"visible"		"0"
 			
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 		}
 		
 		"CraftButton"
@@ -298,7 +298,7 @@
 			
 			"visible"		"0"
 			
-			"fgcolor"		"200 187 161 255"
+			"fgcolor"		"HudOffWhite"
 			"wrap"			"1"
 		}
 
@@ -320,7 +320,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"fgcolor"		"200 187 161 255"
+			"fgcolor"		"HudOffWhite"
 		}
 
 		"BackpackItems"
@@ -339,7 +339,7 @@
 			
 			////"visible"		"1"
 			
-			"fgcolor"		"200 187 161 255"
+			"fgcolor"		"HudOffWhite"
 			"wrap"			"1"
 		}
 			
@@ -469,7 +469,7 @@
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 			"centerwrap"	"1"
 		}
 	}

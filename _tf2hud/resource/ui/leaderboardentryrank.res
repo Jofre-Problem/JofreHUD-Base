@@ -40,7 +40,7 @@
 			"tall"			"20"
 			////"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"	"117 107 94 255"
+			"bgcolor_override"	"TanDark"
 		}
 		"AvatarImage"
 		{
@@ -111,7 +111,7 @@
 			"paintbackground"	"0"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"

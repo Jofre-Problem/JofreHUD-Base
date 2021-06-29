@@ -156,7 +156,7 @@
 		"tall"			"36"
 		////"visible"		"1"
 		"PaintBackgroundType"	"2"
-		"bgcolor_override"	"117 107 94 255"
+		"bgcolor_override"	"TanDark"
 
 		"AvatarImage"
 		{
@@ -191,7 +191,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 187 161 255"
+		"fgcolor_override" "HudOffWhite"
 	}
 	"Label1Explanation"
 	{
@@ -229,7 +229,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 187 161 255"
+		"fgcolor_override" "HudOffWhite"
 	}
 	"Label2Explanation"
 	{
@@ -365,7 +365,7 @@
 		
 		////"visible"		"1"
 		
-		"fgcolor_override" "200 187 161 255"
+		"fgcolor_override" "HudOffWhite"
 	}
 	"Label3Explanation"
 	{
@@ -485,7 +485,7 @@
 		
 		"visible"		"0"
 		
-		"fgcolor_override" "200 187 161 255"
+		"fgcolor_override" "HudOffWhite"
 	}
 	"Label4Explanation"
 	{
@@ -578,7 +578,7 @@
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 			"centerwrap"	"1"
 		}
 	}
@@ -731,7 +731,7 @@
 		"wide"	 				"286"
 		"tall"	 				"20"
 		"PaintBackgroundType"	"2"
-		"bgcolor_override"		"0 0 0 90"
+		"bgcolor_override"		"TransparentLightBlack"
 		"editable"				"1"
 	}
 	"PartnerIsTypingLabel"

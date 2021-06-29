@@ -16,17 +16,17 @@
 		
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"				"46 43 42 255"
-		"infocus_bgcolor_override"		"46 43 42 255"
-		"outoffocus_bgcolor_override"	"46 43 42 255"
+		"bgcolor_override"				"TanDarker"
+		"infocus_bgcolor_override"				"TanDarker"
+		"infocus_bgcolor_override"				"TanDarker"
 		
 		"title"			"#CharInfoAndSetup"
 		"title_font"	"HudFontMediumBold"
 		"titletextinsetX"	"40"
 		"titletextinsetY"	"0"
-		"titlebarfgcolor_override"				"200 187 161 255"
-		"titlebardisabledfgcolor_override"		"200 187 161 255"
-		"titlebarbgcolor_override"				"46 43 42 255"
+		"titlebarfgcolor_override"				"HudOffWhite"
+		"titlebardisabledfgcolor_override"		"HudOffWhite"
+		"titlebarbgcolor_override"				"TanDarker"
 	}
 	
 	"modelpanel"
@@ -90,7 +90,7 @@
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 			"centerwrap"	"1"
 		}
 	}
@@ -435,7 +435,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -592,7 +592,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -657,7 +657,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -813,7 +813,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"

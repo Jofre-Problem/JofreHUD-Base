@@ -42,7 +42,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"%og_price%"
-		"fgcolor"		"117 107 94 255"
+		"fgcolor"		"TanDark"
 	}
 
 	"OG_Price_CrossOut"

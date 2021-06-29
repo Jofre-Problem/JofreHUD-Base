@@ -205,7 +205,7 @@
 			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 			"centerwrap"	"1"
 		}
 	}
@@ -806,7 +806,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -963,7 +963,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1028,7 +1028,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1185,7 +1185,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1232,7 +1232,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1407,7 +1407,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1454,7 +1454,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1629,7 +1629,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1676,7 +1676,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1851,7 +1851,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1898,7 +1898,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2073,7 +2073,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2120,7 +2120,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2295,7 +2295,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2342,7 +2342,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2517,7 +2517,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2564,7 +2564,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2738,7 +2738,7 @@
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_armedcolor"	"HUDWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"

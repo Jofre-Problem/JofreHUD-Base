@@ -21,7 +21,7 @@
 			"enabled"		"1"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox2"
 		{
@@ -40,7 +40,7 @@
 			"enabled"		"1"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox3"
 		{
@@ -59,7 +59,7 @@
 			"enabled"		"1"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox4"
 		{
@@ -77,7 +77,7 @@
 			"enabled"		"1"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox5"
 		{
@@ -96,7 +96,7 @@
 			"enabled"		"1"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox6"
 		{
@@ -114,7 +114,7 @@
 			"enabled"		"1"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox7"
 		{
@@ -132,7 +132,7 @@
 			"enabled"		"1"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox8"
 		{
@@ -152,7 +152,7 @@
 			"enabled"		"1"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox9"
 		{
@@ -171,7 +171,7 @@
 			"enabled"		"1"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}	
 	}		
 }

@@ -22,7 +22,7 @@
      //   "pinCorner"     "0"
       //  "visible"       "1"
     //    "enabled"       "1"
-        "fgcolor_override" "200 80 60 255"
+        "fgcolor_override" "2LightRed"
     }
     "SelectPlayerDialog"
     {
@@ -109,7 +109,7 @@
             "pinCorner"     "0"
             "visible"       "1"
             "enabled"       "1"
-            "fgcolor_override" "200 187 161 255"
+            "fgcolor_override" "HudOffWhite"
         }   
 
         "subbutton0"
@@ -183,7 +183,7 @@
             "pinCorner"     "0"
             "visible"       "1"
             "enabled"       "1"
-            "fgcolor_override" "200 187 161 255"
+            "fgcolor_override" "HudOffWhite"
         }   
         
         "EmptyPlayerListLabel"
@@ -204,7 +204,7 @@
             "enabled"       "1"
             "wrap"          "1"
             "centerwrap"    "1"
-            "fgcolor_override" "200 187 161 255"
+            "fgcolor_override" "HudOffWhite"
         }
     }
 }

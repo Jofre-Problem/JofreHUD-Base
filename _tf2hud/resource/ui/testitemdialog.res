@@ -279,7 +279,7 @@
 			////"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 		}
 		"HideBodygroupCheckBox0"
 		{
@@ -299,7 +299,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"HideBodygroupCheckBox1"
 		{
@@ -319,7 +319,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"HideBodygroupCheckBox2"
 		{
@@ -339,7 +339,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"HideBodygroupCheckBox3"
 		{
@@ -359,7 +359,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"HideBodygroupCheckBox4"
 		{
@@ -379,7 +379,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"HideBodygroupCheckBox5"
 		{
@@ -399,7 +399,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"HideBodygroupCheckBox6"
 		{
@@ -419,7 +419,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"HideBodygroupCheckBox7"
 		{
@@ -439,7 +439,7 @@
 			
 			//"dulltext"		"0"
 			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 	}
 	

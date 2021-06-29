@@ -353,7 +353,7 @@
 			//"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 		}
 		"FreeTrialPoint2Dot"
 		{
@@ -387,7 +387,7 @@
 			//"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 		}
 		"FreeTrialPoint3Dot"
 		{
@@ -421,7 +421,7 @@
 			//"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 		}
 		"FreeTrialPoint4Dot"
 		{
@@ -455,7 +455,7 @@
 			//"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 		}
 
 		"BonusLabel"
