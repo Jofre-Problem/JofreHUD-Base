@@ -390,7 +390,7 @@
 					"fieldName"			"OptionCombo"
 					"Font"				"HudFontSmallest"
 					"xpos"				"190"
-					"ypos"				"0"
+					//"ypos"				"0"
 					"zpos"				"1"
 					"wide"				"165"
 					"tall"				"15"

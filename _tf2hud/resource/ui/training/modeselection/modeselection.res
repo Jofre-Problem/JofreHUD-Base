@@ -5,7 +5,7 @@
 		"ControlName"		"CModePanel"
 		"fieldName"			"BasicTrainingPanel"
 		//"xpos"				"0"
-		"ypos"				"0"
+		//"ypos"				"0"
 		"wide"				"225"
 		"tall"				"300"
 		
@@ -26,7 +26,7 @@
 		"ControlName"		"CModePanel"
 		"fieldName"			"OfflinePracticePanel"
 		"xpos"				"225"
-		"ypos"				"0"
+		//"ypos"				"0"
 		"wide"				"225"
 		"tall"				"300"
 		

@@ -79,7 +79,7 @@
 		"ControlName"		"CVictoryPanel"
 		"fieldName"			"VictoryPanelNormal"
 		//"xpos"				"0"
-		"ypos"				"0"
+		//"ypos"				"0"
 		"wide"				"f0"
 		"tall"				"480"
 		"visible"			"0"

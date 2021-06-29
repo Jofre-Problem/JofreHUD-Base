@@ -37,7 +37,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"OverlayPanel"
 		"xpos"				"20"
-		"ypos"				"0"
+		//"ypos"				"0"
 		"wide"				"300"
 		"tall"				"200"
 		

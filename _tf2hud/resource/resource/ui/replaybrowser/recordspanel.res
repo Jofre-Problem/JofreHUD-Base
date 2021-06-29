@@ -14,7 +14,7 @@
 		"labelText"			"#Replay_NoNewRecord"
 		//"textAlignment"		"west"
 		//"xpos"				"0"
-		"ypos"				"0"
+		//"ypos"				"0"
 		"zpos"				"1"
 		
 		
@@ -30,7 +30,7 @@
 		"labelText"			"#Replay_NoNewRecord"
 		//"textAlignment"		"west"
 		//"xpos"				"0"
-		"ypos"				"0"
+		//"ypos"				"0"
 		"zpos"				"1"
 		
 		
@@ -56,7 +56,7 @@
 		"labelText"			"0"
 		//"textAlignment"		"west"
 		//"xpos"				"0"
-		"ypos"				"0"
+		//"ypos"				"0"
 		"zpos"				"1"
 		
 		

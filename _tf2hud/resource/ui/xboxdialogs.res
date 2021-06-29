@@ -4194,7 +4194,7 @@
 		"fieldName"			"LoadingLabel"
 		"labeltext"			"#GameUI_Loading"
 		"xpos"				"2"
-		"ypos"				"0"
+		//"ypos"				"0"
 		"wide"				"200"
 		//"wide_hidef"		"250"
 		"tall"				"20"

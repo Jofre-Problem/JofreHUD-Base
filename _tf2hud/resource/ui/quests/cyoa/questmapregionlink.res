@@ -46,7 +46,7 @@
 			"proportionaltoparent" "1"
 			"textinsetx"	"25"
 			"use_proportional_insets"	"1"
-			"auto_wide_tocontents"	"0"
+			//"auto_wide_tocontents"	"0"
 
 			"armedFgColor_override"	"QuestMap_ActiveOrange"
 			"paintbackground"	"0"

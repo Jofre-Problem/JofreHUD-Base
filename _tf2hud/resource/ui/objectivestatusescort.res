@@ -532,7 +532,7 @@
 				"ControlName"		"CIconPanel"
 				"fieldName"			"Teardrop"
 				//"xpos"				"0"
-				"ypos"				"0"
+				//"ypos"				"0"
 				"zpos"				"0"
 				"wide"				"54"
 				"wide_minmode"			"35"				

@@ -131,7 +131,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"PlayingToCluster"
 		//"xpos"				"0"
-		"ypos"				"0"
+		//"ypos"				"0"
 		"zpos"				"10"
 		"wide"				"f0"
 		"tall"				"480"

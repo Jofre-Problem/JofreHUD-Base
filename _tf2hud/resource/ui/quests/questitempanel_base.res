@@ -570,7 +570,7 @@
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
 
-					"auto_wide_tocontents"	"0"
+					//"auto_wide_tocontents"	"0"
 					"paintbackground"	"0"
 					"paintborder"		"1"
 					"RoundedCorners"	"0"
@@ -662,7 +662,7 @@
 						"sound_depressed"	"UI/buttonclick.wav"
 						"sound_released"	"UI/buttonclickrelease.wav"
 
-						"auto_wide_tocontents"	"0"
+						//"auto_wide_tocontents"	"0"
 						"paintbackground"	"0"
 						"paintborder"		"1"
 						"RoundedCorners"	"0"
@@ -702,7 +702,7 @@
 						"sound_depressed"	"UI/buttonclick.wav"
 						"sound_released"	"UI/buttonclickrelease.wav"
 
-						"auto_wide_tocontents"	"0"
+						//"auto_wide_tocontents"	"0"
 						"paintbackground"	"0"
 						"paintborder"		"1"
 						"RoundedCorners"	"0"

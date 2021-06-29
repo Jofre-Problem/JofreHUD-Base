@@ -138,7 +138,7 @@
 		"ControlName"		"CheckButton"
 		"fieldName"			"Enable"	
 		"xpos"				"10"
-		"ypos"				"0"
+		//"ypos"				"0"
 		"wide"				"70"
 		"tall"				"24"
 		
@@ -153,7 +153,7 @@
 		"ControlName"		"CheckButton"
 		"fieldName"			"EnableEntities"	
 		"xpos"				"80"
-		"ypos"				"0"
+		//"ypos"				"0"
 		"wide"				"130"
 		"tall"				"24"
 		

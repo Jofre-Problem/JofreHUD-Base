@@ -15,7 +15,7 @@
 		"fieldName"			"BGPanel"
 		"ControlName"		"EditablePanel"
 		"xpos"				"cs-0.5"
-		"ypos"				"0"
+		//"ypos"				"0"
 		"wide"				"p1.3"
 		"tall"				"f0"
 

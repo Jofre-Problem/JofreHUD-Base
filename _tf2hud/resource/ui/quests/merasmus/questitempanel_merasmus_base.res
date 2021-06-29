@@ -141,8 +141,8 @@
 					"font"			"QuestMediumText_Merasmus"
 					//"textinsetx"		"0"
 					"textAlignment"	"center"
-					"auto_wide_tocontents"	"0"
-					"allcaps"	"0"
+					//"auto_wide_tocontents"	"0"
+					//"allcaps"	"0"
 
 					"proportionaltoparent"	"1"
 					"paintbackground"	"0"
@@ -172,7 +172,7 @@
 						"font"			"QuestInstructionText_Merasmus"
 						"labelText"		"#TF_Quest_PlayThisMap_Merasmission"
 
-						"auto_wide_tocontents"	"0"
+						//"auto_wide_tocontents"	"0"
 						"paintbackground"	"0"
 						"paintborder"		"1"
 						"RoundedCorners"	"0"
