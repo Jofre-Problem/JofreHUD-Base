@@ -3,6 +3,6 @@
 {
 	"Background"
 	{
-		
+		"autoResize"	"0"
 	}
 }

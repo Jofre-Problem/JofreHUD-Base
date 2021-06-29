@@ -3,19 +3,19 @@
 	"AcceptButton"
 	{
 		"fieldName"		"AcceptButton"
-		
-		
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"accept"
 	}
 	"DeclineButton"
 	{
 		"fieldName"		"DeclineButton"
-		
-		
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"decline"
 	}	
 }

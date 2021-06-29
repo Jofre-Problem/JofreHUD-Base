@@ -55,7 +55,7 @@
 		"xpos"		"10"
 	//	"wide"		"64"
 		"labelText"		"Submitter:"
-	//	//"textAlignment"		"west"
+	//	"textAlignment"		"west"
 	}	
 	"Label8"
 	{
@@ -63,14 +63,14 @@
 		"ypos"		"372"
 	//	"wide"		"64"
 		"labelText"		"Owner:"
-	//	//"textAlignment"		"west"
+	//	"textAlignment"		"west"
 	}
 	"Label9"
 	{
 		"xpos"		"10"
 	//	"wide"		"64"
 		"labelText"		"Severity:"
-	//	//"textAlignment"		"west"
+	//	"textAlignment"		"west"
 	}
 
 	"Label13"
@@ -80,15 +80,15 @@
 		"xpos"		"320"
 		"wide"		"84"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}	
 	"Label3"
 	{
@@ -100,7 +100,7 @@
 		"xpos"		"320"
 		"wide"		"92"
 		"labelText"		"Orientation:"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 	}		
 	"BugDescription"
 	{
@@ -112,16 +112,16 @@
 	}
 	"BugEmail"
 	{
-		
+		"xpos"		"0"
 		"ypos"		"0"
 		"wide"		"64"
 		"tall"		"24"
-			
+		"tabPosition"		"0"	
 		"maxchars"		"80"
 	}
 	"BugSubitterLabelPublic"
 	{
-		
+		"xpos"		"0"
 		"ypos"		"0"
 		"wide"		"64"
 	}
@@ -171,7 +171,7 @@
 		"xpos"		"10"
 		"ypos"		"208"
 		"wide"		"80"
-		
+		"enabled"		"1"
 		"tabPosition"		"12"
 		"labelText"		"Save game"
 	}
@@ -180,8 +180,8 @@
 		"xpos"		"10"
 		"ypos"		"235"
 		"wide"		"80"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"Include .bsp"
 		"Command"		"savebsp"
 	}
@@ -191,8 +191,8 @@
 		"ypos"		"262"
 		"wide"		"31"
 		"tall"		"23"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		".vmf"
 		"font"		"DefaultVerySmall"
 		"Command"		"savevmf"
@@ -206,17 +206,17 @@
 		"ypos"		"262"
 		"wide"		"48"
 		"tall"		"23"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Folder..."
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
 		"font"		"DefaultVerySmall"
-		//"wrap"		"0"
+		"wrap"		"0"
 		"Default"		"0"
 	}	
 
@@ -224,7 +224,7 @@
 	{
 		"xpos"		"10"
 		"wide"		"85"
-		//"visible"		"1"
+		"visible"		"1"
 		"labelText"		"Include file..."
 		"Command"		"addfile"
 	}
@@ -232,7 +232,7 @@
 	{
 		"xpos"		"10"
 		"wide"		"85"
-		//"visible"		"1"
+		"visible"		"1"
 		"labelText"		"Clear files"
 		"Command"		"clearfiles"
 	}
@@ -259,7 +259,7 @@
 		"xpos"		"420"
 		"wide"		"160"
 		"tall"		"24"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 	}	
 	"BugSubmitter"
 	{
@@ -289,14 +289,14 @@
 		"xpos"		"420"
 		"ypos"		"372"
 		"wide"		"160"
-		//"visible"		"1"
+		"visible"		"1"
 		"tabPosition"		"6"
 	}
 	"BugArea"
 	{
 		"xpos"		"420"
 		"wide"		"160"
-		//"visible"		"1"
+		"visible"		"1"
 		"tabPosition"		"7"
 	}
 	"BugSubmit"
@@ -312,7 +312,7 @@
 		"ypos"		"454"
 		"wide"		"64"
 		"labelText"		"Cancel"
-		//"Default"		"1"
+		"Default"		"1"
 	}
 	"BugClearForm"
 	{
@@ -326,9 +326,9 @@
 		"xpos"		"10"
 		"ypos"		"35"
 		"wide"		"64"
-		
+		"tabPosition"		"0"
 		"labelText"		"Title:"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 	}
 	"Label2"
 	{
@@ -336,7 +336,7 @@
 		"ypos"		"65"
 	//	"wide"		"80"
 		"labelText"		"Description:"
-	//	//"textAlignment"		"west"
+	//	"textAlignment"		"west"
 	}
 
 
@@ -350,7 +350,7 @@
 	{
 		"xpos"		"320"
 		"labelText"		"Build:"
-	//	//"textAlignment"		"west"
+	//	"textAlignment"		"west"
 	}	
 
 	"BuildModeDialog"

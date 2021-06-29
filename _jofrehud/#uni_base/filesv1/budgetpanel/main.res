@@ -3,6 +3,6 @@
 	BudgetPanel
 	{
 		"fieldName" "BudgetPanel"
-		
+		"enabled" "1"
 	}
 }	

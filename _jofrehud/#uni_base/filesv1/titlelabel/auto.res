@@ -2,6 +2,6 @@
 {
 	"TitleLabel"
 	{
-		
+		"autoresize"		"0"
 	}	
 }	

@@ -3,6 +3,6 @@
 {
 	"Background"
 	{
-		
+		"pinCorner"		"0"
 	}
 }

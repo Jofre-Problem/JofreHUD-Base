@@ -8,15 +8,15 @@
 		"ypos"		"35"
 		"wide"		"230"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Fade Visualization Mode:"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
 	}
 
 	"VisualizeMode"
@@ -27,14 +27,14 @@
 		"ypos"		"65"
 		"wide"		"230"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"textHidden"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"8"
-		//"NumericInputOnly"		"0"
+		"NumericInputOnly"		"0"
 	}
 }

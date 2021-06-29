@@ -2,6 +2,6 @@
 {
 	"StartButton"
 	{
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 	}	
 }	

@@ -3,8 +3,8 @@
 	"Name"
 	{
 		"ControlName"		"TextEntry"
-		//"textHidden"		"0"
-		//"editable"		"1"
-		//"NumericInputOnly"		"0"
+		"textHidden"		"0"
+		"editable"		"1"
+		"NumericInputOnly"		"0"
 	}	
 }	

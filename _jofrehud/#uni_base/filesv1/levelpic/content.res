@@ -2,7 +2,7 @@
 {
 	"LevelPicBorder"
 	{
-		
+		"xpos"		"0"
 		"ypos"		"40"
 		"wide"		"168"
 		"tall"		"106"

@@ -8,15 +8,15 @@
 		"ypos"		"42"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Channel:"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
 	}
 	"ColorMask"
 	{
@@ -26,14 +26,14 @@
 		"ypos"		"42"
 		"wide"		"130"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
-		//"textHidden"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
+		"NumericInputOnly"		"0"
 	}	
 }

@@ -2,6 +2,6 @@
 {
 	"progress"
 	{
-		
+		"tabPosition"		"0"
 	}
 }	

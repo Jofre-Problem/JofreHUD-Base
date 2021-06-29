@@ -3,6 +3,6 @@
 {
 	"CancelButton"
 	{
-		
+		"enabled"		"1"
 	}
 }

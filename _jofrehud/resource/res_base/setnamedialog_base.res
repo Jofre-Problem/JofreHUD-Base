@@ -21,16 +21,16 @@
 		"xpos"		"88"
 	//	"wide"		"64"
 	//	"tall"		"24"
-	//	
-	//	
-	//	//"visible"		"1"
-	//	
+	//	"autoResize"		"0"
+	//	"pinCorner"		"0"
+	//	"visible"		"1"
+	//	"enabled"		"1"
 		"tabPosition"		"6"
 	//	"labelText"		"#vgui_ok"
-	//	//"textAlignment"		"west"
-	//	//"dulltext"		"0"
-	//	//"brighttext"		"0"
-	//	//"wrap"		"0"
+	//	"textAlignment"		"west"
+	//	"dulltext"		"0"
+	//	"brighttext"		"0"
+	//	"wrap"		"0"
 	//	"Command"		"Ok"
 	}
 	"FirstNumber"
@@ -40,16 +40,16 @@
 		"xpos"		"54"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"3"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		//"unicode"		"0"
+		"unicode"		"0"
 	}
 	"Increment"
 	{
@@ -58,16 +58,16 @@
 		"xpos"		"198"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"4"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		//"unicode"		"0"
+		"unicode"		"0"
 	}
 	"NumDigits"
 	{
@@ -76,16 +76,16 @@
 		"xpos"		"344"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"5"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		//"unicode"		"0"
+		"unicode"		"0"
 	}
 	"FirstNumberLabel"
 	{
@@ -94,16 +94,16 @@
 		"xpos"		"10"
 		"wide"		"40"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"First:"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 	"IncrementLabel"
 	{
@@ -112,16 +112,16 @@
 		"xpos"		"124"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Increment:"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 	"NumDigitsLabel"
 	{
@@ -130,15 +130,15 @@
 		"xpos"		"273"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Num Digits:"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 }

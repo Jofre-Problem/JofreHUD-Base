@@ -10,15 +10,15 @@
 		//"fieldName"		"WarningLabel"
 		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		
+		"xpos"			"0"
 		"ypos"			"170"
-		
+		"zpos"			"0"
 		"wide"			"400"
 		"tall"			"20"
 		//"autoResize"	"1"
-		//
+		//"pinCorner"		"0"
 		//"visible"		"1"
-		
-		"fgcolor_override" "LightRed"
+		"enabled"		"1"
+		"fgcolor_override" "200 80 60 255"
 	}
 }

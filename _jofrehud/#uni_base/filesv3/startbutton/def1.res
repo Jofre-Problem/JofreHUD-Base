@@ -2,6 +2,6 @@
 {
 	"StartButton"
 	{
-		//"Default"		"1"
+		"default"		"1"
 	}	
 }	

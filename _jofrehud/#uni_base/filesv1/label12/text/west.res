@@ -2,6 +2,6 @@
 {
 	"Label12"
 	{
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 	}	
 }	

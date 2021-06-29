@@ -2,6 +2,6 @@
 {
 	"OKButton"
 	{
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 	}	
 }	

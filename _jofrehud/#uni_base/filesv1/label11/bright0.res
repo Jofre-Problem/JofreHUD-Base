@@ -2,6 +2,6 @@
 {
 	"Label11"
 	{
-		//"brighttext"		"0"
+		"brighttext"		"0"
 	}	
 }	

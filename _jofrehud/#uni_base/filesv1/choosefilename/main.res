@@ -8,16 +8,16 @@
 		"ypos"		"42"
 		"wide"		"100"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Choose File"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"command"		"ChooseFile"
 		"Default"		"0"
 		"selected"		"0"

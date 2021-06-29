@@ -82,11 +82,11 @@
 		"ypos"		"120"
 		"wide"		"64"
 		"tall"		"64"
-		
-		
-		//"visible"		"1"
-		
-		//"textAlignment"		"west"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"		"west"
 		"image"			"techcredits/bink"
 		"scaleImage"	"1"
 	}

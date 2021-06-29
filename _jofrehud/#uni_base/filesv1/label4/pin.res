@@ -2,6 +2,6 @@
 {
 	"Label4"
 	{
-		
+		"pinCorner"		"0"
 	}	
 }	

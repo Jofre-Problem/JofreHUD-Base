@@ -15,15 +15,15 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"InfoTarget"
-		
+		"xpos"		"0"
 		"ypos"		"0"
 		"wide"		"784"
 		"tall"		"152"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 	}
 	"TargetName"
 	{
@@ -35,15 +35,15 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		"UnpinnedCornerOffsetX" "-20"
-		
-		//"visible"		"1"
-		
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"TargetNameLabel"
 	{
@@ -53,17 +53,17 @@
 		"ypos"		"3"
 		"wide"		"150"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Target Name:"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
 		"font"		"DefaultBold"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 	"PositionLabel"
 	{
@@ -73,17 +73,17 @@
 		"ypos"		"66"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Location:"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
 		"font"		"DefaultBold"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 	"TargetPositionLabel"
 	{
@@ -93,16 +93,16 @@
 		"ypos"		"90"
 		"wide"		"100"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Position"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 	"PositionX"
 	{
@@ -112,16 +112,16 @@
 		"ypos"		"90"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"2"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		//"unicode"		"0"
+		"unicode"		"0"
 	}
 	"PositionXLabel"
 	{
@@ -131,16 +131,16 @@
 		"ypos"		"90"
 		"wide"		"15"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"X"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 	"PositionYLabel"
 	{
@@ -150,16 +150,16 @@
 		"ypos"		"90"
 		"wide"		"15"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Y"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 	"PositionZLabel"
 	{
@@ -169,16 +169,16 @@
 		"ypos"		"90"
 		"wide"		"15"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Z"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 	"PositionY"
 	{
@@ -188,16 +188,16 @@
 		"ypos"		"90"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"3"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		//"unicode"		"0"
+		"unicode"		"0"
 	}
 	"PositionZ"
 	{
@@ -207,16 +207,16 @@
 		"ypos"		"90"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"4"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		//"unicode"		"0"
+		"unicode"		"0"
 	}
 	"OrientationLabel"
 	{
@@ -226,16 +226,16 @@
 		"ypos"		"118"
 		"wide"		"100"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Orientation"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 	"pitch"
 	{
@@ -245,16 +245,16 @@
 		"ypos"		"118"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"5"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		//"unicode"		"0"
+		"unicode"		"0"
 	}
 	"Yaw"
 	{
@@ -264,16 +264,16 @@
 		"ypos"		"118"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"6"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		//"unicode"		"0"
+		"unicode"		"0"
 	}
 	"Roll"
 	{
@@ -283,16 +283,16 @@
 		"ypos"		"118"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"7"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
 		"NumericInputOnly"		"1"
-		//"unicode"		"0"
+		"unicode"		"0"
 	}
 	"PitchLabel"
 	{
@@ -302,16 +302,16 @@
 		"ypos"		"118"
 		"wide"		"30"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Pitch"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 	"YawLabel"
 	{
@@ -321,16 +321,16 @@
 		"ypos"		"118"
 		"wide"		"30"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Yaw"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 	"RollLabel"
 	{
@@ -340,16 +340,16 @@
 		"ypos"		"118"
 		"wide"		"30"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Roll"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 
 }

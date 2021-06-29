@@ -6,15 +6,15 @@
 		"fieldName"		"DemoPlayPauseResume"
 		"wide"		"58"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		
+		"tabPosition"		"0"
 		"labelText"		"Play"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"play"
 	}
 	"DemoStop"
@@ -22,15 +22,15 @@
 		"ControlName"		"Button"
 		"fieldName"		"DemoStop"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		
+		"tabPosition"		"0"
 		"labelText"		"Stop"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"stop"
 		"Default"		"0"
 	}
@@ -40,15 +40,15 @@
 		"fieldName"		"DemoLoad"
 
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Load..."
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"load"
 	}
 	"DemoGoStart"
@@ -56,15 +56,15 @@
 		"fieldName"		"DemoGoStart"
 		"wide"		"32"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
+		"tabPosition"		"0"
 		"labelText"		"|<"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"reload"
 		"Default"		"0"
 	}
@@ -74,15 +74,15 @@
 		"fieldName"		"DemoGoEnd"
 		"wide"		"32"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
+		"tabPosition"		"0"
 		"labelText"		">|"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"DemoFastForward"
@@ -91,15 +91,15 @@
 		"fieldName"		"DemoFastForward"
 		"wide"		"32"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
+		"tabPosition"		"0"
 		"labelText"		">>"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"DemoFastBackward"
@@ -108,16 +108,16 @@
 		"fieldName"		"DemoFastBackward"
 		"wide"		"32"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		
+		"tabPosition"		"0"
 		"labelText"		"<<"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"DemoPrevFrame"
@@ -126,16 +126,16 @@
 		"fieldName"		"DemoPrevFrame"
 		"wide"		"24"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		
+		"tabPosition"		"0"
 		"labelText"		"<"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"prevframe"
 		"Default"		"0"
 	}
@@ -145,26 +145,26 @@
 		"fieldName"		"DemoNextFrame"
 		"wide"		"24"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		
+		"tabPosition"		"0"
 		"labelText"		">"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"nextframe"
 		"Default"		"0"
 	}
 	"DemoProgress"
 	{
 		"fieldName"		"DemoProgress"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
+		"tabPosition"		"0"
 	}
 	"DemoProgressLabelFrame"
 	{
@@ -173,15 +173,15 @@
 		"xpos"		"12"
 		"wide"		"116"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
 		"brighttext"		"1"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 	"DemoProgressLabelTime"
 	{
@@ -189,15 +189,15 @@
 		"fieldName"		"DemoProgressLabelTime"
 		"wide"		"116"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
 		"brighttext"		"1"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 	"DemoSpeedScale"
 	{
@@ -205,11 +205,11 @@
 		"fieldName"		"DemoSpeedScale"
 		"wide"		"98"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 	}
 	"SpeedScale"
 	{
@@ -218,14 +218,14 @@
 
 		"wide"		"54"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 }

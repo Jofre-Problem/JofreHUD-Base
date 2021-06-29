@@ -8,11 +8,11 @@
 		"ypos"			"128"
 		"wide"			"580"
 		"tall"			"380"
-		
-		
-		//"visible"		"1"
-		
-		
+		"AutoResize"	"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"settitlebarvisible"	"1"
 		"title"		"Select"
 		
@@ -24,15 +24,15 @@
 			"ypos"		"350"
 			"wide"		"122"
 			"tall"		"24"
-			
+			"autoResize"		"0"
 			"pinCorner"		"2"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"Yes"
 			"textAlignment"		"center"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
-			//"Default"		"1"
+			"dulltext"		"0"
+			"brighttext"		"0"
+			"Default"		"1"
 		}
 
 		"NoButton"
@@ -43,15 +43,15 @@
 			"ypos"		"350"
 			"wide"		"122"
 			"tall"		"24"
-			
+			"autoResize"		"0"
 			"pinCorner"		"2"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"No"
 			"textAlignment"		"center"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
-			//"Default"		"1"
+			"dulltext"		"0"
+			"brighttext"		"0"
+			"Default"		"1"
 		}
 	}
 }

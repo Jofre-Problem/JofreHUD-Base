@@ -2,6 +2,6 @@
 {
 	"Play"
 	{
-		
+		"pinCorner"		"0"
 	}	
 }	

@@ -5,11 +5,11 @@
 		"ControlName"		"URLLabel"
 		"fieldName"		"URLLabel1"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"enabled"		"1"
+		"textAlignment"		"west"
+		"wrap"		"0"
 	}
 }

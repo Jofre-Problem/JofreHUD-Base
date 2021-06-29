@@ -2,6 +2,6 @@
 {
 	"StartButton"
 	{
-		
+		"pinCorner"		"0"
 	}	
 }	

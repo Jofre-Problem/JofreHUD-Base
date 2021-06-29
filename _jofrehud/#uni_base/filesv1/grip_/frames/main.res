@@ -8,11 +8,11 @@
 		"ypos"		"0"
 	//	"wide"		"584"
 		"tall"		"5"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 	}
 	"frame_bottomGrip"
 	{
@@ -20,24 +20,24 @@
 		"fieldName"		"frame_bottomGrip"
 		"xpos"		"8"
 		"tall"		"5"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 	}
 	"frame_leftGrip"
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"frame_leftGrip"
-		
+		"xpos"		"0"
 		"ypos"		"8"
 		"wide"		"5"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 	}
 	"frame_rightGrip"
 	{
@@ -45,25 +45,25 @@
 		"fieldName"		"frame_rightGrip"
 		"ypos"		"8"
 		"wide"		"5"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 	}
 	"frame_tlGrip"
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"frame_tlGrip"
-		
+		"xpos"		"0"
 		"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 	}
 	"frame_trGrip"
 	{
@@ -73,25 +73,25 @@
 		"ypos"		"0"
 		"wide"		"8"
 		"tall"		"8"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 	}
 	"frame_blGrip"
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"frame_blGrip"
-		
+		"xpos"		"0"
 	//	"ypos"		"472"
 		"wide"		"8"
 		"tall"		"8"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 	}
 	"frame_brGrip"
 	{
@@ -99,83 +99,83 @@
 		"fieldName"		"frame_brGrip"
 		"wide"		"18"
 		"tall"		"18"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 	}
 	"frame_caption"
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"frame_caption"
-		
+		"xpos"		"0"
 		"ypos"		"0"
 		"tall"		"23"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 	}
 	"frame_minimize"
 	{
 		"ControlName"		"Button"
 		"fieldName"		"frame_minimize"
-		
+		"xpos"		"0"
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"0"
 		"textAlignment"		"north-west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"frame_maximize"
 	{
 		"ControlName"		"Button"
 		"fieldName"		"frame_maximize"
-		
+		"xpos"		"0"
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"1"
 		"textAlignment"		"north-west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"frame_mintosystray"
 	{
 		"ControlName"		"Button"
 		"fieldName"		"frame_mintosystray"
-		
+		"xpos"		"0"
 		"ypos"		"0"
 		"wide"		"18"
 		"tall"		"18"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"o"
 		"textAlignment"		"north-west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"MinimizeToSysTray"
 		"Default"		"0"
 	}
@@ -186,16 +186,16 @@
 		"ypos"		"8"
 		"wide"		"18"
 		"tall"		"18"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"r"
 		"textAlignment"		"north-west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"frame_menu"
@@ -206,15 +206,15 @@
 		"ypos"		"8"
 		"wide"		"18"
 		"tall"		"18"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 }	

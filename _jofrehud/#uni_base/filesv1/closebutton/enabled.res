@@ -2,6 +2,6 @@
 {
 	"CloseButton"
 	{
-		
+		"enabled"		"1"
 	}	
 }	

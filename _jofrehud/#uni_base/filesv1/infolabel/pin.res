@@ -2,6 +2,6 @@
 {
 	"InfoLabel"
 	{
-		
+		"pinCorner"		"0"
 	}	
 }	

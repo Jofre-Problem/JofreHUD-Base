@@ -2,6 +2,6 @@
 {
 	"OKButton"
 	{
-		
+		"autoresize"		"0"
 	}	
 }	

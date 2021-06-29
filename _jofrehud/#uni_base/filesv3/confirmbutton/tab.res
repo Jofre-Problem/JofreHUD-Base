@@ -2,6 +2,6 @@
 {
 	"ConfirmButton"
 	{
-		
+		"tabPosition"		"0"
 	}	
 }	

@@ -2,6 +2,6 @@
 {
 	"StartButton"
 	{
-		//"brighttext"		"0"
+		"brighttext"		"0"
 	}	
 }	

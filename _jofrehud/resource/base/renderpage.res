@@ -8,10 +8,10 @@
 		"ypos"			"6"
 		"wide"			"256"
 		"tall"			"256"
-		
-		
-		//"visible"		"1"
-		
-		
+		"AutoResize"	"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 	}
 }

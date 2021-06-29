@@ -8,14 +8,14 @@
 		"ypos"		"90"
 		"wide"		"260"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Label"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		"brighttext"		"0"
 	}
 }	

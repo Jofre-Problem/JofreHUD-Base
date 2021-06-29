@@ -2,6 +2,6 @@
 {
 	"InfoLabel"
 	{
-		//"brighttext"		"0"
+		"brighttext"		"0"
 	}	
 }	

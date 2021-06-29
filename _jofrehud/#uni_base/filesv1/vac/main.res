@@ -5,15 +5,15 @@
 		"ControlName"		"Label"
 		"fieldName"		"VACInfoLabel"
 		"wide"		"300"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
+		"enabled"		"1"
 		"wrap"			"1"
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
 	}
 	"VACImage"
 	{
@@ -21,10 +21,10 @@
 		"fieldName"		"VACImage"
 		"wide"		"64"
 		"tall"		"64"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
+		"enabled"		"1"
 		"border"		""
 		"scaleimage"	"1"
 		"image"		"resource/icon_vac"

@@ -2,6 +2,6 @@
 {
 	"OKButton"
 	{
-		//"wrap"		"0"
+		"wrap"		"0"
 	}	
 }	

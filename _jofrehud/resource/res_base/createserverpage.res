@@ -11,28 +11,28 @@
 	"ServerPage"
 	{
 		"fieldName"		"ServerPage"
-		
-		
-		
+		"xpos"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 	}
 	"MapList"
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"		"MapList"
 		"xpos"		"56"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
+		"enabled"		"1"
 		"tabPosition"		"5"
-		//"textHidden"		"0"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"MapLabel"
 	{
@@ -40,16 +40,16 @@
 	//	"fieldName"		"MapLabel"
 		"wide"		"40"
 		"tall"		"24"
-	//	
-	//	
+	//	"autoResize"		"0"
+	//	"pinCorner"		"0"
 	//	"visible"		"1"
-	//	
-	//	
+	//	"enabled"		"1"
+	//	"tabPosition"		"0"
 		"labelText"		"#GameUI_Map"
-	//	//"textAlignment"		"west"
+	//	"textAlignment"		"west"
 		"associate"		"MapList"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 }

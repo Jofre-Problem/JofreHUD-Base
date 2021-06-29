@@ -4,8 +4,8 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"Refresh"
-		
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 }	

@@ -2,6 +2,6 @@
 {
 	"InfoLabel"
 	{
-		
+		"autoresize"		"0"
 	}	
 }	

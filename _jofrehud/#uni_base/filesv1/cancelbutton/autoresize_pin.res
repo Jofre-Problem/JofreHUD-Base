@@ -4,6 +4,6 @@
 	"CancelButton"
 	{
 
-		
+		"PinCorner"		"0"
 	}
 }

@@ -2,6 +2,6 @@
 {	
 	"WarningLabel"
 	{
-		
+		"pinCorner"		"0"
 	}
 }

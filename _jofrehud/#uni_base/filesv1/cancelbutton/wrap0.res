@@ -3,6 +3,6 @@
 {
 	"CancelButton"
 	{
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 }

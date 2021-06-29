@@ -2,6 +2,6 @@
 {
 	"StartButton"
 	{
-		
+		"tabPosition"		"0"
 	}	
 }	

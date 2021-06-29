@@ -2,6 +2,6 @@
 {
 	"FileNameLabel"
 	{
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 	}
 }	

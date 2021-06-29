@@ -128,57 +128,57 @@
 	//	"ControlName"		"Label"
 	//	"fieldName"		"Label1"
 	//	"tall"		"24"
-	//	
-	//	
-	//	//"visible"		"1"
-	//	
-	//	
-	//	//"dulltext"		"0"
-	//	//"brighttext"		"0"
-	//	//"wrap"		"0"
+	//	"autoResize"		"0"
+	//	"pinCorner"		"0"
+	//	"visible"		"1"
+	//	"enabled"		"1"
+	//	"tabPosition"		"0"
+	//	"dulltext"		"0"
+	//	"brighttext"		"0"
+	//	"wrap"		"0"
 	}
 	"BugDescription"
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"BugDescription"
-		
-		
-		//"visible"		"1"
-		
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"BugEmail"
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"BugEmail"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		//"textHidden"		"0"
-		//"editable"		"1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"enabled"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"BugSubitterLabelPublic"
 	{
 		"ControlName"		"Label"
 		"fieldName"		"BugSubitterLabelPublic"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}	
 	"BugScreenShotURL"
 	{
@@ -186,15 +186,15 @@
 		"fieldName"		"BugScreenShotURL"
 		"wide"		"210"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 	"BugSaveGameURL"
 	{
@@ -202,74 +202,74 @@
 		"fieldName"		"BugSaveGameURL"
 		"wide"		"210"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 	"BugBSPURL"
 	{
 		"ControlName"		"Label"
 		"fieldName"		"BugBSPURL"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 	"BugVMFURL"
 	{
 		"ControlName"		"Label"
 		"fieldName"		"BugVMFURL"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}	
 	"BugIncludedFiles"
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"BugIncludedFiles"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
-		//"textHidden"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"BugTakeShot"
 	{
 		"ControlName"		"Button"
 		"fieldName"		"BugTakeShot"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"snapshot"
 		"Default"		"0"
 	}
@@ -278,13 +278,13 @@
 		"ControlName"		"Button"
 		"fieldName"		"BugSaveGame"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"savegame"
 		"Default"		"0"
 	}	
@@ -293,26 +293,26 @@
 		"ControlName"		"Button"
 		"fieldName"		"BugSaveBSP"
 		"tall"		"24"
-		
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"BugSaveVMF"
 	{
 		"ControlName"		"Button"
 		"fieldName"		"BugSaveVMF"
-		
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"BugIncludeFile"
@@ -320,14 +320,14 @@
 		"ControlName"		"Button"
 		"fieldName"		"BugIncludeFile"
 		"tall"		"24"
-		
-		
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"BugClearIncludedFiles"
@@ -335,14 +335,14 @@
 		"ControlName"		"Button"
 		"fieldName"		"BugClearIncludedFiles"
 		"tall"		"24"
-		
-		
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"BugPosition"
@@ -350,174 +350,174 @@
 		"ControlName"		"Label"
 		"fieldName"		"BugPosition"
 		"wide"		"160"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}	
 	"BugOrientation"
 	{
 		"ControlName"		"Label"
 		"fieldName"		"BugOrientation"
 		"wide"		"160"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 	"BugLevel"
 	{
 		"ControlName"		"Label"
 		"fieldName"		"BugLevel"
 		"wide"		"160"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 	"BugBuild"
 	{
 		"ControlName"		"Label"
 		"fieldName"		"BugBuild"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 	"BugSubmitter"
 	{
 		"ControlName"		"Label"
 		"fieldName"		"BugSubmitter"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 	"BugOwner"
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"		"BugOwner"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		//"textHidden"		"0"
+		"enabled"		"1"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"BugSeverity"
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"		"BugSeverity"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		//"textHidden"		"0"
+		"enabled"		"1"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"BugReportType"
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"		"BugReportType"
 		"tall"		"24"
-		
-		
-		
-		//"textHidden"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"enabled"		"1"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"BugPriority"
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"		"BugPriority"
 		"tall"		"24"
-		
-		
-		
-		//"textHidden"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"enabled"		"1"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"BugArea"
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"		"BugArea"
 		"tall"		"24"
-		
-		
-		
-		//"textHidden"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"enabled"		"1"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"BugMapNumber"
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"		"BugMapNumber"
 		"tall"		"24"
-		
-		
-		
-		
-		//"textHidden"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}		
 	"BugSubmit"
 	{
 		"ControlName"		"Button"
 		"fieldName"		"BugSubmit"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"enabled"		"0"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"submit"
 		"Default"		"0"
 	}
@@ -526,14 +526,14 @@
 		"ControlName"		"Button"
 		"fieldName"		"BugCancel"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"cancel"
 	}
 	"BugClearForm"
@@ -541,14 +541,14 @@
 		"ControlName"		"Button"
 		"fieldName"		"BugClearForm"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"clearform"
 	}
 

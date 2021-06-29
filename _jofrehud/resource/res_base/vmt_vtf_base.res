@@ -8,14 +8,14 @@
 		{
 			"ControlName"	"Splitter"
 			"fieldName"		"PreviewSplitter"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"AutoResize"	"3"
-			
-			
-			
-			
-			
+			"PinCorner"		"0"
+			"xpos"			"0"
+			"ypos"			"0"
+			"UnpinnedCornerOffsetX" "0"
+			"UnpinnedCornerOffsetY" "0"
 			
 			"child0"
 			{
@@ -23,12 +23,12 @@
 				{
 					"ControlName"	"Splitter"
 					"fieldName"		"AssetSplitter"
-					//"visible"		"1"
-					
-					
+					"visible"		"1"
+					"enabled"		"1"
+					"pinCorner"		"0"
 					"AutoResize"	"3"
-					
-					
+					"PinnedCornerOffsetX" "0"
+					"PinnedCornerOffsetX" "0"
 					
 					"child0"
 					{
@@ -40,16 +40,16 @@
 							"ypos"			"6"
 							"wide"			"65"
 							"tall"			"24"
-							
-							
+							"autoResize"	"0"
+							"pinCorner"		"0"
 							"PinnedCornerOffsetX" "6"
-							//"visible"		"1"
-							
-							
+							"visible"		"1"
+							"enabled"		"1"
+							"tabPosition"	"0"
 							"labelText"		"Mod Filter"
 							"textAlignment"	"east"
 							"dulltext"		"1"
-							//"brighttext"	"0"
+							"brighttext"	"0"
 						}
 						
 						"ModFilter"
@@ -61,17 +61,17 @@
 							"wide"			"256"
 							"tall"			"24"
 							"AutoResize"	"1"
-							
+							"PinCorner"		"0"
 							"PinnedCornerOffsetX" "75"
 							"UnpinnedCornerOffsetX" "-70"
-							//"visible"		"1"
-							
-							
+							"visible"		"1"
+							"enabled"		"1"
+							"tabPosition"	"0"
 							"textHidden"	"0"
 							"editable"		"0"
 							"maxchars"		"-1"
-							//"NumericInputOnly"		"0"
-							//"unicode"		"0"
+							"NumericInputOnly"		"0"
+							"unicode"		"0"
 						}
 						
 						"RescanButton"
@@ -83,13 +83,13 @@
 							"wide"			"60"
 							"tall"			"24"
 							"PinnedCornerOffsetX" "-6"
-							
+							"AutoResize"	"0"
 							"PinCorner"		"1"
 							"labelText"		"#AssetPicker_Rescan"
 							"textAlignment"	"center"
-							//"visible"		"1"
-							
-							
+							"visible"		"1"
+							"enabled"		"1"
+							"tabPosition"	"0"
 							"textHidden"	"0"
 							"Default"		"0"
 							"command"		"AssetRescan"
@@ -104,12 +104,12 @@
 							"wide"			"65"
 							"tall"			"24"
 							"autoResize"	"3"
-							
+							"pinCorner"		"0"
 							"UnpinnedCornerOffsetX" "-6"
 							"UnpinnedCornerOffsetY" "-6"
-							//"visible"		"1"
-							
-							
+							"visible"		"1"
+							"enabled"		"1"
+							"tabPosition"	"0"
 						}						
 					}
 					
@@ -124,11 +124,11 @@
 							"wide"			"256"
 							"tall"			"212"
 							"AutoResize"	"3"
-							
+							"PinCorner"		"0"
 							"UnpinnedCornerOffsetX" "-6"
 							"UnpinnedCornerOffsetY" "-64"
-							//"visible"		"1"
-							
+							"visible"		"1"
+							"enabled"		"1"
 							"tabPosition"	"1"
 						}
 						
@@ -140,17 +140,17 @@
 							"ypos"			"210"
 							"wide"			"65"
 							"tall"			"24"
-							
+							"autoResize"	"0"
 							"pinCorner"		"2"
 							"PinnedCornerOffsetX" "6"
 							"PinnedCornerOffsetY" "-34"
-							//"visible"		"1"
-							
-							
+							"visible"		"1"
+							"enabled"		"1"
+							"tabPosition"	"0"
 							"labelText"		"Full Path"
 							"textAlignment"	"east"
 							"dulltext"		"1"
-							//"brighttext"	"0"
+							"brighttext"	"0"
 						}
 										
 						"FullPath"
@@ -166,14 +166,14 @@
 							"PinnedCornerOffsetX" "75"
 							"PinnedCornerOffsetY" "-34"
 							"UnpinnedCornerOffsetX" "-6"
-							//"visible"		"1"
+							"visible"		"1"
 							"enabled"		"0"
 							"editable"		"0"
-							
+							"tabPosition"	"0"
 							"labelText"		""
-							//"textAlignment"	"west"
+							"textAlignment"	"west"
 							"dulltext"		"1"
-							//"brighttext"	"0"
+							"brighttext"	"0"
 						}
 					
 						"FilterLabel"
@@ -184,17 +184,17 @@
 							"ypos"			"210"
 							"wide"			"65"
 							"tall"			"24"
-							
+							"autoResize"	"0"
 							"pinCorner"		"2"
 							"PinnedCornerOffsetX" "6"
 							"PinnedCornerOffsetY" "-6"
-							//"visible"		"1"
-							
-							
+							"visible"		"1"
+							"enabled"		"1"
+							"tabPosition"	"0"
 							"labelText"		"Filter"
 							"textAlignment"	"east"
 							"dulltext"		"1"
-							//"brighttext"	"0"
+							"brighttext"	"0"
 						}
 						
 						"FilterList"
@@ -210,14 +210,14 @@
 							"PinnedCornerOffsetX" "75"
 							"PinnedCornerOffsetY" "-6"
 							"UnpinnedCornerOffsetX" "-6"
-							//"visible"		"1"
-							
+							"visible"		"1"
+							"enabled"		"1"
 							"tabPosition"	"2"
 							"textHidden"	"0"
-							//"editable"		"1"
+							"editable"		"1"
 							"maxchars"		"-1"
-							//"NumericInputOnly"		"0"
-							//"unicode"		"0"
+							"NumericInputOnly"		"0"
+							"unicode"		"0"
 						}
 					}
 				}

@@ -13,16 +13,16 @@
 		"ypos"		"46"
 		"wide"		"464"
 		"tall"		"24"
-	//	
-	//	
-	//	//"visible"		"1"
-	//	
-	//	
+	//	"autoResize"		"0"
+	//	"pinCorner"		"0"
+	//	"visible"		"1"
+	//	"enabled"		"1"
+	//	"tabPosition"		"0"
 		"labelText"		""
 		"textAlignment"		"center"
-	//	//"dulltext"		"0"
-	//	//"brighttext"		"0"
-	//	//"wrap"		"0"
+	//	"dulltext"		"0"
+	//	"brighttext"		"0"
+	//	"wrap"		"0"
 	//	"font" "defaultverysmall"
 	}
 	"Yes"
@@ -33,18 +33,18 @@
 		"ypos"		"80"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Yes"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"yes"
-		//"Default"		"1"
+		"Default"		"1"
 	}
 	"No"
 	{
@@ -54,16 +54,16 @@
 		"ypos"		"80"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"No"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"no"
 		"Default"		"0"
 	}

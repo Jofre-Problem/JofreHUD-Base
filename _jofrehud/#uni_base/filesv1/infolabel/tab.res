@@ -2,6 +2,6 @@
 {
 	"InfoLabel"
 	{
-		
+		"tabPosition"		"0"
 	}	
 }	
