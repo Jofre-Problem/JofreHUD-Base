@@ -9,18 +9,18 @@
 		"zpos"			"3"
 		"wide"			"124"
 		"tall"			"310"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"	"1"
 		"textAlignment"	"south-west"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
-		//"paintborder"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"paintborder"	"0"
 		"associated_model"	"autodoor"
 		"font"			"MenuMainTitle"
-		"fgcolor"		"HUDWhite"
+		"fgcolor"		"255 255 255 255"
 	}
 	"teambutton3"
 	{
@@ -31,17 +31,17 @@
 		"zpos"			"3"
 		"wide"			"82"
 		"tall"			"57"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"	"2"
 		"textAlignment"	"south-west"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
-		//"paintborder"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"paintborder"	"0"
 		"associated_model"	"spectate"	
 		"font"			"MenuMainTitle"
-		"fgcolor"		"HUDWhite"
+		"fgcolor"		"255 255 255 255"
 	}
 }

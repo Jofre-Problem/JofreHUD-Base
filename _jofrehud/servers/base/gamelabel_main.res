@@ -6,15 +6,15 @@
 		"ControlName"		"Label"
 		"fieldName"		"GameLabel"
 		"tall"		"20"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#ServerBrowser_GameLabel"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 }

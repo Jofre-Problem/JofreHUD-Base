@@ -197,8 +197,8 @@
 
 			"PartyLowPriorityImage"
 			{
-				
-				
+				"xpos"			"0"
+				"ypos"			"0"
 				"wide"			"50"
 				"tall"			"50"
 				"scaleImage"	"1"

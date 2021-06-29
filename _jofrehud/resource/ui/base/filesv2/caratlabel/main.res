@@ -5,9 +5,9 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"CaratLabel"
 		"labelText"		">>"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"tall"			"15"
-		
-		
+		"pinCorner"		"0"
+		"enabled"		"1"
 	}
 }	

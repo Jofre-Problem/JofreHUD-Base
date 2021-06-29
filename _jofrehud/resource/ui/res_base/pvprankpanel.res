@@ -16,12 +16,12 @@
 		{
 			"ControlName"	"CTFParticlePanel"
 			"fieldName"		"BelowModelParticlePanel"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"f0"
-			////"visible"		"1"
+			"visible"		"1"
 			"proportionaltoparent"	"1"
 
 			if_mini
@@ -51,13 +51,13 @@
 			"fieldName"		"RankModel"
 			"xpos"			"cs-0.5"
 			"ypos"			"cs-0.5"
-					
+			"zpos"			"0"		
 			"wide"			"o1"
 			"tall"			"p0.12"
-			
-			
-			////"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"fov"			"70"
 			"proportionaltoparent"	"1"
 
@@ -113,12 +113,12 @@
 		{
 			"ControlName"	"CTFParticlePanel"
 			"fieldName"		"AboveModelParticlePanel"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"f0"
 			"tall"			"f0"
-			////"visible"		"1"
+			"visible"		"1"
 			"proportionaltoparent"	"1"
 
 			"paintbackground"	"0"
@@ -190,7 +190,7 @@
 		"zpos"			"-1"
 		"wide"			"260"
 		"tall"			"f40"
-		////"visible"		"1"
+		"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"proportionaltoparent"	"1"
 
@@ -211,8 +211,8 @@
 			"wide"			"f0"
 			"zpos"			"100"
 			"tall"			"20"
-			////"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"font"			"HudFontSmallishBold"
 			"fgcolor_override"	"TanLight"
 			"textAlignment"	"north-west"
@@ -234,8 +234,8 @@
 			"wide"			"195"
 			"zpos"			"100"
 			"tall"			"20"
-			////"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"font"			"HudFontSmallestBold"
 			"fgcolor_override"	"TanLight"
 			"textAlignment"	"north-west"
@@ -265,8 +265,8 @@
 			"wide"			"195"
 			"zpos"			"100"
 			"tall"			"20"
-			////"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"font"			"HudFontSmallestBold"
 			"fgcolor_override"	"TanLight"
 			"textAlignment"	"north-west"
@@ -298,7 +298,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"StatsContainer"
 			"xpos"			"rs1-5"
-			
+			"ypos"			"0"
 			"wide"			"f70"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
@@ -306,7 +306,7 @@
 			if_mini
 			{
 				"xpos"			"rs1-10"
-				
+				"ypos"			"0"
 				"wide"			"p0.85"
 			}
 
@@ -326,13 +326,13 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"CurrentXPLabel"
-					
+					"xpos"			"0"
 					"ypos"			"rs1"
-					
+					"zpos"			"0"
 					"wide"			"100"
 					"tall"			"20"
-					////"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"font"			"ItemFontAttribSmall"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"south-west"
@@ -346,11 +346,11 @@
 					"fieldName"		"NextLevelXPLabel"
 					"xpos"			"rs1"
 					"ypos"			"rs1"
-					
+					"zpos"			"0"
 					"wide"			"100"
 					"tall"			"20"
-					////"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"font"			"ItemFontAttribSmall"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"south-east"
@@ -362,7 +362,7 @@
 				{
 					"Controlname"	"EditablePanel"
 					"fieldName"		"ProgressBarsContainer"
-					
+					"xpos"			"0"
 					"ypos"			"rs1-10"
 					"wide"			"p1"
 					"tall"			"7"
@@ -372,7 +372,7 @@
 					{
 						"ControlName"	"ProgressBar"
 						"fieldName"		"ProgressBar"
-						
+						"xpos"			"0"
 						"ypos"			"cs-0.5"
 						"wide"			"f0"
 						"tall"			"f-2"
@@ -381,7 +381,7 @@
 						"progress"		"1"
 
 						"fgcolor_override"	"20 20 20 180"
-						"bgcolor_override"	"Blank"
+						"bgcolor_override"	"0 0 0 0"
 					}
 
 					"ContinuousProgressBar"
@@ -402,8 +402,8 @@
 					{
 						"Controlname"	"EditablePanel"
 						"fieldName"		"Frame"
-						
-						
+						"xpos"			"0"
+						"ypos"			"0"
 						"wide"			"f0"
 						"tall"			"f0"
 						"zpos"			"5"
@@ -417,7 +417,7 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"Stats"
-				
+				"xpos"			"0"
 				"ypos"			"5"
 				"wide"			"f0"
 				"tall"			"p0.45"
@@ -434,8 +434,8 @@
 				{
 					"ControlName"	"EditablePanel"
 					"fieldName"		"Frame"
-					
-					
+					"xpos"			"0"
+					"ypos"			"0"
 					"zpos"			"10"
 					"wide"			"f0"
 					"tall"			"f0"
@@ -451,12 +451,12 @@
 					"ControlName"	"Label"
 					"fieldName"		"GamesLabel"
 					"xpos"			"10"
-					
-					
+					"ypos"			"0"
+					"zpos"			"0"
 					"wide"			"100"
 					"tall"			"20"
-					////"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north-west"
@@ -470,11 +470,11 @@
 					"fieldName"		"KillsLabel"
 					"xpos"			"10"
 					"ypos"			"10"
-					
+					"zpos"			"0"
 					"wide"			"100"
 					"tall"			"20"
-					////"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north-west"
@@ -488,11 +488,11 @@
 					"fieldName"		"DeathsLabel"
 					"xpos"			"10"
 					"ypos"			"20"
-					
+					"zpos"			"0"
 					"wide"			"100"
 					"tall"			"20"
-					////"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north-west"
@@ -506,12 +506,12 @@
 					"ControlName"	"Label"
 					"fieldName"		"DamageLabel"
 					"xpos"			"c-20"
-					
-					
+					"ypos"			"0"
+					"zpos"			"0"
 					"wide"			"100"
 					"tall"			"20"
-					////"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north-west"
@@ -525,11 +525,11 @@
 					"fieldName"		"HealingLabel"
 					"xpos"			"c-20"
 					"ypos"			"10"
-					
+					"zpos"			"0"
 					"wide"			"100"
 					"tall"			"20"
-					////"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north-west"
@@ -543,11 +543,11 @@
 					"fieldName"		"SupportLabel"
 					"xpos"			"c-20"
 					"ypos"			"20"
-					
+					"zpos"			"0"
 					"wide"			"100"
 					"tall"			"20"
-					////"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north-west"
@@ -561,12 +561,12 @@
 					"ControlName"	"Label"
 					"fieldName"		"ScoreLabel"
 					"xpos"			"rs1"
-					
-					
+					"ypos"			"0"
+					"zpos"			"0"
 					"wide"			"100"
 					"tall"			"20"
-					////"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"font"			"HudFontSmallest"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north-west"

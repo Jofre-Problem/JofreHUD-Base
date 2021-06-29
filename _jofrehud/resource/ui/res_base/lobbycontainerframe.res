@@ -29,15 +29,15 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"LobbyContainerFrame"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
-		
-		
-		////"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"settitlebarvisible"	"1"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"				"46 43 42 0"
@@ -78,16 +78,16 @@
 		"zpos"			"100"
 		"wide"			"20"
 		"tall"			"20"
-		
-		
-		////"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"default"		"0"
 		"Command"		"options"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -104,8 +104,8 @@
 			"zpos"			"1"
 			"wide"			"16"
 			"tall"			"16"
-			////"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"glyph_options"
 			"scaleImage"	"1"
 		}
@@ -122,7 +122,7 @@
 		"wide"			"220"
 		"tall"			"40"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"mouseinputenabled"	"0"
 		"bgcolor_override"	"Black"
 
@@ -135,14 +135,14 @@
 			"labelText"		"#TF_Matchmaking_Ban_Duration_Remaining"
 			"textalignment"	"center"
 			"xpos"			"5"
-			
+			"ypos"			"0"
 			"zpos"			"2"
 			"wide"			"200"
 			"tall"			"40"
-			////"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"autoResize"	"1"
-			
+			"pinCorner"		"0"
 		}
 	}
 
@@ -156,15 +156,15 @@
 		"zpos"			"2"
 		"wide"			"180"
 		"tall"			"25"
-		
+		"autoResize"	"0"
 		//"pinCorner"		"3"
-		////"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"next"
 
 		"NavUp"			"StartPartyButton"
@@ -184,17 +184,17 @@
 		"zpos"			"10"
 		"wide"			"180"
 		"tall"			"25"
-		
-		
-		////"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#TF_Matchmaking_StartParty"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"start_party"
 
 		"NavUp"			"Sheet"

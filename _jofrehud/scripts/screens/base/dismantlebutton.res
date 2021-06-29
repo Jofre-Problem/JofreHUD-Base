@@ -8,18 +8,18 @@
 		"ypos"			"160"
 		"wide"			"324"
 		"tall"			"48"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"	"2"
 		"labelText"		"Dismantle"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Default"		"0"
 		"command"		"Dismantle"
-		//"paintborder"	"0"
+		"paintborder"	"0"
 
 		"enabledImage"
 		{

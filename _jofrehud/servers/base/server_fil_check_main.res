@@ -9,16 +9,16 @@
 		"ypos"		"150"
 		"wide"		"164"
 		"tall"		"24"
-		
+		"AutoResize"		"0"
 		"PinCorner"		"2"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"paintbackground"		"1"
-		//"textHidden"		"0"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"LocationFilter"
 	{
@@ -28,16 +28,16 @@
 		"ypos"		"180"
 		"wide"		"112"
 		"tall"		"24"
-		
+		"AutoResize"		"0"
 		"PinCorner"		"2"
-			//for some reason is disabled
-		
+		"enabled"		"1"	//for some reason is disabled
+		"tabPosition"		"0"
 		"paintbackground"		"1"
-		//"textHidden"		"0"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"MapFilter"
 	{
@@ -47,16 +47,16 @@
 		"ypos"		"180"
 		"wide"		"164"
 		"tall"		"24"
-		
+		"AutoResize"		"0"
 		"PinCorner"		"2"
-		
+		"enabled"		"1"
 		"tabPosition"		"5"
 		"paintbackground"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"PingFilter"
 	{
@@ -66,16 +66,16 @@
 		"ypos"		"150"
 		"wide"		"112"
 		"tall"		"24"
-		
+		"AutoResize"		"0"
 		"PinCorner"		"2"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"paintbackground"		"1"
-		//"textHidden"		"0"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"SecureFilter"
 	{
@@ -85,16 +85,16 @@
 		"ypos"		"210"
 		"wide"		"112"
 		"tall"		"24"
-		
+		"AutoResize"		"0"
 		"PinCorner"		"2"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"paintbackground"		"1"
-		//"textHidden"		"0"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"ServerEmptyFilterCheck"
 	{
@@ -104,14 +104,14 @@
 		"ypos"		"170"
 		"wide"		"184"
 		"tall"		"24"
-		
+		"AutoResize"		"0"
 		"PinCorner"		"2"
-		
+		"enabled"		"1"
 		"tabPosition"		"7"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_HasUsersPlaying"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"ServerFullFilterCheck"
@@ -122,14 +122,14 @@
 		"ypos"		"150"
 		"wide"		"184"
 		"tall"		"24"
-		
+		"AutoResize"		"0"
 		"PinCorner"		"2"
-		
+		"enabled"		"1"
 		"tabPosition"		"6"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerNotFull"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 	}	
 }

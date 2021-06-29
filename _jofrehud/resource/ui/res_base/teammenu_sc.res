@@ -9,10 +9,10 @@
 		"wide"			"50"
 		"tall"			"50"
 		"zpos"			"5"
-		
+		"autoResize"	"0"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"pinCorner"		"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
 	}
@@ -25,10 +25,10 @@
 		"wide"			"50"
 		"tall"			"50"
 		"zpos"			"5"
-		
+		"autoResize"	"0"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"pinCorner"		"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
 	}	

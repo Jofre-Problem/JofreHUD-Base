@@ -11,12 +11,12 @@
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		
-		
-		
+		"visible"				"1"
+		"enabled"				"1"
+		"tabPosition"			"0"
 		"textAlignment"			"center"
-		//"dulltext"				"0"
-		//"brighttext"			"0"
+		"dulltext"				"0"
+		"brighttext"			"0"
 		"font"					"TFFontSmall"
 	}
 }

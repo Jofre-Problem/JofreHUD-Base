@@ -2,6 +2,6 @@
 {
 	"DescriptionLabel"
 	{
-		
+		"pinCorner"		"0"
 	}
 }	

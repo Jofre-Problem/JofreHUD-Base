@@ -15,12 +15,13 @@
 		"tall"			"64"
 		//"tall_hidef"	"70"
 		//"tall_lodef"	"70"
-		
-		
-		////"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"%tip%"
-		"textAlignment"		"center"
+		"textAlignment"		"center"	[$WIN32]
+		"textAlignment"		"north-west"	[$X360]
 		"font"			"SpectatorKeyHints"
 		//"font_hidef"	"HudFontSmall"
 		//"font_lodef"	"DefaultVerySmall"

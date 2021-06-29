@@ -8,10 +8,10 @@
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		
-		
-		
-		//"dulltext"				"0"
-		//"brighttext"			"0"
+		"visible"				"1"
+		"enabled"				"1"
+		"tabPosition"			"0"
+		"dulltext"				"0"
+		"brighttext"			"0"
 	}		
 }

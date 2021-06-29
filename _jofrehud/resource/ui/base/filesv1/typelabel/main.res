@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"TypeLabel"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 	}
 }

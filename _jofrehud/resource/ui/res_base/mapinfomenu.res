@@ -31,12 +31,12 @@
 		"zpos"			"1"
 		"wide"			"225"
 		"tall"			"24"
-		
-		
-		////"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"%mapname%"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"font"			"ChalkboardTitle"
 		"fgcolor"		"White"
 	}
@@ -53,12 +53,12 @@
 		"zpos"			"1"
 		"wide"			"225"
 		"tall"			"24"
-		
-		
-		////"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"%gamemode%"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"font"			"ChalkboardText"
 		"fgcolor"		"Gray"
 	}	
@@ -81,10 +81,10 @@
 		//"tall_hidef"			"200"
 		//"tall_lodef"	"200"
 		"autoResize"	"3"
-		
-		////"visible"		"1"
-		
-		//"paintborder"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"paintborder"	"0"
 		"textAlignment"	"northwest"
 		"fgcolor"		"Gray"
 	}
@@ -107,7 +107,7 @@
 		//"tall_hidef"			"225"
 		//"tall_lodef"	"225"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""
 		"scaleImage"	"1"		
 	}
@@ -125,16 +125,16 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
-		////"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"#TF_Continue"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"command"		"continue"
-		//"Default"		"1"
+		"default"		"1"
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
 	}
@@ -150,16 +150,16 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
-		////"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"#TF_WatchIntro"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"command"		"intro"
-		//"Default"		"1"
+		"default"		"1"
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
 	}
@@ -176,14 +176,14 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
-		////"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"#TF_Back"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"command"		"back"
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"

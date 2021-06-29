@@ -8,8 +8,8 @@
 	"ItemRenameConfirmationDialog"
 	{
 		"fieldName"				"ItemRenameConfirmationDialog"
-		
-		
+		"visible"				"1"
+		"enabled"				"1"
 		"xpos"					"c-200"
 		"ypos"					"105"
 		"wide"					"400"
@@ -28,12 +28,12 @@
 		"textAlignment"	"center"
 		"xpos"			"20"
 		"ypos"			"100"
-		
+		"zpos"			"0"
 		"wide"			"360"
 		"autoResize"	"1"
-		
-		//"visible"		"1"
-		
-		"fgcolor_override"	"TanLight"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor_override"	"235 226 202 255"
 	}
 }

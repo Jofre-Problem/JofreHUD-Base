@@ -2,7 +2,7 @@
 {	
 	"MainBackground"	
 	{
-	//	
+	//	"xpos"			"0"
 	//	"ypos"			"10"
 	//	"wide"			"450"
 	//	"tall"			"185"

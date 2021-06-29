@@ -11,13 +11,13 @@
 			"ypos"			"2"
 			"wide"			"8"
 		//	"tall"			"24"
-			
-			
-			////"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"textAlignment"	"Left"
-			//"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 		}
 	}	
 }

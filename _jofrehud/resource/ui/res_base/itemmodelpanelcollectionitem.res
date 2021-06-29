@@ -14,14 +14,14 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"LoadingSpinner"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"1"		
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"0"
-		
-		//"paintborder"	"0"
+		"enabled"		"1"
+		"paintborder"	"0"
 		"image"			"animated/tf2_logo_hourglass"
 		"scaleImage"	"1"
 	}
@@ -30,11 +30,11 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MainContentsContainer"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
-		////"visible"		"1"
+		"visible"		"1"
 		"bgcolor_override"		"Blank"
 		
 		"itemmodelpanel"
@@ -42,15 +42,15 @@
 			"ControlName"		"CEmbeddedItemModelPanel"
 			"fieldName"		"itemmodelpanel"
 	
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"1"		
 			"wide"			"140"
 			"tall"			"100"
 			
 			
-			////"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"useparentbg"		"1"
 			"proportionaltoparent" "1"
 		
@@ -63,17 +63,17 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"namelabel"
 			"font"			"MenuKeys"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"2"
 			"wide"			"100"
 			"tall"			"30"
 			
 			
-			////"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"%itemname%"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"fgcolor"		"235 226 202 255"
 			"centerwrap"	"1"
 		}
@@ -83,19 +83,19 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"attriblabel"
 			"font"			"SpectatorVerySmall"
-			
+			"xpos"			"0"
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"100"
 			"tall"			"60"
 			
 			
-			////"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"%attriblist%"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"fgcolor"		"117 107 94 255"
-			//"centerwrap"	"0"
+			"centerwrap"	"0"
 		}
 
 		"collectionnamelabel"
@@ -111,11 +111,11 @@
 			
 			
 			"visible"		"0"
-			
+			"enabled"		"1"
 			"labelText"		"%collectionname%"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"fgcolor"		"235 226 202 255"
-			//"centerwrap"	"0"
+			"centerwrap"	"0"
 		}
 	
 		"collectionlistlabel"
@@ -131,11 +131,11 @@
 			
 			
 			"visible"		"0"
-			
+			"enabled"		"1"
 			"labelText"		"%collectionlist%"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"fgcolor"		"117 107 94 255"
-			//"centerwrap"	"0"
+			"centerwrap"	"0"
 		}
 			
 		"collectionhighlight"
@@ -164,11 +164,11 @@
 			"tall"			"10"
 			
 			
-			////"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"#ItemPanelEquipped"
 			"textAlignment"	"center"
-			"fgcolor"		"LightRed"
+			"fgcolor"		"200 80 60 255"
 			"PaintBackgroundType"	"2"
 		}
 	
@@ -176,13 +176,13 @@
 		{
 			"ControlName"	"CItemMaterialCustomizationIconPanel"
 			"fieldName"		"paint_icon"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"2"
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"0"
-			
+			"enabled"		"1"
 
 		}
 
@@ -199,10 +199,10 @@
 			
 			
 			"visible"		"0"
-			
+			"enabled"		"1"
 			"labelText"		""
 			"textAlignment"	"center"
-			"fgcolor"		"LightRed"
+			"fgcolor"		"200 80 60 255"
 			"PaintBackgroundType"	"2"
 		}
 
@@ -219,7 +219,7 @@
 			
 			
 			"visible"		"0"
-			
+			"enabled"		"1"
 			"labelText"		""
 			"textAlignment"	"center"
 			"fgcolor"		"200 180 60 255"
@@ -240,7 +240,7 @@
 			
 			
 			"visible"		"0"
-			
+			"enabled"		"1"
 			"labelText"		""
 			"textAlignment"	"center"
 			"fgcolor"		"200 180 60 255"
@@ -260,7 +260,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"0"
-			
+			"enabled"		"1"
 			"scaleImage"	"1"
 		}
 		"is_strange_icon"
@@ -275,7 +275,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"0"
-			
+			"enabled"		"1"
 			"scaleImage"	"1"
 		}
 		"is_unusual_icon"
@@ -290,7 +290,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"0"
-			
+			"enabled"		"1"
 			"scaleImage"	"1"
 		}
 		"is_loaner_icon"
@@ -305,7 +305,7 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"0"
-			
+			"enabled"		"1"
 			"scaleImage"	"1"
 		}
 		
@@ -321,10 +321,10 @@
 			"bgcolor_override"		"0 0 0 200"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
-			//"paintborder"	"0"
+			"paintborder"	"0"
 			"useparentbg"	"0"
 		
-			
+			"enabled"		"1"
 		
 			"model_xpos"	"1"
 			"model_ypos"	"1"

@@ -2,6 +2,6 @@
 {
 	"InfoText"
 	{
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 	}
 }

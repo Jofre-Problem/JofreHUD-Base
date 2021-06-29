@@ -2,6 +2,6 @@
 {
 	"MapName"
 	{
-		//"dulltext"		"0"
+		"dulltext"		"0"
 	}
 }	

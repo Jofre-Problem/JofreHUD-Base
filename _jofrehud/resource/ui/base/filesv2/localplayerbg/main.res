@@ -6,10 +6,10 @@
 		"fieldName"		"localPlayerBG"
 		"zpos"			"2"
 		"tall"			"80"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../hud/color_panel_clear"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/color_panel_clear"

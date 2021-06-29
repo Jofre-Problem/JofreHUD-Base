@@ -2,6 +2,6 @@
 {	
 	"MainBackground"	
 	{
-		
+		"enabled"		"1"
 	}
 }	

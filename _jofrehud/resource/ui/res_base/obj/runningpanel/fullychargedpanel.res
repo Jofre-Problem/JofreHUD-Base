@@ -8,8 +8,8 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"FullyChargedPanel"
-				
-				
+				"xpos"			"0"
+				"ypos"			"0"
 				"wide"			"100"
 				"tall"			"31"
 				"visible"		"0"
@@ -23,14 +23,14 @@
 					"ypos"			"5"
 					"wide"			"200"
 					"tall"			"25"
-					
-					
-					////"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 					"labelText"		"%timesused%"
 					"textAlignment"	"north-west"
-					//"dulltext"		"0"
-					//"brighttext"	"0"
+					"dulltext"		"0"
+					"brighttext"	"0"
 				}
 			}
 		}

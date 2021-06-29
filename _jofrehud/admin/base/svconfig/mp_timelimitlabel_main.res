@@ -8,10 +8,10 @@
 		"ypos"		"55"
 		"wide"		"100"
 		"tall"		"20"
-		
+		"autoResize"	"0"
 		"pinCorner"	"0"
 		"visible"	"1"
-		
+		"enabled"	"1"
 	}
 	"mp_timelimit"
 	{
@@ -21,12 +21,12 @@
 		"ypos"		"55"
 		"wide"		"100"
 		"tall"		"20"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"enabled"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
 	}	
 	"mp_friendlyfire"
@@ -38,12 +38,12 @@
 		"ypos"		"130"
 		"wide"		"150"
 		"tall"		"20"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
+		"enabled"		"1"
 		"tabPosition"		"4"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 	}
 	"sv_allowupload"
 	{
@@ -53,11 +53,11 @@
 		"ypos"		"5"
 		"wide"		"120"
 		"tall"		"20"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		//"textAlignment"		"west"
+		"enabled"		"1"
+		"textAlignment"		"west"
 	}	
 	"sv_minratelabel"
 	{
@@ -67,10 +67,10 @@
 		"ypos"		"30"
 		"wide"		"75"
 		"tall"		"20"
-		
+		"autoResize"	"0"
 		"pinCorner"	"0"
 		"visible"	"1"
-		
+		"enabled"	"1"
 	}	
 	"sv_minrate"
 	{
@@ -80,12 +80,12 @@
 		"ypos"		"30"
 		"wide"		"100"
 		"tall"		"20"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"enabled"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
 	}	
 	"sv_maxratelabel"
@@ -96,10 +96,10 @@
 		"ypos"		"55"
 		"wide"		"75"
 		"tall"		"20"
-		
+		"autoResize"	"0"
 		"pinCorner"	"0"
 		"visible"	"1"
-		
+		"enabled"	"1"
 	}	
 	"sv_maxrate"
 	{
@@ -109,12 +109,12 @@
 		"ypos"		"55"
 		"wide"		"100"
 		"tall"		"20"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"enabled"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
 	}	
 	"sv_voiceenable"
@@ -125,10 +125,10 @@
 		"ypos"		"80"
 		"wide"		"150"
 		"tall"		"20"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		//"textAlignment"		"west"
+		"enabled"		"1"
+		"textAlignment"		"west"
 	}	
 }

@@ -36,22 +36,23 @@
 		"zpos"			"3"
 		"wide"			"124"
 		"tall"			"310"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
-		////"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"	"3"
-		"labelText"		"&3"
+		"labelText"		"&3"	[$WIN32]
+		"labelText"		""		[$X360]
 		"textAlignment"	"south-west"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
-		//"paintborder"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"paintborder"	"0"
 		"command"		"jointeam blue"
 		"team"				"3"		// team blue
 		"associated_model"	"bluedoor"
 		"hover"				"2.0"
 		"font"			"MenuMainTitle"
-		"fgcolor"		"HUDWhite"
+		"fgcolor"		"255 255 255 255"
 	}
 
 	"teambutton1"
@@ -63,22 +64,23 @@
 		"zpos"			"3"
 		"wide"			"124"
 		"tall"			"310"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
-		////"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"	"4"
-		"labelText"		"&4"
+		"labelText"		"&4"	[$WIN32]
+		"labelText"		""		[$X360]
 		"textAlignment"	"south-west"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
-		//"paintborder"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"paintborder"	"0"
 		"command"		"jointeam red"
 		"team"				"2"		// team red
 		"associated_model"	"reddoor"	
 		"hover"				"2.0"
 		"font"			"MenuMainTitle"
-		"fgcolor"		"HUDWhite"
+		"fgcolor"		"255 255 255 255"
 	}
 	
 	"CancelButton" [$WIN32] 
@@ -93,15 +95,15 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#TF_Cancel"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"command"		"cancelmenu"
 		"font"			"MenuSmallFont"
 	}
@@ -119,15 +121,15 @@
 		"zpos"			"6"
 		"wide"			"450"
 		"tall"			"30"
-		
-		
-		////"visible"		"1"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		//"visible_lodef"		"0"
-		
+		"enabled"		"1"
 		"labelText"		"#TF_SelectATeam"
-		//"textAlignment"	"west"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"font"			"MenuMainTitle"
 		"fgcolor"		"HudOffWhite"
 	}
@@ -145,13 +147,13 @@
 		"zpos"			"1"
 		"wide"			"90"
 		"tall"			"30"
-		
-		
-		////"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"%bluecount%"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		"dulltext"		"0"
 		"brighttext"	"1"
 		"font"			"TeamMenuBold"
 		"fgcolor"		"black"
@@ -169,13 +171,13 @@
 		"zpos"			"1"
 		"wide"			"90"
 		"tall"			"30"
-		
-		
-		////"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"%redcount%"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		"dulltext"		"0"
 		"brighttext"	"1"
 		"font"			"TeamMenuBold"
 		"fgcolor"		"black"
@@ -185,15 +187,15 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"bluedoor"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"2"		
 		"wide"			"f0"
 		"tall"			"480"
-		
-		
-		////"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fov"			"20"
 		
 		"model"
@@ -213,7 +215,7 @@
 			{
 				"name"			"idle_enabled"
 				"sequence"		"idle"
-				//"Default"		"1"
+				"default"		"1"
 			}
 
 			"animation"
@@ -258,15 +260,15 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"reddoor"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"2"		
 		"wide"			"f0"
 		"tall"			"480"
-		
-		
-		////"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fov"			"20"
 		
 		"model"
@@ -286,7 +288,7 @@
 			{
 				"name"			"idle_enabled"
 				"sequence"		"idle"
-				//"Default"		"1"
+				"default"		"1"
 			}
 
 			"animation"
@@ -336,14 +338,14 @@
 		"zpos"			"6"
 		"wide"			"105"
 		"tall"			"35"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"labelText"		"#TF_Highlander_Mode"
-		//"textAlignment"	"west"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"HudOffWhite"
 		"centerwrap"	"1"
@@ -358,14 +360,14 @@
 		"zpos"			"6"
 		"wide"			"105"
 		"tall"			"35"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"labelText"		"#TF_Highlander_Mode"
-		//"textAlignment"	"west"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"black"
 		"centerwrap"	"1"
@@ -380,14 +382,14 @@
 		"zpos"			"6"
 		"wide"			"105"
 		"tall"			"35"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"labelText"		"#TF_Teams_Full"
-		//"textAlignment"	"west"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"HudOffWhite"
 		"centerwrap"	"1"
@@ -402,14 +404,14 @@
 		"zpos"			"6"
 		"wide"			"105"
 		"tall"			"35"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"labelText"		"#TF_Teams_Full"
-		//"textAlignment"	"west"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"black"
 		"centerwrap"	"1"
@@ -425,7 +427,7 @@
 		"wide"			"40"
 		"tall"			"40"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			"../HUD/arrow_big_down"
 		"scaleImage"	"1"	
 	}

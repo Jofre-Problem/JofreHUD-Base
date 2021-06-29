@@ -3,7 +3,7 @@
 {
 	"NameLabel"
 	{
-		
-		//"textAlignment"		"west"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
 	}
 }

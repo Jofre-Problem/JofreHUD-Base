@@ -8,7 +8,7 @@
 		"zpos"			"50"
 		"wide"			"400"
 		"tall"			"150"
-		////"visible"		"1"
+		"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"border"		"MainMenuBGBorder"
 		"proportionaltoparent"	"1"
@@ -17,11 +17,11 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"QuestionContainer"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"wide"			"f0"
 			"tall"			"f0"
-			////"visible"		"1"
+			"visible"		"1"
 			"proportionaltoparent"	"1"
 		}
 
@@ -29,8 +29,8 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"SubmittingContainer"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"wide"			"f0"
 			"tall"			"f0"
 			"visible"		"0"
@@ -42,11 +42,11 @@
 				"fieldName"		"SubmittingLabel"
 				"xpos"			"cs-0.5"
 				"ypos"			"rs1-10"
-				
+				"zpos"			"0"
 				"wide"			"p0.8"
 				"tall"			"25"
-				////"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
 				"textAlignment"	"center"
@@ -60,11 +60,11 @@
 				"fieldName"		"SpinnerImage"
 				"xpos"			"cs-0.5"
 				"ypos"			"cs-0.5"
-				
+				"zpos"			"0"
 				"wide"			"o1"
 				"tall"			"80"
-				////"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 				"image"			"animated/tf2_logo_hourglass"
 		
 				"proportionaltoparent"	"1"
@@ -75,8 +75,8 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"ThanksContainer"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"wide"			"f0"
 			"tall"			"f0"
 			"visible"		"0"
@@ -88,11 +88,11 @@
 				"fieldName"		"ThankYouLabel"
 				"xpos"			"cs-0.5"
 				"ypos"			"20"
-				
+				"zpos"			"0"
 				"wide"			"p0.8"
 				"tall"			"25"
-				////"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Orange"
 				"textAlignment"	"center"
@@ -106,15 +106,15 @@
 				"fieldName"		"Explanation"
 				"xpos"			"cs-0.5"
 				"ypos"			"60"
-				
+				"zpos"			"0"
 				"wide"			"p0.8"
 				"tall"			"50"
-				////"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Tanlight"
 				"textAlignment"	"center"
-				//"wrap"			"0"
+				"wrap"			"0"
 				"centerwrap"	"1"
 				"labelText"		"#TF_SurveyQuestion_ThankYouBody"
 				"proportionaltoparent"	"1"
@@ -130,16 +130,16 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			
-			
-			////"visible"		"1"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			//"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -149,9 +149,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "LightRed"
-			"depressedFgColor_override" "TanDarker"
+			"defaultFgColor_override" "46 43 42 255"
+			"armedFgColor_override" "200 80 60 255"
+			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -159,13 +159,13 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				
-				
+				"xpos"			"0"
+				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				////"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				

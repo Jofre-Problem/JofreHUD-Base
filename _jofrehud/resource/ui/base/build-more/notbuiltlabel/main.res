@@ -11,13 +11,13 @@
 		"zpos"			"2"
 		"wide"			"80"
 		"tall"			"18"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
+		"enabled"		"1"
 		"labelText"		"#TF_NotBuilt"
 		"textAlignment"	"Center"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 	}	
 }	

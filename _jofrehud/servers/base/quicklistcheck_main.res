@@ -8,15 +8,15 @@
 		"xpos"		"8"
 		"ypos"		"244"
 		"tall"		"24"
-		
+		"AutoResize"		"0"
 		"PinCorner"		"2"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"6"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_QuickListCheck"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 }

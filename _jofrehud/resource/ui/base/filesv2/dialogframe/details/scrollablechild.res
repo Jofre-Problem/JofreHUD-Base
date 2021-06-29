@@ -9,15 +9,15 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ScrollableChild"
 				"xpos"			"240"
-				
+				"ypos"			"0"
 				"zpos"			"100"
 				"wide"			"230"
 				"tall"			"222"
-				//"visible"		"1"
+				"visible"		"1"
 				"PaintBackgroundType"	"0"
-				"bgcolor_override"	"Blank"
+				"bgcolor_override"	"0 0 0 0"
 				"skip_autoresize"	"1"
-				
+				"autoresize"		"0"
 				
 				//
 				// All the controls below get laid out off of the item name label's position and the break sizes defined at the top of this file
@@ -31,10 +31,10 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"15"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 					"wrap"			"1"
 					"fgcolor"		"118 107 94 255"
 				}		
@@ -48,12 +48,12 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
 					"visible"		"0"
-					
+					"enabled"		"1"
 					"wrap"			"1"
-					"fgcolor"		"LightRed"
+					"fgcolor"		"200 80 60 255"
 				}		
 				
 				"RestrictionsTextLabel"
@@ -65,12 +65,12 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
 					"visible"		"0"
-					
+					"enabled"		"1"
 					"wrap"			"1"
-					"fgcolor"		"LightRed"
+					"fgcolor"		"200 80 60 255"
 				}		
 				
 				"UsedByLabel"
@@ -82,10 +82,10 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 					"wrap"			"1"
 					"fgcolor"		"173 165 146 255"
 				}		
@@ -99,10 +99,10 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 					"wrap"			"1"
 				}		
 				
@@ -115,10 +115,10 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 					"wrap"			"1"
 					"fgcolor"		"173 165 146 255"
 				}		
@@ -132,10 +132,10 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 					"wrap"			"1"
 				}		
 				
@@ -147,10 +147,10 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 					"wrap"			"1"
 					"labeltext"		"%armory_text%"
 				}			
@@ -163,10 +163,10 @@
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 					"wrap"			"1"
 				}
 				
@@ -177,16 +177,16 @@
 					"zpos"			"20"
 					"wide"			"150"
 					"tall"			"20"
-					
-					
-					//"visible"		"1"
-					
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
+					"tabPosition"	"0"
 					"labelText"		"#Store_ItemDesc_ItemWikiPage"
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
-					//"dulltext"		"0"
-					//"brighttext"	"0"
+					"dulltext"		"0"
+					"brighttext"	"0"
 					"command"		"viewwikipage"
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"

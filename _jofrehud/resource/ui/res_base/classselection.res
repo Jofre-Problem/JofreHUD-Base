@@ -20,11 +20,11 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		
+		"autoResize"		"0"
 		"pinCorner"			"2"
-		//"visible"			"1"
-		
-		
+		"visible"			"1"
+		"enabled"			"1"
+		"tabPosition"		"0"
 		"labelText"			""
 		"textAlignment"		"south-west"
 		"Command"			"select 12"
@@ -58,13 +58,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"class_sel_sm_random_inactive"
 			"scaleImage"	"1"
 		}				
@@ -86,9 +86,9 @@
 		//"tall_lodef"			"22"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#TF_Offense"
 		"textAlignment"	"left"
 		"font"			"MenuClassBuckets"
@@ -109,12 +109,13 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		
+		"autoResize"		"0"
 		"pinCorner"			"2"
-		//"visible"			"1"
-		
-		
-		"labelText"			"1"
+		"visible"			"1"
+		"enabled"			"1"
+		"tabPosition"		"0"
+		"labelText"			"1"	[$WIN32]
+		"labelText"			""		[$X360]
 		"textAlignment"		"south-west"
 		"Command"			"select 1"
 		"Default"			"0"
@@ -148,13 +149,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"class_sel_sm_scout_inactive"
 			"scaleImage"	"1"
 		}				
@@ -172,13 +173,13 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		
+		"autoResize"		"0"
 		"pinCorner"			"2"
-		//"visible"			"1"
-		
-		
+		"visible"			"1"
+		"enabled"			"1"
+		"tabPosition"		"0"
 		"labelText"			"2"	[$WIN32]
-		
+		"labelText"			""		[$X360]
 		"textAlignment"		"south-west"
 		"Command"			"select 3"
 		"Default"			"0"
@@ -212,13 +213,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"class_sel_sm_soldier_inactive"
 			"scaleImage"	"1"
 		}				
@@ -236,13 +237,13 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		
+		"autoResize"		"0"
 		"pinCorner"			"2"
-		//"visible"			"1"
-		
-		
+		"visible"			"1"
+		"enabled"			"1"
+		"tabPosition"		"0"
 		"labelText"			"3"	[$WIN32]
-		
+		"labelText"			""		[$X360]
 		"textAlignment"		"south-west"
 		"Command"			"select 7"
 		"Default"			"0"
@@ -275,13 +276,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"class_sel_sm_pyro_inactive"
 			"scaleImage"	"1"
 		}				
@@ -303,9 +304,9 @@
 		//"tall_lodef"			"22"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#TF_Defense"
 		"textAlignment"	"left"
 		"font"			"MenuClassBuckets"
@@ -325,13 +326,13 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		
+		"autoResize"		"0"
 		"pinCorner"			"2"
-		//"visible"			"1"
-		
-		
+		"visible"			"1"
+		"enabled"			"1"
+		"tabPosition"		"0"
 		"labelText"			"4"	[$WIN32]
-		
+		"labelText"			""		[$X360]
 		"textAlignment"		"south-west"
 		"Command"			"select 4"
 		"Default"			"0"
@@ -364,13 +365,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"class_sel_sm_demo_inactive"
 			"scaleImage"	"1"
 		}				
@@ -387,13 +388,13 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		
+		"autoResize"		"0"
 		"pinCorner"			"2"
-		//"visible"			"1"
-		
-		
+		"visible"			"1"
+		"enabled"			"1"
+		"tabPosition"		"0"
 		"labelText"			"5"	[$WIN32]
-		
+		"labelText"			""		[$X360]
 		"textAlignment"		"south-west"
 		"Command"			"select 6"
 		"Default"			"0"
@@ -426,13 +427,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"class_sel_sm_heavy_inactive"
 			"scaleImage"	"1"
 		}				
@@ -448,13 +449,13 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		
+		"autoResize"		"0"
 		"pinCorner"			"2"
-		//"visible"			"1"
-		
-		
+		"visible"			"1"
+		"enabled"			"1"
+		"tabPosition"		"0"
 		"labelText"			"6"	[$WIN32]
-		
+		"labelText"			""		[$X360]
 		"textAlignment"		"south-west"
 		"Command"			"select 9"
 		"Default"			"0"
@@ -487,13 +488,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"class_sel_sm_engineer_inactive"
 			"scaleImage"	"1"
 		}				
@@ -515,9 +516,9 @@
 		//"tall_lodef"			"22"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#TF_Support"
 		"textAlignment"	"left"
 		"font"			"MenuClassBuckets"
@@ -538,13 +539,13 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		
+		"autoResize"		"0"
 		"pinCorner"			"2"
-		//"visible"			"1"
-		
-		
+		"visible"			"1"
+		"enabled"			"1"
+		"tabPosition"		"0"
 		"labelText"			"7"	[$WIN32]
-		
+		"labelText"			""		[$X360]
 		"textAlignment"		"south-west"
 		"Command"			"select 5"
 		"Default"			"0"
@@ -577,13 +578,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"class_sel_sm_medic_inactive"
 			"scaleImage"	"1"
 		}				
@@ -601,13 +602,13 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		
+		"autoResize"		"0"
 		"pinCorner"			"2"
-		//"visible"			"1"
-		
-		
+		"visible"			"1"
+		"enabled"			"1"
+		"tabPosition"		"0"
 		"labelText"			"8"	[$WIN32]
-		
+		"labelText"			""		[$X360]
 		"textAlignment"		"south-west"
 		"Command"			"select 2"
 		"Default"			"0"
@@ -640,13 +641,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"class_sel_sm_sniper_inactive"
 			"scaleImage"	"1"
 		}				
@@ -664,13 +665,13 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
-		
+		"autoResize"		"0"
 		"pinCorner"			"2"
-		//"visible"			"1"
-		
-		
+		"visible"			"1"
+		"enabled"			"1"
+		"tabPosition"		"0"
 		"labelText"			"9"	[$WIN32]
-		
+		"labelText"			""		[$X360]
 		"textAlignment"		"south-west"
 		"Command"			"select 8"
 		"Default"			"0"
@@ -703,13 +704,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"class_sel_sm_spy_inactive"
 			"scaleImage"	"1"
 		}				
@@ -724,16 +725,16 @@
 		"zpos"			"6"
 		"wide"			"100"
 		"tall"			"25"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#TF_ClassMenu_Cancel"
 		"textAlignment"	"center"
 		"Command"		"vguicancel"
 		"font"			"HudFontSmallBold"
-		"fgcolor_override" "LightRed"
+		"fgcolor_override" "200 80 60 255"
 	}
 	
 	"EditLoadoutButton" [$WIN32] 
@@ -745,11 +746,11 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"25"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#EditLoadout"
 		"textAlignment"	"center"
 		"Command"		"openloadout"
@@ -765,11 +766,11 @@
 		"zpos"			"6"
 		"wide"			"110"
 		"tall"			"25"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#TF_ClassMenu_Reset"
 		"textAlignment"	"center"
 		"Command"		"resetclass"
@@ -789,13 +790,13 @@
 		"zpos"			"5"
 		"wide"			"450"
 		"tall"			"30"
-		
-		
-		//"visible"		"1"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		//"visible_lodef"	"0"
-		
+		"enabled"		"1"
 		"labelText"		"#TF_SelectAClass"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"font"			"MenuMainTitle"
 		"fgcolor"		"HudOffWhite"
 	}
@@ -818,8 +819,8 @@
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"%hint%"
 		"textAlignment"	"left"
 		"wrap"			"1"
@@ -839,7 +840,7 @@
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -862,7 +863,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}							
@@ -877,7 +878,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -892,7 +893,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -907,7 +908,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -922,7 +923,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -937,7 +938,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -952,7 +953,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -967,7 +968,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -982,7 +983,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -997,7 +998,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -1012,7 +1013,7 @@
 		"wide"			"30"
 		"tall"			"60"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -1028,9 +1029,9 @@
 		"tall"			"18"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#TF_TeamCount"
 		"textAlignment"	"left"
 		"font"			"HudFontMediumSmallSecondary"
@@ -1048,9 +1049,9 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"%numScout%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
@@ -1068,9 +1069,9 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"%numSoldier%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
@@ -1088,9 +1089,9 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"%numPyro%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
@@ -1108,9 +1109,9 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"%numDemoman%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
@@ -1128,9 +1129,9 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"%numHeavy%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
@@ -1148,9 +1149,9 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"%numEngineer%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
@@ -1168,9 +1169,9 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"%numMedic%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
@@ -1188,9 +1189,9 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"%numSniper%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
@@ -1208,9 +1209,9 @@
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"%numSpy%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
@@ -1227,7 +1228,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			"mvm/class_upgraded"
 		"scaleImage"	"1"
 	}
@@ -1242,7 +1243,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			"mvm/class_upgraded"
 		"scaleImage"	"1"
 	}
@@ -1257,7 +1258,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			"mvm/class_upgraded"
 		"scaleImage"	"1"
 	}
@@ -1272,7 +1273,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			"mvm/class_upgraded"
 		"scaleImage"	"1"
 	}
@@ -1287,7 +1288,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			"mvm/class_upgraded"
 		"scaleImage"	"1"
 	}
@@ -1302,7 +1303,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			"mvm/class_upgraded"
 		"scaleImage"	"1"
 	}
@@ -1317,7 +1318,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			"mvm/class_upgraded"
 		"scaleImage"	"1"
 	}
@@ -1332,7 +1333,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			"mvm/class_upgraded"
 		"scaleImage"	"1"
 	}
@@ -1347,7 +1348,7 @@
 		"wide"			"10"
 		"tall"			"10"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			"mvm/class_upgraded"
 		"scaleImage"	"1"
 	}
@@ -1356,8 +1357,8 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"StartExplanation"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"165"
@@ -1386,12 +1387,12 @@
 			"ypos"			"10"
 			"wide"			"260"
 			"tall"			"30"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "46 43 42 255"
 		}
 		
 		"TextLabel"
@@ -1405,12 +1406,12 @@
 			"ypos"			"45"
 			"wide"			"260"
 			"tall"			"170"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "46 43 42 255"
 		}
 		
 		"CloseButton"
@@ -1422,16 +1423,16 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			
-			
-			//"visible"		"1"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			//"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1439,9 +1440,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "LightRed"
-			"depressedFgColor_override" "TanDarker"
+			"defaultFgColor_override" "46 43 42 255"
+			"armedFgColor_override" "200 80 60 255"
+			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -1449,13 +1450,13 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				
-				
+				"xpos"			"0"
+				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				//"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1467,16 +1468,16 @@
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"TFPlayerModel"
 		
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"6"		
 		"wide"			"480"
 		"tall"			"480"
 		
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		
 		"render_texture"	"0"
 		"fov"			"25"
@@ -1515,11 +1516,11 @@
 		"zpos"			"7"
 		"wide"			"235"
 		"tall"			"165"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 	}
 	
 	"ClassHighlightPanel"
@@ -1558,12 +1559,12 @@
 			"ypos"			"10"
 			"wide"			"210"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "46 43 42 255"
 		}
 		
 		"ClassHighlightText"
@@ -1577,12 +1578,12 @@
 			"ypos"			"30"
 			"wide"			"210"
 			"tall"			"115"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "46 43 42 255"
 		}
 		
 		"CloseButton"
@@ -1594,26 +1595,26 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			
-			
-			//"visible"		"1"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			//"dulltext"		"0"
-			//"brighttext"	"0"
-			//"Default"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"close"
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "TanLight"
-			"depressedFgColor_override" "TanDarker"
+			"defaultFgColor_override" "46 43 42 255"
+			"armedFgColor_override" "235 226 202 255"
+			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -1621,13 +1622,13 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				
-				
+				"xpos"			"0"
+				"ypos"			"0"
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				//"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				

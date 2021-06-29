@@ -5,7 +5,7 @@
 		"AlertTray"
 		{
 			"xpos"			"114"
-			
+			"ypos"			"0"
 			"zpos"			"-2"
 			"wide"			"44"
 			"tall"			"60"

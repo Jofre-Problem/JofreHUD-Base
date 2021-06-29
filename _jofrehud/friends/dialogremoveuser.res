@@ -49,15 +49,15 @@
 		"ypos"		"180"
 		"wide"		"116"
 	//	"tall"		"24"
-	//	
-	//	
+	//	"autoResize"		"0"
+	//	"pinCorner"		"0"
 	//	"visible"		"1"
-	//	
+	//	"enabled"		"1"
 	//	"tabPosition"		"2"
 		"labelText"		"#TrackerUI_RemoveUser"
-	//	//"textAlignment"		"west"
-	//	//"dulltext"		"0"
-	//	//"brighttext"		"0"
+	//	"textAlignment"		"west"
+	//	"dulltext"		"0"
+	//	"brighttext"		"0"
 	//	"Command"		"OK"
 	//	"Default"		"0"
 	}
@@ -77,14 +77,14 @@
 		"ypos"		"40"
 		"wide"		"396"
 		"tall"		"24"
-	//	
-	//	
+	//	"autoResize"		"0"
+	//	"pinCorner"		"0"
 	//	"visible"		"1"
-	//	
-		
+	//	"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"You are about to remove johnc from your contact list."
-	//	//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+	//	"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
 	}	
 }

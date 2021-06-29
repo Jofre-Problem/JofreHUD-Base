@@ -4,13 +4,13 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ModeImage"
-		
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"0"
 		"wide"			"o4"
 		"tall"			"p1.17"
-		////"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"scaleImage"	"1"	
 		"proportionaltoparent"	"1"
 		"image"			""
@@ -20,12 +20,12 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PlayListDropShadow"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"1000"
 		"wide"			"f0"
 		"tall"			"f0"
-		////"visible"		"1"
+		"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"border"		"InnerShadowBorderThin"
 		"proportionaltoparent"	"1"
@@ -36,13 +36,13 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGColor"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"f0"
 		"tall"			"f0"
-		////"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"0 0 0 255"
@@ -53,13 +53,13 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ToolTipHack"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"50"
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"mouseinputenabled"	"1"
 		"eatmouseinput"	"0"	
 		"showtooltipswhenmousedisabled"	"1"
@@ -75,7 +75,7 @@
 		"wide"			"122"
 		"tall"			"15"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"mouseinputenabled"	"1"
 		"eatmouseinput"	"0"	
 		"showtooltipswhenmousedisabled"	"1"
@@ -91,16 +91,16 @@
 		"zpos"			"6"
 		"wide"			"122"
 		"tall"			"15"
-		////"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"%button_token%"
 		"textinsetx"	"4"
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallestBold"
-		//"textAlignment"	"west"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
-		//"Default"		"1"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"default"		"1"
 		"command"		"%button_command%"
 		"proportionaltoparent" "1"
 		"actionsignallevel"	"2"
@@ -121,13 +121,13 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MatchmakingBanPanel"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"mouseinputenabled"	"0"
 		"bgcolor_override"	"0 0 0 250"
 		"proportionaltoparent"	"1"
@@ -141,14 +141,14 @@
 			"labelText"		"#TF_Matchmaking_Ban_Duration_Remaining"
 			"textalignment"	"south-west"
 			"xpos"			"5"
-			
+			"ypos"			"0"
 			"zpos"			"2"
 			"wide"			"f0"
 			"tall"			"f0"
-			////"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"autoResize"	"1"
-			
+			"pinCorner"		"0"
 			"proportionaltoparent"	"1"
 
 			"paintbackground"	"0"
@@ -177,10 +177,10 @@
 		"zpos"			"1"
 		"wide"			"125"
 		"tall"			"40"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"wrap"			"1"
 		"fgcolor_override" "Black"
 		"proportionaltoparent" "1"
@@ -191,13 +191,13 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"DisabledIcon"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"				"49"
 		"wide"				"f0"
 		"tall"				"f0"
 		"visible"			"0"
-		
+		"enabled"			"1"
 		"actionsignallevel"	"1"
 		"command"			"comp_access_info"
 		"labeltext"			""
@@ -207,10 +207,10 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 				
-		"defaultFgColor_override" "TanDarker"
-		"armedFgColor_override" "TanLight"
-		"depressedFgColor_override" "TanDarker"
-		"defaultBgColor_override" "Blank"
+		"defaultFgColor_override" "46 43 42 255"
+		"armedFgColor_override" "235 226 202 255"
+		"depressedFgColor_override" "46 43 42 255"
+		"defaultBgColor_override" "0 0 0 0"
 		"armedBgColor_override" "0 0 0 0"
 		"depressedBgColor_override" "0 0 0 0"
 				
@@ -225,8 +225,8 @@
 			"zpos"			"1"
 			"wide"			"15"
 			"tall"			"15"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"locked_icon"
 			"scaleImage"	"1"
 			"proportionaltoparent" "1"

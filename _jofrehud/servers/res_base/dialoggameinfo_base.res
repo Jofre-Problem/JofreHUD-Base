@@ -22,23 +22,23 @@
 		"ypos"		"162"
 		"wide"		"108"
 	//	"tall"		"20"
-	//	
-	//	
-	//	
-	//	
+	//	"autoResize"		"0"
+	//	"pinCorner"		"0"
+	//	"enabled"		"1"
+	//	"tabPosition"		"0"
 	//	"textAlignment"		"east"
-	//	//"wrap"		"0"
+	//	"wrap"		"0"
 	}
 	"DialogGameInfo"
 	{
 		"ControlName"		"CDialogGameInfo"
 		"fieldName"		"DialogGameInfo"
 		"wide"		"416"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"settitlebarvisible"		"1"
 	}
 	"Close"
@@ -47,13 +47,13 @@
 		"fieldName"		"Close"
 		"wide"		"80"
 		"tall"		"24"
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"3"
 		"labelText"		"#ServerBrowser_Close"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"Refresh"
@@ -62,10 +62,10 @@
 		"wide"		"80"
 		"tall"		"24"
 		"pinCorner"		"2"
-		
+		"enabled"		"1"
 		"tabPosition"		"2"
 		"labelText"		"#ServerBrowser_Refresh"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 	}
 	"AutoRetry"
 	{
@@ -74,13 +74,13 @@
 		"xpos"		"28"
 		"wide"		"80"
 		"tall"		"24"
-		
+		"autoResize"		"0"
 		"pinCorner"		"2"
-		
+		"enabled"		"1"
 		"tabPosition"		"4"
 		"labelText"		"#ServerBrowser_AutoRetry"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"AutoRetryAlert"
@@ -90,12 +90,12 @@
 		"xpos"		"27"
 		"wide"		"358"
 		"tall"		"24"
-		
+		"autoResize"		"0"
 		"pinCorner"		"2"
-		
+		"enabled"		"1"
 		"labelText"		"#ServerBrowser_AlertMeWhenSlotOpens"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"1"
 	}
@@ -106,13 +106,13 @@
 		"xpos"		"28"
 		"wide"		"356"
 		"tall"		"24"
-		
+		"autoResize"		"0"
 		"pinCorner"		"2"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#ServerBrowser_JoinWhenSlotOpens"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"2"
 	}
@@ -124,13 +124,13 @@
 		"ypos"		"42"
 		"wide"		"108"
 		"tall"		"20"
-		
-		
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#ServerBrowser_ServerName"
 		"textAlignment"		"east"
-		//"wrap"		"0"
+		"wrap"		"0"
 	//	"fgcolor"	"W_ColorTheme1"
 	}
 	"GameLabel"
@@ -139,14 +139,14 @@
 		"fieldName"		"GameLabel"
 		"xpos"		"16"
 		"tall"		"20"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#ServerBrowser_GameLabel"
 		"textAlignment"		"east"
-		//"wrap"		"0"
+		"wrap"		"0"
 	//	"fgcolor"	"W_ColorTheme1"		
 	}
 	"MapLabel"
@@ -166,13 +166,13 @@
 		"ypos"		"138"
 		"wide"		"108"
 		"tall"		"20"
-		
-		
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#ServerBrowser_PlayersLabel"
 		"textAlignment"		"east"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 	"PingLabel"
 	{
@@ -182,13 +182,13 @@
 		"ypos"		"186"
 		"wide"		"108"
 		"tall"		"20"
-		
-		
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#ServerBrowser_LatencyLabel"
 		"textAlignment"		"east"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 	"ServerText"
 	{
@@ -199,11 +199,11 @@
 		"wide"		"260"
 		"tall"		"20"
 		"autoResize"		"1"
-		
-		
-		
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"pinCorner"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 	}
 	"GameText"
 	{
@@ -212,13 +212,13 @@
 		"xpos"		"128"
 		"wide"		"260"
 		"tall"		"20"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 	}
 	"ServerIPText"
 	{
@@ -228,15 +228,15 @@
 		"ypos"		"64"
 		"wide"		"260"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"enabled"		"0"
-		
-		//"textHidden"		"0"
+		"tabPosition"		"0"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"MapText"
 	{
@@ -246,12 +246,12 @@
 		"ypos"		"114"
 		"wide"		"260"
 		"tall"		"20"
-		
-		
-		
-		
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 	}
 	"PlayersText"
 	{
@@ -261,12 +261,12 @@
 		"ypos"		"138"
 		"wide"		"260"
 		"tall"		"20"
-		
-		
-		
-		
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 	}
 	"PingText"
 	{
@@ -276,12 +276,12 @@
 		"ypos"		"186"
 		"wide"		"260"
 		"tall"		"20"
-		
-		
-		
-		
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 	}
 
 	"SecureText"
@@ -292,12 +292,12 @@
 		"ypos"		"162"
 		"wide"		"260"
 		"tall"		"20"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 	}
 }

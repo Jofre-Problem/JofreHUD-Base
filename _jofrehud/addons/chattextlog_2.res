@@ -8,6 +8,6 @@
 		"ypos"		"425"
 		"wide"		"530"
 		"tall"		"75"
-		//"NumericInputOnly"		"0"
+		"NumericInputOnly"		"0"
 	}
 }

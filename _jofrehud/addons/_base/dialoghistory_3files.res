@@ -26,7 +26,7 @@
 		"ypos"		"25"
 		"wide"		"200"
 		"tall"		"48"
-		
+		"tabPosition"		"0"
 		"labelText"		"#SteamAddOn_ReviewMoves"
 	}
 	"MoveHistoryPanel"
@@ -38,12 +38,12 @@
 		"wide"		"200"
 		"tall"		"250"
 		"autoResize"		"3"
-		
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
 	}
 }

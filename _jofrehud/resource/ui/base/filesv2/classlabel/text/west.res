@@ -2,6 +2,6 @@
 {
 	"ClassLabel"
 	{
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 	}
 }	

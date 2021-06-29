@@ -32,7 +32,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"NoGCGroupBox"
-		
+		"xpos"		"0"
 		"ypos"		"0"
 		"zpos"		"1000"
 		"wide"		"f0"
@@ -55,7 +55,7 @@
 			"tall"		"40"
 			"textAlignment"	"center"
 			"visible"	"1"
-			
+			"enabled"	"1"
 			"proportionaltoparent"	"1"
 		}
 
@@ -72,7 +72,7 @@
 			"tall"		"40"
 			"textAlignment"	"center"
 			"visible"	"1"
-			
+			"enabled"	"1"
 			"proportionaltoparent"	"1"
 		}
 
@@ -82,11 +82,11 @@
 			"fieldName"		"SpinnerImage"
 			"xpos"			"cs-0.5"
 			"ypos"			"160"
-			
+			"zpos"			"0"
 			"wide"			"o1"
 			"tall"			"80"
-			////"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"animated/tf2_logo_hourglass"
 		
 			"proportionaltoparent"	"1"
@@ -97,7 +97,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MatchInProgressGroupBox"
-		
+		"xpos"		"0"
 		"ypos"		"0"
 		"zpos"		"1000"
 		"wide"		"f0"
@@ -120,7 +120,7 @@
 			"tall"		"40"
 			"textAlignment"	"center"
 			"visible"	"1"
-			
+			"enabled"	"1"
 			"proportionaltoparent"	"1"
 		}
 
@@ -137,7 +137,7 @@
 			"tall"		"40"
 			"textAlignment"	"center"
 			"visible"	"1"
-			
+			"enabled"	"1"
 			"proportionaltoparent"	"1"
 		}
 
@@ -147,11 +147,11 @@
 			"fieldName"		"SpinnerImage"
 			"xpos"			"cs-0.5"
 			"ypos"			"160"
-			
+			"zpos"			"0"
 			"wide"			"o1"
 			"tall"			"80"
-			////"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"animated/tf2_logo_hourglass"
 		
 			"proportionaltoparent"	"1"
@@ -185,7 +185,7 @@
 			"tall"		"40"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 		"NearbyColumnHead"
@@ -201,7 +201,7 @@
 			"tall"		"20"
 			"textAlignment"	"south-east"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 		"WorldwideColumnHead"
@@ -217,7 +217,7 @@
 			"tall"		"20"
 			"textAlignment"	"south-east"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 		"PlayersInGameLabel"
@@ -233,7 +233,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 		"PlayersInGameTotalLabel"
@@ -249,7 +249,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 			"PlayersInGameTotalNearbyValue"
@@ -264,7 +264,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -280,7 +280,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -297,7 +297,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 			"PlayersInGameMatchingNearbyValue"
@@ -312,7 +312,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -328,7 +328,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -345,7 +345,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 		"PlayersSearchingTotalLabel"
@@ -361,7 +361,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 			"PlayersSearchingTotalNearbyValue"
@@ -376,7 +376,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -392,7 +392,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -409,7 +409,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 			"PlayersSearchingMatchingNearbyValue"
@@ -424,7 +424,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -440,7 +440,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -457,7 +457,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 			"EmptyGameserversMatchingNearbyValue"
@@ -472,7 +472,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -488,7 +488,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -502,19 +502,19 @@
 			"wide"		"340"
 			"tall"		"100"
 			"visible"	"0"
-			
+			"enabled"	"1"
 
 			"PartyLowPriorityImage"
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"PartyLowPriorityImage"
-				
+				"xpos"			"0"
 				"ypos"			"5"
-				
+				"zpos"			"0"
 				"wide"			"50"
 				"tall"			"50"
-				////"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 				"mouseinputenabled" "0"
 				"image"			"pve/mvm_timeout_active_large"
 				"scaleImage"	"1"
@@ -530,9 +530,9 @@
 				"zpos"			"2"
 				"wide"		"275"
 				"tall"		"60"
-				//"textAlignment"	"west"
+				"textAlignment"	"west"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"wrap"		"1"
 				"fgcolor_override"	"250 114 45 255"
 			}
@@ -547,9 +547,9 @@
 				"zpos"			"3"
 				"wide"		"175"
 				"tall"		"30"
-				//"textAlignment"	"west"
+				"textAlignment"	"west"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"wrap"		"1"
 			}
 		}
@@ -575,7 +575,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"PartyGroupBox"
-			
+			"xpos"		"0"
 			"ypos"		"0"
 			"zpos"		"-1"
 			"wide"		"200"
@@ -593,10 +593,10 @@
 				"fieldName"		"PartyLabel"
 				"font"			"HudFontMediumBold"
 				"labelText"		"#TF_Matchmaking_Party"
-				//"textAlignment"	"west"
+				"textAlignment"	"west"
 				"xpos"			"5"
 				"ypos"			"5"
-				
+				"zpos"			"0"
 				"wide"			"120"
 				"tall"			"20"
 			}
@@ -610,17 +610,17 @@
 				"zpos"			"2"
 				"wide"			"100"
 				"tall"			"20"
-				
+				"autoResize"	"0"
 				//"pinCorner"		"3"
-				////"visible"		"1"
-				
-				
+				"visible"		"1"
+				"enabled"		"1"
+				"tabPosition"	"0"
 				"labelText"		"#TF_Matchmaking_Invite"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				//"dulltext"		"0"
-				//"brighttext"	"0"
-				//"Default"		"1"
+				"dulltext"		"0"
+				"brighttext"	"0"
+				"default"		"1"
 				"Command"		"invite"
 
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -633,11 +633,11 @@
 				"fieldName"		"TourLevelImage"
 				"xpos"			"169"
 				"ypos"			"23"
-				
+				"zpos"			"0"
 				"wide"			"25"
 				"tall"			"25"
 				"visible"		"0"
-				
+				"enabled"		"1"
 				"mouseinputenabled" "0"
 				"image"			"../hud/mvm_tours"
 				"scaleImage"	"1"
@@ -649,7 +649,7 @@
 				"fieldName"		"PartyPlayerList"
 				"xpos"			"5"
 				"ypos"			"35"
-				
+				"zpos"			"0"
 				"wide"			"190"
 				"tall"			"120"
 				"linespacing"	"18"
@@ -661,9 +661,9 @@
 			"ControlName"	"RichText"
 			"fieldName"		"ChatLog"
 			"Default"			"ChatMiniFont"
-			
+			"xpos"			"0"
 			"ypos"			"170"
-			
+			"zpos"			"0"
 			"wide"			"200"
 			"tall"			"110"
 			"bgcolor_override"	"0 0 0 200"
@@ -675,9 +675,9 @@
 			"ControlName"	"TextEntry"
 			"fieldName"		"ChatTextEntry"
 			"font"			"ChatFont"
-			
+			"xpos"			"0"
 			"ypos"			"290"
-			
+			"zpos"			"0"
 			"wide"			"200"
 			"tall"			"20"
 			"bgcolor_override"	"0 0 0 200"
@@ -703,7 +703,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"JoinLateValueLabel"
 		"font"			"HudFontSmall"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"xpos"		"c+100"
 		"ypos"		"325"
 		"zpos"		"-1"

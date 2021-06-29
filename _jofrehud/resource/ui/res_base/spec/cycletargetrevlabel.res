@@ -7,12 +7,12 @@
 		"ypos"			"25"	
 		"wide"			"125"
 		"tall"			"20"
-		
-		
-		////"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"#TF_Spectator_CycleTargetRev"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 }	

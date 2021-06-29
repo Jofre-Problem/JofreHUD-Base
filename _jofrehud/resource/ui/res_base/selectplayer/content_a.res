@@ -18,17 +18,17 @@
         "zpos"          "1"
         "wide"          "400"
         "tall"          "25"
-    // 
-     //  
+    //  "autoResize"    "0"
+     //   "pinCorner"     "0"
       //  "visible"       "1"
     //    "enabled"       "1"
-        "fgcolor_override" "LightRed"
+        "fgcolor_override" "200 80 60 255"
     }
     "SelectPlayerDialog"
     {
         "fieldName"             "SelectPlayerDialog"
         "visible"               "1"
-        
+        "enabled"               "1"
         "xpos"                  "c-200"
         "ypos"                  "80"
         "wide"                  "400"
@@ -50,11 +50,11 @@
                 "ypos"          "0"
                 "wide"          "350"
                 "tall"          "30"
-               
+                "autoResize"    "0"
                 "pinCorner"     "3"
                 "visible"       "1"
                 "enabled"       "1"
-                // "tabPosition"   "0"
+                "tabPosition"   "0"
                 "labelText"     ""
                 "font"          "HudFontSmallBold"
                 "textAlignment" "west"
@@ -92,7 +92,7 @@
         "ControlName"           "EditablePanel"
         "fieldName"             "StatePanel0"
         "visible"               "1"
-        
+        "enabled"               "1"
         "xpos"                  "0"
         "wide"                  "400"
         "tall"                  "180"
@@ -105,8 +105,8 @@
             "font"          "HudFontSmallBold"
             "textAlignment" "north"
             "zpos"          "-1"
-           
-           
+            "autoResize"    "0"
+            "pinCorner"     "0"
             "visible"       "1"
             "enabled"       "1"
             "fgcolor_override" "200 187 161 255"
@@ -120,11 +120,11 @@
             "zpos"          "1"
             "wide"          "200"
             "tall"          "25"
-           
+            "autoResize"    "0"
             "pinCorner"     "3"
             "visible"       "1"
             "enabled"       "1"
-            // "tabPosition"   "0"
+            "tabPosition"   "0"
             "labelText"     "#TF_SelectPlayer_SelectFriends"
             "font"          "HudFontSmallBold"
             "textAlignment" "center"
@@ -143,11 +143,11 @@
             "zpos"          "1"
             "wide"          "200"
             "tall"          "25"
-           
+            "autoResize"    "0"
             "pinCorner"     "3"
             "visible"       "1"
             "enabled"       "1"
-            // "tabPosition"   "0"
+            "tabPosition"   "0"
             "font"          "HudFontSmallBold"
             "textAlignment" "center"
             "dulltext"      "0"
@@ -162,7 +162,7 @@
         "ControlName"           "EditablePanel"
         "fieldName"             "StatePanel1"
         "visible"               "1"
-        
+        "enabled"               "1"
         "xpos"                  "0"
         "wide"                  "400"
         "tall"                  "180"
@@ -179,8 +179,8 @@
             "ypos"          "10"
             "wide"          "400"
             "tall"          "15"
-           
-           
+            "autoResize"    "0"
+            "pinCorner"     "0"
             "visible"       "1"
             "enabled"       "1"
             "fgcolor_override" "200 187 161 255"
@@ -198,8 +198,8 @@
             "zpos"          "1"
             "wide"          "400"
             "tall"          "30"
-           
-           
+            "autoResize"    "0"
+            "pinCorner"     "0"
             "visible"       "1"
             "enabled"       "1"
             "wrap"          "1"

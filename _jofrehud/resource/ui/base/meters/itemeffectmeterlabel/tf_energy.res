@@ -2,7 +2,7 @@
 {
 	"ItemEffectMeterLabel"
 	{
-		
+		"tabPosition"			"0"
 		"labelText"				"#TF_ENERGYDRINK"
 	}
 }

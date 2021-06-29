@@ -2,6 +2,6 @@
 {
 	"BuildingStatusHealthImageBG"
 	{
-		
+		"xpos"			"0"
 	}				
 }

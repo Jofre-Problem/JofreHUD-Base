@@ -6,9 +6,9 @@
 		"ControlName"		"PropertySheet"
 		"fieldName"		"GameTabs"
 		"autoResize"	"3"
-		
-		//"visible"		"1"
-		
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"1"
 	}
 }

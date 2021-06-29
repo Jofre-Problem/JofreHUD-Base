@@ -6,7 +6,7 @@
         "ControlName"           "EditablePanel"
         "fieldName"             "StatePanel2"
         "visible"               "1"
-        
+        "enabled"               "1"
         "xpos"                  "0"
         "ypos"                  "50"
         "wide"                  "400"
@@ -25,8 +25,8 @@
             "zpos"          "-1"
             "wide"          "400"
             "tall"          "15"
-           
-           
+            "autoResize"    "0"
+            "pinCorner"     "0"
             "visible"       "1"
             "enabled"       "1"
             "fgcolor_override" "200 187 161 255"
@@ -44,8 +44,8 @@
             "zpos"          "1"
             "wide"          "400"
             "tall"          "30"
-           
-           
+            "autoResize"    "0"
+            "pinCorner"     "0"
             "visible"       "1"
             "enabled"       "1"
             "wrap"          "1"

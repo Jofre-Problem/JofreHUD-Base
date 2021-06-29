@@ -38,13 +38,13 @@
 		"enabled"		"0"
 		"if_workshop_enabled"
 		{
-			
+			"enabled"		"1"
 		}
-		
+		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"borderset"		"LabelDull"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"labelText"		"#ServerBrowser_Workshop"
 	}
 	"WorkshopFilter"
@@ -55,22 +55,22 @@
 		"wide"		"112"
 		"tall"		"24"
 		"zpos"		"1"
-		
+		"AutoResize"		"0"
 		"PinCorner"		"2"
 		"enabled"		"0"
 		"visible"		"0"
 		"if_workshop_enabled"
 		{
-			
-			//"visible"		"1"
+			"enabled"		"1"
+			"visible"		"1"
 		}
-		
+		"tabPosition"		"0"
 		"paintbackground"		"1"
-		//"textHidden"		"0"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"Divider2"
 	{
@@ -80,8 +80,8 @@
 		"pinCorner"		"2"
 		"if_workshop_enabled"
 		{
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 		}
 	}
 	"TagLabel"
@@ -97,13 +97,13 @@
 		"tall"		"24"
 		"AutoResize"		"1"
 		"PinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"borderset"		"LabelDull"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"labelText"		"#ServerBrowser_Tags"
 	}
 	"TagsInclude"
@@ -118,17 +118,17 @@
 		"wide"		"112"
 		"tall"		"24"
 		"zpos"		"1"
-		
+		"AutoResize"		"0"
 		"PinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"paintbackground"		"1"
-		//"textHidden"		"0"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 
 	"TagFilter"
@@ -147,14 +147,14 @@
 		"tall"		"24"
 		"autoResize"		"1"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 
 	"AddTagList"
@@ -165,15 +165,15 @@
 		"zpos"		"99"
 		"wide"		"154"
 		"tall"		"24"
-		
+		"autoResize"		"0"
 		"pinCorner"		"3"
-		//"visible"		"1"
-		
-		
-		//"textHidden"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 }

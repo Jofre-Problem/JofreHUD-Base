@@ -11,7 +11,7 @@
 			"wide"			"19"
 			"tall"			"19"
 			"visible"		"0"
-			
+			"enabled"		"1"
 			"scaleImage"	"1"	
 			"icon"			"obj_status_icon_wrench"
 			"iconColor"		"255 255 255 255"

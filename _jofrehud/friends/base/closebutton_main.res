@@ -15,9 +15,9 @@
 	//	"wide"		"64"
 	//	"tall"		"24"
 	//	"visible"		"1"
-	//	
+	//	"enabled"		"1"
 		"labelText"		"#TrackerUI_Close"
 	//	"Command"		"Close"
-	//	//"Default"		"1"
+	//	"Default"		"1"
 	}
 }

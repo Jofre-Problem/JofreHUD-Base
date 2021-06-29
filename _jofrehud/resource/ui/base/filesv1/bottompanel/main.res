@@ -4,6 +4,6 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BottomPanel"
-		////"visible"		"1"
+		"visible"		"1"
 	}	
 }	

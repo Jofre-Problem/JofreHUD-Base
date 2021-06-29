@@ -2,7 +2,7 @@
 {	
 	"already_built_item_1"
 	{
-		//"visible"			"1"
+		"visible"			"1"
 	}
 	"already_built_item_2"
 	{

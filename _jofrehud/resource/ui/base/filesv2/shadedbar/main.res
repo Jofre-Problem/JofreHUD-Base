@@ -3,7 +3,7 @@
 {
 	"ShadedBar"
 	{
-		
+		"xpos"			"0"
 		"ypos"			"r50"
 		"zpos"			"5"
 		"wide"			"f0"

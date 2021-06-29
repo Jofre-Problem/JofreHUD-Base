@@ -9,15 +9,15 @@
 		"ypos"		"150"
 		"wide"		"44"
 		"tall"		"24"
-		
+		"AutoResize"		"0"
 		"PinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Game"
 		"textAlignment"		"east"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 	"LocationFilterLabel"
 	{
@@ -27,15 +27,15 @@
 		"ypos"		"180"
 		"wide"		"72"
 		"tall"		"24"
-		
+		"AutoResize"		"0"
 		"PinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Location"
 		"textAlignment"		"east"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 	"MapFilterLabel"
 	{
@@ -45,15 +45,15 @@
 		"ypos"		"180"
 		"wide"		"44"
 		"tall"		"24"
-		
+		"AutoResize"		"0"
 		"PinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Map"
 		"textAlignment"		"east"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}	
 	"SecureFilterLabel"
 	{
@@ -63,15 +63,15 @@
 		"ypos"		"210"
 		"wide"		"72"
 		"tall"		"24"
-		
+		"AutoResize"		"0"
 		"PinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AntiCheat"
 		"textAlignment"		"east"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 	"MaxPlayerFilterLabel"
 	{
@@ -81,15 +81,15 @@
 		"ypos"		"210"
 		"wide"		"144"
 		"tall"		"24"
-		
+		"AutoResize"		"0"
 		"PinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_MaxPlayer"
 		"textAlignment"		"east"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}	
 	"PingFilterLabel"
 	{
@@ -99,14 +99,14 @@
 		"ypos"		"150"
 		"wide"		"72"
 		"tall"		"24"
-		
+		"AutoResize"		"0"
 		"PinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Latency"
 		"textAlignment"		"east"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}	
 }

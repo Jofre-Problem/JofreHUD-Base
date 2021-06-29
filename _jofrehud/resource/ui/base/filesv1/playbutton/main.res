@@ -8,16 +8,16 @@
 		"ypos"		"168"
 		"wide"		"120"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Play"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"Play"
 		"Default"		"0"
 	}
@@ -30,16 +30,16 @@
 		"zpos"			"3"
 		"wide"			"120"
 		"tall"			"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"pinCorner"		"0"
+		"autoResize"	"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#Replay_Watch"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"play"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -57,11 +57,11 @@
 		"wide"			"48"
 		"tall"			"48"
 		"zpos"			"3"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		""
 		"Command"		"play"
 		"sound_depressed"	"UI/buttonclick.wav"

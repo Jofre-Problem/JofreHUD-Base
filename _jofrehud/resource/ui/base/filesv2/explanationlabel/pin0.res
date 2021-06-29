@@ -2,6 +2,6 @@
 {
 	"ExplanationLabel"
 	{
-		
+		"pinCorner"		"0"
 	}	
 }	

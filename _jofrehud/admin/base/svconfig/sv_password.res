@@ -8,9 +8,9 @@
 		"ypos"		"105"
 		"wide"		"100"
 		"tall"		"20"
-		
+		"autoResize"	"0"
 		"pinCorner"	"0"
 		"visible"	"1"
-		
+		"enabled"	"1"
 	}
 }

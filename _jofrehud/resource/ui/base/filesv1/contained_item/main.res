@@ -4,16 +4,16 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"LoadingSpinner"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"1"		
 		"wide"			"f0"
 		"tall"			"f0"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		//"paintborder"	"0"
+		"enabled"		"1"
+		"paintborder"	"0"
 		"image"			"animated/tf2_logo_hourglass"
 		"scaleImage"	"1"
 	}
@@ -31,10 +31,10 @@
 			"bgcolor_override"		"0 0 0 200"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
-			//"paintborder"	"0"
+			"paintborder"	"0"
 			"useparentbg"	"0"
 		
-			
+			"enabled"		"1"
 		
 			"model_xpos"	"1"
 			"model_ypos"	"1"

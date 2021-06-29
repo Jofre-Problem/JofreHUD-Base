@@ -2,6 +2,6 @@
 {
 	"MapName"
 	{
-	//	//"textAlignment"	"west"
+	//	"textAlignment"	"west"
 	}
 }	

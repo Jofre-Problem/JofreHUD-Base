@@ -3,9 +3,9 @@
 	"WaitingForPlayersLabel"
 	{	
 		"fieldName"		"WaitingForPlayersLabel"
-		
+		"enabled"		"1"
 		"textAlignment"		"Center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
 	}	
 }

@@ -4,8 +4,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"DistanceLabel"
-		
-		//"visible"		"1"
-		
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 	}	
 }	

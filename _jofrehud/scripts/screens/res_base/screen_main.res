@@ -4,8 +4,8 @@
 	"Background"
 	{
 		"ControlName"	"MaterialImage"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"-2"
 		"wide"			"480"
 		"tall"			"240"

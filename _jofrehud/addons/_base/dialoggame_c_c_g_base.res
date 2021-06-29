@@ -8,15 +8,15 @@
 		"ypos"		"370"
 		"wide"		"80"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		
+		"tabPosition"		"0"
 		"labelText"		"#SteamAddOn_Btn_Resign"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
 		"default"		"0"
 	}
 	"ShowHistoryBtn"
@@ -27,15 +27,15 @@
 		"ypos"		"370"
 		"wide"		"110"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#SteamAddOn_Btn_ShowHistory"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
 		"Default"		"0"
 	}
 	"LastMoveLabel"
@@ -46,15 +46,15 @@
 		"ypos"		"405"
 		"wide"		"250"
 		"tall"		"24"
-		
+		"autoResize"		"0"
 		"pinCorner"		"2"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Last Move made at:"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
 	}
 	"TurnLabel"
 	{
@@ -64,15 +64,15 @@
 		"ypos"		"405"
 		"wide"		"64"
 		"tall"		"24"
-		
+		"autoResize"		"0"
 		"pinCorner"		"3"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"Turn: 1"
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
 	}
 	"WhiteIcon"
 	{
@@ -82,11 +82,11 @@
 	//	"ypos"		"41"
 		"wide"		"12"
 		"tall"		"12"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 	}	
 	"WhiteName"
 	{
@@ -96,14 +96,14 @@
 	//	"ypos"		"35"
 		"wide"		"100"
 		"tall"		"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		
-		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
 	}	
 	
 }

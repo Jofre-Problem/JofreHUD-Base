@@ -4,8 +4,8 @@
 	{
 		"ControlName"			"CItemModelPanel"
 		"fieldName"				"itempanel"
-		
-		
+		"xpos"					"0"
+		"ypos"					"0"
 		"zpos"					"10"
 		"wide"					"120"
 		"tall"					"100"
@@ -14,7 +14,7 @@
 		"paintborder"		"1"		
 		"border"		"SteamWorkshopBorder"
 		"paintbackground"	"1"
-		"bgcolor_override"	"TanDarker"
+		"bgcolor_override"	"46 43 42 255"
 		"model_ypos"			"18"
 		"model_center_x"		"1"
 		"model_wide"			"70"
@@ -42,20 +42,20 @@
 			"ControlName"	"Label"
 			"fieldName"		"ItemLabel"
 			"font"			"Default"
-			
+			"xpos"			"0"
 			"ypos"			"3"
 			"zpos"			"1"
 			"wide"			"120"
 			"tall"			"25"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"textinsetx"	"10"
 			"labelText"		"#FreezePanel_Item"
 			"textAlignment"	"north"
-			//"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"wrap"			"1"
 			"centerwrap"	"1"
 		}
@@ -65,15 +65,15 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"attriblabel"
 			"font"			"ItemFontAttribLarge"
-			
+			"xpos"			"0"
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"
 			"tall"			"60"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
 			"visible"		"0"
-			
+			"enabled"		"1"
 			"labelText"		"%attriblist%"
 			"textAlignment"	"south"
 			"fgcolor"		"HudWhite"

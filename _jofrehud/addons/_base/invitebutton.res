@@ -8,13 +8,13 @@
 		"ypos"			"85"
 		"wide"			"64"
 		"tall"			"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		
+		"tabPosition"		"0"
 		"labelText"		"#SteamAddOn_Invite"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"CancelInviteButton0"
@@ -25,13 +25,13 @@
 		"ypos"			"85"
 		"wide"			"64"
 		"tall"			"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#SteamAddOn_Cancel"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"InviteButton1"
@@ -42,13 +42,13 @@
 		"ypos"			"120"
 		"wide"			"64"
 		"tall"			"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		
+		"tabPosition"		"0"
 		"labelText"		"#SteamAddOn_Invite"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"CancelInviteButton1"
@@ -59,13 +59,13 @@
 		"ypos"			"120"
 		"wide"			"64"
 		"tall"			"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#SteamAddOn_Cancel"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"InviteButton2"
@@ -76,13 +76,13 @@
 		"ypos"			"155"
 		"wide"			"64"
 		"tall"			"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#SteamAddOn_Invite"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"CancelInviteButton2"
@@ -93,13 +93,13 @@
 		"ypos"			"155"
 		"wide"			"64"
 		"tall"			"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#SteamAddOn_Cancel"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"InviteButton3"
@@ -110,13 +110,13 @@
 		"ypos"			"190"
 		"wide"			"64"
 		"tall"			"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#SteamAddOn_Invite"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 		"Default"		"0"
 	}
 	"CancelInviteButton3"
@@ -127,13 +127,13 @@
 		"ypos"			"190"
 		"wide"			"64"
 		"tall"			"24"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#SteamAddOn_Cancel"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 		"Default"		"0"
 	}
 }

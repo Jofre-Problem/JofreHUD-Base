@@ -16,15 +16,15 @@
 	{
 		"ControlName"		"CTFIntroMenu"
 		"fieldName"		"intro"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
-		
-		
-		////"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"paintbackground"	"0"
 	}
 	
@@ -32,15 +32,15 @@
 	{
 	//	"ControlName"		"CExLabel"
 	//	"fieldName"			"titlelabel"
-		//"xpos"				"0"
+		"xpos"				"0"
 		"ypos"				"0"
 		"wide"				"f0"
 		"tall"				"70"
-	//	
-	//	
+	//	"autoResize"		"0"
+	//	"pinCorner"			"0"
 	//	"visible"			"0"
 		"enabled"			"0"
-	//	
+	//	"tabPosition"		"0"
 	}
 
 	"Skip" [$WIN32] 
@@ -56,16 +56,16 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
-		////"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#Button_SkipIntro"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"command"		"skip"
 		"font"			"MenuSmallFont"
 	}
@@ -83,16 +83,16 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_Continue"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"command"		"skip"
 		"font"			"MenuSmallFont"
 	}
@@ -109,14 +109,14 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
-		////"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"#TF_Back"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"command"		"back"
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
@@ -134,14 +134,14 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"labelText"		"#TF_ReplayIntro"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"command"		"replayVideo"
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
@@ -156,10 +156,10 @@
 		"zpos"			"3"		
 		"wide"			"300"
 		"tall"			"225"
-		
-		
-		////"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"start_delay"	"2.0"
 		"end_delay"		"2.0"
 	}
@@ -173,14 +173,14 @@
 		"zpos"			"6"
 		"wide"			"295"
 		"tall"			"70"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"labelText"		" "
 		"textAlignment"	"center"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"font"			"IntroMenuCaption"
 		"fgcolor"		"White"
 		"wrap"			"1"

@@ -25,8 +25,8 @@
 		"ypos"		"376"
 		"wide"		"280"
 		"tall"		"180"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"1"
 	}
 	"StringEdit"
@@ -35,14 +35,14 @@
 		"fieldName"		"StringEdit"
 
 		"tall"		"24"
-		
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"enabled"		"1"
 
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
+		"NumericInputOnly"		"0"
 	}
 
 	"Label1"

@@ -26,33 +26,33 @@
 		"zpos"			"6"
 		"wide"			"150"
 	//	"tall"			"30"
-		//
+		//"autoResize"	"0"
 	//	"pinCorner"		"2"
-	//	////"visible"		"1"
-		//
-		//
+	//	"visible"		"1"
+		//"enabled"		"1"
+		//"tabPosition"		"0"
 		"labelText"		"#TF_Continue"
 		//"textAlignment"		"center"
-	//	//"dulltext"		"0"
-		////"brighttext"		"0"
-	//	//"wrap"		"0"
+	//	"dulltext"		"0"
+		//"brighttext"		"0"
+	//	"wrap"		"0"
 		//"command"		"okay"
-	//	//"Default"		"1"
+	//	"default"		"1"
 		"font"			"MenuSmallFont"
 	}
 	"info"
 	{
 		"ControlName"			"CTFTextWindow"
 		"fieldName"				"info"
-		
-		
+		"xpos"					"0"
+		"ypos"					"0"
 		"wide"					"f0"
 		"tall"					"480"
-		
-		
-		
-		
-		
+		"autoResize"			"0"
+		"pinCorner"				"0"
+		"visible"				"1"
+		"enabled"				"1"
+		"tabPosition"			"0"
 		"settitlebarvisible"	"0"
 	}
 	
@@ -65,14 +65,14 @@
 		"zpos"			"1"
 		"wide"			"420"
 		"tall"			"24"
-		
-		
-		////"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"#TF_WELCOME"
-		//"textAlignment"	"west"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"font"			"ChalkboardTitle"
 		"fgcolor"		"White"
 	}	
@@ -96,10 +96,10 @@
 		"wide"			"415"
 		"tall"			"240"
 		"autoResize"	"3"
-		
-		////"visible"		"1"
-		
-		//"paintborder"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"paintborder"	"0"
 		"textAlignment"	"northwest"
 		"fgcolor"		"Gray"
 	}
@@ -114,11 +114,11 @@
 		"wide"			"415"
 		"tall"			"295"
 		"autoResize"	"1"
-		
-		////"visible"		"1"
-		
-		
-		//"paintborder"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintborder"	"0"
 	}
 	
 

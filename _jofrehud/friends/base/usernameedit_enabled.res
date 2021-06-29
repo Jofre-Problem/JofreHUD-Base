@@ -2,6 +2,6 @@
 {
 	"UserNameEdit"
 	{
-		
+		"enabled"		"1"
 	}
 }

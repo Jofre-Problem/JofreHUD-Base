@@ -6,9 +6,9 @@
 		{
 			"ControlName"	"CBuildingStatusAlertTray"
 			"fieldName"		"AlertTray"
-			
-			////"visible"		"1"
-				
+			"ypos"			"0"
+			"visible"		"1"
+			"enabled"		"1"	
 		}
 	}	
 }

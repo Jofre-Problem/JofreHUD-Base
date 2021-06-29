@@ -5,15 +5,15 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"autodoor"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"2"		
 		"wide"			"f0"
 		"tall"			"480"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fov"			"20"
 		
 		"model"
@@ -33,7 +33,7 @@
 			{
 				"name"			"idle_enabled"
 				"sequence"		"idle"
-				//"Default"		"1"
+				"default"		"1"
 			}
 
 			"animation"
@@ -54,15 +54,15 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"spectate"
-		
-		
-				
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"0"		
 		"wide"			"f0"
 		"tall"			"480"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fov"			"20"
 		
 		"model"
@@ -82,7 +82,7 @@
 			{
 				"name"			"idle_enabled"
 				"sequence"		"idle"
-				//"Default"		"1"
+				"default"		"1"
 			}
 
 			"animation"

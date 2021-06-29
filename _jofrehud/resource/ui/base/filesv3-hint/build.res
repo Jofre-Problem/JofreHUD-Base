@@ -9,13 +9,13 @@
 		"zpos"			"1"
 		"wide"			"25"
 		"tall"			"25"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 	}
 	"BuildHintLabel_Bright"
 	{
@@ -27,14 +27,14 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"39"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Action_Build"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 	}
 	
 	"BuildHintLabel_Dim"
@@ -48,14 +48,14 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"39"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Action_Build"
 		"textAlignment"	"Left"
 		"dulltext"		"1"
-		//"brighttext"	"0"
+		"brighttext"	"0"
 	}	
 	"DestroyHintIcon"
 	{
@@ -65,13 +65,13 @@
 		"zpos"			"1"
 		"wide"			"25"
 		"tall"			"25"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 	}	
 	"DestroyHintLabel_Bright"
 	{
@@ -83,14 +83,14 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"39"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 	}
 	
 	"DestroyHintLabel_Dim"
@@ -104,13 +104,13 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"39"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 	}	
 }

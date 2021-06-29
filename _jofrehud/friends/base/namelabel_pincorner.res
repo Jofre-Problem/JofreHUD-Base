@@ -2,6 +2,6 @@
 {
 	"NameLabel"
 	{
-		
+		"pincorner"		"0"
 	}
 }

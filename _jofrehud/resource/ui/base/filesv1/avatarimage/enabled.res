@@ -3,6 +3,6 @@
 	"AvatarImage"
 	{
 		"ControlName"	"CAvatarImagePanel"	
-		
+		"enabled"		"1"
 	}
 }	

@@ -4,13 +4,13 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"BottomBar"
-		
+		"xpos"			"0"
 		"ypos"			"r70"
 		"tall"			"70"			
-		
-		
-		////"visible"		"1"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"enabled"		"0"
-		
+		"tabPosition"		"0"
 	}
 }	

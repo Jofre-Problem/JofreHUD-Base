@@ -2,6 +2,6 @@
 {
 	"DescriptionLabel"
 	{
-		
+		"autoResize"	"0"
 	}
 }	

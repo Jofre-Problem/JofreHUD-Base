@@ -4,8 +4,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Container"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"17"
 		"proportionaltoparent"	"1"
@@ -20,11 +20,11 @@
 		"ypos"		"c-205"
 		"wide"		"400"
 		"tall"		"410"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
 		"border"				"QuickplayBorder"
@@ -38,11 +38,11 @@
 		"ypos"		"c-200"
 		"wide"		"600"
 		"tall"		"400"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
 		"border"				"SteamWorkshopBorder"		
@@ -50,39 +50,39 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Container"
-		
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"proportionaltoparent" "1"
 		"skip_autoresize"	"1"
 	"Container"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Container"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"f0"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"proportionaltoparent" "1"
 
 	"Container"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Container"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"f0"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"proportionaltoparent" "1"
 	"Container"
 	{
@@ -90,14 +90,14 @@
 		"fieldName"		"Container"
 		"xpos"		"c-225"
 		"ypos"		"c-200"
-		
+		"zpos"		"0"
 		"wide"		"450"
 		"tall"		"400"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
 		"border"				"QuickplayBorder"							

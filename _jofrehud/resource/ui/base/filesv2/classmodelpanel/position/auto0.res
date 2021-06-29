@@ -2,6 +2,6 @@
 {
 	"classmodelpanel"
 	{
-		
+		"autoresize"		"0"
 	}
 }

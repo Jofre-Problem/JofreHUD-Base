@@ -2,7 +2,7 @@
 {
 	"ClassLabel"
 	{
-		
+		"xpos"			"0"
 		"ypos"			"50"
 		"zpos"			"-1"
 		"wide"			"400"

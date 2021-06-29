@@ -2,6 +2,6 @@
 {
 	"InfoText"
 	{
-		
+		"enabled"		"1"
 	}
 }

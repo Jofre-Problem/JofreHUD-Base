@@ -8,13 +8,13 @@
 			{
 				"ControlName"	"CIconPanel"
 				"fieldName"		"UpgradeIcon"
-				
+				"xpos"			"0"
 			//	"ypos"			"16"
 				"zpos"			"1"
 				"wide"			"10"
 				"tall"			"10"
-				////"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 				"scaleImage"	"1"	
 				"icon"			"ico_metal"
 				"iconColor"		"ProgressOffWhite"
@@ -29,13 +29,13 @@
 			//	"ypos"			"17"
 				"wide"			"38"
 				"tall"			"8"
-				
-				
-				////"visible"		"1"
-				
+				"autoResize"	"0"
+				"pinCorner"		"0"
+				"visible"		"1"
+				"enabled"		"1"
 				"textAlignment"	"Left"
-				//"dulltext"		"0"
-				//"brighttext"	"0"
+				"dulltext"		"0"
+				"brighttext"	"0"
 			}
 		}
 	}	

@@ -5,10 +5,10 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Shade"
 		"xpos"			"3"
-		
+		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
-		//"visible"		"1"
+		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 	}		

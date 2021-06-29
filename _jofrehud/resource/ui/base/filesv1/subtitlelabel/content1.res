@@ -10,7 +10,7 @@
 		"zpos"			"1"
 		"wide"			"p0.9"
 		"tall"			"14"
-		
+		"autoResize"	"0"
 		"fgcolor_override" "TanLight"
 	}
 }

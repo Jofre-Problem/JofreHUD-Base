@@ -2,6 +2,6 @@
 {
 	"ItemBackground"
 	{
-		
+		"ypos"			"0"
 	}
 }	

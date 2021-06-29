@@ -15,11 +15,11 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"PlayerList"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"wide"			"190"
 			"tall"			"130"
-			//"visible"		"1"
+			"visible"		"1"
 		}
 	}	
 }	

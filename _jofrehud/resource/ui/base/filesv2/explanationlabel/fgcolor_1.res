@@ -2,6 +2,6 @@
 {
 	"ExplanationLabel"
 	{	
-		"fgcolor_override" "LightRed"
+		"fgcolor_override" "200 80 60 255"
 	}	
 }	

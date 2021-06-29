@@ -3,7 +3,7 @@
 	"modelpanel"
 	{		
 		"fieldName"		"modelpanel"
-		//"visible"		"1"
+		"visible"		"1"
 	}			
 }
 // lol

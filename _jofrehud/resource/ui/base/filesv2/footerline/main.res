@@ -6,8 +6,8 @@
 		"fieldName"		"FooterLine"
 		"wide"			"f0"
 		"tall"			"10"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
 	}

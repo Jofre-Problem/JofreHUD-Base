@@ -2,6 +2,6 @@
 {
 	"DescriptionLabel"
 	{
-		
+		"enabled"	"1"
 	}
 }	
