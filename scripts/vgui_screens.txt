@@ -1,0 +1,4 @@
+	#base "../_stream/scripts/vgui_screens.txt"
+	#base "../_jofrenew/scripts/vgui_screens.txt"
+	#base "../_jofrehud/scripts/vgui_screens.txt"
+	#base "../_tf2hud/scripts/vgui_screens.txt

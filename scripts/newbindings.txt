@@ -1,0 +1,4 @@
+	#base "../_stream/scripts/newbindings.txt"
+	#base "../_jofrenew/scripts/newbindings.txt"
+	#base "../_jofrehud/scripts/newbindings.txt"
+	#base "../_tf2hud/scripts/newbindings.txt
