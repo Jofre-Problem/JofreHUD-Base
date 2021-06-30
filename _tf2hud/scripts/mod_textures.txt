@@ -18,8 +18,8 @@
 		"whiteAdditive"
 		{
 				"file"		"vgui/white_additive"
-				"x"		"0"
-				"y"		"0"
+				//"x"		"0"
+				//"y"		"0"
 				"width"		"1"
 				"height"	"1"
 		}
@@ -142,7 +142,7 @@
 		{
 				"file"		"sprites/640hud1"
 				"x"		"182"
-				"y"		"0"
+				//"y"		"0"
 				"width"		"26"
 				"height"	"24"
 		}
@@ -151,7 +151,7 @@
 		{
 				"file"		"sprites/640hud1"
 				"x"		"208"
-				"y"		"0"
+				//"y"		"0"
 				"width"		"24"
 				"height"	"24"
 		}
@@ -260,16 +260,16 @@
 		"obj_attachment_sapper"
 		{
 				"file"		"sprites/bucket_sapper"
-				"x"		"0"
-				"y"		"0"
+				//"x"		"0"
+				//"y"		"0"
 				"width"		"200"
 				"height"	"128"
 		}
 		"voice_self"
 		{
 			"file"		"voice/icntlk_local"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"64"
 			"height"	"64"
 		}
@@ -277,8 +277,8 @@
 		"voice_player"
 		{
 			"file"		"voice/icntlk_sv"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"32"
 			"height"	"32"
 		}
@@ -306,7 +306,7 @@
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
 				"x"		"256"
-				"y"		"0"
+				//"y"		"0"
 				"width"		"96"
 				"height"	"32"
 		}
@@ -323,8 +323,8 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
-				"y"		"0"
+				//"x"		"0"
+				//"y"		"0"
 				"width"		"96"
 				"height"	"32"
 		}
@@ -332,7 +332,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"32"
 				"width"		"96"
 				"height"	"32"
@@ -341,7 +341,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"32"
 				"width"		"96"
 				"height"	"32"
@@ -350,7 +350,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"64"
 				"width"		"64"
 				"height"	"32"
@@ -368,7 +368,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"128"
 				"width"		"96"
 				"height"	"32"
@@ -377,7 +377,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"160"
 				"width"		"96"
 				"height"	"32"
@@ -386,7 +386,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"192"
 				"width"		"96"
 				"height"	"32"
@@ -395,7 +395,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"224"
 				"width"		"96"
 				"height"	"32"
@@ -404,7 +404,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"256"
 				"width"		"96"
 				"height"	"32"
@@ -413,7 +413,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"256"
 				"width"		"96"
 				"height"	"32"
@@ -422,7 +422,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"256"
 				"width"		"96"
 				"height"	"32"
@@ -431,7 +431,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"256"
 				"width"		"96"
 				"height"	"32"
@@ -440,7 +440,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"288"
 				"width"		"96"
 				"height"	"32"
@@ -449,7 +449,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"320"
 				"width"		"96"
 				"height"	"32"
@@ -458,7 +458,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"352"
 				"width"		"96"
 				"height"	"32"
@@ -467,7 +467,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"384"
 				"width"		"96"
 				"height"	"32"
@@ -476,7 +476,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"448"
 				"width"		"96"
 				"height"	"32"
@@ -485,7 +485,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"416"
 				"width"		"96"
 				"height"	"32"
@@ -503,7 +503,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"480"
 				"width"		"96"
 				"height"	"32"
@@ -522,7 +522,7 @@
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
 				"x"		"96"
-				"y"		"0"
+				//"y"		"0"
 				"width"		"96"
 				"height"	"32"
 		}
@@ -639,7 +639,7 @@
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
 				"x"		"194"
-				"y"		"0"
+				//"y"		"0"
 				"width"		"32"
 				"height"	"32"
 		}
@@ -657,7 +657,7 @@
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
 				"x"		"226"
-				"y"		"0"
+				//"y"		"0"
 				"width"		"32"
 				"height"	"32"
 		}
@@ -674,7 +674,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"64"
 				"width"		"96"
 				"height"	"32"
@@ -719,8 +719,8 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
-				"y"		"0"
+				//"x"		"0"
+				//"y"		"0"
 				"width"		"96"
 				"height"	"32"
 		}
@@ -755,7 +755,7 @@
 		{
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"448"
 				"width"		"96"
 				"height"	"32"
@@ -855,7 +855,7 @@
 				"dfile"	"HUD/d_images"
 				"dnegfile"	"HUD/dneg_images"
 				"x"		"360"
-				"y"		"0"
+				//"y"		"0"
 				"width"		"64"
 				"height"	"30"
 		}
@@ -1079,7 +1079,7 @@
 		{
 				"dfile"	"HUD/d_images_v2"
 				"dnegfile"	"HUD/dneg_images_v2"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"768"
 				"width"		"96"
 				"height"	"32"
@@ -1088,7 +1088,7 @@
 		{
 				"dfile"	"HUD/d_images_v2"
 				"dnegfile"	"HUD/dneg_images_v2"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"704"
 				"width"		"96"
 				"height"	"32"
@@ -1106,7 +1106,7 @@
 		{
 				"dfile"	"HUD/d_images_v2"
 				"dnegfile"	"HUD/dneg_images_v2"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"736"
 				"width"		"96"
 				"height"	"32"
@@ -1142,7 +1142,7 @@
 		{
 				"dfile"	"HUD/d_images_v2"
 				"dnegfile"	"HUD/dneg_images_v2"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"800"
 				"width"		"96"
 				"height"	"32"
@@ -1151,7 +1151,7 @@
 		{
 				"dfile"	"HUD/d_images_v2"
 				"dnegfile"	"HUD/dneg_images_v2"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"832"
 				"width"		"96"
 				"height"	"32"
@@ -1160,7 +1160,7 @@
 		{
 				"dfile"	"HUD/d_images_v2"
 				"dnegfile"	"HUD/dneg_images_v2"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"864"
 				"width"		"96"
 				"height"	"32"
@@ -1169,7 +1169,7 @@
 		{
 				"dfile"	"HUD/d_images_v2"
 				"dnegfile"	"HUD/dneg_images_v2"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"896"
 				"width"		"96"
 				"height"	"32"
@@ -1178,7 +1178,7 @@
 		{
 				"dfile"	"HUD/d_images_v2"
 				"dnegfile"	"HUD/dneg_images_v2"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"928"
 				"width"		"96"
 				"height"	"32"
@@ -1187,7 +1187,7 @@
 		{
 				"dfile"	"HUD/d_images_v2"
 				"dnegfile"	"HUD/dneg_images_v2"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"960"
 				"width"		"96"
 				"height"	"32"
@@ -1196,7 +1196,7 @@
 		{
 				"dfile"	"HUD/d_images_v2"
 				"dnegfile"	"HUD/dneg_images_v2"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"992"
 				"width"		"96"
 				"height"	"32"
@@ -1467,7 +1467,7 @@
 				"dfile"	"HUD/d_images_v2"
 				"dnegfile"	"HUD/dneg_images_v2"
 				"x"		"384"
-				"y"		"0"
+				//"y"		"0"
 				"width"		"96"
 				"height"	"32"
 		}	
@@ -1529,8 +1529,8 @@
 		"obj_status_sentrygun_1"
 		{
 			"file"	"HUD/hud_obj_status_sentry_1"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"128"
 			"height"	"128"
 		}
@@ -1538,8 +1538,8 @@
 		"obj_status_sentrygun_2"
 		{
 			"file"	"HUD/hud_obj_status_sentry_2"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"128"
 			"height"	"128"
 		}
@@ -1547,8 +1547,8 @@
 		"obj_status_sentrygun_3"
 		{
 			"file"	"HUD/hud_obj_status_sentry_3"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"128"
 			"height"	"128"
 		}
@@ -1556,8 +1556,8 @@
 		"obj_status_dispenser"
 		{
 			"file"	"HUD/hud_obj_status_dispenser"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"128"
 			"height"	"128"
 		}
@@ -1565,8 +1565,8 @@
 		"obj_weapon_pickup"
 		{
 			"file"	"HUD/hud_obj_weapon_pickup"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"128"
 			"height"	"128"
 		}
@@ -1575,16 +1575,16 @@
 		"obj_status_tele_entrance"
 		{
 			"file"	"HUD/hud_obj_status_tele_entrance"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"128"
 			"height"	"128"
 		}
 		"obj_status_tele_exit"
 		{
 			"file"	"HUD/hud_obj_status_tele_exit"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"128"
 			"height"	"128"
 		}
@@ -1592,32 +1592,32 @@
 		"obj_status_upgrade_1"
 		{
 			"file"	"HUD/hud_upgrade_1"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"64"
 			"height"	"64"
 		}
 		"obj_status_upgrade_2"
 		{
 			"file"	"HUD/hud_upgrade_2"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"64"
 			"height"	"64"
 		}
 		"obj_status_upgrade_3"
 		{
 			"file"	"HUD/hud_upgrade_3"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"64"
 			"height"	"64"
 		}
 		"obj_status_sapper"
 		{
 			"file"	"HUD/hud_obj_status_sapper"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"64"
 			"height"	"64"
 		}
@@ -1625,8 +1625,8 @@
 		"cappoint_progressbar_teardrop"
 		{
 			"file"		"vgui/progress_bar_pointer"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"128"
 			"height"	"155"
 		}
@@ -1634,8 +1634,8 @@
 		"cappoint_progressbar_teardrop_left"
 		{
 			"file"		"vgui/progress_bar_pointer_left"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"128"
 			"height"	"128"
 		}
@@ -1643,8 +1643,8 @@
 		"cappoint_progressbar_teardrop_right"
 		{
 			"file"		"vgui/progress_bar_pointer_right"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"128"
 			"height"	"128"
 		}
@@ -1652,8 +1652,8 @@
 		"obj_status_background_blue"
 		{
 			"file"		"HUD/eng_status_area_tele_blue"
-			"x"			"0"
-			"y"			"0"
+			//"x"			"0"
+			//"y"			"0"
 			"width"		"243"
 			"height"	"64"
 		}
@@ -1661,8 +1661,8 @@
 		"obj_status_background_red"
 		{
 			"file"		"HUD/eng_status_area_tele_red"
-			"x"			"0"
-			"y"			"0"
+			//"x"			"0"
+			//"y"			"0"
 			"width"		"243"
 			"height"	"64"
 		}
@@ -1670,8 +1670,8 @@
 		"obj_status_background_disabled"
 		{
 			"file"		"HUD/eng_status_area_tele_disabled"
-			"x"			"0"
-			"y"			"0"
+			//"x"			"0"
+			//"y"			"0"
 			"width"		"243"
 			"height"	"64"
 		}
@@ -1679,8 +1679,8 @@
 		"obj_status_background_tall_blue"	
 		{
 			"file"		"HUD/eng_status_area_sentry_blue"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"243"
 			"height"	"110"
 		}
@@ -1688,8 +1688,8 @@
 		"obj_status_background_tall_red"	
 		{
 			"file"		"HUD/eng_status_area_sentry_red"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"243"
 			"height"	"110"
 		}
@@ -1697,8 +1697,8 @@
 		"obj_status_background_tall_disabled"
 		{
 			"file"		"HUD/eng_status_area_sentry_disabled"
-			"x"			"0"
-			"y"			"0"
+			//"x"			"0"
+			//"y"			"0"
 			"width"		"243"
 			"height"	"110"
 		}
@@ -1706,8 +1706,8 @@
 		"cappoint_progressbar_blocked"
 		{
 			"file"		"vgui/progress_bar_noCap"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"128"
 			"height"	"128"
 		}
@@ -1724,8 +1724,8 @@
 		"obj_status_alert_background"
 		{
 			"file"		"HUD/eng_status_area_tele_alrt"
-			"x"			"0"
-			"y"			"0"
+			//"x"			"0"
+			//"y"			"0"
 			"width"		"80"
 			"height"	"64"
 		}
@@ -1733,8 +1733,8 @@
 		"obj_status_alert_background_tall"
 		{
 			"file"		"HUD/eng_status_area_sentry_alrt"
-			"x"			"0"
-			"y"			"0"
+			//"x"			"0"
+			//"y"			"0"
 			"width"		"80"
 			"height"	"110"
 		}
@@ -1742,8 +1742,8 @@
 		"obj_status_alert_background_tall_nocolor"
 		{
 			"file"		"HUD/eng_status_area_sentry_alrt_nocolor"
-			"x"			"0"
-			"y"			"0"
+			//"x"			"0"
+			//"y"			"0"
 			"width"		"80"
 			"height"	"110"
 		}
@@ -1751,8 +1751,8 @@
 		"obj_status_icon_wrench"
 		{
 			"file"		"HUD/eng_status_alert_ico_wrench"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"64"
 			"height"	"64"
 		}
@@ -1760,24 +1760,24 @@
 		"obj_status_icon_sapper"
 		{
 			"file"		"HUD/hud_obj_status_sapper"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"64"
 			"height"	"64"
 		}
 		"progress_bar_blu"
 		{
 			"file"		"vgui/progress_bar_blu"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"128"
 			"height"	"128"
 		}				
 		"progress_bar_red"
 		{
 			"file"		"vgui/progress_bar_red"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"128"
 			"height"	"128"
 		}				
@@ -1785,8 +1785,8 @@
 		"dispenser_meter_bg_blue"
 		{
 			"file"		"vgui/dispenser_meter_bg_blue"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"256"
 			"height"	"128"
 		}	
@@ -1794,8 +1794,8 @@
 		"dispenser_meter_bg_red"
 		{
 			"file"		"vgui/dispenser_meter_bg_red"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"256"
 			"height"	"128"
 		}	
@@ -1803,8 +1803,8 @@
 		"leaderboard_dominated"
 		{
 			"file"		"hud/leaderboard_dominated"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"64"
 			"height"	"64"
 		}	
@@ -1813,8 +1813,8 @@
 		{
 			"file"		"hud/leaderboard_streak"
 			"negfile"	"HUD/dneg_leaderboard_streak"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"64"
 			"height"	"64"
 		}	
@@ -1822,8 +1822,8 @@
 		"leaderboard_streak_dneg"
 		{
 			"file"		"hud/dneg_leaderboard_streak"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"64"
 			"height"	"64"
 		}	
@@ -1831,8 +1831,8 @@
 		"hud_menu_bg"
 		{
 			"file"		"hud/eng_build_bg"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"32"
 			"height"	"13"
 		}
@@ -1865,8 +1865,8 @@
 		"hud_menu_scout_red"
 		{
 			"file"		"vgui/class_sel_sm_scout_red"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height" "256"
 		}
@@ -1874,8 +1874,8 @@
 		"hud_menu_soldier_red"
 		{
 			"file"		"vgui/class_sel_sm_soldier_red"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height" "256"
 		}
@@ -1883,8 +1883,8 @@
 		"hud_menu_pyro_red"
 		{
 			"file"		"vgui/class_sel_sm_pyro_red"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height" "256"
 		}
@@ -1892,8 +1892,8 @@
 		"hud_menu_demoman_red"
 		{
 			"file"		"vgui/class_sel_sm_demo_red"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height" "256"
 		}
@@ -1901,8 +1901,8 @@
 		"hud_menu_heavy_red"
 		{
 			"file"		"vgui/class_sel_sm_heavy_red"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height" "256"
 		}
@@ -1910,8 +1910,8 @@
 		"hud_menu_engineer_red"
 		{
 			"file"		"vgui/class_sel_sm_engineer_red"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height" "256"
 		}
@@ -1919,8 +1919,8 @@
 		"hud_menu_medic_red"
 		{
 			"file"		"vgui/class_sel_sm_medic_red"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height" "256"
 		}
@@ -1928,8 +1928,8 @@
 		"hud_menu_sniper_red"
 		{
 			"file"		"vgui/class_sel_sm_sniper_red"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height" "256"
 		}
@@ -1937,8 +1937,8 @@
 		"hud_menu_spy_red"
 		{
 			"file"		"vgui/class_sel_sm_spy_red"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height" "256"
 		}	
@@ -1946,8 +1946,8 @@
 		"hud_menu_scout_blu"
 		{
 			"file"		"vgui/class_sel_sm_scout_blu"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height" "256"
 		}
@@ -1955,8 +1955,8 @@
 		"hud_menu_soldier_blu"
 		{
 			"file"		"vgui/class_sel_sm_soldier_blu"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height" "256"
 		}
@@ -1964,8 +1964,8 @@
 		"hud_menu_pyro_blu"
 		{
 			"file"		"vgui/class_sel_sm_pyro_blu"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height" "256"
 		}
@@ -1973,8 +1973,8 @@
 		"hud_menu_demoman_blu"
 		{
 			"file"		"vgui/class_sel_sm_demo_blu"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height" "256"
 		}
@@ -1982,8 +1982,8 @@
 		"hud_menu_heavy_blu"
 		{
 			"file"		"vgui/class_sel_sm_heavy_blu"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height" "256"
 		}
@@ -1991,8 +1991,8 @@
 		"hud_menu_engineer_blu"
 		{
 			"file"		"vgui/class_sel_sm_engineer_blu"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height" "256"
 		}
@@ -2000,8 +2000,8 @@
 		"hud_menu_medic_blu"
 		{
 			"file"		"vgui/class_sel_sm_medic_blu"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height" "256"
 		}
@@ -2009,8 +2009,8 @@
 		"hud_menu_sniper_blu"
 		{
 			"file"		"vgui/class_sel_sm_sniper_blu"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height" "256"
 		}
@@ -2018,8 +2018,8 @@
 		"hud_menu_spy_blu"
 		{
 			"file"		"vgui/class_sel_sm_spy_blu"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height" "256"
 		}				
@@ -2027,8 +2027,8 @@
 		"hud_menu_sentry_build"
 		{
 			"file"		"hud/eng_build_sentry_blueprint"
-			"x"			"0"
-			"y"			"0"
+			//"x"			"0"
+			//"y"			"0"
 			"width"		"128"
 			"height"	"128"
 		}
@@ -2036,8 +2036,8 @@
 		"hud_menu_dispenser_build"
 		{
 			"file"		"hud/eng_build_dispenser_blueprint"
-			"x"			"0"
-			"y"			"0"
+			//"x"			"0"
+			//"y"			"0"
 			"width"		"128"
 			"height"	"128"
 		}
@@ -2045,8 +2045,8 @@
 		"hud_menu_tele_entrance_build"
 		{
 			"file"		"hud/eng_build_tele_entrance_blueprint"
-			"x"			"0"
-			"y"			"0"
+			//"x"			"0"
+			//"y"			"0"
 			"width"		"128"
 			"height"	"128"
 		}
@@ -2054,8 +2054,8 @@
 		"hud_menu_tele_exit_build"
 		{
 			"file"		"hud/eng_build_tele_exit_blueprint"
-			"x"			"0"
-			"y"			"0"
+			//"x"			"0"
+			//"y"			"0"
 			"width"		"128"
 			"height"	"128"
 		}
@@ -2066,8 +2066,8 @@
 		"ico_metal"
 		{	
 			"file"		"hud/ico_metal_mask"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"128"
 			"height"	"128"
 		}
@@ -2075,8 +2075,8 @@
 		"ico_demolish"
 		{
 			"file"		"hud/ico_demolish"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"256"
 			"height"	"256"
 		}
@@ -2084,8 +2084,8 @@
 		"ico_build"
 		{
 			"file"		"hud/ico_build"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"256"
 			"height"	"256"
 		}
@@ -2093,8 +2093,8 @@
 		"ico_key_blank"
 		{
 			"file"		"hud/ico_key_blank"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"64"
 			"height"	"64"
 		}
@@ -2102,8 +2102,8 @@
 		"ico_notify_sixty_seconds"
 		{
 			"file"		"hud/ico_time_60"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"64"
 			"height"	"64"
 		}
@@ -2111,8 +2111,8 @@
 		"ico_notify_thirty_seconds"
 		{
 			"file"		"hud/ico_time_30"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"64"
 			"height"	"64"
 		}
@@ -2120,8 +2120,8 @@
 		"ico_notify_ten_seconds"
 		{
 			"file"		"hud/ico_time_10"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"64"
 			"height"	"64"
 		}
@@ -2129,8 +2129,8 @@
 		"ico_notify_team_switch"
 		{
 			"file"		"hud/ico_teamswitch"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"64"
 			"height"	"64"
 		}
@@ -2138,8 +2138,8 @@
 		"ico_notify_flag_dropped"
 		{
 			"file"		"hud/objectives_flagpanel_ico_flag_dropped"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"256"
 			"height"	"256"
 		}
@@ -2147,8 +2147,8 @@
 		"ico_notify_flag_home"
 		{
 			"file"		"hud/objectives_flagpanel_ico_flag_home"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"256"
 			"height"	"256"
 		}
@@ -2156,8 +2156,8 @@
 		"ico_notify_flag_home_alt"
 		{
 			"file"		"hud/objectives_flagpanel_ico_flag_home_alt"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"256"
 			"height"	"256"
 		}
@@ -2165,8 +2165,8 @@
 		"ico_notify_flag_moving"
 		{
 			"file"		"hud/objectives_flagpanel_ico_flag_moving"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"256"
 			"height"	"256"
 		}
@@ -2174,8 +2174,8 @@
 		"ico_notify_flag_moving_alt"
 		{
 			"file"		"hud/objectives_flagpanel_ico_flag_moving_alt"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"256"
 			"height"	"256"
 		}
@@ -2183,8 +2183,8 @@
 		"ico_notify_on_fire"
 		{
 			"file"		"hud/ico_fire"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"64"
 			"height"	"64"
 		}
@@ -2192,7 +2192,7 @@
 		"ico_notify_golden_wrench"
 		{
 			"file"	"HUD/d_images_v2"		
-			"x"		"0"
+			//"x"		"0"
 			"y"		"736"
 			"width"		"96"
 			"height"	"32"
@@ -2201,8 +2201,8 @@
 		"ico_ghost"
 		{
 			"file"	"HUD/ghost_icon"		
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"256"
 			"height"	"256"
 		}
@@ -2210,8 +2210,8 @@
 		"ico_kart"
 		{
 			"file"	"HUD/cart_icon"		
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"256"
 			"height"	"256"
 		}
@@ -2219,8 +2219,8 @@
 		"ico_notify_highfive"
 		{
 			"file"		"hud/highfive"
-			"x"			"0"
-			"y"			"0"
+			//"x"			"0"
+			//"y"			"0"
 			"width"		"128"
 			"height"	"128"
 		}
@@ -2535,8 +2535,8 @@
 		{
 				"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
-				"y"		"0"
+				//"x"		"0"
+				//"y"		"0"
 				"width"		"96"
 				"height"	"32"		
 		}
@@ -2544,7 +2544,7 @@
 		{
 				"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"32"
 				"width"		"96"
 				"height"	"32"		
@@ -2553,7 +2553,7 @@
 		{
 				"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"64"
 				"width"		"96"
 				"height"	"32"		
@@ -2562,7 +2562,7 @@
 		{
 				"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"96"
 				"width"		"96"
 				"height"	"32"		
@@ -2571,7 +2571,7 @@
 		{
 				"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"128"
 				"width"		"96"
 				"height"	"32"		
@@ -2580,7 +2580,7 @@
 		{
 				"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"160"
 				"width"		"96"
 				"height"	"32"		
@@ -2589,7 +2589,7 @@
 		{
 				"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"192"
 				"width"		"96"
 				"height"	"32"		
@@ -2598,7 +2598,7 @@
 		{
 				"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"256"
 				"width"		"96"
 				"height"	"32"		
@@ -2607,7 +2607,7 @@
 		{
 				"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"288"
 				"width"		"96"
 				"height"	"32"		
@@ -2616,7 +2616,7 @@
 		{
 				"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"320"
 				"width"		"96"
 				"height"	"32"		
@@ -2626,7 +2626,7 @@
 				"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
 				"x"		"256"
-				"y"		"0"
+				//"y"		"0"
 				"width"		"128"
 				"height"	"32"	
 		}
@@ -2643,7 +2643,7 @@
 		{
 				"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"352"
 				"width"		"96"
 				"height"	"32"	
@@ -2652,7 +2652,7 @@
 		{
 				"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"416"
 				"width"		"96"
 				"height"	"32"	
@@ -2670,7 +2670,7 @@
 		{
 				"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"448"
 				"width"		"96"
 				"height"	"32"	
@@ -2679,7 +2679,7 @@
 		{
 				"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"512"
 				"width"		"96"
 				"height"	"32"	
@@ -2697,7 +2697,7 @@
 		{
 			"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"576"
 				"width"		"96"
 				"height"	"32"	
@@ -2706,7 +2706,7 @@
 		{
 			"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"608"
 				"width"		"96"
 				"height"	"32"	
@@ -2715,7 +2715,7 @@
 		{
 			"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"640"
 				"width"		"96"
 				"height"	"32"	
@@ -2724,7 +2724,7 @@
 		{
 			"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"672"
 				"width"		"96"
 				"height"	"32"	
@@ -2733,7 +2733,7 @@
 		{
 			"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"705"
 				"width"		"64"
 				"height"	"31"
@@ -2742,7 +2742,7 @@
 		{
 			"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"737"
 				"width"		"48"
 				"height"	"31"
@@ -2751,7 +2751,7 @@
 		{
 			"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"769"
 				"width"		"96"
 				"height"	"31"
@@ -2787,7 +2787,7 @@
 		{
 			"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"800"
 				"width"		"96"
 				"height"	"31"
@@ -2796,7 +2796,7 @@
 		{
 			"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"832"
 				"width"		"96"
 				"height"	"31"
@@ -2805,7 +2805,7 @@
 		{
 			"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"864"
 				"width"		"96"
 				"height"	"31"
@@ -2814,7 +2814,7 @@
 		{
 			"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"896"
 				"width"		"96"
 				"height"	"31"
@@ -2823,7 +2823,7 @@
 		{
 			"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
+				//"x"		"0"
 				"y"		"928"
 				"width"		"96"
 				"height"	"32"
@@ -2896,7 +2896,7 @@
 			"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
 				"x"		"192"
-				"y"		"0"
+				//"y"		"0"
 				"width"		"64"
 				"height"	"32"
 		}		
@@ -3031,7 +3031,7 @@
 				"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
 				"x"		"96"
-				"y"		"0"
+				//"y"		"0"
 				"width"		"96"
 				"height"	"32"
 		}
@@ -3047,8 +3047,8 @@
 		"eureka_teleport_home"
 		{
 			"file"	"HUD/eng_eureka_tele_home"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"128"
 			"height"	"128"
 		}
@@ -3056,8 +3056,8 @@
 		"hud_taunt_menu_icon"
 		{
 			"file"		"hud/ico_reel"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"256"
 			"height"	"256"
 		}
@@ -3065,8 +3065,8 @@
 		"hud_spy_disguise_menu_icon"
 		{
 			"file"		"hud/ico_spy"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"256"
 			"height"	"256"
 		}
@@ -3074,8 +3074,8 @@
 		"hud_taunt_hint"
 		{
 			"file"		"effects/speech_taunt"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"256"
 			"height"	"256"
 		}
@@ -3083,8 +3083,8 @@
 		"ico_notify_partner_taunt"
 		{
 			"file"		"effects/speech_taunt_bad"
-			"x"			"0"
-			"y"			"0"
+			//"x"			"0"
+			//"y"			"0"
 			"width"		"256"
 			"height"	"256"
 		}
@@ -3173,16 +3173,16 @@
 		{
 			"file"		"hud/leaderboard_duck"
 			"negfile"	"HUD/dneg_leaderboard_duck"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"64"
 			"height"	"64"
 		}
 		"eotl_duck_dneg"
 		{
 			"file"		"hud/dneg_leaderboard_duck"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"		"64"
 			"height"	"64"
 		}	
@@ -3190,7 +3190,7 @@
 		{
 			"dfile"	"HUD/d_images_v3"
 			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"0"
+			//"x"		"0"
 			"y"		"960"
 			"width"		"96"
 			"height"	"32"
@@ -3382,8 +3382,8 @@
 		"passtime_ball"
 		{
 			"file"		"passtime/hud/passtime_ball"
-			"x"		"0"
-			"y"		"0"
+			//"x"		"0"
+			//"y"		"0"
 			"width"	"128"
 			"height"	"128"
 		}
@@ -3448,7 +3448,7 @@
 		{
 			"dfile"	"HUD/d_images_v3"
 			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"0"
+			//"x"		"0"
 			"y"		"992"
 			"width"		"96"
 			"height"	"32"

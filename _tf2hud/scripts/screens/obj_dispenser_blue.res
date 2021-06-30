@@ -20,8 +20,8 @@
 	{
 		"ControlName"	"RotatingProgressBar"
 		"fieldName"		"MeterArrow"
-		"x"				"0"
-		"y"				"0"
+		//"x"				"0"
+		//"y"				"0"
 		"wide"			"480"
 		"tall"			"240"
 		//"visible"		"1"

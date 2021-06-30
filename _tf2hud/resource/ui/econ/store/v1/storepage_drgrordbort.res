@@ -496,7 +496,7 @@
 		"editable"			"0"
 		"maxchars"			"-1"
 		"NumericInputOnly"	"0"
-		"unicode"			"0"
+		//"unicode"			"0"
 		
 		"fgcolor_override"	"TanDark"
 		"bgcolor_override"	"251 235 202 255"

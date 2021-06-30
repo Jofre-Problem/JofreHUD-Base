@@ -23,7 +23,7 @@
 		
 		"static_icon"
 		{
-			"x"			"0"
+			//"x"			"0"
 			"y"			"4"
 			"w"			"32"
 			"h"			"32"
@@ -65,7 +65,7 @@
 			"size"		"medium"
 			"align"		"left"
 			"x"			"10"
-			"y"			"0"
+			//"y"			"0"
 			"w"			"150"
 			"text"		"(mapname):  (time_int)"
 		}
@@ -100,8 +100,8 @@
 		{
 			"size"		"small"
 			"align"		"left"
-			"x"			"0"
-			"y"			"0"
+			//"x"			"0"
+			//"y"			"0"
 			"w"			"160"
 			"text"		"chat_1"
 		}
@@ -110,7 +110,7 @@
 		{
 			"size"		"small"
 			"align"		"left"
-			"x"			"0"
+			//"x"			"0"
 			"y"			"10"
 			"w"			"160"
 			"text"		"chat_2"
@@ -120,7 +120,7 @@
 		{
 			"size"		"small"
 			"align"		"left"
-			"x"			"0"
+			//"x"			"0"
 			"y"			"20"
 			"w"			"160"
 			"text"		"chat_3"
@@ -130,7 +130,7 @@
 		{
 			"size"		"small"
 			"align"		"left"
-			"x"			"0"
+			//"x"			"0"
 			"y"			"30"
 			"w"			"160"
 			"text"		"chat_4"
@@ -143,8 +143,8 @@
 		{
 			"size"		"small"
 			"align"		"left"
-			"x"			"0"
-			"y"			"0"
+			//"x"			"0"
+			//"y"			"0"
 			"w"			"160"
 			"text"		"chat_5"
 		}
@@ -153,7 +153,7 @@
 		{
 			"size"		"small"
 			"align"		"left"
-			"x"			"0"
+			//"x"			"0"
 			"y"			"10"
 			"w"			"160"
 			"text"		"chat_6"
@@ -163,7 +163,7 @@
 		{
 			"size"		"small"
 			"align"		"left"
-			"x"			"0"
+			//"x"			"0"
 			"y"			"20"
 			"w"			"160"
 			"text"		"chat_7"
@@ -173,7 +173,7 @@
 		{
 			"size"		"small"
 			"align"		"left"
-			"x"			"0"
+			//"x"			"0"
 			"y"			"30"
 			"w"			"160"
 			"text"		"chat_8"

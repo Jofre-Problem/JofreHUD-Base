@@ -28,7 +28,7 @@
 		
 		"static_icon"
 		{
-			"x"			"0"
+			//"x"			"0"
 			"y"			"4"
 			"w"			"32"
 			"h"			"32"
@@ -154,7 +154,7 @@
 				"size"		"small"
 				"align"		"left"
 				"x"			"2"
-				"y"			"0"
+				//"y"			"0"
 				"w"			"10"
 				"text"		"(itemnumber)."
 			}
@@ -164,7 +164,7 @@
 				"size"		"small"
 				"align"		"left"
 				"x"			"12"
-				"y"			"0"
+				//"y"			"0"
 				"w"			"85"
 				"text"		"%(playerresource)m_szName[(playerindex)]%"
 			}
@@ -174,7 +174,7 @@
 				"size"		"small"
 				"align"		"right"
 				"x"			"97"
-				"y"			"0"
+				//"y"			"0"
 				"w"			"60"
 				"text"		"alive_%(playerresource)m_bAlive[(playerindex)]%"
 			}
@@ -230,7 +230,7 @@
 				"size"		"small"
 				"align"		"left"
 				"x"			"2"
-				"y"			"0"
+				//"y"			"0"
 				"w"			"10"
 				"text"		"(itemnumber)."
 			}
@@ -240,7 +240,7 @@
 				"size"		"small"
 				"align"		"left"
 				"x"			"12"
-				"y"			"0"
+				//"y"			"0"
 				"w"			"85"
 				"text"		"%(playerresource)m_szName[(playerindex)]%"
 			}
@@ -250,7 +250,7 @@
 				"size"		"small"
 				"align"		"right"
 				"x"			"97"
-				"y"			"0"
+				//"y"			"0"
 				"w"			"15"
 				"text"		"%(playerresource)m_iScore[(playerindex)]%"
 			}
@@ -260,7 +260,7 @@
 				"size"		"small"
 				"align"		"right"
 				"x"			"112"
-				"y"			"0"
+				//"y"			"0"
 				"w"			"15"
 				"text"		"%(playerresource)m_iDeaths[(playerindex)]%"
 			}
@@ -270,7 +270,7 @@
 				"size"		"small"
 				"align"		"right"
 				"x"			"127"
-				"y"			"0"
+				//"y"			"0"
 				"w"			"15"
 				"text"		"%(playerresource)m_iPing[(playerindex)]%"
 			}
@@ -286,8 +286,8 @@
 		{
 			"size"		"small"
 			"align"		"left"
-			"x"			"0"
-			"y"			"0"
+			//"x"			"0"
+			//"y"			"0"
 			"w"			"160"
 			"text"		"chat_1"
 		}
@@ -296,7 +296,7 @@
 		{
 			"size"		"small"
 			"align"		"left"
-			"x"			"0"
+			//"x"			"0"
 			"y"			"10"
 			"w"			"160"
 			"text"		"chat_2"
@@ -306,7 +306,7 @@
 		{
 			"size"		"small"
 			"align"		"left"
-			"x"			"0"
+			//"x"			"0"
 			"y"			"20"
 			"w"			"160"
 			"text"		"chat_3"
@@ -316,7 +316,7 @@
 		{
 			"size"		"small"
 			"align"		"left"
-			"x"			"0"
+			//"x"			"0"
 			"y"			"30"
 			"w"			"160"
 			"text"		"chat_4"
@@ -329,8 +329,8 @@
 		{
 			"size"		"small"
 			"align"		"left"
-			"x"			"0"
-			"y"			"0"
+			//"x"			"0"
+			//"y"			"0"
 			"w"			"160"
 			"text"		"chat_5"
 		}
@@ -339,7 +339,7 @@
 		{
 			"size"		"small"
 			"align"		"left"
-			"x"			"0"
+			//"x"			"0"
 			"y"			"10"
 			"w"			"160"
 			"text"		"chat_6"
@@ -349,7 +349,7 @@
 		{
 			"size"		"small"
 			"align"		"left"
-			"x"			"0"
+			//"x"			"0"
 			"y"			"20"
 			"w"			"160"
 			"text"		"chat_7"
@@ -359,7 +359,7 @@
 		{
 			"size"		"small"
 			"align"		"left"
-			"x"			"0"
+			//"x"			"0"
 			"y"			"30"
 			"w"			"160"
 			"text"		"chat_8"

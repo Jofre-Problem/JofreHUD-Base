@@ -210,7 +210,7 @@
 		"editable"			"0"
 		"maxchars"			"-1"
 		"NumericInputOnly"	"0"
-		"unicode"			"0"
+		//"unicode"			"0"
 		"textinsetx"		"50"
 		
 		"fgcolor_override"	"246 237 211 255"
