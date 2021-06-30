@@ -9,7 +9,7 @@
 		"wide"			"330"
 		"tall"			"330"
 		//"visible"		"1"
-		"tileImage"		"0"
+		//"tileImage"		"0"
 		"scaleImage"	"1"
 		"border"		"ButtonBorder"
 		"paintbackgroundtype"	"2"
@@ -42,7 +42,7 @@
 		"wide"			"330"
 		"tall"			"80"
 		//"visible"		"1"
-		"tileImage"		"0"
+		//"tileImage"		"0"
 		"scaleImage"	"1"
 		"image"			"training/gradient_black"
 	}

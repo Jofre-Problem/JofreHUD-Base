@@ -115,7 +115,7 @@
 		
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
-		"tileVertically" "0"
+		//"tileVertically" "0"
 	}				
 	
 	"item_panel"

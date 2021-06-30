@@ -362,7 +362,7 @@
 				"labelText"		"#TF_SteamWorkshop_Edit"
 				"command"		"edit"
 				
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
@@ -407,7 +407,7 @@
 				"labelText"		"#TF_SteamWorkshop_View"
 				"command"		"view"				
 				
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
@@ -452,7 +452,7 @@
 				"labelText"		"#TF_SteamWorkshop_Delete"
 				"command"		"delete_item"
 				
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"

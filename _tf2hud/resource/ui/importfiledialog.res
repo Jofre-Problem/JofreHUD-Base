@@ -379,7 +379,7 @@
 			"labeltext"		""
 			"command"		"ClearIcon"				
 				
-			"image_drawcolor"	"TanLight"
+			"image_drawcolor"	"235 226 202 255"
 			"image_disabledcolor" "0 0 0 255"
 
 			"SubImage"
@@ -415,7 +415,7 @@
 			"labeltext"		""
 			"command"		"BrowseIcon"					
 				
-			"image_drawcolor"	"TanLight"
+			"image_drawcolor"	"235 226 202 255"
 			"image_disabledcolor" "0 0 0 255"
 
 			"SubImage"
@@ -1006,7 +1006,7 @@
 				"labeltext"		""
 				"command"		"ClearLOD0"				
 				
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
@@ -1040,7 +1040,7 @@
 				"labeltext"		""
 				"command"		"BrowseLOD0"				
 				
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
@@ -1130,7 +1130,7 @@
 				"labeltext"		""
 				"command"		"ClearLOD1"				
 				
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
@@ -1165,7 +1165,7 @@
 				"labeltext"		""
 				"command"		"BrowseLOD1"				
 				
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
@@ -1257,7 +1257,7 @@
 				"labeltext"		""
 				"command"		"ClearLOD2"				
 				
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
@@ -1292,7 +1292,7 @@
 				"labeltext"		""
 				"command"		"BrowseLOD2"				
 				
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
@@ -1476,7 +1476,7 @@
 				"labeltext"		""
 				"command"		"EditMaterial0"				
 					
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
@@ -1549,7 +1549,7 @@
 				"labeltext"		""
 				"command"		"EditMaterial1"				
 					
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
@@ -1623,7 +1623,7 @@
 				"labeltext"		""
 				"command"		"EditMaterial2"				
 					
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
@@ -1696,7 +1696,7 @@
 				"labeltext"		""
 				"command"		"EditMaterial3"				
 					
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
@@ -1844,7 +1844,7 @@
 				"labeltext"		""
 				"command"		"ClearAnimationSource"				
 				
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
@@ -1878,7 +1878,7 @@
 				"labeltext"		""
 				"command"		"BrowseAnimationSource"				
 				
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
@@ -1967,7 +1967,7 @@
 				"labeltext"		""
 				"command"		"ClearAnimationVCD"				
 				
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
@@ -2001,7 +2001,7 @@
 				"labeltext"		""
 				"command"		"BrowseAnimationVCD"				
 				
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
@@ -2150,7 +2150,7 @@
 		"labelText"		"#TF_ImportFile_Browse"
 		"command"		"Load"				
 				
-		"image_drawcolor"	"TanLight"
+		"image_drawcolor"	"235 226 202 255"
 		"image_disabledcolor" "0 0 0 255"
 
 		"SubImage"

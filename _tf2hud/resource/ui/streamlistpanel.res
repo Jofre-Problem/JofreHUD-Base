@@ -67,8 +67,8 @@
 		"armedFgColor_override" "TanLight"
 		"depressedFgColor_override" "TanDarker"
 			
-		"image_drawcolor"	"TanLight"
-		"image_armedcolor"	"LightRed"
+		"image_drawcolor"	"235 226 202 255"
+		"image_armedcolor"	"200 80 60 255"
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"

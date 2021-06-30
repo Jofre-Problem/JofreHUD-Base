@@ -32,7 +32,7 @@
 				"fieldName"		"SubImage"
 				//"visible"		"1"
 				
-				"tileImage"		"0"
+				//"tileImage"		"0"
 				"scaleImage"	"1"
 				"wide"			"10"
 				"tall"			"10"
@@ -135,7 +135,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"HUDWhite"
+		"image_armedcolor"	"255 255 255 255"
 		
 		"tipname"			"#Replay_EditorButtonTip_TimeScaleButton"
 		
@@ -145,7 +145,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			"tileImage"		"0"
+			//"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_timescale"
 			"wide"			"40"
@@ -173,7 +173,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"HUDWhite"
+		"image_armedcolor"	"255 255 255 255"
 		
 		"tipname"			"#Replay_EditorButtonTip_FirstPersonButton"
 		
@@ -183,7 +183,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			"tileImage"		"0"
+			//"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_camera_first"
 			"wide"			"40"
@@ -211,7 +211,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"HUDWhite"
+		"image_armedcolor"	"255 255 255 255"
 		
 		"tipname"			"#Replay_EditorButtonTip_ThirdPersonButton"
 		
@@ -221,7 +221,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			"tileImage"		"0"
+			//"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_camera_third"
 			"wide"			"40"
@@ -250,7 +250,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"HUDWhite"
+		"image_armedcolor"	"255 255 255 255"
 		
 		"tipname"			"#Replay_EditorButtonTip_FreeCamButton"
 		
@@ -260,7 +260,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			"tileImage"		"0"
+			//"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_camera_free"
 			"wide"			"40"
@@ -347,7 +347,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"HUDWhite"
+		"image_armedcolor"	"255 255 255 255"
 		"image_selectedcolor"	"230 128 128 255"
 		
 		"tipname"			"#Replay_EditorButtonTip_InButton"
@@ -358,7 +358,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			"tileImage"		"0"
+			//"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_in"
 			"wide"			"22"
@@ -387,7 +387,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"HUDWhite"
+		"image_armedcolor"	"255 255 255 255"
 		
 		"tipname"			"#Replay_EditorButtonTip_RwHardButton"
 		
@@ -397,7 +397,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			"tileImage"		"0"
+			//"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_begin"
 			"wide"			"22"
@@ -426,7 +426,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"HUDWhite"
+		"image_armedcolor"	"255 255 255 255"
 		
 		"tipname"			"#Replay_EditorButtonTip_RwButton"
 		
@@ -436,7 +436,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			"tileImage"		"0"
+			//"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_rewind"
 			"wide"			"22"
@@ -465,7 +465,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"HUDWhite"
+		"image_armedcolor"	"255 255 255 255"
 		
 		"tipname"			"#Replay_EditorButtonTip_PlayButton"
 		
@@ -475,7 +475,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			"tileImage"		"0"
+			//"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_control_play"
 			"wide"			"48"
@@ -503,7 +503,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"HUDWhite"
+		"image_armedcolor"	"255 255 255 255"
 		
 		"tipname"			"#Replay_EditorButtonTip_FfButton"
 		
@@ -513,7 +513,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			"tileImage"		"0"
+			//"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_forward"
 			"wide"			"22"
@@ -542,7 +542,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"HUDWhite"
+		"image_armedcolor"	"255 255 255 255"
 		
 		"tipname"			"#Replay_EditorButtonTip_FfHardButton"
 		
@@ -552,7 +552,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			"tileImage"		"0"
+			//"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_end"
 			"wide"			"22"
@@ -581,7 +581,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"HUDWhite"
+		"image_armedcolor"	"255 255 255 255"
 		"image_selectedcolor"	"230 128 128 255"
 		
 		"tipname"		"#Replay_EditorButtonTip_OutButton"
@@ -592,7 +592,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			"tileImage"		"0"
+			//"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_out"
 			"wide"			"22"
@@ -626,7 +626,7 @@
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
-		"image_armedcolor"	"HUDWhite"
+		"image_armedcolor"	"255 255 255 255"
 		"image_selectedcolor"	"230 128 128 255"
 		
 		"SubImage"
@@ -635,7 +635,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			"tileImage"		"0"
+			//"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_menu"
 			"wide"			"22"

@@ -175,7 +175,7 @@
 		
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
-		"tileVertically" "0"
+		//"tileVertically" "0"
 	}				
 	
 	"classmodelpanel"
@@ -382,8 +382,8 @@
 			"armedFgColor_override" "TanLight"
 			"depressedFgColor_override" "TanDarker"
 			
-			"image_drawcolor"	"TanDark"
-			"image_armedcolor"	"LightRed"
+			"image_drawcolor"	"117 107 94 255"
+			"image_armedcolor"	"200 80 60 255"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -602,8 +602,8 @@
 			"armedFgColor_override" "TanLight"
 			"depressedFgColor_override" "TanDarker"
 			
-			"image_drawcolor"	"TanDark"
-			"image_armedcolor"	"LightRed"
+			"image_drawcolor"	"117 107 94 255"
+			"image_armedcolor"	"200 80 60 255"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"

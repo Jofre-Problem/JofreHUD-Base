@@ -27,7 +27,7 @@
 		//"visible"		"1"
 		
 		"image"			"replay/replay_camera_fringe"
-		"tileImage"		"0"
+		//"tileImage"		"0"
 		"scaleImage"	"1"
 		"drawcolor"		"0 0 0 255"
 	}
@@ -43,7 +43,7 @@
 		//"visible"		"1"
 		
 		"image"			"replay/replay_camera_crosshair"
-		"tileImage"		"0"
+		//"tileImage"		"0"
 		"scaleImage"	"1"
 		"drawcolor"		"255 255 255 15"
 	}

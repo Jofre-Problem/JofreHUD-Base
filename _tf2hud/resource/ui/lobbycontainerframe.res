@@ -139,7 +139,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"image_drawcolor"	"TanLight"
+		"image_drawcolor"	"235 226 202 255"
 		"image_armedcolor"	"235 226 202 255"
 		"SubImage"
 		{

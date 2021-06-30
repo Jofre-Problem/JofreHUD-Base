@@ -92,8 +92,8 @@
 			//"visible"		"1"
 			
 			"image"			"backpack_jewel_modify_target_b_g"
-			"tileImage"		"0"
-			"tileVertically" "0"
+			//"tileImage"		"0"
+			//"tileVertically" "0"
 			"drawcolor"		"112 176 74 255"
 		}				
 		"tool_modelpanel"
@@ -166,8 +166,8 @@
 			//"visible"		"1"
 			
 			"image"			"backpack_jewel_modify_target_b_g"
-			"tileImage"		"0"
-			"tileVertically" "0"
+			//"tileImage"		"0"
+			//"tileVertically" "0"
 			"drawcolor"		"71 98 145 255"
 		}	
 
@@ -655,7 +655,7 @@
 					"wide"			"160"
 					"tall"			"180"
 					//"visible"		"1"
-					"tileImage"		"0"
+					//"tileImage"		"0"
 					"scaleImage"	"1"
 					"image"			"loadout_bottom_gradient"
 					"border"		"ButtonBorder"
@@ -803,7 +803,7 @@
 					"wide"			"160"
 					"tall"			"180"
 					//"visible"		"1"
-					"tileImage"		"0"
+					//"tileImage"		"0"
 					"scaleImage"	"1"
 					"image"			"loadout_bottom_gradient"
 					"border"		"ButtonBorder"
@@ -927,7 +927,7 @@
 					"wide"			"160"
 					"tall"			"180"
 					//"visible"		"1"
-					"tileImage"		"0"
+					//"tileImage"		"0"
 					"scaleImage"	"1"
 					"image"			"loadout_bottom_gradient"
 					"border"		"ButtonBorder"

@@ -168,7 +168,7 @@
 				"armedBgColor_override" "0 0 0 0"
 
 				"image_drawcolor"	"200 200 200 255"
-				"image_armedcolor"	"HUDWhite"
+				"image_armedcolor"	"255 255 255 255"
 
 				"SubImage"
 				{
@@ -251,7 +251,7 @@
 				"armedBgColor_override" "0 0 0 0"
 
 				"image_drawcolor"	"200 200 200 255"
-				"image_armedcolor"	"HUDWhite"
+				"image_armedcolor"	"255 255 255 255"
 
 				"SubImage"
 				{
@@ -353,7 +353,7 @@
 				"armedBgColor_override" "0 0 0 0"
 			
 				"image_drawcolor"	"200 200 200 255"
-				"image_armedcolor"	"HUDWhite"
+				"image_armedcolor"	"255 255 255 255"
 			}
 
 			"RankCheckImage"

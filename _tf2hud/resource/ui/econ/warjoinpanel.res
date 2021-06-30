@@ -114,8 +114,8 @@
 				"armedFgColor_override" "LightRed"
 				"depressedFgColor_override" "TanDarker"
 			
-				"image_drawcolor"	"TanDark"
-				"image_armedcolor"	"LightRed"
+				"image_drawcolor"	"117 107 94 255"
+				"image_armedcolor"	"200 80 60 255"
 				"SubImage"
 				{
 					"ControlName"	"ImagePanel"
@@ -704,7 +704,7 @@
 							"armedFgColor_override" "TanLight"
 							"depressedFgColor_override" "TanDarker"
 			
-							"image_drawcolor"	"TanDark"
+							"image_drawcolor"	"117 107 94 255"
 							"image_armedcolor"	"235 226 202 255"
 							"proportionaltoparent"	"1"
 						}
@@ -744,7 +744,7 @@
 							"armedFgColor_override" "TanLight"
 							"depressedFgColor_override" "TanDarker"
 			
-							"image_drawcolor"	"TanDark"
+							"image_drawcolor"	"117 107 94 255"
 							"image_armedcolor"	"235 226 202 255"
 							"proportionaltoparent"	"1"
 						}
@@ -858,7 +858,7 @@
 							"armedFgColor_override" "TanLight"
 							"depressedFgColor_override" "TanDarker"
 			
-							"image_drawcolor"	"TanDark"
+							"image_drawcolor"	"117 107 94 255"
 							"image_armedcolor"	"235 226 202 255"
 							"proportionaltoparent"	"1"
 						}
@@ -945,7 +945,7 @@
 							"armedFgColor_override" "TanLight"
 							"depressedFgColor_override" "TanDarker"
 			
-							"image_drawcolor"	"TanDark"
+							"image_drawcolor"	"117 107 94 255"
 							"image_armedcolor"	"235 226 202 255"
 							"proportionaltoparent"	"1"
 						}
@@ -1046,7 +1046,7 @@
 						"armedFgColor_override" "TanLight"
 						"depressedFgColor_override" "TanDarker"
 			
-						"image_drawcolor"	"TanDark"
+						"image_drawcolor"	"117 107 94 255"
 						"image_armedcolor"	"235 226 202 255"
 						"proportionaltoparent"	"1"
 					}
@@ -1098,7 +1098,7 @@
 						"armedFgColor_override" "TanLight"
 						"depressedFgColor_override" "TanDarker"
 			
-						"image_drawcolor"	"TanDark"
+						"image_drawcolor"	"117 107 94 255"
 						"image_armedcolor"	"235 226 202 255"
 						"proportionaltoparent"	"1"
 					}

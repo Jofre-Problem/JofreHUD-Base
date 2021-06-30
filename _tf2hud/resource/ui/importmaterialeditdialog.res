@@ -141,7 +141,7 @@
 		"labeltext"		""
 		"command"		"BrowseMaterial"			
 					
-		"image_drawcolor"	"TanLight"
+		"image_drawcolor"	"235 226 202 255"
 		"image_disabledcolor" "0 0 0 255"
 
 		"SubImage"
@@ -206,7 +206,7 @@
 		"labeltext"		""
 		"command"		"BrowseNormalTexture"			
 					
-		"image_drawcolor"	"TanLight"
+		"image_drawcolor"	"235 226 202 255"
 		"image_disabledcolor" "0 0 0 255"
 
 		"SubImage"
@@ -241,7 +241,7 @@
 		"labeltext"		""
 		"command"		"ClearNormalTexture"				
 					
-		"image_drawcolor"	"TanLight"
+		"image_drawcolor"	"235 226 202 255"
 		"image_disabledcolor" "0 0 0 255"
 
 		"SubImage"
@@ -370,7 +370,7 @@
 		"labeltext"		""
 		"command"		"BrowsePhongExponentTexture"			
 					
-		"image_drawcolor"	"TanLight"
+		"image_drawcolor"	"235 226 202 255"
 		"image_disabledcolor" "0 0 0 255"
 
 		"SubImage"
@@ -405,7 +405,7 @@
 		"labeltext"		""
 		"command"		"ClearPhongExponentTexture"				
 					
-		"image_drawcolor"	"TanLight"
+		"image_drawcolor"	"235 226 202 255"
 		"image_disabledcolor" "0 0 0 255"
 
 		"SubImage"
@@ -1143,7 +1143,7 @@
 		"labeltext"		""
 		"command"		"BrowseSelfIllumTexture"			
 					
-		"image_drawcolor"	"TanLight"
+		"image_drawcolor"	"235 226 202 255"
 		"image_disabledcolor" "0 0 0 255"
 
 		"SubImage"
@@ -1178,7 +1178,7 @@
 		"labeltext"		""
 		"command"		"ClearSelfIllumTexture"				
 					
-		"image_drawcolor"	"TanLight"
+		"image_drawcolor"	"235 226 202 255"
 		"image_disabledcolor" "0 0 0 255"
 
 		"SubImage"

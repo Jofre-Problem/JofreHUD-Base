@@ -289,7 +289,7 @@
 				"armedFgColor_override" "TanLight"
 				"depressedFgColor_override" "TanDarker"
 			
-				"image_drawcolor"	"TanDark"
+				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"235 226 202 255"
 
 				"command"	"accept_quest"
@@ -362,7 +362,7 @@
 				"armedFgColor_override" "TanLight"
 				"depressedFgColor_override" "TanDarker"
 			
-				"image_drawcolor"	"TanDark"
+				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"235 226 202 255"
 
 				"command"	"discard_quest"

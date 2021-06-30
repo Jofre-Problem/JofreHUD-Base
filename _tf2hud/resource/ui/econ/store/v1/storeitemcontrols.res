@@ -44,7 +44,7 @@
 		"armedFgColor_override" "TanDarker"
 		"depressedFgColor_override" "TanDarker"
 		
-		"image_drawcolor"	"TanLight"
+		"image_drawcolor"	"235 226 202 255"
 		"image_armedcolor"	"235 226 202 255"	
 
 		"send_panel_enter_and_exits" "1"

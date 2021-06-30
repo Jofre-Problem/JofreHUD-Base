@@ -44,7 +44,7 @@
 			"wide"			"430"
 			"tall"			"400"
 			"visible"		"0"
-			"tileImage"		"0"
+			//"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"training/gradient"
 			"border"		"ButtonBorder"

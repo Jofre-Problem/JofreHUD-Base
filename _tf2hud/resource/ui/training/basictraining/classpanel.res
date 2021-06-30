@@ -6,7 +6,7 @@
 		"fieldName"		"Image"
 		//"visible"		"1"
 		
-		"tileImage"		"0"
+		//"tileImage"		"0"
 		"scaleImage"	"1"
 		"image"			"illustrations/training_basic"
 	}	

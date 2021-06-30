@@ -179,7 +179,7 @@
 		
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
-		"tileVertically" "0"
+		//"tileVertically" "0"
 	}				
 	"BottomLine"
 	{
@@ -194,7 +194,7 @@
 		
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
-		"tileVertically" "0"
+		//"tileVertically" "0"
 	}				
 		
 	"ItemSlotLabel"

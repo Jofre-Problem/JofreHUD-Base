@@ -105,8 +105,8 @@
 		//"visible"		"1"
 		
 		"image"			"backpack_jewel_modify_target_b_g"
-		"tileImage"		"0"
-		"tileVertically" "0"
+		//"tileImage"		"0"
+		//"tileVertically" "0"
 		"drawcolor"		"112 176 74 255"
 	}				
 	"tool_modelpanel"

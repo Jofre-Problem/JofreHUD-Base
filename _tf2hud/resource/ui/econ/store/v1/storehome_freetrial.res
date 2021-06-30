@@ -372,7 +372,7 @@
 			
 			"image"			"loadout_dotted_line"
 			"tileImage"		"1"
-			"tileVertically" "0"
+			//"tileVertically" "0"
 		}				
 		"FreeTrialPoint1"
 		{
@@ -406,7 +406,7 @@
 			
 			"image"			"loadout_dotted_line"
 			"tileImage"		"1"
-			"tileVertically" "0"
+			//"tileVertically" "0"
 		}				
 		"FreeTrialPoint2"
 		{
@@ -440,7 +440,7 @@
 			
 			"image"			"loadout_dotted_line"
 			"tileImage"		"1"
-			"tileVertically" "0"
+			//"tileVertically" "0"
 		}				
 		"FreeTrialPoint3"
 		{
@@ -474,7 +474,7 @@
 			
 			"image"			"loadout_dotted_line"
 			"tileImage"		"1"
-			"tileVertically" "0"
+			//"tileVertically" "0"
 		}				
 		"FreeTrialPoint4"
 		{

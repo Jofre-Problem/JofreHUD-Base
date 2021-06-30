@@ -77,7 +77,7 @@
 			"tall"			"185"
 			//"visible"		"1"
 			
-			"tileImage"		"0"
+			//"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			""
 		}	

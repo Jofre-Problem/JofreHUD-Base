@@ -119,7 +119,7 @@
 		"dmg.explosive" 	"1.5"
 		
 		"breakable_model"	"WoodChunks"
-		"breakable_skin"	"0"
+		//"breakable_skin"	"0"
 	}
 
 	// Tiny Wooden pieces that should die in one hit
