@@ -71,7 +71,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"		"center"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -96,7 +96,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"		"center"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -114,7 +114,7 @@
 		"fieldName"		"TitleLabel"
 		"font"			"HudFontMediumBold"
 		"textAlignment"	"east"
-		"labelText"		""
+		"labeltext"		""
 		"xpos"			"c-100"
 		"ypos"			"10"
 		
@@ -138,7 +138,7 @@
 		"font"			"HudFontSmallBold"
 		//"textAlignment"	"west"
 					
-		"labelText"		""
+		"labeltext"		""
 		"command"		"BrowseMaterial"			
 					
 		"image_drawcolor"	"TanLight"
@@ -203,7 +203,7 @@
 		"font"			"HudFontSmallBold"
 		//"textAlignment"	"west"
 					
-		"labelText"		""
+		"labeltext"		""
 		"command"		"BrowseNormalTexture"			
 					
 		"image_drawcolor"	"TanLight"
@@ -238,7 +238,7 @@
 		"font"			"HudFontSmallBold"
 		//"textAlignment"	"west"
 					
-		"labelText"		""
+		"labeltext"		""
 		"command"		"ClearNormalTexture"				
 					
 		"image_drawcolor"	"TanLight"
@@ -250,7 +250,7 @@
 			"fieldName"		"SubImage"
 			"xpos"			"1"
 			"ypos"			"1"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"13"
 			"tall"			"13"
 			"scaleImage"	"1"
@@ -335,7 +335,7 @@
 	{
 		"ControlName"	"CheckButton"
 		"fieldName"		"BaseMapAlphaPhongMaskCheckButton"
-		"labelText"		""
+		"labeltext"		""
 		"Font"			"ImportToolSmallestBold"
 		//"textAlignment"	"west"
 		"xpos"			"c+1" 
@@ -367,7 +367,7 @@
 		"font"			"HudFontSmallBold"
 		//"textAlignment"	"west"
 					
-		"labelText"		""
+		"labeltext"		""
 		"command"		"BrowsePhongExponentTexture"			
 					
 		"image_drawcolor"	"TanLight"
@@ -402,7 +402,7 @@
 		"font"			"HudFontSmallBold"
 		//"textAlignment"	"west"
 					
-		"labelText"		""
+		"labeltext"		""
 		"command"		"ClearPhongExponentTexture"				
 					
 		"image_drawcolor"	"TanLight"
@@ -414,7 +414,7 @@
 			"fieldName"		"SubImage"
 			"xpos"			"1"
 			"ypos"			"1"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"13"
 			"tall"			"13"
 			"scaleImage"	"1"
@@ -623,7 +623,7 @@
 	{
 		"ControlName"	"CheckButton"
 		"fieldName"		"RimMaskCheckButton"
-		"labelText"		""
+		"labeltext"		""
 		"Font"			"ImportToolSmallestBold"
 		//"textAlignment"	"west"
 		"xpos"			"c+1" 
@@ -658,7 +658,7 @@
 	{
 		"ControlName"	"CheckButton"
 		"fieldName"		"HalfLambertCheckButton"
-		"labelText"		""
+		"labeltext"		""
 		"Font"			"ImportToolSmallestBold"
 		//"textAlignment"	"west"
 		"xpos"			"c+1" 
@@ -694,7 +694,7 @@
 	{
 		"ControlName"	"CheckButton"
 		"fieldName"		"BlendTintByBaseAlphaCheckButton"
-		"labelText"		""
+		"labeltext"		""
 		"Font"			"ImportToolSmallestBold"
 		//"textAlignment"	"west"
 		"xpos"			"c+1" 
@@ -855,7 +855,7 @@
 	{
 		"ControlName"	"CheckButton"
 		"fieldName"		"AdditiveCheckButton"
-		"labelText"		""
+		"labeltext"		""
 		"Font"			"ImportToolSmallestBold"
 		//"textAlignment"	"west"
 		"xpos"			"c+1" 
@@ -890,7 +890,7 @@
 	{
 		"ControlName"	"CheckButton"
 		"fieldName"		"TranslucentCheckButton"
-		"labelText"		""
+		"labeltext"		""
 		"Font"			"ImportToolSmallestBold"
 		//"textAlignment"	"west"
 		"xpos"			"c+81" 
@@ -926,7 +926,7 @@
 	{
 		"ControlName"	"CheckButton"
 		"fieldName"		"AlphaTestCheckButton"
-		"labelText"		""
+		"labeltext"		""
 		"Font"			"ImportToolSmallestBold"
 		//"textAlignment"	"west"
 		"xpos"			"c+158"
@@ -1108,7 +1108,7 @@
 	{
 		"ControlName"	"CheckButton"
 		"fieldName"		"SelfIllumCheckButton"
-		"labelText"		""
+		"labeltext"		""
 		"Font"			"ImportToolSmallestBold"
 		//"textAlignment"	"west"
 		"xpos"			"c+1" 
@@ -1140,7 +1140,7 @@
 		"font"			"HudFontSmallBold"
 		//"textAlignment"	"west"
 					
-		"labelText"		""
+		"labeltext"		""
 		"command"		"BrowseSelfIllumTexture"			
 					
 		"image_drawcolor"	"TanLight"
@@ -1175,7 +1175,7 @@
 		"font"			"HudFontSmallBold"
 		//"textAlignment"	"west"
 					
-		"labelText"		""
+		"labeltext"		""
 		"command"		"ClearSelfIllumTexture"				
 					
 		"image_drawcolor"	"TanLight"
@@ -1187,7 +1187,7 @@
 			"fieldName"		"SubImage"
 			"xpos"			"1"
 			"ypos"			"1"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"13"
 			"tall"			"13"
 			"scaleImage"	"1"

@@ -11,8 +11,8 @@
 	LoadingLabel
 	{
 		"fieldName"	"LoadingLabel"
-		"x" 	0
-		"y"	0
+	//	"x" 	0
+	//	"y"	0
 		"wide"	84
 		"tall"	32
 		"labeltext"	"#GameUI_LoadingGame"

@@ -422,7 +422,7 @@
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
-		"labelText"		""
+		"labeltext"		""
 		"font"			"MenuLarge"
 	}	
 	"ValueLabel0"
@@ -446,7 +446,7 @@
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
-		"labelText"		""
+		"labeltext"		""
 		"font"			"MenuLarge"
 	}	
 	"ValueBar0"
@@ -645,7 +645,7 @@
 		"visible"		"0"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"		"left"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -896,7 +896,7 @@
 		
 		"settitlebarvisible"	"0"
 		"title"					"#GameUI_NewGame"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 	}
 	"LeftArrow"
 	{

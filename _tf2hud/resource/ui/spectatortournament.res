@@ -92,7 +92,7 @@
 				"visible"		"0"
 				
 				"bgcolor_override"		"Black"
-				"PaintBackgroundType"	"0"
+				//"PaintBackgroundType"	"0"
 				
 				if_mvm
 				{
@@ -379,7 +379,7 @@
 		"tall"			"100"
 		"visible"		"0"
 		"bgcolor_override"		"255 255 255 0"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		
 		"model_ypos"		"10"
 		"model_center_x"	"1"

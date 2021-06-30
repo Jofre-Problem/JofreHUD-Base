@@ -10,7 +10,7 @@
 		//"visible"		"1"
 		
 		
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"paintbackground"		"0"
 
 		"LockedIcon"
@@ -42,7 +42,7 @@
 			"wide"			"o1"
 			"tall"			"8"
 			//"visible"		"1"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"		"0"
 			"keyboardinputenabled"	"0"

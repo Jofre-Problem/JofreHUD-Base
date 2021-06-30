@@ -130,7 +130,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"30"
 			"tall"			"30"
 			//"visible"		"1"
@@ -178,7 +178,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"30"
 			"tall"			"30"
 			//"visible"		"1"

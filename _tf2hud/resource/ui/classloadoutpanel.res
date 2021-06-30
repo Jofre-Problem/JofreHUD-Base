@@ -13,7 +13,7 @@
 		
 		
 		"settitlebarvisible"	"0"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override"	"TanDarker"
 		"infocus_bgcolor_override" "TanDarker"
 		"outoffocus_bgcolor_override" "TanDarker"
@@ -270,7 +270,7 @@
 		
 		"visible"		"0"
 		
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"	"south"
 		"fgcolor"		"255 215 0 255"
 		"centerwrap"	"1"
@@ -390,7 +390,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -439,7 +439,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CharacterLoadoutButton"
-		"labelText"		""
+		"labeltext"		""
 		"xpos"			"c-25"
 		"ypos"			"c90"
 		"zpos"			"2"
@@ -463,7 +463,7 @@
 			"fieldName"		"SubImage"
 			"xpos"			"4"
 			"ypos"			"4"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"17"
 			"tall"			"17"
 			//"visible"		"1"
@@ -477,7 +477,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"TauntLoadoutButton"
-		"labelText"		""
+		"labeltext"		""
 		"xpos"			"c2"
 		"ypos"			"c90"
 		"zpos"			"2"
@@ -501,7 +501,7 @@
 			"fieldName"		"SubImage"
 			"xpos"			"4"
 			"ypos"			"4"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"17"
 			"tall"			"17"
 			//"visible"		"1"
@@ -610,7 +610,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"

@@ -111,7 +111,7 @@
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
-		"labelText"		""
+		"labeltext"		""
 		// "editable"		"0"
 		// "maxchars"		"128"
 	}
@@ -153,7 +153,7 @@
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		"wrap"		"1"
-		"labelText"		""
+		"labeltext"		""
 		//"editable"		"0"
 		//"maxchars"		"256"
 	}

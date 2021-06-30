@@ -10,7 +10,7 @@
 		"wide"					"320"
 		"tall"					"330"
 		"bgcolor_override"		"46 43 42 0"
-		"paintbackgroundtype"	"0"
+		//"PaintBackgroundType"	"0"
 		"settitlebarvisible"	"1"
 		"border"				"GrayDialogBorder"
 

@@ -14,7 +14,7 @@
 		
 		
 		"settitlebarvisible"	"0"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		
 		"default_x"			"15"
 		"start_y"			"10"
@@ -396,7 +396,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"EstimateTimeLabel"
-		"labelText"		""
+		"labeltext"		""
 		"Font"			"ReplayVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
@@ -415,7 +415,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"EstimateFileLabel"
-		"labelText"		""
+		"labeltext"		""
 		"Font"			"ReplayVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"

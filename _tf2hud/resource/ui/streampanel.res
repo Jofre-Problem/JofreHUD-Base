@@ -146,7 +146,7 @@
 		"tall"			"50"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		//"visible"		"1"
 		"enabled"		"0"
 		

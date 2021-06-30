@@ -988,7 +988,7 @@
 		"ypos"			"c-55"
 		"wide"			"450"
 		"tall"			"195"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}
 	
 	"HudMenuEngyDestroy"
@@ -1000,7 +1000,7 @@
 		"ypos"			"c-59"
 		"wide"			"450"
 		"tall"			"200"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}
 
 	"HudEurekaEffectTeleportMenu"
@@ -1012,7 +1012,7 @@
 		"ypos"			"c-55"
 		"wide"			"250"
 		"tall"			"195"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}
 	
 	"HudMenuSpyDisguise"
@@ -1027,7 +1027,7 @@
 		"wide"			"470"
 		"tall"			"200"	[$WIN32]
 		"tall"			"180"	[$X360]
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}	
 	
 	HudDemomanPipes
@@ -1354,7 +1354,7 @@
 		//"visible"		"1"
 		////"enabled"		"1"
 		"bgcolor_override"	"Blank"
-		"PaintBackgroundType"	"0" // rounded corners
+		//"PaintBackgroundType"	"0" // rounded corners
 	}
 
 	"HudAlert"
@@ -1380,7 +1380,7 @@
 		//"visible"		"1"
 		////"enabled"		"1"
 		"bgcolor_override"	"Blank"
-		"PaintBackgroundType"	"0" // rounded corners
+		//"PaintBackgroundType"	"0" // rounded corners
 	}
 
 	CTFFlagCalloutPanel
@@ -1406,7 +1406,7 @@
 		//"ypos_lodef"	"c-42"
 		"wide"			"470"
 		"tall"			"200"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}
 
 	"ItemAttributeTracker"
@@ -1418,7 +1418,7 @@
 		
 		"wide"			"f5"
 		"tall"			"f0"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}
 
 	HudMiniGame

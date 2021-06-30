@@ -13,7 +13,7 @@
 		//"visible"		"1"
 		
 		
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"entry_step"	"30"
 		"proportionaltoparent" "1"
 

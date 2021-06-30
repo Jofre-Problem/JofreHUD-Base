@@ -14,7 +14,7 @@
 		
 		
 		"settitlebarvisible"	"0"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override"	"ReplayBrowser.BgColor"
 	}
 	
@@ -53,7 +53,7 @@
 		
 		
 		"autohide_scrollbar" "1"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"bgcolor_override"		"ReplayBrowser.BgColor"
 	}
 }

@@ -93,7 +93,7 @@
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
 					
-					"labelText"		""
+					"labeltext"		""
 					"Command"		"option0"
 				}
 
@@ -131,7 +131,7 @@
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
 
-					"labelText"		""
+					"labeltext"		""
 					"Command"		"option1"
 				}
 
@@ -167,7 +167,7 @@
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
 
-					"labelText"		""
+					"labeltext"		""
 					"Command"		"option2"
 				}
 
@@ -204,7 +204,7 @@
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
 					
-					"labelText"		""
+					"labeltext"		""
 					"Command"		"option3"
 				}
 
@@ -240,7 +240,7 @@
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
 					
-					"labelText"		""
+					"labeltext"		""
 					"Command"		"option4"
 				}
 

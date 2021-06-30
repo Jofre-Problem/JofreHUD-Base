@@ -13,7 +13,7 @@
 		"visible"		"0"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"appearance"		"LabelDull"
 		"labelText"		"#TrackerUI_OptionsUnavailable"
 		"textAlignment"		"north-west"
@@ -32,7 +32,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"1"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -52,7 +52,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_FriendlyName"
 		//"textAlignment"		"west"
 		"associate"		"UserNameEdit"

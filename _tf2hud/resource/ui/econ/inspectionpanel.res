@@ -164,7 +164,7 @@
 			"sound_armed"		"UI/buttonrollover.wav"
 			
 			"paintbackground"	"0"
-			"paintbackgroundtype"	"0"
+			//"PaintBackgroundType"	"0"
 			"defaultBgColor_Override"	"0 0 0 255"
 			
 			"paintborder"		"0"
@@ -290,7 +290,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"8"
 				"tall"			"8"
 				//"visible"		"1"

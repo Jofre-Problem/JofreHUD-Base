@@ -73,7 +73,7 @@
 		
 			
 		"fillcolor"		"0 0 0 150"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}
 	
 	"active_selection_bg"
@@ -445,7 +445,7 @@
 		
 			
 		"fillcolor"		"0 0 0 190"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}
 
 	"PrevHintIcon"

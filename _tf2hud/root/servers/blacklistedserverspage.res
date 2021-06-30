@@ -13,7 +13,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 	}
 	"AddServerButton"
 	{
@@ -28,7 +28,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"2"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddServer"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -49,7 +49,7 @@
 		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"2"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddCurrentServer"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -69,7 +69,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"2"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ImportBlacklist"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -89,6 +89,6 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 	}
 }

@@ -89,7 +89,7 @@
 		
 		//"visible"		"1"
 		
-		"labelText"		""
+		"labeltext"		""
 		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"

@@ -39,7 +39,7 @@
 			"visible"		"0"
 			
 			//"paintbackground"	"1"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 			"bgcolor_override" "0 0 0 255"
 			"proportionaltoparent" "1"
 		
@@ -200,7 +200,7 @@
 		"tall"			"f0"
 		//"visible"		"1"
 		
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override" "0 0 0 128"
 	}
 	
@@ -266,7 +266,7 @@
 			"wide"			"230"
 			"tall"			"201"
 			//"visible"		"1"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 			"bgcolor_override"	"Blank"
 			"skip_autoresize"	"1"
 			
@@ -281,7 +281,7 @@
 				"wide"			"230"
 				"tall"			"222"
 				//"visible"		"1"
-				"PaintBackgroundType"	"0"
+				//"PaintBackgroundType"	"0"
 				"bgcolor_override"	"Blank"
 				"skip_autoresize"	"1"
 				
@@ -817,7 +817,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"11"
 			"tall"			"11"
 			//"visible"		"1"
@@ -862,7 +862,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"11"
 			"tall"			"11"
 			//"visible"		"1"
@@ -916,7 +916,7 @@
 			"sound_armed"		"UI/buttonrollover.wav"
 			
 			"paintbackground"	"0"
-			"paintbackgroundtype"	"0"
+			//"PaintBackgroundType"	"0"
 			"defaultBgColor_Override"	"0 0 0 255"
 			
 			"paintborder"		"0"
@@ -977,7 +977,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CycleTextLabel"
 		"font"			"FontStorePrice"
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"	"left"
 		"xpos"			"c-186"
 		"ypos"			"c-176"
@@ -1069,7 +1069,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
 			//"visible"		"1"

@@ -15,7 +15,7 @@
 		
 		
 		"settitlebarvisible"	"0"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override"	"TanDarker"
 		"infocus_bgcolor_override" "TanDarker"
 		"outoffocus_bgcolor_override" "TanDarker"
@@ -103,7 +103,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"SelectedItemFoundMethodLabel"
 		"font"			"HudFontMediumSmallBold"
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"	"center"
 		
 		"ypos"			"75"
@@ -260,7 +260,7 @@
 		//"visible"		"1"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"

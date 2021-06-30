@@ -138,7 +138,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -186,7 +186,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -320,7 +320,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -368,7 +368,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -416,7 +416,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -546,7 +546,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -594,7 +594,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -642,7 +642,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -771,7 +771,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -819,7 +819,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -858,8 +858,8 @@
 		"zpos"			"8"
 		"wide"			"321"
 		"tall"			"285"
-		"PaintBackgroundType"	"0"
-		"paintbackground"		"1"
+		//"PaintBackgroundType"	"0"
+		//"paintbackground"		"1"
 		"bgcolor_override"	"0 0 0 200"
 		"border"		"QuickplayBorder"
 
@@ -1015,7 +1015,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"

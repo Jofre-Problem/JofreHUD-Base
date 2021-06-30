@@ -13,7 +13,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"settitlebarvisible"		"1"
 		"title"		"#Friends_Title_Online"
 	}
@@ -30,7 +30,7 @@
 		"visible"		"0"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 	}
 	"DownLabel"
 	{
@@ -45,7 +45,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_NoFriendsInList"
 		"textAlignment"		"north-west"
 		"wrap"		"1"
@@ -63,7 +63,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_Options"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -83,7 +83,7 @@
 		"visible"		"0"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_AddFriend"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -103,6 +103,6 @@
 		"visible"		"0"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 	}
 }

@@ -92,7 +92,7 @@
 			"pinCorner"		"1"
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			//"textAlignment"		"west"
 			"font"			"HudFontSmallestShadow"
 			"maxchars"		"-1"
@@ -113,7 +113,7 @@
 			
 				
 			"fillcolor"		"125 125 125 125"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 
 		"HudStopWatchObjectiveText2"
@@ -129,7 +129,7 @@
 			"pinCorner"		"1"
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			//"textAlignment"		"west"
 			"font"			"HudFontSmallestShadow"
 			"maxchars"		"-1"

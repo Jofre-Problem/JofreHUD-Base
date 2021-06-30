@@ -120,7 +120,7 @@
 		//"visible"		"1"
 		"visible_minmode"		"1"
 		
-		"labelText"		""
+		"labeltext"		""
 		//"textAlignment"		"west"
 	}	
 	"DistanceLabel"
@@ -171,7 +171,7 @@
 		
 		//"visible"		"1"	[$WIN32]
 		
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"		
 	}
@@ -205,7 +205,7 @@
 		//"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
 		
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"
 	}
@@ -239,7 +239,7 @@
 		//"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
 		
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"
 	}
@@ -340,7 +340,7 @@
 		"tall"			"100"
 		"visible"		"0"
 		"bgcolor_override"		"255 255 255 0"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		
 		"model_ypos"		"10"
 		"model_center_x"	"1"

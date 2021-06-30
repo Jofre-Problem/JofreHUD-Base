@@ -16,7 +16,7 @@
 		
 		
 		"settitlebarvisible"	"0"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override"	"TanDarker"
 
 		"NavToRelay"	"MvMTourOfDutyGroupBox"

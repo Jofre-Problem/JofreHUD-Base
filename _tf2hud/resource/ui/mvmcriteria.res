@@ -85,7 +85,7 @@
 			"wide"			"400"
 			"tall"			"197"
 			"PaintBackgroundType"	"2"
-			"paintbackground"		"1"
+			//"paintbackground"		"1"
 			"bgcolor_override"	"0 0 0 200"
 			"border"		"QuickplayBorder"
 
@@ -147,7 +147,7 @@
 		"wide"		"400"
 		"tall"		"120"
 		"PaintBackgroundType"	"2"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"bgcolor_override"	"0 0 0 200"
 		"border"		"QuickplayBorder"
 
@@ -325,7 +325,7 @@
 			"wide"		"25"
 			"tall"		"25"
 			"font"			"HudFontSmall"
-			"labelText"		""
+			"labeltext"		""
 		}
 
 		"ActivateSquadSurplusLabel"
@@ -467,7 +467,7 @@
 		"wide"		"400"
 		"tall"		"120"
 		"PaintBackgroundType"	"2"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"bgcolor_override"	"0 0 0 200"
 		"border"		"QuickplayBorder"
 
@@ -630,7 +630,7 @@
 			"wide"			"400"
 			"tall"			"197"
 			"PaintBackgroundType"	"2"
-			"paintbackground"		"1"
+			//"paintbackground"		"1"
 			"bgcolor_override"	"0 0 0 200"
 			"border"		"QuickplayBorder"
 

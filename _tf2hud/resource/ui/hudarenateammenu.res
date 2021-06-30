@@ -57,7 +57,7 @@
 		
 		"visible"		"0"
 		"enabled"		"0"
-		"labelText"		""
+		"labeltext"		""
 		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		"brighttext"	"1"
@@ -245,7 +245,7 @@
 		
 			
 		"fillcolor"		"0 0 0 180"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}		
 		
 	"autodoor"

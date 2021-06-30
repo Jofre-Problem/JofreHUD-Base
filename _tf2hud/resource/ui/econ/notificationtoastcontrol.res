@@ -18,7 +18,7 @@
 		}
 		"paintborder"			"1"
 		"paintbackground"		"0"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"defaultbgcolor_override"		"208 193 162 255"
 	}
 

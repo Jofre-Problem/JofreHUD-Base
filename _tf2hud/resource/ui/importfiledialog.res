@@ -376,7 +376,7 @@
 			"font"			"HudFontSmallestBold"
 			//"textAlignment"	"west"
 				
-			"labelText"		""
+			"labeltext"		""
 			"command"		"ClearIcon"				
 				
 			"image_drawcolor"	"TanLight"
@@ -412,7 +412,7 @@
 			"font"			"HudFontSmallestBold"
 			//"textAlignment"	"west"
 				
-			"labelText"		""
+			"labeltext"		""
 			"command"		"BrowseIcon"					
 				
 			"image_drawcolor"	"TanLight"
@@ -755,7 +755,7 @@
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"Bodygroup0"
-			"labelText"		""
+			"labeltext"		""
 			"Font"			"HudFontSmallest"
 			//"textAlignment"	"west"
 			"xpos"			"4" 
@@ -777,7 +777,7 @@
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"Bodygroup1"
-			"labelText"		""
+			"labeltext"		""
 			"Font"			"HudFontSmallest"
 			//"textAlignment"	"west"
 			"xpos"			"4" 
@@ -799,7 +799,7 @@
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"Bodygroup2"
-			"labelText"		""
+			"labeltext"		""
 			"Font"			"HudFontSmallest"
 			//"textAlignment"	"west"
 			"xpos"			"4" 
@@ -821,7 +821,7 @@
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"Bodygroup3"
-			"labelText"		""
+			"labeltext"		""
 			"Font"			"HudFontSmallest"
 			//"textAlignment"	"west"
 			"xpos"			"4" 
@@ -843,7 +843,7 @@
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"Bodygroup4"
-			"labelText"		""
+			"labeltext"		""
 			"Font"			"HudFontSmallest"
 			//"textAlignment"	"west"
 			"xpos"			"4" 
@@ -865,7 +865,7 @@
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"Bodygroup5"
-			"labelText"		""
+			"labeltext"		""
 			"Font"			"HudFontSmallest"
 			//"textAlignment"	"west"
 			"xpos"			"4" 
@@ -887,7 +887,7 @@
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"Bodygroup6"
-			"labelText"		""
+			"labeltext"		""
 			"Font"			"HudFontSmallest"
 			//"textAlignment"	"west"
 			"xpos"			"4" 
@@ -909,7 +909,7 @@
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"Bodygroup7"
-			"labelText"		""
+			"labeltext"		""
 			"Font"			"HudFontSmallest"
 			//"textAlignment"	"west"
 			"xpos"			"4" 
@@ -931,7 +931,7 @@
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"Bodygroup8"
-			"labelText"		""
+			"labeltext"		""
 			"Font"			"HudFontSmallest"
 			//"textAlignment"	"west"
 			"xpos"			"4" 
@@ -1003,7 +1003,7 @@
 				"font"			"HudFontSmallestBold"
 				//"textAlignment"	"west"
 				
-				"labelText"		""
+				"labeltext"		""
 				"command"		"ClearLOD0"				
 				
 				"image_drawcolor"	"TanLight"
@@ -1037,7 +1037,7 @@
 				"font"			"HudFontSmallestBold"
 				//"textAlignment"	"west"
 				
-				"labelText"		""
+				"labeltext"		""
 				"command"		"BrowseLOD0"				
 				
 				"image_drawcolor"	"TanLight"
@@ -1127,7 +1127,7 @@
 				//"textAlignment"	"west"
 				"enabled"		"0"
 				
-				"labelText"		""
+				"labeltext"		""
 				"command"		"ClearLOD1"				
 				
 				"image_drawcolor"	"TanLight"
@@ -1162,7 +1162,7 @@
 				//"textAlignment"	"west"
 				"enabled"		"0"
 				
-				"labelText"		""
+				"labeltext"		""
 				"command"		"BrowseLOD1"				
 				
 				"image_drawcolor"	"TanLight"
@@ -1254,7 +1254,7 @@
 				//"textAlignment"	"west"
 				"enabled"		"0"
 				
-				"labelText"		""
+				"labeltext"		""
 				"command"		"ClearLOD2"				
 				
 				"image_drawcolor"	"TanLight"
@@ -1289,7 +1289,7 @@
 				//"textAlignment"	"west"
 				"enabled"		"0"
 				
-				"labelText"		""
+				"labeltext"		""
 				"command"		"BrowseLOD2"				
 				
 				"image_drawcolor"	"TanLight"
@@ -1473,7 +1473,7 @@
 				"font"			"HudFontSmallestBold"
 				//"textAlignment"	"west"
 					
-				"labelText"		""
+				"labeltext"		""
 				"command"		"EditMaterial0"				
 					
 				"image_drawcolor"	"TanLight"
@@ -1546,7 +1546,7 @@
 				"font"			"HudFontSmallestBold"
 				//"textAlignment"	"west"
 					
-				"labelText"		""
+				"labeltext"		""
 				"command"		"EditMaterial1"				
 					
 				"image_drawcolor"	"TanLight"
@@ -1620,7 +1620,7 @@
 				"font"			"HudFontSmallestBold"
 				//"textAlignment"	"west"
 					
-				"labelText"		""
+				"labeltext"		""
 				"command"		"EditMaterial2"				
 					
 				"image_drawcolor"	"TanLight"
@@ -1693,7 +1693,7 @@
 				"font"			"HudFontSmallestBold"
 				//"textAlignment"	"west"
 					
-				"labelText"		""
+				"labeltext"		""
 				"command"		"EditMaterial3"				
 					
 				"image_drawcolor"	"TanLight"
@@ -1841,7 +1841,7 @@
 				"font"			"HudFontSmallestBold"
 				//"textAlignment"	"west"
 				
-				"labelText"		""
+				"labeltext"		""
 				"command"		"ClearAnimationSource"				
 				
 				"image_drawcolor"	"TanLight"
@@ -1875,7 +1875,7 @@
 				"font"			"HudFontSmallestBold"
 				//"textAlignment"	"west"
 				
-				"labelText"		""
+				"labeltext"		""
 				"command"		"BrowseAnimationSource"				
 				
 				"image_drawcolor"	"TanLight"
@@ -1964,7 +1964,7 @@
 				"font"			"HudFontSmallestBold"
 				//"textAlignment"	"west"
 				
-				"labelText"		""
+				"labeltext"		""
 				"command"		"ClearAnimationVCD"				
 				
 				"image_drawcolor"	"TanLight"
@@ -1998,7 +1998,7 @@
 				"font"			"HudFontSmallestBold"
 				//"textAlignment"	"west"
 				
-				"labelText"		""
+				"labeltext"		""
 				"command"		"BrowseAnimationVCD"				
 				
 				"image_drawcolor"	"TanLight"
@@ -2159,7 +2159,7 @@
 			"fieldName"		"SubImage"
 			"xpos"			"1"
 			"ypos"			"1"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"13"
 			"tall"			"13"
 			"scaleImage"	"1"

@@ -284,7 +284,7 @@
 		
 		
 		"textinsetx"	"25"
-		"labelText"		""
+		"labeltext"		""
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"
 		"command"		"open_rank_type_menu"
@@ -537,7 +537,7 @@
 			//"visible"		"1"
 			
 			
-			"labelText"		""
+			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
 			//"dulltext"		"0"
@@ -560,7 +560,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"32"
 				"tall"			"32"
 				//"visible"		"1"
@@ -603,7 +603,7 @@
 			
 			
 			"textinsetx"	"25"
-			"labelText"		""
+			"labeltext"		""
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallBold"
 			"command"		"watch_stream"
@@ -676,7 +676,7 @@
 			
 			
 			"textinsetx"	"25"
-			"labelText"		""
+			"labeltext"		""
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallBold"
 			"command"		"questlog"
@@ -751,7 +751,7 @@
 			//"visible"		"1"
 			
 			
-			"labelText"		""
+			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
 			//"dulltext"		"0"
@@ -774,7 +774,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"32"
 				"tall"			"32"
 				//"visible"		"1"
@@ -879,7 +879,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -1081,7 +1081,7 @@
 			"visible"		"0"
 			
 			
-			"labelText"		""
+			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			//"dulltext"		"0"
@@ -1105,7 +1105,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"20"
 				"tall"			"20"
 				//"visible"		"1"
@@ -1129,7 +1129,7 @@
 			"visible"		"0"
 			
 			
-			"labelText"		""
+			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			//"dulltext"		"0"
@@ -1153,7 +1153,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"20"
 				"tall"			"20"
 				//"visible"		"1"
@@ -1226,7 +1226,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -1413,7 +1413,7 @@
 			"wide"			"f10"
 			"tall"			"110"
 			//"visible"		"1"	
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -1489,7 +1489,7 @@
 			"wide"			"f10"
 			"tall"			"110"
 			//"visible"		"1"	
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -1519,7 +1519,7 @@
 //			"tall"			"120"
 			"tall"			"96"
 			//"visible"		"1"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 
 			"paintborder"	"1"
@@ -1572,7 +1572,7 @@
 //				"wide"			"p0.48"
 //				"tall"			"26"
 //				//"visible"		"1"
-//				"PaintBackgroundType"	"0"
+//				//"PaintBackgroundType"	"0"
 //				"proportionaltoparent"	"1"
 //
 //				"SubButton"
@@ -1642,7 +1642,7 @@
 //				"wide"			"p0.48"
 //				"tall"			"26"
 //				//"visible"		"1"
-//				"PaintBackgroundType"	"0"
+//				//"PaintBackgroundType"	"0"
 //				"proportionaltoparent"	"1"
 //
 //				"SubButton"
@@ -1832,7 +1832,7 @@
 			"wide"			"260"
 			"tall"			"p0.88"
 			//"visible"		"1"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 
 			"paintborder"	"1"
@@ -2429,7 +2429,7 @@
 		//"visible"		"1"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		//"textAlignment"	"west"
 		"textinsetx"	"25"
@@ -2525,7 +2525,7 @@
 		//"visible"		"1"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
@@ -2549,7 +2549,7 @@
 			"fieldName"		"SubImage"
 			"xpos"			"4"
 			"ypos"			"4"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"18"
 			"tall"			"18"
 			//"visible"		"1"
@@ -2573,7 +2573,7 @@
 		//"visible"		"1"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
@@ -2620,7 +2620,7 @@
 		//"visible"		"1"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
@@ -2667,7 +2667,7 @@
 		//"visible"		"1"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
@@ -2690,7 +2690,7 @@
 			"fieldName"		"SubImage"
 			"xpos"			"5"
 			"ypos"			"5"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"15"
 			"tall"			"15"
 			//"visible"		"1"
@@ -2714,7 +2714,7 @@
 		//"visible"		"1"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
@@ -2761,7 +2761,7 @@
 		//"visible"		"1"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
@@ -2784,7 +2784,7 @@
 			"fieldName"		"SubImage"
 			"xpos"			"5"
 			"ypos"			"5"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"15"
 			"tall"			"15"
 			//"visible"		"1"
@@ -2808,7 +2808,7 @@
 		//"visible"		"1"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
@@ -2830,7 +2830,7 @@
 			"fieldName"		"SubImage"
 			"xpos"			"10"
 			"ypos"			"5"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"15"
 			"tall"			"15"
 			//"visible"		"1"
@@ -2874,7 +2874,7 @@
 			"fieldName"		"SubImage"
 			"xpos"			"16"
 			"ypos"			"6"
-			"zpos"			"1"
+		//	"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
 			//"visible"		"1"

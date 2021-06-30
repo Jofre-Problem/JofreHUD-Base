@@ -13,7 +13,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"FilenameLabel"
 		"font"			"DefaultVerySmall"
-		"labelText"		""
+		"labeltext"		""
 		//"textAlignment"	"west"
 		"zpos"			"10"
 		
@@ -70,7 +70,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ProgressLabel"
 		"font"			"DefaultVerySmall"
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"	"east"
 		"zpos"			"10"
 		

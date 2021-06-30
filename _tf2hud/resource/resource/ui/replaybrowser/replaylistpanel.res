@@ -24,7 +24,7 @@
 				"FieldName"				"Slider"
 				
 				"paintborder"			"0"
-				"paintbackground"		"1"
+				//"paintbackground"		"1"
 				"bgcolor_override"		"ReplayBrowser.BgColor"
 				"fgcolor_override"		"ReplayBrowser.ScrollBar.SliderButton.FgColor"
 				

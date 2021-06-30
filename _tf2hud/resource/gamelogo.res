@@ -6,7 +6,7 @@
 		"fieldName"		"GameLogo"
 		
 		
-		"zpos"			"50"
+		//"zpos"			"50"
 		"wide"			"400"
 		"tall"			"100"
 		"autoResize"	"1"
@@ -23,7 +23,7 @@
 		"fieldName"		"Logo"
 		
 		
-		"zpos"			"50"
+		//"zpos"			"50"
 		"wide"			"400"
 		"tall"			"100"
 		////"visible"		"1"

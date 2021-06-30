@@ -10,7 +10,7 @@
 		"visible"		"0"
 		
 		
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"paintbackground"		"0"
 
 

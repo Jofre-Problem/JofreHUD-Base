@@ -187,7 +187,7 @@
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
-		"labelText"		""
+		"labeltext"		""
 		"font"			"MenuLarge"
 	}	
 	"ValueLabel0"
@@ -211,7 +211,7 @@
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
-		"labelText"		""
+		"labeltext"		""
 		"font"			"MenuLarge"
 	}	
 	"ValueBar0"
@@ -1283,7 +1283,7 @@
 	"Subtitle"
 	{
 		"ControlName"	"Label"
-		"labelText"		""
+		"labeltext"		""
 		"font"			"MatchmakingDialogMenuLarge"
 		//"font_lodef"			"MatchmakingDialogMenuSmall"
 		"xpos"			"15"
@@ -1315,7 +1315,7 @@
 	"DescOne"
 	{
 		"ControlName"	"Label"
-		"labelText"		""
+		"labeltext"		""
 		"font"			"MatchmakingDialogMenuLarge"
 		//"font_lodef"			"MatchmakingDialogMenuSmall"
 		"xpos"			"15"
@@ -1330,7 +1330,7 @@
 	"DescTwo"
 	{
 		"ControlName"	"Label"
-		"labelText"		""
+		"labeltext"		""
 		"font"			"MatchmakingDialogMenuLarge"
 		//"font_lodef"			"MatchmakingDialogMenuSmall"
 		"xpos"			"15"
@@ -1343,7 +1343,7 @@
 	"DescThree"
 	{
 		"ControlName"	"Label"
-		"labelText"		""
+		"labeltext"		""
 		"font"			"MatchmakingDialogMenuLarge"
 		//"font_lodef"			"MatchmakingDialogMenuSmall"
 		"xpos"			"15"
@@ -3704,7 +3704,7 @@
 		
 		"settitlebarvisible"	"0"
 		"title"					"#GameUI_NewGame"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 	}
 	"LeftArrow"
 	{

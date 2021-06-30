@@ -58,7 +58,7 @@
 		"visible"		"0"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"		"center"
 		//"dulltext"		"0"
 		//"brighttext"		"0"

@@ -127,7 +127,7 @@
 
 				"Slider"
 				{
-					"PaintBackgroundType"	"0"
+					//"PaintBackgroundType"	"0"
 				}
 		
 				"UpButton"
@@ -203,7 +203,7 @@
 
 				"Slider"
 				{
-					"PaintBackgroundType"	"0"
+					//"PaintBackgroundType"	"0"
 				}
 		
 				"UpButton"
@@ -254,7 +254,7 @@
 				
 				"Slider"
 				{
-					"PaintBackgroundType"	"0"
+					//"PaintBackgroundType"	"0"
 				}
 				
 				"nobuttons"		"1"

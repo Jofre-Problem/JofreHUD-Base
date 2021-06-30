@@ -723,7 +723,7 @@
 						"wide"			"55"
 						"tall"			"55"
 						"visible"		"0"
-						"PaintBackgroundType"	"0"
+						//"PaintBackgroundType"	"0"
 						"paintborder"	"1"
 						"proportionaltoparent"	"1"
 		
@@ -756,7 +756,7 @@
 						"wide"			"55"
 						"tall"			"55"
 						"visible"		"0"
-						"PaintBackgroundType"	"0"
+						//"PaintBackgroundType"	"0"
 						"paintborder"	"1"
 						"proportionaltoparent"	"1"
 		

@@ -1,4 +1,3 @@
-#base "../#bases/reload_scheme.res"
 #base "base/filesv1/armory_panel/main.res"
 #base "base/filesv4-class/scout/main.res"
 #base "base/filesv4-class/scout/sound.res"

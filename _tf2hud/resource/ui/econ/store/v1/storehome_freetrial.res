@@ -14,7 +14,7 @@
 		
 		
 		"settitlebarvisible"	"0"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override"	"TanDarker"
 		"infocus_bgcolor_override" "TanDarker"
 		"outoffocus_bgcolor_override" "TanDarker"

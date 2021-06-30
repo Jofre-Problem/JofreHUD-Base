@@ -25,8 +25,8 @@
 //		//"visible"		"1"
 //		
 //		
-//		"PaintBackgroundType"	"0"
-//		"paintbackground"		"1"
+//		//"PaintBackgroundType"	"0"
+//		//"paintbackground"		"1"
 //		"border"				"QuickplayBorder"
 
 		"mouseoveritempanel"
@@ -70,7 +70,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"ToolBG"
 			"font"			"HudFontSmallBold"
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"	"east"
 			"xpos"			"10"
 			"ypos"			"10"
@@ -144,7 +144,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"SubjectBG"
 			"font"			"HudFontSmallBold"
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"	"east"
 			"xpos"			"465"
 			"ypos"			"10"

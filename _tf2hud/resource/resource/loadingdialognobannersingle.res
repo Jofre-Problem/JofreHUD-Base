@@ -27,7 +27,7 @@
 		"visible"		"0"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		//"textAlignment"		"west"
 		//"dulltext"		"0"
 		//"brighttext"		"0"
@@ -157,7 +157,7 @@
 		"visible"		"0"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		//"textAlignment"		"west"
 		"dulltext"		"1"
 		//"brighttext"		"0"

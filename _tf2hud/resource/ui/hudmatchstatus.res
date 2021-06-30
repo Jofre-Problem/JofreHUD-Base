@@ -438,7 +438,7 @@
 				"tall"			"19"
 				//"visible"		"1"
 				
-				"PaintBackgroundType"	"0"
+				//"PaintBackgroundType"	"0"
 				"proportionaltoparent"	"1"
 			}
 			"healthbar"

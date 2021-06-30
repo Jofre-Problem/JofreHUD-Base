@@ -116,7 +116,7 @@
 			
 				
 			"fillcolor"		"56 51 44 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 
 		"TopBar"
@@ -138,7 +138,7 @@
 			
 				
 			"fillcolor"		"56 51 44 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 	}
 

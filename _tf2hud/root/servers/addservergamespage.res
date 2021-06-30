@@ -13,7 +13,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 	}
 	"AddToFavoritesButton"
 	{
@@ -28,7 +28,7 @@
 		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddSelectedToFavorites"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -48,7 +48,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 	}
 
 
@@ -65,7 +65,7 @@
 		"visible"		"0"
 		
 		"tabPosition"		"2"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_RefreshAll"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -85,7 +85,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_RefreshQuick"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -105,7 +105,7 @@
 		"visible"		"0"
 		
 		"tabPosition"		"2"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddServer"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -126,7 +126,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"tabPosition"		"2"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddCurrentServer"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -146,7 +146,7 @@
 		"visible"		"0"
 		
 		"tabPosition"		"4"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ChangeFilters"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -165,7 +165,7 @@
 		"visible"		"0"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"borderset"		"LabelDull"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -184,7 +184,7 @@
 		"visible"		"0"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -204,7 +204,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -224,7 +224,7 @@
 		"visible"		"0"
 		
 		"tabPosition"		"5"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -244,7 +244,7 @@
 		"visible"		"0"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -264,7 +264,7 @@
 		"visible"		"0"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -284,7 +284,7 @@
 		"visible"		"0"
 		
 		"tabPosition"		"7"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_HasUsersPlaying"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -303,7 +303,7 @@
 		"visible"		"0"
 		
 		"tabPosition"		"6"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerNotFull"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -322,7 +322,7 @@
 		"visible"		"0"
 		
 		"tabPosition"		"8"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_IsNotPasswordProtected"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -341,7 +341,7 @@
 		"visible"		"0"
 		
 		"tabPosition"		"8"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_SupportsReplays"
 		//"textAlignment"		"west"
 		//"wrap"		"0"

@@ -57,7 +57,7 @@
 		
 		"visible"		"0"
 		"enabled"		"0"
-		"labelText"		""
+		"labeltext"		""
 		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		"brighttext"	"1"
@@ -327,7 +327,7 @@
 			
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}		
 	
 	"BlueCount"

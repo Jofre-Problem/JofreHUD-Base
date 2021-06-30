@@ -694,6 +694,6 @@
 		//"visible"		"1"
 		
 		"bgcolor_override"	"Blank"
-		"PaintBackgroundType"	"0" // rounded corners
+		//"PaintBackgroundType"	"0" // rounded corners
 	}	
 }

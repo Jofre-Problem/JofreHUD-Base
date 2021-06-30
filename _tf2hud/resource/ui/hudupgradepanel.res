@@ -542,7 +542,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"UpgradeItemStatsLabel"
 			"font"			"ItemFontAttribSmall"
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"	"north-west"
 			"xpos"			"30"
 			"ypos"			"160"

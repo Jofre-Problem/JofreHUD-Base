@@ -13,7 +13,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"settitlebarvisible"		"1"
 		"title"		"#ServerBrowser_AddServersTitle"
 	}
@@ -30,7 +30,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 	}
 	"Servers"
 	{
@@ -45,7 +45,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 	}
 	"ServerNameText"
 	{
@@ -60,7 +60,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"1"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -80,7 +80,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"3"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_FindGames"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -100,7 +100,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"2"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddAddressToFavorites"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -120,7 +120,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddSelectedToFavorites"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -139,7 +139,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_EnterIPofServerToAdd"
 		//"textAlignment"		"west"
 		"font"		"UiBold"
@@ -158,7 +158,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"appearance"		"LabelDull"
 		"labelText"		"#ServerBrowser_Examples"
 		"textAlignment"		"north-west"
@@ -177,7 +177,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"4"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Cancel"
 		//"textAlignment"		"west"
 		//"wrap"		"0"

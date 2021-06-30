@@ -10,7 +10,7 @@
 		"wide"					"400"
 		"tall"					"240"
 		"bgcolor_override"		"46 43 42 0"
-		"paintbackgroundtype"	"0"
+		//"PaintBackgroundType"	"0"
 		"settitlebarvisible"	"0"
 		"border"				"GrayDialogBorder"
 	}
@@ -79,7 +79,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ToolBG"
 		"font"			"HudFontSmallBold"
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"	"east"
 		"xpos"			"158"
 		"ypos"			"14"

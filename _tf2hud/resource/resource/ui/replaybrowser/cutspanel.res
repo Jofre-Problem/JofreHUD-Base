@@ -21,7 +21,7 @@
 		
 		"button_settings"
 		{
-			"paintbackground"		"1"
+			//"paintbackground"		"1"
 			"image_drawcolor"		"255 255 255 255"
 			"image_armedcolor"		"HudWhite"
 			"image_selectedcolor"		"HudWhite"
@@ -145,7 +145,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"NameLabel"
 		"font"			"ReplayBrowserSmallest"
-		"labelText"		""
+		"labeltext"		""
 		"zpos"			"1"
 		
 		

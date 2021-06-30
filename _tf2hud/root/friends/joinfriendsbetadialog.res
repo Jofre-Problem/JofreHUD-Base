@@ -13,7 +13,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"settitlebarvisible"		"1"
 		"title"		"#Friends_JoinFriendsBeta_Title"
 	}
@@ -30,7 +30,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"2"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_ActivateFriendsBeta"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -49,7 +49,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"1"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"64"
@@ -69,7 +69,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"3"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#vgui_Cancel"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -89,7 +89,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_JoinFriendsBeta_Info"
 		"textAlignment"		"north-west"
 		"wrap"		"1"
@@ -107,7 +107,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_NameToUseInFriendsBeta"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -125,7 +125,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"1"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_BetaHomePage"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -144,6 +144,6 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 	}
 }

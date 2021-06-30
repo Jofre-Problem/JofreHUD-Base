@@ -158,7 +158,7 @@
 			"zpos"			"2"
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"	"left"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -209,7 +209,7 @@
 			"zpos"			"2"
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"	"left"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -260,7 +260,7 @@
 			"zpos"			"2"
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"	"left"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -292,7 +292,7 @@
 			"zpos"			"2"
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"	"left"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -324,7 +324,7 @@
 			"zpos"			"2"
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"	"left"
 			//"dulltext"		"0"
 			//"brighttext"	"0"
@@ -518,7 +518,7 @@
 			"tall"			"40"
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"	"north-west"
 			//"dulltext"		"0"
 			//"brighttext"	"0"

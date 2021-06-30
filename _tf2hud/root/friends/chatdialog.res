@@ -13,7 +13,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"settitlebarvisible"		"1"
 		"title"		"#Friends_Chat_Title"
 	}
@@ -30,7 +30,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"1"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"2048"
@@ -50,7 +50,7 @@
 		//"visible"		"1"
 		"enabled"		"0"
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"maxchars"		"-1"
 	}
 	"SendButton"
@@ -66,7 +66,7 @@
 		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"2"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_Chat_Send"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -86,7 +86,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_LastMessageReceived"
 		//"textAlignment"		"west"
 		"font"		"DefaultSmall"
@@ -105,7 +105,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_ChatTo"
 		//"textAlignment"		"west"
 		//"wrap"		"0"

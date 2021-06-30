@@ -12,7 +12,7 @@
 		"visible"		"0"
 		
 		//"paintbackground"	"1"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override" "0 0 0 255"
 		
 		"fullscreen_fade_to_black_duration"	"0.32"
@@ -36,7 +36,7 @@
 		"visible"		"0"
 		
 		//"paintbackground"	"1"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override" "0 0 0 255"
 	}
 		
@@ -150,7 +150,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
 			//"visible"		"1"
@@ -204,7 +204,7 @@
 			"sound_armed"		"UI/buttonrollover.wav"
 			
 			"paintbackground"	"0"
-			"paintbackgroundtype"	"0"
+			//"PaintBackgroundType"	"0"
 			"defaultBgColor_Override"	"0 0 0 255"
 			
 			"paintborder"		"0"
@@ -295,7 +295,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
 			//"visible"		"1"
@@ -353,7 +353,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"fgcolor"		"34 30 31 255"
-		"defaultBgColor_override"	"76 107 34 255"
+		"defaultBgColor_override"	"GreenSolid"
 		"ArmedBgColor_override"	"86 117 44 255"
 		"depressedBgColor_override" "66 97 24 255"
 	}		

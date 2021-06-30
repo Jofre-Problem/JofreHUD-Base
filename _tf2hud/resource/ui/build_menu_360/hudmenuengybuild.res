@@ -425,6 +425,6 @@
 		
 			
 		"fillcolor"		"0 0 0 190"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}
 }

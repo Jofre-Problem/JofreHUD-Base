@@ -100,7 +100,7 @@
 			"visible"		"0"
 			
 			"scaleImage"	"1"
-			"labelText"		""
+			"labeltext"		""
 			"proportionaltoparent"	"1"
 			"actionsignallevel" "4"
 
@@ -118,7 +118,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"16"
 				"tall"			"16"
 				//"visible"		"1"

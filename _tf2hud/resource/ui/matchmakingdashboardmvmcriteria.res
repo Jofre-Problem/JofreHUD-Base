@@ -195,7 +195,7 @@
 		"wide"		"140"
 		"tall"		"20"
 		"font"			"HudFontSmallest"
-		"labelText"		""
+		"labeltext"		""
 		"proportionaltoparent"	"1"
 	}
 

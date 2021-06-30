@@ -30,8 +30,8 @@
 		//"visible"		"1"
 		
 		
-		"PaintBackgroundType"	"0"
-		"paintbackground"		"1"
+		//"PaintBackgroundType"	"0"
+		//"paintbackground"		"1"
 		"border"				"QuickplayBorder"
 
 		"Background"
@@ -140,8 +140,8 @@
 		//"visible"		"1"
 		
 		
-		"PaintBackgroundType"	"0"
-		"paintbackground"		"1"
+		//"PaintBackgroundType"	"0"
+		//"paintbackground"		"1"
 		"border"				"QuickplayBorder"
 
 		"Background"

@@ -72,7 +72,7 @@
 		
 		//"visible"		"1"
 		
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"	"East"	
 	}
 		

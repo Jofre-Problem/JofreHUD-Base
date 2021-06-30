@@ -109,7 +109,7 @@
 		
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"	"center"
 		"font"			"HudFontSmall"
 	}
@@ -130,7 +130,7 @@
 		
 		"wrap"			"1"
 		
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"	"center-west"
 		"font"			"HudFontSmallest"
 	}
@@ -168,7 +168,7 @@
 		"enabled"		"0"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		"scaleImage"	"1"	
 
 		"activeimage"		"pve/buy_disabled"
@@ -202,7 +202,7 @@
 		"enabled"		"0"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		"scaleImage"	"1"	
 
 		"activeimage"		"pve/sell_disabled"

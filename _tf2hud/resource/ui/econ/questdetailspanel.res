@@ -251,7 +251,7 @@
 			"wide"			"100"
 			"tall"			"25"
 			//"visible"		"1"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 
 			"SubButton"
@@ -324,7 +324,7 @@
 			"wide"			"100"
 			"tall"			"25"
 			//"visible"		"1"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 
 			"SubButton"

@@ -14,7 +14,7 @@
 		
 		
 		"settitlebarvisible"	"0"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override"	"TanDarker"
 		"proportionaltoparent"	"1"
 
@@ -65,8 +65,8 @@
 		"zpos"		"1000"
 		"wide"		"f0"
 		"tall"		"f0"
-		"PaintBackgroundType"	"0"
-		"paintbackground"		"1"
+		//"PaintBackgroundType"	"0"
+		//"paintbackground"		"1"
 		"bgcolor_override"	"0 0 0 250"
 		"proportionaltoparent"	"1"
 
@@ -130,8 +130,8 @@
 		"zpos"		"1000"
 		"wide"		"f0"
 		"tall"		"f0"
-		"PaintBackgroundType"	"0"
-		"paintbackground"		"1"
+		//"PaintBackgroundType"	"0"
+		//"paintbackground"		"1"
 		"bgcolor_override"	"0 0 0 250"
 		"proportionaltoparent"	"1"
 
@@ -195,8 +195,8 @@
 		"zpos"		"-1"
 		"wide"		"400"
 		"tall"		"330"
-		"PaintBackgroundType"	"0"
-		"paintbackground"		"1"
+		//"PaintBackgroundType"	"0"
+		//"paintbackground"		"1"
 		"bgcolor_override"	"0 0 0 200"
 		"border"		"QuickplayBorder"
 
@@ -608,8 +608,8 @@
 			"zpos"		"-1"
 			"wide"		"200"
 			"tall"		"160"
-			"PaintBackgroundType"	"0"
-			"paintbackground"		"1"
+			//"PaintBackgroundType"	"0"
+			//"paintbackground"		"1"
 			"bgcolor_override"	"0 0 0 200"
 			"border"		"QuickplayBorder"
 

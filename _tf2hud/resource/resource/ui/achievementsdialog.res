@@ -15,7 +15,7 @@
 		
 		"visible"					"1"
 		"enabled"					"1"
-		"tabPosition"				"0"
+		//"tabPosition"				"0"
 		"settitlebarvisible"		"1"
 		"title"						"#GameUI_Achievements_Title"
 		"borderwidth"				"15"

@@ -13,7 +13,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"1"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_PlaySoundWhenFriendJoins"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -33,7 +33,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"2"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_PlaySoundWhenFriendComesOnline"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -53,7 +53,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"3"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_PlaySoundWhenReceiveAMessage"
 		//"textAlignment"		"west"
 		//"wrap"		"0"

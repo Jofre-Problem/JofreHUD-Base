@@ -141,7 +141,7 @@
 			
 			//"wrap"			"0"
 			//"centerwrap"	"0"
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"center"
 			"bgcolor_override" "0 0 0 255"
 		}

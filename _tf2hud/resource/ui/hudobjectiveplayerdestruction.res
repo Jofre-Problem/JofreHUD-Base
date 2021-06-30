@@ -37,7 +37,7 @@
 			"tall"			"20"
 			//"visible"		"1"
 			"bgcolor_override"		"Blank"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 			//"paintborder"	"0"
 			
 			"skip_autoresize" "1"
@@ -206,7 +206,7 @@
 			"tall"			"18"
 			//"visible"		"1"
 			
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 			"bgcolor_override"	"TanLight"
 		}	
 	
@@ -221,7 +221,7 @@
 			"tall"			"16"
 			//"visible"		"1"
 			
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 			"bgcolor_override"	"CreditsGreen"
 		}
 

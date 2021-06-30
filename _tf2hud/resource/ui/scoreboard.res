@@ -551,7 +551,7 @@
 		
 			
 		"fillcolor"		"0 0 0 153"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		
 		if_mvm
 		{
@@ -617,7 +617,7 @@
 		
 			
 		"fillcolor"		"0 0 0 153"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		
 		if_mvm
 		{
@@ -888,7 +888,7 @@
 		
 			
 		"fillcolor"		"127 127 127 153"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		
 		if_mvm
 		{
@@ -1728,7 +1728,7 @@
 		
 			
 		"fillcolor"		"0 0 0 153"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}
 	
 	"ButtonLegend"		[$X360]

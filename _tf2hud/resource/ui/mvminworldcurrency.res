@@ -11,7 +11,7 @@
 		"tall"			"14"
 		//"visible"		"1"
 		
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override"	"TanLight"
 	}	
 	
@@ -26,7 +26,7 @@
 		"tall"			"12"
 		//"visible"		"1"
 		
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override"	"221 182 72 250"	
 	}
 	

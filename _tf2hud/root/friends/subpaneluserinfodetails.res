@@ -13,7 +13,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 	}
 	"NotifyCheck"
 	{
@@ -28,7 +28,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"1"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_NotifyMeWhenUserComesOnline"
 		"textAlignment"		"north-west"
 		"wrap"		"1"
@@ -48,7 +48,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"2"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_PlaySoundWhenUserComesOnline"
 		"textAlignment"		"north-west"
 		"wrap"		"1"
@@ -68,7 +68,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"3"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_PlaySoundWhenUserJoinsGame"
 		"textAlignment"		"north-west"
 		"wrap"		"1"
@@ -88,7 +88,7 @@
 		"visible"		"0"
 		
 		"tabPosition"		"4"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#TrackerUI_BlockUserFromSeeingMe"
 		"textAlignment"		"north-west"
 		"wrap"		"1"
@@ -108,7 +108,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"5"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_RemoveUser"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -129,7 +129,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_RemoveUserExplanation"
 		"textAlignment"		"north-west"
 		"wrap"		"1"
@@ -147,7 +147,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_RecentlyUsedNames"
 		"textAlignment"		"north-west"
 		//"wrap"		"0"
@@ -165,7 +165,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"johnc"
 		"textAlignment"		"north-west"
 		"wrap"		"1"
@@ -183,7 +183,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 	}
 	"Divider2"
 	{
@@ -198,6 +198,6 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 	}
 }

@@ -349,7 +349,7 @@
 			
 		"fillcolor"		"0 0 0 150"
 		//"fillcolor_lodef"		"0 0 0 200"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}
 	"TopPlayersLabel"
 	{	
@@ -461,7 +461,7 @@
 		
 			
 		"fillcolor"		"250 234 201 255"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}
 
 	"ArenaWinPanelWinnersPanel"
@@ -501,7 +501,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -518,7 +518,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -535,7 +535,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -552,7 +552,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -569,7 +569,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -586,7 +586,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -617,7 +617,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -634,7 +634,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -651,7 +651,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -668,7 +668,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -685,7 +685,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -702,7 +702,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -733,7 +733,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -750,7 +750,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -767,7 +767,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -784,7 +784,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -801,7 +801,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -818,7 +818,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -861,7 +861,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -878,7 +878,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -895,7 +895,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -912,7 +912,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -929,7 +929,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -946,7 +946,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -977,7 +977,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -994,7 +994,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -1011,7 +1011,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -1028,7 +1028,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -1045,7 +1045,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -1062,7 +1062,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -1093,7 +1093,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -1110,7 +1110,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -1127,7 +1127,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -1144,7 +1144,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -1161,7 +1161,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -1178,7 +1178,7 @@
 			
 			//"visible"		"1"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"east"
 			//"dulltext"		"0"
 			//"brighttext"		"0"

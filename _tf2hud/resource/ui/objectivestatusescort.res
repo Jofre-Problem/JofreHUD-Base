@@ -32,7 +32,7 @@
 		"tall"			"4"
 		//"visible"		"1"
 		
-		"labelText"		""
+		"labeltext"		""
 		"image"			"../hud/cart_track"
 		"scaleImage"	"1"
 		
@@ -94,7 +94,7 @@
 		//"visible"		"1"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		"image"			"../hud/cart_home_blue"
 		"scaleImage"	"1"	
 		
@@ -161,7 +161,7 @@
 		"visible"		"0"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		"image"			"../hud/cart_point_neutral"
 		"scaleImage"	"1"	
 												
@@ -259,7 +259,7 @@
 			//"visible"		"1"
 			
 			
-			"labelText"		""
+			"labeltext"		""
 			"image"			"../hud/cart_neutral"
 			"scaleImage"	"1"
 			
@@ -296,7 +296,7 @@
 			"visible"		"0"
 			
 			
-			"labelText"		""
+			"labeltext"		""
 			"image"			"../hud/cart_neutral_bottom"
 			"scaleImage"	"1"	
 			
@@ -333,7 +333,7 @@
 			"visible"		"0"
 			
 			
-			"labelText"		""
+			"labeltext"		""
 			"image"			"../hud/cart_alert"
 			"scaleImage"	"1"
 			
@@ -362,7 +362,7 @@
 			"visible"		"0"
 			
 			
-			"labelText"		""
+			"labeltext"		""
 			"image"			"../hud/cart_arrow_left"
 			"scaleImage"	"1"	
 			
@@ -481,7 +481,7 @@
 			"visible"		"0"
 			
 			
-			"labelText"		""
+			"labeltext"		""
 			"image"			"../hud/cart_blocked"
 			"scaleImage"	"1"	
 			
@@ -631,7 +631,7 @@
 				"visible"		"0"
 				
 				
-				"labelText"		""
+				"labeltext"		""
 				"image"			"../hud/cart_arrow_right"
 				"scaleImage"	"1"	
 				

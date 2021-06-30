@@ -89,7 +89,7 @@
 		"visible"		"0"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
@@ -109,7 +109,7 @@
 			"fieldName"		"SubImage"
 			"xpos"			"3"
 			"ypos"			"3"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"20"
 			"tall"			"20"
 			//"visible"		"1"

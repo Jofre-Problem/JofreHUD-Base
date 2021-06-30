@@ -26,7 +26,7 @@
 		"ypos"			"395"
 		"wide"	 		"260"
 		"tall"	 		"2"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}
 
 	"ChatFiltersButton"
@@ -64,7 +64,7 @@
 		"pinCorner"		"1"
 		//"visible"		"1"
 		
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"		"south-west"
 		"font"			"ChatFont"
 		"maxchars"		"-1"

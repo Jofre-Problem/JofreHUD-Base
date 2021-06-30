@@ -57,7 +57,7 @@
 		
 		"visible"		"0"
 		"enabled"		"0"
-		"labelText"		""
+		"labeltext"		""
 		//"textAlignment"	"west"
 		//"dulltext"		"0"
 		"brighttext"	"1"
@@ -112,7 +112,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"	"3"
-		"labelText"		""	[$WIN32]
+		"labeltext"		""	[$WIN32]
 		
 		"textAlignment"	"south-west"
 		//"dulltext"		"0"
@@ -157,7 +157,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"	"4"
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"	"south-west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
@@ -201,7 +201,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"	"1"
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"	"south-west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
@@ -243,7 +243,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"	"2"
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"	"south-west"
 		//"dulltext"		"0"
 		//"brighttext"	"0"
@@ -445,7 +445,7 @@
 			
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}		
 	
 	"BlueCount"

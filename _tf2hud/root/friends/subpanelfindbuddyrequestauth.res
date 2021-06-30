@@ -17,7 +17,7 @@
 	"InfoText"
 	{
 		//"textAlignment"		"west"
-		"labelText"		""
+		"labeltext"		""
 		
 		
 		//"visible"		"1"

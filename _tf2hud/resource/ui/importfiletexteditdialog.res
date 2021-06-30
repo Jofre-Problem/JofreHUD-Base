@@ -38,7 +38,7 @@
 		"tall"		"280"
 		"font"		"HudFontSmall"
 		"textAlignment"	"north-west"
-		"labelText"		""
+		"labeltext"		""
 		"bgcolor_override"		"0 0 0 255"
 		"fgcolor_override"		"202 190 164 255"
 	}

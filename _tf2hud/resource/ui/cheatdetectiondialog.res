@@ -10,7 +10,7 @@
 		"wide"					"320"
 		"tall"					"170"
 		"bgcolor_override"		"0 0 0 255"
-		"paintbackgroundtype"	"0"
+		//"PaintBackgroundType"	"0"
 	}
 
 	"TitleLabel"

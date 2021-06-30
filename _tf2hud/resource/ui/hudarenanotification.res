@@ -58,7 +58,7 @@
 		//"visible"		"1"
 		
 		"wrap"			"1"
-		"labelText"		""
+		"labeltext"		""
 		//"textAlignment"		"west"
 	}
 

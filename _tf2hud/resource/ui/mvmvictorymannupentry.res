@@ -159,7 +159,7 @@
 			//"visible"		"1"
 			
 			
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 			"bgcolor_override"		"Blank"
 		}
 

@@ -62,7 +62,7 @@
 		"tall"			"16"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		//"textAlignment"		"west"
 		////"visible"		"1"
 		
@@ -77,7 +77,7 @@
 		"tall"			"16"
 		
 		
-		"labelText"		""		
+		"labeltext"		""		
 		//"textAlignment"		"west"
 		////"visible"		"1"
 		
@@ -92,7 +92,7 @@
 		"tall"			"16"
 		
 		
-		"labelText"		""		
+		"labeltext"		""		
 		//"textAlignment"		"west"
 		////"visible"		"1"
 		
@@ -107,7 +107,7 @@
 		"tall"			"16"
 		
 		
-		"labelText"		""		
+		"labeltext"		""		
 		//"textAlignment"		"west"
 		////"visible"		"1"
 		
@@ -122,7 +122,7 @@
 		"tall"			"16"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		//"textAlignment"		"west"
 		////"visible"		"1"
 		
@@ -137,7 +137,7 @@
 		"tall"			"16"
 		
 		
-		"labelText"		""		
+		"labeltext"		""		
 		//"textAlignment"		"west"
 		////"visible"		"1"
 		
@@ -152,7 +152,7 @@
 		"tall"			"16"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		//"textAlignment"		"west"
 		////"visible"		"1"
 		
@@ -167,7 +167,7 @@
 		"tall"			"16"
 		
 		
-		"labelText"		""		
+		"labeltext"		""		
 		//"textAlignment"		"west"
 		////"visible"		"1"
 		
@@ -222,7 +222,7 @@
 		"tall"			"32"
 		
 		
-		"labelText"		""		
+		"labeltext"		""		
 		"visible"		"0"
 		
 	}
@@ -267,7 +267,7 @@
 		"tall"			"16"
 		
 		
-		"labelText"		""		
+		"labeltext"		""		
 		"textAlignment"		"north-west"
 		////"visible"		"1"
 		
@@ -343,7 +343,7 @@
 		"tall"			"15"
 		
 		
-		"labelText"		""		
+		"labeltext"		""		
 		"textAlignment"		"north-west"
 		////"visible"		"1"
 		
@@ -419,7 +419,7 @@
 		"tall"			"16"
 		
 		
-		"labelText"		""		
+		"labeltext"		""		
 		"textAlignment"		"north-west"
 		////"visible"		"1"
 		

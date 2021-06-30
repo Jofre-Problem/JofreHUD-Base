@@ -95,7 +95,7 @@
 		
 		"visible"		"0"
 		
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"		"center"
 		"font"			"HudFontSmall"
 		"wrap"			"1"
@@ -268,7 +268,7 @@
 		"tall"			"100"
 		"visible"		"0"
 		"bgcolor_override"		"255 255 255 0"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		
 		"model_ypos"		"10"
 		"model_center_x"	"1"

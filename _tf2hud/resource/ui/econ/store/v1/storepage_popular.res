@@ -14,7 +14,7 @@
 		
 		
 		"settitlebarvisible"	"0"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override"	"TanDarker"
 		"infocus_bgcolor_override" "TanDarker"
 		"outoffocus_bgcolor_override" "TanDarker"
@@ -761,7 +761,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -826,7 +826,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -936,7 +936,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -983,7 +983,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -1048,7 +1048,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -1158,7 +1158,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -1205,7 +1205,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -1252,7 +1252,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -1380,7 +1380,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -1427,7 +1427,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -1474,7 +1474,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -1602,7 +1602,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -1649,7 +1649,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -1696,7 +1696,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -1824,7 +1824,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -1871,7 +1871,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -1918,7 +1918,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -2046,7 +2046,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -2093,7 +2093,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -2140,7 +2140,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -2268,7 +2268,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -2315,7 +2315,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -2362,7 +2362,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -2490,7 +2490,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -2537,7 +2537,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -2584,7 +2584,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -2711,7 +2711,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -2758,7 +2758,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"

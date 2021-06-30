@@ -13,7 +13,7 @@
 		"paintbackgroundtype"	"2"
 		"settitlebarvisible"	""
 		"paintborder"			"0"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 	}
 	
 	"TitleLabel"

@@ -13,7 +13,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"1"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"WizardWide"		"0"
 		"WizardTall"		"0"
 	}
@@ -30,7 +30,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"1"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -50,7 +50,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#Friends_EnterAccountNameOrEmailAddress"
 		"textAlignment"		"north-west"
 		"wrap"		"1"

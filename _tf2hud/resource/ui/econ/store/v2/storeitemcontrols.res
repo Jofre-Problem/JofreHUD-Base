@@ -39,7 +39,7 @@
 		
 		//"paintbackground"	"1"
 		
-		"defaultBgColor_override"	"76 107 34 255"
+		"defaultBgColor_override"	"GreenSolid"
 		"ArmedBgColor_override"	"86 117 44 255"
 		"depressedBgColor_override" "66 97 24 255"
 		
@@ -53,7 +53,7 @@
 			"fieldName"		"CartImage"
 			"xpos"			"1"
 			"ypos"			"1"
-			"zpos"			"13"
+			//"zpos"			"13"
 			"wide"			"18"
 			"tall"			"18"
 			//"visible"		"1"

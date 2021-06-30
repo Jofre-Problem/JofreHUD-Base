@@ -32,7 +32,7 @@
 				//"visible"		"1"
 				
 				
-				"labelText"		""
+				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				//"textAlignment"	"west"
 				"textinsetx"	"34"

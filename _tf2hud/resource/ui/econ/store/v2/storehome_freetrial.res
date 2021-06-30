@@ -15,7 +15,7 @@
 		//"visible"		"1"
 		
 		"bgcolor_override"		"131 66 55 255"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"paintborder"			"0"
 		"paintbackgroundtype"	"2"
 		
@@ -33,8 +33,8 @@
 			//"visible"		"1"
 			
 			"bgcolor_override"		"34 30 31 255"
-			"paintbackground"		"1"
-			"paintbackgroundtype"	"0"
+			//"paintbackground"		"1"
+			//"PaintBackgroundType"	"0"
 		}	
 		
 		// Bottom rounded corners
@@ -51,7 +51,7 @@
 			//"visible"		"1"
 			
 			"bgcolor_override"		"34 30 31 255"
-			"paintbackground"		"1"
+			//"paintbackground"		"1"
 			"paintbackgroundtype"	"2"
 		}	
 		

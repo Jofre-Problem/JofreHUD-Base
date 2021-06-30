@@ -29,8 +29,8 @@
 		//"visible"		"1"
 		
 		
-		"PaintBackgroundType"	"0"
-		"paintbackground"		"1"
+		//"PaintBackgroundType"	"0"
+		//"paintbackground"		"1"
 		"border"				"SteamWorkshopBorder"
 
 		"Background"
@@ -93,8 +93,8 @@
 			//"visible"		"1"
 			
 			
-			"PaintBackgroundType"	"0"
-			"paintbackground"		"1"
+			//"PaintBackgroundType"	"0"
+			//"paintbackground"		"1"
 			"border"		"MainMenuHighlightBorder"
 
 			"TitleLabel"
@@ -173,8 +173,8 @@
 			"visible"		"0"
 			
 			
-			"PaintBackgroundType"	"0"
-			"paintbackground"		"1"
+			//"PaintBackgroundType"	"0"
+			//"paintbackground"		"1"
 			"border"		"MainMenuHighlightBorder"
 
 			"TitleLabel"

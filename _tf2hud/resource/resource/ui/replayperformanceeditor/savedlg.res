@@ -29,7 +29,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"	"10"
-		"paintbackgroundtype"	"0"
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override"	"ReplayBrowser.BgColor"
 		"border"			"EconItemBorder"
 		"paintborder"		"1"

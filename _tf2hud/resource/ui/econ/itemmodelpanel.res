@@ -166,7 +166,7 @@
 			
 			"visible"		"0"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"	"center"
 			"fgcolor"		"LightRed"
 			"bgcolor_override"		"0 0 0 255"
@@ -187,7 +187,7 @@
 			
 			"visible"		"0"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"	"center"
 			"fgcolor"		"200 180 60 255"
 			"bgcolor_override"		"0 40 30 255"
@@ -208,7 +208,7 @@
 			
 			"visible"		"0"
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"	"center"
 			"fgcolor"		"200 180 60 255"
 			"bgcolor_override"		"0 40 30 255"

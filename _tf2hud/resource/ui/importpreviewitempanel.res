@@ -38,7 +38,7 @@
 		"tall"			"f0"
 		"visible"		"0"
 		
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override"	"0 0 0 240"
 	}
 	
@@ -103,7 +103,7 @@
 			"wide"			"230"
 			"tall"			"300"
 			//"visible"		"1"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 			"bgcolor_override"	"Blank"
 			"skip_autoresize"	"1"
 			
@@ -478,7 +478,7 @@
 			"sound_armed"		"UI/buttonrollover.wav"
 			
 			"paintbackground"	"0"
-			"paintbackgroundtype"	"0"
+			//"PaintBackgroundType"	"0"
 			"defaultBgColor_Override"	"0 0 0 255"
 			
 			"paintborder"		"0"
@@ -569,7 +569,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"11"
 			"tall"			"11"
 			//"visible"		"1"
@@ -817,7 +817,7 @@
 			//"visible"		"1"
 			
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"center"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -840,7 +840,7 @@
 			//"visible"		"1"
 			
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"center"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -863,7 +863,7 @@
 			//"visible"		"1"
 			
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"center"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -886,7 +886,7 @@
 			//"visible"		"1"
 			
 			
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"		"center"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
@@ -1018,7 +1018,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -1083,7 +1083,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -1193,7 +1193,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -1240,7 +1240,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -1305,7 +1305,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -1415,7 +1415,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -1462,7 +1462,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -1527,7 +1527,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -1636,7 +1636,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -1683,7 +1683,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"

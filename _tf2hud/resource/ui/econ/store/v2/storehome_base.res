@@ -14,7 +14,7 @@
 		
 		
 		"settitlebarvisible"	"0"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override"	"TanDarker"
 		"infocus_bgcolor_override" "TanDarker"
 		"outoffocus_bgcolor_override" "TanDarker"
@@ -516,7 +516,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
 		"font"			"HudFontSmallest"
-		"labelText"		""
+		"labeltext"		""
 		//"textAlignment"	"west"
 		"xpos"			"c-45"
 		"ypos"			"c-230"

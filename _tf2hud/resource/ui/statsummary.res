@@ -469,7 +469,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarBG1B"
 		{
@@ -490,7 +490,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar1A"
 		{
@@ -511,7 +511,7 @@
 			
 				
 			"fillcolor"		"162 148 135 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar1B"
 		{
@@ -532,7 +532,7 @@
 			
 				
 			"fillcolor"		"162 148 135 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel1A"
 		{
@@ -618,7 +618,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBarBG2B"
 		{
@@ -639,7 +639,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar2A"
 		{
@@ -660,7 +660,7 @@
 			
 				
 			"fillcolor"		"93 60 27 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBar2B"
 		{
@@ -681,7 +681,7 @@
 			
 				
 			"fillcolor"		"93 60 27 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel2A"
 		{
@@ -767,7 +767,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBarBG3B"
 		{
@@ -788,7 +788,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar3A"
 		{
@@ -809,7 +809,7 @@
 			
 				
 			"fillcolor"		"134 93 39 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBar3B"
 		{
@@ -830,7 +830,7 @@
 			
 				
 			"fillcolor"		"134 93 39 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel3A"
 		{
@@ -916,7 +916,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBarBG4B"
 		{
@@ -937,7 +937,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar4A"
 		{
@@ -958,7 +958,7 @@
 			
 				
 			"fillcolor"		"207 147 95 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBar4B"
 		{
@@ -979,7 +979,7 @@
 			
 				
 			"fillcolor"		"207 147 95 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel4A"
 		{
@@ -1065,7 +1065,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBarBG5B"
 		{
@@ -1086,7 +1086,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar5A"
 		{
@@ -1107,7 +1107,7 @@
 			
 				
 			"fillcolor"		"226 184 146 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBar5B"
 		{
@@ -1128,7 +1128,7 @@
 			
 				
 			"fillcolor"		"226 184 146 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel5A"
 		{
@@ -1214,7 +1214,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBarBG6B"
 		{
@@ -1235,7 +1235,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar6A"
 		{
@@ -1256,7 +1256,7 @@
 			
 				
 			"fillcolor"		"162 148 135 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBar6B"
 		{
@@ -1277,7 +1277,7 @@
 			
 				
 			"fillcolor"		"162 148 135 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel6A"
 		{
@@ -1363,7 +1363,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBarBG7B"
 		{
@@ -1384,7 +1384,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar7A"
 		{
@@ -1405,7 +1405,7 @@
 			
 				
 			"fillcolor"		"93 60 27 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBar7B"
 		{
@@ -1426,7 +1426,7 @@
 			
 				
 			"fillcolor"		"93 60 27 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel7A"
 		{
@@ -1512,7 +1512,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBarBG8B"
 		{
@@ -1533,7 +1533,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar8A"
 		{
@@ -1554,7 +1554,7 @@
 			
 				
 			"fillcolor"		"134 93 39 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBar8B"
 		{
@@ -1575,7 +1575,7 @@
 			
 				
 			"fillcolor"		"134 93 39 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel8A"
 		{
@@ -1661,7 +1661,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBarBG9B"
 		{
@@ -1682,7 +1682,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar9A"
 		{
@@ -1703,7 +1703,7 @@
 			
 				
 			"fillcolor"		"207 147 95 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBar9B"
 		{
@@ -1724,7 +1724,7 @@
 			
 				
 			"fillcolor"		"207 147 95 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel9A"
 		{
@@ -1854,7 +1854,7 @@
 			
 				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"RecordsLabel"
 		{

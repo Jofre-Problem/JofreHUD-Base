@@ -13,7 +13,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"settitlebarvisible"		"1"
 		"title"		"#ServerBrowser_ServerWarningTitle"
 	}
@@ -30,7 +30,7 @@
 		//"visible"		"1"
 		
 		
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"%warning%"
 		//"textAlignment"		"west"
 		"wrap"		"1"
@@ -48,7 +48,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"7"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerWarningCheckButton"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -67,7 +67,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"2"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerWarningOk"
 		//"textAlignment"		"west"
 		//"wrap"		"0"
@@ -87,7 +87,7 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"4"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Cancel"
 		//"textAlignment"		"west"
 		//"wrap"		"0"

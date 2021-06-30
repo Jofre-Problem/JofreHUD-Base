@@ -613,7 +613,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"0"
@@ -669,7 +669,7 @@
 				"sound_armed"		"UI/buttonrollover.wav"
 			
 				"paintbackground"	"0"
-				"paintbackgroundtype"	"0"
+				//"PaintBackgroundType"	"0"
 				"defaultBgColor_Override"	"0 0 0 255"
 			
 				"paintborder"		"0"
@@ -876,7 +876,7 @@
 		"tall"					"250"
 		"bgcolor_override"		"46 43 42 0"
 		"paintborder"			"0"
-		"paintbackgroundtype"	"0"
+		//"PaintBackgroundType"	"0"
 		"proportionaltoparent"	"1"
 
 		"PaperContainer"
@@ -1001,7 +1001,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"f0"
 			"tall"			"f0"
 			//"visible"		"1"
@@ -1211,7 +1211,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -1276,7 +1276,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -1386,7 +1386,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -1434,7 +1434,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -1564,7 +1564,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -1631,7 +1631,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"
@@ -1741,7 +1741,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -1789,7 +1789,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
 				//"visible"		"1"

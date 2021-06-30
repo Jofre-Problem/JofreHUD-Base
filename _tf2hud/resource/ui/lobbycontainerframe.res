@@ -14,7 +14,7 @@
 		
 		
 		"settitlebarvisible"	"1"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override"				"46 43 42 0"
 		"infocus_bgcolor_override"		"46 43 42 0"
 		"outoffocus_bgcolor_override"	"46 43 42 0"
@@ -129,7 +129,7 @@
 		//"visible"		"1"
 		
 		
-		"labelText"		""
+		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		//"dulltext"		"0"

@@ -216,7 +216,7 @@
 				"visible"		"0"
 				
 				"bgcolor_override"		"Black"
-				"PaintBackgroundType"	"0"
+				//"PaintBackgroundType"	"0"
 				
 				if_mvm
 				{

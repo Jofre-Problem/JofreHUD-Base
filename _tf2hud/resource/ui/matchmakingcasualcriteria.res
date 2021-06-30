@@ -66,7 +66,7 @@
 			//"visible"		"1"
 			
 			
-			"labelText"		""
+			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			//"dulltext"		"0"
@@ -109,7 +109,7 @@
 			//"visible"		"1"
 			
 			
-			"labelText"		""
+			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			//"dulltext"		"0"

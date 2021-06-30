@@ -37,7 +37,7 @@
 			"tall"			"20"
 			//"visible"		"1"
 			"bgcolor_override"		"Blank"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 			//"paintborder"	"0"
 			
 			"skip_autoresize" "1"

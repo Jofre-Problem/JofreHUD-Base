@@ -126,7 +126,7 @@
 			//"visible"		"1"
 			
 			"tabPosition"	"5"
-			"labelText"		""
+			"labeltext"		""
 			//"textAlignment"		"west"
 			//"dulltext"		"0"
 			//"brighttext"		"0"

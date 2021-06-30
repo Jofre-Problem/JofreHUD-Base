@@ -10,7 +10,7 @@
 		"wide"					"200"
 		"tall"					"110"
 		"bgcolor_override"		"46 43 42 0"
-		"paintbackgroundtype"	"0"
+		//"PaintBackgroundType"	"0"
 		"settitlebarvisible"	"0"
 		"border"				"GrayDialogBorder"
 	}
@@ -31,7 +31,7 @@
 		
 		//"wrap"			"0"
 		//"centerwrap"	"0"
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"		"center"
 		"bgcolor_override" "Blank"
 	}

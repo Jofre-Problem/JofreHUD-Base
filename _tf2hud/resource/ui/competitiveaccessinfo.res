@@ -133,7 +133,7 @@
 				"wide"			"f0"
 				"tall"			"f0"
 				//"visible"		"1"
-				"PaintBackgroundType"	"0"
+				//"PaintBackgroundType"	"0"
 				"proportionaltoparent"	"1"
 
 				"paintborder"	"1"
@@ -154,7 +154,7 @@
 				
 				
 				//"Default"		"1"
-				"labelText"		""
+				"labeltext"		""
 				"command"		"addpremium"
 				"proportionaltoparent"	"1"
 				"actionsignallevel"	"3"
@@ -237,7 +237,7 @@
 				
 				
 				//"Default"		"1"
-				"labelText"		""
+				"labeltext"		""
 				"command"		"addphone"
 				"proportionaltoparent"	"1"
 				"actionsignallevel"	"3"
@@ -339,7 +339,7 @@
 				
 				
 				//"Default"		"1"
-				"labelText"		""
+				"labeltext"		""
 				"command"		"open_casual"
 				"proportionaltoparent"	"1"
 				"actionsignallevel"	"3"

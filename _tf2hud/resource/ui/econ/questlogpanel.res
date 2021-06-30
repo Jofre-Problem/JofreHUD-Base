@@ -185,7 +185,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -244,7 +244,7 @@
 			"wide"			"30"
 			"tall"			"30"
 			//"visible"		"1"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 			//"paintborder"	"0"
 			"proportionaltoparent"	"1"
 		
@@ -330,7 +330,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"BadgeProgressMeterText"
 				"font"			"AdFont_AdText"
-				"labelText"		""
+				"labeltext"		""
 				"textAlignment"	"center"
 				
 				
@@ -410,7 +410,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"ContractsCompletedProgressMeterText"
 				"font"			"AdFont_AdText"
-				"labelText"		""
+				"labeltext"		""
 				"textAlignment"	"center"
 				
 				

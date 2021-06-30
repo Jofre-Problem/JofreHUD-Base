@@ -97,7 +97,7 @@
 		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"TanDark"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 			
 		"model_ypos"	"5"
@@ -132,7 +132,7 @@
 		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"TanDark"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 
 		"model_ypos"	"5"
@@ -167,7 +167,7 @@
 		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"TanDark"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 			
 		"model_ypos"	"5"
@@ -202,7 +202,7 @@
 		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"TanDark"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 			
 		"model_ypos"	"5"
@@ -237,7 +237,7 @@
 		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"TanDark"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 			
 		"model_ypos"	"5"
@@ -272,7 +272,7 @@
 		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"TanDark"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 			
 		"model_ypos"	"5"
@@ -307,7 +307,7 @@
 		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"TanDark"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 			
 		"model_ypos"	"5"
@@ -342,7 +342,7 @@
 		//"visible"		"1"
 		"bgcolor_override"		"Blank"
 		"noitem_textcolor"		"TanDark"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 			
 		"model_ypos"	"5"

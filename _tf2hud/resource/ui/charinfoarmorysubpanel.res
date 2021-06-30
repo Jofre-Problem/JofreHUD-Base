@@ -12,7 +12,7 @@
 		
 		
 		"settitlebarvisible"	"0"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override"	"TanDarker"
 		"infocus_bgcolor_override" "TanDarker"
 		"outoffocus_bgcolor_override" "TanDarker"
@@ -154,7 +154,7 @@
 		"wide"			"270"
 		"tall"			"253"
 		//"visible"		"1"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 		"border"		"StorePreviewBorder"
 
@@ -427,7 +427,7 @@
 		"xpos"			"c-180"
 		"ypos"			"345"
 		"zpos"			"25"
-		"wide"			"100"
+		"wide"			"0"
 		"tall"			"15"
 		
 		

@@ -31,7 +31,7 @@
 		"tabPosition"	"10"
 		"bgcolor_override"	"ReplayBrowser.BgColor"
 		"border"		"EconItemBorder"
-		"paintbackgroundtype"	"0"
+		//"PaintBackgroundType"	"0"
 		"paintborder"		"1"
 		//"paintbackground"	"1"
 		

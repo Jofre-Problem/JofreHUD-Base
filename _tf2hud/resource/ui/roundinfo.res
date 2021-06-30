@@ -163,7 +163,7 @@
 			
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}	
 	
 	"Footer" [$X360]

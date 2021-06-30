@@ -83,7 +83,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"7"
+			//"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
 			//"visible"		"1"
@@ -173,7 +173,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"7"
+			//"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
 			//"visible"		"1"
@@ -237,7 +237,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"7"
+			//"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
 			//"visible"		"1"
@@ -300,7 +300,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"7"
+			//"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
 			//"visible"		"1"
@@ -389,7 +389,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"7"
+			//"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
 			//"visible"		"1"
@@ -451,7 +451,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"7"
+			//"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
 			//"visible"		"1"
@@ -512,7 +512,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"7"
+			//"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
 			//"visible"		"1"
@@ -602,7 +602,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"7"
+			//"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
 			//"visible"		"1"
@@ -665,7 +665,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"7"
+			//"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
 			//"visible"		"1"
@@ -728,7 +728,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"7"
+			//"zpos"			"7"
 			"wide"			"50"
 			"tall"			"100"
 			//"visible"		"1"
@@ -901,7 +901,7 @@
 			
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}		
 	
 	"Footer" [$X360]
@@ -1587,7 +1587,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				//"visible"		"1"
@@ -1759,7 +1759,7 @@
 				"fieldName"		"SubImage"
 				
 				
-				"zpos"			"1"
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
 				////"visible"		"1"

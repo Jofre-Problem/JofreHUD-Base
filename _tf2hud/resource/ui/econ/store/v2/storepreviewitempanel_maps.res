@@ -28,7 +28,7 @@
 		"tall"			"f0"
 		//"visible"		"1"
 		
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override" "0 0 0 128"
 	}
 	
@@ -77,7 +77,7 @@
 			//"visible"		"1"
 			
 			//"paintborder"	"0"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 			//"paintbackground"	"1"
 			"bgcolor_override" "50 46 41 255"
 		}
@@ -557,7 +557,7 @@
 			"fieldName"		"SubImage"
 			
 			
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
 			//"visible"		"1"
