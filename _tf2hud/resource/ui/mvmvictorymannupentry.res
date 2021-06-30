@@ -545,11 +545,11 @@
 		{
 			"force_pos"	"1"
 	
-			"angles_x" "0"
+			//"angles_x" "0"
 			"angles_y" "172"
-			"angles_z" "0"
+			//"angles_z" "0"
 			"origin_x" "400"
-			"origin_y" "0"
+			//"origin_y" "0"
 			"origin_z" "-50"
 			"frame_origin_x"	"0"
 			"frame_origin_y"	"0"

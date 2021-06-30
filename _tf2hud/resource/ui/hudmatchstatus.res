@@ -31,9 +31,9 @@
 			"skin"		"0"
 			"angles_x"	"30"
 			"angles_y"	"180"
-			"angles_z"	"0"
+			//"angles_z"	"0"
 			"origin_x"	"150"
-			"origin_y"	"0"
+			//"origin_y"	"0"
 			"origin_z"	"62"
 			"spotlight"	"1"
 
@@ -161,11 +161,11 @@
 		{
 			"modelname"	"models/vgui/versus_doors.mdl"
 			"skin"		"0"
-			"angles_x"	"0"
-			"angles_y"	"0"
-			"angles_z"	"0"
+			//"angles_x"	"0"
+			//"angles_y"	"0"
+			//"angles_z"	"0"
 			"origin_x"	"120"
-			"origin_y"	"0"
+			//"origin_y"	"0"
 			"origin_z"	"-77"
 
 			"animation"

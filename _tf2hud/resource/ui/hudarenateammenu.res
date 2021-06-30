@@ -213,13 +213,13 @@
 		{
 			"modelname"	"models/vgui/ui_arena01.mdl"
 			"skin"		"0"
-			"angles_x" "0"
+			//"angles_x" "0"
 			"angles_y" "180"
-			"angles_z" "0"
+			//"angles_z" "0"
 			"origin_x" "290"
 			//"origin_x_hidef" "305"
 			//"origin_x_lodef" "320"
-			"origin_y" "0"
+			//"origin_y" "0"
 			"origin_z" "-34"
 		}
 	}	
@@ -267,13 +267,13 @@
 		{
 			"modelname"	"models/vgui/ui_arenadoor01.mdl"
 			"skin"		"0"
-			"angles_x" "0"
+			//"angles_x" "0"
 			"angles_y" "180"
-			"angles_z" "0"
+			//"angles_z" "0"
 			"origin_x" "290"
 			//"origin_x_lodef" "320"
 			//"origin_x_hidef" "305"
-			"origin_y" "0"
+			//"origin_y" "0"
 			"origin_z" "-34"
 			
 			"animation"
@@ -316,13 +316,13 @@
 		{
 			"modelname"	"models/vgui/UI_team01_spectate.mdl"
 			"skin"		"0"
-			"angles_x" "0"
+			//"angles_x" "0"
 			"angles_y" "180"
-			"angles_z" "0"
+			//"angles_z" "0"
 			"origin_x" "290"
 			//"origin_x_lodef" "320"
 			//"origin_x_hidef" "305"
-			"origin_y" "0"
+			//"origin_y" "0"
 			"origin_z" "-34"
 			
 			"animation"
