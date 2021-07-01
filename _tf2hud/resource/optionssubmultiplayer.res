@@ -306,12 +306,12 @@
 		
 		
 		"image"		"logos/UI/spray"
-		"border"		"DepressedBorder"
+		//"border"		"DepressedBorder"
 		"scaleImage"		"1"
 		//"scaleAmount"		"0.000000"
 		//"tileImage"		"0"
-		"tileHorizontally"		"0"
-		"tileVertically"		"0"
+		//"tileHorizontally"		"0"
+		//"tileVertically"		"0"
 	}
 	"CrosshairColorComboBox"
 	{
@@ -402,7 +402,7 @@
 		
 		
 		"image"		"crosshair_bg"
-		"border"		"DepressedBorder"
+		//"border"		"DepressedBorder"
 		//"scaleImage"		"0"
 		//"scaleAmount"		"0.000000"
 		//"tileImage"		"0"
@@ -524,7 +524,7 @@
 		
 		
 		"image"		"crosshair_bg"
-		"border"		"DepressedBorder"
+		//"border"		"DepressedBorder"
 		"scaleImage"		"1"
 		//"scaleAmount"		"0.000000"
 		//"tileImage"		"0"
