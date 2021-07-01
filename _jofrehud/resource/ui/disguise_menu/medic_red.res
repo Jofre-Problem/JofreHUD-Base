@@ -11,11 +11,6 @@
 
 #base "../base/build-more/newnumberlabel/main.res"
 // #base "../base/build-more/newnumberlabel/enabled1.res"
-// CONGRATS
-// YOU JUST FOUND A JOFRE COIN
-// CONTACT ME ON STEAM FOR A PRIZE, BUT YOU NEED TO ASK QUESTIONSSSSADNWNADF
-// AWNFIAF+NAWFNÓAWFÁWFWAFNOAWFNAOFNA
-// WNF+JANF+OWNA+OFNAONFANF
 
 
 #base "../base/build-more/numberlabel/main.res"
