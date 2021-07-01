@@ -1,0 +1,4 @@
+	#base "../_stream/scripts/weapon_ifm_steadycam.txt"
+	#base "../_jofrenew/scripts/weapon_ifm_steadycam.txt"
+	#base "../_jofrehud/scripts/weapon_ifm_steadycam.txt"
+	#base "../_tf2hud/scripts/weapon_ifm_steadycam.txt

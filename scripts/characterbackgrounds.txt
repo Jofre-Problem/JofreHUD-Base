@@ -1,0 +1,4 @@
+	#base "../_stream/scripts/characterbackgrounds.txt"
+	#base "../_jofrenew/scripts/characterbackgrounds.txt"
+	#base "../_jofrehud/scripts/characterbackgrounds.txt"
+	#base "../_tf2hud/scripts/characterbackgrounds.txt
