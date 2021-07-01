@@ -12,3 +12,5 @@ HudOffWhite
 
 117 107 94 255"
 TanDark
+
+image_draw3### doesnt work on scheme definitions

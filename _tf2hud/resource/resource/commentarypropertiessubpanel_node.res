@@ -23,7 +23,7 @@
 		"wide"		"680"
 		"tall"		"24"
 		"autoResize"		"1"
-		"UnpinnedCornerOffsetX" "-20"
+		//"UnpinnedCornerOffsetX" "-20"
 		
 		//"visible"		"1"
 		
@@ -64,7 +64,7 @@
 		"wide"		"204"
 		"tall"		"24"
 		"autoResize"		"1"
-		"UnpinnedCornerOffsetX" "-88"
+		//"UnpinnedCornerOffsetX" "-88"
 		
 		//"visible"		"1"
 		"enabled"		"0"
@@ -85,7 +85,7 @@
 		"tall"		"20"
 		
 		"pinCorner"		"1"
-		"PinnedCornerOffsetX" "-20"
+		//"PinnedCornerOffsetX" "-20"
 		//"visible"		"1"
 		
 		
@@ -105,7 +105,7 @@
 		"wide"		"662"
 		"tall"		"24"
 		"autoResize"		"1"
-		"UnpinnedCornerOffsetX" "-20"
+		//"UnpinnedCornerOffsetX" "-20"
 		
 		//"visible"		"1"
 		
@@ -125,7 +125,7 @@
 		"wide"		"663"
 		"tall"		"24"
 		"autoResize"		"1"
-		"UnpinnedCornerOffsetX" "-20"
+		//"UnpinnedCornerOffsetX" "-20"
 		
 		//"visible"		"1"
 		
@@ -185,7 +185,7 @@
 		"wide"		"500"
 		"tall"		"24"
 		"autoResize"		"1"
-		"UnpinnedCornerOffsetX" "-20"
+		//"UnpinnedCornerOffsetX" "-20"
 		
 		//"visible"		"1"
 		"enabled"		"0"
@@ -205,7 +205,7 @@
 		"wide"		"633"
 		"tall"		"24"
 		"autoResize"		"1"
-		"UnpinnedCornerOffsetX" "-20"
+		//"UnpinnedCornerOffsetX" "-20"
 		
 		//"visible"		"1"
 		"enabled"		"0"
@@ -245,7 +245,7 @@
 		"wide"		"622"
 		"tall"		"24"
 		"autoResize"		"1"
-		"UnpinnedCornerOffsetX" "-20"
+		//"UnpinnedCornerOffsetX" "-20"
 		
 		//"visible"		"1"
 		
@@ -265,7 +265,7 @@
 		"wide"		"623"
 		"tall"		"24"
 		"autoResize"		"1"
-		"UnpinnedCornerOffsetX" "-20"
+		//"UnpinnedCornerOffsetX" "-20"
 		
 		//"visible"		"1"
 		
@@ -784,7 +784,7 @@
 		"wide"		"500"
 		"tall"		"2"
 		"autoResize"		"1"
-		"UnpinnedCornerOffsetX" "-20"
+		//"UnpinnedCornerOffsetX" "-20"
 		
 		//"visible"		"1"
 		
@@ -799,7 +799,7 @@
 		"wide"		"500"
 		"tall"		"2"
 		"autoResize"		"1"
-		"UnpinnedCornerOffsetX" "-20"
+		//"UnpinnedCornerOffsetX" "-20"
 		
 		//"visible"		"1"
 		
@@ -814,7 +814,7 @@
 		"wide"		"500"
 		"tall"		"2"
 		"autoResize"		"1"
-		"UnpinnedCornerOffsetX" "-20"
+		//"UnpinnedCornerOffsetX" "-20"
 		
 		//"visible"		"1"
 		
@@ -829,7 +829,7 @@
 		"wide"		"500"
 		"tall"		"2"
 		"autoResize"		"1"
-		"UnpinnedCornerOffsetX" "-20"
+		//"UnpinnedCornerOffsetX" "-20"
 		
 		//"visible"		"1"
 		

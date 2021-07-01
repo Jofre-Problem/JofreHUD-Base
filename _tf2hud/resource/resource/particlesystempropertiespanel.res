@@ -26,8 +26,8 @@
 				"tall"			"24"
 				"AutoResize"	"1"
 				
-				"PinnedCornerOffsetX" "6"
-				"UnpinnedCornerOffsetX" "-6"
+				//"PinnedCornerOffsetX" "6"
+				//"UnpinnedCornerOffsetX" "-6"
 				//"visible"		"1"
 				
 				"tabPosition"	"1"
@@ -46,7 +46,7 @@
 				"AutoResize"	"3"
 				
 				
-				"PinnedCornerOffsetY" "30"
+				//"PinnedCornerOffsetY" "30"
 				
 				
 				//"visible"		"1"
@@ -65,10 +65,10 @@
 				
 				
 				"AutoResize"	"3"
-				"PinnedCornerOffsetX" "6"
-				"PinnedCornerOffsetY" "6"
-				"UnpinnedCornerOffsetX" "-6"
-				"UnpinnedCornerOffsetY" "-6"
+				//"PinnedCornerOffsetX" "6"
+				//"PinnedCornerOffsetY" "6"
+				//"UnpinnedCornerOffsetX" "-6"
+				//"UnpinnedCornerOffsetY" "-6"
 			}
 		}
 	}

@@ -27,10 +27,10 @@
 		//"visible"		"1"
 		
 		"tabPosition"		"1"
-		"PinnedCornerOffsetX" "6"
-		"PinnedCornerOffsetY" "36"
-		"UnpinnedCornerOffsetX" "-104"
-		"UnpinnedCornerOffsetY" "-36"
+		//"PinnedCornerOffsetX" "6"
+		//"PinnedCornerOffsetY" "36"
+		//"UnpinnedCornerOffsetX" "-104"
+		//"UnpinnedCornerOffsetY" "-36"
 	}
 	"CreateButton"
 	{
@@ -52,8 +52,8 @@
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
-		"PinnedCornerOffsetX" "-6"
-		"PinnedCornerOffsetY" "36"
+		//"PinnedCornerOffsetX" "-6"
+		//"PinnedCornerOffsetY" "36"
 		"command"		"Create"
 	}
 	"DeleteButton"
@@ -76,8 +76,8 @@
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
-		"PinnedCornerOffsetX" "-6"
-		"PinnedCornerOffsetY" "70"
+		//"PinnedCornerOffsetX" "-6"
+		//"PinnedCornerOffsetY" "70"
 		"command"		"Delete"
 	}
 	"CopyButton"
@@ -100,8 +100,8 @@
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
-		"PinnedCornerOffsetX" "-6"
-		"PinnedCornerOffsetY" "106"
+		//"PinnedCornerOffsetX" "-6"
+		//"PinnedCornerOffsetY" "106"
 		"command"		"Copy"
 	}
 	"PrefabButton"
@@ -124,8 +124,8 @@
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
-		"PinnedCornerOffsetX" "-6"
-		"PinnedCornerOffsetY" "142"
+		//"PinnedCornerOffsetX" "-6"
+		//"PinnedCornerOffsetY" "142"
 		"command"		"Create From KeyValue"
 	}
 	"SaveButton"
@@ -148,8 +148,8 @@
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
-		"PinnedCornerOffsetX" "20"
-		"PinnedCornerOffsetY" "-6"
+		//"PinnedCornerOffsetX" "20"
+		//"PinnedCornerOffsetY" "-6"
 		"command"		"Save"
 	}
 	"SaveAndTestButton"
@@ -172,8 +172,8 @@
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
-		"PinnedCornerOffsetX" "130"
-		"PinnedCornerOffsetY" "-6"
+		//"PinnedCornerOffsetX" "130"
+		//"PinnedCornerOffsetY" "-6"
 		"command"		"SaveAndTest"
 	}
 	"ParticleSystemsLabel"
