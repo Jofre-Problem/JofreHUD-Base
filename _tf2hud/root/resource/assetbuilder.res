@@ -29,7 +29,7 @@
 			
 			
 			
-			//"UnpinnedCornerOffsetY" "-30"
+			"UnpinnedCornerOffsetY" "-30"
 			//"visible"		"1"
 			
 			"tabPosition"	"1"
@@ -81,7 +81,7 @@
 			"tall"			"24"
 			"AutoResize"	"1"
 			"PinCorner"		"2"
-			//"UnpinnedCornerOffsetX" "-124"
+			"UnpinnedCornerOffsetX" "-124"
 			
 			"labelText"		"#AssetBuilder_Publish"
 			//"visible"		"1"

@@ -23,7 +23,7 @@
 		"wide"		"680"
 		"tall"		"24"
 		"autoResize"		"1"
-		//"UnpinnedCornerOffsetX" "-20"
+		"UnpinnedCornerOffsetX" "-20"
 		
 		//"visible"		"1"
 		
@@ -349,7 +349,7 @@
 		"wide"		"500"
 		"tall"		"2"
 		"autoResize"		"1"
-		//"UnpinnedCornerOffsetX" "-20"
+		"UnpinnedCornerOffsetX" "-20"
 		
 		//"visible"		"1"
 		

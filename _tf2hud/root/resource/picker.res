@@ -27,7 +27,7 @@
 			"AutoResize"	"3"
 			
 			//"UnpinnedCornerOffsetX" "-6"
-			//"UnpinnedCornerOffsetY" "-34"
+			"UnpinnedCornerOffsetY" "-34"
 			//"visible"		"1"
 			
 			"tabPosition"	"1"
@@ -43,8 +43,8 @@
 			"tall"			"24"
 			
 			"pinCorner"		"2"
-			//"PinnedCornerOffsetX" "6"
-			//"PinnedCornerOffsetY" "-6"
+			"pinnedCornerOffsetX" "6"
+			"pinnedCornerOffsetY" "-6"
 			//"visible"		"1"
 			
 			
@@ -64,8 +64,8 @@
 			"tall"			"24"
 			"AutoResize"	"1"
 			"PinCorner"		"2"
-			//"PinnedCornerOffsetX" "85"
-			//"PinnedCornerOffsetY" "-6"
+			"pinnedCornerOffsetX" "85"
+			"pinnedCornerOffsetY" "-6"
 			//"UnpinnedCornerOffsetX" "-6"
 			//"visible"		"1"
 			

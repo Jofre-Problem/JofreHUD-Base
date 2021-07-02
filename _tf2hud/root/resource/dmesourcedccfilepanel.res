@@ -11,7 +11,7 @@
 		"AutoResize"	"3"
 		
 		
-		//"UnpinnedCornerOffsetY" "-60"
+		"UnpinnedCornerOffsetY" "-60"
 		//"visible"		"1"
 		
 		
@@ -27,7 +27,7 @@
 		"tall"			"24"
 		
 		"PinCorner"		"2"
-		//"PinnedCornerOffsetY" "-30"
+		"pinnedCornerOffsetY" "-30"
 		"labelText"		"#AssetBuilder_AddSource"
 		//"visible"		"1"
 		
@@ -44,7 +44,7 @@
 		"tall"			"24"
 		
 		"PinCorner"		"3"
-		//"PinnedCornerOffsetY" "-30"
+		"pinnedCornerOffsetY" "-30"
 		
 		"labelText"		"#AssetBuilder_RemoveSource"
 		//"visible"		"1"

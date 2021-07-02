@@ -47,7 +47,7 @@
 			"AutoResize"	"3"
 			
 			//"UnpinnedCornerOffsetX" "-6"
-			//"UnpinnedCornerOffsetY" "-34"
+			"UnpinnedCornerOffsetY" "-34"
 			//"visible"		"1"
 			
 			
