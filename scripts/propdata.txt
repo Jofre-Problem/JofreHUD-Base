@@ -1,4 +1,0 @@
-	#base "../_stream/scripts/propdata.txt"
-	#base "../_jofrenew/scripts/propdata.txt"
-	#base "../_jofrehud/scripts/propdata.txt"
-	#base "../_tf2hud/scripts/propdata.txt
