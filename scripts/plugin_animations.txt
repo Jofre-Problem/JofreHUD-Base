@@ -1,3 +1,24 @@
 event AskConnectShow
 {
+
+}
+
+event AskConnectHide
+{
+
+}
+
+event PluginMessageShow
+{
+
+}
+
+event PluginMessageSmall
+{
+
+}
+
+event PluginMessageHide
+{
+
 }

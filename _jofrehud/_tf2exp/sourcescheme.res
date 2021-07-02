@@ -207,17 +207,15 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"			"16"
-				"antialias"		"1"
 			}
 		}
 		
-		AchievementItemTitleLarge	[$WIN32]
+		AchievementItemTitleLarge
 		{
 			"1"
 			{
 				"name"		"Segoe UI"
 				"tall"			"19"
-				"antialias"		"1"
 			}
 		}
 		

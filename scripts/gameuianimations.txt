@@ -1,3 +1,197 @@
+
+// No-operation event used for timing delays
 event Nothing
+{
+}
+
+// Setup menu system 
+event InitializeUILayout
+{
+}
+
+//-----------------------------------------------------------------------------
+//	MAIN MENU
+//-----------------------------------------------------------------------------
+
+event OpenMainMenu
+{	
+
+}
+
+event ShowMainMenu
+{
+}
+
+event HideMainMenu
+{
+
+}
+
+event InstantHideMainMenu
+{
+
+}
+
+//-----------------------------------------------------------------------------
+//	MATCHMAKING MAIN MENU
+//-----------------------------------------------------------------------------
+
+event OpenMatchmakingBasePanel
+{	
+
+}
+
+event ShowMatchmakingBasePanel
+{
+}
+
+event HideMatchmakingBasePanel
+{
+}
+
+event ShowMatchmakingFooter
+{
+}
+
+event HideMatchmakingFooter
+{
+}
+
+//-----------------------------------------------------------------------------
+//	IN-GAME MENU
+//-----------------------------------------------------------------------------
+
+// Open "PauseMenu"
+event OpenPauseMenu
+{
+}
+
+//-----------------------------------------------------------------------------
+//	NEW GAME DIALOG
+//-----------------------------------------------------------------------------
+
+event OpenNewGameDialog
+{
+}
+
+// Close "NewGame" and Open "MainMenu"
+event CloseNewGameDialog_OpenMainMenu
+{
+}
+
+// Close "NewGame" and prep for starting game
+event CloseNewGameDialog
+{
+}
+
+//-----------------------------------------------------------------------------
+//	COMMENTARY DIALOG
+//-----------------------------------------------------------------------------
+
+event OpenLoadSingleplayerCommentaryDialog
+{
+}
+
+//-----------------------------------------------------------------------------
+//	LOAD GAME DIALOG
+//-----------------------------------------------------------------------------
+
+event OpenLoadGameDialog
+{
+}
+
+
+event CloseLoadGameDialog_OpenMainMenu
+{
+}
+
+
+//-----------------------------------------------------------------------------
+//	SAVE GAME DIALOG
+//-----------------------------------------------------------------------------
+
+event OpenSaveGameDialog
+{
+}
+
+
+event CloseSaveGameDialog_OpenMainMenu
+{
+}
+
+
+//-----------------------------------------------------------------------------
+//	CONTROLLER DIALOG
+//-----------------------------------------------------------------------------
+
+event OpenControllerDialog
+{
+}
+
+
+event CloseControllerDialog_OpenMainMenu
+{
+}
+
+//-----------------------------------------------------------------------------
+//	OPTIONS DIALOG
+//-----------------------------------------------------------------------------
+
+event OpenOptionsDialog
+{
+}
+
+
+event CloseOptionsDialog_OpenMainMenu
+{
+}
+
+//-----------------------------------------------------------------------------
+//	QUIT DIALOG
+//-----------------------------------------------------------------------------
+
+// Open the Quit Dialog
+event Quit
+{
+}
+
+
+// Close "Quit" and Open "MainMenu"
+event CloseQuitDialog_OpenMainMenu
+{
+}
+
+
+// Close "Quit" and Open "MainMenu"
+event CloseQuitDialog_OpenMatchmakingMenu
+{
+}
+
+	
+event QuitNoConfirm
+{
+}
+
+
+//-----------------------------------------------------------------------------
+//	MATCHMAKING LOBBY DIALOG
+//-----------------------------------------------------------------------------
+
+// Close matchmaking base panel and prep for starting game
+event CloseMatchmakingUI
+{
+}
+
+
+//-----------------------------------------------------------------------------
+//	ACHIEVEMENTS DIALOG
+//-----------------------------------------------------------------------------
+
+event OpenAchievementsDialog
+{
+}
+
+
+event CloseAchievementsDialog_OpenMainMenu
 {
 }
