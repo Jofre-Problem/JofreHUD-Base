@@ -5,8 +5,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"		"ReplayMessagePanel"
 		"zpos"			"1000"
-		"tall"			"84"	[$WIN32]
-		"tall_minmode"			"0"	[$WIN32]
+		"tall"			"84"
 		"wide"			"200"
 		
 		//"visible"		"1"
@@ -27,7 +26,7 @@
 		
 		"labelText"		"#Replay_ReplayMsgTitle"
 		"textAlignment"	"north-west"
-		//test//"fgcolor"		"TanLight"
+		"fgcolor"		"TanLight"
 	}
 	"MessageLabel"
 	{

@@ -8,9 +8,7 @@ Scheme
         {
 			"1"
 			{
-			"name"           "Verdana"
-			"weight"         "600"
-			"outline"        "1"
+			"name"           "Segoe UI"
 			}
 		}	
 		"MainMenuFont"

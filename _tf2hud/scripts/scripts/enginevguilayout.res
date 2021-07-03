@@ -3,7 +3,7 @@
 	BudgetPanel
 	{
 		"fieldName" "BudgetPanel"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -12,7 +12,7 @@
 	TextureBudgetPanel
 	{
 		"fieldName" "TextureBudgetPanel"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"

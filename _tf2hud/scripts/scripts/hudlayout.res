@@ -7,7 +7,7 @@
 		"ypos"	"432"
 		"wide"	"102"
 		"tall"  "36"
-		"visible" "1"
+		//"visible" "1"
 		
 
 		"PaintBackgroundType"	"2"
@@ -24,7 +24,7 @@
 		"ypos"	"416"
 		"wide"	"115"
 		"tall"  "36"
-		"visible" "1"
+		//"visible" "1"
 		
 
 		"PaintBackgroundType"	"2"
@@ -42,7 +42,7 @@
 		"ypos"	"432"
 		"wide"	"108"
 		"tall"  "36"
-		"visible" "1"
+		//"visible" "1"
 		
 
 		"PaintBackgroundType"	"2"
@@ -59,7 +59,7 @@
 		"ypos"	"416"
 		"wide"	"117"
 		"tall"  "36"
-		"visible" "1"
+		//"visible" "1"
 		
 
 		"PaintBackgroundType"	"2"
@@ -77,7 +77,7 @@
 		"ypos"	"432"
 		"wide"	"136"
 		"tall"  "36"
-		"visible" "1"
+		//"visible" "1"
 		
 
 		"PaintBackgroundType"	"2"
@@ -96,7 +96,7 @@
 		"ypos"	"416"
 		"wide"	"160"
 		"tall"  "36"
-		"visible" "1"
+		//"visible" "1"
 		
 
 		"PaintBackgroundType"	"2"
@@ -116,7 +116,7 @@
 		"ypos"	"432"
 		"wide"	"60"
 		"tall"  "36"
-		"visible" "1"
+		//"visible" "1"
 		
 
 		"PaintBackgroundType"	"2"
@@ -133,7 +133,7 @@
 		"ypos"	"416"
 		"wide"	"65"
 		"tall"  "36"
-		"visible" "1"
+		//"visible" "1"
 		
 
 		"PaintBackgroundType"	"2"
@@ -147,7 +147,7 @@
 	HudSuitPower	[$WIN32]
 	{
 		"fieldName" "HudSuitPower"
-		"visible" "1"
+		//"visible" "1"
 		
 		"xpos"	"16"
 		"ypos"	"396"
@@ -176,7 +176,7 @@
 	HudSuitPower	[$X360]
 	{
 		"fieldName" "HudSuitPower"
-		"visible" "1"
+		//"visible" "1"
 		
 		"xpos"	"48"
 		"ypos"	"370"
@@ -233,7 +233,7 @@
 	HudFlashlight
 	{
 		"fieldName" "HudFlashlight"
-		"visible" "1"
+		//"visible" "1"
 		"PaintBackgroundType"	"2"
 		"xpos"	"270"		[$WIN32]
 		"ypos"	"444"		[$WIN32]
@@ -257,7 +257,7 @@
 	HudDamageIndicator
 	{
 		"fieldName" "HudDamageIndicator"
-		"visible" "1"
+		//"visible" "1"
 		
 		"DmgColorLeft" "255 0 0 0"
 		"DmgColorRight" "255 0 0 0"
@@ -272,7 +272,7 @@
 	HudZoom
 	{
 		"fieldName" "HudZoom"
-		"visible" "1"
+		//"visible" "1"
 		
 		"Circle1Radius" "66"
 		"Circle2Radius"	"74"
@@ -286,7 +286,7 @@
 		"fieldName" "HudWeaponSelection"
 		"ypos" 	"16"	[$WIN32]
 		"ypos" 	"32"	[$X360]
-		"visible" "1"
+		//"visible" "1"
 		
 		"SmallBoxSize" "32"
 		"MediumBoxWide"	"95"
@@ -307,7 +307,7 @@
 	HudCrosshair
 	{
 		"fieldName" "HudCrosshair"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -316,7 +316,7 @@
 	HudDeathNotice
 	{
 		"fieldName" "HudDeathNotice"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -325,7 +325,7 @@
 	HudVehicle
 	{
 		"fieldName" "HudVehicle"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -334,7 +334,7 @@
 	ScorePanel
 	{
 		"fieldName" "ScorePanel"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -343,7 +343,7 @@
 	HudTrain
 	{
 		"fieldName" "HudTrain"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -352,7 +352,7 @@
 	HudMOTD
 	{
 		"fieldName" "HudMOTD"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -361,7 +361,7 @@
 	HudMessage
 	{
 		"fieldName" "HudMessage"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "f0"
 		"tall"	 "480"
@@ -370,7 +370,7 @@
 	HudMenu
 	{
 		"fieldName" "HudMenu"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -412,7 +412,7 @@
 	HudHistoryResource	[$WIN32]
 	{
 		"fieldName" "HudHistoryResource"
-		"visible" "1"
+		//"visible" "1"
 		
 		"xpos"	"r252"
 		"ypos"	"40"
@@ -429,7 +429,7 @@
 	HudHistoryResource	[$X360]
 	{
 		"fieldName" "HudHistoryResource"
-		"visible" "1"
+		//"visible" "1"
 		
 		"xpos"	"r300"
 		"ypos"	"40" 
@@ -445,7 +445,7 @@
 	HudGeiger
 	{
 		"fieldName" "HudGeiger"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -454,7 +454,7 @@
 	HUDQuickInfo
 	{
 		"fieldName" "HUDQuickInfo"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -463,7 +463,7 @@
 	HudWeapon
 	{
 		"fieldName" "HudWeapon"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -471,7 +471,7 @@
 	HudAnimationInfo
 	{
 		"fieldName" "HudAnimationInfo"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -480,7 +480,7 @@
 	HudPredictionDump
 	{
 		"fieldName" "HudPredictionDump"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -611,7 +611,7 @@
 	HUDAutoAim
 	{
 		"fieldName" "HUDAutoAim"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"	[$WIN32]
 		"tall"	 "480"	[$WIN32]
@@ -626,7 +626,7 @@
 		"ypos"	"350"
 		"wide"	"380"
 		"tall"  "40"
-		"visible" "1"
+		//"visible" "1"
 		
 		
 		"PaintBackgroundType"	"2"
@@ -654,7 +654,7 @@
 		
 		"wide"	"640"
 		"tall"  "480"
-		"visible" "1"
+		//"visible" "1"
 		
 		
 		"Alpha"	"255"

@@ -3,7 +3,7 @@
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"
-		"visible" "1"
+		//"visible" "1"
 		
 		
 		
@@ -14,7 +14,7 @@
 	HudWeaponAmmo
 	{
 		"fieldName" "HudWeaponAmmo"
-		"visible" "1"
+		//"visible" "1"
 		
 		"xpos"	"r95"	[$WIN32]
 		"xpos_minmode"	"r85"	[$WIN32]
@@ -29,7 +29,7 @@
 	HudObjectiveStatus
 	{
 		"fieldName" "HudObjectiveStatus"
-		"visible" "1"
+		//"visible" "1"
 		
 		
 		
@@ -40,7 +40,7 @@
 	HudKothTimeStatus
 	{
 		"fieldName" "HudKothTimeStatus"
-		"visible" "1"
+		//"visible" "1"
 		
 		"xpos"	"c-100"
 		
@@ -167,7 +167,7 @@
 		"RightMargin" "0"
 		//"RightMargin_hidef" "32"
 		//"rightmargin_lodef" "38"
-		"visible" "1"
+		//"visible" "1"
 		
 		"SmallBoxWide" "72"
 		"SmallBoxTall" "54"
@@ -361,7 +361,7 @@
 		"ypos"	"300"
 		"wide"	"300"
 		"tall"  "15"
-		"visible" "1"
+		//"visible" "1"
 		
 
 		"BorderThickness" "1"
@@ -376,7 +376,7 @@
 		"ypos"	"440"
 		"wide"	"120"
 		"tall"  "40"
-		"visible" "1"
+		//"visible" "1"
 		
 		
 		"PaintBackgroundType"	"2"
@@ -396,7 +396,7 @@
 		"ypos"	"443"
 		"wide"	"40"
 		"tall"  "44"
-		"visible" "1"
+		//"visible" "1"
 		
 
 		"PaintBackgroundType"	"2"
@@ -407,7 +407,7 @@
 	HudFlashlight
 	{
 		"fieldName" "HudFlashlight"
-		"visible" "1"
+		//"visible" "1"
 		
 		"xpos"	"16"
 		"ypos"	"370"
@@ -433,7 +433,7 @@
 		"ypos"	"320"
 		"wide"	"380"
 		"tall"  "50"
-		"visible" "1"
+		//"visible" "1"
 		
 		
 		"PaintBackgroundType"	"2"
@@ -460,7 +460,7 @@
 	HudZoom
 	{
 		"fieldName" "HudZoom"
-		"visible" "1"
+		//"visible" "1"
 		
 		"Circle1Radius" "66"
 		"Circle2Radius"	"74"
@@ -472,7 +472,7 @@
 	HudCrosshair
 	{
 		"fieldName" "HudCrosshair"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -481,7 +481,7 @@
 	HudDeathNotice
 	{
 		"fieldName" "HudDeathNotice"
-		"visible" "1"
+		//"visible" "1"
 		
 		"xpos"	 "r640"	[$WIN32]
 		"ypos"	 "18"	[$WIN32]
@@ -513,7 +513,7 @@
 	HudVehicle
 	{
 		"fieldName" "HudVehicle"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -522,7 +522,7 @@
 	CVProfPanel
 	{
 		"fieldName" "CVProfPanel"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -531,7 +531,7 @@
 	ScorePanel
 	{
 		"fieldName" "ScorePanel"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -540,7 +540,7 @@
 	HudTrain
 	{
 		"fieldName" "HudTrain"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -549,7 +549,7 @@
 	HudMOTD
 	{
 		"fieldName" "HudMOTD"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -558,7 +558,7 @@
 	HudMessage
 	{
 		"fieldName" "HudMessage"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "f0"
 		"tall"	 "480"
@@ -567,7 +567,7 @@
 	HudMenu
 	{
 		"fieldName" "HudMenu"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -581,7 +581,7 @@
 	HudSpellMenu
 	{
 		"fieldName" "HudSpellMenu"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -630,7 +630,7 @@
 	HudGeiger
 	{
 		"fieldName" "HudGeiger"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -639,7 +639,7 @@
 	HUDQuickInfo
 	{
 		"fieldName" "HUDQuickInfo"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -648,7 +648,7 @@
 	HudWeapon
 	{
 		"fieldName" "HudWeapon"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -656,7 +656,7 @@
 	HudAnimationInfo
 	{
 		"fieldName" "HudAnimationInfo"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -664,7 +664,7 @@
 	CBudgetPanel
 	{
 		"fieldName" "CBudgetPanel"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -672,7 +672,7 @@
 	CTextureBudgetPanel
 	{
 		"fieldName" "CTextureBudgetPanel"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -681,7 +681,7 @@
 	HudPredictionDump
 	{
 		"fieldName" "HudPredictionDump"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "1280"
 		"tall"	 "1024"
@@ -703,7 +703,7 @@
 	HudScope
 	{
 		"fieldName" "HudScope"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -712,7 +712,7 @@
 	HudScopeCharge
 	{
 		"fieldName" "HudScopeCharge"
-		"visible" "1"
+		//"visible" "1"
 		
 		"xpos"	 "c64"
 		"ypos"	 "c-64"
@@ -723,7 +723,7 @@
 	HudVoiceSelfStatus
 	{
 		"fieldName" "HudVoiceSelfStatus"
-		"visible" "1"
+		//"visible" "1"
 		
 		"xpos" "r42" 	[$WIN32]
 		"ypos" "355"	[$WIN32]
@@ -736,7 +736,7 @@
 	HudVoiceStatus
 	{
 		"fieldName" "HudVoiceStatus"
-		"visible" "1"
+		//"visible" "1"
 		
 		"xpos" "r145" [$WIN32]
 		"ypos" "0" [$WIN32]
@@ -812,7 +812,7 @@
 	VguiScreenCursor
 	{
 		"fieldName" "VguiScreenCursor"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -1274,7 +1274,7 @@
 	HudTFCrosshair
 	{
 		"fieldName" "HudTFCrosshair"
-		"visible" "1"
+		//"visible" "1"
 		
 		"wide"	 "640"
 		"tall"	 "480"
@@ -1424,7 +1424,7 @@
 	HudMiniGame
 	{
 		"fieldName" "HudMiniGame"
-		"visible" "1"
+		//"visible" "1"
 		
 		
 		
@@ -1435,7 +1435,7 @@
 	"QuestNotificationPanel"
 	{
 		"fieldName"	"QuestNotificationPanel"
-		"visible" "1"
+		//"visible" "1"
 		
 		
 		
@@ -1458,7 +1458,7 @@
 	HudSpectatorExtras
 	{
 		"fieldName" "HudSpectatorExtras"
-		"visible" "1"
+		//"visible" "1"
 		
 		
 		
