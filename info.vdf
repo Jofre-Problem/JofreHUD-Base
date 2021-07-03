@@ -1,1 +1,3 @@
-#base "_jofrehud/info.vdf"
+"JofreHUD"{
+	"ui_version"	"3"
+}
