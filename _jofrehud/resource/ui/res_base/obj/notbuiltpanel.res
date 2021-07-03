@@ -17,7 +17,7 @@
 			"xpos"			"60"
 			"ypos"			"0"
 			"wide"			"200"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			//"pinCorner"		"0"
 			//"visible"		"1"
 			//"enabled"		"1"

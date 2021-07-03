@@ -8,7 +8,7 @@
 		//"zpos"			"0"
 		"wide"			"200"
 		"tall"			"0"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		//"pinCorner"		"0"
 		//"visible"		"1"
 		//"enabled"		"1"

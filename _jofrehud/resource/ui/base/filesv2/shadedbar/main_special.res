@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ShadedBar"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		//"pinCorner"		"0"
 		//"visible"		"1"
 		//"enabled"		"1"

@@ -177,7 +177,7 @@
 		"zpos"			"1"
 		"wide"			"125"
 		"tall"			"40"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		//"pinCorner"		"0"
 		//"visible"		"1"
 		//"enabled"		"1"
