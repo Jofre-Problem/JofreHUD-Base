@@ -1,5 +1,4 @@
-#base "../#bases/reload_scheme.res"
-//#base "../#jofre/multiple-bg.res"
+
 #base "base/filesv1/notifipresentpanel/main.res"
 #base "base/filesv1/notifipresentpanel/content1.res"
 #base "base/filesv1/sheet/main.res"
@@ -13,9 +12,9 @@
 	#base "base/filesv2/footerline/zpos2.res"
 
 	#base "base/filesv1/backbutton/main.res"
-	#base "base/filesv1/backbutton/c-295.res"	
+	#base "base/filesv1/backbutton/c-295.res"
 	#base "base/filesv1/backbutton/def1.res"
 	#base "base/filesv1/backbutton/content1.res"
-	#base "base/filesv1/backbutton/ypos437.res"	
+	#base "base/filesv1/backbutton/ypos437.res"
 	#base "base/filesv1/backbutton/zpos2.res"
-	#base "base/filesv1/backbutton/pin3.res"		
+	#base "base/filesv1/backbutton/pin3.res"

@@ -1,4 +1,3 @@
-#base "../../#bases/reload_scheme.res"
 #base "../base/filesv2/caratlabel/main.res"
 #base "../base/filesv2/caratlabel/wide20.res"
 #base "../base/filesv2/caratlabel/auto1.res"
