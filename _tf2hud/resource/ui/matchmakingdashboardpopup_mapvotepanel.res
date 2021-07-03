@@ -48,7 +48,7 @@
 		"Command"		"select_map"
 		"proportionaltoparent"	"1"
 		"labeltext"		""
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"3"
 		//"paintbackground"	"1"

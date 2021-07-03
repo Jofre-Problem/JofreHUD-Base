@@ -255,7 +255,7 @@
 			
 			//"wrap"			"0"
 			"proportionaltoparent"	"1"
-			"fgcolor"		"Tanlight"
+			"fgcolor"		"TanLight"
 		}
 
 		"BadgeMeterContainer"
@@ -272,7 +272,7 @@
 			////"visible"		"1"
 			
 			
-			"bgcolor_override"	"235 226 202 255" // Tanlight
+			"bgcolor_override"	"235 226 202 255" // TanLight
 			"proportionaltoparent"	"1"
 
 			"BadgeProgressMeter"
@@ -313,7 +313,7 @@
 				
 				//"wrap"			"0"
 				"proportionaltoparent"	"1"
-				"fgcolor"		"Tanlight"
+				"fgcolor"		"TanLight"
 			}
 		}
 
@@ -335,7 +335,7 @@
 			
 			//"wrap"			"0"
 			"proportionaltoparent"	"1"
-			"fgcolor"		"Tanlight"
+			"fgcolor"		"TanLight"
 		}
 
 		"ContractMeterContainer"
@@ -352,7 +352,7 @@
 			////"visible"		"1"
 			
 			
-			"bgcolor_override"	"235 226 202 255" // Tanlight
+			"bgcolor_override"	"235 226 202 255" // TanLight
 			"proportionaltoparent"	"1"
 
 			"ContractsCompletedProgressMeter"
@@ -393,7 +393,7 @@
 				
 				//"wrap"			"0"
 				"proportionaltoparent"	"1"
-				"fgcolor"		"Tanlight"
+				"fgcolor"		"TanLight"
 			}
 		}
 	}

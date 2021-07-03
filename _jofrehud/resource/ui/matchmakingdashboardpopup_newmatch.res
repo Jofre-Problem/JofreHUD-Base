@@ -12,7 +12,7 @@
 		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"keyboardinputenabled"	"0"
-		"mouseinputenabled"		"1"
+		//"mouseinputenabled"		"1"
 
 		"collapsed_height"	"0"
 		"expanded_height"	"60"
@@ -65,7 +65,7 @@
 				////"visible"		"1"
 				
 				"font"			"HudFontSmallBold"
-				"fgcolor_override"	"Tanlight"
+				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"%match_type%"
 				"proportionaltoparent"	"1"
@@ -91,7 +91,7 @@
 				////"visible"		"1"
 				
 				"font"			"HudFontSmallest"
-				"fgcolor_override"	"Tanlight"
+				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"%auto_join%"
 				"proportionaltoparent"	"1"
@@ -120,7 +120,7 @@
 				"Command"		"abandon_match"
 				"proportionaltoparent"	"1"
 				"labeltext"		"#TF_MM_Rejoin_Abandon"
-				"mouseinputenabled"	"1"
+				//"mouseinputenabled"	"1"
 				"keyboardinputenabled"	"0"
 				"actionsignallevel"	"2"
 				"paintbackground"	"1"
@@ -157,7 +157,7 @@
 				"Command"		"join_match"
 				"proportionaltoparent"	"1"
 				"labeltext"		"#TF_Matchmaking_RollingQueue_JoinNow"
-				"mouseinputenabled"	"1"
+				//"mouseinputenabled"	"1"
 				"keyboardinputenabled"	"0"
 				"actionsignallevel"	"2"
 
@@ -190,7 +190,7 @@
 				"Command"		"join_match"
 				"proportionaltoparent"	"1"
 				"labeltext"		"#TF_Matchmaking_RollingQueue_JoinNow"
-				"mouseinputenabled"	"1"
+				//"mouseinputenabled"	"1"
 				"keyboardinputenabled"	"0"
 				"actionsignallevel"	"2"
 
@@ -213,7 +213,7 @@
 				////"visible"		"1"
 				
 				"font"			"HudFontSmallest"
-				"fgcolor_override"	"Tanlight"
+				"fgcolor_override"	"TanLight"
 				"textAlignment"	"east"
 				"labelText"		"#TF_Matchmaking_RollingQueue_MatchReadyJoining"
 				"proportionaltoparent"	"1"

@@ -86,7 +86,7 @@
 		"editable"		"0"
 		"bgcolor_override"	"0 0 0 255"
 		"fgcolor_override"	"TanLight"
-		"disabledFgColor_override" "235 226 202 255"
+		"disabledFgColor_override" "TanLight"
 		"disabledBgColor_override" "Blank"
 		"selectionColor_override" "Blank"
 		"selectionTextColor_override" "TanLight"

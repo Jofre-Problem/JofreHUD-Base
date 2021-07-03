@@ -239,7 +239,7 @@
 			"tall"			"40"
 			//"visible"		"1"
 			
-			"mouseinputenabled" "1"
+			//"mouseinputenabled" "1"
 			//"paintborder"	"0"
 
 			"items"
@@ -283,7 +283,7 @@
 			"tall"			"40"
 			//"visible"		"1"
 			
-			"mouseinputenabled" "1"
+			//"mouseinputenabled" "1"
 			//"paintborder"	"0"
 
 			"items"

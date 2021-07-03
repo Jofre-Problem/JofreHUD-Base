@@ -12,7 +12,7 @@
 		
 		"PaintBackgroundType"	"2"
 
-		"enabled_text_color_override"		"235 226 202 255"
+		"enabled_text_color_override"		"TanLight"
 		"disabled_text_color_override"		"135 126 102 255"
 
 		"normal_token"		"#QuestObjective_Required"

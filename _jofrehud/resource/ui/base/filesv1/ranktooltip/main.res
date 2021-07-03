@@ -8,7 +8,7 @@
 		"tall"			"8"
 		//"visible"		"1"
 		"proportionaltoparent"	"1"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"image"			"info"
 		"scaleImage"	"1"	
 		"alpha"			"75"

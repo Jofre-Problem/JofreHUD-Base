@@ -12,7 +12,7 @@
 		"tall"					"200"
 		"proportionaltoparent"	"1"
 		"keyboardinputenabled"	"1"
-		"mouseinputenabled"		"1"
+		//"mouseinputenabled"		"1"
 		"border"		"QuickplayBorder"
 
 		"log_font_small"			"HudFontSmall"

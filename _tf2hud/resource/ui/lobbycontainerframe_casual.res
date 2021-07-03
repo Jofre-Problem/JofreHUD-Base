@@ -35,7 +35,7 @@
 		"tall"			"65"
 		//"visible"		"1"
 		
-		"mouseinputenabled" "1"
+		//"mouseinputenabled" "1"
 	}
 
 	"StartExplanation"

@@ -48,7 +48,7 @@
 		"Command"		"back"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_Back"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		//"actionsignallevel"	"1"
 
@@ -67,7 +67,7 @@
 		"tall"			"20"
 		"visible"		"0"
 		
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"eatmouseinput"	"0"	
 		"showtooltipswhenmousedisabled"	"1"
 		"proportionaltoparent" "1"
@@ -94,7 +94,7 @@
 		"Command"		"start_search"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_StartSearch"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
 
@@ -116,7 +116,7 @@
 		"tall"			"20"
 		"visible"		"0"
 		
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"eatmouseinput"	"0"	
 		"showtooltipswhenmousedisabled"	"1"
 		"proportionaltoparent" "1"
@@ -143,7 +143,7 @@
 		"Command"		"start_search"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_StartSearch"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
 
@@ -175,7 +175,7 @@
 		"Command"		"select_tour"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_MvM_SelectChallenge"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		//"actionsignallevel"	"1"
 

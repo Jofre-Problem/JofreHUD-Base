@@ -61,7 +61,7 @@
 			////"visible"		"1"
 			
 			"proportionaltoparent"	"1"
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 			
 			"fgcolor_override"	"QuestMap_ActiveOrange"
 			"font"			"CenterPrintText"

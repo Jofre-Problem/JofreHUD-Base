@@ -10,7 +10,7 @@
 		"wide"				"f0"
 		"tall"				"480"
 		"visible"			"1"
-		"enabled"			"1"
+		//"enabled"			"1"
 
 		"left_steal_edge_offset"	"97"
 		"right_steal_edge_offset"	"97"
@@ -36,7 +36,7 @@
 			"wide"			"20"
 			"tall"			"20"
 			//"visible"		"1"
-			"bgcolor_override"		"0 0 0 0"
+			"bgcolor_override"		"Blank"
 			"PaintBackgroundType"	"0"
 			"paintborder"	"0"
 			"AutoResize" "0"
@@ -124,8 +124,8 @@
 		"wide"				"150"
 		"tall"				"80"
 		"visible"			"0"
-		"enabled"			"1"
-		"bgcolor_override"		"0 0 0 0"
+		//"enabled"			"1"
+		"bgcolor_override"		"Blank"
 	
 		"CarriedImage"
 		{
@@ -534,8 +534,8 @@
 			"wide"				"60"
 			"tall"				"60"
 			"visible"			"1"
-			"enabled"			"1"
-			"bgcolor_override"		"0 0 0 0"
+			//"enabled"			"1"
+			"bgcolor_override"		"Blank"
 			"proportionalToParent"	"1"
 
 			"Score"
@@ -589,8 +589,8 @@
 			"wide"				"60"
 			"tall"				"60"
 			"visible"			"1"
-			"enabled"			"1"
-			"bgcolor_override"		"0 0 0 0"
+			//"enabled"			"1"
+			"bgcolor_override"		"Blank"
 			"proportionalToParent"	"1"
 
 			"Score"
@@ -644,8 +644,8 @@
 			"wide"				"30"
 			"tall"				"40"
 			"visible"			"1"
-			"enabled"			"1"
-			"bgcolor_override"		"0 0 0 0"
+			//"enabled"			"1"
+			"bgcolor_override"		"Blank"
 			"proportionalToParent"	"1"
 
 			"IntelImage"
@@ -674,8 +674,8 @@
 				"wide"				"f0"
 				"tall"				"f0"
 				"visible"			"1"
-				"enabled"			"1"
-				"bgcolor_override"		"0 0 0 0"
+				//"enabled"			"1"
+				"bgcolor_override"		"Blank"
 				
 				"proportionalToParent"	"1"
 
@@ -711,7 +711,7 @@
 				"labelText"		"%intelvalue%"
 				"font"			"HudFontSmallishBold"
 				"fgcolor"		"TanLight"		
-				"bgcolor_override"		"0 0 0 0"
+				"bgcolor_override"		"Blank"
 				"proportionalToParent"	"1"
 			}
 
@@ -744,8 +744,8 @@
 			"wide"				"30"
 			"tall"				"40"
 			"visible"			"1"
-			"enabled"			"1"
-			"bgcolor_override"		"0 0 0 0"
+			//"enabled"			"1"
+			"bgcolor_override"		"Blank"
 			"proportionalToParent"	"1"
 
 			"IntelImage"
@@ -774,8 +774,8 @@
 				"wide"				"f0"
 				"tall"				"f0"
 				"visible"			"1"
-				"enabled"			"1"
-				"bgcolor_override"		"0 0 0 0"
+				//"enabled"			"1"
+				"bgcolor_override"		"Blank"
 				
 				"proportionalToParent"	"1"
 
@@ -811,7 +811,7 @@
 				"labelText"		"%intelvalue%"
 				"font"			"HudFontSmallishBold"
 				"fgcolor"		"TanLight"		
-				"bgcolor_override"		"0 0 0 0"
+				"bgcolor_override"		"Blank"
 				"proportionalToParent"	"1"
 			}
 

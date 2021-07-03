@@ -85,7 +85,7 @@
 			"ypos"			"80"
 			"wide"			"300"
 			"tall"			"40"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 			
 		"CreditContainer"
@@ -122,7 +122,7 @@
 				
 				"wide"			"180"
 				"tall"			"40"
-				"fgcolor"		"tanlight"
+				"fgcolor"		"TanLight"
 			}
 			
 			"RatingTextShadow"

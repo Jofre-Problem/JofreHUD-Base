@@ -59,7 +59,7 @@
 		"tall"			"o1"
 		//"visible"		"1"
 		"proportionaltoparent"	"1"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"image"			"gradient_radial_pure_black"
 		"scaleImage"	"1"	
 		"alpha"			"200"

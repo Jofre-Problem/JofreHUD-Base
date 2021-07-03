@@ -29,6 +29,6 @@
 		"wide"			"500"
 		"tall"			"50"
 		
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 }

@@ -24,7 +24,7 @@
 				
 				//"wrap"			"0"
 				"centerwrap"	"1"
-				"fgcolor_override" "Tanlight"
+				"fgcolor_override" "TanLight"
 				"proportionaltoparent"	"1"
 			}
 			"MapLabel"

@@ -165,7 +165,7 @@
 				//"paintbackground"	"1"
 
 				"defaultBgColor_override" "0 0 0 64"
-				"armedBgColor_override" "0 0 0 0"
+				"armedBgColor_override" "Blank"
 
 				"image_drawcolor"	"200 200 200 255"
 				"image_armedcolor"	"255 255 255 255"
@@ -248,7 +248,7 @@
 				//"paintbackground"	"1"
 
 				"defaultBgColor_override" "0 0 0 64"
-				"armedBgColor_override" "0 0 0 0"
+				"armedBgColor_override" "Blank"
 
 				"image_drawcolor"	"200 200 200 255"
 				"image_armedcolor"	"255 255 255 255"
@@ -350,7 +350,7 @@
 				//"paintbackground"	"1"
 			
 				"defaultBgColor_override" "0 0 0 64"
-				"armedBgColor_override" "0 0 0 0"
+				"armedBgColor_override" "Blank"
 			
 				"image_drawcolor"	"200 200 200 255"
 				"image_armedcolor"	"255 255 255 255"

@@ -33,7 +33,7 @@
 			"visible"		"0"
 			
 			
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 		}
 
 		"RewardItemKV"
@@ -501,7 +501,7 @@
 				"tall"			"315"
 				
 				"proportionaltoparent" "1"
-				"mouseinputenabled"	"1"
+				//"mouseinputenabled"	"1"
 
 				"Introduction"
 				{
@@ -595,7 +595,7 @@
 						"TextAlignment"		"north-west"
 						"proportionaltoparent" "1"
 						"mouseinputenabled"		"0"
-						"fgcolor_override"	"Tanlight"
+						"fgcolor_override"	"TanLight"
 						"wrap"	"1"
 						"textinsetx"	"23"
 						"use_proportional_insets"	"1"
@@ -720,7 +720,7 @@
 						"wide"			"f0"
 						"tall"			"f0"
 						"proportionaltoparent"	"1"
-						"mouseinputenabled"	"1"
+						//"mouseinputenabled"	"1"
 						"keyboardinputenabled"	"0"
 
 						"StartButton"
@@ -752,9 +752,9 @@
 							"sound_depressed"	"UI/buttonclick.wav"
 							"sound_released"	"UI/buttonclickrelease.wav"
 
-							"defaultFgColor_override"	"Tanlight"
-							"armedFgColor_override"		"Tanlight"
-							"depressedFgColor_override" "Tanlight"
+							"defaultFgColor_override"	"TanLight"
+							"armedFgColor_override"		"TanLight"
+							"depressedFgColor_override" "TanLight"
 
 							"defaultBgColor_override"	"StoreGreen"
 							"armedBgColor_override"		"CreditsGreen"
@@ -825,7 +825,7 @@
 							"TextAlignment"		"north-west"
 							"proportionaltoparent" "1"
 							"mouseinputenabled"		"0"
-							"fgcolor_override"	"Tanlight"
+							"fgcolor_override"	"TanLight"
 							"wrap"	"1"
 							"textinsetx"	"23"
 							"use_proportional_insets"	"1"
@@ -861,7 +861,7 @@
 							"TextAlignment"		"north-west"
 							"proportionaltoparent" "1"
 							"mouseinputenabled"		"0"
-							"fgcolor_override"	"Tanlight"
+							"fgcolor_override"	"TanLight"
 							"wrap"	"1"
 							"textinsetx"	"23"
 							"use_proportional_insets"	"1"
@@ -968,7 +968,7 @@
 					"wide"			"f0"
 					"tall"			"30"
 					"proportionaltoparent" "1"
-					"mouseinputenabled"		"1"
+					//"mouseinputenabled"		"1"
 
 					"border"		"QuickplayBorder"
 					"bgcolor_override"	"0 0 0 240"
@@ -1130,7 +1130,7 @@
 					"visible"		"0"
 					
 					"proportionaltoparent" "1"
-					"mouseinputenabled"		"1"
+					//"mouseinputenabled"		"1"
 					"keyboardinputenabled"	"0"
 					"border"	"CYOANodeViewBorder"
 					"collapsed_height"	"165"
@@ -1414,7 +1414,7 @@
 						"tall"			"f50"
 						////"visible"		"1"
 						"proportionaltoparent" "1"
-						"mouseinputenabled"	"1"
+						//"mouseinputenabled"	"1"
 						"bottom_buffer"	"50"
 						"scroll_step"	"20"
 
@@ -1481,7 +1481,7 @@
 						"TextAlignment"		"center"
 						"proportionaltoparent" "1"
 						"mouseinputenabled"		"0"
-						"fgcolor_override"	"Tanlight"
+						"fgcolor_override"	"TanLight"
 						"wrap"	"0"
 					}
 

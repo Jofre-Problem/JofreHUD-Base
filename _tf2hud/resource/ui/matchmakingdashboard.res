@@ -103,7 +103,7 @@
 			"Command"		"toggle_chat"
 			"proportionaltoparent"	"1"
 			"labeltext"		""
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
 			"roundedcorners"	"0"
@@ -146,7 +146,7 @@
 			//"enabled"		"1"
 			//"tabposition"	"0"
 			"proportionaltoparent"	"1"
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 
 			"party_slot"	"0"
@@ -167,7 +167,7 @@
 			//"enabled"		"1"
 			//"tabposition"	"0"
 			"proportionaltoparent"	"1"
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 
 			"party_slot"	"1"
@@ -188,7 +188,7 @@
 			//"enabled"		"1"
 			//"tabposition"	"0"
 			"proportionaltoparent"	"1"
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 
 			"party_slot"	"2"
@@ -209,7 +209,7 @@
 			//"enabled"		"1"
 			//"tabposition"	"0"
 			"proportionaltoparent"	"1"
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 
 			"party_slot"	"3"
@@ -230,7 +230,7 @@
 			//"enabled"		"1"
 			//"tabposition"	"0"
 			"proportionaltoparent"	"1"
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 
 			"party_slot"	"4"
@@ -251,7 +251,7 @@
 			//"enabled"		"1"
 			//"tabposition"	"0"
 			"proportionaltoparent"	"1"
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 
 			"party_slot"	"5"
@@ -409,9 +409,9 @@
 			
 				"paintbackground"	"0"
 			
-				"defaultFgColor_override" "46 43 42 255"
-				"armedFgColor_override" "235 226 202 255"
-				"depressedFgColor_override" "46 43 42 255"
+				"defaultFgColor_override" "TanDarker"
+				"armedFgColor_override" "TanLight"
+				"depressedFgColor_override" "TanDarker"
 			
 				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"200 80 60 255"
@@ -459,9 +459,9 @@
 			
 				"paintbackground"	"0"
 			
-				"defaultFgColor_override" "46 43 42 255"
-				"armedFgColor_override" "235 226 202 255"
-				"depressedFgColor_override" "46 43 42 255"
+				"defaultFgColor_override" "TanDarker"
+				"armedFgColor_override" "TanLight"
+				"depressedFgColor_override" "TanDarker"
 			
 				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"200 80 60 255"
@@ -571,7 +571,7 @@
 				"Command"		"join_party_match"
 				"proportionaltoparent"	"1"
 				"labeltext"		"#TF_MM_JoinPartyLobby_Join"
-				"mouseinputenabled"	"1"
+				//"mouseinputenabled"	"1"
 				"keyboardinputenabled"	"0"
 				"actionsignallevel"	"3"
 
@@ -605,7 +605,7 @@
 			"Command"		"quit"
 			"proportionaltoparent"	"1"
 			"labeltext"		""
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
 			"RoundedCorners"	"0"
@@ -661,7 +661,7 @@
 			"Command"		"quit"
 			"proportionaltoparent"	"1"
 			"labeltext"		"#TF_Disconnect"
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
 			"RoundedCorners"	"0"
@@ -720,7 +720,7 @@
 			"Command"		"resume_game"
 			"proportionaltoparent"	"1"
 			"labeltext"		"#MMenu_ResumeGame"
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
 			"roundedcorners"	"1"
@@ -778,7 +778,7 @@
 			"Command"		"find_game"
 			"proportionaltoparent"	"1"
 			"labeltext"		"#MMenu_FindAGame"
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
 			"roundedcorners"	"1"

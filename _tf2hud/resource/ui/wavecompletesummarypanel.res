@@ -66,7 +66,7 @@
 			"tall"			"35"
 			//"visible"		"1"
 			
-			"fgcolor"		"tanlight"		
+			"fgcolor"		"TanLight"		
 		}
 	}
 		
@@ -92,7 +92,7 @@
 			"ypos"			"9"
 			"wide"			"105"
 			"tall"			"20"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 		
 		"CreditCollectedCountLabel"
@@ -120,7 +120,7 @@
 			"ypos"			"21"
 			"wide"			"105"
 			"tall"			"20"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 		
 		"CreditMissedCountLabel"
@@ -148,7 +148,7 @@
 			"ypos"			"33"
 			"wide"			"105"
 			"tall"			"20"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 		
 		"CreditBonusCountLabel"
@@ -188,7 +188,7 @@
 			"ypos"			"5"
 			"wide"			"115"
 			"tall"			"20"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 		
 		"RatingTextShadow"
@@ -263,7 +263,7 @@
 			"ypos"			"3"
 			"wide"			"160"
 			"tall"			"20"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 		
 		"RespecCountLabel"

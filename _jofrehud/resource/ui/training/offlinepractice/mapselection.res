@@ -168,7 +168,7 @@
 		"fgcolor_override"	"246 237 211 255"
 		"bgcolor_override"	"16 14 14 255"
 		
-		"disabledFgColor_override" "235 226 202 255"
+		"disabledFgColor_override" "TanLight"
 		"disabledBgColor_override" "51 47 46 255"
 		"selectionColor_override" "51 47 46 255"
 		"selectionTextColor_override" "TanLight"

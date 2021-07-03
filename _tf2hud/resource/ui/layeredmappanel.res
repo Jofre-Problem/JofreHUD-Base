@@ -84,7 +84,7 @@
 			
 			"wide"			"300"
 			"tall"			"30"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 	}
 	
@@ -131,7 +131,7 @@
 			
 			"wide"			"180"
 			"tall"			"180"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 	}
 	

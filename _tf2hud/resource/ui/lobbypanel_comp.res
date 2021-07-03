@@ -370,7 +370,7 @@
 				"tall"			"f20"
 				"visible"		"0"
 				
-				"mouseinputenabled" "1"
+				//"mouseinputenabled" "1"
 				"scaleImage"	"1"
 				"entry_step"	"23"
 				"proportionaltoparent"	"1"

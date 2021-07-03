@@ -12,7 +12,7 @@
 		//"visible"		"1"
 		"proportionaltoparent"	"1"
 		"keyboardinputenabled"	"0"
-		"mouseinputenabled"		"1"
+		//"mouseinputenabled"		"1"
 
 		"collapsed_height"	"0"
 		"expanded_height"	"80"

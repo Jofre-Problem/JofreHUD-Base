@@ -111,7 +111,7 @@
 				
 				
 				"proportionaltoparent"	"1"
-				"mouseinputenabled"	"1"
+				//"mouseinputenabled"	"1"
 
 				"FrontFolderImage"
 				{

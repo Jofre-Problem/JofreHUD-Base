@@ -11,7 +11,7 @@
 		"tall"			"o1.1"
 		//"visible"		"1"
 		"proportionaltoparent"	"1"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"keyboardinputenabled" "1"
 
 		"unidentified_height"	"20"
@@ -794,7 +794,7 @@
 					"skip_autoresize"		"1"
 
 					"allow_mouse_wheel_to_scroll" "1"
-					"mouseinputenabled"		"1"
+					//"mouseinputenabled"		"1"
 					"bottom_buffer"			"10"
 
 					"ScrollBar"
@@ -954,7 +954,7 @@
 				
 				
 				"proportionaltoparent"	"1"
-				"mouseinputenabled"	"1"
+				//"mouseinputenabled"	"1"
 
 				"FrontFolderImage"
 				{

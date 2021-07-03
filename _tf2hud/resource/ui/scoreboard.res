@@ -866,7 +866,7 @@
 		
 		//"visible"		"1"
 		
-		"fgcolor"		"236 227 203 255"
+		"fgcolor"		"TanDark"
 
 		if_mvm
 		{

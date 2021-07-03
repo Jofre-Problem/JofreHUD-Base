@@ -38,7 +38,7 @@
 		"ypos"			"75"
 		"wide"			"f0"
 		"tall"			"35"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 
 
@@ -78,7 +78,7 @@
 			"wide"			"400"
 			"tall"			"35"
 			//"visible"		"1"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 	}
 
@@ -118,7 +118,7 @@
 			"wide"			"400"
 			"tall"			"35"
 			//"visible"		"1"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 	}
 
@@ -158,7 +158,7 @@
 			"wide"			"400"
 			"tall"			"35"
 			//"visible"		"1"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 	}
 	
@@ -198,7 +198,7 @@
 			"wide"			"400"
 			"tall"			"35"
 			//"visible"		"1"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 	}
 	
@@ -238,7 +238,7 @@
 			"wide"			"400"
 			"tall"			"35"
 			//"visible"		"1"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 	}
 
@@ -255,7 +255,7 @@
 		"ypos"			"215"
 		"wide"			"f0"
 		"tall"			"70"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 
 	// Main instruction text
@@ -272,7 +272,7 @@
 		"ypos"			"275"
 		"wide"			"f0"
 		"tall"			"70"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 	
 	

@@ -10,7 +10,7 @@
 		
 		
 		"wide"			"70"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 	
 	"ItemValue"
@@ -23,6 +23,6 @@
 		"xpos"			"70"
 		
 		"wide"			"70"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 }

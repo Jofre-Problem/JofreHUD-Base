@@ -589,7 +589,7 @@
 			
 			//"visible"		"1"
 			
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 		
 		"CancelButton"
@@ -722,7 +722,7 @@
 			//"visible"		"1"
 			
 			"wrap"			"1"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 		
 		"NextTipButton"

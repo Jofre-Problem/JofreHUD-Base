@@ -197,7 +197,7 @@
 			"font"			"HudFontSmallest"
 			"fgcolor_override"	"TanDark"
 		
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 		}
 
 		"QueueEstimation"

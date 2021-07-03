@@ -12,7 +12,7 @@
 		//"visible"		"1"
 		"proportionaltoparent"	"1"
 		"keyboardinputenabled"	"0"
-		"mouseinputenabled"		"1"
+		//"mouseinputenabled"		"1"
 
 		"collapsed_height"	"0"
 		"expanded_height"	"60"
@@ -120,7 +120,7 @@
 				"Command"		"abandon_match"
 				"proportionaltoparent"	"1"
 				"labeltext"		"#TF_MM_Rejoin_Abandon"
-				"mouseinputenabled"	"1"
+				//"mouseinputenabled"	"1"
 				"keyboardinputenabled"	"0"
 				"actionsignallevel"	"2"
 				//"paintbackground"	"1"
@@ -157,7 +157,7 @@
 				"Command"		"join_match"
 				"proportionaltoparent"	"1"
 				"labeltext"		"#TF_Matchmaking_RollingQueue_JoinNow"
-				"mouseinputenabled"	"1"
+				//"mouseinputenabled"	"1"
 				"keyboardinputenabled"	"0"
 				"actionsignallevel"	"2"
 
@@ -190,7 +190,7 @@
 				"Command"		"join_match"
 				"proportionaltoparent"	"1"
 				"labeltext"		"#TF_Matchmaking_RollingQueue_JoinNow"
-				"mouseinputenabled"	"1"
+				//"mouseinputenabled"	"1"
 				"keyboardinputenabled"	"0"
 				"actionsignallevel"	"2"
 

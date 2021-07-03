@@ -26,7 +26,7 @@
 		"ypos"			"375"
 		"wide"			"290"
 		"tall"			"20"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 
 	"DifficultyContainer"
@@ -50,7 +50,7 @@
 			
 			"wide"			"150"
 			"tall"			"10"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 		
 		"DifficultyValue"
@@ -64,7 +64,7 @@
 			"ypos"			"9"
 			"wide"			"150"
 			"tall"			"10"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 	}
 	
@@ -150,7 +150,7 @@
 			"ypos"			"8"
 			"wide"			"100"
 			"tall"			"25"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 		
 		"PreviousWaveCreditInfoPanel"
@@ -212,7 +212,7 @@
 			"ypos"			"8"
 			"wide"			"275"
 			"tall"			"20"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 	}
 }

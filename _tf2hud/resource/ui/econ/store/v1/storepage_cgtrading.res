@@ -321,7 +321,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
 			"armedFgColor_override" "LightRed"
-			"defaultFgColor_override" "235 226 202 255"
+			"defaultFgColor_override" "TanLight"
 		}
 	}	
 
@@ -365,7 +365,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
 			"armedFgColor_override" "LightRed"
-			"defaultFgColor_override" "235 226 202 255"
+			"defaultFgColor_override" "TanLight"
 		}
 	}	
 

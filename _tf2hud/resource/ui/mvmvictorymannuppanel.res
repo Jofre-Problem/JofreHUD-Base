@@ -295,7 +295,7 @@
 				
 				"ypos"			"100"
 				"wide"			"530"
-				"fgcolor"		"tanlight"
+				"fgcolor"		"TanLight"
 			}
 			
 			"NoItemServerMessage"
@@ -310,7 +310,7 @@
 				"wide"			"530"
 				"tall"			"40"
 				"centerwrap"		"1"
-				"fgcolor"		"tanlight"
+				"fgcolor"		"TanLight"
 			}
 		}
 	}

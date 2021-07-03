@@ -12,7 +12,7 @@
 		////"visible"		"1"
 		"proportionaltoparent"	"1"
 		"keyboardinputenabled"	"0"
-		"mouseinputenabled"		"1"
+		//"mouseinputenabled"		"1"
 
 		"collapsed_height"	"0"
 		"expanded_height"	"80"
@@ -166,7 +166,7 @@
 				////"visible"		"1"
 				
 				"font"			"HudFontSmallBold"
-				"fgcolor_override"	"Tanlight"
+				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_RollingQueue_MatchOver"
 				"proportionaltoparent"	"1"

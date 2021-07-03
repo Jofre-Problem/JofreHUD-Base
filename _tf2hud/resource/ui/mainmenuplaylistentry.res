@@ -60,7 +60,7 @@
 		"tall"			"f0"
 		"visible"		"0"
 		
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"eatmouseinput"	"0"	
 		"showtooltipswhenmousedisabled"	"1"
 	}
@@ -76,7 +76,7 @@
 		"tall"			"15"
 		"visible"		"0"
 		
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"eatmouseinput"	"0"	
 		"showtooltipswhenmousedisabled"	"1"
 		"proportionaltoparent" "1"
@@ -223,8 +223,8 @@
 		"armedFgColor_override" "TanLight"
 		"depressedFgColor_override" "TanDarker"
 		"defaultBgColor_override" "Blank"
-		"armedBgColor_override" "0 0 0 0"
-		"depressedBgColor_override" "0 0 0 0"
+		"armedBgColor_override" "Blank"
+		"depressedBgColor_override" "Blank"
 				
 		"image_drawcolor"	"235 226 202 255"
 		"image_armedcolor"	"235 140 140 255"

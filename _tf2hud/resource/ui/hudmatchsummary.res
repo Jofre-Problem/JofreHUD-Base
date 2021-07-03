@@ -75,7 +75,7 @@
 		"tall"			"480"
 		//"visible"		"1"
 		"proportionaltoparent"	"1"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 
 		"matchgroup"	"MatchGroup_Ladder_6v6"
 		"show_name"		"0"
@@ -101,7 +101,7 @@
 		"tall"			"2000"
 		//"visible"		"1"
 		"proportionaltoparent"	"1"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 
 		"matchgroup"	"MatchGroup_Casual_12v12"
 

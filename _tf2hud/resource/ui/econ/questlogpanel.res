@@ -302,7 +302,7 @@
 			//"visible"		"1"
 			
 			
-			"bgcolor_override"	"235 226 202 255" // tanlight
+			"bgcolor_override"	"235 226 202 255" // TanLight
 			"proportionaltoparent"	"1"
 
 			"BadgeProgressMeter"
@@ -382,7 +382,7 @@
 			//"visible"		"1"
 			
 			
-			"bgcolor_override"	"235 226 202 255" // tanlight
+			"bgcolor_override"	"235 226 202 255" // TanLight
 			"proportionaltoparent"	"1"
 
 			"ContractsCompletedProgressMeter"

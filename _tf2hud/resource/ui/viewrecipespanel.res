@@ -40,9 +40,9 @@
 			"defaultFgColor_override" "117 107 94 255"
 			"defaultBgColor_override" "Blank"
 			"armedFgColor_override" "TanLight"
-			"armedBgColor_override" "0 0 0 0"
+			"armedBgColor_override" "Blank"
 			"depressedFgColor_override" "178 82 22 255"
-			"depressedBgColor_override" "0 0 0 0"
+			"depressedBgColor_override" "Blank"
 			"auto_wide_tocontents" "1"
 			
 			"pin_to_sibling"               "CenterPositioner"

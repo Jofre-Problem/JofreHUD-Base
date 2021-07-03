@@ -263,7 +263,7 @@
 			"wide"			"f0"
 			"tall"			"75"
 			"proportionaltoparent"	"1"
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 
 			"RewardsLabel"
 			{
@@ -311,7 +311,7 @@
 				//"PaintBackgroundType"	"0"
 				"paintborder"	"1"
 				"proportionaltoparent"	"1"
-				"mouseinputenabled"	"1"
+				//"mouseinputenabled"	"1"
 				"border"	"EconItemBorder"
 
 				"BloodMoneyObtainedIndicator"
@@ -385,7 +385,7 @@
 				//"PaintBackgroundType"	"0"
 				"paintborder"	"1"
 				"proportionaltoparent"	"1"
-				"mouseinputenabled"	"1"
+				//"mouseinputenabled"	"1"
 				"border"		"EconItemBorder"
 		
 				"model_xpos"	"5"

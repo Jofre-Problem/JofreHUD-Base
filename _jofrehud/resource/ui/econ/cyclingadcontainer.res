@@ -28,7 +28,7 @@
 		"defaultBgColor_override"	"0 0 0 150"
 		"armedBgColor_override"		"Orange"
 
-		"armedFgColor_override"		"Tanlight"
+		"armedFgColor_override"		"TanLight"
 
 		"sound_armed"		"ui/item_info_mouseover.wav"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -64,7 +64,7 @@
 		"armedBgColor_override"		"Orange"
 
 
-		"armedFgColor_override"		"Tanlight"
+		"armedFgColor_override"		"TanLight"
 
 		"sound_armed"		"ui/item_info_mouseover.wav"
 		"sound_depressed"	"UI/buttonclick.wav"

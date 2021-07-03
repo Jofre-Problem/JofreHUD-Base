@@ -22,7 +22,7 @@
      //   "pinCorner"     "0"
       //  "visible"       "1"
     //    "enabled"       "1"
-        "fgcolor_override" "2LightRed"
+        "fgcolor_override" "LightRed"
     }
     "SelectPlayerDialog"
     {

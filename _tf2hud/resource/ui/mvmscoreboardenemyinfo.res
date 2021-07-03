@@ -41,6 +41,6 @@
 		"ypos"			"3"
 		"wide"			"250"
 		"tall"			"32"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 }

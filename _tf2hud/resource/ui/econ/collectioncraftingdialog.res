@@ -229,7 +229,7 @@
 				"proportionaltoparent"	"1"
 				"paintbackground"			"0"
 
-				"defaultFgColor_override" "235 226 202 255"
+				"defaultFgColor_override" "TanLight"
 				"armedFgColor_override" "LightRed"
 				"depressedFgColor_override" "200 100 80 255"
 			}

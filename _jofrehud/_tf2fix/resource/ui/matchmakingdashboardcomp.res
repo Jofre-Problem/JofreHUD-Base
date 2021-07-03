@@ -68,7 +68,7 @@
 		"tall"			"8"
 		//"visible"		"1"
 		"proportionaltoparent"	"1"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"image"			"info"
 		"scaleImage"	"1"	
 		"alpha"			"75"
@@ -97,7 +97,7 @@
 		"tall"			"20"
 		"visible"		"0"
 		
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"eatmouseinput"	"0"	
 		"showtooltipswhenmousedisabled"	"1"
 		"proportionaltoparent" "1"
@@ -124,7 +124,7 @@
 		"Command"		"find_game"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_StartSearch"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
 

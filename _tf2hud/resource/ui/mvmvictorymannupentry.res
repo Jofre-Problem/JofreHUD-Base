@@ -13,7 +13,7 @@
 		"items_columns"	"2"
 		"items_xspacing" "55"
 		"items_yspacing" "50"
-		"mouseinputenabled" "1"
+		//"mouseinputenabled" "1"
 
 		"modelpanels_kv"
 		{
@@ -72,7 +72,7 @@
 			"wide"			"427"
 			"tall"			"1"
 			"visible"		"0"
-			"bgcolor_override"		"tanlight"
+			"bgcolor_override"		"TanLight"
 			"proportionalToParent"	"1"
 
 			"pin_to_sibling"               "PanelListPanel"
@@ -310,7 +310,7 @@
 			"zpos"			"3"
 			"wide"			"f0"
 			"tall"			"f0"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 			"proportionalToParent"	"1"
 		}
 
@@ -341,7 +341,7 @@
 			
 			"wide"			"200"
 			"tall"			"f0"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 
 			//"visible"		"1"
 		}
@@ -400,7 +400,7 @@
 		"xpos"			"320"
 		"ypos"			"5"
 		"wide"			"200"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 		"centerwrap"	"1"
 		"visible"		"0"
 	}
@@ -434,7 +434,7 @@
 		"wide"			"150"
 		"tall"			"15"
 		//"visible"		"1"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 		"proportionalToParent"	"1"
 		"paintbackground"	"0"	
 
@@ -455,7 +455,7 @@
 		"wide"			"150"
 		"tall"			"15"
 		//"visible"		"1"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 		"proportionalToParent"	"1"
 		"paintbackground"	"0"	
 
@@ -476,7 +476,7 @@
 		"wide"			"150"
 		"tall"			"15"
 		//"visible"		"1"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 		"proportionalToParent"	"1"
 		"paintbackground"	"0"	
 
@@ -497,7 +497,7 @@
 		"wide"			"80"
 		"tall"			"15"
 		"visible"		"0"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 
 	"PlayerNameLabel"
@@ -511,7 +511,7 @@
 		"ypos"			"-50"
 		"wide"			"200"
 		"tall"			"32"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 		"proportionalToParent"	"1"
 
 		"pin_to_sibling"               "playermodelpanel"

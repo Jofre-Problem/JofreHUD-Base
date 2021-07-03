@@ -31,7 +31,7 @@
 			"visible"		"0"
 			
 			
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 		}
 
 		"RewardItemKV"
@@ -499,7 +499,7 @@
 				"tall"			"315"
 				
 				"proportionaltoparent" "1"
-				"mouseinputenabled"	"1"
+				//"mouseinputenabled"	"1"
 
 				"Introduction"
 				{
@@ -718,7 +718,7 @@
 						"wide"			"f0"
 						"tall"			"f0"
 						"proportionaltoparent"	"1"
-						"mouseinputenabled"	"1"
+						//"mouseinputenabled"	"1"
 						"keyboardinputenabled"	"0"
 
 						"StartButton"
@@ -966,7 +966,7 @@
 					"wide"			"f0"
 					"tall"			"30"
 					"proportionaltoparent" "1"
-					"mouseinputenabled"		"1"
+					//"mouseinputenabled"		"1"
 
 					"border"		"QuickplayBorder"
 					"bgcolor_override"	"0 0 0 240"
@@ -1128,7 +1128,7 @@
 					"visible"		"0"
 					
 					"proportionaltoparent" "1"
-					"mouseinputenabled"		"1"
+					//"mouseinputenabled"		"1"
 					"keyboardinputenabled"	"0"
 					"border"	"CYOANodeViewBorder"
 					"collapsed_height"	"165"
@@ -1412,7 +1412,7 @@
 						"tall"			"f50"
 						//"visible"		"1"
 						"proportionaltoparent" "1"
-						"mouseinputenabled"	"1"
+						//"mouseinputenabled"	"1"
 						"bottom_buffer"	"50"
 						"scroll_step"	"20"
 

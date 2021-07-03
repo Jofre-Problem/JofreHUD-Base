@@ -12,7 +12,7 @@
 		"tall"			"o1.1"
 		//"visible"		"1"
 		"proportionaltoparent"	"1"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"keyboardinputenabled" "1"
 
 		"unidentified_height"	"20"
@@ -415,7 +415,7 @@
 				
 				
 				"proportionaltoparent"	"1"
-				"mouseinputenabled"	"1"
+				//"mouseinputenabled"	"1"
 
 				"FrontFolderImage"
 				{

@@ -76,7 +76,7 @@
 		"ypos"			"48"
 		"wide"			"100"
 		"tall"			"10"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 		//"visible"		"1"
 	}
 	
@@ -91,7 +91,7 @@
 		"ypos"			"25"
 		"wide"			"100"
 		"tall"			"10"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 		"visible"		"0"
 	}
 	
@@ -124,6 +124,6 @@
 		"ypos_minmode"	"37"
 		"wide"			"20"
 		"tall"			"19"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 }

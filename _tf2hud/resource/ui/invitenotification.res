@@ -125,7 +125,7 @@
 		"Command"		"accept"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#Notifications_Accept"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
 
@@ -164,7 +164,7 @@
 		"Command"		"decline"
 		"proportionaltoparent"	"1"
 		"labeltext"		"%cancel_text%"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
 

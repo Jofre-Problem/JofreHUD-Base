@@ -12,7 +12,7 @@
 		"paintbackground"		"0"
 		"paintborder"			"0"
 		"proportionaltoparent"	"1"
-		"mouseinputenabled"		"1"
+		//"mouseinputenabled"		"1"
 		"keyboardinputenabled"	"0"
 	}
 

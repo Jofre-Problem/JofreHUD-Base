@@ -70,7 +70,7 @@
 			
 			"wide"			"600"
 			"tall"			"35"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 	}
 	

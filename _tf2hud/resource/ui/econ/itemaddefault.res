@@ -59,7 +59,7 @@
 		"proportionaltoparent"	"1"
 
 		"allow_mouse_wheel_to_scroll" "0"
-		"mouseinputenabled"		"1"
+		//"mouseinputenabled"		"1"
 		"bottom_buffer"			"0"
 
 		"ScrollBar"
@@ -73,12 +73,12 @@
 			"zpos"			"1000"
 			"nobuttons"		"1"
 			"proportionaltoparent"	"1"
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 
 			"Slider"
 			{
 				"fgcolor_override"	"TanDark"
-				"mouseinputenabled"	"1"
+				//"mouseinputenabled"	"1"
 			}
 		
 			"UpButton"

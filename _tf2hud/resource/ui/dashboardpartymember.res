@@ -135,7 +135,7 @@
 		"Command"		"interact"
 		"proportionaltoparent"	"1"
 		"labeltext"		""
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
 

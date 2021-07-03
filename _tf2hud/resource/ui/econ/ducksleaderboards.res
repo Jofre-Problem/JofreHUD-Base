@@ -123,7 +123,7 @@
 				
 				"PaintBackgroundType"	"2"
 				"proportionaltoparent"	"1"
-				"mouseinputenabled"		"1"
+				//"mouseinputenabled"		"1"
 
 				"Title"
 				{

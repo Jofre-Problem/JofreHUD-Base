@@ -24,7 +24,7 @@
 		
 		"TipLabel"
 		{
-			"fgcolor_override"	"Tanlight"
+			"fgcolor_override"	"TanLight"
 		}
 	}
 

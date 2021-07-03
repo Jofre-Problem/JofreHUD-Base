@@ -130,7 +130,7 @@
 				"Command"		"cancel"
 				"proportionaltoparent" "1"
 				"actionsignallevel" "2"
-				"mouseinputenabled"	"1"
+				//"mouseinputenabled"	"1"
 			
 				"paintbackground"	"0"
 
@@ -376,7 +376,7 @@
 		"paintbackground"	"0"
 		"proportionaltoparent"	"1"
 		"paintborder"		"0"
-		"fgcolor"		"Tanlight"
+		"fgcolor"		"TanLight"
 	}
 
 	"ResponseTimeout"
@@ -400,7 +400,7 @@
 		"paintbackground"	"0"
 		"proportionaltoparent"	"1"
 		"paintborder"		"0"
-		"fgcolor"		"Tanlight"
+		"fgcolor"		"TanLight"
 	}
 
 	"NewItemPanel"
@@ -434,7 +434,7 @@
 			"paintbackground"	"0"
 			"proportionaltoparent"	"1"
 			"paintborder"		"0"
-			"fgcolor"		"Tanlight"
+			"fgcolor"		"TanLight"
 		}
 
 		"ItemName"
@@ -879,7 +879,7 @@
 		"proportionaltoparent"	"1"
 		"paintbackground"			"1"
 
-		"defaultFgColor_override" "235 226 202 255"
+		"defaultFgColor_override" "TanLight"
 		"armedFgColor_override" "LightRed"
 		"depressedFgColor_override" "200 100 80 255"
 	}
@@ -971,7 +971,7 @@
 				"proportionaltoparent"	"1"
 				"paintbackground"			"0"
 
-				"defaultFgColor_override" "235 226 202 255"
+				"defaultFgColor_override" "TanLight"
 				"armedFgColor_override" "LightRed"
 				"depressedFgColor_override" "200 100 80 255"
 			}

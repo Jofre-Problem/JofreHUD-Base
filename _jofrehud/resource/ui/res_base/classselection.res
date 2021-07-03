@@ -23,7 +23,7 @@
 		//"autoResize"		"0"
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		//"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			""
 		"textAlignment"		"south-west"
@@ -112,7 +112,7 @@
 		//"autoResize"		"0"
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		//"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"1"	[$WIN32]
 		"labelText"			""		[$X360]
@@ -176,7 +176,7 @@
 		//"autoResize"		"0"
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		//"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"2"	[$WIN32]
 		"labelText"			""		[$X360]
@@ -240,7 +240,7 @@
 		//"autoResize"		"0"
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		//"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"3"	[$WIN32]
 		"labelText"			""		[$X360]
@@ -329,7 +329,7 @@
 		//"autoResize"		"0"
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		//"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"4"	[$WIN32]
 		"labelText"			""		[$X360]
@@ -391,7 +391,7 @@
 		//"autoResize"		"0"
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		//"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"5"	[$WIN32]
 		"labelText"			""		[$X360]
@@ -452,7 +452,7 @@
 		//"autoResize"		"0"
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		//"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"6"	[$WIN32]
 		"labelText"			""		[$X360]
@@ -542,7 +542,7 @@
 		//"autoResize"		"0"
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		//"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"7"	[$WIN32]
 		"labelText"			""		[$X360]
@@ -605,7 +605,7 @@
 		//"autoResize"		"0"
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		//"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"8"	[$WIN32]
 		"labelText"			""		[$X360]
@@ -668,7 +668,7 @@
 		//"autoResize"		"0"
 		"pinCorner"			"2"
 		"visible"			"1"
-		"enabled"			"1"
+		//"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"9"	[$WIN32]
 		"labelText"			""		[$X360]
@@ -734,7 +734,7 @@
 		"textAlignment"	"center"
 		"Command"		"vguicancel"
 		"font"			"HudFontSmallBold"
-		"fgcolor_override" "2LightRed"
+		"fgcolor_override" "LightRed"
 	}
 	
 	"EditLoadoutButton" [$WIN32] 
@@ -1613,7 +1613,7 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "235 226 202 255"
+			"armedFgColor_override" "TanLight"
 			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"117 107 94 255"

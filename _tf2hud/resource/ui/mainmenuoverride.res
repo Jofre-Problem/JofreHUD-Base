@@ -263,7 +263,7 @@
 		"tall"			"1000"
 		"visible"		"0"
 		"proportionaltoparent"	"1"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 
 		"matchgroup"	"MatchGroup_Casual_12v12"
 
@@ -335,7 +335,7 @@
 		"tall"			"8"
 		//"visible"		"1"
 		"proportionaltoparent"	"1"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"image"			"info"
 		"scaleImage"	"1"	
 		"alpha"			"75"
@@ -865,7 +865,7 @@
 			
 			"paintbackground"	"0"
 			
-			//"defaultFgColor_override" "235 226 202 255"
+			//"defaultFgColor_override" "TanLight"
 			//"armedFgColor_override" "TanDarker"
 			"defaultFgColor_override" "TanDarker"
 			"armedFgColor_override" "TanLight"
@@ -1061,7 +1061,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
-			"defaultFgColor_override" "235 226 202 255"
+			"defaultFgColor_override" "TanLight"
 			"defaultBgColor_override" "TanDarker"
 			"armedFgColor_override" "TanLight"
 			"depressedFgColor_override" "235 226 202 255"

@@ -38,7 +38,7 @@
 			"font"			"QuestLargeText"
 			"TextAlignment"		"north-west"
 			"proportionaltoparent" "1"
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 			"paintbackground"	"0"
 			"armedFgColor_override"	"QuestMap_ActiveOrange"
 			"command"	"back"

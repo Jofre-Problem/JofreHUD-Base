@@ -9,18 +9,20 @@ Scheme
 
 		ComboBoxButton.BgColor			"Blank"
 		ComboBoxButton.DisabledBgColor	"Blank"
-		CheckButton.ArmedBgColor		"Blank"
-		CheckButton.DepressedBgColor	"Blank"
-		CheckButton.Border1  			"Blank"
-		CheckButton.Border2  			"Blank"
+	//	CheckButton.ArmedBgColor		"Blank"
+	//	CheckButton.DepressedBgColor	"Blank"
+		CheckButton.Border1  			"Border.Dark"
+		CheckButton.Border2  			"Border.Bright"
 
 		//F
-		Frame.TitleTextInsetX			"12"
-		Frame.TitleTextInsetY			"8"
-		Frame.ClientInsetX				"6"
+	//	Frame.TitleTextInsetX			"12"
+	// optimize this man
+	//	Frame.TitleTextInsetY			"8"
+	//	Frame.ClientInsetX				"6"
+	// optimize
 		Frame.ClientInsetY				"6"
 
-		FrameTitleBar.Font				"Default"
+	//	FrameTitleBar.Font				"Default"
 
 		FrameTitleButton.BgColor		"Blank"
 		FrameTitleButton.DisabledFgColor	"255 255 255 192"
@@ -29,7 +31,7 @@ Scheme
 		FrameTitleBar.DisabledBgColor	"Blank"
 
 		Label.DisabledFgColor2			"Blank"
-		Label.TextDullColor				"131 121 104 255"
+	//	Label.TextDullColor				"131 121 104 255"
 
 		ListPanel.OutOfFocusSelectedTextColor	"245 245 245 120"
 		ListPanel.EmptyListInfoTextColor	"245 245 245 120"

@@ -83,7 +83,7 @@
 
 		//"fgcolor_override"	"TanLight"
 		"bgcolor_override"	"0 0 0 255"
-		//"disabledFgColor_override" "235 226 202 255"
+		//"disabledFgColor_override" "TanLight"
 		"disabledBgColor_override" "0 0 0 255"
 		"selectionColor_override" "0 0 0 255"
 		"selectionTextColor_override" "TanLight"
@@ -118,7 +118,7 @@
 
 		//"fgcolor_override"	"TanLight"
 		"bgcolor_override"	"0 0 0 255"
-		//"disabledFgColor_override" "235 226 202 255"
+		//"disabledFgColor_override" "TanLight"
 		"disabledBgColor_override" "0 0 0 255"
 		"selectionColor_override" "0 0 0 255"
 		"selectionTextColor_override" "TanLight"
@@ -153,7 +153,7 @@
 
 		//"fgcolor_override"	"TanLight"
 		"bgcolor_override"	"0 0 0 255"
-		//"disabledFgColor_override" "235 226 202 255"
+		//"disabledFgColor_override" "TanLight"
 		"disabledBgColor_override" "0 0 0 255"
 		"selectionColor_override" "0 0 0 255"
 		"selectionTextColor_override" "TanLight"

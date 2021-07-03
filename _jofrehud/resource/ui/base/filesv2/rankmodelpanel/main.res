@@ -6,7 +6,7 @@
 		"fieldName"		"RankModelPanel"
 		"proportionaltoparent"	"1"
 	// this bugs everything
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 
 	"matchgroup"	"MatchGroup_Casual_12v12"
 

@@ -137,7 +137,7 @@
 		
 				"fgcolor_override"	"TanLight"
 				"bgcolor_override"	"Blank"
-				"disabledFgColor_override" "235 226 202 255"
+				"disabledFgColor_override" "TanLight"
 				"disabledBgColor_override" "Blank"
 				"selectionColor_override" "Blank"
 				"selectionTextColor_override" "TanLight"
