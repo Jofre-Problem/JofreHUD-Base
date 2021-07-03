@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"Scout"
-		"font"			"Default"
+		//"font"			"Default"
 		
 		"ypos"			"40"
 		"wide"			"300"
@@ -24,7 +24,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"Soldier"
-		"font"			"Default"
+		//"font"			"Default"
 		
 		"ypos"			"76"
 		"wide"			"300"
@@ -44,7 +44,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"Pyro"
-		"font"			"Default"
+		//"font"			"Default"
 		
 		"ypos"			"112"
 		"wide"			"300"
@@ -64,7 +64,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"Demoman"
-		"font"			"Default"
+		//"font"			"Default"
 		
 		"ypos"			"148"
 		"wide"			"300"
@@ -84,7 +84,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"Heavy"
-		"font"			"Default"
+		//"font"			"Default"
 		
 		"ypos"			"184"
 		"wide"			"300"
@@ -104,7 +104,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"Engineer"
-		"font"			"Default"
+		//"font"			"Default"
 		
 		"ypos"			"220"
 		"wide"			"300"
@@ -124,7 +124,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"Medic"
-		"font"			"Default"
+		//"font"			"Default"
 		
 		"ypos"			"256"
 		"wide"			"300"
@@ -144,7 +144,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"Sniper"
-		"font"			"Default"
+		//"font"			"Default"
 		
 		"ypos"			"292"
 		"wide"			"300"
@@ -164,7 +164,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"Spy"
-		"font"			"Default"
+		//"font"			"Default"
 		
 		"ypos"			"328"
 		"wide"			"300"
@@ -184,7 +184,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"Cancel"
-		"font"			"Default"
+		//"font"			"Default"
 		
 		"ypos"			"364"
 		"wide"			"300"

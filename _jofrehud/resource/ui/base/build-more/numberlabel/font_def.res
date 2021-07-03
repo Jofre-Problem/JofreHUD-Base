@@ -2,6 +2,6 @@
 {
 	"NumberLabel"
 	{	
-		"font"			"Default"
+		//"font"			"Default"
 	}
 }	

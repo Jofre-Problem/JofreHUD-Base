@@ -69,7 +69,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ActionText"
-		"font"			"Default"
+		//"font"			"Default"
 		"labelText"		"%actiontext%"
 		"textAlignment" "west"
 		"xpos"			"18"
@@ -84,7 +84,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SpellText"
-		"font"			"Default"
+		//"font"			"Default"
 		"labelText"		"%selectedspell%"
 		"textAlignment" "west"
 		"xpos"			"35"

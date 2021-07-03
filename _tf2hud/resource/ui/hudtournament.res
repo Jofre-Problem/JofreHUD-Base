@@ -12,13 +12,13 @@
 		"proportionaltoparent"	"1"
 
 		"team1_player_base_offset_x"		"-75"
-		"team1_player_base_y"				"0"
+		//"team1_player_base_y"				"0"
 		"team1_player_delta_x"				"-47"
-		"team1_player_delta_y"				"0"
+		//"team1_player_delta_y"				"0"
 		"team2_player_base_offset_x"		"25"
-		"team2_player_base_y"				"0"
+		//"team2_player_base_y"				"0"
 		"team2_player_delta_x"				"47"
-		"team2_player_delta_y"				"0"
+		//"team2_player_delta_y"				"0"
 		"teams_player_delta_x_comp"			"42"
 
 		"avatar_width"	"63"

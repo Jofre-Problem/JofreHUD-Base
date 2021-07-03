@@ -107,12 +107,9 @@
 		"fieldName"		"MapLabel"
 		"font"			"HudFontSmall"
 		//"font_hidef"		"HudFontMedium"
-		"xpos"			"r260"	[$WIN32]
-		"ypos"			"16"	[$WIN32]
-		"xpos"			"r285"	[$X360]
-		"ypos"			"32"	[$X360]
-		"wide"			"240"	[$WIN32]
-		"wide"			"220"	[$X360]
+		"xpos"			"r260"	
+		"ypos"			"16"
+		"wide"			"240"	
 		"tall"			"20"
 		//"tall_hidef"		"30"
 		
@@ -203,7 +200,7 @@
 		"tall"			"20"
 		
 		
-		//"visible"		"1"	[$WIN32]
+		//"visible"		"1"	
 		"visible_minmode"		"0"
 		
 		
@@ -250,8 +247,7 @@
 		"visible_minmode"		"0"
 		
 		"labelText"		"%tip%"
-		"textAlignment"		"center"	[$WIN32]
-		"textAlignment"		"north-west"	[$X360]
+		"textAlignment"		"center"
 		"font"			"SpectatorKeyHints"
 		//"font_hidef"	"HudFontSmall"
 		//"font_lodef"	"DefaultVerySmall"

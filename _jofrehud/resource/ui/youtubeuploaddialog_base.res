@@ -44,7 +44,7 @@
 {	
 	"TitleLabel"
 	{
-		"font"			"Default"
+		//"font"			"Default"
 		
 		"ypos"			"15"
 		"zpos"			"1"

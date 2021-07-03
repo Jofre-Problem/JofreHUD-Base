@@ -14,7 +14,7 @@
 		//"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
-		"font"			"Default"
+		//"font"			"Default"
 		"fgcolor_override"	"230 230 230 255"
 	}
 }	

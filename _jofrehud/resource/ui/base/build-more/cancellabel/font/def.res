@@ -2,6 +2,6 @@
 {
 	"CancelLabel"
 	{	
-		"font"			"Default"
+		//"font"			"Default"
 	}
 }	

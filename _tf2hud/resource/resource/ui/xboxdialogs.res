@@ -183,7 +183,7 @@
 		//"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
-		"font"			"Default"
+		//"font"			"Default"
 		//"font_hidef"	"UiBold"
 	}
 	"TimeLabel"
@@ -206,7 +206,7 @@
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
-		"font"			"Default"
+		//"font"			"Default"
 		//"font_hidef"	"Ui"
 	}
 	"ElapsedLabel"
@@ -229,7 +229,7 @@
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
-		"font"			"Default"
+		//"font"			"Default"
 		//"font_hidef"	"Ui"
 	}
 	"TypeLabel"
@@ -252,7 +252,7 @@
 		//"dulltext"		"0"
 		//"brighttext"		"0"
 		//"wrap"		"0"
-		"font"			"Default"
+		//"font"			"Default"
 		//"font_hidef"	"Ui"
 	}
 }

@@ -4,7 +4,7 @@
 	{	
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ChargeMeter"
-		"font"			"Default"
+		//"font"			"Default"
 		"zpos"			"2"			
 		//"autoResize"	"0"
 		//"pinCorner"		"0"

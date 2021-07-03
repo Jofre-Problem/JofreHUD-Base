@@ -40,7 +40,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CantBuildReason"
-		"font"			"Default"
+		//"font"			"Default"
 		"fgcolor"		"RedSolid"
 		"xpos"			"10"
 		"ypos"			"40"

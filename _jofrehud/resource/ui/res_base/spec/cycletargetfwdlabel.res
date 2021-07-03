@@ -9,8 +9,6 @@
 		"tall"			"20"
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
-		//"visible"		"1"	[$WIN32]
-		"visible"		"0"	[$X360]
 		//"enabled"		"1"
 		"labelText"		"#TF_Spectator_CycleTargetFwd"
 		"textAlignment"		"west"

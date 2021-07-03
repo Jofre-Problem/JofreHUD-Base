@@ -24,7 +24,7 @@
 			{	
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"Upgrade"
-				"font"			"Default"
+				//"font"			"Default"
 				"xpos"			"12"
 			//	"ypos"			"17"
 				"wide"			"38"

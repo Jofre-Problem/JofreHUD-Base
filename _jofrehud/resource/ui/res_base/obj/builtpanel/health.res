@@ -6,7 +6,7 @@
 		{	
 			"ControlName"	"CBuildingHealthBar"
 			"fieldName"		"Health"
-			"font"			"Default"
+			//"font"			"Default"
 			"xpos"			"13"
 			"ypos"			"2"
 			"wide"			"8"

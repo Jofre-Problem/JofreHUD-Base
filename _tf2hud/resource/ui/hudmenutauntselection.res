@@ -89,7 +89,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"WeaponTauntLabel"
-		"font"			"Default"
+		//"font"			"Default"
 		"xpos"			"17"
 		"ypos"			"49"
 		"zpos"			"2"
@@ -109,7 +109,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CancelLabel"
-		"font"			"Default"
+		//"font"			"Default"
 		"xpos"			"250"
 		"ypos"			"49"
 		"zpos"			"2"
@@ -180,7 +180,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel1"
-		"font"			"Default"
+		//"font"			"Default"
 		"fgcolor"		"Black"
 		"xpos"			"32"
 		"ypos"			"140"
@@ -252,7 +252,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel2"
-		"font"			"Default"
+		//"font"			"Default"
 		"fgcolor"		"Black"
 		"xpos"			"87"
 		"ypos"			"140"
@@ -324,7 +324,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel3"
-		"font"			"Default"
+		//"font"			"Default"
 		"fgcolor"		"Black"
 		"xpos"			"142"
 		"ypos"			"140"
@@ -396,7 +396,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel4"
-		"font"			"Default"
+		//"font"			"Default"
 		"fgcolor"		"Black"
 		"xpos"			"197"
 		"ypos"			"140"
@@ -468,7 +468,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel5"
-		"font"			"Default"
+		//"font"			"Default"
 		"fgcolor"		"Black"
 		"xpos"			"252"
 		"ypos"			"140"
@@ -540,7 +540,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel6"
-		"font"			"Default"
+		//"font"			"Default"
 		"fgcolor"		"Black"
 		"xpos"			"307"
 		"ypos"			"140"
@@ -612,7 +612,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel7"
-		"font"			"Default"
+		//"font"			"Default"
 		"fgcolor"		"Black"
 		"xpos"			"362"
 		"ypos"			"140"
@@ -684,7 +684,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel8"
-		"font"			"Default"
+		//"font"			"Default"
 		"fgcolor"		"Black"
 		"xpos"			"417"
 		"ypos"			"140"

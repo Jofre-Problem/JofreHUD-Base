@@ -89,7 +89,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ToggleLabel"
-		"font"			"Default"
+		//"font"			"Default"
 		"xpos"			"20"
 		"ypos"			"49"
 		"zpos"			"2"
@@ -109,7 +109,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CancelLabel"
-		"font"			"Default"
+		//"font"			"Default"
 		"xpos"			"250"
 		"ypos"			"49"
 		"zpos"			"2"
@@ -361,7 +361,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"Default"
+		//"font"			"Default"
 		"fgcolor"		"Black"
 		"xpos"			"75"
 		"ypos"			"140"
@@ -398,7 +398,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"Default"
+		//"font"			"Default"
 		"fgcolor"		"Black"
 		"xpos"			"227"
 		"ypos"			"140"
@@ -435,7 +435,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"Default"
+		//"font"			"Default"
 		"fgcolor"		"Black"
 		"xpos"			"379"
 		"ypos"			"140"

@@ -4,7 +4,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemNameLabel"
-		"font"			"Default"
+		//"font"			"Default"
 		"xpos"			"6"
 		
 		"zpos"			"1"
@@ -41,7 +41,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CantBuildReason"
-		"font"			"Default"
+		//"font"			"Default"
 		"xpos"			"10"
 		"ypos"			"48"
 		"zpos"			"2"

@@ -4,7 +4,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemNameLabel"
-		"font"			"Default"
+		//"font"			"Default"
 		"zpos"			"1"
 		//"autoResize"	"0"
 		//"pinCorner"		"0"

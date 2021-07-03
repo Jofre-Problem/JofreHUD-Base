@@ -81,7 +81,7 @@
 	{	
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ItemEffectMeter"
-		"font"			"Default"
+		//"font"			"Default"
 		"xpos"			"26"
 		"xpos_minmode"	"26"
 		"ypos"			"28"
@@ -104,7 +104,7 @@
 	{	
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ItemEffectMeter2"
-		"font"			"Default"
+		//"font"			"Default"
 		"xpos"			"52"
 		"xpos_minmode"	"52"
 		"ypos"			"28"

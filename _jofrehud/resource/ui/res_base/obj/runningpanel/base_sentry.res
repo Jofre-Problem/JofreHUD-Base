@@ -59,7 +59,7 @@
 			{	
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"Shells"
-				"font"			"Default"
+				//"font"			"Default"
 				"xpos"			"12"
 			//	"ypos"			"31"
 				"wide"			"38"

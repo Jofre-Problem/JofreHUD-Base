@@ -5,7 +5,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NotBuiltLabel"
-		"font"			"Default"
+		//"font"			"Default"
 		"xpos"			"10"
 		"ypos"			"48"
 		"zpos"			"2"

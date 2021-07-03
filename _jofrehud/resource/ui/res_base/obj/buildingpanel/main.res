@@ -35,7 +35,7 @@
 			{	
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"BuildingProgress"
-				"font"			"Default"
+				//"font"			"Default"
 				//"xpos"			"0"
 				"ypos"			"16"
 				"wide"			"50"

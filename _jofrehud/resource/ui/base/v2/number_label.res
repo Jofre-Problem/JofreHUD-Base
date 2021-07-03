@@ -4,7 +4,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"Default"
+		//"font"			"Default"
 		"fgcolor"		"TanLight"
 		//"xpos"			"0"
 		"ypos"			"98"

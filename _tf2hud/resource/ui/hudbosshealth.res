@@ -53,7 +53,7 @@
 	{	
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"StunMeter"
-		"font"			"Default"
+		//"font"			"Default"
 		"xpos"			"50"
 		"ypos"			"19"
 		"zpos"			"2"

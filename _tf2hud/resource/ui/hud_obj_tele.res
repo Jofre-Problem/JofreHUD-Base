@@ -184,7 +184,7 @@
 		{	
 			"ControlName"	"CBuildingHealthBar"
 			"fieldName"		"Health"
-			"font"			"Default"
+			//"font"			"Default"
 			"xpos"			"13"
 			"ypos"			"3"
 			"wide"			"8"
@@ -231,7 +231,7 @@
 			{	
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"BuildingProgress"
-				"font"			"Default"
+				//"font"			"Default"
 				
 				"ypos"			"16"
 				"wide"			"50"
@@ -289,7 +289,7 @@
 				{	
 					"ControlName"	"ContinuousProgressBar"
 					"fieldName"		"Recharge"
-					"font"			"Default"
+					//"font"			"Default"
 					
 					"ypos"			"11"
 					"wide"			"50"
@@ -357,7 +357,7 @@
 			{	
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"Upgrade"
-				"font"			"Default"
+				//"font"			"Default"
 				
 				"ypos"			"24"
 				"wide"			"50"

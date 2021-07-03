@@ -18,7 +18,7 @@
 				{	
 					"ControlName"	"ContinuousProgressBar"
 					"fieldName"		"Recharge"
-					"font"			"Default"
+					//"font"			"Default"
 					"xpos"			"12"
 					"ypos"			"6"
 					"wide"			"38"

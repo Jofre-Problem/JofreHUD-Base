@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"SentryLabel"
-		"font"			"Default"
+		//"font"			"Default"
 		
 		
 		"wide"			"150"
@@ -39,7 +39,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"DispenserLabel"
-		"font"			"Default"
+		//"font"			"Default"
 		"xpos"			"150"
 		
 		"wide"			"150"
@@ -74,7 +74,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"TeleEnterLabel"
-		"font"			"Default"
+		//"font"			"Default"
 		
 		"ypos"			"185"
 		"wide"			"150"
@@ -109,7 +109,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"TeleExitLabel"
-		"font"			"Default"
+		//"font"			"Default"
 		"xpos"			"150"
 		"ypos"			"185"
 		"wide"			"150"
@@ -144,7 +144,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"CancelLabel"
-		"font"			"Default"
+		//"font"			"Default"
 		
 		"ypos"			"370"
 		"wide"			"300"
