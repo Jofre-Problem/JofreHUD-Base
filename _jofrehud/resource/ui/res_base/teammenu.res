@@ -41,8 +41,7 @@
 		//"visible"		"1"
 		//"enabled"		"1"
 		"tabPosition"	"3"
-		"labelText"		"&3"	[$WIN32]
-		"labelText"		""		[$X360]
+		"labelText"		"&3"
 		"textAlignment"	"south-west"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -52,7 +51,7 @@
 		"associated_model"	"bluedoor"
 		"hover"				"2.0"
 		"font"			"MenuMainTitle"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"HUDWhite"
 	}
 
 	"teambutton1"
@@ -69,8 +68,7 @@
 		//"visible"		"1"
 		//"enabled"		"1"
 		"tabPosition"	"4"
-		"labelText"		"&4"	[$WIN32]
-		"labelText"		""		[$X360]
+		"labelText"		"&4"
 		"textAlignment"	"south-west"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -80,7 +78,7 @@
 		"associated_model"	"reddoor"	
 		"hover"				"2.0"
 		"font"			"MenuMainTitle"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"HUDWhite"
 	}
 	
 	"CancelButton" [$WIN32] 
@@ -202,13 +200,13 @@
 		{
 			"modelname"	"models/vgui/UI_team01_blue.mdl"
 			"skin"		"0"
-			"angles_x" "0"
+			//"angles_x" "0"
 			"angles_y" "180"
-			"angles_z" "0"
+			//"angles_z" "0"
 			"origin_x" "290"
 			//"origin_x_lodef" "320"
 			//"origin_x_hidef" "305"
-			"origin_y" "0"
+			//"origin_y" "0"
 			"origin_z" "-34"
 			
 			"animation"
@@ -275,13 +273,13 @@
 		{
 			"modelname"	"models/vgui/UI_team01_red.mdl"
 			"skin"		"0"
-			"angles_x" "0"
+			//"angles_x" "0"
 			"angles_y" "180"
-			"angles_z" "0"
+			//"angles_z" "0"
 			"origin_x" "290"
 			//"origin_x_lodef" "320"
 			//"origin_x_hidef" "305"
-			"origin_y" "0"
+			//"origin_y" "0"
 			"origin_z" "-34"
 			
 			"animation"

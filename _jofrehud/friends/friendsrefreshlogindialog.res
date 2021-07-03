@@ -1,7 +1,7 @@
 #base "base/usernameedit_main.res"
 #base "base/usernameedit_tab1.res"
 #base "base/usernameedit_numeric.res"
-
+#base "base/unnamed1.res"
 #base "../#uni_base/filesv1/cancelbutton/autoresize_pin.res"
 #base "../#uni_base/filesv1/cancelbutton/ctrl/btn.res"
 #base "../#uni_base/filesv1/cancelbutton/def0.res"

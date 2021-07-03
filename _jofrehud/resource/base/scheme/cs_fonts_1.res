@@ -165,7 +165,7 @@ Scheme
 				"name"		"Segoe UI"
 				
 				"tall"		"12"
-				"antialias"	"1"
+				//"antialias"	"1"
 			}
 		}
 

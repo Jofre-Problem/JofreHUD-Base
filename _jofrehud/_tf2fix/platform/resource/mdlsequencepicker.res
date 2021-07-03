@@ -35,7 +35,7 @@
 					"tall"			"24"
 					"AutoResize"	"1"
 					
-					"UnpinnedCornerOffsetX" "-6"
+					//"UnpinnedCornerOffsetX" "-6"
 					//"visible"		"1"
 					
 					
@@ -55,8 +55,8 @@
 					"tall"			"542"
 					"AutoResize"	"3"
 					
-					"UnpinnedCornerOffsetX" "-6"
-					"UnpinnedCornerOffsetY" "-6"
+					//"UnpinnedCornerOffsetX" "-6"
+					//"UnpinnedCornerOffsetY" "-6"
 					//"visible"		"1"
 					
 					
@@ -90,8 +90,8 @@
 							"tall"			"256"
 							"AutoResize"	"3"
 							
-							"UnpinnedCornerOffsetX" "-6"
-							"UnpinnedCornerOffsetY" "-6"
+							//"UnpinnedCornerOffsetX" "-6"
+							//"UnpinnedCornerOffsetY" "-6"
 							//"visible"		"1"
 							
 							
@@ -110,8 +110,8 @@
 							"tall"			"256"
 							"AutoResize"	"3"
 							
-							"UnpinnedCornerOffsetX" "-6"
-							"UnpinnedCornerOffsetY" "-6"
+							//"UnpinnedCornerOffsetX" "-6"
+							//"UnpinnedCornerOffsetY" "-6"
 							//"visible"		"1"
 							
 							

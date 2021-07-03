@@ -46,8 +46,8 @@
 			"tall"			"316"
 			"AutoResize"	"3"
 			
-			//"UnpinnedCornerOffsetX" "-6"
-			"UnpinnedCornerOffsetY" "-34"
+			////"UnpinnedCornerOffsetX" "-6"
+			//"UnpinnedCornerOffsetY" "-34"
 			//"visible"		"1"
 			
 			

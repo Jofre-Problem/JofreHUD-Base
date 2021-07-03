@@ -252,9 +252,6 @@ Scheme
 			{
 				"name"		 "Segoe UI"
 				"tall"		 "10"
-				//"tall_lodef" "15"
-				//"tall_hidef" "20"
-				//"weight"	 "0"
 				"outline"	 "1"
 			}
 		}

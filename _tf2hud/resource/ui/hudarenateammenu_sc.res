@@ -227,16 +227,14 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TeamMenuAuto"
-		"xpos"			"c-280" [$WIN32] 
-		"xpos"			"c-276" [$X360]
+		"xpos"			"c-280" 
 		//"xpos_lodef"			"c-255"
 		//"xpos_hidef"			"c-260"
 		"ypos"			"55"
 		//"ypos_lodef"			"72"
 		//"ypos_hidef"			"65"
 		"zpos"			"1"
-		"wide"			"102" [$WIN32] 
-		"wide"			"94" [$X360]
+		"wide"			"102"
 		"tall"			"24"
 		
 		
@@ -297,13 +295,13 @@
 		{
 			"modelname"	"models/vgui/ui_arena01.mdl"
 			"skin"		"0"
-			//"angles_x" "0"
+			////"angles_x" "0"
 			"angles_y" "180"
-			//"angles_z" "0"
+			////"angles_z" "0"
 			"origin_x" "290"
 			//"origin_x_hidef" "305"
 			//"origin_x_lodef" "320"
-			//"origin_y" "0"
+			////"origin_y" "0"
 			"origin_z" "-34"
 		}
 	}	
@@ -351,13 +349,13 @@
 		{
 			"modelname"	"models/vgui/ui_arenadoor01.mdl"
 			"skin"		"0"
-			//"angles_x" "0"
+			////"angles_x" "0"
 			"angles_y" "180"
-			//"angles_z" "0"
+			////"angles_z" "0"
 			"origin_x" "290"
 			//"origin_x_lodef" "320"
 			//"origin_x_hidef" "305"
-			//"origin_y" "0"
+			////"origin_y" "0"
 			"origin_z" "-34"
 			
 			"animation"
@@ -400,13 +398,13 @@
 		{
 			"modelname"	"models/vgui/UI_team01_spectate.mdl"
 			"skin"		"0"
-			//"angles_x" "0"
+			////"angles_x" "0"
 			"angles_y" "180"
-			//"angles_z" "0"
+			////"angles_z" "0"
 			"origin_x" "290"
 			//"origin_x_lodef" "320"
 			//"origin_x_hidef" "305"
-			//"origin_y" "0"
+			////"origin_y" "0"
 			"origin_z" "-34"
 			
 			"animation"

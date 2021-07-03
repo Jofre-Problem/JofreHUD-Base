@@ -42,10 +42,10 @@
 		//"visible"		"1"
 		
 		
-		"pinnedCornerOffsetX" "6"
-		"pinnedCornerOffsetY" "-6"
-		"UnpinnedCornerOffsetX" "-6"
-		"UnpinnedCornerOffsetY" "-42"
+		//"PinnedCornerOffsetX" "6"
+		//"PinnedCornerOffsetY" "-6"
+		//"UnpinnedCornerOffsetX" "-6"
+		//"UnpinnedCornerOffsetY" "-42"
 	}
 	"TimeCode"
 	{

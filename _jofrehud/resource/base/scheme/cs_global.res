@@ -9,10 +9,7 @@ Scheme
 
 		ComboBoxButton.BgColor			"Blank"
 		ComboBoxButton.DisabledBgColor	"Blank"
-	//	CheckButton.ArmedBgColor		"Blank"
-	//	CheckButton.DepressedBgColor	"Blank"
-		CheckButton.Border1  			"Border.Dark"
-		CheckButton.Border2  			"Border.Bright"
+
 
 		//F
 	//	Frame.TitleTextInsetX			"12"
@@ -28,8 +25,6 @@ Scheme
 		FrameTitleButton.DisabledFgColor	"255 255 255 192"
 		FrameTitleButton.DisabledBgColor	"Blank"
 
-		FrameTitleBar.DisabledBgColor	"Blank"
-
 		Label.DisabledFgColor2			"Blank"
 	//	Label.TextDullColor				"131 121 104 255"
 
@@ -38,13 +33,13 @@ Scheme
 		ListPanel.TextBgColor				"Blank"
 
 		//M
-		MainMenu.TextColor			"40 34 30 255"
-		MainMenu.Inset				"32"
-		Menu.TextInset			"6"
+		//MainMenu.TextColor			"40 34 30 255"
+		//MainMenu.Inset				"32"
+		//Menu.TextInset			"6"
 
 
 
-		ScrollBar.Wide					15
+		//ScrollBar.Wide					15
 		SectionedListPanel.HeaderBgColor	"Blank"
 		SectionedListPanel.DividerColor		"Black"
 		Slider.TextColor			"244 244 244 255"

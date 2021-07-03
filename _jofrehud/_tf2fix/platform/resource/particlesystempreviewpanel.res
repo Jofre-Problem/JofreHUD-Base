@@ -67,8 +67,8 @@
 				"tall"			"24"
 				
 				"PinCorner"		"3"
-				"PinnedCornerOffsetX" "-6"
-				"PinnedCornerOffsetY" "-6"
+				//"PinnedCornerOffsetX" "-6"
+				//"PinnedCornerOffsetY" "-6"
 				//"visible"		"1"
 				
 				

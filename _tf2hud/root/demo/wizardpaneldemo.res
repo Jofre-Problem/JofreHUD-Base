@@ -7,7 +7,7 @@
 		"xpos"		"30"
 		"ypos"		"130"
 		"wide"		"240"
-		"tall"		"20"
+		"tall"		"24"	//changed to 24 from 20
 		
 		
 		//"visible"		"1"

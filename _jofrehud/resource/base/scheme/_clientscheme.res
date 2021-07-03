@@ -19,3 +19,6 @@
 	#base "colors/green.res"
 	#base "colors/orange.res"
 	#base "bs/borderdot.res"
+	#base "bs/mm_inset6.res"
+	#base "bs/v1/checkbtn-bg.res"
+	#base "bs/v1/frametitle-disablebg.res"

@@ -48,7 +48,7 @@
 							"tall"			"24"
 							
 							
-							"pinnedCornerOffsetX" "6"
+							//"PinnedCornerOffsetX" "6"
 							//"visible"		"1"
 							
 							
@@ -68,8 +68,8 @@
 							"tall"			"24"
 							"AutoResize"	"1"
 							
-							"pinnedCornerOffsetX" "75"
-							//"UnpinnedCornerOffsetX" "-70"
+							//"PinnedCornerOffsetX" "75"
+							////"UnpinnedCornerOffsetX" "-70"
 							//"visible"		"1"
 							
 							
@@ -88,7 +88,7 @@
 							"ypos"			"6"
 							"wide"			"60"
 							"tall"			"24"
-							"pinnedCornerOffsetX" "-6"
+							//"PinnedCornerOffsetX" "-6"
 							
 							"PinCorner"		"1"
 							"labelText"		"#AssetPicker_Rescan"
@@ -123,8 +123,8 @@
 							"tall"			"24"
 							"autoResize"	"3"
 							
-							//"UnpinnedCornerOffsetX" "-6"
-							"UnpinnedCornerOffsetY" "-6"
+							////"UnpinnedCornerOffsetX" "-6"
+							//"UnpinnedCornerOffsetY" "-6"
 							//"visible"		"1"
 							
 							
@@ -143,8 +143,8 @@
 							"tall"			"212"
 							"AutoResize"	"3"
 							
-							//"UnpinnedCornerOffsetX" "-6"
-							"UnpinnedCornerOffsetY" "-64"
+							////"UnpinnedCornerOffsetX" "-6"
+							//"UnpinnedCornerOffsetY" "-64"
 							//"visible"		"1"
 							
 							"tabPosition"	"1"
@@ -160,8 +160,8 @@
 							"tall"			"24"
 							
 							"pinCorner"		"2"
-							"pinnedCornerOffsetX" "6"
-							"pinnedCornerOffsetY" "-34"
+							//"PinnedCornerOffsetX" "6"
+							//"PinnedCornerOffsetY" "-34"
 							//"visible"		"1"
 							
 							
@@ -181,9 +181,9 @@
 							"tall"			"24"
 							"autoResize"	"1"
 							"pinCorner"		"2"
-							"pinnedCornerOffsetX" "75"
-							"pinnedCornerOffsetY" "-34"
-							//"UnpinnedCornerOffsetX" "-6"
+							//"PinnedCornerOffsetX" "75"
+							//"PinnedCornerOffsetY" "-34"
+							////"UnpinnedCornerOffsetX" "-6"
 							//"visible"		"1"
 							"enabled"		"0"
 							"editable"		"0"
@@ -204,8 +204,8 @@
 							"tall"			"24"
 							
 							"pinCorner"		"2"
-							"pinnedCornerOffsetX" "6"
-							"pinnedCornerOffsetY" "-6"
+							//"PinnedCornerOffsetX" "6"
+							//"PinnedCornerOffsetY" "-6"
 							//"visible"		"1"
 							
 							
@@ -225,9 +225,9 @@
 							"tall"			"24"
 							"AutoResize"	"1"
 							"PinCorner"		"2"
-							"pinnedCornerOffsetX" "75"
-							"pinnedCornerOffsetY" "-6"
-							//"UnpinnedCornerOffsetX" "-6"
+							//"PinnedCornerOffsetX" "75"
+							//"PinnedCornerOffsetY" "-6"
+							////"UnpinnedCornerOffsetX" "-6"
 							//"visible"		"1"
 							
 							"tabPosition"	"2"
@@ -268,8 +268,8 @@
 							"tall"			"256"
 							"AutoResize"	"3"
 							
-							//"UnpinnedCornerOffsetX" "-6"
-							"UnpinnedCornerOffsetY" "-6"
+							////"UnpinnedCornerOffsetX" "-6"
+							//"UnpinnedCornerOffsetY" "-6"
 							//"visible"		"1"
 							
 							
@@ -288,8 +288,8 @@
 							"tall"			"256"
 							"AutoResize"	"3"
 							
-							//"UnpinnedCornerOffsetX" "-6"
-							"UnpinnedCornerOffsetY" "-6"
+							////"UnpinnedCornerOffsetX" "-6"
+							//"UnpinnedCornerOffsetY" "-6"
 							//"visible"		"1"
 							
 							

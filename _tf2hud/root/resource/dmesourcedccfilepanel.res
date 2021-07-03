@@ -11,7 +11,7 @@
 		"AutoResize"	"3"
 		
 		
-		"UnpinnedCornerOffsetY" "-60"
+		//"UnpinnedCornerOffsetY" "-60"
 		//"visible"		"1"
 		
 		
@@ -27,7 +27,7 @@
 		"tall"			"24"
 		
 		"PinCorner"		"2"
-		"pinnedCornerOffsetY" "-30"
+		//"PinnedCornerOffsetY" "-30"
 		"labelText"		"#AssetBuilder_AddSource"
 		//"visible"		"1"
 		
@@ -44,7 +44,7 @@
 		"tall"			"24"
 		
 		"PinCorner"		"3"
-		"pinnedCornerOffsetY" "-30"
+		//"PinnedCornerOffsetY" "-30"
 		
 		"labelText"		"#AssetBuilder_RemoveSource"
 		//"visible"		"1"
@@ -76,7 +76,7 @@
 		"ypos"		"32"
 		"wide"		"390"
 		"tall"		"24"
-		//"UnpinnedCornerOffsetX" "-66"
+		////"UnpinnedCornerOffsetX" "-66"
 		
 		"autoResize"		"1"
 		"pinCorner"		"2"

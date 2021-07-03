@@ -18,11 +18,11 @@
 		"model"
 		{
 			"skin"		"0"
-			"angles_x" "0"
+			//"angles_x" "0"
 			"angles_y" "180"
-			"angles_z" "0"
+			//"angles_z" "0"
 		//	"origin_x" "365"
-			"origin_y" "0"
+			//"origin_y" "0"
 		//	"origin_z" "-40"
 		}
 	}	

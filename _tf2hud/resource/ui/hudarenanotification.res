@@ -29,8 +29,7 @@
 		"zpos"			"1"
 		"wide"			"50"
 		"tall"			"50"
-		"wide"			"230"	[$WIN32]
-		"wide"			"180"	[$X360]
+		"wide"			"230"
 		"tall"			"55"
 		
 		
@@ -50,8 +49,7 @@
 		//"ypos_hidef"	"23"
 		//"ypos_lodef"	"20"
 		"zpos"			"1"
-		"wide"			"230"	[$WIN32]
-		"wide"			"180"	[$X360]
+		"wide"			"230"
 		"tall"			"55"
 		
 		
@@ -72,8 +70,7 @@
 		//"ypos_hidef"	"23"
 		//"ypos_lodef"	"20"
 		"zpos"			"1"
-		"wide"			"230"	[$WIN32]
-		"wide"			"180"	[$X360]
+		"wide"			"230"
 		"tall"			"30"
 		
 		

@@ -6,8 +6,7 @@
 		"fieldName" 		"HudChat"
 		
 		
-		"xpos"			"10"	[$WIN32]
-		"xpos"			"42"	[$X360]
+		"xpos"			"10"	
 		"ypos"			"275"
 		//"ypos_hidef"		"245"
 		"wide"	 		"280"
@@ -18,11 +17,8 @@
 	ChatInputLine
 	{
 		"ControlName"		"EditablePanel"
-		"fieldName" 		ChatInputLine
-		
-		
-		"xpos"			"10"	[$WIN32]
-		"xpos"			"42"	[$X360]
+		"fieldName" 		"ChatInputLine"
+		"xpos"			"10"	
 		"ypos"			"395"
 		"wide"	 		"260"
 		"tall"	 		"2"
@@ -53,10 +49,8 @@
 	{
 		"ControlName"		"RichText"
 		"fieldName"		"HudChatHistory"
-		"xpos"			"10"	[$WIN32]
-		"ypos"			"17"	[$WIN32]
-		"xpos"			"10"	[$X360]
-		"ypos"			"10"	[$X360]
+		"xpos"			"10"	
+		"ypos"			"17"	
 		"wide"	 		"260"
 		"tall"			"75"
 		"wrap"			"1"

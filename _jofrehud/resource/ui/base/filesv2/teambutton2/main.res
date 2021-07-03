@@ -20,7 +20,7 @@
 		"paintborder"	"0"
 		"associated_model"	"autodoor"
 		"font"			"MenuMainTitle"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"HUDWhite"
 	}
 	"teambutton3"
 	{
@@ -42,6 +42,6 @@
 		"paintborder"	"0"
 		"associated_model"	"spectate"	
 		"font"			"MenuMainTitle"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"HUDWhite"
 	}
 }

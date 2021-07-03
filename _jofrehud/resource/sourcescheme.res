@@ -19,13 +19,6 @@ Scheme
 				
 			}
 		}
-		"MenuLarge"
-		{
-			"1"	[$X360]
-			{
-				//"tall_hidef"		"24"
-			}
-		}
 
 		"ServerBrowserTitle"
 		{
@@ -40,10 +33,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
-				
+				"name"		"Segoe UI"			
 				"tall"		"14"
-				"weight"	"500"
 			}
 		}
 
@@ -77,7 +68,7 @@ Scheme
 		}
 		
 				
-		AchievementItemTitle	[$WIN32]
+		AchievementItemTitle
 		{
 			"1"
 			{
@@ -86,7 +77,7 @@ Scheme
 			}
 		}
 		
-		AchievementItemTitleLarge	[$WIN32]
+		AchievementItemTitleLarge
 		{
 			"1"
 			{
@@ -95,7 +86,7 @@ Scheme
 			}
 		}
 		
-		AchievementItemDescription	[$WIN32]
+		AchievementItemDescription
 		{
 			"1"
 			{
