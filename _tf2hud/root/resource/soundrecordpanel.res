@@ -25,14 +25,14 @@
 		"wide"		"122"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labelText"		"Ok"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Ok"
 		"Default"		"0"
@@ -46,14 +46,14 @@
 		"wide"		"122"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		"labelText"		"#FileOpenDialog_Cancel"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Cancel"
 		"Default"		"0"
@@ -73,8 +73,8 @@
 		
 		"labelText"		"Play"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Play"
 		"Default"		"0"
@@ -94,8 +94,8 @@
 		
 		"labelText"		"Record"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"ToggleRecord"
 		"Default"		"0"
@@ -115,8 +115,8 @@
 		
 		"labelText"		"Recording Into File:"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"filename"
@@ -127,7 +127,7 @@
 		"ypos"		"67"
 		"wide"		"360"
 		"tall"		"24"
-		"autoResize"		"1"
+		////"autoresize"		"1"
 		////"UnpinnedCornerOffsetX" "-20"
 		
 		//"visible"		"1"
@@ -154,8 +154,8 @@
 		
 		"labelText"		"Time Recorded"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"RecordTime"
@@ -192,8 +192,8 @@
 		
 		"labelText"		"sec"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Divider1"
@@ -204,7 +204,7 @@
 		"ypos"		"211"
 		"wide"		"360"
 		"tall"		"2"
-		"autoResize"		"1"
+		////"autoresize"		"1"
 		////"UnpinnedCornerOffsetX" "-20"
 		
 		//"visible"		"1"

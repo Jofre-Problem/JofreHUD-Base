@@ -36,7 +36,7 @@
 		"labelText"		"#TF_Ubercharge"
 		"labelText_minmode"		"#TF_UberchargeMinHUD"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"HudFontSmallest"
 	}
@@ -60,7 +60,7 @@
 		"labelText"		"#TF_IndividualUbercharges"
 		"labelText_minmode"		"#TF_IndividualUberchargesMinHUD"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"HudFontSmallest"
 	}
@@ -82,7 +82,7 @@
 		//"visible"		"1"
 		
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}		
 
@@ -103,7 +103,7 @@
 		//"visible"		"1"
 		
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 
@@ -124,7 +124,7 @@
 		//"visible"		"1"
 		
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 
@@ -145,7 +145,7 @@
 		//"visible"		"1"
 		
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 
@@ -166,7 +166,7 @@
 		//"visible"		"1"
 		
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	

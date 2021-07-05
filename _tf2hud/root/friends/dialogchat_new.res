@@ -25,11 +25,11 @@
 		"ypos"		"214"
 		"wide"		"360"
 		"tall"		"44"
-		"AutoResize"		"1"
-		"PinCorner"		"2"
+		////"autoresize"		"1"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"paintbackground"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
@@ -45,7 +45,7 @@
 		"ypos"		"72"
 		"wide"		"423"
 		"tall"		"134"
-		"AutoResize"		"3"
+		//"autoresize"		"3"
 		
 		//"visible"		"1"
 		"enabled"		"0"
@@ -62,10 +62,10 @@
 		"wide"		"56"
 		"tall"		"44"
 		
-		"PinCorner"		"3"
+		//"pincorner"		"3"
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		//"paintbackground"		"1"
 		"labelText"		"#Friends_Chat_Send"
 		//"textAlignment"		"west"
@@ -81,8 +81,8 @@
 		"ypos"		"262"
 		"wide"		"388"
 		"tall"		"18"
-		"AutoResize"		"1"
-		"PinCorner"		"2"
+		////"autoresize"		"1"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
 		
@@ -100,7 +100,7 @@
 		"ypos"		"44"
 		"wide"		"354"
 		"tall"		"24"
-		"AutoResize"		"1"
+		////"autoresize"		"1"
 		
 		//"visible"		"1"
 		

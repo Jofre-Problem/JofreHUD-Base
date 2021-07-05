@@ -157,8 +157,8 @@
 		
 		"labelText"		"0"
 		"textAlignment"		"north-west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -177,8 +177,8 @@
 		
 		"labelText"		"1"
 		"textAlignment"		"north-west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -197,8 +197,8 @@
 		
 		"labelText"		"o"
 		"textAlignment"		"north-west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"MinimizeToSysTray"
 		"Default"		"0"
@@ -218,8 +218,8 @@
 		
 		"labelText"		"r"
 		"textAlignment"		"north-west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -237,8 +237,8 @@
 		
 		
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -257,8 +257,8 @@
 		
 		"labelText"		"Record"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"RecordGame"
 		"Default"		"0"
@@ -278,8 +278,8 @@
 		
 		"labelText"		"Cancel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"CancelRecord"
 		"Default"		"0"
@@ -299,8 +299,8 @@
 		
 		"labelText"		"Choose Dem:"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"ChooseDemText"
@@ -337,8 +337,8 @@
 		
 		"labelText"		"Choose Map:"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"ChooseMapText"
@@ -375,8 +375,8 @@
 		
 		"labelText"		"Choose Map"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"ChooseMap"
 		"Default"		"0"
@@ -396,8 +396,8 @@
 		
 		"labelText"		"Record Camera Position"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"1"
@@ -417,8 +417,8 @@
 		
 		"labelText"		"Record Camera Angles"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"1"
@@ -438,8 +438,8 @@
 		
 		"labelText"		"Record Camera FOV"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"1"
@@ -459,8 +459,8 @@
 		
 		"labelText"		"View From Player"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"1"
@@ -480,8 +480,8 @@
 		
 		"labelText"		"Snap Player To Tool Camera"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
@@ -501,8 +501,8 @@
 		
 		"labelText"		"Enable noclip"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
@@ -522,8 +522,8 @@
 		
 		"labelText"		"Record World"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"1"
@@ -543,8 +543,8 @@
 		
 		"labelText"		"Record Stationary Ents"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
@@ -564,8 +564,8 @@
 		
 		"labelText"		"Record Sprites"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
@@ -585,8 +585,8 @@
 		
 		"labelText"		"Record Sounds"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"1"
@@ -606,8 +606,8 @@
 		
 		"labelText"		"Record Narration"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
@@ -627,8 +627,8 @@
 		
 		"labelText"		"From Start of Sequence"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
@@ -648,8 +648,8 @@
 		
 		"labelText"		"Sequence Name"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"SequenceText"
@@ -686,8 +686,8 @@
 		
 		"labelText"		"Shot Name"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"ShotText"

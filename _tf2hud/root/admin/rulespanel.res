@@ -8,11 +8,11 @@
 		"ypos"		"10"
 		"wide"		"540" 
 		"tall"		"210"
-		"autoResize"	"3"
+		//"autoresize"	"3"
 		
 		//"visible"		"1"
 		
-		"tabPosition"	"1"
+		//"tabPosition"	"1"
 	}
 	"Change"
 	{
@@ -23,14 +23,14 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labelText"		"#Rules_Panel_List_Edit"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 		"command"		"edit"
 

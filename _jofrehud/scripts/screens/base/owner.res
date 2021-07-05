@@ -15,7 +15,7 @@
 		//"tabposition"	"0"
 		"labelText"		"No Owner"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"paintBackground" "0"
 	}
 }	

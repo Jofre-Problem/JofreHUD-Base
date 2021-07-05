@@ -40,7 +40,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 	}
 	"MapCycleList"
 	{
@@ -54,7 +54,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 	}
 	"RightButton"
 	{
@@ -68,11 +68,11 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		"labelText"		"->"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"ArrowRight"
 		"Default"		"0"
 	}
@@ -88,11 +88,11 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"<-"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"ArrowLeft"
 		"Default"		"0"
 	}
@@ -108,11 +108,11 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		"labelText"		"Move up"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"ArrowUp"
 		"Default"		"0"
 	}
@@ -128,11 +128,11 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabPosition"		"6"
 		"labelText"		"Move down"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"ArrowDown"
 		//"Default"		"1"
 	}
@@ -148,11 +148,11 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"8"
+		//"tabPosition"		"8"
 		"labelText"		"Cancel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"Cancel"
 		"Default"		"0"
 	}
@@ -168,11 +168,11 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabPosition"		"7"
 		"labelText"		"OK"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"OK"
 		"Default"		"0"
 	}

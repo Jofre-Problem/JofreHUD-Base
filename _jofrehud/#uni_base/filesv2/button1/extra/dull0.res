@@ -3,6 +3,6 @@
 {
 	"Button1"
 	{
-		"dulltext"		"0"
+		//"dulltext"		"0"
 	}
 }

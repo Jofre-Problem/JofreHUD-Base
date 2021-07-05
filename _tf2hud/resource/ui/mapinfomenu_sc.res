@@ -127,7 +127,7 @@
 		
 		"labelText"		"#TF_Continue"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"command"		"continue"
 		//"Default"		"1"
@@ -149,7 +149,7 @@
 		//"visible"		"1"
 		
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
@@ -172,7 +172,7 @@
 		
 		"labelText"		"#TF_WatchIntro"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"command"		"intro"
 		//"Default"		"1"
@@ -195,7 +195,7 @@
 		
 		"labelText"		"Y"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_toggle_function"
@@ -219,7 +219,7 @@
 		
 		"labelText"		"#TF_Back"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"command"		"back"
 		"font"			"MenuSmallFont"
@@ -240,7 +240,7 @@
 		//"visible"		"1"
 		
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_cancel"

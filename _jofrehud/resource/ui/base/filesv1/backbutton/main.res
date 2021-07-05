@@ -10,7 +10,7 @@
 		//"enabled"		"1"
 		//"tabposition"	"0"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"back"
 		"sound_depressed"	"UI/buttonclick.wav"

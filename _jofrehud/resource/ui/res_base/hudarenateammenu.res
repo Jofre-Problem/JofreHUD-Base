@@ -54,7 +54,7 @@
 		//"tabposition"	"0"
 		"labelText"		"#TF_Cancel"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"cancelmenu"
 		"font"			"MenuSmallFont"

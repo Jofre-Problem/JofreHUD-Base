@@ -11,8 +11,8 @@
 		"tabPosition"		"0"
 		"labelText"		"0"
 		"textAlignment"		"north-west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 	"Maximize"
@@ -26,8 +26,8 @@
 		"tabPosition"		"0"
 		"labelText"		"1"
 		"textAlignment"		"north-west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		"Default"		"0"
 	}
 }	

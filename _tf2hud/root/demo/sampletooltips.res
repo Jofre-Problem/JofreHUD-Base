@@ -11,7 +11,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"Label Tooltip"
 		//"textAlignment"		"west"
 		"tooltiptext" "Test tooltip"
@@ -29,7 +29,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"RadioButton"
 		//"textAlignment"		"west"
 		"default"		"0"

@@ -9,7 +9,7 @@
 		"wide"		"100"
 		"tall"		"20"
 		//"autoResize"	"0"
-		"pinCorner"	"0"
+		//"pinCorner"	"0"
 		"visible"	"1"
 		"enabled"	"1"
 	}
@@ -68,7 +68,7 @@
 		"wide"		"75"
 		"tall"		"20"
 		//"autoResize"	"0"
-		"pinCorner"	"0"
+		//"pinCorner"	"0"
 		"visible"	"1"
 		"enabled"	"1"
 	}	
@@ -97,7 +97,7 @@
 		"wide"		"75"
 		"tall"		"20"
 		//"autoResize"	"0"
-		"pinCorner"	"0"
+		//"pinCorner"	"0"
 		"visible"	"1"
 		"enabled"	"1"
 	}	

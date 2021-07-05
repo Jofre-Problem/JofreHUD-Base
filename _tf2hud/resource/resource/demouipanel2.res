@@ -31,8 +31,8 @@
 		
 		"labelText"		"Play"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"play"
 		"Default"		"0"
@@ -52,8 +52,8 @@
 		
 		"labelText"		"Stop"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"stop"
 		"Default"		"0"
@@ -73,8 +73,8 @@
 		
 		"labelText"		"Load..."
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"load"
 		//"Default"		"1"
@@ -94,8 +94,8 @@
 		
 		"labelText"		"|<"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"reload"
 		"Default"		"0"
@@ -115,8 +115,8 @@
 		
 		"labelText"		">|"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -135,8 +135,8 @@
 		
 		"labelText"		">>"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -155,8 +155,8 @@
 		
 		"labelText"		"<<"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -175,8 +175,8 @@
 		
 		"labelText"		"<"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"prevframe"
 		"Default"		"0"
@@ -196,8 +196,8 @@
 		
 		"labelText"		">"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"nextframe"
 		"Default"		"0"
@@ -231,7 +231,7 @@
 		
 		"labelText"		"Tick: 0 / 0"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"brighttext"		"1"
 		//"wrap"		"0"
 	}
@@ -250,7 +250,7 @@
 		
 		"labelText"		"Time: 00:00 / 00:00"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"brighttext"		"1"
 		//"wrap"		"0"
 	}
@@ -283,8 +283,8 @@
 		
 		"labelText"		"100.0 %"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 }

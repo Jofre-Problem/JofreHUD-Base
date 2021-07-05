@@ -40,7 +40,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -57,11 +57,11 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabPosition"		"6"
 		"labelText"		"#Okay_Button"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"Okay"
 		//"Default"		"1"
 	}
@@ -77,11 +77,11 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		"labelText"		"#Add_Ban_Time_Permanent"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"0"
 	}
@@ -97,11 +97,11 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		"labelText"		"#Add_Ban_Time_Temporary"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"1"
 	}
@@ -117,7 +117,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -134,7 +134,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -154,8 +154,8 @@
 		
 		"labelText"		"#Add_Ban_ID_IP_Label"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"CancelButton"
 	{
@@ -169,11 +169,11 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabPosition"		"7"
 		"labelText"		"#Cancel_Button"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 	}
@@ -192,8 +192,8 @@
 		
 		"labelText"		"#Add_Ban_Player"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"PlayerTextEntry"
 	{
@@ -207,7 +207,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -227,7 +227,7 @@
 		
 		"labelText"		"#Add_Ban_Duration_Label"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 }

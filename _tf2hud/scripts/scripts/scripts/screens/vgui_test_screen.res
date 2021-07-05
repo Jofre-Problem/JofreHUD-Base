@@ -28,7 +28,7 @@
 		
 		"labelText"		"No Owner"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"paintBackground" "0"
 	}
 
@@ -47,7 +47,7 @@
 		
 		"labelText"		"Health: 100%"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"paintBackground" "0"
 	}
 
@@ -66,7 +66,7 @@
 		"tabPosition"	"2"
 		"labelText"		"Dismantle"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Default"		"0"
 		"command"		"Dismantle"

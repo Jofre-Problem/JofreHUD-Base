@@ -64,7 +64,7 @@
 		
 		"labelText"		"Engineering"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	
@@ -265,7 +265,7 @@
 		
 		"labelText"		"1"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	
@@ -285,7 +285,7 @@
 		
 		"labelText"		"#Hud_Menu_Build_Action_Build"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	
@@ -326,7 +326,7 @@
 		
 		"labelText"		"0"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	
@@ -346,7 +346,7 @@
 		
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	
@@ -367,7 +367,7 @@
 		
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	
@@ -387,7 +387,7 @@
 		
 		"labelText"		"B"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	
@@ -407,7 +407,7 @@
 		
 		"labelText"		"#Cancel"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	"ButtonLegendBG"

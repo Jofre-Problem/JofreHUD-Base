@@ -12,7 +12,7 @@
 		//"visible"			"1"
 		
   
-		"Next" [$WIN32] 
+		"Next"  
 		{
 			"ControlName"		"CExButton"
 			"fieldName"		"Next"
@@ -32,8 +32,8 @@
 			
 			"labelText"		"#Button_NextTraining"
 			"textAlignment"		"center"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 			//"wrap"		"0"
 			"command"		"next"
 			"font"			"MenuSmallFont"
@@ -41,7 +41,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 		}
 
-		"Quit" [$WIN32] 
+		"Quit"  
 		{
 			"ControlName"		"CExButton"
 			"fieldName"		"Quit"
@@ -61,8 +61,8 @@
 			
 			"labelText"		"#Button_QuitTraining"
 			"textAlignment"		"center"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 			//"wrap"		"0"
 			"command"		"quit"
 			"font"			"MenuSmallFont"
@@ -70,7 +70,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 		}	
 		
-		"Replay" [$WIN32] 
+		"Replay"  
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"Replay"
@@ -88,7 +88,7 @@
 			
 			"labelText"		"#Button_ReplayTraining"
 			"textAlignment"	"center"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"command"		"replay"
 			"font"			"MenuSmallFont"

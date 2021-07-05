@@ -28,7 +28,7 @@
 		"wide"		"390"
 		"tall"		"24"
 		
-		"autoResize"		"1"
+		////"autoresize"		"1"
 		
 		//"visible"		"1"
 		
@@ -68,7 +68,7 @@
 		"wide"		"390"
 		"tall"		"24"
 		
-		"autoResize"		"1"
+		////"autoresize"		"1"
 		
 		//"visible"		"1"
 		
@@ -93,11 +93,11 @@
 		//"visible"		"1"
 		
 		"disabled"		"1"
-		"tabPosition"	"1"
+		//"tabPosition"	"1"
 		"labelText"		"Flip Triangles"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 }

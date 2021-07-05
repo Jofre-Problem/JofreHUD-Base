@@ -29,7 +29,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textAlignment"		"west"
 		"default"		"0"
 	}
@@ -62,7 +62,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textAlignment"		"west"
 		"default"		"0"
 	}
@@ -95,7 +95,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textAlignment"		"west"
 		"default"		"0"
 	}

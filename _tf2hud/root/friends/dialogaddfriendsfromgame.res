@@ -36,11 +36,11 @@
 		"ypos"		"60"
 		"wide"		"422"
 		"tall"		"256"
-		"autoResize"		"3"
+		//"autoresize"		"3"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 	}
 	"AddFriendsButton"
 	{
@@ -51,14 +51,14 @@
 		"wide"		"104"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labelText"		"#TrackerUI_AddFriendsButton"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"AddFriends"
 		//"Default"		"1"
 	}
@@ -70,15 +70,15 @@
 		"ypos"		"34"
 		"wide"		"417"
 		"tall"		"24"
-		"autoResize"		"1"
+		////"autoresize"		"1"
 		
 		//"visible"		"1"
 		
 		
 		"labelText"		"#TrackerUI_AddFriendsInfo"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"Button2"
 	{
@@ -89,14 +89,14 @@
 		"wide"		"72"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		"labelText"		"#TrackerUI_Cancel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 	}

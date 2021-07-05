@@ -8,7 +8,7 @@
 		"ypos"		"12"
 		"wide"		"480"
 		"tall"		"276"
-		"autoResize"		"3"
+		//"autoresize"		"3"
 		
 		//"visible"		"1"
 		
@@ -23,11 +23,11 @@
 		"ypos"		"296"
 		"wide"		"406"
 		"tall"		"24"
-		"autoResize"		"1"
-		"pinCorner"		"2"
+		////"autoresize"		"1"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -42,14 +42,14 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labelText"		"#Chat_Panel_Send"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"Default"		"1"
 	}
 }

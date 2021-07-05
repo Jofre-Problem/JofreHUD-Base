@@ -22,11 +22,11 @@
 		"ypos"		"12"
 		"wide"		"496"
 		"tall"		"276"
-		"autoResize"		"3"
+		//"autoresize"		"3"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 	}
 	"kick"
 	{
@@ -37,14 +37,14 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labelText"		"#Player_Panel_Kick"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -57,14 +57,14 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		"labelText"		"#Player_Panel_Ban"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		//"Default"		"1"
 	}
@@ -98,8 +98,8 @@
 		
 		"labelText"		"#Player_Panel_Chat"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -118,8 +118,8 @@
 		
 		"labelText"		"#Player_Panel_Slap"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}

@@ -59,8 +59,8 @@
 		
 		"labelText"		"&File"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 	"EditButton"
@@ -78,8 +78,8 @@
 		"tabPosition"		"4"
 		"labelText"		"Edit Token"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"Default"		"1"
 	}
 	"TokenFilterCombo"
@@ -155,7 +155,7 @@
 		"labelText"		"Show:"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	"OutOfDateTokenCountInfo"
 	{
@@ -172,8 +172,8 @@
 		
 		"labelText"		"266"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"Label2"
 	{
@@ -191,7 +191,7 @@
 		"labelText"		"Out-of-date tokens:"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	"Label3"
 	{
@@ -209,7 +209,7 @@
 		"labelText"		"Token name filter:"
 		//"textAlignment"		"west"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	"Label4"
 	{
@@ -227,6 +227,6 @@
 		"labelText"		"Value filter:"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 }

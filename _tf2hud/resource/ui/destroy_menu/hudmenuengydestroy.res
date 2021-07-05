@@ -81,7 +81,7 @@
 		
 		"labelText"		"#Hud_menu_demolish_title"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	
@@ -101,7 +101,7 @@
 		
 		"labelText"		"#Hud_Menu_Build_Cancel"
 		"textAlignment"	"East"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	

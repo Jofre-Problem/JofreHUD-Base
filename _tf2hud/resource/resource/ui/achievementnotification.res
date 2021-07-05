@@ -46,7 +46,7 @@
 		
 		"labelText"		"%heading%"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 
@@ -65,7 +65,7 @@
 		
 		"labelText"		"%title%"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 

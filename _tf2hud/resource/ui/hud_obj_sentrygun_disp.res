@@ -71,7 +71,7 @@
 			
 			"labelText"		"#Building_hud_disp_sentry_not_built"
 			"textAlignment"	"Left"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 		}
 	}
@@ -163,7 +163,7 @@
 			//"visible"		"1"
 			
 			"textAlignment"	"Left"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"	
 		}
 		
@@ -192,7 +192,7 @@
 				
 				"labelText"		"#Building_hud_building"
 				"textAlignment"	"Left"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 			}
 			
@@ -210,7 +210,7 @@
 				//"visible"		"1"
 				
 				"textAlignment"	"Left"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 			}
 		}
@@ -256,7 +256,7 @@
 				"enabled"		"0"
 				"labelText"		"#Building_hud_sentry_kills_assists"
 				"textAlignment"	"north-west"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 			}
 					
@@ -290,7 +290,7 @@
 				//"visible"		"1"
 				
 				"textAlignment"	"Left"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 			}
 		}

@@ -16,8 +16,8 @@
 		
 		"labelText"		"Min Screen Width:"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 
 	"MinFadeSize"
@@ -54,8 +54,8 @@
 		
 		"labelText"		"Max Screen Width:"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 
 	"MaxFadeSize"

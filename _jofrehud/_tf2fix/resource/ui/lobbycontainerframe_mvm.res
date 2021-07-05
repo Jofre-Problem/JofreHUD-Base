@@ -24,7 +24,7 @@
 		"labelText"		"#TF_MvM_LearnMore"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"learn_more"
 
@@ -54,7 +54,7 @@
 		"font"			"HudFontMediumBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"mannup"
 
@@ -93,7 +93,7 @@
 		"font"			"HudFontMediumBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"practice"
 

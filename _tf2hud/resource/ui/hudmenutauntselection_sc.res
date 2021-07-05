@@ -60,7 +60,7 @@
 		
 		"labelText"		"#Hud_Menu_Taunt_Title"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	
@@ -432,7 +432,7 @@
 		
 		"labelText"		"#Hud_Menu_Taunt_Title"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 
@@ -469,7 +469,7 @@
 		
 		"labelText"		"#Hud_Menu_Taunt_Weapon_NoKey"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 
@@ -507,7 +507,7 @@
 		
 		"labelText"		"#Cancel"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 }

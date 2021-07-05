@@ -251,10 +251,10 @@
 		"wide"			"128"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"21"
+		//"tabPosition"		"21"
 		"labelText"		"#Spades_DealNextHand"
 		//"textAlignment"		"west"
 	}    
@@ -655,10 +655,10 @@
 		"wide"			"96"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labelText"		"#Spades_DoubleNILBid"
 		//"textAlignment"		"west"
 	}	
@@ -672,10 +672,10 @@
 		"wide"			"96"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		"labelText"		"#Spades_ShowCards"
 		//"textAlignment"		"west"
 	}    
@@ -689,14 +689,14 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"1"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	} 
 	"Bid02Button"
 	{
@@ -707,14 +707,14 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		"labelText"		"2"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	} 
 	"Bid03Button"
 	{
@@ -725,14 +725,14 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"6"
+		//"tabPosition"		"6"
 		"labelText"		"3"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	} 
 	"Bid04Button"
 	{
@@ -743,14 +743,14 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"7"
+		//"tabPosition"		"7"
 		"labelText"		"4"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	} 
 	"Bid05Button"
 	{
@@ -761,14 +761,14 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"8"
+		//"tabPosition"		"8"
 		"labelText"		"5"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	} 
 	"Bid06Button"
 	{
@@ -779,14 +779,14 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"9"
+		//"tabPosition"		"9"
 		"labelText"		"6"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	} 
 	"Bid07Button"
 	{
@@ -797,10 +797,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"10"
+		//"tabPosition"		"10"
 		"labelText"		"7"
 		//"textAlignment"		"west"
 	} 
@@ -813,10 +813,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"11"
+		//"tabPosition"		"11"
 		"labelText"		"8"
 		//"textAlignment"		"west"
 	} 
@@ -829,10 +829,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"12"
+		//"tabPosition"		"12"
 		"labelText"		"9"
 		//"textAlignment"		"west"
 	} 
@@ -845,10 +845,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"13"
+		//"tabPosition"		"13"
 		"labelText"		"10"
 		//"textAlignment"		"west"
 	} 
@@ -861,10 +861,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"14"
+		//"tabPosition"		"14"
 		"labelText"		"11"
 		//"textAlignment"		"west"
 	} 
@@ -877,10 +877,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"15"
+		//"tabPosition"		"15"
 		"labelText"		"12"
 		//"textAlignment"		"west"
 	} 
@@ -893,10 +893,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"16"
+		//"tabPosition"		"16"
 		"labelText"		"13"
 		//"textAlignment"		"west"
 	} 
@@ -909,10 +909,10 @@
 		"wide"			"58"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"17"
+		//"tabPosition"		"17"
 		"labelText"		"#Spades_NIL"
 		//"textAlignment"		"west"
 	}  
@@ -925,10 +925,10 @@
 		"wide"			"96"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		////"visible"		"1"
 		
-		"tabPosition"		"18"
+		//"tabPosition"		"18"
 		"labelText"		"#SteamAddOn_ShowScore"
 		//"textAlignment"		"west"
 		"Default"		"0"
@@ -942,10 +942,10 @@
 		"wide"			"96"
 		"tall"			"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		////"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"19"
+		//"tabPosition"		"19"
 		"labelText"		"#SteamAddOn_LastTrick"
 		//"textAlignment"		"west"
 		"Default"		"0"
@@ -959,7 +959,7 @@
 		"wide"			"72"
 		"tall"			"16"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
 		
@@ -975,7 +975,7 @@
 		"ypos"		"425"
 		"wide"		"530"
 		"tall"		"75"
-		"autoResize"		"3"
+		//"autoresize"		"3"
 		
 		////"visible"		"1"
 		"enabled"		"0"
@@ -993,8 +993,8 @@
 		"ypos"		"510"
 		"wide"		"395"
 		"tall"		"24"
-		"autoResize"		"1"
-		"pinCorner"		"2"
+		////"autoresize"		"1"
+		//"pincorner"		"2"
 		////"visible"		"1"
 		
 		
@@ -1011,10 +1011,10 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		////"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"#SteamAddOn_Btn_Send"
 		//"textAlignment"		"west"
 		//"Default"		"1"
@@ -1028,14 +1028,14 @@
 		"wide"		"300"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		"visible"		"0"
 		
 		
 		"labelText"		"Last message received at:"
 		//"textAlignment"		"west"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	
 }

@@ -16,7 +16,7 @@
 		
 		"labelText"		"#TF_Class_Name_Soldier"
 		"textAlignment"	"Center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	

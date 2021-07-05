@@ -29,8 +29,8 @@
 			"tabPosition"	"1"
 			"labelText"		"Wireframe"
 			//"textAlignment"		"west"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 			"Default"		"0"
 		}
 		
@@ -49,8 +49,8 @@
 			"tabPosition"	"2"
 			"labelText"		"Collision Model"
 			//"textAlignment"		"west"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 			"Default"		"0"
 		}
 		
@@ -69,8 +69,8 @@
 			"tabPosition"	"3"
 			"labelText"		"No Ground"
 			//"textAlignment"		"west"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 			"Default"		"0"
 		}
 		
@@ -89,8 +89,8 @@
 			"tabPosition"	"4"
 			"labelText"		"Lock View"
 			//"textAlignment"		"west"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 			"Default"		"0"
 		}
 		
@@ -110,8 +110,8 @@
 			"tabPosition"	"5"
 			"labelText"		"Look At Camera"
 			//"textAlignment"		"west"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 			"Default"		"0"
 		}
 		

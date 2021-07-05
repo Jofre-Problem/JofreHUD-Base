@@ -10,7 +10,7 @@
 		"wide"		"100"
 		"tall"		"20"
 		
-		"pinCorner"	"0"
+		////"pincorner"	"0"
 		"visible"	"1"
 		
 		"labelText"	"#Config_Timelimit"
@@ -27,7 +27,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -42,7 +42,7 @@
 		"wide"		"100"
 		"tall"		"20"
 		
-		"pinCorner"	"0"
+		////"pincorner"	"0"
 		"visible"	"1"
 		
 		"labelText"	"#Config_Fraglimit"
@@ -59,7 +59,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -75,7 +75,7 @@
 		"wide"		"100"
 		"tall"		"20"
 		
-		"pinCorner"	"0"
+		////"pincorner"	"0"
 		"visible"	"1"
 		
 		"labelText"	"#Config_Password"
@@ -93,7 +93,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -111,7 +111,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"#Config_Friendly_Fire"
 		//"textAlignment"		"west"
 	}
@@ -134,7 +134,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		"labelText"		"#Config_Uploads"
 		//"textAlignment"		"west"
 	}
@@ -149,7 +149,7 @@
 		"wide"		"75"
 		"tall"		"20"
 		
-		"pinCorner"	"0"
+		////"pincorner"	"0"
 		"visible"	"1"
 		
 		"labelText"	"#Config_MinRate"
@@ -166,7 +166,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabPosition"		"6"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -181,7 +181,7 @@
 		"wide"		"75"
 		"tall"		"20"
 		
-		"pinCorner"	"0"
+		////"pincorner"	"0"
 		"visible"	"1"
 		
 		"labelText"	"#Config_MaxRate"
@@ -198,7 +198,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabPosition"		"7"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -216,7 +216,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"8"
+		//"tabPosition"		"8"
 		"labelText"		"#Config_Voice"
 		//"textAlignment"		"west"
 	}

@@ -43,7 +43,7 @@
 		
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"select_map"
 		"proportionaltoparent"	"1"

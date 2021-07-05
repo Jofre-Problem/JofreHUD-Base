@@ -247,8 +247,8 @@
 		
 		"labelText"		"%WinningTeamLabel%"
 		"textAlignment"		"Center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"WinningTeamLabelDropshadow"
 	{	
@@ -267,8 +267,8 @@
 		
 		"labelText"		"%WinningTeamLabel%"
 		"textAlignment"		"Center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"AdvancingTeamLabel"
 	{	
@@ -286,8 +286,8 @@
 		
 		"labelText"		"%AdvancingTeamLabel%"
 		"textAlignment"		"Center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"AdvancingTeamLabelDropshadow"
 	{	
@@ -306,8 +306,8 @@
 		
 		"labelText"		"%AdvancingTeamLabel%"
 		"textAlignment"		"Center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"WinReasonLabel"
 	{	
@@ -324,8 +324,8 @@
 		//"visible"		"1"
 		
 		"labelText"		"%WinReasonLabel%"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"centerwrap"	"1"
 	}
 	"DetailsLabel"
@@ -344,8 +344,8 @@
 		
 		"labelText"		"%DetailsLabel%"
 		"textAlignment"		"Center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"ShadedBar"
 	{
@@ -381,8 +381,8 @@
 		
 		"labelText"		"%TopPlayersLabel%"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"PointsThisRoundLabel"
 	{	
@@ -400,8 +400,8 @@
 		
 		"labelText"		"#Winpanel_PointsThisRound"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"HorizontalLine"
 	{
@@ -464,8 +464,8 @@
 		
 		"labeltext"		""
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"Player1Class"
 	{	
@@ -482,8 +482,8 @@
 		
 		"labeltext"		""
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"Player1Score"
 	{	
@@ -500,8 +500,8 @@
 		
 		"labeltext"		""
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"Player2Badge"
 	{
@@ -547,8 +547,8 @@
 		
 		"labeltext"		""
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"Player2Class"
 	{	
@@ -565,8 +565,8 @@
 		
 		"labeltext"		""
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"Player2Score"
 	{	
@@ -583,8 +583,8 @@
 		
 		"labeltext"		""
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"Player3Badge"
 	{
@@ -630,8 +630,8 @@
 		
 		"labeltext"		""
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"Player3Class"
 	{	
@@ -648,8 +648,8 @@
 		
 		"labeltext"		""
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"Player3Score"
 	{	
@@ -666,8 +666,8 @@
 		
 		"labeltext"		""
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 
 	// KillStreak
@@ -687,7 +687,7 @@
 		
 		"labelText"		"#Winpanel_KillStreakLeader"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	"KillStreakMaxCountLabel"
@@ -706,7 +706,7 @@
 		
 		"labelText"		"#Winpanel_KillStreakMaxCount"
 		"textAlignment"	"east"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	"HorizontalLine2"
@@ -770,8 +770,8 @@
 		
 		"labeltext"		""
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"KillStreakPlayer1Class"
 	{	
@@ -788,8 +788,8 @@
 		
 		"labeltext"		""
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"KillStreakPlayer1Score"
 	{	
@@ -806,7 +806,7 @@
 		
 		"labeltext"		""
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 }

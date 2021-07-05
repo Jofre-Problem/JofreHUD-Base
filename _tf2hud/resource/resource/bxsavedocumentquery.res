@@ -31,8 +31,8 @@
 		
 		"labelText"		"Save changes to test.dme"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Yes"
@@ -50,8 +50,8 @@
 		
 		"labelText"		"Yes"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"yes"
 		"Default"		"0"
@@ -71,8 +71,8 @@
 		
 		"labelText"		"No"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"no"
 		"Default"		"0"
@@ -92,8 +92,8 @@
 		
 		"labelText"		"Cancel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"cancel"
 		"Default"		"0"

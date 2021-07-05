@@ -5,7 +5,7 @@
 		"command"		"Cancel"
 		"textAlignment"		"center"
 		"labelText"		"#TrackerUI_Close"
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		
 		//"visible"		"1"
 		"BgColor"		"70 70 70 255"
@@ -22,7 +22,7 @@
 		"command"		"SendMessage"
 		"textAlignment"		"center"
 		"labelText"		"#TrackerUI_Reply"
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		
 		//"visible"		"1"
 		"BgColor"		"70 70 70 255"
@@ -68,7 +68,7 @@
 	}
 	"TextPanel"
 	{
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"enabled"		"0"
 		//"visible"		"1"
 		"BgColor"		"100 100 100 255"

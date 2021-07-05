@@ -24,14 +24,14 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"#ServerBrowser_JoinGame"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		//"Default"		"1"
 		"selected"		"0"
@@ -45,14 +45,14 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		"labelText"		"#ServerBrowser_Close"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
@@ -66,14 +66,14 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labelText"		"#ServerBrowser_Refresh"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
@@ -87,14 +87,14 @@
 		"wide"		"356"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
 		
 		"labelText"		"#ServerBrowser_AlertWhenSlotIsFree"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"AutoRetry"
@@ -106,14 +106,14 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"#ServerBrowser_AutoRetry"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"1"
@@ -127,14 +127,14 @@
 		"wide"		"358"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
 		
 		"labelText"		"#ServerBrowser_AlertMeWhenSlotOpens"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
@@ -149,14 +149,14 @@
 		"wide"		"356"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
 		
 		"labelText"		"#ServerBrowser_JoinWhenSlotOpens"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
@@ -170,7 +170,7 @@
 		"ypos"		"228"
 		"wide"		"368"
 		"tall"		"140"
-		"autoResize"		"3"
+		//"autoresize"		"3"
 		
 		//"visible"		"1"
 		
@@ -207,7 +207,7 @@
 		"labelText"		"#ServerBrowser_ServerName"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"GameLabel"
@@ -226,7 +226,7 @@
 		"labelText"		"#ServerBrowser_GameLabel"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"ServerIPLabel"
@@ -245,7 +245,7 @@
 		"labelText"		"#ServerBrowser_IPAddressLabel"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"MapLabel"
@@ -264,7 +264,7 @@
 		"labelText"		"#ServerBrowser_MapLabel"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"PlayersLabel"
@@ -283,7 +283,7 @@
 		"labelText"		"#ServerBrowser_PlayersLabel"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"PingLabel"
@@ -302,7 +302,7 @@
 		"labelText"		"#ServerBrowser_LatencyLabel"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"ServerText"
@@ -313,15 +313,15 @@
 		"ypos"		"42"
 		"wide"		"260"
 		"tall"		"20"
-		"autoResize"		"1"
+		////"autoresize"		"1"
 		
 		//"visible"		"1"
 		
 		
 		"labelText"		"test"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"GameText"
@@ -339,8 +339,8 @@
 		
 		"labelText"		"Day of Defeat: Source"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"ServerIPText"
@@ -377,8 +377,8 @@
 		
 		"labelText"		"dod_anzio"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"PlayersText"
@@ -396,8 +396,8 @@
 		
 		"labelText"		"2 / 2"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"PingText"
@@ -415,8 +415,8 @@
 		
 		"labelText"		"12"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label1"
@@ -435,7 +435,7 @@
 		"labelText"		"#ServerBrowser_ValveAntiCheat"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"SecureText"
@@ -453,8 +453,8 @@
 		
 		"labelText"		"#ServerBrowser_Secure"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 }

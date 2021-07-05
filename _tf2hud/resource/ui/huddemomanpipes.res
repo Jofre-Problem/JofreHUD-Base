@@ -114,7 +114,7 @@
 			
 			"labelText"		"%activepipes%"
 			//"textAlignment"	"west"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"font"			"HudFontMedium"
 			"font_minmode"	"HudFontSmall"
@@ -139,7 +139,7 @@
 			
 			"labelText"		"%activepipes%"
 			//"textAlignment"	"west"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"font"			"HudFontMedium"
 			"font_minmode"	"HudFontSmall"

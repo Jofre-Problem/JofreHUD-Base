@@ -29,7 +29,7 @@
 		
 		"labelText"		"#Valve_Join_Class"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"brighttext"		"1"
 	}
 
@@ -47,7 +47,7 @@
 		
 		"labelText"		"#Valve_Class_Info"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"brighttext"		"1"
 	}
 
@@ -81,8 +81,8 @@
 		
 		"labelText"		"#Cstrike_Cancel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"vguicancel"
 	}
 }

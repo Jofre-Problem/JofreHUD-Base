@@ -30,8 +30,8 @@
 		"tabPosition"		"1"
 		"labelText"		"#ServerBrowser_JoinGame"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		//"Default"		"1"
 	}
@@ -50,8 +50,8 @@
 		"tabPosition"		"3"
 		"labelText"		"#ServerBrowser_Close"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -70,8 +70,8 @@
 		"tabPosition"		"2"
 		"labelText"		"#ServerBrowser_Refresh"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -90,8 +90,8 @@
 		
 		"labelText"		"#ServerBrowser_AlertWhenSlotIsFree"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"AutoRetry"
@@ -109,8 +109,8 @@
 		"tabPosition"		"4"
 		"labelText"		"#ServerBrowser_AutoRetry"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -129,8 +129,8 @@
 		"tabPosition"		"5"
 		"labelText"		"#ServerBrowser_AlertMeWhenSlotOpens"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"1"
@@ -150,8 +150,8 @@
 		"tabPosition"		"5"
 		"labelText"		"#ServerBrowser_JoinWhenSlotOpens"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"2"
@@ -201,7 +201,7 @@
 		"labelText"		"#ServerBrowser_ServerName"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"GameLabel"
@@ -220,7 +220,7 @@
 		"labelText"		"#ServerBrowser_GameLabel"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"ServerIPLabel"
@@ -239,7 +239,7 @@
 		"labelText"		"#ServerBrowser_IPAddressLabel"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"MapLabel"
@@ -258,7 +258,7 @@
 		"labelText"		"#ServerBrowser_MapLabel"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"PlayersLabel"
@@ -277,7 +277,7 @@
 		"labelText"		"#ServerBrowser_PlayersLabel"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"PingLabel"
@@ -296,7 +296,7 @@
 		"labelText"		"#ServerBrowser_LatencyLabel"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"ServerText"
@@ -314,8 +314,8 @@
 		
 		"labelText"		"Counter-Strike Source dedicated server"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"GameText"
@@ -333,8 +333,8 @@
 		
 		"labelText"		"Counter-Strike: Source"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"ServerIPText"
@@ -371,8 +371,8 @@
 		
 		"labelText"		"cs_compound"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"PlayersText"
@@ -390,8 +390,8 @@
 		
 		"labelText"		"0 / 24"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"PingText"
@@ -409,8 +409,8 @@
 		
 		"labelText"		"12"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label1"
@@ -429,7 +429,7 @@
 		"labelText"		"#ServerBrowser_ValveAntiCheat"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"SecureText"
@@ -447,8 +447,8 @@
 		
 		"labelText"		"#ServerBrowser_Secure"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 }

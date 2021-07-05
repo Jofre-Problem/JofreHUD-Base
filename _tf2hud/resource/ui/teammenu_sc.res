@@ -59,7 +59,7 @@
 		"enabled"		"0"
 		"labeltext"		""
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"brighttext"	"1"
 	}
 
@@ -115,7 +115,7 @@
 		"labeltext"		""	[$WIN32]
 		
 		"textAlignment"	"south-west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"paintborder"	"0"
 		"command"		"jointeam blue"
@@ -159,7 +159,7 @@
 		"tabPosition"	"4"
 		"labeltext"		""
 		"textAlignment"	"south-west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"paintborder"	"0"
 		"command"		"jointeam red"
@@ -203,7 +203,7 @@
 		"tabPosition"	"1"
 		"labeltext"		""
 		"textAlignment"	"south-west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"paintborder"	"0"
 		"command"		"jointeam auto"
@@ -245,7 +245,7 @@
 		"tabPosition"	"2"
 		"labeltext"		""
 		"textAlignment"	"south-west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"paintborder"	"0"
 		"command"		"jointeam spectate"
@@ -290,7 +290,7 @@
 		
 		"labelText"		"#TF_Cancel_NoKey"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"command"		"cancelmenu"
 		"font"			"MenuSmallFont"
@@ -310,7 +310,7 @@
 		"visible"		"0"
 		
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_cancel"
@@ -336,7 +336,7 @@
 		
 		"labelText"		"#TF_SelectATeam"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"MenuMainTitle"
 		"fgcolor"		"HudOffWhite"
@@ -361,7 +361,7 @@
 		
 		"labelText"		"#TF_Random"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
 		"font"			"MenuSmallFont"
@@ -387,7 +387,7 @@
 		
 		"labelText"		"#TF_Spectate"
 		"textAlignment"	"north"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
 		"font"			"MenuSmallestFont"
@@ -466,7 +466,7 @@
 		
 		"labelText"		"%bluecount%"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"brighttext"	"1"
 		"font"			"TeamMenuBold"
 		"fgcolor"		"black"
@@ -490,7 +490,7 @@
 		
 		"labelText"		"%redcount%"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"brighttext"	"1"
 		"font"			"TeamMenuBold"
 		"fgcolor"		"black"
@@ -755,7 +755,7 @@
 		
 		"labelText"		"#TF_Highlander_Mode"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"HudOffWhite"
@@ -777,7 +777,7 @@
 		
 		"labelText"		"#TF_Highlander_Mode"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"black"
@@ -799,7 +799,7 @@
 		
 		"labelText"		"#TF_Teams_Full"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"HudOffWhite"
@@ -821,7 +821,7 @@
 		
 		"labelText"		"#TF_Teams_Full"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"black"

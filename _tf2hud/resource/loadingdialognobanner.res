@@ -30,7 +30,7 @@
 		"labelText"		"#GameUI_ParseBaseline"
 		//"textAlignment"		"west"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	"progress"
 	{
@@ -61,8 +61,8 @@
 		
 		"labelText"		"#GameUI_Cancel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"command"		"Cancel"
 		"Default"		"0"
 	}
@@ -96,7 +96,7 @@
 		"labelText"		"#GameUI_LoadingDialog_ContentHosting"
 		//"textAlignment"		"west"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	"BannerAd"
 	{

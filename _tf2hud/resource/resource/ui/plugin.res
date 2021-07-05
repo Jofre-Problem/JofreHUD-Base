@@ -60,8 +60,8 @@
 		
 		"labeltext"		""
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"entry"
@@ -98,8 +98,8 @@
 		
 		"labelText"		"Enter something"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Close"
@@ -117,8 +117,8 @@
 		
 		"labelText"		"#GameUI_Close"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"close"
 		//"Default"		"1"

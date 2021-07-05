@@ -115,7 +115,7 @@
 				
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 				"Command"		"abandon_match"
 				"proportionaltoparent"	"1"
@@ -152,7 +152,7 @@
 				
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 				"Command"		"join_match"
 				"proportionaltoparent"	"1"
@@ -185,7 +185,7 @@
 				
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 				"Command"		"join_match"
 				"proportionaltoparent"	"1"

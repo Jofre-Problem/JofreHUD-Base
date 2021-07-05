@@ -64,7 +64,7 @@
 		
 		"labelText"		"Engineering"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	
@@ -263,7 +263,7 @@
 		////"visible"		"1"
 		
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
@@ -285,7 +285,7 @@
 		
 		"labelText"		"#Hud_Menu_Build_Action_Build"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	
@@ -324,7 +324,7 @@
 		////"visible"		"1"
 		
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_toggle_function"
@@ -346,7 +346,7 @@
 		
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	
@@ -367,7 +367,7 @@
 		
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	
@@ -385,7 +385,7 @@
 		////"visible"		"1"
 		
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_cancel"
@@ -407,7 +407,7 @@
 		
 		"labelText"		"#Cancel"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	"ButtonLegendBG"
@@ -441,7 +441,7 @@
 		
 		////"visible"		"1"
 		
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_left"
@@ -460,7 +460,7 @@
 		
 		////"visible"		"1"
 		
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_right"

@@ -23,11 +23,11 @@
 		"ypos"		"112"
 		"wide"		"170"
 		"tall"		"24"
-		"autoResize"		"1"
+		////"autoresize"		"1"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -41,11 +41,11 @@
 		"ypos"		"146"
 		"wide"		"170"
 		"tall"		"24"
-		"autoResize"		"1"
+		////"autoresize"		"1"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -63,7 +63,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -77,11 +77,11 @@
 		"ypos"		"44"
 		"wide"		"170"
 		"tall"		"24"
-		"autoResize"		"1"
+		////"autoresize"		"1"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -99,11 +99,11 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"9"
+		//"tabPosition"		"9"
 		"labelText"		"#Start_Server_Button"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"start"
 		//"Default"		"1"
 	}
@@ -119,11 +119,11 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"10"
+		//"tabPosition"		"10"
 		"labelText"		"#Start_Server_Cancel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"cancel"
 		"Default"		"0"
 	}
@@ -139,11 +139,11 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"8"
+		//"tabPosition"		"8"
 		"labelText"		"#Start_Server_Secure"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"Default"		"1"
 		"state"		"0"
 	}
@@ -169,11 +169,11 @@
 		"ypos"		"78"
 		"wide"		"170"
 		"tall"		"24"
-		"autoResize"		"1"
+		////"autoresize"		"1"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -196,7 +196,7 @@
 		"textAlignment"		"east"
 		"associate"		"ServerNameEdit"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	"MaxPlayersLabel"
 	{
@@ -215,7 +215,7 @@
 		"textAlignment"		"east"
 		"associate"		"NumPlayers"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	"MODLabel"
 	{
@@ -234,7 +234,7 @@
 		"textAlignment"		"east"
 		"associate"		"MODCombo"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	"Label1"
 	{
@@ -253,7 +253,7 @@
 		"textAlignment"		"east"
 		"associate"		"MapList"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	"Label4"
 	{
@@ -272,7 +272,7 @@
 		"textAlignment"		"east"
 		"associate"		"NetworkCombo"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	"RCONPasswordEdit"
 	{
@@ -282,11 +282,11 @@
 		"ypos"		"248"
 		"wide"		"170"
 		"tall"		"24"
-		"autoResize"		"1"
+		////"autoresize"		"1"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabPosition"		"7"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -309,7 +309,7 @@
 		"textAlignment"		"east"
 		"associate"		"RCONPasswordEdit"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	"Label2"
 	{
@@ -328,7 +328,7 @@
 		"textAlignment"		"east"
 		"associate"		"PortEdit"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	"PortEdit"
 	{
@@ -342,7 +342,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabPosition"		"6"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"

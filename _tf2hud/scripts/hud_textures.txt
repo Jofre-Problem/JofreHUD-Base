@@ -2,7 +2,7 @@
 {
 TextureData
 {
-"arrow"[$WIN32]
+"arrow"
 {
 "file""sprites/arrow"
 //"x""0"
@@ -10,7 +10,7 @@ TextureData
 "width""32"
 "height""32"
 }
-"autoaim_c"[$WIN32]
+"autoaim_c"
 {
 "file""sprites/crosshairs"
 "x""96"
@@ -18,12 +18,12 @@ TextureData
 "width""24"
 "height""24"
 }
-"item_battery"[$WIN32]
+"item_battery"
 {
 "font""WeaponIcons"
 "character""*"
 }
-"item_healthkit"[$WIN32]
+"item_healthkit"
 {
 "font""WeaponIcons"
 "character""+"

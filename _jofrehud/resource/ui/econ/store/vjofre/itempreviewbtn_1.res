@@ -32,7 +32,7 @@
 			"labelText"		"#Store_PreviewItem"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			//"Default"		"1"
 			"Command"		"show_preview"

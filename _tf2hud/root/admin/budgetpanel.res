@@ -8,10 +8,10 @@
 		"ypos"		"12"
 		"wide"		"496"
 		"tall"		"276"
-		"autoResize"		"3"
+		//"autoresize"		"3"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 	}
 }

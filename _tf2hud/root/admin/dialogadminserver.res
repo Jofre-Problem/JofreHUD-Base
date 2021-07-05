@@ -26,7 +26,7 @@
 		
 		"visible"		"0"
 		
-		"tabPosition"		"8"
+		//"tabPosition"		"8"
 	}
 	"RefreshButton"
 	{
@@ -37,14 +37,14 @@
 		"wide"		"110"
 		"tall"		"24"
 		
-		"pinCorner"		"1"
+		////"pincorner"		"1"
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"#baseGames_Refresh"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"refresh"
 		//"Default"		"1"
 	}
@@ -57,14 +57,14 @@
 		"wide"		"150"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"#baseGames_AddIP"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"addip"
 		"Default"		"0"
 	}
@@ -77,14 +77,14 @@
 		"wide"		"90"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabPosition"		"7"
 		"labelText"		"#baseGames_Manage"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 	"GameList"
@@ -95,11 +95,11 @@
 		"ypos"		"66"
 		"wide"		"600"
 		"tall"		"290"
-		"autoResize"	"3"
+		//"autoresize"	"3"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 	}
 	"StatusLabel"
 	{
@@ -110,13 +110,13 @@
 		"wide"		"630"
 		"tall"		"20"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
 		
 		"textAlignment"		"north-west"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	"ServerContextMenu"
 	{
@@ -140,14 +140,14 @@
 		"wide"		"90"
 		"tall"		"24"
 		
-		"pinCorner"		"1"
+		////"pincorner"		"1"
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labelText"		"#baseGames_Options"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"config"
 		"Default"		"0"
 	}
@@ -160,14 +160,14 @@
 		"wide"		"150"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		"labelText"		"#baseGames_Start_Local"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"launch"
 		"Default"		"0"
 	}
@@ -180,14 +180,14 @@
 		"wide"		"90"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabPosition"		"6"
 		"labelText"		"#baseGames_Remove"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"remove"
 		"Default"		"0"
 	}

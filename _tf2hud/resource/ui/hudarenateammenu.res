@@ -59,7 +59,7 @@
 		"enabled"		"0"
 		"labeltext"		""
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"brighttext"	"1"
 	}
 	"teambutton2"
@@ -79,7 +79,7 @@
 		"labelText"		"&1"	[$WIN32]
 		
 		"textAlignment"	"south-west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"paintborder"	"0"
 		"command"		"jointeam spectate"
@@ -105,7 +105,7 @@
 		"labelText"		"&2"	[$WIN32]
 		
 		"textAlignment"	"south-west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"paintborder"	"0"
 		"command"		"jointeam spectatearena"
@@ -133,7 +133,7 @@
 		
 		"labelText"		"#TF_Cancel"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"command"		"cancelmenu"
 		"font"			"MenuSmallFont"
@@ -158,7 +158,7 @@
 		
 		"labelText"		"#TF_Arena_Menu_Fight"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
 		"font"			"MenuSmallFont"
@@ -184,7 +184,7 @@
 		
 		"labelText"		"#TF_Spectate"
 		"textAlignment"	"north"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
 		"font"			"MenuSmallestFont"

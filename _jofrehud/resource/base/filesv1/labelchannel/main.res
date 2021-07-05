@@ -15,8 +15,8 @@
 		"tabPosition"		"0"
 		"labelText"		"Channel:"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 	}
 	"ColorMask"
 	{

@@ -16,7 +16,7 @@
 		
 		"labelText"		"#TF_Object_Sentry_360"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	

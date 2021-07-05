@@ -26,10 +26,10 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"PinCorner"		"2"
+		//"pincorner"		"2"
 		"visible"		"0"
 		"enabled"		"0"
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_JoinGame"
 		//"textAlignment"		"west"
@@ -48,7 +48,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Close"
 		//"textAlignment"		"west"
@@ -64,10 +64,10 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"PinCorner"		"2"
+		//"pincorner"		"2"
 		"visible"		"0"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Refresh"
 		//"textAlignment"		"west"
@@ -83,7 +83,7 @@
 		"wide"		"356"
 		"tall"		"24"
 		
-		"PinCorner"		"2"
+		//"pincorner"		"2"
 		"visible"		"0"
 		
 		
@@ -101,10 +101,10 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"PinCorner"		"2"
+		//"pincorner"		"2"
 		"visible"		"0"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AutoRetry"
 		//"textAlignment"		"west"
@@ -120,10 +120,10 @@
 		"wide"		"358"
 		"tall"		"24"
 		
-		"PinCorner"		"2"
+		//"pincorner"		"2"
 		"visible"		"0"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AlertMeWhenSlotOpens"
 		//"textAlignment"		"west"
@@ -140,10 +140,10 @@
 		"wide"		"356"
 		"tall"		"24"
 		
-		"PinCorner"		"2"
+		//"pincorner"		"2"
 		"visible"		"0"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_JoinWhenSlotOpens"
 		//"textAlignment"		"west"
@@ -159,7 +159,7 @@
 		"ypos"		"228"
 		"wide"		"368"
 		"tall"		"0"
-		"AutoResize"		"3"
+		//"autoresize"		"3"
 		
 		"visible"		"0"
 		
@@ -282,7 +282,7 @@
 		"ypos"		"42"
 		"wide"		"260"
 		"tall"		"20"
-		"AutoResize"		"1"
+		////"autoresize"		"1"
 		
 		"visible"		"0"
 		

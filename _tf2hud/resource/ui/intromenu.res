@@ -51,8 +51,8 @@
 		
 		"labelText"		"#Button_SkipIntro"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"command"		"skip"
 		"font"			"MenuSmallFont"
@@ -78,8 +78,8 @@
 		
 		"labelText"		"#TF_Continue"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"command"		"skip"
 		"font"			"MenuSmallFont"
@@ -103,7 +103,7 @@
 		
 		"labelText"		"#TF_Back"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"command"		"back"
 		"font"			"MenuSmallFont"
@@ -128,7 +128,7 @@
 		
 		"labelText"		"#TF_ReplayIntro"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"command"		"replayVideo"
 		"font"			"MenuSmallFont"
@@ -239,7 +239,7 @@
 		
 		"labelText"		" "
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"IntroMenuCaption"
 		"fgcolor"		"White"

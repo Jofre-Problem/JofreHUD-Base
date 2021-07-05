@@ -166,7 +166,7 @@
 		"labelText"		"#Cancel"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"Default"		"1"
 		"Command"		"user_close"

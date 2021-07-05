@@ -216,7 +216,7 @@
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"find_game"
 		"proportionaltoparent"	"1"

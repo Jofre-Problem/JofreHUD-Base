@@ -60,7 +60,7 @@
 		
 		"labelText"		"#Hud_Menu_Taunt_Title"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	
@@ -101,7 +101,7 @@
 		
 		"labelText"		"#Hud_Menu_Taunt_Weapon"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	
@@ -121,7 +121,7 @@
 		
 		"labelText"		"#Hud_Menu_Taunt_Cancel"
 		"textAlignment"	"east"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 

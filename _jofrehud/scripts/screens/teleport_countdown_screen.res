@@ -16,7 +16,7 @@
 		//"tabposition"	"0"
 		"labelText"		"Time Remaining"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"paintBackground" "0"
 
 		// NOTE: These settings change the font + color as defined in CombinePanelScheme.res
@@ -39,7 +39,7 @@
 		//"tabposition"	"0"
 		"labelText"		"0"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"paintBackground" "0"
 
 		// NOTE: These settings change the font + color as defined in CombinePanelScheme.res
@@ -62,7 +62,7 @@
 		//"tabposition"	"0"
 		"labelText"		"MALFUNCTION"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"paintBackground" "0"
 
 		// NOTE: These settings change the font + color as defined in CombinePanelScheme.res

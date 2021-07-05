@@ -22,11 +22,11 @@
 		"ypos"		"44"
 		"wide"		"624"
 		"tall"		"306"
-		"autoResize"	"3"
+		//"autoresize"	"3"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 	}
 	"StatusLabel"
 	{
@@ -36,13 +36,13 @@
 		"ypos"		"356"
 		"wide"		"544"
 		"tall"		"24"
-		"autoResize"		"1"
-		"pinCorner"		"2"
+		////"autoresize"		"1"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"zpos"	"1"
 	}
 }

@@ -11,7 +11,7 @@
 		//"tabposition"	"0"
 		"labelText"		"?"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"show_explanations"
 		"sound_depressed"	"UI/buttonclick.wav"

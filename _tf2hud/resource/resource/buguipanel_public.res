@@ -88,8 +88,8 @@
 		
 		"labelText"		"PublicUser"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugScreenShotURL"
@@ -106,8 +106,8 @@
 		
 		
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugSaveGameURL"
@@ -124,8 +124,8 @@
 		
 		
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugBSPURL"
@@ -143,8 +143,8 @@
 		
 		"labelText"		"#GameUI_Bug_BSP_File"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugVMFURL"
@@ -162,8 +162,8 @@
 		
 		"labelText"		"#GameUI_Bug_VMF_File"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugIncludedFiles"
@@ -200,8 +200,8 @@
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_Bug_TakeScreenshot"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"snapshot"
 		"Default"		"0"
@@ -221,8 +221,8 @@
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_Bug_AttachSavedGame"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"savegame"
 		"Default"		"0"
@@ -242,8 +242,8 @@
 		
 		"labelText"		"#GameUI_Bug_Include_BSP"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -262,8 +262,8 @@
 		
 		"labelText"		"#GameUI_Bug_Include_VMF"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -282,8 +282,8 @@
 		
 		"labelText"		"#GameUI_Bug_IncludeFile"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -302,8 +302,8 @@
 		
 		"labelText"		"#GameUI_Bug_ClearFiles"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -322,8 +322,8 @@
 		
 		"labelText"		"#GameUI_Console"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugOrientation"
@@ -341,8 +341,8 @@
 		
 		"labelText"		"#GameUI_Console"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugLevel"
@@ -360,8 +360,8 @@
 		
 		"labelText"		"#GameUI_Console"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugBuild"
@@ -379,8 +379,8 @@
 		
 		"labelText"		"2092"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"font"		"UiBold"
 		//"wrap"		"0"
 	}
@@ -399,8 +399,8 @@
 		
 		"labelText"		"PublicUser"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"BugOwner"
@@ -532,8 +532,8 @@
 		"tabPosition"		"9"
 		"labelText"		"#GameUI_Bug_Submit"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"submit"
 		"Default"		"0"
@@ -553,8 +553,8 @@
 		"tabPosition"		"10"
 		"labelText"		"#GameUI_Cancel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"cancel"
 		"Default"		"0"
@@ -574,8 +574,8 @@
 		"tabPosition"		"8"
 		"labelText"		"#GameUI_Bug_ClearForm"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"clearform"
 		//"Default"		"1"
@@ -595,8 +595,8 @@
 		
 		"labelText"		"#GameUI_Bug_Title"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label2"
@@ -614,8 +614,8 @@
 		
 		"labelText"		"#GameUI_Bug_Description"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label3"
@@ -633,8 +633,8 @@
 		
 		"labelText"		"#GameUI_Bug_Position"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label5"
@@ -652,8 +652,8 @@
 		
 		"labelText"		"#GameUI_Bug_Map"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label6"
@@ -671,8 +671,8 @@
 		
 		"labelText"		"#GameUI_Bug_EngineBuild"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"font"		"UiBold"
 		//"wrap"		"0"
 	}
@@ -691,8 +691,8 @@
 		
 		"labelText"		"#GameUI_Bug_Orientation"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label7"
@@ -710,8 +710,8 @@
 		
 		"labelText"		"#GameUI_Bug_ReportType"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label8"
@@ -729,8 +729,8 @@
 		
 		"labelText"		"#GameUI_Bug_EmailAddress"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"PrivacyURL"
@@ -748,8 +748,8 @@
 		
 		"labelText"		"#GameUI_Bug_PrivacyPolicy"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"URLText"		"http://www.valvesoftware.com/privacy.html"
 		"underline"		"1"
@@ -783,8 +783,8 @@
 		
 		"labelText"		"#GameUI_Bug_Optional"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label10"
@@ -802,8 +802,8 @@
 		
 		"labelText"		"#GameUI_Bug_AccountName"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 }

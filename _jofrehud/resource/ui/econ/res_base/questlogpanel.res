@@ -132,7 +132,7 @@
 			"labelText"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -288,7 +288,7 @@
 				
 				////"visible"		"1"
 				
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 				"proportionaltoparent"	"1"
 				"fgcolor_override"		"132 76 0 255"
@@ -368,7 +368,7 @@
 				
 				////"visible"		"1"
 				
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 				"proportionaltoparent"	"1"
 				"fgcolor_override"		"132 76 0 255"

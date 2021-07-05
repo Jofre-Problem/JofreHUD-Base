@@ -10,7 +10,7 @@
 		//"enabled"		"1"
 		"tabPosition"		"0"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 	}
 	"topVertLeft"
 	{
@@ -22,7 +22,7 @@
 		//"enabled"		"1"
 		"tabPosition"		"0"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 	}
 	"bottomHorizRight"
 	{
@@ -34,7 +34,7 @@
 		//"enabled"		"1"
 		"tabPosition"		"0"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 	}
 	"bottomVertRight"
 	{
@@ -46,6 +46,6 @@
 		//"enabled"		"1"
 		"tabPosition"		"0"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 	}
 }	

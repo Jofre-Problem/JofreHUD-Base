@@ -54,7 +54,7 @@
 	//	//"tabposition"	"0"
 	//	"labelText"		"#TF_Close"
 	//	"textAlignment"	"center"
-	//	"dulltext"		"0"
+	//	//"dulltext"		"0"
 	//	"brighttext"	"0"
 	//	"Command"		"vguicancel"
 	}	
@@ -2517,7 +2517,7 @@
 		//"tabposition"	"0"
 		"labelText"		"#TF_NextTip"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"nexttip"
 	}
@@ -2537,7 +2537,7 @@
 		//"tabposition"	"0"
 		"labelText"		"#TF_ResetStats"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"resetstatsbutton"
 	}

@@ -14,7 +14,7 @@
 		//"enabled"		"1"
 		"labelText"		"#Cancel"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 }

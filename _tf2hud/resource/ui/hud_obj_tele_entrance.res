@@ -71,7 +71,7 @@
 			
 			"labelText"		"#Building_hud_tele_enter_not_built_360"
 			"textAlignment"	"Left"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 		}
 	}
@@ -194,7 +194,7 @@
 			//"visible"		"1"
 			
 			"textAlignment"	"Left"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 		}
 
@@ -223,7 +223,7 @@
 				
 				"labelText"		"#Building_hud_building"
 				"textAlignment"	"Left"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 			}
 			
@@ -241,7 +241,7 @@
 				//"visible"		"1"
 				
 				"textAlignment"	"Left"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 			}
 		}
@@ -296,7 +296,7 @@
 					//"visible"		"1"
 					
 					"textAlignment"	"Left"
-					//"dulltext"		"0"
+					////"dulltext"		"0"
 					//"brighttext"	"0"
 				}	
 			}
@@ -326,7 +326,7 @@
 					
 					"labelText"		"%timesused%"
 					"textAlignment"	"north-west"
-					//"dulltext"		"0"
+					////"dulltext"		"0"
 					//"brighttext"	"0"
 				}
 			}	
@@ -361,7 +361,7 @@
 				//"visible"		"1"
 				
 				"textAlignment"	"Left"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 			}
 		}

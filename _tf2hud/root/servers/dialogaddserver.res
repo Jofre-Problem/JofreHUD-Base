@@ -25,7 +25,7 @@
 		"ypos"		"175"
 		"wide"		"526"
 		"tall"		"150"
-		"AutoResize"		"3"
+		//"autoresize"		"3"
 		
 		//"visible"		"1"
 		
@@ -59,7 +59,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"paintbackground"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
@@ -79,7 +79,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_FindGames"
 		//"textAlignment"		"west"
@@ -99,7 +99,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddAddressToFavorites"
 		//"textAlignment"		"west"
@@ -116,7 +116,7 @@
 		"wide"		"230"
 		"tall"		"24"
 		
-		"PinCorner"		"3"
+		//"pincorner"		"3"
 		//"visible"		"1"
 		
 		
@@ -176,7 +176,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Cancel"
 		//"textAlignment"		"west"

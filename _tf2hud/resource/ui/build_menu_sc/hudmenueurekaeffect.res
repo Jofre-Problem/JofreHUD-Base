@@ -64,7 +64,7 @@
 		
 		"labelText"		"#Hud_Menu_Teleport_Title"
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	

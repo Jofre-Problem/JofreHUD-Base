@@ -96,7 +96,7 @@
 		"tall"		"14"
 		
 		
-		"pinCorner"	"0"
+		//"pinCorner"	"0"
 		"visible"	"1"
 		
 		"fillcolor"	"0 0 0 255"
@@ -118,7 +118,7 @@
 		
 		"labelText"		"Not Ready"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"command"		"teamnotready"
 		//"Default"		"1"
@@ -141,7 +141,7 @@
 		
 		"labelText"		"Ready"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"command"		"teamready" 
 		//"Default"		"1"

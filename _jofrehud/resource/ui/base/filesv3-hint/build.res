@@ -14,7 +14,7 @@
 		//"visible"		"1"
 		//"enabled"		"1"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 	"BuildHintLabel_Bright"
@@ -33,7 +33,7 @@
 		//"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Action_Build"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 	
@@ -70,7 +70,7 @@
 		//"visible"		"1"
 		//"enabled"		"1"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}	
 	"DestroyHintLabel_Bright"
@@ -89,7 +89,7 @@
 		//"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 	
@@ -110,7 +110,7 @@
 		//"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}	
 }

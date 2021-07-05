@@ -31,8 +31,8 @@
 		
 		"labelText"		"Export"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Layoff"
 		"Default"		"0"
@@ -53,8 +53,8 @@
 		
 		"labelText"		"Cancel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"cancel"
 		"Default"		"0"
@@ -75,8 +75,8 @@
 		
 		"labelText"		"Choose File"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"ChooseFile"
 		"Default"		"0"
@@ -97,8 +97,8 @@
 		
 		"labelText"		"Progressive Refinement Settings..."
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"ProgressiveRefinementSettings"
 		"Default"		"0"
@@ -119,8 +119,8 @@
 		
 		"labelText"		"Output .avi file"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
@@ -140,8 +140,8 @@
 		
 		"labelText"		"Output .tga files"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"1"
@@ -161,8 +161,8 @@
 		
 		"labelText"		"Output .wav file"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"1"
@@ -182,8 +182,8 @@
 		
 		"labelText"		"Draw Players"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"1"
@@ -203,8 +203,8 @@
 		
 		"labelText"		"Draw NPCs"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"1"
@@ -224,8 +224,8 @@
 		
 		"labelText"		"Draw Other Entities"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"1"
@@ -245,8 +245,8 @@
 		
 		"labelText"		"Draw Ropes"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"1"
@@ -266,8 +266,8 @@
 		
 		"labelText"		"Draw Beams"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"1"
@@ -287,8 +287,8 @@
 		
 		"labelText"		"Draw Particle Systems"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -307,8 +307,8 @@
 		
 		"labelText"		"Draw Recorded Elements:"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"DrawPuppets"
@@ -326,8 +326,8 @@
 		
 		"labelText"		"Draw Puppets"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		//"Default"		"1"
 	}
@@ -346,8 +346,8 @@
 		
 		"labelText"		"Draw Effects"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		//"Default"		"1"
 	}
@@ -366,8 +366,8 @@
 		
 		"labelText"		"Draw Particle Systems"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		//"Default"		"1"
 	}
@@ -481,8 +481,8 @@
 		
 		"labelText"		"Start Time"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"EndLabel"
@@ -500,8 +500,8 @@
 		
 		"labelText"		"End Time"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"OutputWidth"
@@ -576,8 +576,8 @@
 		
 		"labelText"		"Override Shutter Speed:"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"selected"		"0"
@@ -616,8 +616,8 @@
 		
 		"labelText"		"Output File:"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label1"
@@ -635,8 +635,8 @@
 		
 		"labelText"		"Output Framerate"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"WidthLabel"
@@ -654,8 +654,8 @@
 		
 		"labelText"		"Width"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"HeightLabel"
@@ -673,8 +673,8 @@
 		
 		"labelText"		"Height"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"ClearDecals"
@@ -692,8 +692,8 @@
 		
 		"labelText"		"Clear Decals"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}

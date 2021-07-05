@@ -15,8 +15,8 @@
 		"tabPosition"		"2"
 		"labelText"		"Apply change"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 	"MarkUpToDateButton"
@@ -34,8 +34,8 @@
 		"tabPosition"		"3"
 		"labelText"		"Mark as up-to-date"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 	"LocalizeEdit"
@@ -111,8 +111,8 @@
 		
 		"labelText"		"Requires localization"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"Label1"
 	{
@@ -130,7 +130,7 @@
 		"labelText"		"Token state:"
 		"textAlignment"		"east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	"LocalizationLabel"
 	{
@@ -148,7 +148,7 @@
 		"labelText"		"Localization"
 		"textAlignment"		"north-east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	"EnglishLabel"
 	{
@@ -166,7 +166,7 @@
 		"labelText"		"Current English"
 		"textAlignment"		"north-east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	"FromLabel"
 	{
@@ -184,7 +184,7 @@
 		"labelText"		"Previous English"
 		"textAlignment"		"north-east"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	"CloseButton"
 	{
@@ -201,8 +201,8 @@
 		"tabPosition"		"4"
 		"labelText"		"Close"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"Close"
 		//"Default"		"1"
 	}

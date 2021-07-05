@@ -7,7 +7,7 @@
 		//"autoResize"	"0"
 		//"enabled"		"1"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 }

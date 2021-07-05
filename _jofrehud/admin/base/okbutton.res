@@ -25,8 +25,8 @@
 	//	//"enabled"		"1"
 	//	"labelText"		"OK"
 	//	"textAlignment"		"west"
-	//	"dulltext"		"0"
-	//	"brighttext"		"0"
+	//	//"dulltext"		"0"
+	//	//"brighttext"		"0"
 	//	"Command"		"OK"
 	}
 }

@@ -157,8 +157,8 @@
 		
 		"labelText"		"0"
 		"textAlignment"		"north-west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -177,8 +177,8 @@
 		
 		"labelText"		"1"
 		"textAlignment"		"north-west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -197,8 +197,8 @@
 		
 		"labelText"		"o"
 		"textAlignment"		"north-west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"MinimizeToSysTray"
 		"Default"		"0"
@@ -218,8 +218,8 @@
 		
 		"labelText"		"r"
 		"textAlignment"		"north-west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -237,8 +237,8 @@
 		
 		
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -257,8 +257,8 @@
 		"tabPosition"		"7"
 		"labelText"		"#vgui_ok"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Ok"
 		"Default"		"0"
@@ -278,8 +278,8 @@
 		"tabPosition"		"8"
 		"labelText"		"#vgui_Cancel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Cancel"
 		"Default"		"0"
@@ -299,8 +299,8 @@
 		"tabPosition"		"1"
 		"labelText"		"Progressive Refinement"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -319,8 +319,8 @@
 		"tabPosition"		"2"
 		"labelText"		"Depth of Field"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -339,8 +339,8 @@
 		
 		"labelText"		"# Samples:"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"DoFQuality"
@@ -377,8 +377,8 @@
 		"tabPosition"		"4"
 		"labelText"		"Motion Blur"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -397,8 +397,8 @@
 		
 		"labelText"		"# Samples:"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"MotionBlurQuality"
@@ -435,8 +435,8 @@
 		"tabPosition"		"6"
 		"labelText"		"Subpixel Jitter AA"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}

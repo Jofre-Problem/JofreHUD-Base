@@ -9,7 +9,7 @@
 		//"autoResize"		"0"
 		"pinCorner"		"2"
 		"visible"		"1"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 	}
 }

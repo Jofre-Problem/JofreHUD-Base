@@ -57,7 +57,7 @@
 		
 		"labelText"		"%title%"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	"summaryLabel"
@@ -81,8 +81,8 @@
 		
 		"labelText"		"%statdesc%"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"wrap"			"1"
 	}
 	"StatLabelLarge"
@@ -105,8 +105,8 @@
 		
 		"labelText"		"%stattextlarge%"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"StatLabelSmall"
 	{	
@@ -127,8 +127,8 @@
 		
 		"labelText"		"%stattextsmall%"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	StatBox
 	{

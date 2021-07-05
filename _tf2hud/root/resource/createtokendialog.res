@@ -26,7 +26,7 @@
 		
 		"visible"		"0"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		"labelText"		"&Skip Token"
 		"textAlignment"		"center"
 		"command"		"SkipToken"
@@ -44,7 +44,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -61,7 +61,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -78,7 +78,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		"labelText"		"&Cancel"
 		"textAlignment"		"center"
 		"command"		"Close"
@@ -96,7 +96,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"&OK"
 		"textAlignment"		"center"
 		"command"		"OK"

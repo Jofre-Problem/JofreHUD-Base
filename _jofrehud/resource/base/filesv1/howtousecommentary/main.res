@@ -10,8 +10,8 @@
 		//"enabled"		"1"
 		"tabPosition"		"0"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"dulltext"		"0"
+		//"brighttext"		"0"
 		"wrap"		"1"
 	}
 }	

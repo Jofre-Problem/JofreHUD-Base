@@ -38,7 +38,7 @@
 		//"enabled"		"1"
 		"labelText"		"#Hud_menu_demolish_title"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}
 }	

@@ -31,7 +31,7 @@
 			"labelText"			"Width:"
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
-			//"brighttext"		"0"
+			////"brighttext"		"0"
 		}
 
 		"WidthText"
@@ -47,11 +47,11 @@
 			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
-			"tabPosition"		"1"
+			//"tabPosition"		"1"
 			"labelText"			""
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
-			//"brighttext"		"0"
+			////"brighttext"		"0"
 		}
 
 		"HeightLabel"
@@ -71,7 +71,7 @@
 			"labelText"			"Height:"
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
-			//"brighttext"		"0"
+			////"brighttext"		"0"
 		}
 
 		"HeightText"
@@ -87,11 +87,11 @@
 			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
-			"tabPosition"		"3"
+			//"tabPosition"		"3"
 			"labelText"			"Color"
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
-			//"brighttext"		"0"
+			////"brighttext"		"0"
 		}
 
 		"BackgroundColorLabel"
@@ -111,7 +111,7 @@
 			"labelText"			"Background:"
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
-			//"brighttext"		"0"
+			////"brighttext"		"0"
 		}
 		"BackgroundColor"
 		{
@@ -125,11 +125,11 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"	"5"
+			//"tabPosition"	"5"
 			"labeltext"		""
 			//"textAlignment"		"west"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 			"Default"		"0"
 		}
 
@@ -150,7 +150,7 @@
 			"labelText"			"Output:"
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
-			//"brighttext"		"0"
+			////"brighttext"		"0"
 		}
 
 		"OutputDirectory"
@@ -170,7 +170,7 @@
 			"labelText"			"."
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
-			//"brighttext"		"0"
+			////"brighttext"		"0"
 		}
 
 		"OutputDirectorySelect"
@@ -185,7 +185,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"		"6"
+			//"tabPosition"		"6"
 			"labelText"		"&Select"
 			"textAlignment"		"center"
 			"command"		"OutputDirectorySelect"
@@ -205,7 +205,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"		"10"
+			//"tabPosition"		"10"
 			"labelText"		"&Capture"
 			"textAlignment"		"center"
 			"command"		"Capture"
@@ -230,7 +230,7 @@
 			"labelText"			""
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
-			//"brighttext"		"0"
+			////"brighttext"		"0"
 		}
 
 		"GenerateBackpackIcons"
@@ -245,7 +245,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"		"10"
+			//"tabPosition"		"10"
 			"labelText"		"Generate Backpack Icons"
 			"textAlignment"		"center"
 			"command"		"GenerateBackpackIcons"
@@ -270,7 +270,7 @@
 			"labelText"			"Control Key on Capture for Specific Item Only."
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
-			//"brighttext"		"0"
+			////"brighttext"		"0"
 		}
 
 		"Info2"
@@ -290,7 +290,7 @@
 			"labelText"			"Control Key on Restore for Specific Prefs Only."
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
-			//"brighttext"		"0"
+			////"brighttext"		"0"
 		}
 
 		"Info3"
@@ -310,7 +310,7 @@
 			"labelText"			"Right Click on Model List to select Attachment."
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
-			//"brighttext"		"0"
+			////"brighttext"		"0"
 		}
 
 		"Info4"
@@ -330,7 +330,7 @@
 			"labelText"			"Control Key on Model List to Clear Attachment."
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
-			//"brighttext"		"0"
+			////"brighttext"		"0"
 		}
 
 		"SaveCaps"
@@ -345,7 +345,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"		"10"
+			//"tabPosition"		"10"
 			"labelText"		"&Save"
 			"textAlignment"		"center"
 			"command"		"SaveCaps"
@@ -365,7 +365,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"		"10"
+			//"tabPosition"		"10"
 			"labelText"		"&Restore"
 			"textAlignment"		"center"
 			"command"		"RestoreCaps"
@@ -391,7 +391,7 @@
 			"labelText"			"Backpack Output Name Suffix:"
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
-			//"brighttext"		"0"
+			////"brighttext"		"0"
 		}
 
 		"SuffixText"
@@ -406,11 +406,11 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"		"1"
+			//"tabPosition"		"1"
 			"labelText"			""
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
-			//"brighttext"		"0"
+			////"brighttext"		"0"
 		}
 	}
 }

@@ -54,7 +54,7 @@
 			"textinsetx"	"10"
 			"labelText"		"#FreezePanel_Item"
 			"textAlignment"	"north"
-			"dulltext"		"0"
+			//"dulltext"		"0"
 			"brighttext"	"0"
 			"wrap"			"1"
 			"centerwrap"	"1"

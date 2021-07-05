@@ -7,7 +7,7 @@
 
 
 		"dulltext"		"1"
-		"brighttext"		"0"
+		//"brighttext"		"0"
 	}	
 	"UserNameText"
 	{
@@ -40,8 +40,8 @@
 
 		//"textAlignment"		"west"
 		"associate"		"UserNameEdit"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}	
 	"LastNameText"
 	{
@@ -57,8 +57,8 @@
 
 		//"textAlignment"		"west"
 		"associate"		"FirstNameEdit"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}	
 	"EmailEdit"
 	{

@@ -49,7 +49,7 @@
 		
 		"labelText"		"#AnnotationPanel_Callout"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	"ArrowIcon"
@@ -82,7 +82,7 @@
 		
 		"labeltext"		""
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 }

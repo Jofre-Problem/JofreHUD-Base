@@ -43,8 +43,8 @@
 		
 		"labelText"		"#SteamAddOn_ReviewMoves"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"MoveHistoryPanel"
 	{
@@ -54,14 +54,14 @@
 		"ypos"		"72"
 		"wide"		"200"
 		"tall"		"250"
-		"autoResize"		"3"
+		//"autoresize"		"3"
 		
 		////"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"CloseButton"
 	{
@@ -72,14 +72,14 @@
 		"wide"		"75"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		////"visible"		"1"
 		
 		
 		"labelText"		"#SteamAddOn_Close"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 }

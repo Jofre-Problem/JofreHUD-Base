@@ -87,7 +87,7 @@
 		"labelText"		"#IT_SelectModel"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"Default"		"1"
 		"Command"		"select_model"
@@ -297,7 +297,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -317,7 +317,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -337,7 +337,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -357,7 +357,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -377,7 +377,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -397,7 +397,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -417,7 +417,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -437,7 +437,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -566,7 +566,7 @@
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"Default"		"1"
 		"Command"		"cancel"
@@ -590,7 +590,7 @@
 		"labelText"		"#GameUI_Ok"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"Default"		"1"
 		"Command"		"ok"
@@ -616,7 +616,7 @@
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"reloadscheme"
 		"sound_depressed"	"UI/buttonclick.wav"

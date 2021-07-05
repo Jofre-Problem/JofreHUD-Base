@@ -23,14 +23,14 @@
 		"wide"		"44"
 		"tall"		"44"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labelText"		"#TrackerUI_Send"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"Default"		"1"
 	}
 	"NameLabel"
@@ -41,15 +41,15 @@
 		"ypos"		"34"
 		"wide"		"315"
 		"tall"		"24"
-		"autoResize"		"1"
+		////"autoresize"		"1"
 		
 		//"visible"		"1"
 		
 		
 		"labelText"		"#TrackerUI_ToJohnC"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"MessageState"
 	{
@@ -59,14 +59,14 @@
 		"ypos"		"278"
 		"wide"		"383"
 		"tall"		"16"
-		"autoResize"		"1"
-		"pinCorner"		"2"
+		////"autoresize"		"1"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
 		
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"TextEntry"
 	{
@@ -76,11 +76,11 @@
 		"ypos"		"232"
 		"wide"		"336"
 		"tall"		"44"
-		"autoResize"		"1"
-		"pinCorner"		"2"
+		////"autoresize"		"1"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"unicode"		"1"
@@ -94,7 +94,7 @@
 		"ypos"		"61"
 		"wide"		"384"
 		"tall"		"166"
-		"autoResize"		"3"
+		//"autoresize"		"3"
 		
 		//"visible"		"1"
 		"enabled"		"0"
@@ -112,14 +112,14 @@
 		"wide"		"60"
 		"tall"		"24"
 		
-		"pinCorner"		"1"
+		////"pincorner"		"1"
 		//"visible"		"1"
 		"enabled"		"0"
 		
 		"labelText"		"#TrackerUI_Invite"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"default"		"0"
 	}
 }

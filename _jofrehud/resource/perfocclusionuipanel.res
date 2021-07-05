@@ -26,7 +26,7 @@
 		
 		"labelText"		"Deactivate Occlusion System"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
 		"Default"		"0"
@@ -47,8 +47,8 @@
 		
 		"labelText"		"Min Occluder Size (%):"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 
 	"MinOccluderSize"
@@ -85,8 +85,8 @@
 		
 		"labelText"		"Max Occludee Size (%):"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 
 	"MaxOccludeeSize"

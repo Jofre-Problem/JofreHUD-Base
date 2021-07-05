@@ -79,8 +79,8 @@
 		
 		"labelText"		"%disguisename%"
 		"textAlignment"		"North-West"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	
 	"WeaponNameLabel"
@@ -102,8 +102,8 @@
 		
 		"labelText"		"%weaponname%"
 		"textAlignment"		"North-West"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	
 	"SpectatorGUIHealth"

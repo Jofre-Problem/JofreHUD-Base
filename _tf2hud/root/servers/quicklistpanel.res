@@ -20,8 +20,8 @@
 	"Background"
 	{
 		"ControlName"			"Panel"
-		"PinCorner"			"2"
-		"AutoResize"			"1"
+		//"pincorner"			"2"
+		//"autoresize"			"1"
 		"fieldName"				"background"
 		
 		
@@ -67,7 +67,7 @@
 		
 		"labelText"		"MAPNAME"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 
@@ -87,10 +87,10 @@
 		
 		"labelText"		"(capture the flag)"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"pin_to_sibling"	"mapname"
- 		"pin_corner_to_sibling"	"0"
+ 		//"pin_corner_to_sibling"	"0"
  		"pin_to_sibling_corner"	"3"
 	}
 
@@ -104,13 +104,13 @@
 		"zpos"			"2"
 		"wide"			"300"
 		"tall"			"30"
-		"autoResize"		"1"
-		"pinCorner"		"1"
+		////"autoresize"		"1"
+		////"pincorner"		"1"
 		//"visible"		"1"
 		
 		"labelText"		"Yo wats up"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"fgcolor_override"	"185 185 188 255"
 	}
@@ -126,7 +126,7 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pinCorner"		"1"
+		////"pincorner"		"1"
 		//"visible"		"1"
 		
 		
@@ -144,13 +144,13 @@
 		"wide"			"60"
 		"tall"			"20"
 		
-		"pinCorner"		"1"
+		////"pincorner"		"1"
 		//"visible"		"1"
 		
 		"labelText"		"54 ms"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	
 	"playercount"
@@ -164,13 +164,13 @@
 		"wide"			"200"
 		"tall"			"20"
 		
-		"pinCorner"		"1"
+		////"pincorner"		"1"
 		//"visible"		"1"
 		
 		"labelText"		"15/24 players"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"fgcolor_override"	"185 185 188 255"
 	}
 	
@@ -184,13 +184,13 @@
 		"wide"			"200"
 		"tall"			"25"
 		
-		"pinCorner"		"1"
+		////"pincorner"		"1"
 		//"visible"		"1"
 		
 		"labelText"		"50 other servers"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"fgcolor_override"	"185 185 188 255"
 	}
 	
@@ -204,7 +204,7 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pinCorner"		"1"
+		////"pincorner"		"1"
 		//"visible"		"1"
 		
 		

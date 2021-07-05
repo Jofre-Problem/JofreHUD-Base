@@ -50,8 +50,8 @@
 		
 		"labelText"		"#TF_PublishedFiles_Files"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 
@@ -69,8 +69,8 @@
 		
 		
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	
@@ -89,8 +89,8 @@
 		
 		"labelText"		"#TF_PublishFile_TitleLabel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 
@@ -108,8 +108,8 @@
 		
 		
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"labeltext"		""
 		// "editable"		"0"
@@ -131,8 +131,8 @@
 		
 		"labelText"		"#TF_PublishFile_DescLabel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"wrap"		"1"
 	}
 
@@ -150,8 +150,8 @@
 		
 		
 		"textAlignment"		"north-west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"wrap"		"1"
 		"labeltext"		""
 		//"editable"		"0"
@@ -173,8 +173,8 @@
 		
 		"labelText"		"#TF_PublishedFiles_Add"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"AddFile"
 		"Default"		"0"
@@ -195,8 +195,8 @@
 		
 		"labelText"		"#TF_PublishedFiles_Delete"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"DeleteFile"
 		"Default"		"0"
@@ -217,8 +217,8 @@
 		
 		"labelText"		"#TF_PublishedFiles_Edit"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"EditFile"
 		"Default"		"0"
@@ -239,8 +239,8 @@
 		
 		"labelText"		"#TF_PublishedFiles_Refresh"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Refresh"
 		"Default"		"0"
@@ -261,8 +261,8 @@
 		
 		"labelText"		"#TF_CLOSE"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"

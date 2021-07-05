@@ -31,8 +31,8 @@
 		
 		"labelText"		"Save changes?"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"FileNameLabel"
@@ -50,8 +50,8 @@
 		
 		"labeltext"		""
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"font" "defaultverysmall"
 	}
@@ -70,8 +70,8 @@
 		
 		"labelText"		"Yes"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"yes"
 		//"Default"		"1"
@@ -91,8 +91,8 @@
 		
 		"labelText"		"No"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"no"
 		"Default"		"0"
@@ -112,8 +112,8 @@
 		
 		"labelText"		"Cancel"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"cancel"
 		"Default"		"0"

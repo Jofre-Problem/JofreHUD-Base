@@ -9,7 +9,7 @@
 		//"autoResize"	"0"
 		//"pinCorner"		"0"
 		//"enabled"		"1"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 	}	
 }	

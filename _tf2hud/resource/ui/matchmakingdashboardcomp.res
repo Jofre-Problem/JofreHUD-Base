@@ -49,7 +49,7 @@
 		"labelText"		"?"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"default"		"0"
 		"Command"		"show_explanations"
@@ -121,7 +121,7 @@
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"find_game"
 		"proportionaltoparent"	"1"

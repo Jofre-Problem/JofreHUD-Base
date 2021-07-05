@@ -31,8 +31,8 @@
 		
 		"labelText"		"Play"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"play"
 		//"Default"		"1"
@@ -52,8 +52,8 @@
 		
 		"labelText"		"Stop"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"stop"
 		"Default"		"0"
@@ -73,8 +73,8 @@
 		
 		"labelText"		"Load..."
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"load"
 		"Default"		"0"
@@ -94,8 +94,8 @@
 		
 		"labelText"		"Edit..."
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"edit"
 		"Default"		"0"
@@ -115,8 +115,8 @@
 		
 		"labelText"		"Smooth..."
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"smooth"
 		"Default"		"0"
@@ -136,8 +136,8 @@
 		
 		"labelText"		"Drive..."
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"drive"
 		"Default"		"0"
@@ -157,8 +157,8 @@
 		
 		"labelText"		"|<"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"reload"
 		"Default"		"0"
@@ -178,8 +178,8 @@
 		
 		"labelText"		">|"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -198,8 +198,8 @@
 		
 		"labelText"		">>"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -218,8 +218,8 @@
 		
 		"labelText"		"<<"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -238,8 +238,8 @@
 		
 		"labelText"		"<"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"			"0"
 		"Command"		"prevframe"
 		"Default"		"0"
@@ -259,8 +259,8 @@
 		
 		"labelText"		">"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"nextframe"
 		"Default"		"0"
@@ -279,8 +279,8 @@
 		
 		
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"DemoProgress"
@@ -312,7 +312,7 @@
 		
 		
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"brighttext"		"1"
 		//"wrap"		"0"
 	}
@@ -330,7 +330,7 @@
 		
 		
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"brighttext"		"1"
 		//"wrap"		"0"
 	}
@@ -363,8 +363,8 @@
 		
 		"labelText"		"100.00 %"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"DemoGo"
@@ -382,8 +382,8 @@
 		
 		"labelText"		"Goto:"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"gototick"
 		"Default"		"0"
@@ -422,8 +422,8 @@
 		
 		"labelText"		"0"
 		"textAlignment"		"north-west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -442,8 +442,8 @@
 		
 		"labelText"		"1"
 		"textAlignment"		"north-west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -462,8 +462,8 @@
 		
 		"labelText"		"o"
 		"textAlignment"		"north-west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"MinimizeToSysTray"
 		"Default"		"0"

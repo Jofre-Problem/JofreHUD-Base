@@ -59,7 +59,7 @@
 		"enabled"		"0"
 		"labeltext"		""
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"brighttext"	"1"
 	}
 
@@ -112,7 +112,7 @@
 		
 		"tabPosition"	"1"
 		"textAlignment"	"south-west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"paintborder"	"0"
 		"command"		"jointeam spectate"
@@ -153,7 +153,7 @@
 		
 		"tabPosition"	"2"
 		"textAlignment"	"south-west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"paintborder"	"0"
 		"command"		"jointeam spectatearena"
@@ -198,7 +198,7 @@
 		
 		"labelText"		"#TF_Cancel"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"command"		"cancelmenu"
 		"font"			"MenuSmallFont"
@@ -217,7 +217,7 @@
 		"pinCorner"		"2"
 		"visible"		"0"
 		
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_cancel"
@@ -242,7 +242,7 @@
 		
 		"labelText"		"#TF_Arena_Menu_Fight"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
 		"font"			"MenuSmallFont"
@@ -268,7 +268,7 @@
 		
 		"labelText"		"#TF_Spectate"
 		"textAlignment"	"north"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
 		"font"			"MenuSmallestFont"

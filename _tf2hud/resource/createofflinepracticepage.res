@@ -49,8 +49,8 @@
 		"labelText"		"#GameUI_Map"
 		//"textAlignment"		"west"
 		"associate"		"MapList"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 
@@ -85,8 +85,8 @@
 		"labelText"		"%gametype%"
 		"textAlignment"		"center"
 		"associate"		"MapList"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"MapImageContainer"
@@ -104,8 +104,8 @@
 		
 		"labeltext"		""
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 
@@ -143,8 +143,8 @@
 		
 		"labelText"		"#TF_Bot_NumberOfBots"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 
 	"BotQuotaCombo"
@@ -202,8 +202,8 @@
 		
 		"labelText"		"#TF_Bot_Difficulty"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 
 	"BotDifficultySlider"
@@ -238,8 +238,8 @@
 		"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty3"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"3"
 	}
@@ -258,8 +258,8 @@
 		"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty2"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"3"
 	}
@@ -278,8 +278,8 @@
 		"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty1"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"2"
 	}
@@ -298,8 +298,8 @@
 		"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty0"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"1"
 	}

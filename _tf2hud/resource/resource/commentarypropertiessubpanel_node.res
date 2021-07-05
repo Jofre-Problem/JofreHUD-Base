@@ -49,8 +49,8 @@
 		
 		"labelText"		"..."
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 		"Command"	"PickSound"
@@ -91,8 +91,8 @@
 		
 		"labelText"		"Record"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -151,8 +151,8 @@
 		
 		"labelText"		"..."
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -171,8 +171,8 @@
 		
 		"labelText"		"..."
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -231,8 +231,8 @@
 		
 		"labelText"		"Prevent Movement"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -291,8 +291,8 @@
 		
 		"labelText"		"Commentary Node Name:"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"font"		"DefaultBold"
 		//"wrap"		"0"
 	}
@@ -311,8 +311,8 @@
 		
 		"labelText"		"Audio File"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"SpeakerLabel"
@@ -330,8 +330,8 @@
 		
 		"labelText"		"Speaker(s)"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"SynopsisLabel"
@@ -349,8 +349,8 @@
 		
 		"labelText"		"Synopsis (optional)"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"CameraControlLabel"
@@ -368,8 +368,8 @@
 		
 		"labelText"		"Camera Control:"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"font"		"DefaultBold"
 		//"wrap"		"0"
 	}
@@ -388,8 +388,8 @@
 		
 		"labelText"		"View Position"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"ViewTargetLabel"
@@ -407,8 +407,8 @@
 		
 		"labelText"		"View Target"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"OperationsLabel"
@@ -426,8 +426,8 @@
 		
 		"labelText"		"Operations:"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"font"		"DefaultBold"
 		//"wrap"		"0"
 	}
@@ -446,8 +446,8 @@
 		
 		"labelText"		"Start Console Commands"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"EndCommandsLabel"
@@ -465,8 +465,8 @@
 		
 		"labelText"		"End Console Commands"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"AudioLabel"
@@ -484,8 +484,8 @@
 		
 		"labelText"		"Audio:"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"font"		"DefaultBold"
 		//"wrap"		"0"
 	}
@@ -504,8 +504,8 @@
 		
 		"labelText"		"Location:"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"font"		"DefaultBold"
 		//"wrap"		"0"
 	}
@@ -524,8 +524,8 @@
 		
 		"labelText"		"Position"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"PositionX"
@@ -562,8 +562,8 @@
 		
 		"labelText"		"X"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"PositionYLabel"
@@ -581,8 +581,8 @@
 		
 		"labelText"		"Y"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"PositionZLabel"
@@ -600,8 +600,8 @@
 		
 		"labelText"		"Z"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"PositionY"
@@ -657,8 +657,8 @@
 		
 		"labelText"		"Orientation"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"pitch"
@@ -733,8 +733,8 @@
 		
 		"labelText"		"Pitch"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"YawLabel"
@@ -752,8 +752,8 @@
 		
 		"labelText"		"Yaw"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"RollLabel"
@@ -771,8 +771,8 @@
 		
 		"labelText"		"Roll"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Divider1"

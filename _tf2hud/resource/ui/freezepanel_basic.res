@@ -118,8 +118,8 @@
 			
 			"labelText"		"#FreezePanel_Killer"
 			//"textAlignment"		"Left"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 
 		"FreezeLabelKiller"
@@ -216,7 +216,7 @@
 			
 			"labelText"		"#FreezePanel_Item"
 			"textAlignment"	"Left"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 		}
 	}		
@@ -268,8 +268,8 @@
 			
 			"labelText"		"#FreezePanel_Killer"
 			"textAlignment"		"North-West"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		
 		"FreezePanelHealth"		[$WIN32]
@@ -461,8 +461,8 @@
 			
 			"labelText"		"%text%"
 			//"textAlignment"		"west"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 	}	
 }

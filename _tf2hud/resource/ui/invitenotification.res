@@ -120,7 +120,7 @@
 		
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"accept"
 		"proportionaltoparent"	"1"
@@ -159,7 +159,7 @@
 		
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"decline"
 		"proportionaltoparent"	"1"

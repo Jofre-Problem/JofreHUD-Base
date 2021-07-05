@@ -31,8 +31,8 @@
 		
 		"labelText"		"#KBEditorSave"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"save"
 		"Default"		"0"
@@ -53,8 +53,8 @@
 		
 		"labelText"		"#KBEditorCancel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"cancel"
 		"Default"		"0"
@@ -75,8 +75,8 @@
 		
 		"labelText"		"#KBEditorRevert"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"revert"
 		"Default"		"0"
@@ -97,8 +97,8 @@
 		
 		"labelText"		"#KBEditorUseDefaults"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"defaults"
 		"Default"		"0"

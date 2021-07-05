@@ -31,7 +31,7 @@
 		"labelText"		"#TrackerUI_DoYouWantTo"
 		//"textAlignment"		"west"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	"NameLabel"
 	{
@@ -49,8 +49,8 @@
 		"labelText"		"test4 wishes to add you to his/her contact list.
 test4@testers.com"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"AcceptButton"
 	{
@@ -64,11 +64,11 @@ test4@testers.com"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"#TrackerUI_AllowPersonToSeeYou"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"accept"
 		"Default"		"0"
 		"SubTabPosition"		"1"
@@ -85,11 +85,11 @@ test4@testers.com"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"#TrackerUI_BlockThisPerson"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"decline"
 		"Default"		"0"
 		"SubTabPosition"		"2"
@@ -106,11 +106,11 @@ test4@testers.com"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labelText"		"#TrackerUI_OK"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"OK"
 		//"Default"		"1"
 	}
@@ -126,11 +126,11 @@ test4@testers.com"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		"labelText"		"#TrackerUI_Cancel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Command"		"Cancel"
 		"Default"		"0"
 	}

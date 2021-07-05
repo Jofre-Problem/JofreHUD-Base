@@ -59,7 +59,7 @@
 		"enabled"		"0"
 		"labeltext"		""
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"brighttext"	"1"
 	}
 	
@@ -77,10 +77,10 @@
 		//"visible"		"1"
 		
 		"tabPosition"	"3"
-		"labelText"		"&3"	[$WIN32]
+		"labelText"		"&3"	
 		
 		"textAlignment"	"south-west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"paintborder"	"0"
 		"command"		"jointeam blue"
@@ -105,10 +105,10 @@
 		//"visible"		"1"
 		
 		"tabPosition"	"4"
-		"labelText"		"&4"	[$WIN32]
+		"labelText"		"&4"	
 		
 		"textAlignment"	"south-west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"paintborder"	"0"
 		"command"		"jointeam red"
@@ -133,10 +133,10 @@
 		//"visible"		"1"
 		
 		"tabPosition"	"1"
-		"labelText"		"&1"	[$WIN32]
+		"labelText"		"&1"	
 		
 		"textAlignment"	"south-west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"paintborder"	"0"
 		"command"		"jointeam auto"
@@ -159,10 +159,10 @@
 		//"visible"		"1"
 		
 		"tabPosition"	"2"
-		"labelText"		"&2"	[$WIN32]
+		"labelText"		"&2"	
 		
 		"textAlignment"	"south-west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"paintborder"	"0"
 		"command"		"jointeam spectate"
@@ -171,7 +171,7 @@
 		"fgcolor"		"HUDWhite"
 	}
 	
-	"CancelButton" [$WIN32] 
+	"CancelButton"  
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"CancelButton"
@@ -190,7 +190,7 @@
 		
 		"labelText"		"#TF_Cancel"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"command"		"cancelmenu"
 		"font"			"MenuSmallFont"
@@ -216,7 +216,7 @@
 		
 		"labelText"		"#TF_SelectATeam"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"MenuMainTitle"
 		"fgcolor"		"HudOffWhite"
@@ -226,8 +226,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TeamMenuAuto"
-		"xpos"			"c-280" [$WIN32] 
-		"xpos"			"c-276" [$X360]
+		"xpos"			"c-280"
 		//"xpos_lodef"			"c-255"
 		//"xpos_hidef"			"c-260"
 		"ypos"			"55"
@@ -242,7 +241,7 @@
 		
 		"labelText"		"#TF_Random"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
 		"font"			"MenuSmallFont"
@@ -268,7 +267,7 @@
 		
 		"labelText"		"#TF_Spectate"
 		"textAlignment"	"north"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
 		"font"			"MenuSmallestFont"
@@ -347,7 +346,7 @@
 		
 		"labelText"		"%bluecount%"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"brighttext"	"1"
 		"font"			"TeamMenuBold"
 		"fgcolor"		"black"
@@ -371,7 +370,7 @@
 		
 		"labelText"		"%redcount%"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"brighttext"	"1"
 		"font"			"TeamMenuBold"
 		"fgcolor"		"black"
@@ -665,7 +664,7 @@
 		}
 	}	
 	
-	"HighlanderLabel" [$WIN32] 
+	"HighlanderLabel"  
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"HighlanderLabel"
@@ -680,14 +679,14 @@
 		
 		"labelText"		"#TF_Highlander_Mode"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"HudOffWhite"
 		"centerwrap"	"1"
 	}
 	
-	"HighlanderLabelShadow" [$WIN32] 
+	"HighlanderLabelShadow"  
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"HighlanderLabelShadow"
@@ -702,14 +701,14 @@
 		
 		"labelText"		"#TF_Highlander_Mode"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"black"
 		"centerwrap"	"1"
 	}
 	
-	"TeamsFullLabel" [$WIN32] 
+	"TeamsFullLabel"  
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TeamsFullLabel"
@@ -724,14 +723,14 @@
 		
 		"labelText"		"#TF_Teams_Full"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"HudOffWhite"
 		"centerwrap"	"1"
 	}
 	
-	"TeamsFullLabelShadow" [$WIN32] 
+	"TeamsFullLabelShadow"  
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TeamsFullLabelShadow"
@@ -746,14 +745,14 @@
 		
 		"labelText"		"#TF_Teams_Full"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"CapPlayerFont"
 		"fgcolor"		"black"
 		"centerwrap"	"1"
 	}
 
-	"TeamsFullArrow" [$WIN32]
+	"TeamsFullArrow" 
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"TeamsFullArrow"

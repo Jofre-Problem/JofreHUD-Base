@@ -58,8 +58,8 @@
 		
 		"labelText"		"#Cancel"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
@@ -81,8 +81,8 @@
 		
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Done"
 		"Default"		"0"

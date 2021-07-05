@@ -35,7 +35,7 @@
 			
 			"labelText"		"#GameUI_ParticleHatUseHead"
 			//"textAlignment"		"west"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			"brighttext"		"1"
 			//"wrap"		"0"
 			//"centerwrap"		"0"
@@ -79,7 +79,7 @@
 			"labelText"		"#TF_Item_SelectStyle"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"

@@ -50,7 +50,7 @@
 		"ypos"		"135"
 		"wide"		"235"
 		"tall"		"222"
-		"autoResize"		"3"
+		//"autoresize"		"3"
 		
 		////"visible"		"1"
 		"enabled"		"0"
@@ -67,8 +67,8 @@
 		"ypos"		"370"
 		"wide"		"165"
 		"tall"		"24"
-		"autoResize"		"1"
-		"pinCorner"		"2"
+		////"autoresize"		"1"
+		//"pincorner"		"2"
 		////"visible"		"1"
 		
 		
@@ -85,14 +85,14 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		////"visible"		"1"
 		
 		
 		"labelText"		"#SteamAddOn_Btn_Send"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"Default"		"1"
 	}
 	"PassBtn"
@@ -110,8 +110,8 @@
 		
 		"labelText"		"#SteamAddOn_Btn_Pass"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"default"		"0"
 	}
 	"ResignBtn"
@@ -129,8 +129,8 @@
 		
 		"labelText"		"#SteamAddOn_Btn_Resign"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"default"		"0"
 	}
 	"SubmitBtn"
@@ -148,8 +148,8 @@
 		
 		"labelText"		"#Go_Btn_Submit"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"default"		"0"
 	}
 	"ShowHistoryBtn"
@@ -167,8 +167,8 @@
 		
 		"labelText"		"#SteamAddOn_Btn_ShowHistory"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 	"LastMoveLabel"
@@ -180,14 +180,14 @@
 		"wide"		"250"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		"visible"		"0"
 		
 		
 		"labelText"		"Last Move made at:"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"TurnLabel"
 	{
@@ -198,14 +198,14 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
 		
 		"labelText"		"Turn: 1"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"BlackIcon"
 	{
@@ -250,8 +250,8 @@
 		
 		"labelText"		"PLAYER BLACK"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"WhiteName"
 	{
@@ -268,8 +268,8 @@
 		
 		"labelText"		"PLAYER WHITE"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"BlackCaptured"
 	{
@@ -286,8 +286,8 @@
 		
 		"labelText"		"Prisoners: 0"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"WhiteCaptured"
 	{
@@ -304,7 +304,7 @@
 		
 		"labelText"		"Prisoners: 0"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 }

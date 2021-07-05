@@ -57,8 +57,8 @@
 		
 		"labelText"		"#SteamAddOn_StartGame"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 	"Divider0"
@@ -120,8 +120,8 @@
 		
 		"labelText"		"#SteamAddOn_Invite"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 	"CancelInviteButton0"
@@ -139,8 +139,8 @@
 		
 		"labelText"		"#SteamAddOn_Cancel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 	
@@ -188,8 +188,8 @@
 		
 		"labelText"		"#SteamAddOn_Invite"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 	"CancelInviteButton2"
@@ -207,8 +207,8 @@
 		
 		"labelText"		"#SteamAddOn_Cancel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 	"SwitchTeamOneButton"
@@ -226,8 +226,8 @@
 		
 		"labelText"		"#Spades_SwitchTeams"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 	
@@ -262,8 +262,8 @@
 		
 		"labelText"		"#Spades_SwitchTeams"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 
@@ -311,8 +311,8 @@
 		
 		"labelText"		"#SteamAddOn_Invite"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 	"CancelInviteButton1"
@@ -330,8 +330,8 @@
 		
 		"labelText"		"#SteamAddOn_Cancel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 	"PlayerPositionLabel3"
@@ -379,8 +379,8 @@
 		
 		"labelText"		"#SteamAddOn_Invite"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 	"CancelInviteButton3"
@@ -398,8 +398,8 @@
 		
 		"labelText"		"#SteamAddOn_Cancel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 	
@@ -411,7 +411,7 @@
 		"ypos"		"245"
 		"wide"		"440"
 		"tall"		"125"
-		"autoResize"		"3"
+		//"autoresize"		"3"
 		
 		////"visible"		"1"
 		"enabled"		"0"
@@ -429,8 +429,8 @@
 		"ypos"		"380"
 		"wide"		"285"
 		"tall"		"24"
-		"autoResize"		"1"
-		"pinCorner"		"2"
+		////"autoresize"		"1"
+		//"pincorner"		"2"
 		////"visible"		"1"
 		
 		
@@ -447,14 +447,14 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pincorner"		"3"
 		////"visible"		"1"
 		
 		
 		"labelText"		"#SteamAddOn_Btn_Send"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}	
 	"LastMessageLabel"
@@ -466,14 +466,14 @@
 		"wide"		"300"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		"visible"		"0"
 		
 		
 		"labelText"		"Last message received at:"
 		//"textAlignment"		"west"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	
 }

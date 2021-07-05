@@ -114,7 +114,7 @@
 					
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
-					//"dulltext"		"0"
+					////"dulltext"		"0"
 					//"brighttext"	"0"
 					"Command"		"rematch"
 					"proportionaltoparent"	"1"
@@ -143,7 +143,7 @@
 					
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
-					//"dulltext"		"0"
+					////"dulltext"		"0"
 					//"brighttext"	"0"
 					"Command"		"new_match"
 					"proportionaltoparent"	"1"
@@ -186,7 +186,7 @@
 					
 					"font"			"HudFontSmallest"
 					"textAlignment"	"center"
-					//"dulltext"		"0"
+					////"dulltext"		"0"
 					//"brighttext"	"0"
 					"proportionaltoparent"	"1"
 					"labeltext"		"#TF_Matchmaking_RollingQueue_RequeueNonLeader"
@@ -210,7 +210,7 @@
 					
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
-					//"dulltext"		"0"
+					////"dulltext"		"0"
 					//"brighttext"	"0"
 					"Command"		"leave_party"
 					"proportionaltoparent"	"1"
@@ -277,7 +277,7 @@
 				
 				"font"			"HudFontSmallest"
 				"textAlignment"	"center"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 				"proportionaltoparent"	"1"
 				"labeltext"		"%votes_needed%"
@@ -381,7 +381,7 @@
 					
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
-					//"dulltext"		"0"
+					////"dulltext"		"0"
 					//"brighttext"	"0"
 					"Command"		"leave_party"
 					"proportionaltoparent"	"1"
@@ -494,7 +494,7 @@
 					
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
-					//"dulltext"		"0"
+					////"dulltext"		"0"
 					//"brighttext"	"0"
 					"Command"		"leave_queue"
 					"proportionaltoparent"	"1"
@@ -593,7 +593,7 @@
 				
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 				"Command"		"abandon_match"
 				"proportionaltoparent"	"1"
@@ -623,7 +623,7 @@
 				
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 				"Command"		"join_match"
 				"proportionaltoparent"	"1"

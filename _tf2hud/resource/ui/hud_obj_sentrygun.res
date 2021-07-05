@@ -102,7 +102,7 @@
 			"labelText"		"#Building_hud_sentry_not_built"
 			//"labelText_lodef"		"#Building_hud_sentry_not_built_360"
 			"textAlignment"	"Left"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 		}
 	}
@@ -226,7 +226,7 @@
 			//"visible"		"1"
 			
 			"textAlignment"	"Left"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"	
 		}
 		
@@ -255,7 +255,7 @@
 				
 				"labelText"		"#Building_hud_building"
 				"textAlignment"	"Left"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 			}
 			
@@ -273,7 +273,7 @@
 				//"visible"		"1"
 				
 				"textAlignment"	"Left"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 			}
 		}
@@ -319,7 +319,7 @@
 				
 				"labelText"		"#Building_hud_sentry_kills_assists"
 				"textAlignment"	"north-west"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 			}
 					
@@ -353,7 +353,7 @@
 				//"visible"		"1"
 				
 				"textAlignment"	"Left"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 			}
 			
@@ -387,7 +387,7 @@
 				"visible"		"0"
 				
 				"textAlignment"	"Left"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 			}
 
@@ -421,7 +421,7 @@
 				//"visible"		"1"
 				
 				"textAlignment"	"Left"
-				//"dulltext"		"0"
+				////"dulltext"		"0"
 				//"brighttext"	"0"
 			}
 		}

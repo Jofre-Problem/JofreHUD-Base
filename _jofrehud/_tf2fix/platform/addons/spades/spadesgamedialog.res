@@ -695,8 +695,8 @@
 		"tabPosition"		"4"
 		"labelText"		"1"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	} 
 	"Bid02Button"
 	{
@@ -713,8 +713,8 @@
 		"tabPosition"		"5"
 		"labelText"		"2"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	} 
 	"Bid03Button"
 	{
@@ -731,8 +731,8 @@
 		"tabPosition"		"6"
 		"labelText"		"3"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	} 
 	"Bid04Button"
 	{
@@ -749,8 +749,8 @@
 		"tabPosition"		"7"
 		"labelText"		"4"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	} 
 	"Bid05Button"
 	{
@@ -767,8 +767,8 @@
 		"tabPosition"		"8"
 		"labelText"		"5"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	} 
 	"Bid06Button"
 	{
@@ -785,8 +785,8 @@
 		"tabPosition"		"9"
 		"labelText"		"6"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	} 
 	"Bid07Button"
 	{
@@ -1035,7 +1035,7 @@
 		"labelText"		"Last message received at:"
 		//"textAlignment"		"west"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 	}
 	
 }

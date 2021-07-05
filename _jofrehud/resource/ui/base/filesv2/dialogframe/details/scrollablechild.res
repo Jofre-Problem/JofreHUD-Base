@@ -185,7 +185,7 @@
 					"labelText"		"#Store_ItemDesc_ItemWikiPage"
 					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
-					"dulltext"		"0"
+					//"dulltext"		"0"
 					"brighttext"	"0"
 					"command"		"viewwikipage"
 					"sound_depressed"	"UI/buttonclick.wav"

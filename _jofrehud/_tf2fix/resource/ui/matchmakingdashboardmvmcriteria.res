@@ -43,7 +43,7 @@
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"back"
 		"proportionaltoparent"	"1"
@@ -89,7 +89,7 @@
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"start_search"
 		"proportionaltoparent"	"1"
@@ -138,7 +138,7 @@
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"start_search"
 		"proportionaltoparent"	"1"
@@ -170,7 +170,7 @@
 		
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"select_tour"
 		"proportionaltoparent"	"1"

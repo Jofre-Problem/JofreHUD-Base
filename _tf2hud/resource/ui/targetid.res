@@ -91,8 +91,8 @@
 		
 		"labelText"		"%targetname%"
 		"textAlignment"		"North-West"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"TargetDataLabel"
 	{	
@@ -114,8 +114,8 @@
 		
 		"labelText"		"%targetdata%"
 		//"textAlignment"		"Left"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"SpectatorGUIHealth"
 	{
@@ -246,8 +246,8 @@
 			
 			"labelText"		"%movekey%"
 			"textAlignment"		"North"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}	
 	}
 	"AvatarImage"

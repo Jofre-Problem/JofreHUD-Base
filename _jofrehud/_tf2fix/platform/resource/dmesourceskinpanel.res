@@ -96,8 +96,8 @@
 		"tabPosition"	"1"
 		"labelText"		"Flip Triangles"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"Default"		"0"
 	}
 }

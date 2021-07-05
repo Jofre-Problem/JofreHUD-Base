@@ -97,7 +97,7 @@
 		
 		//"visible"		"1"
 		
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"disabledfgcolor2_override"	"TanDark"
 	}	
@@ -117,7 +117,7 @@
 		
 		//"visible"		"1"
 		
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"disabledfgcolor2_override"	"TanDark"
 	}	
@@ -137,7 +137,7 @@
 		
 		//"visible"		"1"
 		
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"disabledfgcolor2_override"	"TanDark"
 	}	
@@ -191,7 +191,7 @@
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"Default"		"1"
 		"Command"		"cancel"
@@ -215,7 +215,7 @@
 		"labelText"		"#IT_Apply"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"Default"		"1"
 		"Command"		"ok"
@@ -241,7 +241,7 @@
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"reloadscheme"
 		"sound_depressed"	"UI/buttonclick.wav"

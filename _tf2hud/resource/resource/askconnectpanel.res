@@ -35,7 +35,7 @@
 		
 		"labelText"		"..."
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
 	}
@@ -55,7 +55,7 @@
 		
 		"labeltext"		""
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"brighttext"	"1"
 		//"wrap"			"0"
 	}
@@ -75,7 +75,7 @@
 		
 		"labeltext"		""
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
 	}

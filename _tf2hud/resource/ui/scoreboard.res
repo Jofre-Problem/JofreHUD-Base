@@ -1758,7 +1758,7 @@
 			
 			"labelText"		"C"
 			"textAlignment"	"Left"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 		}
 		
@@ -1778,7 +1778,7 @@
 			
 			"labelText"		"#GameUI_Select"
 			"textAlignment"	"Left"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 		}
 		
@@ -1798,7 +1798,7 @@
 			
 			"labelText"		"A"
 			"textAlignment"	"Left"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 		}
 		
@@ -1818,7 +1818,7 @@
 			
 			"labelText"		"#TF_ViewGamercard"
 			"textAlignment"	"Left"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 		}
 		
@@ -1838,7 +1838,7 @@
 			
 			"labelText"		"X"
 			"textAlignment"	"Left"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 		}
 		
@@ -1858,7 +1858,7 @@
 			
 			"labelText"		"#GameUI_PlayerReview"
 			"textAlignment"	"Left"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 		}
 	}				

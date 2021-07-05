@@ -24,11 +24,11 @@
 			"ypos"		"298"
 			"wide"		"256"
 			"tall"		"24"
-			"autoResize"		"1"
-			"pinCorner"		"2"
+			////"autoresize"		"1"
+			//"pincorner"		"2"
 			//"visible"		"1"
 			
-			"tabPosition"		"3"
+			//"tabPosition"		"3"
 			//"textHidden"		"0"
 			"editable"		"0"
 			"maxchars"		"-1"
@@ -44,14 +44,14 @@
 			"wide"		"122"
 			"tall"		"24"
 			
-			"pinCorner"		"2"
+			//"pincorner"		"2"
 			//"visible"		"1"
 			
-			"tabPosition"		"1"
+			//"tabPosition"		"1"
 			"labelText"		"Ok"
 			"textAlignment"		"center"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 			//"Default"		"1"
 		}
 
@@ -64,14 +64,14 @@
 			"wide"		"122"
 			"tall"		"24"
 			
-			"pinCorner"		"2"
+			//"pincorner"		"2"
 			//"visible"		"1"
 			
-			"tabPosition"	"2"
+			//"tabPosition"	"2"
 			"labelText"		"Cancel"
 			"textAlignment"	"center"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 			"Default"		"0"
 		}
 		
@@ -83,7 +83,7 @@
 			"ypos"			"34"
 			"wide"			"256"
 			"tall"			"256"
-			"AutoResize"	"3"
+			//"autoresize"	"3"
 			
 			//"visible"		"1"
 			

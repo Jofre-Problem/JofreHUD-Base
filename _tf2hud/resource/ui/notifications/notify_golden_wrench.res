@@ -46,7 +46,7 @@
 		
 		"labelText"		"60 seconds until gates open"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 }

@@ -16,7 +16,7 @@
 		
 		"labelText"		"#TF_Class_Name_Engineer"
 		"textAlignment"	"Center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
 	

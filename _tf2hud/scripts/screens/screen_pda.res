@@ -15,7 +15,7 @@
 		
 		"labelText"		"Testing 1 2 3"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"paintBackground" "0"
 	}
 	
@@ -34,7 +34,7 @@
 		"tabPosition"	"2"
 		"labelText"		"Change Team"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Default"		"0"
 		"paintBackground" "0"
@@ -56,7 +56,7 @@
 		"tabPosition"	"2"
 		"labelText"		"Change Class"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Default"		"0"
 		"paintBackground" "0"

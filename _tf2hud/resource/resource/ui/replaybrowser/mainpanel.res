@@ -130,7 +130,7 @@
 		"labelText"		"#Replay_BackCarat"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"Default"		"1"
 		"Command"		"back"

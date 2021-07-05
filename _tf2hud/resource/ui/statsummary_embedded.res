@@ -278,8 +278,7 @@
 			"xpos"			"c-285"
 			//"xpos_hidef"			"c-193"
 			//"xpos_lodef"			"c-193"
-			"ypos"			"170" [!$OSX]
-			"ypos"			"185" [$OSX]
+			"ypos"			"170"
 			//"ypos_hidef"			"32"
 			//"ypos_lodef"			"32"
 			"wide"			"300"
@@ -1659,8 +1658,7 @@
 			"labelText"		"#StatSummary_Label_BestMoments"
 			//"textAlignment"		"west"
 			"xpos"			"c+124"
-			"ypos"			"170" [!$OSX]
-			"ypos"			"180" [$OSX]
+			"ypos"			"170"
 			"wide"			"300"
 			"tall"			"20"
 			
@@ -2490,7 +2488,7 @@
 		
 		"labelText"		"#TF_NextTip"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"nexttip"
 	}
@@ -2510,7 +2508,7 @@
 		
 		"labelText"		"#TF_ResetStats"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"resetstatsbutton"
 	}
@@ -2530,7 +2528,7 @@
 		
 		"labelText"		"#TF_Close"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"vguicancel"
 	}

@@ -22,7 +22,7 @@
 			"fieldName"		"PreviewSplitter"
 			//"visible"		"1"
 			
-			"AutoResize"	"3"
+			//"autoresize"	"3"
 			
 			
 			"ypos"			"6"
@@ -39,7 +39,7 @@
 					
 					"wide"			"568"
 					"tall"			"316"
-					"AutoResize"	"3"
+					//"autoresize"	"3"
 					
 					
 					
@@ -59,7 +59,7 @@
 					
 					"wide"			"65"
 					"tall"			"24"
-					"autoResize"	"1"
+					//"autoresize"	"1"
 					
 					
 					//"visible"		"1"
@@ -79,7 +79,7 @@
 					"ypos"			"26"
 					"wide"			"75"
 					"tall"			"24"
-					"autoResize"	"3"
+					//"autoresize"	"3"
 					
 					
 					//"PinnedCornerOffsetY" "26"
@@ -88,7 +88,7 @@
 					//"visible"		"1"
 					
 					//"editable"		"1"
-					"tabPosition"	"1"
+					//"tabPosition"	"1"
 					"labeltext"		""
 					//"textAlignment"	"west"
 					"dulltext"		"1"
@@ -106,14 +106,14 @@
 			"wide"		"122"
 			"tall"		"24"
 			
-			"pinCorner"		"2"
+			//"pincorner"		"2"
 			//"visible"		"1"
 			
-			"tabPosition"		"2"
+			//"tabPosition"		"2"
 			"labelText"		"Yes"
 			"textAlignment"		"center"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 			//"Default"		"1"
 		}
 
@@ -126,14 +126,14 @@
 			"wide"		"122"
 			"tall"		"24"
 			
-			"pinCorner"		"2"
+			//"pincorner"		"2"
 			//"visible"		"1"
 			
-			"tabPosition"		"2"
+			//"tabPosition"		"2"
 			"labelText"		"No"
 			"textAlignment"		"center"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 			//"Default"		"1"
 		}
 	}

@@ -80,8 +80,8 @@
 		
 		"labelText"		"#TF_PublishFile_Title"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"font"		"HudFontMediumBold"
 	}
@@ -101,8 +101,8 @@
 		
 		"labelText"		"#TF_PublishFile_Preview"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
@@ -138,8 +138,8 @@
 			
 			"labelText"		"#TF_PublishFile_PreviewDesc"
 			"textAlignment"		"center"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 			"wrap"		"1"
 			"font"		"HudFontSmallest"
 		}
@@ -171,8 +171,8 @@
 		
 		"labelText"		"#TF_PublishFile_Browse"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"PreviewBrowse"
 		//"Default"		"1"
@@ -194,8 +194,8 @@
 		
 		"labelText"		"#TF_PublishFile_TitleLabel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
@@ -239,8 +239,8 @@
 		
 		"labelText"		"#TF_PublishFile_DescLabel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
@@ -283,8 +283,8 @@
 		
 		"labelText"		"#TF_PublishFile_FileLabel"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
@@ -326,8 +326,8 @@
 		
 		"labelText"		"#TF_PublishFile_Cosmetics"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"MainFileCosmetics"
 		//"Default"		"1"
@@ -362,8 +362,8 @@
 		
 		"labelText"		"#TF_PublishFile_Other"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"MainFileOther"
 		//"Default"		"1"
@@ -385,8 +385,8 @@
 		
 		"labelText"		"#TF_PublishFile_Maps"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"MainFileMaps"
 		//"Default"		"1"
@@ -421,8 +421,8 @@
 		
 		"labelText"		"#TF_PublishFile_BrowseDesc"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"wrap"		"1"
 		"font"		"HudFontSmallest"
 		"fgcolor_override"	"TanDark"
@@ -443,8 +443,8 @@
 		
 		"labelText"		"#TF_PublishFile_Tags"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
@@ -476,7 +476,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -496,7 +496,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -516,7 +516,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -536,7 +536,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -556,7 +556,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -576,7 +576,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -596,7 +596,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -616,7 +616,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -636,7 +636,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}	
@@ -657,7 +657,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -677,7 +677,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -697,7 +697,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -717,7 +717,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -737,7 +737,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -757,7 +757,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}		
@@ -777,7 +777,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -797,7 +797,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -817,7 +817,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}		
@@ -837,7 +837,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -858,7 +858,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -878,7 +878,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -898,7 +898,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -918,7 +918,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -938,7 +938,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -958,7 +958,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -978,7 +978,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -998,7 +998,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -1018,7 +1018,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -1038,7 +1038,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -1058,7 +1058,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -1078,7 +1078,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -1098,7 +1098,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -1118,7 +1118,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -1138,7 +1138,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -1158,7 +1158,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -1178,7 +1178,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -1198,7 +1198,7 @@
 			
 			//"visible"		"1"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"disabledfgcolor2_override"	"TanDark"
 		}
@@ -1219,8 +1219,8 @@
 		
 		"labelText"		"#Cancel"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
@@ -1242,8 +1242,8 @@
 		
 		"labelText"		"#TF_PublishFile_Publish"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Publish"
 		//"Default"		"1"

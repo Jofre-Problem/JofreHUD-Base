@@ -86,7 +86,7 @@
 		"font"			"ReplayMediumSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"rendernow"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -111,7 +111,7 @@
 		"font"			"ReplayMediumSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"gotoreplays"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -136,7 +136,7 @@
 		"font"			"ReplayMediumSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"quit"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -160,7 +160,7 @@
 		
 		//"visible"		"1"
 		
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"tabPosition"	"10"
 	}

@@ -12,7 +12,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"WizardWide"		"0"
 		"WizardTall"		"0"
 	}
@@ -32,7 +32,7 @@
 		"labelText"		"#Friends_SearchingForFriend"
 		"textAlignment"		"north-west"
 		"dulltext"		"1"
-		//"brighttext"		"0"
+		////"brighttext"		"0"
 		"wrap"		"1"
 	}
 }

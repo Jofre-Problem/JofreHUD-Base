@@ -62,7 +62,7 @@
 		
 		"labelText"		"#TF_WarContribution"
 		"textAlignment"	"north"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"HudFontSmallestBold"
 	}
@@ -84,7 +84,7 @@
 		
 		"labelText"		"%warkills%"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"HudFontMedium"
 		//"font_lodef"	"HudFontMediumBig"
@@ -106,7 +106,7 @@
 		
 		"labelText"		"%warkills%"
 		"textAlignment"	"center"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"HudFontMedium"
 		//"font_lodef"	"HudFontMediumBig"

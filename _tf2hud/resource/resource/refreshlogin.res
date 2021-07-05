@@ -69,8 +69,8 @@
 		"tabPosition"		"3"
 		"labelText"		"#GameUI_RefreshLogin_RememberPassword"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"RememberPassword"
 		"Default"		"0"
@@ -90,7 +90,7 @@
 		
 		"labelText"		"#GameUI_RefreshLogin_InfoTicketExpired"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		"brighttext"		"1"
 		"wrap"		"1"
 	}
@@ -109,8 +109,8 @@
 		
 		"labelText"		"#GameUI_RefreshLogin_UserName"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Label3"
@@ -128,8 +128,8 @@
 		
 		"labelText"		"#GameUI_RefreshLogin_Password"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"OKButton"
@@ -147,8 +147,8 @@
 		"tabPosition"		"4"
 		"labelText"		"#GameUI_RefreshLogin_Login"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Login"
 		//"Default"		"1"
@@ -168,8 +168,8 @@
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_RefreshLogin_Cancel"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"

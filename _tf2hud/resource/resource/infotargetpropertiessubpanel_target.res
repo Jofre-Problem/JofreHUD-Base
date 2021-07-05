@@ -49,8 +49,8 @@
 		
 		"labelText"		"Target Name:"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"font"		"DefaultBold"
 		//"wrap"		"0"
 	}
@@ -69,8 +69,8 @@
 		
 		"labelText"		"Location:"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		"font"		"DefaultBold"
 		//"wrap"		"0"
 	}
@@ -89,8 +89,8 @@
 		
 		"labelText"		"Position"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"PositionX"
@@ -127,8 +127,8 @@
 		
 		"labelText"		"X"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"PositionYLabel"
@@ -146,8 +146,8 @@
 		
 		"labelText"		"Y"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"PositionZLabel"
@@ -165,8 +165,8 @@
 		
 		"labelText"		"Z"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"PositionY"
@@ -222,8 +222,8 @@
 		
 		"labelText"		"Orientation"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"pitch"
@@ -298,8 +298,8 @@
 		
 		"labelText"		"Pitch"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"YawLabel"
@@ -317,8 +317,8 @@
 		
 		"labelText"		"Yaw"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"RollLabel"
@@ -336,8 +336,8 @@
 		
 		"labelText"		"Roll"
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 	}
 	"Divider1"

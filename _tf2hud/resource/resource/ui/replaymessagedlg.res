@@ -103,7 +103,7 @@
 			
 			"visible"		"0"
 			
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"tabPosition"	"10"
 		}
@@ -125,7 +125,7 @@
 			"font"			"ReplayMediumSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"labelText"		"#GameUI_OK"
 			"Command"		"close"

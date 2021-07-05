@@ -31,7 +31,7 @@
 		
 		"labelText"		"#TF_WELCOME"
 		//"textAlignment"	"west"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"ChalkboardTitle"
 		"fgcolor"		"White"
@@ -97,8 +97,8 @@
 		
 		"labelText"		"#TF_Continue"
 		"textAlignment"		"center"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"wrap"		"0"
 		"command"		"okay"
 		//"Default"		"1"
@@ -119,7 +119,7 @@
 		//"visible"		"1"
 		
 		"textAlignment"	"Left"
-		//"dulltext"		"0"
+		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"

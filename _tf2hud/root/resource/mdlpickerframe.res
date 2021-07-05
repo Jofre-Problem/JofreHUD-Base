@@ -25,14 +25,14 @@
 			"wide"		"130"
 			"tall"		"24"
 			
-			"pinCorner"		"2"
+			//"pincorner"		"2"
 			//"visible"		"1"
 			
-			"tabPosition"		"2"
+			//"tabPosition"		"2"
 			"labelText"		"Open"
 			"textAlignment"		"center"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 			//"Default"		"1"
 		}
 
@@ -45,14 +45,14 @@
 			"wide"		"130"
 			"tall"		"24"
 			
-			"pinCorner"		"2"
+			//"pincorner"		"2"
 			//"visible"		"1"
 			
-			"tabPosition"	"3"
+			//"tabPosition"	"3"
 			"labelText"		"Cancel"
 			"textAlignment"	"center"
-			//"dulltext"		"0"
-			//"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 			"Default"		"0"
 		}
 		
@@ -64,11 +64,11 @@
 			"ypos"			"28"
 			"wide"			"640"
 			"tall"			"420"
-			"AutoResize"	"3"
+			//"autoresize"	"3"
 			
 			//"visible"		"1"
 			
-			"tabPosition"	"1"
+			//"tabPosition"	"1"
 			"settitlebarvisible"	"1"
 			"title"		"#Frame_Untitled"
 		}

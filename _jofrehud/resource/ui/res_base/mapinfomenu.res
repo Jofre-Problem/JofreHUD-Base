@@ -108,7 +108,7 @@
 		"scaleImage"	"1"		
 	}
 
-	"MapInfoContinue" [$WIN32]
+	"MapInfoContinue" 
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"MapInfoContinue"
@@ -127,7 +127,7 @@
 		//"enabled"		"1"
 		"labelText"		"#TF_Continue"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"continue"
 		"default"		"1"
@@ -135,7 +135,7 @@
 		"fgcolor"		"Black"
 	}
 	
-	"MapInfoWatchIntro" [$WIN32]
+	"MapInfoWatchIntro" 
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"MapInfoWatchIntro"
@@ -152,7 +152,7 @@
 		//"enabled"		"1"
 		"labelText"		"#TF_WatchIntro"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"intro"
 		"default"		"1"
@@ -160,7 +160,7 @@
 		"fgcolor"		"Black"
 	}
 	
-	"MapInfoBack" [$WIN32]
+	"MapInfoBack" 
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"MapInfoBack"
@@ -178,7 +178,7 @@
 		//"enabled"		"1"
 		"labelText"		"#TF_Back"
 		"textAlignment"	"center"
-		"dulltext"		"0"
+		//"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"back"
 		"font"			"MenuSmallFont"

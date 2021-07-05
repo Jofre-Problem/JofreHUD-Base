@@ -165,7 +165,7 @@
 			"labeltext"		""
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			//"dulltext"		"0"
+			////"dulltext"		"0"
 			//"brighttext"	"0"
 			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"

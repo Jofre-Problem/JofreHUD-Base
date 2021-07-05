@@ -8,11 +8,11 @@
 		"ypos"		"72"
 		"wide"		"496"
 		"tall"		"216"
-		"autoResize"		"3"
+		//"autoresize"		"3"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 	}
 	"EditButton"
 	{
@@ -23,14 +23,14 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labelText"		"Edit..."
 		//"textAlignment"		"west"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 		//"Default"		"1"
 	}
 	"GameLabel"
@@ -48,8 +48,8 @@
 		
 		"labelText"		"#Dialog_Game_Info_Game_Label"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"ServerIPLabel"
 	{
@@ -66,8 +66,8 @@
 		
 		"labelText"		"#Dialog_Game_Info_IP_Label"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"PlayersLabel"
 	{
@@ -84,8 +84,8 @@
 		
 		"labelText"		"#Dialog_Game_Info_Players_Label"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"UptimeLabel"
 	{
@@ -102,8 +102,8 @@
 		
 		"labelText"		"Uptime"
 		"textAlignment"		"east"
-		//"dulltext"		"0"
-		//"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"GameText"
 	{

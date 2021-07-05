@@ -37,7 +37,7 @@
 		"wide"		"60"
 		"tall"		"32"
 		
-		"pinCorner"		"1"
+		////"pincorner"		"1"
 		"visible"		"0"
 		
 		
@@ -50,11 +50,11 @@
 		"ypos"		"40"
 		"wide"		"520"
 		"tall"		"360"
-		"autoResize"		"3"
+		//"autoresize"		"3"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 	}
 	"Player List"
 	{
