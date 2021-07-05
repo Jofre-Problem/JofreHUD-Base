@@ -2,6 +2,6 @@
 {
 	"TitleLabel"
 	{
-		"textAlignment"		"left"
+		//"textAlignment"		"Left"
 	}	
 }	

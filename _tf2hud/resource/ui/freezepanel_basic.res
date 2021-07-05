@@ -117,7 +117,7 @@
 			//"visible"		"1"
 			
 			"labelText"		"#FreezePanel_Killer"
-			"textAlignment"		"Left"
+			//"textAlignment"		"Left"
 			//"dulltext"		"0"
 			//"brighttext"		"0"
 		}
@@ -140,7 +140,7 @@
 			//"visible"		"1"
 			
 			"labelText"		"%killername%"
-			"textAlignment"		"Left"
+			//"textAlignment"		"Left"
 		}
 
 		"FreezePanelHealth"
@@ -305,7 +305,7 @@
 			//"visible"		"1"
 			
 			"labelText"		"%killername%"
-			"textAlignment"		"Left"
+			//"textAlignment"		"Left"
 		}
 
 		"AvatarImage"

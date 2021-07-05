@@ -253,8 +253,7 @@
 		"tall"		"24"
 		
 		
-		//"visible"		"1" [!$POSIX]
-		"visible"		"0" [$POSIX]
+		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"14"
 		//"textHidden"		"0"
@@ -369,7 +368,7 @@
 		
 		
 		//"visible"		"1" [!$OSX]
-		"visible"		"0" [$OSX]
+		
 		
 		"tabPosition"		"12"
 		//"textHidden"		"0"
@@ -484,7 +483,7 @@
 		
 		
 		//"visible"		"1" [!$OSX]
-		"visible"		"0" [$OSX]
+		
 		
 		"tabPosition"		"13"
 		"labelText"		"#GameUI_Bloom"
@@ -520,8 +519,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"Button1"
 		"xpos"		"290"
-		"ypos"		"468" [!$OSX]
-		"ypos"		"316" [$OSX]
+		"ypos"		"468"
 		"wide"		"80"
 		"tall"		"24"
 		
@@ -543,8 +541,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"Button2"
 		"xpos"		"382"
-		"ypos"		"468" [!$OSX]
-		"ypos"		"316" [$OSX]
+		"ypos"		"468"
 		"wide"		"80"
 		"tall"		"24"
 		
@@ -571,8 +568,7 @@
 		"tall"		"24"
 		
 		
-		//"visible"		"1" [!$POSIX]
-		"visible"		"0" [$POSIX]
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_DX_Level"
@@ -591,8 +587,7 @@
 		"tall"		"24"
 		
 		
-		//"visible"		"1" [!$POSIX]
-		"visible"		"0" [$POSIX]
+		//"visible"		"1"
 		
 		
 		"labelText"		"#GameUI_DX_Installed"
@@ -691,8 +686,7 @@
 		"tall"		"24"
 		
 		
-		//"visible"		"1" [!$POSIX]
-		"visible"		"0" [$POSIX]
+		//"visible"		"1"
 		
 		
 		"labelText"		"DirectX v9.0"
@@ -711,8 +705,7 @@
 		"tall"		"2"
 		
 		
-		//"visible"		"1" [!$POSIX]
-		"visible"		"0" [$POSIX]
+		//"visible"		"1"
 		
 		
 	}
@@ -848,7 +841,7 @@
 		
 		
 		//"visible"		"1" [!$OSX]
-		"visible"		"0" [$OSX]
+		
 		
 		
 		"labelText"		"#GameUI_HDR"

@@ -25,7 +25,7 @@
 		"image"			""
 		"scaleImage"		"1"
 	}
-	"OnYourWayLabel" [$WIN32]
+	"OnYourWayLabel" 
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"OnYourWayLabel"
@@ -46,26 +46,23 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"MapLabel"
-		"font"			"HudFontMediumBigBold" [$WIN32]
-		"font"			"HudFontMediumBold" [$X360]
+		"font"			"HudFontMediumBigBold"
 		"labelText"		"%maplabel%"
-		"textAlignment"		"center" [$WIN32]
+		"textAlignment"		"center" 
 		//"textAlignment"		"west" [$X360]
-		"xpos"			"5" [$WIN32]
-		"xpos"			"60" [$X360]
+		"xpos"			"5" 
 		"ypos"			"92"
 		//"ypos_hidef"		"425"
 		//"ypos_lodef"		"425"
 		"zpos"			"50"
-		"wide"			"350" [$WIN32]
-		"wide"			"600" [$X360]
+		"wide"			"350" 
 		"tall"			"35"
 		
 		
 		"visible"		"0"
 		
 	}
-	"MapType" [$WIN32]
+	"MapType" 
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapType"
@@ -121,8 +118,7 @@
 				//"ypos_hidef"			"49"
 				//"ypos_lodef"			"49"
 				"zpos"			"5"
-				"wide"			"150" [!$X360]
-				"wide"			"170" [$X360]
+				"wide"			"150"
 				"tall"			"20"
 				
 				
@@ -2478,7 +2474,7 @@
 		
 		"wrap"			"1"
 	}
-	"NextTipButton" [$WIN32]
+	"NextTipButton" 
 	{
 		"ControlName"		"Button"
 		"fieldName"		"NextTipButton"
@@ -2498,7 +2494,7 @@
 		//"brighttext"	"0"
 		"Command"		"nexttip"
 	}
-	"ResetStatsButton" [$WIN32]
+	"ResetStatsButton" 
 	{
 		"ControlName"		"Button"
 		"fieldName"		"ResetStatsButton"
@@ -2518,7 +2514,7 @@
 		//"brighttext"	"0"
 		"Command"		"resetstatsbutton"
 	}
-	"CloseButton" [$WIN32]
+	"CloseButton" 
 	{
 		"ControlName"		"Button"
 		"fieldName"		"CloseButton"

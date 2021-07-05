@@ -278,8 +278,7 @@
 				//"ypos_hidef"			"49"
 				//"ypos_lodef"			"49"
 				"zpos"			"5"
-				"wide"			"150" [$WIN32]
-				"wide"			"170" [$X360]
+				"wide"			"150"
 				"tall"			"20"
 				
 				
@@ -2637,7 +2636,7 @@
 		
 		"wrap"			"1"
 	}
-	"NextTipButton" [$WIN32]
+	"NextTipButton" 
 	{
 		"ControlName"		"Button"
 		"fieldName"		"NextTipButton"
@@ -2657,7 +2656,7 @@
 		//"brighttext"	"0"
 		"Command"		"nexttip"
 	}
-	"ResetStatsButton" [$WIN32]
+	"ResetStatsButton" 
 	{
 		"ControlName"		"Button"
 		"fieldName"		"ResetStatsButton"
@@ -2677,7 +2676,7 @@
 		//"brighttext"	"0"
 		"Command"		"resetstatsbutton"
 	}
-	"CloseButton" [$WIN32]
+	"CloseButton" 
 	{
 		"ControlName"		"Button"
 		"fieldName"		"CloseButton"

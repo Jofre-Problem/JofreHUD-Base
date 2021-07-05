@@ -302,7 +302,7 @@ Scheme
 		}
 		"UiBold"
 		{
-			"1"	[$WIN32]
+			"1"
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"

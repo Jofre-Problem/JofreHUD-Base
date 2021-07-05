@@ -18,12 +18,10 @@
 	{
 		"ControlName"	"CTFClassImage"
 		"fieldName"		"PlayerStatusClassImage"
-		"xpos"			"25"	[$WIN32]
-		"xpos_minmode"	"15"	[$WIN32]
-		"ypos"			"r88"	[$WIN32]
-		"ypos_minmode"	"r54"	[$WIN32]
-		"xpos"			"57"	[$X360]
-		"ypos"			"r110"	[$X360]
+		"xpos"			"25"	
+		"xpos_minmode"	"15"	
+		"ypos"			"r88"	
+		"ypos_minmode"	"r54"	
 		"zpos"			"2"
 		"wide"			"75"
 		"wide_minmode"	"37"
@@ -38,12 +36,10 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayerStatusSpyImage"
-		"xpos"			"3"		[$WIN32]
-		"xpos_minmode"	"-5"	[$WIN32]
-		"ypos"			"r67"	[$WIN32]
-		"ypos_minmode"	"r44"	[$WIN32]
-		"xpos"			"35"	[$X360]
-		"ypos"			"r89"	[$X360]
+		"xpos"			"3"		
+		"xpos_minmode"	"-5"	
+		"ypos"			"r67"	
+		"ypos_minmode"	"r44"	
 		"zpos"			"2"
 		"wide"			"55"
 		"wide_minmode"	"27"
@@ -60,12 +56,10 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayerStatusSpyOutlineImage"
-		"xpos"			"3"		[$WIN32]
-		"xpos_minmode"	"-5"	[$WIN32]
-		"ypos"			"r67"	[$WIN32]
-		"ypos_minmode"	"r44"	[$WIN32]
-		"xpos"			"35"	[$X360]
-		"ypos"			"r89"	[$X360]
+		"xpos"			"3"		
+		"xpos_minmode"	"-5"	
+		"ypos"			"r67"	
+		"ypos_minmode"	"r44"	
 		"zpos"			"7"
 		"wide"			"55"
 		"wide_minmode"	"27"
@@ -80,12 +74,10 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayerStatusClassImageBG"
-		"xpos"			"9"		[$WIN32]
-		"xpos_minmode"	"-10"		[$WIN32]
-		"ypos"			"r60"	[$WIN32]
-		"ypos_minmode"		"r40"	[$WIN32]
-		"xpos"			"41"	[$X360]
-		"ypos"			"r82"	[$X360]
+		"xpos"			"9"		
+		"xpos_minmode"	"-10"		
+		"ypos"			"r60"	
+		"ypos_minmode"		"r40"	
 		"zpos"			"1"		
 		"wide"			"100"
 		"tall"			"50"
@@ -103,12 +95,10 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classmodelpanelBG"
-		"xpos"			"-1"		[$WIN32]
-		"xpos_minmode"	"-15"		[$WIN32]
-		"ypos"			"r60"	[$WIN32]
-		"ypos_minmode"		"r40"	[$WIN32]
-		"xpos"			"41"	[$X360]
-		"ypos"			"r82"	[$X360]
+		"xpos"			"-1"		
+		"xpos_minmode"	"-15"		
+		"ypos"			"r60"	
+		"ypos_minmode"		"r40"	
 		"zpos"			"1"		
 		"wide"			"109"
 		"tall"			"50"
@@ -126,9 +116,9 @@
 	{
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
-		"xpos_minmode"	"0"	[$WIN32]
-		"ypos"			"r214"	[$WIN32]
-		"ypos_minmode"	"r88"	[$WIN32]
+		"xpos_minmode"	"0"	
+		"ypos"			"r214"	
+		"ypos_minmode"	"r88"	
 		"zpos"			"2"		
 		"wide"			"100"
 		"wide_minmode"	"52"
