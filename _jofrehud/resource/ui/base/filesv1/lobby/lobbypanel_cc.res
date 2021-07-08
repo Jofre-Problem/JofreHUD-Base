@@ -61,7 +61,7 @@
 
 		"PlayersInGameLabel"
 		{
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"xpos"		"10"
 		}
 
@@ -113,7 +113,7 @@
 
 		"PlayersSearchingLabel"
 		{
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"xpos"		"10"
 			"ypos"		"120"
 		}
@@ -166,7 +166,7 @@
 
 		"EmptyGameserversLabel"
 		{
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"xpos"		"10"
 			"ypos"		"170"
 		}

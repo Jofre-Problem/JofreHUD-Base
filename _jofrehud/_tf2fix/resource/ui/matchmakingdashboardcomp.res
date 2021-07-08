@@ -24,7 +24,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_HeaderCompetitive"
 		//"textAlignment"	"west"
-		"font"			"HudFontMediumBigBold"
+		"font"			"HudFontMediumBig"
 		"fgcolor_override"	"TanDark"
 		
 		"mouseinputenabled"	"0"
@@ -45,7 +45,7 @@
 		
 		
 		"labelText"		"?"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -117,7 +117,7 @@
 		//"visible"		"1"
 		
 		
-		"font"			"HudFontMediumSmallBold"
+		"font"			"HudFontMediumSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

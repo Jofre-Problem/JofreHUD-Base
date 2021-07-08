@@ -23,7 +23,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CasualTitleLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"#TF_Casual_Welcome_Title"
 		"textAlignment"	"north"
 		"proportionalToParent"  "1"

@@ -76,7 +76,7 @@
 		}
 		"duplicatelabels_kv"
 		{
-			"font"			"ItemFontNameSmallest"
+			"font"			"ItemFontNameSmall"
 			"textAlignment"	"center"
 			"wide"			"20"
 			"tall"			"15"
@@ -92,7 +92,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CaratLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		">>"
 		//"textAlignment"	"west"
 		"xpos"			"c-300"
@@ -110,7 +110,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassLabel"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"labelText"		"#ClassBeingEquipped"
 		//"textAlignment"	"west"
 		"xpos"			"c-280"
@@ -128,7 +128,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NameFilterLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		"#Store_NameFilterLabel"
 		//"textAlignment"	"west"
 		"xpos"			"c+205"
@@ -201,7 +201,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ItemSlotLabel"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"labelText"		"#PrimaryWeapon"
 		//"textAlignment"	"west"
 		"xpos"			"c-55"
@@ -219,7 +219,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NoItemsLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"#NoItemsToEquip"
 		"textAlignment"	"center"
 		"xpos"			"c-300"
@@ -249,7 +249,7 @@
 		
 		
 		"labelText"		"#Cancel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -263,7 +263,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"OnlyAllowUniqueQuality"
 		"labelText"		"#OnlyAllowUniqueQuality"
-		"Font"			"HudFontSmallestBold"
+		"Font"			"HudFontSmallest"
 		"textAlignment"	"east"
 		"xpos"			"c-306"
 		"ypos"			"340"
@@ -293,7 +293,7 @@
 		
 		
 		"labelText"		"#Selection_ShowBackpack"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -317,7 +317,7 @@
 		
 		
 		"labelText"		"#Selection_ShowSelection"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -342,7 +342,7 @@
 		
 		
 		"labelText"		"<"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -355,7 +355,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurPageLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"%backpackpage%"
 		"textAlignment"	"center"
 		"xpos"			"c220"
@@ -385,7 +385,7 @@
 		
 		
 		"labelText"		">"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

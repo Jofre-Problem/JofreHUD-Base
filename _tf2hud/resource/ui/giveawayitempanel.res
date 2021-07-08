@@ -69,7 +69,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CaratLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		">>"
 		//"textAlignment"	"west"
 		"xpos"			"c-300"
@@ -88,7 +88,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassLabel"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"labelText"		"REWARD GIVEAWAY"
 		//"textAlignment"	"west"
 		"xpos"			"c-280"
@@ -157,7 +157,7 @@
 		
 		
 		"labelText"		"#CloseItemPanel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

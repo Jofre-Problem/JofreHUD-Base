@@ -292,7 +292,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ShowBackpackLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		"#BackpackTitle"
 		"textAlignment"	"north"
 		
@@ -338,7 +338,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ShowCraftingLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		"#CraftingExplanation_Title"
 		"textAlignment"	"north"
 		
@@ -384,7 +384,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ShowArmoryLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		"#Armory"
 		"textAlignment"	"north"
 		
@@ -430,7 +430,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ShowTradeLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		"#TradingExplanation_Title"
 		"textAlignment"	"north"
 		
@@ -477,7 +477,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ShowPaintkitsLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		"#PaintkitTitle"
 		"textAlignment"	"north"
 		
@@ -500,7 +500,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ClassLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"classname"
 		"textAlignment"	"north"
 		
@@ -537,7 +537,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NoSteamLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"#NoSteamNoItems"
 		"textAlignment"	"north"
 		
@@ -555,7 +555,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NoGCLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"#NoGCNoItems"
 		"textAlignment"	"north"
 		
@@ -573,7 +573,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SelectLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"#SelectClassLoadout"
 		"textAlignment"	"north"
 		
@@ -591,7 +591,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"LoadoutChangesLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"#LoadoutChangesUpdate"
 		"textAlignment"	"north"
 		
@@ -644,7 +644,7 @@
 		
 		
 		"labelText"		"?"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -681,7 +681,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#LoadoutExplanation_Title"
 			"textAlignment"	"north"
 			"xpos"			"20"
@@ -730,7 +730,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -766,7 +766,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"PositionLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
 			
@@ -795,7 +795,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -856,7 +856,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#BackpackExplanation_Title"
 			"textAlignment"	"north"
 			"xpos"			"20"
@@ -905,7 +905,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -952,7 +952,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -988,7 +988,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"PositionLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
 			
@@ -1017,7 +1017,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1078,7 +1078,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#CraftingExplanation_Title"
 			"textAlignment"	"north"
 			"xpos"			"20"
@@ -1127,7 +1127,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1174,7 +1174,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1210,7 +1210,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"PositionLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
 			
@@ -1239,7 +1239,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1300,7 +1300,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#ArmoryExplanation_Title"
 			"textAlignment"	"north"
 			"xpos"			"20"
@@ -1349,7 +1349,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1396,7 +1396,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1432,7 +1432,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"PositionLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
 			
@@ -1461,7 +1461,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1522,7 +1522,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#TradingExplanation_Title"
 			"textAlignment"	"north"
 			"xpos"			"20"
@@ -1571,7 +1571,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1618,7 +1618,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1654,7 +1654,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"PositionLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
 			
@@ -1683,7 +1683,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1744,7 +1744,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#WeaponPatternsExplanation_Title"
 			"textAlignment"	"north"
 			"xpos"			"20"
@@ -1793,7 +1793,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1840,7 +1840,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1876,7 +1876,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"PositionLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
 			
@@ -1905,7 +1905,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1965,7 +1965,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#ExplanationExplanation_Title"
 			"textAlignment"	"north"
 			"xpos"			"20"
@@ -2014,7 +2014,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -2061,7 +2061,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -2097,7 +2097,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"PositionLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
 			

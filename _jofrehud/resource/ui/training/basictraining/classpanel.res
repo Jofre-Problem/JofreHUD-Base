@@ -16,7 +16,7 @@
 		
 		
 		"labelText"			"%selectbuttontext%"
-		"font"				"HudFontSmallBold"
+		"font"				"HudFontSmall"
 		"textAlignment"		"center"
 		"textinsetx"		"50"
 		//"dulltext"			"0"

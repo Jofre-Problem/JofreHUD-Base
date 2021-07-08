@@ -15,7 +15,7 @@
 		
 		
 		"labelText"		"#TF_LessThan"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		//"textinsetx"	"0"
 		////"dulltext"		"0"
@@ -40,7 +40,7 @@
 		
 		
 		"labelText"		"#TF_GreaterThan"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		//"textinsetx"	"0"
 		////"dulltext"		"0"

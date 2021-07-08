@@ -112,7 +112,7 @@
 					////"visible"		"1"
 					
 					
-					"font"			"HudFontSmallestBold"
+					"font"			"HudFontSmallest"
 					"textAlignment"	"center"
 					////"dulltext"		"0"
 					//"brighttext"	"0"
@@ -141,7 +141,7 @@
 					////"visible"		"1"
 					
 					
-					"font"			"HudFontSmallestBold"
+					"font"			"HudFontSmallest"
 					"textAlignment"	"center"
 					////"dulltext"		"0"
 					//"brighttext"	"0"
@@ -208,7 +208,7 @@
 					////"visible"		"1"
 					
 					
-					"font"			"HudFontSmallestBold"
+					"font"			"HudFontSmallest"
 					"textAlignment"	"center"
 					////"dulltext"		"0"
 					//"brighttext"	"0"
@@ -236,7 +236,7 @@
 				"tall"			"20"
 				////"visible"		"1"
 				
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_RollingQueue_MatchOver"
@@ -328,7 +328,7 @@
 				"tall"			"20"
 				////"visible"		"1"
 				
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_RollingQueue_Rematch_Waiting"
@@ -379,7 +379,7 @@
 					////"visible"		"1"
 					
 					
-					"font"			"HudFontSmallestBold"
+					"font"			"HudFontSmallest"
 					"textAlignment"	"center"
 					////"dulltext"		"0"
 					//"brighttext"	"0"
@@ -439,7 +439,7 @@
 				"tall"			"20"
 				////"visible"		"1"
 				
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_RollingQueue_Start"
@@ -492,7 +492,7 @@
 					////"visible"		"1"
 					
 					
-					"font"			"HudFontSmallestBold"
+					"font"			"HudFontSmallest"
 					"textAlignment"	"center"
 					////"dulltext"		"0"
 					//"brighttext"	"0"
@@ -552,7 +552,7 @@
 				"tall"			"20"
 				////"visible"		"1"
 				
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_RollingQueue_NewMatchReady"
@@ -591,7 +591,7 @@
 				////"visible"		"1"
 				
 				
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -621,7 +621,7 @@
 				////"visible"		"1"
 				
 				
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -682,7 +682,7 @@
 				"tall"			"20"
 				////"visible"		"1"
 				
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_RollingQueue_RematchStarting"

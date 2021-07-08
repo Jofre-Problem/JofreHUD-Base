@@ -176,7 +176,7 @@
 			
 			"textAlignment"	"center"	
 			"labelText"		"%flagvalue%"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			//"font_hidef"	"HudFontGiant"
 			//"font_lodef"	"HudFontGiant"
 			"fgcolor"		"TanLight"	
@@ -198,7 +198,7 @@
 			
 			"textAlignment"	"center"	
 			"labelText"		"%flagvalue%"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			//"font_hidef"	"HudFontGiant"
 			//"font_lodef"	"HudFontGiant"
 			"fgcolor"		"Black"	
@@ -274,7 +274,7 @@
 					
 					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"fgcolor"		"TanLight"		
 					"proportionalToParent"	"1"
 				}
@@ -292,7 +292,7 @@
 					
 					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"fgcolor"		"Black"		
 					"proportionalToParent"	"1"
 				}
@@ -310,7 +310,7 @@
 					
 					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"fgcolor"		"TanLight"		
 					"proportionalToParent"	"1"
 
@@ -332,7 +332,7 @@
 					
 					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"fgcolor"		"Black"		
 					"proportionalToParent"	"1"
 
@@ -418,7 +418,7 @@
 					
 					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"fgcolor"		"TanLight"		
 					"proportionalToParent"	"1"
 				}
@@ -436,7 +436,7 @@
 					
 					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"fgcolor"		"Black"		
 					"proportionalToParent"	"1"
 				}
@@ -454,7 +454,7 @@
 					
 					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"fgcolor"		"TanLight"		
 					"proportionalToParent"	"1"
 
@@ -476,7 +476,7 @@
 					
 					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"fgcolor"		"Black"		
 					"proportionalToParent"	"1"
 
@@ -564,7 +564,7 @@
 				
 				//"textAlignment"	"west"	
 				"labelText"		"%score%"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				//"font_hidef"	"HudFontGiant"
 				//"font_lodef"	"HudFontGiant"
 				"fgcolor"		"TanLight"		
@@ -584,7 +584,7 @@
 				
 				//"textAlignment"	"west"	
 				"labelText"		"%score%"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				//"font_hidef"	"HudFontGiant"
 				//"font_lodef"	"HudFontGiant"
 				"fgcolor"		"Black"		
@@ -619,7 +619,7 @@
 				
 				"textAlignment"	"east"	
 				"labelText"		"%score%"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				//"font_hidef"	"HudFontGiant"
 				//"font_lodef"	"HudFontGiant"
 				"fgcolor"		"TanLight"	
@@ -639,7 +639,7 @@
 				
 				"textAlignment"	"east"	
 				"labelText"		"%score%"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				//"font_hidef"	"HudFontGiant"
 				//"font_lodef"	"HudFontGiant"
 				"fgcolor"		"Black"		

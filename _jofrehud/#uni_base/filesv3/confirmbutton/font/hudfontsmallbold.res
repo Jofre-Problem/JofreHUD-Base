@@ -2,6 +2,6 @@
 {
 	"ConfirmButton"
 	{
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 	}	
 }	

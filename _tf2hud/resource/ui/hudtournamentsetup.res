@@ -27,7 +27,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"xpos"			"8"
 		
 		"zpos"			"1"
@@ -122,7 +122,7 @@
 		//"brighttext"	"0"
 		"command"		"teamnotready"
 		//"Default"		"1"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"fgcolor"		"Red"
 	}
 
@@ -145,7 +145,7 @@
 		//"brighttext"	"0"
 		"command"		"teamready" 
 		//"Default"		"1"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"fgcolor"		"FooterBGBlack"
 	}
 }

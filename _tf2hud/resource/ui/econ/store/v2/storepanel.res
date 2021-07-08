@@ -20,7 +20,7 @@
 		"outoffocus_bgcolor_override"	"46 43 42 0"
 		
 		"title"			"#StoreTitle"
-		"title_font"	"HudFontMediumBold"
+		"title_font"	"HudFontMediumSecondary"
 		"titletextinsetX"	"40"
 		"titletextinsetY"	"0"
 		"titlebarfgcolor_override"				"HudOffWhite"
@@ -104,7 +104,7 @@
 		{
 			"textinsetx"		"6"
 			"textAlignment"		"center"
-			"font"				"HudFontSmallBold"
+			"font"				"HudFontSmall"
 			"selectedcolor"		"200 187 161 255"
 			"unselectedcolor"	"130 120 104 255"	
 			"defaultBgColor_override"	"TanDarker"
@@ -129,7 +129,7 @@
 		
 		
 		"labelText"		"#TF_BackCarat"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -209,7 +209,7 @@
 		
 		
 		"labelText"		"#Store_Checkout"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

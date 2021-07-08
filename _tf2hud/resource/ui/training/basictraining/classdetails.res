@@ -14,7 +14,7 @@
 		
 		
 		"labelText"			"#TF_Training_StartTraining"
-		"font"				"HudFontSmallBold"
+		"font"				"HudFontSmall"
 		"textAlignment"		"center"
 		"textinsetx"		"50"
 		//"dulltext"			"0"
@@ -52,7 +52,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"ClassNameLabel"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			"labelText"		"%classname%"
 			"textAlignment"	"left"
 			"xpos"			"10"

@@ -1,6 +1,6 @@
 Scheme
 {
-    //////////////////////// COLORS ///////////////////////////
+    
 	// color details
 	// this is a list of all the colors used by the scheme
 	Colors
@@ -157,49 +157,6 @@ Scheme
 				"tall"		"14"
 			}
 		}
-
-		"ServerBrowserSmall"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"16"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"480 599"
-			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"16"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"600 767"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"16"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"768 1023"
-				"antialias"	"1"
-			}
-			"4"
-			{
-				"name"		"Segoe UI"
-				"tall"		"19"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1024 1199"
-				"antialias"	"1"
-			}
-			"5"
-			{
-				"name"		"Segoe UI"
-				"tall"		"19"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1200 6000"
-				"antialias"	"1"
-			}
-		}
-		
 				
 		AchievementItemTitle	[$WIN32]
 		{

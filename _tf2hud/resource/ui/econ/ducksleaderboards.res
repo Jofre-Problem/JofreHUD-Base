@@ -29,7 +29,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"Name"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"south-west"
 				"labelText"		"%name%"
 				"xpos"			"10"
@@ -51,7 +51,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"Score"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"south-east"
 				"labelText"		"%score%"
 				"xpos"			"rs1.1"
@@ -129,7 +129,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"Title"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"labelText"		"#TF_YourStats"
 					"textAlignment"	"center"
 					
@@ -202,7 +202,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"PageNumber"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"labelText"		"%pagenumber%"
 				"textAlignment"	"center"
 				"xpos"			"cs-0.5"
@@ -233,7 +233,7 @@
 				
 				
 				"labeltext"		""
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -283,7 +283,7 @@
 				
 				
 				"labeltext"		""
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -334,7 +334,7 @@
 				
 				
 				"labeltext"		""
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"

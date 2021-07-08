@@ -72,7 +72,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			"labelText"		"%title%"
 			"textAlignment"	"center"
 			
@@ -118,7 +118,7 @@
 			
 			
 			"labelText"		"#TF_BackCarat"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"
@@ -142,7 +142,7 @@
 			
 			
 			"labelText"		"#Cancel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"

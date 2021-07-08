@@ -67,7 +67,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -110,7 +110,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -153,7 +153,7 @@
 			
 			
 			"labelText"		"?"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -177,7 +177,7 @@
 			"proportionaltoparent"	"1"
 			"labeltext"		"#TF_Casual_MapSelection"
 			"textAlignment"	"north-west"
-			"font"			"HudFontMediumSmallBold"
+			"font"			"HudFontMediumSmall"
 		
 			"mouseinputenabled"	"0"
 		}

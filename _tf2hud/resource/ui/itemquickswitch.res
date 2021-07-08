@@ -48,7 +48,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CaratLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		">>"
 		//"textAlignment"	"west"
 		"xpos"			"5"
@@ -66,7 +66,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		"#ClassBeingEquipped"
 		//"textAlignment"	"west"
 		"xpos"			"20"
@@ -84,7 +84,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ItemSlotLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		"#PrimaryWeapon"
 		//"textAlignment"	"west"
 		"xpos"			"80"
@@ -143,7 +143,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CurrentlyEquippedBackground"
-			"font"			"ItemFontNameSmallest"
+			"font"			"ItemFontNameSmall"
 			"labelText"		"#QuickSwitchEquipped"
 			"textAlignment"	"north-west"
 			"xpos"			"3"
@@ -162,7 +162,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NoItemsLabel"
-		"font"			"ItemFontNameSmallest"
+		"font"			"ItemFontNameSmall"
 		"labelText"		"#NoItemsToEquip"
 		"textAlignment"	"center"
 		"xpos"			"3"

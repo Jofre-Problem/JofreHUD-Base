@@ -19,7 +19,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"CenterPositioner"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		
 		"ypos"			"10"
 		
@@ -47,7 +47,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		
 		
 		
@@ -73,7 +73,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"EllipsesLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		
 		
 		
@@ -108,7 +108,7 @@
 		
 		
 		"labelText"		"#GameUI_Ok"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

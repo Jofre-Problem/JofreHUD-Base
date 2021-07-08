@@ -47,7 +47,7 @@
 				"tall"			"25"
 				//"visible"		"1"
 				
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"#TF_SurveyQuestion_Submitting"
@@ -93,7 +93,7 @@
 				"tall"			"25"
 				//"visible"		"1"
 				
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"fgcolor_override"	"Orange"
 				"textAlignment"	"center"
 				"labelText"		"#TF_SurveyQuestion_ThankYouTitle"
@@ -111,7 +111,7 @@
 				"tall"			"50"
 				//"visible"		"1"
 				
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				//"wrap"			"0"
@@ -136,7 +136,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"

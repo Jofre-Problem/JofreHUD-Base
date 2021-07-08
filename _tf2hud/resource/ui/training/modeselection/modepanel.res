@@ -15,7 +15,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"ModeNameLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%modename%"
 			"textAlignment"	"center"
 			
@@ -98,7 +98,7 @@
 		
 		
 		"labelText"			"#TF_Training_SelectMode"
-		"font"				"HudFontSmallBold"
+		"font"				"HudFontSmall"
 		"textAlignment"		"center"
 		"textinsetx"		"50"
 		//"dulltext"			"0"

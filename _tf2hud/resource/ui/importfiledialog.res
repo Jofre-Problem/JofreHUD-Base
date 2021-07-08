@@ -83,7 +83,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"font"		"HudFontMediumBold"
+		"font"		"HudFontMediumSecondary"
 	}
 
 	"NameLabel"
@@ -104,7 +104,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"font"		"HudFontSmallestBold"
+		"font"		"HudFontSmallest"
 	}
 
 	"Name"
@@ -149,14 +149,14 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"font"		"HudFontSmallestBold"
+		"font"		"HudFontSmallest"
 	}
 
 	"TypeComboBox"
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"			"TypeComboBox"
-		"Font"				"HudFontSmallestBold"
+		"Font"				"HudFontSmallest"
 		"xpos"				"5"
 		"ypos"				"63"
 		"wide"				"190"
@@ -198,14 +198,14 @@
 			////"dulltext"		"0"
 			////"brighttext"		"0"
 			//"wrap"		"0"
-			"font"		"HudFontSmallestBold"
+			"font"		"HudFontSmallest"
 		}
 
 		"EquipRegionComboBox"
 		{
 			"ControlName"		"ComboBox"
 			"fieldName"			"EquipRegionComboBox"
-			"Font"				"HudFontSmallestBold"
+			"Font"				"HudFontSmallest"
 			//"xpos"				"0"
 			"ypos"				"20"
 			"wide"				"190"
@@ -235,7 +235,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"font"		"HudFontSmallestBold"
+		"font"		"HudFontSmallest"
 	}
 
 	"WorkshopIDTextEntry"
@@ -280,7 +280,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"font"		"HudFontSmallestBold"
+		"font"		"HudFontSmallest"
 	}
 
 	"TFEnglishNameTextEntry"
@@ -373,7 +373,7 @@
 			"pinCorner"		"3"
 			"textinsetx"	"15"
 			"use_proportional_insets" "1"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			//"textAlignment"	"west"
 				
 			"labeltext"		""
@@ -409,7 +409,7 @@
 			"pinCorner"		"3"
 			"textinsetx"	"15"
 			"use_proportional_insets" "1"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			//"textAlignment"	"west"
 				
 			"labeltext"		""
@@ -462,7 +462,7 @@
 			////"dulltext"		"0"
 			////"brighttext"		"0"
 			//"wrap"		"0"
-			"font"		"HudFontSmallestBold"
+			"font"		"HudFontSmallest"
 		}
 	}
 	
@@ -496,7 +496,7 @@
 			////"dulltext"		"0"
 			////"brighttext"		"0"
 			//"wrap"		"0"
-			"font"		"HudFontSmallestBold"
+			"font"		"HudFontSmallest"
 		}
 
 		"ClassHighlight1"
@@ -748,7 +748,7 @@
 			////"dulltext"		"0"
 			////"brighttext"		"0"
 			//"wrap"		"0"
-			"font"		"HudFontSmallestBold"
+			"font"		"HudFontSmallest"
 		}
 
 		"Bodygroup0"
@@ -986,7 +986,7 @@
 				
 				"labelText"		"#TF_ImportFile_LOD0"
 				//"textAlignment"		"west"
-				"font"		"HudFontSmallestBold"
+				"font"		"HudFontSmallest"
 			}
 			"ButtonLOD0Clear"
 			{
@@ -1000,7 +1000,7 @@
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				//"textAlignment"	"west"
 				
 				"labeltext"		""
@@ -1034,7 +1034,7 @@
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				//"textAlignment"	"west"
 				
 				"labeltext"		""
@@ -1108,7 +1108,7 @@
 				
 				"labelText"		"#TF_ImportFile_LOD1"
 				//"textAlignment"		"west"
-				"font"		"HudFontSmallestBold"
+				"font"		"HudFontSmallest"
 				"enabled"		"0"
 			}
 			"ButtonLOD1Clear"
@@ -1123,7 +1123,7 @@
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				//"textAlignment"	"west"
 				"enabled"		"0"
 				
@@ -1158,7 +1158,7 @@
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				//"textAlignment"	"west"
 				"enabled"		"0"
 				
@@ -1235,7 +1235,7 @@
 				
 				"labelText"		"#TF_ImportFile_LOD2"
 				//"textAlignment"		"west"
-				"font"		"HudFontSmallestBold"
+				"font"		"HudFontSmallest"
 				"enabled"		"0"
 			}
 			"ButtonLOD2Clear"
@@ -1250,7 +1250,7 @@
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				//"textAlignment"	"west"
 				"enabled"		"0"
 				
@@ -1285,7 +1285,7 @@
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				//"textAlignment"	"west"
 				"enabled"		"0"
 				
@@ -1359,7 +1359,7 @@
 			//"wrap"			"0"
 			"Command"		"EditQC"
 			"Default"		"0"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 		}
 	}
 
@@ -1393,7 +1393,7 @@
 			////"dulltext"		"0"
 			////"brighttext"		"0"
 			//"wrap"		"0"
-			"font"		"HudFontSmallestBold"
+			"font"		"HudFontSmallest"
 		}
 
 		"SwapVMTButton"
@@ -1416,14 +1416,14 @@
 			//"wrap"		"0"
 			"Command"		"SwapVMT"
 			//"Default"		"1"
-			"font"		"HudFontSmallestBold"
+			"font"		"HudFontSmallest"
 		}
 
 		"SkinComboBox"
 		{
 			"ControlName"		"ComboBox"
 			"fieldName"			"SkinComboBox"
-			"Font"				"HudFontSmallestBold"
+			"Font"				"HudFontSmallest"
 			"xpos"				"4"
 			"ypos"				"18"
 			"wide"				"181"
@@ -1456,7 +1456,7 @@
 				
 				
 				//"textAlignment"		"west"
-				"font"		"HudFontSmallestBold"
+				"font"		"HudFontSmallest"
 			}
 			"ButtonMaterial0Edit"
 			{
@@ -1470,7 +1470,7 @@
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				//"textAlignment"	"west"
 					
 				"labeltext"		""
@@ -1529,7 +1529,7 @@
 				
 				
 				//"textAlignment"		"west"
-				"font"		"HudFontSmallestBold"
+				"font"		"HudFontSmallest"
 			}
 			"ButtonMaterial1Edit"
 			{
@@ -1543,7 +1543,7 @@
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				//"textAlignment"	"west"
 					
 				"labeltext"		""
@@ -1603,7 +1603,7 @@
 				
 				
 				//"textAlignment"		"west"
-				"font"		"HudFontSmallestBold"
+				"font"		"HudFontSmallest"
 			}
 			"ButtonMaterial2Edit"
 			{
@@ -1617,7 +1617,7 @@
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				//"textAlignment"	"west"
 					
 				"labeltext"		""
@@ -1676,7 +1676,7 @@
 				
 				
 				//"textAlignment"		"west"
-				"font"		"HudFontSmallestBold"
+				"font"		"HudFontSmallest"
 			}
 			"ButtonMaterial3Edit"
 			{
@@ -1690,7 +1690,7 @@
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				//"textAlignment"	"west"
 					
 				"labeltext"		""
@@ -1784,7 +1784,7 @@
 		
 		"labelText"		"#TF_ImportFile_AnimationProp"
 		//"textAlignment"		"west"
-		"font"		"HudFontSmallestBold"
+		"font"		"HudFontSmallest"
 	}
 
 	"TauntInputPanel"
@@ -1824,7 +1824,7 @@
 				
 				"labelText"		"#TF_ImportFile_AnimationSource"
 				//"textAlignment"		"west"
-				"font"		"HudFontSmallestBold"
+				"font"		"HudFontSmallest"
 			}
 			"ButtonAnimationSourceClear"
 			{
@@ -1838,7 +1838,7 @@
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				//"textAlignment"	"west"
 				
 				"labeltext"		""
@@ -1872,7 +1872,7 @@
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				//"textAlignment"	"west"
 				
 				"labeltext"		""
@@ -1947,7 +1947,7 @@
 				
 				"labelText"		"#TF_ImportFile_AnimationVCD"
 				//"textAlignment"		"west"
-				"font"		"HudFontSmallestBold"
+				"font"		"HudFontSmallest"
 			}
 			"ButtonAnimationVCDClear"
 			{
@@ -1961,7 +1961,7 @@
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				//"textAlignment"	"west"
 				
 				"labeltext"		""
@@ -1995,7 +1995,7 @@
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				//"textAlignment"	"west"
 				
 				"labeltext"		""
@@ -2128,7 +2128,7 @@
 			//"wrap"			"0"
 			"Command"		"EditQCI"
 			"Default"		"0"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 		}
 	}
 
@@ -2144,7 +2144,7 @@
 		"pinCorner"		"3"
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		//"textAlignment"	"west"
 				
 		"labelText"		"#TF_ImportFile_Browse"
@@ -2181,7 +2181,7 @@
 		
 		
 		"labelText"		"#TF_Close"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -2209,7 +2209,7 @@
 		//"wrap"		"0"
 		"Command"		"BuildPreview"
 		//"Default"		"1"
-		"font"		"HudFontSmallestBold"
+		"font"		"HudFontSmallest"
 	}
 
 	"ButtonVerify"
@@ -2232,7 +2232,7 @@
 		//"wrap"		"0"
 		"Command"		"BuildVerify"
 		//"Default"		"1"
-		"font"		"HudFontSmallestBold"
+		"font"		"HudFontSmallest"
 	}
 
 	"ButtonBuild"
@@ -2255,7 +2255,7 @@
 		//"wrap"		"0"
 		"Command"		"BuildFinal"
 		//"Default"		"1"
-		"font"		"HudFontSmallestBold"
+		"font"		"HudFontSmallest"
 	}
 
 	"BetaNotice"

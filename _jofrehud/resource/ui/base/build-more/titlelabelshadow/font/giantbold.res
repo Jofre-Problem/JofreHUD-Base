@@ -2,6 +2,6 @@
 {
 	"TitleLabelDropshadow"
 	{	
-		"font"			"HudFontGiantBold"
+		"font"			"ChalkboardTitleBig"
 	}
 }	

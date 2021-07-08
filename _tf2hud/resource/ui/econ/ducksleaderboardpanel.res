@@ -55,7 +55,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Title"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%title%"
 			"textAlignment"	"center"
 			
@@ -112,7 +112,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"LevelLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"#TF_Duck_Level"
 			"textAlignment"	"east"
 			"xpos"			"230"
@@ -132,7 +132,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"DuckXP"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"#TF_Duck_XP"
 			"textAlignment"	"east"
 			"xpos"			"303"

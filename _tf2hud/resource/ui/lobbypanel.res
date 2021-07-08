@@ -39,7 +39,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TipLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"%tiptext%"
 			//"textAlignment"	"west"
 			"xpos"			"20"
@@ -74,7 +74,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"NoGCTitle"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			"labelText"		"#TF_Matchmaking_PleaseWait"
 			"xpos"		"cs-0.5"
 			"ypos"		"120"
@@ -139,7 +139,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"MatchInProgressTitle"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			"labelText"		"#TF_Matchmaking_MatchInProgress"
 			"xpos"		"cs-0.5"
 			"ypos"		"120"
@@ -204,7 +204,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"SearchActiveTitle"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			"labelText"		"#TF_Matchmaking_Searching"
 			"xpos"		"30"
 			"ypos"		"20"
@@ -252,7 +252,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"PlayersInGameLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#TF_Matchmaking_ActivePlayers"
 			"xpos"		"30"
 			"ypos"		"70"
@@ -364,7 +364,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"PlayersSearchingLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#TF_Matchmaking_SearchingPlayers"
 			"xpos"		"30"
 			"ypos"		"140"
@@ -476,7 +476,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"EmptyGameserversLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#TF_Matchmaking_EmptyGameservers"
 			"xpos"		"30"
 			"ypos"		"210"
@@ -619,7 +619,7 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"PartyLabel"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				"labelText"		"#TF_Matchmaking_Party"
 				//"textAlignment"	"west"
 				"xpos"			"5"
@@ -644,7 +644,7 @@
 				
 				
 				"labelText"		"#TF_Matchmaking_Invite"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"

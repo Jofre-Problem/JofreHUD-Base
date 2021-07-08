@@ -28,7 +28,7 @@
 		
 		"textinsetx"	"100"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		//"textAlignment"	"west"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

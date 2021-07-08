@@ -109,7 +109,7 @@
 		"labelText"		"<"
 
 		"textAlignment"	"west"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 
 		"armedBgColor_override"	"Blank"
 		"defaultBgColor_override"	"Blank"

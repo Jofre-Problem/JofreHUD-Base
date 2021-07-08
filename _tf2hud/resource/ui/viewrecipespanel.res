@@ -24,7 +24,7 @@
 		
 		"recipeskv"	
 		{
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			
 			
@@ -67,7 +67,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		
 		"ypos"			"10"
 		
@@ -129,7 +129,7 @@
 		{	
 			"ControlName"		"Label"
 			"fieldName"		"CenterPositioner"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			
 			
 			
@@ -191,7 +191,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NoRecipesLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"#CraftNoknownRecipes"
 		"textAlignment"	"center"
 		
@@ -222,7 +222,7 @@
 		
 		
 		"labelText"		"#GameUI_Ok"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

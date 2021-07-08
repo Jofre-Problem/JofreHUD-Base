@@ -5,7 +5,7 @@
 		"ControlName"	"CExImageButton"
 		////"visible"		"1"
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"default"		"0"
 		"Command"		"zoom_toggle"
 		

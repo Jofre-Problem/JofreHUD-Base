@@ -83,7 +83,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"font"		"HudFontMediumBold"
+		"font"		"HudFontMediumSecondary"
 	}
 
 	"LabelPreview"	
@@ -104,7 +104,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 	}
 
 	"PreviewImageBorder"
@@ -176,7 +176,7 @@
 		//"wrap"		"0"
 		"Command"		"PreviewBrowse"
 		//"Default"		"1"
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 	}
 
 	"LabelTitle"
@@ -197,7 +197,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 	}
 
 	"FileTitle"
@@ -242,7 +242,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 	}
 	"FileDesc"
 	{
@@ -286,7 +286,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 	}
 	
 	"SourceFile"
@@ -331,7 +331,7 @@
 		//"wrap"		"0"
 		"Command"		"MainFileCosmetics"
 		//"Default"		"1"
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 
 		"SubImage"
 		{
@@ -367,7 +367,7 @@
 		//"wrap"		"0"
 		"Command"		"MainFileOther"
 		//"Default"		"1"
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 	}
 
 	"ButtonSourceMaps"
@@ -390,7 +390,7 @@
 		//"wrap"		"0"
 		"Command"		"MainFileMaps"
 		//"Default"		"1"
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 
 		"SubImage"
 		{
@@ -446,7 +446,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 	}
 
 	"ClassUsagePanel"
@@ -1224,7 +1224,7 @@
 		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 	}
 
 	"ButtonPublish"
@@ -1247,6 +1247,6 @@
 		//"wrap"		"0"
 		"Command"		"Publish"
 		//"Default"		"1"
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 	}
 }

@@ -2,6 +2,6 @@
 {
 	"Ok"
 	{
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 	}	
 }	

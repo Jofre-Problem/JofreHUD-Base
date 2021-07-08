@@ -45,7 +45,7 @@
 					"ypos"				"25"
 					"wide"				"55"
 					"textAlignment"		"center"
-					"font"				"PlayerPanelPlayerName"
+					"font"				"ScoreboardSmallest"
 				}
 			}
 			
@@ -73,7 +73,7 @@
 					"ypos"				"25"
 					"wide"				"55"
 					"textAlignment"		"center"
-					"font"				"PlayerPanelPlayerName"
+					"font"				"ScoreboardSmallest"
 				}
 			}
 			

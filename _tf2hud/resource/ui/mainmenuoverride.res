@@ -42,7 +42,7 @@
 				
 				"textinsetx"	"25"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				//"textAlignment"	"west"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -286,7 +286,7 @@
 		"textinsetx"	"25"
 		"labeltext"		""
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"command"		"open_rank_type_menu"
 		//"textAlignment"	"west"
 		////"dulltext"		"0"
@@ -376,7 +376,7 @@
 		"textinsetx"	"40"
 		"textinsety"	"10"
 
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"fgcolor_override"	"TanLight"
 		"labelText"		"#TF_MM_NoGC_Rank"
 		"textAlignment"	"north-west"
@@ -451,7 +451,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TipLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%tiptext%"
 			"textAlignment"	"center"
 			"xpos"			"20"
@@ -508,7 +508,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Notifications_CountLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"%noticount%"
 			"textAlignment"	"center"
 			"xpos"			"16"
@@ -538,7 +538,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -605,7 +605,7 @@
 			"textinsetx"	"25"
 			"labeltext"		""
 			"use_proportional_insets" "1"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"command"		"watch_stream"
 			//"textAlignment"	"west"
 			////"dulltext"		"0"
@@ -678,7 +678,7 @@
 			"textinsetx"	"25"
 			"labeltext"		""
 			"use_proportional_insets" "1"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"command"		"questlog"
 			//"textAlignment"	"west"
 			////"dulltext"		"0"
@@ -752,7 +752,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -817,7 +817,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"MOTD_HeaderLabel"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				"labelText"		"%motdheader%"
 				
@@ -849,7 +849,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -908,7 +908,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"MOTD_TitleLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%motdtitle%"
 			//"textAlignment"	"west"
 			"xpos"			"10"
@@ -1044,7 +1044,7 @@
 			"labelText"		"#MMenu_MOTD_URL"
 			"textinsetx"	"20"
 			"use_proportional_insets" "1"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1082,7 +1082,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1130,7 +1130,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1199,7 +1199,7 @@
 			
 			
 			"labeltext"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1240,7 +1240,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Notifications_TitleLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%notititle%"
 			"textAlignment"	"north-west"
 			"xpos"			"12"
@@ -1325,7 +1325,7 @@
 			
 			"textinsetx"	"25"
 			"use_proportional_insets" "1"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			//"textAlignment"	"west"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -1388,7 +1388,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#TF_Competitive_Friends"
 			//"textAlignment"	"west"
 			"xpos"			"12"
@@ -1529,7 +1529,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"TitleLabel"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"labelText"		"#MMenu_Update"
 				//"textAlignment"	"west"
 				"xpos"			"12"
@@ -1589,7 +1589,7 @@
 //					
 //					
 //					"use_proportional_insets" "1"
-//					"font"			"HudFontSmallBold"
+//					"font"			"HudFontSmall"
 //					"textAlignment"	"center"
 //					////"dulltext"		"0"
 //					//"brighttext"	"0"
@@ -1659,7 +1659,7 @@
 //					
 //					
 //					"use_proportional_insets" "1"
-//					"font"			"HudFontSmallBold"
+//					"font"			"HudFontSmall"
 //					"textAlignment"	"center"
 //					////"dulltext"		"0"
 //					//"brighttext"	"0"
@@ -1842,7 +1842,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"TitleLabel"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"labelText"		"#MMenu_SafeMode_Title"
 				//"textAlignment"	"west"
 				
@@ -1872,7 +1872,7 @@
 				
 				
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				//"textAlignment"	"west"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -1909,7 +1909,7 @@
 				
 				
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				//"textAlignment"	"west"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -1986,7 +1986,7 @@
 		//"visible"		"1"
 		
 		
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		"#MMenu_ShowPromoCodes"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
@@ -2038,7 +2038,7 @@
 			
 			"textinsetx"	"100"
 			"use_proportional_insets" "1"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			//"textAlignment"	"west"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -2107,7 +2107,7 @@
 			
 			"textinsetx"	"100"
 			"use_proportional_insets" "1"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			//"textAlignment"	"west"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -2174,7 +2174,7 @@
 			
 			"textinsetx"	"100"
 			"use_proportional_insets" "1"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			//"textAlignment"	"west"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -2242,7 +2242,7 @@
 			
 			"textinsetx"	"100"
 			"use_proportional_insets" "1"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			//"textAlignment"	"west"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -2323,7 +2323,7 @@
 		
 		"textinsetx"	"25"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		//"textAlignment"	"west"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -2384,7 +2384,7 @@
 		
 		"textinsetx"	"25"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		//"textAlignment"	"west"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -2430,7 +2430,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		//"textAlignment"	"west"
 		"textinsetx"	"25"
 		"use_proportional_insets" "1"
@@ -2526,7 +2526,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -2574,7 +2574,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -2621,7 +2621,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -2668,7 +2668,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -2715,7 +2715,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -2762,7 +2762,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -2809,7 +2809,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -2856,7 +2856,7 @@
 		
 		
 		"labelText"		"#GameUI_GameMenu_ExitReplay"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		//"textAlignment"	"west"
 		"textinsetx"	"35"
 		"use_proportional_insets" "1"

@@ -98,7 +98,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"QuestLogTitle"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#QuestLog_Title"
 			//"textAlignment"	"west"
 			"textinsetx"	"15"
@@ -130,7 +130,7 @@
 			
 			
 			"labelText"		""
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"

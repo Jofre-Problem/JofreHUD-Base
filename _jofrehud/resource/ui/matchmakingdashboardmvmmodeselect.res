@@ -110,7 +110,7 @@
 			
 			
 			"labelText"		"#TF_MvM_MannUp"
-			"font"			"HudFontMediumSmallBold"
+			"font"			"HudFontMediumSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -231,7 +231,7 @@
 			
 			
 			"labelText"		"#TF_MvM_BootCamp"
-			"font"			"HudFontMediumSmallBold"
+			"font"			"HudFontMediumSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"

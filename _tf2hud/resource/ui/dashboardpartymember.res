@@ -128,7 +128,7 @@
 		//"visible"		"1"
 		
 		
-		"font"			"PlayerPanelPlayerName"
+		"font"			"ScoreboardSmallest"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

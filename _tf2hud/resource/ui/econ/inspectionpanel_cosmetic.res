@@ -65,7 +65,7 @@
 				
 				
 				"labelText"		"<"
-				"font"			"HudFontBiggerBold"
+				"font"			"HudFontBig"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -92,7 +92,7 @@
 				
 				
 				"labelText"		">"
-				"font"			"HudFontBiggerBold"
+				"font"			"HudFontBig"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -119,7 +119,7 @@
 				
 				
 				"labeltext"		""
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -240,7 +240,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"ItemNameLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%itemname%"
 			//"textAlignment"	"west"
 			"xpos"			"240"
@@ -465,7 +465,7 @@
 					
 					
 					"labelText"		"#Store_ItemDesc_ItemWikiPage"
-					"font"			"HudFontSmallestBold"
+					"font"			"HudFontSmallest"
 					"textAlignment"	"center"
 					////"dulltext"		"0"
 					//"brighttext"	"0"
@@ -718,7 +718,7 @@
 		
 		
 		"labelText"		"<"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -746,7 +746,7 @@
 		
 		
 		"labelText"		">"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -797,7 +797,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -842,7 +842,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -1049,7 +1049,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

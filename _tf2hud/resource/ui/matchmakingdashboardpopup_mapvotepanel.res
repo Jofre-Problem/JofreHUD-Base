@@ -41,7 +41,7 @@
 		//"visible"		"1"
 		
 		
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

@@ -66,7 +66,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"QuestLogTitle"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#TF_Matchmaking_Title"
 			"textAlignment"	"north-west"
 			"xpos"			"105"
@@ -107,7 +107,7 @@
 				"tall"			"20"
 				////"visible"		"1"
 				
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				//"fgcolor_override"	"89 81 71 255"
 				//"textAlignment"	"west"
 				"labelText"		"MODE:"
@@ -118,7 +118,7 @@
 			{
 				"ControlName"		"ComboBox"
 				"fieldName"			"ModeComboBox"
-				"Font"				"HudFontSmallestBold"
+				"Font"				"HudFontSmallest"
 				"xpos"				"62"
 				"ypos"				"36"
 				"zpos"				"2"
@@ -158,7 +158,7 @@
 				////"visible"		"1"
 				
 				
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_StartSearch"
 				////"dulltext"		"0"
@@ -182,7 +182,7 @@
 				"visible"		"0"
 				
 				
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_CancelSearch"
 				////"dulltext"		"0"
@@ -213,7 +213,7 @@
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"		"SearchActiveTitle"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				"labelText"		"#TF_Matchmaking_Searching"
 				"xpos"		"30"
 				"ypos"		"20"
@@ -262,7 +262,7 @@
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"		"PlayersInGameLabel"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"labelText"		"#TF_Matchmaking_ActivePlayers"
 				"xpos"		"30"
 				"ypos"		"70"
@@ -374,7 +374,7 @@
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"		"PlayersSearchingLabel"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"labelText"		"#TF_Matchmaking_SearchingPlayers"
 				"xpos"		"30"
 				"ypos"		"140"
@@ -486,7 +486,7 @@
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"		"EmptyGameserversLabel"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"labelText"		"#TF_Matchmaking_EmptyGameservers"
 				"xpos"		"30"
 				"ypos"		"210"

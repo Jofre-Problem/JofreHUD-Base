@@ -6,7 +6,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"ItemNameLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%itemname%"
 			"textAlignment"	"west"
 			"ypos"			"17"

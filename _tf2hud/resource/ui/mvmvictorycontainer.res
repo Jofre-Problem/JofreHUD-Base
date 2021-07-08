@@ -49,7 +49,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"BannerTextDropShadow"
-			"font"			"HudFontBiggerBold"
+			"font"			"HudFontBig"
 			"labelText"		"#TF_MVM_Victory_Complete"
 			"textAlignment" "center"
 			"xpos"			"2"
@@ -63,7 +63,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"BannerTextDropShadow"
-			"font"			"HudFontBiggerBold"
+			"font"			"HudFontBig"
 			"labelText"		"#TF_MVM_Victory_Complete"
 			"textAlignment" "center"
 			

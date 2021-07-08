@@ -67,7 +67,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontGiantBold"
+		"font"			"ChalkboardTitleBig"
 		"xpos"			"31"			// align me to the left edge of the first selection
 		"ypos"			"8"
 		"zpos"			"2"

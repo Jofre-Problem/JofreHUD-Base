@@ -89,7 +89,7 @@
 		"command"		"nav_close"
 		"labelText"		">"
 		"textAlignment"	"east"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 
 		"armedBgColor_override"	"Blank"
 		"defaultBgColor_override"	"Blank"
@@ -111,7 +111,7 @@
 		"command"		"nav_to"
 		"labelText"		"<"
 		//"textAlignment"	"west"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 
 		"armedBgColor_override"	"Blank"
 		"defaultBgColor_override"	"Blank"

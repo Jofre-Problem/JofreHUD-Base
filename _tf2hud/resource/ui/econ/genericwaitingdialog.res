@@ -19,7 +19,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		
 		"ypos"			"8"
 		
@@ -41,7 +41,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"EllipsesLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		
 		"ypos"			"42"
 		
@@ -61,7 +61,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"DurationLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		
 		"ypos"			"52"
 		
@@ -92,7 +92,7 @@
 		
 		
 		"labelText"		"#Cancel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

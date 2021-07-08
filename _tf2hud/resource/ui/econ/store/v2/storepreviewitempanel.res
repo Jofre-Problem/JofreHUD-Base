@@ -152,7 +152,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"ItemNameLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%itemname%"
 			//"textAlignment"	"west"
 			"xpos"			"240"
@@ -322,7 +322,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"PriceLabel"
-					"font"			"HudFontMediumSmallBold"
+					"font"			"HudFontMediumSmall"
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"25"
@@ -378,7 +378,7 @@
 					
 					
 					"labelText"		"#Store_ItemDesc_ItemWikiPage"
-					"font"			"HudFontSmallestBold"
+					"font"			"HudFontSmallest"
 					"textAlignment"	"center"
 					////"dulltext"		"0"
 					//"brighttext"	"0"
@@ -979,7 +979,7 @@
 		
 		
 		"labelText"		"<"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -1007,7 +1007,7 @@
 		
 		
 		"labelText"		">"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -1058,7 +1058,7 @@
 		
 		
 		"labelText"		"<"
-		"font"			"HudFontBiggerBold"
+		"font"			"HudFontBig"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -1087,7 +1087,7 @@
 		
 		
 		"labelText"		">"
-		"font"			"HudFontBiggerBold"
+		"font"			"HudFontBig"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -1137,7 +1137,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -1182,7 +1182,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -1227,7 +1227,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -1434,7 +1434,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -1478,7 +1478,7 @@
 		
 		
 		"labelText"		"#TF_BackCarat"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -1503,7 +1503,7 @@
 		
 		
 		"labelText"		"#Store_TryItOut"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

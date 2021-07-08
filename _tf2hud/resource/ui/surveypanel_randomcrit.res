@@ -10,7 +10,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"TextLabel"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"labelText"		"#TF_SurveyQuestion_RandomCrit"
 				"textAlignment"	"north"
 				"xpos"			"cs-0.5"
@@ -251,7 +251,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#AbuseReport_Submit"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				"Command"		"submit"
 				"sound_depressed"	"UI/buttonclick.wav"

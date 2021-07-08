@@ -51,7 +51,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Title"
-			"font"			"HudFontMediumSmallBold"
+			"font"			"HudFontMediumSmall"
 			"labelText"		"#Replay_ReplayIntroTitle"
 			//"textAlignment"	"west"
 			"xpos"			"37"

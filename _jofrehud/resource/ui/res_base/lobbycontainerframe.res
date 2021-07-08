@@ -45,7 +45,7 @@
 		"outoffocus_bgcolor_override"	"46 43 42 0"
 		
 		"title"			"#CharInfoAndSetup"
-		"title_font"	"HudFontMediumBold"
+		"title_font"	"HudFontMediumSecondary"
 		"titletextinsetX"	"40"
 		"titletextinsetY"	"0"
 		"titlebarfgcolor_override"				"HudOffWhite"
@@ -63,7 +63,7 @@
 		
 		"tabskv"
 		{
-			"font"				"HudFontMediumBold"
+			"font"				"HudFontMediumSecondary"
 			"activeborder_override"	"OutlinedGreyBox"
 			"normalborder_override" "OutlinedDullGreyBox"
 		}
@@ -84,7 +84,7 @@
 		//"enabled"		"1"
 		//"tabposition"	"0"
 		"labelText"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		"brighttext"	"0"
@@ -161,7 +161,7 @@
 		//"visible"		"1"
 		//"enabled"		"1"
 		//"tabposition"	"0"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		"brighttext"	"0"
@@ -190,7 +190,7 @@
 		//"enabled"		"1"
 		//"tabposition"	"0"
 		"labelText"		"#TF_Matchmaking_StartParty"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		//"dulltext"		"0"

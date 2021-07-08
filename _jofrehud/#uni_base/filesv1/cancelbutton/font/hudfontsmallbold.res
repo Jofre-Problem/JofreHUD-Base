@@ -2,6 +2,6 @@
 {
 	"CancelButton"
 	{
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 	}	
 }	

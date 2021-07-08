@@ -57,7 +57,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			"labelText"		"#TF_Quickplay_Title"
 			"textAlignment"	"center"
 			"xpos"			"40"
@@ -87,7 +87,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"CurPageLabel"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"labelText"		"%page%"
 				"textAlignment"	"north-west"
 				"xpos"			"40"
@@ -117,7 +117,7 @@
 				
 				
 				"labelText"		"?"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -159,7 +159,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"Label_GameType"
-					"font"			"HudFontMediumSmallBold"
+					"font"			"HudFontMediumSmall"
 					"labelText"		"%gametype%"
 					"textAlignment"	"center"
 					
@@ -292,7 +292,7 @@
 				
 				
 				"labelText"		"<"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -316,7 +316,7 @@
 				
 				
 				"labelText"		">"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -344,7 +344,7 @@
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"		"TitleLabel"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"labelText"		"#TF_Quickplay_AdvancedOptions"
 				"textAlignment"	"center"
 				"xpos"			"10"
@@ -374,7 +374,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"OptionNameLabel"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"labelText"		"Game mode"
 					"textAlignment"	"left"
 					
@@ -412,7 +412,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"OptionNameLabel"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"labelText"		"#TF_Quickplay_ServerHost"
 					"textAlignment"	"left"
 					
@@ -473,7 +473,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"OptionNameLabel"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"labelText"		"#TF_Quickplay_MaxPlayers"
 					"textAlignment"	"left"
 					
@@ -534,7 +534,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"OptionNameLabel"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"labelText"		"#TF_Quickplay_RandomCrits"
 					"textAlignment"	"left"
 					
@@ -595,7 +595,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"OptionNameLabel"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"labelText"		"#TF_Quickplay_RespawnTimes"
 					"textAlignment"	"left"
 					
@@ -656,7 +656,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"OptionNameLabel"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"labelText"		"#TF_Quickplay_DamageSpread"
 					"textAlignment"	"left"
 					
@@ -720,7 +720,7 @@
 			
 			
 			"labelText"		"#TF_Quickplay_PlayNow"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"
@@ -753,7 +753,7 @@
 			
 			
 			"labelText"		"#TF_Quickplay_ShowServers"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"
@@ -786,7 +786,7 @@
 			
 			
 			//"labelText"		"#GameUI_GameMenu_Options"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			//"textAlignment"	"west"
 			"textinsetx"	"35"
 			"use_proportional_insets" "1"
@@ -849,7 +849,7 @@
 			
 			
 			"labelText"		"?"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -869,7 +869,7 @@
 			"ControlName"			"CheckButton"
 			"fieldName"				"BetaCheckButton"
 			"labelText"				"#TF_Quickplay_BetaMaps"
-			"Font"					"HudFontSmallestBold"
+			"Font"					"HudFontSmallest"
 			"textAlignment"			"west"
 			"Command"				"beta_toggle"
 			"xpos"					"10"
@@ -902,7 +902,7 @@
 			
 			
 			"labelText"		"#Cancel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"
@@ -939,7 +939,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"TitleLabel"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"labelText"		"#QuickplayBetaExplanation_Title"
 				"textAlignment"	"north"
 				"xpos"			"20"
@@ -989,7 +989,7 @@
 				
 				
 				"labeltext"		""
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"

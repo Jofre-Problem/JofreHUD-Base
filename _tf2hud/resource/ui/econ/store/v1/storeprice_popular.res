@@ -17,7 +17,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Rank1"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		//"textAlignment"	"west"
 		
 		
@@ -37,7 +37,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Rank2"
-		"font"			"HudFontMediumSmallBold"
+		"font"			"HudFontMediumSmall"
 		//"textAlignment"	"west"
 		
 		
@@ -57,7 +57,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Price"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"textAlignment"	"east"
 		
 		"ypos"			"56"
@@ -77,7 +77,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"OG_Price"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"textAlignment"	"east"
 		
 		"ypos"			"46"
@@ -112,7 +112,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Discount"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		//"textAlignment"	"west"
 		
 		"ypos"			"54"
@@ -133,7 +133,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NewLarge"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"textAlignment"	"east"
 		
 		

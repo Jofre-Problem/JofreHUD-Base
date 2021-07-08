@@ -64,7 +64,7 @@
 				"tall"			"20"
 				////"visible"		"1"
 				
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_RollingQueue_NextMapWinner"

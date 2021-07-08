@@ -78,7 +78,7 @@
 		//"wrap"		"0"
 		"Command"		"EditSkin0"
 		"Default"		"0"
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 		"defaultBgColor_override"	"Blank"
 		"armedBgColor_override"		"0 0 0 0"
 	}
@@ -103,7 +103,7 @@
 		//"wrap"		"0"
 		"Command"		"EditSkin1"
 		"Default"		"0"
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 		"defaultBgColor_override"	"Blank"
 		"armedBgColor_override"		"0 0 0 0"
 	}
@@ -112,7 +112,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"textAlignment"	"east"
 		"labeltext"		""
 		"xpos"			"c-100"
@@ -135,7 +135,7 @@
 		
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		//"textAlignment"	"west"
 					
 		"labeltext"		""
@@ -162,7 +162,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BaseTextureLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Base Texture"
 		"xpos"			"c-80"
@@ -200,7 +200,7 @@
 		
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		//"textAlignment"	"west"
 					
 		"labeltext"		""
@@ -235,7 +235,7 @@
 		"pinCorner"		"3"
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		//"textAlignment"	"west"
 					
 		"labeltext"		""
@@ -262,7 +262,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NormalTextureLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Shared Normal"
 		"xpos"			"c-70"
@@ -292,7 +292,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"LightwarpLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Lightwarp"
 		"xpos"			"c-80"
@@ -321,7 +321,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BaseMapAlphaPhongMaskLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Base Map Alpha Phong Mask"
 		"xpos"			"c-125"
@@ -336,7 +336,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"BaseMapAlphaPhongMaskCheckButton"
 		"labeltext"		""
-		"Font"			"ImportToolSmallestBold"
+		"Font"			"ImportToolSmallest"
 		//"textAlignment"	"west"
 		"xpos"			"c+1" 
 		"ypos"			"103"
@@ -364,7 +364,7 @@
 		
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		//"textAlignment"	"west"
 					
 		"labeltext"		""
@@ -399,7 +399,7 @@
 		"pinCorner"		"3"
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		//"textAlignment"	"west"
 					
 		"labeltext"		""
@@ -426,7 +426,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PhongExponentTextureLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Shared Phong Exponent / Rim Mask"
 		"xpos"			"c-170"
@@ -456,7 +456,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PhongExponentLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Phong Exponent"
 		"xpos"			"c-100"
@@ -494,7 +494,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PhongBoostLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Phong Boost"
 		"xpos"			"c-100"
@@ -532,7 +532,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RimLightExponentLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Rim Light Exponent"
 		"xpos"			"c-100"
@@ -570,7 +570,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RimLightBoostLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Rim Light Boost"
 		"xpos"			"c-100"
@@ -608,7 +608,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RimMaskLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Rim Mask"
 		"xpos"			"c-100"
@@ -624,7 +624,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"RimMaskCheckButton"
 		"labeltext"		""
-		"Font"			"ImportToolSmallestBold"
+		"Font"			"ImportToolSmallest"
 		//"textAlignment"	"west"
 		"xpos"			"c+1" 
 		"ypos"			"203"
@@ -644,7 +644,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"HalfLambertLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Half Lambert"
 		"xpos"			"c-100"
@@ -659,7 +659,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"HalfLambertCheckButton"
 		"labeltext"		""
-		"Font"			"ImportToolSmallestBold"
+		"Font"			"ImportToolSmallest"
 		//"textAlignment"	"west"
 		"xpos"			"c+1" 
 		"ypos"			"223"
@@ -679,7 +679,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlendTintByBaseAlphaLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Blend Tint By Base Alpha"
 		"xpos"			"c-150"
@@ -695,7 +695,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"BlendTintByBaseAlphaCheckButton"
 		"labeltext"		""
-		"Font"			"ImportToolSmallestBold"
+		"Font"			"ImportToolSmallest"
 		//"textAlignment"	"west"
 		"xpos"			"c+1" 
 		"ypos"			"243"
@@ -715,7 +715,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlendTintColorOverBaseLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Blend Tint Color Over Base"
 		"xpos"			"c-150"
@@ -754,7 +754,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ColorTintBaseLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Color Tint Base (RGB)"
 		"xpos"			"c-150"
@@ -841,7 +841,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AdditiveLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Additive"
 		"xpos"			"c-100"
@@ -856,7 +856,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"AdditiveCheckButton"
 		"labeltext"		""
-		"Font"			"ImportToolSmallestBold"
+		"Font"			"ImportToolSmallest"
 		//"textAlignment"	"west"
 		"xpos"			"c+1" 
 		"ypos"			"293"
@@ -876,7 +876,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TranslucentLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Translucent"
 		"xpos"			"c+19"
@@ -891,7 +891,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"TranslucentCheckButton"
 		"labeltext"		""
-		"Font"			"ImportToolSmallestBold"
+		"Font"			"ImportToolSmallest"
 		//"textAlignment"	"west"
 		"xpos"			"c+81" 
 		"ypos"			"293"
@@ -911,7 +911,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AlphaTestLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Alpha Test"
 		"xpos"			"c+96"
@@ -927,7 +927,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"AlphaTestCheckButton"
 		"labeltext"		""
-		"Font"			"ImportToolSmallestBold"
+		"Font"			"ImportToolSmallest"
 		//"textAlignment"	"west"
 		"xpos"			"c+158"
 		"ypos"			"293"
@@ -947,7 +947,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"EnvmapLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Cube Map"
 		"xpos"			"c-100"
@@ -976,7 +976,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"EnvmapAlphaMaskLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Cube Map Alpha Mask"
 		"xpos"			"c-150"
@@ -1007,7 +1007,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"EnvmapTintLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Cube Map Tint (RGB)"
 		"xpos"			"c-150"
@@ -1094,7 +1094,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SelfIllumLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Self Illumination"
 		"xpos"			"c-100"
@@ -1109,7 +1109,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"SelfIllumCheckButton"
 		"labeltext"		""
-		"Font"			"ImportToolSmallestBold"
+		"Font"			"ImportToolSmallest"
 		//"textAlignment"	"west"
 		"xpos"			"c+1" 
 		"ypos"			"357"
@@ -1137,7 +1137,7 @@
 		
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		//"textAlignment"	"west"
 					
 		"labeltext"		""
@@ -1172,7 +1172,7 @@
 		"pinCorner"		"3"
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		//"textAlignment"	"west"
 					
 		"labeltext"		""
@@ -1199,7 +1199,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SelfIllumTextureLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Shared Illum Mask"
 		"xpos"			"c-85"
@@ -1229,7 +1229,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SelfIllumTintLabel"
-		"font"			"ImportToolSmallestBold"
+		"font"			"ImportToolSmallest"
 		"textAlignment"	"east"
 		"labelText"		"Self Illumination Tint"
 		"xpos"			"c-150"
@@ -1332,7 +1332,7 @@
 		//"wrap"		"0"
 		"Command"		"Done"
 		"Default"		"0"
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 	}
 
 	"ButtonClose"
@@ -1355,6 +1355,6 @@
 		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 	}
 }

@@ -41,7 +41,7 @@
 		//"visible"		"1"
 		
 		
-		"font"			"HudFontMediumSmallBold"
+		"font"			"HudFontMediumSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -87,7 +87,7 @@
 		//"visible"		"1"
 		
 		
-		"font"			"HudFontMediumSmallBold"
+		"font"			"HudFontMediumSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -136,7 +136,7 @@
 		//"visible"		"1"
 		
 		
-		"font"			"HudFontMediumSmallBold"
+		"font"			"HudFontMediumSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -168,7 +168,7 @@
 		//"visible"		"1"
 		
 		
-		"font"			"HudFontMediumSmallBold"
+		"font"			"HudFontMediumSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

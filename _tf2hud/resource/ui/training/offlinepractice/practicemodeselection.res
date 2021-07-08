@@ -46,7 +46,7 @@
 		
 		
 		"labelText"		"#TF_LessThan"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		//"textinsetx"	"0"
 		////"dulltext"		"0"
@@ -71,7 +71,7 @@
 		
 		
 		"labelText"		"#TF_GreaterThan"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		//"textinsetx"	"0"
 		////"dulltext"		"0"
@@ -85,7 +85,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"GameModeLabel"
-		"font"			"HudFontMediumSmallBold"
+		"font"			"HudFontMediumSmall"
 		"labelText"		"%gamemode%"
 		"textAlignment"	"center"
 		"xpos"			"60"
@@ -104,7 +104,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurPageLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"%curpage%"
 		"textAlignment"	"north"
 		"xpos"			"70"
@@ -153,7 +153,7 @@
 		
 		
 		"labelText"			"#TF_Select"
-		"font"				"HudFontSmallBold"
+		"font"				"HudFontSmall"
 		"textAlignment"		"center"
 		"textinsetx"		"50"
 		//"dulltext"			"0"

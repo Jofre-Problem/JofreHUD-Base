@@ -18,7 +18,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MainLabelDropShadow"
-		"font"			"HudFontBiggerBold"
+		"font"			"HudFontBig"
 		"labelText"		"#TF_VR_Calibration"
 		"textAlignment" "center"
 		"xpos"			"2"
@@ -32,7 +32,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MainLabel"
-		"font"			"HudFontBiggerBold"
+		"font"			"HudFontBig"
 		"labelText"		"#TF_VR_Calibration"
 		"textAlignment" "center"
 		
@@ -290,7 +290,7 @@
 		
 		
 		"labelText"		"#TF_VR_LessLots"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -315,7 +315,7 @@
 		
 		
 		"labelText"		"#TF_VR_Less"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -340,7 +340,7 @@
 		
 		
 		"labelText"		"#TF_VR_More"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -365,7 +365,7 @@
 		
 		
 		"labelText"		"#TF_VR_MoreLots"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -390,7 +390,7 @@
 		
 		
 		"labelText"		"#TF_VR_NextAdjust"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -415,7 +415,7 @@
 		
 		
 		"labelText"		"#TF_VR_Close"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

@@ -33,7 +33,7 @@
 				
 				
 				"labeltext"		""
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				//"textAlignment"	"west"
 				"textinsetx"	"34"
 				"use_proportional_insets" "1"
@@ -66,7 +66,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"labelText"		"#TF_Trial_SelectMostHelpfulFriend_Title"
 		"textAlignment"	"north"
 		
@@ -121,7 +121,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"QueryLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#TF_Trial_SelectMostHelpfulFriend_Text"
 			"textAlignment"	"north"
 			"xpos"			"20"
@@ -152,7 +152,7 @@
 			
 			
 			"labelText"		"#TF_SelectPlayer_SelectFriends"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -176,7 +176,7 @@
 			
 			
 			"labelText"		"#TF_SelectPlayer_SelectServer"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -202,7 +202,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"QueryLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#TF_SelectPlayer_Friends"
 			"textAlignment"	"north"
 			
@@ -220,7 +220,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"EmptyPlayerListLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#TF_SelectPlayer_FriendsNone"
 			"textAlignment"	"north"
 			
@@ -241,7 +241,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"RetrievingPlayerListLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#TF_Trial_SelectMostHelpfulFriend_Retrieving"
 			"textAlignment"	"north"
 			
@@ -274,7 +274,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"QueryLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#TF_SelectPlayer_Server"
 			"textAlignment"	"north"
 			
@@ -293,7 +293,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"EmptyPlayerListLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#TF_SelectPlayer_ServerNone"
 			"textAlignment"	"north"
 			
@@ -326,7 +326,7 @@
 		
 		
 		"labelText"		"#Cancel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

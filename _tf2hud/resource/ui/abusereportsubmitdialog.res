@@ -16,7 +16,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"labelText"		"#AbuseReport_DialogTitle"
 		"textAlignment"	"north-west"
 		"xpos"			"10"
@@ -243,7 +243,7 @@
 		
 		
 		"labelText"		"#TF_LessThan"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		//"textinsetx"	"0"
 		////"dulltext"		"0"
@@ -268,7 +268,7 @@
 		
 		
 		"labelText"		"#TF_GreaterThan"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		//"textinsetx"	"0"
 		////"dulltext"		"0"
@@ -334,7 +334,7 @@
 		"wide"			"130"
 		"tall"			"25"
 		"labelText"		"#AbuseReport_Discard"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		"Command"		"discard"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -351,7 +351,7 @@
 		"wide"			"130"
 		"tall"			"25"
 		"labelText"		"#AbuseReport_Submit"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		"Command"		"submit"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -368,7 +368,7 @@
 		"wide"			"130"
 		"tall"			"25"
 		"labelText"		"#AbuseReport_SaveForLater"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"

@@ -16,7 +16,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"textAlignment"	"center"
 		"labelText"		"#Frame_Untitled"
 		"xpos"			"10"
@@ -63,7 +63,7 @@
 		//"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 	}
 
 	"ButtonDone"
@@ -86,6 +86,6 @@
 		//"wrap"		"0"
 		"Command"		"Done"
 		"Default"		"0"
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 	}
 }

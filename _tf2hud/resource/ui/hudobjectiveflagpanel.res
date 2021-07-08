@@ -495,7 +495,7 @@
 		
 		"textAlignment"	"center"	
 		"labelText"		"%redscore%"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"fgcolor"		"TanLight"
 	}
 	

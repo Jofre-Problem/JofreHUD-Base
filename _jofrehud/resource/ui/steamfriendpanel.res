@@ -70,7 +70,7 @@
 		"wrap"					"1"
 		"labelText"				"%status%"
 		"proportionaltoparent"	"1"
-		"font"					"PlayerPanelPlayerName"
+		"font"					"ScoreboardSmallest"
 		"fgcolor_override"				"TanDark"
 		"mouseinputenabled"		"0"
 	}

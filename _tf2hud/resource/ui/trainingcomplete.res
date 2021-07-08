@@ -173,7 +173,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ResultsLabel"
-		  	"font"			"HudFontMediumSmallBold"
+		  	"font"			"HudFontMediumSmall"
 			"labelText"		"%wintext%"
 			"textAlignment"		"center"
 			
@@ -196,7 +196,7 @@
 			"tall"			"275"
 			//"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"border"		"TrainingResultsBG"
+			"border"		"MainMenuHighlightBorder"
 		}
 		"ResultsText"
 		{

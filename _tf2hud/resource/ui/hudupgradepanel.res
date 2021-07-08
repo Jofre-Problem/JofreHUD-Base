@@ -154,7 +154,7 @@
 			
 			
 			"labelText"		"PLAYER"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"
@@ -413,7 +413,7 @@
 			
 			
 			"labelText"		"#TF_PVE_Quick_Equip_Bottle"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"
@@ -438,7 +438,7 @@
 			
 			
 			"labelText"		"#OpenGeneralLoadout"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"
@@ -607,7 +607,7 @@
 			
 			
 			"labelText"		"#TF_PVE_UpgradeCancel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"
@@ -632,7 +632,7 @@
 			"enabled"		"0"
 			
 			"labelText"		"#TF_PVE_UpgradeDone"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"
@@ -657,7 +657,7 @@
 			"enabled"		"0"
 			
 			"labelText"		"#TF_PVE_UpgradeRespec"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"

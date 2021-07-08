@@ -8,7 +8,7 @@
 		//"visible"		"1"
 		//"enabled"		"1"
 		//"tabposition"	"0"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		"brighttext"	"0"

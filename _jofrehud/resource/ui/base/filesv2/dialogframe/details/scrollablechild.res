@@ -183,7 +183,7 @@
 					//"enabled"		"1"
 					//"tabposition"	"0"
 					"labelText"		"#Store_ItemDesc_ItemWikiPage"
-					"font"			"HudFontSmallestBold"
+					"font"			"HudFontSmallest"
 					"textAlignment"	"center"
 					//"dulltext"		"0"
 					"brighttext"	"0"

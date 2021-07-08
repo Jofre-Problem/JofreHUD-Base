@@ -15,7 +15,7 @@ Scheme
 	//	"Name"	"ClientScheme"
 	//}
 
-	//////////////////////// COLORS ///////////////////////////
+	
 	Colors
 	{
 		// base colors
@@ -824,7 +824,7 @@ Scheme
 				"yres"		"1200 10000"
 			}
 		}
-		"HudFontGiantBold"
+		"HudFontGiant"
 		{
 			"1"
 			{
@@ -837,7 +837,7 @@ Scheme
 			}
 		}
 
-		"HudFontBiggerBold"
+		"HudFontBig"
 		{
 			"1"
 			{
@@ -873,7 +873,7 @@ Scheme
 				"antialias" "1"
 			}
 		}	
-		"HudFontMediumBigBold"
+		"HudFontMediumBig"
 		{
 			"1"
 			{
@@ -907,7 +907,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"HudFontMediumBold"
+		"HudFontMediumSecondary"
 		{
 			"1"
 			{
@@ -918,7 +918,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"HudFontMediumSmallBold"
+		"HudFontMediumSmall"
 		{
 			"1"
 			{
@@ -978,7 +978,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"HudFontSmallBold"
+		"HudFontSmall"
 		{
 			"1"
 			{
@@ -1024,7 +1024,7 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
-		"HudFontSmallestBold"
+		"HudFontSmallest"
 		{
 			"1"
 			{
@@ -1962,7 +1962,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Arial Black"
+				"name"			"Segoe UI"
 				"tall"			"8"
 				//"tall_lodef"	"12"
 				"range" 		"0x0000 0x00FF"
@@ -2188,7 +2188,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"ImportToolSmallestBold"
+		"ImportToolSmallest"
 		{
 			"1"
 			{
@@ -2253,7 +2253,7 @@ Scheme
 			}
 		}
 		
-		"ItemFontNameSmallest"
+		"ItemFontNameSmall"
 		{
 			"1"
 			{
@@ -5045,17 +5045,6 @@ Scheme
 			"draw_corner_height" 	"8"	
 		}
 
-		TrainingResultsBG
-		{
-			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
-			
-			"image"					"button_holder_central"
-			"src_corner_height"		"32"			// pixels inside the image
-			"src_corner_width"		"32"
-			"draw_corner_width"		"4"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"4"	
-		}
 		
 		StoreInnerShadowBorder
 		{

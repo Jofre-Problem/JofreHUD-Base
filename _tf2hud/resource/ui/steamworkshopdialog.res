@@ -101,7 +101,7 @@
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"		"TitleLabel"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				"labelText"		"#TF_SteamWorkshop_Title"
 				"textAlignment"	"center"
 				
@@ -151,7 +151,7 @@
 				
 				
 				"labelText"		"#TF_SteamWorkshop_LearnHow"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				"Command"		"learn_more"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -181,7 +181,7 @@
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"		"TitleLabel"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				"labelText"		"#TF_SteamWorkshop_YourItems"
 				//"textAlignment"	"west"
 				"xpos"			"15"
@@ -259,7 +259,7 @@
 				
 				
 				"labelText"		"<"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -272,7 +272,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"CurPageLabel"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"labelText"		"%page%"
 				"textAlignment"	"center"
 				"xpos"			"460"
@@ -302,7 +302,7 @@
 				
 				
 				"labelText"		">"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -326,7 +326,7 @@
 				
 				
 				"labelText"		"#TF_SteamWorkshop_ViewPublished"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				"textinsetx"	"50"
 				////"dulltext"		"0"
@@ -351,7 +351,7 @@
 				
 				"textinsetx"	"25"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				//"textAlignment"	"west"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -396,7 +396,7 @@
 				
 				"textinsetx"	"25"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				//"textAlignment"	"west"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -441,7 +441,7 @@
 				
 				"textinsetx"	"25"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				//"textAlignment"	"west"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -487,7 +487,7 @@
 			
 			
 			"labelText"		"#TF_SteamWorkshop_BrowseTheWorkshop"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			"Command"		"browse"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -515,7 +515,7 @@
 			
 			
 			"labelText"		"#TF_SteamWorkshop_Test"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"Command"		"itemtest"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -544,7 +544,7 @@
 			
 			
 			"labelText"		"#TF_SteamWorkshop_Publish"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"Command"		"publish"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -572,7 +572,7 @@
 			
 			
 			"labelText"		"#TF_SteamWorkshop_Instructions"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"Command"		"learn_more"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -594,7 +594,7 @@
 			
 			
 			"labelText"		"#TF_SteamWorkshop_Legal"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"
@@ -619,7 +619,7 @@
 			
 			
 			"labelText"		"#TF_Close"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"

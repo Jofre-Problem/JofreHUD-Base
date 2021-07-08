@@ -52,7 +52,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontGiant"
+		"font"			"ChalkboardTitleBig"
 		"xpos"			"68"			// align me to the left edge of the first selection
 		"ypos"			"8"
 		"zpos"			"2"
@@ -72,7 +72,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
-		"font"			"HudFontGiant"
+		"font"			"ChalkboardTitleBig"
 		"fgcolor"		"Black"
 		"xpos"			"70"			// align me to the left edge of the first selection
 		"ypos"			"10"

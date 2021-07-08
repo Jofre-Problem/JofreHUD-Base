@@ -47,7 +47,7 @@
 
 				"fonts"
 				{
-					"0"		"HudFontSmallBold"
+					"0"		"HudFontSmall"
 					"1"		"StorePromotionsTitle"
 					"2"		"FontStorePrice"
 				}

@@ -2,6 +2,6 @@
 {
 	"OKButton"
 	{
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 	}	
 }	

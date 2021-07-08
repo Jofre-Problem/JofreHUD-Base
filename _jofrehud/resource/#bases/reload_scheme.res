@@ -5,7 +5,7 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"ReloadSchemeButton"
 		"zpos"			"25"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
 		"textinsetx"	"50"		
 		"tall"			"15"

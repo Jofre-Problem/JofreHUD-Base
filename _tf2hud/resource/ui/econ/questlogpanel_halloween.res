@@ -23,7 +23,7 @@
 
 		"QuestLogTitle"
 		{
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#QuestLog_Title_Halloween"
 			"fgcolor"		"TanLight"
 		}

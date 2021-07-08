@@ -2,10 +2,10 @@
 {
 	"AcceptButton"
 	{
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 	}
 	"DeclineButton"
 	{
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 	}
 }

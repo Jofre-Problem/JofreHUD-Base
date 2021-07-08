@@ -44,7 +44,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_MM_OpenSettings"
 		//"textAlignment"	"west"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"fgcolor_override"	"TanDark"
 		
 		"mouseinputenabled"	"0"
@@ -62,7 +62,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_MM_InviteMode"
 		//"textAlignment"	"west"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"smallcheckimage"	"1"
 		"fgcolor_override"	"TanDark"
 
@@ -80,7 +80,7 @@
 		"wide"			"200"
 		"tall"			"15"
 		//"textAlignment"	"west"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"keyboardinputenabled"	"0"
 
 		"editable"		"0"
@@ -105,7 +105,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_MM_IgnoreInvites"
 		//"textAlignment"	"west"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"smallcheckimage"	"1"
 
 		"sound_depressed"	"UI/buttonclickrelease.wav"	
@@ -126,7 +126,7 @@
 		"proportionaltoparent"	"1"
 		"labelText"		""
 		//"textAlignment"	"west"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"smallcheckimage"	"1"
 		"enabled"	"0"
 
@@ -146,7 +146,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_MM_PartySameTeam"
 		//"textAlignment"	"west"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"smallcheckimage"	"1"
 
 		"sound_depressed"	"UI/buttonclickrelease.wav"	
@@ -166,7 +166,7 @@
 		"proportionaltoparent"	"1"
 		"labelText"		""
 		//"textAlignment"	"west"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"smallcheckimage"	"1"
 		"actionsignallevel"	"1"
 
@@ -190,7 +190,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_LobbyContainer_CustomPingButton"
 		//"textAlignment"	"west"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"smallcheckimage"	"1"
 
 		"sound_depressed"	"UI/buttonclickrelease.wav"	
@@ -228,7 +228,7 @@
 		"proportionaltoparent"	"1"
 		"labelText"		""
 		//"textAlignment"	"west"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		
 		"mouseinputenabled"	"0"
 	}

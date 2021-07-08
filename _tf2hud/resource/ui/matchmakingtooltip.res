@@ -32,7 +32,7 @@
 
 			if_large
 			{
-				"font"	"HudFontSmallBold"
+				"font"	"HudFontSmall"
 			}
 
 			"labelText"		"%tiptext%"

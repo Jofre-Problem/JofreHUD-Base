@@ -24,7 +24,7 @@
 		
 		
 		"labelText"		"#TF_MvM_LearnMore"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -53,7 +53,7 @@
 		
 		
 		"labelText"		"#TF_MvM_MannUp"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -92,7 +92,7 @@
 		
 		
 		"labelText"		"#TF_MvM_BootCamp"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -134,7 +134,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"PlayWithFriendsExplanationTitle"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#TF_Matchmaking_PlayWithFriends"
 			"textAlignment"	"center"
 			

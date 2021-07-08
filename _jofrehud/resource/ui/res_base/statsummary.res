@@ -62,7 +62,7 @@
 //	{
 //		"ControlName"		"CExLabel"
 //	"fieldName"		"MapLabel"
-//		"font"			"HudFontMediumBigBold"
+//		"font"			"HudFontMediumBig"
 //		"labelText"		"%maplabel%"
 //		"textAlignment"		"center"
 //		"xpos"			"c-25"
@@ -79,7 +79,7 @@
 	{
 	//	"ControlName"		"CExLabel"
 	//	"fieldName"		"MapLabel"
-		"font"			"HudFontMediumBigBold"
+		"font"			"HudFontMediumBig"
 		"xpos"			"c-25"
 		"ypos"			"55"
 		"wide"			"350"

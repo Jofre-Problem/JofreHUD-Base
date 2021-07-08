@@ -40,7 +40,7 @@
 //not deleted cuz mayaplugins
 Scheme
 {
-	//////////////////////// COLORS ///////////////////////////
+	
 	// color details
 	// this is a list of all the colors used by the scheme
 	Colors

@@ -29,7 +29,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"SplashLabelShadow"
-			"font"			"HudFontGiantBold"
+			"font"			"HudFontGiant"
 			"labelText"		"#TF_MVM_Victory"
 			"textAlignment" "center"
 			"xpos"			"2"
@@ -43,7 +43,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"SplashLabel"
-			"font"			"HudFontGiantBold"
+			"font"			"HudFontGiant"
 			"labelText"		"#TF_MVM_Victory"
 			"textAlignment" "center"
 			

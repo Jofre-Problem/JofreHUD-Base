@@ -4,7 +4,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"EllipsesLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		//"xpos"			"0"
 		//"zpos"			"0"
 		"wide"			"200"

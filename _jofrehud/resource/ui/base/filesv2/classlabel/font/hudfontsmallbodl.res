@@ -2,6 +2,6 @@
 {
 	"CaratLabel"
 	{
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 	}
 }	

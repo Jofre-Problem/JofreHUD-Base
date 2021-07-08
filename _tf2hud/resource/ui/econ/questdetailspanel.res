@@ -76,7 +76,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"QuestDetailsTitle"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"labelText"		"#QuestDetails_Title"
 		"textAlignment"	"center"
 		
@@ -202,7 +202,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"QuestName"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%questname%"
 			"textAlignment"	"north"
 			
@@ -271,7 +271,7 @@
 				"textinsetx"	"25"
 				"labelText"		"#QuestDetails_Accept"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				//"textAlignment"	"west"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -344,7 +344,7 @@
 				"textinsetx"	"25"
 				"labelText"		"#QuestDetails_Discard"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				//"textAlignment"	"west"
 				////"dulltext"		"0"
 				//"brighttext"	"0"

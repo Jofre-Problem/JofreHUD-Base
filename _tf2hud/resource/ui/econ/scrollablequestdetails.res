@@ -18,7 +18,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"RewardsLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#QuestDetails_Reward"
 			//"textAlignment"	"west"
 			"xpos"			"10"

@@ -2,6 +2,6 @@
 {
 	"TitleLabel"
 	{	
-		"font"			"HudFontGiantBold"
+		"font"			"HudFontGiant"
 	}
 }	

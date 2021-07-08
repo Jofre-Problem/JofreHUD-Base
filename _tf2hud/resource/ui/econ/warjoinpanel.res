@@ -97,7 +97,7 @@
 				
 				
 				"labeltext"		""
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -461,7 +461,7 @@
 					"tall"			"200"
 					//"visible"		"1"
 					
-					"font"			"HudFontMediumBold"
+					"font"			"HudFontMediumSecondary"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"	"north"
 					"labelText"		"#TF_War_StandingsTitle"
@@ -549,7 +549,7 @@
 					"tall"			"200"
 					//"visible"		"1"
 					
-					"font"			"HudFontMediumBold"
+					"font"			"HudFontMediumSecondary"
 					"fgcolor_override"	"HUDRedTeamSolid"
 					"textAlignment"	"north"
 					"labelText"		"#TF_War_Winner_PyroTitle"
@@ -685,7 +685,7 @@
 							
 							"textinsetx"	"25"
 							"use_proportional_insets" "1"
-							"font"			"HudFontSmallBold"
+							"font"			"HudFontSmall"
 							"textAlignment"	"center"
 							////"dulltext"		"0"
 							//"brighttext"	"0"
@@ -725,7 +725,7 @@
 							
 							"textinsetx"	"25"
 							"use_proportional_insets" "1"
-							"font"			"HudFontSmallBold"
+							"font"			"HudFontSmall"
 							"textAlignment"	"center"
 							////"dulltext"		"0"
 							//"brighttext"	"0"
@@ -816,7 +816,7 @@
 							"tall"			"50"
 							//"visible"		"1"
 							
-							"font"			"HudFontSmallestBold"
+							"font"			"HudFontSmallest"
 							"fgcolor_override"	"TanLight"
 							"textAlignment"	"center"
 							"labelText"		"%team_joined%"
@@ -839,7 +839,7 @@
 							
 							"textinsetx"	"25"
 							"use_proportional_insets" "1"
-							"font"			"HudFontSmallBold"
+							"font"			"HudFontSmall"
 							"textAlignment"	"center"
 							////"dulltext"		"0"
 							//"brighttext"	"0"
@@ -926,7 +926,7 @@
 							
 							"textinsetx"	"25"
 							"use_proportional_insets" "1"
-							"font"			"HudFontSmallBold"
+							"font"			"HudFontSmall"
 							"textAlignment"	"center"
 							////"dulltext"		"0"
 							//"brighttext"	"0"
@@ -1027,7 +1027,7 @@
 						
 						"textinsetx"	"25"
 						"use_proportional_insets" "1"
-						"font"			"HudFontSmallBold"
+						"font"			"HudFontSmall"
 						"textAlignment"	"center"
 						////"dulltext"		"0"
 						//"brighttext"	"0"
@@ -1079,7 +1079,7 @@
 						
 						"textinsetx"	"25"
 						"use_proportional_insets" "1"
-						"font"			"HudFontSmallBold"
+						"font"			"HudFontSmall"
 						"textAlignment"	"center"
 						////"dulltext"		"0"
 						//"brighttext"	"0"

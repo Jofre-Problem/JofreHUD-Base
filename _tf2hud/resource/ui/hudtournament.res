@@ -137,7 +137,7 @@
 					"ypos"				"25"
 					"wide"			"48"
 					"textAlignment"		"center"
-					"font"				"PlayerPanelPlayerName"
+					"font"				"ScoreboardSmallest"
 				}
 
 				if_competitive
@@ -147,7 +147,7 @@
 					"wide"				"p0.9"
 					"tall"				"p0.22"
 					"textAlignment"		"center"
-					"font"				"PlayerPanelPlayerName"
+					"font"				"ScoreboardSmallest"
 					"proportionaltoparent" "1"
 				}
 
@@ -157,7 +157,7 @@
 					"ypos"				"25"
 					"wide"				"48"
 					"textAlignment"		"center"
-					"font"				"PlayerPanelPlayerName"
+					"font"				"ScoreboardSmallest"
 				}
 			}
 			
@@ -588,7 +588,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentBLUEStateLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"xpos"			"56"
 		"ypos"			"24"
 		"zpos"			"1"
@@ -699,7 +699,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentREDStateLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"xpos"			"130"
 		"ypos"			"24"
 		"zpos"			"1"

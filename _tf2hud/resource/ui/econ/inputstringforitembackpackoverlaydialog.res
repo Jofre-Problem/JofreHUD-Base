@@ -92,7 +92,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"#ShuffleContents_Title"
 		"textAlignment"	"center"
 		"xpos"			"10"
@@ -147,7 +147,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"LootlistLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		"#Econ_Revolving_Loot_List"
 		"textAlignment"	"center"
 		"xpos"			"10"
@@ -167,7 +167,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RareLootLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		"#Econ_Revolving_Loot_List_Rare_Item"
 		"textAlignment"	"center"
 		"xpos"			"10"
@@ -188,7 +188,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DescLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		"#ShuffleContents_Desc"
 		"textAlignment"	"center"
 		"xpos"			"10"
@@ -258,7 +258,7 @@
 		
 		"tabPosition"	"2"
 		"labelText"		"#ShuffleContents"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -285,7 +285,7 @@
 		
 		"tabPosition"	"1"
 		"labelText"		"#TF_VR_Close"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -312,7 +312,7 @@
 		
 		"tabPosition"	"2"
 		"labelText"		"#GetKey"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -338,7 +338,7 @@
 		
 		"tabPosition"	"2"
 		"labelText"		"#UseKey"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

@@ -49,7 +49,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurrencyGood"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"fgcolor"		"CreditsGreen"
 		"xpos"			"9"
 		"ypos"			"1"
@@ -66,7 +66,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurrencyBad"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"fgcolor"		"TanDarker"
 		"xpos"			"9"
 		"ypos"			"1"

@@ -2,6 +2,6 @@
 {
 	"ExplanationLabel"
 	{
-		"font"		"HudFontSmallestBold"
+		"font"		"HudFontSmallest"
 	}	
 }	

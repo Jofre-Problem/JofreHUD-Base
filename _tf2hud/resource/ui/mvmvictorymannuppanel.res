@@ -55,7 +55,7 @@
 		
 		
 		"labelText"		"#DoneButton"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -289,7 +289,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"NoItemServer"
-				"font"			"HudFontMediumSmallBold"
+				"font"			"HudFontMediumSmall"
 				"labelText"		"#TF_PVE_Server_GCDownHeader"
 				"textAlignment" "center"
 				

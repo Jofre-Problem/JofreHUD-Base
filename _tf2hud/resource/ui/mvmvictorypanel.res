@@ -49,7 +49,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"HeaderShadow"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				"labelText"		"%headershadow%"
 				"textAlignment" "center"
 				"xpos"			"1"
@@ -63,7 +63,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"HeaderLabel"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				"labelText"		"%header%"
 				"textAlignment" "center"
 				
@@ -78,7 +78,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CreditLabel"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			"labelText"		"#TF_PVE_Currency"
 			"textAlignment" "north-west"
 			"xpos"			"80"
@@ -115,7 +115,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"RatingLabel"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				"labelText"		"%ratinglabel%"
 				"textAlignment" "center"
 				
@@ -129,7 +129,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"RatingTextShadow"
-				"font"			"HudFontGiantBold"
+				"font"			"HudFontGiant"
 				"labelText"		"%ratingscore%"
 				"textAlignment" "center"
 				"xpos"			"1"
@@ -143,7 +143,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"RatingText"
-				"font"			"HudFontGiantBold"
+				"font"			"HudFontGiant"
 				"labelText"		"%ratingscore%"
 				"textAlignment" "center"
 				
@@ -181,7 +181,7 @@
 		
 		
 		"labelText"		"#DoneButton"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

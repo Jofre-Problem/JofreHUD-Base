@@ -39,7 +39,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"UserName"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"%username%"
 			"textAlignment"	"west"
 			"zpos"			"2"

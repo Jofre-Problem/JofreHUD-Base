@@ -15,7 +15,7 @@ Scheme
 	//	"Name"	"ClientScheme"
 	//}
 
-	//////////////////////// COLORS ///////////////////////////
+	
 	Colors
 	{
 		// base colors
@@ -491,9 +491,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F"
-				//"yres""	"480 599"
 			}
 		}
 
@@ -504,9 +501,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""	"480 599"
 			}
 
 		}
@@ -568,31 +562,6 @@ Scheme
 				//"yres""		"480 599"
 			}
 		}
-		"HudFontGiantBold"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"44"
-				//"tall_lodef"	"52"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
-			}
-		}
-
-		"HudFontBiggerBold"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"35"
-				//"tall_lodef"	"40"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
-			}
-		}
 
 		"HudFontBig"
 		{
@@ -607,17 +576,6 @@ Scheme
 			}
 		}
 		"HudFontMediumBig"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"30"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
-			}
-		}	
-		"HudFontMediumBigBold"
 		{
 			"1"
 			{
@@ -651,39 +609,13 @@ Scheme
 				//"antialias" "1"
 			}
 		}
-		"HudFontMediumBold"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"24"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
-			}
-		}
-		"HudFontMediumSmallBold"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"18"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
-			}
-		}
 		"HudFontMediumSmall"
 		{
 			"1"
 			{
 				"name"		"Segoe UI"
 				"tall"		"18"
-				//"tall_hidef"	"24"
-				//"tall_lodef"	"18"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
+
 			}
 		}
 		"HudFontMediumSmallSecondary"
@@ -692,11 +624,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"18"
-				//"tall_hidef"	"24"
-				//"tall_lodef"	"20"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
 			}
 		}
 		"HudFontSmall"
@@ -722,29 +649,29 @@ Scheme
 				//"antialias" "1"
 			}
 		}
-		"HudFontSmallBold"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"14"
+//		"HudFontSmallBold"
+//		{
+//			"1"
+//			{
+//				"name"		"Segoe UI"
+//				"tall"		"14"
 				//"weight"	"500"
 				//"additive"	"0"
 				//"antialias" "1"
-			}
-		}
-		"HudFontSmallBoldShadow"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"14"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
-				//"dropshadow"	"1"
-			}
-		}
+//			}
+//		}
+//		"HudFontSmallBoldShadow"
+//		{
+//			"1"
+//			{
+//				"name"		"Segoe UI"
+//				"tall"		"14"
+//				//"weight"	"500"
+//				//"additive"	"0"
+//				//"antialias" "1"
+//				//"dropshadow"	"1"
+//			}
+//		}
 		"HudFontSmallest"
 		{
 			"1"
@@ -756,29 +683,18 @@ Scheme
 				//"antialias" 	"1"
 			}
 		}
-		"HudFontSmallestShadow"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"11"
+//		"HudFontSmallestShadow"
+//		{
+//			"1"
+//			{
+//				"name"		"Segoe UI"
+//				"tall"		"11"
 				//"weight"	"500"
 				//"additive"	"0"
 				//"antialias" 	"1"
 				//"dropshadow"	"1"
-			}
-		}
-		"HudFontSmallestBold"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"11"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
-			}
-		}
+//			}
+//		}
 		"PerformanceModeSmall"
 		{
 			"1"
@@ -829,17 +745,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"9"
-				//"weight"	"0"
-				//"additive"	"0"
-				//"antialias" "1"
-			}
-		}
-		"FontStorePriceSmall"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"6"
 				//"weight"	"0"
 				//"additive"	"0"
 				//"antialias" "1"
@@ -939,11 +844,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"18"
-				//"tall_hidef"	"24"
-				//"tall_lodef"	"18"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
+
 			}
 		}
 		"HudClassHealth"
@@ -1213,7 +1114,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Professor"
+				"name"			"Segoe UI"
 				"tall"			"28"
 				//"tall_lodef"	"48"
 				//"tall_hidef"	"48"
@@ -1227,7 +1128,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Professor"
+				"name"			"Segoe UI"
 				"tall"			"40"
 				//"tall_lodef"	"48"
 				//"tall_hidef"	"48"
@@ -1253,7 +1154,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Professor"
+				"name"			"Segoe UI"
 				"tall"			"14"
 				//"tall_lodef"	"32"
 				//"tall_hidef"	"32"
@@ -1520,7 +1421,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Arial Black"
+				"name"			"Segoe UI"
 				"tall"			"8"
 				//"tall_lodef"	"12"
 				//"range" 		"0x0000 0x00FF"
@@ -1745,17 +1646,6 @@ Scheme
 				//"antialias" "1"
 			}
 		}
-		"ImportToolSmallestBold"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"10"
-				//"weight"	"600"
-				//"additive"	"0"
-				//"antialias" 	"1"
-			}
-		}
 		"ImportToolSmallest"
 		{
 			"1"
@@ -1792,17 +1682,6 @@ Scheme
 			}
 		}
 		
-		"ItemFontNameSmallest"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"8"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
-			}
-		}
 		"ItemFontNameSmall"
 		{
 			"1"
@@ -1964,8 +1843,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"7"
-				//"weight"	"0"
-				//"antialias" 	"1"
 			}
 		}
 
@@ -1975,29 +1852,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"10"
-				//"weight"	"400"
-				//"yres""		"480 599"
-				//"additive"	"0"
-				//"antialias"	"1"
 			}
-		//	"2"
-		//	{
-		//		"name"		"Segoe UI"
-		//		"tall"		"14"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"yres""		"600 1023"
-				//"antialias"	"1"
-		//	}
-		//	"3"
-		//	{
-		//		"name"		"Segoe UI"	
-		//		"tall"		"18"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"yres""		"1024 6000"
-				//"antialias"	"1"
-		//	}
 		}
 
 		"QuestObjectiveText"
@@ -2006,29 +1861,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"10"
-				//"weight"	"800"
-				//"yres""		"480 599"
-				//"additive"	"0"
-				//"antialias"	"1"
 			}
-		//	"2"
-		//	{
-		//		"name"		"Segoe UI"
-		//		"tall"		"14"
-				//"weight"	"800"
-				//"additive"	"0"
-				//"yres""		"600 1023"
-				//"antialias"	"1"
-		//	}
-		//	"3"
-		//	{
-		//		"name"		"Segoe UI"
-		//		"tall"		"14"
-				//"weight"	"800"
-				//"additive"	"0"
-				//"yres""		"1024 6000"
-				//"antialias"	"1"
-		//	}
 		}
 		
 		"QuestLargeText"
@@ -2037,9 +1870,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"16"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"antialias" "1"
 			}
 		}
 
@@ -2049,8 +1879,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"20"
-				//"antialias" "1"
-				//"weight"	"500"
 			}
 		}
 
@@ -2060,10 +1888,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"10"
-				//"weight"	"400"
-				//"yres""		"480 599"
-				//"additive"	"0"
-				//"antialias"	"1"
 			}
 		}
 
@@ -2073,11 +1897,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"10"
-				//"weight"	"400"
-				//"yres""		"480 599"
-				//"additive"	"0"
-				//"antialias"	"1"
-				//"italic"	"1"
 			}
 		}
 
@@ -2087,10 +1906,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"10"
-				//"weight"	"800"
-				//"yres""		"480 599"
-				//"additive"	"0"
-				//"antialias"	"1"
 			}
 		}
 
@@ -2100,9 +1915,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"13"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"antialias" "1"
 			}
 		}
 		
@@ -2112,9 +1924,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"16"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"antialias" "1"
 			}
 		}
 
@@ -2241,11 +2050,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"18"
-				//"tall_hidef"	"24"
-				//"tall_lodef"	"18"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
+
 			}
 		}
 		"ReplayBrowserTab"
@@ -2367,10 +2172,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"7"
-				//"weight"	"0"
-				"blur"		"3"
-				"additive"	"1"
-				//"antialias" 	"1"
 			}
 		}
 
@@ -4877,23 +4678,13 @@ Scheme
 			"backgroundtype"		"2"
 			
 			"image"					"outer_shadow_border"
-			"src_corner_height"		"8"				// pixels inside the image
-			"src_corner_width"	"8"
-			"draw_corner_width"		"4"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height"	 	"4"	
 		}
 
-		CYOAScreenBorder
-		{
-			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
-			
-			"image"					"cyoa/cyoa_map_screen_border"
-			"src_corner_height"		"63"				// pixels inside the image
-			"src_corner_width"	"63"
-			"draw_corner_width"		"26"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height"	 	"26"	
-		}
+//		CYOAScreenBorder	//unused
+//		{
+//			"bordertype"			"scalable_image"			"backgroundtype"		"2"			
+//			"image"					"cyoa/cyoa_map_screen_border"
+//		}
 
 		CYOANodeViewBorder
 		{
@@ -4901,10 +4692,6 @@ Scheme
 			"backgroundtype"		"2"
 			
 			"image"					"cyoa/node_view_border"
-			"src_corner_height"		"127"				// pixels inside the image
-			"src_corner_width"	"127"
-			"draw_corner_width"		"24"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height"	 	"24"	
 		}
 
 		CYOANodeViewBorder_Active
@@ -4913,10 +4700,6 @@ Scheme
 			"backgroundtype"		"2"
 			
 			"image"					"cyoa/node_view_border_active"
-			"src_corner_height"		"127"				// pixels inside the image
-			"src_corner_width"	"127"
-			"draw_corner_width"		"24"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height"	 	"24"	
 		}
 
 		CYOANodeViewBorder_Inactive
@@ -4925,23 +4708,15 @@ Scheme
 			"backgroundtype"		"2"
 			
 			"image"					"cyoa/node_view_border_inactive"
-			"src_corner_height"		"127"				// pixels inside the image
-			"src_corner_width"	"127"
-			"draw_corner_width"		"24"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height"	 	"24"	
 		}
 
-		CYOANodeViewBorder_TurnIn
-		{
-			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
+//		CYOANodeViewBorder_TurnIn	//unused
+//		{
+//			"bordertype"			"scalable_image"
+//			"backgroundtype"		"2"
 			
-			"image"					"cyoa/node_view_border_turnin"
-			"src_corner_height"		"127"				// pixels inside the image
-			"src_corner_width"	"127"
-			"draw_corner_width"		"24"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height"	 	"24"	
-		}
+//			"image"					"cyoa/node_view_border_turnin"
+//		}
 
 		CYOAPopupBorder
 		{

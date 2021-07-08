@@ -124,7 +124,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"DescriptionLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%tooltipdescription%"
 			"textAlignment" "center"
 			

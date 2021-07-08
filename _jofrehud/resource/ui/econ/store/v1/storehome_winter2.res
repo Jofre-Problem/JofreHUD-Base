@@ -72,7 +72,7 @@
 		
 		"modelpanel_labels_kv"
 		{
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"north-east"
 			"xpos"			"c-61"
 			"ypos"			"32"
@@ -150,7 +150,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"FeaturedItemLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		"#Store_FeaturedItem"
 		"textAlignment"	"north"
 		"xpos"			"c-215"
@@ -167,7 +167,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"FeaturedItemPrice"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		"%featured_item_price%"
 		"textAlignment"	"center"
 		"xpos"			"c-97"
@@ -199,7 +199,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BackpackSpaceLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		"%freebackpackspace%"
 		"textAlignment"	"east"
 		"xpos"			"c-330"
@@ -228,7 +228,7 @@
 		
 		
 		"labelText"		"#Store_StartShopping"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -269,7 +269,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"IntroTitleLabel"
-			"font"			"HudFontMediumSmallBold"
+			"font"			"HudFontMediumSmall"
 			"labelText"		"#Store_IntroTitle_Winter2"
 			"textAlignment"	"center"
 			

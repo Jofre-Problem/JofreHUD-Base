@@ -73,7 +73,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurPageLabel"
-		"font"			"HudFontMediumSmallBold"
+		"font"			"HudFontMediumSmall"
 		"labelText"		"%curpage%"
 		"textAlignment"	"north"
 		"center"		"1"
@@ -106,7 +106,7 @@
 		
 		
 		"labelText"			"#TF_StartPractice"
-		"font"				"HudFontSmallBold"
+		"font"				"HudFontSmall"
 		"textAlignment"		"center"
 		"textinsetx"		"50"
 		//"dulltext"			"0"
@@ -147,7 +147,7 @@
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"			"DifficultyComboBox"
-		"Font"				"HudFontSmallestBold"
+		"Font"				"HudFontSmallest"
 		"xpos"				"200"
 		"ypos"				"200"
 		"zpos"				"1"

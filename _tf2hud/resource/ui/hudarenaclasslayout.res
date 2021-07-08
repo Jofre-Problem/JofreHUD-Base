@@ -63,7 +63,7 @@
 		
 		//"visible"		"1"
 		
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"labelText"		"#TF_Arena_Team_Layout"
 		"textAlignment"	"center"
 		"fgcolor"		"TanLight"
@@ -81,7 +81,7 @@
 		
 		//"visible"		"1"
 		
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"labelText"		"#TF_Arena_Team_Layout"
 		"textAlignment"	"center"
 		"fgcolor"		"Black"
@@ -100,7 +100,7 @@
 		
 		//"visible"		"1"
 		
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"#TF_Arena_F4_ChangeClass"
 		"textAlignment"	"center"
 		"fgcolor"		"TanLight"
@@ -118,7 +118,7 @@
 		
 		//"visible"		"1"
 		
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"#TF_Arena_F4_ChangeClass"
 		"textAlignment"	"center"
 		"fgcolor"		"Black"

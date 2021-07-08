@@ -63,7 +63,7 @@
 			"actionsignallevel"		"2"
 			"command"		"show_leaderboards"
 			"labeltext"		"#TF_Competitive_ViewLeaderboards"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"fgcolor_override"	"TanLight"
 			"textAlignment"	"center"
 
@@ -86,7 +86,7 @@
 			"actionsignallevel"		"2"
 			"command"		"show_match_history"
 			"labeltext"		"#TF_Competitive_ViewMatches"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"fgcolor_override"	"TanLight"
 			"textAlignment"	"center"
 
@@ -434,7 +434,7 @@
 
 		"PlayersInGameLabel"
 		{
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"xpos"		"10"
 		}
 
@@ -486,7 +486,7 @@
 
 		"PlayersSearchingLabel"
 		{
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"xpos"		"10"
 			"ypos"		"120"
 		}
@@ -539,7 +539,7 @@
 
 		"EmptyGameserversLabel"
 		{
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"xpos"		"10"
 			"ypos"		"170"
 		}

@@ -14,7 +14,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"HeaderLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"labelText"		"#MMenu_Stream_LiveStream"
 			
@@ -46,7 +46,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -89,7 +89,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"#MMenu_Stream_Title"
 		//"textAlignment"	"west"
 		"xpos"			"5"
@@ -194,7 +194,7 @@
 		"labelText"		"#MMenu_Stream_ViewMore"
 		"textinsetx"	"20"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

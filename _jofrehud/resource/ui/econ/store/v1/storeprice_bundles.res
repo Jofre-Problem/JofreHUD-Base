@@ -5,17 +5,17 @@
 	// Override base font settings
 	"Price"
 	{
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 	}
 
 	"OG_Price"
 	{
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 	}
 
 	"Discount"
 	{
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 	}
 
 	// Add a large version of "limited"

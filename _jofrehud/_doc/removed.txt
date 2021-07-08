@@ -1,0 +1,126 @@
+		"PlayerPanelPlayerName"
+		{
+			"1"
+			{
+				"name"		"Segoe UI"
+				"tall"		"6"
+				//"weight"	"500"
+				//"additive"	"0"
+				//"antialias" "1"
+			}
+		}
+		"FontStorePriceSmall"
+		{
+			"1"
+			{
+				"name"		"Segoe UI"
+				"tall"		"6"
+				//"weight"	"0"
+				//"additive"	"0"
+				//"antialias" "1"
+			}
+		}
+			"HudFontGiantBold"
+		{
+			"1"
+			{
+				"name"		"Segoe UI"
+				"tall"		"44"
+				//"tall_lodef"	"52"
+				//"weight"	"500"
+				//"additive"	"0"
+				//"antialias" "1"
+			}
+		}
+		"HudFontBiggerBold"
+		{
+			"1"
+			{
+				"name"		"Segoe UI"
+				"tall"		"35"
+				//"tall_lodef"	"40"
+				//"weight"	"500"
+				//"additive"	"0"
+				//"antialias" "1"
+			}
+		}		
+		"HudFontMediumBigBold"
+		{
+			"1"
+			{
+				"name"		"Segoe UI"
+				"tall"		"30"
+				//"weight"	"500"
+				//"additive"	"0"
+				//"antialias" "1"
+			}
+		}	
+		"HudFontMediumBold"
+		{
+			"1"
+			{
+				"name"		"Segoe UI"
+				"tall"		"24"
+				//"weight"	"500"
+				//"additive"	"0"
+				//"antialias" "1"
+			}
+		}		
+	
+		"HudFontMediumSmallBold"
+		{
+			"1"
+			{
+				"name"		"Segoe UI"
+				"tall"		"18"
+				//"weight"	"500"
+				//"additive"	"0"
+				//"antialias" "1"
+			}
+		}	
+		"HudFontSmallestBold"
+		{
+			"1"
+			{
+				"name"		"Segoe UI"
+				"tall"		"11"
+				//"weight"	"500"
+				//"additive"	"0"
+				//"antialias" "1"
+			}
+		}		
+			"ImportToolSmallestBold"
+		{
+			"1"
+			{
+				"name"		"Segoe UI"
+				"tall"		"10"
+				//"weight"	"600"
+				//"additive"	"0"
+				//"antialias" 	"1"
+			}
+		}	
+		"ItemFontNameSmallest"
+		{
+			"1"
+			{
+				"name"		"Segoe UI"
+				"tall"		"9"
+				//"weight"	"500"
+				//"additive"	"0"
+				//"antialias" "1"
+			}
+		}		
+		
+		
+		TrainingResultsBG
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"button_holder_central"
+			"src_corner_height"		"32"			// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"4"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"4"	
+		}

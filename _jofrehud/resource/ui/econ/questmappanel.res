@@ -191,7 +191,7 @@
 				
 				
 				"labelText"		""
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -240,7 +240,7 @@
 				////"visible"		"1"
 				
 				
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -324,7 +324,7 @@
 				////"visible"		"1"
 				
 				
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -389,7 +389,7 @@
 				////"visible"		"1"
 				
 				
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -438,7 +438,7 @@
 				
 				
 				"labelText"		""
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -574,7 +574,7 @@
 						"wide"			"f0"
 						"tall"			"100"
 						"zpos"			"1"
-						"font"			"HudFontMediumBold"
+						"font"			"HudFontMediumSecondary"
 						"TextAlignment"		"north-west"
 						"proportionaltoparent" "1"
 						"mouseinputenabled"		"0"
@@ -611,7 +611,7 @@
 						"tall"			"35"
 						"RoundedCorners"	"0"
 						"labelText"		"#TF_QuestMap_Intro_Step1Button"
-						"font"			"HudFontSmallBold"
+						"font"			"HudFontSmall"
 						"textAlignment"	"center"
 						"stay_armed_on_click"	"1"
 
@@ -647,7 +647,7 @@
 						"tall"			"35"
 						"RoundedCorners"	"0"
 						"labelText"		"#TF_QuestMap_Intro_Step2Button"
-						"font"			"HudFontSmallBold"
+						"font"			"HudFontSmall"
 						"textAlignment"	"center"
 						"stay_armed_on_click"	"1"
 
@@ -683,7 +683,7 @@
 						"tall"			"35"
 						"RoundedCorners"	"0"
 						"labelText"		"#TF_QuestMap_Intro_Step3Button"
-						"font"			"HudFontSmallBold"
+						"font"			"HudFontSmall"
 						"textAlignment"	"center"
 						"stay_armed_on_click"	"1"
 
@@ -738,7 +738,7 @@
 							"labelText"		"#TF_QuestMap_Intro_OK"
 							"textinsetx"	"4"
 							"use_proportional_insets" "1"
-							"font"			"HudFontSmallBold"
+							"font"			"HudFontSmall"
 							//"textAlignment"	"west"
 							////"dulltext"		"0"
 							//"brighttext"	"0"

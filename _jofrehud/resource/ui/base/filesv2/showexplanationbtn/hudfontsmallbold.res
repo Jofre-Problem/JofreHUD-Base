@@ -2,6 +2,6 @@
 {
 	"ShowExplanationsButton"
 	{
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 	}
 }

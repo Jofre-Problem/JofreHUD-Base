@@ -43,7 +43,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"BalanceLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"xpos"			"75"
 		"ypos"			"30"
 		//"ypos_hidef"	"23"

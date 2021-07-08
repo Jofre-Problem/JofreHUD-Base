@@ -21,7 +21,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DirectionsLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"#Replay_Contest_SubmitFormDirections"
 		"textAlignment"	"center"
 		
@@ -57,7 +57,7 @@
 		
 		"fgcolor_override"		"0 0 0 255"
 		"bgcolor_override"		"202 190 164 255"
-		"Font"			"HudFontSmallestBold"
+		"Font"			"HudFontSmallest"
 		
 		"selectallonfirstfocus"	"1"
 	}
@@ -83,7 +83,7 @@
 		"editable"		"0"
 		"fgcolor_override"		"0 0 0 255"
 		"bgcolor_override"		"202 190 164 255"
-		"Font"			"HudFontSmallestBold"
+		"Font"			"HudFontSmallest"
 	}
 	
 	"CancelButton"
@@ -101,7 +101,7 @@
 		
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Cancel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -126,7 +126,7 @@
 		
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Contest_Rules"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -151,7 +151,7 @@
 		
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Contest_Submit"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"

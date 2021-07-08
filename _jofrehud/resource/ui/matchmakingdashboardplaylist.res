@@ -26,7 +26,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_HeaderModeSelect"
 		//"textAlignment"	"west"
-		"font"			"HudFontMediumBigBold"
+		"font"			"HudFontMediumBig"
 		"fgcolor_override"	"TanDark"
 		
 		"mouseinputenabled"	"0"

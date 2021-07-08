@@ -15,7 +15,7 @@
 			"visible"		"0"
 			
 			
-			"font"			"HudFontMediumSmallBold"
+			"font"			"HudFontMediumSmall"
 			"textAlignment"	"center"
 			//"textinsetx"	"0"
 			////"dulltext"		"0"

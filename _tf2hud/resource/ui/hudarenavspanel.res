@@ -63,7 +63,7 @@
 			
 			//"visible"		"1"
 			
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			"labelText"		"%blueleader%"
 			//"textAlignment"	"west"
 			"fgcolor"		"HudOffWhite"
@@ -151,7 +151,7 @@
 			
 			//"visible"		"1"
 			
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			"labelText"		"%redleader%"
 			//"textAlignment"	"west"
 			"fgcolor"		"HudOffWhite"

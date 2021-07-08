@@ -29,7 +29,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"OnYourWayLabel"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"labelText"		"#LoadingMap"
 		"textAlignment"		"center"
 		
@@ -46,7 +46,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"MapLabel"
-		"font"			"HudFontMediumBigBold"
+		"font"			"HudFontMediumBig"
 		"labelText"		"%maplabel%"
 		"textAlignment"		"center" 
 		//"textAlignment"		"west" [$X360]
@@ -66,7 +66,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapType"
-		"font"			"HudFontMediumBigBold"
+		"font"			"HudFontMediumBig"
 		"labelText"		"%maptype%"
 		"textAlignment"	"center"
 		"xpos"			"5"

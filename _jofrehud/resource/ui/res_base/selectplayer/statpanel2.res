@@ -17,7 +17,7 @@
         {
             "ControlName"   "CExLabel"
             "fieldName"     "QueryLabel"
-            "font"          "HudFontSmallBold"
+            "font"          "HudFontSmall"
             "labelText"     "#TF_SelectPlayer_Server"
             "textAlignment" "north"
             "xpos"          "0"
@@ -36,7 +36,7 @@
         {
             "ControlName"   "CExLabel"
             "fieldName"     "EmptyPlayerListLabel"
-            "font"          "HudFontSmallBold"
+            "font"          "HudFontSmall"
             "labelText"     "#TF_SelectPlayer_ServerNone"
             "textAlignment" "north"
             "xpos"          "0"

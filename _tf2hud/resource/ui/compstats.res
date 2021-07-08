@@ -69,7 +69,7 @@
 			"actionsignallevel"		"2"
 			"command"		"show_leaderboards"
 			"labeltext"		"#TF_Competitive_ViewLeaderboards"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"fgcolor_override"	"TanLight"
 			"textAlignment"	"center"
 
@@ -92,7 +92,7 @@
 			"actionsignallevel"		"2"
 			"command"		"show_match_history"
 			"labeltext"		"#TF_Competitive_ViewMatches"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"fgcolor_override"	"TanLight"
 			"textAlignment"	"center"
 

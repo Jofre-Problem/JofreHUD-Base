@@ -14,7 +14,7 @@
 	{
 	//	"ControlName"	"CExLabel"
 	//	"fieldName"		"TitleLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"dynamic"
 	//	"textAlignment"	"center"
 		"xpos"			"100"
@@ -33,7 +33,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ToolBG"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		""
 		"textAlignment"	"east"
 		"xpos"			"10"

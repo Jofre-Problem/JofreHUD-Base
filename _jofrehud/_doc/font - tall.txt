@@ -1,0 +1,2 @@
+0 - Blank
+6 - PlayerPanelPlayerName	FontStorePriceSmall	ScoreboardSmallest

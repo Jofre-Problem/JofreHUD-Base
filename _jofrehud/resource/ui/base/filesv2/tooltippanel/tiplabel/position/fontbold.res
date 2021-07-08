@@ -4,7 +4,7 @@
 	{
 		"TipLabel"
 		{
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 		}		
 	}
 }

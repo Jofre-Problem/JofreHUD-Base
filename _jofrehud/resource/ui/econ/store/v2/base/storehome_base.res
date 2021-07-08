@@ -93,7 +93,7 @@
 		
 		"modelpanel_labels_kv"
 		{
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"north-east"
 			"xpos"			"c-61"
 			"ypos"			"32"
@@ -144,7 +144,7 @@
 		
 		"cart_labels_kv"
 		{
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"north-east"
 			"xpos"			"c-61"
 			"ypos"			"32"
@@ -250,7 +250,7 @@
 			
 			"textAlignment"		"center"
 			"scaleImage"		"1"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			
 			"fgcolor"	"124 114 99 255"
 			"defaultBgColor_override" "38 35 33 255"
@@ -289,7 +289,7 @@
 		
 		
 		"labelText"		"<"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -302,7 +302,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurPageLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"%backpackpage%"
 		"textAlignment"	"center"
 		"xpos"			"c160"
@@ -332,7 +332,7 @@
 		
 		
 		"labelText"		">"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -345,7 +345,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BackpackSpaceLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		"%freebackpackspace%"
 		//"textAlignment"	"west"
 		"xpos"			"c-237"
@@ -363,7 +363,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"CartButton"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"%storecart%"
 		"textAlignment"	"east"
 		"xpos"			"c-238"
@@ -377,7 +377,7 @@
 		"textinsetx"	"15"
 		
 		"Command"		"viewcart"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
@@ -412,7 +412,7 @@
 		
 		
 		"labelText"		"#Store_BrowseTheStore"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -437,7 +437,7 @@
 		
 		
 		"labelText"		"#Store_MarketPlace"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -483,7 +483,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CaseLabel"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			"labelText"		"#Store_Case_Label"
 			//"textAlignment"	"west"
 			
@@ -501,7 +501,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"KeyLabel"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			"labelText"		"#Store_Key_Label"
 			//"textAlignment"	"west"
 			
@@ -519,7 +519,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CaseLabel"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			"labelText"		"#Store_Taunt_Label"
 			//"textAlignment"	"west"
 			

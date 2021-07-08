@@ -22,7 +22,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"SwitchLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"xpos"			"80"
 		"ypos"			"20"
 		"zpos"			"1"

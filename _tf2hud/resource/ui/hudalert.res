@@ -22,7 +22,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"AlertLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"xpos"			"80"
 		"ypos"			"70"
 		////"ypos_hidef"	"23"

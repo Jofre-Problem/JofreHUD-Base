@@ -114,7 +114,7 @@
 		"command"		"nav_close"
 
 		"textAlignment"	"east"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 
 		"armedBgColor_override"	"Blank"
 		"defaultBgColor_override"	"Blank"
@@ -145,7 +145,7 @@
 		"labelText"		"<"
 
 		//"textAlignment"	"west"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 
 		"armedBgColor_override"	"Blank"
 		"defaultBgColor_override"	"Blank"

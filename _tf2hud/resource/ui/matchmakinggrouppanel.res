@@ -36,7 +36,7 @@
 		"labeltext"		""
 		"smallcheckimage"	"1"
 		"fgcolor"	"TanLight"	
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 
 		"sound_depressed"	"UI/buttonclickrelease.wav"	
 		"button_activation_type"	"1"

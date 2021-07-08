@@ -2,6 +2,6 @@
 {
 	"CaratLabel"
 	{
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 	}
 }	

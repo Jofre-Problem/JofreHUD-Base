@@ -98,7 +98,7 @@
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"		"ActualLabel"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"labelText"		"#TF_Contributed"
 				"textAlignment"		"center"
 				"xpos"			"10"
@@ -134,7 +134,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Title"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%title%"
 			"textAlignment"	"north"
 			"xpos"			"c20"
@@ -152,7 +152,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"MapAuthors"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%authors%"
 			"textAlignment"	"north"
 			"xpos"			"c20"
@@ -171,7 +171,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"MapLeaderboardTitle"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%map_leaderboard_title%"
 			"textAlignment"	"north"
 			"xpos"			"c20"
@@ -191,7 +191,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"OnYourWayLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"#LoadingMap"
 		"textAlignment"		"center"
 		"xpos"			"c+10"
@@ -209,7 +209,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"MapLabel"
-		"font"			"HudFontMediumBigBold"
+		"font"			"HudFontMediumBig"
 		"labelText"		"%maplabel%"
 		"textAlignment"		"center"
 		"xpos"			"c-25"
@@ -226,7 +226,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapType"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"%maptype%"
 		"textAlignment"	"center"
 		"xpos"			"c-25"

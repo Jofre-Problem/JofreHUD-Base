@@ -2,6 +2,6 @@
 {
 	"CloseButton"
 	{
-		"font"		"HudFontSmallBold"
+		"font"		"HudFontSmall"
 	}	
 }	

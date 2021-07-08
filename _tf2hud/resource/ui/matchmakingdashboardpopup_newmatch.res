@@ -64,7 +64,7 @@
 				"tall"			"20"
 				//"visible"		"1"
 				
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"%match_type%"
@@ -73,7 +73,7 @@
 
 				"fonts"
 				{
-					"0"		"HudFontSmallestBold"
+					"0"		"HudFontSmallest"
 					"1"		"StorePromotionsTitle"
 					"2"		"FontStorePrice"
 				}
@@ -113,7 +113,7 @@
 
 				
 				
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -150,7 +150,7 @@
 				//"visible"		"1"
 				
 				
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"
@@ -183,7 +183,7 @@
 				//"visible"		"1"
 				
 				
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				"textAlignment"	"center"
 				////"dulltext"		"0"
 				//"brighttext"	"0"

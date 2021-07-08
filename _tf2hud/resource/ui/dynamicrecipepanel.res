@@ -128,7 +128,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"InputLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#Craft_Recipe_Inputs"
 			"textAlignment"	"north-west"
 			
@@ -146,7 +146,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"OutputLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#Dynamic_Recipe_Outputs_Not_Complete"
 			"textAlignment"	"north-west"
 			
@@ -164,7 +164,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"UntradableLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#Dynamic_Recipe_Outputs_Not_Tradable"
 			//"textAlignment"	"west"
 			
@@ -194,7 +194,7 @@
 			"enabled"		"0"
 			
 			"labelText"		"#CraftConfirm"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"
@@ -219,7 +219,7 @@
 			
 			
 			"labelText"		"<"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -231,7 +231,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CurInputPageLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%inputpage%"
 			"textAlignment"	"center"
 			"xpos"			"210"
@@ -260,7 +260,7 @@
 			
 			
 			"labelText"		">"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -286,7 +286,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NoMatches"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#Dynamic_Recipe_No_Matching_Items"
 			//"textAlignment"	"west"
 			
@@ -307,7 +307,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"UntradableCheckBox"
 			"labelText"		"#Dynamic_Recipe_Untradable_Checkbox"
-			"Font"			"HudFontSmallestBold"
+			"Font"			"HudFontSmallest"
 			//"textAlignment"	"west"
 			"xpos"			"-4"
 			"ypos"			"2"
@@ -327,7 +327,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"BackpackItems"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#Dynamic_Recipe_Matching_Items"
 			//"textAlignment"	"west"
 			
@@ -358,7 +358,7 @@
 			
 			
 			"labelText"		"#Cancel"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"
@@ -383,7 +383,7 @@
 			
 			
 			"labelText"		"<"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -395,7 +395,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CurPageLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%backpackpage%"
 			"textAlignment"	"center"
 			"xpos"			"26"
@@ -424,7 +424,7 @@
 			
 			
 			"labelText"		">"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"

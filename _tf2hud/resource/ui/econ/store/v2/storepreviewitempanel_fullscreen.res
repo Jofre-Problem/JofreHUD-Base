@@ -55,7 +55,7 @@
 		
 		
 		"labelText"		"<"
-		"font"			"HudFontBiggerBold"
+		"font"			"HudFontBig"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -82,7 +82,7 @@
 		
 		
 		"labelText"		">"
-		"font"			"HudFontBiggerBold"
+		"font"			"HudFontBig"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -130,7 +130,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -275,7 +275,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -319,7 +319,7 @@
 		
 		
 		"labelText"		"#Store_TryItOut"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

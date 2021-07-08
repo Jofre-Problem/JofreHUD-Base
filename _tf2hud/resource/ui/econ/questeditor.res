@@ -39,7 +39,7 @@
 			
 			
 			//"labelText"		"#GameUI_GameMenu_Options"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			//"textAlignment"	"west"
 			"textinsetx"	"35"
 			"use_proportional_insets" "1"

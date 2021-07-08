@@ -65,7 +65,7 @@
 		{	
 			"ControlName"		"Label"
 			"fieldName"		"HudStopWatchObjectiveLabel"
-			"font"			"HudFontSmallBoldShadow"
+			"font"			"HudFontSmall"
 			"xpos"			"25"
 			"ypos"			"15"
 			"zpos"			"1"
@@ -94,7 +94,7 @@
 			
 			"labeltext"		""
 			//"textAlignment"		"west"
-			"font"			"HudFontSmallestShadow"
+			"font"			"HudFontSmallest"
 			"maxchars"		"-1"
 		}
 
@@ -120,8 +120,8 @@
 		{
 			"ControlName"		"CExRichText"
 			"fieldName"		"HudStopWatchObjectiveText2"
-			"xpos"			"25"	[$WIN32]
-			"ypos"			"75"	[$WIN32]
+			"xpos"			"25"
+			"ypos"			"75"
 			"wide"			"225"
 			"tall"			"165"
 			"wrap"			"1"
@@ -131,7 +131,7 @@
 			
 			"labeltext"		""
 			//"textAlignment"		"west"
-			"font"			"HudFontSmallestShadow"
+			"font"			"HudFontSmallest"
 			"maxchars"		"-1"
 		}
 	}	

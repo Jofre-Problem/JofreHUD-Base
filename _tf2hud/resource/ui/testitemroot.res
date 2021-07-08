@@ -20,7 +20,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"labelText"		"#IT_Title"
 		"textAlignment"	"north"
 		
@@ -51,7 +51,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"ClassUsageLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"#IT_ClassUsage"
 			//"textAlignment"	"west"
 			"xpos"			"5"
@@ -283,7 +283,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CurrentlyTestingLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"#IT_CurrentlyTesting"
 			//"textAlignment"	"west"
 			"xpos"			"5"
@@ -348,7 +348,7 @@
 			
 			
 			"labelText"		"#IT_Item_Add"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -372,7 +372,7 @@
 			
 			
 			"labelText"		"#IT_Item_Remove"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -432,7 +432,7 @@
 			
 			
 			"labelText"		"#IT_Item_Add"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -456,7 +456,7 @@
 			
 			
 			"labelText"		"#IT_Item_Remove"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -516,7 +516,7 @@
 			
 			
 			"labelText"		"#IT_Item_Add"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -540,7 +540,7 @@
 			
 			
 			"labelText"		"#IT_Item_Remove"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -600,7 +600,7 @@
 			
 			
 			"labelText"		"#IT_Item_Add"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -624,7 +624,7 @@
 			
 			
 			"labelText"		"#IT_Item_Remove"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -651,7 +651,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"#IT_BotControl_Title"
 			//"textAlignment"	"west"
 			"xpos"			"5"
@@ -722,7 +722,7 @@
 			
 			
 			"labelText"		"#IT_Bot_Add"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -777,7 +777,7 @@
 			
 			
 			"labelText"		"#IT_Bot_RemoveAll"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -815,7 +815,7 @@
 		
 		
 		"labelText"		"#IT_ExportLoadout"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -839,7 +839,7 @@
 		
 		
 		"labelText"		"#IT_ImportLoadout"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -863,7 +863,7 @@
 		
 		
 		"labelText"		"#IT_ImportLast"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -888,7 +888,7 @@
 		
 		
 		"labelText"		"#Cancel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -912,7 +912,7 @@
 		
 		
 		"labelText"		"#IT_Ok"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -949,7 +949,7 @@
 			"textinsetx"	"25"
 			"textalignment" "center"
 			"use_proportional_insets" "1"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			//"textAlignment"	"west"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
@@ -995,7 +995,7 @@
 		
 		
 		"labelText"		"R"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
