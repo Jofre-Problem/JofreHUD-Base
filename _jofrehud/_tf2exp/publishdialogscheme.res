@@ -497,7 +497,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"16"
 				//""weight"	"500"
-				"italic"	"1"
+				//"italic"	"1"
 			}
 		}
 		"CloseCaption_Bold"
@@ -516,7 +516,7 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"16"
 				////""weight"	"900"
-				"italic"	"1"
+				//"italic"	"1"
 			}
 		}
 

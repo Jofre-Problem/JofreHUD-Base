@@ -378,11 +378,6 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"15"
 			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"20"
-			}
 		}
 		
 		GameUIButtons

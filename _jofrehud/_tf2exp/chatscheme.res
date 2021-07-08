@@ -218,29 +218,6 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"12"
 			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"13"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"14"
-				"antialias"	"1"
-			}
-			"4"
-			{
-				"name"		"Segoe UI"
-				"tall"		"16"
-				"antialias"	"1"
-			}
-			"5"
-			{
-				"name"		"Segoe UI"
-				"tall"		"20"
-				"antialias"	"1"
-			}
 		}
 		
 		// this is the symbol font
@@ -253,30 +230,6 @@ Scheme
 				"tall"		"10"
 				"symbol"	"1"
 			}
-			"2"
-			{
-				"name"		"Marlett"
-				"tall"		"14"
-				"symbol"	"1"
-			}
-			"3"
-			{
-				"name"		"Marlett"
-				"tall"		"13"
-				"symbol"	"1"
-			}
-			"4"
-			{
-				"name"		"Marlett"
-				"tall"		"17"
-				"symbol"	"1"
-			}
-			"5"
-			{
-				"name"		"Marlett"
-				"tall"		"22"
-				"symbol"	"1"
-			}
 		}
 
 		"MarlettSmall"
@@ -287,30 +240,6 @@ Scheme
 				"tall"		"7"
 				"symbol"	"1"
 			}
-			"2"
-			{
-				"name"		"Marlett"
-				"tall"		"9"
-				"symbol"	"1"
-			}
-			"3"
-			{
-				"name"		"Marlett"
-				"tall"		"11"
-				"symbol"	"1"
-			}
-			"4"
-			{
-				"name"		"Marlett"
-				"tall"		"13"
-				"symbol"	"1"
-			}
-			"5"
-			{
-				"name"		"Marlett"
-				"tall"		"17"
-				"symbol"	"1"
-			}
 		}
 
 		"ChatFont"
@@ -319,31 +248,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"
-				"dropshadow"	"1"
-			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"14"
-				"dropshadow"	"1"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"15"
-				"dropshadow"	"1"
-			}
-			"4"
-			{
-				"name"		"Segoe UI"
-				"tall"		"17"
-				"dropshadow"	"1"
-			}
-			"5"
-			{
-				"name"		"Segoe UI"
-				"tall"		"22"
-				"dropshadow"	"1"
+				//"dropshadow"	"1"
 			}
 		}
 

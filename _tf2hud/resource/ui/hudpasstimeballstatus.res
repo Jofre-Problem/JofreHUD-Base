@@ -33,7 +33,7 @@
 		"fieldName"		"EventTitleLabel"
 		"dropshadow"	"1"
 		"font"			"HudFontBiggerBold"
-		"xpos"			0
+		"//xpos"			0
 		"ypos"			c100
 		"zpos"			"3"
 		"wide"			"f"
@@ -51,7 +51,7 @@
 		"fieldName"		"EventBonusLabel"
 		"font"			"HudFontMediumSmallBold"
 		"dropshadow"	"1"
-		"xpos"			0
+		"//xpos"			0
 		"ypos"			0
 		"zpos"			"3"
 		"wide"			"f"
@@ -72,7 +72,7 @@
 		"fieldName"		"EventDetailLabel"
 		"font"			"HudFontMediumSmallBold"
 		"dropshadow"	"1"
-		"xpos"			0
+		"//xpos"			0
 		"ypos"			0
 		"zpos"			"3"
 		"wide"			"f"

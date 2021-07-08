@@ -472,58 +472,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"
-			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"13"
-				////"weight"	"900"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""	"600 767"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"14"
-				////"weight"	"900"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""	"768 1023"
-				//"antialias"	"1"
-			}
-			"4"
-			{
-				"name"		"Segoe UI"
-				"tall"		"20"
-				////"weight"	"900"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""	"1024 1199"
-				//"antialias"	"1"
-			}
-			"5"
-			{
-				"name"		"Segoe UI"
-				"tall"		"24"
-				////"weight"	"900"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""	"1200 6000"
-				//"antialias"	"1"
-			}
-			"6"
-			{
-				"name"		"Segoe UI"
-				"tall"		"12"
-				//"range" 		"0x0000 0x00FF"
-				//"weight"		"900"
-			}
-			"7"
-			{
-				"name"		"Segoe UI"
-				"tall"		"12"
-				//"range" 		"0x0000 0x00FF"
-				//"weight"		"800"
-			}
-
-			
+			}		
 		}
 		"DefaultUnderline"
 		{
@@ -535,13 +484,6 @@ Scheme
 				"underline" "1"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"11"
-				//"range" 		"0x0000 0x00FF"
-				//"weight"		"800"
-			}
 		}
 		"DefaultSmall"
 		{
@@ -552,48 +494,6 @@ Scheme
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F"
 				//"yres""	"480 599"
-			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"13"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F"
-				//"yres""	"600 767"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"14"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F"
-				//"yres""	"768 1023"
-				//"antialias"	"1"
-			}
-			"4"
-			{
-				"name"		"Segoe UI"
-				"tall"		"20"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F"
-				//"yres""	"1024 1199"
-				//"antialias"	"1"
-			}
-			"5"
-			{
-				"name"		"Segoe UI"
-				"tall"		"22"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F"
-				//"yres""	"1200 6000"
-				//"antialias"	"1"
-			}
-			"6"
-			{
-				"name"		"Segoe UI"
-				"tall"		"12"
-				//"range" 		"0x0000 0x00FF"
-				//"weight"		"0"
 			}
 		}
 
@@ -608,41 +508,7 @@ Scheme
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres""	"480 599"
 			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"12"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""	"600 767"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"12"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""	"768 1023"
-				//"antialias"	"1"
-			}
-			"4"
-			{
-				"name"		"Segoe UI"
-				"tall"		"14"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""	"1024 1199"
-				//"antialias"	"1"
-			}
-			"5"
-			{
-				"name"		"Segoe UI"
-				"tall"		"16"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""	"1200 6000"
-				//"antialias"	"1"
-			}
+
 		}
 		DefaultLarge
 		{
@@ -653,55 +519,6 @@ Scheme
 				////"weight"	"900"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres""		"480 599"
-			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"21"
-				////"weight"	"900"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""		"600 767"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"22"
-				////"weight"	"900"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""		"768 1023"
-				//"antialias"	"1"
-			}
-			"4"
-			{
-				"name"		"Segoe UI"
-				"tall"		"28"
-				////"weight"	"900"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""		"1024 1199"
-				//"antialias"	"1"
-			}
-			"5"
-			{
-				"name"		"Segoe UI"
-				"tall"		"30"
-				////"weight"	"900"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""	"1200 6000"
-				//"antialias"	"1"
-			}
-			"6"
-			{
-				"name"		"Segoe UI"
-				"tall"		"20"
-				//"range" 		"0x0000 0x00FF"
-				//"weight"		"900"
-			}
-			"7"
-			{
-				"name"		"Segoe UI"
-				"tall"		"20"
-				//"range" 		"0x0000 0x00FF"
-				//"weight"		"800"
 			}
 		}
 		CenterPrintText
@@ -737,34 +554,6 @@ Scheme
 				//"weight"	"700"
 				//"yres""	"480 599"
 			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"13"
-				//"weight"	"700"
-				//"yres""	"600 767"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"14"
-				//"weight"	"700"
-				//"yres""	"768 1023"
-			}
-			"4"
-			{
-				"name"		"Segoe UI"
-				"tall"		"20"
-				//"weight"	"700"
-				//"yres""	"1024 1199"
-			}
-			"5"
-			{
-				"name"		"Segoe UI"
-				"tall"		"24"
-				//"weight"	"700"
-				//"yres""	"1200 10000"
-			}
 		}
 		"HudFontGiant"
 		{
@@ -777,43 +566,6 @@ Scheme
 				//"additive"	"0"
 				//"antialias" "1"
 				//"yres""		"480 599"
-			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"32"
-				//"tall_hidef"	"120"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
-				//"yres""		"600 767"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"44"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
-				//"yres""		"768 1023"
-			}
-			"4"
-			{
-				"name"		"Segoe UI"
-				"tall"		"48"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
-				//"yres""		"1024 1199"
-			}
-			"5"
-			{
-				"name"		"Segoe UI"
-				"tall"		"52"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
-				//"yres""		"1200 10000"
 			}
 		}
 		"HudFontGiantBold"
@@ -990,7 +742,7 @@ Scheme
 				//"weight"	"500"
 				//"additive"	"0"
 				//"antialias" "1"
-				"dropshadow"	"1"
+				//"dropshadow"	"1"
 			}
 		}
 		"HudFontSmallest"
@@ -1013,7 +765,7 @@ Scheme
 				//"weight"	"500"
 				//"additive"	"0"
 				//"antialias" 	"1"
-				"dropshadow"	"1"
+				//"dropshadow"	"1"
 			}
 		}
 		"HudFontSmallestBold"
@@ -1266,43 +1018,6 @@ Scheme
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"additive"	"1"
 			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"15"
-				//"weight"	"700"
-				//"antialias" 	"1"
-				//"yres""		"600 767"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"additive"	"1"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"18"
-				////"weight"	"900"
-				//"antialias" 	"1"
-				//"yres""		"768 1023"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-			}
-			"4"
-			{
-				"name"		"Segoe UI"
-				"tall"		"21"
-				////"weight"	"900"
-				//"antialias" 	"1"
-				//"yres""		"1024 1199"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-			}
-			"5"
-			{
-				"name"		"Segoe UI"
-				"tall"		"24"
-				//"weight"	"1000"
-				//"antialias" 	"1"
-				//"yres""		"1200 10000"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-			}
 		}
 		DebugOverlay
 		{
@@ -1359,14 +1074,14 @@ Scheme
 				"additive" "1"
 				//"antialias" "1"
 			}
-			"2"
-			{
-				"name"  "Segoe UI"
-				"tall"  "28"
+		//	"2"
+		//	{
+		//		"name"  "Segoe UI"
+		//		"tall"  "28"
 				//"weight" "0"
-				"additive" "1"
+		//		"additive" "1"
 				//"antialias" "1"
-			}
+		//	}
 		}
 		"CloseCaption_Normal"
 		{
@@ -1387,7 +1102,6 @@ Scheme
 				"tall"		"24"
 				//"tall_hidef"	"32"
 				//"weight"	"500"
-				"italic"	"0"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
@@ -1410,7 +1124,7 @@ Scheme
 				"tall"		"24"
 				//"tall_hidef"	"32"
 				////"weight"	"900"
-				"italic"	"1"
+				//"italic"	"1"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
@@ -1685,43 +1399,6 @@ Scheme
 				//"yres""		"1 599"
 				//"antialias" "1"
 			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"72"
-				//"tall_hidef"	"120"
-				//"range" 	"0x0000 0x00FF"
-				//"weight"	"400"
-				//"yres""		"600 767"
-				//"antialias" "1"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"100"
-				//"range" 	"0x0000 0x00FF"
-				//"weight"	"400"
-				//"yres""		"768 1023"
-				//"antialias" "1"
-			}
-			"4"
-			{
-				"name"		"Segoe UI"
-				"tall"		"140"
-				//"range" 	"0x0000 0x00FF"
-				//"weight"	"400"
-				//"yres""		"1024 1199"
-				//"antialias" "1"
-			}
-			"5"
-			{
-				"name"		"Segoe UI"
-				"tall"		"180"
-				//"range" 	"0x0000 0x00FF"
-				//"weight"	"400"
-				//"yres""		"1200 10000"
-				//"antialias" "1"
-			}
 		}
 		"MatchSummaryTeamScores"
 		{
@@ -1813,39 +1490,7 @@ Scheme
 				"tall"		"12"
 				//"weight"	"700"
 				//"yres""		"480 599"
-				"dropshadow"	"0"
-			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"13"
-				//"weight"	"700"
-				//"yres""		"600 767"
-				"dropshadow"	"0"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"14"
-				//"weight"	"700"
-				//"yres""		"768 1023"
-				"dropshadow"	"0"
-			}
-			"4"
-			{
-				"name"		"Segoe UI"
-				"tall"		"20"
-				//"weight"	"700"
-				//"yres""		"1024 1199"
-				"dropshadow"	"0"
-			}
-			"5"
-			{
-				"name"		"Segoe UI"
-				"tall"		"24"
-				//"weight"	"700"
-				//"yres""		"1200 10000"
-				"dropshadow"	"0"
+				//"dropshadow"	"0"
 			}
 		}
 		"ChatFont"
@@ -1856,39 +1501,7 @@ Scheme
 				"tall"		"12"
 				//"weight"	"700"
 				//"yres""		"480 599"
-				"dropshadow"	"1"
-			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"13"
-				//"weight"	"700"
-				//"yres""		"600 767"
-				"dropshadow"	"1"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"14"
-				//"weight"	"700"
-				//"yres""		"768 1023"
-				"dropshadow"	"1"
-			}
-			"4"
-			{
-				"name"		"Segoe UI"
-				"tall"		"20"
-				//"weight"	"700"
-				//"yres""		"1024 1199"
-				"dropshadow"	"1"
-			}
-			"5"
-			{
-				"name"		"Segoe UI"
-				"tall"		"24"
-				//"weight"	"700"
-				//"yres""		"1200 10000"
-				"dropshadow"	"1"
+				//"dropshadow"	"1"
 			}
 		}
 		"ChatMiniFont"
@@ -1899,39 +1512,7 @@ Scheme
 				"tall"		"10"
 				//"weight"	"700"
 				//"yres""		"480 599"
-				"dropshadow"	"1"
-			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"10"
-				//"weight"	"700"
-				//"yres""		"600 767"
-				"dropshadow"	"1"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"13"
-				//"weight"	"700"
-				//"yres""		"768 1023"
-				"dropshadow"	"1"
-			}
-			"4"
-			{
-				"name"		"Segoe UI"
-				"tall"		"14"
-				//"weight"	"700"
-				//"yres""		"1024 1199"
-				"dropshadow"	"1"
-			}
-			"5"
-			{
-				"name"		"Segoe UI"
-				"tall"		"15"
-				//"weight"	"700"
-				//"yres""		"1200 10000"
-				"dropshadow"	"1"
+				//"dropshadow"	"1"
 			}
 		}
 
@@ -2209,24 +1790,6 @@ Scheme
 				//"yres""		"480 599"
 				//"antialias"	"1"
 			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"12"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""		"600 1199"
-				//"antialias"	"1"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"15"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""		"1200 6000"
-				//"antialias"	"1"
-			}
 		}
 		
 		"ItemFontNameSmallest"
@@ -2417,24 +1980,24 @@ Scheme
 				//"additive"	"0"
 				//"antialias"	"1"
 			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"14"
+		//	"2"
+		//	{
+		//		"name"		"Segoe UI"
+		//		"tall"		"14"
 				//"weight"	"400"
 				//"additive"	"0"
 				//"yres""		"600 1023"
 				//"antialias"	"1"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"	
-				"tall"		"18"
+		//	}
+		//	"3"
+		//	{
+		//		"name"		"Segoe UI"	
+		//		"tall"		"18"
 				//"weight"	"400"
 				//"additive"	"0"
 				//"yres""		"1024 6000"
 				//"antialias"	"1"
-			}
+		//	}
 		}
 
 		"QuestObjectiveText"
@@ -2448,24 +2011,24 @@ Scheme
 				//"additive"	"0"
 				//"antialias"	"1"
 			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"14"
+		//	"2"
+		//	{
+		//		"name"		"Segoe UI"
+		//		"tall"		"14"
 				//"weight"	"800"
 				//"additive"	"0"
 				//"yres""		"600 1023"
 				//"antialias"	"1"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"18"
+		//	}
+		//	"3"
+		//	{
+		//		"name"		"Segoe UI"
+		//		"tall"		"14"
 				//"weight"	"800"
 				//"additive"	"0"
 				//"yres""		"1024 6000"
 				//"antialias"	"1"
-			}
+		//	}
 		}
 		
 		"QuestLargeText"
@@ -2502,24 +2065,6 @@ Scheme
 				//"additive"	"0"
 				//"antialias"	"1"
 			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"14"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"yres""		"600 1023"
-				//"antialias"	"1"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"22"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"yres""		"1024 6000"
-				//"antialias"	"1"
-			}
 		}
 
 		"QuestFlavorText_Merasmus"
@@ -2532,27 +2077,7 @@ Scheme
 				//"yres""		"480 599"
 				//"additive"	"0"
 				//"antialias"	"1"
-				"italic"	"1"
-			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"14"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"yres""		"600 1023"
-				//"antialias"	"1"
-				"italic"	"1"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"22"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"yres""		"1024 6000"
-				//"antialias"	"1"
-				"italic"	"1"
+				//"italic"	"1"
 			}
 		}
 
@@ -2565,24 +2090,6 @@ Scheme
 				//"weight"	"800"
 				//"yres""		"480 599"
 				//"additive"	"0"
-				//"antialias"	"1"
-			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"14"
-				//"weight"	"800"
-				//"additive"	"0"
-				//"yres""		"600 1023"
-				//"antialias"	"1"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"18"
-				//"weight"	"800"
-				//"additive"	"0"
-				//"yres""		"1024 6000"
 				//"antialias"	"1"
 			}
 		}
@@ -2666,7 +2173,7 @@ Scheme
 				//"weight"	"400"
 				//"antialias" "1"
 				//"additive"	"0"
-				"italic"	"1"
+				//"italic"	"1"
 			}
 		}
 		
@@ -2682,41 +2189,6 @@ Scheme
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres""	"480 599"
-			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"12"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""	"600 767"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"12"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""	"768 1023"
-				//"antialias"	"1"
-			}
-			"4"
-			{
-				"name"		"Segoe UI"
-				"tall"		"14"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""	"1024 1199"
-				//"antialias"	"1"
-			}
-			"5"
-			{
-				"name"		"Segoe UI"
-				"tall"		"16"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""	"1200 6000"
-				//"antialias"	"1"
 			}
 		}
 		"ReplayBrowserSmallest"
@@ -2739,48 +2211,6 @@ Scheme
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F"
 				//"yres""	"480 599"
-			}
-			"2"
-			{
-				"name"		"Segoe UI"
-				"tall"		"13"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F"
-				//"yres""	"600 767"
-			}
-			"3"
-			{
-				"name"		"Segoe UI"
-				"tall"		"14"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F"
-				//"yres""	"768 1023"
-				//"antialias"	"1"
-			}
-			"4"
-			{
-				"name"		"Segoe UI"
-				"tall"		"20"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F"
-				//"yres""	"1024 1199"
-				//"antialias"	"1"
-			}
-			"5"
-			{
-				"name"		"Segoe UI"
-				"tall"		"22"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F"
-				//"yres""	"1200 6000"
-				//"antialias"	"1"
-			}
-			"6"
-			{
-				"name"		"Segoe UI"
-				"tall"		"12"
-				//"range" 		"0x0000 0x00FF"
-				//"weight"		"0"
 			}
 		}
 		"ReplayMediumSmall"
@@ -2927,7 +2357,7 @@ Scheme
 				//"weight"	"500"
 				//"additive"	"0"
 				//"antialias" "1"
-				"dropshadow"	"1"
+				//"dropshadow"	"1"
 			}
 		}
 
