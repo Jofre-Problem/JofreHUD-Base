@@ -8,11 +8,11 @@
 		"ypos"		"12"
 		"wide"		"496"
 		"tall"		"276"
-		//"autoresize"		"3"
+		"autoresize"		"3"
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"1"
+		"tabPosition"		"1"
 	}
 	"Add"
 	{
@@ -23,10 +23,10 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		//"visible"		"1"
 		
-		//"tabPosition"		"2"
+		"tabPosition"		"2"
 		"labelText"		"#Ban_List_Add"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -42,10 +42,10 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		//"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"3"
+		"tabPosition"		"3"
 		"labelText"		"#Ban_List_Remove"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -61,10 +61,10 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		//"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"4"
+		"tabPosition"		"4"
 		"labelText"		"#Ban_List_Edit"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -80,10 +80,10 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		//"visible"		"1"
 		
-		//"tabPosition"		"5"
+		"tabPosition"		"5"
 		"labelText"		"#Ban_List_Import"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"

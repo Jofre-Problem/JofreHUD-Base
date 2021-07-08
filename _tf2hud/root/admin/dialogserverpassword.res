@@ -37,7 +37,7 @@
 		"tall"		"24"
 		//"visible"		"1"
 		
-		//"tabPosition"		"1"
+		"tabPosition"		"1"
 		"textHidden"		"1"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -80,7 +80,7 @@
 		"tall"		"28"
 		//"visible"		"1"
 		
-		//"tabPosition"		"2"
+		"tabPosition"		"2"
 		"labelText"		"#Dialog_Server_With_Password_Connect"
 		"textAlignment"		"center"
 		"command"		"Connect"
@@ -96,7 +96,7 @@
 		"tall"		"28"
 		//"visible"		"1"
 		
-		//"tabPosition"		"3"
+		"tabPosition"		"3"
 		"labelText"		"#Dialog_Server_With_Password_Cancel"
 		"textAlignment"		"center"
 		"command"		"Close"

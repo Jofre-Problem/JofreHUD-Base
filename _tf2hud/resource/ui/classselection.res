@@ -842,13 +842,11 @@
 		{
 			"modelname"	"models/vgui/UI_class01.mdl"
 			"skin"		"0"
-			////"angles_x" "0"
+			"angles_x" "0"
 			"angles_y" "180"
-			////"angles_z" "0"
+			"angles_z" "0"
 			"origin_x" "365"
-			//"origin_x_lodef" "415"
-			//"origin_x_hidef" "380"
-			////"origin_y" "0"
+			"origin_y" "0"
 			"origin_z" "-40"
 		}
 	}	
@@ -1626,9 +1624,9 @@
 		{
 			"force_pos"	"1"
 
-			////"angles_x" "0"
+			"angles_x" "0"
 			"angles_y" "180"
-			////"angles_z" "0"
+			"angles_z" "0"
 			"origin_x" "320"
 			"origin_y" "10"
 			"origin_z" "-49"

@@ -11,7 +11,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"1"
+		"tabPosition"		"1"
 		"labelText"		"Label for the group of Check buttons"
 		//"textAlignment"		"west"
 	}
@@ -27,7 +27,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"1"
+		"tabPosition"		"1"
 		"labelText"		"Reverse Mouse"
 		//"textAlignment"		"west"
 		"default"		"0"
@@ -44,7 +44,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"1"
+		"tabPosition"		"1"
 		"labelText"		"MouseLook"
 		//"textAlignment"		"west"
 		"default"		"0"
@@ -61,7 +61,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"1"
+		"tabPosition"		"1"
 		"labelText"		"Mouse filter"
 		//"textAlignment"		"west"
 		"default"		"0"
@@ -78,7 +78,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"1"
+		"tabPosition"		"1"
 		"labelText"		"Joy stick"
 		//"textAlignment"		"west"
 		"default"		"0"
@@ -95,7 +95,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"1"
+		"tabPosition"		"1"
 		"labelText"		"Disabled"
 		//"textAlignment"		"west"
 		"default"		"0"

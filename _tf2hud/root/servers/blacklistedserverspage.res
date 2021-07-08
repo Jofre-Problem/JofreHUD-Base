@@ -24,10 +24,10 @@
 		"wide"		"100"
 		"tall"		"24"
 		
-		//"pincorner"		"3"
+		"pincorner"		"3"
 		//"visible"		"1"
 		
-		//"tabPosition"		"2"
+		"tabPosition"		"2"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddServer"
 		//"textAlignment"		"west"
@@ -45,10 +45,10 @@
 		"tall"		"24"
 		"zpos"		"2"
 		
-		//"pincorner"		"3"
+		"pincorner"		"3"
 		//"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"2"
+		"tabPosition"		"2"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddCurrentServer"
 		//"textAlignment"		"west"
@@ -65,10 +65,10 @@
 		"wide"		"202"
 		"tall"		"24"
 		
-		//"pincorner"		"3"
+		"pincorner"		"3"
 		//"visible"		"1"
 		
-		//"tabPosition"		"2"
+		"tabPosition"		"2"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ImportBlacklist"
 		//"textAlignment"		"west"
@@ -84,7 +84,7 @@
 		"ypos"		"8"
 		"wide"		"624"
 		"tall"		"226"
-		//"autoresize"		"3"
+		"autoresize"		"3"
 		
 		//"visible"		"1"
 		

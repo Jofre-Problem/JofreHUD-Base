@@ -89,7 +89,7 @@
 			//"visible"		"1"
 			
 			"selected"		"1"
-			//"tabPosition"		"8"
+			"tabPosition"		"8"
 			"labelText"			"H"
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
@@ -111,7 +111,7 @@
 			
 			//"visible"		"1"
 			
-			//"tabPosition"		"8"
+			"tabPosition"		"8"
 			"labelText"			"S"
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
@@ -133,7 +133,7 @@
 			
 			//"visible"		"1"
 			
-			//"tabPosition"		"8"
+			"tabPosition"		"8"
 			"labelText"			"V"
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
@@ -155,7 +155,7 @@
 			
 			//"visible"		"1"
 			
-			//"tabPosition"		"8"
+			"tabPosition"		"8"
 			"labelText"			"R"
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
@@ -177,7 +177,7 @@
 			
 			//"visible"		"1"
 			
-			//"tabPosition"		"8"
+			"tabPosition"		"8"
 			"labelText"			"G"
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
@@ -199,7 +199,7 @@
 			
 			//"visible"		"1"
 			
-			//"tabPosition"		"8"
+			"tabPosition"		"8"
 			"labelText"			"B"
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
@@ -222,7 +222,7 @@
 			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
-			//"tabPosition"		"1"
+			"tabPosition"		"1"
 			"labelText"			""
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
@@ -242,7 +242,7 @@
 			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
-			//"tabPosition"		"2"
+			"tabPosition"		"2"
 			"labelText"			""
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
@@ -282,7 +282,7 @@
 			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
-			//"tabPosition"		"3"
+			"tabPosition"		"3"
 			"labelText"			""
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
@@ -322,7 +322,7 @@
 			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
-			//"tabPosition"		"4"
+			"tabPosition"		"4"
 			"labelText"			""
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
@@ -342,7 +342,7 @@
 			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
-			//"tabPosition"		"5"
+			"tabPosition"		"5"
 			"labelText"			""
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
@@ -362,7 +362,7 @@
 			
 			//"visible"		"1"
 			
-			//"tabPosition"		"6"
+			"tabPosition"		"6"
 			"labelText"			""
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
@@ -382,7 +382,7 @@
 			
 			//"visible"		"1"
 			
-			//"tabPosition"		"7"
+			"tabPosition"		"7"
 			"labelText"			""
 			//"textAlignment"		"west"
 			//"dulltext"			"0"

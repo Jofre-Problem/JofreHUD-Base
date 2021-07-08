@@ -1482,9 +1482,9 @@
 		{
 			"force_pos"	"1"
 
-			//"angles_x" "0"
+			"angles_x" "0"
 			"angles_y" "180"
-			//"angles_z" "0"
+			"angles_z" "0"
 			"origin_x" "320"
 			"origin_y" "10"
 			"origin_z" "-49"

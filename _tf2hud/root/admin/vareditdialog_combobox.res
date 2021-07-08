@@ -40,7 +40,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"2"
+		"tabPosition"		"2"
 		"labelText"		"OK"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -60,7 +60,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"3"
+		"tabPosition"		"3"
 		"labelText"		"Cancel"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -98,7 +98,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"1"
+		"tabPosition"		"1"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"

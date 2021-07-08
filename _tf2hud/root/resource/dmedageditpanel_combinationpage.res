@@ -22,7 +22,7 @@
 			
 			"wide"			"100"
 			"tall"			"24"
-			//"autoresize"	"3"
+			"autoresize"	"3"
 			
 			
 			

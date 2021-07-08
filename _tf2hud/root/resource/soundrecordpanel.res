@@ -25,10 +25,10 @@
 		"wide"		"122"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		//"visible"		"1"
 		
-		//"tabPosition"		"2"
+		"tabPosition"		"2"
 		"labelText"		"Ok"
 		"textAlignment"		"center"
 		////"dulltext"		"0"
@@ -46,10 +46,10 @@
 		"wide"		"122"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		//"visible"		"1"
 		
-		//"tabPosition"		"3"
+		"tabPosition"		"3"
 		"labelText"		"#FileOpenDialog_Cancel"
 		"textAlignment"		"center"
 		////"dulltext"		"0"
@@ -127,7 +127,7 @@
 		"ypos"		"67"
 		"wide"		"360"
 		"tall"		"24"
-		////"autoresize"		"1"
+		"autoresize"		"1"
 		////"UnpinnedCornerOffsetX" "-20"
 		
 		//"visible"		"1"
@@ -204,7 +204,7 @@
 		"ypos"		"211"
 		"wide"		"360"
 		"tall"		"2"
-		////"autoresize"		"1"
+		"autoresize"		"1"
 		////"UnpinnedCornerOffsetX" "-20"
 		
 		//"visible"		"1"

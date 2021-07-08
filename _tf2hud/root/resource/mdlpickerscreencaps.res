@@ -47,7 +47,7 @@
 			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
-			//"tabPosition"		"1"
+			"tabPosition"		"1"
 			"labelText"			""
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
@@ -87,7 +87,7 @@
 			//"visible"		"1"
 			
 			"NumericInputOnly" "1"
-			//"tabPosition"		"3"
+			"tabPosition"		"3"
 			"labelText"			"Color"
 			//"textAlignment"		"west"
 			//"dulltext"			"0"
@@ -125,7 +125,7 @@
 			
 			//"visible"		"1"
 			
-			//"tabPosition"	"5"
+			"tabPosition"	"5"
 			"labeltext"		""
 			//"textAlignment"		"west"
 			////"dulltext"		"0"
@@ -185,7 +185,7 @@
 			
 			//"visible"		"1"
 			
-			//"tabPosition"		"6"
+			"tabPosition"		"6"
 			"labelText"		"&Select"
 			"textAlignment"		"center"
 			"command"		"OutputDirectorySelect"
@@ -205,7 +205,7 @@
 			
 			//"visible"		"1"
 			
-			//"tabPosition"		"10"
+			"tabPosition"		"10"
 			"labelText"		"&Capture"
 			"textAlignment"		"center"
 			"command"		"Capture"
@@ -245,7 +245,7 @@
 			
 			//"visible"		"1"
 			
-			//"tabPosition"		"10"
+			"tabPosition"		"10"
 			"labelText"		"Generate Backpack Icons"
 			"textAlignment"		"center"
 			"command"		"GenerateBackpackIcons"
@@ -345,7 +345,7 @@
 			
 			//"visible"		"1"
 			
-			//"tabPosition"		"10"
+			"tabPosition"		"10"
 			"labelText"		"&Save"
 			"textAlignment"		"center"
 			"command"		"SaveCaps"
@@ -365,7 +365,7 @@
 			
 			//"visible"		"1"
 			
-			//"tabPosition"		"10"
+			"tabPosition"		"10"
 			"labelText"		"&Restore"
 			"textAlignment"		"center"
 			"command"		"RestoreCaps"
@@ -406,7 +406,7 @@
 			
 			//"visible"		"1"
 			
-			//"tabPosition"		"1"
+			"tabPosition"		"1"
 			"labelText"			""
 			//"textAlignment"		"west"
 			//"dulltext"			"0"

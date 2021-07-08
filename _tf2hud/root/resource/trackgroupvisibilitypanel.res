@@ -25,7 +25,7 @@
 			"wide"		"96"
 			"tall"		"24"
 			
-			//"pincorner"		"2"
+			"pincorner"		"2"
 			//"visible"		"1"
 			
 			
@@ -45,10 +45,10 @@
 			"wide"		"96"
 			"tall"		"24"
 			
-			//"pincorner"		"3"
+			"pincorner"		"3"
 			//"visible"		"1"
 			
-			//"tabPosition"	"1"
+			"tabPosition"	"1"
 			"labelText"		"Cancel"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
@@ -64,7 +64,7 @@
 			"ypos"			"28"
 			"wide"			"256"
 			"tall"			"420"
-			//"autoresize"	"3"
+			"autoresize"	"3"
 			
 			//"visible"		"1"
 			

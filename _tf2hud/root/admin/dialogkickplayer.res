@@ -74,7 +74,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"3"
+		"tabPosition"		"3"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
@@ -93,7 +93,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"2"
+		"tabPosition"		"2"
 		"labelText"		"#Cancel_Button"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"

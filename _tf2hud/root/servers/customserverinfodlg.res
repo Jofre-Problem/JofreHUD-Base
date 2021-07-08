@@ -26,7 +26,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"1"
+		"tabPosition"		"1"
 		"labelText"		"#GameUI_Close"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"

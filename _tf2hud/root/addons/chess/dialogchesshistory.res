@@ -54,7 +54,7 @@
 		"ypos"		"72"
 		"wide"		"200"
 		"tall"		"250"
-		//"autoresize"		"3"
+		"autoresize"		"3"
 		
 		////"visible"		"1"
 		
@@ -72,7 +72,7 @@
 		"wide"		"75"
 		"tall"		"24"
 		
-		//"pincorner"		"3"
+		"pincorner"		"3"
 		////"visible"		"1"
 		
 		

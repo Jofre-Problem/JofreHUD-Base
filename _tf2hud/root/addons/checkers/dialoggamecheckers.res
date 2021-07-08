@@ -50,7 +50,7 @@
 		"ypos"		"135"
 		"wide"		"235"
 		"tall"		"222"
-		//"autoresize"		"3"
+		"autoresize"		"3"
 		
 		////"visible"		"1"
 		"enabled"		"0"
@@ -67,8 +67,8 @@
 		"ypos"		"370"
 		"wide"		"165"
 		"tall"		"24"
-		////"autoresize"		"1"
-		//"pincorner"		"2"
+		"autoresize"		"1"
+		"pincorner"		"2"
 		////"visible"		"1"
 		
 		
@@ -86,7 +86,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		//"pincorner"		"3"
+		"pincorner"		"3"
 		////"visible"		"1"
 		
 		
@@ -162,7 +162,7 @@
 		"wide"		"250"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		"visible"		"0"
 		
 		
@@ -180,7 +180,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		//"pincorner"		"3"
+		"pincorner"		"3"
 		"visible"		"0"
 		
 		

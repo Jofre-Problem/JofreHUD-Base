@@ -25,10 +25,10 @@
 			"wide"		"122"
 			"tall"		"24"
 			
-			//"pincorner"		"2"
+			"pincorner"		"2"
 			//"visible"		"1"
 			
-			//"tabPosition"		"1"
+			"tabPosition"		"1"
 			"labelText"		"Ok"
 			"textAlignment"		"center"
 			////"dulltext"		"0"
@@ -44,7 +44,7 @@
 			"ypos"			"30"
 			"wide"			"568"
 			"tall"			"316"
-			//"autoresize"	"3"
+			"autoresize"	"3"
 			
 			////"UnpinnedCornerOffsetX" "-6"
 			//"UnpinnedCornerOffsetY" "-34"

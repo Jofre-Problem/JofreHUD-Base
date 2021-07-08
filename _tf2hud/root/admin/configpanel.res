@@ -40,7 +40,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"7"
+		"tabPosition"		"7"
 		"labelText"		"#Okay_Button"
 		"textAlignment"		"center"
 		////"dulltext"		"0"
@@ -60,7 +60,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"8"
+		"tabPosition"		"8"
 		"labelText"		"#Cancel_Button"
 		"textAlignment"		"center"
 		////"dulltext"		"0"
@@ -80,7 +80,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"1"
+		"tabPosition"		"1"
 		"labelText"		"#Options_Panel_AutoRefresh"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -99,7 +99,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"3"
+		"tabPosition"		"3"
 		"labelText"		"#Options_Panel_SaveRcon"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -118,7 +118,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"2"
+		"tabPosition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -135,7 +135,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"4"
+		"tabPosition"		"4"
 		"labelText"		"#Options_Panel_Collect_Stats"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -154,7 +154,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"5"
+		"tabPosition"		"5"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -171,7 +171,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"6"
+		"tabPosition"		"6"
 		"labelText"		"#Options_Panel_Get_Logs"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"

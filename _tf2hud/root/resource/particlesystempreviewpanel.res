@@ -7,7 +7,7 @@
 		//"visible"		"1"
 		
 		
-		//"autoresize"	"3"
+		"autoresize"	"3"
 		
 		
 		
@@ -24,7 +24,7 @@
 				
 				"wide"			"463"
 				"tall"			"212"
-				//"autoresize"	"3"
+				"autoresize"	"3"
 				
 				
 				
@@ -32,7 +32,7 @@
 				
 				//"visible"		"1"
 				
-				//"tabPosition"	"1"
+				"tabPosition"	"1"
 			}
 		}
 
@@ -46,7 +46,7 @@
 				
 				"wide"			"463"
 				"tall"			"212"
-				//"autoresize"	"3"
+				"autoresize"	"3"
 				
 				
 				
@@ -54,7 +54,7 @@
 				
 				//"visible"		"1"
 				
-				//"tabPosition"	"1"
+				"tabPosition"	"1"
 			}
 			
 			"ParticleCountLabel"
@@ -66,7 +66,7 @@
 				"wide"			"165"
 				"tall"			"24"
 				
-				//"pincorner"		"3"
+				"pincorner"		"3"
 				//"PinnedCornerOffsetX" "-6"
 				//"PinnedCornerOffsetY" "-6"
 				//"visible"		"1"

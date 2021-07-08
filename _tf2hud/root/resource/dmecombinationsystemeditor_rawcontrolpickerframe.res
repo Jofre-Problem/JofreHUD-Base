@@ -25,10 +25,10 @@
 			"wide"		"122"
 			"tall"		"24"
 			
-			//"pincorner"		"2"
+			"pincorner"		"2"
 			//"visible"		"1"
 			
-			//"tabPosition"		"2"
+			"tabPosition"		"2"
 			"labelText"		"Open"
 			"textAlignment"		"center"
 			////"dulltext"		"0"
@@ -45,10 +45,10 @@
 			"wide"		"122"
 			"tall"		"24"
 			
-			//"pincorner"		"2"
+			"pincorner"		"2"
 			//"visible"		"1"
 			
-			//"tabPosition"	"3"
+			"tabPosition"	"3"
 			"labelText"		"Cancel"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
@@ -64,7 +64,7 @@
 			"ypos"			"28"
 			"wide"			"256"
 			"tall"			"320"
-			//"autoresize"	"3"
+			"autoresize"	"3"
 			
 			//"PinnedCornerOffsetX" "6"
 			//"PinnedCornerOffsetY" "30"
@@ -72,7 +72,7 @@
 			//"UnpinnedCornerOffsetY" "-36"
 			//"visible"		"1"
 			
-			//"tabPosition"	"1"
+			"tabPosition"	"1"
 		}
 	}
 }

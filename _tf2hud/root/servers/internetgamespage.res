@@ -24,10 +24,10 @@
 		"wide"		"67"
 		"tall"		"24"
 		
-		//"pincorner"		"3"
+		"pincorner"		"3"
 		//"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"1"
+		"tabPosition"		"1"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Connect"
 		//"textAlignment"		"west"
@@ -44,10 +44,10 @@
 		"wide"		"95"
 		"tall"		"24"
 		
-		//"pincorner"		"3"
+		"pincorner"		"3"
 		//"visible"		"1"
 		
-		//"tabPosition"		"2"
+		"tabPosition"		"2"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_RefreshAll"
 		//"textAlignment"		"west"
@@ -64,7 +64,7 @@
 		"wide"		"105"
 		"tall"		"24"
 		
-		//"pincorner"		"3"
+		"pincorner"		"3"
 		//"visible"		"1"
 		"enabled"		"0"
 		
@@ -84,10 +84,10 @@
 		"wide"		"100"
 		"tall"		"24"
 		
-		//"pincorner"		"3"
+		"pincorner"		"3"
 		"visible"		"0"
 		
-		//"tabPosition"		"2"
+		"tabPosition"		"2"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddServer"
 		//"textAlignment"		"west"
@@ -105,10 +105,10 @@
 		"tall"		"24"
 		"zpos"		"2"
 		
-		//"pincorner"		"3"
+		"pincorner"		"3"
 		"visible"		"0"
 		"enabled"		"0"
-		//"tabPosition"		"2"
+		"tabPosition"		"2"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddCurrentServer"
 		//"textAlignment"		"west"
@@ -124,7 +124,7 @@
 		"ypos"		"8"
 		"wide"		"624"
 		"tall"		"226"
-		//"autoresize"		"3"
+		"autoresize"		"3"
 		
 		//"visible"		"1"
 		
@@ -140,7 +140,7 @@
 		"ypos"			"8"
 		"wide"			"624"
 		"tall"			"226"
-		//"autoresize"		"3"
+		"autoresize"		"3"
 		
 		//"visible"		"1"
 		
@@ -156,10 +156,10 @@
 		"wide"		"160"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		//"visible"		"1"
 		
-		//"tabPosition"		"6"
+		"tabPosition"		"6"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_QuickListCheck"
 		//"textAlignment"		"west"
@@ -176,10 +176,10 @@
 		"wide"		"108"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		//"visible"		"1"
 		
-		//"tabPosition"		"4"
+		"tabPosition"		"4"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Filters"
 		//"textAlignment"		"west"
@@ -194,8 +194,8 @@
 		"ypos"		"244"
 		"wide"		"90"
 		"tall"		"24"
-		////"autoresize"		"1"
-		//"pincorner"		"2"
+		"autoresize"		"1"
+		"pincorner"		"2"
 		//"visible"		"1"
 		
 		
@@ -213,7 +213,7 @@
 		"wide"		"164"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		"visible"		"0"
 		
 		
@@ -233,7 +233,7 @@
 		"wide"		"112"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		"visible"		"0"
 		
 		
@@ -253,10 +253,10 @@
 		"wide"		"164"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		"visible"		"0"
 		
-		//"tabPosition"		"5"
+		"tabPosition"		"5"
 		//"paintbackground"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
@@ -273,10 +273,10 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		"visible"		"0"
 		
-		//"tabPosition"		"5"
+		"tabPosition"		"5"
 		//"paintbackground"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
@@ -293,7 +293,7 @@
 		"wide"		"112"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		"visible"		"0"
 		
 		
@@ -313,7 +313,7 @@
 		"wide"		"112"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		"visible"		"0"
 		
 		
@@ -333,10 +333,10 @@
 		"wide"		"184"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		"visible"		"0"
 		
-		//"tabPosition"		"7"
+		"tabPosition"		"7"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_HasUsersPlaying"
 		//"textAlignment"		"west"
@@ -352,10 +352,10 @@
 		"wide"		"184"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		"visible"		"0"
 		
-		//"tabPosition"		"6"
+		"tabPosition"		"6"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerNotFull"
 		//"textAlignment"		"west"
@@ -371,10 +371,10 @@
 		"wide"		"222"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		"visible"		"0"
 		
-		//"tabPosition"		"8"
+		"tabPosition"		"8"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_IsNotPasswordProtected"
 		//"textAlignment"		"west"
@@ -390,10 +390,10 @@
 		"wide"		"222"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		"visible"		"0"
 		
-		//"tabPosition"		"8"
+		"tabPosition"		"8"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_SupportsReplays"
 		//"textAlignment"		"west"

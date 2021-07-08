@@ -27,7 +27,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"1"
+		"tabPosition"		"1"
 		//"paintbackground"		"1"
 		"labelText"		"#Friends_NotifyMeWhenUserComesOnline"
 		"textAlignment"		"north-west"
@@ -47,7 +47,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"2"
+		"tabPosition"		"2"
 		//"paintbackground"		"1"
 		"labelText"		"#Friends_PlaySoundWhenUserComesOnline"
 		"textAlignment"		"north-west"
@@ -67,7 +67,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"3"
+		"tabPosition"		"3"
 		//"paintbackground"		"1"
 		"labelText"		"#Friends_PlaySoundWhenUserJoinsGame"
 		"textAlignment"		"north-west"
@@ -87,7 +87,7 @@
 		
 		"visible"		"0"
 		
-		//"tabPosition"		"4"
+		"tabPosition"		"4"
 		//"paintbackground"		"1"
 		"labelText"		"#TrackerUI_BlockUserFromSeeingMe"
 		"textAlignment"		"north-west"
@@ -107,7 +107,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"5"
+		"tabPosition"		"5"
 		//"paintbackground"		"1"
 		"labelText"		"#Friends_RemoveUser"
 		//"textAlignment"		"west"

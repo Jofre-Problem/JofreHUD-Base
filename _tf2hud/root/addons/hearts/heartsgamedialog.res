@@ -191,10 +191,10 @@
 		"wide"			"128"
 		"tall"			"24"
 		
-		//"pincorner"		"3"
+		"pincorner"		"3"
 		"visible"		"0"
 		
-		//"tabPosition"		"21"
+		"tabPosition"		"21"
 		"labelText"		"#Hearts_DealNextHand"
 		//"textAlignment"		"west"
 	}    
@@ -597,10 +597,10 @@
 		"wide"			"96"
 		"tall"			"24"
 		
-		//"pincorner"		"3"
+		"pincorner"		"3"
 		////"visible"		"1"
 		
-		//"tabPosition"		"18"
+		"tabPosition"		"18"
 		"labelText"		"#SteamAddOn_ShowScore"
 		//"textAlignment"		"west"
 		"Default"		"0"
@@ -614,10 +614,10 @@
 		"wide"			"96"
 		"tall"			"24"
 		
-		//"pincorner"		"3"
+		"pincorner"		"3"
 		////"visible"		"1"
 		"enabled"		"0"
-		//"tabPosition"		"19"
+		"tabPosition"		"19"
 		"labelText"		"#SteamAddOn_LastTrick"
 		//"textAlignment"		"west"
 		"Default"		"0"
@@ -631,7 +631,7 @@
 		"wide"			"72"
 		"tall"			"16"
 		
-		//"pincorner"		"3"
+		"pincorner"		"3"
 		"visible"		"0"
 		
 		
@@ -647,7 +647,7 @@
 		"ypos"		"425"
 		"wide"		"530"
 		"tall"		"75"
-		//"autoresize"		"3"
+		"autoresize"		"3"
 		
 		////"visible"		"1"
 		"enabled"		"0"
@@ -665,8 +665,8 @@
 		"ypos"		"510"
 		"wide"		"395"
 		"tall"		"24"
-		////"autoresize"		"1"
-		//"pincorner"		"2"
+		"autoresize"		"1"
+		"pincorner"		"2"
 		////"visible"		"1"
 		
 		
@@ -683,10 +683,10 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		//"pincorner"		"3"
+		"pincorner"		"3"
 		////"visible"		"1"
 		
-		//"tabPosition"		"1"
+		"tabPosition"		"1"
 		"labelText"		"#SteamAddOn_Btn_Send"
 		//"textAlignment"		"west"
 		//"Default"		"1"
@@ -700,7 +700,7 @@
 		"wide"		"300"
 		"tall"		"24"
 		
-		//"pincorner"		"2"
+		"pincorner"		"2"
 		"visible"		"0"
 		
 		

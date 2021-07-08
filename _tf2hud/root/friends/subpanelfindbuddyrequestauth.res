@@ -2,7 +2,7 @@
 {
 	"EditBox"
 	{
-		//"tabPosition"		"1"
+		"tabPosition"		"1"
 		
 		//"visible"		"1"
 		"BgColor"		"100 100 100 255"

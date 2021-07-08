@@ -22,7 +22,7 @@
 			"fieldName"		"PreviewSplitter"
 			//"visible"		"1"
 			
-			//"autoresize"	"3"
+			"autoresize"	"3"
 			
 			
 			"ypos"			"6"
@@ -39,7 +39,7 @@
 					
 					"wide"			"568"
 					"tall"			"316"
-					//"autoresize"	"3"
+					"autoresize"	"3"
 					
 					
 					
@@ -59,7 +59,7 @@
 					
 					"wide"			"65"
 					"tall"			"24"
-					//"autoresize"	"1"
+					"autoresize"	"1"
 					
 					
 					//"visible"		"1"
@@ -79,7 +79,7 @@
 					"ypos"			"26"
 					"wide"			"75"
 					"tall"			"24"
-					//"autoresize"	"3"
+					"autoresize"	"3"
 					
 					
 					//"PinnedCornerOffsetY" "26"
@@ -88,7 +88,7 @@
 					//"visible"		"1"
 					
 					//"editable"		"1"
-					//"tabPosition"	"1"
+					"tabPosition"	"1"
 					"labeltext"		""
 					//"textAlignment"	"west"
 					"dulltext"		"1"
@@ -106,10 +106,10 @@
 			"wide"		"122"
 			"tall"		"24"
 			
-			//"pincorner"		"2"
+			"pincorner"		"2"
 			//"visible"		"1"
 			
-			//"tabPosition"		"2"
+			"tabPosition"		"2"
 			"labelText"		"Yes"
 			"textAlignment"		"center"
 			////"dulltext"		"0"
@@ -126,10 +126,10 @@
 			"wide"		"122"
 			"tall"		"24"
 			
-			//"pincorner"		"2"
+			"pincorner"		"2"
 			//"visible"		"1"
 			
-			//"tabPosition"		"2"
+			"tabPosition"		"2"
 			"labelText"		"No"
 			"textAlignment"		"center"
 			////"dulltext"		"0"

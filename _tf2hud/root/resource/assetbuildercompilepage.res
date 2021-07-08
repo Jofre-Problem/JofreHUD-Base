@@ -43,7 +43,7 @@
 			"tall"		"24"
 			//"UnpinnedCornerOffsetX" "-6"
 			//"UnpinnedCornerOffsetY" "-6"
-			//"autoresize"		"3"
+			"autoresize"		"3"
 			
 			//"visible"		"1"
 			

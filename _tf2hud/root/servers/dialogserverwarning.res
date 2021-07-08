@@ -47,7 +47,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"7"
+		"tabPosition"		"7"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerWarningCheckButton"
 		//"textAlignment"		"west"
@@ -66,7 +66,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"2"
+		"tabPosition"		"2"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerWarningOk"
 		//"textAlignment"		"west"
@@ -86,7 +86,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"4"
+		"tabPosition"		"4"
 		//"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Cancel"
 		//"textAlignment"		"west"

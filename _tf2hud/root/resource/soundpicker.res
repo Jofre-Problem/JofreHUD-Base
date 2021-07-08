@@ -24,7 +24,7 @@
 			"ypos"			"6"
 			"wide"			"463"
 			"tall"			"212"
-			//"autoresize"	"3"
+			"autoresize"	"3"
 			
 			//"PinnedCornerOffsetX" "6"
 			//"PinnedCornerOffsetY" "6"
@@ -32,7 +32,7 @@
 			//"UnpinnedCornerOffsetY" "-6"
 			//"visible"		"1"
 			
-			//"tabPosition"	"1"
+			"tabPosition"	"1"
 		}
 	}
 }

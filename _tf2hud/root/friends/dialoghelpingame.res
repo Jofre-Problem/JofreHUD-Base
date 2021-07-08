@@ -35,7 +35,7 @@
 		"tall"		"24"
 		//"visible"		"1"
 		
-		//"tabPosition"		"1"
+		"tabPosition"		"1"
 		"labelText"		"#TrackerUI_Close"
 		"textAlignment"		"center"
 		"command"		"Close"
@@ -51,7 +51,7 @@
 		"tall"		"24"
 		//"visible"		"1"
 		
-		//"tabPosition"		"2"
+		"tabPosition"		"2"
 		"labelText"		"#TrackerUI_NeverShowThisDialogAgain"
 		"textAlignment"		"center"
 		"default"		"0"
