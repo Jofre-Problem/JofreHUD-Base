@@ -52,7 +52,7 @@
 		"tall"			"f0"
 		"zpos"			"4"
 		"visible"		"0"
-		"font"			"QuestObjectiveTracker_DescBlur"
+		"font"			"ControlPointTimerSmaller"
 		"textinsetx"	"5"
 		"textAlignment"		"north-west"
 		"wrap"			"1"

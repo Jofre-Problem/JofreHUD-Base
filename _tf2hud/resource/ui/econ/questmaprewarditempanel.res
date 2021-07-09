@@ -51,13 +51,13 @@
 	{
 		"ItemAdText"
 		{
-			"font"			"QuestMap_Small"
+			"font"			"ControlPointTimerSmaller"
 		}
 	}
 
 	"BuyButton"
 	{
-		"font"			"QuestMap_Small"
+		"font"			"ControlPointTimerSmaller"
 	}
 
 	"LimitLabel"

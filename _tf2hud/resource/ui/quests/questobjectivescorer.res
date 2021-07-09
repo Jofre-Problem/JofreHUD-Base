@@ -22,7 +22,7 @@
 
 		"textAlignment"	"north-east"
 		"labelText"	"%scorer%"
-		"font"			"QuestObjectiveTracker_Desc"
+		"font"			"ControlPointTimerSmaller"
 	//	"fgcolor_override"		"QuestMap_ActiveOrange"
 	}
 
@@ -38,7 +38,7 @@
 
 		"textAlignment"	"north-east"
 		"labelText"	"%scorer%"
-		"font"			"QuestObjectiveTracker_DescBlur"
+		"font"			"ControlPointTimerSmaller"
 	//	"fgcolor_override"		"QuestMap_ActiveOrange"
 	}
 }

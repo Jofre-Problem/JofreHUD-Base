@@ -30,7 +30,7 @@
 		"tall"			"18"
 		"zpos"			"5"
 		"textinsetx"	"5"
-		"font"			"QuestObjectiveTracker_DescGlow"
+		"font"			"ControlPointTimerSmaller"
 		"alpha"			"0"
 
 		"TextAlignment"		"north-east"
@@ -48,7 +48,7 @@
 		"tall"			"18"
 		"zpos"			"4"
 		"textinsetx"	"5"
-		"font"			"QuestObjectiveTracker_Desc"
+		"font"			"ControlPointTimerSmaller"
 
 		"TextAlignment"		"north-east"
 		"proportionaltoparent" "1"
@@ -65,7 +65,7 @@
 		"tall"			"10"
 		"zpos"			"3"
 		//"visible"		"1"
-		"font"			"QuestObjectiveTracker_DescBlur"
+		"font"			"ControlPointTimerSmaller"
 		"textinsetx"	"5"
 		"textAlignment"		"north-east"
 		"proportionaltoparent" "1"

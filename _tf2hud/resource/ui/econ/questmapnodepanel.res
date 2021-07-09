@@ -121,7 +121,7 @@
 			"wide"			"f0"
 			"tall"			"15"
 			"zpos"			"1"
-			"font"			"QuestMap_Small"
+			"font"			"ControlPointTimerSmaller"
 			"fgcolor_override"		"QuestMap_ActiveOrange"
 			//"textinsety"	"0"
 			"TextAlignment"		"north"

@@ -147,7 +147,7 @@
 				"wide"			"f0"
 				"tall"			"f0"
 				"zpos"			"1"
-				"font"			"QuestMap_Small"
+				"font"			"ControlPointTimerSmaller"
 				"textinsety"	"-1"
 				"TextAlignment"		"center"
 				"proportionaltoparent" "1"
@@ -178,7 +178,7 @@
 					"wide"			"f0"
 					"tall"			"f0"
 					"zpos"			"8"
-					"font"			"QuestMap_Small"
+					"font"			"ControlPointTimerSmaller"
 					"textinsety"	"-1"
 					"TextAlignment"		"center"
 					"proportionaltoparent" "1"
@@ -211,7 +211,7 @@
 					"wide"			"f0"
 					"tall"			"f0"
 					"zpos"			"8"
-					"font"			"QuestMap_Small"
+					"font"			"ControlPointTimerSmaller"
 					"textinsety"	"-1"
 					"TextAlignment"		"center"
 					"proportionaltoparent" "1"
@@ -238,7 +238,7 @@
 		"zpos"			"4"
 		//"textinsetx"	"0"
 		"fgcolor"		"TanDark"
-		"font"			"QuestMap_Small"
+		"font"			"ControlPointTimerSmaller"
 		"TextAlignment"		"north-west"
 	}
 
@@ -254,7 +254,7 @@
 		"zpos"			"4"
 		//"textinsetx"	"0"
 		"fgcolor"		"TanDark"
-		"font"			"QuestMap_Small"
+		"font"			"ControlPointTimerSmaller"
 		"TextAlignment"		"north-west"
 	}
 
@@ -332,7 +332,7 @@
 			"zpos"			"4"
 			//"textinsetx"	"0"
 			"fgcolor_override"		"RedSolid"
-			"font"			"QuestMap_Small"
+			"font"			"ControlPointTimerSmaller"
 			"TextAlignment"		"center"
 		}
 	}

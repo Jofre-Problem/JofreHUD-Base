@@ -145,7 +145,7 @@
 		"wide"			"199"
 		"tall"			"10"
 		"zpos"			"1000"
-		"font"			"QuestMap_Small"
+		"font"			"ControlPointTimerSmaller"
 		"fgcolor_override"		"RedSolid"
 		"TextAlignment"		"North"
 		"proportionaltoparent" "1"

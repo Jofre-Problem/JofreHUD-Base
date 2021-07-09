@@ -2362,7 +2362,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		"QuestObjectiveTracker_Desc"
+		"ControlPointTimerSmaller"
 		{
 			"1"
 			{
@@ -2945,7 +2945,7 @@ Scheme
 			}
 		}
 
-		"QuestMap_Small"
+		"ControlPointTimerSmaller"
 		{
 			"1"
 			{

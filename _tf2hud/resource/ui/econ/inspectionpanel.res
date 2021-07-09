@@ -592,7 +592,7 @@
 			"wide"		"75"
 			"tall"		"20"
 			"labelText"			"#TF_ItemAd_ViewOnMarket"
-			"font"			"AdFont_PurchaseButton"
+			"font"			"ScoreboardVerySmall"
 			//"textinsetx"		"0"
 			"textAlignment"	"center"
 		

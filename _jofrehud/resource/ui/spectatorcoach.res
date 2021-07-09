@@ -8,4 +8,5 @@
 
 #base "base/filesv1/distancelabel/main.res"
 #base "res_base/spectatorcoach.res"
+#base "res_base/itempanel/attrib.res"
 #base "base/filesv1/directionlabel/main.res"

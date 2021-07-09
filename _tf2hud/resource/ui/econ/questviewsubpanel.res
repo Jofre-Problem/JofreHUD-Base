@@ -102,7 +102,7 @@
 			}
 			"2"
 			{
-				"font"	"QuestMap_Small"
+				"font"	"ControlPointTimerSmaller"
 			}
 		}
 	}
@@ -137,7 +137,7 @@
 			}
 			"2"
 			{
-				"font"	"QuestMap_Small"
+				"font"	"ControlPointTimerSmaller"
 			}
 		}
 	}
@@ -188,7 +188,7 @@
 		"wide"			"f0"
 		"tall"			"o0.25"
 		"zpos"			"1"
-		"font"			"QuestObjectiveTracker_Desc"
+		"font"			"ControlPointTimerSmaller"
 		"TextAlignment"		"south"
 		"textinsety"	"-5"
 		"proportionaltoparent" "1"
@@ -208,7 +208,7 @@
 		"wide"			"f0"
 		"tall"			"o0.25"
 		"zpos"			"1"
-		"font"			"QuestObjectiveTracker_DescBlur"
+		"font"			"ControlPointTimerSmaller"
 		"TextAlignment"		"south"
 		"textinsetx"	"2"
 		"textinsety"	"-3"

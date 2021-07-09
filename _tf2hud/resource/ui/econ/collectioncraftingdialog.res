@@ -138,7 +138,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"SaxtonQuote"
-				"font"			"TradeUp_Text"
+				"font"			"ScoreboardVerySmall"
 				"textAlignment"	"north-west"
 				"xpos"			"p0.66"
 				"ypos"			"p0.1"
@@ -183,7 +183,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"Instructions"
-				"font"			"TradeUp_Text"
+				"font"			"ScoreboardVerySmall"
 				"textAlignment"	"north-west"
 				"xpos"			"28"
 				"ypos"			"p0.73"

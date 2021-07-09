@@ -1762,50 +1762,6 @@ Scheme
 				//"antialias" 	"1"
 			}
 		}
-		"AchievementTracker_Desc"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"7"
-				//"weight"	"0"
-				"additive"	"1"
-				//"antialias" 	"1"
-			}
-		}
-		"QuestObjectiveTracker_Desc"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"7"
-				//"weight"	"0"
-				"additive"	"1"
-				//"antialias" 	"1"
-			}
-		}
-		"QuestObjectiveTracker_DescGlow"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"7"
-				//"weight"	"0"
-				//"antialias" 	"1"
-			}
-		}
-		"QuestObjectiveTracker_DescBlur"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"7"
-				//"weight"	"0"
-				"blur"		"3"
-				"additive"	"1"
-				//"antialias" 	"1"
-			}
-		}
 
 		"QuestFlavorText"
 		{
@@ -1900,40 +1856,6 @@ Scheme
 			}
 		}
 		
-		"AdFont_AdText"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"8"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"antialias" "1"
-			}
-		}
-		"AdFont_PurchaseButton"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"8"
-				//"weight"	"0"
-				//"antialias" 	"1"
-			}
-		}
-
-		"TradeUp_Text"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"8"
-				//"weight"	"400"
-				//"antialias" "1"
-				//"additive"	"0"
-			}
-		}
-
 		"TradeUp_Quote"
 		{
 			"1"
@@ -2114,26 +2036,6 @@ Scheme
 			}
 		}
 
-		"QuestMap_Small_Blur"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"7"
-			}
-		}
-
-		"QuestMap_Small"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"		
-				"tall"		"7"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"antialias" "1"
-			}
-		}
 
 		"QuestMap_Medium"
 		{

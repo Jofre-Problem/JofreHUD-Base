@@ -115,7 +115,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"Paragraph1"
-				"font"			"TradeUp_Text"
+				"font"			"ScoreboardVerySmall"
 				"textAlignment"	"north-west"
 				"xpos"			"20"
 				"ypos"			"105"
@@ -138,7 +138,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"Paragraph2"
-				"font"			"TradeUp_Text"
+				"font"			"ScoreboardVerySmall"
 				"textAlignment"	"north-west"
 				"xpos"			"20"
 				"ypos"			"160"
@@ -161,7 +161,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"Paragraph3"
-				"font"			"TradeUp_Text"
+				"font"			"ScoreboardVerySmall"
 				"textAlignment"	"north-west"
 				"xpos"			"20"
 				"ypos"			"215"
@@ -184,7 +184,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"Instructions"
-				"font"			"TradeUp_Text"
+				"font"			"ScoreboardVerySmall"
 				"textAlignment"	"north-west"
 				"xpos"			"295"
 				"ypos"			"105"

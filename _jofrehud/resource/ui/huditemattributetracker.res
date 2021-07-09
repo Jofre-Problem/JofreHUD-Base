@@ -49,7 +49,7 @@
 			"zpos"			"4"
 			"textinsetx"	"5"
 			"fgcolor_override"		"TanLight"
-			"font"			"QuestObjectiveTracker_Desc"
+			"font"			"ControlPointTimerSmaller"
 			//"wrap"			"1"
 			"TextAlignment"		"north-east"
 			"proportionaltoparent" "1"

@@ -55,7 +55,7 @@
 		"zpos"			"4"
 		"textinsetx"	"5"
 		"fgcolor_override"		"TanLight"
-		"font"			"AchievementTracker_Desc"
+		"font"			"ControlPointTimerSmaller"
 		"wrap"			"1"
 		"TextAlignment"		"north-west"
 	}

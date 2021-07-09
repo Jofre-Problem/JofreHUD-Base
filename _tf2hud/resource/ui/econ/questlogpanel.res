@@ -271,7 +271,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"BadgeProgressLabel"
-			"font"			"AdFont_AdText"
+			"font"			"ScoreboardVerySmall"
 			"labelText"		"#QuestLog_BadgeProgress"
 			//"textAlignment"	"west"
 			"xpos"			"p.15"
@@ -329,7 +329,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"BadgeProgressMeterText"
-				"font"			"AdFont_AdText"
+				"font"			"ScoreboardVerySmall"
 				"labeltext"		""
 				"textAlignment"	"center"
 				
@@ -351,7 +351,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"ContractsCompletedLabel"
-			"font"			"AdFont_AdText"
+			"font"			"ScoreboardVerySmall"
 			"labelText"		"#QuestLog_ContractsCompleted"
 			//"textAlignment"	"west"
 			"xpos"			"p.57"
@@ -409,7 +409,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"ContractsCompletedProgressMeterText"
-				"font"			"AdFont_AdText"
+				"font"			"ScoreboardVerySmall"
 				"labeltext"		""
 				"textAlignment"	"center"
 				
