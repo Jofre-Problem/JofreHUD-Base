@@ -632,21 +632,14 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"14"
-				//"tall_lodef"	"16"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" 	"1"
 			}
 		}	
-		"HudFontSmallishBold"
+		"FontCartPrice"
 		{
 			"1"
 			{
 				"name"		"Segoe UI"
 				"tall"		"16"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
 			}
 		}
 //		"HudFontSmallBold"
@@ -717,17 +710,6 @@ Scheme
 				//"antialias" "1"
 			}
 		}
-		"FontCartPrice"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"16"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
-			}
-		}
 		"FontStorePrice"
 		{
 			"1"
@@ -788,7 +770,7 @@ Scheme
 		}
 		GameUIButtonsSmall
 		{
-			"1"	[$X360]
+			"1"
 			{
 				"bitmap"	"1"
 				"name"		"Buttons"
@@ -798,7 +780,7 @@ Scheme
 		}
 		GameUIButtonsSmallest
 		{
-			"1"	[$X360]
+			"1"
 			{
 				"bitmap"	"1"
 				"name"		"Buttons"
@@ -845,19 +827,6 @@ Scheme
 				"name"		"Segoe UI"
 				"tall"		"18"
 
-			}
-		}
-		"HudClassHealth"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"16"
-				//"tall_hidef"	"22"
-				//"tall_lodef"	"22"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
 			}
 		}
 		"SpectatorKeyHints"
@@ -1837,14 +1806,6 @@ Scheme
 				//"antialias" 	"1"
 			}
 		}
-		"ItemTrackerScore_InGame"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"7"
-			}
-		}
 
 		"QuestFlavorText"
 		{
@@ -2150,19 +2111,6 @@ Scheme
 				"blur"		"3"
 				"additive"	"1"
 				//"antialias" 	"1"
-			}
-		}
-
-		"MapVotesPercentage"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"12"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
-				//"dropshadow"	"1"
 			}
 		}
 
@@ -2499,14 +2447,6 @@ Scheme
 					"offset" "1 0"
 				}
 			}
-		}
-		
-		CrosshatchedBackground
-		{
-			"bordertype"			"image"
-			"backgroundtype"		"2"
-			"image"					"loadout_header"
-			"tiled"					"1"
 		}
 		
 		OutlinedGreyBox

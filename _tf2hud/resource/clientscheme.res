@@ -943,7 +943,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}	
-		"HudFontSmallishBold"
+		"FontCartPrice"
 		{
 			"1"
 			{

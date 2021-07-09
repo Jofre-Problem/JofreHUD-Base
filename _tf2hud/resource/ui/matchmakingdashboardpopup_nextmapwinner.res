@@ -109,7 +109,7 @@
 				"tall"			"20"
 				//"visible"		"1"
 				
-				"font"			"MapVotesPercentage"
+				"font"			"Default"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"south"
 				"labelText"		"%mapname%"

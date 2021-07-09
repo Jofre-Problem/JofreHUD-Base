@@ -213,7 +213,7 @@
 			"tall"			"20"
 			//"visible"		"1"
 			
-			"font"			"HudFontSmallishBold"
+			"font"			"FontCartPrice"
 			"fgcolor_override"	"TanLight"
 			"textAlignment"	"north-west"
 			"labelText"		"%name%"

@@ -606,7 +606,7 @@
 		
 		
 		"labelText"		"#Store_AddToCart"
-		"font"			"HudFontSmallishBold"
+		"font"			"FontCartPrice"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

@@ -830,7 +830,7 @@
 		
 		if_mvm
 		{
-			"font"			"HudFontSmallishBold"
+			"font"			"FontCartPrice"
 			"xpos"			"155"
 			"ypos"			"105"
 			"wide"			"190"
@@ -840,7 +840,7 @@
 
 		if_competitive
 		{
-			"font"			"HudFontSmallishBold"
+			"font"			"FontCartPrice"
 			"xpos"			"cs-0.5"
 			"ypos"			"110"
 			"wide"			"190"
@@ -850,7 +850,7 @@
 
 		if_readymode
 		{
-			"font"			"HudFontSmallishBold"
+			"font"			"FontCartPrice"
 			"xpos"			"225"
 			"ypos"			"110"
 			"wide"			"190"
@@ -880,7 +880,7 @@
 		
 		if_mvm
 		{
-			"font"			"HudFontSmallishBold"
+			"font"			"FontCartPrice"
 			"xpos"			"156"
 			"ypos"			"106"
 			"wide"			"190"
@@ -891,7 +891,7 @@
 
 		if_competitive
 		{
-			"font"			"HudFontSmallishBold"
+			"font"			"FontCartPrice"
 			"xpos"			"cs-0.5"
 			"ypos"			"111"
 			"wide"			"190"
@@ -902,7 +902,7 @@
 
 		if_readymode
 		{
-			"font"			"HudFontSmallishBold"
+			"font"			"FontCartPrice"
 			"xpos"			"226"
 			"ypos"			"111"
 			"wide"			"190"

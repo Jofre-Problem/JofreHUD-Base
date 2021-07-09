@@ -722,7 +722,7 @@
 				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
-				"font"			"HudFontSmallishBold"
+				"font"			"FontCartPrice"
 				"fgcolor"		"TanLight"		
 				"bgcolor_override"		"Blank"
 				"proportionalToParent"	"1"
@@ -741,7 +741,7 @@
 				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
-				"font"			"HudFontSmallishBold"	
+				"font"			"FontCartPrice"	
 				"fgcolor"		"Black"
 				"proportionalToParent"	"1"
 			}
@@ -822,7 +822,7 @@
 				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
-				"font"			"HudFontSmallishBold"
+				"font"			"FontCartPrice"
 				"fgcolor"		"TanLight"		
 				"bgcolor_override"		"Blank"
 				"proportionalToParent"	"1"
@@ -841,7 +841,7 @@
 				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
-				"font"			"HudFontSmallishBold"	
+				"font"			"FontCartPrice"	
 				"fgcolor"		"Black"	
 				"proportionalToParent"	"1"
 			}

@@ -111,7 +111,53 @@
 				//"antialias" "1"
 			}
 		}		
-		
+			"HudFontSmallishBold"
+		{
+			"1"
+			{
+				"name"		"Segoe UI"
+				"tall"		"16"
+				//"weight"	"500"
+				//"additive"	"0"
+				//"antialias" "1"
+			}
+		}
+		"ItemTrackerScore_InGame"
+		{
+			"1"
+			{
+				"name"		"Segoe UI"
+				"tall"		"7"
+			}
+		}
+		"MapVotesPercentage"
+		{
+			"1"
+			{
+				"name"		"Segoe UI"
+				"tall"		"12"
+				//"weight"	"500"
+				//"additive"	"0"
+				//"antialias" "1"
+				//"dropshadow"	"1"
+			}
+		}
+		"HudClassHealth"
+		{
+			"1"
+			{
+				"name"		"Segoe UI"
+				"tall"		"16"
+			}
+		}
+
+		CrosshatchedBackground
+		{
+			"bordertype"			"image"
+			"backgroundtype"		"2"
+			"image"					"loadout_header"
+			"tiled"					"1"
+		}		
 		
 		TrainingResultsBG
 		{
