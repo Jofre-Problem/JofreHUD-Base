@@ -311,7 +311,7 @@
 		//"scaleAmount"		"0.000000"
 		//"tileImage"		"0"
 		//"tileHorizontally"		"0"
-		//"tileVertically"		"0"
+		////"tileVertically"		"0"
 	}
 	"CrosshairColorComboBox"
 	{
@@ -407,7 +407,7 @@
 		//"scaleAmount"		"0.000000"
 		//"tileImage"		"0"
 		//"tileHorizontally"		"0"
-		"tileVertically"		"0"
+		//"tileVertically"		"0"
 	}
 	"Red Color Slider"
 	{
@@ -529,7 +529,7 @@
 		//"scaleAmount"		"0.000000"
 		//"tileImage"		"0"
 		//"tileHorizontally"		"0"
-		"tileVertically"		"0"
+		//"tileVertically"		"0"
 	}
 	"DownloadFilterCheck"
 	{

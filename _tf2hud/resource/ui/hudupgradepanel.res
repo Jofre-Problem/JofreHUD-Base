@@ -711,7 +711,7 @@
 			"fieldName"		"TipText"
 			"font"			"HudFontSmallest"
 			"labelText"		"%tiptext%"
-			"textAlignment" "west"
+			//"textAlignment" "west"
 			"xpos"			"10"
 			
 			"zpos"			"11"

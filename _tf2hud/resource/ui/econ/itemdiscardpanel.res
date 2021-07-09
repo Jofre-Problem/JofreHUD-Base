@@ -23,7 +23,7 @@
 		"title"			"#CharInfoAndSetup"
 		"title_font"	"HudFontMediumSecondary"
 		"titletextinsetX"	"40"
-		"titletextinsetY"	"0"
+		//"titletextinsetY"	"0"
 		"titlebarfgcolor_override"				"HudOffWhite"
 		"titlebardisabledfgcolor_override"		"HudOffWhite"
 		"titlebarbgcolor_override"				"TanDarker"

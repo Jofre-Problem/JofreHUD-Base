@@ -214,8 +214,8 @@
 			"noitem_textcolor"		"TanDark"
 			//"PaintBackgroundType"	"2"
 			//"paintborder"	"0"
-			"model_xpos"	"00"
-			"model_ypos"	"00"
+			"model_xpos"	"0"
+			"model_ypos"	"0"
 			"model_wide"	"160"
 			"model_tall"	"160"
 			//"text_ypos"		"1"
@@ -375,7 +375,7 @@
 			{
 				"ControlName"	"CExButton"
 				"fieldName"		"CancelButton"
-				"xpos"			"00"
+				"xpos"			"0"
 				"ypos"			"230"
 				"zpos"			"1"
 				"wide"			"130"
@@ -683,7 +683,7 @@
 			{
 				"ControlName"	"CExButton"
 				"fieldName"		"CancelButton"
-				"xpos"			"00"
+				"xpos"			"0"
 				"ypos"			"230"
 				"zpos"			"1"
 				"wide"			"130"
@@ -831,7 +831,7 @@
 			{
 				"ControlName"	"CExButton"
 				"fieldName"		"CancelButton"
-				"xpos"			"00"
+				"xpos"			"0"
 				"ypos"			"230"
 				"zpos"			"1"
 				"wide"			"130"

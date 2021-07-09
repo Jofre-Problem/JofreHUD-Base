@@ -22,12 +22,12 @@
 		"title"			"#StoreTitle"
 		"title_font"	"HudFontMediumSecondary"
 		"titletextinsetX"	"40"
-		"titletextinsetY"	"0"
+		//"titletextinsetY"	"0"
 		"titlebarfgcolor_override"				"HudOffWhite"
 		"titlebardisabledfgcolor_override"		"HudOffWhite"
 		"titlebarbgcolor_override"				"TanDarker"
 		
-		"clientinsetx_override"			"0"
+		//"clientinsetx_override"			"0"
 		"sheetinset_bottom"				"40"
 	}
 	

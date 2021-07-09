@@ -60,7 +60,7 @@
 		
 		"visible"		"0"
 		
-		"progress"		"0"
+		//"progress"		"0"
 		"bgcolor_override" "117 107 95 255"
 		"fgcolor_override" "255 255 255 255"
 	}

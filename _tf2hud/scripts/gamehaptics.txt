@@ -995,7 +995,7 @@
 					"isEffect" "1"
 					"group"	"recoil"
 					"msRamp" "10"
-					"msSustain" "00"
+					"msSustain" "0"
 					"msDecay" "40"
 	
 					"force"

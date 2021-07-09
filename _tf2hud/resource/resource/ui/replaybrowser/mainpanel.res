@@ -28,7 +28,7 @@
 		"titlebardisabledfgcolor_override"		"HudOffWhite"
 		"titlebarbgcolor_override"				"TanDarker"
 		
-		"clientinsetx_override"			"0"
+		//"clientinsetx_override"			"0"
 		"sheetinset_bottom"				"40"
 	}
 	

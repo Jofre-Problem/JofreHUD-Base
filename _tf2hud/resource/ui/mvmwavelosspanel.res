@@ -74,7 +74,7 @@
 		"fieldName"		"SummaryHeader"
 		"font"			"HudFontMediumSmall"
 		"labelText"		"%summaryheader%"
-		"textAlignment" "west"
+		//"textAlignment" "west"
 		"xpos"			"c-250"
 		"ypos"			"135"
 		"wide"			"550"
@@ -111,7 +111,7 @@
 			"fieldName"		"CollectedLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_Collected"
-			"textAlignment" "west"
+			//"textAlignment" "west"
 			
 			"ypos"			"25"
 			"wide"			"120"
@@ -137,7 +137,7 @@
 			"fieldName"		"MissedLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_Missed"
-			"textAlignment" "west"
+			//"textAlignment" "west"
 			
 			"ypos"			"40"
 			"wide"			"120"
@@ -163,7 +163,7 @@
 			"fieldName"		"BonusLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_Bonus"
-			"textAlignment" "west"
+			//"textAlignment" "west"
 			
 			"ypos"			"55"
 			"wide"			"120"
@@ -239,7 +239,7 @@
 			"fieldName"		"BuybackLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_Buybacks"
-			"textAlignment" "west"
+			//"textAlignment" "west"
 			
 			"ypos"			"25"
 			"wide"			"120"
@@ -278,7 +278,7 @@
 			"fieldName"		"BottleLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_Bottles"
-			"textAlignment" "west"
+			//"textAlignment" "west"
 			
 			"ypos"			"40"
 			"wide"			"120"
@@ -317,7 +317,7 @@
 			"fieldName"		"InactiveLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_Inactive_Upgrades"
-			"textAlignment" "west"
+			//"textAlignment" "west"
 			
 			"ypos"			"55"
 			"wide"			"120"

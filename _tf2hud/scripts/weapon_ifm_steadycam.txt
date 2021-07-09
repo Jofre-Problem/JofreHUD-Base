@@ -2,13 +2,13 @@ WeaponData
 {
 	// Attributes Base.
 	"printname"			"#Weapon_IFM_SteadyCam"
-	"BuiltRightHanded"		"0"
+	//"BuiltRightHanded"		"0"
 	"MeleeWeapon"			"1"
 	"weight"			"5"
-	"item_flags"			"0"
+//	"item_flags"			"0"
 
 	// Attributes TF.
-	"Damage"			"0"
+//	"Damage"			"0"
 //	"FireDelay"			"0.1"
 //	"IdleTimeAfterFire"		"5.0"
 //	"IdleInterval"			"5.0"

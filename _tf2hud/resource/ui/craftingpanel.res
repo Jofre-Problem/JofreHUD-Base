@@ -104,7 +104,7 @@
 			//"visible"		"1"
 			//"wrap"			"0"
 			//"centerwrap"	"0"
-			"textAlignment" "west"
+			//"textAlignment" "west"
 			//"textinsetx"	"0"
 			"defaultFgColor_override" "117 107 94 255"
 			"defaultBgColor_override" "Blank"

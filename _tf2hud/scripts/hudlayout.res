@@ -149,9 +149,9 @@
 		"fieldName" "HudWeaponSelection"
 		
 		"wide"	"f0"
-		"ypos" 	"0"
+	//	"ypos" 	"0"
 		"tall"	"480"
-		"RightMargin" "0"
+	//	"RightMargin" "0"
 		//"RightMargin_hidef" "32"
 		//"rightmargin_lodef" "38"
 		//"visible" "1"
@@ -167,7 +167,7 @@
 		"SelectionNumberXPos" "12"
 		"SelectionNumberYPos" "4"
 		"IconXPos" "8"
-		"IconYPos" "0"
+	//	"IconYPos" "0"
 		"TextYPos" "70"		
 		"ErrorYPos" "48"
 		"TextColor" "SelectionTextFg"
@@ -708,22 +708,22 @@
 		//"visible" "1"
 		
 		"xpos" "r145" 
-		"ypos" "0" 
+	//	"ypos" "0" 
 		"wide" "145"
 		"tall" "400"
 
 		"item_wide"	"135"
 		
-		"show_avatar"		"0"
+	//	"show_avatar"		"0"
 		
 		"show_dead_icon"	"1"
 		"dead_xpos"			"1"
-		"dead_ypos"			"0"
+	//	"dead_ypos"			"0"
 		"dead_wide"			"16"
 		"dead_tall"			"16"
 		
 		"show_voice_icon"	"1"
-		"icon_ypos"			"0"
+	//	"icon_ypos"			"0"
 		"icon_xpos"			"15"
 		"icon_tall"			"16"
 		"icon_wide"			"16"
@@ -743,7 +743,7 @@
 		"HintSize"				"1"
 		"text_xpos"				"8"
 		"text_ypos"				"8"
-		"center_x"				"0"	// center text horizontally
+	//	"center_x"				"0"	// center text horizontally
 		"center_y"				"-1"	// align text on the bottom
 	}	
 
