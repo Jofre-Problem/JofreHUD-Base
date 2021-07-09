@@ -873,17 +873,6 @@ Scheme
 				"antialias" "1"
 			}
 		}	
-		"HudFontMediumBig"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"30"
-				"weight"	"500"
-				//"additive"	"0"
-				"antialias" "1"
-			}
-		}		
 		"HudFontMedium"
 		{
 			"1"
@@ -924,19 +913,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"18"
-				"weight"	"500"
-				//"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"HudFontMediumSmall"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"18"
-				//"tall_hidef"	"24"
-				//"tall_lodef"	"18"
 				"weight"	"500"
 				//"additive"	"0"
 				"antialias" "1"

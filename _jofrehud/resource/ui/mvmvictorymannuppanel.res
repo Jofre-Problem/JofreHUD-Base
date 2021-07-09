@@ -5,4 +5,4 @@
 	#base "base/filesv2/footerline/xpos0.res"
 	#base "base/filesv2/footerline/zpos2.res"
 	#base "base/filesv1/mouseoveritem/mouse_main.res"
-	#base "base/filesv1/mouseoveritem/mouseoveritem3.res"	
+	#base "base/filesv1/mouseoveritem/mouseoveritem3.res"

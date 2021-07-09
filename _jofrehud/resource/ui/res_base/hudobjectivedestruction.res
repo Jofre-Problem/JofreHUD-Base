@@ -5,7 +5,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusRobotDestruction"
 		"xpos"				"0"
-		"ypos"				"0"
+		//"ypos"				"0"
 		"zpos"				"1"
 		"wide"				"f0"
 		"tall"				"480"

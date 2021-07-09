@@ -26,7 +26,7 @@
 		"ControlName"		"Label"
 		"fieldName"			"NumberDisplay"
 		"xpos"				"0"
-		"ypos"				"0"
+		//"ypos"				"0"
 		"zpos"				"-2"
 		"wide"				"256"
 		"tall"				"128"

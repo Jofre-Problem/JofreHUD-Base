@@ -33,7 +33,7 @@
 	//	"ControlName"		"CExLabel"
 	//	"fieldName"			"titlelabel"
 		"xpos"				"0"
-		"ypos"				"0"
+		//"ypos"				"0"
 		"wide"				"f0"
 		"tall"				"70"
 	//	//"autoResize"		"0"
