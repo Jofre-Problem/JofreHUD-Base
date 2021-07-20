@@ -5,11 +5,11 @@
 		"ControlName"		"Frame"
 		"fieldName"		"Spectator"
 		"tall"			"480"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 	}
 	"specgui"
 	{
@@ -18,16 +18,16 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"TopBar"
-		
-		
-		"tall"			"70"	
-		"tall_minmode"			"70"	
+		"xpos"			"0"
+		"ypos"			"0"
+		"tall"			"70"	[$WIN32]
+		"tall_minmode"			"70"	[$WIN32]
 		"wide"			"f0"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"border"		"TFThinLineBorder"
 	}
 
@@ -40,9 +40,9 @@
 		"zpos"			"-1"
 		"wide"			"42"
 		"tall"			"42"
-		//"visible"		"1"
+		"visible"		"1"
 		"PaintBackgroundType"	"2"
-		"bgcolor_override"	"TanDark"
+		"bgcolor_override"	"117 107 94 255"
 	}
 	"AvatarImage"
 	{
@@ -50,11 +50,11 @@
 		"fieldName"		"AvatarImage"
 		"xpos"			"10"
 		"ypos"			"10"
-		
+		"zpos"			"0"
 		"wide"			"32"
 		"tall"			"32"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			""
 		"scaleImage"	"1"	
 		"color_outline"	"52 48 45 255"
@@ -79,8 +79,8 @@
 		"zpos"			"-100"
 		"wide"			"16"
 		"tall"			"16"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"crosshairs/default"
 		"scaleImage"	"1"
 	}
@@ -96,13 +96,13 @@
 		"wide"			"240"
 		"tall"			"20"
 		//"tall_hidef"		"30"
-		
-		
-		//"visible"		"1"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"visible_minmode" "1"
-		
+		"enabled"		"1"
 		"labelText"		"%student_name%"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 	}
 	"MapLabel"
 	{
@@ -115,13 +115,13 @@
 		"wide"			"240"
 		"tall"			"20"
 		//"tall_hidef"		"30"
-		
-		
-		//"visible"		"1"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"visible_minmode"		"1"
-		
-		"labeltext"		""
-		//"textAlignment"		"west"
+		"enabled"		"1"
+		"labelText"		""
+		"textAlignment"		"west"
 	}	
 	"DistanceLabel"
 	{
@@ -134,28 +134,29 @@
 		"wide"			"240"
 		"tall"			"20"
 		//"tall_hidef"		"30"
-		
-		
-		//"visible"		"1"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"visible_minmode" "1"
-		
+		"enabled"		"1"
 		"labelText"		"%student_distance%"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 	}
 
 	"DirectionsLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"DirectionsLabel"
-		"xpos"			"r200"		
-		"wide"			"200"	
+		"xpos"			"r200"		[$WIN32]
+		"ypos"			"0"	[$WIN32]
+		"wide"			"200"	[$WIN32]
 		"tall"			"20"
-		
-		
-		//"visible"		"1"	
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"	[$WIN32]
+		"enabled"		"1"
 		"labelText"		"#TF_Coach_StudentCommands"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"		
 	}
 
@@ -163,15 +164,15 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"SwitchCamModeKeyLabel"
-		"xpos"			"r200"		
-		"ypos"			"10"	
-		"wide"			"60"	
+		"xpos"			"r200"		[$WIN32]
+		"ypos"			"10"	[$WIN32]
+		"wide"			"60"	[$WIN32]
 		"tall"			"20"
-		
-		
-		//"visible"		"1"	
-		
-		"labeltext"		""
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"	[$WIN32]
+		"enabled"		"1"
+		"labelText"		""
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"		
 	}
@@ -179,33 +180,33 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"SwitchCamModeLabel"
-		"xpos"			"r125"	
-		"ypos"			"10"	
-		"wide"			"125"	
+		"xpos"			"r125"	[$WIN32]
+		"ypos"			"10"	[$WIN32]
+		"wide"			"125"	[$WIN32]
 		"tall"			"20"
-		
-		
-		//"visible"		"1"	
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"	[$WIN32]
+		"visible"		"0"	[$X360]
+		"enabled"		"1"
 		"labelText"		"#TF_Coach_ControlView"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 	"CycleTargetFwdKeyLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetFwdKeyLabel"
-		"xpos"			"r200"	
-		"ypos"			"20"	
-		"wide"			"60"	
+		"xpos"			"r200"	[$WIN32]
+		"ypos"			"20"	[$WIN32]
+		"wide"			"60"	[$WIN32]
 		"tall"			"20"
-		
-		
-		//"visible"		"1"	
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
-		
-		"labeltext"		""
+		"enabled"		"1"
+		"labelText"		""
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"
 	}
@@ -213,33 +214,33 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetFwdLabel"
-		"xpos"			"r125"	
-		"ypos"			"20"	
-		"wide"			"125"	
+		"xpos"			"r125"	[$WIN32]
+		"ypos"			"20"	[$WIN32]
+		"wide"			"125"	[$WIN32]
 		"tall"			"20"
-		
-		
-		//"visible"		"1"	
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
-		
+		"enabled"		"1"
 		"labelText"		"#TF_Coach_AttackDesc"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 	"CycleTargetRevKeyLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetRevKeyLabel"
-		"xpos"			"r200"	
-		"ypos"			"30"	
-		"wide"			"60"	
+		"xpos"			"r200"	[$WIN32]
+		"ypos"			"30"	[$WIN32]
+		"wide"			"60"	[$WIN32]
 		"tall"			"20"
-		
-		
-		//"visible"		"1"	
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
-		
-		"labeltext"		""
+		"enabled"		"1"
+		"labelText"		""
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"
 	}
@@ -247,32 +248,32 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetRevLabel"
-		"xpos"			"r125"	
-		"ypos"			"30"		
-		"wide"			"125"	
+		"xpos"			"r125"	[$WIN32]
+		"ypos"			"30"	[$WIN32]	
+		"wide"			"125"	[$WIN32]
 		"tall"			"20"
-		
-		
-		//"visible"		"1"	
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
-		
+		"enabled"		"1"
 		"labelText"		"#TF_Coach_DefendDesc"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 	"Slot1KeyLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"Slot1KeyLabel"
-		"xpos"			"r200"	
-		"ypos"			"40"	
-		"wide"			"60"	
+		"xpos"			"r200"	[$WIN32]
+		"ypos"			"40"	[$WIN32]
+		"wide"			"60"	[$WIN32]
 		"tall"			"20"
-		
-		
-		//"visible"		"1"	
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
-		
+		"enabled"		"1"
 		"labelText"		"%coach_command_1%"
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"
@@ -281,32 +282,32 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"Slot1Label"
-		"xpos"			"r125"	
-		"ypos"			"40"		
-		"wide"			"125"	
+		"xpos"			"r125"	[$WIN32]
+		"ypos"			"40"	[$WIN32]	
+		"wide"			"125"	[$WIN32]
 		"tall"			"20"
-		
-		
-		//"visible"		"1"	
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
-		
+		"enabled"		"1"
 		"labelText"		"#TF_Coach_Slot1Desc"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 	"Slot2KeyLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"Slot2KeyLabel"
-		"xpos"			"r200"	
-		"ypos"			"50"	
-		"wide"			"60"	
+		"xpos"			"r200"	[$WIN32]
+		"ypos"			"50"	[$WIN32]
+		"wide"			"60"	[$WIN32]
 		"tall"			"20"
-		
-		
-		//"visible"		"1"	
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
-		
+		"enabled"		"1"
 		"labelText"		"%coach_command_2%"
 		"textAlignment"		"east"
 		"font"			"SpectatorKeyHints"
@@ -315,17 +316,17 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"Slot2Label"
-		"xpos"			"r125"	
-		"ypos"			"50"		
-		"wide"			"125"	
+		"xpos"			"r125"	[$WIN32]
+		"ypos"			"50"	[$WIN32]	
+		"wide"			"125"	[$WIN32]
 		"tall"			"20"
-		
-		
-		//"visible"		"1"	
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"1"
-		
+		"enabled"		"1"
 		"labelText"		"#TF_Coach_Slot2Desc"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 	}
 
@@ -333,14 +334,14 @@
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"itempanel"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"10"
 		"wide"			"190"
 		"tall"			"100"
 		"visible"		"0"
 		"bgcolor_override"		"255 255 255 0"
-		//"PaintBackgroundType"	"0"
+		"PaintBackgroundType"	"0"
 		
 		"model_ypos"		"10"
 		"model_center_x"	"1"
@@ -374,14 +375,14 @@
 			"zpos"			"1"
 			"wide"			"270"
 			"tall"			"9"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"#FreezePanel_Item"
 			"textAlignment"	"Left"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 		}
 		
 		"attriblabel"
@@ -389,18 +390,18 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"attriblabel"
 			"font"			"ItemFontAttribLarge"
-			
+			"xpos"			"0"
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"
 			"tall"			"60"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"%attriblist%"
 			"textAlignment"	"south"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"235 226 202 255"
 			"centerwrap"	"1"
 		}
 	}	

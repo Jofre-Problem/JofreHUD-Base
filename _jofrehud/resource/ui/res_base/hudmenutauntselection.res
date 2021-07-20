@@ -92,7 +92,7 @@
 			
 		"attriblabel"
 		{
-			"font"			"ItemFontAttribLarge"
+			"font"			"HudFontSmallest"
 			"visible"		"0"
 		}
 			
@@ -127,7 +127,7 @@
 			
 		"attriblabel"
 		{
-			"font"			"ItemFontAttribLarge"
+			"font"			"HudFontSmallest"
 			"visible"		"0"
 		}
 			
@@ -162,7 +162,7 @@
 			
 		"attriblabel"
 		{
-			"font"			"ItemFontAttribLarge"
+			"font"			"HudFontSmallest"
 			"visible"		"0"
 		}
 			
@@ -198,7 +198,7 @@
 			
 		"attriblabel"
 		{
-			"font"			"ItemFontAttribLarge"
+			"font"			"HudFontSmallest"
 			"visible"		"0"
 		}
 			
@@ -233,7 +233,7 @@
 			
 		"attriblabel"
 		{
-			"font"			"ItemFontAttribLarge"
+			"font"			"HudFontSmallest"
 			"visible"		"0"
 		}
 			
@@ -270,7 +270,7 @@
 			
 		"attriblabel"
 		{
-			"font"			"ItemFontAttribLarge"
+			"font"			"HudFontSmallest"
 			"visible"		"0"
 		}
 			
@@ -306,7 +306,7 @@
 			
 		"attriblabel"
 		{
-			"font"			"ItemFontAttribLarge"
+			"font"			"HudFontSmallest"
 			"visible"		"0"
 		}
 			
@@ -341,7 +341,7 @@
 
 		"attriblabel"
 		{
-			"font"			"ItemFontAttribLarge"
+			"font"			"HudFontSmallest"
 			"visible"		"0"
 		}
 			

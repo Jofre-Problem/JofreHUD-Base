@@ -8,8 +8,8 @@
 		"zpos"			"2"		
 		"wide"			"300"
 		"tall"			"25"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"proportionaltoparent"	"1"
 
 		"starting_width"	"20"
@@ -53,7 +53,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"Background"
 		"xpos"			"cs-0.5"
-		
+		"ypos"			"0"
 		"zpos"			"5"
 		"wide"			"o3.833"
 		"tall"			"35"

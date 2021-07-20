@@ -97,7 +97,7 @@
 			"mouseinputenabled"	"0"
 			
 			"labeltext"			"%match_date%"
-			"font"				"MMenuPlayListDesc"
+			"font"				"TFFontMedium"
 			"fgcolor_override"	"TanLight"
 			//"textAlignment"		"west"
 		}
@@ -115,7 +115,7 @@
 			"mouseinputenabled"	"0"
 			
 			"labeltext"			"%map_name%"
-			"font"				"MMenuPlayListDesc"
+			"font"				"TFFontMedium"
 			"fgcolor_override"	"TanLight"
 			//"textAlignment"		"west"
 		}
@@ -133,7 +133,7 @@
 			"mouseinputenabled"	"0"
 			
 			"labeltext"			"%kd_ratio%"
-			"font"				"MMenuPlayListDesc"
+			"font"				"TFFontMedium"
 			"fgcolor_override"	"TanLight"
 			//"textAlignment"		"west"
 		}
@@ -233,7 +233,7 @@
 				"mouseinputenabled"	"0"
 			
 				"labeltext"			"%stat_kills%"
-				"font"				"MMenuPlayListDesc"
+				"font"				"TFFontMedium"
 				"fgcolor_override"	"TanLight"
 				//"textAlignment"		"west"
 			}
@@ -251,7 +251,7 @@
 				"mouseinputenabled"	"0"
 			
 				"labeltext"			"%stat_deaths%"
-				"font"				"MMenuPlayListDesc"
+				"font"				"TFFontMedium"
 				"fgcolor_override"	"TanLight"
 				//"textAlignment"		"west"
 			}
@@ -282,7 +282,7 @@
 				"mouseinputenabled"	"0"
 			
 				"labeltext"			"%stat_damage%"
-				"font"				"MMenuPlayListDesc"
+				"font"				"TFFontMedium"
 				"fgcolor_override"	"TanLight"
 				//"textAlignment"		"west"
 			}
@@ -314,7 +314,7 @@
 				"mouseinputenabled"	"0"
 			
 				"labeltext"			"%stat_healing%"
-				"font"				"MMenuPlayListDesc"
+				"font"				"TFFontMedium"
 				"fgcolor_override"	"TanLight"
 				//"textAlignment"		"west"
 			}
@@ -345,7 +345,7 @@
 				"mouseinputenabled"	"0"
 			
 				"labeltext"			"%stat_support%"
-				"font"				"MMenuPlayListDesc"
+				"font"				"TFFontMedium"
 				"fgcolor_override"	"TanLight"
 				//"textAlignment"		"west"
 			}
@@ -378,7 +378,7 @@
 				"pincorner"			"3"
 			
 				"labeltext"			"%stat_score%"
-				"font"				"MMenuPlayListDesc"
+				"font"				"TFFontMedium"
 				"fgcolor_override"	"TanLight"
 				//"textAlignment"		"west"
 			}

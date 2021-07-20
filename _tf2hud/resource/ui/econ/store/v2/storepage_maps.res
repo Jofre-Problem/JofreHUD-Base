@@ -75,7 +75,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SubTitleLabel"
-		"font"			"FontStoreOriginalPrice"
+		"font"			"TFFontMedium"
 		"labelText"		"#Store_Maps_SubTitle"
 		"textAlignment"	"south-west"
 		"xpos"			"c-292"

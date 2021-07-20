@@ -8,7 +8,7 @@
 		
 		"xpos"			"10"	
 		"ypos"			"275"
-		//"ypos_hidef"		"245"
+		////"ypos_hidef"		"245"
 		"wide"	 		"280"
 		"tall"	 		"120"
 		"PaintBackgroundType"	"2"

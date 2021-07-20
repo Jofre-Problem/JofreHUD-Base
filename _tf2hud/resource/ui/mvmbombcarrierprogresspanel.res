@@ -4,12 +4,12 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"BaseBackground"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"100"
 		"tall"			"30"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../hud/bomb_carrier_upgrade_base"
 	}
 	
@@ -17,23 +17,23 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"FillContainer"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"20"
 		"tall"			"30"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		
 		"FillImage"
 		{
 			"ControlName"	"ScalableImagePanel"
 			"fieldName"		"FillImage"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"wide"			"100"
 			"tall"			"30"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"../hud/bomb_carrier_upgrade_meter"
 		}
 	}
@@ -42,12 +42,12 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"Frame"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"100"
 		"tall"			"30"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../hud/bomb_carrier_upgrade_frame"
 	}
 	

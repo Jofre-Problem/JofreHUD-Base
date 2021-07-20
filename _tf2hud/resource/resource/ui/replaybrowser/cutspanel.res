@@ -65,7 +65,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NoCutsLabel"
-		"font"			"ReplayMediumSmall"
+		"font"			"HudFontSmallest"
 		"labelText"		"#Replay_NoCuts"
 		"wide"			"200"
 		"tall"			"58"
@@ -116,7 +116,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"FieldName"		"OriginalLabel"
-		"Font"			"ReplayMediumSmall"
+		"Font"			"HudFontSmallest"
 		//"textAlignment"	"west"
 		"fgcolor_override"	"TanDark"
 		
@@ -130,7 +130,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"FieldName"		"CutsLabel"
-		"Font"			"ReplayMediumSmall"
+		"Font"			"HudFontSmallest"
 		//"textAlignment"	"west"
 		"fgcolor_override"	"TanDark"
 		
@@ -144,7 +144,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NameLabel"
-		"font"			"ReplayBrowserSmallest"
+		"font"			"HudFontSmallest"
 		"labeltext"		""
 		"zpos"			"1"
 		

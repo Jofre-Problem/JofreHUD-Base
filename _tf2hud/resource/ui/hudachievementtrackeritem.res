@@ -24,7 +24,7 @@
 		"tall"			"10"
 		"zpos"			"4"
 		"textinsetx"	"5"
-		"font"			"AchievementTracker_Name"
+		"font"			"TFFontMedium"
 		"textAlignment"		"north-west"
 	}
 	"AchievementNameGlow"
@@ -38,7 +38,7 @@
 		"tall"			"10"
 		"zpos"			"4"
 		"fgcolor_override"		"TanLight"
-		"font"			"AchievementTracker_NameGlow"
+		"font"			"TFFontMedium"
 		"textinsetx"	"5"
 		"textAlignment"		"north-west"
 	}

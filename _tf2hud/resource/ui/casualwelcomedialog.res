@@ -44,7 +44,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SubtitleLabel"
-		"font"			"Link"
+		"font"			"ScoreboardSmall"
 		"labelText"		"#TF_Casual_Welcome_Subtitle"
 		"textAlignment"	"north"
 		"proportionalToParent"  "1"

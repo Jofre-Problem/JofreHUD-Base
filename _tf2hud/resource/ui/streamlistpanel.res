@@ -4,29 +4,29 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HeaderContainer"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"300"
 		"tall"			"22"
-		//"visible"		"1"
+		"visible"		"1"
 			
 		"HeaderLabel"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"HeaderLabel"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			"labelText"		"#MMenu_Stream_LiveStream"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"wide"			"300"
 			"tall"			"24"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"PaintBackgroundType" "2"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"235 226 202 255"
 			"bgcolor_override"	"184 108 55 255"
 		}
 	}
@@ -40,16 +40,16 @@
 		"zpos"			"10"
 		"wide"			"14"
 		"tall"			"14"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labeltext"		""
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"default"		"0"
 
 		"navDown"			"MOTD_URLButton"
@@ -61,11 +61,11 @@
 			
 		"paintbackground"	"0"
 			
-		//"defaultFgColor_override" "TanLight"
-		//"armedFgColor_override" "TanDarker"
-		"defaultFgColor_override" "TanDarker"
-		"armedFgColor_override" "TanLight"
-		"depressedFgColor_override" "TanDarker"
+		//"defaultFgColor_override" "235 226 202 255"
+		//"armedFgColor_override" "46 43 42 255"
+		"defaultFgColor_override" "46 43 42 255"
+		"armedFgColor_override" "235 226 202 255"
+		"depressedFgColor_override" "46 43 42 255"
 			
 		"image_drawcolor"	"235 226 202 255"
 		"image_armedcolor"	"200 80 60 255"
@@ -73,13 +73,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			
-			
-			//"zpos"			"1"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"close_button"
 			"scaleImage"	"1"
 		}				
@@ -89,17 +89,17 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"labelText"		"#MMenu_Stream_Title"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"xpos"			"5"
 		"ypos"			"26"
 		"wide"			"200"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fgcolor"		"56 53 49 255"
 	}
 
@@ -107,14 +107,14 @@
 	{
 		"ControlName"	"CTFStreamPanel"
 		"fieldName"		"Stream1"
-		
+		"xpos"			"0"
 		"ypos"			"50"
 		"wide"			"p1"
 		"tall"			"50"
 		"autoResize"	"1"
-		
-		//"visible"		"1"
-		
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -122,14 +122,14 @@
 	{
 		"ControlName"	"CTFStreamPanel"
 		"fieldName"		"Stream2"
-		
+		"xpos"			"0"
 		"ypos"			"105"
 		"wide"			"p1"
 		"tall"			"50"
 		"autoResize"	"1"
-		
-		//"visible"		"1"
-		
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -137,14 +137,14 @@
 	{
 		"ControlName"	"CTFStreamPanel"
 		"fieldName"		"Stream3"
-		
+		"xpos"			"0"
 		"ypos"			"160"
 		"wide"			"p1"
 		"tall"			"50"
 		"autoResize"	"1"
-		
-		//"visible"		"1"
-		
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -152,14 +152,14 @@
 	{
 		"ControlName"	"CTFStreamPanel"
 		"fieldName"		"Stream4"
-		
+		"xpos"			"0"
 		"ypos"			"215"
 		"wide"			"p1"
 		"tall"			"50"
 		"autoResize"	"1"
-		
-		//"visible"		"1"
-		
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -167,14 +167,14 @@
 	{
 		"ControlName"	"CTFStreamPanel"
 		"fieldName"		"Stream5"
-		
+		"xpos"			"0"
 		"ypos"			"270"
 		"wide"			"p1"
 		"tall"			"50"
 		"autoResize"	"1"
-		
-		//"visible"		"1"
-		
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -186,27 +186,27 @@
 		"ypos"			"327"
 		"wide"			"150"
 		"tall"			"15"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#MMenu_Stream_ViewMore"
 		"textinsetx"	"20"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmallest"
+		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
-		//"Default"		"1"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"default"		"1"
 		"command"		"view_more"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 			
-		"defaultFgColor_override" "TanLight"
-		"defaultBgColor_override" "TanDarker"
-		"armedFgColor_override" "TanLight"
+		"defaultFgColor_override" "235 226 202 255"
+		"defaultBgColor_override" "46 43 42 255"
+		"armedFgColor_override" "235 226 202 255"
 		"depressedFgColor_override" "235 226 202 255"
 	}	
 }

@@ -148,7 +148,7 @@ Scheme
 		{
 			"1"	[$X360]
 			{
-				//"tall_hidef"		"24"
+				////"tall_hidef"		"24"
 			}
 		}
 
@@ -158,7 +158,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"35"
-				//"tall_lodef"	"40"
+				////"tall_lodef"	"40"
 				"weight"	"500"
 				//"additive"	"0"
 				"antialias" "1"

@@ -8,11 +8,11 @@
 		"ypos"			"c-75"
 		"wide"			"320"
 		"tall"			"150"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"59 54 48 255"
 	}
@@ -21,19 +21,19 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DirectionsLabel"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"labelText"		"#Replay_Contest_SubmitFormDirections"
 		"textAlignment"	"center"
-		
+		"xpos"			"0"
 		"ypos"			"25"
 		"zpos"			"1"
 		"wide"			"320"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
-		//"wrap"			"0"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"wrap"			"0"
 	}
 	
 	"URLInput"
@@ -42,22 +42,22 @@
 		"fieldName"		"URLInput"
 		"maxchars"		"255"
 		"textHidden"	"0"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"unicode"		"1"
-		//"wrap"			"0"
+		"wrap"			"0"
 		"xpos"			"60"
 		"ypos"			"55"
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"15"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"fgcolor_override"		"0 0 0 255"
 		"bgcolor_override"		"202 190 164 255"
-		"Font"			"HudFontSmallest"
+		"Font"			"HudFontSmallestBold"
 		
 		"selectallonfirstfocus"	"1"
 	}
@@ -66,24 +66,24 @@
 	{
 		"ControlName"	"ComboBox"
 		"fieldName"		"CategoryCombo"
-		//"textAlignment"	"west"
-		//"wrap"			"0"
+		"textAlignment"	"west"
+		"wrap"			"0"
 		"xpos"			"60"
 		"ypos"			"75"
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"15"
-		
-		
-		//"visible"		"1"
-		
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"tabPosition"	"10"
 		"editable"		"0"
 		"fgcolor_override"		"0 0 0 255"
 		"bgcolor_override"		"202 190 164 255"
-		"Font"			"HudFontSmallest"
+		"Font"			"HudFontSmallestBold"
 	}
 	
 	"CancelButton"
@@ -95,16 +95,16 @@
 		"zpos"			"1"
 		"wide"			"90"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Cancel"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		////"dulltext"		"0"
+		"dulltext"		"0"
 		"brighttext"	"1"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -120,16 +120,16 @@
 		"zpos"			"1"
 		"wide"			"90"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Contest_Rules"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		////"dulltext"		"0"
+		"dulltext"		"0"
 		"brighttext"	"1"
 		"Command"		"rules"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -145,17 +145,17 @@
 		"zpos"			"1"
 		"wide"			"90"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"	"2"
 		"labelText"		"#Replay_Contest_Submit"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"submit"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

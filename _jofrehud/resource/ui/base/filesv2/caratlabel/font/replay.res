@@ -2,6 +2,6 @@
 {
 	"CaratLabel"
 	{
-		"font"			"ReplayMediumSmall"
+		"font"			"HudFontSmallest"
 	}
 }	

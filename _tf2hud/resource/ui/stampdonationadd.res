@@ -8,38 +8,38 @@
 		"ypos"			"90"
 		"wide"			"450"
 		"tall"			"260"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"settitlebarvisible"	"0"
-		//"PaintBackgroundType"	"0"
+		"PaintBackgroundType"	"0"
 	}
 	
 	"TitleLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontMediumSecondary"
+		"font"			"HudFontMediumBold"
 		"labelText"		"#ConfirmTitle"
 		"textAlignment"	"north"
-		
+		"xpos"			"0"
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"450"
 		"tall"			"30"
 		"autoResize"	"1"
-		
-		//"visible"		"1"
-		
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 	}
 	
 	"ExplanationLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ExplanationLabel"
-		"font"			"HudFontSmallest"
+		"font"			"HudFontSmallestBold"
 		"labelText"		"%text%"
 		"textAlignment"	"north-west"
 		"xpos"			"35"
@@ -47,12 +47,12 @@
 		"zpos"			"1"
 		"wide"			"340"
 		"tall"			"50"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "LightRed"
+		"fgcolor_override" "200 80 60 255"
 	}
 
 	"ExplanationLabel2"
@@ -67,12 +67,12 @@
 		"zpos"			"1"
 		"wide"			"330"
 		"tall"			"170"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "LightRed"
+		"fgcolor_override" "200 80 60 255"
 	}
 
 	"ItemImagePanel"
@@ -83,11 +83,11 @@
 		"ypos"			"20"
 		"wide"			"150"
 		"tall"			"150"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"scaleImage"		"1"
 	}
 
@@ -99,11 +99,11 @@
 		"ypos"			"95"
 		"wide"			"140"
 		"tall"			"140"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"scaleImage"		"1"
 	}
 
@@ -116,16 +116,16 @@
 		"zpos"			"20"
 		"wide"			"175"
 		"tall"			"25"
-		
-		
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#Store_Nope"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"nope"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -140,17 +140,17 @@
 		"zpos"			"20"
 		"wide"			"175"
 		"tall"			"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#Store_AddToCart"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"add_stamp_to_cart"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/vote_success.wav"
@@ -160,7 +160,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PriceLabel"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"labelText"		"%price%"
 		"textAlignment"	"north-east"
 		"xpos"			"345"
@@ -168,10 +168,10 @@
 		"zpos"			"25"
 		"wide"			"100"
 		"tall"			"25"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"centerwrap"	"1"
 		"fgcolor_override" "121 195 58 255"
 	}

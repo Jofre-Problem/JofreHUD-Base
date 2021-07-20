@@ -85,7 +85,7 @@
 			"textAlignment"		"south-west"
 			"Command"			""
 			"Default"			"0"
-			"font"				"MenuKeys"
+			"font"				"Default"
 			"scaleImage"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -457,7 +457,7 @@
 		
 		"attriblabel"
 		{
-			"font"			"ItemFontAttribLarge"
+			"font"			"HudFontSmallest"
 			
 			"ypos"			"30"
 			"zpos"			"2"

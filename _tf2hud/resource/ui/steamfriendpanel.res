@@ -15,8 +15,8 @@
 	"InteractButton"
 	{
 		"fieldName"	"InteractButton"
-		
-		//"ypos"		"0"
+		"xpos"		"0"
+		"ypos"		"0"
 		"zpos"		"-1"
 		"wide"		"f0"
 		"tall"		"f0"
@@ -26,9 +26,9 @@
 		"textalignment"	"center"
 		"stay_armed_on_click"	"1"
 		"roundedcorners"	"0"
-		//"paintbackground"	"1"
+		"paintbackground"	"1"
 
-		"defaultBgColor_override"	"Blank"
+		"defaultBgColor_override"	"0 0 0 0"
 		"armedBgColor_override"	"94 150 49 5"
 
 		"border_default"	"NoBorder"
@@ -40,15 +40,15 @@
 		"ControlName"			"Label"
 		"fieldName"				"NameLabel"
 		"xpos"					"rs1"
-		
+		"ypos"					"0"
 		"zpos"					"100"
 		"wide"					"f22"
 		"tall"					"10"
 		"textAlignment"			"north-west"
-		
-		
+		"visible"				"1"
+		"enabled"				"1"
 		"proportionaltoparent"	"1"
-		//"wrap"					"0"
+		"wrap"					"0"
 		"labelText"				"%name%"
 		"proportionaltoparent"	"1"
 		"font"					"ControlPointTimer"
@@ -64,13 +64,13 @@
 		"wide"					"f22"
 		"tall"					"10"
 		"textAlignment"			"north-west"
-		
-		
+		"visible"				"1"
+		"enabled"				"1"
 		"proportionaltoparent"	"1"
-		//"wrap"					"0"
+		"wrap"					"0"
 		"labelText"				"%status%"
 		"proportionaltoparent"	"1"
-		"font"					"ControlPointTimerSmaller"
+		"font"					"QuestObjectiveTracker_Desc"
 		"fgcolor_override"				"TanDark"
 		"mouseinputenabled"		"0"
 	}

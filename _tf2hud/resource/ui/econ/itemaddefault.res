@@ -38,7 +38,7 @@
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 
-		"font"			"AdFont_ItemName"
+		"font"			"ScoreboardSmall"
 		"fgcolor"	"235 227 203 255"
 		"use_proportional_insets"	"1"
 		"textinsetx"	"5"

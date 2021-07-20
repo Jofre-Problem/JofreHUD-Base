@@ -143,7 +143,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CurrentlyEquippedBackground"
-			"font"			"ItemFontNameSmall"
+			"font"			"TFFontMedium"
 			"labelText"		"#QuickSwitchEquipped"
 			"textAlignment"	"north-west"
 			"xpos"			"3"
@@ -162,7 +162,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NoItemsLabel"
-		"font"			"ItemFontNameSmall"
+		"font"			"TFFontMedium"
 		"labelText"		"#NoItemsToEquip"
 		"textAlignment"	"center"
 		"xpos"			"3"

@@ -9,8 +9,8 @@
 		"zpos"				"1"
 		"wide"				"320"
 		"tall"				"90"
-		//"visible"			"1"
-		
+		"visible"			"1"
+		"enabled"			"1"
 	}
 	"GoalLabel"
 	{	
@@ -24,10 +24,10 @@
 		"wide"			"300"
 		"tall"			"20"
 
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"wrap"			"1"
 		"labelText"		"%goal%"
 		"font"			"GoalText"
@@ -45,10 +45,10 @@
 		"wide"			"300"
 		"tall"			"20"
 
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"wrap"			"1"
 		"labelText"		"%goal%"
 		"font"			"GoalText"
@@ -66,12 +66,12 @@
 		"wide"			"280"
 		"tall"			"45"
 
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"wrap"			"1"
-		"labeltext"		""
+		"labelText"		""
 		"textAlignment"		"North"
 		"font"			"InstructionalText"
 	}
@@ -87,10 +87,10 @@
 		"wide"			"280"
 		"tall"			"15"
 
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"wrap"			"1"
 		"labelText"		"#TF_Training_SpaceToContinue"
 		"textAlignment"	"North"
@@ -107,10 +107,10 @@
 		"wide"			"330"
 		"tall"			"205"
 
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../hud/death_panel_blue_bg"
 		"scaleImage"		"1"
 		"teambg_2"		"../hud/death_panel_red_bg"

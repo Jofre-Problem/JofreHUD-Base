@@ -9,10 +9,10 @@
 		"zpos"			"1"
 		"wide"			"20"
 		"tall"			"100"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../hud/color_panel_blu"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/color_panel_red"
@@ -29,15 +29,15 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"localPlayerBG"
-		
+		"xpos"			"0"
 		"ypos"			"140"
 		"zpos"			"2"
 		"wide"			"45"
 		"tall"			"80"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../hud/color_panel_clear"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/color_panel_clear"
@@ -59,11 +59,11 @@
 		"zpos"			"6"
 		"wide"			"400"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
-		"font"			"HudFontMediumSecondary"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"font"			"HudFontMediumBold"
 		"labelText"		"#TF_Arena_Team_Layout"
 		"textAlignment"	"center"
 		"fgcolor"		"TanLight"
@@ -77,11 +77,11 @@
 		"zpos"			"5"
 		"wide"			"400"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
-		"font"			"HudFontMediumSecondary"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"font"			"HudFontMediumBold"
 		"labelText"		"#TF_Arena_Team_Layout"
 		"textAlignment"	"center"
 		"fgcolor"		"Black"
@@ -96,11 +96,11 @@
 		"zpos"			"6"
 		"wide"			"440"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
-		"font"			"HudFontSmall"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"font"			"HudFontSmallBold"
 		"labelText"		"#TF_Arena_F4_ChangeClass"
 		"textAlignment"	"center"
 		"fgcolor"		"TanLight"
@@ -114,11 +114,11 @@
 		"zpos"			"5"
 		"wide"			"440"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
-		"font"			"HudFontSmall"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"font"			"HudFontSmallBold"
 		"labelText"		"#TF_Arena_F4_ChangeClass"
 		"textAlignment"	"center"
 		"fgcolor"		"Black"
@@ -128,13 +128,13 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage0"
-		
+		"xpos"			"0"
 		"ypos"			"125"
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -142,13 +142,13 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage1"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -156,13 +156,13 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage2"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -170,13 +170,13 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage3"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -184,13 +184,13 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage4"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -198,13 +198,13 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage5"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -212,13 +212,13 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage6"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -226,13 +226,13 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage7"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -240,13 +240,13 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage8"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -254,13 +254,13 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage9"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -268,13 +268,13 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage10"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -282,13 +282,13 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classImage11"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"45"
 		"tall"			"90"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			""	
 		"scaleImage"	"1"	
 	}

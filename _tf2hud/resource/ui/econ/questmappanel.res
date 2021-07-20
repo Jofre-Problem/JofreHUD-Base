@@ -63,7 +63,7 @@
 		
 			"attriblabel"
 			{
-				"font"			"ItemFontAttribLarge"
+				"font"			"HudFontSmallest"
 				
 				"ypos"			"30"
 				"zpos"			"2"

@@ -4,11 +4,11 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"Marker"
-		"font"			"HudFontSmallest"
+		"font"			"HudFontSmallestBold"
 		"labelText"		"x"
 		"textAlignment" "center"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"32"
 		"tall"			"32"
 		"fgcolor_override"		"100 50 50 250"
@@ -18,15 +18,15 @@
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"EconItemModel"
-		
+		"xpos"			"0"
 		"ypos"			"6"
 		"wide"			"32"
 		"tall"			"20"
 				
-		//"visible"		"1"
-		"bgcolor_override"		"Blank"
+		"visible"		"1"
+		"bgcolor_override"		"0 0 0 0"
 		"PaintBackgroundType"	"2"
-		//"paintborder"	"0"
+		"paintborder"	"0"
 		
 		"model_ypos"	"0"
 		"model_tall"	"20"

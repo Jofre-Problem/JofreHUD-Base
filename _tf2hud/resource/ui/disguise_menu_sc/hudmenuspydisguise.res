@@ -26,7 +26,7 @@
 		"zpos"			"3"
 		"wide"			"300"
 		"tall"			"45"
-		//"tall_lodef"	"46"
+		////"tall_lodef"	"46"
 		
 		
 		//"visible"		"1"
@@ -47,7 +47,7 @@
 		"ypos"			"2"
 		"zpos"			"3"
 		"wide"			"300"
-		//"tall_lodef"	"46"
+		////"tall_lodef"	"46"
 		
 		
 		//"visible"		"1"

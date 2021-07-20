@@ -40,7 +40,7 @@
 				"zpos"			"4"
 				"textinsetx"	"5"
 				"fgcolor_override"		"TanLight"
-				"font"			"AchievementTracker_Name"
+				"font"			"TFFontMedium"
 				//"wrap"			"1"
 				"TextAlignment"		"east"
 				"proportionaltoparent" "1"

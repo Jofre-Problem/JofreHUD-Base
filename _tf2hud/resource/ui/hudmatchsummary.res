@@ -4,9 +4,9 @@
 	{
 		"ControlName"	"CTFMatchSummary"
 		"fieldName"		"MatchSummary"
-		
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"tabPosition"	"0"
 		"paintbackground"	"0"
 		"zpos"			"20"
 		"visible"		"0"
@@ -60,7 +60,7 @@
 
 		if_uses_xp
 		{
-			//"visible"		"1"
+			"visible"		"1"
 		}
 	}
 
@@ -73,9 +73,9 @@
 		"zpos"			"9001"
 		"wide"			"f0"
 		"tall"			"480"
-		//"visible"		"1"
+		"visible"		"1"
 		"proportionaltoparent"	"1"
-		//"mouseinputenabled"	"1"
+		"mouseinputenabled"	"1"
 
 		"matchgroup"	"MatchGroup_Ladder_6v6"
 		"show_name"		"0"
@@ -99,9 +99,9 @@
 		"zpos"			"9002"
 		"wide"			"2000"
 		"tall"			"2000"
-		//"visible"		"1"
+		"visible"		"1"
 		"proportionaltoparent"	"1"
-		//"mouseinputenabled"	"1"
+		"mouseinputenabled"	"1"
 
 		"matchgroup"	"MatchGroup_Casual_12v12"
 
@@ -118,13 +118,13 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"StatsBgPanel"
-		
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"PaintBackgroundType"	"1"
 		"bgcolor_override" "0 0 0 250"
 	}
@@ -139,7 +139,7 @@
 		"tall"			"480"
 		"zpos"					"60"
 		"visible"				"0"
-		
+		"enabled"				"1"
 		"keyboardinputenabled"	"0"
 
 		"linecolor"			"RedSolid"
@@ -151,8 +151,8 @@
 	{
 		"Controlname"	"EditablePanel"
 		"fieldnName"	"MainStatsContainer"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -162,12 +162,12 @@
 		{
 			"ControlName"	"CTFParticlePanel"
 			"fieldName"		"ParticlePanel"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"55"
 			"wide"			"f0"
 			"tall"			"f0"
-			//"visible"		"1"
+			"visible"		"1"
 		}
 
 		"StatsLabelPanel"
@@ -180,8 +180,8 @@
 			"wide"			"200"
 			"tall"			"15"
 			"visible"		"0"
-			
-			
+			"enabled"		"1"
+			"autoResize"	"0"
 
 			"StatsAndMedals"
 			{
@@ -190,15 +190,15 @@
 				"font"			"MatchSummaryStatsAndMedals"
 				"labelText"		"#TF_StatsAndMedals"
 				"textAlignment"		"center"
-				
-				
+				"xpos"			"0"
+				"ypos"			"0"
 				"zpos"			"4"
 				"wide"			"200"
 				"tall"			"15"
-				
-				
-				//"visible"		"1"
-				
+				"autoResize"	"0"
+				"pinCorner"		"0"
+				"visible"		"1"
+				"enabled"		"1"
 			}
 
  			"StatsAndMedalsShadow"
@@ -214,10 +214,10 @@
 				"zpos"			"3"
 				"wide"			"200"
 				"tall"			"15"
-				
-				
-				//"visible"		"1"
-				
+				"autoResize"	"0"
+				"pinCorner"		"0"
+				"visible"		"1"
+				"enabled"		"1"
 			}
 		}
 
@@ -225,25 +225,25 @@
 		{
 			"ControlName"		"EditablePanel"
 			"fieldName"		"TeamScoresPanel"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"50"
 			"wide"			"f0"
 			"tall"			"f0"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 
 			"BlueTeamPanel"
 			{
 	 			"ControlName"		"EditablePanel"
 				"fieldName"		"BlueTeamPanel"
 				"xpos"			"-320"
-				
-				
+				"ypos"			"0"
+				"zpos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
-				//"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 
 				"BlueTeamScoreBG"
 				{
@@ -254,10 +254,10 @@
 					"zpos"			"2"
 					"wide"			"p.213"
 					"tall"			"36"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 					"border"		"TFFatLineBorderBlueBGOpaque"
 
 					if_large
@@ -277,10 +277,10 @@
 					"zpos"			"4"
 					"wide"			"p.19"
 					"tall"			"30"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 
 					if_large
 					{
@@ -301,10 +301,10 @@
 					"zpos"			"3"
 					"wide"			"p.19"
 					"tall"			"30"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 
 					if_large
 					{
@@ -323,10 +323,10 @@
 					"zpos"			"4"
 					"wide"			"p.19"
 					"tall"			"30"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 
 					if_large
 					{
@@ -346,10 +346,10 @@
 					"zpos"			"3"
 					"wide"			"p.19"
 					"tall"			"30"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 
 					if_large
 					{
@@ -365,8 +365,8 @@
 					"zpos"			"5"
 					"wide"			"56"
 					"tall"			"56"
-					//"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"image"			"../hud/team_blue"
 					"scaleImage"		"1"
 
@@ -381,16 +381,16 @@
 					"fieldName"		"BlueTeamLabel"
 					"font"			"CompMatchStartTeamNames"
 					"labelText"		"%blueteamname%"
-					//"textAlignment"		"west"
+					"textAlignment"		"west"
 					"xpos"			"60"
 					"ypos"			"-25"
 					"zpos"			"20"
 					"wide"			"195"
 					"tall"			"20"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"		"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 				}
 				"BlueLeaderAvatar"
 				{
@@ -402,7 +402,7 @@
 					"wide"			"34"
 					"tall"			"34"
 					"visible"		"0"
-					
+					"enabled"		"1"
 					"image"			""
 					"scaleImage"	"1"	
 					"color_outline"	"52 48 45 255"
@@ -421,9 +421,9 @@
 					"zpos"			"4"
 					"wide"			"38"
 					"tall"			"38"
-					//"visible"		"1"
+					"visible"		"1"
 					"PaintBackgroundType"	"2"
-					"bgcolor_override"	"TanDark"
+					"bgcolor_override"	"117 107 94 255"
 
 					if_large
 					{
@@ -439,8 +439,8 @@
 					"zpos"			"1"
 					"wide"			"p.193"
 					"tall"			"215"
-					//"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 
 					if_large
 					{
@@ -452,15 +452,15 @@
 					{
 						"ControlName"	"TFSectionedListPanel"
 						"fieldName"		"BluePlayerList"
-						
-						
+						"xpos"			"0"
+						"ypos"			"0"
 						"zpos"			"1"
 						"wide"			"p.465"
 						"tall"			"205"
-						//"visible"		"1"
-						
-						
-						
+						"visible"		"1"
+						"enabled"		"1"
+						"tabPosition"	"0"
+						"autoresize"	"0"
 						"linespacing"	"26"
 						"linegap"		"4"
 						//"show_columns"	"1"
@@ -487,13 +487,13 @@
 					"fieldName"		"BluePlayerListBG"
 					"xpos"			"9"
 					"ypos"			"117"
-					
+					"zpos"			"0"
 					"wide"			"p.2"
 					"tall"			"225"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 					"border"		"TFFatLineBorderClearBG"
 
 					if_large
@@ -508,12 +508,12 @@
 	 			"ControlName"		"EditablePanel"
 				"fieldName"		"RedTeamPanel"
 				"xpos"			"320"
-				
-				
+				"ypos"			"0"
+				"zpos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
-				//"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 
 				"RedTeamScoreBG"
 				{
@@ -524,10 +524,10 @@
 					"zpos"			"2"
 					"wide"			"p.213"
 					"tall"			"36"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 					"border"		"TFFatLineBorderRedBGOpaque"
 
 					if_large
@@ -541,16 +541,16 @@
 					"fieldName"		"RedTeamScore"
 					"font"			"MatchSummaryTeamScores"
 					"labelText"		"%redteamscore%"
-					//"textAlignment"		"west"
+					"textAlignment"		"west"
 					"xpos"			"r5-p.19"
 					"ypos"			"103"
 					"zpos"			"4"
 					"wide"			"p.19"
 					"tall"			"30"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 
 					if_large
 					{
@@ -564,16 +564,16 @@
 					"font"			"MatchSummaryTeamScores"
 					"fgcolor"		"Black"
 					"labelText"		"%redteamscore%"
-					//"textAlignment"		"west"
+					"textAlignment"		"west"
 					"xpos"			"r4-p.19"
 					"ypos"			"104"
 					"zpos"			"3"
 					"wide"			"p.19"
 					"tall"			"30"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 
 					if_large
 					{
@@ -586,16 +586,16 @@
 					"fieldName"		"RedTeamWinner"
 					"font"			"MatchSummaryWinner"
 					"labelText"		"%redteamwinner%"
-					//"textAlignment"		"west"
+					"textAlignment"		"west"
 					"xpos"			"r5-p.19"
 					"ypos"			"103"
 					"zpos"			"4"
 					"wide"			"p.19"
 					"tall"			"30"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 
 					if_large
 					{
@@ -609,16 +609,16 @@
 					"font"			"MatchSummaryWinner"
 					"fgcolor"		"Black"
 					"labelText"		"%redteamwinner%"
-					//"textAlignment"		"west"
+					"textAlignment"		"west"
 					"xpos"			"r4-p.19"
 					"ypos"			"104"
 					"zpos"			"3"
 					"wide"			"p.19"
 					"tall"			"30"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 
 					if_large
 					{
@@ -634,8 +634,8 @@
 					"zpos"			"5"
 					"wide"			"70"
 					"tall"			"70"
-					//"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"image"			"../hud/team_red"
 					"scaleImage"		"1"
 
@@ -656,10 +656,10 @@
 					"zpos"			"20"
 					"wide"			"195"
 					"tall"			"20"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"		"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 				}
 				"RedLeaderAvatar"
 				{
@@ -671,7 +671,7 @@
 					"wide"			"34"
 					"tall"			"34"
 					"visible"		"0"
-					
+					"enabled"		"1"
 					"image"			""
 					"scaleImage"	"1"	
 					"color_outline"	"52 48 45 255"
@@ -690,9 +690,9 @@
 					"zpos"			"4"
 					"wide"			"38"
 					"tall"			"38"
-					//"visible"		"1"
+					"visible"		"1"
 					"PaintBackgroundType"	"2"
-					"bgcolor_override"	"TanDark"
+					"bgcolor_override"	"117 107 94 255"
 
 					if_large
 					{
@@ -708,8 +708,8 @@
 					"zpos"			"1"
 					"wide"			"p.193"
 					"tall"			"215"
-					//"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 
 					if_large
 					{
@@ -721,15 +721,15 @@
 					{
 						"ControlName"	"TFSectionedListPanel"
 						"fieldName"		"RedPlayerList"
-						
-						
+						"xpos"			"0"
+						"ypos"			"0"
 						"zpos"			"1"
 						"wide"			"p.465"
 						"tall"			"205"
-						//"visible"		"1"
-						
-						
-						
+						"visible"		"1"
+						"enabled"		"1"
+						"tabPosition"	"0"
+						"autoresize"	"0"
 						"linespacing"	"26"
 						"linegap"		"4"
 						//"show_columns"	"1"
@@ -756,13 +756,13 @@
 					"fieldName"		"RedPlayerListBG"
 					"xpos"			"r9-p.2"
 					"ypos"			"117"
-					
+					"zpos"			"0"
 					"wide"			"p.2"
 					"tall"			"225"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 					"border"		"TFFatLineBorderClearBG"
 
 					if_large
@@ -781,8 +781,8 @@
 				"zpos"			"50"
 				"wide"			"150"
 				"tall"			"15"
-				//"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 
 				if_large
 				{
@@ -793,13 +793,13 @@
 				{
 					"ControlName"		"ImagePanel"
 					"fieldName"		"BlueGoldMedal"
-					
-					
+					"xpos"			"0"
+					"ypos"			"0"
 					"zpos"			"5"
 					"wide"			"15"
 					"tall"			"15"
-					//"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"image"			"competitive/competitive_coin_gold"
 					"scaleImage"		"1"
 				}
@@ -811,26 +811,26 @@
 					"labelText"		"%blueteammedals_gold%"
 					"textAlignment"		"center"
 					"xpos"			"15"
-					
+					"ypos"			"0"
 					"zpos"			"6"
 					"wide"			"15"
 					"tall"			"15"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 				}
 				"BlueSilverMedal"
 				{
 					"ControlName"		"ImagePanel"
 					"fieldName"		"BlueSilverMedal"
 					"xpos"			"55"
-					
+					"ypos"			"0"
 					"zpos"			"5"
 					"wide"			"15"
 					"tall"			"15"
-					//"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"image"			"competitive/competitive_coin_silver"
 					"scaleImage"		"1"
 				}
@@ -842,26 +842,26 @@
 					"labelText"		"%blueteammedals_silver%"
 					"textAlignment"		"center"
 					"xpos"			"70"
-					
+					"ypos"			"0"
 					"zpos"			"6"
 					"wide"			"15"
 					"tall"			"15"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 				}
 				"BlueBronzeMedal"
 				{
 					"ControlName"		"ImagePanel"
 					"fieldName"		"BlueBronzeMedal"
 					"xpos"			"110"
-					
+					"ypos"			"0"
 					"zpos"			"5"
 					"wide"			"15"
 					"tall"			"15"
-					//"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"image"			"competitive/competitive_coin_bronze"
 					"scaleImage"		"1"
 				}
@@ -873,14 +873,14 @@
 					"labelText"		"%blueteammedals_bronze%"
 					"textAlignment"		"center"
 					"xpos"			"125"
-					
+					"ypos"			"0"
 					"zpos"			"6"
 					"wide"			"15"
 					"tall"			"15"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 				}
 			}
 			"RedMedals"
@@ -892,8 +892,8 @@
 				"zpos"			"50"
 				"wide"			"150"
 				"tall"			"15"
-				//"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 
 				if_large
 				{
@@ -904,13 +904,13 @@
 				{
 					"ControlName"		"ImagePanel"
 					"fieldName"		"RedGoldMedal"
-					
-					
+					"xpos"			"0"
+					"ypos"			"0"
 					"zpos"			"5"
 					"wide"			"15"
 					"tall"			"15"
-					//"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"image"			"competitive/competitive_coin_gold"
 					"scaleImage"		"1"
 				}
@@ -922,26 +922,26 @@
 					"labelText"		"%redteammedals_gold%"
 					"textAlignment"		"center"
 					"xpos"			"15"
-					
+					"ypos"			"0"
 					"zpos"			"6"
 					"wide"			"15"
 					"tall"			"15"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 				}
 				"RedSilverMedal"
 				{
 					"ControlName"		"ImagePanel"
 					"fieldName"		"RedSilverMedal"
 					"xpos"			"55"
-					
+					"ypos"			"0"
 					"zpos"			"5"
 					"wide"			"15"
 					"tall"			"15"
-					//"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"image"			"competitive/competitive_coin_silver"
 					"scaleImage"		"1"
 				}
@@ -953,26 +953,26 @@
 					"labelText"		"%redteammedals_silver%"
 					"textAlignment"		"center"
 					"xpos"			"70"
-					
+					"ypos"			"0"
 					"zpos"			"6"
 					"wide"			"15"
 					"tall"			"15"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 				}
 				"RedBronzeMedal"
 				{
 					"ControlName"		"ImagePanel"
 					"fieldName"		"RedBronzeMedal"
 					"xpos"			"110"
-					
+					"ypos"			"0"
 					"zpos"			"5"
 					"wide"			"15"
 					"tall"			"15"
-					//"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"image"			"competitive/competitive_coin_bronze"
 					"scaleImage"		"1"
 				}
@@ -984,14 +984,14 @@
 					"labelText"		"%redteammedals_bronze%"
 					"textAlignment"		"center"
 					"xpos"			"125"
-					
+					"ypos"			"0"
 					"zpos"			"6"
 					"wide"			"15"
 					"tall"			"15"
-					
-					
-					//"visible"		"1"
-					
+					"autoResize"	"0"
+					"pinCorner"		"0"
+					"visible"		"1"
+					"enabled"		"1"
 				}
 			}
 		}

@@ -83,7 +83,7 @@
 		
 		
 		"labelText"		"#Replay_RenderNow"
-		"font"			"ReplayMediumSmall"
+		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -108,7 +108,7 @@
 		
 		
 		"labelText"		"#Replay_TakeMeToReplays"
-		"font"			"ReplayMediumSmall"
+		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -133,7 +133,7 @@
 		
 		
 		"labelText"		"#Replay_YesReallyQuit"
-		"font"			"ReplayMediumSmall"
+		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"

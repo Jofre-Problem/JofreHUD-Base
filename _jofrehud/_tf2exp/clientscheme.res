@@ -1,13 +1,4 @@
-//
-// TRACKER SCHEME RESOURCE FILE
-//
-// sections:
-//		colors			- all the colors used by the scheme
-//		basesettings	- contains settings for app to use to draw controls
-//		fonts			- list of all the fonts used by app
-//		borders			- description of all the borders
-//
-//
+#base "clientscheme_unused.res"
 Scheme
 {
 	//Name - currently overriden in code
@@ -676,18 +667,6 @@ Scheme
 				//"antialias" 	"1"
 			}
 		}
-//		"HudFontSmallestShadow"
-//		{
-//			"1"
-//			{
-//				"name"		"Segoe UI"
-//				"tall"		"11"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" 	"1"
-				//"dropshadow"	"1"
-//			}
-//		}
 		"PerformanceModeSmall"
 		{
 			"1"
@@ -710,52 +689,15 @@ Scheme
 				//"antialias" "1"
 			}
 		}
-		"FontStorePrice"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"9"
-				//"weight"	"0"
-				//"additive"	"0"
-				//"antialias" "1"
-			}
-		}
-		"FontStoreOriginalPrice"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"9"
-				//"weight"	"0"
-				//"additive"	"0"
-				//"antialias" "1"
-			}
-		}
 		"FontStorePromotion"
 		{
 			"1"
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"
-				//"tall_hidef"	"14"
-				//"tall_lodef"	"16"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"antialias" "1"
 			}
 		}
-		"TextTooltipFont"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"11"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
-			}
-		}
+
 		GameUIButtons
 		{
 			"1"	//[$X360]
@@ -846,9 +788,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"9"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
 			}
 		}
 		"ClockSubTextSuddenDeath"
@@ -857,11 +796,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"8"
-				//"tall_hidef"	"9"
-				//"tall_lodef"	"10"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
 			}
 		}
 		"ClockSubTextTiny"
@@ -1043,25 +977,13 @@ Scheme
 				//"weight"	"500"
 			}
 		}
-		"MenuClassBuckets"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"11"
-				//"tall_lodef"	"14"
-				//"antialias" "1"
-				//"weight"	"500"
-			}
-		}
+
 		"MenuKeys"
 		{
 			"1"
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"
-				//"antialias" "1"
-				//"weight"	"500"
 			}
 		}
 		
@@ -1085,12 +1007,6 @@ Scheme
 			{
 				"name"			"Segoe UI"
 				"tall"			"28"
-				//"tall_lodef"	"48"
-				//"tall_hidef"	"48"
-				//"antialias"		"1" 
-				//"weight"		"500"
-				//"weight_lodef"	"800"
-				//"weight_hidef"	"1000"
 			}
 		}
 		"ChalkboardTitleBig"
@@ -1099,12 +1015,6 @@ Scheme
 			{
 				"name"			"Segoe UI"
 				"tall"			"40"
-				//"tall_lodef"	"48"
-				//"tall_hidef"	"48"
-				//"antialias"		"1"
-				//"weight"		"500"
-				//"weight_lodef"	"800"
-				//"weight_hidef"	"1000"
 			}
 		}
 		"ChalkboardTitleMedium"
@@ -1113,10 +1023,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"24"
-				//"tall_lodef"	"36"
-				//"tall_hidef"	"36"
-				//"antialias" "1"
-				//"weight"	"500"
 			}
 		}
 		"ChalkboardText"
@@ -1125,10 +1031,6 @@ Scheme
 			{
 				"name"			"Segoe UI"
 				"tall"			"14"
-				//"tall_lodef"	"32"
-				//"tall_hidef"	"32"
-				//"antialias"		"1"
-				//"weight"		"500"
 			}
 		}
 		"ScoreboardSmallest"
@@ -1137,9 +1039,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"6"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"antialias" "1"
 			}
 		}
 		"ScoreboardVerySmall"
@@ -1148,11 +1047,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"8"
-				//"tall_hidef"	"10"
-				//"tall_lodef"	"14"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"antialias" "1"
 			}
 		}
 		"ScoreboardSmall"
@@ -1161,11 +1055,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"10"
-				//"tall_hidef"	"12"
-				//"tall_lodef"	"14"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"antialias" "1"
 			}
 		}
 		"ScoreboardMediumSmall"
@@ -1174,10 +1063,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"14"
-				//"weight"	"500"
-				//"range"		"0x0000 0x007F"	//	Basic Latin
-				//"antialias" "1"
-				//"additive"	"0"
 			}
 		}
 		"ScoreboardMedium"
@@ -1186,10 +1071,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"20"
-				//"weight"	"500"
-				//"range"		"0x0000 0x007F"	//	Basic Latin
-				//"antialias" "1"
-				//"additive"	"0"
 			}
 		}
 		"ScoreboardTeamName"
@@ -1198,12 +1079,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"20"
-				//"tall_hidef"	"24"
-				//"tall_lodef"	"24"
-				//"weight"	"500"
-				//"range"		"0x0000 0x007F"	//	Basic Latin
-				//"antialias" "1"
-				//"additive"	"0"
 			}
 		}
 		"ScoreboardTeamCountNew"
@@ -1212,10 +1087,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"14"
-				//"weight"	"500"
-				//"range"		"0x0000 0x007F"	//	Basic Latin
-				//"antialias" "1"
-				//"additive"	"0"
 			}
 		}
 		"ScoreboardTeamNameNew"
@@ -1224,10 +1095,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"20"
-				//"weight"	"500"
-				//"range"		"0x0000 0x007F"	//	Basic Latin
-				//"antialias" "1"
-				//"additive"	"0"
 			}
 		}
 		"ScoreboardTeamNameLarge"
@@ -1321,9 +1188,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"10"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"antialias" "1"
 			}
 		}
 		"ControlPointTimerSmaller"
@@ -1338,19 +1202,7 @@ Scheme
 			}
 		}
 
-		"Link"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"10"
-				//"tall_hidef"	"12"
-				//"tall_lodef"	"14"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"antialias" "1"
-			}
-		}
+
 		
 		"TargetID"
 		{
@@ -1374,17 +1226,7 @@ Scheme
 				//"dropshadow"	"1"
 			}
 		}
-		"ChatMiniFont"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"10"
-				//"weight"	"700"
-				//"yres""		"480 599"
-				//"dropshadow"	"1"
-			}
-		}
+
 
 		MenuSmallestFont
 		{
@@ -1443,11 +1285,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"8"
-				//"tall_hidef"	"10"
-				//"tall_lodef"	"12"
-				//"weight"	"0"
-				"additive"	"1"
-				//"antialias" 	"1"
 			}
 		}		
 		TFFontMedium
@@ -1456,25 +1293,10 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"9"
-				//"tall_hidef"	"10"
-				//"tall_lodef"	"16"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"antialias" 	"1"
 			}
 		}		
 		
-		InstructionalText
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"11"
-				//"weight"	"800"
-				//"additive"	"0"
-				//"antialias" 	"1"
-			}
-		}		
+		
 		
 		MatchmakingDialogTitle
 		{
@@ -1583,17 +1405,7 @@ Scheme
 				//"antialias" "1"
 			}
 		}
-		"TeamMenu"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"11"
-				//"weight"	"600"
-				//"additive"	"0"
-				//"antialias" 	"1"
-			}
-		}		
+
 		"IntroMenuCaption"
 		{
 			"1"
@@ -1615,17 +1427,7 @@ Scheme
 				//"antialias" "1"
 			}
 		}
-		"ImportToolSmallest"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"10"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" 	"1"
-			}
-		}
+
 		"SpectatorVerySmall"
 		{
 			"1"
@@ -1644,24 +1446,10 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"10"
-				//"weight"	"0"
-				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				//"yres""		"480 599"
-				//"antialias"	"1"
 			}
 		}
 		
-		"ItemFontNameSmall"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"9"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
-			}
-		}
+
 		"ItemFontNameLarge"
 		{
 			"1"
@@ -1739,29 +1527,7 @@ Scheme
 			}
 		}
 		
-		"AchievementTracker_Name"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"9"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" 	"1"
-			}
-		}
-		"AchievementTracker_NameGlow"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"9"
-				//"weight"	"500"
-				"blur"		"3"
-				"additive"	"1"
-				//"antialias" 	"1"
-			}
-		}
+
 
 		"QuestFlavorText"
 		{
@@ -1844,30 +1610,8 @@ Scheme
 			}
 		}
 
-		"AdFont_ItemName"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"10"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"antialias" "1"
-			}
-		}
+
 		
-		"TradeUp_Quote"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"9"
-				//"weight"	"400"
-				//"antialias" "1"
-				//"additive"	"0"
-				//"italic"	"1"
-			}
-		}
 		
 		//
 		//////////////////// REPLAY FONTS //////////////////////////////
@@ -1883,17 +1627,7 @@ Scheme
 				//"yres""	"480 599"
 			}
 		}
-		"ReplayBrowserSmallest"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"11"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" 	"1"
-			}
-		}
+
 		"ReplaySmaller"
 		{
 			"1"
@@ -1905,17 +1639,7 @@ Scheme
 				//"yres""	"480 599"
 			}
 		}
-		"ReplayMediumSmall"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"11"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
-			}
-		}
+
 		"ReplayMedium"
 		{
 			"1"
@@ -2000,41 +1724,9 @@ Scheme
 			}
 		}
 
-		"MMenuPlayListDesc"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"9"
-				//"weight"	"400"
-				//"additive"	"0"
-				//"antialias" 	"1"
-			}
-		}
 
-		"XPSource"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"11"
-				//"weight"	"500"
-				//"antialias" 	"1"
-			}
-		}
 
-		"XPSource_Glow"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"11"
-				//"weight"	"500"
-				"blur"		"3"
-				"additive"	"1"
-				//"antialias" 	"1"
-			}
-		}
+
 
 
 		"QuestMap_Medium"

@@ -4,15 +4,15 @@
 	{
 		"ControlName"		"CTFIntroMenu"
 		"fieldName"		"intro"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"paintbackground"	"0"
 	}
 	
@@ -20,15 +20,15 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"titlelabel"
-		//"xpos"				"0"
-		//"ypos"				"0"
+		"xpos"				"0"
+		"ypos"				"0"
 		"wide"				"f0"
 		"tall"				"70"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"			"0"
 		"visible"			"0"
 		"enabled"			"0"
-		
+		"tabPosition"		"0"
 	}
 
 	"Skip" [$WIN32] 
@@ -44,16 +44,16 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#Button_SkipIntro"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"command"		"skip"
 		"font"			"MenuSmallFont"
 	}
@@ -71,16 +71,16 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_Continue"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"command"		"skip"
 		"font"			"MenuSmallFont"
 	}
@@ -97,14 +97,14 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"#TF_Back"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"command"		"back"
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
@@ -122,14 +122,14 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"labelText"		"#TF_ReplayIntro"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"command"		"replayVideo"
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
@@ -139,7 +139,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ShadedBar"
-		
+		"xpos"			"0"
 		"ypos"			"r50"
 		//"ypos_lodef"			"r74"
 		//"ypos_hidef"			"r65"
@@ -148,14 +148,14 @@
 		"tall"			"50"
 		//"tall_lodef"			"74"
 		//"tall_hidef"			"65"
-		
-		
-		//"visible"		"1"
-		
-			
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"	
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
-		//"PaintBackgroundType"	"0"
+		"PaintBackgroundType"	"0"
 	}		
 	
 	"VideoPanel"
@@ -167,10 +167,10 @@
 		"zpos"			"3"		
 		"wide"			"300"
 		"tall"			"225"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"start_delay"	"2.0"
 		"end_delay"		"2.0"
 	}
@@ -179,15 +179,15 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MenuBG"
-		
-		
-				
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"0"		
 		"wide"			"f0"
 		"tall"			"480"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fov"			"20"
 		
 		"model"
@@ -219,7 +219,7 @@
 			{
 				"name"			"Down"
 				"sequence"		"screendown"
-				//"Default"		"1"
+				"default"		"1"
 			}
 		}
 	}					
@@ -233,14 +233,14 @@
 		"zpos"			"6"
 		"wide"			"295"
 		"tall"			"70"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"labelText"		" "
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"font"			"IntroMenuCaption"
 		"fgcolor"		"White"
 		"wrap"			"1"
@@ -257,7 +257,7 @@
 		"buttongap"			"50"
 		"textadjust"		"3"
 		"buttonoffsety"		"20"
-		//"buttonoffsety_hidef"		"0"
+		"buttonoffsety_hidef"		"0"
 		//"buttonoffsety_lodef"		"18"
 		"fonttext"			"MatchmakingDialogMenuLarge"
 		//"fonttext_lodef"			"MatchmakingDialogMenuSmall"

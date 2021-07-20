@@ -4,7 +4,7 @@
 	{
 	//	"ControlName"	"CExLabel"
 	//	"fieldName"		"DescLabel"
-		"font"			"MMenuPlayListDesc"
+		"font"			"TFFontMedium"
 		"zpos"			"2"
 		"tall"			"40"
 		"wrap"			"1"

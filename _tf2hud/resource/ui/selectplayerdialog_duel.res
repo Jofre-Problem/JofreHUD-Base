@@ -3,8 +3,8 @@
 	"SelectPlayerDialog"
 	{
 		"fieldName"				"SelectPlayerDialog"
-		
-		
+		"visible"				"1"
+		"enabled"				"1"
 		"xpos"					"c-200"
 		"ypos"					"80"
 		"wide"					"400"
@@ -17,29 +17,29 @@
 		"button_kv"
 		{
 			"xpos"			"10"
-			
+			"ypos"			"0"
 			"wide"			"350"
 			"tall"			"30"
 				
 			"button"
 			{
-				
-				
+				"xpos"			"0"
+				"ypos"			"0"
 				"wide"			"350"
 				"tall"			"30"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
-				//"visible"		"1"
-				
-				
-				"labeltext"		""
-				"font"			"HudFontSmall"
-				//"textAlignment"	"west"
+				"visible"		"1"
+				"enabled"		"1"
+				"tabPosition"	"0"
+				"labelText"		""
+				"font"			"HudFontSmallBold"
+				"textAlignment"	"west"
 				"textinsetx"	"34"
 				"use_proportional_insets" "1"
-				////"dulltext"		"0"
-				//"brighttext"	"0"
-				//"Default"		"1"
+				"dulltext"		"0"
+				"brighttext"	"0"
+				"default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 			}
@@ -54,8 +54,8 @@
 				"wide"			"20"
 				"tall"			"20"
 				"image"			""
-				//"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 				"scaleImage"	"1"	
 				"color_outline"	"52 48 45 255"
 			}
@@ -66,19 +66,19 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontMediumSecondary"
+		"font"			"HudFontMediumBold"
 		"labelText"		"%title%"
 		"textAlignment"	"north"
-		
+		"xpos"			"0"
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"400"
 		"tall"			"25"
-		
-		
-		//"visible"		"1"
-		
-		"fgcolor_override" "LightRed"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor_override" "200 80 60 255"
 	}
 	
 	"PlayerListScroller"
@@ -90,18 +90,18 @@
 		"wide"			"380"
 		"tall"			"130"
 		"PaintBackgroundType"	"2"
-		"fgcolor_override"	"TanDark"
+		"fgcolor_override"	"117 107 94 255"
 		"bgcolor_override"	"0 0 0 64"
 		
 		"PlayerList"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"PlayerList"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"wide"			"190"
 			"tall"			"130"
-			//"visible"		"1"
+			"visible"		"1"
 		}
 	}
 
@@ -110,8 +110,8 @@
 		"ControlName"			"EditablePanel"
 		"fieldName" 			"StatePanel0"
 		"visible" 				"1"
-		
-		
+		"enabled" 				"1"
+		"xpos"					"0"
 		"ypos"					"100"
 		"wide"	 				"400"
 		"tall"	 				"180"
@@ -121,19 +121,19 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"QueryLabel"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_SelectPlayer_Select"
 			"textAlignment"	"north"
-			
+			"xpos"			"0"
 			"ypos"			"20"
 			"zpos"			"-1"
 			"wide"			"400"
 			"tall"			"15"
-			
-			
-			//"visible"		"1"
-			
-			"fgcolor_override" "HudOffWhite"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor_override" "200 187 161 255"
 		}	
 
 		"subbutton0"
@@ -145,17 +145,17 @@
 			"zpos"			"1"
 			"wide"			"200"
 			"tall"			"25"
-			
+			"autoResize"	"0"
 			"pinCorner"		"3"
-			//"visible"		"1"
-			
-			
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
 			"labelText"		"#TF_SelectPlayer_SelectFriends"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			//"Default"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"default"		"1"
 			"Command"		"friends"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -169,17 +169,17 @@
 			"zpos"			"1"
 			"wide"			"200"
 			"tall"			"25"
-			
+			"autoResize"	"0"
 			"pinCorner"		"3"
-			//"visible"		"1"
-			
-			
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
 			"labelText"		"#TF_SelectPlayer_SelectServer"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			//"Default"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"default"		"1"
 			"Command"		"server"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -190,8 +190,8 @@
 		"ControlName"			"EditablePanel"
 		"fieldName" 			"StatePanel1"
 		"visible" 				"1"
-		
-		
+		"enabled" 				"1"
+		"xpos"					"0"
 		"ypos"					"100"
 		"wide"	 				"400"
 		"tall"	 				"180"
@@ -201,39 +201,39 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"QueryLabel"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_SelectPlayer_Friends"
 			"textAlignment"	"north"
-			
+			"xpos"			"0"
 			"ypos"			"10"
 			"wide"			"400"
 			"tall"			"15"
-			
-			
-			//"visible"		"1"
-			
-			"fgcolor_override" "HudOffWhite"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor_override" "200 187 161 255"
 		}	
 		
 		"EmptyPlayerListLabel"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"EmptyPlayerListLabel"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_SelectPlayer_FriendsNone"
 			"textAlignment"	"north"
-			
+			"xpos"			"0"
 			"ypos"			"60"
 			"zpos"			"1"
 			"wide"			"400"
 			"tall"			"30"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "HudOffWhite"
+			"fgcolor_override" "200 187 161 255"
 		}	
 	}
 	"StatePanel2"
@@ -241,8 +241,8 @@
 		"ControlName"			"EditablePanel"
 		"fieldName" 			"StatePanel2"
 		"visible" 				"1"
-		
-		
+		"enabled" 				"1"
+		"xpos"					"0"
 		"ypos"					"100"
 		"wide"	 				"400"
 		"tall"	 				"180"
@@ -252,40 +252,40 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"QueryLabel"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_SelectPlayer_Server"
 			"textAlignment"	"north"
-			
+			"xpos"			"0"
 			"ypos"			"10"
 			"zpos"			"-1"
 			"wide"			"400"
 			"tall"			"15"
-			
-			
-			//"visible"		"1"
-			
-			"fgcolor_override" "HudOffWhite"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor_override" "200 187 161 255"
 		}	
 		
 		"EmptyPlayerListLabel"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"EmptyPlayerListLabel"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_SelectPlayer_ServerNone"
 			"textAlignment"	"north"
-			
+			"xpos"			"0"
 			"ypos"			"60"
 			"zpos"			"1"
 			"wide"			"400"
 			"tall"			"30"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "HudOffWhite"
+			"fgcolor_override" "200 187 161 255"
 		}	
 	}
 
@@ -293,18 +293,18 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassLabel"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"labelText"		"%player_class%"
 		"textAlignment"	"north"
-		
+		"xpos"			"0"
 		"ypos"			"50"
 		"zpos"			"-1"
 		"wide"			"400"
 		"tall"			"15"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 	}
 
 	"ClassUsageMouseoverLabel"
@@ -319,10 +319,10 @@
 		"wide"			"200"
 		"tall"			"55"
 		"autoResize"	"1"
-		
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		"bgcolor_override"		"Blank"
+		"enabled"		"1"
+		"bgcolor_override"		"0 0 0 0"
 		"PaintBackgroundType"	"2"
 		"centerwrap"	"1"
 		"paintborder"	"1"
@@ -339,10 +339,10 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		//"visible"		"1"
-		
-		"panel_bgcolor" "TanDark"
-		"panel_bgcolor_mouseover" "HudWhite"
+		"visible"		"1"
+		"enabled"		"1"
+		"panel_bgcolor" "117 107 94 255"
+		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -355,7 +355,7 @@
 		"ypos"				"73"
 		"wide"				"1"
 		"tall"				"24"
-		//"paintbackground"	"1"
+		"PaintBackground"	"1"
 		"bgcolor_override" "122 111 98 255"
 	}
 
@@ -368,10 +368,10 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		//"visible"		"1"
-		
-		"panel_bgcolor" "TanDark"
-		"panel_bgcolor_mouseover" "HudWhite"
+		"visible"		"1"
+		"enabled"		"1"
+		"panel_bgcolor" "117 107 94 255"
+		"panel_bgcolor_mouseover" "255 255 255 255"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -385,17 +385,17 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"25"
-		
+		"autoResize"	"0"
 		"pinCorner"		"3"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#Cancel"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
-		//"Default"		"1"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"default"		"1"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

@@ -19,7 +19,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CaratLabel"
-		"font"			"ReplayMediumSmall"
+		"font"			"HudFontSmallest"
 		"labelText"		">>"
 		//"textAlignment"	"west"
 		
@@ -77,7 +77,7 @@
 		"FieldName"			"ClickToEditLabel"
 		"LabelText"			"#Replay_ClickToEdit"
 		"zpos"				"1000"
-		"font"				"ReplayBrowserSmallest"
+		"font"				"HudFontSmallest"
 		//"visible"			"1"
 		"fgcolor_override" "118 106 94 255"
 	}

@@ -19,7 +19,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"XPSource"
+		"font"			"HudFontSmallest"
 		"labelText"		"#TF_Competitive_RankTooltipTitle"
 		"textAlignment"	"north"
 		"xpos"			"cs-0.5"
@@ -40,7 +40,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DescLabel"
-		"font"			"MMenuPlayListDesc"
+		"font"			"TFFontMedium"
 		"labelText"		"#TF_Competitive_RankTooltipDesc"
 		"xpos"			"cs-0.5"
 		"ypos"			"15"

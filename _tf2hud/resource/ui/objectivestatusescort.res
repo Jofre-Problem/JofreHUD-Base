@@ -9,8 +9,8 @@
 		"zpos"				"1"
 		"wide"				"400"
 		"tall"				"150"
-		//"visible"			"1"
-		
+		"visible"			"1"
+		"enabled"			"1"
 		"progress_xpos"		"79"
 		"progress_wide"		"270"
 		
@@ -27,12 +27,12 @@
 		"fieldName"		"LevelBar"	
 		"xpos"			"73"
 		"ypos"			"123"
-		
+		"zpos"			"0"
 		"wide"			"254"
 		"tall"			"4"
-		//"visible"		"1"
-		
-		"labeltext"		""
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		""
 		"image"			"../hud/cart_track"
 		"scaleImage"	"1"
 		
@@ -64,7 +64,7 @@
 		"wide"			"254"
 		"tall"			"4"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"scaleImage"	"1"
 		
 		"if_multiple_trains"
@@ -72,7 +72,7 @@
 			"ypos"			"114"
 			"zpos"			"6"
 			"tall"			"12"
-			//"visible"		"1"
+			"visible"		"1"
 		}
 	}		
 	
@@ -89,12 +89,12 @@
 		"wide_minmode"		"18"
 		"tall"			"28"
 		"tall_minmode"		"18"
-		
-		
-		//"visible"		"1"
-		
-		
-		"labeltext"		""
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		""
 		"image"			"../hud/cart_home_blue"
 		"scaleImage"	"1"	
 		
@@ -156,12 +156,12 @@
 		"wide_minmode"		"18"		
 		"tall"			"28"
 		"tall_minmode"		"18"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
-		"labeltext"		""
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		""
 		"image"			"../hud/cart_point_neutral"
 		"scaleImage"	"1"	
 												
@@ -179,7 +179,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"EscortItemPanel"
-		
+		"xpos"			"0"
 		"ypos"			"8"
 		"ypos_minmode"		"48"
 		"zpos"			"2"
@@ -187,8 +187,8 @@
 		"wide_minmode"		"52"		
 		"tall"			"115"
 		"tall_minmode"		"75"		
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 				
 		"if_multiple_trains"
 		{
@@ -213,14 +213,14 @@
 			"wide_minmode"		"7"
 			"tall"			"10"
 			"tall_minmode"		"7"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"%recede%"
 			"textAlignment"	"center"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			
 			"if_multiple_trains"
 			{
@@ -254,12 +254,12 @@
 			"wide_minmode"		"26"
 			"tall"			"40"
 			"tall_minmode"		"26"
-			
-			
-			//"visible"		"1"
-			
-			
-			"labeltext"		""
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"labelText"		""
 			"image"			"../hud/cart_neutral"
 			"scaleImage"	"1"
 			
@@ -291,12 +291,12 @@
 			"zpos"			"1"
 			"wide"			"40"
 			"tall"			"40"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
 			"visible"		"0"
-			
-			
-			"labeltext"		""
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"labelText"		""
 			"image"			"../hud/cart_neutral_bottom"
 			"scaleImage"	"1"	
 			
@@ -325,15 +325,15 @@
 			"fieldName"		"EscortItemImageAlert"	
 			"xpos"			"-4"
 			"ypos"			"38"
-			
+			"zpos"			"0"
 			"wide"			"60"
 			"tall"			"30"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
 			"visible"		"0"
-			
-			
-			"labeltext"		""
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"labelText"		""
 			"image"			"../hud/cart_alert"
 			"scaleImage"	"1"
 			
@@ -357,12 +357,12 @@
 			"wide_minmode"		"7"
 			"tall"			"10"
 			"tall_minmode"		"7"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
 			"visible"		"0"
-			
-			
-			"labeltext"		""
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"labelText"		""
 			"image"			"../hud/cart_arrow_left"
 			"scaleImage"	"1"	
 			
@@ -398,7 +398,7 @@
 			"tall"			"12"
 			"tall_minmode"		"8"
 			"visible"		"0"
-			
+			"enabled"		"1"
 			"image"			"capture_icon_white"
 			"scaleImage"	"1"
 			
@@ -435,14 +435,14 @@
 			"wide_minmode"		"20"
 			"tall"			"10"
 			"tall_minmode"		"7"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
 			"visible"		"0"
-			
+			"enabled"		"1"
 			"labelText"		"#ControlPointIconCappers"
-			//"textAlignment"	"west"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"textAlignment"	"west"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			
 			"if_multiple_trains"
 			{
@@ -476,12 +476,12 @@
 			"wide_minmode"		"7"
 			"tall"			"10"
 			"tall_minmode"		"7"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
 			"visible"		"0"
-			
-			
-			"labeltext"		""
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"labelText"		""
 			"image"			"../hud/cart_blocked"
 			"scaleImage"	"1"	
 			
@@ -517,7 +517,7 @@
 			"tall"				"65"
 			"tall_minmode"			"42"			
 			"visible"			"0"
-			
+			"enabled"			"1"
 			
 			"if_multiple_trains"
 			{
@@ -531,23 +531,23 @@
 			{
 				"ControlName"		"CIconPanel"
 				"fieldName"			"Teardrop"
-				//"xpos"				"0"
-				//"ypos"				"0"
+				"xpos"				"0"
+				"ypos"				"0"
 				"zpos"				"0"
 				"wide"				"54"
 				"wide_minmode"			"35"				
 				"tall"				"65"
 				"tall_minmode"			"42"
-				//"visible"			"1"
-				
+				"visible"			"1"
+				"enabled"			"1"
 				"scaleImage"		"1"
 				"icon"				"cappoint_progressbar_teardrop"
 				"iconColor"			"255 255 255 255"
 				
 				"if_multiple_trains"
 				{
-					
-								
+					"xpos"			"0"
+					"ypos"			"0"			
 					"wide"			"35"			
 					"tall"			"42"			
 				}	
@@ -559,7 +559,7 @@
 				"fieldName"			"ProgressText"
 				"font"				"DefaultSmall"
 				"font_minmode"			"DefaultVerySmall"
-				//"xpos"				"0"
+				"xpos"				"0"
 				"ypos"				"8"
 				"ypos_minmode"			"3"
 				"zpos"				"23"
@@ -567,19 +567,19 @@
 				"wide_minmode"			"35"
 				"tall"				"40"
 				"tall_minmode"			"28"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"			"0"
 				"visible"			"0"
-				
+				"enabled"			"1"
 				"labelText"			"progress"
-				//"dulltext"			"0"
-				////"brighttext"		"0"
+				"dulltext"			"0"
+				"brighttext"		"0"
 				"centerwrap"		"1"
 				
 				"if_multiple_trains"
 				{
 					"font"			"DefaultVerySmall"
-					
+					"xpos"			"0"
 					"ypos"			"3"			
 					"wide"			"35"			
 					"tall"			"28"			
@@ -598,8 +598,8 @@
 				"wide_minmode"			"31"
 				"tall"				"50"
 				"tall_minmode"			"31"
-				//"visible"			"1"
-				
+				"visible"			"1"
+				"enabled"			"1"
 				"scaleImage"		"1"
 				"icon"				"cappoint_progressbar_blocked"
 				"iconColor"			"255 255 255 255"	
@@ -626,12 +626,12 @@
 				"wide_minmode"		"20"
 				"tall"			"30"
 				"tall_minmode"		"20"
-				
-				
+				"autoResize"	"0"
+				"pinCorner"		"0"
 				"visible"		"0"
-				
-				
-				"labeltext"		""
+				"enabled"		"1"
+				"tabPosition"	"0"
+				"labelText"		""
 				"image"			"../hud/cart_arrow_right"
 				"scaleImage"	"1"	
 				

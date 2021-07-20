@@ -78,7 +78,7 @@
 		{
 			"ControlName"	"TextEntry"
 			"fieldName"		"TitleInput"
-			"font"			"ReplayBrowserSmallest"
+			"font"			"HudFontSmallest"
 			"textHidden"	"0"
 			//"textAlignment"	"west"
 			"unicode"		"1"
@@ -113,7 +113,7 @@
 			
 			"tabPosition"	"2"
 			"labelText"		"#GameUI_CancelBold"
-			"font"			"ReplayMediumSmall"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"
@@ -138,7 +138,7 @@
 			
 			"tabPosition"	"1"
 			"labelText"		"#Replay_Save"
-			"font"			"ReplayMediumSmall"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"

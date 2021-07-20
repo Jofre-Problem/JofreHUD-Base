@@ -4,15 +4,15 @@
 	{
 		"ControlName"			"CTFTextWindow"
 		"fieldName"				"info"
-		
-		
+		"xpos"					"0"
+		"ypos"					"0"
 		"wide"					"f0"
 		"tall"					"480"
-		
-		
-		
-		
-		
+		"autoResize"			"0"
+		"pinCorner"				"0"
+		"visible"				"1"
+		"enabled"				"1"
+		"tabPosition"			"0"
 		"settitlebarvisible"	"0"
 	}
 	
@@ -25,14 +25,14 @@
 		"zpos"			"1"
 		"wide"			"420"
 		"tall"			"24"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"#TF_WELCOME"
-		//"textAlignment"	"west"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"font"			"ChalkboardTitle"
 		"fgcolor"		"White"
 	}	
@@ -56,10 +56,10 @@
 		"wide"			"415"
 		"tall"			"240"
 		"autoResize"	"3"
-		
-		//"visible"		"1"
-		
-		//"paintborder"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"paintborder"	"0"
 		"textAlignment"	"northwest"
 		"fgcolor"		"Gray"
 	}
@@ -74,11 +74,11 @@
 		"wide"			"415"
 		"tall"			"295"
 		"autoResize"	"1"
-		
-		//"visible"		"1"
-		
-		
-		//"paintborder"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintborder"	"0"
 	}
 	
 	"ok"
@@ -90,18 +90,18 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_Continue"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"command"		"okay"
-		//"Default"		"1"
+		"default"		"1"
 		"font"			"MenuSmallFont"
 	}
 	
@@ -109,15 +109,15 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MenuBG"
-		
-		
-				
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"0"		
 		"wide"			"f0"
 		"tall"			"480"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fov"			"20"
 		
 		"model"
@@ -137,19 +137,19 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ShadedBar"
-		
+		"xpos"			"0"
 		"ypos"			"r50"
 		"zpos"			"5"
 		"wide"			"f0"
 		"tall"			"50"
-		
-		
-		//"visible"		"1"
-		
-			
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"	
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
-		//"PaintBackgroundType"	"0"
+		"PaintBackgroundType"	"0"
 	}						
 	
 	"MessageTitle"

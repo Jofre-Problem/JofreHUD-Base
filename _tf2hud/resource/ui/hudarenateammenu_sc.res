@@ -4,30 +4,30 @@
 	{
 		"ControlName"		"CTeamMenu"
 		"fieldName"		"team"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 	}
 
 	"SysMenu"
 	{
 		"ControlName"	"Menu"
 		"fieldName"		"SysMenu"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"64"
 		"tall"			"24"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		
+		"tabPosition"	"0"
 	}
 
 	"MapInfo"
@@ -39,10 +39,10 @@
 		"wide"			"450"
 		"tall"			"365"
 		"autoResize"	"3"
-		
+		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		
+		"tabPosition"	"0"
 	}
 
 	"mapname"
@@ -53,13 +53,13 @@
 		"ypos"			"50"
 		"wide"			"90"
 		"tall"			"24"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"labeltext"		""
-		//"textAlignment"	"west"
-		////"dulltext"		"0"
+		"labelText"		""
+		"textAlignment"	"west"
+		"dulltext"		"0"
 		"brighttext"	"1"
 	}
 
@@ -72,10 +72,10 @@
 		"wide"			"50"
 		"tall"			"50"
 		"zpos"			"4"
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"pinCorner"		"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_left"
 	}
@@ -89,10 +89,10 @@
 		"wide"			"50"
 		"tall"			"50"
 		"zpos"			"4"
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"pinCorner"		"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_right"
 	}
@@ -106,19 +106,19 @@
 		"zpos"			"3"
 		"wide"			"124"
 		"tall"			"310"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"	"1"
 		"textAlignment"	"south-west"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
-		//"paintborder"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"paintborder"	"0"
 		"command"		"jointeam spectate"
 		"associated_model"	"autodoor"
 		"font"			"MenuMainTitle"
-		"fgcolor"		"HUDWhite"
+		"fgcolor"		"255 255 255 255"
 	}
 
 	"JoinAutoHintIcon"
@@ -130,10 +130,10 @@
 		"wide"			"50"
 		"tall"			"50"
 		"zpos"			"5"
-		
+		"autoResize"	"0"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"pinCorner"		"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
 	}
@@ -147,19 +147,19 @@
 		"zpos"			"3"
 		"wide"			"82"
 		"tall"			"57"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"	"2"
 		"textAlignment"	"south-west"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
-		//"paintborder"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"paintborder"	"0"
 		"command"		"jointeam spectatearena"
 		"associated_model"	"spectate"	
 		"font"			"MenuMainTitle"
-		"fgcolor"		"HUDWhite"
+		"fgcolor"		"255 255 255 255"
 	}
 
 	"JoinSpectatorsHintIcon"
@@ -171,10 +171,10 @@
 		"wide"			"50"
 		"tall"			"50"
 		"zpos"			"5"
-		
+		"autoResize"	"0"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"pinCorner"		"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
 	}
@@ -191,15 +191,15 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#TF_Cancel"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"command"		"cancelmenu"
 		"font"			"MenuSmallFont"
 	}
@@ -213,12 +213,12 @@
 		"zpos"			"7"
 		"wide"			"25"
 		"tall"			"25"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"0"
-		
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"enabled"		"1"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_cancel"
 	}
@@ -227,24 +227,26 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TeamMenuAuto"
-		"xpos"			"c-280" 
+		"xpos"			"c-280" [$WIN32] 
+		"xpos"			"c-276" [$X360]
 		//"xpos_lodef"			"c-255"
 		//"xpos_hidef"			"c-260"
 		"ypos"			"55"
 		//"ypos_lodef"			"72"
 		//"ypos_hidef"			"65"
 		"zpos"			"1"
-		"wide"			"102"
+		"wide"			"102" [$WIN32] 
+		"wide"			"94" [$X360]
 		"tall"			"24"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"#TF_Arena_Menu_Fight"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
-		//"wrap"			"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"wrap"			"0"
 		"font"			"MenuSmallFont"
 		"fgcolor"		"black"
 	}
@@ -262,15 +264,15 @@
 		"wide"			"44"
 		//"wide_lodef"	"70"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"#TF_Spectate"
 		"textAlignment"	"north"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
-		//"wrap"			"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"wrap"			"0"
 		"font"			"MenuSmallestFont"
 		//"font_lodef"	"MenuSmallFont"
 		"fgcolor"		"white"
@@ -280,15 +282,15 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MenuBG"
-		
-		
-				
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"0"		
 		"wide"			"f0"
 		"tall"			"480"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fov"			"20"
 		
 		"model"
@@ -312,7 +314,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ShadedBar"
-		
+		"xpos"			"0"
 		"ypos"			"r50"
 		//"ypos_lodef"			"r74"
 		//"ypos_hidef"			"r65"
@@ -321,28 +323,28 @@
 		"tall"			"50"
 		//"tall_lodef"			"74"
 		//"tall_hidef"			"65"
-		
-		
-		//"visible"		"1"
-		
-			
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"	
 		"fillcolor"		"0 0 0 180"
-		//"PaintBackgroundType"	"0"
+		"PaintBackgroundType"	"0"
 	}		
 		
 	"autodoor"
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"autodoor"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"2"		
 		"wide"			"f0"
 		"tall"			"480"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fov"			"20"
 		
 		"model"
@@ -362,7 +364,7 @@
 			{
 				"name"			"idle_enabled"
 				"sequence"		"idle"
-				//"Default"		"1"
+				"default"		"1"
 			}
 
 			"animation"
@@ -383,15 +385,15 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"spectate"
-		
-		
-				
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"0"		
 		"wide"			"f0"
 		"tall"			"480"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fov"			"20"
 		
 		"model"
@@ -411,7 +413,7 @@
 			{
 				"name"			"idle_enabled"
 				"sequence"		"idle"
-				//"Default"		"1"
+				"default"		"1"
 			}
 
 			"animation"

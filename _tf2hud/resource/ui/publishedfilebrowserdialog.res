@@ -4,15 +4,15 @@
 	{
 		"ControlName"		"CPublishedFileBrowserDialog"
 		"fieldName"		"PublishedFileBrowserDialog"
-		
-		//"ypos"		"0"
+		"xpos"		"0"
+		"ypos"		"0"
 		"wide"		"600"
 		"tall"		"292"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"settitlebarvisible"		"1"
 		"Title"		"#TF_PublishedFiles_Browse"
 		"border"				"QuickplayBorder"
@@ -22,16 +22,16 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
-		
-		//"ypos"		"0"
+		"xpos"		"0"
+		"ypos"		"0"
 		"zpos"		"-100"
 		"wide"		"600"
 		"tall"		"292"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"bgcolor_override"	"40 37 37 255"
 	}
 
@@ -43,16 +43,16 @@
 		"ypos"		"32"
 		"wide"		"180"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishedFiles_Files"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 
 	"PublishedFileList"
@@ -63,15 +63,15 @@
 		"ypos"		"56"
 		"wide"		"300"
 		"tall"		"180"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 	
 	"LabelPublishedFileTitle"
@@ -82,16 +82,16 @@
 		"ypos"		"32"
 		"wide"		"180"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_TitleLabel"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 	}
 
 	"LabelPublishedFileTitleValue"
@@ -102,16 +102,16 @@
 		"ypos"		"56"
 		"wide"		"250"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
-		"labeltext"		""
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+		"labelText"		""
 		// "editable"		"0"
 		// "maxchars"		"128"
 	}
@@ -124,15 +124,15 @@
 		"ypos"		"100"
 		"wide"		"180"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_DescLabel"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
 		"wrap"		"1"
 	}
 
@@ -144,16 +144,16 @@
 		"ypos"		"124"
 		"wide"		"250"
 		"tall"		"112"
-		
+		"autoResize"		"0"
 		"pinCorner"		"1"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"textAlignment"		"north-west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
 		"wrap"		"1"
-		"labeltext"		""
+		"labelText"		""
 		//"editable"		"0"
 		//"maxchars"		"256"
 	}
@@ -166,16 +166,16 @@
 		"ypos"		"244"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishedFiles_Add"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"AddFile"
 		"Default"		"0"
 	}
@@ -188,16 +188,16 @@
 		"ypos"		"244"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishedFiles_Delete"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"DeleteFile"
 		"Default"		"0"
 	}
@@ -210,16 +210,16 @@
 		"ypos"		"244"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishedFiles_Edit"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"EditFile"
 		"Default"		"0"
 	}
@@ -232,16 +232,16 @@
 		"ypos"		"244"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishedFiles_Refresh"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"Refresh"
 		"Default"		"0"
 	}
@@ -254,16 +254,16 @@
 		"ypos"		"244"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_CLOSE"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 	}

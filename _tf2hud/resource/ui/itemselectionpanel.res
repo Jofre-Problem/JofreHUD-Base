@@ -76,7 +76,7 @@
 		}
 		"duplicatelabels_kv"
 		{
-			"font"			"ItemFontNameSmall"
+			"font"			"TFFontMedium"
 			"textAlignment"	"center"
 			"wide"			"20"
 			"tall"			"15"
@@ -417,7 +417,7 @@
 		
 		"attriblabel"
 		{
-			"font"			"ItemFontAttribLarge"
+			"font"			"HudFontSmallest"
 			
 			"ypos"			"30"
 			"zpos"			"2"

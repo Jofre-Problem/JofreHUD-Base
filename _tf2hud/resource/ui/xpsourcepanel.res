@@ -38,7 +38,7 @@
 		"FieldName"				"SourceLabelGlow"
 		"xpos"					"cs-0.5"
 		"ypos"					"rs1"
-		
+		"zpos"					"0"
 		"wide"					"f0"
 		"tall"					"f0"
 		"proportionaltoparent"	"1"

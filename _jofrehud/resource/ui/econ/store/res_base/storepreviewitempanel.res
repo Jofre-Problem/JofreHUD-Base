@@ -476,7 +476,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PaintNameLabel"
-		"font"			"FontStorePrice"
+		"font"			"TFFontMedium"
 		"labelText"		"#Store_NoPaint"
 		"textAlignment"	"left"
 		"xpos"			"132"
@@ -495,7 +495,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"StyleNameLabel"
-		"font"			"FontStorePrice"
+		"font"			"TFFontMedium"
 		"labelText"		"None"
 		"textAlignment"	"left"
 		"xpos"			"132"

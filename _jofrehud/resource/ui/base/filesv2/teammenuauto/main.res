@@ -47,7 +47,7 @@
 		//"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
-		"font"			"MenuSmallestFont"
+		"font"			"Default"
 		//"font_lodef"	"MenuSmallFont"
 		"fgcolor"		"white"
 	}	

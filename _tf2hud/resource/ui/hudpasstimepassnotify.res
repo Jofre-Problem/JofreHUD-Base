@@ -45,7 +45,7 @@ Resource/UI/HudPasstimePassNotify.res
 		{
 			ControlName 			CExLabel
 			fieldName 				TextInPassRange
-			font 					HudFontMediumSmall
+			font 					HudFontMediumSmallBold
 			xpos 					0
 			ypos 					0
 			zpos 					3
@@ -63,7 +63,7 @@ Resource/UI/HudPasstimePassNotify.res
 		{
 			ControlName 			CExLabel
 			fieldName 				TextLockedOn
-			font 					HudFontMediumSmall
+			font 					HudFontMediumSmallBold
 			xpos 					0
 			ypos 					0
 			zpos 					3
@@ -81,7 +81,7 @@ Resource/UI/HudPasstimePassNotify.res
 		{
 			ControlName 			CExLabel
 			fieldName 				TextPassIncoming
-			font 					HudFontMediumSmall
+			font 					HudFontMediumSmallBold
 			xpos 					0
 			ypos 					4
 			zpos 					3

@@ -45,7 +45,7 @@
 		
 		//"visible"		"1"
 		
-		"image"			"../hud/color_panel_brown"
+		//"image"			"../hud/color_panel_brown"
 		"scaleImage"		"1"
 		"teambg_1"		"../hud/color_panel_brown"
 		"teambg_2"		"../hud/color_panel_red"

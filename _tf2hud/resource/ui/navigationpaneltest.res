@@ -9,9 +9,9 @@
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"300"
-		
-		//"visible"			"1"
-		
+		"autoResize"		"0"
+		"visible"			"1"
+		"enabled"			"1"
 		
 		"auto_scale"		"1"
 		"auto_layout"		"1"
@@ -23,11 +23,11 @@
 		{
 			"wide"				"20"
 			"tall"				"40"
-			
+			"autoResize"		"0"
 			"pinCorner"			"2"
-			//"visible"			"1"
-			
-			
+			"visible"			"1"
+			"enabled"			"1"
+			"tabPosition"		"0"
 			"labelText"			""
 			"textAlignment"		"south-west"
 			"scaleImage"		"1"
@@ -45,8 +45,8 @@
 			"paintborder"		"0"
 			
 			"image_drawcolor"		"255 255 255 180"
-			"image_armedcolor"		"HudWhite"
-			"image_selectedcolor"		"HudWhite"
+			"image_armedcolor"		"255 255 255 255"
+			"image_selectedcolor"	"255 255 255 255"
 			
 			"stayselectedonclick"	"1"
 			"keyboardinputenabled"	"0"
@@ -55,13 +55,13 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				
-				
+				"xpos"			"0"
+				"ypos"			"0"
 				"zpos"			"7"
 				"wide"			"100"
 				"tall"			"200"
-				//"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 				"scaleImage"	"1"
 			}				
 		}

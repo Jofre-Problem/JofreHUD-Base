@@ -29,7 +29,7 @@
 		//"visible"		"1"
 		"visible_minmode"	"0"
 		
-		"image"			"../hud/misc_ammo_area_horiz2_blue"
+		//"image"			"../hud/misc_ammo_area_horiz2_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_horiz2_red"
 		

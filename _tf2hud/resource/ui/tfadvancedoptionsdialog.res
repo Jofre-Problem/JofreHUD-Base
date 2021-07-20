@@ -8,12 +8,12 @@
 		"ypos"		"90"
 		"wide"		"500"
 		"tall"		"350"
-		
-		
-		//"visible"		"1"
-		
-		
-		"bgcolor_override"		"TanDarker"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"bgcolor_override"		"46 43 42 255"
 		"paintbackgroundtype"	"2"
 		"settitlebarvisible"	""
 		"paintborder"			"1"
@@ -29,19 +29,19 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontMediumSecondary"
+		"font"			"HudFontMediumBold"
 		"labelText"		"#TF_AdvancedOptions"
 		"textAlignment"	"center"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"500"
 		"tall"			"40"
-		
-		
-		//"visible"		"1"
-		
-		"fgcolor_override" "LightRed"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor_override" "200 80 60 255"
 	}
 	"CancelButton"
 	{
@@ -52,17 +52,17 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"25"
-		
+		"autoResize"	"0"
 		"pinCorner"		"3"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#Cancel"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
-		//"Default"		"1"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"default"		"1"
 		"Command"		"Close"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -76,17 +76,17 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"25"
-		
+		"autoResize"	"0"
 		"pinCorner"		"3"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#GameUI_Ok"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
-		//"Default"		"1"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"default"		"1"
 		"Command"		"Ok"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -100,20 +100,20 @@
 		"ypos"		"40"
 		"wide"		"480"
 		"tall"		"260"
-		
-		
-		//"visible"		"1"
-		
-		
-		"bgcolor_override"	"Blank"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"bgcolor_override"	"0 0 0 0"
 	}
 	
 	"TooltipPanel"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TooltipPanel"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"100"
 		"wide"			"240"
 		"tall"			"50"
@@ -133,11 +133,11 @@
 			"zpos"			"2"
 			"wide"			"200"
 			"tall"			"30"
-			
-			
-			//"visible"		"1"
-			
-			"fgcolor_override"	"TanLight"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor_override"	"235 226 202 255"
 			"wrap"			"1"
 			//"centerwrap"	"1"
 		}

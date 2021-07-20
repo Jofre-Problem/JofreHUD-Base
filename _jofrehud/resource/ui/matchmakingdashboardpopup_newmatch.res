@@ -75,7 +75,7 @@
 				{
 					"0"		"HudFontSmallest"
 					"1"		"StorePromotionsTitle"
-					"2"		"FontStorePrice"
+					"2"		"TFFontMedium"
 				}
 			}
 

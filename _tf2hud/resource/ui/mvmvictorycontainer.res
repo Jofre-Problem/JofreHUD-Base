@@ -4,12 +4,12 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"480"
-		//"visible"		"1"
+		"visible"		"1"
 		"bgcolor_override"		"20 20 20 245"
 	}
 	
@@ -22,19 +22,19 @@
 		"ypos"			"20"
 		"wide"			"600"
 		"tall"			"50"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		
 		"BannerImage"
 		{
 			"ControlName"	"ScalableImagePanel"
 			"fieldName"		"BannerImage"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"wide"			"600"
 			"tall"			"50"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"mvm/smallbanner"
 			"scaleImage"    "1"
 			
@@ -49,7 +49,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"BannerTextDropShadow"
-			"font"			"HudFontBig"
+			"font"			"HudFontBiggerBold"
 			"labelText"		"#TF_MVM_Victory_Complete"
 			"textAlignment" "center"
 			"xpos"			"2"
@@ -63,14 +63,14 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"BannerTextDropShadow"
-			"font"			"HudFontBig"
+			"font"			"HudFontBiggerBold"
 			"labelText"		"#TF_MVM_Victory_Complete"
 			"textAlignment" "center"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"wide"			"600"
 			"tall"			"35"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"tanlight"
 		}
 	}
 	
@@ -78,24 +78,24 @@
 	{
 		"ControlName"		"CVictoryPanel"
 		"fieldName"			"VictoryPanelNormal"
-		//"xpos"				"0"
-		//"ypos"				"0"
+		"xpos"				"0"
+		"ypos"				"0"
 		"wide"				"f0"
 		"tall"				"480"
 		"visible"			"0"
-				
+		"enabled"			"1"		
 	}
 	
 	"VictoryPanelMannUp"
 	{
 		"ControlName"		"CMvMVictoryMannUpPanel"
 		"fieldName"			"VictoryPanelMannUp"
-		//"xpos"				"0"
+		"xpos"				"0"
 		"ypos"				"20"
 		"zpos"				"50"
 		"wide"				"f0"
 		"tall"				"480"
 		"visible"			"0"
-				
+		"enabled"			"1"		
 	}
 }

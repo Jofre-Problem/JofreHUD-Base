@@ -13,7 +13,7 @@
 		
 		//"visible"		"1"
 		
-		"image"			"../hud/death_panel_blue_bg"
+		//"image"			"../hud/death_panel_blue_bg"
 		"scaleImage"		"1"
 		"teambg_2"		"../hud/death_panel_red_bg"
 		"teambg_3"		"../hud/death_panel_blue_bg"
@@ -25,8 +25,8 @@
 		"font"			"HudFontSmall"
 		"xpos"			"80"
 		"ypos"			"70"
-		////"ypos_hidef"	"23"
-		////"ypos_lodef"	"20"
+		//////"ypos_hidef"	"23"
+		//////"ypos_lodef"	"20"
 		"zpos"			"1"
 		"wide"			"230"
 		"tall"			"55"

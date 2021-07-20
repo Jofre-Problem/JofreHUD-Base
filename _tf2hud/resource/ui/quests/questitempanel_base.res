@@ -559,7 +559,7 @@
 					"proportionaltoparent"	"1"
 					"labelText"		"#TF_Quest_FindServer"
 					"use_proportional_insets" "0"
-					"font"			"QuestFlavorText"
+					"font"			"ScoreboardSmall"
 					"allcaps"	"1"
 					"textAlignment"	"center"
 					////"dulltext"		"0"
@@ -598,7 +598,7 @@
 					{
 						"ControlName"			"Label"
 						"fieldName"				"RequiredContractItemsLabel"
-						"font"					"QuestFlavorText"
+						"font"					"ScoreboardSmall"
 						"labelText"				"#TF_Quest_RequiredItems"
 						"textAlignment"			"north-west"
 						"xpos"					"p.1"
@@ -651,7 +651,7 @@
 						"proportionaltoparent"	"1"
 						"labelText"		"#TF_Quest_RequestLoanerItems"
 						"use_proportional_insets" "0"
-						"font"			"QuestFlavorText"
+						"font"			"ScoreboardSmall"
 						"allcaps"	"1"
 						"textAlignment"	"center"
 						////"dulltext"		"0"
@@ -691,7 +691,7 @@
 						"proportionaltoparent"	"1"
 						"labelText"		"#TF_Quest_EquipLoanerItems"
 						"use_proportional_insets" "0"
-						"font"			"QuestFlavorText"
+						"font"			"ScoreboardSmall"
 						"allcaps"	"1"
 						"textAlignment"	"center"
 						////"dulltext"		"0"
@@ -833,7 +833,7 @@
 					{
 						"ControlName"			"Label"
 						"fieldName"				"QuestExpirationWarning"
-						"font"					"QuestFlavorText"
+						"font"					"ScoreboardSmall"
 						"labelText"				"%expiration%"
 						"textAlignment"			"north-west"
 						
@@ -857,7 +857,7 @@
 					{
 						"ControlName"			"Label"
 						"fieldName"				"QuestObjectiveExplanation"
-						"font"					"QuestFlavorText"
+						"font"					"ScoreboardSmall"
 						"labelText"				"#TF_QuestObjective_Explanation"
 						"textAlignment"			"north-west"
 						
@@ -877,11 +877,11 @@
 						"fgcolor_override"		"Black"
 					}
 
-					"QuestFlavorText"
+					"ScoreboardSmall"
 					{
 						"ControlName"			"Label"
-						"fieldName"				"QuestFlavorText"
-						"font"					"QuestFlavorText"
+						"fieldName"				"ScoreboardSmall"
+						"font"					"ScoreboardSmall"
 						"labelText"				"%flavor_text%"
 						"textAlignment"			"north-west"
 						

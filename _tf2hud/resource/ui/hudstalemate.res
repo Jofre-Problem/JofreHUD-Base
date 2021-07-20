@@ -4,15 +4,15 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"HudStalemateBG"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"320"
 		"tall"			"150"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../hud/death_panel_black_bg"
 		"scaleImage"		"1"
 	}
@@ -26,10 +26,10 @@
 		"zpos"			"1"
 		"wide"			"280"
 		"tall"			"35"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"wrap"			"1"
 		"labelText"		"#TF_teambalanced"
 		"textAlignment"		"northwest"
@@ -44,12 +44,12 @@
 		"zpos"			"1"
 		"wide"			"280"
 		"tall"			"55"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"wrap"			"1"
-		"labeltext"		""
+		"labelText"		""
 		"textAlignment"		"northwest"
 	}
 }

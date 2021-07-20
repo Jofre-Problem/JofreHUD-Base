@@ -8,20 +8,20 @@
 		"ypos"			"c-20"
 		"wide"			"300"
 		"tall"			"300"
-		//"visible"		"1"
+		"visible"		"1"
 		
 		"SplashBackground"
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"SplashBackground"
 			"xpos"			"25"
-			
+			"ypos"			"0"
 			"wide"			"250"
 			"tall"			"70"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"../hud/ammo_red_bg"
 		}
 		
@@ -29,7 +29,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"SplashLabelShadow"
-			"font"			"HudFontGiant"
+			"font"			"HudFontGiantBold"
 			"labelText"		"#TF_MVM_Victory"
 			"textAlignment" "center"
 			"xpos"			"2"
@@ -43,14 +43,14 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"SplashLabel"
-			"font"			"HudFontGiant"
+			"font"			"HudFontGiantBold"
 			"labelText"		"#TF_MVM_Victory"
 			"textAlignment" "center"
-			
+			"xpos"			"0"
 			"ypos"			"12"
 			"wide"			"300"
 			"tall"			"50"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"tanlight"
 		}
 	}
 }

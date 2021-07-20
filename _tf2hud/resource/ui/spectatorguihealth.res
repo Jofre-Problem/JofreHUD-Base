@@ -13,8 +13,8 @@
 		"wide_minmode"	"14"
 		"tall"			"20"
 		"tall_minmode"	"14"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"scaleImage"	"1"	
 	}		
 	"PlayerStatusHealthImageBG"
@@ -30,8 +30,8 @@
 		"wide_minmode"	"16"
 		"tall"			"24"
 		"tall_minmode"	"16"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../hud/health_bg"
 		"scaleImage"	"1"	
 	}	
@@ -39,7 +39,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BuildingStatusHealthImageBG"
-		
+		"xpos"			"0"
 		"xpos_minmode"	"2"
 		"ypos"			"2"
 		"ypos_minmode"	"3"
@@ -49,7 +49,7 @@
 		"tall"			"28"
 		"tall_minmode"	"22"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			"../hud/health_equip_bg"
 		"scaleImage"	"1"	
 	}	
@@ -67,7 +67,7 @@
 		"tall"			"24"
 		"tall_minmode"	"12"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"	
 	}
@@ -84,8 +84,8 @@
 		"wide_minmode"	"14"
 		"tall"			"10"
 		"tall_minmode"	"14"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"SpectatorVerySmall"
@@ -102,7 +102,7 @@
 		"wide"			"16"
 		"tall"			"12"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"textAlignment"	"center"	
 		"font"			"ScoreboardVerySmall"
 		"fgcolor"		"TFOrange"

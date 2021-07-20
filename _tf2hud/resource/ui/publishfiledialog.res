@@ -8,11 +8,11 @@
 		"ypos"		"c-200"
 		"wide"		"600"
 		"tall"		"400"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"settitlebarvisible"		"0"
 		"border"				"SteamWorkshopBorder"
 	}
@@ -21,16 +21,16 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
-		
-		//"ypos"		"0"
+		"xpos"		"0"
+		"ypos"		"0"
 		"zpos"		"-100"
 		"wide"		"600"
 		"tall"		"400"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"bgcolor_override"	"0 0 0 255"
 	}
 
@@ -38,13 +38,13 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"WorkshopBG"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"-99"
 		"wide"			"600"
 		"tall"			"300"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"workshop_blue_top"
 		"scaleImage"	"1"
 	}
@@ -53,15 +53,15 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BackgroundBottom"
-		
+		"xpos"		"0"
 		"ypos"		"355"
 		"wide"		"600"
 		"tall"		"45"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"bgcolor_override"	"57 52 49 255"
 	}
 
@@ -73,17 +73,17 @@
 		"ypos"		"15"
 		"wide"		"250"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_Title"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
-		"font"		"HudFontMediumSecondary"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+		"font"		"HudFontMediumBold"
 	}
 
 	"LabelPreview"	
@@ -94,17 +94,17 @@
 		"ypos"		"45"
 		"wide"		"250"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_Preview"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
-		"font"		"HudFontSmall"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+		"font"		"HudFontSmallBold"
 	}
 
 	"PreviewImageBorder"
@@ -116,11 +116,11 @@
 		"zpos"		"-99"
 		"wide"		"150"
 		"tall"		"150"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"border"				"SteamWorkshopBorder"
 
 		"PreviewDescription"
@@ -128,18 +128,18 @@
 			"ControlName"		"Label"
 			"fieldName"		"PreviewDescription"
 			"xpos"		"5"
-			//"ypos"		"0"
+			"ypos"		"0"
 			"wide"		"140"
 			"tall"		"120"
-			
-			
-			//"visible"		"1"
-			
-			
+			"autoResize"		"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"		"0"
 			"labelText"		"#TF_PublishFile_PreviewDesc"
 			"textAlignment"		"center"
-			////"dulltext"		"0"
-			////"brighttext"		"0"
+			"dulltext"		"0"
+			"brighttext"		"0"
 			"wrap"		"1"
 			"font"		"HudFontSmallest"
 		}
@@ -164,19 +164,19 @@
 		"ypos"		"225"
 		"wide"		"150"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_Browse"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"PreviewBrowse"
-		//"Default"		"1"
-		"font"		"HudFontSmall"
+		"Default"		"1"
+		"font"		"HudFontSmallBold"
 	}
 
 	"LabelTitle"
@@ -187,17 +187,17 @@
 		"ypos"		"45"
 		"wide"		"250"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_TitleLabel"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
-		"font"		"HudFontSmall"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+		"font"		"HudFontSmallBold"
 	}
 
 	"FileTitle"
@@ -208,15 +208,15 @@
 		"ypos"		"70"
 		"wide"		"250"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"128"
-		//"NumericInputOnly"		"0"
+		"NumericInputOnly"		"0"
 		"unicode"		"1"
 		"fgcolor_override"	"0 0 0 255"
 		"bgcolor_override"	"235 226 202 255"
@@ -232,17 +232,17 @@
 		"ypos"		"95"
 		"wide"		"275"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_DescLabel"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
-		"font"		"HudFontSmall"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+		"font"		"HudFontSmallBold"
 	}
 	"FileDesc"
 	{
@@ -252,15 +252,15 @@
 		"ypos"		"120"
 		"wide"		"250"
 		"tall"		"125"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"8000"
-		//"NumericInputOnly"		"0"
+		"NumericInputOnly"		"0"
 		"unicode"		"1"
 		"fgcolor_override"	"0 0 0 255"
 		"bgcolor_override"	"235 226 202 255"
@@ -276,17 +276,17 @@
 		"ypos"		"250"
 		"wide"		"250"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_FileLabel"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
-		"font"		"HudFontSmall"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+		"font"		"HudFontSmallBold"
 	}
 	
 	"SourceFile"
@@ -297,17 +297,17 @@
 		"ypos"		"250"
 		"wide"		"275"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"1"
 		"labelText"			"#TF_PublishFile_NoFileSelected"
-		//"textHidden"		"0"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"256"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 		"font"		"HudFontSmall"
 	}
 
@@ -319,26 +319,26 @@
 		"ypos"		"275"
 		"wide"		"140"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_Cosmetics"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"MainFileCosmetics"
-		//"Default"		"1"
-		"font"		"HudFontSmall"
+		"Default"		"1"
+		"font"		"HudFontSmallBold"
 
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"xpos"			"115"
-			
+			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"25"
 			"tall"			"25"
@@ -355,19 +355,19 @@
 		"ypos"		"275"
 		"wide"		"140"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_Other"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"MainFileOther"
-		//"Default"		"1"
-		"font"		"HudFontSmall"
+		"Default"		"1"
+		"font"		"HudFontSmallBold"
 	}
 
 	"ButtonSourceMaps"
@@ -378,26 +378,26 @@
 		"ypos"		"275"
 		"wide"		"140"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_Maps"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"MainFileMaps"
-		//"Default"		"1"
-		"font"		"HudFontSmall"
+		"Default"		"1"
+		"font"		"HudFontSmallBold"
 
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"xpos"			"115"
-			
+			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"25"
 			"tall"			"25"
@@ -414,15 +414,15 @@
 		"ypos"		"300"
 		"wide"		"270"
 		"tall"		"55"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_BrowseDesc"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
 		"wrap"		"1"
 		"font"		"HudFontSmallest"
 		"fgcolor_override"	"TanDark"
@@ -436,17 +436,17 @@
 		"ypos"		"45"
 		"wide"		"100"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_Tags"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
-		"font"		"HudFontSmall"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+		"font"		"HudFontSmallBold"
 	}
 
 	"ClassUsagePanel"
@@ -457,7 +457,7 @@
 		"ypos"			"45"
 		"wide"			"160"
 		"tall"			"228"
-		//"visible"		"1"
+		"visible"		"1"
 		"paintbackground" "0"
 
 		"ClassCheckBox1"
@@ -466,19 +466,19 @@
 			"fieldName"		"ClassCheckBox1"
 			"labelText"		"#TF_Class_Name_Scout"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"25"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox2"
 		{
@@ -486,19 +486,19 @@
 			"fieldName"		"ClassCheckBox2"
 			"labelText"		"#TF_Class_Name_Sniper"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"45"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox3"
 		{
@@ -506,19 +506,19 @@
 			"fieldName"		"ClassCheckBox3"
 			"labelText"		"#TF_Class_Name_Soldier"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"65"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox4"
 		{
@@ -526,19 +526,19 @@
 			"fieldName"		"ClassCheckBox4"
 			"labelText"		"#TF_Class_Name_Demoman"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"85"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox5"
 		{
@@ -546,19 +546,19 @@
 			"fieldName"		"ClassCheckBox5"
 			"labelText"		"#TF_Class_Name_Medic"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"105"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox6"
 		{
@@ -566,19 +566,19 @@
 			"fieldName"		"ClassCheckBox6"
 			"labelText"		"#TF_Class_Name_HWGuy"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"125"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox7"
 		{
@@ -586,19 +586,19 @@
 			"fieldName"		"ClassCheckBox7"
 			"labelText"		"#TF_Class_Name_Pyro"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"145"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox8"
 		{
@@ -606,19 +606,19 @@
 			"fieldName"		"ClassCheckBox8"
 			"labelText"		"#TF_Class_Name_Spy"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"165"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox9"
 		{
@@ -626,19 +626,19 @@
 			"fieldName"		"ClassCheckBox9"
 			"labelText"		"#TF_Class_Name_Engineer"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			""
 			"ypos"			"185"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}	
 
 		"TagCheckbox_Headgear"
@@ -647,19 +647,19 @@
 			"fieldName"		"TagCheckbox_Headgear"
 			"labelText"		"#TF_SteamWorkshop_Tag_Headgear"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"25"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"TagCheckbox_Weapon"
 		{
@@ -667,19 +667,19 @@
 			"fieldName"		"TagCheckbox_Weapon"
 			"labelText"		"#TF_SteamWorkshop_Tag_Weapon"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"45"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"TagCheckbox_Misc"
 		{
@@ -687,19 +687,19 @@
 			"fieldName"		"TagCheckbox_Misc"
 			"labelText"		"#TF_SteamWorkshop_Tag_Misc"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"65"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"TagCheckbox_SoundDevice"
 		{
@@ -707,19 +707,19 @@
 			"fieldName"		"TagCheckbox_SoundDevice"
 			"labelText"		"#TF_SteamWorkshop_Tag_SoundDevice"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"85"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"TagCheckbox_Halloween"
 		{
@@ -727,19 +727,19 @@
 			"fieldName"		"TagCheckbox_Halloween"
 			"labelText"		"#TF_SteamWorkshop_Tag_Halloween"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"105"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"TagCheckbox_Smissmas"
 		{
@@ -747,19 +747,19 @@
 			"fieldName"		"TagCheckbox_Smissmas"
 			"labelText"		"#TF_SteamWorkshop_Tag_Smissmas"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"125"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}		
 		"TagCheckbox_Taunt"
 		{
@@ -767,19 +767,19 @@
 			"fieldName"		"TagCheckbox_Taunt"
 			"labelText"		"#TF_SteamWorkshop_Tag_Taunt"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"145"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"TagCheckbox_UnusualEffect"
 		{
@@ -787,19 +787,19 @@
 			"fieldName"		"TagCheckbox_UnusualEffect"
 			"labelText"		"#TF_SteamWorkshop_Tag_UnusualEffect"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"165"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"TagCheckbox_WarPaint"
 		{
@@ -807,19 +807,19 @@
 			"fieldName"		"TagCheckbox_WarPaint"
 			"labelText"		"#TF_SteamWorkshop_Tag_WarPaint"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"185"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}		
 		"TagCheckbox_Jungle"
 		{
@@ -827,19 +827,19 @@
 			"fieldName"		"TagCheckbox_Jungle"
 			"labelText"		"#TF_SteamWorkshop_Tag_Jungle"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"205"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 
 		"MapsCheckBox_CTF"
@@ -848,19 +848,19 @@
 			"fieldName"		"MapsCheckBox_CTF"
 			"labelText"		"#TF_SteamWorkshop_Tag_CTF"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"25"
 			"zpos"			"1"
 			"wide"			"80"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_CP"
 		{
@@ -868,19 +868,19 @@
 			"fieldName"		"MapsCheckBox_CP"
 			"labelText"		"#TF_SteamWorkshop_Tag_CP"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"45"
 			"zpos"			"1"
 			"wide"			"80"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_Escort"
 		{
@@ -888,19 +888,19 @@
 			"fieldName"		"MapsCheckBox_Escort"
 			"labelText"		"#TF_SteamWorkshop_Tag_Escort"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"65"
 			"zpos"			"1"
 			"wide"			"80"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_EscortRace"
 		{
@@ -908,19 +908,19 @@
 			"fieldName"		"MapsCheckBox_EscortRace"
 			"labelText"		"#TF_SteamWorkshop_Tag_EscortRace"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"85"
 			"zpos"			"1"
 			"wide"			"80"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_RobotDestruction"
 		{
@@ -928,19 +928,19 @@
 			"fieldName"		"MapsCheckBox_RobotDestruction"
 			"labelText"		"#TF_SteamWorkshop_Tag_RobotDestruction"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"105"
 			"zpos"			"1"
 			"wide"			"80"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_Koth"
 		{
@@ -948,19 +948,19 @@
 			"fieldName"		"MapsCheckBox_Koth"
 			"labelText"		"#TF_SteamWorkshop_Tag_Koth"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"125"
 			"zpos"			"1"
 			"wide"			"80"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_AttackDefense"
 		{
@@ -968,19 +968,19 @@
 			"fieldName"		"MapsCheckBox_AttackDefense"
 			"labelText"		"#TF_SteamWorkshop_Tag_AttackDefense"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"145"
 			"zpos"			"1"
 			"wide"			"80"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_SD"
 		{
@@ -988,19 +988,19 @@
 			"fieldName"		"MapsCheckBox_SD"
 			"labelText"		"#TF_SteamWorkshop_Tag_SD"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"165"
 			"zpos"			"1"
 			"wide"			"80"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_MVM"
 		{
@@ -1008,19 +1008,19 @@
 			"fieldName"		"MapsCheckBox_MVM"
 			"labelText"		"#TF_SteamWorkshop_Tag_MVM"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"185"
 			"zpos"			"1"
 			"wide"			"100"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_Arena"
 		{
@@ -1028,19 +1028,19 @@
 			"fieldName"		"MapsCheckBox_Arena"
 			"labelText"		"#TF_SteamWorkshop_Tag_Arena"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"25"
 			"zpos"			"1"
 			"wide"			"80"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_Powerup"
 		{
@@ -1048,19 +1048,19 @@
 			"fieldName"		"MapsCheckBox_Powerup"
 			"labelText"		"#TF_SteamWorkshop_Tag_Powerup"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"45"
 			"zpos"			"1"
 			"wide"			"80"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_Medieval"
 		{
@@ -1068,19 +1068,19 @@
 			"fieldName"		"MapsCheckBox_Medieval"
 			"labelText"		"#TF_SteamWorkshop_Tag_Medieval"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"65"
 			"zpos"			"1"
 			"wide"			"80"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_PassTime"
 		{
@@ -1088,19 +1088,19 @@
 			"fieldName"		"MapsCheckBox_PassTime"
 			"labelText"		"#TF_SteamWorkshop_Tag_PassTime"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"85"
 			"zpos"			"1"
 			"wide"			"80"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_Specialty"
 		{
@@ -1108,19 +1108,19 @@
 			"fieldName"		"MapsCheckBox_Specialty"
 			"labelText"		"#TF_SteamWorkshop_Tag_Specialty"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"105"
 			"zpos"			"1"
 			"wide"			"80"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckBox_Halloween"
 		{
@@ -1128,19 +1128,19 @@
 			"fieldName"		"MapsCheckBox_Halloween"
 			"labelText"		"#TF_SteamWorkshop_Tag_Halloween"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"125"
 			"zpos"			"1"
 			"wide"			"80"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckbox_Smissmas"
 		{
@@ -1148,19 +1148,19 @@
 			"fieldName"		"MapsCheckbox_Smissmas"
 			"labelText"		"#TF_SteamWorkshop_Tag_Smissmas"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"145"
 			"zpos"			"1"
 			"wide"			"80"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckbox_Night"
 		{
@@ -1168,19 +1168,19 @@
 			"fieldName"		"MapsCheckbox_Night"
 			"labelText"		"#TF_SteamWorkshop_Tag_Night"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"165"
 			"zpos"			"1"
 			"wide"			"80"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"MapsCheckbox_Jungle"
 		{
@@ -1188,19 +1188,19 @@
 			"fieldName"		"MapsCheckbox_Jungle"
 			"labelText"		"#TF_SteamWorkshop_Tag_Jungle"
 			"Font"			"ItemFontAttribSmall"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"85"
 			"ypos"			"185"
 			"zpos"			"1"
 			"wide"			"80"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 	}
 
@@ -1212,19 +1212,19 @@
 		"ypos"		"365"
 		"wide"		"150"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#Cancel"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
-		"font"		"HudFontSmall"
+		"font"		"HudFontSmallBold"
 	}
 
 	"ButtonPublish"
@@ -1235,18 +1235,18 @@
 		"ypos"		"365"
 		"wide"		"150"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_Publish"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"Publish"
-		//"Default"		"1"
-		"font"		"HudFontSmall"
+		"Default"		"1"
+		"font"		"HudFontSmallBold"
 	}
 }

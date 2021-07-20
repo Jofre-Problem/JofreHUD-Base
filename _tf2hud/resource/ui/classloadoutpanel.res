@@ -56,7 +56,7 @@
 			
 			"attriblabel"
 			{
-				"font"			"ItemFontAttribLarge"
+				"font"			"HudFontSmallest"
 				"visible"		"0"
 			}
 			
@@ -239,7 +239,7 @@
 		
 		"attriblabel"
 		{
-			"font"			"ItemFontAttribLarge"
+			"font"			"HudFontSmallest"
 			
 			
 			"zpos"			"2"
@@ -260,7 +260,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PassiveAttribsLabel"
-		"font"			"ItemFontAttribLarge"
+		"font"			"HudFontSmallest"
 		"xpos"			"c-135"
 		"ypos"			"120"
 			
@@ -420,7 +420,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TauntHintLabel"
-		"font"			"ItemFontAttribLarge"
+		"font"			"HudFontSmallest"
 		"xpos"			"c90"
 		"ypos"			"20"
 		"zpos"			"1"	

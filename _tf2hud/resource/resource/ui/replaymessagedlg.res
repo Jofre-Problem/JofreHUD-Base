@@ -122,7 +122,7 @@
 			//"visible"		"1"
 			
 			"tabPosition"	"2"
-			"font"			"ReplayMediumSmall"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"

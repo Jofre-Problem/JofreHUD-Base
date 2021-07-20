@@ -8,14 +8,14 @@
 		"ypos"			"285"
 		"wide"			"220"
 		"tall"			"70"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"settitlebarvisible"	"0"
-		//"PaintBackgroundType"	"0"
-		//"paintbackground"		"1"
+		"PaintBackgroundType"	"0"
+		"paintbackground"		"1"
 		"bgcolor_override"	"Econ.Dialog.BgColor"
 
 		"TitleLabel"
@@ -25,15 +25,15 @@
 			"font"			"EconFontSmall"
 			"labelText"		"#ConfirmTitle"
 			"textAlignment"	"north"
-			
+			"xpos"			"0"
 			"ypos"			"10"
 			"zpos"			"1"
 			"wide"			"220"
 			"tall"			"30"
 			"autoResize"	"1"
-			
-			//"visible"		"1"
-			
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 		}
 	
 		"ExplanationLabel"
@@ -48,12 +48,12 @@
 			"zpos"			"1"
 			"wide"			"200"
 			"tall"			"170"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "LightRed"
+			"fgcolor_override" "200 80 60 255"
 		}
 
 		"ConfirmButton"
@@ -65,17 +65,17 @@
 			"zpos"			"20"
 			"wide"			"100"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
 			"labelText"		"#ConfirmButtonText"
 			"font"			"ReplayBrowserSmallest"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"Command"		"confirm"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -96,8 +96,8 @@
 			"zpos"				"20"
 			"wide"				"48"
 			"tall"				"48"
-			//"visible"			"1"
-				
+			"visible"			"1"
+			"enabled"			"1"	
 			"HealthBonusPosAdj"	"10"
 			"HealthDeathWarning"		"0.49"
 			"TFFont"					"HudFontSmallest"

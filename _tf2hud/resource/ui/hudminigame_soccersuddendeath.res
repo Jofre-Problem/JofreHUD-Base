@@ -1,4 +1,4 @@
-//#base "HudMiniGame_Soccer.res"
+\\#base "HudMiniGame_Soccer.res"
 
 "Resource/UI/HudMiniGame_SuddenDeath.res"
 {
@@ -36,8 +36,8 @@
 		"zpos"			"5"
 		"wide"			"50"
 		"tall"			"50"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../effects/skull001_hud"
 		"scaleImage"	"1"	
 		"proportionaltoparent" "1"
@@ -52,8 +52,8 @@
 		"zpos"			"5"
 		"wide"			"50"
 		"tall"			"50"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../effects/skull001_hud"
 		"scaleImage"	"1"	
 		"proportionaltoparent" "1"

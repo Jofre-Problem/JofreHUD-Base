@@ -6,19 +6,19 @@
 		"fieldName"		"background"
 		"xpos"			"12"
 		"ypos"			"6"
-		
+		"zpos"			"0"
 		"wide"			"76"
 		"wide_minmode"	"56"
 		"tall"			"38"
-		//"visible"		"1"
+		"visible"		"1"
 		"visible_minmode"	"0"
-		
+		"enabled"		"1"
 		"image"			"../hud/misc_ammo_area_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_red"
-		
+		"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
 		"teambg_3"		"../hud/misc_ammo_area_blue"
-			
+		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"				
 	}
 	
 	"ChargeLabel"
@@ -32,14 +32,14 @@
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		
+		"visible"				"1"
 		"visible_minmode"		"0"
-		
-		
+		"enabled"				"1"
+		"tabPosition"			"0"
 		"labelText"				"#TF_Charge"
 		"textAlignment"			"center"
-		//"dulltext"				"0"
-		//"brighttext"			"0"
+		"dulltext"				"0"
+		"brighttext"			"0"
 		"font"					"TFFontSmall"
 	}
 
@@ -56,25 +56,25 @@
 		"wide"					"40"
 		"wide_minmode"			"50"
 		"tall"					"6"				
-		
-		
-		
-		
+		"autoResize"			"0"
+		"pinCorner"				"0"
+		"visible"				"1"
+		"enabled"				"1"
 		"textAlignment"			"Left"
-		//"dulltext"				"0"
-		//"brighttext"			"0"
+		"dulltext"				"0"
+		"brighttext"			"0"
 	}				
 		
 	"PipesPresentPanel"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PipesPresentPanel"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"50"
-		//"visible"		"1"
+		"visible"		"1"
 		
 		"PipeIcon"
 		{
@@ -87,8 +87,8 @@
 			"wide_minmode"	"14"
 			"tall"			"20"
 			"tall_minmode"	"14"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"../hud/ico_stickybomb_red"
 			"scaleImage"	"1"
 			"teambg_2"		"../hud/ico_stickybomb_red"
@@ -109,13 +109,13 @@
 			//"tall_lodef"	"28"
 			"autoResize"	"1"
 			"pinCorner"		"2"
-			//"visible"		"1"
-			
-			
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
 			"labelText"		"%activepipes%"
-			//"textAlignment"	"west"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"textAlignment"	"west"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"font"			"HudFontMedium"
 			"font_minmode"	"HudFontSmall"
 			//"font_lodef"	"HudFontMediumBig"
@@ -134,13 +134,13 @@
 			//"tall_lodef"	"28"
 			"autoResize"	"1"
 			"pinCorner"		"2"
-			//"visible"		"1"
-			
-			
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
 			"labelText"		"%activepipes%"
-			//"textAlignment"	"west"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"textAlignment"	"west"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"font"			"HudFontMedium"
 			"font_minmode"	"HudFontSmall"
 			//"font_lodef"	"HudFontMediumBig"
@@ -152,12 +152,12 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"NoPipesPresentPanel"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"50"
-		//"visible"		"1"
+		"visible"		"1"
 		
 		"PipeIcon"
 		{
@@ -170,8 +170,8 @@
 			"wide_minmode"	"14"
 			"tall"			"20"
 			"tall_minmode"	"14"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"../hud/ico_stickybomb_red_faded"
 			"scaleImage"	"1"
 			"teambg_2"		"../hud/ico_stickybomb_red_faded"
@@ -192,13 +192,13 @@
 			//"tall_lodef"	"28"
 			"autoResize"	"1"
 			"pinCorner"		"2"
-			//"visible"		"1"
-			
-			
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
 			"labelText"		"%activepipes%"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"dulltext"		"1"
-			//"brighttext"	"0"
+			"brighttext"	"0"
 			"font"			"HudFontMedium"
 			"font_minmode"	"HudFontSmall"
 			//"font_lodef"	"HudFontMediumBig"
@@ -217,13 +217,13 @@
 			//"tall_lodef"	"28"
 			"autoResize"	"1"
 			"pinCorner"		"2"
-			//"visible"		"1"
-			
-			
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
 			"labelText"		"%activepipes%"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"dulltext"		"1"
-			//"brighttext"	"0"
+			"brighttext"	"0"
 			"font"			"HudFontMedium"
 			"font_minmode"	"HudFontSmall"
 			//"font_lodef"	"HudFontMediumBig"

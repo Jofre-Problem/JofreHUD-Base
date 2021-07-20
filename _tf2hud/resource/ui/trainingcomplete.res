@@ -4,15 +4,15 @@
 	{
 		"ControlName"		"CTFTrainingComplete"
 		"fieldName"			"TrainingComplete"
-		//"xpos"				"0"
-		//"ypos"				"0"
+		"xpos"				"0"
+		"ypos"				"0"
 		"zpos"				"0"
 		"wide"				"f0"
 		"tall"				"480"
-		//"visible"			"1"
-		
+		"visible"			"1"
+		"enabled"			"1"
   
-		"Next"  
+		"Next" [$WIN32] 
 		{
 			"ControlName"		"CExButton"
 			"fieldName"		"Next"
@@ -25,23 +25,23 @@
 			"zpos"			"6"
 			"wide"			"150"
 			"tall"			"30"
-			
+			"autoResize"	"0"
 			"pinCorner"		"2"
-			//"visible"		"1"
-			
-			
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"		"0"
 			"labelText"		"#Button_NextTraining"
 			"textAlignment"		"center"
-			////"dulltext"		"0"
-			////"brighttext"		"0"
-			//"wrap"		"0"
+			"dulltext"		"0"
+			"brighttext"		"0"
+			"wrap"		"0"
 			"command"		"next"
 			"font"			"MenuSmallFont"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 		}
 
-		"Quit"  
+		"Quit" [$WIN32] 
 		{
 			"ControlName"		"CExButton"
 			"fieldName"		"Quit"
@@ -54,23 +54,23 @@
 			"zpos"			"6"
 			"wide"			"150"
 			"tall"			"30"
-			
+			"autoResize"	"0"
 			"pinCorner"		"2"
-			//"visible"		"1"
-			
-			
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"		"0"
 			"labelText"		"#Button_QuitTraining"
 			"textAlignment"		"center"
-			////"dulltext"		"0"
-			////"brighttext"		"0"
-			//"wrap"		"0"
+			"dulltext"		"0"
+			"brighttext"		"0"
+			"wrap"		"0"
 			"command"		"quit"
 			"font"			"MenuSmallFont"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 		}	
 		
-		"Replay"  
+		"Replay" [$WIN32] 
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"Replay"
@@ -82,14 +82,14 @@
 			"zpos"			"6"
 			"wide"			"150"
 			"tall"			"30"
-			
+			"autoResize"	"0"
 			"pinCorner"		"2"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"#Button_ReplayTraining"
 			"textAlignment"	"center"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"command"		"replay"
 			"font"			"MenuSmallFont"
 			"fgcolor"		"Black"
@@ -101,7 +101,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"BottomBar"
-			
+			"xpos"			"0"
 			"ypos"			"r50"
 			//"ypos_lodef"			"r74"
 			//"ypos_hidef"			"r65"
@@ -110,21 +110,21 @@
 			"tall"			"50"
 			//"tall_lodef"			"74"
 			//"tall_hidef"			"65"
-			
-			
-			//"visible"		"1"
-			
-				
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"	
 			"fillcolor"		"56 51 44 255"
-			//"PaintBackgroundType"	"0"
+			"PaintBackgroundType"	"0"
 		}	
 
 		"TopBar"
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"TopBar"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			//"ypos_lodef"			"r74"
 			//"ypos_hidef"			"r65"
 			"zpos"			"5"
@@ -132,13 +132,13 @@
 			"tall"			"50"
 			//"tall_lodef"			"74"
 			//"tall_hidef"			"65"
-			
-			
-			//"visible"		"1"
-			
-				
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"	
 			"fillcolor"		"56 51 44 255"
-			//"PaintBackgroundType"	"0"
+			"PaintBackgroundType"	"0"
 		}
 	}
 
@@ -151,8 +151,8 @@
 		"zpos"			"2"
 		"wide"			"128"
 		"tall"			"128"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../hud/graduation_bomb"
 		"scaleImage"	"1"
 	}
@@ -167,36 +167,36 @@
 		"wide"		"400"
 		"tall"		"480"
 		"visible"	"1"
-		
+		"enabled"	"1"
 
 		"ResultsLabel"
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ResultsLabel"
-		  	"font"			"HudFontMediumSmall"
+		  	"font"			"HudFontMediumSmallBold"
 			"labelText"		"%wintext%"
 			"textAlignment"		"center"
-			
+			"xpos"			"0"
 			"ypos"			"10"
 			"zpos"			"1"
 			"wide"			"400"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"		"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 		}
 		"ResultsBG"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"ResultsBG"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"wide"			"400"
 			"tall"			"275"
-			//"visible"		"1"
+			"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"border"		"MainMenuHighlightBorder"
+			"border"		"TrainingResultsBG"
 		}
 		"ResultsText"
 		{
@@ -208,10 +208,10 @@
 			"wide"			"370"
 			"tall"			"215"
 			"autoResize"		"3"
-			
-			//"visible"		"1"
-			
-			
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"		"0"
 			"maxchars"		"-1"
 			"text"			""
 			"wrap"			"1"

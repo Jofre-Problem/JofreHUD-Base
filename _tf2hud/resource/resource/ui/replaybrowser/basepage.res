@@ -36,7 +36,7 @@
 		
 		"fgcolor_override"		"ReplayBrowser.Search.FgColor"
 		"bgcolor_override"		"ReplayBrowser.Search.BgColor"
-		"Font"			"ReplayBrowserSmallest"
+		"Font"			"HudFontSmallest"
 		//"paintborder"	"0"
 		"selectallonfirstfocus"		"1"
 	}
