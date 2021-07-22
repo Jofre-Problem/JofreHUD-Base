@@ -2,7 +2,7 @@
 {
 	"SubtitleLabel"
 	{
-		"font"			"ScoreboardSmall"
+		"font"			"Link"
 		"textAlignment"	"north"
 		"proportionalToParent"  "1"
 		"xpos"			"cs-0.5"

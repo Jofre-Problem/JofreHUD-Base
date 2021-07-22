@@ -4,12 +4,12 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGRect"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"0"
+		
+		
+		
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"bgcolor_override"	"0 0 0 50"
@@ -20,12 +20,12 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"LoadingPanel"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"zpos"			"10"
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"SpinnerImage"
@@ -33,12 +33,12 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"PreviewImage"
 			"xpos"			"20"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"50"
 			"tall"			"50"
-			"visible"		"1"
-			"enable"		"1"
+			//"visible"		"1"
+			////"enabled"		"1"	
 			"scaleImage"	"1"
 			"image"			"animated/tf2_logo_hourglass"
 
@@ -49,17 +49,17 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"DescriptionLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"#MMenu_Stream_Loading"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"90"
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"fgcolor"		"56 53 49 255"
 
 			"proportionaltoparent"	"1"
@@ -76,26 +76,26 @@
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"50"
-		"visible"		"1"
-		"enable"		"1"
-		"scaleImage"	"0"
+		//"visible"		"1"
+		////"enabled"		"1"	
+		//"scaleImage"	"0"
 	}
 
 	"DisplayNameLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DisplayNameLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		"%display_name%"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"90"
 		"ypos"			"5"
 		"wide"			"205"
 		"tall"			"12"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"fgcolor"		"56 53 49 255"
 	}
 
@@ -110,10 +110,10 @@
 		"ypos"			"18"
 		"wide"			"205"
 		"tall"			"12"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"fgcolor"		"56 53 49 255"
 	}
 
@@ -123,15 +123,15 @@
 		"fieldName"		"ViewerCountLabel"
 		"font"			"HudFontSmallest"
 		"labelText"		"%viewer_count%"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"90"
 		"ypos"			"31"
 		"wide"			"205"
 		"tall"			"12"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"fgcolor"		"56 53 49 255"
 	}
 
@@ -140,17 +140,17 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"Stream_URLButton"
 		"xpos"			"5"
-		"ypos"			"0"
+		
 		"zpos"			"100"
 		"wide"			"290"
 		"tall"			"50"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"labelText"		""
-		"visible"		"1"
+		
+		
+		"labeltext"		""
+		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"	"0"
-		"default"		"1"
+		
+		//"Default"		"1"
 		"command"		"stream"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -158,9 +158,9 @@
 
 		"border_armed"		"TeamMenuBorder"
 			
-		"defaultFgColor_override" "0 0 0 0"
-		"defaultBgColor_override" "0 0 0 0"
-		"armedFgColor_override" "0 0 0 0"
-		"armedBgColor_override"	"0 0 0 0"
+		"defaultFgColor_override" "Blank"
+		"defaultBgColor_override" "Blank"
+		"armedFgColor_override" "Blank"
+		"armedBgColor_override"	"Blank"
 	}
 }

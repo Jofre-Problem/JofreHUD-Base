@@ -50,7 +50,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"FieldName"		"MapLabel"
-			"Font"			"HudFontSmallest"
+			"Font"			"ReplayMediumSmall"
 			//"textAlignment"	"west"
 			
 			"ypos"			"15"
@@ -62,7 +62,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"FieldName"		"DateTimeLabel"
-			"Font"			"HudFontSmallest"
+			"Font"			"ReplayBrowserSmallest"
 			//"textAlignment"	"west"
 			"fgcolor_override"	"115 106 91 255"
 			

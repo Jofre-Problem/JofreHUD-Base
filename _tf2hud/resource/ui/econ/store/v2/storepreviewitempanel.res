@@ -205,7 +205,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"ItemLevelInfoLabel"
-					"font"			"TFFontMedium"
+					"font"			"FontStoreOriginalPrice"
 					"labelText"		"%item_level_info%"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -222,7 +222,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"RestrictionsLabel"
-					"font"			"TFFontMedium"
+					"font"			"FontStoreOriginalPrice"
 					"labelText"		"#Store_ItemDesc_Restrictions"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -239,7 +239,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"RestrictionsTextLabel"
-					"font"			"TFFontMedium"
+					"font"			"FontStoreOriginalPrice"
 					"labelText"		"#Store_HolidayRestrictionText"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -256,7 +256,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"UsedByLabel"
-					"font"			"TFFontMedium"
+					"font"			"FontStoreOriginalPrice"
 					"labelText"		"#Store_ItemDesc_UsedBy"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -273,7 +273,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"UsedByTextLabel"
-					"font"			"TFFontMedium"
+					"font"			"FontStoreOriginalPrice"
 					"labelText"		"%used_by_classes%"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -289,7 +289,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"SlotLabel"
-					"font"			"TFFontMedium"
+					"font"			"FontStoreOriginalPrice"
 					"labelText"		"#Store_ItemDesc_Slot"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -306,7 +306,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"SlotTextLabel"
-					"font"			"TFFontMedium"
+					"font"			"FontStoreOriginalPrice"
 					"labelText"		"%slot%"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -338,7 +338,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"ArmoryTextLabel"
-					"font"			"TFFontMedium"
+					"font"			"FontStoreOriginalPrice"
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
@@ -354,7 +354,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"AttributesLabel"
-					"font"			"TFFontMedium"
+					"font"			"FontStoreOriginalPrice"
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
@@ -391,7 +391,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"TradableLabel"
-					"font"			"TFFontMedium"
+					"font"			"FontStoreOriginalPrice"
 					"labelText"		"#Store_ItemDesc_Tradable"
 					"textAlignment"	"north-west"
 					"wide"			"205"
@@ -408,7 +408,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"TradableTextLabel"
-					"font"			"TFFontMedium"
+					"font"			"FontStoreOriginalPrice"
 					"labelText"		"%tradable%"
 					"textAlignment"	"north-west"
 					"wide"			"205"
@@ -424,7 +424,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"GiftableLabel"
-					"font"			"TFFontMedium"
+					"font"			"FontStoreOriginalPrice"
 					"labelText"		"#Store_ItemDesc_Giftable"
 					"textAlignment"	"north-west"
 					"wide"			"205"
@@ -441,7 +441,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"GiftableTextLabel"
-					"font"			"TFFontMedium"
+					"font"			"FontStoreOriginalPrice"
 					"labelText"		"%giftable%"
 					"textAlignment"	"north-west"
 					"wide"			"205"
@@ -457,7 +457,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"NameableLabel"
-					"font"			"TFFontMedium"
+					"font"			"FontStoreOriginalPrice"
 					"labelText"		"#Store_ItemDesc_Nameable"
 					"textAlignment"	"north-west"
 					"wide"			"205"
@@ -474,7 +474,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"NameableTextLabel"
-					"font"			"TFFontMedium"
+					"font"			"FontStoreOriginalPrice"
 					"labelText"		"%nameable%"
 					"textAlignment"	"north-west"
 					"wide"			"205"
@@ -490,7 +490,7 @@
 				{
 					"ControlName"		"CExLabel"
 					"fieldName"		"CraftableLabel"
-					"font"			"TFFontMedium"
+					"font"			"FontStoreOriginalPrice"
 					"labelText"		"#Store_ItemDesc_Craftable"
 					"textAlignment"		"north-west"
 					"wide"			"205"
@@ -507,7 +507,7 @@
 				{
 					"ControlName"		"CExLabel"
 					"fieldName"		"CraftableTextLabel"
-					"font"			"TFFontMedium"
+					"font"			"FontStoreOriginalPrice"
 					"labelText"		"%craftable%"
 					"textAlignment"		"north-west"
 					"wide"			"205"
@@ -1361,7 +1361,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CycleTextLabel"
-		"font"			"TFFontMedium"
+		"font"			"FontStorePrice"
 		"labeltext"		""
 		"textAlignment"	"left"
 		"xpos"			"c-186"
@@ -1383,7 +1383,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PaintNameLabel"
-		"font"			"TFFontMedium"
+		"font"			"FontStorePrice"
 		"labelText"		"#Store_NoPaint"
 		"textAlignment"	"left"
 		"xpos"			"c-186"
@@ -1402,7 +1402,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"StyleNameLabel"
-		"font"			"TFFontMedium"
+		"font"			"FontStorePrice"
 		"labelText"		"None"
 		"textAlignment"	"left"
 		"xpos"			"132"

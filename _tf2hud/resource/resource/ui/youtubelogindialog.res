@@ -76,7 +76,7 @@
 		"tabPosition"	"1"
 		"fgcolor_override"		"202 190 164 255"
 		"bgcolor_override"		"60 54 46 255"
-		"Font"			"HudFontSmallest"
+		"Font"			"ReplayBrowserSmallest"
 	}
 
 	"PasswordLabel"
@@ -118,7 +118,7 @@
 		"textHidden"	"1"
 		"fgcolor_override"		"202 190 164 255"
 		"bgcolor_override"		"60 54 46 255"
-		"Font"			"HudFontSmallest"
+		"Font"			"ReplayBrowserSmallest"
 	}
 	
 	"RegisterButton"

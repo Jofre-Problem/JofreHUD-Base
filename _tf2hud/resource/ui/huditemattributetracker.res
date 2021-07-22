@@ -3,13 +3,13 @@
 	"ItemAttributeTracker"
 	{
 		"fieldName" 	"ItemAttributeTracker"
-		"visible" 		"1"
-		"enabled" 		"1"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
+		
+		
 		"wide"			"f0"
 		"tall"			"f0"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 
 		"stats_buffer_width"	"30"
 	}
@@ -38,7 +38,7 @@
 			"tall"			"18"
 			"zpos"			"4"
 			"textinsetx"	"5"
-			"fgcolor_override"		"235 226 202 255"
+			"fgcolor_override"		"TanLight"
 			"font"			"AchievementTracker_Name"
 			//"wrap"			"1"
 			"TextAlignment"		"north-east"
@@ -56,8 +56,8 @@
 			"tall"			"f0"
 			"zpos"			"4"
 			"textinsetx"	"5"
-			"fgcolor_override"		"235 226 202 255"
-			"font"			"QuestObjectiveTracker_Desc"
+			"fgcolor_override"		"TanLight"
+			"font"			"ControlPointTimerSmaller"
 			//"wrap"			"1"
 			"TextAlignment"		"north-east"
 			"proportionaltoparent" "1"
@@ -69,11 +69,11 @@
 			"fieldName"		"Image"
 			"xpos"			"4"
 			"ypos"			"cs-0.5"
-			"zpos"			"0"
+			
 			"wide"			"o1"
 			"tall"			"p0.8"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"image"			"tf2_folder_icon"
 			"scaleImage"	"1"	
 			"proportionaltoparent"	"1"	

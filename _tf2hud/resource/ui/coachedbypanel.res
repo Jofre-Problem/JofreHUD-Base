@@ -14,7 +14,7 @@
 		"visible"		"0"
 		
 		"image"			"../hud/color_panel_blu"
-		////"image_lodef"	"../hud/color_panel_blu"
+		//"image_lodef"	"../hud/color_panel_blu"
 		
 		"src_corner_height"		"23"			// pixels inside the image
 		"src_corner_width"		"23"
@@ -36,7 +36,7 @@
 		"visible"		"0"
 		
 		"image"			"../hud/color_panel_red"
-		////"image_lodef"	"../hud/color_panel_red"
+		//"image_lodef"	"../hud/color_panel_red"
 		
 		"src_corner_height"		"23"			// pixels inside the image
 		"src_corner_width"		"23"
@@ -79,7 +79,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"CoachNameLabel"
 		"font"			"HudFontMediumSmallSecondary"
-		"font_minmode"	"TFFontLarge"
+		//"font_minmode"	"TFFontLarge"
 		"xpos"			"42"
 		
 		"zpos"			"1"

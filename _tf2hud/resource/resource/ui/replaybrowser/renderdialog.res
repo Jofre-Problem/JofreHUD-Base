@@ -563,7 +563,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"LockWarningLabel"
-		"font"			"HudFontSmallest"
+		"font"			"ReplayMediumSmall"
 		"labelText"		"#Replay_LockWarning"
 		//"textAlignment"	"west"
 		

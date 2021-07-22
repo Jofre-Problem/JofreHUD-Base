@@ -32,7 +32,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MessageLabel"
-		"font"			"HudFontSmallest"
+		"font"			"ItemFontAttribLarge"
 		
 		"wide"			"180"
 		"tall"			"0"

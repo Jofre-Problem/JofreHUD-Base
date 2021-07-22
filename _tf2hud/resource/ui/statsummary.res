@@ -4,24 +4,24 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"	"TFStatsSummary"
-		"xpos"		"0"
-		"ypos"		"0"
+		
+		//"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"480"
 		"visible"	"1"
-		"enabled"	"1"
+		
 	}
 
 	"MainBackground"
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"MainBackground"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"wide"			"f0"
 		"tall"			"480"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"image"			""
 		"scaleImage"		"1"
 	}	
@@ -30,24 +30,24 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"	"MapInfo"
-		"xpos"		"0"
-		"ypos"		"0"
+		
+		//"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"480"
 		"visible"	"0"
-		"enabled"	"1"
-		"bgcolor_override"	"46 43 42 255"
+		
+		"bgcolor_override"	"TanDarker"
 	
 		"Background"
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"Background"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"wide"			"640"
 			"tall"			"480"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"image"			"stamp_background_map"
 			"scaleImage"		"1"
 		}
@@ -61,8 +61,8 @@
 			"zpos"			"2"
 			"wide"			"300"
 			"tall"			"300"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"image"			""
 			"scaleImage"	"1"		
 		}
@@ -77,20 +77,20 @@
 			"wide"			"300"
 			"tall"			"100"
 			"visible"		"0"
-			"enabled"		"1"
+			
 	
 			"BG"
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"BG"
-				"xpos"			"0"
-				"ypos"			"0"
+				
+				
 				"wide"			"300"
 				"tall"			"55"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
+				
+				
+				//"visible"		"1"
+				
 				"border"		"TFThinLineBorder"
 			}
 	
@@ -98,18 +98,18 @@
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"		"ActualLabel"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"labelText"		"#TF_Contributed"
 				"textAlignment"		"center"
 				"xpos"			"10"
-				"ypos"			"0"
+				
 				"zpos"			"40"
 				"wide"			"280"
 				"tall"			"55"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
+				
+				
+				//"visible"		"1"
+				
 				"centerwrap"	"1"
 				"wrap"			"1"
 			}					
@@ -123,10 +123,10 @@
 			"ypos"			"120"
 			"wide"			"285"
 			"tall"			"280"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"border"		"TFThinLineBorder"
 		}
 
@@ -134,7 +134,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Title"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%title%"
 			"textAlignment"	"north"
 			"xpos"			"c20"
@@ -142,17 +142,17 @@
 			"zpos"			"2"
 			"wide"			"275"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"fgcolor_override" "255 181 50 255"
 		}
 		"MapAuthors"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"MapAuthors"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%authors%"
 			"textAlignment"	"north"
 			"xpos"			"c20"
@@ -160,18 +160,18 @@
 			"zpos"			"2"
 			"wide"			"275"
 			"tall"			"275"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"wrap"			"0"
+			
+			
+			//"visible"		"1"
+			
+			//"wrap"			"0"
 		}
 
 		"MapLeaderboardTitle"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"MapLeaderboardTitle"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%map_leaderboard_title%"
 			"textAlignment"	"north"
 			"xpos"			"c20"
@@ -179,10 +179,10 @@
 			"zpos"			"2"
 			"wide"			"275"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"fgcolor_override" "137 191 60 255"
 		}
 	}
@@ -191,7 +191,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"OnYourWayLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"#LoadingMap"
 		"textAlignment"		"center"
 		"xpos"			"c+10"
@@ -199,17 +199,17 @@
 		"zpos"			"40"
 		"wide"			"285"
 		"tall"			"35"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"fgcolor_override" "173 168 148 255"
 	}					
 	"MapLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"MapLabel"
-		"font"			"HudFontMediumBigBold"
+		"font"			"HudFontMediumBig"
 		"labelText"		"%maplabel%"
 		"textAlignment"		"center"
 		"xpos"			"c-25"
@@ -217,16 +217,16 @@
 		"zpos"			"50"
 		"wide"			"350"
 		"tall"			"35"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 	}
 	"MapType"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapType"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"%maptype%"
 		"textAlignment"	"center"
 		"xpos"			"c-25"
@@ -234,34 +234,34 @@
 		"zpos"			"50"
 		"wide"			"350"
 		"tall"			"35"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 	}					
 	"StatData"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"	"StatData"
-		"xpos"		"0"
-		"ypos"		"0"
+		
+		//"ypos"		"0"
 		"zpos"		"1"
 		"wide"		"f0"
 		"tall"		"480"
 		"visible"	"1"
-		"enabled"	"1"
+		
 
 		"NonInteractiveHeaders"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"	"NonInteractiveHeaders"
-			"xpos"		"0"
-			"ypos"		"0"
+			
+			//"ypos"		"0"
 			"zpos"		"2"
 			"wide"		"f0"
 			"tall"		"480"
 			"visible"	"1"
-			"enabled"	"1"
+			
 	
 			"BarChartLabelA"
 			{
@@ -278,13 +278,12 @@
 				//"ypos_hidef"			"49"
 				//"ypos_lodef"			"49"
 				"zpos"			"5"
-				"wide"			"150" [$WIN32]
-				"wide"			"170" [$X360]
+				"wide"			"150"
 				"tall"			"20"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
+				
+				
+				//"visible"		"1"
+				
 			}
 			"BarChartLabelB"
 			{
@@ -293,7 +292,7 @@
 				"font"			"ScoreboardVerySmall"
 				//"font_hidef"	"Default"
 				"labelText"		"#StatSummary_StatTitle_TotalPlaytime"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 				"xpos"			"c-127"
 				//"xpos_hidef"			"c-35"
 				//"xpos_lodef"			"c-35"
@@ -303,10 +302,10 @@
 				"zpos"			"5"
 				"wide"			"150"
 				"tall"			"20"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
+				
+				
+				//"visible"		"1"
+				
 			}			
 			"OverallRecordLabel"
 			{
@@ -314,7 +313,7 @@
 				"fieldName"		"OverallRecordLabel"
 				"font"			"ScoreboardVerySmall"
 				"labelText"		"#StatSummary_Label_AsAnyClass"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 				"xpos"			"c+130"
 				//"xpos_hidef"			"c+110"
 				"ypos"			"200"
@@ -322,27 +321,27 @@
 				"zpos"			"5"
 				"wide"			"200"
 				"tall"			"20"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"visible_hidef"		"0"
+				
+				
+				//"visible"		"1"
+				//"visible_hidef"		"0"
 				//"visible_lodef"		"0"
-				"enabled"		"1"
-				"enabled_hidef"		"0"
-				//enabled_lodef"		"0"
+				
+				//"enabled_hidef"		"0"
+				//"enabled_lodef"		"0"
 			}				
 		}
 		"InteractiveHeaders"	
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"	"InteractiveHeaders"
-			"xpos"		"0"
-			"ypos"		"0"
+			
+			//"ypos"		"0"
 			"zpos"		"2"
 			"wide"		"f0"
 			"tall"		"480"
 			"visible"	"1"
-			"enabled"	"1"
+			
 
 			"BarChartComboA"
 			{
@@ -353,16 +352,16 @@
 				"zpos"		"10"
 				"wide"		"154"
 				"tall"		"14"
-				"autoResize"		"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
+				
+				
+				//"visible"		"1"
+				
 				"tabPosition"		"1"
-				"textHidden"		"0"
+				//"textHidden"		"0"
 				"editable"		"0"
 				"maxchars"		"-1"
-				"NumericInputOnly"		"0"
-				"unicode"		"0"
+				//"NumericInputOnly"		"0"
+				//"unicode"		"0"
 			}
 			"BarChartComboB"
 			{
@@ -373,16 +372,16 @@
 				"zpos"		"10"
 				"wide"		"154"
 				"tall"		"14"
-				"autoResize"		"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
+				
+				
+				//"visible"		"1"
+				
 				"tabPosition"		"1"
-				"textHidden"		"0"
+				//"textHidden"		"0"
 				"editable"		"0"
 				"maxchars"		"-1"
-				"NumericInputOnly"		"0"
-				"unicode"		"0"
+				//"NumericInputOnly"		"0"
+				//"unicode"		"0"
 			}
 			"ClassCombo"
 			{
@@ -393,16 +392,16 @@
 				"zpos"		"10"
 				"wide"		"167"
 				"tall"		"14"
-				"autoResize"		"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
+				
+				
+				//"visible"		"1"
+				
 				"tabPosition"		"1"
-				"textHidden"		"0"
+				//"textHidden"		"0"
 				"editable"		"0"
 				"maxchars"		"-1"
-				"NumericInputOnly"		"0"
-				"unicode"		"0"
+				//"NumericInputOnly"		"0"
+				//"unicode"		"0"
 			}
 		}
 		"AveragesBG"
@@ -421,10 +420,10 @@
 			"tall"			"300"
 			//"tall_hidef"			"633"
 			//"tall_lodef"			"633"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"border"		"TFThinLineBorder"
 		}
 		"AveragesLabel"
@@ -433,22 +432,21 @@
 			"fieldName"		"AveragesLabel"
 			"font"			"ScoreboardMedium"
 			"labelText"		"#StatSummary_Label_PerformanceReport"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			//"textAlignment_hidef"		"center"
-			"textAlignment_lodef"		"center"
+			//"textAlignment_lodef"		"center"
 			"xpos"			"c-285"
 			//"xpos_hidef"			"c-193"
 			//"xpos_lodef"			"c-193"
-			"ypos"			"170" [!$OSX]
-			"ypos"			"185" [$OSX]
+			"ypos"			"170"
 			//"ypos_hidef"			"32"
 			//"ypos_lodef"			"32"
 			"wide"			"300"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		"ClassBarBG1A"
 		{
@@ -463,13 +461,13 @@
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarBG1B"
 		{
@@ -484,13 +482,13 @@
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar1A"
 		{
@@ -505,13 +503,13 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"162 148 135 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar1B"
 		{
@@ -526,13 +524,13 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"162 148 135 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel1A"
 		{
@@ -540,7 +538,7 @@
 			"fieldName"		"ClassBarLabel1A"
 			"font"			"ScoreboardVerySmall"
 			"labelText"		"%classbarlabel1A%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-282"
 			//"xpos_hidef"			"c-190"
 			//"xpos_lodef"			"c-190"
@@ -550,10 +548,10 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassBarLabel1B"
 		{
@@ -561,7 +559,7 @@
 			"fieldName"		"ClassBarLabel1B"
 			"font"			"ScoreboardVerySmall"
 			"labelText"		"%classbarlabel1B%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-127"
 			//"xpos_hidef"			"c-35"
 			//"xpos_lodef"			"c-35"
@@ -571,10 +569,10 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassLabel1"
 		{
@@ -584,7 +582,7 @@
 			//"font_hidef"	"Default"
 			//"font_lodef"			"ScoreboardVerySmall"
 			"labelText"		"%class1%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+34"
 			//"xpos_hidef"			"c+126"
 			//"xpos_lodef"			"c+126"
@@ -594,10 +592,10 @@
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassBarBG2A"
 		{
@@ -612,13 +610,13 @@
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBarBG2B"
 		{
@@ -633,13 +631,13 @@
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar2A"
 		{
@@ -654,13 +652,13 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"93 60 27 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBar2B"
 		{
@@ -675,13 +673,13 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"93 60 27 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel2A"
 		{
@@ -689,7 +687,7 @@
 			"fieldName"		"ClassBarLabel2A"
 			"font"			"ScoreboardVerySmall"
 			"labelText"		"%classbarlabel2A%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-282"
 			//"xpos_hidef"			"c-190"
 			//"xpos_lodef"			"c-190"
@@ -699,10 +697,10 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassBarLabel2B"
 		{
@@ -710,7 +708,7 @@
 			"fieldName"		"ClassBarLabel2B"
 			"font"			"ScoreboardVerySmall"
 			"labelText"		"%classbarlabel2B%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-127"
 			//"xpos_hidef"			"c-35"
 			//"xpos_lodef"			"c-35"
@@ -720,10 +718,10 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassLabel2"
 		{
@@ -733,7 +731,7 @@
 			//"font_hidef"	"Default"
 			//"font_lodef"	"ScoreboardVerySmall"
 			"labelText"		"%class2%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+34"
 			//"xpos_hidef"			"c+126"
 			//"xpos_lodef"			"c+126"
@@ -743,10 +741,10 @@
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassBarBG3A"
 		{
@@ -761,13 +759,13 @@
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBarBG3B"
 		{
@@ -782,13 +780,13 @@
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar3A"
 		{
@@ -803,13 +801,13 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"134 93 39 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBar3B"
 		{
@@ -824,13 +822,13 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"134 93 39 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel3A"
 		{
@@ -838,7 +836,7 @@
 			"fieldName"		"ClassBarLabel3A"
 			"font"			"ScoreboardVerySmall"
 			"labelText"		"%classbarlabel3A%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-282"
 			//"xpos_hidef"			"c-190"
 			//"xpos_lodef"			"c-190"
@@ -848,10 +846,10 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassBarLabel3B"
 		{
@@ -859,7 +857,7 @@
 			"fieldName"		"ClassBarLabel3B"
 			"font"			"ScoreboardVerySmall"
 			"labelText"		"%classbarlabel3B%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-127"
 			//"xpos_hidef"			"c-35"
 			//"xpos_lodef"			"c-35"
@@ -869,10 +867,10 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassLabel3"
 		{
@@ -882,7 +880,7 @@
 			//"font_hidef"	"Default"
 			//"font_lodef"			"ScoreboardVerySmall"
 			"labelText"		"%class3%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+34"
 			//"xpos_hidef"			"c+126"
 			//"xpos_lodef"			"c+126"
@@ -892,10 +890,10 @@
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassBarBG4A"
 		{
@@ -910,13 +908,13 @@
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBarBG4B"
 		{
@@ -931,13 +929,13 @@
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar4A"
 		{
@@ -952,13 +950,13 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"207 147 95 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBar4B"
 		{
@@ -973,13 +971,13 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"207 147 95 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel4A"
 		{
@@ -987,7 +985,7 @@
 			"fieldName"		"ClassBarLabel4A"
 			"font"			"ScoreboardVerySmall"
 			"labelText"		"%classbarlabel4A%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-282"
 			//"xpos_hidef"			"c-190"
 			//"xpos_lodef"			"c-190"
@@ -997,10 +995,10 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassBarLabel4B"
 		{
@@ -1008,7 +1006,7 @@
 			"fieldName"		"ClassBarLabel4B"
 			"font"			"ScoreboardVerySmall"
 			"labelText"		"%classbarlabel4B%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-127"
 			//"xpos_hidef"			"c-35"
 			//"xpos_lodef"			"c-35"
@@ -1018,10 +1016,10 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassLabel4"
 		{
@@ -1031,7 +1029,7 @@
 			//"font_hidef"	"Default"
 			//"font_lodef"			"ScoreboardVerySmall"
 			"labelText"		"%class4%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+34"
 			//"xpos_hidef"			"c+126"
 			//"xpos_lodef"			"c+126"
@@ -1041,10 +1039,10 @@
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassBarBG5A"
 		{
@@ -1059,13 +1057,13 @@
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBarBG5B"
 		{
@@ -1080,13 +1078,13 @@
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar5A"
 		{
@@ -1101,13 +1099,13 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"226 184 146 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBar5B"
 		{
@@ -1122,13 +1120,13 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"226 184 146 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel5A"
 		{
@@ -1136,7 +1134,7 @@
 			"fieldName"		"ClassBarLabel5A"
 			"font"			"ScoreboardVerySmall"
 			"labelText"		"%classbarlabel5A%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-282"
 			//"xpos_hidef"			"c-190"
 			//"xpos_lodef"			"c-190"
@@ -1146,10 +1144,10 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassBarLabel5B"
 		{
@@ -1157,7 +1155,7 @@
 			"fieldName"		"ClassBarLabel5B"
 			"font"			"ScoreboardVerySmall"
 			"labelText"		"%classbarlabel5B%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-127"
 			//"xpos_hidef"			"c-35"
 			//"xpos_lodef"			"c-35"
@@ -1167,10 +1165,10 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassLabel5"
 		{
@@ -1180,7 +1178,7 @@
 			//"font_hidef"	"Default"
 			//"font_lodef"			"ScoreboardVerySmall"
 			"labelText"		"%class5%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+34"
 			//"xpos_hidef"			"c+126"
 			//"xpos_lodef"			"c+126"
@@ -1190,10 +1188,10 @@
 			"zpos"			"5"
 			"wide"			"282"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassBarBG6A"
 		{
@@ -1208,13 +1206,13 @@
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBarBG6B"
 		{
@@ -1229,13 +1227,13 @@
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar6A"
 		{
@@ -1250,13 +1248,13 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"162 148 135 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBar6B"
 		{
@@ -1271,13 +1269,13 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"162 148 135 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel6A"
 		{
@@ -1285,7 +1283,7 @@
 			"fieldName"		"ClassBarLabel6A"
 			"font"			"ScoreboardVerySmall"
 			"labelText"		"%classbarlabel6A%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-282"
 			//"xpos_hidef"			"c-190"
 			//"xpos_lodef"			"c-190"
@@ -1295,10 +1293,10 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassBarLabel6B"
 		{
@@ -1306,7 +1304,7 @@
 			"fieldName"		"ClassBarLabel6B"
 			"font"			"ScoreboardVerySmall"
 			"labelText"		"%classbarlabel6B%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-127"
 			//"xpos_hidef"			"c-35"
 			//"xpos_lodef"			"c-35"
@@ -1316,10 +1314,10 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassLabel6"
 		{
@@ -1329,7 +1327,7 @@
 			//"font_hidef"	"Default"
 			//"font_lodef"			"ScoreboardVerySmall"
 			"labelText"		"%class6%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+34"
 			//"xpos_hidef"			"c+126"
 			//"xpos_lodef"			"c+126"
@@ -1339,10 +1337,10 @@
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassBarBG7A"
 		{
@@ -1357,13 +1355,13 @@
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBarBG7B"
 		{
@@ -1378,13 +1376,13 @@
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar7A"
 		{
@@ -1399,13 +1397,13 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"93 60 27 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBar7B"
 		{
@@ -1420,13 +1418,13 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"93 60 27 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel7A"
 		{
@@ -1434,7 +1432,7 @@
 			"fieldName"		"ClassBarLabel7A"
 			"font"			"ScoreboardVerySmall"
 			"labelText"		"%classbarlabel7A%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-282"
 			//"xpos_hidef"			"c-190"
 			//"xpos_lodef"			"c-190"
@@ -1444,10 +1442,10 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassBarLabel7B"
 		{
@@ -1455,7 +1453,7 @@
 			"fieldName"		"ClassBarLabel7B"
 			"font"			"ScoreboardVerySmall"
 			"labelText"		"%classbarlabel7B%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-127"
 			//"xpos_hidef"			"c-35"
 			//"xpos_lodef"			"c-35"
@@ -1465,10 +1463,10 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassLabel7"
 		{
@@ -1478,7 +1476,7 @@
 			//"font_hidef"	"Default"
 			//"font_lodef"			"ScoreboardVerySmall"
 			"labelText"		"%class7%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+34"
 			//"xpos_hidef"			"c+126"
 			//"xpos_lodef"			"c+126"
@@ -1488,10 +1486,10 @@
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}		
 		"ClassBarBG8A"
 		{
@@ -1506,13 +1504,13 @@
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBarBG8B"
 		{
@@ -1527,13 +1525,13 @@
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar8A"
 		{
@@ -1548,13 +1546,13 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"134 93 39 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBar8B"
 		{
@@ -1569,13 +1567,13 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"134 93 39 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel8A"
 		{
@@ -1583,7 +1581,7 @@
 			"fieldName"		"ClassBarLabel8A"
 			"font"			"ScoreboardVerySmall"
 			"labelText"		"%classbarlabel8A%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-282"
 			//"xpos_hidef"			"c-190"
 			//"xpos_lodef"			"c-190"
@@ -1593,10 +1591,10 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassBarLabel8B"
 		{
@@ -1604,7 +1602,7 @@
 			"fieldName"		"ClassBarLabel8B"
 			"font"			"ScoreboardVerySmall"
 			"labelText"		"%classbarlabel8B%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-127"
 			//"xpos_hidef"			"c-35"
 			//"xpos_lodef"			"c-35"
@@ -1614,10 +1612,10 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassLabel8"
 		{
@@ -1627,7 +1625,7 @@
 			//"font_hidef"	"Default"
 			//"font_lodef"			"ScoreboardVerySmall"
 			"labelText"		"%class8%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+34"
 			//"xpos_hidef"			"c+126"
 			//"xpos_lodef"			"c+126"
@@ -1637,10 +1635,10 @@
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}		
 		"ClassBarBG9A"
 		{
@@ -1655,13 +1653,13 @@
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBarBG9B"
 		{
@@ -1676,13 +1674,13 @@
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"ClassBar9A"
 		{
@@ -1697,13 +1695,13 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"207 147 95 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBar9B"
 		{
@@ -1718,13 +1716,13 @@
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"207 147 95 255"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel9A"
 		{
@@ -1732,7 +1730,7 @@
 			"fieldName"		"ClassBarLabel9A"
 			"font"			"ScoreboardVerySmall"
 			"labelText"		"%classbarlabel9A%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-282"
 			//"xpos_hidef"			"c-190"
 			//"xpos_lodef"			"c-190"
@@ -1742,10 +1740,10 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassBarLabel9B"
 		{
@@ -1753,7 +1751,7 @@
 			"fieldName"		"ClassBarLabel9B"
 			"font"			"ScoreboardVerySmall"
 			"labelText"		"%classbarlabel9B%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-127"
 			//"xpos_hidef"			"c-35"
 			//"xpos_lodef"			"c-35"
@@ -1763,10 +1761,10 @@
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}				
 		"ClassLabel9"
 		{
@@ -1776,7 +1774,7 @@
 			//"font_hidef"	"Default"
 			//"font_lodef"			"ScoreboardVerySmall"
 			"labelText"		"%class9%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+34"
 			//"xpos_hidef"			"c+126"
 			//"xpos_lodef"			"c+126"
@@ -1786,10 +1784,10 @@
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}		
 		"RecordsBG"
 		{
@@ -1804,14 +1802,14 @@
 			"tall"			"260"
 			//"tall_hidef"			"633"
 			//"tall_lodef"			"633"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"visible_hidef"		"0"
+			
+			
+			//"visible"		"1"
+			//"visible_hidef"		"0"
 			//"visible_lodef"		"0"
-			"enabled"		"1"
-			"enabled_hidef"		"0"			
-			//enabled_lodef"		"0"			
+			
+			//"enabled_hidef"		"0"			
+			//"enabled_lodef"		"0"			
 			"border"		"TFThinLineBorder"
 		}
 		"RecordsLabel1"
@@ -1820,17 +1818,15 @@
 			"fieldName"		"RecordsLabel1"
 			"font"			"ScoreboardMediumSmall"
 			"labelText"		"#StatSummary_Label_BestMoments"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+124"
-			"ypos"			"170" [!$OSX]
-			"ypos"			"180" [$OSX]
+			"ypos"			"170" 
 			"wide"			"300"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"	[$WIN32]
-			"visible"		"0"	[$X360]
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"RecordsSubBG1"
 		{
@@ -1849,13 +1845,13 @@
 			"tall"			"157"
 			//"tall_hidef"			"183"
 			//"tall_lodef"			"183"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"0 0 0 80"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 		"RecordsLabel"
 		{
@@ -1863,17 +1859,16 @@
 			"fieldName"		"RecordsLabel"
 			"font"			"ScoreboardMedium"
 			"labelText"		"#StatSummary_Records"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c-265"
 			"ypos"			"232"
 			"zpos"			"5"
 			"wide"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"0"	[$WIN32]
-			"visible"		"1"	[$X360]
-			"enabled"		"1"
+			
+			
+			"visible"		"0"
+			
 		}	
 		"OverallRecord1Label"
 		{
@@ -1882,7 +1877,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord1label%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+128"
 			//"xpos_hidef"			"c-265"
 			//"xpos_lodef"			"c-265"
@@ -1894,10 +1889,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord1Value"
 		{
@@ -1906,7 +1901,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord1value%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+210"
 			//"xpos_hidef"			"c-155"
 			//"xpos_lodef"			"c-155"
@@ -1918,10 +1913,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord2Label"
 		{
@@ -1930,7 +1925,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord2label%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+128"
 			//"xpos_hidef"			"c-265"
 			//"xpos_lodef"			"c-265"
@@ -1942,10 +1937,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord2Value"
 		{
@@ -1954,7 +1949,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord2value%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+210"
 			//"xpos_hidef"			"c-155"
 			//"xpos_lodef"			"c-155"
@@ -1966,10 +1961,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord3Label"
 		{
@@ -1978,7 +1973,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord3label%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+128"
 			//"xpos_hidef"			"c-265"
 			//"xpos_lodef"			"c-265"
@@ -1990,10 +1985,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord3Value"
 		{
@@ -2002,7 +1997,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord3value%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+210"
 			//"xpos_hidef"			"c-155"
 			//"xpos_lodef"			"c-155"
@@ -2014,10 +2009,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord4Label"
 		{
@@ -2026,7 +2021,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord4label%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+128"
 			//"xpos_hidef"			"c-265"
 			//"xpos_lodef"			"c-265"
@@ -2038,10 +2033,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord4Value"
 		{
@@ -2050,7 +2045,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord4value%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+210"
 			//"xpos_hidef"			"c-155"
 			//"xpos_lodef"			"c-155"
@@ -2062,10 +2057,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord5Label"
 		{
@@ -2074,7 +2069,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord5label%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+128"
 			//"xpos_hidef"			"c-265"
 			//"xpos_lodef"			"c-265"
@@ -2086,10 +2081,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord5Value"
 		{
@@ -2098,7 +2093,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord5value%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+210"
 			//"xpos_hidef"			"c-155"
 			//"xpos_lodef"			"c-155"
@@ -2110,10 +2105,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord6Label"
 		{
@@ -2122,7 +2117,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord6label%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+128"
 			//"xpos_hidef"			"c-265"
 			//"xpos_lodef"			"c-265"
@@ -2134,10 +2129,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord6Value"
 		{
@@ -2146,7 +2141,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord6value%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+210"
 			//"xpos_hidef"			"c-155"
 			//"xpos_lodef"			"c-155"
@@ -2158,10 +2153,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord7Label"
 		{
@@ -2170,7 +2165,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord7label%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+128"
 			//"xpos_hidef"			"c-265"
 			//"xpos_lodef"			"c-265"
@@ -2182,10 +2177,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord7Value"
 		{
@@ -2194,7 +2189,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord7value%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+210"
 			//"xpos_hidef"			"c-155"
 			//"xpos_lodef"			"c-155"
@@ -2206,10 +2201,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord8Label"
 		{
@@ -2218,7 +2213,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord8label%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+128"
 			//"xpos_hidef"			"c-265"
 			//"xpos_lodef"			"c-265"
@@ -2230,10 +2225,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord8Value"
 		{
@@ -2242,7 +2237,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord8value%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+210"
 			//"xpos_hidef"			"c-155"
 			//"xpos_lodef"			"c-155"
@@ -2254,10 +2249,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		"OverallRecord9Label"
 		{
@@ -2266,7 +2261,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord9label%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+128"
 			//"xpos_hidef"			"c-25"
 			//"xpos_lodef"			"c-25"
@@ -2278,10 +2273,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord9Value"
 		{
@@ -2290,7 +2285,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord9value%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+210"
 			//"xpos_hidef"			"c+148"
 			//"xpos_lodef"			"c+148"
@@ -2302,10 +2297,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		"OverallRecord10Label"
 		{
@@ -2314,7 +2309,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord10label%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+128"
 			//"xpos_hidef"			"c-25"
 			//"xpos_lodef"			"c-25"
@@ -2326,10 +2321,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord10Value"
 		{
@@ -2338,7 +2333,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord10value%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+210"
 			//"xpos_hidef"			"c+160"
 			//"xpos_lodef"			"c+160"
@@ -2350,10 +2345,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		"OverallRecord11Label"
 		{
@@ -2362,7 +2357,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord11label%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+128"
 			//"xpos_hidef"			"c-25"
 			//"xpos_lodef"			"c-25"
@@ -2374,10 +2369,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord11Value"
 		{
@@ -2386,7 +2381,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord11value%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+210"
 			//"xpos_hidef"			"c+160"
 			//"xpos_lodef"			"c+160"
@@ -2398,10 +2393,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		"OverallRecord12Label"
 		{
@@ -2410,7 +2405,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord12label%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+128"
 			//"xpos_hidef"			"c-25"
 			//"xpos_lodef"			"c-25"
@@ -2422,10 +2417,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord12Value"
 		{
@@ -2434,7 +2429,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord12value%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+210"
 			//"xpos_hidef"			"c+160"
 			//"xpos_lodef"			"c+160"
@@ -2446,10 +2441,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		"OverallRecord13Label"
 		{
@@ -2458,7 +2453,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord13label%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+128"
 			//"xpos_hidef"			"c-25"
 			//"xpos_lodef"			"c-25"
@@ -2470,10 +2465,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord13Value"
 		{
@@ -2482,7 +2477,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord13value%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+210"
 			//"xpos_hidef"			"c+160"
 			//"xpos_lodef"			"c+160"
@@ -2494,10 +2489,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		"OverallRecord14Label"
 		{
@@ -2506,7 +2501,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord14label%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+128"
 			//"xpos_hidef"			"c-25"
 			//"xpos_lodef"			"c-25"
@@ -2518,10 +2513,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord14Value"
 		{
@@ -2530,7 +2525,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord14value%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+210"
 			//"xpos_hidef"			"c+160"
 			//"xpos_lodef"			"c+160"
@@ -2542,10 +2537,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		"OverallRecord15Label"
 		{
@@ -2554,7 +2549,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord15label%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+128"
 			//"xpos_hidef"			"c-25"
 			//"xpos_lodef"			"c-25"
@@ -2566,10 +2561,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"OverallRecord15Value"
 		{
@@ -2578,7 +2573,7 @@
 			"font"			"ScoreboardVerySmall"
 			//"font_hidef"	"Default"
 			"labelText"		"%classrecord15value%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"c+210"
 			//"xpos_hidef"			"c+160"
 			//"xpos_lodef"			"c+160"
@@ -2590,10 +2585,10 @@
 			//"wide_hidef"			"220"
 			//"wide_lodef"			"220"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 	}
 	"TipImage"
@@ -2606,7 +2601,7 @@
 		"wide"			"35"
 		"tall"			"35"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			""	
 		"scaleImage"	"1"	
 	}
@@ -2619,7 +2614,7 @@
 		"labelText"		"%tiptext%"
 		"textAlignment"			"west"
 		//"textAlignment_hidef"		"north-west"
-		"textAlignment_lodef"		"north-west"
+		//"textAlignment_lodef"		"north-west"
 		"xpos"			"c-245"
 		//"xpos_lodef"			"c-180"
 		//"xpos_hidef"			"c-180"
@@ -2633,13 +2628,13 @@
 		"tall"			"48"
 		//"tall_hidef"	"60"
 		//"tall_lodef"	"60"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"wrap"			"1"
 	}
-	"NextTipButton" [$WIN32]
+	"NextTipButton" 
 	{
 		"ControlName"		"Button"
 		"fieldName"		"NextTipButton"
@@ -2648,18 +2643,18 @@
 		"zpos"			"6"
 		"wide"			"90"
 		"tall"			"15"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"#TF_NextTip"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"nexttip"
 	}
-	"ResetStatsButton" [$WIN32]
+	"ResetStatsButton" 
 	{
 		"ControlName"		"Button"
 		"fieldName"		"ResetStatsButton"
@@ -2668,18 +2663,18 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"#TF_ResetStats"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"resetstatsbutton"
 	}
-	"CloseButton" [$WIN32]
+	"CloseButton" 
 	{
 		"ControlName"		"Button"
 		"fieldName"		"CloseButton"
@@ -2688,23 +2683,23 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		"autoResize"	"0"
+		
 		"pinCorner"		"2"
 		"visible"		"0"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		
 		"labelText"		"#TF_Close"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"vguicancel"
 	}
-	"Footer" [$X360]
+	"Footer" //[$X360]
 	{
 		"ControlName"		"CTFFooter"
 		"fieldName"			"Footer"
 		"bgcolor"			"TanDarker"
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 		"tall"				"100"
 		//"tall_lodef"				"60"
 		"center"			"1"
@@ -2734,15 +2729,15 @@
 			"icon"		"#GameUI_Icons_A_BUTTON"	
 		}
 	}		
-	"TitleBanner" [$X360]
+	"TitleBanner" //[$X360]
 	{
 		"ControlName"	"ImagePanel"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"wide"			"f0"
 		"tall"			"128"
 		"image"			"menu_header"
 		//"visible_lodef"	"0"
-		//enabled_lodef"	"0"
+		//"enabled_lodef"	"0"
 	}
 }

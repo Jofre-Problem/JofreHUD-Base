@@ -18,7 +18,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CaratLabel"
-		"font"			"HudFontSmallest"
+		"font"			"ReplayMediumSmall"
 		//"textAlignment"	"west"
 		"labelText"		">>"
 		"auto_wide_tocontents" "1"
@@ -36,7 +36,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontSmallest"
+		"font"			"ReplayMediumSmall"
 		"labelText"		"%titleandcount%"
 		//"textAlignment"	"west"
 		"zpos"			"2"
@@ -52,7 +52,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DateLabel"
-		"font"			"HudFontSmallest"
+		"font"			"ReplayMediumSmall"
 		//"textAlignment"	"west"
 		"zpos"			"2"
 		
@@ -107,7 +107,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NoReplayItemsLabel"
-		"font"			"HudFontSmallest"
+		"font"			"ReplayMediumSmall"
 		"wide"			"400"
 		"tall"			"40"
 		"zpos"			"5"
@@ -134,7 +134,7 @@
 		
 		
 		"labelText"		"%prevbuttontext%"
-		"font"			"TFFontMedium"
+		"font"			"ItemFontNameSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -162,7 +162,7 @@
 		
 		
 		"labelText"		"%nextbuttontext%"
-		"font"			"TFFontMedium"
+		"font"			"ItemFontNameSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -185,7 +185,7 @@
 		"zpos"			"100"
 		"visible"		"0"
 		
-		"font"			"HudFontSmallest"
+		"font"			"ReplayMediumSmall"
 		"textAlignment"	"center"
 		"text"			"#Replay_RenderAll"
 		"Command"		"render_queued_replays"

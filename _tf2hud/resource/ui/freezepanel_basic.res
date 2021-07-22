@@ -7,7 +7,6 @@
 
 		"screenshot_move_panel_to_corner"	"1"
 	}
-
 	"itempanel"
 	{
 		"ControlName"	"CItemModelPanel"
@@ -64,7 +63,7 @@
 		}
 	}		
 	
-	"FreezePanelBase"	[$WIN32]
+	"FreezePanelBase"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"FreezePanelBase"
@@ -115,7 +114,7 @@
 			////"brighttext"		"0"
 		}
 		
-		"FreezePanelHealth"		[$WIN32]
+		"FreezePanelHealth"		//[$WIN32]
 		{
 			"ControlName"	"CTFFreezePanelHealth"
 			"fieldName"		"FreezePanelHealth"

@@ -72,7 +72,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"New"
-				"font"			"TFFontMedium"
+				"font"			"FontStorePrice"
 				"textAlignment"	"east"
 				
 				
@@ -128,7 +128,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"New"
-				"font"			"TFFontMedium"
+				"font"			"FontStorePrice"
 				"textAlignment"	"east"
 				"xpos"			"rs1"
 				
@@ -351,7 +351,7 @@
 		
 		"attriblabel"
 		{
-			"font"			"HudFontSmallest"
+			"font"			"ItemFontAttribLarge"
 			
 			"ypos"			"30"
 			"zpos"			"2"

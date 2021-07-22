@@ -3,36 +3,36 @@
 	"TestItemRoot"
 	{
 		"fieldName"				"TestItemRoot"
-		"visible"				"1"
-		"enabled"				"1"
-		"xpos"					"0"
-		"ypos"					"0"
+		
+		
+		
+		
 		"wide"					"f0"
 		"tall"					"480"
-		"bgcolor_override"		"46 43 42 255"
+		"bgcolor_override"		"TanDarker"
 		"paintbackgroundtype"	"2"
 		"settitlebarvisible"	""
 		"paintborder"			"0"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 	}
 	
 	"TitleLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"labelText"		"#IT_Title"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"25"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		
+		
+		//"visible"		"1"
+		
+		"fgcolor_override" "LightRed"
 	}
 	
 	"ClassUsagePanel"
@@ -43,7 +43,7 @@
 		"ypos"			"50"
 		"wide"			"400"
 		"tall"			"95"
-		"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"0 0 0 128"
 		
@@ -51,18 +51,18 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"ClassUsageLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"#IT_ClassUsage"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"5"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"200"
 			"tall"			"15"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		
 		"ClassCheckBox0"
@@ -71,19 +71,19 @@
 			"fieldName"		"ClassCheckBox0"
 			"labelText"		"#IT_Classes_All"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"45"
 			"ypos"			"15"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox1"
 		{
@@ -91,19 +91,19 @@
 			"fieldName"		"ClassCheckBox1"
 			"labelText"		"#TF_Class_Name_Scout"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"145"
 			"ypos"			"15"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox2"
 		{
@@ -111,19 +111,19 @@
 			"fieldName"		"ClassCheckBox2"
 			"labelText"		"#TF_Class_Name_Sniper"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"220"
 			"ypos"			"15"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox3"
 		{
@@ -131,19 +131,19 @@
 			"fieldName"		"ClassCheckBox3"
 			"labelText"		"#TF_Class_Name_Soldier"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"295"
 			"ypos"			"15"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox4"
 		{
@@ -151,19 +151,19 @@
 			"fieldName"		"ClassCheckBox4"
 			"labelText"		"#TF_Class_Name_Demoman"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"145"
 			"ypos"			"40"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox5"
 		{
@@ -171,19 +171,19 @@
 			"fieldName"		"ClassCheckBox5"
 			"labelText"		"#TF_Class_Name_Medic"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"220"
 			"ypos"			"40"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox6"
 		{
@@ -191,19 +191,19 @@
 			"fieldName"		"ClassCheckBox6"
 			"labelText"		"#TF_Class_Name_HWGuy"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"295"
 			"ypos"			"40"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox7"
 		{
@@ -211,19 +211,19 @@
 			"fieldName"		"ClassCheckBox7"
 			"labelText"		"#TF_Class_Name_Pyro"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"145"
 			"ypos"			"65"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox8"
 		{
@@ -231,19 +231,19 @@
 			"fieldName"		"ClassCheckBox8"
 			"labelText"		"#TF_Class_Name_Spy"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"220"
 			"ypos"			"65"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"ClassCheckBox9"
 		{
@@ -251,19 +251,19 @@
 			"fieldName"		"ClassCheckBox9"
 			"labelText"		"#TF_Class_Name_Engineer"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"295"
 			"ypos"			"65"
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}	
 	}
 	
@@ -275,7 +275,7 @@
 		"ypos"			"150"
 		"wide"			"400"
 		"tall"			"105"
-		"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"0 0 0 128"
 	
@@ -283,18 +283,18 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CurrentlyTestingLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"#IT_CurrentlyTesting"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"5"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"200"
 			"tall"			"15"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		
 		"TestingWeaponLabel"
@@ -304,15 +304,15 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_TestingSlot_Weapon"
 			"textAlignment"	"east"
-			"xpos"			"0"
+			
 			"ypos"			"20"
 			"zpos"			"1"
 			"wide"			"85"
 			"tall"			"15"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		"TestItemEntry0"
 		{
@@ -326,11 +326,11 @@
 			"zpos"			"1"
 			"wide"			"165"
 			"tall"			"15"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			
+			
+			//"visible"		"1"
+			
+			"fgcolor_override" "LightRed"
 			"bgcolor_override" "24 24 24 128"
 		}
 		"TestItemButton0"
@@ -342,17 +342,17 @@
 			"zpos"			"1"
 			"wide"			"90"
 			"tall"			"15"
-			"autoResize"	"0"
+			
 			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			//"visible"		"1"
+			
+			
 			"labelText"		"#IT_Item_Add"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			//"Default"		"1"
 			"Command"		"item_test0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -366,17 +366,17 @@
 			"zpos"			"1"
 			"wide"			"20"
 			"tall"			"15"
-			"autoResize"	"0"
+			
 			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			//"visible"		"1"
+			
+			
 			"labelText"		"#IT_Item_Remove"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			//"Default"		"1"
 			"Command"		"item_remove0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -388,15 +388,15 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_TestingSlot_Headgear"
 			"textAlignment"	"east"
-			"xpos"			"0"
+			
 			"ypos"			"40"
 			"zpos"			"1"
 			"wide"			"85"
 			"tall"			"15"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		"TestItemEntry1"
 		{
@@ -410,11 +410,11 @@
 			"zpos"			"1"
 			"wide"			"165"
 			"tall"			"15"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			
+			
+			//"visible"		"1"
+			
+			"fgcolor_override" "LightRed"
 			"bgcolor_override" "24 24 24 128"
 		}
 		"TestItemButton1"
@@ -426,17 +426,17 @@
 			"zpos"			"1"
 			"wide"			"90"
 			"tall"			"15"
-			"autoResize"	"0"
+			
 			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			//"visible"		"1"
+			
+			
 			"labelText"		"#IT_Item_Add"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			//"Default"		"1"
 			"Command"		"item_test1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -450,17 +450,17 @@
 			"zpos"			"1"
 			"wide"			"20"
 			"tall"			"15"
-			"autoResize"	"0"
+			
 			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			//"visible"		"1"
+			
+			
 			"labelText"		"#IT_Item_Remove"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			//"Default"		"1"
 			"Command"		"item_remove1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -472,15 +472,15 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_TestingSlot_Misc1"
 			"textAlignment"	"east"
-			"xpos"			"0"
+			
 			"ypos"			"60"
 			"zpos"			"1"
 			"wide"			"85"
 			"tall"			"15"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		"TestItemEntry2"
 		{
@@ -494,11 +494,11 @@
 			"zpos"			"1"
 			"wide"			"165"
 			"tall"			"15"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			
+			
+			//"visible"		"1"
+			
+			"fgcolor_override" "LightRed"
 			"bgcolor_override" "24 24 24 128"
 		}
 		"TestItemButton2"
@@ -510,17 +510,17 @@
 			"zpos"			"1"
 			"wide"			"90"
 			"tall"			"15"
-			"autoResize"	"0"
+			
 			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			//"visible"		"1"
+			
+			
 			"labelText"		"#IT_Item_Add"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			//"Default"		"1"
 			"Command"		"item_test2"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -534,17 +534,17 @@
 			"zpos"			"1"
 			"wide"			"20"
 			"tall"			"15"
-			"autoResize"	"0"
+			
 			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			//"visible"		"1"
+			
+			
 			"labelText"		"#IT_Item_Remove"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			//"Default"		"1"
 			"Command"		"item_remove2"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -556,15 +556,15 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_TestingSlot_Misc2"
 			"textAlignment"	"east"
-			"xpos"			"0"
+			
 			"ypos"			"80"
 			"zpos"			"1"
 			"wide"			"85"
 			"tall"			"15"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		"TestItemEntry3"
 		{
@@ -578,11 +578,11 @@
 			"zpos"			"1"
 			"wide"			"165"
 			"tall"			"15"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			
+			
+			//"visible"		"1"
+			
+			"fgcolor_override" "LightRed"
 			"bgcolor_override" "24 24 24 128"
 		}
 		"TestItemButton3"
@@ -594,17 +594,17 @@
 			"zpos"			"1"
 			"wide"			"90"
 			"tall"			"15"
-			"autoResize"	"0"
+			
 			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			//"visible"		"1"
+			
+			
 			"labelText"		"#IT_Item_Add"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			//"Default"		"1"
 			"Command"		"item_test3"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -618,17 +618,17 @@
 			"zpos"			"1"
 			"wide"			"20"
 			"tall"			"15"
-			"autoResize"	"0"
+			
 			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			//"visible"		"1"
+			
+			
 			"labelText"		"#IT_Item_Remove"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			//"Default"		"1"
 			"Command"		"item_remove3"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -643,7 +643,7 @@
 		"ypos"			"50"
 		"wide"			"200"
 		"tall"			"95"
-		"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"0 0 0 128"
 		
@@ -651,18 +651,18 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"#IT_BotControl_Title"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"5"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"200"
 			"tall"			"15"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		
 		"AutoAddBotsCheckBox"
@@ -671,19 +671,19 @@
 			"fieldName"		"AutoAddBotsCheckBox"
 			"labelText"		"#IT_Bot_AutoAdd"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"10"
 			"ypos"			"20"
 			"zpos"			"1"
 			"wide"			"90"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}	
 		
 		"BotsOnBlueTeamCheckBox"
@@ -692,19 +692,19 @@
 			"fieldName"		"AutoAddBotsCheckBox"
 			"labelText"		"#IT_Bot_BlueTeam"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"110"
 			"ypos"			"20"
 			"zpos"			"1"
 			"wide"			"90"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		
 		"AddBotButton"
@@ -716,17 +716,17 @@
 			"zpos"			"1"
 			"wide"			"70"
 			"tall"			"15"
-			"autoResize"	"0"
+			
 			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			//"visible"		"1"
+			
+			
 			"labelText"		"#IT_Bot_Add"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			//"Default"		"1"
 			"Command"		"bot_add"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -742,23 +742,23 @@
 			"zpos"				"1"
 			"wide"				"100"
 			"tall"				"15"
-			"autoResize"		"0"
-			"pinCorner"			"0"
-			"visible"			"1"
-			"enabled"			"1"
+			
+			
+			//"visible"			"1"
+			
 			"tabPosition"		"1"
-			"textHidden"		"0"
+			//"textHidden"		"0"
 			"editable"			"0"
 			"maxchars"			"-1"
 			"NumericInputOnly"	"0"
-			"unicode"			"0"
+			//"unicode"			"0"
 			
-			"fgcolor_override"	"235 226 202 255"
+			"fgcolor_override"	"TanLight"
 			"bgcolor_override"	"251 235 202 0"
 			"disabledFgColor_override" "117 107 94 0"
 			"disabledBgColor_override" "251 235 202 0"
-			"selectionColor_override" "0 0 0 0"
-			"selectionTextColor_override" "235 226 202 255"
+			"selectionColor_override" "Blank"
+			"selectionTextColor_override" "TanLight"
 			"defaultSelectionBG2Color_override" "251 235 202 255"
 		}
 		
@@ -771,17 +771,17 @@
 			"zpos"			"1"
 			"wide"			"120"
 			"tall"			"15"
-			"autoResize"	"0"
+			
 			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			//"visible"		"1"
+			
+			
 			"labelText"		"#IT_Bot_RemoveAll"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			//"Default"		"1"
 			"Command"		"bot_removeall"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -791,8 +791,8 @@
 	"TestItemBotControls"
 	{
 		"fieldName"				"TestItemBotControls"
-		"visible"				"1"
-		"enabled"				"1"
+		
+		
 		"xpos"					"c100"
 		"ypos"					"150"
 		"wide"					"200"
@@ -809,17 +809,17 @@
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"25"
-		"autoResize"	"0"
+		
 		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		//"visible"		"1"
+		
+		
 		"labelText"		"#IT_ExportLoadout"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
 		"Command"		"export"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -833,17 +833,17 @@
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"25"
-		"autoResize"	"0"
+		
 		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		//"visible"		"1"
+		
+		
 		"labelText"		"#IT_ImportLoadout"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
 		"Command"		"import"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -857,17 +857,17 @@
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"25"
-		"autoResize"	"0"
+		
 		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		//"visible"		"1"
+		
+		
 		"labelText"		"#IT_ImportLast"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
 		"Command"		"importrecent"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -882,17 +882,17 @@
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"25"
-		"autoResize"	"0"
+		
 		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		//"visible"		"1"
+		
+		
 		"labelText"		"#Cancel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -906,17 +906,17 @@
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"25"
-		"autoResize"	"0"
+		
 		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		//"visible"		"1"
+		
+		
 		"labelText"		"#IT_Ok"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
 		"Command"		"ok"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -931,29 +931,29 @@
 		"zpos"			"11"
 		"wide"			"200"
 		"tall"			"36"
-		"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"SteamWorkshopButtonSubButton"
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SteamWorkshopButtonSubButton"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"wide"			"200"
 			"tall"			"26"
-			"autoResize"	"0"
+			
 			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			//"visible"		"1"
+			
+			
 			"textinsetx"	"25"
 			"textalignment" "center"
 			"use_proportional_insets" "1"
-			"font"			"HudFontSmallBold"
-			"textAlignment"	"west"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
+			"font"			"HudFontSmall"
+			//"textAlignment"	"west"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			//"Default"		"1"
 			"command"		"steamworkshop"
 			"labeltext"			"#MMenu_SteamWorkshop"
 
@@ -972,8 +972,8 @@
 				"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"scaleImage"	"1"
 				"image"			"glyph_steamworkshop"
 			}		
@@ -989,17 +989,17 @@
 		"zpos"			"25"
 		"wide"			"30"
 		"tall"			"15"
-		"autoResize"	"0"
-		"pinCorner"		"0"
+		
+		
 		"visible"		"0"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		
 		"labelText"		"R"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"reloadscheme"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

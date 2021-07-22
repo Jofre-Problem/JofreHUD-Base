@@ -4,16 +4,16 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudUpgradePanel"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"zpos"			"1000"
 		"wide"			"f0"
 		"tall"			"480"		
-		"autoResize"	"0"
-		"pinCorner"		"0"
+		
+		
 		"visible"		"0"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		
 		"settitlebarvisible"	"0"
 		
 		"itempanel_xpos"	"15"
@@ -30,10 +30,10 @@
 			"zpos"			"-2"
 			"wide"			"70"
 			"tall"			"50"
-			"bgcolor_override"		"0 0 0 0"
-			"noitem_textcolor"		"117 107 94 255"
+			"bgcolor_override"		"Blank"
+			"noitem_textcolor"		"TanDark"
 			"PaintBackgroundType"	"2"
-			"paintborder"	"0"
+			//"paintborder"	"0"
 			
 			"model_ypos"	"5"
 			"model_tall"	"32"
@@ -56,16 +56,16 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGGrayoutPanel"
-		"xpos"		"0"
-		"ypos"		"0"
+		
+		//"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"480"
 		"zpos"		"-1"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"bgcolor_override"	"0 0 0 210"
 	}
 	
@@ -77,26 +77,26 @@
 		"ypos"			"85"
 		"wide"			"500"
 		"tall"			"350"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"bgcolor_override"	"63 59 55 0"
 		
 		"OutterPanelBG"
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"OutterPanelBG"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"zpos"			"-8"
 			"wide"			"500"
 			"tall"			"310"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"image"			"../HUD/tournament_panel_brown"
 
 			"src_corner_height"	"23"	// pixels inside the image
@@ -116,10 +116,10 @@
 			"zpos"			"-1"
 			"wide"			"480"
 			"tall"			"230"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			
 			"PaintBackgroundType" "2"
 			"bgcolor_override"	"142 132 121 255"
@@ -131,10 +131,10 @@
 			"fieldName"		"InnerBGPanel"
 			"xpos"			"15"
 			"ypos"			"55"
-			"zpos"			"0"
+			
 			"wide"			"470"
 			"tall"			"220"
-			"visible"		"1"
+			//"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"MainMenuBGBorder"
 		}
@@ -148,17 +148,17 @@
 			"zpos"			"-2"
 			"wide"			"70"
 			"tall"			"50"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labelText"		"PLAYER"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"Command"		"PlayerUpgrade"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -175,8 +175,8 @@
 			"zpos"			"-2"
 			"wide"			"40"
 			"tall"			"40"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"image"			"../hud/class_scoutred"
 			"scaleImage"	"1"	
 		}
@@ -190,8 +190,8 @@
 			"wide"			"34"
 			"tall"			"34"
 			"zpos"			"-2"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			
 			"scaleImage"	"1"	
 
@@ -207,11 +207,11 @@
 			"zpos"			"-3"
 			"wide"			"74"
 			"tall"			"54"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"bgcolor_override"	"142 132 121 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -225,11 +225,11 @@
 			"zpos"			"-6"
 			"wide"			"72"
 			"tall"			"54"
-			"autoResize"	"0"
-			"pinCorner"		"0"
+			
+			
 			"visible"		"0"
-			"enabled"		"1"
-			"tabPosition"		"0"
+			
+			
 			"bgcolor_override"	"239 128 73 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -238,16 +238,16 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"MouseOverUpgradePanel"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"zpos"			"10"
 			"wide"			"157"
 			"tall"			"47"
-			"autoResize"	"0"
-			"pinCorner"		"0"
+			
+			
 			"visible"		"0"
-			"enabled"		"1"
-			"tabPosition"		"0"
+			
+			
 			"bgcolor_override"	"239 128 73 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -261,11 +261,11 @@
 			"zpos"			"-5"
 			"wide"			"70"
 			"tall"			"54"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -279,11 +279,11 @@
 			"zpos"			"-5"
 			"wide"			"70"
 			"tall"			"54"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -297,11 +297,11 @@
 			"zpos"			"-5"
 			"wide"			"70"
 			"tall"			"54"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -315,11 +315,11 @@
 			"zpos"			"-5"
 			"wide"			"70"
 			"tall"			"54"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -333,11 +333,11 @@
 			"zpos"			"-5"
 			"wide"			"70"
 			"tall"			"54"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -351,11 +351,11 @@
 			"zpos"			"-5"
 			"wide"			"70"
 			"tall"			"54"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"bgcolor_override"	"77 72 68 255"
 			"PaintBackgroundType"	"2"
 		}
@@ -369,11 +369,11 @@
 			"zpos"			"-4"
 			"wide"			"480"
 			"tall"			"5"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"bgcolor_override"	"0 0 0 128"
 		}
 
@@ -391,10 +391,10 @@
 			"zpos"			"2"
 			"wide"			"240"
 			"tall"			"140"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"mouseinputenabled" "0"
 		}
 
@@ -407,17 +407,17 @@
 			"zpos"			"1"
 			"wide"			"120"
 			"tall"			"17"
-			"autoResize"	"0"
-			"pinCorner"		"0"
+			
+			
 			"visible"		"0"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
 			"labelText"		"#TF_PVE_Quick_Equip_Bottle"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"Command"		"quick_equip_bottle"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -432,17 +432,17 @@
 			"zpos"			"1"
 			"wide"			"120"
 			"tall"			"17"
-			"autoResize"	"0"
-			"pinCorner"		"0"
+			
+			
 			"visible"		"0"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
 			"labelText"		"#OpenGeneralLoadout"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"Command"		"open_charinfo_direct"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -454,13 +454,13 @@
 			"fieldName"		"UpgradeItemsDescriptionBG"
 			"xpos"			"25"
 			"ypos"			"65"
-			"zpos"			"0"
+			
 			"wide"			"130"
 			"tall"			"65"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			
 			"bgcolor_override"	"52 48 45 255"
 		}
@@ -479,10 +479,10 @@
 			"zpos"			"2"
 			"wide"			"120"
 			"tall"			"65"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		
 		"UpgradeItemsBG"
@@ -491,13 +491,13 @@
 			"fieldName"		"UpgradeItemsBG"
 			"xpos"			"25"
 			"ypos"			"135"
-			"zpos"			"0"
+			
 			"wide"			"130"
 			"tall"			"130"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			
 			"bgcolor_override"	"97 94 84 255"
 		}
@@ -511,10 +511,10 @@
 			"zpos"			"1"
 			"wide"			"130"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			
 			"bgcolor_override"	"72 68 63 255"
 		}
@@ -531,10 +531,10 @@
 			"zpos"			"2"
 			"wide"			"130"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		
 		"UpgradeItemStatsLabel"
@@ -542,17 +542,17 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"UpgradeItemStatsLabel"
 			"font"			"ItemFontAttribSmall"
-			"labelText"		""
+			"labeltext"		""
 			"textAlignment"	"north-west"
 			"xpos"			"30"
 			"ypos"			"160"
 			"zpos"			"2"
 			"wide"			"120"
 			"tall"			"105"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"wrap"			"1"
 		}
 		
@@ -563,14 +563,14 @@
 			"font"			"HudFontMediumSmall"
 			"labelText"		"%credits%"
 			"textAlignment"	"east"
-			"xpos"			"0"
+			
 			"ypos"			"280"
 			"wide"			"245"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"fgcolor"		"121 195 58 255"
 		}
 		
@@ -580,16 +580,16 @@
 			"fieldName"		"CreditsTextLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_UpgradeAmount"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"250"
 			"ypos"			"280"
 			"wide"			"500"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor"		"tanlight"
+			
+			
+			//"visible"		"1"
+			
+			"fgcolor"		"TanLight"
 		}
 		
 		"CancelButton"
@@ -601,17 +601,17 @@
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"17"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labelText"		"#TF_PVE_UpgradeCancel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"Command"		"cancel"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -626,17 +626,17 @@
 			"zpos"			"1"
 			"wide"			"75"
 			"tall"			"17"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
+			
+			
+			//"visible"		"1"
 			"enabled"		"0"
-			"tabPosition"	"0"
+			
 			"labelText"		"#TF_PVE_UpgradeDone"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"Command"		"close"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -651,16 +651,16 @@
 			"zpos"			"1"
 			"wide"			"120"
 			"tall"			"17"
-			"autoResize"	"0"
-			"pinCorner"		"0"
+			
+			
 			"visible"		"0"
 			"enabled"		"0"
-			"tabPosition"	"0"
+			
 			"labelText"		"#TF_PVE_UpgradeRespec"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
+			////"dulltext"		"0"
 			"brighttext"	"1"
 			"Command"		"respec"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -677,25 +677,25 @@
 		"zpos"			"10"
 		"wide"			"500"
 		"tall"			"40"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"bgcolor_override"	"63 59 55 0"
 		
 		"TipPanelBG"
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"TipPanelBG"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"zpos"			"-3"
 			"wide"			"500"
 			"tall"			"40"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"image"			"../HUD/tournament_panel_brown"
 
 			"src_corner_height"	"23"	// pixels inside the image
@@ -711,18 +711,18 @@
 			"fieldName"		"TipText"
 			"font"			"HudFontSmallest"
 			"labelText"		"%tiptext%"
-			"textAlignment" "west"
+			//"textAlignment" "west"
 			"xpos"			"10"
-			"ypos"			"0"
+			
 			"zpos"			"11"
 			"wide"			"460"
 			"tall"			"40"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"wrap"			"1"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 		
 		"NextTipButton"
@@ -734,15 +734,15 @@
 			"zpos"			"12"
 			"wide"			"20"
 			"tall"			"23"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labelText"		" > "
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"Command"		"nexttip"
 		}
 	}	

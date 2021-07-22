@@ -4,16 +4,16 @@
 	{
 		"ControlName"	"CStorePreviewItemPanel"
 		"fieldName"		"storepreviewitem"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"wide"			"f0"
 		"tall"			"f0"
-		"autoResize"	"0"
+		
 		"skip_autoresize"	"1"
-		"pinCorner"		"0"
+		
 		"visible"		"0"
-		"enabled"		"1"
-		"tabPosition"		"0"
+		
+		
 		
 		"small_vertical_break_size"		"0"
 		"medium_vertical_break_size"	"6"
@@ -31,14 +31,14 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BgPanel"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"0"
+		
+		
+		
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"0"
-		"enabled"		"1"
-		"PaintBackgroundType"	"0"
+		
+		//"PaintBackgroundType"	"0"
 		"bgcolor_override"	"0 0 0 240"
 	}
 	
@@ -49,11 +49,11 @@
 		"fieldName"		"DialogFrame"
 		"xpos"			"c-300"
 		"ypos"			"c-200"
-		"zpos"			"0"
+		
 		"wide"			"600"
 		"tall"			"400"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"paintbackground"	"0"
 		"border"		"TFFatLineBorderOpaque"
 		"PaintBorder"	"1"
@@ -68,8 +68,8 @@
 			"zpos"			"1"
 			"wide"			"340"
 			"tall"			"313"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"paintborder"	"1"
 			"border"		"StoreInnerShadowBorder"
 		}
@@ -78,18 +78,18 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"ItemNameLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"%itemname%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"360"
 			"ypos"			"17"
 			"wide"			"230"
 			"tall"			"15"
-			"autoResize"	"0"
+			
 			"skip_autoresize"	"1"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			//"visible"		"1"
+			
 			"wrap"			"1"
 		}		
 				
@@ -102,11 +102,11 @@
 			"ypos"			"30"
 			"wide"			"230"
 			"tall"			"300"
-			"visible"		"1"
-			"PaintBackgroundType"	"0"
-			"bgcolor_override"	"0 0 0 0"
+			//"visible"		"1"
+			//"PaintBackgroundType"	"0"
+			"bgcolor_override"	"Blank"
 			"skip_autoresize"	"1"
-			"autoresize"		"0"
+			
 				
 			//
 			// All the controls below get laid out off of the item name label's position and the break sizes defined at the top of this file
@@ -120,10 +120,10 @@
 				"textAlignment"	"north-west"
 				"wide"			"228"
 				"tall"			"10"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
+				
+				
+				//"visible"		"1"
+				
 				"wrap"			"1"
 				"fgcolor"		"173 165 146 255"
 			}		
@@ -137,10 +137,10 @@
 				"textAlignment"	"north-west"
 				"wide"			"228"
 				"tall"			"10"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
+				
+				
+				//"visible"		"1"
+				
 				"wrap"			"1"
 			}		
 				
@@ -153,10 +153,10 @@
 				"textAlignment"	"north-west"
 				"wide"			"228"
 				"tall"			"10"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
+				
+				
+				//"visible"		"1"
+				
 				"wrap"			"1"
 				"fgcolor"		"173 165 146 255"
 			}		
@@ -170,10 +170,10 @@
 				"textAlignment"	"north-west"
 				"wide"			"228"
 				"tall"			"10"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
+				
+				
+				//"visible"		"1"
+				
 				"wrap"			"1"
 			}		
 				
@@ -185,10 +185,10 @@
 				"textAlignment"	"north-west"
 				"wide"			"228"
 				"tall"			"300"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
+				
+				
+				//"visible"		"1"
+				
 				"wrap"			"1"
 			}
 		}
@@ -205,9 +205,9 @@
 		"wide"			"340"
 		"tall"			"313"
 		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		//"visible"		"1"
+		
 		
 		"render_texture"	"0"
 		"fov"			"40"
@@ -245,9 +245,9 @@
 		"zpos"			"1"
 		"wide"			"340"
 		"tall"			"320"
-		"visible"		"1"
+		//"visible"		"1"
 		"paintbackground"	"0"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		
 		"model_xpos"	"10"
 		"model_ypos"	"10"
@@ -272,14 +272,14 @@
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"			"LODComboBox"
-		"Font"				"HudFontSmallestBold"
+		"Font"				"HudFontSmallest"
 		"xpos"				"c-18"
 		"ypos"				"c102"
 		"zpos"				"5"
 		"wide"				"60"
 		"tall"				"25"
-		"autoResize"		"0"
-		"pinCorner"			"0"
+		
+		
 		"editable"			"0"
 	}
 	
@@ -291,10 +291,10 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
-		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		//"visible"		"1"
+		
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -306,10 +306,10 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
-		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		//"visible"		"1"
+		
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -321,10 +321,10 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
-		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		//"visible"		"1"
+		
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -336,10 +336,10 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
-		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		//"visible"		"1"
+		
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -351,10 +351,10 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
-		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		//"visible"		"1"
+		
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -366,10 +366,10 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
-		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		//"visible"		"1"
+		
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -381,10 +381,10 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
-		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		//"visible"		"1"
+		
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -396,10 +396,10 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
-		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		//"visible"		"1"
+		
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -411,10 +411,10 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
-		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		//"visible"		"1"
+		
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -426,10 +426,10 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
-		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		//"visible"		"1"
+		
+		"panel_bgcolor" "TanDark"
+		"panel_bgcolor_mouseover" "HudWhite"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -443,10 +443,10 @@
 		"zpos"				"2"
 		"wide"				"19"
 		"tall"				"40"
-		"autoResize"		"0"
-		"pinCorner"			"0"
-		"visible"			"1"
-		"enabled"			"1"
+		
+		
+		//"visible"			"1"
+		
 		
 		"auto_scale"		"1"
 		"auto_layout"		"1"
@@ -459,11 +459,11 @@
 		{
 			"wide"				"19"
 			"tall"				"19"
-			"autoResize"		"0"
+			
 			"pinCorner"			"2"
-			"visible"			"1"
-			"enabled"			"1"
-			"tabPosition"		"0"
+			//"visible"			"1"
+			
+			
 			"labelText"			""
 			"textAlignment"		"south-west"
 			"scaleImage"		"1"
@@ -478,14 +478,14 @@
 			"sound_armed"		"UI/buttonrollover.wav"
 			
 			"paintbackground"	"0"
-			"paintbackgroundtype"	"0"
+			//"PaintBackgroundType"	"0"
 			"defaultBgColor_Override"	"0 0 0 255"
 			
 			"paintborder"		"0"
 			
 			"image_drawcolor"		"255 255 255 77"
 			"image_armedcolor"		"255 255 255 128"
-			"image_selectedcolor"	"255 255 255 255"
+			"image_selectedcolor"		"HudWhite"
 			
 			"stayselectedonclick"	"1"
 			"keyboardinputenabled"	"0"
@@ -494,13 +494,13 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
-				"ypos"			"0"
+				
+				
 				"zpos"			"7"
 				"wide"			"19"
 				"tall"			"19"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"scaleImage"	"1"
 			}				
 		}
@@ -543,16 +543,16 @@
 		"zpos"			"20"
 		"wide"			"11"
 		"tall"			"11"
-		"autoResize"	"0"
-		"pinCorner"		"0"
+		
+		
 		"visible"		"0"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		
 		"labeltext"		""
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"default"		"0"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -567,13 +567,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"1"
+			
+			
+			//"zpos"			"1"
 			"wide"			"11"
 			"tall"			"11"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"image"			"glyph_options"
 			"scaleImage"	"1"
 		}				
@@ -587,25 +587,25 @@
 		"ypos"			"c-100"
 		"wide"			"200"
 		"tall"			"150"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 	
 		"LoadoutLabel"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"LoadoutLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"#TF_ImportPreview_LoadoutLabel"
-			"textAlignment"	"west"
-			"xpos"			"0"
-			"ypos"			"0"
+			//"textAlignment"	"west"
+			
+			
 			"wide"			"200"
 			"tall"			"15"
-			"autoResize"	"0"
+			
 			"skip_autoresize"	"1"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			//"visible"		"1"
+			
 			"wrap"			"1"
 		}
 
@@ -613,13 +613,13 @@
 		{
 			"ControlName"		"ComboBox"
 			"fieldName"			"LoadoutComboBox"
-			"Font"				"HudFontSmallestBold"
-			"xpos"				"0"
+			"Font"				"HudFontSmallest"
+			//"xpos"				"0"
 			"ypos"				"15"
 			"wide"				"200"
 			"tall"				"25"
-			"autoResize"		"0"
-			"pinCorner"			"0"
+			
+			
 			"editable"			"0"
 		}
 	
@@ -627,18 +627,18 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"PoseLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"#TF_ImportPreview_PoseLabel"
-			"textAlignment"	"west"
-			"xpos"			"0"
+			//"textAlignment"	"west"
+			
 			"ypos"			"45"
 			"wide"			"95"
 			"tall"			"15"
-			"autoResize"	"0"
+			
 			"skip_autoresize"	"1"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			//"visible"		"1"
+			
 			"wrap"			"1"
 		}
 
@@ -646,13 +646,13 @@
 		{
 			"ControlName"		"ComboBox"
 			"fieldName"			"PoseComboBox"
-			"Font"				"HudFontSmallestBold"
-			"xpos"				"0"
+			"Font"				"HudFontSmallest"
+			//"xpos"				"0"
 			"ypos"				"60"
 			"wide"				"95"
 			"tall"				"25"
-			"autoResize"		"0"
-			"pinCorner"			"0"
+			
+			
 			"editable"			"0"
 		}
 
@@ -664,31 +664,31 @@
 			"ypos"			"43"
 			"wide"			"100"
 			"tall"			"15"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"labelText"		"#TF_ImportPreview_ActionLabel"
-			"textAlignment"	"west"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			//"textAlignment"	"west"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"wrap"			"1"
 			"Command"		"Action"
 			"Default"		"0"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 		}
 
 		"ActionComboBox"
 		{
 			"ControlName"		"ComboBox"
 			"fieldName"			"ActionComboBox"
-			"Font"				"HudFontSmallestBold"
+			"Font"				"HudFontSmallest"
 			"xpos"				"100"
 			"ypos"				"60"
 			"wide"				"100"
 			"tall"				"25"
-			"autoResize"		"0"
-			"pinCorner"			"0"
+			
+			
 			"editable"			"0"
 		}
 	
@@ -696,18 +696,18 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"EffectLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"#TF_ImportPreview_EffectLabel"
-			"textAlignment"	"west"
-			"xpos"			"0"
+			//"textAlignment"	"west"
+			
 			"ypos"			"90"
 			"wide"			"200"
 			"tall"			"15"
-			"autoResize"	"0"
+			
 			"skip_autoresize"	"1"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			//"visible"		"1"
+			
 			"wrap"			"1"
 		}
 
@@ -715,13 +715,13 @@
 		{
 			"ControlName"		"ComboBox"
 			"fieldName"			"EffectComboBox"
-			"Font"				"HudFontSmallestBold"
-			"xpos"				"0"
+			"Font"				"HudFontSmallest"
+			//"xpos"				"0"
 			"ypos"				"105"
 			"wide"				"200"
 			"tall"				"25"
-			"autoResize"		"0"
-			"pinCorner"			"0"
+			
+			
 			"editable"			"0"
 		}
 	}
@@ -734,35 +734,35 @@
 		"ypos"		"c40"
 		"wide"		"92"
 		"tall"		"20"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"#TF_ImportFile_EditQCI"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"wrap"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
+		//"wrap"		"0"
 		"Command"		"EditQCI"
 		"Default"		"0"
-		"font"		"HudFontSmallestBold"
+		"font"		"HudFontSmallest"
 	}
 	
 	"AdvancedLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AdvancedLabel"
-		"font"		"HudFontSmallestBold"
+		"font"		"HudFontSmallest"
 		"textAlignment"	"north-west"
 		"xpos"			"c60"
 		"ypos"			"c40"
 		"wide"			"200"
 		"tall"			"15"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"wrap"			"1"
 		"labelText"		"#TF_ImportFile_Advanced"
 	}
@@ -775,8 +775,8 @@
 		"ypos"			"c55"
 		"wide"			"200"
 		"tall"			"76"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"paintbackground"	"0"
 		"border"		"TFFatLineBorderOpaque"
 		"PaintBorder"	"1"
@@ -789,19 +789,19 @@
 			"ypos"		"5"
 			"wide"		"92"
 			"tall"		"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labelText"		"#TF_ImportFile_EditQC"
 			"textAlignment"		"center"
-			"dulltext"		"0"
-			"brighttext"		"0"
-			"wrap"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
+			//"wrap"		"0"
 			"Command"		"EditQC"
 			"Default"		"0"
-			"font"		"HudFontSmallestBold"
+			"font"		"HudFontSmallest"
 		}
 
 		"ButtonEditMaterial0"
@@ -812,19 +812,19 @@
 			"ypos"		"28"
 			"wide"		"92"
 			"tall"		"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			
+			"labeltext"		""
 			"textAlignment"		"center"
-			"dulltext"		"0"
-			"brighttext"		"0"
-			"wrap"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
+			//"wrap"		"0"
 			"Command"		"EditMaterial0"
 			"Default"		"0"
-			"font"		"HudFontSmallestBold"
+			"font"		"HudFontSmallest"
 		}
 
 		"ButtonEditMaterial1"
@@ -835,19 +835,19 @@
 			"ypos"		"28"
 			"wide"		"92"
 			"tall"		"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			
+			"labeltext"		""
 			"textAlignment"		"center"
-			"dulltext"		"0"
-			"brighttext"		"0"
-			"wrap"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
+			//"wrap"		"0"
 			"Command"		"EditMaterial1"
 			"Default"		"0"
-			"font"		"HudFontSmallestBold"
+			"font"		"HudFontSmallest"
 		}
 
 		"ButtonEditMaterial2"
@@ -858,19 +858,19 @@
 			"ypos"		"51"
 			"wide"		"92"
 			"tall"		"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			
+			"labeltext"		""
 			"textAlignment"		"center"
-			"dulltext"		"0"
-			"brighttext"		"0"
-			"wrap"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
+			//"wrap"		"0"
 			"Command"		"EditMaterial2"
 			"Default"		"0"
-			"font"		"HudFontSmallestBold"
+			"font"		"HudFontSmallest"
 		}
 
 		"ButtonEditMaterial3"
@@ -881,19 +881,19 @@
 			"ypos"		"51"
 			"wide"		"92"
 			"tall"		"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			
+			"labeltext"		""
 			"textAlignment"		"center"
-			"dulltext"		"0"
-			"brighttext"		"0"
-			"wrap"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
+			//"wrap"		"0"
 			"Command"		"EditMaterial3"
 			"Default"		"0"
-			"font"		"HudFontSmallestBold"
+			"font"		"HudFontSmallest"
 		}
 	}
 
@@ -905,17 +905,17 @@
 		"ypos"			"45"
 		"wide"			"20"
 		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"?"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
 		"Command"		"show_explanations"
 	}
 	
@@ -923,8 +923,8 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"StartExplanation"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"140"
@@ -946,19 +946,19 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"#TF_ImportFile_PreviewExplanation_Title"
 			"textAlignment"	"north"
 			"xpos"			"20"
 			"ypos"			"10"
 			"wide"			"260"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"TextLabel"
@@ -972,12 +972,12 @@
 			"ypos"			"45"
 			"wide"			"260"
 			"tall"			"85"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"CloseButton"
@@ -989,16 +989,16 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labeltext"		""
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1006,9 +1006,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -1016,13 +1016,13 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
-				"ypos"			"0"
-				"zpos"			"1"
+				
+				
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1031,19 +1031,19 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"PositionLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"125"
 			"zpos"			"-1"
 			"wide"			"300"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			
+			
+			//"visible"		"1"
+			
+			"fgcolor_override" "LightRed"
 		}
 		"NextButton"
 		{
@@ -1054,26 +1054,26 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labeltext"		""
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"nextexplanation"
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1081,13 +1081,13 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
-				"ypos"			"0"
-				"zpos"			"1"
+				
+				
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -1098,8 +1098,8 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"OptionsExplanation"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"120"
@@ -1121,19 +1121,19 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"#TF_ImportFile_OptionsExplanation_Title"
 			"textAlignment"	"north"
 			"xpos"			"20"
 			"ypos"			"10"
 			"wide"			"210"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"TextLabel"
@@ -1147,12 +1147,12 @@
 			"ypos"			"45"
 			"wide"			"210"
 			"tall"			"85"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"CloseButton"
@@ -1164,16 +1164,16 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labeltext"		""
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1181,9 +1181,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -1191,13 +1191,13 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
-				"ypos"			"0"
-				"zpos"			"1"
+				
+				
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1211,16 +1211,16 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labeltext"		""
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1228,9 +1228,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1238,13 +1238,13 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
-				"ypos"			"0"
-				"zpos"			"1"
+				
+				
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -1253,19 +1253,19 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"PositionLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"90"
 			"zpos"			"-1"
 			"wide"			"250"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			
+			
+			//"visible"		"1"
+			
+			"fgcolor_override" "LightRed"
 		}
 		"NextButton"
 		{
@@ -1276,26 +1276,26 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labeltext"		""
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"nextexplanation"
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1303,13 +1303,13 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
-				"ypos"			"0"
-				"zpos"			"1"
+				
+				
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -1320,8 +1320,8 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"AdvancedExplanation"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"120"
@@ -1343,19 +1343,19 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"#TF_ImportFile_AdvancedExplanation_Title"
 			"textAlignment"	"north"
 			"xpos"			"20"
 			"ypos"			"10"
 			"wide"			"210"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"TextLabel"
@@ -1369,12 +1369,12 @@
 			"ypos"			"45"
 			"wide"			"210"
 			"tall"			"85"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"CloseButton"
@@ -1386,16 +1386,16 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labeltext"		""
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1403,9 +1403,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -1413,13 +1413,13 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
-				"ypos"			"0"
-				"zpos"			"1"
+				
+				
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1433,16 +1433,16 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labeltext"		""
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1450,9 +1450,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1460,13 +1460,13 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
-				"ypos"			"0"
-				"zpos"			"1"
+				
+				
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -1475,19 +1475,19 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"PositionLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"110"
 			"zpos"			"-1"
 			"wide"			"250"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			
+			
+			//"visible"		"1"
+			
+			"fgcolor_override" "LightRed"
 		}
 		"NextButton"
 		{
@@ -1498,26 +1498,26 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labeltext"		""
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"nextexplanation"
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1525,13 +1525,13 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
-				"ypos"			"0"
-				"zpos"			"1"
+				
+				
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -1542,8 +1542,8 @@
 	{
 		"ControlName"	"CExplanationPopup"
 		"fieldName"		"ExplanationExplanation"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"zpos"			"10000"
 		"wide"			"250"
 		"tall"			"120"
@@ -1564,19 +1564,19 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"#ExplanationExplanation_Title"
 			"textAlignment"	"north"
 			"xpos"			"20"
 			"ypos"			"10"
 			"wide"			"210"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"TextLabel"
@@ -1590,12 +1590,12 @@
 			"ypos"			"45"
 			"wide"			"210"
 			"tall"			"65"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "TanDarker"
 		}
 		
 		"CloseButton"
@@ -1607,26 +1607,26 @@
 			"zpos"			"10"
 			"wide"			"14"
 			"tall"			"14"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labeltext"		""
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			//"Default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"close"
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanLight"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -1634,13 +1634,13 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
-				"ypos"			"0"
-				"zpos"			"1"
+				
+				
+				//"zpos"			"1"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1654,16 +1654,16 @@
 			"zpos"			"10"
 			"wide"			"30"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labeltext"		""
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1671,9 +1671,9 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "LightRed"
+			"depressedFgColor_override" "TanDarker"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1681,13 +1681,13 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
-				"ypos"			"0"
-				"zpos"			"1"
+				
+				
+				//"zpos"			"1"
 				"wide"			"30"
 				"tall"			"30"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -1696,19 +1696,19 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"PositionLabel"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"%explanationnumber%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"90"
 			"zpos"			"-1"
 			"wide"			"250"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			
+			
+			//"visible"		"1"
+			
+			"fgcolor_override" "LightRed"
 		}
 	}	
 	
@@ -1720,19 +1720,19 @@
 		"ypos"		"405"
 		"wide"		"150"
 		"tall"		"25"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"#TF_ImportPreview_Refresh"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"wrap"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
+		//"wrap"		"0"
 		"Command"		"BuildPreview"
 		"Default"		"0"
-		"font"		"HudFontSmallestBold"
+		"font"		"HudFontSmallest"
 	}
 	
 	"ButtonClose"
@@ -1743,18 +1743,18 @@
 		"ypos"		"405"
 		"wide"		"150"
 		"tall"		"25"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"wrap"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
+		//"wrap"		"0"
 		"Command"		"Close"
-		"Default"		"1"
-		"font"		"HudFontSmallestBold"
+		//"Default"		"1"
+		"font"		"HudFontSmallest"
 	}
 }

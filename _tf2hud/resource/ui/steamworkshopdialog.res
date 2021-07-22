@@ -4,15 +4,15 @@
 	{
 		"ControlName"	"CSteamWorkshopDialog"
 		"fieldName"		"SteamWorkshopDialog"
-		"xpos"		"0"
-		"ypos"		"0"
+		
+		//"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"f0"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"bgcolor_override"	"0 0 0 240"
 	}
 
@@ -24,28 +24,28 @@
 		"ypos"		"c-200"
 		"wide"		"600"
 		"tall"		"400"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"PaintBackgroundType"	"0"
-		"paintbackground"		"1"
+		
+		
+		//"visible"		"1"
+		
+		
+		//"PaintBackgroundType"	"0"
+		//"paintbackground"		"1"
 		"border"				"SteamWorkshopBorder"
 
 		"Background"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Background"
-			"xpos"		"0"
-			"ypos"		"0"
+			
+			//"ypos"		"0"
 			"wide"		"600"
 			"tall"		"400"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"bgcolor_override"	"0 0 0 255"
 		}
 
@@ -53,13 +53,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"WorkshopBranding"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"0"
+			
+			
+			
 			"wide"			"600"
 			"tall"			"300"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"image"			"workshop_branding"
 			"scaleImage"	"1"
 		}
@@ -68,15 +68,15 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"BackgroundBottom"
-			"xpos"		"0"
+			
 			"ypos"		"355"
 			"wide"		"600"
 			"tall"		"45"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"bgcolor_override"	"57 52 49 255"
 		}
 
@@ -88,31 +88,31 @@
 			"ypos"		"60"
 			"wide"		"550"
 			"tall"		"245"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
-			"PaintBackgroundType"	"0"
-			"paintbackground"		"1"
+			
+			
+			//"visible"		"1"
+			
+			
+			//"PaintBackgroundType"	"0"
+			//"paintbackground"		"1"
 			"border"		"MainMenuHighlightBorder"
 
 			"TitleLabel"
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"		"TitleLabel"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				"labelText"		"#TF_SteamWorkshop_Title"
 				"textAlignment"	"center"
-				"xpos"			"0"
+				
 				"ypos"			"15"
 				"zpos"			"1"
 				"wide"			"550"
 				"tall"			"20"
 				"autoResize"	"1"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
+				
+				//"visible"		"1"
+				
 				"fgcolor_override" "86 78 68 255"
 			}
 
@@ -129,11 +129,11 @@
 				"wide"			"515"
 				"tall"			"200"
 				"autoResize"	"1"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
+				
+				//"visible"		"1"
+				
 				"wrap"			"1"
-				"fgcolor_override"		"46 43 42 255"
+				"fgcolor_override"		"TanDarker"
 			}
 
 			"LearnMoreButton"
@@ -145,13 +145,13 @@
 				"zpos"			"20"
 				"wide"			"200"
 				"tall"			"25"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
-				"tabPosition"	"0"
+				
+				
+				//"visible"		"1"
+				
+				
 				"labelText"		"#TF_SteamWorkshop_LearnHow"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				"Command"		"learn_more"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -168,31 +168,31 @@
 			"zpos"		"1"
 			"wide"		"550"
 			"tall"		"245"
-			"autoResize"		"0"
-			"pinCorner"		"0"
+			
+			
 			"visible"		"0"
-			"enabled"		"1"
-			"tabPosition"		"0"
-			"PaintBackgroundType"	"0"
-			"paintbackground"		"1"
+			
+			
+			//"PaintBackgroundType"	"0"
+			//"paintbackground"		"1"
 			"border"		"MainMenuHighlightBorder"
 
 			"TitleLabel"
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"		"TitleLabel"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				"labelText"		"#TF_SteamWorkshop_YourItems"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				"xpos"			"15"
 				"ypos"			"15"
 				"zpos"			"1"
 				"wide"			"550"
 				"tall"			"20"
 				"autoResize"	"1"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
+				
+				//"visible"		"1"
+				
 				"fgcolor_override" "86 78 68 255"
 			}
 			
@@ -204,8 +204,8 @@
 				"ypos"		"30"
 				"wide"		"125"
 				"tall"		"200"
-				"pinCorner"		"0"
-				"visible"		"1"
+				
+				//"visible"		"1"
 			}
 
 			"SteamWorkshopItem1"
@@ -216,8 +216,8 @@
 				"ypos"		"30"
 				"wide"		"125"
 				"tall"		"200"
-				"pinCorner"		"0"
-				"visible"		"1"
+				
+				//"visible"		"1"
 			}
 
 			"SteamWorkshopItem2"
@@ -228,8 +228,8 @@
 				"ypos"		"30"
 				"wide"		"125"
 				"tall"		"200"
-				"pinCorner"		"0"
-				"visible"		"1"
+				
+				//"visible"		"1"
 			}
 
 			"SteamWorkshopItem3"
@@ -240,8 +240,8 @@
 				"ypos"		"30"
 				"wide"		"125"
 				"tall"		"200"
-				"pinCorner"		"0"
-				"visible"		"1"
+				
+				//"visible"		"1"
 			}
 		
 			"PrevPageButton"
@@ -253,16 +253,16 @@
 				"zpos"			"5"
 				"wide"			"25"
 				"tall"			"25"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
-				"tabPosition"	"0"
+				
+				
+				//"visible"		"1"
+				
+				
 				"labelText"		"<"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
-				"dulltext"		"0"
-				"brighttext"	"0"
+				////"dulltext"		"0"
+				//"brighttext"	"0"
 				"Command"		"prevpage"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -272,7 +272,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"CurPageLabel"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"labelText"		"%page%"
 				"textAlignment"	"center"
 				"xpos"			"460"
@@ -281,10 +281,10 @@
 				"wide"			"50"
 				"tall"			"25"
 				"autoResize"	"1"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
-				"fgcolor_override" "200 80 60 255"
+				
+				//"visible"		"1"
+				
+				"fgcolor_override" "LightRed"
 			}
 			
 			"NextPageButton"
@@ -296,16 +296,16 @@
 				"zpos"			"5"
 				"wide"			"25"
 				"tall"			"25"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
-				"tabPosition"	"0"
+				
+				
+				//"visible"		"1"
+				
+				
 				"labelText"		">"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
-				"dulltext"		"0"
-				"brighttext"	"0"
+				////"dulltext"		"0"
+				//"brighttext"	"0"
 				"Command"		"nextpage"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -320,17 +320,17 @@
 				"zpos"			"20"
 				"wide"			"100"
 				"tall"			"25"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
-				"tabPosition"	"0"
+				
+				
+				//"visible"		"1"
+				
+				
 				"labelText"		"#TF_SteamWorkshop_ViewPublished"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				"textinsetx"	"50"
-				"dulltext"		"0"
-				"brighttext"	"0"
+				////"dulltext"		"0"
+				//"brighttext"	"0"
 				"Command"		"view_files"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -344,18 +344,18 @@
 				"ypos"			"215"
 				"wide"			"100"
 				"tall"			"25"
-				"autoResize"	"0"
+				
 				"pinCorner"		"3"
-				"visible"		"1"
-				"enabled"		"1"
-				"tabPosition"	"0"
+				//"visible"		"1"
+				
+				
 				"textinsetx"	"25"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallBold"
-				"textAlignment"	"west"
-				"dulltext"		"0"
-				"brighttext"	"0"
-				"default"		"1"
+				"font"			"HudFontSmall"
+				//"textAlignment"	"west"
+				////"dulltext"		"0"
+				//"brighttext"	"0"
+				//"Default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 				
@@ -374,8 +374,8 @@
 					"zpos"			"1"
 					"wide"			"13"
 					"tall"			"13"
-					"visible"		"1"
-					"enabled"		"1"
+					//"visible"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_edit"
 				}		
@@ -389,18 +389,18 @@
 				"ypos"			"215"
 				"wide"			"100"
 				"tall"			"25"
-				"autoResize"	"0"
+				
 				"pinCorner"		"3"
-				"visible"		"1"
-				"enabled"		"1"
-				"tabPosition"	"0"
+				//"visible"		"1"
+				
+				
 				"textinsetx"	"25"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallBold"
-				"textAlignment"	"west"
-				"dulltext"		"0"
-				"brighttext"	"0"
-				"default"		"1"
+				"font"			"HudFontSmall"
+				//"textAlignment"	"west"
+				////"dulltext"		"0"
+				//"brighttext"	"0"
+				//"Default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 				
@@ -419,8 +419,8 @@
 					"zpos"			"1"
 					"wide"			"13"
 					"tall"			"13"
-					"visible"		"1"
-					"enabled"		"1"
+					//"visible"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_view"
 				}		
@@ -434,18 +434,18 @@
 				"ypos"			"215"
 				"wide"			"100"
 				"tall"			"25"
-				"autoResize"	"0"
+				
 				"pinCorner"		"3"
-				"visible"		"1"
-				"enabled"		"1"
-				"tabPosition"	"0"
+				//"visible"		"1"
+				
+				
 				"textinsetx"	"25"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallBold"
-				"textAlignment"	"west"
-				"dulltext"		"0"
-				"brighttext"	"0"
-				"default"		"1"
+				"font"			"HudFontSmall"
+				//"textAlignment"	"west"
+				////"dulltext"		"0"
+				//"brighttext"	"0"
+				//"Default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 				
@@ -464,8 +464,8 @@
 					"zpos"			"1"
 					"wide"			"13"
 					"tall"			"13"
-					"visible"		"1"
-					"enabled"		"1"
+					//"visible"		"1"
+					
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_delete"
 				}		
@@ -481,13 +481,13 @@
 			"zpos"			"20"
 			"wide"			"200"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labelText"		"#TF_SteamWorkshop_BrowseTheWorkshop"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			"Command"		"browse"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -495,9 +495,9 @@
 			"border_default"	"MainMenuButtonDefault"
 			"border_armed"		"MainMenuButtonArmed"
 			"paintbackground"	"0"
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanLight"
+			"depressedFgColor_override" "TanDarker"
 		}
 
 		"LoadTestMapButton"
@@ -509,13 +509,13 @@
 			"zpos"			"20"
 			"wide"			"200"
 			"tall"			"25"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labelText"		"#TF_SteamWorkshop_Test"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"Command"		"itemtest"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -524,9 +524,9 @@
 			"border_armed"		"MainMenuButtonArmed"
 			"border_disabled"	"MainMenuButtonDisabled"
 			"paintbackground"	"0"
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanLight"
+			"depressedFgColor_override" "TanDarker"
 		}
 
 		"PublishButton"
@@ -538,13 +538,13 @@
 			"zpos"			"20"
 			"wide"			"200"
 			"tall"			"25"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labelText"		"#TF_SteamWorkshop_Publish"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"Command"		"publish"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -552,9 +552,9 @@
 			"border_default"	"MainMenuButtonDefault"
 			"border_armed"		"MainMenuButtonArmed"
 			"paintbackground"	"0"
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "TanDarker"
+			"armedFgColor_override" "TanLight"
+			"depressedFgColor_override" "TanDarker"
 		}		
 
 		"LearnMore2Button"
@@ -566,13 +566,13 @@
 			"zpos"			"20"
 			"wide"			"150"
 			"tall"			"25"
-			"autoResize"	"0"
-			"pinCorner"		"0"
+			
+			
 			"visible"		"0"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
 			"labelText"		"#TF_SteamWorkshop_Instructions"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"Command"		"learn_more"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -588,17 +588,17 @@
 			"zpos"			"20"
 			"wide"			"200"
 			"tall"			"25"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labelText"		"#TF_SteamWorkshop_Legal"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"Command"		"view_legal_agreement"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -613,17 +613,17 @@
 			"zpos"			"20"
 			"wide"			"100"
 			"tall"			"25"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labelText"		"#TF_Close"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"Command"		"cancel"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"

@@ -688,7 +688,7 @@
 		{
 			"ControlName"	"RichText"
 			"fieldName"		"ChatLog"
-			"Default"			"ScoreboardSmall"
+			"Default"			"ChatMiniFont"
 			
 			"ypos"			"170"
 			

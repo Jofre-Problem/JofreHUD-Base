@@ -9,8 +9,8 @@
 		"zpos"			"4"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"scaleImage"	"1"	
 	}		
 	"PlayerStatusHealthImageBG"
@@ -22,8 +22,8 @@
 		"zpos"			"3"
 		"wide"			"24"
 		"tall"			"24"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"image"			"../hud/health_bg"
 		"scaleImage"	"1"	
 	}	
@@ -31,13 +31,13 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BuildingStatusHealthImageBG"
-		"xpos"			"0"
+		
 		"ypos"			"2"
 		"zpos"			"2"
 		"wide"			"28"
 		"tall"			"28"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/health_equip_bg"
 		"scaleImage"	"1"	
 	}	
@@ -51,7 +51,7 @@
 		"wide"			"24"
 		"tall"			"24"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"	
 	}
@@ -63,11 +63,11 @@
 		"ypos"			"11"
 		"zpos"			"5"
 		"wide"			"20"
-		"wide_minmode"	"14"
+		//"wide_minmode"	"14"
 		"tall"			"10"
-		"tall_minmode"	"14"
-		"visible"		"1"
-		"enabled"		"1"
+		//"tall_minmode"	"14"
+		//"visible"		"1"
+		
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"SpectatorVerySmall"

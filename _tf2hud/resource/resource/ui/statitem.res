@@ -17,7 +17,7 @@
 		//"tabPosition"				"0"
 		"settitlebarvisible"		"0"
 		
-		"ProgressBarColor" 	"200 184 148 255" [$WIN32]
+		"ProgressBarColor" 	"200 184 148 255" //[$WIN32]
 		"PaintBackgroundType"	"2"
 	}
 			

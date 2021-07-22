@@ -148,7 +148,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"SaxtonMessage"
-				"font"			"Default"
+				"font"			"MenuKeys"
 				"textAlignment"	"north-west"
 				"xpos"			"p0.05"
 				"ypos"			"p0.07"

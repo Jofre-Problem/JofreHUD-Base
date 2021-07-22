@@ -29,7 +29,7 @@
 		"autoResize"	"1"
 		"labelText"		"0"
 		"textAlignment"	"center"
-		"font"			"HudFontSmallest"
+		"font"			"TeamMenu"
 	}
 
 	"StatusIcon"

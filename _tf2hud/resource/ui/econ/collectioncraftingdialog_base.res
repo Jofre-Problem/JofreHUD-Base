@@ -49,7 +49,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"InstructionsLabel"
-				"font"			"TFFontMedium"
+				"font"			"TradeUp_Quote"
 				"textAlignment"	"center"
 				"xpos"			"cs-0.5"
 				

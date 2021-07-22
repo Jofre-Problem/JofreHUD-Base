@@ -7,8 +7,8 @@
 		
 		"xpos"			"r216"	
 		"ypos"			"r57"	
-		"xpos_minmode"	"r52"	
-		"ypos_minmode"	"r68"	
+		//"xpos_minmode"	"r52"	
+		//"ypos_minmode"	"r68"	
 
 		"wide"			"100"
 		"tall"			"50"
@@ -26,9 +26,9 @@
 		"wide"			"100"
 		"tall"			"50"
 		//"visible"		"1"
-		"visible_minmode"	"0"
+		//"visible_minmode"	"0"
 		
-		//"image"			"../hud/misc_ammo_area_horiz2_blue"
+		"image"			"../hud/misc_ammo_area_horiz2_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_horiz2_red"
 		
@@ -48,10 +48,10 @@
 		"autoResize"			"1"
 		"pinCorner"				"2"
 		
-		"visible_minmode"		"1"
-		"ypos_minmode"			"1"
-		"xpos_minmode"			"0"
-		"textAlignment_minmode"			"west"
+		//"visible_minmode"		"1"
+		//"ypos_minmode"			"1"
+		//"xpos_minmode"			"0"
+		//"textAlignment_minmode"			"west"
 		
 		
 		"labelText"				"#TF_ENERGYDRINK"
@@ -68,11 +68,11 @@
 		"font"					"Default"
 		"xpos"					"45"
 		"ypos"					"23"
-		"ypos_minmode"			"0"
-		"xpos_minmode"			"0"
+		//"ypos_minmode"			"0"
+		//"xpos_minmode"			"0"
 		"zpos"					"2"
 		"wide"					"30"
-		"wide_minmode"			"50"
+		//"wide_minmode"			"50"
 		"tall"					"5"				
 		
 		

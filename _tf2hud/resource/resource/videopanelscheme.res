@@ -34,8 +34,8 @@ Scheme
 		Button.TextColor				"White"
 		Button.BgColor					"Blank"
 		Button.ArmedTextColor			"White"
-		Button.ArmedBgColor				"Blank"				[$WIN32]
-		Button.ArmedBgColor				"190 115 0 255"		[$X360]
+		Button.ArmedBgColor				"Blank"				//[$WIN32]
+		Button.ArmedBgColor				"190 115 0 255"		//[$X360]
 		Button.DepressedTextColor		"White"
 		Button.DepressedBgColor			"Blank"
 		Button.FocusBorderColor			"Black"
@@ -55,13 +55,13 @@ Scheme
 		Frame.TitleTextInsetX			16
 		Frame.ClientInsetX				8
 		Frame.ClientInsetY				6
-		Frame.BgColor					"160 160 160 128"	[$WIN32]
-		Frame.BgColor					"80 80 80 192"		[$X360]
-		Frame.OutOfFocusBgColor			"160 160 160 32"	[$WIN32]
-		Frame.OutOfFocusBgColor			"80 80 80 192"		[$X360]
+		Frame.BgColor					"160 160 160 128"	//[$WIN32]
+		Frame.BgColor					"80 80 80 192"		//[$X360]
+		Frame.OutOfFocusBgColor			"160 160 160 32"	//[$WIN32]
+		Frame.OutOfFocusBgColor			"80 80 80 192"		//[$X360]
 		Frame.FocusTransitionEffectTime	"0.0"							// time it takes for a window to fade in/out on focus/out of focus
-		Frame.TransitionEffectTime		"0.0"				[$WIN32]	// time it takes for a window to fade in/out on open/close
-		Frame.TransitionEffectTime		"0.0"				[$X360]		// time it takes for a window to fade in/out on open/close
+		Frame.TransitionEffectTime		"0.0"				//[$WIN32]	// time it takes for a window to fade in/out on open/close
+		Frame.TransitionEffectTime		"0.0"				//[$X360]		// time it takes for a window to fade in/out on open/close
 		Frame.AutoSnapRange				"0"
 		FrameGrip.Color1				"200 200 200 196"
 		FrameGrip.Color2				"0 0 0 196"
@@ -73,8 +73,8 @@ Scheme
 		FrameSystemButton.BgColor		"Blank"
 		FrameSystemButton.Icon			""
 		FrameSystemButton.DisabledIcon	""
-		FrameTitleBar.Font				"UiBold"		[$WIN32]
-		FrameTitleBar.Font				"DefaultLarge"	[$WIN32]
+		FrameTitleBar.Font				"UiBold"		//[$WIN32]
+		FrameTitleBar.Font				"DefaultLarge"	//[$WIN32]
 		FrameTitleBar.TextColor			"White"
 		FrameTitleBar.BgColor			"Blank"
 		FrameTitleBar.DisabledTextColor	"255 255 255 192"
@@ -172,13 +172,13 @@ Scheme
 		WizardSubPanel.BgColor		"Blank"
 
 		// scheme-specific colors
-		MainMenu.TextColor			"White"				[$WIN32]
-		MainMenu.TextColor			"200 200 200 255"	[$X360]
-		MainMenu.ArmedTextColor		"200 200 200 255"	[$WIN32]
-		MainMenu.ArmedTextColor		"White"				[$X360]
+		MainMenu.TextColor			"White"				//[$WIN32]
+		MainMenu.TextColor			"200 200 200 255"	//[$X360]
+		MainMenu.ArmedTextColor		"200 200 200 255"	//[$WIN32]
+		MainMenu.ArmedTextColor		"White"				//[$X360]
 		MainMenu.DepressedTextColor	"192 186 80 255"
-		MainMenu.MenuItemHeight		"30"				[$WIN32]
-		MainMenu.MenuItemHeight		"32"				[$X360]
+		MainMenu.MenuItemHeight		"30"				//[$WIN32]
+		MainMenu.MenuItemHeight		"32"				//[$X360]
 		MainMenu.Inset				"32"
 		MainMenu.Backdrop			"0 0 0 156"
 
@@ -187,8 +187,8 @@ Scheme
 
 		NewGame.TextColor			"White"
 		NewGame.FillColor			"0 0 0 255"
-		NewGame.SelectionColor		"Orange"			[$WIN32]
-		NewGame.SelectionColor		"0 0 0 255"			[$X360]
+		NewGame.SelectionColor		"Orange"			//[$WIN32]
+		NewGame.SelectionColor		"0 0 0 255"			//[$X360]
 		NewGame.DisabledColor		"128 128 128 196"
 	}
 
@@ -236,7 +236,7 @@ Scheme
 			"1"
 			{
 				"name"		 "Segoe UI" [$WINDOWS]
-				"name"		 "Segoe UI" [$X360]
+				"name"		 "Segoe UI" //[$X360]
 				"name"		 "Monaco" [$POSIX]
 				"tall"		"10"
 				"weight"	"0"
@@ -311,13 +311,13 @@ Scheme
 		}
 		"UiBold"
 		{
-			"1"	[$WIN32]
+			"1"	//[$WIN32]
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"
 				"weight"	"1000"
 			}
-			"1"	[$X360]
+			"1"	//[$X360]
 			{
 				"name"		"Segoe UI"
 				"tall"		"24"
@@ -325,24 +325,24 @@ Scheme
 				"outline" "1"
 			}
 		}
-		"ChapterTitle"	[$X360]
+		"ChapterTitle"	//[$X360]
 		{
 			"1"
 			{
 				"name"			"Segoe UI"
 				"tall"			"20"
-				////"tall_hidef"	"28"
+				//"tall_hidef"	"28"
 				"weight"		"2000"
 				"outline"		"1"
 			}
 		}
-		"ChapterTitleBlur"	[$X360]
+		"ChapterTitleBlur"	//[$X360]
 		{
 			"1"
 			{
 				"name"			"Segoe UI"
 				"tall"			"20"
-				////"tall_hidef"	"28"
+				//"tall_hidef"	"28"
 				"weight"		"2000"
 				"blur"			"3"
 				//"blur_hidef"	"5"
@@ -350,14 +350,14 @@ Scheme
 		}
 		"MenuLarge"
 		{
-			"1"	[$WIN32]
+			"1"	//[$WIN32]
 			{
 				"name"		"Segoe UI"
 				"tall"		"16"
 				"weight"	"600"
 				"antialias" "1"
 			}
-			"1"	[$X360]
+			"1"	//[$X360]
 			{
 				"name"		"Segoe UI"
 				"tall"		"20"
@@ -368,7 +368,7 @@ Scheme
 		}
 		GameUIButtons
 		{
-			"1"	[$X360]
+			"1"	//[$X360]
 			{
 				"bitmap"		"1"
 				"name"			"Buttons"
@@ -383,7 +383,7 @@ Scheme
 			"1"
 			{
 				"name"		 "Segoe UI" [$WINDOWS]
-				"name"		 "Segoe UI" [$X360]
+				"name"		 "Segoe UI" //[$X360]
 				"name"		 "Monaco" [$POSIX]
 				"tall"		"10"
 				"weight"	"500"
@@ -493,7 +493,7 @@ Scheme
 			"1"
 			{
 				"name"		 "Segoe UI" [$WINDOWS]
-				"name"		 "Segoe UI" [$X360]
+				"name"		 "Segoe UI" //[$X360]
 				"name"		 "Monaco" [$POSIX]
 				"tall"		"10"
 				"weight"	"0"
@@ -511,7 +511,7 @@ Scheme
 			"1"
 			{
 				"name"		 "Segoe UI" [$WINDOWS]
-				"name"		 "Segoe UI" [$X360]
+				"name"		 "Segoe UI" //[$X360]
 				"name"		 "Monaco" [$POSIX]
 				"tall"		"10"
 				"weight"	"0"
@@ -588,25 +588,25 @@ Scheme
 			}
 		}
 
-		AppchooserGameTitleFont	[$X360]
+		AppchooserGameTitleFont	//[$X360]
 		{
 			"1"
 			{
 				"name"		"Segoe UI"
 				"tall"			"16"
-				////"tall_hidef"	"24"
+				//"tall_hidef"	"24"
 				"weight"		"900"
 				"antialias"		"1"
 			}
 		}
 
-		AppchooserGameTitleFontBlur	[$X360]
+		AppchooserGameTitleFontBlur	//[$X360]
 		{
 			"1"
 			{
 				"name"		"Segoe UI"
 				"tall"			"16"
-				////"tall_hidef"	"24"
+				//"tall_hidef"	"24"
 				"weight"		"900"
 				"blur"			"3"
 				//"blur_hidef"	"5"

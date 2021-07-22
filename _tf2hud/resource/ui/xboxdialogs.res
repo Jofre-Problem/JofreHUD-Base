@@ -41,15 +41,15 @@
 		"fieldName"		"TitleLabel"
 		"font"			"MenuLarge"
 		"xpos"			"20"	
-		"ypos"			"0"
+		
 		"zpos"			"2"
 		"wide"			"720"
 		"tall"			"35"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"labelText"		"#GameUI_Options"
 	}
 	
@@ -63,10 +63,10 @@
 		"wide"		"268"
 		//"wide_hidef"	"368"
 		"tall"		"360"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"fillcolor"		"0 0 0 128"
 	}
 	"OptionsBackgroundRight"
@@ -80,10 +80,10 @@
 		"wide"		"268"
 		//"wide_hidef"	"368"
 		"tall"		"360"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"fillcolor"		"0 0 0 128"
 	}
 	
@@ -99,10 +99,10 @@
 		//"wide_hidef"	"728"
 		"tall"			"21"
 		//"tall_hidef"	"25"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"paintBackgroundType" "3"
 	}
 	"OptionsSelectionLeft2"
@@ -117,10 +117,10 @@
 		//"wide_hidef"		"724"
 		"tall"			"17"
 		//"tall_hidef"	"21"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"paintBackgroundType" "3"
 	}
 	
@@ -134,15 +134,15 @@
 		"zpos"			"150"
 		"wide"			"32"
 		"tall"			"32"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"#GameUI_Icons_UPCURSOR"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"GameUIButtons"
 	}
 	"DownArrow"
@@ -155,15 +155,15 @@
 		"zpos"			"150"
 		"wide"			"32"
 		"tall"			"32"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"#GameUI_Icons_DOWNCURSOR"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"GameUIButtons"
 	}
 	
@@ -179,15 +179,15 @@
 		//"wide_hidef"		"345"
 		"tall"			"24"
 		//"tall_hidef"	"35"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"textAlignment"	"west"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
-		"labelText"		""
+		
+		
+		//"visible"		"1"
+		
+		//"textAlignment"	"west"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
+		"labeltext"		""
 		"font"			"MenuLarge"
 	}	
 	"ValueLabel0"
@@ -203,15 +203,15 @@
 		//"wide_hidef"		"345"
 		"tall"			"24"
 		//"tall_hidef"	"35"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"textAlignment"	"west"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
-		"labelText"		""
+		
+		
+		//"visible"		"1"
+		
+		//"textAlignment"	"west"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
+		"labeltext"		""
 		"font"			"MenuLarge"
 	}	
 	"ValueBar0"
@@ -227,11 +227,11 @@
 		//"wide_hidef"		"345"
 		"tall"			"23"
 		//"tall_hidef"	"25"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		
+		
 		"visible"		"0"
-		"enabled"		"1"
-		"tabPosition"		"0"
+		
+		
 		"progress"		"0.5"
 	}	
 }
@@ -248,7 +248,7 @@
 		//"buttonoffsety_hidef"	"20"
 		//"buttonoffsety_lodef"	"5"
 		"bgcolor"			"46 43 42 255"
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 	}	
 }
 
@@ -265,7 +265,7 @@
 		//"buttonoffsety_hidef"	"20"
 		//"buttonoffsety_lodef"	"5"
 		"bgcolor"			"46 43 42 255"
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 	}	
 }
 
@@ -288,7 +288,7 @@
 		"buttontextcolor"	"200 184 151 255"
 		"footer_tall"		"50"
 		"button_margin"		"8"
-		//"button_margin_lodef"			"15"
+		//"button_margin_lodef"		"15"
 		"button_separator"	"10"
 		"activity_indent"	"100"
 	}
@@ -306,8 +306,8 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 	}
 
 	"MessageLabel"
@@ -325,11 +325,11 @@
 		//"wide_lodef"			"390"
 		"tall"			"100"
 		"wrap"			"1"
-		"visible"		"1"
+		//"visible"		"1"
 		"textAlignment"	"center"
 		"textcolor"		"200 184 151 255"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 	}
 	
 	"AnimatingPanel"
@@ -471,7 +471,7 @@
 		"ControlName"	"label"
 		"xpos"			"425"
 		//"xpos_lodef"	"325"
-		"ypos"			"0"
+		
 		//"ypos_lodef"	"3"
 		"wide"			"30"
 		//"wide_lodef"	"25"
@@ -639,7 +639,7 @@
 		"fillcolor"	"0 0 0 64"
 		"zpos"	"10"
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	
 	"PercentageBar" //dark grey current completed
@@ -650,10 +650,10 @@
 		"ypos"			"7"
 		"wide"		"0"
 		"tall"		"15"
-		"fillcolor"	"255 255 255 255"
+		"fillcolor"	"White"
 		"zpos"	"20"
 		"visible"		"0"
-		"enabled"		"1"
+		
 	}
 	
 	"PercentageText" //Percent Text inside the percentage field
@@ -665,16 +665,16 @@
 		"zpos"		"21"
 		"wide"		"128"
 		"tall"		"15"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		
+		
 		"visible"		"0"
-		"enabled"		"1"
-		"tabPosition"		"0"
+		
+		
 		"labelText"		"0%"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"wrap"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
+		//"wrap"		"0"
 	}
 }
 
@@ -686,13 +686,13 @@
 	"TitleBanner"
 	{
 		"ControlName"	"ImagePanel"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"wide"			"f0"
 		"tall"			"128"
 		"image"			"menu_header"
 		//"visible_lodef"	"0"
-		//enabled_lodef"	"0"
+		//"enabled_lodef"	"0"
 	}
 	
 	"MatchmakingFooterPanel"
@@ -700,7 +700,7 @@
 		"ControlName"		"FooterPanel"
 		"fgcolor"			"MatchmakingDialogTitleColor" 
 		"bgcolor"			"TanDarker"
-		"paintbackground"	"1"
+		//"paintbackground"	"1"
 		"tall"				"100"
 		//"tall_lodef"				"60"
 		"center"			"1"
@@ -1283,7 +1283,7 @@
 	"Subtitle"
 	{
 		"ControlName"	"Label"
-		"labelText"		""
+		"labeltext"		""
 		"font"			"MatchmakingDialogMenuLarge"
 		//"font_lodef"			"MatchmakingDialogMenuSmall"
 		"xpos"			"15"
@@ -1315,7 +1315,7 @@
 	"DescOne"
 	{
 		"ControlName"	"Label"
-		"labelText"		""
+		"labeltext"		""
 		"font"			"MatchmakingDialogMenuLarge"
 		//"font_lodef"			"MatchmakingDialogMenuSmall"
 		"xpos"			"15"
@@ -1330,7 +1330,7 @@
 	"DescTwo"
 	{
 		"ControlName"	"Label"
-		"labelText"		""
+		"labeltext"		""
 		"font"			"MatchmakingDialogMenuLarge"
 		//"font_lodef"			"MatchmakingDialogMenuSmall"
 		"xpos"			"15"
@@ -1343,7 +1343,7 @@
 	"DescThree"
 	{
 		"ControlName"	"Label"
-		"labelText"		""
+		"labeltext"		""
 		"font"			"MatchmakingDialogMenuLarge"
 		//"font_lodef"			"MatchmakingDialogMenuSmall"
 		"xpos"			"15"
@@ -1562,7 +1562,7 @@
 		"font"			"MatchmakingDialogMenuMediumSmall"
 		"labeltext"		"#TF_Recommended_Players"
 		"textAlignment"	"east"
-		"visible"		"1"
+		//"visible"		"1"
 		"wrap"			"1"
 	}
 	
@@ -1780,7 +1780,7 @@
 		"commandstring"		"StartHost"
 		"hostlobby"			"1"
 		//"center_lodef"				"0"
-		"footer_buttongap_hidef"			"20"
+		//"footer_buttongap_hidef"			"20"
 		//"footer_buttongap_lodef"			"15"
 		
 		"Footer"
@@ -1999,8 +1999,8 @@
 		"Buttons"
 		{
 			"ControlName"	"EditablePanel"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"wide"			"370"
 			//"wide_lodef"	"233"
 			"tall"			"123"
@@ -2450,8 +2450,8 @@
 	"HostOptions"
 	{
 		"ControlName"	"EditablePanel"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
@@ -2781,7 +2781,7 @@
  			{
 				"header"		"#TF_Scoreboard_Ping"
 				//"header_lodef"		" "
-  				"ypos"			"0"
+  				
   				//"ypos_lodef"			"0"
 				"wide"			"40"
 				//"wide_lodef"	"25"
@@ -3175,7 +3175,7 @@
 		"wide"				"240"
 		//"tall_hidef"		"40"
 		"ControlName"		"Label"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"				"MatchmakingDialogMenuLarge"
 		//"font_lodef"		"MatchmakingDialogMenuSmall"
 		"labeltext"			"#GameUI_Select"
@@ -3205,7 +3205,7 @@
 		"wide"				"240"
 		//"tall_hidef"		"40"
 		"ControlName"		"Label"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"				"MatchmakingDialogMenuLarge"
 		//"font_lodef"		"MatchmakingDialogMenuSmall"
 		"labeltext"			"#GameUI_Back"
@@ -3582,7 +3582,7 @@
 		"zpos"				"7"
 		"wide"				"240"
 		"ControlName"		"Label"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"				"MatchmakingDialogMenuLarge"
 		//"font_lodef"		"MatchmakingDialogMenuSmall"
 		"labeltext"			"#GameUI_Select"
@@ -3612,7 +3612,7 @@
 		"zpos"				"8"
 		"wide"				"240"
 		"ControlName"		"Label"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 		"font"				"MatchmakingDialogMenuLarge"
 		//"font_lodef"		"MatchmakingDialogMenuSmall"
 		"labeltext"			"#GameUI_Back"
@@ -3692,19 +3692,19 @@
 		"tall"					"181"
 		//"tall_hidef"			"255"
 		"chapterypos"			"48"
-		//"chapterypos_hidef"		"68"
+		//"chapterypos_hidef"			"68"
 		"scrollslow"			"0.2"
 		"scrollfast"			"0.1"
 		"centerbgtall"			"120"
-		//"centerbgtall_hidef"	"170"
-		"autoResize"			"0"
-		"pinCorner"				"0"
-		"visible"				"1"
-		"enabled"				"1"
-		"tabPosition"			"0"
+		//"centerbgtall_hidef"		"170"
+		
+		
+		
+		
+		
 		"settitlebarvisible"	"0"
 		"title"					"#GameUI_NewGame"
-		"paintbackground"		"1"
+		//"paintbackground"		"1"
 	}
 	"LeftArrow"
 	{
@@ -3715,15 +3715,15 @@
 		//"ypos_hidef"		"155"
 		"wide"				"32"
 		"tall"				"32"
-		"autoResize"		"0"
-		"pinCorner"			"0"
-		"visible"			"1"
-		"enabled"			"1"
+		
+		
+		//"visible"			"1"
+		
 		"labelText"			"#GameUI_Icons_LEFTCURSOR"
 		"textAlignment"		"center"
-		"dulltext"			"0"
-		"brighttext"		"0"
-		"wrap"				"0"
+		//"dulltext"			"0"
+		////"brighttext"		"0"
+		//"wrap"				"0"
 		"font"				"GameUIButtons"
 	}
 	"RightArrow"
@@ -3736,15 +3736,15 @@
 		//"ypos_hidef"		"155"
 		"wide"				"32"
 		"tall"				"32"
-		"autoResize"		"0"
-		"pinCorner"			"0"
-		"visible"			"1"
-		"enabled"			"1"
+		
+		
+		//"visible"			"1"
+		
 		"labelText"			"#GameUI_Icons_RIGHTCURSOR"
 		"textAlignment"		"center"
-		"dulltext"			"0"
-		"brighttext"		"0"
-		"wrap"				"0"
+		//"dulltext"			"0"
+		////"brighttext"		"0"
+		//"wrap"				"0"
 		"font"				"GameUIButtons"
 	}
 	"UpArrow"
@@ -3758,15 +3758,15 @@
 		"zpos"				"90"
 		"wide"				"32"
 		"tall"				"32"
-		"autoResize"		"0"
-		"pinCorner"			"0"
+		
+		
 		"visible"			"0"
-		"enabled"			"1"
+		
 		"labelText"			"#GameUI_Icons_UPCURSOR"
 		"textAlignment"		"center"
-		"dulltext"			"0"
-		"brighttext"		"0"
-		"wrap"				"0"
+		//"dulltext"			"0"
+		////"brighttext"		"0"
+		//"wrap"				"0"
 		"font"				"GameUIButtons"
 	}
 	"DownArrow"
@@ -3780,15 +3780,15 @@
 		"zpos"				"100"
 		"wide"				"32"
 		"tall"				"32"
-		"autoResize"		"0"
-		"pinCorner"			"0"
+		
+		
 		"visible"			"0"
-		"enabled"			"1"
+		
 		"labelText"			"#GameUI_Icons_DOWNCURSOR"
 		"textAlignment"		"center"
-		"dulltext"			"0"
-		"brighttext"		"0"
-		"wrap"				"0"
+		//"dulltext"			"0"
+		////"brighttext"		"0"
+		//"wrap"				"0"
 		"font"				"GameUIButtons"
 	}
 	"BonusSelectionBorder"
@@ -3804,17 +3804,17 @@
 		//"wide_hidef"		"142"
 		"tall"				"17"
 		//"tall_hidef"		"24"
-		"autoResize"		"0"
-		"pinCorner"			"0"
+		
+		
 		"visible"			"0"
-		"enabled"			"1"
+		
 		"fillcolor"			"0 0 0 128"
 	}
 	"BonusSelectionLabel"
 	{
 		"ControlName"	"Label"
 		"fieldName"		"BonusSelectionLabel"
-		"xpos"			"0"
+		
 		"ypos"			"108"
 		//"ypos_hidef"	"152"
 		"zpos"			"100"
@@ -3822,14 +3822,14 @@
 		//"wide_hidef"	"730"
 		"tall"			"24"
 		//"tall_hidef"	"35"
-		"autoResize"	"0"
-		"pinCorner"		"0"
+		
+		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"DefaultLarge"
 		//"font_hidef"	"MenuLarge"
 	}
@@ -3862,8 +3862,8 @@
 		//"wide_hidef"		"64"
 		"tall"				"30"
 		"visible"			"0"
-		"enabled"			"1"
-		"tabPosition"		"0"
+		
+		
 		"textAlignment"		"north"
 		"wrap"				"1"
 	}
@@ -3896,8 +3896,8 @@
 		//"wide_hidef"		"64"
 		"tall"				"30"
 		"visible"			"0"
-		"enabled"			"1"
-		"tabPosition"		"0"
+		
+		
 		"textAlignment"		"north"
 		"wrap"				"1"
 	}
@@ -3906,38 +3906,38 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ChapterTitleLabel"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"wide"			"518"
 		//"wide_hidef"	"730"
 		"tall"			"40"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"ChapterTitle"
 	}
 	"ChapterTitleLabel2"
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ChapterTitleLabel2"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"wide"			"518"
 		//"wide_hidef"	"730"
 		"tall"			"40"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"ChapterTitle"
 	}
 	"ControllerMap"
@@ -4008,17 +4008,17 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"LevelPicBorder"
-		"xpos"			"0"
+		
 		"ypos"			"34"
 		//"ypos_hidef"	"48"
 		"wide"			"122"
 		//"wide_hidef"	"172"
 		"tall"			"75"
 		//"tall_hidef"	"106"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 	}
 	"LevelPic"
 	{
@@ -4032,14 +4032,13 @@
 		//"wide_hidef"	"152"
 		"tall"			"61"
 		//"tall_hidef"	"86"
-		"autoResize"	"0"
+		
 		"scaleImage"		"1"
-		"scaleImage_hidef"	"0"
+		//"scaleImage_hidef"	"0"
 		"scaleAmount"		"0.72"
-		"scaleAmount"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		//"visible"		"1"
+		
 		"fillcolor"		"0 0 0 0"
 	}
 	"ChallengeNextMedal"
@@ -4062,22 +4061,22 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ChapterLabel"
-		"xpos"			"0"
+		
 		"ypos"			"14"
 		//"ypos_hidef"	"20"
 		"wide"			"107"
 		//"wide_hidef"	"152"
 		"tall"			"14"
 		//"tall_hidef"	"20"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"DefaultLarge"
 		//"font_hidef"	"UiBold"
 	}
@@ -4087,19 +4086,19 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ChapterNameLabel"
-		"xpos"			"0"
+		
 		"ypos"			"20"
 		"wide"			"152"
 		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"wrap"			"0"
 		"font"			"UiBold"
 	}
 	
@@ -4107,21 +4106,21 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"HasBonusLabel"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"wide"			"107"
 		//"wide_hidef"	"152"
 		"tall"			"14"
 		//"tall_hidef"	"20"
-		"autoResize"	"0"
-		"pinCorner"		"0"
+		
+		
 		"visible"		"0"
-		"enabled"		"1"
-		"tabPosition"		"0"
+		
+		
 		"textAlignment"		"east"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"wrap"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
+		//"wrap"		"0"
 		"font"			"DefaultLarge"
 		//"font_hidef"	"UiBold"
 		"labelText"		"#GameUI_BonusMapsUnlocked"
@@ -4138,13 +4137,13 @@
 		//"ypos_hidef"		"120"
 		"wide"				"43"
 		"tall"				"42"
-		"autoResize"		"0"
-		"pinCorner"			"0"
+		
+		
 		"visible"			"0"
-		"enabled"			"1"
-		"tabPosition"		"0"
+		
+		
 		"image"				"hud/icon_commentary_small"
-		"scaleImage"		"0"
+		//"scaleImage"		"0"
 	}
 
 }
@@ -4155,37 +4154,37 @@
 	{
 		"ControlName"		"Frame"
 		"fieldName"			"LoadingDialog"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 
 		"wide"				"200"
 		//"wide_hidef"		"250"
 		"tall"				"35"
 		//"tall_hidef"		"40"
-		"autoResize"		"0"
-		"pinCorner"			"0"
-		"visible"			"1"
-		"enabled"			"1"
-		"tabPosition"		"0"
+		
+		
+		//"visible"			"1"
+		
+		
 	}
 
 	"LoadingDialogBG"
 	{
 		"ControlName"		"Frame"
 		"fieldName"			"LoadingDialogBG"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 
 		"wide"				"200"
 		//"wide_hidef"		"250"
 		"tall"				"20"
 		//"tall_hidef"		"20"
-		"autoResize"		"0"
-		"pinCorner"			"0"
-		"visible"			"1"
-		"enabled"			"1"
-		"tabPosition"		"0"
-		"paintbackground"	"1"
+		
+		
+		//"visible"			"1"
+		
+		
+		//"paintbackground"	"1"
 		"bgcolor"		"46 43 42 255"
 	}
 	
@@ -4195,14 +4194,14 @@
 		"fieldName"			"LoadingLabel"
 		"labeltext"			"#GameUI_Loading"
 		"xpos"				"2"
-		"ypos"				"0"
+		//"ypos"				"0"
 		"wide"				"200"
 		//"wide_hidef"		"250"
 		"tall"				"20"
-		"autoresize"		"0"
-		"visible"			"1"
-		"enabled"			"1"
-		"textAlignment"		"west"
+		
+		//"visible"			"1"
+		
+		//"textAlignment"		"west"
 	}
 	
 	// unused, just used to anchor layout params
@@ -4212,7 +4211,7 @@
 		"fieldName"			"Progress"
 		"visible"			"0"
 		"enabled"			"0"
-		"autoresize"		"0"
+		
 
 		"wide"				"200"
 		//"wide_hidef"		"250"

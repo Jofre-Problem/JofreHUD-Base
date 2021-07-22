@@ -133,7 +133,7 @@
 			"textAlignment"		"south-west"
 			"Command"			""
 			"Default"			"0"
-			"font"				"Default"
+			"font"				"MenuKeys"
 			"scaleImage"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -195,7 +195,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"RecipeInputStringLabel"
-			"font"			"HudFontSmallest"
+			"font"			"ItemFontAttribLarge"
 			"labelText"		"%recipeinputstring%"
 			"textAlignment"	"north-west"
 			
@@ -373,7 +373,7 @@
 		
 		"attriblabel"
 		{
-			"font"			"HudFontSmallest"
+			"font"			"ItemFontAttribLarge"
 			
 			"ypos"			"30"
 			"zpos"			"2"

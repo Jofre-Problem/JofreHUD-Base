@@ -4,15 +4,15 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"HudTournamentSetupBG"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"zpos"			"-1"
 		"wide"			"180"
 		"tall"			"65"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"image"			"../HUD/tournament_panel_brown"
 
 
@@ -27,19 +27,19 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"xpos"			"8"
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"180"
 		"tall"			"35"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"wrap"			"0"
+		
+		
+		//"visible"		"1"
+		
+		//"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 
 	"TournamentTeamNameLabel"
@@ -52,13 +52,13 @@
 		"zpos"			"1"
 		"wide"			"74"
 		"tall"			"15"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"wrap"			"0"
+		
+		
+		//"visible"		"1"
+		
+		//"wrap"			"0"
 		"labelText"		"#Tournament_TeamNamePanel"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 
 	"TournamentNameEdit"
@@ -69,21 +69,21 @@
 		"ypos"		"27"
 		"wide"		"120"
 		"tall"		"16"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"textHidden"		"0"
-		"editable"		"1"
+		
+		
+		//"visible"		"1"
+		
+		
+		//"textHidden"		"0"
+		//"editable"		"1"
 		"maxchars"		"5"
 		"NumericInputOnly"	"0"
-		"unicode"		"0"
-		"wrap"			"0"
-		"fgcolor_override"		"235 226 202 255"
+		//"unicode"		"0"
+		//"wrap"			"0"
+		"fgcolor_override"		"TanLight"
 		"bgcolor_override"	"0 0 0 255"
 		"labelText"		"%teamname%"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 
 	"HudTournamentNameBG"
@@ -94,11 +94,11 @@
 		"ypos"		"28"
 		"wide"		"50"
 		"tall"		"14"
-		"zpos"		"0"
-		"autoResize"	"0"
-		"pinCorner"	"0"
+		
+		
+		//"pinCorner"	"0"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"fillcolor"	"0 0 0 255"
 		"scaleImage"	"1"
 	}
@@ -111,18 +111,18 @@
 		"ypos"		"46"
 		"wide"		"70"
 		"tall"		"14"
-		"zpos"		"0"
-		"autoResize"	"0"
+		
+		
 		"pinCorner"		"2"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"labelText"		"Not Ready"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"command"		"teamnotready"
-		"default"		"1"
-		"font"			"HudFontSmallestBold"
+		//"Default"		"1"
+		"font"			"HudFontSmallest"
 		"fgcolor"		"Red"
 	}
 
@@ -134,18 +134,18 @@
 		"ypos"		"46"
 		"wide"		"70"
 		"tall"		"14"
-		"zpos"		"0"
-		"autoResize"	"0"
+		
+		
 		"pinCorner"		"2"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"labelText"		"Ready"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"command"		"teamready" 
-		"default"		"1"
-		"font"			"HudFontSmallestBold"
+		//"Default"		"1"
+		"font"			"HudFontSmallest"
 		"fgcolor"		"FooterBGBlack"
 	}
 }

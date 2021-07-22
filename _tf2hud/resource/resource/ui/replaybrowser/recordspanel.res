@@ -10,7 +10,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"TitleLabel"
-		"font"				"HudFontSmallest"
+		"font"				"ReplayMediumSmall"
 		"labelText"			"#Replay_NoNewRecord"
 		//"textAlignment"		"west"
 		//"xpos"				"0"
@@ -26,7 +26,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"RecordInfoLabel"
-		"font"				"HudFontSmallest"
+		"font"				"ReplayMediumSmall"
 		"labelText"			"#Replay_NoNewRecord"
 		//"textAlignment"		"west"
 		//"xpos"				"0"

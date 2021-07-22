@@ -4,15 +4,15 @@
 	{
 		"ControlName"			"CTFTextWindow"
 		"fieldName"				"info"
-		"xpos"					"0"
-		"ypos"					"0"
+		
+		
 		"wide"					"f0"
 		"tall"					"480"
-		"autoResize"			"0"
-		"pinCorner"				"0"
-		"visible"				"1"
-		"enabled"				"1"
-		"tabPosition"			"0"
+		
+		
+		
+		
+		
 		"settitlebarvisible"	"0"
 	}
 	
@@ -25,14 +25,14 @@
 		"zpos"			"1"
 		"wide"			"420"
 		"tall"			"24"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"#TF_WELCOME"
-		"textAlignment"	"west"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		//"textAlignment"	"west"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"font"			"ChalkboardTitle"
 		"fgcolor"		"White"
 	}	
@@ -56,10 +56,10 @@
 		"wide"			"415"
 		"tall"			"240"
 		"autoResize"	"3"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"paintborder"	"0"
+		
+		//"visible"		"1"
+		
+		//"paintborder"	"0"
 		"textAlignment"	"northwest"
 		"fgcolor"		"Gray"
 	}
@@ -69,16 +69,16 @@
 		"ControlName"		"HTML"
 		"fieldName"		"HTMLMessage"
 		"xpos"			"c-320"
-		"ypos"			"0"
+		
 		"zpos"			"1"
 		"wide"			"640"
 		"tall"			"430"
 		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"paintborder"	"0"
+		
+		//"visible"		"1"
+		
+		
+		//"paintborder"	"0"
 	}
 	
 	"ok"
@@ -90,18 +90,18 @@
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
-		"autoResize"	"0"
+		
 		"pinCorner"		"2"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
+		//"visible"		"1"
+		
+		
 		"labelText"		"#TF_Continue"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"wrap"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
+		//"wrap"		"0"
 		"command"		"okay"
-		"default"		"1"
+		//"Default"		"1"
 		"font"			"MenuSmallFont"
 	}
 
@@ -114,13 +114,13 @@
 		"zpos"			"7"
 		"wide"			"25"
 		"tall"			"25"
-		"autoResize"	"0"
+		
 		"pinCorner"		"2"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
 	}
@@ -129,15 +129,15 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MenuBG"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"0"		
+		
+		
+				
 		"wide"			"f0"
 		"tall"			"480"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"fov"			"20"
 		
 		"model"
@@ -157,19 +157,19 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ShadedBar"
-		"xpos"			"0"
+		
 		"ypos"			"r50"
 		"zpos"			"5"
 		"wide"			"f0"
 		"tall"			"50"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"	
+		
+		
+		//"visible"		"1"
+		
+			
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}						
 	
 	"MessageTitle"

@@ -653,7 +653,7 @@
 		"zpos"			"100"
 		"visible"		"0"
 		
-		"font"			"HudFontSmallest"
+		"font"			"ReplayMediumSmall"
 		"centerwrap"	"1"
 		//"paintbackground"	"1"
 		"bgcolor_override"	"60 53 45 255"

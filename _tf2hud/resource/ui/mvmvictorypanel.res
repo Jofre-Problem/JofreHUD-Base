@@ -8,9 +8,9 @@
 		"ypos"			"100"
 		"wide"			"536"
 		"tall"			"230"
-		"visible"		"1"
+		//"visible"		"1"
 		
-		//"PaintBackgroundType"	"0"
+		////"PaintBackgroundType"	"0"
 		//"paintbackground"	"0"
 		//"border"		"MainMenuHighlightBorder"
 		
@@ -18,14 +18,14 @@
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"SplashBackground"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"wide"			"530"
 			"tall"			"230"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"image"			"../HUD/tournament_panel_black"
 
 			"src_corner_height"	"22"				// pixels inside the image
@@ -39,17 +39,17 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"HeaderContainer"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"wide"			"530"
 			"tall"			"100"
-			"visible"		"1"
+			//"visible"		"1"
 
 			"HeaderShadow"
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"HeaderShadow"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				"labelText"		"%headershadow%"
 				"textAlignment" "center"
 				"xpos"			"1"
@@ -63,10 +63,10 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"HeaderLabel"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				"labelText"		"%header%"
 				"textAlignment" "center"
-				"xpos"			"0"
+				
 				"ypos"			"12"
 				"wide"			"530"
 				"tall"			"40"
@@ -78,14 +78,14 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CreditLabel"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			"labelText"		"#TF_PVE_Currency"
 			"textAlignment" "north-west"
 			"xpos"			"80"
 			"ypos"			"80"
 			"wide"			"300"
 			"tall"			"40"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 			
 		"CreditContainer"
@@ -97,7 +97,7 @@
 			"wide"			"400"
 			"tall"			"70"
 			"autoResize"	"1"
-			"visible"		"1"
+			//"visible"		"1"
 		}
 
 		"RatingContainer"
@@ -109,27 +109,27 @@
 			"wide"			"400"
 			"tall"			"400"
 			"autoResize"	"1"
-			"visible"		"1"
+			//"visible"		"1"
 			
 			"RatingLabel"
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"RatingLabel"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				"labelText"		"%ratinglabel%"
 				"textAlignment" "center"
-				"xpos"			"0"
-				"ypos"			"0"
+				
+				
 				"wide"			"180"
 				"tall"			"40"
-				"fgcolor"		"tanlight"
+				"fgcolor"		"TanLight"
 			}
 			
 			"RatingTextShadow"
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"RatingTextShadow"
-				"font"			"HudFontGiantBold"
+				"font"			"HudFontGiant"
 				"labelText"		"%ratingscore%"
 				"textAlignment" "center"
 				"xpos"			"1"
@@ -143,10 +143,10 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"RatingText"
-				"font"			"HudFontGiantBold"
+				"font"			"HudFontGiant"
 				"labelText"		"%ratingscore%"
 				"textAlignment" "center"
-				"xpos"			"0"
+				
 				"ypos"			"40"
 				"wide"			"180"
 				"tall"			"50"
@@ -163,7 +163,7 @@
 			"wide"			"400"
 			"tall"			"70"
 			"autoResize"	"1"
-			"visible"		"1"
+			//"visible"		"1"
 		}
 	}
 
@@ -176,16 +176,16 @@
 		"zpos"			"100"
 		"wide"			"106"
 		"tall"			"25"
-		"autoResize"	"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"#DoneButton"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		

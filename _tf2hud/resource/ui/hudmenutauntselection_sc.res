@@ -4,13 +4,13 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MainBackground"
-		"xpos"			"0"
+		
 		"ypos"			"15"
-		"zpos"			"0"
+		
 		"wide"			"470"
 		"tall"			"170"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"
 		"iconColor"		"255 255 255 255"
@@ -37,8 +37,8 @@
 		"zpos"			"1"
 		"wide"			"50"
 		"tall"			"50"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"scaleImage"	"1"	
 		"icon"			"hud_taunt_menu_icon"
 		"iconColor"		"255 255 255 255"
@@ -48,41 +48,41 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontGiantBold"
+		"font"			"ChalkboardTitleBig"
 		"xpos"			"60"			// align me to the left edge of the first selection
 		"ypos"			"5"
 		"zpos"			"3"
 		"wide"			"360"
 		"tall"			"38"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"#Hud_Menu_Taunt_Title"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 	}
 	
 	"TitleLabelDropshadow"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
-		"font"			"HudFontGiantBold"
+		"font"			"ChalkboardTitleBig"
 		"fgcolor"		"Black"
 		"xpos"			"60"			// align me to the left edge of the first selection
 		"ypos"			"6"
 		"zpos"			"3"
 		"wide"			"360"
 		"tall"			"38"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"#Hud_Menu_Taunt_Title"
 		"textAlignment"	"Left"
 		"dulltext"		"1"
-		"brighttext"	"0"
+		//"brighttext"	"0"
 	}
 
 	"TauntModelPanel1"
@@ -94,10 +94,10 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
-		"noitem_textcolor"		"117 107 94 255"
-		"PaintBackgroundType"	"0"
+		//"visible"		"1"
+		"bgcolor_override"		"Blank"
+		"noitem_textcolor"		"TanDark"
+		//"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 			
 		"model_ypos"	"5"
@@ -129,10 +129,10 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
-		"noitem_textcolor"		"117 107 94 255"
-		"PaintBackgroundType"	"0"
+		//"visible"		"1"
+		"bgcolor_override"		"Blank"
+		"noitem_textcolor"		"TanDark"
+		//"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 
 		"model_ypos"	"5"
@@ -164,10 +164,10 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
-		"noitem_textcolor"		"117 107 94 255"
-		"PaintBackgroundType"	"0"
+		//"visible"		"1"
+		"bgcolor_override"		"Blank"
+		"noitem_textcolor"		"TanDark"
+		//"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 			
 		"model_ypos"	"5"
@@ -199,10 +199,10 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
-		"noitem_textcolor"		"117 107 94 255"
-		"PaintBackgroundType"	"0"
+		//"visible"		"1"
+		"bgcolor_override"		"Blank"
+		"noitem_textcolor"		"TanDark"
+		//"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 			
 		"model_ypos"	"5"
@@ -234,10 +234,10 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
-		"noitem_textcolor"		"117 107 94 255"
-		"PaintBackgroundType"	"0"
+		//"visible"		"1"
+		"bgcolor_override"		"Blank"
+		"noitem_textcolor"		"TanDark"
+		//"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 			
 		"model_ypos"	"5"
@@ -269,10 +269,10 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
-		"noitem_textcolor"		"117 107 94 255"
-		"PaintBackgroundType"	"0"
+		//"visible"		"1"
+		"bgcolor_override"		"Blank"
+		"noitem_textcolor"		"TanDark"
+		//"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 			
 		"model_ypos"	"5"
@@ -304,10 +304,10 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
-		"noitem_textcolor"		"117 107 94 255"
-		"PaintBackgroundType"	"0"
+		//"visible"		"1"
+		"bgcolor_override"		"Blank"
+		"noitem_textcolor"		"TanDark"
+		//"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 			
 		"model_ypos"	"5"
@@ -339,10 +339,10 @@
 		"zpos"			"100"
 		"wide"			"50"
 		"tall"			"40"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
-		"noitem_textcolor"		"117 107 94 255"
-		"PaintBackgroundType"	"0"
+		//"visible"		"1"
+		"bgcolor_override"		"Blank"
+		"noitem_textcolor"		"TanDark"
+		//"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 			
 		"model_ypos"	"5"
@@ -369,15 +369,15 @@
 	{
 		"ControlName"	"CSCHintIcon"
 		"fieldName"		"PrevHintIcon"
-		"xpos"			"0"
+		
 		"ypos"			"85"
 		"zpos"			"200"
 		"wide"			"25"
 		"tall"			"25"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_left"
 	}
@@ -391,10 +391,10 @@
 		"zpos"			"200"
 		"wide"			"25"
 		"tall"			"25"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_right"
 	}
@@ -408,10 +408,10 @@
 		"zpos"			"1"
 		"wide"			"25"
 		"tall"			"25"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
 	}
@@ -426,14 +426,14 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"39"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"#Hud_Menu_Taunt_Title"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 	}
 
 	"WeaponTauntHintIcon"
@@ -445,10 +445,10 @@
 		"zpos"			"2"
 		"wide"			"25"
 		"tall"			"25"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_alt_function"
 	}
@@ -463,14 +463,14 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"39"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"#Hud_Menu_Taunt_Weapon_NoKey"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 	}
 
 	"CancelHintIcon"
@@ -482,10 +482,10 @@
 		"zpos"			"1"
 		"wide"			"25"
 		"tall"			"25"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_cancel"
 
@@ -501,13 +501,13 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"39"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"#Cancel"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 	}
 }

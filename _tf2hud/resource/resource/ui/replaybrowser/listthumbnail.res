@@ -58,7 +58,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RecordingInProgressLabel"
-		"font"			"HudFontSmallest"
+		"font"			"ReplayMediumSmall"
 		"labelText"		"#Replay_RecordingInProgress"
 		//"textAlignment"	"west"
 		"zpos"			"3"
@@ -75,7 +75,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DownloadLabel"
-		"font"			"HudFontSmallest"
+		"font"			"ReplayMediumSmall"
 		"labelText"		"#Replay_Connecting"
 		//"textAlignment"	"west"
 		"zpos"			"3"
@@ -134,7 +134,7 @@
 		
 		
 		"labelText"		"#Replay_Download"
-		"font"			"HudFontSmallest"
+		"font"			"ReplayMediumSmall"
 		"textAlignment"	"center"
 		//"wrap"			"0"
 		"Command"		"download"
@@ -168,7 +168,7 @@
 		
 		
 		"labelText"		"X"
-		"font"			"HudFontSmallest"
+		"font"			"ReplayMediumSmall"
 		"textAlignment"	"center"
 		//"wrap"			"0"
 		"Command"		"delete_replayitem"

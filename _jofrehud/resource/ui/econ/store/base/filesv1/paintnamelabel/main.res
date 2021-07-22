@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PaintNameLabel"
-		"font"			"TFFontMedium"
+		"font"			"FontStorePrice"
 		"labelText"		"#Store_NoPaint"
 		"textAlignment"	"left"
 		"autoResize"	"1"

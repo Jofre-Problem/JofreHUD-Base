@@ -10,7 +10,7 @@
 		"wide"				"275"
 		"tall"				"190"
 		"visible"			"0"
-		"enabled"			"1"
+		
 
 		if_comp
 		{
@@ -21,15 +21,15 @@
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"HudStopWatchObjectiveBG"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"zpos"			"-1"
 			"wide"			"275"
 			"tall"			"170"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"image"			"../HUD/color_panel_browner"
 	
 	
@@ -43,15 +43,15 @@
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"HudStopWatchObjectiveBGSmall"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"zpos"			"-1"
 			"wide"			"275"
 			"tall"			"100"
-			"autoResize"		"0"
-			"pinCorner"		"0"
+			
+			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"image"			"../HUD/color_panel_browner"
 	
 	
@@ -65,19 +65,19 @@
 		{	
 			"ControlName"		"Label"
 			"fieldName"		"HudStopWatchObjectiveLabel"
-			"font"			"HudFontSmallBoldShadow"
+			"font"			"HudFontSmall"
 			"xpos"			"25"
 			"ypos"			"15"
 			"zpos"			"1"
 			"wide"			"275"
 			"tall"			"15"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"wrap"			"1"
 			"labelText"		"%objectivelabel%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 		}
 		"HudStopWatchObjectiveText1"
 		{
@@ -90,11 +90,11 @@
 			"wrap"			"1"
 			"autoResize"		"1"
 			"pinCorner"		"1"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
-			"textAlignment"		"west"
-			"font"			"HudFontSmallestShadow"
+			//"visible"		"1"
+			
+			"labeltext"		""
+			//"textAlignment"		"west"
+			"font"			"HudFontSmallest"
 			"maxchars"		"-1"
 		}
 
@@ -107,31 +107,31 @@
 			"zpos"			"2"
 			"wide"			"225"
 			"tall"			"2"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"	
+			
+			
+			//"visible"		"1"
+			
+				
 			"fillcolor"		"125 125 125 125"
-			"PaintBackgroundType"	"0"
+			//"PaintBackgroundType"	"0"
 		}
 
 		"HudStopWatchObjectiveText2"
 		{
 			"ControlName"		"CExRichText"
 			"fieldName"		"HudStopWatchObjectiveText2"
-			"xpos"			"25"	[$WIN32]
-			"ypos"			"75"	[$WIN32]
+			"xpos"			"25"
+			"ypos"			"75"
 			"wide"			"225"
 			"tall"			"165"
 			"wrap"			"1"
 			"autoResize"		"1"
 			"pinCorner"		"1"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
-			"textAlignment"		"west"
-			"font"			"HudFontSmallestShadow"
+			//"visible"		"1"
+			
+			"labeltext"		""
+			//"textAlignment"		"west"
+			"font"			"HudFontSmallest"
 			"maxchars"		"-1"
 		}
 	}	
@@ -145,10 +145,10 @@
 		"zpos"			"-1"
 		"wide"			"80"
 		"tall"			"80"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		
+		
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"image"			"../HUD/arrow_big"
 
 		if_comp

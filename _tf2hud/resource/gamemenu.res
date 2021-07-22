@@ -1,4 +1,4 @@
-"GameMenu" [$WIN32]
+"GameMenu" //[$WIN32]
 {
 	"VRModeButton"
 	{

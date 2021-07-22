@@ -3,8 +3,8 @@
 	"TestItemDialog"
 	{
 		"fieldName"				"TestItemDialog"
-		"visible"				"1"
-		"enabled"				"1"
+		
+		
 		"xpos"					"c-275"
 		"ypos"					"80"
 		"zpos"					"999"
@@ -20,19 +20,19 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"labelText"		"%testtitle%"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"450"
 		"tall"			"25"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		
+		
+		//"visible"		"1"
+		
+		"fgcolor_override" "LightRed"
 	}
 	
 	"SelectModelLabel"
@@ -41,16 +41,16 @@
 		"fieldName"		"SelectModelLabel"
 		"font"			"HudFontSmallest"
 		"labelText"		"#IT_YourModel"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"10"
 		"ypos"			"70"
 		"zpos"			"1"
 		"wide"			"95"
 		"tall"			"15"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 	}
 	"ModelLabel"
 	{
@@ -58,17 +58,17 @@
 		"fieldName"		"ModelLabel"
 		"font"			"ItemFontAttribSmall"
 		"labelText"		"%testmodel%"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"105"
 		"ypos"			"70"
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"15"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		
+		
+		//"visible"		"1"
+		
+		"fgcolor_override" "LightRed"
 	}
 	"SelectModelButton"
 	{
@@ -79,17 +79,17 @@
 		"zpos"			"2"
 		"wide"			"120"
 		"tall"			"15"
-		"autoResize"	"0"
+		
 		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		//"visible"		"1"
+		
+		
 		"labelText"		"#IT_SelectModel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
 		"Command"		"select_model"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -102,9 +102,9 @@
 		"ypos"			"90"
 		"wide"			"400"
 		"tall"			"50"
-		"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
-		"bgcolor_override"	"46 43 42 255"
+		"bgcolor_override"	"TanDarker"
 		
 		"ItemReplacedLabel"
 		{
@@ -112,16 +112,16 @@
 			"fieldName"		"ItemReplacedLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_ExistingItem"
-			"textAlignment"	"west"
-			"xpos"			"0"
-			"ypos"			"0"
+			//"textAlignment"	"west"
+			
+			
 			"zpos"			"1"
 			"wide"			"95"
 			"tall"			"15"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"wrap"			"1"
 		}
 		"ExistingItemComboBox"
@@ -130,26 +130,26 @@
 			"fieldName"			"ExistingItemComboBox"
 			"Font"				"HudFontSmallest"
 			"xpos"				"95"
-			"ypos"				"0"
+			//"ypos"				"0"
 			"zpos"				"1"
 			"wide"				"200"
 			"tall"				"15"
-			"autoResize"		"0"
-			"pinCorner"			"0"
-			"visible"			"1"
-			"enabled"			"1"
+			
+			
+			//"visible"			"1"
+			
 			"tabPosition"		"1"
-			"textHidden"		"0"
+			//"textHidden"		"0"
 			"editable"			"0"
 			"maxchars"			"-1"
 			"NumericInputOnly"	"0"
-			"unicode"			"0"
+			//"unicode"			"0"
 			
-			"fgcolor_override"	"117 107 94 255"
+			"fgcolor_override"	"TanDark"
 			"bgcolor_override"	"251 235 202 0"
 			"disabledFgColor_override" "117 107 94 0"
 			"disabledBgColor_override" "251 235 202 0"
-			"selectionColor_override" "0 0 0 0"
+			"selectionColor_override" "Blank"
 			"selectionTextColor_override" "117 107 94 255"
 			"defaultSelectionBG2Color_override" "251 235 202 255"
 		}
@@ -163,9 +163,9 @@
 		"ypos"			"140"
 		"wide"			"400"
 		"tall"			"50"
-		"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
-		"bgcolor_override"	"46 43 42 255"
+		"bgcolor_override"	"TanDarker"
 		
 		"ItemReplacedLabel"
 		{
@@ -173,16 +173,16 @@
 			"fieldName"		"ItemReplacedLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_ItemReplaces"
-			"textAlignment"	"west"
-			"xpos"			"0"
-			"ypos"			"0"
+			//"textAlignment"	"west"
+			
+			
 			"zpos"			"1"
 			"wide"			"95"
 			"tall"			"15"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		"ItemReplacedComboBox"
 		{
@@ -190,26 +190,26 @@
 			"fieldName"			"ItemReplacedComboBox"
 			"Font"				"HudFontSmallest"
 			"xpos"				"95"
-			"ypos"				"0"
+			//"ypos"				"0"
 			"zpos"				"1"
 			"wide"				"200"
 			"tall"				"15"
-			"autoResize"		"0"
-			"pinCorner"			"0"
-			"visible"			"1"
-			"enabled"			"1"
+			
+			
+			//"visible"			"1"
+			
 			"tabPosition"		"1"
-			"textHidden"		"0"
+			//"textHidden"		"0"
 			"editable"			"0"
 			"maxchars"			"-1"
 			"NumericInputOnly"	"0"
-			"unicode"			"0"
+			//"unicode"			"0"
 			
-			"fgcolor_override"	"117 107 94 255"
+			"fgcolor_override"	"TanDark"
 			"bgcolor_override"	"251 235 202 0"
 			"disabledFgColor_override" "117 107 94 0"
 			"disabledBgColor_override" "251 235 202 0"
-			"selectionColor_override" "0 0 0 0"
+			"selectionColor_override" "Blank"
 			"selectionTextColor_override" "117 107 94 255"
 			"defaultSelectionBG2Color_override" "251 235 202 255"
 		}
@@ -219,18 +219,18 @@
 			"fieldName"		"NoItemsToReplaceLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_ItemReplaced_Invalid"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"95"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"200"
 			"tall"			"25"
-			"autoResize"	"0"
-			"pinCorner"		"0"
+			
+			
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"wrap"			"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "LightRed"
 		}
 	}
 	
@@ -242,7 +242,7 @@
 		"ypos"			"100"
 		"wide"			"550"
 		"tall"			"50"
-		"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		
 		"HideBodygroupLabel"
@@ -251,16 +251,16 @@
 			"fieldName"		"HideBodygroupLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_Bodygroups"
-			"textAlignment"	"west"
-			"xpos"			"0"
-			"ypos"			"0"
+			//"textAlignment"	"west"
+			
+			
 			"zpos"			"1"
 			"wide"			"95"
 			"tall"			"15"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		"HideBodygroupExplanationLabel"
 		{
@@ -268,18 +268,18 @@
 			"fieldName"		"HideBodygroupExplanationLabel"
 			"font"			"ItemFontAttribSmallest"
 			"labelText"		"#IT_Explanation_Bodygroups"
-			"textAlignment"	"west"
-			"xpos"			"0"
+			//"textAlignment"	"west"
+			
 			"ypos"			"15"
 			"zpos"			"1"
 			"wide"			"95"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"wrap"			"1"
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 		}
 		"HideBodygroupCheckBox0"
 		{
@@ -287,19 +287,19 @@
 			"fieldName"		"HideBodygroupCheckBox0"
 			"labelText"		"#IT_Bodygroup_Hat"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"95"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"150"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"HideBodygroupCheckBox1"
 		{
@@ -307,19 +307,19 @@
 			"fieldName"		"HideBodygroupCheckBox1"
 			"labelText"		"#IT_Bodygroup_Headphone"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"95"
 			"ypos"			"25"
 			"zpos"			"1"
 			"wide"			"150"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"HideBodygroupCheckBox2"
 		{
@@ -327,19 +327,19 @@
 			"fieldName"		"HideBodygroupCheckBox2"
 			"labelText"		"#IT_Bodygroup_Medals"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"190"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"150"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"HideBodygroupCheckBox3"
 		{
@@ -347,19 +347,19 @@
 			"fieldName"		"HideBodygroupCheckBox3"
 			"labelText"		"#IT_Bodygroup_Grenades"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"190"
 			"ypos"			"25"
 			"zpos"			"1"
 			"wide"			"150"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"HideBodygroupCheckBox4"
 		{
@@ -367,19 +367,19 @@
 			"fieldName"		"HideBodygroupCheckBox4"
 			"labelText"		"#IT_Bodygroup_Bullets"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"290"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"150"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"HideBodygroupCheckBox5"
 		{
@@ -387,19 +387,19 @@
 			"fieldName"		"HideBodygroupCheckBox5"
 			"labelText"		"#IT_Bodygroup_Arrows"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"290"
 			"ypos"			"25"
 			"zpos"			"1"
 			"wide"			"150"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"HideBodygroupCheckBox6"
 		{
@@ -407,19 +407,19 @@
 			"fieldName"		"HideBodygroupCheckBox6"
 			"labelText"		"#IT_Bodygroup_RightArm"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"385"
-			"ypos"			"0"
+			
 			"zpos"			"1"
 			"wide"			"150"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 		"HideBodygroupCheckBox7"
 		{
@@ -427,19 +427,19 @@
 			"fieldName"		"HideBodygroupCheckBox7"
 			"labelText"		"#IT_Bodygroup_Shoes_Socks"
 			"Font"			"ItemFontAttribSmall"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"385"
 			"ypos"			"25"
 			"zpos"			"1"
 			"wide"			"150"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"disabledfgcolor2_override"	"117 107 94 255"
+			
+			
+			//"visible"		"1"
+			
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			"disabledfgcolor2_override"	"TanDark"
 		}
 	}
 	
@@ -451,7 +451,7 @@
 		"ypos"			"200"
 		"wide"			"530"
 		"tall"			"50"
-		"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		
 		"PaintColorLabel"
@@ -460,16 +460,16 @@
 			"fieldName"		"PaintColorLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_PaintTitle"
-			"textAlignment"	"west"
-			"xpos"			"0"
-			"ypos"			"0"
+			//"textAlignment"	"west"
+			
+			
 			"zpos"			"1"
 			"wide"			"95"
 			"tall"			"15"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		"PaintColorComboBox"
 		{
@@ -477,26 +477,26 @@
 			"fieldName"			"PaintColorComboBox"
 			"Font"				"ItemFontAttribSmall"
 			"xpos"				"99"
-			"ypos"				"0"
+			//"ypos"				"0"
 			"zpos"				"1"
 			"wide"				"140"
 			"tall"				"15"
-			"autoResize"		"0"
-			"pinCorner"			"0"
-			"visible"			"1"
-			"enabled"			"1"
+			
+			
+			//"visible"			"1"
+			
 			"tabPosition"		"1"
-			"textHidden"		"0"
+			//"textHidden"		"0"
 			"editable"			"0"
 			"maxchars"			"-1"
 			"NumericInputOnly"	"0"
-			"unicode"			"0"
+			//"unicode"			"0"
 			
-			"fgcolor_override"	"117 107 94 255"
+			"fgcolor_override"	"TanDark"
 			"bgcolor_override"	"251 235 202 0"
 			"disabledFgColor_override" "117 107 94 0"
 			"disabledBgColor_override" "251 235 202 0"
-			"selectionColor_override" "0 0 0 0"
+			"selectionColor_override" "Blank"
 			"selectionTextColor_override" "117 107 94 255"
 			"defaultSelectionBG2Color_override" "251 235 202 255"
 		}
@@ -507,16 +507,16 @@
 			"fieldName"		"UnusualEffectLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"#IT_UnusualTitle"
-			"textAlignment"	"west"
-			"xpos"			"0"
+			//"textAlignment"	"west"
+			
 			"ypos"			"25"
 			"zpos"			"1"
 			"wide"			"95"
 			"tall"			"15"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 		"UnusualEffectComboBox"
 		{
@@ -528,22 +528,22 @@
 			"zpos"				"1"
 			"wide"				"140"
 			"tall"				"15"
-			"autoResize"		"0"
-			"pinCorner"			"0"
-			"visible"			"1"
-			"enabled"			"1"
+			
+			
+			//"visible"			"1"
+			
 			"tabPosition"		"1"
-			"textHidden"		"0"
+			//"textHidden"		"0"
 			"editable"			"0"
 			"maxchars"			"-1"
 			"NumericInputOnly"	"0"
-			"unicode"			"0"
+			//"unicode"			"0"
 			
-			"fgcolor_override"	"117 107 94 255"
+			"fgcolor_override"	"TanDark"
 			"bgcolor_override"	"251 235 202 0"
 			"disabledFgColor_override" "117 107 94 0"
 			"disabledBgColor_override" "251 235 202 0"
-			"selectionColor_override" "0 0 0 0"
+			"selectionColor_override" "Blank"
 			"selectionTextColor_override" "117 107 94 255"
 			"defaultSelectionBG2Color_override" "251 235 202 255"
 		}
@@ -558,17 +558,17 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"25"
-		"autoResize"	"0"
+		
 		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		//"visible"		"1"
+		
+		
 		"labelText"		"#Cancel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -582,17 +582,17 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"25"
-		"autoResize"	"0"
+		
 		"pinCorner"		"3"
-		"visible"		"1"
+		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"	"0"
+		
 		"labelText"		"#GameUI_Ok"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
 		"Command"		"ok"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -607,17 +607,17 @@
 		"zpos"			"25"
 		"wide"			"30"
 		"tall"			"15"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"R"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"reloadscheme"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

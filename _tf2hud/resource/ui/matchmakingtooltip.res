@@ -22,7 +22,7 @@
 
 			if_small
 			{
-				"font"	"TFFontMedium"
+				"font"	"FontStoreOriginalPrice"
 			}
 
 			if_medium

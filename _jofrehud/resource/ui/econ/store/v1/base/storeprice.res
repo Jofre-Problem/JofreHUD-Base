@@ -15,7 +15,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Price"
-		"font"			"TFFontMedium"
+		"font"			"FontStorePrice"
 		"textAlignment"	"east"
 		"zpos"			"15"
 		"wide"			"85"
@@ -32,7 +32,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"OG_Price"
-		"font"			"TFFontMedium"
+		"font"			"FontStoreOriginalPrice"
 		"textAlignment"	"east"
 		
 		"tall"			"12"
@@ -62,7 +62,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Discount"
-		"font"			"TFFontMedium"
+		"font"			"FontStorePrice"
 		//"textAlignment"	"west"
 		"zpos"			"15"
 		"wide"			"87"
@@ -81,7 +81,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"New"
-		"font"			"TFFontMedium"
+		"font"			"FontStorePrice"
 		"textAlignment"	"east"
 		"zpos"			"15"
 		"wide"			"85"
@@ -101,7 +101,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Highlighted"
-		"font"			"TFFontMedium"
+		"font"			"FontStorePrice"
 		"textAlignment"	"east"
 		
 		
@@ -123,7 +123,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Sale"
-		"font"			"TFFontMedium"
+		"font"			"FontStorePrice"
 		"textAlignment"	"east"
 		"zpos"			"15"
 		"wide"			"85"

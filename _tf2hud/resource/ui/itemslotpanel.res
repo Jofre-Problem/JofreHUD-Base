@@ -56,7 +56,7 @@
 			
 			"attriblabel"
 			{
-				"font"			"HudFontSmallest"
+				"font"			"ItemFontAttribLarge"
 				"visible"		"0"
 			}
 			

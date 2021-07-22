@@ -136,7 +136,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"MatchmakingBanDurationLabel"
-			"font"			"TFFontMedium"
+			"font"			"MMenuPlayListDesc"
 			"fgcolor_override"	"RedSolid"
 			"labelText"		"#TF_Matchmaking_Ban_Duration_Remaining"
 			"textalignment"	"south-west"
@@ -159,7 +159,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DescLabel"
-		"font"			"TFFontMedium"
+		"font"			"MMenuPlayListDesc"
 		"labelText"		"%desc_token%"
 		"textAlignment"	"north-west"
 		"xpos"			"rs1"
@@ -181,7 +181,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DescLabelShadow"
-		"font"			"TFFontMedium"
+		"font"			"MMenuPlayListDesc"
 		"labelText"		"%desc_token%"
 		"textAlignment"	"north-west"
 		"xpos"			"rs1+1"

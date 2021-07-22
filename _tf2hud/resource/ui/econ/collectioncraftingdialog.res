@@ -161,7 +161,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"SaxtonMessage"
-				"font"			"TFFontMedium"
+				"font"			"TradeUp_Quote"
 				"textAlignment"	"north-west"
 				"xpos"			"p0.63"
 				"ypos"			"p0.35"

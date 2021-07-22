@@ -74,7 +74,7 @@
 			"command"		"toggle_collapse"
 			"labeltext"		"#TF_Casual_ViewMaps"
 			//"textAlignment"	"west"
-			"font"	"TFFontMedium"
+			"font"	"MMenuPlayListDesc"
 			"textinsetx"	"40"
 
 			"stay_armed_on_click"	"1"
@@ -197,7 +197,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"DescLabel"
-			"font"			"TFFontMedium"
+			"font"			"MMenuPlayListDesc"
 			"labelText"		"%desc_token%"
 			"textAlignment"	"north-west"
 			"xpos"			"rs1-5"
@@ -220,7 +220,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"DescLabelShadow"
-			"font"			"TFFontMedium"
+			"font"			"MMenuPlayListDesc"
 			"labelText"		"%desc_token%"
 			"textAlignment"	"north-west"
 			"xpos"			"rs1-4"

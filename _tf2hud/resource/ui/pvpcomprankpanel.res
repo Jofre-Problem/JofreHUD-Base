@@ -1,4 +1,4 @@
-\\#base "PvPRankPanel.res"
+//#base "PvPRankPanel.res"
 
 "Resource/UI/PvPRankPanel.res"
 {
@@ -47,7 +47,7 @@
 
 				"fonts"
 				{
-					"0"		"HudFontSmallBold"
+					"0"		"HudFontSmall"
 					"1"		"StorePromotionsTitle"
 					"2"		"FontStorePrice"
 				}
@@ -56,7 +56,7 @@
 
 		"StatsContainer"
 		{
-			"visible"		"1"
+			//"visible"		"1"
 
 			if_mini
 			{
@@ -71,7 +71,7 @@
 
 				"CurrentXPLabel"
 				{
-					"visible"		"1"
+					//"visible"		"1"
 
 					if_mini
 					{

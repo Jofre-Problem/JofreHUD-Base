@@ -252,7 +252,7 @@
 			{
 				"0"		"HudFontSmallest"
 				"1"		"StorePromotionsTitle"
-				"2"		"TFFontMedium"
+				"2"		"FontStorePrice"
 			}
 		}
 
@@ -283,7 +283,7 @@
 			{
 				"0"		"HudFontSmallest"
 				"1"		"StorePromotionsTitle"
-				"2"		"TFFontMedium"
+				"2"		"FontStorePrice"
 			}
 
 			"colors"

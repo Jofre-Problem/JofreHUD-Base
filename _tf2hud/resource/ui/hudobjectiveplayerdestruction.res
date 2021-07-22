@@ -4,13 +4,13 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusRobotDestruction"
-		"xpos"				"0"
-		"ypos"				"0"
+		//"xpos"				"0"
+		//"ypos"				"0"
 		"zpos"				"1"
 		"wide"				"f0"
 		"tall"				"480"
-		"visible"			"1"
-		"enabled"			"1"
+		//"visible"			"1"
+		
 
 		"left_steal_edge_offset"	"97"
 		"right_steal_edge_offset"	"97"
@@ -31,15 +31,15 @@
 		"robot_kv"
 		{
 			"ControlName"	"CTFHudRobotDestruction_RobotIndicator"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"wide"			"20"
 			"tall"			"20"
-			"visible"		"1"
-			"bgcolor_override"		"0 0 0 0"
-			"PaintBackgroundType"	"0"
-			"paintborder"	"0"
-			"AutoResize" "0"
+			//"visible"		"1"
+			"bgcolor_override"		"Blank"
+			//"PaintBackgroundType"	"0"
+			//"paintborder"	"0"
+			
 			"skip_autoresize" "1"
 		}
 	}	
@@ -48,20 +48,17 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayingTo"
-		"xpos"			"c-70"	[$WIN32]
-		"xpos"			"c-60"	[$X360]
-		"ypos"			"r28"	[$WIN32]
-		"ypos"			"r48"	[$X360]
+		"xpos"			"c-70"	
+		"ypos"			"r28"	
 		"zpos"			"4"
-		"wide"			"140"	[$WIN32]
-		"wide"			"120"	[$X360]
+		"wide"			"140"	
 		"tall"			"30"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"labelText"		"#TF_PlayingTo"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"font"			"HudFontSmall"
 		"fgcolor"		"TanLight"
 		
@@ -85,17 +82,12 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayingToBG"
-		"xpos"			"c-75"	[$WIN32]
-		"xpos"			"c-70"	[$X360]
-		"ypos"			"r31"	[$WIN32]
-		"ypos"			"r51"	[$X360]
+		"xpos"			"c-75"	
+		"ypos"			"r31"	
 		"zpos"			"3"
-		"wide"			"150"	[$WIN32]
-		"wide"			"140"	[$X360]
-		"tall"			"38"	[$WIN32]
-		"tall"			"35"	[$X360]
-		"visible"		"1"
-		"enabled"		"1"
+		"wide"			"150"	
+		"tall"			"38"	
+		
 		"image"			"../hud/objectives_flagpanel_bg_playingto"
 		//"image_hidef"	"../hud/objectives_flagpanel_bg_playingto_hidef"
 		"scaleImage"	"1"	
@@ -120,14 +112,14 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"CarriedContainer"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"r100"
 		"zpos"				"1"
 		"wide"				"100"
 		"tall"				"100"
 		"visible"			"0"
-		"enabled"			"1"
-		"bgcolor_override"		"0 0 0 0"
+		
+		"bgcolor_override"		"Blank"
 	
 		"CarriedImage"
 		{
@@ -138,8 +130,8 @@
 			"zpos"			"4"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"image"			"../hud/hud_obj_status_ammo_64"
 			"scaleImage"	"1"
 			"proportionalToParent"	"1"
@@ -149,9 +141,9 @@
 		{
 			"fieldName"				"CarriedProgressBar"
 			"ControlName"			"ImagePanel"
-			"xpos"					"0"
-			"ypos"					"0"
-			"zpos"					"0"
+			
+			
+			
 			"wide"					"f0"
 			"tall"					"f0"
 			"scaleimage"			"0"
@@ -168,11 +160,11 @@
 			"zpos"			"4"
 			"wide"			"25"
 			"tall"			"15"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"textAlignment"	"center"	
 			"labelText"		"%flagvalue%"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"fgcolor"		"TanLight"	
 			"proportionalToParent"	"1"	
 		}	
@@ -186,11 +178,11 @@
 			"zpos"			"3"
 			"wide"			"25"
 			"tall"			"15"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"textAlignment"	"center"	
 			"labelText"		"%flagvalue%"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"fgcolor"		"Black"	
 			"proportionalToParent"	"1"	
 		}
@@ -204,9 +196,9 @@
 			"zpos"			"1"
 			"wide"			"40"
 			"tall"			"18"
-			"visible"		"1"
-			"enabled"		"1"
-			"PaintBackgroundType"	"0"
+			//"visible"		"1"
+			
+			//"PaintBackgroundType"	"0"
 			"bgcolor_override"	"TanLight"
 		}	
 	
@@ -219,9 +211,9 @@
 			"zpos"			"2"
 			"wide"			"38"
 			"tall"			"16"
-			"visible"		"1"
-			"enabled"		"1"
-			"PaintBackgroundType"	"0"
+			//"visible"		"1"
+			
+			//"PaintBackgroundType"	"0"
 			"bgcolor_override"	"CreditsGreen"
 		}
 
@@ -235,7 +227,7 @@
 			"wide"			"15"
 			"tall"			"15"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"image"			"importtool_goldstar"
 			"scaleImage"	"1"	
 		}
@@ -247,12 +239,12 @@
 		"ControlName"			"EditablePanel"
 		"xpos"					"c-200"
 		"ypos"					"r131"
-		"zpos"					"0"
+		
 		"wide"					"400"
 		"tall"					"120"
 		"scaleimage"			"0"
-		"visible"				"1"
-		"enabled"				"1"
+		
+		
 
 		"ProgressBarContainer"
 		{
@@ -263,22 +255,22 @@
 			"zpos"					"1"
 			"wide"					"300"
 			"tall"					"60"
-			"visible"				"1"
-			"enabled"				"1"
+			
+			
 			"proportionalToParent"	"1"
 		
 			"ScoreOutline"
 			{
 				"fieldName"				"ScoreOutline"
 				"ControlName"			"ImagePanel"
-				"xpos"					"0"
-				"ypos"					"0"
+				
+				
 				"zpos"					"10"
 				"wide"					"f0"
 				"tall"					"f0"
 				"scaleimage"			"1"
-				"visible"				"1"
-				"enabled"				"1"
+				
+				
 				"Image"					"../hud/objectives_corepanel_bg"
 				"proportionalToParent"	"1"
 			}
@@ -292,8 +284,8 @@
 				"zpos"			"4"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"image"			"../hud/hud_obj_status_ammo_64"
 				"scaleImage"	"1"
 				"proportionalToParent"	"1"
@@ -308,11 +300,11 @@
 				"zpos"			"4"
 				"wide"			"25"
 				"tall"			"16"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"textAlignment"	"center"	
 				"labelText"		"%blue_escrow%"
-				"font"			"HudFontMediumSmallBold"
+				"font"			"HudFontMediumSmall"
 				"fgcolor"		"TanLight"		
 				"proportionalToParent"	"1"
 			}
@@ -326,11 +318,11 @@
 				"zpos"			"4"
 				"wide"			"25"
 				"tall"			"16"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"textAlignment"	"center"	
 				"labelText"		"%blue_escrow%"
-				"font"			"HudFontMediumSmallBold"
+				"font"			"HudFontMediumSmall"
 				"fgcolor"		"Black"		
 				"proportionalToParent"	"1"
 			}
@@ -344,8 +336,8 @@
 				"zpos"			"4"
 				"wide"			"14"
 				"tall"			"14"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"image"			"../hud/hud_obj_status_ammo_64"
 				"scaleImage"	"1"
 				"proportionalToParent"	"1"
@@ -360,11 +352,11 @@
 				"zpos"			"4"
 				"wide"			"25"
 				"tall"			"16"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"textAlignment"	"center"	
 				"labelText"		"%red_escrow%"
-				"font"			"HudFontMediumSmallBold"
+				"font"			"HudFontMediumSmall"
 				"fgcolor"		"TanLight"		
 				"proportionalToParent"	"1"
 			}
@@ -378,11 +370,11 @@
 				"zpos"			"4"
 				"wide"			"25"
 				"tall"			"16"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"textAlignment"	"center"	
 				"labelText"		"%red_escrow%"
-				"font"			"HudFontMediumSmallBold"
+				"font"			"HudFontMediumSmall"
 				"fgcolor"		"Black"		
 				"proportionalToParent"	"1"
 			}
@@ -397,23 +389,23 @@
 				"wide"					"f0"
 				"tall"					"f0"
 				"visible"				"0"
-				"enabled"				"1"
+				
 				"proportionalToParent"	"1"
 
 				"VictoryLabel"
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabel"
-					"xpos"			"0"
-					"ypos"			"0"
+					
+					
 					"zpos"			"8"
 					"wide"			"95"
 					"tall"			"35"
-					"visible"		"1"
-					"enabled"		"1"
-					"textAlignment"	"west"	
+					//"visible"		"1"
+					
+					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"fgcolor"		"TanLight"		
 					"proportionalToParent"	"1"
 				}
@@ -427,11 +419,11 @@
 					"zpos"			"7"
 					"wide"			"95"
 					"tall"			"35"
-					"visible"		"1"
-					"enabled"		"1"
-					"textAlignment"	"west"	
+					//"visible"		"1"
+					
+					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"fgcolor"		"Black"		
 					"proportionalToParent"	"1"
 				}
@@ -440,16 +432,16 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelTime"
-					"xpos"			"0"
-					"ypos"			"0"
+					
+					
 					"zpos"			"8"
 					"wide"			"55"
 					"tall"			"35"
-					"visible"		"1"
-					"enabled"		"1"
-					"textAlignment"	"west"	
+					//"visible"		"1"
+					
+					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"fgcolor"		"TanLight"		
 					"proportionalToParent"	"1"
 
@@ -467,11 +459,11 @@
 					"zpos"			"7"
 					"wide"			"55"
 					"tall"			"35"
-					"visible"		"1"
-					"enabled"		"1"
-					"textAlignment"	"west"	
+					//"visible"		"1"
+					
+					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"fgcolor"		"Black"		
 					"proportionalToParent"	"1"
 
@@ -485,13 +477,13 @@
 			{
 				"fieldName"				"BlueProgressBarFill"
 				"ControlName"			"ImagePanel"
-				"xpos"					"0"
-				"ypos"					"0"
+				
+				
 				"zpos"					"2"
 				"wide"					"150"
 				"tall"					"f0"
 				"scaleimage"			"0"
-				"visible"				"1"
+				
 				"proportionalToParent"	"1"
 				"positionImage"			"0"
 				"drawcolor"				"84 111 127 255"
@@ -510,13 +502,13 @@
 			{
 				"fieldName"				"BlueProgressBarEscrow"
 				"ControlName"			"ImagePanel"
-				"xpos"					"0"
-				"ypos"					"0"
+				
+				
 				"zpos"					"1"
 				"wide"					"150"
 				"tall"					"f0"
 				"scaleimage"			"0"
-				"visible"				"1"
+				
 				"proportionalToParent"	"1"
 				"positionImage"			"0"
 				"drawcolor"				"141 160 171 255"
@@ -541,7 +533,7 @@
 				"wide"					"f0"
 				"tall"					"f0"
 				"visible"				"0"
-				"enabled"				"1"
+				
 				"proportionalToParent"	"1"
 
 				"VictoryLabel"
@@ -549,15 +541,15 @@
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabel"
 					"xpos"			"140"
-					"ypos"			"0"
+					
 					"zpos"			"8"
 					"wide"			"90"
 					"tall"			"35"
-					"visible"		"1"
-					"enabled"		"1"
-					"textAlignment"	"west"	
+					//"visible"		"1"
+					
+					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"fgcolor"		"TanLight"		
 					"proportionalToParent"	"1"
 				}
@@ -571,11 +563,11 @@
 					"zpos"			"7"
 					"wide"			"90"
 					"tall"			"35"
-					"visible"		"1"
-					"enabled"		"1"
-					"textAlignment"	"west"	
+					//"visible"		"1"
+					
+					//"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"fgcolor"		"Black"		
 					"proportionalToParent"	"1"
 				}
@@ -584,16 +576,16 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelTime"
-					"xpos"			"0"
-					"ypos"			"0"
+					
+					
 					"zpos"			"8"
 					"wide"			"55"
 					"tall"			"35"
-					"visible"		"1"
-					"enabled"		"1"
-					"textAlignment"	"west"	
+					//"visible"		"1"
+					
+					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"fgcolor"		"TanLight"		
 					"proportionalToParent"	"1"
 
@@ -611,11 +603,11 @@
 					"zpos"			"7"
 					"wide"			"55"
 					"tall"			"35"
-					"visible"		"1"
-					"enabled"		"1"
-					"textAlignment"	"west"	
+					//"visible"		"1"
+					
+					//"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
-					"font"			"HudFontSmallBold"
+					"font"			"HudFontSmall"
 					"fgcolor"		"Black"		
 					"proportionalToParent"	"1"
 
@@ -630,13 +622,13 @@
 				"fieldName"				"RedProgressBarFill"
 				"ControlName"			"ImagePanel"
 				"xpos"					"150"
-				"ypos"					"0"
+				
 				"zpos"					"2"
 				"wide"					"150"
 				"tall"					"f0"
 				"scaleimage"			"0"
 				"positionImage"			"0"
-				"visible"				"1"
+				
 				"proportionalToParent"	"1"
 				"drawcolor"				"171 59 59 255"
 				"Image"					"../hud/objectives_corepanel_meter_solid_right"
@@ -655,13 +647,13 @@
 				"fieldName"				"RedProgressBarEscrow"
 				"ControlName"			"ImagePanel"
 				"xpos"					"150"
-				"ypos"					"0"
+				
 				"zpos"					"1"
 				"wide"					"150"
 				"tall"					"f0"
 				"scaleimage"			"0"
 				"positionImage"			"0"
-				"visible"				"1"
+				
 				"proportionalToParent"	"1"
 				"drawcolor"				"212 151 151 255"
 				"Image"					"../hud/objectives_corepanel_meter_right"
@@ -685,9 +677,9 @@
 			"zpos"				"10"
 			"wide"				"60"
 			"tall"				"60"
-			"visible"			"1"
-			"enabled"			"1"
-			"bgcolor_override"		"0 0 0 0"
+			//"visible"			"1"
+			
+			"bgcolor_override"		"Blank"
 			"proportionalToParent"	"1"
 
 			"Score"
@@ -699,11 +691,11 @@
 				"zpos"			"8"
 				"wide"			"55"
 				"tall"			"35"
-				"visible"		"1"
-				"enabled"		"1"
-				"textAlignment"	"west"	
+				//"visible"		"1"
+				
+				//"textAlignment"	"west"	
 				"labelText"		"%score%"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				//"font_hidef"	"HudFontGiant"
 				//"font_lodef"	"HudFontGiant"
 				"fgcolor"		"TanLight"		
@@ -719,11 +711,11 @@
 				"zpos"			"7"
 				"wide"			"55"
 				"tall"			"35"
-				"visible"		"1"
-				"enabled"		"1"
-				"textAlignment"	"west"	
+				//"visible"		"1"
+				
+				//"textAlignment"	"west"	
 				"labelText"		"%score%"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				//"font_hidef"	"HudFontGiant"
 				//"font_lodef"	"HudFontGiant"
 				"fgcolor"		"Black"		
@@ -740,9 +732,9 @@
 			"zpos"				"10"
 			"wide"				"60"
 			"tall"				"60"
-			"visible"			"1"
-			"enabled"			"1"
-			"bgcolor_override"		"0 0 0 0"
+			//"visible"			"1"
+			
+			"bgcolor_override"		"Blank"
 			"proportionalToParent"	"1"
 
 			"Score"
@@ -754,11 +746,11 @@
 				"zpos"			"8"
 				"wide"			"55"
 				"tall"			"35"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"textAlignment"	"east"	
 				"labelText"		"%score%"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				//"font_hidef"	"HudFontGiant"
 				//"font_lodef"	"HudFontGiant"
 				"fgcolor"		"TanLight"	
@@ -774,11 +766,11 @@
 				"zpos"			"7"
 				"wide"			"55"
 				"tall"			"35"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"textAlignment"	"east"	
 				"labelText"		"%score%"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				//"font_hidef"	"HudFontGiant"
 				//"font_lodef"	"HudFontGiant"
 				"fgcolor"		"Black"		
@@ -795,9 +787,9 @@
 			"zpos"				"1"
 			"wide"				"30"
 			"tall"				"40"
-			"visible"			"1"
-			"enabled"			"1"
-			"bgcolor_override"		"0 0 0 0"
+			//"visible"			"1"
+			
+			"bgcolor_override"		"Blank"
 			"proportionalToParent"	"1"
 
 			"IntelImage"
@@ -810,7 +802,7 @@
 				"wide"			"21"
 				"tall"			"21"
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"image"			"../HUD/obj_thief_red"
 				"scaleImage"	"1"
 				"proportionalToParent"	"1"
@@ -820,14 +812,14 @@
 			{
 				"ControlName"		"EditablePanel"
 				"fieldName"			"DroppedIntelContainer"
-				"xpos"				"0"
+				//"xpos"				"0"
 				"ypos"				"20"
 				"zpos"				"1"
 				"wide"				"f0"
 				"tall"				"f0"
-				"visible"			"1"
-				"enabled"			"1"
-				"bgcolor_override"		"0 0 0 0"
+				//"visible"			"1"
+				
+				"bgcolor_override"		"Blank"
 				
 				"proportionalToParent"	"1"
 
@@ -835,13 +827,13 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"DroppedIntelImage"
-					"xpos"			"0"
-					"ypos"			"0"
-					"zpos"			"0"
+					
+					
+					
 					"wide"			"f0"
 					"tall"			"20"
-					"visible"		"1"
-					"enabled"		"1"
+					//"visible"		"1"
+					
 					"image"			"../HUD/obj_rd_thief_dropped_blue"
 					"scaleImage"	"1"
 					"proportionalToParent"	"1"
@@ -852,18 +844,18 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"IntelValue"
-				"xpos"			"0"
-				"ypos"			"0"
+				
+				
 				"zpos"			"12"
 				"wide"			"f0"
 				"tall"			"20"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
-				"font"			"HudFontSmallishBold"
+				"font"			"FontCartPrice"
 				"fgcolor"		"TanLight"		
-				"bgcolor_override"		"0 0 0 0"
+				"bgcolor_override"		"Blank"
 				"proportionalToParent"	"1"
 			}
 
@@ -876,11 +868,11 @@
 				"zpos"			"11"
 				"wide"			"f0"
 				"tall"			"20"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
-				"font"			"HudFontSmallishBold"	
+				"font"			"FontCartPrice"	
 				"fgcolor"		"Black"
 				"proportionalToParent"	"1"
 			}
@@ -895,9 +887,9 @@
 			"zpos"				"1"
 			"wide"				"30"
 			"tall"				"40"
-			"visible"			"1"
-			"enabled"			"1"
-			"bgcolor_override"		"0 0 0 0"
+			//"visible"			"1"
+			
+			"bgcolor_override"		"Blank"
 			"proportionalToParent"	"1"
 
 			"IntelImage"
@@ -910,7 +902,7 @@
 				"wide"			"21"
 				"tall"			"21"
 				"visible"		"0"
-				"enabled"		"1"
+				
 				"image"			"../HUD/obj_thief_blue"
 				"scaleImage"	"1"
 				"proportionalToParent"	"1"
@@ -920,14 +912,14 @@
 			{
 				"ControlName"		"EditablePanel"
 				"fieldName"			"DroppedIntelContainer"
-				"xpos"				"0"
+				//"xpos"				"0"
 				"ypos"				"20"
 				"zpos"				"1"
 				"wide"				"f0"
 				"tall"				"f0"
-				"visible"			"1"
-				"enabled"			"1"
-				"bgcolor_override"		"0 0 0 0"
+				//"visible"			"1"
+				
+				"bgcolor_override"		"Blank"
 				
 				"proportionalToParent"	"1"
 
@@ -935,13 +927,13 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"DroppedIntelImage"
-					"xpos"			"0"
-					"ypos"			"0"
-					"zpos"			"0"
+					
+					
+					
 					"wide"			"f0"
 					"tall"			"20"
-					"visible"		"1"
-					"enabled"		"1"
+					//"visible"		"1"
+					
 					"image"			"../HUD/obj_rd_thief_dropped_red"
 					"scaleImage"	"1"
 					"proportionalToParent"	"1"
@@ -952,18 +944,18 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"IntelValue"
-				"xpos"			"0"
-				"ypos"			"0"
+				
+				
 				"zpos"			"12"
 				"wide"			"f0"
 				"tall"			"20"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
-				"font"			"HudFontSmallishBold"
+				"font"			"FontCartPrice"
 				"fgcolor"		"TanLight"		
-				"bgcolor_override"		"0 0 0 0"
+				"bgcolor_override"		"Blank"
 				"proportionalToParent"	"1"
 			}
 
@@ -976,11 +968,11 @@
 				"zpos"			"11"
 				"wide"			"f0"
 				"tall"			"20"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
-				"font"			"HudFontSmallishBold"	
+				"font"			"FontCartPrice"	
 				"fgcolor"		"Black"	
 				"proportionalToParent"	"1"
 			}
@@ -997,7 +989,7 @@
 		"wide"					"300"
 		"tall"					"110"
 		"visible"				"0"
-		"enabled"				"1"
+		
 
 		"Background"
 		{
@@ -1008,8 +1000,8 @@
 			"zpos"			"1"
 			"wide"			"90"
 			"tall"			"45"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"image"			"../hud/ammo_blue_bg"
 			"scaleImage"	"1"	
 			"teambg_2"		"../hud/ammo_red_bg"
@@ -1027,7 +1019,7 @@
 			"wide"			"35"
 			"tall"			"35"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"image"			"../hud/arrow_big_down"
 			"scaleImage"		"1"	
 			"proportionalToParent"	"1"
@@ -1042,11 +1034,11 @@
 			"zpos"			"8"
 			"wide"			"35"
 			"tall"			"35"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"textAlignment"	"center"	
 			"labelText"		"%countdowntime%"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			"fgcolor"		"TanLight"		
 			"proportionalToParent"	"1"
 		}
@@ -1060,11 +1052,11 @@
 			"zpos"			"7"
 			"wide"			"35"
 			"tall"			"35"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"textAlignment"	"center"	
 			"labelText"		"%countdowntime%"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			"fgcolor"		"Black"		
 			"proportionalToParent"	"1"
 		}

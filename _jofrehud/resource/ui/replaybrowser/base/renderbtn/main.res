@@ -15,7 +15,7 @@
 		
 		
 		"labelText"		"#Replay_RenderNow"
-		"font"			"HudFontSmallest"
+		"font"			"ReplayMediumSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"

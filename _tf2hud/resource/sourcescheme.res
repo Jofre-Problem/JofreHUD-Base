@@ -82,7 +82,7 @@ Scheme
 		FrameGrip.Color1				"TFTanMedium"
 		FrameGrip.Color2				"TFDarkBrown"
 		FrameTitleButton.FgColor		"TFTanBright"
-		FrameTitleBar.Font			"DefaultLarge"		[$WIN32]
+		FrameTitleBar.Font			"DefaultLarge"		//[$WIN32]
 		FrameTitleBar.TextColor			"TFTanBright"
 		FrameTitleBar.DisabledTextColor	"TFTanLight"
 		
@@ -99,8 +99,8 @@ Scheme
 		ListPanel.SelectedBgColor			"SelectionBG"
 		ListPanel.SelectedOutOfFocusBgColor	"SelectionBG2"
 		
-		MainMenu.TextColor			"TanLight"			[$WIN32]
-		MainMenu.ArmedTextColor		"117 107 94 255"	[$WIN32]
+		MainMenu.TextColor			"TanLight"			//[$WIN32]
+		MainMenu.ArmedTextColor		"117 107 94 255"	//[$WIN32]
 		MainMenu.Inset				"32"
 		
 		Menu.TextInset					"6"
@@ -135,7 +135,7 @@ Scheme
 	{
 		"MainMenuFont"
 		{
-			"1"	[$WIN32]
+			"1"	//[$WIN32]
 			{
 				"name"		"Segoe UI"
 				"tall"		"18"
@@ -146,9 +146,9 @@ Scheme
 		}
 		"MenuLarge"
 		{
-			"1"	[$X360]
+			"1"	//[$X360]
 			{
-				////"tall_hidef"		"24"
+				//"tall_hidef"		"24"
 			}
 		}
 
@@ -158,7 +158,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"35"
-				////"tall_lodef"	"40"
+				//"tall_lodef"	"40"
 				"weight"	"500"
 				//"additive"	"0"
 				"antialias" "1"
@@ -223,7 +223,7 @@ Scheme
 		}
 		
 				
-		AchievementItemTitle	[$WIN32]
+		AchievementItemTitle	//[$WIN32]
 		{
 			"1"
 			{
@@ -236,7 +236,7 @@ Scheme
 			}
 		}
 		
-		AchievementItemTitleLarge	[$WIN32]
+		AchievementItemTitleLarge	//[$WIN32]
 		{
 			"1"
 			{
@@ -249,7 +249,7 @@ Scheme
 			}
 		}
 		
-		AchievementItemDescription	[$WIN32]
+		AchievementItemDescription	//[$WIN32]
 		{
 			"1"
 			{

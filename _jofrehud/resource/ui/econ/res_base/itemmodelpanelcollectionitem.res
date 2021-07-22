@@ -51,7 +51,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"namelabel"
-			"font"			"Default"
+			"font"			"MenuKeys"
 			
 			
 			"zpos"			"2"
@@ -91,7 +91,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"collectionnamelabel"
-			"font"			"Default"
+			"font"			"MenuKeys"
 			"xpos"			"100"
 			"ypos"			"30"
 			"zpos"			"2"
