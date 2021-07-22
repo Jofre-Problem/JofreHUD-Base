@@ -1,4 +1,4 @@
-//#base "SurveyPanel_Base.res"
+#base "SurveyPanel_Base.res"
 
 "Resource/UI/SurveyPanel_RandomCrit.res"
 {

@@ -1,4 +1,4 @@
-//#base "StorePage.res"
+#base "StorePage.res"
 
 "Resource/UI/StorePage_Maps.res"
 {

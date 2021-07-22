@@ -60,7 +60,7 @@
 			"proportionaltoparent"	"1"
 
 			"mouseinputenabled"	"0"
-			"keyboardinputenabled" "	0"
+			"keyboardinputenabled" "0"
 			"bgcolor_override"	"43 43 43 255"
 			//"paintbackground"	"1"
 		}

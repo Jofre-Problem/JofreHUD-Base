@@ -1,4 +1,4 @@
-//#base "ConfirmApplyStrangifierDialog.res"
+#base "ConfirmApplyStrangifierDialog.res"
 
 "Resource/UI/ConfirmApplyPaintkitDialog.res"
 {

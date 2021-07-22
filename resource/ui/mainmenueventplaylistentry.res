@@ -1,3 +1,3 @@
+#base "MainMenuPlayListEntry.res"
 #base "../../_jofrehud/resource/ui/res_base/mainmenuplaylistentry.res"
-#base "base/filesv1/gradient/main.res"
-#base "../../_jofrehud/resource/ui/res_base/
+#base "../../_tf2hud/resource/ui/mainmenuplaylistentry.res"

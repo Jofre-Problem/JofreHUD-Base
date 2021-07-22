@@ -1,26 +1,32 @@
-#base "../base/filesv1/shade/main.res"
-#base "../base/filesv1/shade/content.res"
-
-#base "../../../#uni_base/filesv1/closebutton/main.res"
-#base "../../../#uni_base/filesv1/closebutton/vis1.res"
-#base "../../../#uni_base/filesv1/closebutton/text/east.res"
-#base "../../../#uni_base/filesv1/closebutton/font/hudfontsmallbold.res"
-#base "../../../#uni_base/filesv1/closebutton/ctrl/cex.res"
-#base "../../../#uni_base/filesv1/closebutton/extra/dash.res"
-"Resource/UI/matchmakingdashboardsidepanel.res"
+"Resource/UI/MatchMakingDashboardSidePanel.res"
 {
+	"Shade"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"Shade"
+		"xpos"			"3"
+		
+		"zpos"			"1000"
+		"wide"			"f0"
+		"tall"			"f0"
+		//"visible"		"1"
+		"proportionaltoparent"	"1"
+		"mouseinputenabled"	"0"
+
+		"bgcolor_override"	"0 0 0 255"
+	}
 
 	"TitleGradient"
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"TitleGradient"
 		"xpos"		"3"
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"60"
 		"zpos"	"98"
 		//"visible"		"1"
-		//"enabled"		"1"
+		
 		"rotation"		"3"
 		"proportionaltoparent"	"1"
 		"scaleimage"	"1"
@@ -43,12 +49,12 @@
 			"rotation"		"1"
 		}
 
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"30"
 		"tall"		"f0"
 		"zpos"	"1000"
 		//"visible"		"1"
-		//"enabled"		"1"
+		
 
 		"proportionaltoparent"	"1"
 		"scaleimage"	"1"
@@ -66,24 +72,54 @@
 
 		if_left
 		{
-			"xpos"	"0"
+			
 			"rotation"		"2"
 		}
 
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"20"
 		"tall"		"f0"
 		"zpos"	"1000"
 		//"visible"		"1"
-		//"enabled"		"1"
+		
 
 
 		"proportionaltoparent"	"1"
 		"scaleimage"	"1"
 		"mouseinputenabled"	"0"
-		"alpha"		"255"
+		////"alpha"		"255"
 
 		"image"		"gradient_pure_black"
+	}
+
+	"CloseButton"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"CloseButton"
+		"xpos"			"rs1"
+		"labelText"		">"
+
+		if_left
+		{
+			
+			"labelText"		"<"
+		}
+
+		
+		"zpos"			"10000"
+		"wide"			"15"
+		"tall"			"f0"
+		//"visible"		"1"
+		"proportionaltoparent"	"1"
+		"command"		"nav_close"
+
+		"textAlignment"	"east"
+		"font"			"HudFontSmall"
+
+		"armedBgColor_override"	"Blank"
+		"defaultBgColor_override"	"Blank"
+
+		"armedFgColor_override"	"Orange"
 	}
 
 	"ReturnButton"
@@ -99,7 +135,7 @@
 			"labelText"		">"
 		}
 
-		"ypos"			"0"
+		
 		"zpos"			"10000"
 		"wide"			"20"
 		"tall"			"f0"
@@ -108,7 +144,7 @@
 		"command"		"nav_to"
 		"labelText"		"<"
 
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"font"			"HudFontSmall"
 
 		"armedBgColor_override"	"Blank"
@@ -121,8 +157,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGPanel"
-		//"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"f-20"

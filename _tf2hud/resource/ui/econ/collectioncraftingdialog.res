@@ -1,4 +1,4 @@
-//#base "CollectionCraftingDialog_Base.res"
+#base "CollectionCraftingDialog_Base.res"
 
 "Resource/UI/econ/StrangeCountTransferDialog.res"
 {

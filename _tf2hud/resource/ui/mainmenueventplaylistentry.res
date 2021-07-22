@@ -1,4 +1,4 @@
-//#base "MainMenuPlayListEntry.res"
+#base "MainMenuPlayListEntry.res"
 
 "Resource/UI/MainMenuEventPlayListEntry.res"
 {

@@ -1,15 +1,7 @@
 
 Scheme
 {
-	Colors
-	{
 
-	}
-
-	BaseSettings
-	{
-
-	}
 
 	Fonts
 	{
@@ -19,9 +11,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"6"
-				//"weight"	"500"
-				//"additive"	"0"
-				//"antialias" "1"
 			}
 		}
 		"FontStorePriceSmall"
@@ -195,6 +184,17 @@ Scheme
 			}
 		}			
 		"QuestMap_Small"
+		{
+			"1"
+			{
+				"name"		"Segoe UI"
+				"tall"		"7"
+				//"weight"	"0"
+				"blur"		"3"
+				"additive"	"1"
+				//"antialias" 	"1"
+			}
+		}		
 		"QuestObjectiveTracker_DescBlur"
 		{
 			"1"

@@ -1,4 +1,4 @@
-//#base "ItemAdDefault.res"
+#base "ItemAdDefault.res"
 
 "Resource/UI/QuestMapRewardItemPanel.res"
 {
