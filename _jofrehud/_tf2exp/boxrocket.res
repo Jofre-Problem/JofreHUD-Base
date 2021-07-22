@@ -194,21 +194,22 @@ Scheme
 
 		WizardSubPanel.BgColor		"Blank"
 
-		// scheme-specific colors
 		MainMenu.TextColor			"White"
 		MainMenu.ArmedTextColor		"200 200 200 255"
 		MainMenu.DepressedTextColor	"192 186 80 255"
-		MainMenu.MenuItemHeight		"30"
+		MainMenu.MenuItemHeight		"16"
 		MainMenu.Inset				"32"
-		MainMenu.Backdrop			"255 0 0 156"
+		MainMenu.Backdrop			"Blank"
+		// basically the shadow when you open console
 
-		Console.TextColor			"OffWhite"
+		Console.TextColor			"35 240 55 255"
 		Console.DevTextColor		"White"
 
 		NewGame.TextColor			"White"
-		NewGame.FillColor			"0 0 0 255"
+		NewGame.FillColor			"Black"
 		NewGame.SelectionColor		"255 155 0 255"
-		NewGame.DisabledColor		"128 128 128 196"
+		NewGame.SelectionColor		"Black"
+		NewGame.DisabledColor		"Blank"
 
 		DragDrop.DragFrame			"255 255 255 192"
 		DragDrop.DropFrame			"150 255 150 255"

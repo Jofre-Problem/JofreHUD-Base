@@ -2694,7 +2694,7 @@
 		//"brighttext"	"0"
 		"Command"		"vguicancel"
 	}
-	"Footer" //[$X360]
+	"Footer" [$X360]
 	{
 		"ControlName"		"CTFFooter"
 		"fieldName"			"Footer"
@@ -2729,7 +2729,7 @@
 			"icon"		"#GameUI_Icons_A_BUTTON"	
 		}
 	}		
-	"TitleBanner" //[$X360]
+	"TitleBanner" [$X360]
 	{
 		"ControlName"	"ImagePanel"
 		

@@ -49,7 +49,7 @@
 		"font"			"HudFontMediumBig"
 		"labelText"		"%maplabel%"
 		"textAlignment"		"center" 
-		//"textAlignment"		"west" //[$X360]
+		//"textAlignment"		"west" [$X360]
 		"xpos"			"5" 
 		"ypos"			"92"
 		//"ypos_hidef"		"425"
@@ -2532,7 +2532,7 @@
 		//"brighttext"	"0"
 		"Command"		"vguicancel"
 	}
-	"Footer" //[$X360]
+	"Footer" [$X360]
 	{
 		"ControlName"		"CTFFooter"
 		"fieldName"			"Footer"
@@ -2567,7 +2567,7 @@
 			"icon"		"#GameUI_Icons_A_BUTTON"	
 		}
 	}		
-	"TitleBanner" //[$X360]
+	"TitleBanner" [$X360]
 	{
 		"ControlName"	"ImagePanel"
 		

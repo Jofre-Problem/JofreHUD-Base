@@ -107,7 +107,7 @@ Scheme
 		// if a font fails to load then the subsequent fonts will replace
 		Default
 		{
-			"1"	//[$X360]
+			"1"	[$X360]
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"
@@ -325,7 +325,7 @@ Scheme
 		}
 		QuickInfo
 		{
-			"1"	//[$X360]
+			"1"	[$X360]
 			{
 				"name"		"HL2cross"
 				"tall"		"57"
@@ -351,14 +351,14 @@ Scheme
 			{
 				"name"		"HalfLife2"
 				"tall"		"32"	//[$WIN32]
-				"tall"		"38"	//[$X360]
+				"tall"		"38"	[$X360]
 				"weight"	"0"
 				"antialias" "1"
 				"additive"	"1"
 				"custom"	"1"
 			}
 		}
-		SquadIcon	//[$X360]
+		SquadIcon	[$X360]
 		{
 			"1"
 			{
@@ -376,7 +376,7 @@ Scheme
 			{
 				"name"		"HalfLife2"
 				"tall"		"32"	//[$WIN32]
-				"tall"		"38"	//[$X360]
+				"tall"		"38"	[$X360]
 				"weight"	"0"
 				"blur"		"4"
 				"scanlines" "2"
@@ -392,7 +392,7 @@ Scheme
 				"name"		"HalfLife2" [!$OSX]
 				"name"		"Segoe UI" [$OSX]
 				"tall"		"16"	//[$WIN32]
-				"tall"		"22"	//[$X360]
+				"tall"		"22"	[$X360]
 				"weight"	"1000"
 				"additive"	"1"
 				"antialias" "1"
@@ -412,7 +412,7 @@ Scheme
 		}
 		HudHintTextLarge
 		{
-			"1"	//[$X360]
+			"1"	[$X360]
 			{
 				"bitmap"	"1"
 				"name"		"Buttons"
@@ -440,7 +440,7 @@ Scheme
 				"antialias" "1"
 				"additive"	"1"
 			}
-			"1"	//[$X360]
+			"1"	[$X360]
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"
@@ -494,7 +494,7 @@ Scheme
 		}
 		GameUIButtons
 		{
-			"1"	//[$X360]
+			"1"	[$X360]
 			{
 				"bitmap"	"1"
 				"name"		"Buttons"
@@ -523,7 +523,7 @@ Scheme
 				"weight"	"400"
 				"outline"	"1"
 			}
-			"1"	//[$X360]
+			"1"	[$X360]
 			{
 				"name"		"Segoe UI"
 				"tall"		"18"
@@ -730,7 +730,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"13"	//[$WIN32]
-				"tall"		"20"	//[$X360]
+				"tall"		"20"	[$X360]
 				//"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"

@@ -651,7 +651,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"font"			"UiBold"				//[$WIN32]
-		"font"			"HudSelectionText"	//[$X360]
+		"font"			"HudSelectionText"	[$X360]
 	}
 }
 

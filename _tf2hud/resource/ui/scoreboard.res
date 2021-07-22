@@ -1713,7 +1713,7 @@
 		}
 	}
 
-	"ButtonLegendBG"		//[$X360]
+	"ButtonLegendBG"		[$X360]
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ButtonLegendBG"
@@ -1731,7 +1731,7 @@
 		//"PaintBackgroundType"	"0"
 	}
 	
-	"ButtonLegend"		//[$X360]
+	"ButtonLegend"		[$X360]
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ButtonLegend"

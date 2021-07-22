@@ -1176,7 +1176,7 @@
 		//"PaintBackgroundType"	"0"
 	}		
 	
-	"Footer" //[$X360]
+	"Footer" [$X360]
 	{
 		"ControlName"		"CTFFooter"
 		"fieldName"			"Footer"

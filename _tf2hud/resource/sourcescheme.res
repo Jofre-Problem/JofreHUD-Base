@@ -146,7 +146,7 @@ Scheme
 		}
 		"MenuLarge"
 		{
-			"1"	//[$X360]
+			"1"	[$X360]
 			{
 				//"tall_hidef"		"24"
 			}

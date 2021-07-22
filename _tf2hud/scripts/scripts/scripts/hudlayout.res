@@ -17,7 +17,7 @@
 		"digit_xpos" "50"
 		"digit_ypos" "2"
 	}
-	HudHealth //[$X360]
+	HudHealth [$X360]
 	{
 		"fieldName"		"HudHealth"
 		"xpos"	"48"
@@ -52,7 +52,7 @@
 		"digit_xpos" "50"
 		"digit_ypos" "2"
 	}
-	HudSuit //[$X360]
+	HudSuit [$X360]
 	{
 		"fieldName"		"HudSuit"
 		"xpos"	"176"
@@ -89,7 +89,7 @@
 		"digit2_xpos" "98"
 		"digit2_ypos" "16"
 	}
-	HudAmmo	//[$X360]
+	HudAmmo	[$X360]
 	{
 		"fieldName" "HudAmmo"
 		"xpos"	"r208"
@@ -126,7 +126,7 @@
 		"digit_xpos" "36"
 		"digit_ypos" "2"
 	}
-	HudAmmoSecondary	//[$X360]
+	HudAmmoSecondary	[$X360]
 	{
 		"fieldName" "HudAmmoSecondary"
 		"xpos"	"r113"
@@ -173,7 +173,7 @@
 
 		"PaintBackgroundType"	"2"
 	}
-	HudSuitPower	//[$X360]
+	HudSuitPower	[$X360]
 	{
 		"fieldName" "HudSuitPower"
 		//"visible" "1"
@@ -216,7 +216,7 @@
 		"icon_xpos"	"10"
 		"icon_ypos" 	"0"
 	}
-	HudPosture	//[$X360]
+	HudPosture	[$X360]
 	{
 		"fieldName" 		"HudPosture"
 		
@@ -237,9 +237,9 @@
 		"PaintBackgroundType"	"2"
 		"xpos"	"270"		//[$WIN32]
 		"ypos"	"444"		//[$WIN32]
-		//"xpos_hidef"	"293"		//[$X360]		// aligned to left
-		//"xpos_lodef"	"c-18"		//[$X360]		// centered in screen
-		"ypos"	"428"		//[$X360]				
+		//"xpos_hidef"	"293"		[$X360]		// aligned to left
+		//"xpos_lodef"	"c-18"		[$X360]		// centered in screen
+		"ypos"	"428"		[$X360]				
 		"tall"  "24"
 		"wide"	"36"
 		"font"	"WeaponIconsSmall"
@@ -278,14 +278,14 @@
 		"Circle2Radius"	"74"
 		"DashGap"	"16"
 		"DashHeight" "4"	//[$WIN32]
-		"DashHeight" "6"	//[$X360]		
+		"DashHeight" "6"	[$X360]		
 		"BorderThickness" "88"
 	}
 	HudWeaponSelection
 	{
 		"fieldName" "HudWeaponSelection"
 		"ypos" 	"16"	//[$WIN32]
-		"ypos" 	"32"	//[$X360]
+		"ypos" 	"32"	[$X360]
 		//"visible" "1"
 		
 		"SmallBoxSize" "32"
@@ -383,10 +383,10 @@
 		
 		"xpos"		"c-250"
 		"ypos"		"276"	//[$WIN32]
-		"ypos"		"236"	//[$X360]
+		"ypos"		"236"	[$X360]
 		"wide"		"500"
 		"tall"		"136"	//[$WIN32]
-		"tall"		"176"	//[$X360]
+		"tall"		"176"	[$X360]
 
 		"BgAlpha"	"128"
 
@@ -395,7 +395,7 @@
 		"ItemFadeInTime"	"0.15"	// Once ItemHiddenTime is finished, takes this much longer to fade in
 		"ItemFadeOutTime"	"0.3"
 		"topoffset"		"0"		//[$WIN32]
-		"topoffset"		"0"	//[$X360]
+		"topoffset"		"0"	[$X360]
 	}
 
 	HudChat
@@ -426,7 +426,7 @@
 		"text_inset"	"26"
 		"NumberFont"	"HudNumbersSmall"
 	}
-	HudHistoryResource	//[$X360]
+	HudHistoryResource	[$X360]
 	{
 		"fieldName" "HudHistoryResource"
 		//"visible" "1"
@@ -493,8 +493,8 @@
 		
 		"xpos"					"c-240"
 		"ypos"					"c60"
-		"xpos"	"r148"	//[$X360]
-		"ypos"	"r338"	//[$X360]
+		"xpos"	"r148"	[$X360]
+		"ypos"	"r338"	[$X360]
 		"wide"					"480"
 		"tall"					"100"
 		"HintSize"				"1"
@@ -512,8 +512,8 @@
 		
 		"xpos"		"r120"	//[$WIN32]
 		"ypos"		"r340"	//[$WIN32]
-		"xpos"		"r148"	//[$X360]
-		"ypos"		"r338"	//[$X360]
+		"xpos"		"r148"	[$X360]
+		"ypos"		"r338"	[$X360]
 		"wide"		"100"
 		"tall"		"200"
 		"text_xpos"	"8"
@@ -544,7 +544,7 @@
 
 		"PaintBackgroundType"	"2"
 	}
-	HudSquadStatus	//[$X360]
+	HudSquadStatus	[$X360]
 	{
 		"fieldName"	"HudSquadStatus"
 		"visible"	"1"
@@ -579,7 +579,7 @@
 		"TextColor"	"255 170 0 220"
 		"PaintBackgroundType"	"2"
 	}
-	HudPoisonDamageIndicator	//[$X360]
+	HudPoisonDamageIndicator	[$X360]
 	{
 		"fieldName"	"HudPoisonDamageIndicator"
 		"visible"	"0"
@@ -615,8 +615,8 @@
 		
 		"wide"	 "640"	//[$WIN32]
 		"tall"	 "480"	//[$WIN32]
-		"wide"	 "960"	//[$X360]
-		"tall"	 "720"	//[$X360]
+		"wide"	 "960"	[$X360]
+		"tall"	 "720"	[$X360]
 	}
 
 	HudCommentary
@@ -680,7 +680,7 @@
 		
 		"ypos"					"180"
 		"wide"					"f10"	//[$WIN32]
-		"wide"					"f60"	//[$X360]
+		"wide"					"f60"	[$X360]
 		"tall"					"100"
 	}
 
