@@ -1,5 +1,4 @@
 #base "font/default.res"
-//#base "cs_windows.res"
 #base "cs_border_1.res"
 #base "colors/basetext_dim.res"
 #base "colors/control_bgs.res"

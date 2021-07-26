@@ -1,4 +1,5 @@
 #base "cs_fonts_1.res"
+#base "global/bs_1.res"
 #base "cs_global.res"
 #base "cs_border_1.res"
 #base "font/vcr_marlsmall.res"
