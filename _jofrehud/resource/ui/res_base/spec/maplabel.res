@@ -19,7 +19,7 @@
 //		//"autoResize"		"0"
 //		//"pinCorner"		"0"
 //		//"visible"		"1"
-		"visible_minmode"		"0"
+		//"visible_minmode"		"0"
 //		//"enabled"		"1"
 		"labelText"		"map: cp_bridge"
 //		"textAlignment"		"east"

@@ -111,7 +111,7 @@
 			"wide"			"70"
 			"tall"			"70"
 			//"visible"		"1"
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 		}
 		
@@ -124,7 +124,7 @@
 			"wide"			"70"
 			"tall"			"70"
 			//"visible"		"1"
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 		}
 		
@@ -137,7 +137,7 @@
 			"wide"			"70"
 			"tall"			"70"
 			//"visible"		"1"
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 		}
 		
@@ -203,7 +203,7 @@
 		"wide"			"100"
 		"tall"			"200"
 		//"visible"		"1"
-		//"tileImage"		"0"
+		////"tileImage"		"0"
 		"scaleImage"	"1"
 	}
 	
@@ -216,7 +216,7 @@
 		"wide"			"50"
 		"tall"			"50"
 		//"visible"		"1"
-		//"tileImage"		"0"
+		////"tileImage"		"0"
 		"scaleImage"	"1"
 		"alpha"			"32"
 	}

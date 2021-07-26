@@ -12,7 +12,7 @@
 		//"enabled"		"1"
 		"scaleImage"	"1"	
 		"image"			"pipboy_engineer"
-		"tileImage"		"0"
+		//"tileImage"		"0"
 		"tileVertically" "0"
 	}
 }	

@@ -21,7 +21,7 @@
 		
 		
 		"tall"			"84"
-		//"tall_minmode"	"20"	
+		////"tall_minmode"	"20"	
 		"wide"			"f0"
 		
 		
@@ -35,9 +35,9 @@
 		"fieldName"		"BottomBar"
 		
 		"ypos"			"r70"		
-		//"ypos_minmode"	"r20"
+		////"ypos_minmode"	"r20"
 		"tall"			"70"
-		//"tall_minmode"	"0"				
+		////"tall_minmode"	"0"				
 		
 		
 		//"visible"		"1"
@@ -50,14 +50,14 @@
 		"fieldName"		"bottombarblank"
 		
 		"ypos"			"r70"	
-		//"ypos_minmode"	"r0"
+		////"ypos_minmode"	"r0"
 		"tall"			"70"		// this needs to match the size of BottomBar
-		//"tall_minmode"	"0"			
+		////"tall_minmode"	"0"			
 		"wide"			"f0"
 		
 		
 		//"visible"		"1"
-		//"visible_minmode"		"0"
+		////"visible_minmode"		"0"
 		
 		
 	}
@@ -66,13 +66,13 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"ReinforcementsLabel"
 		"xpos"			"c-300"
-		//"xpos_minmode"	"c-300"
+		////"xpos_minmode"	"c-300"
 		"ypos"			"50"
-		//"ypos_minmode"	"3"
+		////"ypos_minmode"	"3"
 		//"ypos_hidef"	"79"
 		//"ypos_lodef"	"85"
 		"wide"			"600"
-		//"wide_minmode"	"300"
+		////"wide_minmode"	"300"
 		"tall"			"18"
 		//"tall_hidef"		"23"
 		
@@ -115,7 +115,7 @@
 		
 		
 		//"visible"		"1"
-		//"visible_minmode"		"0"
+		////"visible_minmode"		"0"
 		
 		"labelText"		"map: cp_bridge"
 		"textAlignment"		"east"
@@ -132,7 +132,7 @@
 		
 		
 		//"visible"		"1"
-		//"visible_minmode"		"0"
+		////"visible_minmode"		"0"
 		
 		"actionName"	"changeclass"
 		"actionSet"		"SpectatorControls"
@@ -150,7 +150,7 @@
 		
 		
 		//"visible"		"1"
-		//"visible_minmode"		"0"
+		////"visible_minmode"		"0"
 		
 		"labelText"		"#TF_Spectator_ChangeTeam_NoKey"
 		//"textAlignment"		"west"
@@ -168,7 +168,7 @@
 		
 		
 		//"visible"		"1"
-		//"visible_minmode"		"0"
+		////"visible_minmode"		"0"
 		
 		"actionName"	"next_target"
 		"actionSet"		"SpectatorControls"
@@ -185,7 +185,7 @@
 		
 		
 		//"visible"		"1"
-		//"visible_minmode"		"0"
+		////"visible_minmode"		"0"
 		
 		"actionName"	"prev_target"
 		"actionSet"		"SpectatorControls"
@@ -201,7 +201,7 @@
 		
 		
 		//"visible"		"1"	
-		//"visible_minmode"		"0"
+		////"visible_minmode"		"0"
 		
 		
 		"labelText"		"#TF_Spectator_CycleTargetFwd"
@@ -219,7 +219,7 @@
 		
 		
 		//"visible"		"1"
-		//"visible_minmode"		"0"
+		////"visible_minmode"		"0"
 		
 		"labelText"		"#TF_Spectator_CycleTargetRev"
 		//"textAlignment"		"west"
@@ -244,7 +244,7 @@
 		
 		
 		//"visible"		"1"
-		//"visible_minmode"		"0"
+		////"visible_minmode"		"0"
 		
 		"labelText"		"%tip%"
 		"textAlignment"		"center"

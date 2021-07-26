@@ -309,7 +309,7 @@
 		//"border"		"DepressedBorder"
 		"scaleImage"		"1"
 		//"scaleAmount"		"0.000000"
-		//"tileImage"		"0"
+		////"tileImage"		"0"
 		//"tileHorizontally"		"0"
 		////"tileVertically"		"0"
 	}
@@ -405,7 +405,7 @@
 		//"border"		"DepressedBorder"
 		//"scaleImage"		"0"
 		//"scaleAmount"		"0.000000"
-		//"tileImage"		"0"
+		////"tileImage"		"0"
 		//"tileHorizontally"		"0"
 		//"tileVertically"		"0"
 	}
@@ -527,7 +527,7 @@
 		//"border"		"DepressedBorder"
 		"scaleImage"		"1"
 		//"scaleAmount"		"0.000000"
-		//"tileImage"		"0"
+		////"tileImage"		"0"
 		//"tileHorizontally"		"0"
 		//"tileVertically"		"0"
 	}

@@ -337,32 +337,18 @@ event FlagOutline
 // Spy Disguise
 event HudSpyDisguiseChanged
 {
-	Animate PlayerStatusSpyOutlineImage		Alpha		"255"			Linear 0.0 0.2
-	
-	Animate PlayerStatusSpyOutlineImage		Position	"c-200 c-200"	Linear 0.0 0.2
-	Animate PlayerStatusSpyOutlineImage		Size		"400 400"		Linear 0.0 0.2
-
-	RunEvent HudSpyDisguiseHide	0.7
 }
 
 event HudSpyDisguiseHide
 {
-	Animate PlayerStatusSpyOutlineImage		Position	"3 413"			Linear 0.0 0.2
-	Animate PlayerStatusSpyOutlineImage		Size		"55 55"			Linear 0.0 0.2
-	
-	Animate PlayerStatusSpyOutlineImage		Alpha		"0"				Linear 0.2 0.1
 }
 
 event HudSpyDisguiseFadeIn
 {
-	RunEvent HudSpyDisguiseChanged	0
-	Animate PlayerStatusSpyImage			Alpha		"255"			Linear 0.9 0.1	
 }
 
 event HudSpyDisguiseFadeOut
 {
-	RunEvent HudSpyDisguiseChanged	0
-	Animate PlayerStatusSpyImage			Alpha		"0"				Linear 0.9 0.1	
 }
 
 //===========================================
@@ -466,28 +452,16 @@ event VideoCaptionFadeOut
 
 event ArenaVsPanelOnShow
 {
-	Animate bluepanel	Position	"-200 50"	Linear 0.0 0.001
-	Animate redpanel	Position	"r-200 140"	Linear 0.0 0.001
-	Animate vslabel	Alpha	"0"		Linear 0.0 0.001
-		
-	RunEvent ArenaVsPanelSlideIn	1.0
-	RunEvent ArenaVsPanelSlideOut	4.8
 }
 
 event ArenaVsPanelSlideIn
 {
-	Animate bluepanel	Position	"c-100 50"	Spline 0.0 0.2
-	Animate redpanel	Position	"c-100 140"	Spline 0.0 0.2
-	Animate vslabel	Alpha	"255"	Linear 0.15 0.2
 }
+
 
 event ArenaVsPanelSlideOut
 {
-	Animate bluepanel	Position	"-200 50"	Spline 0.0 0.2	
-	Animate redpanel	Position	"r-200 140"	Spline 0.0 0.2
-	Animate vslabel	Alpha	"0"		Linear 0.0 0.05
 }
-
 //===========================================
 
 //Cart Alarm Pulse
@@ -814,46 +788,25 @@ event HudReadyPulseEnd
 // Respec in Win
 event RespecEarnedPulse
 {
-	Animate	RespecTextLabelWin	FgColor	"TanLight"		Linear 0.0 0.1
-	Animate	RespecTextLabelWin	FgColor	"RedSolid"		Linear 0.3 0.4
-	
-	RunEvent RespecEarnedPulseLoop		0.5
 }
-
 event RespecEarnedPulseLoop
 {
-	RunEvent RespecEarnedPulse			0.0
 }
-
 event RespecEarnedPulseEnd
 {
-	Animate	RespecTextLabelWin 	FgColor		"TanLight"		Linear 0.0 0.1
-	
-	StopEvent RespecEarnedPulse			0.0
-	StopEvent RespecEarnedPulseLoop		0.0
 }
 
 // Respec on Loss
 event RespecEarnedPulseLoss
 {
-	Animate	RespecTextLabelLoss	FgColor	"TanLight"		Linear 0.0 0.1
-	Animate	RespecTextLabelLoss	FgColor	"RedSolid"		Linear 0.3 0.4
-	
-	RunEvent RespecEarnedPulseLoopLoss		0.5
 }
 
 event RespecEarnedPulseLoopLoss
 {
-	RunEvent RespecEarnedPulseLoss			0.0
 }
 
 event RespecEarnedPulseEndLoss
 {
-	Animate	RespecTextLabelLoss FgColor		"TanLight"		Linear 0.0 0.1
-	Animate	RespecTextLabelLoss FgColor		"TanLight"		Linear 0.0 0.1
-	
-	StopEvent RespecEarnedPulseLoss		0.0
-	StopEvent RespecEarnedPulseLoopLoss	0.0
 }
 
 event RDPositiveScorePulse
@@ -1640,61 +1593,22 @@ event HudMatchSummary_SlideInPanels
 
 event MMenu_PlayList_Expand
 {
-	Animate ItemsContainer			ypos 420 Spline 0 0.4
-	Animate EventPromo				ypos 470 Spline 0 0.4
-	Animate SafeMode				ypos 470 Spline 0 0.4
-	Animate VRBGPanel				ypos 633 Spline 0 0.4
-	Animate VRModeButton			ypos 639 Spline 0 0.4
-	Animate ShowPromoCodesButton	ypos 639 Spline 0 0.4
-
-	Animate PlayListContainer Tall 260	 Spline	0.0 0.40
-
-	FireCommand 0 "soundentry Panel.SlideDown"
 }
 
 event MMenu_PlayList_Collapse
 {
-	Animate ItemsContainer			ypos 160 Spline 0 0.4
-	Animate EventPromo				ypos 210 Spline 0 0.4
-	Animate SafeMode				ypos 210 Spline 0 0.4
-	Animate VRBGPanel				ypos 373 Spline	0 0.4
-	Animate VRModeButton			ypos 379 Spline 0 0.4
-	Animate ShowPromoCodesButton	ypos 379 Spline 0 0.4
-
-	Animate PlayListContainer Tall 0 Spline 0 0.4
-
-	FireCommand 0 "soundentry Panel.SlideUp"
 }
 
 event MMenu_PlayList_Collapse_Immediate
 {
-	Animate ItemsContainer			ypos 160 Spline 0 0
-	Animate EventPromo				ypos 210 Spline 0 0
-	Animate VRBGPanel				ypos 373 Spline	0 0
-	Animate VRModeButton			ypos 379 Spline 0 0
-	Animate ShowPromoCodesButton	ypos 379 Spline 0 0
-
-	Animate PlayListContainer Tall 0 Spline 0 0
 }
-
 event MMenu_SafeMode_Blink
 {
-	Animate InfoImage	alpha 255 Linear	0.0 0.1 
-	Animate InfoImage	alpha 0 Linear		0.1 0.1
-
-	Animate InfoImage	alpha 255 Linear	0.2 0.1 
-	Animate InfoImage	alpha 0 Linear		0.3 0.1
-
-	Animate InfoImage	alpha 255 Linear		0.4 0.1
-
-	RunEvent MMenu_SafeMode_Blink 1
 }
 
 event PvPRankModelClicked
 {
-	RunEventChild AboveModelParticlePanel StartParticle1 0
 }
-
 event PvPRankLevelUpXPBar
 {
 	Animate ContinuousProgressBar BgColor "100 255 100 255" Linear 0.0 0.1
@@ -1750,30 +1664,10 @@ event PvPRankPanelShowXPChange
 
 event PyroVsHeavyWar_ShowChooseScene
 {
-	// Reset
-	Animate Background	ypos -250 Linear 0 0
-	Animate Heavy		ypos -180 Linear 0 0
-	Animate Pyro		ypos -180 Linear 0 0
-	Animate Foreground	ypos -100 Linear 0 0
-
-	// Paralax
-	Animate Background	ypos -175	Bias 0.9 0 1
-	Animate Heavy		ypos -60	Bias 0.9 0 1
-	Animate Pyro		ypos -60	Bias 0.9 0 1
-	Animate Foreground	ypos 65		Bias 0.9 0 1
 }
 
 event PyroVsHeavyWar_PyroWinnerScene
 {
-	// Reset
-	Animate Background			ypos -220 Linear 0 0
-	Animate PyroWinMidground	ypos -180 Linear 0 0
-	Animate Foreground			ypos 40 Linear 0 0
-
-	// Paralax
-	Animate Background			ypos -175	Bias 0.9 0 1
-	Animate PyroWinMidground	ypos -100	Bias 0.9 0 1
-	Animate Foreground			ypos 75		Bias 0.9 0 1
 }
 
 event CasualCategory_Checkbox_Hide
@@ -1818,40 +1712,11 @@ event HealthProgressBar_NotSelected
 
 event MMenu_UpdateButton_StartGlow
 {
-	SetVisible	ViewDetailsGlow	1	0
-	Animate ViewDetailsGlow BgColor "238 103 17 255" Linear 0 0
-	Animate ViewDetailsGlow Alpha 0   Linear 0.0 0.2
-	Animate ViewDetailsGlow Alpha 255 Linear 0.2 0.2
-	Animate ViewDetailsGlow Alpha 0	  Linear 0.4 0.2
-	Animate ViewDetailsGlow Alpha 255 Linear 0.6 0.2
-	Animate ViewDetailsGlow Alpha 0	  Linear 0.8 0.2
-	Animate ViewDetailsGlow Alpha 255 Linear 1.0 0.2
-	Animate ViewDetailsGlow BgColor "178 83 22 255" Linear 1.0 1.0
-
-	SetVisible	ViewWarButtonGlow	1	0
-	Animate ViewWarButtonGlow BgColor "238 103 17 255" Linear 0 0
-	Animate ViewWarButtonGlow Alpha 0   Linear 0.0 0.2
-	Animate ViewWarButtonGlow Alpha 255 Linear 0.2 0.2
-	Animate ViewWarButtonGlow Alpha 0	  Linear 0.4 0.2
-	Animate ViewWarButtonGlow Alpha 255 Linear 0.6 0.2
-	Animate ViewWarButtonGlow Alpha 0	  Linear 0.8 0.2
-	Animate ViewWarButtonGlow Alpha 255 Linear 1.0 0.2
-	Animate ViewWarButtonGlow BgColor "178 83 22 255" Linear 1.0 1.0
-
-	RunEvent MMenu_UpdateButton_SubtleGlow 5
 }
 
 event MMenu_UpdateButton_SubtleGlow
 {
-	Animate ViewDetailsGlow BgColor "238 103 17 255" Linear 0 0.2
-	Animate ViewDetailsGlow BgColor "178 83 22 255" Linear 0.2 1.0
-
-	Animate ViewWarButtonGlow BgColor "238 103 17 255" Linear 0 0.2
-	Animate ViewWarButtonGlow BgColor "178 83 22 255" Linear 0.2 1.0
-
-	RunEvent MMenu_UpdateButton_SubtleGlow 5
 }
-
 event XPSourceShow_Positive
 {
 	Animate SourceLabel		Alpha		0				Linear 0 0

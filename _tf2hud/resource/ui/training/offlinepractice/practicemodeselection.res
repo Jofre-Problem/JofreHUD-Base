@@ -10,7 +10,7 @@
 		"wide"			"250"
 		"tall"			"250"
 		//"visible"		"1"
-		//"tileImage"		"0"
+		////"tileImage"		"0"
 		"scaleImage"	"1"
 		"border"		"ButtonBorder"
 		"paintbackgroundtype"	"2"
@@ -26,7 +26,7 @@
 		"wide"			"330"
 		"tall"			"255"
 		//"visible"		"1"
-		//"tileImage"		"0"
+		////"tileImage"		"0"
 		"scaleImage"	"1"
 		"image"			"illustrations/bg"
 	}

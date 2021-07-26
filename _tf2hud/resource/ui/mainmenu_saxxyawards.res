@@ -34,7 +34,7 @@
 		//"visible"		"1"
 		
 		
-		//"tileImage"		"0"
+		////"tileImage"		"0"
 		"scaleImage"	"1"
 		"scaleAmount"	"0"
 		"image"			"replay/saxxycontest/bg_texture"
@@ -48,7 +48,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"SpotlightPanel"
 		
-		//"tileImage"		"0"
+		////"tileImage"		"0"
 		"scaleImage"	"1"
 		"scaleAmount"	"0"
 		"image"			"replay/saxxycontest/mainmenu_spotlight"
@@ -164,7 +164,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"StageBackground"
 		
-		//"tileImage"		"0"
+		////"tileImage"		"0"
 		"scaleImage"	"1"
 		"scaleAmount"	"0"
 		"image"			"replay/saxxycontest/saxxy_bg"
@@ -206,7 +206,7 @@
 			"fieldName"		"SaxxyTitleImage"
 			//"visible"		"1"
 			
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 			"scaleAmount"	"0"
 			"image"			"replay/saxxycontest/logo"
@@ -251,7 +251,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"CurtainsLeft"
 			
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 			"scaleAmount"	"0"
 			"image"			"replay/mainmenu_curtain_L"
@@ -275,7 +275,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"CurtainsRight"
 			
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 			"scaleAmount"	"0"
 			"image"			"replay/mainmenu_curtain_R"
@@ -296,7 +296,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"CurtainsStatic"
 			
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 			"scaleAmount"	"0"
 			"image"			"replay/mainmenu_curtains_static"

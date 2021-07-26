@@ -21,7 +21,7 @@
 		
 		
 		"tall"			"70"	
-		//"tall_minmode"			"70"	
+		////"tall_minmode"			"70"	
 		"wide"			"f0"
 		
 		
@@ -99,7 +99,7 @@
 		
 		
 		//"visible"		"1"
-		//"visible_minmode" "1"
+		////"visible_minmode" "1"
 		
 		"labelText"		"%student_name%"
 		//"textAlignment"		"west"
@@ -118,7 +118,7 @@
 		
 		
 		//"visible"		"1"
-		//"visible_minmode"		"1"
+		////"visible_minmode"		"1"
 		
 		"labeltext"		""
 		//"textAlignment"		"west"
@@ -137,7 +137,7 @@
 		
 		
 		//"visible"		"1"
-		//"visible_minmode" "1"
+		////"visible_minmode" "1"
 		
 		"labelText"		"%student_distance%"
 		//"textAlignment"		"west"
@@ -203,7 +203,7 @@
 		
 		
 		//"visible"		"1"	
-		//"visible_minmode"		"1"
+		////"visible_minmode"		"1"
 		
 		"labeltext"		""
 		"textAlignment"		"east"
@@ -220,7 +220,7 @@
 		
 		
 		//"visible"		"1"	
-		//"visible_minmode"		"1"
+		////"visible_minmode"		"1"
 		
 		"labelText"		"#TF_Coach_AttackDesc"
 		//"textAlignment"		"west"
@@ -237,7 +237,7 @@
 		
 		
 		//"visible"		"1"	
-		//"visible_minmode"		"1"
+		////"visible_minmode"		"1"
 		
 		"labeltext"		""
 		"textAlignment"		"east"
@@ -254,7 +254,7 @@
 		
 		
 		//"visible"		"1"	
-		//"visible_minmode"		"1"
+		////"visible_minmode"		"1"
 		
 		"labelText"		"#TF_Coach_DefendDesc"
 		//"textAlignment"		"west"
@@ -271,7 +271,7 @@
 		
 		
 		//"visible"		"1"	
-		//"visible_minmode"		"1"
+		////"visible_minmode"		"1"
 		
 		"labelText"		"%coach_command_1%"
 		"textAlignment"		"east"
@@ -288,7 +288,7 @@
 		
 		
 		//"visible"		"1"	
-		//"visible_minmode"		"1"
+		////"visible_minmode"		"1"
 		
 		"labelText"		"#TF_Coach_Slot1Desc"
 		//"textAlignment"		"west"
@@ -305,7 +305,7 @@
 		
 		
 		//"visible"		"1"	
-		//"visible_minmode"		"1"
+		////"visible_minmode"		"1"
 		
 		"labelText"		"%coach_command_2%"
 		"textAlignment"		"east"
@@ -322,7 +322,7 @@
 		
 		
 		//"visible"		"1"	
-		//"visible_minmode"		"1"
+		////"visible_minmode"		"1"
 		
 		"labelText"		"#TF_Coach_Slot2Desc"
 		//"textAlignment"		"west"

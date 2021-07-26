@@ -32,7 +32,7 @@
 				"fieldName"		"SubImage"
 				//"visible"		"1"
 				
-				//"tileImage"		"0"
+				////"tileImage"		"0"
 				"scaleImage"	"1"
 				"wide"			"10"
 				"tall"			"10"
@@ -145,7 +145,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_timescale"
 			"wide"			"40"
@@ -183,7 +183,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_camera_first"
 			"wide"			"40"
@@ -221,7 +221,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_camera_third"
 			"wide"			"40"
@@ -260,7 +260,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_camera_free"
 			"wide"			"40"
@@ -358,7 +358,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_in"
 			"wide"			"22"
@@ -397,7 +397,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_begin"
 			"wide"			"22"
@@ -436,7 +436,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_rewind"
 			"wide"			"22"
@@ -475,7 +475,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_control_play"
 			"wide"			"48"
@@ -513,7 +513,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_forward"
 			"wide"			"22"
@@ -552,7 +552,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_end"
 			"wide"			"22"
@@ -592,7 +592,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_out"
 			"wide"			"22"
@@ -635,7 +635,7 @@
 			"fieldName"		"SubImage"
 			//"visible"		"1"
 			
-			//"tileImage"		"0"
+			////"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			"replay/replay_icon_menu"
 			"wide"			"22"
