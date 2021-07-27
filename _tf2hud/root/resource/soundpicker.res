@@ -32,7 +32,7 @@
 			//"UnpinnedCornerOffsetY" "-6"
 			//"visible"		"1"
 			
-			"tabPosition"	"1"
+			//"tabposition"	"1"
 		}
 	}
 }

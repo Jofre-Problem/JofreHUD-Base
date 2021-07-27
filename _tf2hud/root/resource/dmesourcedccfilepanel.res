@@ -26,12 +26,12 @@
 		"wide"			"60"
 		"tall"			"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"PinnedCornerOffsetY" "-30"
 		"labelText"		"#AssetBuilder_AddSource"
 		//"visible"		"1"
 		
-		"tabPosition"	"2"
+		//"tabposition"	"2"
 	}
 	
 	"RemoveDCCObjectButton"
@@ -43,13 +43,13 @@
 		"wide"			"60"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		//"PinnedCornerOffsetY" "-30"
 		
 		"labelText"		"#AssetBuilder_RemoveSource"
 		//"visible"		"1"
 		
-		"tabPosition"	"3"
+		//"tabposition"	"3"
 	}
 
 	"DCCObjectBrowser"
@@ -61,11 +61,11 @@
 		"wide"			"30"
 		"tall"			"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		
 		//"visible"		"1"
 		
-		"tabPosition"	"4"
+		//"tabposition"	"4"
 	}
 
 	"DCCObjectName"
@@ -79,10 +79,10 @@
 		////"UnpinnedCornerOffsetX" "-66"
 		
 		"autoresize"		"1"
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabposition"		"5"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -99,13 +99,13 @@
 		"wide"			"60"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		
 		
 		"labelText"		"#AssetBuilder_ApplyChanges"
 		//"visible"		"1"
 		
-		"tabPosition"	"1"
+		//"tabposition"	"1"
 		//"Default"		"1"
 	}
 }

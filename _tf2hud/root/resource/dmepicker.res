@@ -24,13 +24,13 @@
 			"ypos"			"6"
 			"wide"			"256"
 			"tall"			"212"
-			"autoresize"	"3"
+			//"autoresize"	"3"
 			
 			//"UnpinnedCornerOffsetX" "-6"
 			//"UnpinnedCornerOffsetY" "-34"
 			//"visible"		"1"
 			
-			"tabPosition"	"1"
+			//"tabposition"	"1"
 		}
 		
 		"FilterLabel"
@@ -42,7 +42,7 @@
 			"wide"			"75"
 			"tall"			"24"
 			
-			"pincorner"		"2"
+			//"pincorner"		"2"
 			//"PinnedCornerOffsetX" "6"
 			//"PinnedCornerOffsetY" "-6"
 			//"visible"		"1"
@@ -62,14 +62,14 @@
 			"ypos"			"210"
 			"wide"			"256"
 			"tall"			"24"
-			"autoresize"	"1"
-			"pincorner"		"2"
+			//"autoresize"	"1"
+			//"pincorner"		"2"
 			//"PinnedCornerOffsetX" "85"
 			//"PinnedCornerOffsetY" "-6"
 			//"UnpinnedCornerOffsetX" "-6"
 			//"visible"		"1"
 			
-			"tabPosition"	"2"
+			//"tabposition"	"2"
 			"textHidden"	"0"
 			//"editable"		"1"
 			"maxchars"		"-1"

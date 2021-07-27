@@ -339,7 +339,7 @@
 		"ypos"		"245"
 		"wide"		"440"
 		"tall"		"125"
-		"autoresize"		"3"
+		//"autoresize"		"3"
 		
 		////"visible"		"1"
 		"enabled"		"0"
@@ -357,8 +357,8 @@
 		"ypos"		"380"
 		"wide"		"285"
 		"tall"		"24"
-		"autoresize"		"1"
-		"pincorner"		"2"
+		//"autoresize"		"1"
+		//"pincorner"		"2"
 		////"visible"		"1"
 		
 		
@@ -375,7 +375,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		////"visible"		"1"
 		
 		
@@ -394,7 +394,7 @@
 		"wide"		"300"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		"visible"		"0"
 		
 		

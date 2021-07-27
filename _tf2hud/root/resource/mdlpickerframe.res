@@ -25,10 +25,10 @@
 			"wide"		"130"
 			"tall"		"24"
 			
-			"pincorner"		"2"
+			//"pincorner"		"2"
 			//"visible"		"1"
 			
-			"tabPosition"		"2"
+			//"tabposition"		"2"
 			"labelText"		"Open"
 			"textAlignment"		"center"
 			////"dulltext"		"0"
@@ -45,10 +45,10 @@
 			"wide"		"130"
 			"tall"		"24"
 			
-			"pincorner"		"2"
+			//"pincorner"		"2"
 			//"visible"		"1"
 			
-			"tabPosition"	"3"
+			//"tabposition"	"3"
 			"labelText"		"Cancel"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
@@ -68,7 +68,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"	"1"
+			//"tabposition"	"1"
 			"settitlebarvisible"	"1"
 			"title"		"#Frame_Untitled"
 		}

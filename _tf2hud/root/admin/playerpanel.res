@@ -22,11 +22,11 @@
 		"ypos"		"12"
 		"wide"		"496"
 		"tall"		"276"
-		"autoresize"		"3"
+		//"autoresize"		"3"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 	}
 	"kick"
 	{
@@ -37,10 +37,10 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		"labelText"		"#Player_Panel_Kick"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -57,10 +57,10 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"3"
+		//"tabposition"		"3"
 		"labelText"		"#Player_Panel_Ban"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"

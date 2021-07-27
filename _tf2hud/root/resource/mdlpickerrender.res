@@ -26,7 +26,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"	"1"
+			//"tabposition"	"1"
 			"labelText"		"Wireframe"
 			//"textAlignment"		"west"
 			////"dulltext"		"0"
@@ -46,7 +46,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"	"2"
+			//"tabposition"	"2"
 			"labelText"		"Collision Model"
 			//"textAlignment"		"west"
 			////"dulltext"		"0"
@@ -66,7 +66,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"	"3"
+			//"tabposition"	"3"
 			"labelText"		"No Ground"
 			//"textAlignment"		"west"
 			////"dulltext"		"0"
@@ -86,7 +86,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"	"4"
+			//"tabposition"	"4"
 			"labelText"		"Lock View"
 			//"textAlignment"		"west"
 			////"dulltext"		"0"
@@ -106,7 +106,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"	"4"
+			//"tabposition"	"4"
 			"labelText"		"Thumbnail Safe Zone"
 			//"textAlignment"		"west"
 			////"dulltext"		"0"
@@ -127,7 +127,7 @@
 			//"visible"		"1"
 			
 			"selected"		"1"
-			"tabPosition"	"5"
+			//"tabposition"	"5"
 			"labelText"		"Look At Camera"
 			//"textAlignment"		"west"
 			////"dulltext"		"0"
@@ -147,7 +147,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"		"6"
+			//"tabposition"		"6"
 			"labelText"		"&Select Light Probe"
 			"textAlignment"		"center"
 			"command"		"ChooseLightProbe"

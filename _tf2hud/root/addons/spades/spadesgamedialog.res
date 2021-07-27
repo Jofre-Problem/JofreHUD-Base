@@ -251,10 +251,10 @@
 		"wide"			"128"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"21"
+		//"tabposition"		"21"
 		"labelText"		"#Spades_DealNextHand"
 		//"textAlignment"		"west"
 	}    
@@ -655,10 +655,10 @@
 		"wide"			"96"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		"labelText"		"#Spades_DoubleNILBid"
 		//"textAlignment"		"west"
 	}	
@@ -672,10 +672,10 @@
 		"wide"			"96"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"3"
+		//"tabposition"		"3"
 		"labelText"		"#Spades_ShowCards"
 		//"textAlignment"		"west"
 	}    
@@ -689,10 +689,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"4"
+		//"tabposition"		"4"
 		"labelText"		"1"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -707,10 +707,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"5"
+		//"tabposition"		"5"
 		"labelText"		"2"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -725,10 +725,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"6"
+		//"tabposition"		"6"
 		"labelText"		"3"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -743,10 +743,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"7"
+		//"tabposition"		"7"
 		"labelText"		"4"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -761,10 +761,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"8"
+		//"tabposition"		"8"
 		"labelText"		"5"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -779,10 +779,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"9"
+		//"tabposition"		"9"
 		"labelText"		"6"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -797,10 +797,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"10"
+		//"tabposition"		"10"
 		"labelText"		"7"
 		//"textAlignment"		"west"
 	} 
@@ -813,10 +813,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"11"
+		//"tabposition"		"11"
 		"labelText"		"8"
 		//"textAlignment"		"west"
 	} 
@@ -829,10 +829,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"12"
+		//"tabposition"		"12"
 		"labelText"		"9"
 		//"textAlignment"		"west"
 	} 
@@ -845,10 +845,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"13"
+		//"tabposition"		"13"
 		"labelText"		"10"
 		//"textAlignment"		"west"
 	} 
@@ -861,10 +861,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"14"
+		//"tabposition"		"14"
 		"labelText"		"11"
 		//"textAlignment"		"west"
 	} 
@@ -877,10 +877,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"15"
+		//"tabposition"		"15"
 		"labelText"		"12"
 		//"textAlignment"		"west"
 	} 
@@ -893,10 +893,10 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"16"
+		//"tabposition"		"16"
 		"labelText"		"13"
 		//"textAlignment"		"west"
 	} 
@@ -909,10 +909,10 @@
 		"wide"			"58"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
-		"tabPosition"		"17"
+		//"tabposition"		"17"
 		"labelText"		"#Spades_NIL"
 		//"textAlignment"		"west"
 	}  
@@ -925,10 +925,10 @@
 		"wide"			"96"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		////"visible"		"1"
 		
-		"tabPosition"		"18"
+		//"tabposition"		"18"
 		"labelText"		"#SteamAddOn_ShowScore"
 		//"textAlignment"		"west"
 		"Default"		"0"
@@ -942,10 +942,10 @@
 		"wide"			"96"
 		"tall"			"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		////"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"19"
+		//"tabposition"		"19"
 		"labelText"		"#SteamAddOn_LastTrick"
 		//"textAlignment"		"west"
 		"Default"		"0"
@@ -959,7 +959,7 @@
 		"wide"			"72"
 		"tall"			"16"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		"visible"		"0"
 		
 		
@@ -975,7 +975,7 @@
 		"ypos"		"425"
 		"wide"		"530"
 		"tall"		"75"
-		"autoresize"		"3"
+		//"autoresize"		"3"
 		
 		////"visible"		"1"
 		"enabled"		"0"
@@ -993,8 +993,8 @@
 		"ypos"		"510"
 		"wide"		"395"
 		"tall"		"24"
-		"autoresize"		"1"
-		"pincorner"		"2"
+		//"autoresize"		"1"
+		//"pincorner"		"2"
 		////"visible"		"1"
 		
 		
@@ -1011,10 +1011,10 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		////"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		"labelText"		"#SteamAddOn_Btn_Send"
 		//"textAlignment"		"west"
 		//"Default"		"1"
@@ -1028,7 +1028,7 @@
 		"wide"		"300"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		"visible"		"0"
 		
 		

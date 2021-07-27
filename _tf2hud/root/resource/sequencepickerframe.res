@@ -25,7 +25,7 @@
 			"wide"		"122"
 			"tall"		"24"
 			
-			"pincorner"		"2"
+			//"pincorner"		"2"
 			//"visible"		"1"
 			"enabled"		"0"
 			
@@ -45,10 +45,10 @@
 			"wide"		"122"
 			"tall"		"24"
 			
-			"pincorner"		"2"
+			//"pincorner"		"2"
 			//"visible"		"1"
 			
-			"tabPosition"	"1"
+			//"tabposition"	"1"
 			"labelText"		"Cancel"
 			"textAlignment"	"center"
 			////"dulltext"		"0"

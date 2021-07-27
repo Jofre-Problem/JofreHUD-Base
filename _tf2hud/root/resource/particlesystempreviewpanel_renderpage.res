@@ -27,7 +27,7 @@
 			//"visible"		"1"
 			
 			"disabled"		"1"
-			"tabPosition"	"1"
+			//"tabposition"	"1"
 			"labelText"		"Render Bounding Box"
 			//"textAlignment"		"west"
 			////"dulltext"		"0"
@@ -48,7 +48,7 @@
 			//"visible"		"1"
 			
 			"disabled"		"1"
-			"tabPosition"	"1"
+			//"tabposition"	"1"
 			"labelText"		"Render Culling Bounds"
 			//"textAlignment"		"west"
 			////"dulltext"		"0"
@@ -68,7 +68,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"	"2"
+			//"tabposition"	"2"
 			"labeltext"		""
 			//"textAlignment"		"west"
 			////"dulltext"		"0"
@@ -107,7 +107,7 @@
 			//"visible"		"1"
 			
 			"selected"		"1"
-			"tabPosition"	"3"
+			//"tabposition"	"3"
 			"labelText"		"Render Helpers"
 			//"textAlignment"		"west"
 			////"dulltext"		"0"

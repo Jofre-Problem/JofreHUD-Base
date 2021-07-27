@@ -12,7 +12,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -46,7 +46,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -80,7 +80,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabposition"		"3"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -131,7 +131,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabposition"		"4"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -148,7 +148,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabposition"		"5"
 		"labelText"		"#Password_Panel_Remove"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"

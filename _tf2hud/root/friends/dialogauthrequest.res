@@ -64,7 +64,7 @@ test4@testers.com"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		"labelText"		"#TrackerUI_AllowPersonToSeeYou"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -85,7 +85,7 @@ test4@testers.com"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		"labelText"		"#TrackerUI_BlockThisPerson"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -106,7 +106,7 @@ test4@testers.com"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		"labelText"		"#TrackerUI_OK"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -126,7 +126,7 @@ test4@testers.com"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabposition"		"3"
 		"labelText"		"#TrackerUI_Cancel"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"

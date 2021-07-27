@@ -22,7 +22,7 @@
 			"ypos"			"6"
 			"wide"			"256"
 			"tall"			"256"
-			"autoresize"	"3"
+			//"autoresize"	"3"
 			
 			//"PinnedCornerOffsetX" "6"
 			//"PinnedCornerOffsetY" "6"

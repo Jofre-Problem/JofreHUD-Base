@@ -20,8 +20,8 @@
 	"Background"
 	{
 		"ControlName"			"Panel"
-		"pincorner"			"2"
-		"autoresize"			"1"
+		//"pincorner"			"2"
+		//"autoresize"			"1"
 		"fieldName"				"background"
 		
 		
@@ -104,8 +104,8 @@
 		"zpos"			"2"
 		"wide"			"300"
 		"tall"			"30"
-		"autoresize"		"1"
-		"pincorner"		"1"
+		//"autoresize"		"1"
+		//"pincorner"		"1"
 		//"visible"		"1"
 		
 		"labelText"		"Yo wats up"
@@ -126,7 +126,7 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pincorner"		"1"
+		//"pincorner"		"1"
 		//"visible"		"1"
 		
 		
@@ -144,7 +144,7 @@
 		"wide"			"60"
 		"tall"			"20"
 		
-		"pincorner"		"1"
+		//"pincorner"		"1"
 		//"visible"		"1"
 		
 		"labelText"		"54 ms"
@@ -164,7 +164,7 @@
 		"wide"			"200"
 		"tall"			"20"
 		
-		"pincorner"		"1"
+		//"pincorner"		"1"
 		//"visible"		"1"
 		
 		"labelText"		"15/24 players"
@@ -184,7 +184,7 @@
 		"wide"			"200"
 		"tall"			"25"
 		
-		"pincorner"		"1"
+		//"pincorner"		"1"
 		//"visible"		"1"
 		
 		"labelText"		"50 other servers"
@@ -204,7 +204,7 @@
 		"wide"			"24"
 		"tall"			"24"
 		
-		"pincorner"		"1"
+		//"pincorner"		"1"
 		//"visible"		"1"
 		
 		

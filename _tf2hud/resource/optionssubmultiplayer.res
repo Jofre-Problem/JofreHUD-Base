@@ -172,10 +172,7 @@
 		"tall"		"39"
 		
 		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		"visible"		"0"
+"visible"		"0"
 		
 		"tabPosition"		"3"
 		"leftText"		" "
@@ -191,10 +188,7 @@
 		"tall"		"42"
 		
 		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		"visible"		"0"
+"visible"		"0"
 		
 		"tabPosition"		"4"
 		"leftText"		" "
@@ -210,10 +204,7 @@
 		"tall"		"24"
 		
 		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		"visible"		"0"
+"visible"		"0"
 		
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_HighModels"
@@ -238,10 +229,7 @@
 		"tall"		"24"
 		
 		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		"visible"		"0"
+"visible"		"0"
 		
 		"tabPosition"		"2"
 		//"textHidden"		"0"
@@ -282,10 +270,7 @@
 		"tall"		"200"
 		
 		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		"visible"		"0"
+"visible"		"0"
 		
 		
 	}
@@ -323,10 +308,7 @@
 		"tall"		"24"
 		
 		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		"visible"		"0"
+"visible"		"0"
 		
 		"tabPosition"		"8"
 		//"textHidden"		"0"
@@ -345,10 +327,7 @@
 		"tall"		"24"
 		
 		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		"visible"		"0"
+"visible"		"0"
 		
 		"tabPosition"		"6"
 		//"textHidden"		"0"
@@ -367,10 +346,7 @@
 		"tall"		"24"
 		
 		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		"visible"		"0"
+"visible"		"0"
 		
 		
 		"labelText"		"#GameUI_Translucent"
@@ -395,10 +371,7 @@
 		"tall"		"24"
 		
 		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		"visible"		"0"
+"visible"		"0"
 		
 		
 		"image"		"crosshair_bg"
@@ -517,10 +490,7 @@
 		"tall"		"64"
 		
 		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		"visible"		"0"
+"visible"		"0"
 		
 		
 		"image"		"crosshair_bg"
@@ -563,10 +533,7 @@
 		"tall"		"24"
 		
 		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		"visible"		"0"
+"visible"		"0"
 		
 		
 		"labelText"		"#GameUI_CrosshairDescription"
@@ -590,10 +557,7 @@
 		"tall"		"24"
 		
 		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		"visible"		"0"
+"visible"		"0"
 		
 		
 	}
@@ -607,10 +571,7 @@
 		"tall"		"16"
 		
 		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		"visible"		"0"
+"visible"		"0"
 		
 		
 		"labelText"		"392"
@@ -633,10 +594,7 @@
 		"tall"		"16"
 		
 		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		"visible"		"0"
+"visible"		"0"
 		
 		
 		"labelText"		"133"
@@ -659,10 +617,7 @@
 		"tall"		"16"
 		
 		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		"visible"		"0"
+"visible"		"0"
 		
 		
 		"labelText"		"133"
@@ -685,10 +640,7 @@
 		"tall"		"16"
 		
 		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		"visible"		"0"
+"visible"		"0"
 		
 		
 		"labelText"		"133"
@@ -711,10 +663,7 @@
 		"tall"		"24"
 		
 		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		"visible"		"0"
+"visible"		"0"
 		
 		
 		"labelText"		"#GameUI_ColorSliders"
@@ -737,10 +686,7 @@
 		"tall"		"24"
 		
 		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		"visible"		"0"
+"visible"		"0"
 		
 		
 		"labelText"		"#GameUI_PlayerModel"

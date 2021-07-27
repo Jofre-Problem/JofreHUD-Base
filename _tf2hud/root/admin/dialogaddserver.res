@@ -38,7 +38,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -89,7 +89,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		"labelText"		"#Okay_Button"
 		"textAlignment"		"center"
 		////"dulltext"		"0"
@@ -109,7 +109,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabposition"		"3"
 		"labelText"		"#Cancel_Button"
 		"textAlignment"		"center"
 		////"dulltext"		"0"

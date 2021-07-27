@@ -22,7 +22,7 @@
 		"ypos"		"10"
 		"wide"		"382"
 		"tall"		"264"
-		"autoresize"		"3"
+		//"autoresize"		"3"
 		
 		//"visible"		"1"
 		
@@ -39,10 +39,10 @@
 		"wide"		"84"
 		"tall"		"24"
 		
-		"pincorner"		"1"
+		//"pincorner"		"1"
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabposition"		"5"
 		"labelText"		"#Graph_In"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -59,10 +59,10 @@
 		"wide"		"84"
 		"tall"		"24"
 		
-		"pincorner"		"1"
+		//"pincorner"		"1"
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabposition"		"6"
 		"labelText"		"#Graph_Out"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -79,10 +79,10 @@
 		"wide"		"84"
 		"tall"		"24"
 		
-		"pincorner"		"1"
+		//"pincorner"		"1"
 		//"visible"		"1"
 		
-		"tabPosition"		"8"
+		//"tabposition"		"8"
 		"labelText"		"#Graph_FPS"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -99,10 +99,10 @@
 		"wide"		"84"
 		"tall"		"24"
 		
-		"pincorner"		"1"
+		//"pincorner"		"1"
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabposition"		"7"
 		"labelText"		"#Graph_CPU"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -119,10 +119,10 @@
 		"wide"		"84"
 		"tall"		"24"
 		
-		"pincorner"		"1"
+		//"pincorner"		"1"
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabposition"		"4"
 		"labelText"		"#Graph_Ping"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -139,10 +139,10 @@
 		"wide"		"75"
 		"tall"		"24"
 		
-		"pincorner"		"1"
+		//"pincorner"		"1"
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabposition"		"3"
 		"labelText"		"#Graph_Players"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -159,10 +159,10 @@
 		"wide"		"150"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -178,10 +178,10 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -197,7 +197,7 @@
 		"wide"		"82"
 		"tall"		"24"
 		
-		"pincorner"		"1"
+		//"pincorner"		"1"
 		//"visible"		"1"
 		
 		
@@ -216,7 +216,7 @@
 		"wide"		"82"
 		"tall"		"24"
 		
-		"pincorner"		"1"
+		//"pincorner"		"1"
 		//"visible"		"1"
 		
 		
@@ -235,7 +235,7 @@
 		"wide"		"92"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
 		
@@ -254,7 +254,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
 		
@@ -292,7 +292,7 @@
 		"wide"		"38"
 		"tall"		"16"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
 		
@@ -311,7 +311,7 @@
 		"wide"		"38"
 		"tall"		"16"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
 		

@@ -32,7 +32,7 @@
 				
 				//"visible"		"1"
 				
-				"tabPosition"	"1"
+				//"tabposition"	"1"
 			}
 		}
 
@@ -54,7 +54,7 @@
 				
 				//"visible"		"1"
 				
-				"tabPosition"	"1"
+				//"tabposition"	"1"
 			}
 			
 			"ParticleCountLabel"
@@ -66,7 +66,7 @@
 				"wide"			"165"
 				"tall"			"24"
 				
-				"pincorner"		"3"
+				//"pincorner"		"3"
 				//"PinnedCornerOffsetX" "-6"
 				//"PinnedCornerOffsetY" "-6"
 				//"visible"		"1"

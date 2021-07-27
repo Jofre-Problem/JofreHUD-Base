@@ -24,11 +24,11 @@
 			"ypos"		"298"
 			"wide"		"256"
 			"tall"		"24"
-			"autoresize"		"1"
-			"pincorner"		"2"
+			//"autoresize"		"1"
+			//"pincorner"		"2"
 			//"visible"		"1"
 			
-			"tabPosition"		"3"
+			//"tabposition"		"3"
 			//"textHidden"		"0"
 			"editable"		"0"
 			"maxchars"		"-1"
@@ -44,10 +44,10 @@
 			"wide"		"122"
 			"tall"		"24"
 			
-			"pincorner"		"2"
+			//"pincorner"		"2"
 			//"visible"		"1"
 			
-			"tabPosition"		"1"
+			//"tabposition"		"1"
 			"labelText"		"Ok"
 			"textAlignment"		"center"
 			////"dulltext"		"0"
@@ -64,10 +64,10 @@
 			"wide"		"122"
 			"tall"		"24"
 			
-			"pincorner"		"2"
+			//"pincorner"		"2"
 			//"visible"		"1"
 			
-			"tabPosition"	"2"
+			//"tabposition"	"2"
 			"labelText"		"Cancel"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
@@ -83,7 +83,7 @@
 			"ypos"			"34"
 			"wide"			"256"
 			"tall"			"256"
-			"autoresize"	"3"
+			//"autoresize"	"3"
 			
 			//"visible"		"1"
 			

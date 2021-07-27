@@ -29,7 +29,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		//"paintbackground"		"1"
 		"labelText"		"#Friends_ActivateFriendsBeta"
 		//"textAlignment"		"west"
@@ -48,7 +48,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		//"paintbackground"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
@@ -68,7 +68,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabposition"		"3"
 		//"paintbackground"		"1"
 		"labelText"		"#vgui_Cancel"
 		//"textAlignment"		"west"
@@ -124,7 +124,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		//"paintbackground"		"1"
 		"labelText"		"#Friends_BetaHomePage"
 		//"textAlignment"		"west"

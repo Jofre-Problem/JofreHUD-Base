@@ -8,11 +8,11 @@
 		"ypos"		"72"
 		"wide"		"496"
 		"tall"		"216"
-		"autoresize"		"3"
+		//"autoresize"		"3"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 	}
 	"EditButton"
 	{
@@ -23,10 +23,10 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		"labelText"		"Edit..."
 		//"textAlignment"		"west"
 		////"dulltext"		"0"

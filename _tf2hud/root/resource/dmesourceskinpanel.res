@@ -93,7 +93,7 @@
 		//"visible"		"1"
 		
 		"disabled"		"1"
-		"tabPosition"	"1"
+		//"tabposition"	"1"
 		"labelText"		"Flip Triangles"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"

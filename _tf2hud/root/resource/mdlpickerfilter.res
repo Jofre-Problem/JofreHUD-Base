@@ -40,7 +40,7 @@
 			"wide"			"256"
 			"tall"			"24"
 			"autoresize"	"1"
-			"pincorner"		"2"
+			//"pincorner"		"2"
 			//"PinnedCornerOffsetX" "6"
 			//"PinnedCornerOffsetY" "-6"
 			////"UnpinnedCornerOffsetX" "-6"

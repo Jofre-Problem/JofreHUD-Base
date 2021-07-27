@@ -12,7 +12,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		//"paintbackground"		"1"
 		"labelText"		"#Friends_PlaySoundWhenFriendJoins"
 		//"textAlignment"		"west"
@@ -32,7 +32,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		//"paintbackground"		"1"
 		"labelText"		"#Friends_PlaySoundWhenFriendComesOnline"
 		//"textAlignment"		"west"
@@ -52,7 +52,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabposition"		"3"
 		//"paintbackground"		"1"
 		"labelText"		"#Friends_PlaySoundWhenReceiveAMessage"
 		//"textAlignment"		"west"

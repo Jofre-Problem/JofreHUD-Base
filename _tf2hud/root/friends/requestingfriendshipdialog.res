@@ -29,7 +29,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		//"paintbackground"		"1"
 		"labelText"		"#vgui_ok"
 		//"textAlignment"		"west"
@@ -49,7 +49,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabposition"		"3"
 		//"paintbackground"		"1"
 		"labelText"		"#vgui_Cancel"
 		//"textAlignment"		"west"
@@ -70,7 +70,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		//"paintbackground"		"1"
 		"labelText"		"#Friends_AllowUserToSeeMeOnline"
 		//"textAlignment"		"west"
@@ -91,7 +91,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		//"paintbackground"		"1"
 		"labelText"		"#Friends_BlockUserFromSeeingMeOnline"
 		//"textAlignment"		"west"

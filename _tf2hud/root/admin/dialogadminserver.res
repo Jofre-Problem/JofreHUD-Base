@@ -26,7 +26,7 @@
 		
 		"visible"		"0"
 		
-		"tabPosition"		"8"
+		//"tabposition"		"8"
 	}
 	"RefreshButton"
 	{
@@ -37,10 +37,10 @@
 		"wide"		"110"
 		"tall"		"24"
 		
-		"pincorner"		"1"
+		//"pincorner"		"1"
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		"labelText"		"#baseGames_Refresh"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -57,10 +57,10 @@
 		"wide"		"150"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabposition"		"4"
 		"labelText"		"#baseGames_AddIP"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -77,10 +77,10 @@
 		"wide"		"90"
 		"tall"		"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabposition"		"7"
 		"labelText"		"#baseGames_Manage"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -95,11 +95,11 @@
 		"ypos"		"66"
 		"wide"		"600"
 		"tall"		"290"
-		"autoresize"	"3"
+		//"autoresize"	"3"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabposition"		"3"
 	}
 	"StatusLabel"
 	{
@@ -110,7 +110,7 @@
 		"wide"		"630"
 		"tall"		"20"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
 		
@@ -140,10 +140,10 @@
 		"wide"		"90"
 		"tall"		"24"
 		
-		"pincorner"		"1"
+		//"pincorner"		"1"
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		"labelText"		"#baseGames_Options"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -160,10 +160,10 @@
 		"wide"		"150"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"5"
+		//"tabposition"		"5"
 		"labelText"		"#baseGames_Start_Local"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -180,10 +180,10 @@
 		"wide"		"90"
 		"tall"		"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabposition"		"6"
 		"labelText"		"#baseGames_Remove"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"

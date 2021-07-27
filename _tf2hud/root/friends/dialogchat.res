@@ -23,10 +23,10 @@
 		"wide"		"44"
 		"tall"		"44"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		"labelText"		"#TrackerUI_Send"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -41,7 +41,7 @@
 		"ypos"		"34"
 		"wide"		"315"
 		"tall"		"24"
-		"autoresize"		"1"
+		//"autoresize"		"1"
 		
 		//"visible"		"1"
 		
@@ -59,8 +59,8 @@
 		"ypos"		"278"
 		"wide"		"383"
 		"tall"		"16"
-		"autoresize"		"1"
-		"pincorner"		"2"
+		//"autoresize"		"1"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
 		
@@ -76,11 +76,11 @@
 		"ypos"		"232"
 		"wide"		"336"
 		"tall"		"44"
-		"autoresize"		"1"
-		"pincorner"		"2"
+		//"autoresize"		"1"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"unicode"		"1"
@@ -94,7 +94,7 @@
 		"ypos"		"61"
 		"wide"		"384"
 		"tall"		"166"
-		"autoresize"		"3"
+		//"autoresize"		"3"
 		
 		//"visible"		"1"
 		"enabled"		"0"
@@ -112,7 +112,7 @@
 		"wide"		"60"
 		"tall"		"24"
 		
-		"pincorner"		"1"
+		//"pincorner"		"1"
 		//"visible"		"1"
 		"enabled"		"0"
 		

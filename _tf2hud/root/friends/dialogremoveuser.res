@@ -40,7 +40,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		"labelText"		"#TrackerUI_RemoveUser"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -60,7 +60,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		"labelText"		"#TrackerUI_Cancel"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"

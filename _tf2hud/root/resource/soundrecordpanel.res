@@ -25,10 +25,10 @@
 		"wide"		"122"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		"labelText"		"Ok"
 		"textAlignment"		"center"
 		////"dulltext"		"0"
@@ -46,10 +46,10 @@
 		"wide"		"122"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabposition"		"3"
 		"labelText"		"#FileOpenDialog_Cancel"
 		"textAlignment"		"center"
 		////"dulltext"		"0"

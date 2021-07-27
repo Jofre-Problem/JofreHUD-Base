@@ -24,10 +24,10 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		"labelText"		"#ServerBrowser_JoinGame"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -45,10 +45,10 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabposition"		"3"
 		"labelText"		"#ServerBrowser_Close"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -66,10 +66,10 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		"labelText"		"#ServerBrowser_Refresh"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -87,7 +87,7 @@
 		"wide"		"356"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
 		
@@ -106,10 +106,10 @@
 		"wide"		"80"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabposition"		"4"
 		"labelText"		"#ServerBrowser_AutoRetry"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -127,7 +127,7 @@
 		"wide"		"358"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
 		
@@ -149,7 +149,7 @@
 		"wide"		"356"
 		"tall"		"24"
 		
-		"pincorner"		"2"
+		//"pincorner"		"2"
 		//"visible"		"1"
 		
 		
@@ -170,7 +170,7 @@
 		"ypos"		"228"
 		"wide"		"368"
 		"tall"		"140"
-		"autoresize"		"3"
+		//"autoresize"		"3"
 		
 		//"visible"		"1"
 		
@@ -313,7 +313,7 @@
 		"ypos"		"42"
 		"wide"		"260"
 		"tall"		"20"
-		"autoresize"		"1"
+		//"autoresize"		"1"
 		
 		//"visible"		"1"
 		

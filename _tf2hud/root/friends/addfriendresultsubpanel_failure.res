@@ -12,7 +12,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		//"paintbackground"		"1"
 		"WizardWide"		"0"
 		"WizardTall"		"0"

@@ -40,7 +40,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -57,7 +57,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabposition"		"6"
 		"labelText"		"#Okay_Button"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -77,7 +77,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabposition"		"3"
 		"labelText"		"#Add_Ban_Time_Permanent"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -97,7 +97,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabposition"		"3"
 		"labelText"		"#Add_Ban_Time_Temporary"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -117,7 +117,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"4"
+		//"tabposition"		"4"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -134,7 +134,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"5"
+		//"tabposition"		"5"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -169,7 +169,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabposition"		"7"
 		"labelText"		"#Cancel_Button"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -207,7 +207,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"

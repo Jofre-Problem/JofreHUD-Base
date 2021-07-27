@@ -36,11 +36,11 @@
 		"ypos"		"60"
 		"wide"		"422"
 		"tall"		"256"
-		"autoresize"		"3"
+		//"autoresize"		"3"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 	}
 	"AddFriendsButton"
 	{
@@ -51,10 +51,10 @@
 		"wide"		"104"
 		"tall"		"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		"labelText"		"#TrackerUI_AddFriendsButton"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -70,7 +70,7 @@
 		"ypos"		"34"
 		"wide"		"417"
 		"tall"		"24"
-		"autoresize"		"1"
+		//"autoresize"		"1"
 		
 		//"visible"		"1"
 		
@@ -89,10 +89,10 @@
 		"wide"		"72"
 		"tall"		"24"
 		
-		"pincorner"		"3"
+		//"pincorner"		"3"
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabposition"		"3"
 		"labelText"		"#TrackerUI_Cancel"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"

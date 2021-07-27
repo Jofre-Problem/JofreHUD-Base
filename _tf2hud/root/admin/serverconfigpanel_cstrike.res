@@ -11,7 +11,7 @@
 		"wide"		"100"
 		"tall"		"20"
 		
-		//"pincorner"	"0"
+		////"pincorner"	"0"
 		"visible"	"1"
 		
 		
@@ -29,7 +29,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -45,7 +45,7 @@
 		"wide"		"100"
 		"tall"		"20"
 		
-		//"pincorner"	"0"
+		////"pincorner"	"0"
 		"visible"	"1"
 		
 		
@@ -63,7 +63,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -78,7 +78,7 @@
 		"wide"		"100"
 		"tall"		"20"
 		
-		//"pincorner"	"0"
+		////"pincorner"	"0"
 		"visible"	"1"
 		
 		
@@ -96,7 +96,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabposition"		"3"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -116,7 +116,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabposition"		"4"
 		"labelText"		"Enable Friendly Fire"
 		//"textAlignment"		"west"
 	}
@@ -139,7 +139,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabposition"		"5"
 		"labelText"		"Allow Uploads"
 		//"textAlignment"		"west"
 	}
@@ -154,7 +154,7 @@
 		"wide"		"75"
 		"tall"		"20"
 		
-		//"pincorner"	"0"
+		////"pincorner"	"0"
 		"visible"	"1"
 		
 		
@@ -172,7 +172,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabposition"		"6"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -187,7 +187,7 @@
 		"wide"		"75"
 		"tall"		"20"
 		
-		//"pincorner"	"0"
+		////"pincorner"	"0"
 		"visible"	"1"
 		
 		
@@ -205,7 +205,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabposition"		"7"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -223,7 +223,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"8"
+		//"tabposition"		"8"
 		"labelText"		"Allow Voice"
 		//"textAlignment"		"west"
 	}
@@ -240,7 +240,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"9"
+		//"tabposition"		"9"
 		"labelText"		"Fade Screen to Black"
 		//"textAlignment"		"west"
 	}

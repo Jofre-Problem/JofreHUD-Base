@@ -23,11 +23,11 @@
 		"ypos"		"112"
 		"wide"		"170"
 		"tall"		"24"
-		"autoresize"		"1"
+		//"autoresize"		"1"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabposition"		"3"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -41,11 +41,11 @@
 		"ypos"		"146"
 		"wide"		"170"
 		"tall"		"24"
-		"autoresize"		"1"
+		//"autoresize"		"1"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabposition"		"4"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -63,7 +63,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabposition"		"5"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -77,11 +77,11 @@
 		"ypos"		"44"
 		"wide"		"170"
 		"tall"		"24"
-		"autoresize"		"1"
+		//"autoresize"		"1"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabposition"		"1"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -99,7 +99,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"9"
+		//"tabposition"		"9"
 		"labelText"		"#Start_Server_Button"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -119,7 +119,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"10"
+		//"tabposition"		"10"
 		"labelText"		"#Start_Server_Cancel"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -139,7 +139,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"8"
+		//"tabposition"		"8"
 		"labelText"		"#Start_Server_Secure"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -169,11 +169,11 @@
 		"ypos"		"78"
 		"wide"		"170"
 		"tall"		"24"
-		"autoresize"		"1"
+		//"autoresize"		"1"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabposition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -282,11 +282,11 @@
 		"ypos"		"248"
 		"wide"		"170"
 		"tall"		"24"
-		"autoresize"		"1"
+		//"autoresize"		"1"
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabposition"		"7"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -342,7 +342,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabposition"		"6"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"

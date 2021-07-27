@@ -90,7 +90,7 @@
 							"tall"			"24"
 							//"PinnedCornerOffsetX" "-6"
 							
-							"pincorner"		"1"
+							//"pincorner"		"1"
 							"labelText"		"#AssetPicker_Rescan"
 							"textAlignment"	"center"
 							//"visible"		"1"
@@ -147,7 +147,7 @@
 							//"UnpinnedCornerOffsetY" "-64"
 							//"visible"		"1"
 							
-							"tabPosition"	"1"
+							//"tabposition"	"1"
 						}
 						
 						"FullPathLabel"
@@ -159,7 +159,7 @@
 							"wide"			"65"
 							"tall"			"24"
 							
-							"pincorner"		"2"
+							//"pincorner"		"2"
 							//"PinnedCornerOffsetX" "6"
 							//"PinnedCornerOffsetY" "-34"
 							//"visible"		"1"
@@ -180,7 +180,7 @@
 							"wide"			"75"
 							"tall"			"24"
 							"autoresize"	"1"
-							"pincorner"		"2"
+							//"pincorner"		"2"
 							//"PinnedCornerOffsetX" "75"
 							//"PinnedCornerOffsetY" "-34"
 							////"UnpinnedCornerOffsetX" "-6"
@@ -203,7 +203,7 @@
 							"wide"			"65"
 							"tall"			"24"
 							
-							"pincorner"		"2"
+							//"pincorner"		"2"
 							//"PinnedCornerOffsetX" "6"
 							//"PinnedCornerOffsetY" "-6"
 							//"visible"		"1"
@@ -224,13 +224,13 @@
 							"wide"			"256"
 							"tall"			"24"
 							"autoresize"	"1"
-							"pincorner"		"2"
+							//"pincorner"		"2"
 							//"PinnedCornerOffsetX" "75"
 							//"PinnedCornerOffsetY" "-6"
 							////"UnpinnedCornerOffsetX" "-6"
 							//"visible"		"1"
 							
-							"tabPosition"	"2"
+							//"tabposition"	"2"
 							"textHidden"	"0"
 							//"editable"		"1"
 							"maxchars"		"-1"
