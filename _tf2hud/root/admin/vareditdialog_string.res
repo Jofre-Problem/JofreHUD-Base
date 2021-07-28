@@ -4,13 +4,13 @@
 	{
 		"ControlName"		"Frame"
 		"fieldName"		"VarEditDialog"
-		"xpos"		"500"
-		"ypos"		"376"
-		"wide"		"280"
-		"tall"		"180"
+		//////"xpos"		"500"
+		//////"ypos"		"376"
+		//"wide"		"280"
+		//"tall"		"180"
 		
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
 		
 	}
@@ -18,76 +18,76 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"OKButton"
-		"xpos"		"116"
-		"ypos"		"144"
-		"wide"		"64"
-		"tall"		"24"
+		//////"xpos"		"116"
+		//////"ypos"		"144"
+		//"wide"		"64"
+		//"tall"		"24"
 		
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
-		//"tabposition"		"2"
-		"labelText"		"OK"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		"Command"		"OK"
-		//"Default"		"1"
+		//////"tabPosition"		"2"
+		//////"labelText"		"OK"
+		////////"textAlignment"		"west"
+		//////////"dulltext"		"0"
+		////////"brighttext"		"0"
+		////"Command"		"OK"
+		//////"Default"		"1"
 	}
 	"CancelButton"
 	{
 		"ControlName"		"Button"
 		"fieldName"		"CancelButton"
-		"xpos"		"200"
-		"ypos"		"144"
-		"wide"		"64"
-		"tall"		"24"
+		//////"xpos"		"200"
+		//////"ypos"		"144"
+		//"wide"		"64"
+		//"tall"		"24"
 		
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
-		//"tabposition"		"3"
-		"labelText"		"Cancel"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		"Command"		"Cancel"
-		"Default"		"0"
+		//////"tabPosition"		"3"
+		//////"labelText"		"Cancel"
+		////////"textAlignment"		"west"
+		//////////"dulltext"		"0"
+		////////"brighttext"		"0"
+		////"Command"		"Cancel"
+		////"Default"		"0"
 	}
 	"StringEdit"
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"StringEdit"
-		"xpos"		"20"
-		"ypos"		"88"
-		"wide"		"240"
-		"tall"		"24"
+		//////"xpos"		"20"
+		//////"ypos"		"88"
+		//"wide"		"240"
+		//"tall"		"24"
 		
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
-		//"tabposition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
-		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
+		//////"tabPosition"		"1"
+		////"textHidden"		"0"
+		//////"editable"		"1"
+		////"maxchars"		"-1"
+		////"NumericInputOnly"		"0"
 	}
 	"Label1"
 	{
 		"ControlName"		"Label"
 		"fieldName"		"Label1"
-		"xpos"		"20"
-		"ypos"		"44"
-		"wide"		"240"
-		"tall"		"48"
+		//////"xpos"		"20"
+		//////"ypos"		"44"
+		//"wide"		"240"
+		//"tall"		"48"
 		
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
 		
-		"labelText"		"Changes take effect when you press 'OK'."
-		//"textAlignment"		"west"
-		"dulltext"		"1"
-		////"brighttext"		"0"
+		//////"labelText"		"Changes take effect when you press 'OK'."
+		////////"textAlignment"		"west"
+		//////"dulltext"		"1"
+		////////"brighttext"		"0"
 	}
 }

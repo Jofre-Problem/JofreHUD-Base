@@ -8,12 +8,12 @@
 		"ypos"		"487"
 		"wide"		"572"
 		"tall"		"390"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"settitlebarvisible"		"1"
 		"title"		"#ServerBrowser_AddServersTitle"
 	}
@@ -25,27 +25,27 @@
 		"ypos"		"175"
 		"wide"		"526"
 		"tall"		"150"
-		//"autoresize"		"3"
-		
-		//"visible"		"1"
-		
-		
-		//"paintbackground"		"1"
+		"AutoResize"		"3"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 	}
 	"Servers"
 	{
 		"ControlName"		"ListPanel"
 		"fieldName"		"Servers"
-		
+		"xpos"		"0"
 		"ypos"		"28"
 		"wide"		"526"
 		"tall"		"122"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 	}
 	"ServerNameText"
 	{
@@ -55,17 +55,17 @@
 		"ypos"		"74"
 		"wide"		"330"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		//"tabposition"		"1"
-		//"paintbackground"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"1"
+		"paintbackground"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"TestServersButton"
 	{
@@ -75,15 +75,15 @@
 		"ypos"		"102"
 		"wide"		"190"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		//"tabposition"		"3"
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"3"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_FindGames"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Command"		"TestServers"
 		"Default"		"0"
 	}
@@ -95,17 +95,17 @@
 		"ypos"		"74"
 		"wide"		"190"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		//"tabposition"		"2"
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"2"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddAddressToFavorites"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Command"		"OK"
-		//"Default"		"1"
+		"Default"		"1"
 	}
 	"SelectedOKButton"
 	{
@@ -115,15 +115,15 @@
 		"ypos"		"340"
 		"wide"		"230"
 		"tall"		"24"
-		
-		//"pincorner"		"3"
-		//"visible"		"1"
-		
-		
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"3"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddSelectedToFavorites"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"InfoLabel"
@@ -134,16 +134,16 @@
 		"ypos"		"46"
 		"wide"		"330"
 		"tall"		"20"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_EnterIPofServerToAdd"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 		"font"		"UiBold"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 	"ExampleLabel"
 	{
@@ -153,16 +153,16 @@
 		"ypos"		"106"
 		"wide"		"328"
 		"tall"		"74"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"appearance"		"LabelDull"
 		"labelText"		"#ServerBrowser_Examples"
 		"textAlignment"		"north-west"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 	"CancelButton"
 	{
@@ -172,15 +172,15 @@
 		"ypos"		"131"
 		"wide"		"64"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		//"tabposition"		"4"
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"4"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Cancel"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 	}

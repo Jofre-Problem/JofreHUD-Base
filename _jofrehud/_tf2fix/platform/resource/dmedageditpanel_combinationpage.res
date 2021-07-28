@@ -4,13 +4,13 @@
 	{
 		"ControlName"	"PropertyPage"
 		"fieldName"		"CombinationPage"
-		"xpos"			"6"
-		"ypos"			"6"
-		"wide"			"256"
-		"tall"			"256"
+		//"xpos"			"6"
+		//"ypos"			"6"
+		//"wide"			"256"
+		//"tall"			"256"
 		
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 	
@@ -20,15 +20,15 @@
 			"fieldName"		"SliderScroll"
 			
 			
-			"wide"			"100"
-			"tall"			"24"
-			"autoResize"	"3"
+			//"wide"			"100"
+			//"tall"			"24"
+			//"autoResize"	"3"
 			
 			
 			
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 		}

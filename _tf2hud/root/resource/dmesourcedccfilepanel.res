@@ -6,13 +6,13 @@
 		"fieldName"		"DCCObjectList"
 		
 		
-		"wide"			"256"
-		"tall"			"212"
-		"autoresize"	"3"
+		//"wide"			"256"
+		//"tall"			"212"
+		////"autoResize"	"3"
 		
 		
 		//"UnpinnedCornerOffsetY" "-60"
-		//"visible"		"1"
+		//////"visible"		"1"
 		
 		
 	}
@@ -22,34 +22,34 @@
 		"ControlName"	"Button"
 		"fieldName"		"AddDCCObjectButton"
 		
-		"ypos"			"60"
-		"wide"			"60"
-		"tall"			"24"
+		//////"ypos"			"60"
+		//"wide"			"60"
+		//"tall"			"24"
 		
-		//"pincorner"		"2"
+		//////"pinCorner"		"2"
 		//"PinnedCornerOffsetY" "-30"
-		"labelText"		"#AssetBuilder_AddSource"
-		//"visible"		"1"
+		//////"labelText"		"#AssetBuilder_AddSource"
+		//////"visible"		"1"
 		
-		//"tabposition"	"2"
+		//////"tabPosition"	"2"
 	}
 	
 	"RemoveDCCObjectButton"
 	{
 		"ControlName"	"Button"
 		"fieldName"		"RemoveDCCObjectButton"
-		"xpos"			"50"
-		"ypos"			"60"
-		"wide"			"60"
-		"tall"			"24"
+		//////"xpos"			"50"
+		//////"ypos"			"60"
+		//"wide"			"60"
+		//"tall"			"24"
 		
-		//"pincorner"		"3"
+		//////"pinCorner"		"3"
 		//"PinnedCornerOffsetY" "-30"
 		
-		"labelText"		"#AssetBuilder_RemoveSource"
-		//"visible"		"1"
+		//////"labelText"		"#AssetBuilder_RemoveSource"
+		//////"visible"		"1"
 		
-		//"tabposition"	"3"
+		//////"tabPosition"	"3"
 	}
 
 	"DCCObjectBrowser"
@@ -57,55 +57,55 @@
 		"ControlName"	"Button"
 		"fieldName"		"DCCObjectBrowser"
 		
-		"ypos"			"60"
-		"wide"			"30"
-		"tall"			"24"
+		//////"ypos"			"60"
+		//"wide"			"30"
+		//"tall"			"24"
 		
-		//"pincorner"		"2"
+		//////"pinCorner"		"2"
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
-		//"tabposition"	"4"
+		//////"tabPosition"	"4"
 	}
 
 	"DCCObjectName"
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"DCCObjectName"
-		"xpos"		"40"
-		"ypos"		"32"
-		"wide"		"390"
-		"tall"		"24"
+		//////"xpos"		"40"
+		//////"ypos"		"32"
+		//"wide"		"390"
+		//"tall"		"24"
 		////"UnpinnedCornerOffsetX" "-66"
 		
-		"autoresize"		"1"
-		//"pincorner"		"2"
-		//"visible"		"1"
+		////"autoResize"		"1"
+		//////"pinCorner"		"2"
+		//////"visible"		"1"
 		
-		//"tabposition"		"5"
-		//"textHidden"		"0"
-		//"editable"		"1"
-		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		"unicode"		"1"
+		//////"tabPosition"		"5"
+		////"textHidden"		"0"
+		//////"editable"		"1"
+		////"maxchars"		"-1"
+		////"NumericInputOnly"		"0"
+		//"unicode"		"1"
 	}
 	
 	"ApplyChangesButton"
 	{
 		"ControlName"	"Button"
 		"fieldName"		"ApplyChangesButton"
-		"xpos"			"50"
-		"ypos"			"60"
-		"wide"			"60"
-		"tall"			"24"
+		//////"xpos"			"50"
+		//////"ypos"			"60"
+		//"wide"			"60"
+		//"tall"			"24"
 		
-		//"pincorner"		"3"
+		//////"pinCorner"		"3"
 		
 		
-		"labelText"		"#AssetBuilder_ApplyChanges"
-		//"visible"		"1"
+		//////"labelText"		"#AssetBuilder_ApplyChanges"
+		//////"visible"		"1"
 		
-		//"tabposition"	"1"
-		//"Default"		"1"
+		//////"tabPosition"	"1"
+		//////"Default"		"1"
 	}
 }

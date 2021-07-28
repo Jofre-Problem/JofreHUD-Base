@@ -4,13 +4,13 @@
 	{
 		"ControlName"	"CColorPicker"
 		"fieldName"		"ColorPicker"
-		"xpos"			"147"
-		"ypos"			"128"
-		"wide"			"640"
-		"tall"			"480"
+		//"xpos"			"147"
+		//"ypos"			"128"
+		//"wide"			"640"
+		//"tall"			"480"
 		
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"	"1"
@@ -20,13 +20,13 @@
 		{
 			"ControlName"	"CColorXYPreview"
 			"fieldName"		"ColorXYPreview"
-			"xpos"			"10"
-			"ypos"			"10"
-			"wide"			"256"
-			"tall"			"256"
+			//"xpos"			"10"
+			//"ypos"			"10"
+			//"wide"			"256"
+			//"tall"			"256"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 		}
@@ -35,13 +35,13 @@
 		{
 			"ControlName"	"CColorZPreview"
 			"fieldName"		"ColorZPreview"
-			"xpos"			"274"
-			"ypos"			"4"
-			"wide"			"36"
-			"tall"			"268"
+			//"xpos"			"274"
+			//"ypos"			"4"
+			//"wide"			"36"
+			//"tall"			"268"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 		}
@@ -50,13 +50,13 @@
 		{
 			"ControlName"	"Panel"
 			"fieldName"		"CurrentColor"
-			"xpos"			"325"
-			"ypos"			"10"
-			"wide"			"100"
-			"tall"			"50"
+			//"xpos"			"325"
+			//"ypos"			"10"
+			//"wide"			"100"
+			//"tall"			"50"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 		}
@@ -65,13 +65,13 @@
 		{
 			"ControlName"	"Panel"
 			"fieldName"		"InitialColor"
-			"xpos"			"325"
-			"ypos"			"67"
-			"wide"			"100"
-			"tall"			"50"
+			//"xpos"			"325"
+			//"ypos"			"67"
+			//"wide"			"100"
+			//"tall"			"50"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			
 		}
@@ -80,22 +80,22 @@
 		{
 			"ControlName"		"RadioButton"
 			"fieldName"		"HueRadio"
-			"xpos"			"325"
-			"ypos"			"125"
-			"wide"			"48"
-			"tall"			"24"
+			//"xpos"			"325"
+			//"ypos"			"125"
+			//"wide"			"48"
+			//"tall"			"24"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"selected"		"1"
-			"tabPosition"		"8"
-			"labelText"			"H"
-			//"textAlignment"		"west"
-			//"dulltext"			"0"
+			//"tabPosition"		"8"
+			////"labelText"			"H"
+			////"textAlignment"		"west"
+			////"dulltext"			"0"
 			////"brighttext"		"0"
 			"wrap"				"0"
-			"Default"			"0"
+			//"Default"			"0"
 			"SubTabPosition"	"1"
 		}
 		
@@ -103,21 +103,21 @@
 		{
 			"ControlName"		"RadioButton"
 			"fieldName"		"SaturationRadio"
-			"xpos"			"325"
-			"ypos"			"150"
-			"wide"			"48"
-			"tall"			"24"
+			//"xpos"			"325"
+			//"ypos"			"150"
+			//"wide"			"48"
+			//"tall"			"24"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
-			"tabPosition"		"8"
-			"labelText"			"S"
-			//"textAlignment"		"west"
-			//"dulltext"			"0"
+			//"tabPosition"		"8"
+			////"labelText"			"S"
+			////"textAlignment"		"west"
+			////"dulltext"			"0"
 			////"brighttext"		"0"
 			"wrap"				"0"
-			"Default"			"0"
+			//"Default"			"0"
 			"SubTabPosition"	"2"
 		}
 		
@@ -125,21 +125,21 @@
 		{
 			"ControlName"		"RadioButton"
 			"fieldName"		"ValueRadio"
-			"xpos"			"325"
-			"ypos"			"175"
-			"wide"			"48"
-			"tall"			"24"
+			//"xpos"			"325"
+			//"ypos"			"175"
+			//"wide"			"48"
+			//"tall"			"24"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
-			"tabPosition"		"8"
-			"labelText"			"V"
-			//"textAlignment"		"west"
-			//"dulltext"			"0"
+			//"tabPosition"		"8"
+			////"labelText"			"V"
+			////"textAlignment"		"west"
+			////"dulltext"			"0"
 			////"brighttext"		"0"
 			"wrap"				"0"
-			"Default"			"0"
+			//"Default"			"0"
 			"SubTabPosition"	"3"
 		}
 		
@@ -147,21 +147,21 @@
 		{
 			"ControlName"		"RadioButton"
 			"fieldName"		"RedRadio"
-			"xpos"			"325"
-			"ypos"			"200"
-			"wide"			"48"
-			"tall"			"24"
+			//"xpos"			"325"
+			//"ypos"			"200"
+			//"wide"			"48"
+			//"tall"			"24"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
-			"tabPosition"		"8"
-			"labelText"			"R"
-			//"textAlignment"		"west"
-			//"dulltext"			"0"
+			//"tabPosition"		"8"
+			////"labelText"			"R"
+			////"textAlignment"		"west"
+			////"dulltext"			"0"
 			////"brighttext"		"0"
 			"wrap"				"0"
-			"Default"			"0"
+			//"Default"			"0"
 			"SubTabPosition"	"4"
 		}
 		
@@ -169,21 +169,21 @@
 		{
 			"ControlName"		"RadioButton"
 			"fieldName"		"GreenRadio"
-			"xpos"			"325"
-			"ypos"			"225"
-			"wide"			"48"
-			"tall"			"24"
+			//"xpos"			"325"
+			//"ypos"			"225"
+			//"wide"			"48"
+			//"tall"			"24"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
-			"tabPosition"		"8"
-			"labelText"			"G"
-			//"textAlignment"		"west"
-			//"dulltext"			"0"
+			//"tabPosition"		"8"
+			////"labelText"			"G"
+			////"textAlignment"		"west"
+			////"dulltext"			"0"
 			////"brighttext"		"0"
 			"wrap"				"0"
-			"Default"			"0"
+			//"Default"			"0"
 			"SubTabPosition"	"5"
 		}
 		
@@ -191,21 +191,21 @@
 		{
 			"ControlName"		"RadioButton"
 			"fieldName"		"BlueRadio"
-			"xpos"			"325"
-			"ypos"			"250"
-			"wide"			"48"
-			"tall"			"24"
+			//"xpos"			"325"
+			//"ypos"			"250"
+			//"wide"			"48"
+			//"tall"			"24"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
-			"tabPosition"		"8"
-			"labelText"			"B"
-			//"textAlignment"		"west"
-			//"dulltext"			"0"
+			//"tabPosition"		"8"
+			////"labelText"			"B"
+			////"textAlignment"		"west"
+			////"dulltext"			"0"
 			////"brighttext"		"0"
 			"wrap"				"0"
-			"Default"			"0"
+			//"Default"			"0"
 			"SubTabPosition"	"6"
 		}
 		
@@ -213,19 +213,19 @@
 		{
 			"ControlName"		"TextEntry"
 			"fieldName"		"HueText"
-			"xpos"			"375"
-			"ypos"			"125"
-			"wide"			"48"
-			"tall"			"24"
+			//"xpos"			"375"
+			//"ypos"			"125"
+			//"wide"			"48"
+			//"tall"			"24"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"NumericInputOnly" "1"
-			"tabPosition"		"1"
-			"labelText"			""
-			//"textAlignment"		"west"
-			//"dulltext"			"0"
+			//"tabPosition"		"1"
+			////"labelText"			""
+			////"textAlignment"		"west"
+			////"dulltext"			"0"
 			////"brighttext"		"0"
 		}
 		
@@ -233,19 +233,19 @@
 		{
 			"ControlName"		"TextEntry"
 			"fieldName"		"SaturationText"
-			"xpos"			"375"
-			"ypos"			"150"
-			"wide"			"48"
-			"tall"			"24"
+			//"xpos"			"375"
+			//"ypos"			"150"
+			//"wide"			"48"
+			//"tall"			"24"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"NumericInputOnly" "1"
-			"tabPosition"		"2"
-			"labelText"			""
-			//"textAlignment"		"west"
-			//"dulltext"			"0"
+			//"tabPosition"		"2"
+			////"labelText"			""
+			////"textAlignment"		"west"
+			////"dulltext"			"0"
 			////"brighttext"		"0"
 		}
 
@@ -253,19 +253,19 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"SaturationLabel"
-			"xpos"			"425"
-			"ypos"			"150"
-			"wide"			"15"
-			"tall"			"24"
+			//"xpos"			"425"
+			//"ypos"			"150"
+			//"wide"			"15"
+			//"tall"			"24"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			
-			"labelText"			"%"
-			//"textAlignment"		"west"
-			//"dulltext"			"0"
+			////"labelText"			"%"
+			////"textAlignment"		"west"
+			////"dulltext"			"0"
 			////"brighttext"		"0"
 		}
 
@@ -273,19 +273,19 @@
 		{
 			"ControlName"		"TextEntry"
 			"fieldName"		"ValueText"
-			"xpos"			"375"
-			"ypos"			"175"
-			"wide"			"48"
-			"tall"			"24"
+			//"xpos"			"375"
+			//"ypos"			"175"
+			//"wide"			"48"
+			//"tall"			"24"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"NumericInputOnly" "1"
-			"tabPosition"		"3"
-			"labelText"			""
-			//"textAlignment"		"west"
-			//"dulltext"			"0"
+			//"tabPosition"		"3"
+			////"labelText"			""
+			////"textAlignment"		"west"
+			////"dulltext"			"0"
 			////"brighttext"		"0"
 		}
 
@@ -293,19 +293,19 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ValueLabel"
-			"xpos"			"425"
-			"ypos"			"175"
-			"wide"			"15"
-			"tall"			"24"
+			//"xpos"			"425"
+			//"ypos"			"175"
+			//"wide"			"15"
+			//"tall"			"24"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			
-			"labelText"			"%"
-			//"textAlignment"		"west"
-			//"dulltext"			"0"
+			////"labelText"			"%"
+			////"textAlignment"		"west"
+			////"dulltext"			"0"
 			////"brighttext"		"0"
 		}
 
@@ -313,19 +313,19 @@
 		{
 			"ControlName"		"TextEntry"
 			"fieldName"		"RedText"
-			"xpos"			"375"
-			"ypos"			"200"
-			"wide"			"48"
-			"tall"			"24"
+			//"xpos"			"375"
+			//"ypos"			"200"
+			//"wide"			"48"
+			//"tall"			"24"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"NumericInputOnly" "1"
-			"tabPosition"		"4"
-			"labelText"			""
-			//"textAlignment"		"west"
-			//"dulltext"			"0"
+			//"tabPosition"		"4"
+			////"labelText"			""
+			////"textAlignment"		"west"
+			////"dulltext"			"0"
 			////"brighttext"		"0"
 		}
 
@@ -333,19 +333,19 @@
 		{
 			"ControlName"		"TextEntry"
 			"fieldName"		"GreenText"
-			"xpos"			"375"
-			"ypos"			"225"
-			"wide"			"48"
-			"tall"			"24"
+			//"xpos"			"375"
+			//"ypos"			"225"
+			//"wide"			"48"
+			//"tall"			"24"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"NumericInputOnly" "1"
-			"tabPosition"		"5"
-			"labelText"			""
-			//"textAlignment"		"west"
-			//"dulltext"			"0"
+			//"tabPosition"		"5"
+			////"labelText"			""
+			////"textAlignment"		"west"
+			////"dulltext"			"0"
 			////"brighttext"		"0"
 		}
 
@@ -353,19 +353,19 @@
 		{
 			"ControlName"		"TextEntry"
 			"fieldName"		"BlueText"
-			"xpos"			"375"
-			"ypos"			"250"
-			"wide"			"48"
-			"tall"			"24"
+			//"xpos"			"375"
+			//"ypos"			"250"
+			//"wide"			"48"
+			//"tall"			"24"
 			"NumericInputOnly" "1"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
-			"tabPosition"		"6"
-			"labelText"			""
-			//"textAlignment"		"west"
-			//"dulltext"			"0"
+			//"tabPosition"		"6"
+			////"labelText"			""
+			////"textAlignment"		"west"
+			////"dulltext"			"0"
 			////"brighttext"		"0"
 		}		
 			
@@ -373,19 +373,19 @@
 		{
 			"ControlName"		"TextEntry"
 			"fieldName"		"AlphaText"
-			"xpos"			"375"
-			"ypos"			"275"
-			"wide"			"48"
-			"tall"			"24"
+			//"xpos"			"375"
+			//"ypos"			"275"
+			//"wide"			"48"
+			//"tall"			"24"
 			"NumericInputOnly" "1"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
-			"tabPosition"		"7"
-			"labelText"			""
-			//"textAlignment"		"west"
-			//"dulltext"			"0"
+			//"tabPosition"		"7"
+			////"labelText"			""
+			////"textAlignment"		"west"
+			////"dulltext"			"0"
 			////"brighttext"		"0"
 		}	
 		
@@ -393,19 +393,19 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"AlphaLabel"
-			"xpos"			"350"
-			"ypos"			"275"
-			"wide"			"15"
-			"tall"			"24"
+			//"xpos"			"350"
+			//"ypos"			"275"
+			//"wide"			"15"
+			//"tall"			"24"
 			
 			
-			//"visible"		"1"
+			////"visible"		"1"
 			
 			"NumericInputOnly" "1"
 			
-			"labelText"			"A"
-			//"textAlignment"		"west"
-			//"dulltext"			"0"
+			////"labelText"			"A"
+			////"textAlignment"		"west"
+			////"dulltext"			"0"
 			////"brighttext"		"0"
 		}
 	}

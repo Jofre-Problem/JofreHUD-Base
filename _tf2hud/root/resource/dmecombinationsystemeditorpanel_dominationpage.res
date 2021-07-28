@@ -4,16 +4,16 @@
 	{
 		"ControlName"	"CDmeCombinationDominationRulesPanel"
 		"fieldName"		"DominationRules"
-		"xpos"			"6"
-		"ypos"			"6"
-		"wide"			"256"
-		"tall"			"256"
+		//////"xpos"			"6"
+		//////"ypos"			"6"
+		//"wide"			"256"
+		//"tall"			"256"
 		
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
 		
-		//"autoresize"	"3"
+		//////"autoResize"	"3"
 		
 		
 		
@@ -24,17 +24,17 @@
 		{
 			"ControlName"	"ListPanel"
 			"fieldName"		"DominationRulesList"
-			"xpos"			"6"
-			"ypos"			"6"
-			"wide"			"256"
-			"tall"			"256"
-			//"autoresize"	"3"
+			//////"xpos"			"6"
+			//////"ypos"			"6"
+			//"wide"			"256"
+			//"tall"			"256"
+			//////"autoResize"	"3"
 			
 			//"PinnedCornerOffsetX" "6"
 			//"PinnedCornerOffsetY" "6"
 			//"UnpinnedCornerOffsetX" "-6"
 			//"UnpinnedCornerOffsetY" "-6"
-			//"visible"		"1"
+			//////"visible"		"1"
 			
 			
 		}

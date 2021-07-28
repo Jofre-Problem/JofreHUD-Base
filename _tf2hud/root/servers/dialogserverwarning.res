@@ -8,12 +8,12 @@
 		"ypos"		"487"
 		"wide"		"500"
 		"tall"		"300"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"settitlebarvisible"		"1"
 		"title"		"#ServerBrowser_ServerWarningTitle"
 	}
@@ -25,14 +25,14 @@
 		"ypos"		"46"
 		"wide"		"460"
 		"tall"		"150"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"labelText"		"%warning%"
-		//"textAlignment"		"west"
+		"textAlignment"		"west"
 		"wrap"		"1"
 	}
 	"DontShowThisAgainCheckbutton"
@@ -43,15 +43,15 @@
 		"ypos"		"200"
 		"wide"		"200"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		//"tabposition"		"7"
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"7"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerWarningCheckButton"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"OKButton"
@@ -62,17 +62,17 @@
 		"ypos"		"250"
 		"wide"		"200"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		//"tabposition"		"2"
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"2"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerWarningOk"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Command"		"OK"
-		//"Default"		"1"
+		"Default"		"1"
 	}
 	"CancelButton"
 	{
@@ -82,15 +82,15 @@
 		"ypos"		"250"
 		"wide"		"150"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		//"tabposition"		"4"
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"4"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Cancel"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
 	}

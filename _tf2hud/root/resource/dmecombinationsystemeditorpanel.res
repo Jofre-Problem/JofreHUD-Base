@@ -6,16 +6,16 @@
 		"fieldName"		"EditorSheet"
 		
 		
-		"wide"			"463"
-		"tall"			"212"
-		//"autoresize"	"3"
+		//"wide"			"463"
+		//"tall"			"212"
+		//////"autoResize"	"3"
 		
 		
 		
 		
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
-		//"tabposition"	"1"
+		//////"tabPosition"	"1"
 	}
 }

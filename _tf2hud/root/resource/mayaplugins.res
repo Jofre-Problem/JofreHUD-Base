@@ -363,7 +363,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"10"
+				//"tall"		"10"
 				"weight"	"500"
 				"antialias" "1"
 			}
@@ -374,7 +374,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"7"
+				//"tall"		"7"
 				"weight"	"500"
 				"antialias" "1"
 			}
@@ -384,17 +384,17 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"10"
+				//"tall"		"10"
 				"weight"	"0"
 				"outline"	"1"
 			}
 		}
-		"Default"
+		////"Default"
 		{
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"12"
+				//"tall"		"12"
 				"weight"	"800"
 				"antialias" "1"
 				// "dropshadow" "1"
@@ -405,7 +405,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"14"
+				//"tall"		"14"
 				"weight"	"1000"
 				"antialias" "1"
 			}
@@ -415,7 +415,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"16"
+				//"tall"		"16"
 				"weight"	"500"
 				"underline" "1"
 			}
@@ -425,7 +425,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"12"
+				//"tall"		"12"
 				"weight"	"0"
 			}
 		}
@@ -434,7 +434,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"13"
+				//"tall"		"13"
 				"weight"	"0"
 				"dropshadow" "1"
 			}
@@ -445,7 +445,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				//"name"		"Segoe UI"
-				"tall"		"12"
+				//"tall"		"12"
 				"weight"	"0"
 				"antialias" "1"
 			}
@@ -456,7 +456,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"18"
+				//"tall"		"18"
 				"weight"	"0"
 			}
 		}
@@ -465,7 +465,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"32"
+				//"tall"		"32"
 				"weight"	"1000"
 				"outline"	"1"
 				"antialias" "1"
@@ -477,7 +477,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"12"
+				//"tall"		"12"
 				"weight"	"1000"
 			}
 		}
@@ -486,7 +486,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"12"
+				//"tall"		"12"
 				"weight"	"1000"
 				"antialias" "1"
 			}
@@ -497,7 +497,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"12"
+				//"tall"		"12"
 				"weight"	"0"
 				"antialias" "1"
 			}
@@ -508,7 +508,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"13"
+				//"tall"		"13"
 				"weight"	"0"
 				"antialias" "1"
 			}
@@ -519,7 +519,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"14"
+				//"tall"		"14"
 				"weight"	"0"
 				"antialias" "1"
 			}
@@ -530,7 +530,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"18"
+				//"tall"		"18"
 				"weight"	"0"
 				"antialias" "1"
 			}
@@ -541,7 +541,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"22"
+				//"tall"		"22"
 				"weight"	"0"
 				"antialias" "1"
 			}
@@ -552,7 +552,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"16"
+				//"tall"		"16"
 				"weight"	"600"
 				"antialias" "1"
 			}
@@ -563,7 +563,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"10"
+				//"tall"		"10"
 				"weight"	"500"
 			}
 		}
@@ -574,7 +574,7 @@ Scheme
 			"1"
 			{
 				"name"		"Marlett"
-				"tall"		"14"
+				//"tall"		"14"
 				"weight"	"0"
 				"symbol"	"1"
 			}
@@ -584,7 +584,7 @@ Scheme
 			"1"
 			{
 				"name"		"Marlett"
-				"tall"		"10"
+				//"tall"		"10"
 				"weight"	"0"
 				"symbol"	"1"
 			}
@@ -594,7 +594,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"24"
+				//"tall"		"24"
 				//"weight"	"900"
 			}
 		}
@@ -605,7 +605,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"20"
+				//"tall"		"20"
 				//"weight"	"900"
 			}
 		}
@@ -615,7 +615,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"18"
+				//"tall"		"18"
 				//"weight"	"900"
 			}
 		}
@@ -627,7 +627,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"40"
+				//"tall"		"40"
 				//"weight"	"900"
 			}
 		}
@@ -636,7 +636,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"41"
+				//"tall"		"41"
 				//"weight"	"900"
 			}
 		}
@@ -645,7 +645,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"42"
+				//"tall"		"42"
 				//"weight"	"900"
 			}
 		}
@@ -654,7 +654,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"43"
+				//"tall"		"43"
 				//"weight"	"900"
 			}
 		}
@@ -663,7 +663,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"44"
+				//"tall"		"44"
 				//"weight"	"900"
 			}
 		}
@@ -672,7 +672,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"45"
+				//"tall"		"45"
 				//"weight"	"900"
 			}
 		}
@@ -681,13 +681,13 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"10"
+				//"tall"		"10"
 				"weight"	"0"
 			}
 //			"1"
 //			{
 //				"name"		"FixedSys"
-//				"tall"		"20"
+//				//"tall"		"20"
 //				"weight"	"0"
 //			}
 		}
@@ -697,14 +697,14 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"10"
+				//"tall"		"10"
 				"weight"	"0"
 				"dropshadow" "1"
 			}
 //			"1"
 //			{
 //				"name"		"FixedSys"
-//				"tall"		"20"
+//				//"tall"		"20"
 //				"weight"	"0"
 //			}
 		}
@@ -714,7 +714,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"16"
+				//"tall"		"16"
 				"weight"	"500"
 			}
 		}
@@ -723,7 +723,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"16"
+				//"tall"		"16"
 				"weight"	"500"
 				"italic"	"1"
 			}
@@ -733,7 +733,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"16"
+				//"tall"		"16"
 				//"weight"	"900"
 			}
 		}
@@ -742,7 +742,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"16"
+				//"tall"		"16"
 				//"weight"	"900"
 				"italic"	"1"
 			}

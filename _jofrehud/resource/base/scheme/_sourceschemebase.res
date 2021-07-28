@@ -1,6 +1,6 @@
 #base "cs_global.res"
 #base "cs_fonts_1.res"
-#base "global/bs_1.res"
+
 #base "font/appchooser.res"
 #base "bitmap.res"
 #base "cff_hl2_1.res"

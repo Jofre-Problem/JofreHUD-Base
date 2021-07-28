@@ -56,8 +56,8 @@ Scheme
 	// controls use these to determine their settings
 	BaseSettings
 	{
-		"FgColor"			"ControlText"
-		"BgColor"			"ControlBG"
+		//"FgColor"			"ControlText"
+		//"BgColor"			"ControlBG"
 		"LabelBgColor"		"ControlBG"
 		"SubPanelBgColor"	"ControlBG"
 
@@ -82,8 +82,8 @@ Scheme
 
 		Menu
 		{
-			"FgColor"			"DimBaseText"
-			"BgColor"			"ControlBG"
+			//"FgColor"			"DimBaseText"
+			//"BgColor"			"ControlBG"
 			"ArmedFgColor"		"BrightBaseText"
 			"ArmedBgColor"		"SelectionBG"
 			"DividerColor"		"BorderDark"
@@ -107,7 +107,7 @@ Scheme
 
 		ScrollBarSlider
 		{
-			"BgColor"					"ControlBG"		// this isn't really used
+			//"BgColor"					"ControlBG"		// this isn't really used
 			"ScrollBarSliderFgColor"	"ControlBG"		// handle with which the slider is grabbed
 			"ScrollBarSliderBgColor"	"ControlDarkBG"	// area behind handle
 			"ButtonFgColor"				"DimBaseText"	// color of arrows
@@ -185,12 +185,12 @@ Scheme
 		// fonts are used in order that they are listed
 		// fonts listed later in the order will only be used if they fulfill a range not already filled
 		// if a font fails to load then the subsequent fonts will replace
-		"Default"
+		////"Default"
 		{
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"16"
+				//"tall"		"16"
 				"weight"	"0"
 			}
 		}
@@ -199,7 +199,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"16"
+				//"tall"		"16"
 				"weight"	"0"
 				"underline" "1"
 			}
@@ -209,7 +209,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"13"
+				//"tall"		"13"
 				"weight"	"0"
 			}
 		}
@@ -218,7 +218,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"12"
+				//"tall"		"12"
 				"weight"	"0"
 			}
 		}
@@ -227,7 +227,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"18"
+				//"tall"		"18"
 				"weight"	"1000"
 				"antialias" "0"
 			}
@@ -237,7 +237,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"16"
+				//"tall"		"16"
 				"weight"	"1000"
 				"antialias" "0"
 			}
@@ -249,7 +249,7 @@ Scheme
 			"1"
 			{
 				"name"		"Marlett"
-				"tall"		"14"
+				//"tall"		"14"
 				"weight"	"0"
 				"symbol"	"1"
 			}
@@ -260,7 +260,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"12"
+				//"tall"		"12"
 				"weight"	"600"
 				"yres"	"480 599"
 				"dropshadow"	"1"
@@ -268,7 +268,7 @@ Scheme
 			"2"
 			{
 				"name"		"Segoe UI"
-				"tall"		"13"
+				//"tall"		"13"
 				"weight"	"600"
 				"yres"	"600 767"
 				"dropshadow"	"1"
@@ -276,7 +276,7 @@ Scheme
 			"3"
 			{
 				"name"		"Segoe UI"
-				"tall"		"14"
+				//"tall"		"14"
 				"weight"	"600"
 				"yres"	"768 1023"
 				"dropshadow"	"1"
@@ -284,7 +284,7 @@ Scheme
 			"4"
 			{
 				"name"		"Segoe UI"
-				"tall"		"20"
+				//"tall"		"20"
 				"weight"	"600"
 				"yres"	"1024 1199"
 				"dropshadow"	"1"
@@ -292,7 +292,7 @@ Scheme
 			"5"
 			{
 				"name"		"Segoe UI"
-				"tall"		"24"
+				//"tall"		"24"
 				"weight"	"600"
 				"yres"	"1200 6000"
 				"dropshadow"	"1"
@@ -304,7 +304,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"18"
+				//"tall"		"18"
 				"weight"	"600"
 				"antialias"	"1"
 			}
@@ -315,7 +315,7 @@ Scheme
 			"1"
 			{
 				"name"		"Segoe UI"
-				"tall"		"20"
+				//"tall"		"20"
 				"weight"	"700"
 				"antialias"	"1"
 				"yres"	"1 10000"
@@ -467,7 +467,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "BgColor"
+					"color" //"BgColor"
 					"offset" "0 1"
 				}
 			}
@@ -476,7 +476,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "BgColor"
+					"color" //"BgColor"
 					"offset" "1 0"
 				}
 			}
@@ -484,7 +484,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "BgColor"
+					"color" //"BgColor"
 					"offset" "0 0"
 				}
 			}
@@ -493,7 +493,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "BgColor"
+					"color" //"BgColor"
 					"offset" "0 0"
 				}
 			}

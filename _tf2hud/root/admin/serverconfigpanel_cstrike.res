@@ -6,33 +6,33 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"mp_c4timerlabel"
-		"xpos"		"5"
-		"ypos"		"30"
-		"wide"		"100"
-		"tall"		"20"
+		//////"xpos"		"5"
+		//////"ypos"		"30"
+		//"wide"		"100"
+		//"tall"		"20"
 		
-		////"pincorner"	"0"
-		"visible"	"1"
+		////////"pinCorner"	"0"
+		////"visible"	"1"
 		
 		
-		"labelText"	"C4 Timer"
+		//////"labelText"	"C4 Timer"
 	}
 	"mp_c4timer"
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"mp_c4timer"
-		"xpos"		"110"
-		"ypos"		"30"
-		"wide"		"100"
-		"tall"		"20"
+		//////"xpos"		"110"
+		//////"ypos"		"30"
+		//"wide"		"100"
+		//"tall"		"20"
 		
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
-		//"tabposition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
-		"maxchars"		"-1"
+		//////"tabPosition"		"1"
+		////"textHidden"		"0"
+		//////"editable"		"1"
+		////"maxchars"		"-1"
 	}
 
 
@@ -40,66 +40,66 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"mp_timelimitlabel"
-		"xpos"		"5"
-		"ypos"		"55"
-		"wide"		"100"
-		"tall"		"20"
+		//////"xpos"		"5"
+		//////"ypos"		"55"
+		//"wide"		"100"
+		//"tall"		"20"
 		
-		////"pincorner"	"0"
-		"visible"	"1"
+		////////"pinCorner"	"0"
+		////"visible"	"1"
 		
 		
-		"labelText"	"Timelimit"
+		//////"labelText"	"Timelimit"
 	}
 	"mp_timelimit"
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"mp_timelimit"
-		"xpos"		"110"
-		"ypos"		"55"
-		"wide"		"100"
-		"tall"		"20"
+		//////"xpos"		"110"
+		//////"ypos"		"55"
+		//"wide"		"100"
+		//"tall"		"20"
 		
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
-		//"tabposition"		"2"
-		//"textHidden"		"0"
-		//"editable"		"1"
-		"maxchars"		"-1"
+		//////"tabPosition"		"2"
+		////"textHidden"		"0"
+		//////"editable"		"1"
+		////"maxchars"		"-1"
 	}
 
 	"mp_roundtimelabel"
 	{
 		"ControlName"		"Label"
 		"fieldName"		"mp_roundtimelabel"
-		"xpos"		"5"
-		"ypos"		"80"
-		"wide"		"100"
-		"tall"		"20"
+		//////"xpos"		"5"
+		//////"ypos"		"80"
+		//"wide"		"100"
+		//"tall"		"20"
 		
-		////"pincorner"	"0"
-		"visible"	"1"
+		////////"pinCorner"	"0"
+		////"visible"	"1"
 		
 		
-		"labelText"	"Round time"
+		//////"labelText"	"Round time"
 	}
 	"mp_roundtime"
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"mp_roundtime"
-		"xpos"		"110"
-		"ypos"		"80"
-		"wide"		"100"
-		"tall"		"20"
+		//////"xpos"		"110"
+		//////"ypos"		"80"
+		//"wide"		"100"
+		//"tall"		"20"
 		
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
-		//"tabposition"		"3"
-		//"textHidden"		"0"
-		//"editable"		"1"
-		"maxchars"		"-1"
+		//////"tabPosition"		"3"
+		////"textHidden"		"0"
+		//////"editable"		"1"
+		////"maxchars"		"-1"
 	}
 
 
@@ -108,17 +108,17 @@
 	{
 		"ControlName"		"CheckButton"
 		"fieldName"		"sv_voiceenable"
-		"xpos"		"5"
-		"ypos"		"130"
-		"wide"		"150"
-		"tall"		"20"
+		//////"xpos"		"5"
+		//////"ypos"		"130"
+		//"wide"		"150"
+		//"tall"		"20"
 		
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
-		//"tabposition"		"4"
-		"labelText"		"Enable Friendly Fire"
-		//"textAlignment"		"west"
+		//////"tabPosition"		"4"
+		//////"labelText"		"Enable Friendly Fire"
+		////////"textAlignment"		"west"
 	}
 
 
@@ -131,17 +131,17 @@
 	{
 		"ControlName"		"CheckButton"
 		"fieldName"		"sv_allowupload"
-		"xpos"		"350"
-		"ypos"		"5"
-		"wide"		"120"
-		"tall"		"20"
+		//////"xpos"		"350"
+		//////"ypos"		"5"
+		//"wide"		"120"
+		//"tall"		"20"
 		
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
-		//"tabposition"		"5"
-		"labelText"		"Allow Uploads"
-		//"textAlignment"		"west"
+		//////"tabPosition"		"5"
+		//////"labelText"		"Allow Uploads"
+		////////"textAlignment"		"west"
 	}
 
 
@@ -149,100 +149,100 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"sv_minratelabel"
-		"xpos"		"350"
-		"ypos"		"30"
-		"wide"		"75"
-		"tall"		"20"
+		//////"xpos"		"350"
+		//////"ypos"		"30"
+		//"wide"		"75"
+		//"tall"		"20"
 		
-		////"pincorner"	"0"
-		"visible"	"1"
+		////////"pinCorner"	"0"
+		////"visible"	"1"
 		
 		
-		"labelText"	"MinRate"
+		//////"labelText"	"MinRate"
 	}
 	"sv_minrate"
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"sv_minrate"
-		"xpos"		"425"
-		"ypos"		"30"
-		"wide"		"100"
-		"tall"		"20"
+		//////"xpos"		"425"
+		//////"ypos"		"30"
+		//"wide"		"100"
+		//"tall"		"20"
 		
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
-		//"tabposition"		"6"
-		//"textHidden"		"0"
-		//"editable"		"1"
-		"maxchars"		"-1"
+		//////"tabPosition"		"6"
+		////"textHidden"		"0"
+		//////"editable"		"1"
+		////"maxchars"		"-1"
 	}
 
 	"sv_maxratelabel"
 	{
 		"ControlName"		"Label"
 		"fieldName"		"sv_maxratelabel"
-		"xpos"		"350"
-		"ypos"		"55"
-		"wide"		"75"
-		"tall"		"20"
+		//////"xpos"		"350"
+		//////"ypos"		"55"
+		//"wide"		"75"
+		//"tall"		"20"
 		
-		////"pincorner"	"0"
-		"visible"	"1"
+		////////"pinCorner"	"0"
+		////"visible"	"1"
 		
 		
-		"labelText"	"MaxRate"
+		//////"labelText"	"MaxRate"
 	}
 	"sv_maxrate"
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"sv_maxrate"
-		"xpos"		"425"
-		"ypos"		"55"
-		"wide"		"100"
-		"tall"		"20"
+		//////"xpos"		"425"
+		//////"ypos"		"55"
+		//"wide"		"100"
+		//"tall"		"20"
 		
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
-		//"tabposition"		"7"
-		//"textHidden"		"0"
-		//"editable"		"1"
-		"maxchars"		"-1"
+		//////"tabPosition"		"7"
+		////"textHidden"		"0"
+		//////"editable"		"1"
+		////"maxchars"		"-1"
 	}
 
 	"sv_voiceenable"
 	{
 		"ControlName"		"CheckButton"
 		"fieldName"		"sv_voiceenable"
-		"xpos"		"350"
-		"ypos"		"80"
-		"wide"		"150"
-		"tall"		"20"
+		//////"xpos"		"350"
+		//////"ypos"		"80"
+		//"wide"		"150"
+		//"tall"		"20"
 		
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
-		//"tabposition"		"8"
-		"labelText"		"Allow Voice"
-		//"textAlignment"		"west"
+		//////"tabPosition"		"8"
+		//////"labelText"		"Allow Voice"
+		////////"textAlignment"		"west"
 	}
 
 	"mp_fadetoblack"
 	{
 		"ControlName"		"CheckButton"
 		"fieldName"		"mp_fadetoblack"
-		"xpos"		"350"
-		"ypos"		"105"
-		"wide"		"150"
-		"tall"		"20"
+		//////"xpos"		"350"
+		//////"ypos"		"105"
+		//"wide"		"150"
+		//"tall"		"20"
 		
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
-		//"tabposition"		"9"
-		"labelText"		"Fade Screen to Black"
-		//"textAlignment"		"west"
+		//////"tabPosition"		"9"
+		//////"labelText"		"Fade Screen to Black"
+		////////"textAlignment"		"west"
 	}
 
 }

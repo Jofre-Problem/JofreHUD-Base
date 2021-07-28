@@ -11,23 +11,23 @@
 
 		"fieldName"		"SubPanelFindBuddyComplete"
 
-		"xpos"		"5"
+		//"xpos"		"5"
 
-		"ypos"		"29"
+		//"ypos"		"29"
 
-		"wide"		"470"
+		//"wide"		"470"
 
-		"tall"		"291"
-
-		
+		//"tall"		"291"
 
 		
 
-		//"visible"		"1"
+		
+
+		////"visible"		"1"
 
 		
 
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 
 		"WizardWide"		"0"
 
@@ -43,29 +43,29 @@
 
 		"fieldName"		"InfoText"
 
-		"xpos"		"32"
+		//"xpos"		"32"
 
-		"ypos"		"32"
+		//"ypos"		"32"
 
-		"wide"		"380"
+		//"wide"		"380"
 
-		"tall"		"87"
-
-		
-
-		
-
-		//"visible"		"1"
+		//"tall"		"87"
 
 		
 
 		
 
-		"labelText"		"#TrackerUI_AuthRequestSent"
+		////"visible"		"1"
 
-		"textAlignment"		"north-west"
+		
 
-		////"dulltext"		"0"
+		
+
+		////"labelText"		"#TrackerUI_AuthRequestSent"
+
+		//"textAlignment"		"north-west"
+
+		//////"dulltext"		"0"
 
 		////"brighttext"		"0"
 

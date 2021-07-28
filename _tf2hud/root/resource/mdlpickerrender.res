@@ -4,13 +4,13 @@
 	{
 		"ControlName"	"PropertyPage"
 		"fieldName"		"RenderPage"
-		"xpos"			"6"
-		"ypos"			"6"
-		"wide"			"256"
-		"tall"			"256"
+		//////"xpos"			"6"
+		//////"ypos"			"6"
+		//"wide"			"256"
+		//"tall"			"256"
 		
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
 		
 	
@@ -18,140 +18,140 @@
 		{
 			"ControlName"		"CheckButton"
 			"fieldName"		"Wireframe"
-			"xpos"		"6"
-			"ypos"		"6"
-			"wide"		"120"
-			"tall"		"24"
+			//////"xpos"		"6"
+			//////"ypos"		"6"
+			//"wide"		"120"
+			//"tall"		"24"
 			
 			
-			//"visible"		"1"
+			//////"visible"		"1"
 			
-			//"tabposition"	"1"
-			"labelText"		"Wireframe"
-			//"textAlignment"		"west"
-			////"dulltext"		"0"
-			////"brighttext"		"0"
-			"Default"		"0"
+			//////"tabPosition"	"1"
+			//////"labelText"		"Wireframe"
+			////////"textAlignment"		"west"
+			//////////"dulltext"		"0"
+			////////"brighttext"		"0"
+			////"Default"		"0"
 		}
 		
 		"Collision"
 		{
 			"ControlName"		"CheckButton"
 			"fieldName"		"Collision"
-			"xpos"		"6"
-			"ypos"		"28"
-			"wide"		"120"
-			"tall"		"24"
+			//////"xpos"		"6"
+			//////"ypos"		"28"
+			//"wide"		"120"
+			//"tall"		"24"
 			
 			
-			//"visible"		"1"
+			//////"visible"		"1"
 			
-			//"tabposition"	"2"
-			"labelText"		"Collision Model"
-			//"textAlignment"		"west"
-			////"dulltext"		"0"
-			////"brighttext"		"0"
-			"Default"		"0"
+			//////"tabPosition"	"2"
+			//////"labelText"		"Collision Model"
+			////////"textAlignment"		"west"
+			//////////"dulltext"		"0"
+			////////"brighttext"		"0"
+			////"Default"		"0"
 		}
 		
 		"NoGround"
 		{
 			"ControlName"		"CheckButton"
 			"fieldName"		"NoGround"
-			"xpos"		"6"
-			"ypos"		"50"
-			"wide"		"120"
-			"tall"		"24"
+			//////"xpos"		"6"
+			//////"ypos"		"50"
+			//"wide"		"120"
+			//"tall"		"24"
 			
 			
-			//"visible"		"1"
+			//////"visible"		"1"
 			
-			//"tabposition"	"3"
-			"labelText"		"No Ground"
-			//"textAlignment"		"west"
-			////"dulltext"		"0"
-			////"brighttext"		"0"
-			"Default"		"0"
+			//////"tabPosition"	"3"
+			//////"labelText"		"No Ground"
+			////////"textAlignment"		"west"
+			//////////"dulltext"		"0"
+			////////"brighttext"		"0"
+			////"Default"		"0"
 		}
 		
 		"LockView"
 		{
 			"ControlName"		"CheckButton"
 			"fieldName"		"LockView"
-			"xpos"		"6"
-			"ypos"		"72"
-			"wide"		"120"
-			"tall"		"24"
+			//////"xpos"		"6"
+			//////"ypos"		"72"
+			//"wide"		"120"
+			//"tall"		"24"
 			
 			
-			//"visible"		"1"
+			//////"visible"		"1"
 			
-			//"tabposition"	"4"
-			"labelText"		"Lock View"
-			//"textAlignment"		"west"
-			////"dulltext"		"0"
-			////"brighttext"		"0"
-			"Default"		"0"
+			//////"tabPosition"	"4"
+			//////"labelText"		"Lock View"
+			////////"textAlignment"		"west"
+			//////////"dulltext"		"0"
+			////////"brighttext"		"0"
+			////"Default"		"0"
 		}
 
 		"ThumbnailSafeZone"
 		{
 			"ControlName"		"CheckButton"
 			"fieldName"		"ThumbnailSafeZone"
-			"xpos"		"6"
-			"ypos"		"94"
-			"wide"		"150"
-			"tall"		"24"
+			//////"xpos"		"6"
+			//////"ypos"		"94"
+			//"wide"		"150"
+			//"tall"		"24"
 			
 			
-			//"visible"		"1"
+			//////"visible"		"1"
 			
-			//"tabposition"	"4"
-			"labelText"		"Thumbnail Safe Zone"
-			//"textAlignment"		"west"
-			////"dulltext"		"0"
-			////"brighttext"		"0"
-			"Default"		"0"
+			//////"tabPosition"	"4"
+			//////"labelText"		"Thumbnail Safe Zone"
+			////////"textAlignment"		"west"
+			//////////"dulltext"		"0"
+			////////"brighttext"		"0"
+			////"Default"		"0"
 		}
 		
 		"LookAtCamera"
 		{
 			"ControlName"		"CheckButton"
 			"fieldName"		"LookAtCamera"
-			"xpos"		"128"
-			"ypos"		"6"
-			"wide"		"216"
-			"tall"		"24"
+			//////"xpos"		"128"
+			//////"ypos"		"6"
+			//"wide"		"216"
+			//"tall"		"24"
 			
 			
-			//"visible"		"1"
+			//////"visible"		"1"
 			
-			"selected"		"1"
-			//"tabposition"	"5"
-			"labelText"		"Look At Camera"
-			//"textAlignment"		"west"
-			////"dulltext"		"0"
-			////"brighttext"		"0"
-			"Default"		"0"
+			//"selected"		"1"
+			//////"tabPosition"	"5"
+			//////"labelText"		"Look At Camera"
+			////////"textAlignment"		"west"
+			//////////"dulltext"		"0"
+			////////"brighttext"		"0"
+			////"Default"		"0"
 		}
 		
 		"ChooseLightProbe"
 		{
 			"ControlName"		"Button"
 			"fieldName"		"ChooseLightProbe"
-			"xpos"		"134"
-			"ypos"		"34"
-			"wide"		"100"
-			"tall"		"24"
+			//////"xpos"		"134"
+			//////"ypos"		"34"
+			//"wide"		"100"
+			//"tall"		"24"
 			
 			
-			//"visible"		"1"
+			//////"visible"		"1"
 			
-			//"tabposition"		"6"
-			"labelText"		"&Select Light Probe"
-			"textAlignment"		"center"
-			"command"		"ChooseLightProbe"
-			"default"		"0"
+			//////"tabPosition"		"6"
+			//////"labelText"		"&Select Light Probe"
+			//////"textAlignment"		"center"
+			////"Command"		"ChooseLightProbe"
+			////"Default"		"0"
 		}
 	}
 }

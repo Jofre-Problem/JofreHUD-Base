@@ -31,6 +31,7 @@ Scheme
 	// controls use these to determine their settings
 	BaseSettings
 	{
+	
 		// scheme-specific colors
 		MainMenu.TextColor			"White"
 		MainMenu.ArmedTextColor		"200 200 200 255"

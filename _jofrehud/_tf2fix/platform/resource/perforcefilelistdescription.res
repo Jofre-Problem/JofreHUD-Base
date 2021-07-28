@@ -4,13 +4,13 @@
 	{
 		"ControlName"	"CPerforceFileListFrame"
 		"fieldName"		"PerforceFileList"
-		"xpos"			"147"
-		"ypos"			"128"
-		"wide"			"580"
-		"tall"			"380"
+		//"xpos"			"147"
+		//"ypos"			"128"
+		//"wide"			"580"
+		//"tall"			"380"
 		
 		
-		//"visible"		"1"
+		////"visible"		"1"
 		
 		
 		"settitlebarvisible"	"1"
@@ -20,12 +20,12 @@
 		{
 			"ControlName"	"Splitter"
 			"fieldName"		"PreviewSplitter"
-			//"visible"		"1"
+			////"visible"		"1"
 			
-			"AutoResize"	"3"
+			//"autoResize"	"3"
 			
 			
-			"ypos"			"6"
+			//"ypos"			"6"
 			
 			//"UnpinnedCornerOffsetY" "-30"
 			
@@ -37,13 +37,13 @@
 					"fieldName"		"Browser"
 					
 					
-					"wide"			"568"
-					"tall"			"316"
-					"AutoResize"	"3"
+					//"wide"			"568"
+					//"tall"			"316"
+					//"autoResize"	"3"
 					
 					
 					
-					//"visible"		"1"
+					////"visible"		"1"
 					
 					
 				}
@@ -57,17 +57,17 @@
 					"fieldName"		"DescriptionLabel"
 					
 					
-					"wide"			"65"
-					"tall"			"24"
-					"autoResize"	"1"
+					//"wide"			"65"
+					//"tall"			"24"
+					//"autoResize"	"1"
 					
 					
-					//"visible"		"1"
+					////"visible"		"1"
 					
 					
-					"labelText"		"Enter Description:"
-					//"textAlignment"	"west"
-					"dulltext"		"1"
+					////"labelText"		"Enter Description:"
+					////"textAlignment"	"west"
+					//"dulltext"		"1"
 					//"brighttext"	"0"
 				}
 				
@@ -76,22 +76,22 @@
 					"ControlName"	"TextEntry"
 					"fieldName"		"Description"
 					
-					"ypos"			"26"
-					"wide"			"75"
-					"tall"			"24"
-					"autoResize"	"3"
+					//"ypos"			"26"
+					//"wide"			"75"
+					//"tall"			"24"
+					//"autoResize"	"3"
 					
 					
 					//"PinnedCornerOffsetY" "26"
 					
 					
-					//"visible"		"1"
+					////"visible"		"1"
 					
 					//"editable"		"1"
-					"tabPosition"	"1"
-					"labelText"		""
-					//"textAlignment"	"west"
-					"dulltext"		"1"
+					//"tabPosition"	"1"
+					////"labelText"		""
+					////"textAlignment"	"west"
+					//"dulltext"		"1"
 					//"brighttext"	"0"
 				}						
 			}
@@ -101,40 +101,40 @@
 		{
 			"ControlName"		"Button"
 			"fieldName"		"YesButton"
-			"xpos"		"6"
-			"ypos"		"350"
-			"wide"		"122"
-			"tall"		"24"
+			//"xpos"		"6"
+			//"ypos"		"350"
+			//"wide"		"122"
+			//"tall"		"24"
 			
-			"pinCorner"		"2"
-			//"visible"		"1"
+			//"pinCorner"		"2"
+			////"visible"		"1"
 			
-			"tabPosition"		"2"
-			"labelText"		"Yes"
-			"textAlignment"		"center"
-			////"dulltext"		"0"
+			//"tabPosition"		"2"
+			////"labelText"		"Yes"
+			//"textAlignment"		"center"
+			//////"dulltext"		"0"
 			////"brighttext"		"0"
-			//"Default"		"1"
+			////"Default"		"1"
 		}
 
 		"NoButton"
 		{
 			"ControlName"		"Button"
 			"fieldName"		"NoButton"
-			"xpos"		"140"
-			"ypos"		"350"
-			"wide"		"122"
-			"tall"		"24"
+			//"xpos"		"140"
+			//"ypos"		"350"
+			//"wide"		"122"
+			//"tall"		"24"
 			
-			"pinCorner"		"2"
-			//"visible"		"1"
+			//"pinCorner"		"2"
+			////"visible"		"1"
 			
-			"tabPosition"		"2"
-			"labelText"		"No"
-			"textAlignment"		"center"
-			////"dulltext"		"0"
+			//"tabPosition"		"2"
+			////"labelText"		"No"
+			//"textAlignment"		"center"
+			//////"dulltext"		"0"
 			////"brighttext"		"0"
-			//"Default"		"1"
+			////"Default"		"1"
 		}
 	}
 }

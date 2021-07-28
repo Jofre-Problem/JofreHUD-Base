@@ -4,13 +4,13 @@
 	{
 		"ControlName"	"CDmeAnimationListPanel"
 		"fieldName"		"AnimationListPanel"
-		"xpos"			"6"
-		"ypos"			"6"
-		"wide"			"256"
-		"tall"			"256"
-		//"autoresize"	"3"
+		//////"xpos"			"6"
+		//////"ypos"			"6"
+		//"wide"			"256"
+		//"tall"			"256"
+		//////"autoResize"	"3"
 		
-		//"visible"		"1"
+		//////"visible"		"1"
 		
 		
 		
@@ -24,15 +24,15 @@
 			"fieldName"		"AnimationList"
 			
 			
-			"wide"			"256"
-			"tall"			"256"
-			//"autoresize"	"3"
+			//"wide"			"256"
+			//"tall"			"256"
+			//////"autoResize"	"3"
 			
 			
 			
 			
 			
-			//"visible"		"1"
+			//////"visible"		"1"
 			
 			
 		}

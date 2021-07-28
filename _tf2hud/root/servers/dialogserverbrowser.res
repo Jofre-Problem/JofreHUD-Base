@@ -8,11 +8,11 @@
 		"ypos"		"20"
 		"wide"		"604"
 		"tall"		"384"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 	}
 	"GameTabs"
 	{
@@ -22,11 +22,11 @@
 		"ypos"		"44"
 		"wide"		"624"
 		"tall"		"306"
-		//"autoresize"	"3"
-		
-		//"visible"		"1"
-		
-		//"tabposition"		"1"
+		"autoResize"	"3"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"1"
 	}
 	"StatusLabel"
 	{
@@ -36,13 +36,13 @@
 		"ypos"		"356"
 		"wide"		"544"
 		"tall"		"24"
-		//"autoresize"		"1"
-		//"pincorner"		"2"
-		//"visible"		"1"
-		
-		
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
+		"autoResize"		"1"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
 		"zpos"	"1"
 	}
 }

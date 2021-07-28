@@ -4,16 +4,16 @@
 	{
 		"ControlName"		"CInternetGames"
 		"fieldName"		"InternetGames"
-		
+		"xpos"		"0"
 		"ypos"		"28"
 		"wide"		"624"
 		"tall"		"278"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 	}
 	"AddToFavoritesButton"
 	{
@@ -23,15 +23,15 @@
 		"ypos"		"247"
 		"wide"		"232"
 		"tall"		"24"
-		
-		//"pincorner"		"3"
-		//"visible"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"3"
+		"visible"		"1"
 		"enabled"		"0"
-		//"tabposition"		"1"
-		//"paintbackground"		"1"
+		"tabPosition"		"1"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddSelectedToFavorites"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Command"		"OnAddToFavorites"
 		"Default"		"0"
 	}
@@ -43,12 +43,12 @@
 		"ypos"		"8"
 		"wide"		"608"
 		"tall"		"230"
-		//"autoresize"		"3"
-		
-		//"visible"		"1"
-		
-		
-		//"paintbackground"		"1"
+		"AutoResize"		"3"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 	}
 
 
@@ -60,15 +60,15 @@
 		"ypos"		"212"
 		"wide"		"84"
 		"tall"		"24"
-		
-		//"pincorner"		"3"
+		"AutoResize"		"0"
+		"PinCorner"		"3"
 		"visible"		"0"
-		
-		//"tabposition"		"2"
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"2"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_RefreshAll"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Command"		"GetNewList"
 		"Default"		"0"
 	}
@@ -80,15 +80,15 @@
 		"ypos"		"212"
 		"wide"		"92"
 		"tall"		"24"
-		
-		//"pincorner"		"3"
+		"AutoResize"		"0"
+		"PinCorner"		"3"
 		"visible"		"0"
 		"enabled"		"0"
-		
-		//"paintbackground"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_RefreshQuick"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Command"		"refresh"
 		"Default"		"0"
 	}
@@ -100,15 +100,15 @@
 		"ypos"		"212"
 		"wide"		"92"
 		"tall"		"24"
-		
-		//"pincorner"		"3"
+		"AutoResize"		"0"
+		"PinCorner"		"3"
 		"visible"		"0"
-		
-		//"tabposition"		"2"
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"2"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddServer"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Command"		"AddServerByName"
 		"Default"		"0"
 	}
@@ -121,15 +121,15 @@
 		"wide"		"142"
 		"tall"		"24"
 		"zpos"		"2"
-		
-		//"pincorner"		"3"
+		"AutoResize"		"0"
+		"PinCorner"		"3"
 		"visible"		"0"
 		"enabled"		"0"
-		//"tabposition"		"2"
-		//"paintbackground"		"1"
+		"tabPosition"		"2"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AddCurrentServer"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Command"		"AddCurrentServer"
 		"Default"		"0"
 	}
@@ -141,15 +141,15 @@
 		"ypos"		"212"
 		"wide"		"108"
 		"tall"		"24"
-		
-		//"pincorner"		"2"
+		"AutoResize"		"0"
+		"PinCorner"		"2"
 		"visible"		"0"
-		
-		//"tabposition"		"4"
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"4"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ChangeFilters"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"FilterString"
@@ -160,15 +160,15 @@
 		"ypos"		"242"
 		"wide"		"600"
 		"tall"		"24"
-		//"autoresize"		"1"
-		//"pincorner"		"2"
+		"AutoResize"		"1"
+		"PinCorner"		"2"
 		"visible"		"0"
-		
-		
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"borderset"		"LabelDull"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		dulltext	1
 	}
 	"GameFilter"
@@ -179,17 +179,17 @@
 		"ypos"		"150"
 		"wide"		"164"
 		"tall"		"24"
-		
-		//"pincorner"		"2"
+		"AutoResize"		"0"
+		"PinCorner"		"2"
 		"visible"		"0"
-		
-		
-		//"paintbackground"		"1"
-		//"textHidden"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"LocationFilter"
 	{
@@ -199,17 +199,17 @@
 		"ypos"		"180"
 		"wide"		"112"
 		"tall"		"24"
-		
-		//"pincorner"		"2"
+		"AutoResize"		"0"
+		"PinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"0"
-		
-		//"paintbackground"		"1"
-		//"textHidden"		"0"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"MapFilter"
 	{
@@ -219,17 +219,17 @@
 		"ypos"		"180"
 		"wide"		"164"
 		"tall"		"24"
-		
-		//"pincorner"		"2"
+		"AutoResize"		"0"
+		"PinCorner"		"2"
 		"visible"		"0"
-		
-		//"tabposition"		"5"
-		//"paintbackground"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"enabled"		"1"
+		"tabPosition"		"5"
+		"paintbackground"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"PingFilter"
 	{
@@ -239,17 +239,17 @@
 		"ypos"		"150"
 		"wide"		"112"
 		"tall"		"24"
-		
-		//"pincorner"		"2"
+		"AutoResize"		"0"
+		"PinCorner"		"2"
 		"visible"		"0"
-		
-		
-		//"paintbackground"		"1"
-		//"textHidden"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"SecureFilter"
 	{
@@ -259,17 +259,17 @@
 		"ypos"		"210"
 		"wide"		"112"
 		"tall"		"24"
-		
-		//"pincorner"		"2"
+		"AutoResize"		"0"
+		"PinCorner"		"2"
 		"visible"		"0"
-		
-		
-		//"paintbackground"		"1"
-		//"textHidden"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"ServerEmptyFilterCheck"
 	{
@@ -279,15 +279,15 @@
 		"ypos"		"170"
 		"wide"		"184"
 		"tall"		"24"
-		
-		//"pincorner"		"2"
+		"AutoResize"		"0"
+		"PinCorner"		"2"
 		"visible"		"0"
-		
-		//"tabposition"		"7"
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"7"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_HasUsersPlaying"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"ServerFullFilterCheck"
@@ -298,15 +298,15 @@
 		"ypos"		"150"
 		"wide"		"184"
 		"tall"		"24"
-		
-		//"pincorner"		"2"
+		"AutoResize"		"0"
+		"PinCorner"		"2"
 		"visible"		"0"
-		
-		//"tabposition"		"6"
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"6"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerNotFull"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"NoPasswordFilterCheck"
@@ -317,15 +317,15 @@
 		"ypos"		"190"
 		"wide"		"184"
 		"tall"		"24"
-		
-		//"pincorner"		"2"
+		"AutoResize"		"0"
+		"PinCorner"		"2"
 		"visible"		"0"
-		
-		//"tabposition"		"8"
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"8"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_IsNotPasswordProtected"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"ReplayFilterCheck"
@@ -336,15 +336,15 @@
 		"ypos"		"210"
 		"wide"		"222"
 		"tall"		"24"
-		
-		//"pincorner"		"2"
+		"AutoResize"		"0"
+		"PinCorner"		"2"
 		"visible"		"0"
-		
-		//"tabposition"		"8"
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"8"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_SupportsReplays"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 }

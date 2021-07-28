@@ -8,12 +8,12 @@
 		"ypos"		"246"
 		"wide"		"416"
 		"tall"		"180"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"settitlebarvisible"		"1"
 		"title"		"#ServerBrowser_GameInfoWithNameTitle"
 	}
@@ -25,16 +25,16 @@
 		"ypos"		"140"
 		"wide"		"80"
 		"tall"		"24"
-		
-		//"pincorner"		"2"
+		"AutoResize"		"0"
+		"PinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"0"
-		//"tabposition"		"1"
-		//"paintbackground"		"1"
+		"tabPosition"		"1"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_JoinGame"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
-		//"Default"		"1"
+		"textAlignment"		"west"
+		"wrap"		"0"
+		"Default"		"1"
 	}
 	"Close"
 	{
@@ -44,15 +44,15 @@
 		"ypos"		"137"
 		"wide"		"80"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		//"tabposition"		"3"
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"3"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Close"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"Refresh"
@@ -63,15 +63,15 @@
 		"ypos"		"140"
 		"wide"		"80"
 		"tall"		"24"
-		
-		//"pincorner"		"2"
+		"AutoResize"		"0"
+		"PinCorner"		"2"
 		"visible"		"0"
-		
-		//"tabposition"		"2"
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"2"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Refresh"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"InfoLabel"
@@ -82,15 +82,15 @@
 		"ypos"		"111"
 		"wide"		"356"
 		"tall"		"24"
-		
-		//"pincorner"		"2"
+		"AutoResize"		"0"
+		"PinCorner"		"2"
 		"visible"		"0"
-		
-		
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerNotResponding"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 	}
 	"AutoRetry"
 	{
@@ -100,15 +100,15 @@
 		"ypos"		"140"
 		"wide"		"80"
 		"tall"		"24"
-		
-		//"pincorner"		"2"
+		"AutoResize"		"0"
+		"PinCorner"		"2"
 		"visible"		"0"
-		
-		//"tabposition"		"4"
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"4"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AutoRetry"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 	}
 	"AutoRetryAlert"
@@ -119,15 +119,15 @@
 		"ypos"		"115"
 		"wide"		"358"
 		"tall"		"24"
-		
-		//"pincorner"		"2"
+		"AutoResize"		"0"
+		"PinCorner"		"2"
 		"visible"		"0"
-		
-		//"tabposition"		"5"
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"5"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AlertMeWhenSlotOpens"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"1"
 	}
@@ -139,15 +139,15 @@
 		"ypos"		"136"
 		"wide"		"356"
 		"tall"		"24"
-		
-		//"pincorner"		"2"
+		"AutoResize"		"0"
+		"PinCorner"		"2"
 		"visible"		"0"
-		
-		//"tabposition"		"5"
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"5"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_JoinWhenSlotOpens"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"2"
 	}
@@ -159,12 +159,12 @@
 		"ypos"		"228"
 		"wide"		"368"
 		"tall"		"0"
-		//"autoresize"		"3"
-		
+		"AutoResize"		"3"
+		"PinCorner"		"0"
 		"visible"		"0"
-		
-		
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 	}
 	"ServerLabel"
 	{
@@ -174,15 +174,15 @@
 		"ypos"		"42"
 		"wide"		"108"
 		"tall"		"20"
-		
-		
+		"AutoResize"		"0"
+		"PinCorner"		"0"
 		"visible"		"0"
-		
-		
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerName"
 		"textAlignment"		"east"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 	"GameLabel"
 	{
@@ -192,15 +192,15 @@
 		"ypos"		"60"
 		"wide"		"90"
 		"tall"		"20"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_GameLabel"
 		"textAlignment"		"east"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 	"ServerIPLabel"
 	{
@@ -210,15 +210,15 @@
 		"ypos"		"66"
 		"wide"		"108"
 		"tall"		"20"
-		
-		
+		"AutoResize"		"0"
+		"PinCorner"		"0"
 		"visible"		"0"
-		
-		
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_IPAddressLabel"
 		"textAlignment"		"east"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 	"MapLabel"
 	{
@@ -228,15 +228,15 @@
 		"ypos"		"114"
 		"wide"		"108"
 		"tall"		"20"
-		
-		
+		"AutoResize"		"0"
+		"PinCorner"		"0"
 		"visible"		"0"
-		
-		
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_MapLabel"
 		"textAlignment"		"east"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 	"PlayersLabel"
 	{
@@ -246,15 +246,15 @@
 		"ypos"		"138"
 		"wide"		"108"
 		"tall"		"20"
-		
-		
+		"AutoResize"		"0"
+		"PinCorner"		"0"
 		"visible"		"0"
-		
-		
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_PlayersLabel"
 		"textAlignment"		"east"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 	"PingLabel"
 	{
@@ -264,15 +264,15 @@
 		"ypos"		"186"
 		"wide"		"108"
 		"tall"		"20"
-		
-		
+		"AutoResize"		"0"
+		"PinCorner"		"0"
 		"visible"		"0"
-		
-		
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_LatencyLabel"
 		"textAlignment"		"east"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 	"ServerText"
 	{
@@ -282,14 +282,14 @@
 		"ypos"		"42"
 		"wide"		"260"
 		"tall"		"20"
-		//"autoresize"		"1"
-		
+		"AutoResize"		"1"
+		"PinCorner"		"0"
 		"visible"		"0"
-		
-		
-		//"paintbackground"		"1"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
+		"textAlignment"		"west"
+		"wrap"		"0"
 	}
 	"GameText"
 	{
@@ -299,15 +299,15 @@
 		"ypos"		"60"
 		"wide"		"260"
 		"tall"		"20"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"labelText"		"Team Fortress Classic"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"wrap"		"0"
 	}
 	"ServerIPText"
 	{
@@ -317,17 +317,17 @@
 		"ypos"		"64"
 		"wide"		"260"
 		"tall"		"24"
-		
-		
+		"AutoResize"		"0"
+		"PinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		
-		//"paintbackground"		"1"
-		//"textHidden"		"0"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
+		"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
-		//"NumericInputOnly"		"0"
-		//"unicode"		"0"
+		"NumericInputOnly"		"0"
+		"unicode"		"0"
 	}
 	"MapText"
 	{
@@ -337,14 +337,14 @@
 		"ypos"		"114"
 		"wide"		"260"
 		"tall"		"20"
-		
-		
+		"AutoResize"		"0"
+		"PinCorner"		"0"
 		"visible"		"0"
-		
-		
-		//"paintbackground"		"1"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
+		"textAlignment"		"west"
+		"wrap"		"0"
 	}
 	"PlayersText"
 	{
@@ -354,14 +354,14 @@
 		"ypos"		"138"
 		"wide"		"260"
 		"tall"		"20"
-		
-		
+		"AutoResize"		"0"
+		"PinCorner"		"0"
 		"visible"		"0"
-		
-		
-		//"paintbackground"		"1"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
+		"textAlignment"		"west"
+		"wrap"		"0"
 	}
 	"PingText"
 	{
@@ -371,14 +371,14 @@
 		"ypos"		"186"
 		"wide"		"260"
 		"tall"		"20"
-		
-		
+		"AutoResize"		"0"
+		"PinCorner"		"0"
 		"visible"		"0"
-		
-		
-		//"paintbackground"		"1"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
+		"textAlignment"		"west"
+		"wrap"		"0"
 	}
 	"Label1"
 	{
@@ -388,15 +388,15 @@
 		"ypos"		"162"
 		"wide"		"108"
 		"tall"		"20"
-		
-		
+		"AutoResize"		"0"
+		"PinCorner"		"0"
 		"visible"		"0"
-		
-		
-		//"paintbackground"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"labelText"		"Label"
 		"textAlignment"		"east"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 	"SecureText"
 	{
@@ -406,14 +406,14 @@
 		"ypos"		"162"
 		"wide"		"260"
 		"tall"		"20"
-		
-		
+		"AutoResize"		"0"
+		"PinCorner"		"0"
 		"visible"		"0"
-		
-		
-		//"paintbackground"		"1"
-		//"textAlignment"		"west"
-		//"wrap"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
+		"textAlignment"		"west"
+		"wrap"		"0"
 	}
 	"Label2"
 	{
@@ -423,12 +423,12 @@
 		"ypos"		"82"
 		"wide"		"256"
 		"tall"		"52"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_FriendNotInGameServer"
 		"textAlignment"		"north-west"
 		"wrap"		"1"
@@ -441,14 +441,14 @@
 		"ypos"		"82"
 		"wide"		"90"
 		"tall"		"20"
-		
-		
-		//"visible"		"1"
-		
-		
-		//"paintbackground"		"1"
+		"AutoResize"		"0"
+		"PinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerLabel"
 		"textAlignment"		"north-east"
-		//"wrap"		"0"
+		"wrap"		"0"
 	}
 }

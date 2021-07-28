@@ -8,11 +8,11 @@
 		"ypos"		"30"
 		"wide"		"560"
 		"tall"		"360"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 	}
 	"Button2"
 	{
@@ -22,17 +22,17 @@
 		"ypos"		"400"
 		"wide"		"80"
 		"tall"		"24"
-		
-		
-		//"visible"		"1"
-		
-		//"tabposition"		"1"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"1"
 		"labelText"		"#GameUI_Close"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"Close"
-		//"Default"		"1"
+		"Default"		"1"
 	}
 }
