@@ -825,7 +825,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Font"		"DefaultSmall"
+		//"font"		"DefaultSmall"
 		//"wrap"		"0"
 	}
 	"HDR Label"

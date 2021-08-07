@@ -94,7 +94,7 @@
 				"zpos"			"3"
 				//"visible"		"1"
 				
-				"font"			"PerformanceModeSmall"
+				//"font"			"PerformanceModeSmall"
 				"LabelText"		"#Replay_Team0"
 				"fgcolor_override" "251 246 220 255"
 				
@@ -107,7 +107,7 @@
 				"zpos"			"3"
 				//"visible"		"1"
 				
-				"font"			"PerformanceModeSmall"
+				//"font"			"PerformanceModeSmall"
 				"LabelText"		"#Replay_Team1"
 				"fgcolor_override" "251 246 220 255"
 				
@@ -277,7 +277,7 @@
 		"zpos"			"2"
 		//"visible"		"1"
 		
-		"font"			"ReplayMediumBig"
+		//"font"			"ReplayMediumBig"
 		"fgcolor_override" "122 111 98 255"
 		"LabelText"		"00:00"
 	}
@@ -291,7 +291,7 @@
 		"zpos"			"2"
 		//"visible"		"1"
 		
-		"font"			"ReplayMediumBig"
+		//"font"			"ReplayMediumBig"
 		"fgcolor_override" "122 111 98 255"
 		"LabelText"		"00:00"
 	}
@@ -303,7 +303,7 @@
 		"zpos"			"3"
 		//"visible"		"1"
 		
-		"font"			"PerformanceModeSmall"
+		//"font"			"PerformanceModeSmall"
 		"labeltext"		""
 		"fgcolor_override" "251 246 220 255"
 	}
@@ -615,7 +615,7 @@
 		
 		
 		"labeltext"		""
-		"font"			""
+		//"font"			""
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -653,7 +653,7 @@
 		"zpos"			"100"
 		"visible"		"0"
 		
-		"font"			"ReplayMediumSmall"
+		//"font"			"ReplayMediumSmall"
 		"centerwrap"	"1"
 		//"paintbackground"	"1"
 		"bgcolor_override"	"60 53 45 255"

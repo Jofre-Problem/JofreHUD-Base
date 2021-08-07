@@ -51,7 +51,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Title"
-			"font"			"HudFontMediumSmall"
+			//"font"			"HudFontMediumSmall"
 			"labelText"		"#Replay_ReplayIntroTitle"
 			//"textAlignment"	"west"
 			"xpos"			"37"
@@ -71,7 +71,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TextLabel"
-			"font"			"HudFontSmall"
+			//"font"			"HudFontSmall"
 			"textAlignment"	"north"
 			"xpos"			"13"
 			"ypos"			"35"
@@ -91,7 +91,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"DontShowAgainCheckButton"
 			"labelText"		"#Replay_NeverShowAgain"
-			"Font"			"DefaultVerySmall"
+			//"font"			"DefaultVerySmall"
 			//"textAlignment"	"west"
 			//"wrap"			"0"
 			"xpos"			"9"
@@ -122,7 +122,7 @@
 			//"visible"		"1"
 			
 			"tabPosition"	"2"
-			"font"			"ReplayMediumSmall"
+			//"font"			"ReplayMediumSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"

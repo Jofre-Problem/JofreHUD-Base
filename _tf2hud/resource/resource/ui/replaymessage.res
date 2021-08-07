@@ -16,7 +16,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ReplayLabel"
-		"font"			"HudFontMediumSecondary"
+		//"font"			"HudFontMediumSecondary"
 		"xpos"			"35"
 		"ypos"			"2"
 		
@@ -32,7 +32,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MessageLabel"
-		"font"			"ItemFontAttribLarge"
+		//"font"			"ItemFontAttribLarge"
 		
 		"wide"			"180"
 		"tall"			"0"

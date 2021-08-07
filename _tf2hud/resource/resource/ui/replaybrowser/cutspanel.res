@@ -65,7 +65,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NoCutsLabel"
-		"font"			"ReplayMediumSmall"
+		//"font"			"ReplayMediumSmall"
 		"labelText"		"#Replay_NoCuts"
 		"wide"			"200"
 		"tall"			"58"
@@ -86,7 +86,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		"labelText"		"<"
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -103,7 +103,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		"labelText"		">"
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -116,7 +116,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"FieldName"		"OriginalLabel"
-		"Font"			"ReplayMediumSmall"
+		//"font"			"ReplayMediumSmall"
 		//"textAlignment"	"west"
 		"fgcolor_override"	"TanDark"
 		
@@ -130,7 +130,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"FieldName"		"CutsLabel"
-		"Font"			"ReplayMediumSmall"
+		//"font"			"ReplayMediumSmall"
 		//"textAlignment"	"west"
 		"fgcolor_override"	"TanDark"
 		
@@ -144,7 +144,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NameLabel"
-		"font"			"ReplayBrowserSmallest"
+		//"font"			"ReplayBrowserSmallest"
 		"labeltext"		""
 		"zpos"			"1"
 		

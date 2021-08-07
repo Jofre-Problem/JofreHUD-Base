@@ -15,7 +15,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NoScreenshotLabel"
-		"font"			"HudFontMediumSmallSecondary"
+		//"font"			"HudFontMediumSmallSecondary"
 		"labelText"		"#Replay_NoScreenshot"
 		"textAlignment"	"center"
 		"zpos"			"5"

@@ -42,7 +42,7 @@
 		"ypos"			"2"
 		"wide"			"400"
 		"tall"			"20"
-		"font"			"AchievementItemTitle"
+		//"font"			"AchievementItemTitle"
 		//"textAlignment"		"west"
 	}
 	
@@ -55,7 +55,7 @@
 		"ypos"			"22"
 		"wide"			"490"
 		"tall"			"40"
-		"font"			"AchievementItemDescription"
+		//"font"			"AchievementItemDescription"
 		"wrap"			"1"
 		"textAlignment"		"north-west"
 	}
@@ -106,7 +106,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"font"			"AchievementItemDescription"
+		//"font"			"AchievementItemDescription"
 	}
 	"ShowOnHUD"
 	{
@@ -126,6 +126,6 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"font"			"AchievementItemDescription"
+		//"font"			"AchievementItemDescription"
 	}
 }

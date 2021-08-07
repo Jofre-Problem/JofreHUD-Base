@@ -219,7 +219,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultVerySmall"
+		//"font"		"DefaultVerySmall"
 		//"wrap"		"0"
 	}
 	"SongDuration"
@@ -238,7 +238,7 @@
 		"textAlignment"		"east"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultVerySmall"
+		//"font"		"DefaultVerySmall"
 		//"wrap"		"0"
 	}
 	"progress"

@@ -103,7 +103,7 @@
 		"tabskv"
 		{
 			"textinsetx"		"40"
-			"font"				"ReplayBrowserTab"
+			//"font"				"ReplayBrowserTab"
 			"selectedcolor"		"200 187 161 255"
 			"unselectedcolor"	"130 120 104 255"	
 			"defaultBgColor_override"	"41 37 38 255"
@@ -128,7 +128,7 @@
 		
 		
 		"labelText"		"#Replay_BackCarat"
-		"font"			"ReplayMedium"
+		//"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

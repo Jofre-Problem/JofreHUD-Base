@@ -218,7 +218,7 @@
 		"textAlignment"		"north-west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"	"DefaultSmall"
+		//"font"	"DefaultSmall"
 	}
 	"CommentLabel" //description underneath the file name
 	{
@@ -232,7 +232,7 @@
 		
 		
 		"textAlignment"	"north-west"
-		"font"	"DefaultSmall"
+		//"font"	"DefaultSmall"
 		"wrap"		"1"
 	}
 	
@@ -267,7 +267,7 @@
 		
 		
 		"textAlignment"		"north-west"
-		"font"		"DefaultSmall"
+		//"font"		"DefaultSmall"
 		"wrap"		"1"
 	}
 	"ChallengeMedalOverview00" //image when no challenge is selected
@@ -354,7 +354,7 @@
 		
 		
 		"textAlignment"		"north-west"
-		"font"		"DefaultSmall"
+		//"font"		"DefaultSmall"
 		"wrap"		"1"
 	}
 	"ChallengeNextMedal" //Small icon
@@ -381,7 +381,7 @@
 		
 		
 		"textAlignment"		"north-west"
-		"font"		"DefaultSmall"
+		//"font"		"DefaultSmall"
 		"wrap"		"1"
 	}
 }

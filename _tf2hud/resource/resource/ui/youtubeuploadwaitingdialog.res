@@ -20,7 +20,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"CenterPositioner"
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		
 		"ypos"			"5"
 		
@@ -41,7 +41,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"CenterPositioner2"
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		
 		"ypos"			"60"
 		
@@ -62,7 +62,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"CenterPositioner3"
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		
 		"ypos"			"65"
 		
@@ -83,7 +83,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"TitleLabel"
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		
 		
 		
@@ -130,7 +130,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"DurationLabel"
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		
 		
 		
@@ -164,7 +164,7 @@
 		
 		
 		"labelText"		"#Cancel"
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"

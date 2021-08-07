@@ -5,7 +5,7 @@
 		"ControlName"	"Frame"
 		"fieldName"		"BottomBar"
 		//"xpos"			"0"
-		"ypos"			"r70"
+		"ypos"			"r0"
 		"tall"			"70"			
 		//"autoResize"	"0"
 		//"pinCorner"		"0"

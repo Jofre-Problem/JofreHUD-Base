@@ -22,7 +22,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontMediumSecondary"
+		//"font"			"HudFontMediumSecondary"
 		"labelText"		"#YouTube_UploadDlg_Title"
 		"textAlignment"	"north"
 		
@@ -41,7 +41,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MovieTitleLabel"
-		"font"			"HudFontSmall"
+		//"font"			"HudFontSmall"
 		"labelText"		"#YouTube_UploadDlg_MovieTitle"
 		//"textAlignment"	"west"
 		"xpos"			"10"
@@ -76,14 +76,14 @@
 		"tabPosition"	"1"
 		"fgcolor_override"		"202 190 164 255"
 		"bgcolor_override"		"60 54 46 255"
-		"Font"			"HudFontSmallest"
+		//"font"			"HudFontSmallest"
 	}
 
 	"MovieDescLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MovieDescLabel"
-		"font"			"HudFontSmall"
+		//"font"			"HudFontSmall"
 		"labelText"		"#YouTube_UploadDlg_MovieDesc"
 		//"textAlignment"	"west"
 		"xpos"			"10"
@@ -118,7 +118,7 @@
 		"tabPosition"	"2"
 		"fgcolor_override"		"202 190 164 255"
 		"bgcolor_override"		"60 54 46 255"
-		"Font"			"HudFontSmallest"
+		//"font"			"HudFontSmallest"
 	}
 
 	"UnlistedCheckbox"
@@ -140,7 +140,7 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
-		"font"			"HudFontSmallest"
+		//"font"			"HudFontSmallest"
 		"selected_fgcolor_override" "255 0 0 255"
 	}
 	
@@ -148,7 +148,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DisclaimerLabel"
-		"font"			"HudFontSmallest"
+		//"font"			"HudFontSmallest"
 		"labelText"		"#YouTube_UploadDlg_Disclaimer"
 		"textAlignment"	"north"
 		"xpos"			"10"
@@ -178,7 +178,7 @@
 		
 		
 		"labelText"		"#YouTube_UploadDlg_Terms"
-		"font"			"HudFontSmall"
+		//"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -204,7 +204,7 @@
 		
 		
 		"labelText"		"#YouTube_UploadDlg_Upload"
-		"font"			"HudFontSmall"
+		//"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -229,7 +229,7 @@
 		
 		
 		"labelText"		"#Cancel"
-		"font"			"HudFontSmall"
+		//"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"

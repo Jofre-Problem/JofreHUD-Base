@@ -381,7 +381,7 @@
 		"textAlignment"		"east"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"UiBold"
+		//"font"		"UiBold"
 		//"wrap"		"0"
 	}
 	"BugSubmitter"
@@ -673,7 +673,7 @@
 		"textAlignment"		"east"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"UiBold"
+		//"font"		"UiBold"
 		//"wrap"		"0"
 	}
 	"Label4"

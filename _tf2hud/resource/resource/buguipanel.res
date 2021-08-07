@@ -492,7 +492,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultVerySmall"
+		//"font"		"DefaultVerySmall"
 		//"wrap"		"0"
 		"Command"		"savevmf"
 		"Default"		"0"
@@ -514,7 +514,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultVerySmall"
+		//"font"		"DefaultVerySmall"
 		//"wrap"		"0"
 		"Default"		"0"
 	}

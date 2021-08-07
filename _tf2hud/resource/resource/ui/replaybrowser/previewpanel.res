@@ -37,7 +37,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"FieldName"		"NoScreenshotLabel"
-			"Font"			"HudFontMediumSmall"
+			//"font"			"HudFontMediumSmall"
 			"visible"		"0"
 			
 			
@@ -50,7 +50,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"FieldName"		"MapLabel"
-			"Font"			"ReplayMediumSmall"
+			//"font"			"ReplayMediumSmall"
 			//"textAlignment"	"west"
 			
 			"ypos"			"15"
@@ -62,7 +62,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"FieldName"		"DateTimeLabel"
-			"Font"			"ReplayBrowserSmallest"
+			//"font"			"ReplayBrowserSmallest"
 			//"textAlignment"	"west"
 			"fgcolor_override"	"115 106 91 255"
 			
@@ -75,7 +75,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"FieldName"		"Label0_0"
-			"Font"			"DefaultVerySmall"
+			//"font"			"DefaultVerySmall"
 			//"textAlignment"	"west"
 			"fgcolor_override"	"247 233 198 255"
 			
@@ -88,7 +88,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"FieldName"		"Label0_1"
-			"Font"			"DefaultVerySmall"
+			//"font"			"DefaultVerySmall"
 			//"textAlignment"	"west"
 			"fgcolor_override"	"247 233 198 255"
 			"xpos"			"60"
@@ -100,7 +100,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"FieldName"		"Label1_0"
-			"Font"			"DefaultVerySmall"
+			//"font"			"DefaultVerySmall"
 			//"textAlignment"	"west"
 			"fgcolor_override"	"247 233 198 255"
 			
@@ -113,7 +113,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"FieldName"		"Label1_1"
-			"Font"			"DefaultVerySmall"
+			//"font"			"DefaultVerySmall"
 			//"textAlignment"	"west"
 			"fgcolor_override"	"247 233 198 255"
 			"xpos"			"60"
@@ -125,7 +125,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"FieldName"		"Label2_0"
-			"Font"			"DefaultVerySmall"
+			//"font"			"DefaultVerySmall"
 			//"textAlignment"	"west"
 			"fgcolor_override"	"247 233 198 255"
 			
@@ -138,7 +138,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"FieldName"		"Label2_1"
-			"Font"			"DefaultVerySmall"
+			//"font"			"DefaultVerySmall"
 			//"textAlignment"	"west"
 			"fgcolor_override"	"247 233 198 255"
 			"xpos"			"60"

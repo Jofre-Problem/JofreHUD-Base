@@ -360,7 +360,7 @@
 		"textAlignment"		"north-west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Font"		"DefaultSmall"
+		//"font"		"DefaultSmall"
 		"wrap"		"1"
 		//"centerwrap"		"0"
 		//"textinsetx"		"0"

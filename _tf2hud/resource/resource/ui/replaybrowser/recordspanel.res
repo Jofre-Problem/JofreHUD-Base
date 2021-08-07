@@ -10,7 +10,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"TitleLabel"
-		"font"				"ReplayMediumSmall"
+		//"font"				"ReplayMediumSmall"
 		"labelText"			"#Replay_NoNewRecord"
 		//"textAlignment"		"west"
 		//"xpos"				"0"
@@ -26,7 +26,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"RecordInfoLabel"
-		"font"				"ReplayMediumSmall"
+		//"font"				"ReplayMediumSmall"
 		"labelText"			"#Replay_NoNewRecord"
 		//"textAlignment"		"west"
 		//"xpos"				"0"
@@ -52,7 +52,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"ScoreLabel"
-		"font"				"EconFontSmall"
+		//"font"				"EconFontSmall"
 		"labelText"			"0"
 		//"textAlignment"		"west"
 		//"xpos"				"0"

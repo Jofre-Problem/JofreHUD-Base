@@ -40,7 +40,7 @@
 		"ypos"			        "10"
 		"wide"			        "256"
 		"tall"			        "20"
-		"font"			        "AchievementItemTitle"
+		//"font"			        "AchievementItemTitle"
 		//"textAlignment"		    "west"
 	}
 

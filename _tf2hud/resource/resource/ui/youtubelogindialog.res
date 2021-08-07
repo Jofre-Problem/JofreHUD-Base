@@ -22,7 +22,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontMediumSecondary"
+		//"font"			"HudFontMediumSecondary"
 		"labelText"		"#YouTube_LoginDlg_Title"
 		"textAlignment"	"north"
 		
@@ -41,7 +41,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"UserNameLabel"
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		"labelText"		"#YouTube_LoginDlg_UserName"
 		//"textAlignment"	"west"
 		"xpos"			"10"
@@ -76,14 +76,14 @@
 		"tabPosition"	"1"
 		"fgcolor_override"		"202 190 164 255"
 		"bgcolor_override"		"60 54 46 255"
-		"Font"			"ReplayBrowserSmallest"
+		//"font"			"ReplayBrowserSmallest"
 	}
 
 	"PasswordLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PasswordLabel"
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		"labelText"		"#YouTube_LoginDlg_Password"
 		//"textAlignment"	"west"
 		"xpos"			"10"
@@ -118,7 +118,7 @@
 		"textHidden"	"1"
 		"fgcolor_override"		"202 190 164 255"
 		"bgcolor_override"		"60 54 46 255"
-		"Font"			"ReplayBrowserSmallest"
+		//"font"			"ReplayBrowserSmallest"
 	}
 	
 	"RegisterButton"
@@ -136,7 +136,7 @@
 		
 		
 		"labelText"		"#YouTube_LoginDlg_Register"
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -162,7 +162,7 @@
 		
 		
 		"labelText"		"#YouTube_LoginDlg_Login"
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -187,7 +187,7 @@
 		
 		
 		"labelText"		"#Cancel"
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"

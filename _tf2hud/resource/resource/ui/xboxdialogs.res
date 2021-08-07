@@ -42,7 +42,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"TitleLabel"
-		"font"			"MenuLarge"
+		//"font"			"MenuLarge"
 			
 		
 		"zpos"			"2"
@@ -61,7 +61,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"NoSavesLabel"
-		"font"			"MenuLarge"
+		//"font"			"MenuLarge"
 			
 		"ypos"			"85"
 		//"ypos_hidef"	"120"
@@ -97,7 +97,7 @@
 		//"dulltext"			"0"
 		////"brighttext"		"0"
 		//"wrap"				"0"
-		"font"				"GameUIButtons"
+		//"font"				"GameUIButtons"
 		"alpha"				"64"
 	}
 	"RightArrow"
@@ -119,7 +119,7 @@
 		//"dulltext"			"0"
 		////"brighttext"		"0"
 		//"wrap"				"0"
-		"font"				"GameUIButtons"
+		//"font"				"GameUIButtons"
 		"alpha"				"64"
 	}
 }
@@ -183,7 +183,7 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
-		//"font"			"Default"
+		////"font"			"Default"
 		//"font_hidef"	"UiBold"
 	}
 	"TimeLabel"
@@ -206,7 +206,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		//"font"			"Default"
+		////"font"			"Default"
 		//"font_hidef"	"Ui"
 	}
 	"ElapsedLabel"
@@ -229,7 +229,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		//"font"			"Default"
+		////"font"			"Default"
 		//"font_hidef"	"Ui"
 	}
 	"TypeLabel"
@@ -252,7 +252,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		//"font"			"Default"
+		////"font"			"Default"
 		//"font_hidef"	"Ui"
 	}
 }
@@ -274,7 +274,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"TitleLabel"
-		"font"			"MenuLarge"
+		//"font"			"MenuLarge"
 		"xpos"			"20"	
 		
 		"zpos"			"2"
@@ -378,7 +378,7 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
-		"font"			"GameUIButtons"
+		//"font"			"GameUIButtons"
 	}
 	"DownArrow"
 	{
@@ -399,7 +399,7 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
-		"font"			"GameUIButtons"
+		//"font"			"GameUIButtons"
 	}
 	
 	"OptionLabel0"
@@ -423,7 +423,7 @@
 		//"brighttext"	"0"
 		//"wrap"			"0"
 		"labeltext"		""
-		"font"			"MenuLarge"
+		//"font"			"MenuLarge"
 	}	
 	"ValueLabel0"
 	{
@@ -447,7 +447,7 @@
 		//"brighttext"	"0"
 		//"wrap"			"0"
 		"labeltext"		""
-		"font"			"MenuLarge"
+		//"font"			"MenuLarge"
 	}	
 	"ValueBar0"
 	{
@@ -486,7 +486,7 @@
 		"xpos"			"8"
 		"ypos"			"8"
 		//"ypos_lodef"	"3"
-		"font"			"MatchmakingDialogMenuLarge"
+		//"font"			"MatchmakingDialogMenuLarge"
 	}
 	
 	"menuitemdesc"
@@ -495,7 +495,7 @@
 		"xpos"			"8"
 		"ypos"			"25"
 		//"ypos_lodef"	"22"
-		"font"			"MatchmakingDialogMenuSmall"
+		//"font"			"MatchmakingDialogMenuSmall"
 	}
 }
 
@@ -536,7 +536,7 @@
 		"ypos"			"25"
 		"tall"			"64"
 		"wide"			"460"
-		"font"			"AchievementDescriptionFont"
+		//"font"			"AchievementDescriptionFont"
 	}
 
 	"points"
@@ -544,7 +544,7 @@
 		"ControlName"	"label"
 		"ypos"			"13"
 		//"ypos_lodef"	"10"
-		"font"			"AchievementTitleFont"
+		//"font"			"AchievementTitleFont"
 	}
 	
 	"lockedicon"
@@ -650,8 +650,8 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"font"			"UiBold"				//[$WIN32]
-		"font"			"HudSelectionText"	[$X360]
+		//"font"			"UiBold"				//[$WIN32]
+		//"font"			"HudSelectionText"	[$X360]
 	}
 }
 
@@ -685,7 +685,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		"font"			"AchievementTitleFont"
+		//"font"			"AchievementTitleFont"
 		"labeltext"		"#GameUI_Achievements_Title"
 	}
 	
@@ -702,14 +702,14 @@
 	"ProgressPercent"
 	{
 		"ControlName"	"label"
-		"font"			"AchievementDescriptionFont"
+		//"font"			"AchievementDescriptionFont"
 		"textAlignment"		"east"
 	}
 	
 	"Numbering"
 	{
 		"ControlName"	"label"
-		"font"			"AchievementDescriptionFont"
+		//"font"			"AchievementDescriptionFont"
 	}
 
 	"uparrow"
@@ -719,7 +719,7 @@
 		//"ypos_lodef"	"374"
 		//"ypos_hidef"	"455"
 		"ControlName"	"Label"
-		"font"			"GameUIButtons"
+		//"font"			"GameUIButtons"
 		"labeltext"		"#GameUI_Icons_UPCURSOR"
 	}
 
@@ -730,7 +730,7 @@
 		//"ypos_lodef"	"374"
 		//"ypos_hidef"	"455"
 		"ControlName"	"Label"
-		"font"			"GameUIButtons"
+		//"font"			"GameUIButtons"
 		"labeltext"		"#GameUI_Icons_DOWNCURSOR"
 	}
 	
@@ -814,7 +814,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"TitleLabel"
-		"font"			"MenuLarge"
+		//"font"			"MenuLarge"
 		"xpos"			"14"
 		//"xpos_hidef"	"20"
 		
@@ -833,7 +833,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"MessageLabel"
-		"font"			"MenuLarge"
+		//"font"			"MenuLarge"
 		"xpos"			"20"	
 		"ypos"			"40"
 		//"ypos_hidef"	"40"
@@ -916,7 +916,7 @@
 		//"dulltext"			"0"
 		////"brighttext"		"0"
 		//"wrap"				"0"
-		"font"				"GameUIButtons"
+		//"font"				"GameUIButtons"
 	}
 	"RightArrow"
 	{
@@ -937,7 +937,7 @@
 		//"dulltext"			"0"
 		////"brighttext"		"0"
 		//"wrap"				"0"
-		"font"				"GameUIButtons"
+		//"font"				"GameUIButtons"
 	}
 	"UpArrow"
 	{
@@ -959,7 +959,7 @@
 		//"dulltext"			"0"
 		////"brighttext"		"0"
 		//"wrap"				"0"
-		"font"				"GameUIButtons"
+		//"font"				"GameUIButtons"
 	}
 	"DownArrow"
 	{
@@ -981,7 +981,7 @@
 		//"dulltext"			"0"
 		////"brighttext"		"0"
 		//"wrap"				"0"
-		"font"				"GameUIButtons"
+		//"font"				"GameUIButtons"
 	}
 	"BonusSelectionBorder"
 	{
@@ -1022,7 +1022,7 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
-		"font"			"DefaultLarge"
+		//"font"			"DefaultLarge"
 		//"font_hidef"	"MenuLarge"
 	}
 	"ChallengeEarnedMedal"
@@ -1111,7 +1111,7 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
-		"font"			"ChapterTitle"
+		//"font"			"ChapterTitle"
 	}
 	"ChapterTitleLabel2"
 	{
@@ -1130,7 +1130,7 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
-		"font"			"ChapterTitle"
+		//"font"			"ChapterTitle"
 	}
 	"ControllerMap"
 	{
@@ -1270,7 +1270,7 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
-		"font"			"DefaultLarge"
+		//"font"			"DefaultLarge"
 		//"font_hidef"	"UiBold"
 	}
 	
@@ -1292,7 +1292,7 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"wrap"			"0"
-		"font"			"UiBold"
+		//"font"			"UiBold"
 	}
 	
 	"HasBonusLabel"
@@ -1314,7 +1314,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"font"			"DefaultLarge"
+		//"font"			"DefaultLarge"
 		//"font_hidef"	"UiBold"
 		"labelText"		"#GameUI_BonusMapsUnlocked"
 	}

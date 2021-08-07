@@ -34,7 +34,7 @@
 		"ControlName"	"Frame"
 		"fieldName"		"BottomBar"
 		
-		"ypos"			"r70"	
+		"ypos"			"r0"	
 		////"ypos_minmode"	"r20"
 		"tall"			"70"
 		////"tall_minmode"	"0"			
@@ -49,7 +49,7 @@
 		"ControlName"		"Panel"
 		"fieldName"		"bottombarblank"
 		
-		"ypos"			"r70"	
+		"ypos"			"r0"	
 		////"ypos_minmode"	"r0"
 		"tall"			"70"		// this needs to match the size of BottomBar
 		////"tall_minmode"	"0"			

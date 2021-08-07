@@ -51,7 +51,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultBold"
+		//"font"		"DefaultBold"
 		//"wrap"		"0"
 	}
 	"PositionLabel"
@@ -71,7 +71,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultBold"
+		//"font"		"DefaultBold"
 		//"wrap"		"0"
 	}
 	"TargetPositionLabel"

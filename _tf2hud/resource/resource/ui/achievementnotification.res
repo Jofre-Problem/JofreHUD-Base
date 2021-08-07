@@ -35,7 +35,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"HeadingLabel"
-		"font"			"AchievementNotification"
+		//"font"			"AchievementNotification"
 		"xpos"			"r230"
 		"ypos"			"2"
 		"wide"			"220"
@@ -54,7 +54,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"TitleLabel"
-		"font"			"AchievementNotification"
+		//"font"			"AchievementNotification"
 		"xpos"			"r230"
 		"ypos"			"14"
 		"wide"			"220"

@@ -52,7 +52,7 @@
 		"ypos"		"8"
 		"wide"		"180"
 		"tall"		"24"
-		"font"		"UiBold"
+		//"font"		"UiBold"
 		"textAlignment"	"north-west"
 	}
 	"ElapsedTimeLabel"
@@ -69,7 +69,7 @@
 		
 		
 		"textAlignment"	"north-west"
-		"font"	"DefaultSmall"
+		//"font"	"DefaultSmall"
 	}
 	"FileTimeLabel"
 	{
@@ -85,7 +85,7 @@
 		
 		
 		"textAlignment"	"north-west"
-		"font"	"DefaultSmall"
+		//"font"	"DefaultSmall"
 	}
 	"TypeLabel"
 	{
@@ -98,7 +98,7 @@
 		//"visible"		"1"
 		
 		"textAlignment"	"north-west"
-		"font"	"DefaultSmall"
+		//"font"	"DefaultSmall"
 	}
 
 }

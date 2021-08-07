@@ -61,7 +61,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultVerySmall"
+		//"font"		"DefaultVerySmall"
 		//"wrap"		"0"
 	}
 	"ClipCamera"
@@ -81,7 +81,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultVerySmall"
+		//"font"		"DefaultVerySmall"
 		//"wrap"		"0"
 	}
 	"ClipDuration"
@@ -101,7 +101,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultVerySmall"
+		//"font"		"DefaultVerySmall"
 		//"wrap"		"0"
 	}
 	"MouseMessageForwardingPanel"

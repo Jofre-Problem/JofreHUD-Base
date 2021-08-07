@@ -61,7 +61,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultVerySmall"
+		//"font"		"DefaultVerySmall"
 		//"wrap"		"0"
 	}
 	"ClipText"
@@ -81,7 +81,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultVerySmall"
+		//"font"		"DefaultVerySmall"
 		//"wrap"		"0"
 	}
 	"MouseMessageForwardingPanel"

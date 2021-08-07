@@ -39,7 +39,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontMediumSecondary"
+		//"font"			"HudFontMediumSecondary"
 		"labelText"		"#Replay_RenderReplay"
 		//"textAlignment"	"west"
 		
@@ -68,7 +68,7 @@
 		
 		
 		"labelText"		"#GameUI_CancelBold"
-		"font"			"ReplayMedium"
+		//"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -97,7 +97,7 @@
 		
 		
 		"labelText"		"#Replay_Go"
-		"font"			"ReplayMedium"
+		//"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -116,7 +116,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"QualityPresetLabel"
 		"labelText"		"#Replay_RenderSetting"
-		"Font"			"ReplayVerySmall"
+		//"font"			"ReplayVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
@@ -135,7 +135,7 @@
 	{
 		"ControlName"	"ComboBox"
 		"fieldName"		"QualityPresetCombo"
-		"Font"			"ReplayVerySmall"
+		//"font"			"ReplayVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
 		"xpos"			"70"
@@ -158,7 +158,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"PlayVoice"
 		"labelText"		"#Replay_PlayVoice"
-		"Font"			"ReplayVerySmall"
+		//"font"			"ReplayVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
@@ -180,7 +180,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"ShowAdvancedOptions"
 		"labelText"		"#Replay_RenderAdvancedOptions"
-		"Font"			"ReplayVerySmall"
+		//"font"			"ReplayVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
@@ -217,7 +217,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"VideoModeLabel"
 		"labelText"		"#GameUI_Resolution"
-		"Font"			"ReplayVerySmall"
+		//"font"			"ReplayVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
@@ -236,7 +236,7 @@
 	{
 		"ControlName"	"ComboBox"
 		"fieldName"		"VideoModeCombo"
-		"Font"			"ReplayVerySmall"
+		//"font"			"ReplayVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
 		"xpos"			"70"
@@ -259,7 +259,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CodecLabel"
 		"labelText"		"#Replay_Codec"
-		"Font"			"ReplayVerySmall"
+		//"font"			"ReplayVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
@@ -278,7 +278,7 @@
 	{
 		"ControlName"	"ComboBox"
 		"fieldName"		"CodecCombo"
-		"Font"			"ReplayVerySmall"
+		//"font"			"ReplayVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
 		"xpos"			"70"
@@ -301,7 +301,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"MotionBlurLabel"
 		"labelText"		"#Replay_MotionBlur"
-		"Font"			"ReplayVerySmall"
+		//"font"			"ReplayVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
@@ -338,7 +338,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"QualityLabel"
 		"labelText"		"#Replay_Quality"
-		"Font"			"ReplayVerySmall"
+		//"font"			"ReplayVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
@@ -375,7 +375,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"MotionBlurEnabled"
 		"labelText"		"#Replay_MotionBlur_Enabled"
-		"Font"			"ReplayVerySmall"
+		//"font"			"ReplayVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
@@ -397,7 +397,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"EstimateTimeLabel"
 		"labeltext"		""
-		"Font"			"ReplayVerySmall"
+		//"font"			"ReplayVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
@@ -416,7 +416,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"EstimateFileLabel"
 		"labeltext"		""
-		"Font"			"ReplayVerySmall"
+		//"font"			"ReplayVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
@@ -435,7 +435,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"EnterANameLabel"
-		"font"			"ReplayVerySmall"
+		//"font"			"ReplayVerySmall"
 		"labelText"		"#Replay_Title"
 		//"textAlignment"	"west"
 		
@@ -454,7 +454,7 @@
 	{
 		"ControlName"	"TextEntry"
 		"fieldName"		"TitleInput"
-		"font"			"ReplaySmaller"
+		//"font"			"ReplaySmaller"
 		"textHidden"	"0"
 		//"textAlignment"	"west"
 		//"unicode"		"0"
@@ -478,7 +478,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ResolutionNoteLabel"
-		"font"			"ReplayVerySmall"
+		//"font"			"ReplayVerySmall"
 		"labelText"		"#Replay_NotAllVideoModesAvailable"
 		//"textAlignment"	"west"
 		
@@ -498,7 +498,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"QuitWhenDone"
 		"labelText"		"#Replay_QuitWhenDone"
-		"Font"			"ReplayVerySmall"
+		//"font"			"ReplayVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
@@ -520,7 +520,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"ExportRaw"
 		"labelText"		"#Replay_ExportRaw"
-		"Font"			"ReplayVerySmall"
+		//"font"			"ReplayVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
@@ -542,7 +542,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"GlowEnabled"
 		"labelText"		"#Replay_Glow_Enabled"
-		"Font"			"ReplayVerySmall"
+		//"font"			"ReplayVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
 		
@@ -563,7 +563,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"LockWarningLabel"
-		"font"			"ReplayMediumSmall"
+		//"font"			"ReplayMediumSmall"
 		"labelText"		"#Replay_LockWarning"
 		//"textAlignment"	"west"
 		

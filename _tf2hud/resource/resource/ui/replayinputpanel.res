@@ -40,7 +40,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NameYourReplayLabel"
-			"font"			"EconFontSmall"
+			//"font"			"EconFontSmall"
 			"labelText"		"#Replay_NameYourReplay"
 			//"textAlignment"	"west"
 			"xpos"			"13"
@@ -59,7 +59,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"EnterANameLabel"
-			"font"			"DefaultVerySmall"
+			//"font"			"DefaultVerySmall"
 			"labelText"		"#Replay_EnterYourName"
 			//"textAlignment"	"west"
 			"xpos"			"13"
@@ -78,7 +78,7 @@
 		{
 			"ControlName"	"TextEntry"
 			"fieldName"		"TitleInput"
-			"font"			"ReplayBrowserSmallest"
+			//"font"			"ReplayBrowserSmallest"
 			"textHidden"	"0"
 			//"textAlignment"	"west"
 			"unicode"		"1"
@@ -113,7 +113,7 @@
 			
 			"tabPosition"	"2"
 			"labelText"		"#GameUI_CancelBold"
-			"font"			"ReplayMediumSmall"
+			//"font"			"ReplayMediumSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"
@@ -138,7 +138,7 @@
 			
 			"tabPosition"	"1"
 			"labelText"		"#Replay_Save"
-			"font"			"ReplayMediumSmall"
+			//"font"			"ReplayMediumSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			////"dulltext"		"0"

@@ -121,7 +121,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"fillcolor"	"White"
-		"font"		"AchievementItemDescription"	//"defaultlarg"
+		//"font"		"AchievementItemDescription"	//"defaultlarg"
 	}
 	
 	"achievement_pack_combo"
@@ -170,7 +170,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"fillcolor"	"White"
-		"font"		"AchievementItemDescription"	//"defaultlarg"
+		//"font"		"AchievementItemDescription"	//"defaultlarg"
 	}
 	
 	"HideAchieved"
@@ -191,6 +191,6 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"font"			"AchievementItemDescription"
+		//"font"			"AchievementItemDescription"
 	}
 }

@@ -30,7 +30,7 @@
 		"ypos"			"12"
 		"wide"			"256"
 		"tall"			"20"
-		"font"			"AchievementItemTitle"
+		//"font"			"AchievementItemTitle"
 		//"textAlignment"		"west"
 	}
 			
@@ -43,7 +43,7 @@
 		"ypos"			"12"
 		"wide"			"200"
 		"tall"			"20"
-		"font"			"AchievementItemTitle"
+		//"font"			"AchievementItemTitle"
 		//"textAlignment"		"west"
 		"textColor"	"255 255 255 255"
 	}

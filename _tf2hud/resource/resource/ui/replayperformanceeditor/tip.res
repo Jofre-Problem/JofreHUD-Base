@@ -22,7 +22,7 @@
 		"zpos"			"2"
 		//"visible"		"1"
 		
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		"centerwrap"	"1"
 		"fgcolor_override"	"HUDWhite"
 	}

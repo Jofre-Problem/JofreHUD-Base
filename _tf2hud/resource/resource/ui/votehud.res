@@ -44,7 +44,7 @@
 			//"textAlignment"	"west"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"font"			"ScoreboardSmall"
+			//"font"			"ScoreboardSmall"
 			"wrap"			"1"
 			"fgcolor_override"	"HUDWhite"
 		}
@@ -63,7 +63,7 @@
 			"textAlignment"	"north-west"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			//"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
 			"fgcolor_override"	"HUDWhite"
 			"noshortcutsyntax" "1"
@@ -98,7 +98,7 @@
 			"textAlignment"	"north-west"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			//"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
 			"fgcolor_override"	"128 128 128 255"
 		}
@@ -117,7 +117,7 @@
 			"textAlignment"	"north-west"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"font"			"ScoreboardSmall"
+			//"font"			"ScoreboardSmall"
 			"fgcolor_override"	"HUDWhite"
 			"wrap"			"1"
 			"noshortcutsyntax" "1"
@@ -153,7 +153,7 @@
 			"textAlignment"	"left"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			//"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"HUDWhite"
 		}
 		
@@ -186,7 +186,7 @@
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"font"			"ScoreboardSmall"
+			//"font"			"ScoreboardSmall"
 			"fgcolor_override"	"HUDWhite"
 		}
 		
@@ -205,7 +205,7 @@
 			"textAlignment"	"left"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			//"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"HUDWhite"
 		}
 		
@@ -238,7 +238,7 @@
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"font"			"ScoreboardSmall"
+			//"font"			"ScoreboardSmall"
 			"fgcolor_override"	"HUDWhite"
 		}
 		
@@ -257,7 +257,7 @@
 			"textAlignment"	"left"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			//"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"HUDWhite"
 		}
 		
@@ -290,7 +290,7 @@
 			"textAlignment"	"left"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			//"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"HUDWhite"
 		}
 		
@@ -323,7 +323,7 @@
 			"textAlignment"	"left"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			//"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"HUDWhite"
 		}
 		
@@ -368,7 +368,7 @@
 			"textAlignment"	"north-west"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			//"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"128 128 128 255"
 		}
 		
@@ -435,7 +435,7 @@
 			//"textAlignment"	"west"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"font"			"ScoreboardSmall"
+			//"font"			"ScoreboardSmall"
 			"wrap"			"1"
 			"fgcolor_override"	"200 30 30 255"
 		}
@@ -454,7 +454,7 @@
 			"textAlignment"	"north-west"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			//"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
 			"fgcolor_override"	"HUDWhite"
 		}		
@@ -503,7 +503,7 @@
 			//"textAlignment"	"west"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"font"			"ScoreboardSmall"
+			//"font"			"ScoreboardSmall"
 			"wrap"			"1"
 			"fgcolor_override"	"200 30 30 255"
 		}
@@ -522,7 +522,7 @@
 			"textAlignment"	"north-west"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			//"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
 			"fgcolor_override"	"HUDWhite"
 		}		
@@ -542,7 +542,7 @@
 		
 		
 		"settitlebarvisible"	"1"
-		"font"					"ScoreboardSmall"
+		//"font"					"ScoreboardSmall"
 		"PaintBackgroundType"	"2" // rounded corners
 		"border"				"TFThinLineBorder"
 		"issue_width"		"100"
@@ -563,7 +563,7 @@
 			
 			
 			"linespacing"	"22"
-			"font"			"ScoreboardVerySmall"
+			//"font"			"ScoreboardVerySmall"
 		}
 		
 		"VoteParameterList"
@@ -581,7 +581,7 @@
 			
 			
 			"linespacing"	"22"
-			"font"			"ScoreboardVerySmall"
+			//"font"			"ScoreboardVerySmall"
 		}
 		
 		"CallVoteButton"
@@ -603,7 +603,7 @@
 			//"brighttext"	"0"
 			"Command"		"CallVote"
 			"Default"		"0"
-			"font"			"ScoreboardVerySmall"
+			//"font"			"ScoreboardVerySmall"
 		}
 		"Button1"
 		{
@@ -624,7 +624,7 @@
 			//"brighttext"	"0"
 			"Command"		"Close"
 			"Default"		"0"
-			"font"			"ScoreboardVerySmall"
+			//"font"			"ScoreboardVerySmall"
 		}
 	}
 }

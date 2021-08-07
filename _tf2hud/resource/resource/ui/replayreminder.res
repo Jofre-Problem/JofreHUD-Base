@@ -43,7 +43,7 @@
 		{	
 			"ControlName"	"Label"
 			"fieldName"		"Label"
-			"font"			"SpectatorKeyHints"
+			//"font"			"SpectatorKeyHints"
 			"xpos"			"40"
 			"ypos"			"25"
 			"zpos"			"2"

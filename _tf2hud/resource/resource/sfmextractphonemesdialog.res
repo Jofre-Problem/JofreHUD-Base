@@ -223,7 +223,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultSmall"
+		//"font"		"DefaultSmall"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -244,7 +244,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultSmall"
+		//"font"		"DefaultSmall"
 		//"wrap"		"0"
 		"Default"		"0"
 	}
@@ -265,7 +265,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultSmall"
+		//"font"		"DefaultSmall"
 		//"wrap"		"0"
 		"Default"		"0"
 	}

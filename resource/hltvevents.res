@@ -1,2 +1,1 @@
-#base "../_jofrehud/resource/hltvevents.res"
-#base "../_tf2hud/resource/resource/hltvevents.res"
+#base	"../../_jofrehud/_tf2exp/null.res"

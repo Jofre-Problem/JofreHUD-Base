@@ -293,7 +293,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultBold"
+		//"font"		"DefaultBold"
 		//"wrap"		"0"
 	}
 	"AudioFileLabel"
@@ -370,7 +370,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultBold"
+		//"font"		"DefaultBold"
 		//"wrap"		"0"
 	}
 	"ViewPositionLabel"
@@ -428,7 +428,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultBold"
+		//"font"		"DefaultBold"
 		//"wrap"		"0"
 	}
 	"StartCommandsLabel"
@@ -486,7 +486,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultBold"
+		//"font"		"DefaultBold"
 		//"wrap"		"0"
 	}
 	"PositionLabel"
@@ -506,7 +506,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"DefaultBold"
+		//"font"		"DefaultBold"
 		//"wrap"		"0"
 	}
 	"NodePositionLabel"

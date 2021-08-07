@@ -32,7 +32,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"Trebuchet24"
+		//"font"		"Trebuchet24"
 		//"wrap"		"0"
 	}
 	"BxClipTime"

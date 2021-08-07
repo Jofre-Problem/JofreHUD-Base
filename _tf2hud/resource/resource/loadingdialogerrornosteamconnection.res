@@ -123,6 +123,6 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"URLText"		"#VAC_ConnectionIssuesSupportURL"
-		"font"		"DefaultBold"
+		//"font"		"DefaultBold"
 	}
 }

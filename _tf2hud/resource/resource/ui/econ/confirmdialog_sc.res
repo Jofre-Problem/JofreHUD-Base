@@ -23,7 +23,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"EconFontMedium"
+		//"font"			"EconFontMedium"
 		"labelText"		"#ConfirmTitle"
 		"textAlignment"	"north"
 		
@@ -41,7 +41,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ExplanationLabel"
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		"labelText"		"%text%"
 		"textAlignment"	"north"
 		"xpos"			"40"
@@ -72,7 +72,7 @@
 		
 		
 		"labelText"		"#GameUI_CancelBold"
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -122,7 +122,7 @@
 		
 		
 		"labelText"		"#ConfirmButtonText"
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"

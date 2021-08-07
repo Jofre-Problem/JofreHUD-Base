@@ -68,7 +68,7 @@
 		
 		
 		"labelText"		"#Replay_ExportMovie"
-		"font"			"ReplayMedium"
+		//"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -90,7 +90,7 @@
 		
 		
 		"labeltext"		""
-		"font"			"ReplayMedium"
+		//"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -131,7 +131,7 @@
 		
 		
 		"labelText"		"#Replay_YouTubeUpload"
-		"font"			"ReplayMedium"
+		//"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -153,7 +153,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"#Replay_YouTubeView"
-		"font"			"ReplayMedium"
+		//"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -175,7 +175,7 @@
 		"enabled"		"0"
 		
 		"labelText"		"#Replay_YouTubeShareURL"
-		"font"			"ReplayMedium"
+		//"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -197,7 +197,7 @@
 		//"visible"		"1"
 		
 		"labelText"		"#X_Delete"
-		"font"			"ReplayMedium"
+		//"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -226,7 +226,7 @@
 		
 		
 		"labelText"		"#Replay_Watch"
-		"font"			"ReplayMedium"
+		//"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
@@ -252,7 +252,7 @@
 		//"visible"		"1"
 		
 		"labelText"		"#Replay_RenderEllipsis"
-		"font"			"ReplayMedium"
+		//"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"

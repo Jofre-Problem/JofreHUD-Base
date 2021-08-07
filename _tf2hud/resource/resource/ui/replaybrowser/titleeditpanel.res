@@ -19,7 +19,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CaratLabel"
-		"font"			"ReplayMediumSmall"
+		//"font"			"ReplayMediumSmall"
 		"labelText"		">>"
 		//"textAlignment"	"west"
 		
@@ -53,7 +53,7 @@
 		
 		"fgcolor_override"		"202 190 164 255"
 		"bgcolor_override"		"Blank"		// Background is drawn explicitly in CTitleEditPanel::PaintBackground()
-		"Font"			"ReplayLarger"
+		//"font"			"ReplayLarger"
 	}
 	
 	"HeaderLine"
@@ -77,7 +77,7 @@
 		"FieldName"			"ClickToEditLabel"
 		"LabelText"			"#Replay_ClickToEdit"
 		"zpos"				"1000"
-		"font"				"ReplayBrowserSmallest"
+		//"font"				"ReplayBrowserSmallest"
 		//"visible"			"1"
 		"fgcolor_override" "118 106 94 255"
 	}

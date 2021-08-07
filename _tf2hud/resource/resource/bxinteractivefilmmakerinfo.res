@@ -32,7 +32,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"Trebuchet20"
+		//"font"		"Trebuchet20"
 		//"wrap"		"0"
 	}
 	"Angles"
@@ -52,7 +52,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"Trebuchet20"
+		//"font"		"Trebuchet20"
 		//"wrap"		"0"
 	}
 	"Skipping"
@@ -72,7 +72,7 @@
 		"textAlignment"		"center"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"font"		"Trebuchet24"
+		//"font"		"Trebuchet24"
 		//"wrap"		"0"
 	}
 }

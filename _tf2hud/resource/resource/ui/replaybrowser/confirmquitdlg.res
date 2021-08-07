@@ -34,7 +34,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontMediumSecondary"
+		//"font"			"HudFontMediumSecondary"
 		"labelText"		"#Replay_ConfirmQuitTitle"
 		"textAlignment"	"north"
 		
@@ -53,7 +53,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ExplanationLabel"
-		"font"			"HudFontSmall"
+		//"font"			"HudFontSmall"
 		"labelText"		"#Replay_ConfirmQuit"
 		"textAlignment"	"north"
 		"xpos"			"10"
@@ -83,7 +83,7 @@
 		
 		
 		"labelText"		"#Replay_RenderNow"
-		"font"			"ReplayMediumSmall"
+		//"font"			"ReplayMediumSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -108,7 +108,7 @@
 		
 		
 		"labelText"		"#Replay_TakeMeToReplays"
-		"font"			"ReplayMediumSmall"
+		//"font"			"ReplayMediumSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -133,7 +133,7 @@
 		
 		
 		"labelText"		"#Replay_YesReallyQuit"
-		"font"			"ReplayMediumSmall"
+		//"font"			"ReplayMediumSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -148,7 +148,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"DontShowThisAgainCheckbox"
 		"labelText"		"#Replay_DontShowThisAgain"
-		"Font"			"ItemFontAttribSmall"
+		//"font"			"ItemFontAttribSmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
 		"xpos"			"130"

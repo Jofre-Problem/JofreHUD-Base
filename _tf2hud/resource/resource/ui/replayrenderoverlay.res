@@ -12,7 +12,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"FilenameLabel"
-		"font"			"DefaultVerySmall"
+		//"font"			"DefaultVerySmall"
 		"labeltext"		""
 		//"textAlignment"	"west"
 		"zpos"			"10"
@@ -27,7 +27,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		"labelText"		"#Replay_RenderOverlayText"
 		//"textAlignment"	"west"
 		"zpos"			"10"
@@ -69,7 +69,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ProgressLabel"
-		"font"			"DefaultVerySmall"
+		//"font"			"DefaultVerySmall"
 		"labeltext"		""
 		"textAlignment"	"east"
 		"zpos"			"10"
@@ -93,7 +93,7 @@
 		
 		
 		"labelText"		"#Replay_CancelRender"
-		"font"			"EconFontSmall"
+		//"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		////"dulltext"		"0"
@@ -108,7 +108,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"PreviewCheckButton"
 		"labelText"		"#Replay_RenderPreview"
-		"Font"			"DefaultVerySmall"
+		//"font"			"DefaultVerySmall"
 		//"textAlignment"	"west"
 		//"wrap"			"0"
 		

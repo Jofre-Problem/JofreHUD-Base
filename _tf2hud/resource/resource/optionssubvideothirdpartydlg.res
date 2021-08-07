@@ -17,7 +17,7 @@
 		"textAlignment"		"north-west"
 		"dulltext"		"1"
 		////"brighttext"		"0"
-		"font"		"DefaultSmall"
+		//"font"		"DefaultSmall"
 		"wrap"		"1"
 	}
 	"Label3"
@@ -37,7 +37,7 @@
 		"textAlignment"		"north-west"
 		"dulltext"		"1"
 		////"brighttext"		"0"
-		"font"		"DefaultSmall"
+		//"font"		"DefaultSmall"
 		//"wrap"		"0"
 	}
 	"Label2"
@@ -57,7 +57,7 @@
 		"textAlignment"		"north-west"
 		"dulltext"		"1"
 		////"brighttext"		"0"
-		"font"		"DefaultSmall"
+		//"font"		"DefaultSmall"
 		//"wrap"		"0"
 	}
 	"Button2"

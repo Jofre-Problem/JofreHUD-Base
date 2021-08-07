@@ -89,7 +89,7 @@
 		"ypos"		"104"
 		"wide"		"180"
 		"tall"		"26"
-		"font"		"UiBold"
+		//"font"		"UiBold"
 		"textAlignment"	"center"
 	}
 }
