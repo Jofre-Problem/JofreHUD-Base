@@ -428,12 +428,7 @@ Scheme
 		"ProgressBarFg"			"255 30 13 255"
 
 		// Top-left corner of the menu on the main screen
-		"Main.Menu.X"		"32"
-		"Main.Menu.Y"		"248"
 
-		// Blank space to leave beneath the menu on the main screen
-		"Main.BottomBorder"	"32"
-		
 		"VguiScreenCursor"			"255 208 64 255"
 	}
 
@@ -693,19 +688,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"
-			}
-		}
-
-		GameUIButtons
-		{
-			"1"	//[$X360]
-			{
-				"bitmap"	"1"
-				"name"		"Buttons"
-				"scalex"	"0.5"
-				////"scalex_lodef"		"0.75"
-				"scaley"	"0.5"
-				//"scaley_lodef"		"0.75"
 			}
 		}
 		GameUIButtonsSmall

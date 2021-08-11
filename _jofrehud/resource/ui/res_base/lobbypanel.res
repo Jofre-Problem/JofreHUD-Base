@@ -568,8 +568,8 @@
 
 		"NavToRelay"	"PartyGroupBox"
 		"NavDown"		"<<NextButton"
-		"NavLeft"		"<<Sheet"
-		"NavRight"		"<<StartPartyButton"
+		//"navLeft"		"<<Sheet"
+		//"navRight"		"<<StartPartyButton"
 
 		"PartyGroupBox"
 		{

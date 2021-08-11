@@ -11,7 +11,7 @@
 		"tall"			"f0"
 		"visible"		"0"
 		
-		"image"			""
+		//"image"			""
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
 	}

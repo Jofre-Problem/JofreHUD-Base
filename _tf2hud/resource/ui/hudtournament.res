@@ -734,7 +734,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentConditionLabel"
-		"font"			"TFFontSmall"
+		"font"			"ScoreboardVerySmall"
 		"fgcolor"		"TanLight"
 		"xpos"			"8"
 		"ypos"			"42"
@@ -813,7 +813,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentInstructionsLabel"
-		"font"			"TFFontSmall"
+		"font"			"ScoreboardVerySmall"
 		
 		"ypos"			"54"
 		"wide"			"250"
@@ -863,7 +863,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentInstructionsLabelShadow"
-		"font"			"TFFontSmall"
+		"font"			"ScoreboardVerySmall"
 		
 		"ypos"			"54"
 		"wide"			"250"

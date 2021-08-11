@@ -17,6 +17,6 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"TFFontSmall"
+		"font"					"ScoreboardVerySmall"
 	}
 }

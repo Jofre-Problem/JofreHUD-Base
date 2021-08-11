@@ -63,40 +63,6 @@
 		"brighttext"	"1"
 	}
 
-	"PrevOptionHintIcon"
-	{
-		"ControlName"	"CSCHintIcon"
-		"fieldName"		"PrevOptionHintIcon"
-		"xpos"			"45"
-		"ypos"			"290"
-		"wide"			"50"
-		"tall"			"50"
-		"zpos"			"4"
-		
-		//"visible"		"1"
-		
-		
-		"actionSet"		"InGameHUDControls"
-		"actionName"	"menu_left"
-	}
-
-	"NextOptionHintIcon"
-	{
-		"ControlName"	"CSCHintIcon"
-		"fieldName"		"NextOptionHintIcon"
-		"xpos"			"r80"
-		"ypos"			"290"
-		"wide"			"50"
-		"tall"			"50"
-		"zpos"			"4"
-		
-		//"visible"		"1"
-		
-		
-		"actionSet"		"InGameHUDControls"
-		"actionName"	"menu_right"
-	}
-
 	"teambutton2"
 	{
 		"ControlName"		"CTFTeamButton"
@@ -121,22 +87,7 @@
 		"fgcolor"		"HUDWhite"
 	}
 
-	"JoinAutoHintIcon"
-	{
-		"ControlName"	"CSCHintIcon"
-		"fieldName"		"JoinAutoHintIcon"
-		"xpos"			"c-270"
-		"ypos"			"290"
-		"wide"			"50"
-		"tall"			"50"
-		"zpos"			"5"
-		
-		"visible"		"0"
-		
-		
-		"actionSet"		"InGameHUDControls"
-		"actionName"	"menu_select"
-	}
+
 	
 	"teambutton3"
 	{
@@ -162,22 +113,6 @@
 		"fgcolor"		"HUDWhite"
 	}
 
-	"JoinSpectatorsHintIcon"
-	{
-		"ControlName"	"CSCHintIcon"
-		"fieldName"		"JoinSpectatorsHintIcon"
-		"xpos"			"c-120"
-		"ypos"			"290"
-		"wide"			"50"
-		"tall"			"50"
-		"zpos"			"5"
-		
-		"visible"		"0"
-		
-		
-		"actionSet"		"InGameHUDControls"
-		"actionName"	"menu_select"
-	}
 	
 	"CancelButton" //[$WIN32] 
 	{

@@ -47,7 +47,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"image"			""
+		//"image"			""
 		"scaleImage"		"0"
 	}
 

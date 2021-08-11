@@ -135,7 +135,7 @@
 		"tall"			"90"
 		"visible"		"0"
 		
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	"classImage1"
@@ -149,7 +149,7 @@
 		"tall"			"90"
 		"visible"		"0"
 		
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	"classImage2"
@@ -163,7 +163,7 @@
 		"tall"			"90"
 		"visible"		"0"
 		
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	"classImage3"
@@ -177,7 +177,7 @@
 		"tall"			"90"
 		"visible"		"0"
 		
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	"classImage4"
@@ -191,7 +191,7 @@
 		"tall"			"90"
 		"visible"		"0"
 		
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	"classImage5"
@@ -205,7 +205,7 @@
 		"tall"			"90"
 		"visible"		"0"
 		
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	"classImage6"
@@ -219,7 +219,7 @@
 		"tall"			"90"
 		"visible"		"0"
 		
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	"classImage7"
@@ -233,7 +233,7 @@
 		"tall"			"90"
 		"visible"		"0"
 		
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	"classImage8"
@@ -247,7 +247,7 @@
 		"tall"			"90"
 		"visible"		"0"
 		
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	"classImage9"
@@ -261,7 +261,7 @@
 		"tall"			"90"
 		"visible"		"0"
 		
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	"classImage10"
@@ -275,7 +275,7 @@
 		"tall"			"90"
 		"visible"		"0"
 		
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	"classImage11"
@@ -289,7 +289,7 @@
 		"tall"			"90"
 		"visible"		"0"
 		
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 }

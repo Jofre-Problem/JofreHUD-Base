@@ -374,7 +374,7 @@
 		"visible"		"0"
 		
 		"scaleImage"	"1"	
-		"image"			""
+		//"image"			""
 		"fgcolor"		"TanDark"
 	}
 	"PlayerStatus_Parachute"
@@ -390,7 +390,7 @@
 		"visible"		"0"
 		
 		"scaleImage"	"1"	
-		"image"			""
+		//"image"			""
 		"fgcolor"		"TanDark"
 	}
 	"PlayerStatus_RuneStrength"

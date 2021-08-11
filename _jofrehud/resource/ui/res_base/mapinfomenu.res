@@ -104,7 +104,7 @@
 		//"tall_lodef"	"225"
 		"visible"		"0"
 		//"enabled"		"1"
-		"image"			""
+		//"image"			""
 		"scaleImage"	"1"		
 	}
 

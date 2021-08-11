@@ -350,7 +350,7 @@
 				"StaticPhoto"
 				{
 					"visible"		"0"
-					"image"			""
+					//"image"			""
 				}
 
 				"CharacterBackdropImage"

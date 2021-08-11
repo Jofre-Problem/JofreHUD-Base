@@ -69,7 +69,7 @@
 		"tall"			"32"
 		//"visible"		"1"
 		
-		"image"			""
+		//"image"			""
 		"scaleImage"	"1"	
 		"color_outline"	"52 48 45 255"
 	}
@@ -112,7 +112,7 @@
 		"wrap"			"1"
 		"labelText"		"#TF_Coach_KickCoach"
 		//"textAlignment"	"west"
-		"font"			"TFFontSmall"
+		"font"			"ScoreboardVerySmall"
 	}
 
 	"LikeCoachLabel"
@@ -132,7 +132,7 @@
 		"wrap"			"1"
 		"labelText"		"#TF_Coach_LikeCoach"
 		//"textAlignment"	"west"
-		"font"			"TFFontSmall"
+		"font"			"ScoreboardVerySmall"
 	}
 
 }

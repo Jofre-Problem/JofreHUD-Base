@@ -11,9 +11,9 @@
 		"tall"		"225"
 
 		"NavToRelay"	"TourlistGroupBox"
-		"NavUp"			"MvMSelectChallengeGroupBox"
-		"NavLeft"		"MvMSelectChallengeGroupBox"
-		"NavRight"		"PartyActiveGroupBox"
+		//"navUp"			"MvMSelectChallengeGroupBox"
+		//"navLeft"		"MvMSelectChallengeGroupBox"
+		//"navRight"		"PartyActiveGroupBox"
 
 		"ChallengeLabel"
 		{
@@ -210,9 +210,9 @@
 		"border"		"QuickplayBorder"
 
 		"NavToRelay"	"OpenHelpButton"
-		"NavUp"			"MvMTourOfDutyGroupBox"
+		//"navUp"			"MvMTourOfDutyGroupBox"
 		"NavDown"		"MvMPracticeGroupBox"
-		"NavRight"		"PartyActiveGroupBox"
+		//"navRight"		"PartyActiveGroupBox"
 
 		"InventoryTitleLabel"
 		{
@@ -472,9 +472,9 @@
 		"border"		"QuickplayBorder"
 
 		"NavToRelay"	"MannUpNowButton"
-		"NavUp"			"MvMEconItemsGroupBox"
+		//"navUp"			"MvMEconItemsGroupBox"
 		"NavDown"		"<<BackButton"
-		"NavRight"		"PartyActiveGroupBox"
+		//"navRight"		"PartyActiveGroupBox"
 
 		"NoMannUpImage"
 		{
@@ -557,7 +557,7 @@
 		"tall"		"225"
 
 		"NavToRelay"	"ChallengeListGroupBox"
-		"NavRight"		"MvMTourOfDutyGroupBox"
+		//"navRight"		"MvMTourOfDutyGroupBox"
 
 		"ChallengeLabel"
 		{

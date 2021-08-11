@@ -381,7 +381,7 @@
 			"ControlName"		"Label"
 			"fieldName"			"OwnerLabel"
 			"font"				"FontStoreOriginalPrice"
-			////"font_minmode"		"TFFontSmall"
+			////"font_minmode"		"ScoreboardVerySmall"
 			"xpos"				"5"
 			////"xpos_minmode"		"5"
 			"ypos"				"12"

@@ -30,9 +30,9 @@
 		//"brighttext"	"0"
 		"Command"		"learn_more"
 
-		"NavUp"			"PracticeButton"
-		"NavLeft"		"BackButton"
-		"NavRight"		"NextButton"
+		//"navUp"			"PracticeButton"
+		//"navLeft"		"BackButton"
+		//"navRight"		"NextButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -60,10 +60,10 @@
 		//"brighttext"	"0"
 		"Command"		"mannup"
 
-		"NavUp"			"Sheet"
+		//"navUp"			"Sheet"
 		"NavDown"		"BackButton"
-		"NavLeft"		"Sheet"
-		"NavRight"		"PracticeButton"
+		//"navLeft"		"Sheet"
+		//"navRight"		"PracticeButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -99,10 +99,10 @@
 		//"brighttext"	"0"
 		"Command"		"practice"
 
-		"NavUp"			"Sheet"
+		//"navUp"			"Sheet"
 		"NavDown"		"LearnMoreButton"
-		"NavLeft"		"PlayNowButton"
-		"NavRight"		"StartPartyButton"
+		//"navLeft"		"PlayNowButton"
+		//"navRight"		"StartPartyButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

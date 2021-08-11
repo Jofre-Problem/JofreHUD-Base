@@ -61,7 +61,7 @@
 		//"dulltext"				"0"
 		//"brighttext"			"0"
 		"font"					"HudFontSmall"
-		////"font_minmode"					"TFFontSmall"
+		////"font_minmode"					"ScoreboardVerySmall"
 	}
 
 	"ItemEffectMeter"
@@ -109,6 +109,6 @@
 		//"dulltext"				"0"
 		//"brighttext"			"0"
 		"font"					"HudFontMediumSmall"
-		////"font_minmode"					"TFFontSmall"
+		////"font_minmode"					"ScoreboardVerySmall"
 	}
 }

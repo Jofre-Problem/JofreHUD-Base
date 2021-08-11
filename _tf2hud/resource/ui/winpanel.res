@@ -110,7 +110,7 @@
 			"tall"			"40"
 			//"visible"		"1"
 			
-			"image"			""
+			//"image"			""
 			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
 		}
@@ -197,7 +197,7 @@
 			"tall"			"40"
 			//"visible"		"1"
 			
-			"image"			""
+			//"image"			""
 			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
 		}
@@ -445,7 +445,7 @@
 		"tall"			"14"
 		//"visible"		"1"
 		
-		"image"			""
+		//"image"			""
 		"scaleImage"		"1"	
 		"color_outline"		"52 48 45 255"
 	}
@@ -528,7 +528,7 @@
 		"tall"			"14"
 		//"visible"		"1"
 		
-		"image"			""
+		//"image"			""
 		"scaleImage"		"1"	
 		"color_outline"		"52 48 45 255"
 	}
@@ -611,7 +611,7 @@
 		"tall"			"14"
 		//"visible"		"1"
 		
-		"image"			""
+		//"image"			""
 		"scaleImage"		"1"	
 		"color_outline"		"52 48 45 255"
 	}
@@ -751,7 +751,7 @@
 		"tall"			"14"
 		//"visible"		"1"
 		
-		"image"			""
+		//"image"			""
 		"scaleImage"		"1"	
 		"color_outline"		"52 48 45 255"
 	}

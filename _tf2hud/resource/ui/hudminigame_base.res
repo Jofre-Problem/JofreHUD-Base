@@ -158,7 +158,7 @@
 		"tall"			"50"
 		//"visible"		"1"
 		
-		"image"			""
+		//"image"			""
 		"scaleImage"	"1"	
 	}
 }

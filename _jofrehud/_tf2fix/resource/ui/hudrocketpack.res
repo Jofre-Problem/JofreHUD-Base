@@ -73,7 +73,7 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"font"			"HudFontSmallest"
-		//"font_minmode"	"TFFontSmall"
+		//"font_minmode"	"ScoreboardVerySmall"
 		"fgcolor"		"178 0 0 255"
 	}
 

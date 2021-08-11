@@ -118,10 +118,10 @@
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"
 
-			"NavUp"			"Sheet"
+			//"navUp"			"Sheet"
 			"NavDown"		"BackButton"
-			"NavLeft"		"Sheet"
-			"NavRight"		"PracticeButton"
+			//"navLeft"		"Sheet"
+			//"navRight"		"PracticeButton"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -239,10 +239,10 @@
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"
 
-			"NavUp"			"Sheet"
+			//"navUp"			"Sheet"
 			"NavDown"		"LearnMoreButton"
-			"NavLeft"		"PlayNowButton"
-			"NavRight"		"StartPartyButton"
+			//"navLeft"		"PlayNowButton"
+			//"navRight"		"StartPartyButton"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"

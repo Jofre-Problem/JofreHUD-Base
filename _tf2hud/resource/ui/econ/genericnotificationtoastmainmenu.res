@@ -39,7 +39,7 @@
 		"tall"			"32"
 		//"visible"		"1"
 		
-		"image"			""
+		//"image"			""
 		"scaleImage"	"1"
 		"color_outline"	"52 48 45 255"
 	}

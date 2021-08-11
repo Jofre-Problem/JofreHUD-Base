@@ -79,7 +79,7 @@
 			
 			////"tileImage"		"0"
 			"scaleImage"	"1"
-			"image"			""
+			//"image"			""
 		}	
 	}
 

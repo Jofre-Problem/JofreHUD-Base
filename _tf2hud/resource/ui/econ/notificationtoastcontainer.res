@@ -32,7 +32,7 @@
 		"wrap"			"1"
 		"labeltext"		""
 		"textAlignment"	"North"
-		"font"			"TFFontSmall"
+		"font"			"ScoreboardVerySmall"
 		"textinsetx"	"2"
 		"textinsety"	"7"
 	}

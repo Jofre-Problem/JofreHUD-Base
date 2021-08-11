@@ -22,7 +22,7 @@
 		"tall"			"25"
 		"Command"		"back"
 
-		"NavUp"			"PlayNowButton"
+		//"navUp"			"PlayNowButton"
 	}
 
 	"LobbyContainerFrame"
@@ -167,9 +167,9 @@
 		"brighttext"	"0"
 		"Command"		"next"
 
-		"NavUp"			"StartPartyButton"
+		//"navUp"			"StartPartyButton"
 		"NavDown"		"LearnMoreButton"
-		"NavLeft"		"LearnMoreButton"
+		//"navLeft"		"LearnMoreButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -197,9 +197,9 @@
 		"brighttext"	"0"
 		"Command"		"start_party"
 
-		"NavUp"			"Sheet"
+		//"navUp"			"Sheet"
 		"NavDown"		"NextButton"
-		"NavLeft"		"PracticeButton"
+		//"navLeft"		"PracticeButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

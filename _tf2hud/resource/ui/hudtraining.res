@@ -94,7 +94,7 @@
 		"wrap"			"1"
 		"labelText"		"#TF_Training_SpaceToContinue"
 		"textAlignment"	"North"
-		"font"			"TFFontSmall"
+		"font"			"ScoreboardVerySmall"
 	}
 	"HudTrainingMsgBG"
 	{

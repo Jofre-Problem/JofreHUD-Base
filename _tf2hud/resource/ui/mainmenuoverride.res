@@ -171,7 +171,7 @@
 		"tall"			"f0"
 		"visible"		"0"
 		
-		"image"			""
+		//"image"			""
 		"scaleImage"	"1"
 		"proportionaltoparent"	"1"
 
@@ -482,10 +482,10 @@
 		//"visible"		"1"
 		
 
-		"navUp"			"MOTD_ShowButtonPanel"
+		//"navUp"			"MOTD_ShowButtonPanel"
 		"navDown"		"SettingsButton"
-		"navLeft"		"QuickplayButton"
-		"navRight"		"Notifications_Panel"
+		//"navLeft"		"QuickplayButton"
+		//"navRight"		"Notifications_Panel"
 		"navToRelay"	"Notifications_ShowButtonPanel_SB"
 		
 		"SubImage"
@@ -586,8 +586,8 @@
 		
 		
 		
-		"navUp"			"Notifications_Panel"
-		"navLeft"		"SettingsButton"
+		//"navUp"			"Notifications_Panel"
+		//"navLeft"		"SettingsButton"
 
 		"SubButton"
 		{
@@ -659,8 +659,8 @@
 		
 		
 		
-		"navUp"			"Notifications_Panel"
-		"navLeft"		"SettingsButton"
+		//"navUp"			"Notifications_Panel"
+		//"navLeft"		"SettingsButton"
 
 		"SubButton"
 		{
@@ -731,10 +731,10 @@
 		//"visible"		"1"
 		
 
-		"navUp"			"MOTD_Panel"				// pass through when naving up to this or the fully displayed MOTD
+		//"navUp"			"MOTD_Panel"				// pass through when naving up to this or the fully displayed MOTD
 		"navDown"		"Notifications_Panel"		// when a sub element can't nav down it will pass through this
-		"navLeft"		"Notifications_Panel"		// when a sub element can't nav left it will pass through this
-		"navRight"		"MOTD_Panel"				// pass through when naving right to this or the fully displayed MOTD
+		//"navLeft"		"Notifications_Panel"		// when a sub element can't nav left it will pass through this
+		//"navRight"		"MOTD_Panel"				// pass through when naving right to this or the fully displayed MOTD
 		"navToRelay"	"MOTD_ShowButtonPanel_SB"	// when naving to this it auto navs to this child instead
 		
 		"MOTD_ShowButtonPanel_SB"
@@ -800,7 +800,7 @@
 		"border"		"MainMenuHighlightBorder"
 
 		"navDown"		"SettingsButton"		// when a sub element can't nav down it will pass through this
-		"navLeft"		"MOTD_ShowButtonPanel"	// when a sub element can't nav left it will pass through this
+		//"navLeft"		"MOTD_ShowButtonPanel"	// when a sub element can't nav left it will pass through this
 		"navToRelay"	"MOTD_URLButton"		// when naving to this it auto navs to this child instead
 		
 		"MOTD_HeaderContainer"
@@ -1054,9 +1054,9 @@
 			"actionsignallevel"	"2"
 
 
-			"navUp"			"MOTD_CloseButton"
-			"navLeft"		"MOTD_PrevButton"
-			"navRight"		"MOTD_NextButton"
+			//"navUp"			"MOTD_CloseButton"
+			//"navLeft"		"MOTD_PrevButton"
+			//"navRight"		"MOTD_NextButton"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1090,8 +1090,8 @@
 			"Command"		"motd_prev"
 			"actionsignallevel"	"2"
 
-			"navUp"			"MOTD_CloseButton"
-			"navRight"		"MOTD_URLButton"
+			//"navUp"			"MOTD_CloseButton"
+			//"navRight"		"MOTD_URLButton"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1138,8 +1138,8 @@
 			"Command"		"motd_next"
 			"actionsignallevel"	"2"
 
-			"navUp"			"MOTD_CloseButton"
-			"navLeft"		"MOTD_URLButton"
+			//"navUp"			"MOTD_CloseButton"
+			//"navLeft"		"MOTD_URLButton"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1178,10 +1178,10 @@
 		"paintbackground"	"0"
 		"border"		"MainMenuHighlightBorder"
 
-		"navUp"			"MOTD_ShowButtonPanel"
+		//"navUp"			"MOTD_ShowButtonPanel"
 		"navDown"		"SettingsButton"
-		"navLeft"		"Notifications_ShowButtonPanel"
-		"navRight"		"MOTD_ShowButtonPanel"
+		//"navLeft"		"Notifications_ShowButtonPanel"
+		//"navRight"		"MOTD_ShowButtonPanel"
 		"navToRelay"	"Notifications_CloseButton"
 		
 		"Notifications_CloseButton"
@@ -1293,71 +1293,7 @@
 		"border"		"MainMenuBGBorder"
 	}
 
-	"VRModeButton"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldname"		"VRModeButton"
-		"xpos"			"c-285"
-		"ypos"			"379"
-		"zpos"			"-60"
-		"wide"			"270"
-		"tall"			"36"
-		//"visible"		"1"
-		"PaintBackgroundType"	"2"
 
-		"navUp"			"ReplayBrowserButton"
-		"navDown"		"QuitButton"
-		"navRight"		"Notifications_ShowButtonPanel"
-		"navToRelay"	"SubButton"
-
-		"SubButton"
-		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"SubButton"
-			
-			
-			"wide"			"250"
-			"tall"			"26"
-			
-			"pinCorner"		"3"
-			//"visible"		"1"
-			
-			
-			"textinsetx"	"25"
-			"use_proportional_insets" "1"
-			"font"			"HudFontSmall"
-			//"textAlignment"	"west"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			//"Default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-			
-			"border_default"	"MainMenuButtonDefault"
-			"border_armed"		"MainMenuButtonArmed"
-			"paintbackground"	"0"
-			
-			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "TanLight"
-			"depressedFgColor_override" "TanDarker"
-			
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"235 226 202 255"
-			"SubImage"
-			{
-				"ControlName"	"ImagePanel"
-				"fieldName"		"SubImage"
-				"xpos"			"6"
-				"ypos"			"6"
-				"zpos"			"1"
-				"wide"			"14"
-				"tall"			"14"
-				//"visible"		"1"
-				
-				"scaleImage"	"1"
-			}		
-		}
-	}
 
 	"CompetitiveAccessInfoPanel"
 	{
@@ -2018,8 +1954,8 @@
 		"tall"			"25"
 		//"visible"		"1"
 
-		"navLeft"		"ResumeGameButton"
-		"navRight"		"CallVoteButton"
+		//"navLeft"		"ResumeGameButton"
+		//"navRight"		"CallVoteButton"
 		"navDown"		"QuickplayChangeButton"
 		"navToRelay"	"SubButton"
 
@@ -2087,9 +2023,9 @@
 		"tall"			"25"
 		//"visible"		"1"
 
-		"navLeft"		"ReportPlayerButton"
+		//"navLeft"		"ReportPlayerButton"
 		"navDown"		"QuickplayChangeButton"
-		"navRight"		"MutePlayersButton"
+		//"navRight"		"MutePlayersButton"
 		"navToRelay"	"SubButton"
 
 		"SubButton"
@@ -2154,9 +2090,9 @@
 		"tall"			"25"
 		//"visible"		"1"
 
-		"navLeft"		"CallVoteButton"
+		//"navLeft"		"CallVoteButton"
 		"navDown"		"QuickplayChangeButton"
-		"navRight"		"RequestCoachButton"
+		//"navRight"		"RequestCoachButton"
 		"navToRelay"	"SubButton"
 
 		"SubButton"
@@ -2222,8 +2158,8 @@
 		"tall"			"25"
 		//"visible"		"1"
 
-		"navLeft"		"MutePlayersButton"
-		"navRight"		"Notifications_ShowButtonPanel"
+		//"navLeft"		"MutePlayersButton"
+		//"navRight"		"Notifications_ShowButtonPanel"
 		"navDown"		"QuickplayChangeButton"
 		"navToRelay"	"SubButton"
 
@@ -2439,9 +2375,9 @@
 		//"Default"		"1"
 		"Command"		"OpenOptionsDialog"
 
-		"navUp"			"Notifications_Panel"
-		"navLeft"		"ReportBugButton"
-		"navRight"		"TF2SettingsButton"
+		//"navUp"			"Notifications_Panel"
+		//"navLeft"		"ReportBugButton"
+		//"navRight"		"TF2SettingsButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2486,8 +2422,8 @@
 		"Command"		"opentf2options"
 		"use_proportional_insets"	"1"
 
-		"navUp"			"Notifications_Panel"
-		"navLeft"		"SettingsButton"
+		//"navUp"			"Notifications_Panel"
+		//"navLeft"		"SettingsButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2533,9 +2469,9 @@
 		//"Default"		"1"
 		"Command"		"view_newuser_forums"
 
-		"navUp"			"VRModeButton"
-		"navLeft"		"QuitButton"
-		"navRight"		"AchievementsButton"
+		//"navUp"			"VRModeButton"
+		//"navLeft"		"QuitButton"
+		//"navRight"		"AchievementsButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2581,9 +2517,9 @@
 		//"Default"		"1"
 		"Command"		"OpenAchievementsDialog"
 
-		"navUp"			"VRModeButton"
-		"navLeft"		"NewUserForumsButton"
-		"navRight"		"CommentaryButton"
+		//"navUp"			"VRModeButton"
+		//"navLeft"		"NewUserForumsButton"
+		//"navRight"		"CommentaryButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2628,9 +2564,9 @@
 		//"Default"		"1"
 		"Command"		"OpenLoadSingleplayerCommentaryDialog"
 
-		"navUp"			"VRModeButton"
-		"navLeft"		"AchievementsButton"
-		"navRight"		"CoachPlayersButton"
+		//"navUp"			"VRModeButton"
+		//"navLeft"		"AchievementsButton"
+		//"navRight"		"CoachPlayersButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2675,9 +2611,9 @@
 		//"Default"		"1"
 		"Command"		"engine cl_coach_toggle"
 
-		"navUp"			"VRModeButton"
-		"navLeft"		"CommentaryButton"
-		"navRight"		"ReportBugButton"
+		//"navUp"			"VRModeButton"
+		//"navLeft"		"CommentaryButton"
+		//"navRight"		"ReportBugButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2722,9 +2658,9 @@
 		//"Default"		"1"
 		"Command"		"engine OpenSteamWorkshopDialog"
 
-		"navUp"			"VRModeButton"
-		"navLeft"		"AchievementsButton"
-		"navRight"		"CoachPlayersButton"
+		//"navUp"			"VRModeButton"
+		//"navLeft"		"AchievementsButton"
+		//"navRight"		"CoachPlayersButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2769,9 +2705,9 @@
 		//"Default"		"1"
 		"Command"		"engine replay_reloadbrowser"
 
-		"navUp"			"VRModeButton"
-		"navLeft"		"AchievementsButton"
-		"navRight"		"CoachPlayersButton"
+		//"navUp"			"VRModeButton"
+		//"navLeft"		"AchievementsButton"
+		//"navRight"		"CoachPlayersButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2816,9 +2752,9 @@
 		//"Default"		"1"
 		"Command"		"engine bug"
 
-		"navUp"			"VRModeButton"
-		"navLeft"		"CoachPlayersButton"
-		"navRight"		"SettingsButton"
+		//"navUp"			"VRModeButton"
+		//"navLeft"		"CoachPlayersButton"
+		//"navRight"		"SettingsButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

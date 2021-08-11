@@ -404,7 +404,7 @@
 			"zpos"		"2"
 			"wide"		"50"
 			"tall"		"50"
-			"image"			""
+			//"image"			""
 			"visible"		"0"
 			
 			"scaleImage"		"1"
@@ -419,7 +419,7 @@
 			"zpos"		"3"
 			"wide"		"50"
 			"tall"		"50"
-			"image"			""
+			//"image"			""
 			"visible"		"0"
 			
 			"scaleImage"		"1"
@@ -434,7 +434,7 @@
 			"zpos"		"1"
 			"wide"		"50"
 			"tall"		"50"
-			"image"			""
+			//"image"			""
 			"visible"		"0"
 			
 			"scaleImage"		"1"

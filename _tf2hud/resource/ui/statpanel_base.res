@@ -40,7 +40,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"titleLable"
-		"font"			"TFFontSmall"
+		"font"			"ScoreboardVerySmall"
 		//"font_lodef"	"HudFontSmall"
 		"xpos"			"72"
 		//"xpos_lodef"	"100"

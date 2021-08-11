@@ -35,7 +35,7 @@
 		"wide"			"f0"
 		"tall"			"480"
 	//	//"enabled"		"1"
-		"image"			""
+		//"image"			""
 	//	"scaleImage"		"1"
 	}	
 	"CloseButton"
@@ -2472,7 +2472,7 @@
 		"tall"			"35"
 		"visible"		"0"
 		//"enabled"		"1"
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	"TipText"
@@ -2540,17 +2540,5 @@
 		//"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"resetstatsbutton"
-	}
-
-	"TitleBanner" [$X360]
-	{
-		"ControlName"	"ImagePanel"
-		//"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"f0"
-		"tall"			"128"
-		"image"			"menu_header"
-		//"visible_lodef"	"0"
-		//"enabled_lodef"	"0"
 	}
 }

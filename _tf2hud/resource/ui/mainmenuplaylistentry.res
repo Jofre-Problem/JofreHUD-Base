@@ -13,7 +13,7 @@
 		
 		"scaleImage"	"1"	
 		"proportionaltoparent"	"1"
-		"image"			""
+		//"image"			""
 	}
 
 	"PlayListDropShadow"

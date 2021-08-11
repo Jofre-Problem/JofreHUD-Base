@@ -832,7 +832,7 @@
 		"tall"			"90"
 		"visible"		"0"
 		//"enabled"		"1"
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	
@@ -855,7 +855,7 @@
 		"tall"			"60"
 		"visible"		"0"
 		//"enabled"		"1"
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}							
 	
@@ -870,7 +870,7 @@
 		"tall"			"60"
 		"visible"		"0"
 		//"enabled"		"1"
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	
@@ -885,7 +885,7 @@
 		"tall"			"60"
 		"visible"		"0"
 		//"enabled"		"1"
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	
@@ -900,7 +900,7 @@
 		"tall"			"60"
 		"visible"		"0"
 		//"enabled"		"1"
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	
@@ -915,7 +915,7 @@
 		"tall"			"60"
 		"visible"		"0"
 		//"enabled"		"1"
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	
@@ -930,7 +930,7 @@
 		"tall"			"60"
 		"visible"		"0"
 		//"enabled"		"1"
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	
@@ -945,7 +945,7 @@
 		"tall"			"60"
 		"visible"		"0"
 		//"enabled"		"1"
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	
@@ -960,7 +960,7 @@
 		"tall"			"60"
 		"visible"		"0"
 		//"enabled"		"1"
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	
@@ -975,7 +975,7 @@
 		"tall"			"60"
 		"visible"		"0"
 		//"enabled"		"1"
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	
@@ -990,7 +990,7 @@
 		"tall"			"60"
 		"visible"		"0"
 		//"enabled"		"1"
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	
@@ -1005,7 +1005,7 @@
 		"tall"			"60"
 		"visible"		"0"
 		//"enabled"		"1"
-		"image"			""	
+		//"image"			""	
 		"scaleImage"	"1"	
 	}
 	

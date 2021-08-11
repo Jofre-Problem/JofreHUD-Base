@@ -118,7 +118,7 @@
 		"visible"		"0"
 		
 		"mouseinputenabled" "0"
-		"image"			""
+		//"image"			""
 		"scaleImage"	"1"
 	}	
 }

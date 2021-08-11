@@ -166,29 +166,6 @@ Scheme
 				//"weight"	"1000"
 			}
 		}
-		"ChapterTitle"	[$X360]
-		{
-			"1"
-			{
-				"name"			"Segoe UI"
-				"tall"			"20"
-				//"tall_hidef"	"28"
-				//"weight"		"2000"
-				//"outline"		"1"
-			}
-		}
-		"ChapterTitleBlur"	[$X360]
-		{
-			"1"
-			{
-				"name"			"Segoe UI"
-				"tall"			"20"
-				//"tall_hidef"	"28"
-				//"weight"		"2000"
-				//"blur"			"3"
-				////"blur_hidef"	"5"
-			}
-		}
 		"MenuLarge"
 		{
 			"1"
@@ -197,18 +174,6 @@ Scheme
 				"tall"		"16"
 				//"weight"	"600"
 				//"antialias" "1"
-			}
-		}
-		GameUIButtons
-		{
-			"1"	[$X360]
-			{
-				"bitmap"		"1"
-				"name"			"Buttons"
-				"scalex"		"0.8"
-				"scaley"		"0.8"
-				////"scalex_hidef"	"1.0"
-				////"scaley_hidef"	"1.0"
 			}
 		}
 		"ConsoleText"
@@ -404,24 +369,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"120"
-			}
-		}
-
-		AppchooserGameTitleFont	[$X360]
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"			"16"
-			}
-		}
-
-		AppchooserGameTitleFontBlur	[$X360]
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"			"16"
 			}
 		}
 	}

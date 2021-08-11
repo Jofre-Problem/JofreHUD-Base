@@ -2,7 +2,7 @@
 {
 	"AvatarImage"
 	{
-		"image"			""
+		//"image"			""
 		"color_outline"	"52 48 45 255"
 	}
 }	
