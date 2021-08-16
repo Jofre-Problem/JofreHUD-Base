@@ -43,6 +43,6 @@
 		"tabPosition"		"0"
 		"textAlignment"		"west"
 		"dulltext"		"0"
-		"zpos"	"1"
+		//"zpos"	"1"
 	}
 }

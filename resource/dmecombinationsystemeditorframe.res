@@ -1,2 +1,1 @@
-#base "../_jofrehud/resource/dmecombinationsystemeditorframe.res"
-#base "../_tf2hud/root/resource/dmecombinationsystemeditorframe.res"
+#base	"../_jofrehud/_tf2exp/null.res"

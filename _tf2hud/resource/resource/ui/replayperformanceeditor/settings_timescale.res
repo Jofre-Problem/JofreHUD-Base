@@ -6,7 +6,7 @@
 		"fieldName"		"TimeScaleSettings"
 		
 		
-		"zpos"			"500"
+		//"zpos"			"500"
 		
 		
 		"visible"		"0"

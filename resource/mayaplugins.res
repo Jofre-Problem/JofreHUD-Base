@@ -1,2 +1,1 @@
-#base "../_jofrehud/resource/mayaplugins.res"
-#base "../_tf2hud/root/resource/mayaplugins.res"
+#base	"../_jofrehud/_tf2exp/null.res"

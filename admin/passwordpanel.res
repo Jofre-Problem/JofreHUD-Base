@@ -1,2 +1,1 @@
-#base "../_jofrehud/admin/passwordpanel.res"
-#base "../_tf2hud/root/admin/passwordpanel.res"
+#base	"../_jofrehud/_tf2exp/null.res"

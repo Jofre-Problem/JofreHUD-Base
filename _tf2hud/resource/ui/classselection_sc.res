@@ -15,20 +15,7 @@
 		
 	}
 	
-	"SysMenu"
-	{
-		"ControlName"	"Menu"
-		"fieldName"		"SysMenu"
-		
-		
-		"wide"			"64"
-		"tall"			"24"
-		
-		
-		"visible"		"0"
-		"enabled"		"0"
-		
-	}
+
 
 	"PrevOptionHintIcon"
 	{
@@ -1029,26 +1016,6 @@
 		"textAlignment"	"center"
 		"Command"		"openloadout"
 		"font"			"HudFontSmall"
-	}
-
-	"EditLoadoutHintIcon"
-	{
-		"ControlName"	"CSCHintIcon"
-		"fieldName"		"EditLoadoutHintIcon"
-		"xpos"			"r176"
-		"ypos"			"r38"
-		"zpos"			"7"
-		"wide"			"25"
-		"tall"			"25"
-		
-		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		"textAlignment"	"Left"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
-		"actionSet"		"InGameHUDControls"
-		"actionName"	"menu_toggle_function"
 	}
 
 	"ResetButton" //[$WIN32] 

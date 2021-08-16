@@ -195,11 +195,7 @@ Scheme
 	//////////////////////// BITMAP FONT FILES /////////////////////////////
 	//
 	// Bitmap Fonts are ****VERY*** expensive static memory resources so they are purposely sparse
-	BitmapFontFiles
-	{
-		// UI buttons, custom font, (256x64)
-		"Buttons"		"materials/vgui/fonts/buttons_32.vbf"
-	}
+
 
 	//////////////////////// FONTS /////////////////////////////
 	//
@@ -434,60 +430,7 @@ Scheme
 
 		// HUD numbers
 		// We use multiple fonts to 'pulse' them in the HUD, hence the need for many of near size
-		"HUDNumber"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"40"
-				//"weight"	"900"
-			}
-		}
-		"HUDNumber1"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"41"
-				//"weight"	"900"
-			}
-		}
-		"HUDNumber2"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"42"
-				//"weight"	"900"
-			}
-		}
-		"HUDNumber3"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"43"
-				//"weight"	"900"
-			}
-		}
-		"HUDNumber4"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"44"
-				//"weight"	"900"
-			}
-		}
-		"HUDNumber5"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				"tall"		"45"
-				//"weight"	"900"
-			}
-		}
+
 		"DefaultFixed"
 		{
 			"1"

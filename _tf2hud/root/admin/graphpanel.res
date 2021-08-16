@@ -27,7 +27,7 @@
 		//////"visible"		"1"
 		
 		
-		"border"		"ButtonDepressedBorder"
+		//"border"		"ButtonDepressedBorder"
 		//"scaleImage"		"0"
 	}
 	"InCheck"

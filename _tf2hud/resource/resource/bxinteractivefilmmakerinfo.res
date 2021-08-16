@@ -6,7 +6,7 @@
 		"fieldName"		"BxMovieInfo"
 		
 		//"ypos"		"0"
-		"zpos"		"140"
+		//"zpos"		"140"
 		"wide"		"1600"
 		"tall"		"900"
 		

@@ -1,4 +1,4 @@
-#base "../../resource/#bases/1sysmenu.res"
+//#base "../../resource/#bases/1sysmenu.res"
 #base "../chattextlog_1.res"
 #base "../textentry_1.res"
 #base "../_base/sendbutton_main.res"

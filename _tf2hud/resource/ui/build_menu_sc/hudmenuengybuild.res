@@ -410,59 +410,5 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
-	"ButtonLegendBG"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"ButtonLegendBG"
-		"xpos"			"15"
-		"ypos"			"154"
-		"zpos"			"1"
-		"wide"			"420"
-		"tall"			"30"
-		
-		
-		////"visible"		"1"
-		
-			
-		"fillcolor"		"0 0 0 190"
-		//"PaintBackgroundType"	"0"
-	}
 
-	"PrevHintIcon"
-	{
-		"ControlName"	"CSCHintIcon"
-		"fieldName"		"PrevHintIcon"
-		"xpos"			"2"
-		"ypos"			"85"
-		"zpos"			"2"
-		"wide"			"25"
-		"tall"			"25"
-		
-		
-		////"visible"		"1"
-		
-		////"dulltext"		"0"
-		//"brighttext"	"0"
-		"actionSet"		"InGameHUDControls"
-		"actionName"	"menu_left"
-	}
-
-	"NextHintIcon"
-	{
-		"ControlName"	"CSCHintIcon"
-		"fieldName"		"NextHintIcon"
-		"xpos"			"425"
-		"ypos"			"85"
-		"zpos"			"2"
-		"wide"			"25"
-		"tall"			"25"
-		
-		
-		////"visible"		"1"
-		
-		////"dulltext"		"0"
-		//"brighttext"	"0"
-		"actionSet"		"InGameHUDControls"
-		"actionName"	"menu_right"
-	}
 }

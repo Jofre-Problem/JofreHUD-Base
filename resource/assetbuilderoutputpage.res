@@ -1,2 +1,1 @@
-#base "../_jofrehud/resource/assetbuilderoutputpage.res"
-#base "../_tf2hud/root/resource/assetbuilderoutputpage.res"
+#base	"../_jofrehud/_tf2exp/null.res"

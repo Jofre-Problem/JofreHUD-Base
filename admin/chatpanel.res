@@ -1,2 +1,1 @@
-#base "../_jofrehud/admin/chatpanel.res"
-#base "../_tf2hud/root/admin/chatpanel.res"
+#base	"../_jofrehud/_tf2exp/null.res"

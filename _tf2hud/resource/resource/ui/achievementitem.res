@@ -69,7 +69,7 @@
 		"wide"		"350"
 		"tall"		"12"
 		"fillcolor"	"32 32 32 255"
-		"zpos"	"-1"
+		//"zpos"	"-1"
 		"visible"		"0"
 		
 	}

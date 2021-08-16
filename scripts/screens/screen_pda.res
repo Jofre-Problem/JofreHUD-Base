@@ -1,2 +1,1 @@
-#base "../../_jofrehud/scripts/screens/screen_pda.res"
-#base "../../_tf2hud/scripts/screens/screen_pda.res"
+#base	"../../_jofrehud/_tf2exp/null.res"

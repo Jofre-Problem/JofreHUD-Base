@@ -546,21 +546,7 @@
 		//"textinsety"		"0"
 		//"auto_wide_tocontents"		"0"
 	}
-	"SysMenu"
-	{
-		"ControlName"		"Menu"
-		"fieldName"		"SysMenu"
-		
-		//"ypos"		"0"
-		"zpos"		"1"
-		"wide"		"64"
-		"tall"		"24"
-		
-		
-"visible"		"0"
-		
-		
-	}
+
 	"topHorizLeft"
 	{
 		"ControlName"		"Label"

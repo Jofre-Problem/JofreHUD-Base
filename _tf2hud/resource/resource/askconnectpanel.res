@@ -6,7 +6,7 @@
 		"fieldName"		"AskConnectPanel"
 		"xpos"			"335"
 		"ypos"			"18"
-		"zpos"			"1002"
+		//"zpos"			"1002"
 		"wide"			"300"
 		"tall"			"75"
 		

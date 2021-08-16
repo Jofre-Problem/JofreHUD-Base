@@ -28,7 +28,7 @@
 		"textAlignment"	"north"
 		
 		"ypos"			"15"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"324"
 		"tall"			"25"
 		"autoResize"	"1"
@@ -46,7 +46,7 @@
 		"textAlignment"	"north"
 		"xpos"			"40"
 		"ypos"			"50"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"244"
 		"tall"			"170"
 		
@@ -63,7 +63,7 @@
 		"fieldName"		"CancelButton"
 		"xpos"			"190"
 		"ypos"			"165"
-		"zpos"			"20"
+		//"zpos"			"20"
 		"wide"			"124"
 		"tall"			"25"
 		
@@ -94,7 +94,7 @@
 		"fieldName" "CancelButtonHintIcon"
 		"xpos"			"195"
 		"ypos"			"165"
-		"zpos"			"22"
+		//"zpos"			"22"
 		"wide"			"25"
 		"tall"			"25"
 		
@@ -112,7 +112,7 @@
 		"fieldName"		"ConfirmButton"
 		"xpos"			"10"
 		"ypos"			"165"
-		"zpos"			"20"
+		//"zpos"			"20"
 		"wide"			"175"
 		"tall"			"25"
 		//"Default"		"1"
@@ -144,7 +144,7 @@
 		"fieldName" "ConfirmButtonHintIcon"
 		"xpos"			"15"
 		"ypos"			"165"
-		"zpos"			"22"
+		//"zpos"			"22"
 		"wide"			"25"
 		"tall"			"25"
 		

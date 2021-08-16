@@ -38,7 +38,7 @@
 		"fieldName"		"BackgroundHeader"
 		
 		
-		"zpos"			"-2"
+		//"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"80"
 		//"visible"		"1"
@@ -52,7 +52,7 @@
 		"fieldName"		"BackgroundFooter"
 		
 		"ypos"			"420"
-		"zpos"			"-2"
+		//"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"60"
 		//"visible"		"1"
@@ -66,7 +66,7 @@
 		"fieldName"		"FooterLine"
 		
 		"ypos"			"422"
-		"zpos"			"-1"
+		//"zpos"			"-1"
 		"wide"			"f0"
 		"tall"			"10"
 		//"visible"		"1"
@@ -91,7 +91,7 @@
 			"fieldName"		"HeaderLine"
 			
 			"ypos"			"32"
-			"zpos"			"5"
+			//"zpos"			"5"
 			"wide"			"f0"
 			"tall"			"10"
 			//"visible"		"1"
@@ -119,7 +119,7 @@
 		"fieldName"		"BackButton"
 		"xpos"			"c-295"
 		"ypos"			"437"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"100"
 		"tall"			"25"
 		

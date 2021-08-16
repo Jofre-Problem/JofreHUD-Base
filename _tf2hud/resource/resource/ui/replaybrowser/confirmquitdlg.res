@@ -39,7 +39,7 @@
 		"textAlignment"	"north"
 		
 		"ypos"			"15"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"400"
 		"tall"			"50"
 		"autoResize"	"1"
@@ -58,7 +58,7 @@
 		"textAlignment"	"north"
 		"xpos"			"10"
 		"ypos"			"45"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"380"
 		"tall"			"100"
 		
@@ -74,7 +74,7 @@
 		"fieldName"		"RenderButton"
 		"xpos"			"65"
 		"ypos"			"90"
-		"zpos"			"20"
+		//"zpos"			"20"
 		"wide"			"270"
 		"tall"			"20"
 		
@@ -99,7 +99,7 @@
 		"fieldName"		"ReplaysButton"
 		"xpos"			"65"
 		"ypos"			"115"
-		"zpos"			"20"
+		//"zpos"			"20"
 		"wide"			"270"
 		"tall"			"20"
 		
@@ -124,7 +124,7 @@
 		"fieldName"		"QuitButton"
 		"xpos"			"65"
 		"ypos"			"140"
-		"zpos"			"20"
+		//"zpos"			"20"
 		"wide"			"270"
 		"tall"			"20"
 		
@@ -153,7 +153,7 @@
 		//"wrap"			"0"
 		"xpos"			"130"
 		"ypos"			"165"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"200"
 		"tall"			"20"
 		

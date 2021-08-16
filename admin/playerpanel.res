@@ -1,2 +1,1 @@
-#base "../_jofrehud/admin/playerpanel.res"
-#base "../_tf2hud/root/admin/playerpanel.res"
+#base	"../_jofrehud/_tf2exp/null.res"

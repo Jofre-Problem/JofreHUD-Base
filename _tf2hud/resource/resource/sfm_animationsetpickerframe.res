@@ -16,20 +16,7 @@
 		"settitlebarvisible"		"1"
 		"title"		"#BxAnimationSetChooser"
 	}
-	"topGrip"
-	{
-		"ControlName"		"Panel"
-		"fieldName"		"topGrip"
-		"xpos"		"8"
-		//"ypos"		"0"
-		"wide"		"384"
-		"tall"		"5"
-		
-		
-		//"visible"		"1"
-		
-		
-	}
+
 	"bottomGrip"
 	{
 		"ControlName"		"Panel"

@@ -1,4 +1,4 @@
-#base "../resource/#bases/1sysmenu.res"
+//#base "../resource/#bases/1sysmenu.res"
 
 #base "../#uni_base/filesv1/warninglabel/is-label.res"
 #base "../#uni_base/filesv1/warninglabel/main.res"

@@ -19,7 +19,7 @@
 		"ControlName"	"CReplayTipLabel"
 		"fieldName"		"TextLabel"
 		"wide"			"f0"
-		"zpos"			"2"
+		//"zpos"			"2"
 		//"visible"		"1"
 		
 		//"font"			"EconFontSmall"

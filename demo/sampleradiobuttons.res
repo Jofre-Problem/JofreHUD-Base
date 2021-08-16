@@ -1,2 +1,1 @@
-#base "../_jofrehud/demo/sampleradiobuttons.res"
-#base "../_tf2hud/root/demo/sampleradiobuttons.res"
+#base	"../_jofrehud/_tf2exp/null.res"

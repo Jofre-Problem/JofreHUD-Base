@@ -1,2 +1,1 @@
-#base "../_jofrehud/friends/subpanelfindbuddy.res"
-#base "../_tf2hud/root/friends/subpanelfindbuddy.res"
+#base	"../_jofrehud/_tf2exp/null.res"

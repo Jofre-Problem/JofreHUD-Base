@@ -364,57 +364,6 @@
 			"allow_rot"				"0"
 		}
 	}
-
-	"PrevHintIcon"
-	{
-		"ControlName"	"CSCHintIcon"
-		"fieldName"		"PrevHintIcon"
-		
-		"ypos"			"85"
-		"zpos"			"200"
-		"wide"			"25"
-		"tall"			"25"
-		
-		
-		//"visible"		"1"
-		
-		"actionSet"		"InGameHUDControls"
-		"actionName"	"menu_left"
-	}
-
-	"NextHintIcon"
-	{
-		"ControlName"	"CSCHintIcon"
-		"fieldName"		"NextHintIcon"
-		"xpos"			"445"
-		"ypos"			"85"
-		"zpos"			"200"
-		"wide"			"25"
-		"tall"			"25"
-		
-		
-		//"visible"		"1"
-		
-		"actionSet"		"InGameHUDControls"
-		"actionName"	"menu_right"
-	}
-
-	"TauntHintIcon"
-	{
-		"ControlName"	"CSCHintIcon"
-		"fieldName"		"TauntHintIcon"
-		"xpos"			"325"
-		"ypos"			"152"
-		"zpos"			"1"
-		"wide"			"25"
-		"tall"			"25"
-		
-		
-		//"visible"		"1"
-		
-		"actionSet"		"InGameHUDControls"
-		"actionName"	"menu_select"
-	}
 	
 	"TauntHintLabel"
 	{
@@ -434,23 +383,6 @@
 		"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-	}
-
-	"WeaponTauntHintIcon"
-	{
-		"ControlName"	"CSCHintIcon"
-		"fieldName"		"WeaponTauntHintIcon"
-		"xpos"			"173"
-		"ypos"			"152"
-		"zpos"			"2"
-		"wide"			"25"
-		"tall"			"25"
-		
-		
-		//"visible"		"1"
-		
-		"actionSet"		"InGameHUDControls"
-		"actionName"	"menu_alt_function"
 	}
 
 	"WeaponTauntHintLabel"

@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"Screenshot"
-		"zpos"			"1"
+		//"zpos"			"1"
 		
 		
 		
@@ -18,7 +18,7 @@
 		//"font"			"HudFontMediumSmallSecondary"
 		"labelText"		"#Replay_NoScreenshot"
 		"textAlignment"	"center"
-		"zpos"			"5"
+		//"zpos"			"5"
 		
 		
 		"visible"		"0"

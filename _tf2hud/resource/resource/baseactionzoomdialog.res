@@ -15,104 +15,7 @@
 		
 		"settitlebarvisible"		"1"
 	}
-	"TopGrip"
-	{
-		"ControlName"		"Panel"
-		"fieldName"		"TopGrip"
-		"xpos"		"8"
-		//"ypos"		"0"
-		"wide"		"384"
-		"tall"		"5"
-		
-		
-		//"visible"		"1"
-		
-		
-	}
-	"BottomGrip"
-	{
-		"ControlName"		"Panel"
-		"fieldName"		"BottomGrip"
-		"xpos"		"8"
-		"ypos"		"295"
-		"wide"		"374"
-		"tall"		"5"
-		
-		
-		//"visible"		"1"
-		
-		
-	}
-	"LeftGrip"
-	{
-		"ControlName"		"Panel"
-		"fieldName"		"LeftGrip"
-		
-		"ypos"		"8"
-		"wide"		"5"
-		"tall"		"284"
-		
-		
-		//"visible"		"1"
-		
-		
-	}
-	"RightGrip"
-	{
-		"ControlName"		"Panel"
-		"fieldName"		"RightGrip"
-		"xpos"		"392"
-		//"ypos"		"0"
-		"wide"		"8"
-		"tall"		"8"
-		
-		
-		//"visible"		"1"
-		
-		
-	}
-	"TopLeftGrip"
-	{
-		"ControlName"		"Panel"
-		"fieldName"		"TopLeftGrip"
-		
-		//"ypos"		"0"
-		"wide"		"8"
-		"tall"		"8"
-		
-		
-		//"visible"		"1"
-		
-		
-	}
-	"BottomLeftGrip"
-	{
-		"ControlName"		"Panel"
-		"fieldName"		"BottomLeftGrip"
-		
-		"ypos"		"292"
-		"wide"		"8"
-		"tall"		"8"
-		
-		
-		//"visible"		"1"
-		
-		
-	}
-	"BottomRightGrip"
-	{
-		"ControlName"		"Panel"
-		"fieldName"		"BottomRightGrip"
-		"xpos"		"382"
-		"ypos"		"282"
-		"wide"		"18"
-		"tall"		"18"
-		
-		
-		//"visible"		"1"
-		
-		
-	}
+
 	"CaptionGrip"
 	{
 		"ControlName"		"Panel"
@@ -146,25 +49,7 @@
 		////"brighttext"		"0"
 		"Default"		"0"
 	}
-	"FrameButton"
-	{
-		"ControlName"		"Button"
-		"fieldName"		"FrameButton"
-		
-		//"ypos"		"0"
-		"wide"		"18"
-		"tall"		"18"
-		
-		
-		"visible"		"0"
-		
-		
-		"labelText"		"1"
-		"textAlignment"		"north-west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		"Default"		"0"
-	}
+
 	"MinimiseToSysTray"
 	{
 		"ControlName"		"Button"

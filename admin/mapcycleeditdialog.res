@@ -1,2 +1,1 @@
-#base "../_jofrehud/admin/mapcycleeditdialog.res"
-#base "../_tf2hud/root/admin/mapcycleeditdialog.res"
+#base	"../_jofrehud/_tf2exp/null.res"

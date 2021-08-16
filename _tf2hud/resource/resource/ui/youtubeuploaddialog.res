@@ -6,7 +6,7 @@
 		"fieldName"		"ConfirmDialog"
 		"xpos"			"c-200"
 		"ypos"			"30"
-		"zpos"			"10000"
+		//"zpos"			"10000"
 		"wide"			"400"
 		"tall"			"300"
 		
@@ -27,7 +27,7 @@
 		"textAlignment"	"north"
 		
 		"ypos"			"15"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"400"
 		"tall"			"20"
 		"autoResize"	"1"
@@ -46,7 +46,7 @@
 		//"textAlignment"	"west"
 		"xpos"			"10"
 		"ypos"			"50"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"150"
 		"tall"			"25"
 		
@@ -66,7 +66,7 @@
 		//"wrap"			"0"
 		"xpos"			"10"
 		"ypos"			"75"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"380"
 		"tall"			"15"
 		
@@ -88,7 +88,7 @@
 		//"textAlignment"	"west"
 		"xpos"			"10"
 		"ypos"			"100"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"150"
 		"tall"			"25"
 		
@@ -108,7 +108,7 @@
 		//"wrap"			"0"
 		"xpos"			"10"
 		"ypos"			"125"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"380"
 		"tall"			"75"
 		
@@ -127,7 +127,7 @@
 		"fieldName"		"UnlistedCheckbox"
 		"xpos"			"10"
 		"ypos"			"205"
-		"zpos"			"2"
+		//"zpos"			"2"
 		"wide"			"300"
 		"tall"			"25"
 		
@@ -153,7 +153,7 @@
 		"textAlignment"	"north"
 		"xpos"			"10"
 		"ypos"			"235"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"380"
 		"tall"			"50"
 		"autoResize"	"1"
@@ -169,7 +169,7 @@
 		"fieldName"		"TermsButton"
 		"xpos"			"10"
 		"ypos"			"265"
-		"zpos"			"20"
+		//"zpos"			"20"
 		"wide"			"140"
 		"tall"			"25"
 		
@@ -194,7 +194,7 @@
 		"fieldName"		"ConfirmButton"
 		"xpos"			"155"
 		"ypos"			"265"
-		"zpos"			"20"
+		//"zpos"			"20"
 		"wide"			"145"
 		"tall"			"25"
 		//"Default"		"1"
@@ -220,7 +220,7 @@
 		"fieldName"		"CancelButton"
 		"xpos"			"305"
 		"ypos"			"265"
-		"zpos"			"20"
+		//"zpos"			"20"
 		"wide"			"85"
 		"tall"			"25"
 		

@@ -14,118 +14,14 @@
 		
 		
 	}
-	"TopGrip"
-	{
-		"ControlName"		"Panel"
-		"fieldName"		"TopGrip"
-		"xpos"		"11"
-		//"ypos"		"0"
-		"wide"		"378"
-		"tall"		"5"
-		
-		
-		////"visible"		"1"
-		
-		
-	}
-	"BottomGrip"
-	{
-		"ControlName"		"Panel"
-		"fieldName"		"BottomGrip"
-		"xpos"		"11"
-		"ypos"		"295"
-		"wide"		"378"
-		"tall"		"5"
-		
-		
-		////"visible"		"1"
-		
-		
-	}
-	"LeftGrip"
-	{
-		"ControlName"		"Panel"
-		"fieldName"		"LeftGrip"
-		
-		"ypos"		"11"
-		"wide"		"5"
-		"tall"		"278"
-		
-		
-		////"visible"		"1"
-		
-		
-	}
-	"RightGrip"
-	{
-		"ControlName"		"Panel"
-		"fieldName"		"RightGrip"
-		"xpos"		"395"
-		"ypos"		"11"
-		"wide"		"5"
-		"tall"		"278"
-		
-		
-		////"visible"		"1"
-		
-		
-	}
-	"TopLeftGrip"
-	{
-		"ControlName"		"Panel"
-		"fieldName"		"TopLeftGrip"
-		
-		//"ypos"		"0"
-		"wide"		"11"
-		"tall"		"11"
-		
-		
-		////"visible"		"1"
-		
-		
-	}
-	"TopRightGrip"
-	{
-		"ControlName"		"Panel"
-		"fieldName"		"TopRightGrip"
-		"xpos"		"389"
-		//"ypos"		"0"
-		"wide"		"11"
-		"tall"		"11"
-		
-		
-		////"visible"		"1"
-		
-		
-	}
-	"BottomLeftGrip"
-	{
-		"ControlName"		"Panel"
-		"fieldName"		"BottomLeftGrip"
-		
-		"ypos"		"289"
-		"wide"		"11"
-		"tall"		"11"
-		
-		
-		////"visible"		"1"
-		
-		
-	}
-	"BottomRightGrip"
-	{
-		"ControlName"		"Panel"
-		"fieldName"		"BottomRightGrip"
-		"xpos"		"389"
-		"ypos"		"289"
-		"wide"		"11"
-		"tall"		"11"
-		
-		
-		////"visible"		"1"
-		
-		
-	}
+
+
+
+
+
+
+
+
 	"Caption"
 	{
 		"ControlName"		"Panel"
@@ -159,25 +55,7 @@
 		////"brighttext"		"0"
 		"Default"		"0"
 	}
-	"Maximize"
-	{
-		"ControlName"		"Button"
-		"fieldName"		"Maximize"
-		"xpos"		"355"
-		"ypos"		"8"
-		"wide"		"18"
-		"tall"		"18"
-		
-		
-		"visible"		"0"
-		
-		
-		"labelText"		"1"
-		"textAlignment"		"north-west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		"Default"		"0"
-	}
+
 	"Close"
 	{
 		"ControlName"		"Button"
@@ -197,20 +75,7 @@
 		////"brighttext"		"0"
 		"Default"		"0"
 	}
-	"SysMenu"
-	{
-		"ControlName"		"Menu"
-		"fieldName"		"SysMenu"
-		
-		//"ypos"		"0"
-		"wide"		"64"
-		"tall"		"24"
-		
-		
-		"visible"		"0"
-		
-		
-	}
+
 	"OK"
 	{
 		"ControlName"		"Button"
@@ -389,78 +254,10 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 	}
-	"topHorizLeft"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"topHorizLeft"
-		"xpos"		"40"
-		"ypos"		"-11"
-		"wide"		"14"
-		"tall"		"16"
-		
-		
-		"visible"		"0"
-		
-		
-		"labelText"		"94"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-	}
-	"topVertLeft"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"topVertLeft"
-		"xpos"		"90"
-		"ypos"		"-7"
-		"wide"		"7"
-		"tall"		"16"
-		
-		
-		"visible"		"0"
-		
-		
-		"labelText"		"2"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-	}
-	"bottomHorizRight"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"bottomHorizRight"
-		"xpos"		"439"
-		"ypos"		"22"
-		"wide"		"7"
-		"tall"		"16"
-		
-		
-		"visible"		"0"
-		
-		
-		"labelText"		"2"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-	}
-	"bottomVertRight"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"bottomVertRight"
-		"xpos"		"484"
-		"ypos"		"154"
-		"wide"		"7"
-		"tall"		"16"
-		
-		
-		"visible"		"0"
-		
-		
-		"labelText"		"2"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-	}
+
+
+
+
 	"Label3"
 	{
 		"ControlName"		"Label"

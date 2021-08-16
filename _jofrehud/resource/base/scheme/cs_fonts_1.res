@@ -47,7 +47,7 @@ Scheme
 
 		"DefaultSmallDropShadow"
 		{
-			"1"	[$WIN32]
+			"1"
 			{
 				"name"		"Segoe UI"
 				
@@ -61,101 +61,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"12"
-			}
-		}
-
-		"Trebuchet24"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				
-				"tall"		"24"
-				//"weight"	"900"
-			}
-		}
-
-		"Trebuchet20"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				
-				"tall"		"20"
-				//"weight"	"900"
-			}
-		}
-
-		"Trebuchet18"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				
-				"tall"		"18"
-				//"weight"	"900"
-			}
-		}
-
-		// HUD numbers
-		// We use multiple fonts to 'pulse' them in the HUD, hence the need for many of near size
-		"HUDNumber"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				
-				"tall"		"40"
-				//"weight"	"900"
-			}
-		}
-		"HUDNumber1"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				
-				"tall"		"41"
-				//"weight"	"900"
-			}
-		}
-		"HUDNumber2"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				
-				"tall"		"42"
-				//"weight"	"900"
-			}
-		}
-		"HUDNumber3"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				
-				"tall"		"43"
-				//"weight"	"900"
-			}
-		}
-		"HUDNumber4"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"
-				
-				"tall"		"44"
-				//"weight"	"900"
-			}
-		}
-		"HUDNumber5"
-		{
-			"1"
-			{
-				"name"		"Segoe UI"			
-				"tall"		"45"
-				//"weight"	"900"
 			}
 		}
 		"DefaultFixed"

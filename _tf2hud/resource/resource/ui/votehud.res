@@ -14,7 +14,7 @@
 		
 		"bgcolor_override"	"0 0 0 120"
 		"PaintBackgroundType"	"2" // rounded corners
-		"border"		"TFThinLineBorder"
+		//"border"		"TFThinLineBorder"
 				
 		"PassedIcon"
 		{
@@ -82,7 +82,7 @@
 		
 		"PaintBackgroundType"	"2" // rounded corners
 		"bgcolor_override"	"0 0 0 120"
-		"border"		"TFThinLineBorder"
+		//"border"		"TFThinLineBorder"
 		
 		"Header"
 		{
@@ -146,7 +146,7 @@
 			"ypos"			"57"
 			"wide"			"180"
 			"tall"			"16"
-			"zpos"			"2"
+			//"zpos"			"2"
 			//"visible"		"1"
 			
 			"labeltext"		""
@@ -163,10 +163,10 @@
 			"fieldName"		"Option1Background_Selected"
 			"xpos"			"10"
 			"ypos"			"59"
-			"zpos"			"-1"
+			//"zpos"			"-1"
 			"wide"			"180"
 			"tall"			"16"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"fillcolor"		"88 119 140 180"
 			//"visible"		"1"
 		}
@@ -179,7 +179,7 @@
 			"ypos"			"113"
 			"wide"			"16"
 			"tall"			"16"
-			"zpos"			"2"
+			//"zpos"			"2"
 			//"visible"		"1"
 			
 			"labelText"		"Yes"
@@ -198,7 +198,7 @@
 			"ypos"			"73"
 			"wide"			"180"
 			"tall"			"16"
-			"zpos"			"2"
+			//"zpos"			"2"
 			//"visible"		"1"
 			
 			"labeltext"		""
@@ -215,10 +215,10 @@
 			"fieldName"		"Option2Background_Selected"
 			"xpos"			"10"
 			"ypos"			"73"
-			"zpos"			"-1"
+			//"zpos"			"-1"
 			"wide"			"180"
 			"tall"			"16"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"fillcolor"		"88 119 140 180"
 			//"visible"		"1"
 		}
@@ -231,7 +231,7 @@
 			"ypos"			"113"
 			"wide"			"16"
 			"tall"			"16"
-			"zpos"			"2"
+			//"zpos"			"2"
 			//"visible"		"1"
 			
 			"labelText"		"No"
@@ -250,7 +250,7 @@
 			"ypos"			"89"
 			"wide"			"180"
 			"tall"			"16"
-			"zpos"			"2"
+			//"zpos"			"2"
 			//"visible"		"1"
 			
 			"labeltext"		""
@@ -267,10 +267,10 @@
 			"fieldName"		"Option3Background_Selected"
 			"xpos"			"10"
 			"ypos"			"89"
-			"zpos"			"-1"
+			//"zpos"			"-1"
 			"wide"			"180"
 			"tall"			"16"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"fillcolor"		"88 119 140 180"
 			//"visible"		"1"
 		}
@@ -283,7 +283,7 @@
 			"ypos"			"105"
 			"wide"			"180"
 			"tall"			"16"
-			"zpos"			"2"
+			//"zpos"			"2"
 			//"visible"		"1"
 			
 			"labeltext"		""
@@ -300,10 +300,10 @@
 			"fieldName"		"Option4Background_Selected"
 			"xpos"			"10"
 			"ypos"			"104"
-			"zpos"			"-1"
+			//"zpos"			"-1"
 			"wide"			"180"
 			"tall"			"16"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"fillcolor"		"88 119 140 180"
 			//"visible"		"1"
 		}
@@ -316,7 +316,7 @@
 			"ypos"			"121"
 			"wide"			"180"
 			"tall"			"16"
-			"zpos"			"2"
+			//"zpos"			"2"
 			//"visible"		"1"
 			
 			"labeltext"		""
@@ -333,10 +333,10 @@
 			"fieldName"		"Option5Background_Selected"
 			"xpos"			"10"
 			"ypos"			"119"
-			"zpos"			"-1"
+			//"zpos"			"-1"
 			"wide"			"180"
 			"tall"			"16"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"fillcolor"		"88 119 140 180"
 			//"visible"		"1"
 		}
@@ -381,7 +381,7 @@
 			"ypos"			"113"
 			"wide"			"180"
 			"tall"			"18"
-			"zpos"			"2"
+			//"zpos"			"2"
 			//"visible"		"1"
 						
 			"box_size"		"16"
@@ -405,7 +405,7 @@
 		
 		"bgcolor_override"	"0 0 0 120"
 		"PaintBackgroundType"	"2" // rounded corners
-		"border"		"TFThinLineBorder"
+		//"border"		"TFThinLineBorder"
 				
 		"FailedIcon"
 		{
@@ -473,7 +473,7 @@
 		
 		"bgcolor_override"	"0 0 0 120"
 		"PaintBackgroundType"	"2" // rounded corners
-		"border"		"TFThinLineBorder"
+		//"border"		"TFThinLineBorder"
 				
 		"FailedIcon"
 		{
@@ -544,7 +544,7 @@
 		"settitlebarvisible"	"1"
 		//"font"					"ScoreboardSmall"
 		"PaintBackgroundType"	"2" // rounded corners
-		"border"				"TFThinLineBorder"
+		//"border"				"TFThinLineBorder"
 		"issue_width"		"100"
 		"parameter_width"	"150"
 									
@@ -554,7 +554,7 @@
 			"fieldName"		"VoteSetupList"
 			"xpos"		"10"
 			"ypos"		"38"
-			"zpos"		"2"
+			//"zpos"		"2"
 			"wide"		"128"
 			"tall"		"200"
 			
@@ -572,7 +572,7 @@
 			"fieldName"		"VoteParameterList"
 			"xpos"		"140"
 			"ypos"		"38"
-			"zpos"		"2"
+			//"zpos"		"2"
 			"wide"		"150"
 			"tall"		"200"
 			

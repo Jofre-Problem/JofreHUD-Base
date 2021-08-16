@@ -1,2 +1,1 @@
-#base "../_jofrehud/resource/assetpicker.res"
-#base "../_tf2hud/root/resource/assetpicker.res"
+#base	"../_jofrehud/_tf2exp/null.res"

@@ -1,4 +1,4 @@
-#base "../resource/#bases/1sysmenu.res"
+//#base "../resource/#bases/1sysmenu.res"
 #base "base/okbutton.res"
 #base "base/okbutton_tab.res"
 #base "base/cancelbutton_tabis3.res"

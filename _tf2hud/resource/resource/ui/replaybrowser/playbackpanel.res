@@ -9,6 +9,6 @@
 		//"visible"		"1"
 		
 		
-		"border"		"ReplayDefaultBorder"
+		//"border"		"ReplayDefaultBorder"
 	}
 }

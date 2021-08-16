@@ -1,2 +1,1 @@
-#base "../_jofrehud/resource/mdlpickerinfo.res"
-#base "../_tf2hud/root/resource/mdlpickerinfo.res"
+#base	"../_jofrehud/_tf2exp/null.res"

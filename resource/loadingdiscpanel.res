@@ -1,2 +1,1 @@
-#base "../_jofrehud/resource/loadingdiscpanel.res"
-#base "../_tf2hud/resource/resource/loadingdiscpanel.res"
+#base	"../_jofrehud/_tf2exp/null.res"

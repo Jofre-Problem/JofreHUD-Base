@@ -1,2 +1,1 @@
-#base "../_jofrehud/admin/budgetpanel.res"
-#base "../_tf2hud/root/admin/budgetpanel.res"
+#base	"../_jofrehud/_tf2exp/null.res"

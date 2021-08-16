@@ -34,7 +34,7 @@
 		"fieldName"		"ClipImageBackground"
 		
 		"ypos"		"16"
-		"zpos"		"-1"
+		//"zpos"		"-1"
 		"wide"		"151"
 		"tall"		"103"
 		
@@ -110,7 +110,7 @@
 		"fieldName"		"MouseMessageForwardingPanel"
 		
 		//"ypos"		"0"
-		"zpos"		"2"
+		//"zpos"		"2"
 		"wide"		"150"
 		"tall"		"150"
 		

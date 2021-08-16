@@ -6,7 +6,7 @@
 		"fieldName"		"Clip Player"
 		"xpos"		"76"
 		"ypos"		"979"
-		"zpos"		"1"
+		//"zpos"		"1"
 		"wide"		"1100"
 		"tall"		"36"
 		"autoResize"		"1"

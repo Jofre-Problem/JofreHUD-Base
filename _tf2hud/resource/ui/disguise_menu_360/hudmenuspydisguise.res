@@ -439,21 +439,4 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
-	"ButtonLegendBG"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"ButtonLegendBG"
-		"xpos"			"15"
-		"ypos"			"134"
-		"zpos"			"1"
-		"wide"			"442"
-		"tall"			"30"
-		
-		
-		//"visible"		"1"
-		
-			
-		"fillcolor"		"0 0 0 190"
-		//"PaintBackgroundType"	"0"
-	}
 }

@@ -5,12 +5,12 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PreviewPanel"
 		"wide"			"160"
-		"zpos"			"100"
+		//"zpos"			"100"
 		
 		
 		"visible"		"0"
 		
-		"border"		"ReplayBalloonBorder"
+		//"border"		"ReplayBalloonBorder"
 		"proportional"	"0"
 	}
 	
@@ -152,6 +152,6 @@
 	{
 		"ControlName"	"Panel"
 		"FieldName"		"ClassImage"
-		"zpos"			"102"
+		//"zpos"			"102"
 	}
 }

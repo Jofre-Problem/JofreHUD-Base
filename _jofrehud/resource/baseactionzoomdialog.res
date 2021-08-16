@@ -15,9 +15,9 @@
 
 #base "../#uni_Base/filesv3/ok/ctri/label/ok.res"
 
-#base "../#uni_base/filesv1/grip_/primary/main.res"
-#base "../#uni_base/filesv1/grip_/primary/content2.res"
-#base "../#uni_base/filesv1/grip_/sec/main.res"
+//#base "../#uni_base/filesv1/grip_/primary/main.res"
+//#base "../#uni_base/filesv1/grip_/primary/content2.res"
+//#base "../#uni_base/filesv1/grip_/sec/main.res"
 #base "../#uni_base/filesv1/cancel/main.res"
 #base "../#uni_base/filesv1/cancel/main2.res"
 #base "../#uni_base/filesv1/cancel/def-is0.res"

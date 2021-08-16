@@ -50,11 +50,11 @@
 		"fieldName"	        	"GroupPercentageBarBackground"
 		"xpos"		            "20"
 		"ypos"		            "40"
-		"zpos"                  "2"
+		//"zpos"                  "2"
 		"wide"		            "170"
 		"tall"		            "12"
 		"fillcolor"	            "32 32 32 255"
-		//"zpos"	                "-1"
+		////"zpos"	                "-1"
 		"visible"	        	"1"
 		
 	}
@@ -65,11 +65,11 @@
 		"fieldName"		        "GroupPercentageBar"
 		"xpos"			        "20"
 		"ypos"			        "40"
-		"zpos"                  "3"
+		//"zpos"                  "3"
 		"wide"			        "0"
 		"tall"			        "12"
 		//"fillcolor"		        "200 184 148 255"	// overwritten by code
-		"zpos"			        "0"
+		//"zpos"			        "0"
 		"visible"		        "0"
 		"enabled"		        "1"
 	}

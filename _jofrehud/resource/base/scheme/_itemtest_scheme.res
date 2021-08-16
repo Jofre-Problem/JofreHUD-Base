@@ -13,9 +13,6 @@
 #base "colors/list_bg.res"
 #base "colors/titledim.res"
 #base "colors/border_bds.res"
-#base "border/tabactiveborder.res"
-#base "border/depressedborder.res"
-#base "border/titlebutton_2.res"
 #base "colors/dullwhite.res"
 #base "colors/offwhite.res"
 Scheme
@@ -29,16 +26,5 @@ Scheme
 		Menu.FgColor			"160 170 149 255"
 		Menu.ArmedFgColor		"White"
 		PanelListPanel.autohide_scrollbar	1
-	}
-
-	Borders
-	{
-		TabBorder		RaisedBorder
-		CheckBorder InsetBorder
-		FrameBorder	RaisedBorder
-
-		TitleButtonBorder	RaisedBorder
-		TitleButtonDepressedBorder InsetBorder
-
 	}
 }

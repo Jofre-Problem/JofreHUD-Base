@@ -1,8 +1,8 @@
 #base "../#uni_base/filesv1/builddialog/main.res"
 #base "../#uni_base/filesv1/builddialog/main2.res"
-#base "../#uni_base/filesv1/top_bottom_horiz_left/main.res"
-#base "../#uni_base/filesv1/top_bottom_horiz_left/main2.res"
-#base "../#uni_base/filesv1/top_bottom_horiz_left/content/main.res"
+//#base "../#uni_base/filesv1/top_bottom_horiz_left/main.res"
+//#base "../#uni_base/filesv1/top_bottom_horiz_left/main2.res"
+//#base "../#uni_base/filesv1/top_bottom_horiz_left/content/main.res"
 
 #base "../#uni_base/filesv1/cancel/main.res"
 #base "../#uni_base/filesv1/cancel/pincorner3.res"

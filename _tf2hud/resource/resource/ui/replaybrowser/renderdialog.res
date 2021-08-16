@@ -30,7 +30,7 @@
 		"wide"			"250"
 		//"visible"		"1"
 		"bgcolor_override"	"Replay.RenderDialog.BgColor"
-		"border"			"EconItemBorder"
+		//"border"			"EconItemBorder"
 		//"paintbackground"	"1"
 		"paintborder"		"1"
 	}
@@ -44,7 +44,7 @@
 		//"textAlignment"	"west"
 		
 		
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"300"
 		"tall"			"25"
 		"autoResize"	"1"
@@ -59,7 +59,7 @@
 		"fieldName"		"CancelButton"
 		"xpos"			"95"
 		"ypos"			"-1"
-		"zpos"			"20"
+		//"zpos"			"20"
 		"wide"			"75"
 		"tall"			"25"
 		
@@ -88,7 +88,7 @@
 		"fieldName"		"RenderButton"
 		
 		"ypos"			"10"
-		"zpos"			"20"
+		//"zpos"			"20"
 		"wide"			"75"
 		"tall"			"25"
 		
@@ -163,7 +163,7 @@
 		//"wrap"			"0"
 		
 		
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"300"
 		"tall"			"13"
 		
@@ -185,7 +185,7 @@
 		//"wrap"			"0"
 		
 		
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"300"
 		"tall"			"13"
 		
@@ -203,7 +203,7 @@
 		"fieldName"		"SeparatorLine"
 		
 		
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"220"
 		"tall"			"5"
 		//"visible"		"1"
@@ -380,7 +380,7 @@
 		//"wrap"			"0"
 		
 		
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"300"
 		"tall"			"15"
 		
@@ -440,7 +440,7 @@
 		//"textAlignment"	"west"
 		
 		
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"300"
 		"tall"			"10"
 		"autoResize"	"1"
@@ -461,7 +461,7 @@
 		//"wrap"			"0"
 		
 		
-		"zpos"			"50"
+		//"zpos"			"50"
 		"wide"			"220"
 		"tall"			"12"
 		
@@ -483,7 +483,7 @@
 		//"textAlignment"	"west"
 		
 		
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"220"
 		"autoResize"	"1"
 		
@@ -503,7 +503,7 @@
 		//"wrap"			"0"
 		
 		
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"300"
 		"tall"			"13"
 		
@@ -525,7 +525,7 @@
 		//"wrap"			"0"
 		
 		
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"300"
 		"tall"			"13"
 		
@@ -547,7 +547,7 @@
 		//"wrap"			"0"
 		
 		
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"300"
 		"tall"			"13"
 		
@@ -568,7 +568,7 @@
 		//"textAlignment"	"west"
 		
 		
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"250"
 		"tall"			"30"
 		

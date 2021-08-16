@@ -96,7 +96,7 @@
 		"fieldName"		"ImagePanel1"
 		"xpos"		"16"
 		"ypos"		"156"
-		"zpos"		"-1"
+		//"zpos"		"-1"
 		"wide"		"256"
 		"tall"		"192"
 		

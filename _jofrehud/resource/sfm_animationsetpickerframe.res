@@ -1,8 +1,8 @@
 #base "../#uni_base/filesv1/caption/main.res"
 #base "../#uni_base/filesv1/caption/content1.res"
-#base "../#uni_base/filesv1/grip_/primary/main.res"
-#base "../#uni_base/filesv1/grip_/primary/content2.res"
-#base "../#uni_base/filesv1/grip_/max-min/main.res"
+//#base "../#uni_base/filesv1/grip_/primary/main.res"
+//#base "../#uni_base/filesv1/grip_/primary/content2.res"
+//#base "../#uni_base/filesv1/grip_/max-min/main.res"
 #base "base/menu.res"
 #base "base/animationsetpicker.res"
 

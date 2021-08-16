@@ -6,7 +6,7 @@
 		"fieldName"		"RecLightPanel"
 		"wide"			"200"
 		"tall"			"150"
-		"zpos"			"10"
+		//"zpos"			"10"
 		
 		
 		"visible"		"0"
@@ -54,7 +54,7 @@
 		"fieldName"		"RecLightOnImg"
 		"wide"			"42"
 		"tall"			"42"
-		"zpos"			"11"
+		//"zpos"			"11"
 		//"visible"		"1"
 		
 		"image"			"replay/replay_camera_reclight_on"
@@ -67,7 +67,7 @@
 		"fieldName"		"RecLightOffImg"
 		"wide"			"42"
 		"tall"			"42"
-		"zpos"			"11"
+		//"zpos"			"11"
 		//"visible"		"1"
 		
 		"image"			"replay/replay_camera_reclight_off"
@@ -82,7 +82,7 @@
 		
 		"wide"			"60"
 		"tall"			"60"
-		"zpos"			"11"
+		//"zpos"			"11"
 		"visible"		"0"
 		
 		"image"			"replay/replay_control_play"
@@ -97,7 +97,7 @@
 		
 		"wide"			"60"
 		"tall"			"60"
-		"zpos"			"11"
+		//"zpos"			"11"
 		"visible"		"0"
 		
 		"image"			"replay/replay_control_pause"

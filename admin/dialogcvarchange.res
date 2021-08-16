@@ -1,2 +1,1 @@
-#base "../_jofrehud/admin/dialogcvarchange.res"
-#base "../_tf2hud/root/admin/dialogcvarchange.res"
+#base	"../_jofrehud/_tf2exp/null.res"

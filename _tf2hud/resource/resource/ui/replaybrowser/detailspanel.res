@@ -59,7 +59,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"ExportMovieButton"
-		"zpos"			"3"
+		//"zpos"			"3"
 		"wide"			"75"
 		"tall"			"18"
 		
@@ -81,7 +81,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"ShowRenderInfoButton"
-		"zpos"			"10"
+		//"zpos"			"10"
 		"wide"			"25"
 		"tall"			"25"
 		
@@ -109,7 +109,7 @@
 			"fieldName"		"SubImage"
 			"xpos"			"3"
 			"ypos"			"3"
-			//"zpos"			"1"
+			////"zpos"			"1"
 			"wide"			"20"
 			"tall"			"20"
 			//"visible"		"1"
@@ -122,7 +122,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"YouTubeUploadButton"
-		"zpos"			"3"
+		//"zpos"			"3"
 		"wide"			"158"
 		"tall"			"18"
 		
@@ -144,7 +144,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"ViewYouTubeButton"
-		"zpos"			"3"
+		//"zpos"			"3"
 		"wide"			"158"
 		"tall"			"18"
 		
@@ -166,7 +166,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"ShareYouTubeURLButton"
-		"zpos"			"3"
+		//"zpos"			"3"
 		"wide"			"75"
 		"tall"			"18"
 		
@@ -217,7 +217,7 @@
 		"fieldName"		"PlayButton"
 		"xpos"			"c20"
 		"ypos"			"437"
-		"zpos"			"3"
+		//"zpos"			"3"
 		"wide"			"120"
 		"tall"			"25"
 		

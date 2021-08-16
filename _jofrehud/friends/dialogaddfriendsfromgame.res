@@ -1,4 +1,4 @@
-#base "../resource/#bases/1sysmenu.res"
+//#base "../resource/#bases/1sysmenu.res"
 #base "base/label1_main.res"
 #base "base/label1_north.res"
 #base "base/label1_paintb.res"

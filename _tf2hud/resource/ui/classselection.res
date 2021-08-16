@@ -15,20 +15,7 @@
 		
 	}
 	
-	"SysMenu"
-	{
-		"ControlName"	"Menu"
-		"fieldName"		"SysMenu"
-		
-		
-		"wide"			"64"
-		"tall"			"24"
-		
-		
-		"visible"		"0"
-		"enabled"		"0"
-		
-	}
+
 	
 	"random"
 	{

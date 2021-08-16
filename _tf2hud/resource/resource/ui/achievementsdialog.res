@@ -67,7 +67,7 @@
 		"wide"		"600"
 		"tall"		"268"
 		"fillcolor"	"32 32 32 255"
-		"zpos"	"-3"
+		//"zpos"	"-3"
 		//"visible"		"1"
 		
 		
@@ -83,7 +83,7 @@
 		"wide"		"584"
 		"tall"		"16"
 		"fillcolor"	"79 79 79 255"
-		"zpos"	"-2"
+		//"zpos"	"-2"
 		"visible"		"0"
 		
 	}
@@ -97,7 +97,7 @@
 		"wide"		"0"
 		"tall"		"16"
 		"fillcolor"	"157 194 80 255"
-		"zpos"	"-1"
+		//"zpos"	"-1"
 		"visible"		"0"
 		
 	}
@@ -146,7 +146,7 @@
 		"wide"		"600"
 		"tall"		"50"
 		"fillcolor"	"32 32 32 255"
-		"zpos"	"-3"
+		//"zpos"	"-3"
 		//"visible"		"1"
 		
 	}

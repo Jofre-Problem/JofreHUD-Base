@@ -1,2 +1,1 @@
-#base "../_jofrehud/demo/editablepaneldemo.res"
-#base "../_tf2hud/root/demo/editablepaneldemo.res"
+#base	"../_jofrehud/_tf2exp/null.res"

@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"ReplayMessagePanel"
-		"zpos"			"1000"
+		//"zpos"			"1000"
 		"tall"			"84"
 		"wide"			"200"
 		
@@ -49,7 +49,7 @@
 		"fieldName"		"Icon"
 		"xpos"			"8"
 		"ypos"			"5"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"18"
 		"tall"			"18"
 		//"visible"		"1"

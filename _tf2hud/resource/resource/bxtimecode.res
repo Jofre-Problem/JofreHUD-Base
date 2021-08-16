@@ -6,7 +6,7 @@
 		"fieldName"		"TimeCode"
 		"xpos"		"250"
 		"ypos"		"5"
-		"zpos"		"1"
+		//"zpos"		"1"
 		"wide"		"300"
 		"tall"		"24"
 		

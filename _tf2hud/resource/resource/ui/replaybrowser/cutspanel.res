@@ -33,7 +33,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"zpos"			"1"
+				//"zpos"			"1"
 				//"visible"		"1"
 				
 				"scaleImage"	"1"
@@ -45,7 +45,7 @@
 				"ypos"				"37"
 				"wide"				"12"
 				"tall"				"12"
-				"zpos"				"3"
+				//"zpos"				"3"
 				"textAlignment"		"center"
 				"visible"			"0"
 			}
@@ -69,7 +69,7 @@
 		"labelText"		"#Replay_NoCuts"
 		"wide"			"200"
 		"tall"			"58"
-		"zpos"			"1"
+		//"zpos"			"1"
 		
 		
 		"visible"		"0"
@@ -146,7 +146,7 @@
 		"fieldName"		"NameLabel"
 		//"font"			"ReplayBrowserSmallest"
 		"labeltext"		""
-		"zpos"			"1"
+		//"zpos"			"1"
 		
 		
 		//"visible"		"1"

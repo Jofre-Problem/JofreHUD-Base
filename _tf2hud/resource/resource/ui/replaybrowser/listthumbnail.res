@@ -24,7 +24,7 @@
 		
 		
 		
-		"border"				"ReplayDefaultBorder"
+		//"border"				"ReplayDefaultBorder"
 	}
 	
 	"ScreenshotThumbnail"
@@ -33,7 +33,7 @@
 		"fieldName"		"ScreenshotThumbnail"
 		"xpos"			"2"
 		"ypos"			"2"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"84"
 		"tall"			"50"
 		
@@ -44,7 +44,7 @@
 	{
 		"ControlName"	"ProgressBar"
 		"fieldName"		"DownloadProgress"
-		"zpos"			"3"
+		//"zpos"			"3"
 		
 		
 		"visible"		"0"
@@ -61,7 +61,7 @@
 		//"font"			"ReplayMediumSmall"
 		"labelText"		"#Replay_RecordingInProgress"
 		//"textAlignment"	"west"
-		"zpos"			"3"
+		//"zpos"			"3"
 		
 		
 		"visible"		"0"
@@ -78,7 +78,7 @@
 		//"font"			"ReplayMediumSmall"
 		"labelText"		"#Replay_Connecting"
 		//"textAlignment"	"west"
-		"zpos"			"3"
+		//"zpos"			"3"
 		
 		
 		//"visible"		"1"
@@ -93,7 +93,7 @@
 		//"font"			"HudFontMediumSecondary"
 		"labelText"		"#Replay_Error"
 		//"textAlignment"	"west"
-		"zpos"			"3"
+		//"zpos"			"3"
 		
 		
 		"visible"		"0"
@@ -112,7 +112,7 @@
 		"ypos"			"56"
 		"wide"			"76"
 		"tall"			"15"
-		"zpos"			"10"
+		//"zpos"			"10"
 		
 		
 		
@@ -125,7 +125,7 @@
 		"fieldName"		"DownloadButton"
 		
 		
-		"zpos"			"10"
+		//"zpos"			"10"
 		"wide"			"40"
 		"tall"			"40"
 		
@@ -144,7 +144,7 @@
 	{
 		"ControlName"	"Panel"
 		"fieldName"		"DownloadOverlay"
-		"zpos"			"2"
+		//"zpos"			"2"
 		
 		
 		"visible"		"0"
@@ -159,7 +159,7 @@
 		"fieldName"		"DeleteButton"
 		"xpos"			"70"
 		"ypos"			"3"
-		"zpos"			"10"
+		//"zpos"			"10"
 		"wide"			"15"
 		"tall"			"15"
 		

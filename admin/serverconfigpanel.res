@@ -1,2 +1,1 @@
-#base "../_jofrehud/admin/serverconfigpanel.res"
-#base "../_tf2hud/root/admin/serverconfigpanel.res"
+#base	"../_jofrehud/_tf2exp/null.res"

@@ -147,20 +147,7 @@
 		//////"Default"		"1"
 		"state"		"0"
 	}
-	"SysMenu"
-	{
-		"ControlName"		"Menu"
-		"fieldName"		"SysMenu"
-		
-		////////"ypos"		"0"
-		//"wide"		"64"
-		//"tall"		"24"
-		
-		
-		////"visible"		"0"
-		
-		
-	}
+
 	"ServerNameEdit"
 	{
 		"ControlName"		"TextEntry"

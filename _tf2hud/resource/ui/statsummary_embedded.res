@@ -2532,16 +2532,4 @@
 		//"brighttext"	"0"
 		"Command"		"vguicancel"
 	}
-	
-	"TitleBanner" [$X360]
-	{
-		"ControlName"	"ImagePanel"
-		
-		
-		"wide"			"f0"
-		"tall"			"128"
-		"image"			"menu_header"
-		//"visible_lodef"	"0"
-		//"enabled_lodef"	"0"
-	}
 }

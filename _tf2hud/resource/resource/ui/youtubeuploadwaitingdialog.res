@@ -13,7 +13,7 @@
 		//"paintbackground"		"1"
 		//"PaintBackgroundType"	"0"
 		"settitlebarvisible"	"0"
-		"border"				"EconItemBorder"
+		//"border"				"EconItemBorder"
 	}
 	
 	"CenterPositioner"
@@ -155,7 +155,7 @@
 		"fieldName"		"CloseButton"
 		"xpos"			"50"
 		"ypos"			"115"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"100"
 		"tall"			"25"
 		

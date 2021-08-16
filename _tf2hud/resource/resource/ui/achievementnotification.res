@@ -6,7 +6,7 @@
 		"fieldName"		"Notification_Background"
 		"xpos"			"r250"
 		
-		"zpos"			"-1"
+		//"zpos"			"-1"
 		"wide"			"240"
 		"tall"			"40"
 		

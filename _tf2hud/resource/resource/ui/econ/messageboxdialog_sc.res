@@ -28,7 +28,7 @@
 		"textAlignment"	"north"
 		
 		"ypos"			"15"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"300"
 		"tall"			"30"
 		"autoResize"	"1"
@@ -46,7 +46,7 @@
 		"textAlignment"	"north"
 		"xpos"			"10"
 		"ypos"			"50"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"280"
 		"tall"			"170"
 		
@@ -63,7 +63,7 @@
 		"fieldName"		"ConfirmButton"
 		"xpos"			"62"
 		"ypos"			"190"
-		"zpos"			"20"
+		//"zpos"			"20"
 		"wide"			"175"
 		"tall"			"25"
 		
@@ -87,24 +87,6 @@
 		"depressedBgColor_override"	"Econ.Button.DepressedBgColor"
 		"depressedFgColor_override"	"Econ.Button.DepressedFgColor"
 	}
-	
-	"ConfirmButtonHintIcon"
-	{
-		"ControlName" "CSCHintIcon"
-		"fieldName" "ConfirmButtonHintIcon"
-		"xpos"			"67"
-		"ypos"			"190"
-		"zpos"			"22"
-		"wide"			"25"
-		"tall"			"25"
-		
-		
-		//"visible"		"1"
-		
-		
-		"actionSet"		"MenuControls"
-		"actionName"	"menu_select"
-	}
 
 	"Icon"
 	{
@@ -112,7 +94,7 @@
 		"fieldName"		"Icon"
 		"xpos"			"105"
 		"ypos"			"90"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"90"
 		"tall"			"90"
 		"visible"		"0"

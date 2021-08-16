@@ -1,2 +1,1 @@
-#base "../_jofrehud/friends/dialogabout.res"
-#base "../_tf2hud/root/friends/dialogabout.res"
+#base	"../_jofrehud/_tf2exp/null.res"

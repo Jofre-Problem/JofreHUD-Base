@@ -120,7 +120,7 @@
 		"ypos"		"212"
 		"wide"		"142"
 		"tall"		"24"
-		"zpos"		"2"
+		//"zpos"		"2"
 		"AutoResize"		"0"
 		"PinCorner"		"3"
 		"visible"		"0"

@@ -141,24 +141,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 	}
-	"topHorizLeft"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"topHorizLeft"
-		"xpos"		"13"
-		"ypos"		"163"
-		"wide"		"14"
-		"tall"		"16"
-		
-		
-		"visible"		"0"
-		
-		
-		"labelText"		"40"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-	}
+
 	"topVertLeft"
 	{
 		"ControlName"		"Label"

@@ -1,4 +1,4 @@
-#base "../resource/#bases/1sysmenu.res"
+//#base "../resource/#bases/1sysmenu.res"
 #base "base/graphpanel.res"
 #base "base/serverlog.res"
 #base "base/playerlist.res"

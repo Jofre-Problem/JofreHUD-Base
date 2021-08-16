@@ -74,7 +74,7 @@
 		"fieldName"		"ServerContextMenu"
 		
 		////////"ypos"		"0"
-		"zpos"		"1"
+		//"zpos"		"1"
 		//"wide"		"64"
 		//"tall"		"24"
 		

@@ -27,7 +27,7 @@
 #base "../#uni_base/filesv3/startbutton/ctrl/bright0.res"
 #base "../#uni_base/filesv3/startbutton/ctrl/def1.res"
 
-#base "../resource/#bases/1sysmenu.res"
+//#base "../resource/#bases/1sysmenu.res"
 
 #base "../#uni_base/filesv1/cancelbutton/autoresize_pin.res"
 #base "../#uni_base/filesv1/cancelbutton/ctrl/btn.res"

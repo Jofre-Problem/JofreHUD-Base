@@ -21,7 +21,7 @@
 		"fieldName"		"Dlg"
 		
 		
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"300"
 		"tall"			"120"
 		
@@ -31,7 +31,7 @@
 		"tabPosition"	"10"
 		//"PaintBackgroundType"	"0"
 		"bgcolor_override"	"ReplayBrowser.BgColor"
-		"border"			"EconItemBorder"
+		//"border"			"EconItemBorder"
 		"paintborder"		"1"
 		//"paintbackground"	"1"
 		
@@ -45,7 +45,7 @@
 			//"textAlignment"	"west"
 			"xpos"			"13"
 			"ypos"			"8"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"300"
 			"tall"			"20"
 			"autoResize"	"1"
@@ -64,7 +64,7 @@
 			//"textAlignment"	"west"
 			"xpos"			"13"
 			"ypos"			"18"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"300"
 			"tall"			"20"
 			"autoResize"	"1"
@@ -85,7 +85,7 @@
 			//"wrap"			"0"
 			"xpos"			"13"
 			"ypos"			"50"
-			"zpos"			"50"
+			//"zpos"			"50"
 			"wide"			"275"
 			"tall"			"15"
 			
@@ -104,7 +104,7 @@
 			"fieldName"		"DiscardButton"
 			"xpos"			"207"
 			"ypos"			"90"
-			"zpos"			"20"
+			//"zpos"			"20"
 			"wide"			"80"
 			"tall"			"20"
 			
@@ -129,7 +129,7 @@
 			"fieldName"		"CancelButton"
 			"xpos"			"207"
 			"ypos"			"90"
-			"zpos"			"20"
+			//"zpos"			"20"
 			"wide"			"80"
 			"tall"			"20"
 			
@@ -154,7 +154,7 @@
 			"fieldName"		"SaveButton"
 			"xpos"			"103"
 			"ypos"			"90"
-			"zpos"			"20"
+			//"zpos"			"20"
 			"wide"			"100"
 			"tall"			"20"
 			

@@ -10,14 +10,6 @@
 #base "colors/slider_tick.res"
 #base "bs/title_t-s-p.res"
 #base "bs/hud_p-t.res"
-#base "border/tabborder.res"
-#base "border/scrollbarbuttondepres.res"
-#base "border/tabactiveborder.res"
-#base "border/frameborder.res"
-#base "border/titlebutton_2.res"
-#base "border/combobox.res"
-#base "border/baseborder.res"
-#base "border/buttonborder.res"
 // Fully Optimized
 // Good Job Jofre
 Scheme
@@ -35,49 +27,6 @@ Scheme
 			"MenuItemVisibilityRate" "0.03"  // time it takes for one menu item to appear
 			"MenuItemHeight"	"28"
 			"GameMenuInset"		"32"
-		}
-	}
-
-	Borders
-	{
-		BrowserBorder
-		{
-			"inset" "0 0 0 1"
-			Left
-			{
-				"1"
-				{
-					"color" "Blank"
-					"offset" "0 1"
-				}
-			}
-
-			Right
-			{
-				"1"
-				{
-					"color" "Blank"
-					"offset" "0 0"
-				}
-			}
-
-			Top
-			{
-				"1"
-				{
-					"color" "Blank"
-					"offset" "0 0"
-				}
-			}
-
-			Bottom
-			{
-				"1"
-				{
-					"color" "Blank"
-					"offset" "0 0"
-				}
-			}
 		}
 	}
 }

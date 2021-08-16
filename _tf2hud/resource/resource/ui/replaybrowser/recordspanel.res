@@ -15,7 +15,7 @@
 		//"textAlignment"		"west"
 		//"xpos"				"0"
 		//"ypos"				"0"
-		"zpos"				"1"
+		//"zpos"				"1"
 		
 		
 		"visible"			"0"
@@ -31,7 +31,7 @@
 		//"textAlignment"		"west"
 		//"xpos"				"0"
 		//"ypos"				"0"
-		"zpos"				"1"
+		//"zpos"				"1"
 		
 		
 		"visible"			"0"
@@ -42,9 +42,9 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ScoreBackgroundPanel"
-		"zpos"				"0"
+		//"zpos"				"0"
 		"visible"			"0"
-		"Border"			"ButtonBorder"
+		//"border"			"ButtonBorder"
 		"bgcolor_override"	"32 31 29 255"
 	}
 	
@@ -57,7 +57,7 @@
 		//"textAlignment"		"west"
 		//"xpos"				"0"
 		//"ypos"				"0"
-		"zpos"				"1"
+		//"zpos"				"1"
 		
 		
 		"visible"			"0"

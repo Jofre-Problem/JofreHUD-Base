@@ -6,7 +6,7 @@
 		"fieldName"		"ConfirmDialog"
 		"xpos"			"c-150"
 		"ypos"			"75"
-		"zpos"			"1000"
+		//"zpos"			"1000"
 		"wide"			"300"
 		"tall"			"200"
 		
@@ -27,7 +27,7 @@
 		"textAlignment"	"north"
 		
 		"ypos"			"15"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"300"
 		"tall"			"20"
 		"autoResize"	"1"
@@ -46,7 +46,7 @@
 		//"textAlignment"	"west"
 		"xpos"			"10"
 		"ypos"			"50"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"150"
 		"tall"			"25"
 		
@@ -66,7 +66,7 @@
 		//"wrap"			"0"
 		"xpos"			"10"
 		"ypos"			"75"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"280"
 		"tall"			"20"
 		
@@ -88,7 +88,7 @@
 		//"textAlignment"	"west"
 		"xpos"			"10"
 		"ypos"			"100"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"150"
 		"tall"			"25"
 		
@@ -107,7 +107,7 @@
 		//"wrap"			"0"
 		"xpos"			"10"
 		"ypos"			"125"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"280"
 		"tall"			"20"
 		
@@ -127,7 +127,7 @@
 		"fieldName"		"RegisterButton"
 		"xpos"			"10"
 		"ypos"			"165"
-		"zpos"			"20"
+		//"zpos"			"20"
 		"wide"			"85"
 		"tall"			"25"
 		
@@ -152,7 +152,7 @@
 		"fieldName"		"ConfirmButton"
 		"xpos"			"100"
 		"ypos"			"165"
-		"zpos"			"20"
+		//"zpos"			"20"
 		"wide"			"95"
 		"tall"			"25"
 		//"Default"		"1"
@@ -178,7 +178,7 @@
 		"fieldName"		"CancelButton"
 		"xpos"			"200"
 		"ypos"			"165"
-		"zpos"			"20"
+		//"zpos"			"20"
 		"wide"			"95"
 		"tall"			"25"
 		

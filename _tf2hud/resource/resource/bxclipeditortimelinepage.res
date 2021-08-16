@@ -20,7 +20,7 @@
 		"fieldName"		"Clip Slider"
 		"xpos"		"20"
 		"ypos"		"182"
-		"zpos"		"1"
+		//"zpos"		"1"
 		"wide"		"1544"
 		"tall"		"32"
 		

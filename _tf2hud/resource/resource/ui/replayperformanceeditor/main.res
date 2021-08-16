@@ -19,7 +19,7 @@
 		
 		"PlayerCell"
 		{
-			"zpos"			"3"
+			//"zpos"			"3"
 			"bgcolor_override"	"255 107 95 255"
 			"wide"			"10"
 			"tall"			"10"
@@ -91,7 +91,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"RedLabel"
-				"zpos"			"3"
+				//"zpos"			"3"
 				//"visible"		"1"
 				
 				//"font"			"PerformanceModeSmall"
@@ -104,7 +104,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"BlueLabel"
-				"zpos"			"3"
+				//"zpos"			"3"
 				//"visible"		"1"
 				
 				//"font"			"PerformanceModeSmall"
@@ -122,7 +122,7 @@
 		
 		"wide"			"40"
 		"tall"			"40"
-		"zpos"			"3"
+		//"zpos"			"3"
 		
 		
 		//"visible"		"1"
@@ -160,7 +160,7 @@
 		
 		"wide"			"40"
 		"tall"			"40"
-		"zpos"			"3"
+		//"zpos"			"3"
 		
 		
 		//"visible"		"1"
@@ -198,7 +198,7 @@
 		
 		"wide"			"40"
 		"tall"			"40"
-		"zpos"			"3"
+		//"zpos"			"3"
 		
 		
 		//"visible"		"1"
@@ -237,7 +237,7 @@
 		
 		"wide"			"40"
 		"tall"			"40"
-		"zpos"			"3"
+		//"zpos"			"3"
 		
 		
 		//"visible"		"1"
@@ -274,7 +274,7 @@
 		"fieldName"		"CurTimeLabel"
 		"xpos"			"c-74"
 		
-		"zpos"			"2"
+		//"zpos"			"2"
 		//"visible"		"1"
 		
 		//"font"			"ReplayMediumBig"
@@ -288,7 +288,7 @@
 		"fieldName"		"TotalTimeLabel"
 		"xpos"			"c35"
 		
-		"zpos"			"2"
+		//"zpos"			"2"
 		//"visible"		"1"
 		
 		//"font"			"ReplayMediumBig"
@@ -300,7 +300,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerNameLabel"
-		"zpos"			"3"
+		//"zpos"			"3"
 		//"visible"		"1"
 		
 		//"font"			"PerformanceModeSmall"
@@ -313,7 +313,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MouseHighlightPanel"
 		"visible"		"0"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"bgcolor_override" "218 209 187 255"
 	}
 	
@@ -322,7 +322,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MouseTargetPanel"
 		"visible"		"0"
-		"zpos"			"2"
+		//"zpos"			"2"
 		"bgcolor_override" "255 255 255 255"
 	}
 	
@@ -334,7 +334,7 @@
 		"ypos"			"17"
 		"wide"			"22"
 		"tall"			"22"
-		"zpos"			"3"
+		//"zpos"			"3"
 		
 		
 		//"visible"		"1"
@@ -374,7 +374,7 @@
 		"ypos"			"17"
 		"wide"			"22"
 		"tall"			"22"
-		"zpos"			"3"
+		//"zpos"			"3"
 		
 		
 		//"visible"		"1"
@@ -413,7 +413,7 @@
 		"ypos"			"17"
 		"wide"			"22"
 		"tall"			"22"
-		"zpos"			"3"
+		//"zpos"			"3"
 		
 		
 		//"visible"		"1"
@@ -452,7 +452,7 @@
 		"ypos"			"-6"
 		"wide"			"48"
 		"tall"			"48"
-		"zpos"			"3"
+		//"zpos"			"3"
 		
 		
 		//"visible"		"1"
@@ -491,7 +491,7 @@
 		"ypos"			"17"
 		"wide"			"22"
 		"tall"			"22"
-		"zpos"			"3"
+		//"zpos"			"3"
 		
 		
 		//"visible"		"1"
@@ -529,7 +529,7 @@
 		"ypos"			"17"
 		"wide"			"22"
 		"tall"			"22"
-		"zpos"			"3"
+		//"zpos"			"3"
 		
 		
 		//"visible"		"1"
@@ -568,7 +568,7 @@
 		"ypos"			"17"
 		"wide"			"22"
 		"tall"			"22"
-		"zpos"			"3"
+		//"zpos"			"3"
 		
 		
 		//"visible"		"1"
@@ -606,7 +606,7 @@
 		"fieldName"		"MenuButton"
 		"xpos"			"5"
 		"ypos"			"5"
-		"zpos"			"3"
+		//"zpos"			"3"
 		"wide"			"25"
 		"tall"			"25"
 		
@@ -650,13 +650,13 @@
 		"labeltext"		""
 		"wide"			"350"
 		"tall"			"50"
-		"zpos"			"100"
+		//"zpos"			"100"
 		"visible"		"0"
 		
 		//"font"			"ReplayMediumSmall"
 		"centerwrap"	"1"
 		//"paintbackground"	"1"
 		"bgcolor_override"	"60 53 45 255"
-		"border"		"ButtonBorder"
+		//"border"		"ButtonBorder"
 	}
 }

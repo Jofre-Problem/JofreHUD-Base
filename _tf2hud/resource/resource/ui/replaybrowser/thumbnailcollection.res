@@ -23,7 +23,7 @@
 		"labelText"		">>"
 		"auto_wide_tocontents" "1"
 		"tall"			"15"
-		"zpos"			"2"
+		//"zpos"			"2"
 		
 		
 		"visible"		"0"
@@ -39,7 +39,7 @@
 		//"font"			"ReplayMediumSmall"
 		"labelText"		"%titleandcount%"
 		//"textAlignment"	"west"
-		"zpos"			"2"
+		//"zpos"			"2"
 		
 		
 		"visible"		"0"
@@ -54,7 +54,7 @@
 		"fieldName"		"DateLabel"
 		//"font"			"ReplayMediumSmall"
 		//"textAlignment"	"west"
-		"zpos"			"2"
+		//"zpos"			"2"
 		
 		
 		"visible"		"0"
@@ -69,7 +69,7 @@
 		"fieldName"		"WarningLabel"
 		//"font"			"ReplaySmaller"
 		//"textAlignment"	"west"
-		"zpos"			"1"
+		//"zpos"			"1"
 		
 		
 		"visible"		"0"
@@ -82,7 +82,7 @@
 	{
 		"ControlName"	"Panel"
 		"FieldName"		"Line"
-		"zpos"			"2"
+		//"zpos"			"2"
 		
 		
 		"visible"		"0"
@@ -95,7 +95,7 @@
 	{
 		"ControlName"	"Panel"
 		"fieldName"		"UnconvertedBg"
-		"zpos"			"1"
+		//"zpos"			"1"
 		
 		
 		"visible"		"0"
@@ -110,7 +110,7 @@
 		//"font"			"ReplayMediumSmall"
 		"wide"			"400"
 		"tall"			"40"
-		"zpos"			"5"
+		//"zpos"			"5"
 		
 		
 		//"visible"		"1"
@@ -125,7 +125,7 @@
 		"fieldName"		"ShowPrevButton"
 		
 		
-		"zpos"			"100"
+		//"zpos"			"100"
 		"wide"			"100"
 		"tall"			"12"
 		
@@ -153,7 +153,7 @@
 		"fieldName"		"ShowNextButton"
 		"xpos"			"100"
 		"ypos"			"20"
-		"zpos"			"100"
+		//"zpos"			"100"
 		"wide"			"100"
 		"tall"			"12"
 		
@@ -182,7 +182,7 @@
 		"fieldName"		"RenderAllButton"
 		"wide"			"80"
 		"tall"			"15"
-		"zpos"			"100"
+		//"zpos"			"100"
 		"visible"		"0"
 		
 		//"font"			"ReplayMediumSmall"

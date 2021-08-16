@@ -22,7 +22,7 @@
 		"wide"		"180"
 		"tall"		"20"
 		"fillcolor"	"0 0 0 255"
-		"zpos"	"-1"
+		//"zpos"	"-1"
 	}
 	"BonusMapTGAImage"
 	{

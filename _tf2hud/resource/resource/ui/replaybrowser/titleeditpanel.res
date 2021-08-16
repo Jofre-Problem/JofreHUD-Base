@@ -24,7 +24,7 @@
 		//"textAlignment"	"west"
 		
 		"ypos"			"6"
-		"zpos"			"10"
+		//"zpos"			"10"
 		"wide"			"20"
 		"tall"			"15"
 		
@@ -45,7 +45,7 @@
 		//"wrap"			"0"
 		"xpos"			"15"
 		
-		"zpos"			"1"
+		//"zpos"			"1"
 		
 		
 		//"visible"		"1"
@@ -61,7 +61,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HeaderLine"
 		
-		"zpos"			"5"
+		//"zpos"			"5"
 		"wide"			"586"
 		"tall"			"10"
 		//"visible"		"1"
@@ -76,7 +76,7 @@
 		"ControlName"		"CExLabel"
 		"FieldName"			"ClickToEditLabel"
 		"LabelText"			"#Replay_ClickToEdit"
-		"zpos"				"1000"
+		//"zpos"				"1000"
 		//"font"				"ReplayBrowserSmallest"
 		//"visible"			"1"
 		"fgcolor_override" "118 106 94 255"

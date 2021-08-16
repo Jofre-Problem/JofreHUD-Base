@@ -6,7 +6,7 @@
 		"fieldName"		"ReplayReminder"
 		"xpos"			"c-83"
 		"ypos"			"-50"
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"166"
 		"tall"			"40"
 		"visible"		"0"
@@ -31,7 +31,7 @@
 			"fieldName"		"Icon"
 			"xpos"			"3"
 			
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"36"
 			"tall"			"36"
 			//"visible"		"1"
@@ -46,7 +46,7 @@
 			//"font"			"SpectatorKeyHints"
 			"xpos"			"40"
 			"ypos"			"25"
-			"zpos"			"2"
+			//"zpos"			"2"
 			"wide"			"133"
 			"tall"			"12"
 			

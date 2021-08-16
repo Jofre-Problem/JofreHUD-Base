@@ -6,7 +6,7 @@
 		"fieldName"		"VProfPanel"
 		"xpos"		"335"
 		"ypos"		"18"
-		"zpos"		"1002"
+		//"zpos"		"1002"
 		"wide"		"1215"
 		"tall"		"864"
 		

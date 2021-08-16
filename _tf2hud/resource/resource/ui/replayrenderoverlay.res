@@ -15,7 +15,7 @@
 		//"font"			"DefaultVerySmall"
 		"labeltext"		""
 		//"textAlignment"	"west"
-		"zpos"			"10"
+		//"zpos"			"10"
 		
 		
 		//"visible"		"1"
@@ -30,7 +30,7 @@
 		//"font"			"EconFontSmall"
 		"labelText"		"#Replay_RenderOverlayText"
 		//"textAlignment"	"west"
-		"zpos"			"10"
+		//"zpos"			"10"
 		
 		
 		//"visible"		"1"
@@ -45,7 +45,7 @@
 		
 		
 		"visible"		"0"
-		"zpos"			"1000"
+		//"zpos"			"1000"
 		
 		
 		"settitlebarvisible"	"0"
@@ -72,7 +72,7 @@
 		//"font"			"DefaultVerySmall"
 		"labeltext"		""
 		"textAlignment"	"east"
-		"zpos"			"10"
+		//"zpos"			"10"
 		
 		
 		//"visible"		"1"
@@ -84,7 +84,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"CancelButton"
-		"zpos"			"20"
+		//"zpos"			"20"
 		"wide"			"100"
 		"tall"			"25"
 		
@@ -113,7 +113,7 @@
 		//"wrap"			"0"
 		
 		
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"300"
 		"tall"			"15"
 		

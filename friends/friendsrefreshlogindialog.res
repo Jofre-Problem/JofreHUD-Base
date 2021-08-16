@@ -1,2 +1,1 @@
-#base "../_jofrehud/friends/friendsrefreshlogindialog.res"
-#base "../_tf2hud/root/friends/friendsrefreshlogindialog.res"
+#base	"../_jofrehud/_tf2exp/null.res"

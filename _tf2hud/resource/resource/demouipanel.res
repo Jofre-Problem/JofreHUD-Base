@@ -407,65 +407,7 @@
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}
-	"MinimizeButton"
-	{
-		"ControlName"		"Button"
-		"fieldName"		"MinimizeButton"
-		
-		//"ypos"		"0"
-		"wide"		"18"
-		"tall"		"18"
-		
-		
-		"visible"		"0"
-		
-		
-		"labelText"		"0"
-		"textAlignment"		"north-west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
-		"Default"		"0"
-	}
-	"FrameButton"
-	{
-		"ControlName"		"Button"
-		"fieldName"		"FrameButton"
-		
-		//"ypos"		"0"
-		"wide"		"18"
-		"tall"		"18"
-		
-		
-		"visible"		"0"
-		
-		
-		"labelText"		"1"
-		"textAlignment"		"north-west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
-		"Default"		"0"
-	}
-	"MinimiseToSysTray"
-	{
-		"ControlName"		"Button"
-		"fieldName"		"MinimiseToSysTray"
-		
-		//"ypos"		"0"
-		"wide"		"18"
-		"tall"		"18"
-		
-		
-		"visible"		"0"
-		
-		
-		"labelText"		"o"
-		"textAlignment"		"north-west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
-		"Command"		"MinimizeToSysTray"
-		"Default"		"0"
-	}
+
+
+
 }

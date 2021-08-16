@@ -1,4 +1,4 @@
-#base "../../resource/#bases/1sysmenu.res"
+//#base "../../resource/#bases/1sysmenu.res"
 #base "../../#uni_base/filesv1/refresh/main.res"
 #base "../../#uni_base/filesv1/maplabel/main.res"
 #base "../../#uni_base/filesv1/maplabel/text/east.res"

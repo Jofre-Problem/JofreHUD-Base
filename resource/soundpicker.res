@@ -1,2 +1,1 @@
-#base "../_jofrehud/resource/soundpicker.res"
-#base "../_jofrehud/root/resource/soundpicker.res"
+#base	"../_jofrehud/_tf2exp/null.res"

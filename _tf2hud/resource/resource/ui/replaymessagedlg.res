@@ -21,7 +21,7 @@
 		"fieldName"		"Dlg"
 		
 		
-		"zpos"			"1"
+		//"zpos"			"1"
 		"wide"			"290"
 		"tall"			"160"
 		
@@ -30,7 +30,7 @@
 		
 		"tabPosition"	"10"
 		"paintborder"	"1"
-		"border"		"EconItemBorder"
+		//"border"		"EconItemBorder"
 		
 		"Icon"
 		{
@@ -38,7 +38,7 @@
 			"fieldName"		"Icon"
 			"xpos"			"13"
 			"ypos"			"8"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"18"
 			"tall"			"18"
 			//"visible"		"1"
@@ -56,7 +56,7 @@
 			//"textAlignment"	"west"
 			"xpos"			"37"
 			"ypos"			"8"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"280"
 			"tall"			"20"
 			"autoResize"	"1"
@@ -75,7 +75,7 @@
 			"textAlignment"	"north"
 			"xpos"			"13"
 			"ypos"			"35"
-			"zpos"			"1"
+			//"zpos"			"1"
 			"wide"			"260"
 			"tall"			"300"
 			
@@ -96,7 +96,7 @@
 			//"wrap"			"0"
 			"xpos"			"9"
 			"ypos"			"63"
-			"zpos"			"20"
+			//"zpos"			"20"
 			"wide"			"100"
 			"tall"			"20"
 			
@@ -114,7 +114,7 @@
 			"fieldName"		"OKButton"
 			"xpos"			"207"
 			"ypos"			"115"
-			"zpos"			"20"
+			//"zpos"			"20"
 			"wide"			"80"
 			"tall"			"20"
 			

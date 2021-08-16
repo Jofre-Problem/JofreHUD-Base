@@ -10,7 +10,7 @@
 		
 		
 		
-		"zpos"					"2"
+		//"zpos"					"2"
 		
 		"settitlebarvisible"	"1"
 		//"bgcolor_override"		"0 0 255 255"
