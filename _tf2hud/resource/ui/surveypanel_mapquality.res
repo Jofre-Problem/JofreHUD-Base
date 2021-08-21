@@ -10,7 +10,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"TextLabel"
-				"font"			"HudFontSmall"
+				"font"			"HudFontSmallBold"
 				"labelText"		"#TF_SurveyQuestion_MapQuality"
 				"textAlignment"	"north"
 				"xpos"			"cs-0.5"
@@ -18,11 +18,11 @@
 				"zpos"			"1000"
 				"wide"			"p0.85"
 				"tall"			"30"
-				
-				
-				//"visible"		"1"
-				
-				//"wrap"			"0"
+				"autoResize"	"0"
+				"pinCorner"		"0"
+				"visible"		"1"
+				"enabled"		"1"
+				"wrap"			"0"
 				"centerwrap"	"1"
 				"fgcolor_override" "TanLight"
 				"proportionaltoparent"	"1"
@@ -31,7 +31,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"MapLabel"
-				"font"			"HudFontSmall"
+				"font"			"HudFontSmallBold"
 				"labelText"		"%mapname%"
 				"textAlignment"	"north"
 				"xpos"			"cs-0.5"
@@ -39,11 +39,11 @@
 				"zpos"			"1000"
 				"wide"			"p1"
 				"tall"			"30"
-				
-				
-				//"visible"		"1"
-				
-				//"wrap"			"0"
+				"autoResize"	"0"
+				"pinCorner"		"0"
+				"visible"		"1"
+				"enabled"		"1"
+				"wrap"			"0"
 				"centerwrap"	"1"
 				"fgcolor_override" "Orange"
 				"proportionaltoparent"	"1"
@@ -58,7 +58,7 @@
 				"zpos"			"-1"
 				"wide"			"350"
 				"tall"			"50"
-				//"visible"		"1"
+				"visible"		"1"
 				"proportionaltoparent"	"1"
 				"bgcolor_override"	"0 0 0 100"
 
@@ -66,12 +66,12 @@
 				{
 					"ControlName"	"EditablePanel"
 					"fieldName"		"InnerShadow"
-					
-					
+					"xpos"			"0"
+					"ypos"			"0"
 					"zpos"			"100"
 					"wide"			"f0"
 					"tall"			"f0"
-					//"visible"		"1"
+					"visible"		"1"
 					"PaintBackgroundType"	"2"
 					"border"		"InnerShadowBorder"
 					"proportionaltoparent"	"1"
@@ -87,13 +87,13 @@
 					"zpos"			"1"
 					"wide"			"15"
 					"tall"			"20"
-					//"visible"		"1"
+					"visible"		"1"
 					"proportionaltoparent"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
 					
-					"labeltext"		""
+					"labelText"		""
 					"Command"		"option0"
 				}
 
@@ -106,7 +106,7 @@
 					"zpos"			"1"
 					"wide"			"60"
 					"tall"			"20"
-					//"visible"		"1"
+					"visible"		"1"
 					"proportionaltoparent"	"1"
 					
 					"labelText"		"#TF_SurveyQuestion_Rating0"
@@ -125,13 +125,13 @@
 					"zpos"			"2"
 					"wide"			"15"
 					"tall"			"20"
-					//"visible"		"1"
+					"visible"		"1"
 					"proportionaltoparent"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
 
-					"labeltext"		""
+					"labelText"		""
 					"Command"		"option1"
 				}
 
@@ -144,7 +144,7 @@
 					"zpos"			"1"
 					"wide"			"60"
 					"tall"			"20"
-					//"visible"		"1"
+					"visible"		"1"
 					"proportionaltoparent"	"1"
 					
 					"labelText"		"#TF_SurveyQuestion_Rating1"
@@ -161,13 +161,13 @@
 					"zpos"			"3"
 					"wide"			"15"
 					"tall"			"20"
-					//"visible"		"1"
+					"visible"		"1"
 					"proportionaltoparent"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
 
-					"labeltext"		""
+					"labelText"		""
 					"Command"		"option2"
 				}
 
@@ -180,13 +180,13 @@
 					"zpos"			"1"
 					"wide"			"60"
 					"tall"			"20"
-					//"visible"		"1"
+					"visible"		"1"
 					"proportionaltoparent"	"1"
 					
 					"labelText"		"#TF_SurveyQuestion_Rating2"
 					"font"			"HudFontSmallest"
 					"textAlignment"	"center"
-					//"Default"		"1"
+					"default"		"1"
 				}
 
 				"Radio3" // Good
@@ -198,13 +198,13 @@
 					"zpos"			"4"
 					"wide"			"15"
 					"tall"			"20"
-					//"visible"		"1"
+					"visible"		"1"
 					"proportionaltoparent"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
 					
-					"labeltext"		""
+					"labelText"		""
 					"Command"		"option3"
 				}
 
@@ -217,7 +217,7 @@
 					"zpos"			"1"
 					"wide"			"60"
 					"tall"			"20"
-					//"visible"		"1"
+					"visible"		"1"
 					"proportionaltoparent"	"1"
 					
 					"labelText"		"#TF_SurveyQuestion_Rating3"
@@ -234,13 +234,13 @@
 					"zpos"			"5"
 					"wide"			"15"
 					"tall"			"20"
-					//"visible"		"1"
+					"visible"		"1"
 					"proportionaltoparent"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
 					
-					"labeltext"		""
+					"labelText"		""
 					"Command"		"option4"
 				}
 
@@ -253,7 +253,7 @@
 					"zpos"			"1"
 					"wide"			"60"
 					"tall"			"20"
-					//"visible"		"1"
+					"visible"		"1"
 					"proportionaltoparent"	"1"
 					
 					"labelText"		"#TF_SurveyQuestion_Rating4"
@@ -272,7 +272,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#AbuseReport_Submit"
-				"font"			"HudFontSmall"
+				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
 				"Command"		"submit"
 				"sound_depressed"	"UI/buttonclick.wav"

@@ -4,15 +4,15 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"UpgradeBuyPanel"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"155"
 		"tall"			"45"		
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		
 		"upgradebutton_xpos"	"37"
 		"upgradebutton_ypos"	"26"
@@ -42,15 +42,15 @@
 	{
 		"ControlName"	"Panel"
 		"fieldName"		"InnerPanelRim"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"155"
 		"tall"			"45"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		
 		"PaintBackgroundType" "2"
 		"bgcolor_override"	"97 94 85 255"
@@ -62,13 +62,13 @@
 		"fieldName"		"IconBorder"
 		"xpos"			"2"
 		"ypos"			"2"
-		
+		"zpos"			"0"
 		"wide"			"30"
 		"tall"			"30"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		
 		"PaintBackgroundType" "2"
 		"bgcolor_override"	"235 226 202 255"
@@ -83,11 +83,11 @@
 		"wide"			"26"
 		"tall"			"26"
 		"zpos"			"20"
-		
-		
-		//"visible"		"1"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"enabled"		"0"
-		
+		"tabPosition"	"0"
 		
 		"scaleImage"	"1"	
 
@@ -103,13 +103,13 @@
 		"wide"			"30"
 		"tall"			"13"
 		"zpos"			"25"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		
-		
-		//"visible"		"1"
-		
-		
-		
-		"labeltext"		""
+		"labelText"		""
 		"textAlignment"	"center"
 		"font"			"HudFontSmall"
 	}
@@ -123,14 +123,14 @@
 		"wide"			"97"
 		"tall"			"22"
 		"zpos"			"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"wrap"			"1"
 		
-		"labeltext"		""
+		"labelText"		""
 		"textAlignment"	"center-west"
 		"font"			"HudFontSmallest"
 	}
@@ -140,14 +140,14 @@
 		"ControlName"	"Panel"
 		"fieldName"		"BuySellBG"
 		"xpos"			"135"
-		
+		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"20"
 		"tall"			"45"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		
 		"PaintBackgroundType" "2"
 		"bgcolor_override"	"117 114 103 255"
@@ -162,13 +162,13 @@
 		"wide"			"16"
 		"tall"			"16"
 		"zpos"			"20"
-		
-		
-		//"visible"		"1"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"enabled"		"0"
+		"tabPosition"	"0"
 		
-		
-		"labeltext"		""
+		"labelText"		""
 		"scaleImage"	"1"	
 
 		"activeimage"		"pve/buy_disabled"
@@ -196,13 +196,13 @@
 		"wide"			"16"
 		"tall"			"16"
 		"zpos"			"20"
-		
-		
-		//"visible"		"1"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"enabled"		"0"
+		"tabPosition"	"0"
 		
-		
-		"labeltext"		""
+		"labelText"		""
 		"scaleImage"	"1"	
 
 		"activeimage"		"pve/sell_disabled"

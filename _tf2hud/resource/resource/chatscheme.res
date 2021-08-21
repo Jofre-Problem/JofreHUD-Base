@@ -167,30 +167,7 @@ Scheme
 
 		Tooltip.TextColor			"0 0 0 196"
 		Tooltip.BgColor				"Orange"
-
-		TreeView.BgColor			"TransparentBlack"
-
-		WizardSubPanel.BgColor		"Blank"
-
 		// scheme-specific colors
-		MainMenu.TextColor			"White"				//[$WIN32]
-		MainMenu.TextColor			"200 200 200 255"	[$X360]
-		MainMenu.ArmedTextColor		"200 200 200 255"	//[$WIN32]
-		MainMenu.ArmedTextColor		"White"				[$X360]
-		MainMenu.DepressedTextColor	"192 186 80 255"
-		MainMenu.MenuItemHeight		"16"	//[$WIN32]
-		MainMenu.MenuItemHeight		"32"	[$X360]
-		MainMenu.Inset				"32"
-		MainMenu.Backdrop			"0 0 0 156"
-
-		Console.TextColor			"OffWhite"
-		Console.DevTextColor		"White"
-
-		NewGame.TextColor			"White"
-		NewGame.FillColor			"0 0 0 255"
-		NewGame.SelectionColor		"Orange"	//[$WIN32]
-		NewGame.SelectionColor		"0 0 0 255"	[$X360]
-		NewGame.DisabledColor		"128 128 128 196"
 	}
 
 	//////////////////////// BITMAP FONT FILES /////////////////////////////
@@ -208,7 +185,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -216,7 +193,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -224,7 +201,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -233,7 +210,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -242,7 +219,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -301,7 +278,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -309,7 +286,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -317,7 +294,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"15"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -325,7 +302,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"17"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -333,7 +310,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"22"
 				"weight"	"700"
 				"yres"		"1200 10000"

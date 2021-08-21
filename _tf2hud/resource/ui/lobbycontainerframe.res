@@ -4,30 +4,30 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"LobbyContainerFrame"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"settitlebarvisible"	"1"
-		//"PaintBackgroundType"	"0"
+		"PaintBackgroundType"	"0"
 		"bgcolor_override"				"46 43 42 0"
 		"infocus_bgcolor_override"		"46 43 42 0"
 		"outoffocus_bgcolor_override"	"46 43 42 0"
 		
 		"title"			"#CharInfoAndSetup"
-		"title_font"	"HudFontMediumSecondary"
+		"title_font"	"HudFontMediumBold"
 		"titletextinsetX"	"40"
-		//"titletextinsetY"	"0"
-		"titlebarfgcolor_override"				"HudOffWhite"
-		"titlebardisabledfgcolor_override"		"HudOffWhite"
-		"titlebarbgcolor_override"				"TanDarker"
+		"titletextinsetY"	"0"
+		"titlebarfgcolor_override"				"200 187 161 255"
+		"titlebardisabledfgcolor_override"		"200 187 161 255"
+		"titlebarbgcolor_override"				"46 43 42 255"
 		
-		//"clientinsetx_override"			"0"
+		"clientinsetx_override"			"0"
 		"sheetinset_bottom"				"40"
 
 		"NavToRelay"			"BackButton"
@@ -37,13 +37,13 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BackgroundHeader"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"120"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"loadout_header"
 		"tileImage"		"1"
 	}				
@@ -51,13 +51,13 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BackgroundFooter"
-		
+		"xpos"			"0"
 		"ypos"			"420"
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"60"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
 	}				
@@ -65,13 +65,13 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"FooterLine"
-		
+		"xpos"			"0"
 		"ypos"			"420"
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"10"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"loadout_solid_line"
 		"scaleImage"	"1"
 	}				
@@ -90,13 +90,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"HeaderLine"
-			
+			"xpos"			"0"
 			"ypos"			"32"
 			"zpos"			"5"
 			"wide"			"f0"
 			"tall"			"10"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"loadout_solid_line"
 			"scaleImage"	"1"
 		}				
@@ -104,10 +104,10 @@
 		"tabskv"
 		{
 			"textinsetx"		"40"
-			"font"				"HudFontMediumSecondary"
+			"font"				"HudFontMediumBold"
 			"selectedcolor"		"200 187 161 255"
 			"unselectedcolor"	"130 120 104 255"	
-			"defaultBgColor_override"	"TanDarker"
+			"defaultBgColor_override"	"46 43 42 255"
 			"paintbackground"	"0"
 			"activeborder_override"	"OutlinedGreyBox"
 			"normalborder_override" "OutlinedDullGreyBox"
@@ -124,16 +124,16 @@
 		"zpos"			"100"
 		"wide"			"20"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
-		
-		"labeltext"		""
-		"font"			"HudFontSmall"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		""
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"default"		"0"
 		"Command"		"options"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -150,8 +150,8 @@
 			"zpos"			"1"
 			"wide"			"16"
 			"tall"			"16"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"glyph_options"
 			"scaleImage"	"1"
 		}
@@ -166,19 +166,19 @@
 		"zpos"			"2"
 		"wide"			"180"
 		"tall"			"25"
-		
+		"autoResize"	"0"
 		"pinCorner"		"3"
-		//"visible"		"1"
-		
-		
-		"font"			"HudFontSmall"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"back"
 
-		//"navUp"			"PlayNowButton"
-		//"navRight"		"LearnMoreButton"
+		"NavUp"			"PlayNowButton"
+		"NavRight"		"LearnMoreButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -194,7 +194,7 @@
 		"wide"			"190"
 		"tall"			"50"
 		"visible"		"0"
-		
+		"enabled"		"1"
 	}
 
 	"MatchmakingBanPanel"
@@ -207,7 +207,7 @@
 		"wide"			"220"
 		"tall"			"40"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"mouseinputenabled"	"0"
 		"bgcolor_override"	"Black"
 
@@ -220,14 +220,14 @@
 			"labelText"		"#TF_Matchmaking_Ban_Duration_Remaining"
 			"textalignment"	"center"
 			"xpos"			"5"
-			
+			"ypos"			"0"
 			"zpos"			"2"
 			"wide"			"200"
 			"tall"			"40"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"autoResize"	"1"
-			
+			"pinCorner"		"0"
 		}
 	}
 
@@ -241,20 +241,20 @@
 		"zpos"			"2"
 		"wide"			"180"
 		"tall"			"25"
-		
+		"autoResize"	"0"
 		//"pinCorner"		"3"
-		//"visible"		"1"
-		
-		
-		"font"			"HudFontSmall"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"next"
 
-		//"navUp"			"StartPartyButton"
+		"NavUp"			"StartPartyButton"
 		"NavDown"		"LearnMoreButton"
-		//"navLeft"		"LearnMoreButton"
+		"NavLeft"		"LearnMoreButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -269,22 +269,22 @@
 		"zpos"			"10"
 		"wide"			"180"
 		"tall"			"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#TF_Matchmaking_StartParty"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"start_party"
 
-		//"navUp"			"Sheet"
+		"NavUp"			"Sheet"
 		"NavDown"		"NextButton"
-		//"navLeft"		"PracticeButton"
+		"NavLeft"		"PracticeButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

@@ -34,7 +34,7 @@
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg"
-		"iconColor"		"ProgressOffWhite"
+		"iconColor"		"231 235 205 255"
 	}
 	
 	"BuildingIcon"	

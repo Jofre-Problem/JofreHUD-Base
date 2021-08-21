@@ -4,18 +4,18 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"LobbyPanel"
-		
+		"xpos"			"0"
 		"ypos"			"50"
 		"wide"			"f0"
 		"tall"			"480"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
-		//"PaintBackgroundType"	"0"
-		"bgcolor_override"	"TanDarker"
+		"PaintBackgroundType"	"0"
+		"bgcolor_override"	"46 43 42 255"
 		"proportionaltoparent"	"1"
 
 		"NavToRelay"	"MvMTourOfDutyGroupBox"
@@ -26,8 +26,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TooltipPanel"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"300"
 		"tall"			"0"
@@ -39,18 +39,18 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TipLabel"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallestBold"
 			"labelText"		"%tiptext%"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"20"
 			"ypos"			"10"
 			"zpos"			"2"
 			"wide"			"100"
 			"tall"			"10"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"fgcolor_override"	"TanLight"
 			"auto_wide_tocontents"	"1"
 		}
@@ -60,13 +60,13 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"NoGCGroupBox"
-		
-		//"ypos"		"0"
+		"xpos"		"0"
+		"ypos"		"0"
 		"zpos"		"1000"
 		"wide"		"f0"
 		"tall"		"f0"
-		//"PaintBackgroundType"	"0"
-		//"paintbackground"		"1"
+		"PaintBackgroundType"	"0"
+		"paintbackground"		"1"
 		"bgcolor_override"	"0 0 0 250"
 		"proportionaltoparent"	"1"
 
@@ -74,7 +74,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"NoGCTitle"
-			"font"			"HudFontMediumSecondary"
+			"font"			"HudFontMediumBold"
 			"labelText"		"#TF_Matchmaking_PleaseWait"
 			"xpos"		"cs-0.5"
 			"ypos"		"120"
@@ -83,7 +83,7 @@
 			"tall"		"40"
 			"textAlignment"	"center"
 			"visible"	"1"
-			
+			"enabled"	"1"
 			"proportionaltoparent"	"1"
 		}
 
@@ -100,7 +100,7 @@
 			"tall"		"40"
 			"textAlignment"	"center"
 			"visible"	"1"
-			
+			"enabled"	"1"
 			"proportionaltoparent"	"1"
 		}
 
@@ -110,11 +110,11 @@
 			"fieldName"		"SpinnerImage"
 			"xpos"			"cs-0.5"
 			"ypos"			"160"
-			
+			"zpos"			"0"
 			"wide"			"o1"
 			"tall"			"80"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"animated/tf2_logo_hourglass"
 		
 			"proportionaltoparent"	"1"
@@ -125,13 +125,13 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MatchInProgressGroupBox"
-		
-		//"ypos"		"0"
+		"xpos"		"0"
+		"ypos"		"0"
 		"zpos"		"1000"
 		"wide"		"f0"
 		"tall"		"f0"
-		//"PaintBackgroundType"	"0"
-		//"paintbackground"		"1"
+		"PaintBackgroundType"	"0"
+		"paintbackground"		"1"
 		"bgcolor_override"	"0 0 0 250"
 		"proportionaltoparent"	"1"
 
@@ -139,7 +139,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"MatchInProgressTitle"
-			"font"			"HudFontMediumSecondary"
+			"font"			"HudFontMediumBold"
 			"labelText"		"#TF_Matchmaking_MatchInProgress"
 			"xpos"		"cs-0.5"
 			"ypos"		"120"
@@ -148,7 +148,7 @@
 			"tall"		"40"
 			"textAlignment"	"center"
 			"visible"	"1"
-			
+			"enabled"	"1"
 			"proportionaltoparent"	"1"
 		}
 
@@ -165,7 +165,7 @@
 			"tall"		"40"
 			"textAlignment"	"center"
 			"visible"	"1"
-			
+			"enabled"	"1"
 			"proportionaltoparent"	"1"
 		}
 
@@ -175,11 +175,11 @@
 			"fieldName"		"SpinnerImage"
 			"xpos"			"cs-0.5"
 			"ypos"			"160"
-			
+			"zpos"			"0"
 			"wide"			"o1"
 			"tall"			"80"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"animated/tf2_logo_hourglass"
 		
 			"proportionaltoparent"	"1"
@@ -195,8 +195,8 @@
 		"zpos"		"-1"
 		"wide"		"400"
 		"tall"		"330"
-		//"PaintBackgroundType"	"0"
-		//"paintbackground"		"1"
+		"PaintBackgroundType"	"0"
+		"paintbackground"		"1"
 		"bgcolor_override"	"0 0 0 200"
 		"border"		"QuickplayBorder"
 
@@ -204,7 +204,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"SearchActiveTitle"
-			"font"			"HudFontMediumSecondary"
+			"font"			"HudFontMediumBold"
 			"labelText"		"#TF_Matchmaking_Searching"
 			"xpos"		"30"
 			"ypos"		"20"
@@ -213,7 +213,7 @@
 			"tall"		"40"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 		"NearbyColumnHead"
@@ -229,7 +229,7 @@
 			"tall"		"20"
 			"textAlignment"	"south-east"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 		"WorldwideColumnHead"
@@ -245,14 +245,14 @@
 			"tall"		"20"
 			"textAlignment"	"south-east"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 		"PlayersInGameLabel"
 		{
 			"ControlName"		"Label"
 			"fieldName"		"PlayersInGameLabel"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_Matchmaking_ActivePlayers"
 			"xpos"		"30"
 			"ypos"		"70"
@@ -261,7 +261,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 		"PlayersInGameTotalLabel"
@@ -277,7 +277,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 			"PlayersInGameTotalNearbyValue"
@@ -292,7 +292,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -308,7 +308,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -325,7 +325,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 			"PlayersInGameMatchingNearbyValue"
@@ -340,7 +340,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -356,7 +356,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -364,7 +364,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"PlayersSearchingLabel"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_Matchmaking_SearchingPlayers"
 			"xpos"		"30"
 			"ypos"		"140"
@@ -373,7 +373,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 		"PlayersSearchingTotalLabel"
@@ -389,7 +389,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 			"PlayersSearchingTotalNearbyValue"
@@ -404,7 +404,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -420,7 +420,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -437,7 +437,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 			"PlayersSearchingMatchingNearbyValue"
@@ -452,7 +452,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -468,7 +468,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -476,7 +476,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"EmptyGameserversLabel"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_Matchmaking_EmptyGameservers"
 			"xpos"		"30"
 			"ypos"		"210"
@@ -485,7 +485,7 @@
 			"tall"		"20"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			
+			"enabled"	"1"
 		}
 
 			"EmptyGameserversMatchingNearbyValue"
@@ -500,7 +500,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -516,7 +516,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-east"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"labelText"		"?"
 			}
 
@@ -530,19 +530,19 @@
 			"wide"		"340"
 			"tall"		"100"
 			"visible"	"0"
-			
+			"enabled"	"1"
 
 			"PartyLowPriorityImage"
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"PartyLowPriorityImage"
-				
+				"xpos"			"0"
 				"ypos"			"5"
-				
+				"zpos"			"0"
 				"wide"			"50"
 				"tall"			"50"
-				//"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 				"mouseinputenabled" "0"
 				"image"			"pve/mvm_timeout_active_large"
 				"scaleImage"	"1"
@@ -554,13 +554,13 @@
 				"font"			"HudFontSmall"
 				"labelText"		"#TF_Matchmaking_PartyPenalty"
 				"xpos"		"60"
-				//"ypos"		"0"
+				"ypos"		"0"
 				"zpos"			"2"
 				"wide"		"275"
 				"tall"		"60"
-				//"textAlignment"	"west"
+				"textAlignment"	"west"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"wrap"		"1"
 				"fgcolor_override"	"250 114 45 255"
 			}
@@ -575,9 +575,9 @@
 				"zpos"			"3"
 				"wide"		"175"
 				"tall"		"30"
-				//"textAlignment"	"west"
+				"textAlignment"	"west"
 				"visible"	"1"
-				
+				"enabled"	"1"
 				"wrap"		"1"
 			}
 		}
@@ -596,20 +596,20 @@
 
 		"NavToRelay"	"PartyGroupBox"
 		"NavDown"		"<<NextButton"
-		//"navLeft"		"<<Sheet"
-		//"navRight"		"<<StartPartyButton"
+		"NavLeft"		"<<Sheet"
+		"NavRight"		"<<StartPartyButton"
 
 		"PartyGroupBox"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"PartyGroupBox"
-			
-			//"ypos"		"0"
+			"xpos"		"0"
+			"ypos"		"0"
 			"zpos"		"-1"
 			"wide"		"200"
 			"tall"		"160"
-			//"PaintBackgroundType"	"0"
-			//"paintbackground"		"1"
+			"PaintBackgroundType"	"0"
+			"paintbackground"		"1"
 			"bgcolor_override"	"0 0 0 200"
 			"border"		"QuickplayBorder"
 
@@ -619,12 +619,12 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"PartyLabel"
-				"font"			"HudFontMediumSecondary"
+				"font"			"HudFontMediumBold"
 				"labelText"		"#TF_Matchmaking_Party"
-				//"textAlignment"	"west"
+				"textAlignment"	"west"
 				"xpos"			"5"
 				"ypos"			"5"
-				
+				"zpos"			"0"
 				"wide"			"120"
 				"tall"			"20"
 			}
@@ -638,17 +638,17 @@
 				"zpos"			"2"
 				"wide"			"100"
 				"tall"			"20"
-				
+				"autoResize"	"0"
 				//"pinCorner"		"3"
-				//"visible"		"1"
-				
-				
+				"visible"		"1"
+				"enabled"		"1"
+				"tabPosition"	"0"
 				"labelText"		"#TF_Matchmaking_Invite"
-				"font"			"HudFontSmall"
+				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				////"dulltext"		"0"
-				//"brighttext"	"0"
-				//"Default"		"1"
+				"dulltext"		"0"
+				"brighttext"	"0"
+				"default"		"1"
 				"Command"		"invite"
 
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -661,11 +661,11 @@
 				"fieldName"		"TourLevelImage"
 				"xpos"			"169"
 				"ypos"			"23"
-				
+				"zpos"			"0"
 				"wide"			"25"
 				"tall"			"25"
 				"visible"		"0"
-				
+				"enabled"		"1"
 				"mouseinputenabled" "0"
 				"image"			"../hud/mvm_tours"
 				"scaleImage"	"1"
@@ -677,7 +677,7 @@
 				"fieldName"		"PartyPlayerList"
 				"xpos"			"5"
 				"ypos"			"35"
-				
+				"zpos"			"0"
 				"wide"			"190"
 				"tall"			"120"
 				"linespacing"	"18"
@@ -689,9 +689,9 @@
 			"ControlName"	"RichText"
 			"fieldName"		"ChatLog"
 			"Default"			"ChatMiniFont"
-			
+			"xpos"			"0"
 			"ypos"			"170"
-			
+			"zpos"			"0"
 			"wide"			"200"
 			"tall"			"110"
 			"bgcolor_override"	"0 0 0 200"
@@ -703,9 +703,9 @@
 			"ControlName"	"TextEntry"
 			"fieldName"		"ChatTextEntry"
 			"font"			"ChatFont"
-			
+			"xpos"			"0"
 			"ypos"			"290"
-			
+			"zpos"			"0"
 			"wide"			"200"
 			"tall"			"20"
 			"bgcolor_override"	"0 0 0 200"
@@ -731,7 +731,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"JoinLateValueLabel"
 		"font"			"HudFontSmall"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"xpos"		"c+100"
 		"ypos"		"325"
 		"zpos"		"-1"

@@ -22,7 +22,7 @@
 			"ControlName"	"Panel"
 			"fieldName"		"MouseBlocker"
 			
-			//"ypos"		"0"
+			"ypos"		"0"
 			"zpos"		"10000"
 			"wide"		"f0"
 			"tall"		"f0"
@@ -126,7 +126,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Dimmer"
 			
-			//"ypos"		"0"
+			"ypos"		"0"
 			"zpos"		"-2"
 			"wide"		"f0"
 			"tall"		"f0"
@@ -143,7 +143,7 @@
 			"ControlName"	"Button"
 			"fieldName"		"OutsideCloseButton"
 			
-			//"ypos"		"0"
+			"ypos"		"0"
 			"zpos"		"-1"
 			"wide"		"f0"
 			"tall"		"f0"

@@ -10,7 +10,7 @@
 		"zpos"			"1001"
 		"wide"			"300"
 		"tall"			"f70"
-		//"visible"		"1"
+		"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"datacenter_y"	"3"
@@ -21,12 +21,12 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGPanel"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"f0"
 		"tall"			"f-50"
-		//"visible"		"1"
+		"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"border"		"MainMenuBGBorder"
 		"proportionaltoparent"	"1"
@@ -43,8 +43,8 @@
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_MM_OpenSettings"
-		//"textAlignment"	"west"
-		"font"			"HudFontMediumSecondary"
+		"textAlignment"	"west"
+		"font"			"HudFontMediumBold"
 		"fgcolor_override"	"TanDark"
 		
 		"mouseinputenabled"	"0"
@@ -61,8 +61,8 @@
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_MM_InviteMode"
-		//"textAlignment"	"west"
-		"font"			"HudFontSmallest"
+		"textAlignment"	"west"
+		"font"			"HudFontSmallestBold"
 		"smallcheckimage"	"1"
 		"fgcolor_override"	"TanDark"
 
@@ -79,18 +79,18 @@
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"15"
-		//"textAlignment"	"west"
-		"font"			"HudFontSmallest"
+		"textAlignment"	"west"
+		"font"			"HudFontSmallestBold"
 		"keyboardinputenabled"	"0"
 
 		"editable"		"0"
 		"bgcolor_override"	"0 0 0 255"
-		"fgcolor_override"	"TanLight"
-		"disabledFgColor_override" "TanLight"
-		"disabledBgColor_override" "Blank"
-		"selectionColor_override" "Blank"
-		"selectionTextColor_override" "TanLight"
-		"defaultSelectionBG2Color_override" "Blank"
+		"fgcolor_override"	"235 226 202 255"
+		"disabledFgColor_override" "235 226 202 255"
+		"disabledBgColor_override" "0 0 0 0"
+		"selectionColor_override" "0 0 0 0"
+		"selectionTextColor_override" "235 226 202 255"
+		"defaultSelectionBG2Color_override" "0 0 0 0"
 	}
 
 	"IgnorePartyInvites"
@@ -104,8 +104,8 @@
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_MM_IgnoreInvites"
-		//"textAlignment"	"west"
-		"font"			"HudFontSmallest"
+		"textAlignment"	"west"
+		"font"			"HudFontSmallestBold"
 		"smallcheckimage"	"1"
 
 		"sound_depressed"	"UI/buttonclickrelease.wav"	
@@ -125,8 +125,8 @@
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		""
-		//"textAlignment"	"west"
-		"font"			"HudFontSmallest"
+		"textAlignment"	"west"
+		"font"			"HudFontSmallestBold"
 		"smallcheckimage"	"1"
 		"enabled"	"0"
 
@@ -145,8 +145,8 @@
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_MM_PartySameTeam"
-		//"textAlignment"	"west"
-		"font"			"HudFontSmallest"
+		"textAlignment"	"west"
+		"font"			"HudFontSmallestBold"
 		"smallcheckimage"	"1"
 
 		"sound_depressed"	"UI/buttonclickrelease.wav"	
@@ -165,8 +165,8 @@
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		""
-		//"textAlignment"	"west"
-		"font"			"HudFontSmall"
+		"textAlignment"	"west"
+		"font"			"HudFontSmallBold"
 		"smallcheckimage"	"1"
 		"actionsignallevel"	"1"
 
@@ -189,8 +189,8 @@
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_LobbyContainer_CustomPingButton"
-		//"textAlignment"	"west"
-		"font"			"HudFontSmallest"
+		"textAlignment"	"west"
+		"font"			"HudFontSmallestBold"
 		"smallcheckimage"	"1"
 
 		"sound_depressed"	"UI/buttonclickrelease.wav"	
@@ -211,7 +211,7 @@
 		"textAlignment"	"north-west"
 		"font"			"HudFontSmallest"
 		"wrap"		"1"
-		"fgcolor"		"TanDark"
+		"fgcolor"		"117 107 94 255"
 
 		"sound_depressed"	"UI/buttonclickrelease.wav"	
 		"button_activation_type"	"1"
@@ -223,13 +223,13 @@
 		"fieldName"		"CurrentPingLabel"
 		"xpos"		"27"
 		"ypos"		"156"
-		
+		"zpos"		"0"
 		"wide"		"f0"
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		""
-		//"textAlignment"	"west"
-		"font"			"HudFontSmallest"
+		"textAlignment"	"west"
+		"font"			"HudFontSmallestBold"
 		
 		"mouseinputenabled"	"0"
 	}
@@ -242,14 +242,14 @@
 		"ypos"		"175"
 		"wide"		"f40"
 		"tall"		"24"
-		
-		
-		//"RoundedCorners"		"15"
-		//"pin_corner_to_sibling"		"0"
-		//"pin_to_sibling_corner"		"0"
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"RoundedCorners"		"15"
+		"pin_corner_to_sibling"		"0"
+		"pin_to_sibling_corner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"proportionaltoparent"	"1"
 
 		"cvar_name"	"tf_mm_custom_ping"
@@ -265,23 +265,23 @@
 		"zpos"			"100"
 		"wide"			"f37"
 		"tall"			"f220"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"proportionaltoparent"	"1"
 
 		"DataCenterList"
 		{
 			"ControlName"	"CScrollableList"
 			"fieldName"		"DataCenterList"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"2"
 			"wide"			"f0"
 			"tall"			"f0"
-			//"visible"		"1"
+			"visible"		"1"
 			"proportionaltoparent"	"1"
 			"restrict_width" "0"
 
@@ -290,7 +290,7 @@
 				"ControlName"	"ScrollBar"
 				"FieldName"		"ScrollBar"
 				"xpos"			"rs1-1"
-				
+				"ypos"			"0"
 				"tall"			"f0"
 				"wide"			"5" // This gets slammed from client schme.  GG.
 				"zpos"			"1000"
@@ -322,8 +322,8 @@
 		{
 			"Controlname"	"EditablePanel"
 			"fieldName"		"Frame"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"wide"			"f0"
 			"tall"			"f0"
 			"zpos"			"5"
@@ -336,13 +336,13 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldname"		"Background"
-			
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"0"
 			"wide"			"f0"
 			"tall"			"f0"
-			//"visible"		"1"
-			//"PaintBackgroundType"	"0"
+			"visible"		"1"
+			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 
 			"paintborder"	"1"

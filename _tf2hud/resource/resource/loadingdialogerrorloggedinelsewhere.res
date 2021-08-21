@@ -31,21 +31,7 @@
 		
 		"progress"		"0.000000"
 	}
-	"Progress2"
-	{
-		"ControlName"		"ProgressBar"
-		"fieldName"		"Progress2"
-		
-		//"ypos"		"0"
-		"wide"		"64"
-		"tall"		"24"
-		
-		
-		"visible"		"0"
-		
-		
-		"progress"		"0.000000"
-	}
+
 	"CancelButton"
 	{
 		"ControlName"		"Button"
@@ -103,19 +89,5 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"wrap"		"1"
-	}
-	"BannerAd"
-	{
-		"ControlName"		"HTML"
-		"fieldName"		"BannerAd"
-		"xpos"		"20"
-		"ypos"		"202"
-		"wide"		"340"
-		"tall"		"56"
-		
-		
-		"visible"		"0"
-		
-		
 	}
 }

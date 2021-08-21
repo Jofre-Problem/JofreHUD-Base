@@ -21,7 +21,7 @@
 	{
 		"ControlName"			"Panel"
 		"PinCorner"			"2"
-		"AutoResize"			"1"
+		//"autoResize"			"1"
 		"fieldName"				"background"
 		"xpos"					"0"
 		"ypos"					"0"

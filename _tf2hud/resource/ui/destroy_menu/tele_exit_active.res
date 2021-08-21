@@ -33,7 +33,7 @@
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg_outline"
-		"iconColor"		"ProgressOffWhite"
+		"iconColor"		"231 235 205 255"
 	}
 	
 	"DestroyIcon"	

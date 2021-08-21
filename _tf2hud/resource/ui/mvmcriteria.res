@@ -4,27 +4,27 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MvMTourOfDutyGroupBox"
-		
+		"xpos"		"0"
 		"ypos"		"10"
 		"zpos"		"-1"
 		"wide"		"400"
 		"tall"		"225"
 
 		"NavToRelay"	"TourlistGroupBox"
-		//"navUp"			"MvMSelectChallengeGroupBox"
-		//"navLeft"		"MvMSelectChallengeGroupBox"
-		//"navRight"		"PartyActiveGroupBox"
+		"NavUp"			"MvMSelectChallengeGroupBox"
+		"NavLeft"		"MvMSelectChallengeGroupBox"
+		"NavRight"		"PartyActiveGroupBox"
 
 		"ChallengeLabel"
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ChallengeLabel"
-			"font"			"HudFontMediumSmall"
+			"font"			"HudFontMediumSmallBold"
 			"labelText"		"#TF_MvM_TourOfDuty"
 			"textAlignment"	"south-west"
-			
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"0"
 			"wide"			"400"
 			"tall"			"26"
 			"fgcolor_override"	"250 114 45 255"
@@ -38,8 +38,8 @@
 			"labelText"		"#TF_MvM_Difficulty"
 			"textAlignment"	"south-west"
 			"xpos"			"189"
-			
-			
+			"ypos"			"0"
+			"zpos"			"0"
 			"wide"			"100"
 			"tall"			"24"
 			"fgcolor_override"	"250 114 45 255"
@@ -53,8 +53,8 @@
 			"labelText"		"#TF_MvM_TourOfDutyProgress"
 			"textAlignment"	"south-west"
 			"xpos"			"279"
-			
-			
+			"ypos"			"0"
+			"zpos"			"0"
 			"wide"			"80"
 			"tall"			"24"
 			"fgcolor_override"	"250 114 45 255"
@@ -68,8 +68,8 @@
 			"labelText"		"#TF_MvM_TourNumber"
 			"textAlignment"	"south-west"
 			"xpos"			"345"
-			
-			
+			"ypos"			"0"
+			"zpos"			"0"
 			"wide"			"80"
 			"tall"			"26"
 			"fgcolor_override"	"250 114 45 255"
@@ -79,13 +79,13 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"TourlistGroupBox"
-			
+			"xpos"			"0"
 			"ypos"			"28"
 			"zpos"			"-1"
 			"wide"			"400"
 			"tall"			"197"
 			"PaintBackgroundType"	"2"
-			//"paintbackground"		"1"
+			"paintbackground"		"1"
 			"bgcolor_override"	"0 0 0 200"
 			"border"		"QuickplayBorder"
 
@@ -95,8 +95,8 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"GreyOutPanel"
-				
-				
+				"xpos"			"0"
+				"ypos"			"0"
 				"zpos"			"200"
 				"wide"			"400"
 				"tall"			"225"
@@ -109,9 +109,9 @@
 				"ControlName"	"SectionedListPanel"
 				"fieldName"		"TourList"
 				"font"			"HudFontSmall"
-				
+				"xpos"			"0"
 				"ypos"			"5"
-				
+				"zpos"			"0"
 				"wide"			"400"
 				"tall"			"197"
 				"linespacing"	"12"
@@ -131,7 +131,7 @@
 			"tall"		"120"
 			"textAlignment"	"north-west"
 			"visible"	"1"
-			
+			"enabled"	"1"
 			"wrap"		"1"
 			"fgcolor_override"	"250 114 45 255"
 		}
@@ -141,13 +141,13 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MannUpTourLootDescriptionBox"
-		
+		"xpos"		"0"
 		"ypos"		"240"
 		"zpos"		"-1"
 		"wide"		"400"
 		"tall"		"120"
 		"PaintBackgroundType"	"2"
-		//"paintbackground"		"1"
+		"paintbackground"		"1"
 		"bgcolor_override"	"0 0 0 200"
 		"border"		"QuickplayBorder"
 
@@ -157,11 +157,11 @@
 			"fieldName"		"TourLootImage"
 			"xpos"			"280"
 			"ypos"			"6"
-			
+			"zpos"			"0"
 			"wide"			"110"
 			"tall"			"110"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"mouseinputenabled" "0"
 			"image"			"pve/mvm_loot_image"
 			"scaleImage"	"1"
@@ -171,12 +171,12 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ToorLootTitle"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_MvM_TourLootTitle"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"10"
 			"ypos"			"5"
-			
+			"zpos"			"0"
 			"wide"			"200"
 			"tall"			"30"
 		}
@@ -187,11 +187,11 @@
 			"fieldName"		"ToorLootDetailLabel"
 			"font"			"HudFontSmall"
 			"labelText"		"%tour_loot_detail%"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"wrap"			"1"
 			"xpos"			"10"
 			"ypos"			"30"
-			
+			"zpos"			"0"
 			"wide"			"280"
 			"tall"			"50"
 		}
@@ -201,7 +201,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MvMEconItemsGroupBox"
-		
+		"xpos"			"0"
 		"ypos"			"240"
 		"zpos"			"-1"
 		"wide"			"400"
@@ -210,20 +210,20 @@
 		"border"		"QuickplayBorder"
 
 		"NavToRelay"	"OpenHelpButton"
-		//"navUp"			"MvMTourOfDutyGroupBox"
+		"NavUp"			"MvMTourOfDutyGroupBox"
 		"NavDown"		"MvMPracticeGroupBox"
-		//"navRight"		"PartyActiveGroupBox"
+		"NavRight"		"PartyActiveGroupBox"
 
 		"InventoryTitleLabel"
 		{
 			"ControlName"	"Label"
 			"fieldName"		"InventoryTitleLabel"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_MvM_InventoryTitle"
 			"textAlignment"	"north-west"
 			"xpos"			"8"
 			"ypos"			"5"
-			
+			"zpos"			"0"
 			"wide"			"200"
 			"tall"			"30"
 		}
@@ -234,13 +234,13 @@
 			"fieldName"		"MannUpTicketAd"
 			"xpos"			"6"
 			"ypos"			"30"
-			
+			"zpos"			"0"
 			"wide"			"70"
 			"tall"			"40"
-			//"visible"		"1"
-			
-			//"mouseinputenabled" "1"
-			//"paintborder"	"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"mouseinputenabled" "1"
+			"paintborder"	"0"
 
 			"items"
 			{
@@ -260,7 +260,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"MannUpTicketCountLabel"
-			"font"			"HudFontMediumSecondary"
+			"font"			"HudFontMediumBold"
 			"labelText"		"%ticket_count%"
 			"textAlignment"	"north-west"
 			"fgcolor_override"	"201 79 57 255"
@@ -278,13 +278,13 @@
 			"fieldName"		"SquadSurplusTicketAd"
 			"xpos"			"73"
 			"ypos"			"30"
-			
+			"zpos"			"0"
 			"wide"			"70"
 			"tall"			"40"
-			//"visible"		"1"
-			
-			//"mouseinputenabled" "1"
-			//"paintborder"	"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"mouseinputenabled" "1"
+			"paintborder"	"0"
 
 			"items"
 			{
@@ -303,7 +303,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"SquadSurplusCountLabel"
-			"font"			"HudFontMediumSecondary"
+			"font"			"HudFontMediumBold"
 			"labelText"		"%voucher_count%"
 			"textAlignment"	"north-west"
 			"fgcolor_override"	"201 79 57 255"
@@ -325,20 +325,20 @@
 			"wide"		"25"
 			"tall"		"25"
 			"font"			"HudFontSmall"
-			"labeltext"		""
+			"labelText"		""
 		}
 
 		"ActivateSquadSurplusLabel"
 		{
 			"ControlName"	"Label"
 			"fieldName"		"SquadSurplusCheckLabel"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallestBold"
 			"labelText"		"#TF_MvM_ActivateSquadSurplus"
 			"textAlignment"	"north-west"
 			"wrap"			"1"
 			"xpos"			"33"
 			"ypos"			"70"
-			
+			"zpos"			"0"
 			"wide"			"120"
 			"tall"			"60"
 		}
@@ -349,7 +349,7 @@
 			"fieldName"		"Slot0"
 			"xpos"			"200"
 			"ypos"			"5"
-			
+			"zpos"			"0"
 			"wide"			"28"
 			"tall"			"200"
 
@@ -362,7 +362,7 @@
 			"fieldName"		"Slot1"
 			"xpos"			"200+30"
 			"ypos"			"5"
-			
+			"zpos"			"0"
 			"wide"			"28"
 			"tall"			"200"
 
@@ -375,7 +375,7 @@
 			"fieldName"		"Slot2"
 			"xpos"			"200+30+30"
 			"ypos"			"5"
-			
+			"zpos"			"0"
 			"wide"			"28"
 			"tall"			"200"
 
@@ -388,7 +388,7 @@
 			"fieldName"		"Slot3"
 			"xpos"			"200+30+30+30"
 			"ypos"			"5"
-			
+			"zpos"			"0"
 			"wide"			"28"
 			"tall"			"200"
 
@@ -401,7 +401,7 @@
 			"fieldName"		"Slot4"
 			"xpos"			"200+30+30+30+30"
 			"ypos"			"5"
-			
+			"zpos"			"0"
 			"wide"			"28"
 			"tall"			"200"
 
@@ -414,7 +414,7 @@
 			"fieldName"		"Slot5"
 			"xpos"			"200+30+30+30+30+30"
 			"ypos"			"5"
-			
+			"zpos"			"0"
 			"wide"			"28"
 			"tall"			"200"
 
@@ -430,8 +430,8 @@
 			"zpos"			"105"
 			"wide"			"35"
 			"tall"			"35"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"glyph_alert"
 			"scaleImage"	"1"
 			"mouseinputenabled"	"0"
@@ -443,14 +443,14 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"MissingTicketsLabel"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallestBold"
 			"fgcolor_override"	"TanDark"
 			"labelText"		"#TF_Matchmaking_CantQueue_NoTicket"
 			"textAlignment"	"south-west"
 			"wrap"			"1"
 			"xpos"			"235"
 			"ypos"			"rs1-5"
-			
+			"zpos"			"0"
 			"wide"			"165"
 			"tall"			"60"
 			"proportionaltoparent"	"1"
@@ -461,20 +461,20 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MvMPracticeGroupBox"
-		
+		"xpos"		"0"
 		"ypos"		"240"
 		"zpos"		"-1"
 		"wide"		"400"
 		"tall"		"120"
 		"PaintBackgroundType"	"2"
-		//"paintbackground"		"1"
+		"paintbackground"		"1"
 		"bgcolor_override"	"0 0 0 200"
 		"border"		"QuickplayBorder"
 
 		"NavToRelay"	"MannUpNowButton"
-		//"navUp"			"MvMEconItemsGroupBox"
+		"NavUp"			"MvMEconItemsGroupBox"
 		"NavDown"		"<<BackButton"
-		//"navRight"		"PartyActiveGroupBox"
+		"NavRight"		"PartyActiveGroupBox"
 
 		"NoMannUpImage"
 		{
@@ -482,11 +482,11 @@
 			"fieldName"		"NoMannUpImage"
 			"xpos"			"250"
 			"ypos"			"6"
-			
+			"zpos"			"0"
 			"wide"			"110"
 			"tall"			"110"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"mouseinputenabled" "0"
 			"image"			"pve/mvm_loot_image"
 			"scaleImage"	"1"
@@ -496,12 +496,12 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"NoMannUpTitleLabel"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"#TF_MvM_NoMannUpTitle"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"10"
 			"ypos"			"5"
-			
+			"zpos"			"0"
 			"wide"			"200"
 			"tall"			"30"
 		}
@@ -512,11 +512,11 @@
 			"fieldName"		"NoMannUpDescriptionLabel"
 			"font"			"HudFontSmall"
 			"labelText"		"#TF_MvM_NoMannUpDescription"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"wrap"			"1"
 			"xpos"			"10"
 			"ypos"			"30"
-			
+			"zpos"			"0"
 			"wide"			"280"
 			"tall"			"50"
 		}
@@ -530,16 +530,16 @@
 			"zpos"			"2"
 			"wide"			"120"
 			"tall"			"20"
-			
+			"autoResize"	"0"
 			"pinCorner"		"3"
-			//"visible"		"1"
-			
-			
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
 			"labelText"		"#TF_MvM_MannUpNow"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"command" "mann_up_now"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -550,25 +550,25 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MvMSelectChallengeGroupBox"
-		
+		"xpos"		"0"
 		"ypos"		"10"
 		"zpos"		"-1"
 		"wide"		"400"
 		"tall"		"225"
 
 		"NavToRelay"	"ChallengeListGroupBox"
-		//"navRight"		"MvMTourOfDutyGroupBox"
+		"NavRight"		"MvMTourOfDutyGroupBox"
 
 		"ChallengeLabel"
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ChallengeLabel"
-			"font"			"HudFontMediumSmall"
+			"font"			"HudFontMediumSmallBold"
 			"labelText"		"%tour_name%"
 			"textAlignment"	"south-west"
-			
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"0"
 			"wide"			"400"
 			"tall"			"26"
 			"fgcolor_override"	"250 114 45 255"
@@ -578,12 +578,12 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"CompleteLabel"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"%complete_heading%"
 			"textAlignment"	"south-west"
 			"xpos"			"264"
-			
-			
+			"ypos"			"0"
+			"zpos"			"0"
 			"wide"			"100"
 			"tall"			"24"
 			"fgcolor_override"	"250 114 45 255"
@@ -595,11 +595,11 @@
 			"fieldName"		"TourLevelImage"
 			"xpos"			"342"
 			"ypos"			"-10"
-			
+			"zpos"			"0"
 			"wide"			"60"
 			"tall"			"60"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"mouseinputenabled" "0"
 			"image"			"../hud/mvm_tours"
 			"scaleImage"	"1"
@@ -609,12 +609,12 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"TourLevelLabel"
-			"font"			"HudFontMediumSmall"
+			"font"			"HudFontMediumSmallBold"
 			"labelText"		"%tour_level%"
 			"textAlignment"	"south"
 			"xpos"			"357"
-			
-			
+			"ypos"			"0"
+			"zpos"			"0"
 			"wide"			"30"
 			"tall"			"26"
 			"fgcolor_override"	"0 0 0 255"
@@ -624,13 +624,13 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"ChallengeListGroupBox"
-			
+			"xpos"			"0"
 			"ypos"			"28"
 			"zpos"			"-1"
 			"wide"			"400"
 			"tall"			"197"
 			"PaintBackgroundType"	"2"
-			//"paintbackground"		"1"
+			"paintbackground"		"1"
 			"bgcolor_override"	"0 0 0 200"
 			"border"		"QuickplayBorder"
 
@@ -640,8 +640,8 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"GreyOutPanel"
-				
-				
+				"xpos"			"0"
+				"ypos"			"0"
 				"zpos"			"200"
 				"wide"			"400"
 				"tall"			"225"
@@ -656,7 +656,7 @@
 				"font"			"HudFontSmall"
 				"xpos"			"70"
 				"ypos"			"5"
-				
+				"zpos"			"0"
 				"wide"			"330"
 				"tall"			"192"
 				"linespacing"	"12"

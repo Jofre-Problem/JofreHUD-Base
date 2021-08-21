@@ -9,12 +9,12 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"480"
-		//"visible"		"1"
+		"visible"		"1"
 		"bgcolor_override"		"50 50 50 200"
 	}
 	
@@ -31,13 +31,13 @@
 		{
 			"ControlName"	"ScalableImagePanel"
 			"fieldName"		"BaseMapImage"
-			
+			"xpos"			"0"
 			"ypos"			"-68"
 			"zpos"			"-1"
 			"wide"			"480"
 			"tall"			"480"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"mvm/campaign_1_map"
 		}
 	}
@@ -50,20 +50,20 @@
 		"ypos"			"35"
 		"wide"			"300"
 		"tall"			"30"
-		//"visible"		"1"
+		"visible"		"1"
 			
 		"TourLabelBackground"
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"TourLabelBackground"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"wide"			"300"
 			"tall"			"30"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"../HUD/color_panel_blu"
 
 			"src_corner_height"	"22"				// pixels inside the image
@@ -80,11 +80,11 @@
 			"font"			"HudFontMediumSmall"
 			"labelText"		"Tour of Duty 1"
 			"textAlignment" "center"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"wide"			"300"
 			"tall"			"30"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"tanlight"
 		}
 	}
 	
@@ -92,7 +92,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ToolTipPanel"
-		
+		"xpos"			"0"
 		"ypos"			"300"
 		"wide"			"180"
 		"tall"			"180"
@@ -102,15 +102,15 @@
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"Background"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"180"
 			"tall"			"180"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"../HUD/tournament_panel_brown"
 
 			"src_corner_height"	"22"				// pixels inside the image
@@ -124,14 +124,14 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"DescriptionLabel"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"%tooltipdescription%"
 			"textAlignment" "center"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"wide"			"180"
 			"tall"			"180"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"tanlight"
 		}
 	}
 	
@@ -149,8 +149,8 @@
 		"ypos"			"300"
 		"wide"			"60"
 		"tall"			"60"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		
 		"mapitem_kv"
 		{
@@ -167,8 +167,8 @@
 		"ypos"			"200"
 		"wide"			"60"
 		"tall"			"60"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		
 		"mapitem_kv"
 		{

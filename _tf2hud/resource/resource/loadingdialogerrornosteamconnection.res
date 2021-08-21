@@ -31,21 +31,7 @@
 		
 		"progress"		"0.000000"
 	}
-	"Progress2"
-	{
-		"ControlName"		"ProgressBar"
-		"fieldName"		"Progress2"
-		
-		//"ypos"		"0"
-		"wide"		"64"
-		"tall"		"24"
-		
-		
-		"visible"		"0"
-		
-		
-		"progress"		"0.000000"
-	}
+
 	"infolabel"
 	{
 		"ControlName"		"Label"

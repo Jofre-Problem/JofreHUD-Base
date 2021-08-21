@@ -9,7 +9,7 @@
 		"wide"			"150"
 		"tall"			"67"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"border"		"TFFatLineBorderOpaque"
 				
 		"PassedIcon"
@@ -20,8 +20,8 @@
 			"ypos"			"10"
 			"wide"			"17"
 			"tall"			"17"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"scaleImage"	"1"
 			"image"			"hud/vote_yes"
 		}
@@ -34,15 +34,15 @@
 			"ypos"			"10"
 			"wide"			"98"
 			"tall"			"17"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"#GameUI_vote_passed"
-			//"textAlignment"	"west"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"textAlignment"	"west"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
 			"wrap"			"1"
-			"fgcolor_override"	"HUDWhite"
+			"fgcolor_override"	"255 255 255 255"
 		}
 		
 		"PassedResult"
@@ -53,15 +53,15 @@
 			"ypos"			"29"
 			"wide"			"130"
 			"tall"			"40"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"%passedresult%"
 			"textAlignment"	"north-west"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
-			"fgcolor_override"	"HUDWhite"
+			"fgcolor_override"	"255 255 255 255"
 			"noshortcutsyntax" "1"
 		}		
 	}
@@ -75,7 +75,7 @@
 		"wide"			"150"
 		"tall"			"144"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"border"		"TFFatLineBorderOpaque"
 		
 		"Header"
@@ -86,12 +86,12 @@
 			"ypos"			"5"
 			"wide"			"130"
 			"tall"			"20"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"%header%"
 			"textAlignment"		"north-west"
-			////"dulltext"		"0"
-			////"brighttext"		"0"
+			"dulltext"		"0"
+			"brighttext"		"0"
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
 			"fgcolor_override"	"128 128 128 255"
@@ -105,14 +105,14 @@
 			"ypos"			"22"
 			"wide"			"120"
 			"tall"			"40"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"%voteissue%"
 			"textAlignment"	"north-west"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
-			"fgcolor_override"	"HUDWhite"
+			"fgcolor_override"	"255 255 255 255"
 			"wrap"			"1"
 			"noshortcutsyntax" "1"
 		}
@@ -126,8 +126,8 @@
 			"wide"			"16"
 			"tall"			"16"
 			"visible"		"0"
-			
-			//"image"			""
+			"enabled"		"1"
+			"image"			""
 			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
 		}
@@ -142,7 +142,7 @@
 			"wide"			"130"
 			"tall"			"1"
 			"fillcolor"		"128 128 128 255"
-			
+			"zpos"			"0"
 		}
 		
 		// Temp UI
@@ -156,14 +156,14 @@
 			"wide"			"130"
 			"tall"			"16"
 			"zpos"			"2"
-			//"visible"		"1"
-			
-			"labeltext"		""
+			"visible"		"1"
+			"enabled"		"1"
+			"labelText"		""
 			"textAlignment"	"left"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"HUDWhite"
+			"fgcolor_override"	"255 255 255 255"
 		}
 		
 		"Option1Background_Selected"
@@ -176,7 +176,7 @@
 			"tall"			"16"
 			"zpos"			"1"
 			"fillcolor"		"88 119 140 180"
-			//"visible"		"1"
+			"visible"		"1"
 		}
 		
 		"Option1CountLabel"
@@ -188,14 +188,14 @@
 			"wide"			"16"
 			"tall"			"16"
 			"zpos"			"2"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"Yes"
 			"textAlignment"	"center"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
-			"fgcolor_override"	"HUDWhite"
+			"fgcolor_override"	"255 255 255 255"
 		}
 		
 		"LabelOption2"
@@ -207,14 +207,14 @@
 			"wide"			"130"
 			"tall"			"16"
 			"zpos"			"2"
-			//"visible"		"1"
-			
-			"labeltext"		""
+			"visible"		"1"
+			"enabled"		"1"
+			"labelText"		""
 			"textAlignment"	"left"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"HUDWhite"
+			"fgcolor_override"	"255 255 255 255"
 		}
 		
 		"Option2Background_Selected"
@@ -227,7 +227,7 @@
 			"tall"			"16"
 			"zpos"			"1"
 			"fillcolor"		"88 119 140 180"
-			//"visible"		"1"
+			"visible"		"1"
 		}
 		
 		"Option2CountLabel"
@@ -239,14 +239,14 @@
 			"wide"			"16"
 			"tall"			"16"
 			"zpos"			"2"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"No"
 			"textAlignment"	"center"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
-			"fgcolor_override"	"HUDWhite"
+			"fgcolor_override"	"255 255 255 255"
 		}
 		
 		"LabelOption3"
@@ -258,14 +258,14 @@
 			"wide"			"130"
 			"tall"			"16"
 			"zpos"			"2"
-			//"visible"		"1"
-			
-			"labeltext"		""
+			"visible"		"1"
+			"enabled"		"1"
+			"labelText"		""
 			"textAlignment"	"left"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"HUDWhite"
+			"fgcolor_override"	"255 255 255 255"
 		}
 		
 		"Option3Background_Selected"
@@ -290,14 +290,14 @@
 			"wide"			"130"
 			"tall"			"16"
 			"zpos"			"2"
-			//"visible"		"1"
-			
-			"labeltext"		""
+			"visible"		"1"
+			"enabled"		"1"
+			"labelText"		""
 			"textAlignment"	"left"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"HUDWhite"
+			"fgcolor_override"	"255 255 255 255"
 		}
 		
 		"Option4Background_Selected"
@@ -322,14 +322,14 @@
 			"wide"			"130"
 			"tall"			"16"
 			"zpos"			"2"
-			//"visible"		"1"
-			
-			"labeltext"		""
+			"visible"		"1"
+			"enabled"		"1"
+			"labelText"		""
 			"textAlignment"	"left"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"HUDWhite"
+			"fgcolor_override"	"255 255 255 255"
 		}
 		
 		"Option5Background_Selected"
@@ -355,7 +355,7 @@
 			"wide"			"130"
 			"tall"			"1"
 			"fillcolor"		"128 128 128 255"
-			
+			"zpos"			"0"
 		}
 		
 		"VoteCountLabel"
@@ -366,12 +366,12 @@
 			"ypos"			"100"
 			"wide"			"140"
 			"tall"			"20"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"#GameUI_vote_current_vote_count"
 			"textAlignment"	"north-west"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"128 128 128 255"
 		}
@@ -386,8 +386,8 @@
 			"wide"			"130"
 			"tall"			"18"
 			"zpos"			"2"
-			//"visible"		"1"
-						
+			"visible"		"1"
+			"enabled"		"1"			
 			"box_size"		"16"
 			"spacer"		"6"
 			"box_inset"		"1"
@@ -406,7 +406,7 @@
 		"wide"			"150"
 		"tall"			"67"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"border"		"TFFatLineBorderOpaque"
 				
 		"FailedIcon"
@@ -417,8 +417,8 @@
 			"ypos"			"10"
 			"wide"			"17"
 			"tall"			"17"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"scaleImage"	"1"
 			"image"			"hud/vote_no"
 		}
@@ -431,12 +431,12 @@
 			"ypos"			"10"
 			"wide"			"80"
 			"tall"			"17"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"#GameUI_vote_failed"
-			//"textAlignment"	"west"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"textAlignment"	"west"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
 			"wrap"			"1"
 			"fgcolor_override"	"200 30 30 255"
@@ -450,15 +450,15 @@
 			"ypos"			"29"
 			"wide"			"140"
 			"tall"			"40"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"%FailedReason%"
 			"textAlignment"	"north-west"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
-			"fgcolor_override"	"HUDWhite"
+			"fgcolor_override"	"255 255 255 255"
 		}		
 	}
 	
@@ -472,7 +472,7 @@
 		"wide"			"150"
 		"tall"			"67"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"border"		"TFFatLineBorderOpaque"
 				
 		"FailedIcon"
@@ -483,8 +483,8 @@
 			"ypos"			"10"
 			"wide"			"17"
 			"tall"			"17"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"scaleImage"	"1"
 			"image"			"hud/vote_no"
 		}
@@ -497,12 +497,12 @@
 			"ypos"			"10"
 			"wide"			"98"
 			"tall"			"17"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"#GameUI_vote_failed"
-			//"textAlignment"	"west"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"textAlignment"	"west"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
 			"wrap"			"1"
 			"fgcolor_override"	"200 30 30 255"
@@ -516,15 +516,15 @@
 			"ypos"			"29"
 			"wide"			"130"
 			"tall"			"40"
-			//"visible"		"1"
-			
-			"labeltext"		""
+			"visible"		"1"
+			"enabled"		"1"
+			"labelText"		""
 			"textAlignment"	"north-west"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
-			"fgcolor_override"	"HUDWhite"
+			"fgcolor_override"	"255 255 255 255"
 		}		
 	}
 	
@@ -536,14 +536,14 @@
 		"ypos"				"c-150"
 		"wide"				"400"
 		"tall"				"310"
-		
-		
-		//"visible"			"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"			"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"tabPosition"		"0"
 		"settitlebarvisible"	"0"
 		"border"			"TFFatLineBorderOpaque"
-		"bgcolor_override"	"Blank"
+		"bgcolor_override"	"0 0 0 0"
 		"PaintBackground"	"0"
 
 		"header_font"		"ItemFontNameLarge"
@@ -560,18 +560,18 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontMediumSecondary"
+			"font"			"HudFontMediumBold"
 			"labelText"		"#TF_Vote_Title"
 			"textAlignment"	"north"
-			
+			"xpos"			"0"
 			"ypos"			"10"
 			"wide"			"400"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			//"wrap"			"0"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"wrap"			"0"
 		}
 									
 		"VoteSetupList"
@@ -583,11 +583,11 @@
 			"zpos"		"2"
 			"wide"		"180"
 			"tall"		"200"
-			
-			//"visible"		"1"
-			
-			
-			
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"autoresize"	"0"
 			
 			"linespacing"	"16"
 		}
@@ -601,11 +601,11 @@
 			"zpos"		"2"
 			"wide"		"200"
 			"tall"		"200"
-			
-			//"visible"		"1"
-			
-			
-			
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"autoresize"	"0"
 			"linespacing"	"16"
 		}
 
@@ -613,7 +613,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"ComboLabel"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallestBold"
 			"labelText"		"%combo_label%"
 			"textAlignment"	"east"
 			"xpos"			"5"
@@ -622,32 +622,32 @@
 			"wide"			"75"
 			"tall"			"20"
 			"autoResize"	"1"
-			
-			//"visible"		"1"
-			
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 		}
 		"ComboBox"
 		{
 			"ControlName"		"ComboBox"
 			"fieldName"			"ComboBox"
-			"Font"				"HudFontSmallest"
+			"Font"				"HudFontSmallestBold"
 			"xpos"				"85"
 			"ypos"				"245"
 			"zpos"				"1"
 			"wide"				"235"
 			"tall"				"20"
-			
-			
-			//"visible"			"1"
-			
+			"autoResize"		"0"
+			"pinCorner"			"0"
+			"visible"			"1"
+			"enabled"			"1"
 			"tabPosition"		"1"
-			//"textHidden"		"0"
+			"textHidden"		"0"
 			"editable"			"0"
 			"maxchars"			"-1"
 			"NumericInputOnly"	"0"
-			//"unicode"			"0"
+			"unicode"			"0"
 			
-			"fgcolor_override"	"TanDark"
+			"fgcolor_override"	"117 107 94 255"
 			"bgcolor_override"	"251 235 202 255"
 			"disabledFgColor_override" "117 107 94 255"
 			"disabledBgColor_override" "251 235 202 255"
@@ -664,18 +664,18 @@
 			"ypos"		"275"
 			"wide"		"160"
 			"tall"		"24"
-			
+			"autoResize"	"0"
 			"pinCorner"		"3"
-			//"visible"		"1"
+			"visible"		"1"
 			"enabled"		"0"
 			"tabPosition"	"4"
 			"labelText"		"#TF_call_vote"
 			"textAlignment"	"center"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"Command"		"CallVote"
 			"Default"		"0"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 		}
 		"Button1"
 		{
@@ -685,18 +685,18 @@
 			"ypos"		"275"
 			"wide"		"80"
 			"tall"		"24"
-			
+			"autoResize"	"0"
 			"pinCorner"		"3"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"tabPosition"	"4"
 			"labelText"		"#GameUI_Close"
 			"textAlignment"	"center"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"Command"		"Close"
 			"Default"		"0"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 		}
 	}
 }

@@ -8,11 +8,11 @@
 		"ypos"		"c-200"
 		"wide"		"600"
 		"tall"		"400"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"settitlebarvisible"		"0"
 		"border"				"SteamWorkshopBorder"
 	}
@@ -21,16 +21,16 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
-		
-		//"ypos"		"0"
+		"xpos"		"0"
+		"ypos"		"0"
 		"zpos"		"-100"
 		"wide"		"600"
 		"tall"		"400"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"bgcolor_override"	"0 0 0 255"
 	}
 
@@ -38,13 +38,13 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"WorkshopBG"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"-100"
 		"wide"			"600"
 		"tall"			"400"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"workshop_sandvich_top"
 		"scaleImage"	"1"
 	}
@@ -53,15 +53,15 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BackgroundBottom"
-		
+		"xpos"		"0"
 		"ypos"		"355"
 		"wide"		"600"
 		"tall"		"45"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"bgcolor_override"	"57 52 49 255"
 	}
 
@@ -73,17 +73,17 @@
 		"ypos"		"15"
 		"wide"		"250"
 		"tall"		"25"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_ImportFile_Title"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
-		"font"		"HudFontMediumSecondary"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+		"font"		"HudFontMediumBold"
 	}
 
 	"NameLabel"
@@ -91,20 +91,20 @@
 		"ControlName"		"Label"
 		"fieldName"		"NameLabel"
 		"xpos"		"5"
-		//"ypos"		"0"
+		"ypos"		"0"
 		"wide"		"200"
 		"tall"		"20"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_ImportFile_NameLabel"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
-		"font"		"HudFontSmallest"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+		"font"		"HudFontSmallestBold"
 	}
 
 	"Name"
@@ -115,15 +115,15 @@
 		"ypos"		"20"
 		"wide"		"190"
 		"tall"		"20"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"128"
-		//"NumericInputOnly"		"0"
+		"NumericInputOnly"		"0"
 		"unicode"		"1"
 		"fgcolor_override"	"0 0 0 255"
 		"bgcolor_override"	"235 226 202 255"
@@ -139,32 +139,32 @@
 		"ypos"		"43"
 		"wide"		"150"
 		"tall"		"20"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_ImportFile_TypeLabel"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
-		"font"		"HudFontSmallest"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+		"font"		"HudFontSmallestBold"
 	}
 
 	"TypeComboBox"
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"			"TypeComboBox"
-		"Font"				"HudFontSmallest"
+		"Font"				"HudFontSmallestBold"
 		"xpos"				"5"
 		"ypos"				"63"
 		"wide"				"190"
 		"tall"				"20"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"			"0"
 		"editable"			"0"
-		//"visible"			"1"
+		"visible"			"1"
 	}
 
 	"EquipRegionPanel"
@@ -175,45 +175,45 @@
 		"ypos"				"85"
 		"wide"				"190"
 		"tall"				"40"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"			"0"
 		"editable"			"0"
-		//"visible"			"1"
+		"visible"			"1"
 
 		"EquipRegionLabel"
 		{
 			"ControlName"		"Label"
 			"fieldName"		"EquipRegionLabel"
-			
-			//"ypos"		"0"
+			"xpos"		"0"
+			"ypos"		"0"
 			"wide"		"150"
 			"tall"		"20"
-			
-			
-			//"visible"		"1"
-			
-			
+			"autoResize"		"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"		"0"
 			"labelText"		"#TF_ImportFile_EquipRegionLabel"
-			//"textAlignment"		"west"
-			////"dulltext"		"0"
-			////"brighttext"		"0"
-			//"wrap"		"0"
-			"font"		"HudFontSmallest"
+			"textAlignment"		"west"
+			"dulltext"		"0"
+			"brighttext"		"0"
+			"wrap"		"0"
+			"font"		"HudFontSmallestBold"
 		}
 
 		"EquipRegionComboBox"
 		{
 			"ControlName"		"ComboBox"
 			"fieldName"			"EquipRegionComboBox"
-			"Font"				"HudFontSmallest"
-			//"xpos"				"0"
+			"Font"				"HudFontSmallestBold"
+			"xpos"				"0"
 			"ypos"				"20"
 			"wide"				"190"
 			"tall"				"20"
-			
-			
+			"autoResize"		"0"
+			"pinCorner"			"0"
 			"editable"			"0"
-			//"visible"			"1"
+			"visible"			"1"
 		}
 	}
 
@@ -222,20 +222,20 @@
 		"ControlName"		"Label"
 		"fieldName"		"WorkshopIDLabel"
 		"xpos"		"205"
-		//"ypos"		"0"
+		"ypos"		"0"
 		"wide"		"200"
 		"tall"		"20"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_ImportFile_WorkshopIDLabel"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
-		"font"		"HudFontSmallest"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+		"font"		"HudFontSmallestBold"
 	}
 
 	"WorkshopIDTextEntry"
@@ -246,13 +246,13 @@
 		"ypos"		"20"
 		"wide"		"190"
 		"tall"		"20"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"128"
 		"NumericInputOnly"		"1"
 		"unicode"		"1"
@@ -270,17 +270,17 @@
 		"ypos"		"43"
 		"wide"		"200"
 		"tall"		"20"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"TF_English Name"
-		//"textAlignment"		"west"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
-		"font"		"HudFontSmallest"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+		"font"		"HudFontSmallestBold"
 	}
 
 	"TFEnglishNameTextEntry"
@@ -291,15 +291,15 @@
 		"ypos"		"63"
 		"wide"		"190"
 		"tall"		"20"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"128"
-		//"NumericInputOnly"		"0"
+		"NumericInputOnly"		"0"
 		"unicode"		"1"
 		"fgcolor_override"	"0 0 0 255"
 		"bgcolor_override"	"235 226 202 255"
@@ -313,17 +313,17 @@
 		"fieldName"		"PerforceCheckButton"
 		"labelText"		"Perforce"
 		"Font"			"HudFontSmallest"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"xpos"			"245" 
 		"ypos"			"85"
 		"wide"			"80"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"border"		"SteamWorkshopBorder"
 	}
 
@@ -333,23 +333,23 @@
 		"fieldName"		"PartnerCheckButton"
 		"labelText"		"Partner"
 		"Font"			"HudFontSmallest"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"xpos"			"325" 
 		"ypos"			"85"
 		"wide"			"80"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"border"		"SteamWorkshopBorder"
 	}
 
 	"IconPanel"
 	{
-		//"visible"		"1"
+		"visible"		"1"
 
 		"ControlName"	"EditablePanel"
 		"fieldName"		"IconPanel"
@@ -369,14 +369,14 @@
 			"zpos"			"2"
 			"wide"			"15"
 			"tall"			"15"
-			
+			"autoResize"	"0"
 			"pinCorner"		"3"
 			"textinsetx"	"15"
 			"use_proportional_insets" "1"
-			"font"			"HudFontSmallest"
-			//"textAlignment"	"west"
+			"font"			"HudFontSmallestBold"
+			"textAlignment"	"west"
 				
-			"labeltext"		""
+			"labelText"		""
 			"command"		"ClearIcon"				
 				
 			"image_drawcolor"	"235 226 202 255"
@@ -405,14 +405,14 @@
 			"zpos"			"2"
 			"wide"			"19"
 			"tall"			"15"
-			
+			"autoResize"	"0"
 			"pinCorner"		"3"
 			"textinsetx"	"15"
 			"use_proportional_insets" "1"
-			"font"			"HudFontSmallest"
-			//"textAlignment"	"west"
+			"font"			"HudFontSmallestBold"
+			"textAlignment"	"west"
 				
-			"labeltext"		""
+			"labelText"		""
 			"command"		"BrowseIcon"					
 				
 			"image_drawcolor"	"235 226 202 255"
@@ -436,8 +436,8 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"Icon"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"190"
 			"tall"			"122"
@@ -448,21 +448,21 @@
 			"ControlName"		"Label"
 			"fieldName"		"IconLabel"
 			"xpos"		"4"
-			//"ypos"		"0"
+			"ypos"		"0"
 			"zpos"		"2"
 			"wide"		"105"
 			"tall"		"15"
-			
-			
-			//"visible"		"1"
-			
-			
+			"autoResize"		"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"		"0"
 			"labelText"		"#TF_ImportFile_IconLabel"
-			//"textAlignment"		"west"
-			////"dulltext"		"0"
-			////"brighttext"		"0"
-			//"wrap"		"0"
-			"font"		"HudFontSmallest"
+			"textAlignment"		"west"
+			"dulltext"		"0"
+			"brighttext"		"0"
+			"wrap"		"0"
+			"font"		"HudFontSmallestBold"
 		}
 	}
 	
@@ -474,7 +474,7 @@
 		"ypos"			"130"
 		"wide"			"70"
 		"tall"			"219"
-		//"visible"		"1"
+		"visible"		"1"
 		"paintbackground" "0"
 		"border"				"SteamWorkshopBorder"
 
@@ -486,17 +486,17 @@
 			"ypos"		"-3"
 			"wide"		"100"
 			"tall"		"25"
-			
-			
-			//"visible"		"1"
-			
-			
+			"autoResize"		"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"		"0"
 			"labelText"		"#TF_ImportFile_Models"
-			//"textAlignment"		"west"
-			////"dulltext"		"0"
-			////"brighttext"		"0"
-			//"wrap"		"0"
-			"font"		"HudFontSmallest"
+			"textAlignment"		"west"
+			"dulltext"		"0"
+			"brighttext"		"0"
+			"wrap"		"0"
+			"font"		"HudFontSmallestBold"
 		}
 
 		"ClassHighlight1"
@@ -725,8 +725,8 @@
 		"ypos"			"130"
 		"wide"			"90"
 		"tall"			"219"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"paintbackground" "0"
 		"border"				"SteamWorkshopBorder"
 
@@ -738,37 +738,37 @@
 			"ypos"		"-3"
 			"wide"		"100"
 			"tall"		"25"
-			
-			
-			//"visible"		"1"
-			
-			
+			"autoResize"		"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"		"0"
 			"labelText"		"#TF_ImportFile_Bodygroups"
-			//"textAlignment"		"west"
-			////"dulltext"		"0"
-			////"brighttext"		"0"
-			//"wrap"		"0"
-			"font"		"HudFontSmallest"
+			"textAlignment"		"west"
+			"dulltext"		"0"
+			"brighttext"		"0"
+			"wrap"		"0"
+			"font"		"HudFontSmallestBold"
 		}
 
 		"Bodygroup0"
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"Bodygroup0"
-			"labeltext"		""
+			"labelText"		""
 			"Font"			"HudFontSmallest"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"18"
 			"wide"			"150"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
 			"enabled"		"0"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 			"command"		"UpdateBodygroup"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -777,20 +777,20 @@
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"Bodygroup1"
-			"labeltext"		""
+			"labelText"		""
 			"Font"			"HudFontSmallest"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"38"
 			"wide"			"150"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
 			"enabled"		"0"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 			"command"		"UpdateBodygroup"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -799,20 +799,20 @@
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"Bodygroup2"
-			"labeltext"		""
+			"labelText"		""
 			"Font"			"HudFontSmallest"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"58"
 			"wide"			"150"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
 			"enabled"		"0"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 			"command"		"UpdateBodygroup"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -821,20 +821,20 @@
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"Bodygroup3"
-			"labeltext"		""
+			"labelText"		""
 			"Font"			"HudFontSmallest"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"78"
 			"wide"			"150"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
 			"enabled"		"0"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 			"command"		"UpdateBodygroup"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -843,20 +843,20 @@
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"Bodygroup4"
-			"labeltext"		""
+			"labelText"		""
 			"Font"			"HudFontSmallest"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"98"
 			"wide"			"150"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
 			"enabled"		"0"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 			"command"		"UpdateBodygroup"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -865,20 +865,20 @@
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"Bodygroup5"
-			"labeltext"		""
+			"labelText"		""
 			"Font"			"HudFontSmallest"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"118"
 			"wide"			"150"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
 			"enabled"		"0"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 			"command"		"UpdateBodygroup"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -887,20 +887,20 @@
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"Bodygroup6"
-			"labeltext"		""
+			"labelText"		""
 			"Font"			"HudFontSmallest"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"138"
 			"wide"			"150"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
 			"enabled"		"0"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 			"command"		"UpdateBodygroup"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -909,20 +909,20 @@
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"Bodygroup7"
-			"labeltext"		""
+			"labelText"		""
 			"Font"			"HudFontSmallest"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"158"
 			"wide"			"150"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
 			"enabled"		"0"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 			"command"		"UpdateBodygroup"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -931,20 +931,20 @@
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"Bodygroup8"
-			"labeltext"		""
+			"labelText"		""
 			"Font"			"HudFontSmallest"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"178"
 			"wide"			"150"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
 			"enabled"		"0"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 			"command"		"UpdateBodygroup"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -958,18 +958,18 @@
 		"ypos"			"130"
 		"wide"			"150"
 		"tall"			"270"
-		//"visible"		"1"
+		"visible"		"1"
 		"paintbackground" "0"
 	
 		"LOD0Panel"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"LOD0Panel"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"wide"			"150"
 			"tall"			"50"
-			//"visible"		"1"
+			"visible"		"1"
 			"paintbackground" "0"
 			"border"				"SteamWorkshopBorder"
 
@@ -982,11 +982,11 @@
 				"ypos"		"-3"
 				"wide"		"150"
 				"tall"		"25"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"		"0"
 				"labelText"		"#TF_ImportFile_LOD0"
-				//"textAlignment"		"west"
-				"font"		"HudFontSmallest"
+				"textAlignment"		"west"
+				"font"		"HudFontSmallestBold"
 			}
 			"ButtonLOD0Clear"
 			{
@@ -996,14 +996,14 @@
 				"ypos"			"2"
 				"wide"			"15"
 				"tall"			"15"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallest"
-				//"textAlignment"	"west"
+				"font"			"HudFontSmallestBold"
+				"textAlignment"	"west"
 				
-				"labeltext"		""
+				"labelText"		""
 				"command"		"ClearLOD0"				
 				
 				"image_drawcolor"	"235 226 202 255"
@@ -1030,14 +1030,14 @@
 				"ypos"			"2"
 				"wide"			"19"
 				"tall"			"15"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallest"
-				//"textAlignment"	"west"
+				"font"			"HudFontSmallestBold"
+				"textAlignment"	"west"
 				
-				"labeltext"		""
+				"labelText"		""
 				"command"		"BrowseLOD0"				
 				
 				"image_drawcolor"	"235 226 202 255"
@@ -1064,8 +1064,8 @@
 				"ypos"		"20"
 				"wide"		"150"
 				"tall"		"15"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"		"0"
 				"labelText"			"#TF_PublishFile_NoFileSelected"
 				"font"		"HudFontSmallest"
 			}
@@ -1077,8 +1077,8 @@
 				"ypos"		"35"
 				"wide"		"150"
 				"tall"		"15"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"		"0"
 				"labelText"			""
 				"font"		"HudFontSmallest"
 			}
@@ -1088,11 +1088,11 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"LOD1Panel"
-			
+			"xpos"			"0"
 			"ypos"			"60"
 			"wide"			"150"
 			"tall"			"50"
-			//"visible"		"1"
+			"visible"		"1"
 			"paintbackground" "0"
 			"border"				"SteamWorkshopBorder"
 
@@ -1104,11 +1104,11 @@
 				"ypos"		"-3"
 				"wide"		"150"
 				"tall"		"25"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"		"0"
 				"labelText"		"#TF_ImportFile_LOD1"
-				//"textAlignment"		"west"
-				"font"		"HudFontSmallest"
+				"textAlignment"		"west"
+				"font"		"HudFontSmallestBold"
 				"enabled"		"0"
 			}
 			"ButtonLOD1Clear"
@@ -1119,15 +1119,15 @@
 				"ypos"			"2"
 				"wide"			"15"
 				"tall"			"15"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallest"
-				//"textAlignment"	"west"
+				"font"			"HudFontSmallestBold"
+				"textAlignment"	"west"
 				"enabled"		"0"
 				
-				"labeltext"		""
+				"labelText"		""
 				"command"		"ClearLOD1"				
 				
 				"image_drawcolor"	"235 226 202 255"
@@ -1154,15 +1154,15 @@
 				"ypos"			"2"
 				"wide"			"19"
 				"tall"			"15"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallest"
-				//"textAlignment"	"west"
+				"font"			"HudFontSmallestBold"
+				"textAlignment"	"west"
 				"enabled"		"0"
 				
-				"labeltext"		""
+				"labelText"		""
 				"command"		"BrowseLOD1"				
 				
 				"image_drawcolor"	"235 226 202 255"
@@ -1189,8 +1189,8 @@
 				"ypos"		"20"
 				"wide"		"150"
 				"tall"		"15"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"		"0"
 				"labelText"			"#TF_PublishFile_NoFileSelected"
 				"font"		"HudFontSmallest"
 				"enabled"		"0"
@@ -1203,8 +1203,8 @@
 				"ypos"		"35"
 				"wide"		"150"
 				"tall"		"15"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"		"0"
 				"labelText"			""
 				"font"		"HudFontSmallest"
 				"enabled"		"0"
@@ -1215,11 +1215,11 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"LOD2Panel"
-			
+			"xpos"			"0"
 			"ypos"			"120"
 			"wide"			"150"
 			"tall"			"50"
-			//"visible"		"1"
+			"visible"		"1"
 			"paintbackground" "0"
 			"border"				"SteamWorkshopBorder"
 
@@ -1231,11 +1231,11 @@
 				"ypos"		"-3"
 				"wide"		"150"
 				"tall"		"25"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"		"0"
 				"labelText"		"#TF_ImportFile_LOD2"
-				//"textAlignment"		"west"
-				"font"		"HudFontSmallest"
+				"textAlignment"		"west"
+				"font"		"HudFontSmallestBold"
 				"enabled"		"0"
 			}
 			"ButtonLOD2Clear"
@@ -1246,15 +1246,15 @@
 				"ypos"			"2"
 				"wide"			"15"
 				"tall"			"15"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallest"
-				//"textAlignment"	"west"
+				"font"			"HudFontSmallestBold"
+				"textAlignment"	"west"
 				"enabled"		"0"
 				
-				"labeltext"		""
+				"labelText"		""
 				"command"		"ClearLOD2"				
 				
 				"image_drawcolor"	"235 226 202 255"
@@ -1281,15 +1281,15 @@
 				"ypos"			"2"
 				"wide"			"19"
 				"tall"			"15"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallest"
-				//"textAlignment"	"west"
+				"font"			"HudFontSmallestBold"
+				"textAlignment"	"west"
 				"enabled"		"0"
 				
-				"labeltext"		""
+				"labelText"		""
 				"command"		"BrowseLOD2"				
 				
 				"image_drawcolor"	"235 226 202 255"
@@ -1316,8 +1316,8 @@
 				"ypos"		"20"
 				"wide"		"150"
 				"tall"		"15"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"		"0"
 				"labelText"			"#TF_PublishFile_NoFileSelected"
 				"font"		"HudFontSmallest"
 				"enabled"		"0"
@@ -1330,8 +1330,8 @@
 				"ypos"		"35"
 				"wide"		"150"
 				"tall"		"15"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"		"0"
 				"labelText"			""
 				"font"		"HudFontSmallest"
 				"enabled"		"0"
@@ -1342,24 +1342,24 @@
 		{
 			"ControlName"		"Button"
 			"fieldName"		"ButtonEditQC"
-			
+			"xpos"			"0"
 			"ypos"			"195"
 			"zpos"			"1"
 			"wide"			"92"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
 			"labelText"		"#TF_ImportFile_EditQC"
 			"textAlignment"	"center"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			//"wrap"			"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"wrap"			"0"
 			"Command"		"EditQC"
 			"Default"		"0"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallestBold"
 		}
 	}
 
@@ -1371,7 +1371,7 @@
 		"ypos"			"130"
 		"wide"			"190"
 		"tall"			"219"
-		//"visible"		"1"
+		"visible"		"1"
 		"paintbackground" "0"
 		"border"				"SteamWorkshopBorder"
 		
@@ -1383,17 +1383,17 @@
 			"ypos"		"-3"
 			"wide"		"100"
 			"tall"		"25"
-			
-			
-			//"visible"		"1"
-			
-			
+			"autoResize"		"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"		"0"
 			"labelText"		"#TF_ImportFile_Skins"
-			//"textAlignment"		"west"
-			////"dulltext"		"0"
-			////"brighttext"		"0"
-			//"wrap"		"0"
-			"font"		"HudFontSmallest"
+			"textAlignment"		"west"
+			"dulltext"		"0"
+			"brighttext"		"0"
+			"wrap"		"0"
+			"font"		"HudFontSmallestBold"
 		}
 
 		"SwapVMTButton"
@@ -1404,34 +1404,34 @@
 			"ypos"		"3"
 			"wide"		"60"
 			"tall"		"12"
-			
-			
+			"autoResize"		"0"
+			"pinCorner"		"0"
 			"visible"		"0"
-			
-			
+			"enabled"		"1"
+			"tabPosition"		"0"
 			"labelText"		"#TF_ImportFile_SwapVMT"
 			"textAlignment"		"center"
-			////"dulltext"		"0"
-			////"brighttext"		"0"
-			//"wrap"		"0"
+			"dulltext"		"0"
+			"brighttext"		"0"
+			"wrap"		"0"
 			"Command"		"SwapVMT"
-			//"Default"		"1"
-			"font"		"HudFontSmallest"
+			"Default"		"1"
+			"font"		"HudFontSmallestBold"
 		}
 
 		"SkinComboBox"
 		{
 			"ControlName"		"ComboBox"
 			"fieldName"			"SkinComboBox"
-			"Font"				"HudFontSmallest"
+			"Font"				"HudFontSmallestBold"
 			"xpos"				"4"
 			"ypos"				"18"
 			"wide"				"181"
 			"tall"				"20"
-			
-			
+			"autoResize"		"0"
+			"pinCorner"			"0"
 			"editable"			"0"
-			//"visible"			"1"
+			"visible"			"1"
 		}
 	
 		"Material0Panel"
@@ -1453,10 +1453,10 @@
 				"ypos"		"3"
 				"wide"		"240"
 				"tall"		"15"
-				
-				
-				//"textAlignment"		"west"
-				"font"		"HudFontSmallest"
+				"autoResize"		"0"
+				"pinCorner"		"0"
+				"textAlignment"		"west"
+				"font"		"HudFontSmallestBold"
 			}
 			"ButtonMaterial0Edit"
 			{
@@ -1466,14 +1466,14 @@
 				"ypos"			"3"
 				"wide"			"19"
 				"tall"			"15"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallest"
-				//"textAlignment"	"west"
+				"font"			"HudFontSmallestBold"
+				"textAlignment"	"west"
 					
-				"labeltext"		""
+				"labelText"		""
 				"command"		"EditMaterial0"				
 					
 				"image_drawcolor"	"235 226 202 255"
@@ -1500,8 +1500,8 @@
 				"ypos"		"18"
 				"wide"		"190"
 				"tall"		"15"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"		"0"
 				"labelText"			"#TF_PublishFile_NoFileSelected"
 				"font"		"HudFontSmallest"
 			}
@@ -1526,10 +1526,10 @@
 				"ypos"		"3"
 				"wide"		"240"
 				"tall"		"15"
-				
-				
-				//"textAlignment"		"west"
-				"font"		"HudFontSmallest"
+				"autoResize"		"0"
+				"pinCorner"		"0"
+				"textAlignment"		"west"
+				"font"		"HudFontSmallestBold"
 			}
 			"ButtonMaterial1Edit"
 			{
@@ -1539,14 +1539,14 @@
 				"ypos"			"3"
 				"wide"			"19"
 				"tall"			"15"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallest"
-				//"textAlignment"	"west"
+				"font"			"HudFontSmallestBold"
+				"textAlignment"	"west"
 					
-				"labeltext"		""
+				"labelText"		""
 				"command"		"EditMaterial1"				
 					
 				"image_drawcolor"	"235 226 202 255"
@@ -1573,8 +1573,8 @@
 				"ypos"		"18"
 				"wide"		"190"
 				"tall"		"15"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"		"0"
 				"labelText"			"#TF_PublishFile_NoFileSelected"
 				"font"		"HudFontSmallest"
 				"fillcolor"	"255 0 0 255"
@@ -1600,10 +1600,10 @@
 				"ypos"		"3"
 				"wide"		"240"
 				"tall"		"15"
-				
-				
-				//"textAlignment"		"west"
-				"font"		"HudFontSmallest"
+				"autoResize"		"0"
+				"pinCorner"		"0"
+				"textAlignment"		"west"
+				"font"		"HudFontSmallestBold"
 			}
 			"ButtonMaterial2Edit"
 			{
@@ -1613,14 +1613,14 @@
 				"ypos"			"3"
 				"wide"			"19"
 				"tall"			"15"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallest"
-				//"textAlignment"	"west"
+				"font"			"HudFontSmallestBold"
+				"textAlignment"	"west"
 					
-				"labeltext"		""
+				"labelText"		""
 				"command"		"EditMaterial2"				
 					
 				"image_drawcolor"	"235 226 202 255"
@@ -1647,8 +1647,8 @@
 				"ypos"		"18"
 				"wide"		"190"
 				"tall"		"15"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"		"0"
 				"labelText"			"#TF_PublishFile_NoFileSelected"
 				"font"		"HudFontSmallest"
 			}
@@ -1673,10 +1673,10 @@
 				"ypos"		"3"
 				"wide"		"240"
 				"tall"		"15"
-				
-				
-				//"textAlignment"		"west"
-				"font"		"HudFontSmallest"
+				"autoResize"		"0"
+				"pinCorner"		"0"
+				"textAlignment"		"west"
+				"font"		"HudFontSmallestBold"
 			}
 			"ButtonMaterial3Edit"
 			{
@@ -1686,14 +1686,14 @@
 				"ypos"			"3"
 				"wide"			"19"
 				"tall"			"15"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallest"
-				//"textAlignment"	"west"
+				"font"			"HudFontSmallestBold"
+				"textAlignment"	"west"
 					
-				"labeltext"		""
+				"labelText"		""
 				"command"		"EditMaterial3"				
 					
 				"image_drawcolor"	"235 226 202 255"
@@ -1720,8 +1720,8 @@
 				"ypos"		"18"
 				"wide"		"190"
 				"tall"		"15"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"		"0"
 				"labelText"			"#TF_PublishFile_NoFileSelected"
 				"font"		"HudFontSmallest"
 			}
@@ -1733,18 +1733,18 @@
 			"fieldName"		"Paintable0CheckBox"
 			"labelText"		"#TF_ImportFile_Paintable0"
 			"Font"			"HudFontSmallest"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"4" 
 			"ypos"			"190"
 			"wide"			"100"
 			"tall"			"20"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
 			"visible"		"0"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 			"command"		"UpdatePaintable0"	
 			"border"				"SteamWorkshopBorder"
 		}
@@ -1755,18 +1755,18 @@
 			"fieldName"		"Paintable1CheckBox"
 			"labelText"		"#TF_ImportFile_Paintable1"
 			"Font"			"HudFontSmallest"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"xpos"			"100" 
 			"ypos"			"190"
 			"wide"			"100"
 			"tall"			"20"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
 			"visible"		"0"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"disabledfgcolor2_override"	"117 107 94 255"
 			"command"		"UpdatePaintable1"	
 			"border"				"SteamWorkshopBorder"
 		}
@@ -1780,11 +1780,11 @@
 		"ypos"		"105"
 		"wide"		"150"
 		"tall"		"25"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"labelText"		"#TF_ImportFile_AnimationProp"
-		//"textAlignment"		"west"
-		"font"		"HudFontSmallest"
+		"textAlignment"		"west"
+		"font"		"HudFontSmallestBold"
 	}
 
 	"TauntInputPanel"
@@ -1795,19 +1795,19 @@
 		"ypos"			"130"
 		"wide"			"150"
 		"tall"			"219"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"paintbackground" "0"
 
 		"AnimationSourcePanel"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"AnimationSourcePanel"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"wide"			"150"
 			"tall"			"50"
-			//"visible"		"1"
+			"visible"		"1"
 			"paintbackground" "0"
 			"border"				"SteamWorkshopBorder"
 
@@ -1820,11 +1820,11 @@
 				"ypos"		"-3"
 				"wide"		"150"
 				"tall"		"25"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"		"0"
 				"labelText"		"#TF_ImportFile_AnimationSource"
-				//"textAlignment"		"west"
-				"font"		"HudFontSmallest"
+				"textAlignment"		"west"
+				"font"		"HudFontSmallestBold"
 			}
 			"ButtonAnimationSourceClear"
 			{
@@ -1834,14 +1834,14 @@
 				"ypos"			"2"
 				"wide"			"15"
 				"tall"			"15"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallest"
-				//"textAlignment"	"west"
+				"font"			"HudFontSmallestBold"
+				"textAlignment"	"west"
 				
-				"labeltext"		""
+				"labelText"		""
 				"command"		"ClearAnimationSource"				
 				
 				"image_drawcolor"	"235 226 202 255"
@@ -1868,14 +1868,14 @@
 				"ypos"			"2"
 				"wide"			"19"
 				"tall"			"15"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallest"
-				//"textAlignment"	"west"
+				"font"			"HudFontSmallestBold"
+				"textAlignment"	"west"
 				
-				"labeltext"		""
+				"labelText"		""
 				"command"		"BrowseAnimationSource"				
 				
 				"image_drawcolor"	"235 226 202 255"
@@ -1902,8 +1902,8 @@
 				"ypos"		"20"
 				"wide"		"150"
 				"tall"		"15"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"		"0"
 				"labelText"			"#TF_PublishFile_NoFileSelected"
 				"font"		"HudFontSmallest"
 			}
@@ -1915,8 +1915,8 @@
 				"ypos"		"35"
 				"wide"		"150"
 				"tall"		"15"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"		"0"
 				"labelText"			""
 				"font"		"HudFontSmallest"
 			}
@@ -1926,11 +1926,11 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"AnimationVCDPanel"
-			
+			"xpos"			"0"
 			"ypos"			"60"
 			"wide"			"150"
 			"tall"			"50"
-			//"visible"		"1"
+			"visible"		"1"
 			"paintbackground" "0"
 			"border"				"SteamWorkshopBorder"
 
@@ -1943,11 +1943,11 @@
 				"ypos"		"-3"
 				"wide"		"150"
 				"tall"		"25"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"		"0"
 				"labelText"		"#TF_ImportFile_AnimationVCD"
-				//"textAlignment"		"west"
-				"font"		"HudFontSmallest"
+				"textAlignment"		"west"
+				"font"		"HudFontSmallestBold"
 			}
 			"ButtonAnimationVCDClear"
 			{
@@ -1957,14 +1957,14 @@
 				"ypos"			"2"
 				"wide"			"15"
 				"tall"			"15"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallest"
-				//"textAlignment"	"west"
+				"font"			"HudFontSmallestBold"
+				"textAlignment"	"west"
 				
-				"labeltext"		""
+				"labelText"		""
 				"command"		"ClearAnimationVCD"				
 				
 				"image_drawcolor"	"235 226 202 255"
@@ -1991,14 +1991,14 @@
 				"ypos"			"2"
 				"wide"			"19"
 				"tall"			"15"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
 				"textinsetx"	"15"
 				"use_proportional_insets" "1"
-				"font"			"HudFontSmallest"
-				//"textAlignment"	"west"
+				"font"			"HudFontSmallestBold"
+				"textAlignment"	"west"
 				
-				"labeltext"		""
+				"labelText"		""
 				"command"		"BrowseAnimationVCD"				
 				
 				"image_drawcolor"	"235 226 202 255"
@@ -2025,8 +2025,8 @@
 				"ypos"		"20"
 				"wide"		"150"
 				"tall"		"15"
-				
-				
+				"autoResize"		"0"
+				"pinCorner"		"0"
 				"labelText"			"#TF_PublishFile_NoFileSelected"
 				"font"		"HudFontSmallest"
 			}
@@ -2036,12 +2036,12 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"AnimDurationLabel"
-			
+			"xpos"		"0"
 			"ypos"		"120"
 			"wide"		"120"
 			"tall"		"15"
-			
-			
+			"autoResize"		"0"
+			"pinCorner"		"0"
 			"labelText"			"#TF_ImportFile_AnimationDuration"
 			"font"		"HudFontSmallest"
 		}
@@ -2052,17 +2052,17 @@
 			"fieldName"		"AnimationLoopCheckButton"
 			"labelText"		"Loop"
 			"Font"			"HudFontSmallest"
-			//"textAlignment"	"west"
-			 
+			"textAlignment"	"west"
+			"xpos"			"0" 
 			"ypos"			"140"
 			"wide"			"80"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"command"		"UpdateAnimationLoopable"
 			"border"		"SteamWorkshopBorder"
 		}
@@ -2076,8 +2076,8 @@
 			"wide"		"60"
 			"tall"		"15"
 			"proportionaltoparent"	"1"
-			
-			
+			"autoResize"		"0"
+			"pinCorner"		"0"
 			"labelText"			"Start Time:"
 			"font"		"HudFontSmallest"
 		}
@@ -2091,13 +2091,13 @@
 			"wide"		"40"
 			"tall"		"20"
 			"proportionaltoparent"	"1"
-			
-			
-			//"visible"		"1"
+			"autoResize"		"0"
+			"pinCorner"		"0"
+			"visible"		"1"
 			"enabled"		"0"
 			"tabPosition"		"1"
-			//"textHidden"		"0"
-			//"editable"		"1"
+			"textHidden"		"0"
+			"editable"		"1"
 			"maxchars"		"128"
 			"NumericInputOnly"		"1"
 			"unicode"		"1"
@@ -2111,24 +2111,24 @@
 		{
 			"ControlName"		"Button"
 			"fieldName"		"ButtonEditQCI"
-			
+			"xpos"			"0"
 			"ypos"			"195"
 			"zpos"			"1"
 			"wide"			"92"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
 			"labelText"		"#TF_ImportFile_EditQCI"
 			"textAlignment"	"center"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			//"wrap"			"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"wrap"			"0"
 			"Command"		"EditQCI"
 			"Default"		"0"
-			"font"			"HudFontSmallest"
+			"font"			"HudFontSmallestBold"
 		}
 	}
 
@@ -2140,12 +2140,12 @@
 		"ypos"			"370"
 		"wide"			"25"
 		"tall"			"15"
-		
+		"autoResize"	"0"
 		"pinCorner"		"3"
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmallest"
-		//"textAlignment"	"west"
+		"font"			"HudFontSmallestBold"
+		"textAlignment"	"west"
 				
 		"labelText"		"#TF_ImportFile_Browse"
 		"command"		"Load"				
@@ -2159,7 +2159,7 @@
 			"fieldName"		"SubImage"
 			"xpos"			"1"
 			"ypos"			"1"
-			//"zpos"			"1"
+			"zpos"			"1"
 			"wide"			"13"
 			"tall"			"13"
 			"scaleImage"	"1"
@@ -2175,17 +2175,17 @@
 		"ypos"			"365"
 		"wide"			"100"
 		"tall"			"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#TF_Close"
-		"font"			"HudFontSmallest"
+		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"Close"
 	}
 
@@ -2197,19 +2197,19 @@
 		"ypos"		"365"
 		"wide"		"100"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_ImportFile_Preview"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"BuildPreview"
-		//"Default"		"1"
-		"font"		"HudFontSmallest"
+		"Default"		"1"
+		"font"		"HudFontSmallestBold"
 	}
 
 	"ButtonVerify"
@@ -2220,19 +2220,19 @@
 		"ypos"		"365"
 		"wide"		"100"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_ImportFile_Verify"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"BuildVerify"
-		//"Default"		"1"
-		"font"		"HudFontSmallest"
+		"Default"		"1"
+		"font"		"HudFontSmallestBold"
 	}
 
 	"ButtonBuild"
@@ -2243,19 +2243,19 @@
 		"ypos"		"365"
 		"wide"		"100"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#TF_ImportFile_Build"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"BuildFinal"
-		//"Default"		"1"
-		"font"		"HudFontSmallest"
+		"Default"		"1"
+		"font"		"HudFontSmallestBold"
 	}
 
 	"BetaNotice"
@@ -2283,9 +2283,9 @@
 		"wide"			"340"
 		"tall"			"313"
 		"autoResize"	"1"
-		
+		"pinCorner"		"0"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		
 		"render_texture"	"0"
 		"fov"			"40"

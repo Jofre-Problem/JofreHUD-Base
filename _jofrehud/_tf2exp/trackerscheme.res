@@ -210,7 +210,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"10"
 				//"weight"	"500"
 				//"antialias" "1"
@@ -222,7 +222,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"7"
 				//"weight"	"500"
 				//"antialias" "1"
@@ -233,7 +233,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"16"
 				//"weight"	"500"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -243,7 +243,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"16"
 				//"weight"	"500"
 				"underline" "1"
@@ -254,7 +254,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"13"
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -264,7 +264,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"13"
 				//"weight"	"0"
 				//"dropshadow" "1"
@@ -275,7 +275,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"12"
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -286,7 +286,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"18"
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -297,7 +297,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"20"
 				//"weight"	"1000"
 				//"antialias" "1"
@@ -308,7 +308,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"13"
 				//"weight"	"500"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -335,7 +335,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"10"
 				//"weight"	"0"
 				//"range"		"0x0000 0x007F" //	Basic Latin
@@ -353,7 +353,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"10"
 				//"weight"	"0"
 				//"dropshadow" "1"
@@ -372,7 +372,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"10"
 				//"weight"	"0"
 				//"outline" "1"
@@ -391,7 +391,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"16"
 				//"weight"	"500"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -401,7 +401,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"16"
 				//"weight"	"500"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -411,7 +411,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"16"
 				////"weight"	"900"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -421,7 +421,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"16"
 				////"weight"	"900"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -439,17 +439,6 @@ Scheme
 			}
 		}
 	}
-
-	//
-	//////////////////// BORDERS //////////////////////////////
-	//
-	// describes all the border types
-	Borders
-	{
-	}
-
-	//////////////////////// CUSTOM FONT FILES /////////////////////////////
-	//
 	// specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
 	CustomFontFiles
 	{

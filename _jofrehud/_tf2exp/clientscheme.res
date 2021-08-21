@@ -451,7 +451,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"12"
 			}		
 		}
@@ -459,7 +459,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"12"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -468,7 +468,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"12"
 			}
 		}
@@ -478,7 +478,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"12"
 			}
 
@@ -487,7 +487,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"18"
 				////"weight"	"900"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -499,7 +499,7 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"18"
 				////"weight"	"900"
 				//"antialias" "1"
@@ -511,7 +511,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"6"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -522,7 +522,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"12"
 				//"weight"	"700"
 				//"yres""	"480 599"
@@ -532,7 +532,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"24"
 				
 				//"weight"	"500"
@@ -546,7 +546,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"36"
 				//"tall_hidef"	"48"
 				//"weight"	"500"
@@ -558,7 +558,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"30"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -569,7 +569,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"24"
 				//"tall_lodef"		"28"
 				//"weight"	"500"
@@ -581,7 +581,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"24"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -592,7 +592,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"18"
 
 			}
@@ -601,7 +601,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"18"
 			}
 		}
@@ -609,7 +609,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"14"
 			}
 		}	
@@ -617,7 +617,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"16"
 			}
 		}
@@ -625,7 +625,7 @@ Scheme
 //		{
 //			"1"
 //			{
-//				"name"		"Segoe UI"
+//				"name"		"Calibri"
 //				"tall"		"14"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -636,7 +636,7 @@ Scheme
 //		{
 //			"1"
 //			{
-//				"name"		"Segoe UI"
+//				"name"		"Calibri"
 //				"tall"		"14"
 //				//"weight"	"500"
 //				//"additive"	"0"
@@ -648,7 +648,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"11"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -659,7 +659,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"4"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -670,7 +670,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"10"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -681,7 +681,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"12"
 			}
 		}
@@ -741,7 +741,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"18"
 
 			}
@@ -750,7 +750,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"8"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -761,7 +761,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"9"
 			}
 		}
@@ -769,7 +769,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"8"
 			}
 		}
@@ -777,7 +777,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"8"
 				//"tall_hidef"	"7"
 				//"weight"	"500"
@@ -789,7 +789,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"15"
 				//"weight"	"700"
 				//"antialias" 	"1"
@@ -802,7 +802,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"14"
 				//"weight"	"400"
 				"outline"	"1"
@@ -834,7 +834,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"90"
 				////"weight"	"900"
 				//"range"		"0x0000 0x007F"	//	Basic Latin
@@ -855,7 +855,7 @@ Scheme
 			}
 		//	"2"
 		//	{
-		//		"name"  "Segoe UI"
+		//		"name"  "Calibri"
 		//		"tall"  "28"
 				//"weight" "0"
 		//		"additive" "1"
@@ -866,7 +866,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"24"
 				//"tall_hidef"	"32"
 				//"weight"	"500"
@@ -877,7 +877,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"24"
 				//"tall_hidef"	"32"
 				//"weight"	"500"
@@ -888,7 +888,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"24"
 				//"tall_hidef"	"32"
 				////"weight"	"900"
@@ -899,7 +899,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"24"
 				//"tall_hidef"	"32"
 				////"weight"	"900"
@@ -911,7 +911,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"16"
 				//"tall_hidef"	"24"
 				////"weight"	"900"
@@ -946,7 +946,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"24"
 				//"antialias" "1"
 				//"weight"	"500"
@@ -957,7 +957,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"12"
 			}
 		}
@@ -966,7 +966,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"13"
 				//"tall_hidef"	"14"
 				//"tall_lodef"	"17"
@@ -980,7 +980,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Segoe UI"
+				"name"			"Calibri"
 				"tall"			"28"
 			}
 		}
@@ -988,7 +988,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Segoe UI"
+				"name"			"Calibri"
 				"tall"			"40"
 			}
 		}
@@ -996,7 +996,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"24"
 			}
 		}
@@ -1004,7 +1004,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Segoe UI"
+				"name"			"Calibri"
 				"tall"			"14"
 			}
 		}
@@ -1012,7 +1012,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"6"
 			}
 		}
@@ -1020,7 +1020,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"8"
 			}
 		}
@@ -1028,7 +1028,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"10"
 			}
 		}
@@ -1036,7 +1036,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"14"
 			}
 		}
@@ -1044,7 +1044,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"20"
 			}
 		}
@@ -1052,7 +1052,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"20"
 			}
 		}
@@ -1060,7 +1060,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"14"
 			}
 		}
@@ -1068,7 +1068,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"20"
 			}
 		}
@@ -1076,7 +1076,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"34"
 				//"tall_hidef"	"38"
 				//"tall_lodef"	"38"
@@ -1091,7 +1091,7 @@ Scheme
  		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"36"
 				//"tall_hidef"	"48"
 				//"weight"	"500"
@@ -1103,7 +1103,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"52"
 				//"tall_lodef"		"80"
 				//"range" 	"0x0000 0x00FF"
@@ -1116,7 +1116,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"36"
 				//"weight"	"500"
 				//"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1128,7 +1128,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"14"
 				//"weight"	"400"
 				//"additive"	"0"
@@ -1139,7 +1139,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"20"
 				//"weight"	"400"
 				//"additive"	"0"
@@ -1150,7 +1150,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"14"
 				//"weight"	"400"
 				//"additive"	"0"
@@ -1161,7 +1161,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"10"
 			}
 		}
@@ -1169,7 +1169,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"7"
 				//"weight"	"400"
 				//"additive"	"0"
@@ -1183,7 +1183,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"12"
 				//"weight"	"700"
 				//"yres""		"480 599"
@@ -1194,7 +1194,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"12"
 				//"weight"	"700"
 				//"yres""		"480 599"
@@ -1207,7 +1207,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Segoe UI"
+				"name"			"Calibri"
 				"tall"			"8"
 				//"tall_lodef"	"12"
 				//"range" 		"0x0000 0x00FF"
@@ -1220,7 +1220,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"14"
 				//"tall_lodef"	"18"
 				//"range" 		"0x0000 0x00FF"
@@ -1233,7 +1233,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"12"
 				//"weight"	"500"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1245,7 +1245,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"8"
 				//"weight"	"500"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1258,7 +1258,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"8"
 			}
 		}		
@@ -1266,7 +1266,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"9"
 			}
 		}		
@@ -1277,7 +1277,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"36"
 				//"tall_lodef"		"28"
 				//"weight"	"500"
@@ -1287,7 +1287,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"30"
 				//"tall_lodef"		"22"
 				//"weight"	"500"
@@ -1297,7 +1297,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"28"
 				//"tall_lodef"	"24"
 				//"weight"	"500"
@@ -1307,7 +1307,7 @@ Scheme
 		{
 			"1"			// brower item hostname
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"22"
 				////"weight"	"900"
 			}
@@ -1316,7 +1316,7 @@ Scheme
 		{
 			"1"			// browser item players and map name
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"18"
 				////"weight"	"900"
 			}
@@ -1325,7 +1325,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"22"
 				//"weight"	"500"
 			}
@@ -1334,7 +1334,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"18"
 				//"weight"	"500"
 			}
@@ -1343,7 +1343,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"22"
 				//"tall_lodef"		"18"
 				////"weight"	"900"
@@ -1353,7 +1353,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"18"
 				//"tall_lodef"		"18"
 				////"weight"	"900"
@@ -1363,7 +1363,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"15"
 				////"weight"	"900"
 			}
@@ -1373,7 +1373,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"36"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -1385,7 +1385,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"18"
 				//"weight"	"400"
 				//"additive"	"0"
@@ -1396,7 +1396,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"14"
 				////"weight"	"900"
 				//"antialias" "1"
@@ -1407,7 +1407,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"7"
 				//"weight"	"400"
 				//"additive"	"0"
@@ -1419,7 +1419,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"10"
 			}
 		}
@@ -1429,7 +1429,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"12"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -1440,7 +1440,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"18"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -1451,7 +1451,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"7"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -1462,7 +1462,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"8"
 				//"antialias" "1"
 				//"weight"	"500"
@@ -1472,7 +1472,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"8"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -1483,7 +1483,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"11"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -1494,7 +1494,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"14"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -1508,7 +1508,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"10"
 			}
 		}
@@ -1517,7 +1517,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"10"
 			}
 		}
@@ -1526,7 +1526,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"16"
 			}
 		}
@@ -1535,7 +1535,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"20"
 			}
 		}
@@ -1544,7 +1544,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"10"
 			}
 		}
@@ -1553,7 +1553,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"10"
 			}
 		}
@@ -1562,7 +1562,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"10"
 			}
 		}
@@ -1571,7 +1571,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"13"
 			}
 		}
@@ -1580,7 +1580,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"16"
 			}
 		}
@@ -1595,7 +1595,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"12"
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1607,7 +1607,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"12"
 				//"weight"	"0"
 				//"range"		"0x0000 0x017F"
@@ -1619,7 +1619,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"14"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -1630,7 +1630,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"18"
 
 			}
@@ -1639,7 +1639,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"24"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -1650,7 +1650,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"18"
 				//"tall_hidef"	"24"
 				//"tall_lodef"	"20"
@@ -1667,7 +1667,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"14"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -1678,7 +1678,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"24"
 				//"weight"	"500"
 				//"additive"	"0"
@@ -1690,7 +1690,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"15"
 				//"weight"	"500"
 				//"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1708,7 +1708,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"10"
 				//"weight"	"400"
 				//"additive"	"0"
@@ -1720,7 +1720,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"14"
 				//"weight"	"400"
 				//"additive"	"0"
@@ -1732,7 +1732,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"30"
 				//"weight"	"400"
 				//"additive"	"0"

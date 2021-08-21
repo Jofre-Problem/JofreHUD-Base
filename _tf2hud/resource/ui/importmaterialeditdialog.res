@@ -3,10 +3,10 @@
 	"ImportMaterialEditDialog"
 	{
 		"fieldName"				"ImportMaterialEditDialog"
-		
-		
-		
-		
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"0"
+		"ypos"					"0"
 		"wide"					"f0"
 		"tall"					"f0"
 		"border"				"GrayDialogBorder"
@@ -16,15 +16,15 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
-		
-		//"ypos"		"0"
+		"xpos"		"0"
+		"ypos"		"0"
 		"zpos"		"-100"
 		"wide"		"f0"
 		"tall"		"f0"
-		
-		//"visible"		"1"
-		
-		
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"bgcolor_override"	"0 0 0 255"
 	}
 
@@ -66,20 +66,20 @@
 		"ypos"		"c-218"
 		"wide"		"55"
 		"tall"		"25"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		
-		"labeltext"		""
+		"tabPosition"		"0"
+		"labelText"		""
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"EditSkin0"
 		"Default"		"0"
-		"font"		"HudFontSmall"
-		"defaultBgColor_override"	"Blank"
+		"font"		"HudFontSmallBold"
+		"defaultBgColor_override"	"0 0 0 0"
 		"armedBgColor_override"		"0 0 0 0"
 	}
 
@@ -91,20 +91,20 @@
 		"ypos"		"c-218"
 		"wide"		"55"
 		"tall"		"25"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		
-		"labeltext"		""
+		"tabPosition"		"0"
+		"labelText"		""
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"EditSkin1"
 		"Default"		"0"
-		"font"		"HudFontSmall"
-		"defaultBgColor_override"	"Blank"
+		"font"		"HudFontSmallBold"
+		"defaultBgColor_override"	"0 0 0 0"
 		"armedBgColor_override"		"0 0 0 0"
 	}
 
@@ -112,12 +112,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontMediumSecondary"
+		"font"			"HudFontMediumBold"
 		"textAlignment"	"east"
-		"labeltext"		""
+		"labelText"		""
 		"xpos"			"c-100"
 		"ypos"			"10"
-		
+		"zpos"			"0"
 		"wide"			"200"
 		"tall"			"25"
 		"centerwrap"	"1"
@@ -132,13 +132,13 @@
 		"zpos"			"1"
 		"wide"			"19"
 		"tall"			"15"
-		
+		"autoResize"	"0"
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmall"
-		//"textAlignment"	"west"
+		"font"			"HudFontSmallBold"
+		"textAlignment"	"west"
 					
-		"labeltext"		""
+		"labelText"		""
 		"command"		"BrowseMaterial"			
 					
 		"image_drawcolor"	"235 226 202 255"
@@ -162,12 +162,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BaseTextureLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Base Texture"
 		"xpos"			"c-80"
 		"ypos"			"60"
-		
+		"zpos"			"0"
 		"wide"			"80"
 		"tall"			"15"
 	}
@@ -180,12 +180,12 @@
 		"ypos"		"60"
 		"wide"		"190"
 		"tall"		"15"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"labelText"			"#TF_PublishFile_NoFileSelected"
 		"font"		"ImportToolSmallest"
 		"fillcolor"	"255 0 0 255"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 	}
 
 	"NormalTextureBrowse"
@@ -197,13 +197,13 @@
 		"zpos"			"1"
 		"wide"			"19"
 		"tall"			"15"
-		
+		"autoResize"	"0"
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmall"
-		//"textAlignment"	"west"
+		"font"			"HudFontSmallBold"
+		"textAlignment"	"west"
 					
-		"labeltext"		""
+		"labelText"		""
 		"command"		"BrowseNormalTexture"			
 					
 		"image_drawcolor"	"235 226 202 255"
@@ -231,14 +231,14 @@
 		"ypos"			"77"
 		"wide"			"15"
 		"tall"			"15"
-		
+		"autoResize"	"0"
 		"pinCorner"		"3"
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmall"
-		//"textAlignment"	"west"
+		"font"			"HudFontSmallBold"
+		"textAlignment"	"west"
 					
-		"labeltext"		""
+		"labelText"		""
 		"command"		"ClearNormalTexture"				
 					
 		"image_drawcolor"	"235 226 202 255"
@@ -250,7 +250,7 @@
 			"fieldName"		"SubImage"
 			"xpos"			"1"
 			"ypos"			"1"
-			//"zpos"			"1"
+			"zpos"			"1"
 			"wide"			"13"
 			"tall"			"13"
 			"scaleImage"	"1"
@@ -262,12 +262,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NormalTextureLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Shared Normal"
 		"xpos"			"c-70"
 		"ypos"			"77"
-		
+		"zpos"			"0"
 		"wide"			"70"
 		"tall"			"15"
 	}
@@ -280,24 +280,24 @@
 		"ypos"		"77"
 		"wide"		"190"
 		"tall"		"15"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"labelText"			"#TF_PublishFile_Optional"
 		"font"		"ImportToolSmallest"
 		"fillcolor"	"255 0 0 255"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 	}
 
 	"LightwarpLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"LightwarpLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Lightwarp"
 		"xpos"			"c-80"
 		"ypos"			"90"
-		
+		"zpos"			"0"
 		"wide"			"80"
 		"tall"			"15"
 	}
@@ -311,22 +311,22 @@
 		"ypos"				"90"
 		"wide"				"175"
 		"tall"				"12"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"			"0"
 		"editable"			"0"
-		//"visible"			"1"
+		"visible"			"1"
 	}
 
 	"BaseMapAlphaPhongMaskLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BaseMapAlphaPhongMaskLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Base Map Alpha Phong Mask"
 		"xpos"			"c-125"
 		"ypos"			"105"
-		
+		"zpos"			"0"
 		"wide"			"125"
 		"tall"			"15"
 	}
@@ -335,19 +335,19 @@
 	{
 		"ControlName"	"CheckButton"
 		"fieldName"		"BaseMapAlphaPhongMaskCheckButton"
-		"labeltext"		""
-		"Font"			"ImportToolSmallest"
-		//"textAlignment"	"west"
+		"labelText"		""
+		"Font"			"ImportToolSmallestBold"
+		"textAlignment"	"west"
 		"xpos"			"c+1" 
 		"ypos"			"103"
 		"wide"			"30"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"command"		"UpdateBaseMapAlphaPhongMask"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -361,13 +361,13 @@
 		"zpos"			"1"
 		"wide"			"19"
 		"tall"			"15"
-		
+		"autoResize"	"0"
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmall"
-		//"textAlignment"	"west"
+		"font"			"HudFontSmallBold"
+		"textAlignment"	"west"
 					
-		"labeltext"		""
+		"labelText"		""
 		"command"		"BrowsePhongExponentTexture"			
 					
 		"image_drawcolor"	"235 226 202 255"
@@ -395,14 +395,14 @@
 		"ypos"			"125"
 		"wide"			"15"
 		"tall"			"15"
-		
+		"autoResize"	"0"
 		"pinCorner"		"3"
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmall"
-		//"textAlignment"	"west"
+		"font"			"HudFontSmallBold"
+		"textAlignment"	"west"
 					
-		"labeltext"		""
+		"labelText"		""
 		"command"		"ClearPhongExponentTexture"				
 					
 		"image_drawcolor"	"235 226 202 255"
@@ -414,7 +414,7 @@
 			"fieldName"		"SubImage"
 			"xpos"			"1"
 			"ypos"			"1"
-			//"zpos"			"1"
+			"zpos"			"1"
 			"wide"			"13"
 			"tall"			"13"
 			"scaleImage"	"1"
@@ -426,12 +426,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PhongExponentTextureLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Shared Phong Exponent / Rim Mask"
 		"xpos"			"c-170"
 		"ypos"			"125"
-		
+		"zpos"			"0"
 		"wide"			"170"
 		"tall"			"15"
 	}
@@ -444,24 +444,24 @@
 		"ypos"		"125"
 		"wide"		"190"
 		"tall"		"15"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"labelText"			"#TF_PublishFile_Optional"
 		"font"		"ImportToolSmallest"
 		"fillcolor"	"255 0 0 255"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 	}
 
 	"PhongExponentLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PhongExponentLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Phong Exponent"
 		"xpos"			"c-100"
 		"ypos"			"145"
-		
+		"zpos"			"0"
 		"wide"			"100"
 		"tall"			"15"
 	}
@@ -474,13 +474,13 @@
 		"ypos"		"145"
 		"wide"		"35"
 		"tall"		"12"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"128"
 		"NumericInputOnly"		"1"
 		"unicode"		"1"
@@ -494,12 +494,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PhongBoostLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Phong Boost"
 		"xpos"			"c-100"
 		"ypos"			"160"
-		
+		"zpos"			"0"
 		"wide"			"100"
 		"tall"			"15"
 	}
@@ -512,13 +512,13 @@
 		"ypos"		"160"
 		"wide"		"35"
 		"tall"		"12"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"128"
 		"NumericInputOnly"		"1"
 		"unicode"		"1"
@@ -532,12 +532,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RimLightExponentLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Rim Light Exponent"
 		"xpos"			"c-100"
 		"ypos"			"175"
-		
+		"zpos"			"0"
 		"wide"			"100"
 		"tall"			"15"
 	}
@@ -550,13 +550,13 @@
 		"ypos"		"175"
 		"wide"		"35"
 		"tall"		"12"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"128"
 		"NumericInputOnly"		"1"
 		"unicode"		"1"
@@ -570,12 +570,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RimLightBoostLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Rim Light Boost"
 		"xpos"			"c-100"
 		"ypos"			"190"
-		
+		"zpos"			"0"
 		"wide"			"100"
 		"tall"			"15"
 	}
@@ -588,13 +588,13 @@
 		"ypos"		"190"
 		"wide"		"35"
 		"tall"		"12"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"128"
 		"NumericInputOnly"		"1"
 		"unicode"		"1"
@@ -608,12 +608,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RimMaskLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Rim Mask"
 		"xpos"			"c-100"
 		"ypos"			"205"
-		
+		"zpos"			"0"
 		"wide"			"100"
 		"tall"			"15"
 		"enabled"		"0"
@@ -623,19 +623,19 @@
 	{
 		"ControlName"	"CheckButton"
 		"fieldName"		"RimMaskCheckButton"
-		"labeltext"		""
-		"Font"			"ImportToolSmallest"
-		//"textAlignment"	"west"
+		"labelText"		""
+		"Font"			"ImportToolSmallestBold"
+		"textAlignment"	"west"
 		"xpos"			"c+1" 
 		"ypos"			"203"
 		"wide"			"30"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"enabled"		"0"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"command"		"UpdateRimMask"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -644,12 +644,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"HalfLambertLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Half Lambert"
 		"xpos"			"c-100"
 		"ypos"			"225"
-		
+		"zpos"			"0"
 		"wide"			"100"
 		"tall"			"15"
 	}
@@ -658,19 +658,19 @@
 	{
 		"ControlName"	"CheckButton"
 		"fieldName"		"HalfLambertCheckButton"
-		"labeltext"		""
-		"Font"			"ImportToolSmallest"
-		//"textAlignment"	"west"
+		"labelText"		""
+		"Font"			"ImportToolSmallestBold"
+		"textAlignment"	"west"
 		"xpos"			"c+1" 
 		"ypos"			"223"
 		"wide"			"30"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"command"		"UpdateHalfLambert"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -679,12 +679,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlendTintByBaseAlphaLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Blend Tint By Base Alpha"
 		"xpos"			"c-150"
 		"ypos"			"245"
-		
+		"zpos"			"0"
 		"wide"			"150"
 		"tall"			"15"
 		"enabled"		"0"
@@ -694,19 +694,19 @@
 	{
 		"ControlName"	"CheckButton"
 		"fieldName"		"BlendTintByBaseAlphaCheckButton"
-		"labeltext"		""
-		"Font"			"ImportToolSmallest"
-		//"textAlignment"	"west"
+		"labelText"		""
+		"Font"			"ImportToolSmallestBold"
+		"textAlignment"	"west"
 		"xpos"			"c+1" 
 		"ypos"			"243"
 		"wide"			"30"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"enabled"		"0"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"command"		"UpdateBlendTintByBaseAlpha"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -715,12 +715,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlendTintColorOverBaseLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Blend Tint Color Over Base"
 		"xpos"			"c-150"
 		"ypos"			"265"
-		
+		"zpos"			"0"
 		"wide"			"150"
 		"tall"			"15"
 		"enabled"		"0"
@@ -734,13 +734,13 @@
 		"ypos"		"265"
 		"wide"		"35"
 		"tall"		"12"
-		
-		
-		//"visible"		"1"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"128"
 		"NumericInputOnly"		"1"
 		"unicode"		"1"
@@ -754,12 +754,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ColorTintBaseLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Color Tint Base (RGB)"
 		"xpos"			"c-150"
 		"ypos"			"280"
-		
+		"zpos"			"0"
 		"wide"			"150"
 		"tall"			"15"
 		"enabled"		"0"
@@ -773,13 +773,13 @@
 		"ypos"		"280"
 		"wide"		"35"
 		"tall"		"12"
-		
-		
-		//"visible"		"1"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"128"
 		"NumericInputOnly"		"1"
 		"unicode"		"1"
@@ -797,13 +797,13 @@
 		"ypos"		"280"
 		"wide"		"35"
 		"tall"		"12"
-		
-		
-		//"visible"		"1"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"128"
 		"NumericInputOnly"		"1"
 		"unicode"		"1"
@@ -821,13 +821,13 @@
 		"ypos"		"280"
 		"wide"		"35"
 		"tall"		"12"
-		
-		
-		//"visible"		"1"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"128"
 		"NumericInputOnly"		"1"
 		"unicode"		"1"
@@ -841,12 +841,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AdditiveLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Additive"
 		"xpos"			"c-100"
 		"ypos"			"295"
-		
+		"zpos"			"0"
 		"wide"			"100"
 		"tall"			"15"
 	}
@@ -855,19 +855,19 @@
 	{
 		"ControlName"	"CheckButton"
 		"fieldName"		"AdditiveCheckButton"
-		"labeltext"		""
-		"Font"			"ImportToolSmallest"
-		//"textAlignment"	"west"
+		"labelText"		""
+		"Font"			"ImportToolSmallestBold"
+		"textAlignment"	"west"
 		"xpos"			"c+1" 
 		"ypos"			"293"
 		"wide"			"30"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"command"		"UpdateAdditive"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -876,12 +876,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TranslucentLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Translucent"
 		"xpos"			"c+19"
 		"ypos"			"295"
-		
+		"zpos"			"0"
 		"wide"			"60"
 		"tall"			"15"
 	}
@@ -890,19 +890,19 @@
 	{
 		"ControlName"	"CheckButton"
 		"fieldName"		"TranslucentCheckButton"
-		"labeltext"		""
-		"Font"			"ImportToolSmallest"
-		//"textAlignment"	"west"
+		"labelText"		""
+		"Font"			"ImportToolSmallestBold"
+		"textAlignment"	"west"
 		"xpos"			"c+81" 
 		"ypos"			"293"
 		"wide"			"30"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"command"		"UpdateTranslucent"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -911,12 +911,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AlphaTestLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Alpha Test"
 		"xpos"			"c+96"
 		"ypos"			"295"
-		
+		"zpos"			"0"
 		"wide"			"60"
 		"tall"			"15"
 		"enabled"		"0"
@@ -926,19 +926,19 @@
 	{
 		"ControlName"	"CheckButton"
 		"fieldName"		"AlphaTestCheckButton"
-		"labeltext"		""
-		"Font"			"ImportToolSmallest"
-		//"textAlignment"	"west"
+		"labelText"		""
+		"Font"			"ImportToolSmallestBold"
+		"textAlignment"	"west"
 		"xpos"			"c+158"
 		"ypos"			"293"
 		"wide"			"30"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"enabled"		"0"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"command"		"UpdateAlphaTest"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -947,12 +947,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"EnvmapLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Cube Map"
 		"xpos"			"c-100"
 		"ypos"			"315"
-		
+		"zpos"			"0"
 		"wide"			"100"
 		"tall"			"15"
 	}
@@ -966,22 +966,22 @@
 		"ypos"				"315"
 		"wide"				"175"
 		"tall"				"12"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"			"0"
 		"editable"			"0"
-		//"visible"			"1"
+		"visible"			"1"
 	}
 
 	"EnvmapAlphaMaskLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"EnvmapAlphaMaskLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Cube Map Alpha Mask"
 		"xpos"			"c-150"
 		"ypos"			"330"
-		
+		"zpos"			"0"
 		"wide"			"150"
 		"tall"			"15"
 		"enabled"		"0"
@@ -996,10 +996,10 @@
 		"ypos"				"330"
 		"wide"				"175"
 		"tall"				"12"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"			"0"
 		"editable"			"0"
-		//"visible"			"1"
+		"visible"			"1"
 		"enabled"			"0"
 	}
 
@@ -1007,12 +1007,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"EnvmapTintLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Cube Map Tint (RGB)"
 		"xpos"			"c-150"
 		"ypos"			"345"
-		
+		"zpos"			"0"
 		"wide"			"150"
 		"tall"			"15"
 		"enabled"		"0"
@@ -1026,13 +1026,13 @@
 		"ypos"		"345"
 		"wide"		"35"
 		"tall"		"12"
-		
-		
-		//"visible"		"1"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"128"
 		"NumericInputOnly"		"1"
 		"unicode"		"1"
@@ -1050,13 +1050,13 @@
 		"ypos"		"345"
 		"wide"		"35"
 		"tall"		"12"
-		
-		
-		//"visible"		"1"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"128"
 		"NumericInputOnly"		"1"
 		"unicode"		"1"
@@ -1074,13 +1074,13 @@
 		"ypos"		"345"
 		"wide"		"35"
 		"tall"		"12"
-		
-		
-		//"visible"		"1"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"128"
 		"NumericInputOnly"		"1"
 		"unicode"		"1"
@@ -1094,12 +1094,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SelfIllumLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Self Illumination"
 		"xpos"			"c-100"
 		"ypos"			"360"
-		
+		"zpos"			"0"
 		"wide"			"100"
 		"tall"			"15"
 	}
@@ -1108,19 +1108,19 @@
 	{
 		"ControlName"	"CheckButton"
 		"fieldName"		"SelfIllumCheckButton"
-		"labeltext"		""
-		"Font"			"ImportToolSmallest"
-		//"textAlignment"	"west"
+		"labelText"		""
+		"Font"			"ImportToolSmallestBold"
+		"textAlignment"	"west"
 		"xpos"			"c+1" 
 		"ypos"			"357"
 		"wide"			"30"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"command"		"UpdateSelfIllum"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -1134,13 +1134,13 @@
 		"zpos"			"1"
 		"wide"			"19"
 		"tall"			"15"
-		
+		"autoResize"	"0"
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmall"
-		//"textAlignment"	"west"
+		"font"			"HudFontSmallBold"
+		"textAlignment"	"west"
 					
-		"labeltext"		""
+		"labelText"		""
 		"command"		"BrowseSelfIllumTexture"			
 					
 		"image_drawcolor"	"235 226 202 255"
@@ -1168,14 +1168,14 @@
 		"ypos"			"380"
 		"wide"			"15"
 		"tall"			"15"
-		
+		"autoResize"	"0"
 		"pinCorner"		"3"
 		"textinsetx"	"15"
 		"use_proportional_insets" "1"
-		"font"			"HudFontSmall"
-		//"textAlignment"	"west"
+		"font"			"HudFontSmallBold"
+		"textAlignment"	"west"
 					
-		"labeltext"		""
+		"labelText"		""
 		"command"		"ClearSelfIllumTexture"				
 					
 		"image_drawcolor"	"235 226 202 255"
@@ -1187,7 +1187,7 @@
 			"fieldName"		"SubImage"
 			"xpos"			"1"
 			"ypos"			"1"
-			//"zpos"			"1"
+			"zpos"			"1"
 			"wide"			"13"
 			"tall"			"13"
 			"scaleImage"	"1"
@@ -1199,12 +1199,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SelfIllumTextureLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Shared Illum Mask"
 		"xpos"			"c-85"
 		"ypos"			"380"
-		
+		"zpos"			"0"
 		"wide"			"85"
 		"tall"			"15"
 	}
@@ -1217,24 +1217,24 @@
 		"ypos"		"380"
 		"wide"		"190"
 		"tall"		"15"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
 		"labelText"			"#TF_PublishFile_Optional"
 		"font"		"ImportToolSmallest"
 		"fillcolor"	"255 0 0 255"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 	}
 
 	"SelfIllumTintLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SelfIllumTintLabel"
-		"font"			"ImportToolSmallest"
+		"font"			"ImportToolSmallestBold"
 		"textAlignment"	"east"
 		"labelText"		"Self Illumination Tint"
 		"xpos"			"c-150"
 		"ypos"			"400"
-		
+		"zpos"			"0"
 		"wide"			"150"
 		"tall"			"15"
 		"enabled"		"0"
@@ -1248,13 +1248,13 @@
 		"ypos"		"400"
 		"wide"		"35"
 		"tall"		"12"
-		
-		
-		//"visible"		"1"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"128"
 		"NumericInputOnly"		"1"
 		"unicode"		"1"
@@ -1272,13 +1272,13 @@
 		"ypos"		"400"
 		"wide"		"35"
 		"tall"		"12"
-		
-		
-		//"visible"		"1"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"128"
 		"NumericInputOnly"		"1"
 		"unicode"		"1"
@@ -1296,13 +1296,13 @@
 		"ypos"		"400"
 		"wide"		"35"
 		"tall"		"12"
-		
-		
-		//"visible"		"1"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"maxchars"		"128"
 		"NumericInputOnly"		"1"
 		"unicode"		"1"
@@ -1320,19 +1320,19 @@
 		"ypos"		"420"
 		"wide"		"175"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"Done"
 		"Default"		"0"
-		"font"		"HudFontSmall"
+		"font"		"HudFontSmallBold"
 	}
 
 	"ButtonClose"
@@ -1343,18 +1343,18 @@
 		"ypos"		"420"
 		"wide"		"175"
 		"tall"		"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"labelText"		"#Cancel"
 		"textAlignment"		"center"
-		////"dulltext"		"0"
-		////"brighttext"		"0"
-		//"wrap"		"0"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
-		"font"		"HudFontSmall"
+		"font"		"HudFontSmallBold"
 	}
 }

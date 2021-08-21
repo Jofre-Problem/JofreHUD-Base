@@ -16,8 +16,8 @@
 #base "base/filesv1/progress/position/w260.res"
 #base "base/filesv1/progress/position/t24.res"
 
-#base "../#uni_base/filesv1/progress2/main.res"
-#base "../#uni_base/filesv1/progress2/content64.res"
+//#base "../#uni_base/filesv1/progress2/main.res"
+//#base "../#uni_base/filesv1/progress2/content64.res"
 
 #base "../#uni_base/filesv1/cancelbutton/autoresize_pin.res"
 #base "../#uni_base/filesv1/cancelbutton/ctrl/btn.res"
@@ -53,11 +53,11 @@
 #base "../#uni_base/filesv1/infolabel/special/w340.res"
 #base "../#uni_base/filesv1/infolabel/special/t88.res"
 
-#base "../#uni_base/filesv1/timeremaininglabel/main.res"
-#base "../#uni_base/filesv1/timeremaininglabel/xypos0.res"
-#base "../#uni_base/filesv1/timeremaininglabel/wide64.res"
-#base "../#uni_base/filesv1/timeremaininglabel/vis1.res"
-#base "../#uni_base/filesv1/timeremaininglabel/dull0.res"
+//#base "../#uni_base/filesv1/timeremaininglabel/main.res"
+//#base "../#uni_base/filesv1/timeremaininglabel/xypos0.res"
+//#base "../#uni_base/filesv1/timeremaininglabel/wide64.res"
+//#base "../#uni_base/filesv1/timeremaininglabel/vis1.res"
+//#base "../#uni_base/filesv1/timeremaininglabel/dull0.res"
 
 #base "../#uni_base/filesv1/urllabel1/main.res"
 #base "../#uni_base/filesv1/urllabel1/main2.res"

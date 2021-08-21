@@ -17,10 +17,10 @@
 			"ControlName"	"ScalableImagePanel"
 			"fieldName"		"MapImage"
 			"xpos"			"cs-0.5"
-			
+			"ypos"			"0"
 			"wide"			"f0"
 			"tall"			"o1"
-			
+			"zpos"			"0"
 			"image"			"..\vgui\maps\menu_thumb_pl_goldrush"
 			"proportionaltoparent"	"1"	
 			"mouseinputenabled"	"0"
@@ -35,23 +35,23 @@
 		"ypos"			"13"
 		"wide"			"44"
 		"tall"			"34"
-		
-		
+		"zpos"			"0"
+		"autoResize"	"0"
 		"pinCorner"		"3"
-		//"visible"		"1"
-		
-		
-		"font"			"HudFontSmallest"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"select_map"
 		"proportionaltoparent"	"1"
 		"labeltext"		""
-		//"mouseinputenabled"	"1"
+		"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"3"
-		//"paintbackground"	"1"
+		"paintbackground"	"1"
 		"stay_armed_on_click"	"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -67,9 +67,9 @@
 		"zpos"			"10"
 		"wide"			"40"
 		"tall"			"20"
-		//"visible"		"1"
-		
-		"font"			"Default"
+		"visible"		"1"
+		"enabled"		"1"
+		"font"			"MapVotesPercentage"
 		"fgcolor_override"	"TanLight"
 		"textAlignment"	"south"
 		"labelText"		"%votes%"
@@ -81,13 +81,13 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"NameLabel"
-		
+		"xpos"			"0"
 		"ypos"			"5"
 		"wide"			"f0"
 		"zpos"			"10"
 		"tall"			"20"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"font"			"ItemFontAttribSmall"
 		"fgcolor_override"	"TanLight"
 		"textAlignment"	"north"

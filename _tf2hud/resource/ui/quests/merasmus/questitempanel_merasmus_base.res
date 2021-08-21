@@ -53,7 +53,7 @@
 		{
 			"fieldName"	"ItemTrackerPanel"
 			
-			//"ypos"		"0"
+			"ypos"		"0"
 			"wide"		"f0"
 			"tall"		"f0"
 			"zpos"		"11"
@@ -405,7 +405,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"FrontFolderContainer"
 				
-				//"ypos"		"0"
+				"ypos"		"0"
 				"zpos"		"100"
 				"wide"		"f0"
 				"tall"		"f0"

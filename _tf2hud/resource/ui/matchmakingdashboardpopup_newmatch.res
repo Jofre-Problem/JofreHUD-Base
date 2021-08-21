@@ -5,14 +5,14 @@
 		"ControlName"	"CExpandablePanel"
 		"fieldName"		"NewMatchFound"
 		"xpos"			"cs-0.5"
-		
+		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"200"
 		"tall"			"60"
-		//"visible"		"1"
+		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"keyboardinputenabled"	"0"
-		//"mouseinputenabled"		"1"
+		"mouseinputenabled"		"1"
 
 		"collapsed_height"	"0"
 		"expanded_height"	"60"
@@ -24,17 +24,17 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"OuterShadow"
-			
+			"xpos"			"0"
 			"ypos"			"rs1"
 			"zpos"			"-2"
 			"wide"			"f0"
 			"tall"			"f0"
-			//"visible"		"1"
-			//"PaintBackgroundType"	"0"
+			"visible"		"1"
+			"PaintBackgroundType"	"0"
 			"border"		"OuterShadowBorder"
 			"proportionaltoparent"	"1"
 
-			
+			"pinCorner"		"0"
 			"autoResize"	"2"
 		}
 
@@ -47,7 +47,7 @@
 			"zpos"			"-1"
 			"wide"			"f5"
 			"tall"			"f5"
-			//"visible"		"1"
+			"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"ReplayDefaultBorder"
 			"proportionaltoparent"	"1"
@@ -57,14 +57,14 @@
 			{
 				"ControlName"	"CAutoFittingLabel"
 				"fieldName"		"DescLabel"
-				
+				"xpos"			"0"
 				"ypos"			"7"
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				//"visible"		"1"
-				
-				"font"			"HudFontSmall"
+				"visible"		"1"
+				"enabled"		"1"
+				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"%match_type%"
@@ -73,7 +73,7 @@
 
 				"fonts"
 				{
-					"0"		"HudFontSmallest"
+					"0"		"HudFontSmallestBold"
 					"1"		"StorePromotionsTitle"
 					"2"		"FontStorePrice"
 				}
@@ -83,13 +83,13 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"AutoJoinLabel"
-				
+				"xpos"			"0"
 				"ypos"			"rs1-17"
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				//"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 				"font"			"HudFontSmallest"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
@@ -107,23 +107,23 @@
 				"zpos"			"100"
 				"wide"			"75"
 				"tall"			"15"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
-				//"visible"		"1"
+				"visible"		"1"
 
-				
-				
-				"font"			"HudFontSmallest"
+				"enabled"		"1"
+				"tabPosition"	"0"
+				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
-				////"dulltext"		"0"
-				//"brighttext"	"0"
+				"dulltext"		"0"
+				"brighttext"	"0"
 				"Command"		"abandon_match"
 				"proportionaltoparent"	"1"
 				"labeltext"		"#TF_MM_Rejoin_Abandon"
-				//"mouseinputenabled"	"1"
+				"mouseinputenabled"	"1"
 				"keyboardinputenabled"	"0"
 				"actionsignallevel"	"2"
-				//"paintbackground"	"1"
+				"paintbackground"	"1"
 
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -145,19 +145,19 @@
 					"wide"			"150"
 				}
 				
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
-				//"visible"		"1"
-				
-				
-				"font"			"HudFontSmallest"
+				"visible"		"1"
+				"enabled"		"1"
+				"tabPosition"	"0"
+				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
-				////"dulltext"		"0"
-				//"brighttext"	"0"
+				"dulltext"		"0"
+				"brighttext"	"0"
 				"Command"		"join_match"
 				"proportionaltoparent"	"1"
 				"labeltext"		"#TF_Matchmaking_RollingQueue_JoinNow"
-				//"mouseinputenabled"	"1"
+				"mouseinputenabled"	"1"
 				"keyboardinputenabled"	"0"
 				"actionsignallevel"	"2"
 
@@ -178,19 +178,19 @@
 				"zpos"			"100"
 				"tall"			"15"
 				
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
-				//"visible"		"1"
-				
-				
-				"font"			"HudFontSmallest"
+				"visible"		"1"
+				"enabled"		"1"
+				"tabPosition"	"0"
+				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
-				////"dulltext"		"0"
-				//"brighttext"	"0"
+				"dulltext"		"0"
+				"brighttext"	"0"
 				"Command"		"join_match"
 				"proportionaltoparent"	"1"
 				"labeltext"		"#TF_Matchmaking_RollingQueue_JoinNow"
-				//"mouseinputenabled"	"1"
+				"mouseinputenabled"	"1"
 				"keyboardinputenabled"	"0"
 				"actionsignallevel"	"2"
 
@@ -210,8 +210,8 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				//"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 				"font"			"HudFontSmallest"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"east"
@@ -229,7 +229,7 @@
 				"zpos"			"104"
 				"wide"			"o1"
 				"tall"			"25"
-				//"visible"		"1"
+				"visible"		"1"
 
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"0"

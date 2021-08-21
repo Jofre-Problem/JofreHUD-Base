@@ -4,21 +4,21 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"dynamic_recipe_panel"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"400"
 		"zpos"			"501"
-		//"visible"		"1"
-		
-		
-		
-		
+		"visible"		"1"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
-		//"PaintBackgroundType"	"0"
-		"bgcolor_override"	"TanDarker"
-		"infocus_bgcolor_override" "TanDarker"
-		"outoffocus_bgcolor_override" "TanDarker"
+		"PaintBackgroundType"	"0"
+		"bgcolor_override"	"46 43 42 255"
+		"infocus_bgcolor_override" "46 43 42 255"
+		"outoffocus_bgcolor_override" "46 43 42 255"
 
 		"item_ypos"						"50"
 		"output_item_ypos"				"255"		
@@ -40,8 +40,8 @@
 			"tall"			"45"
 			"visible"		"0"
 			"enabled"		"0"
-			"bgcolor_override"		"Blank"
-			"noitem_textcolor"		"TanDark"
+			"bgcolor_override"		"0 0 0 0"
+			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
 			
@@ -76,11 +76,11 @@
 			"zpos"				"2"
 			"wide"				"30"
 			"tall"				"30"
-			
-			
-			//"visible"			"1"
-			
-			
+			"autoResize"		"0"
+			"pinCorner"			"0"
+			"visible"			"1"
+			"enabled"			"1"
+			"tabPosition"		"0"
 			"labelText"			""
 			"textAlignment"		"south-west"
 			"Command"			""
@@ -97,7 +97,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"recipecontainer"
 		"xpos"			"c0"
-		
+		"ypos"			"0"
 		"zpos"			"5"
 		"wide"			"300"
 		"tall"			"350"
@@ -110,17 +110,17 @@
 			"fieldName"		"RecipeTitle"
 			"font"			"ItemFontNameLarge"
 			"labelText"		"%recipetitle%"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"2"
 			"zpos"			"1"
 			"wide"			"280"
 			"tall"			"30"
-			
-			
-			//"visible"		"1"
-			
-			"fgcolor"		"HudOffWhite"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor"		"200 187 161 255"
 			"wrap"			"1"
 		}
 	
@@ -128,77 +128,77 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"InputLabel"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"#Craft_Recipe_Inputs"
 			"textAlignment"	"north-west"
-			
+			"xpos"			"0"
 			"ypos"			"35"
 			"zpos"			"1"
 			"wide"			"f0"
 			"tall"			"25"
-			
-			
-			//"visible"		"1"
-			
-			"fgcolor"		"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor"		"117 107 94 255"
 		}
 		"OutputLabel"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"OutputLabel"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"#Dynamic_Recipe_Outputs_Not_Complete"
 			"textAlignment"	"north-west"
-			
+			"xpos"			"0"
 			"ypos"			"238"
 			"zpos"			"1"
 			"wide"			"f0"
 			"tall"			"25"
-			
-			
-			//"visible"		"1"
-			
-			"fgcolor"		"TanDark"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor"		"117 107 94 255"
 		}
 		"UntradableLabel"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"UntradableLabel"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"#Dynamic_Recipe_Outputs_Not_Tradable"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"296"
 			"zpos"			"1"
 			"wide"			"250"
 			"tall"			"25"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
 			"visible"		"0"
-			
-			"fgcolor"		"TanDark"
+			"enabled"		"1"
+			"fgcolor"		"117 107 94 255"
 		}
 		
 		"CraftButton"
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"CraftButton"
-			
+			"xpos"			"0"
 			"ypos"			"318"
 			"zpos"			"20"
 			"wide"			"200"
 			"tall"			"30"
-			
-			
-			//"visible"		"1"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
 			"enabled"		"0"
-			
+			"tabPosition"	"0"
 			"labelText"		"#CraftConfirm"
-			"font"			"HudFontMediumSecondary"
+			"font"			"HudFontMediumBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"Command"		"craft"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -213,16 +213,16 @@
 			"zpos"			"1"
 			"wide"			"20"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
 			"labelText"		"<"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"Command"		"previnputpage"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -231,7 +231,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CurInputPageLabel"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"%inputpage%"
 			"textAlignment"	"center"
 			"xpos"			"210"
@@ -240,10 +240,10 @@
 			"wide"			"45"
 			"tall"			"20"
 			"autoResize"	"1"
-			
-			//"visible"		"1"
-			
-			"fgcolor_override" "LightRed"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor_override" "200 80 60 255"
 		}
 		"NextInputPageButton"
 		{
@@ -254,16 +254,16 @@
 			"zpos"			"1"
 			"wide"			"20"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
 			"labelText"		">"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"Command"		"nextinputpage"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -275,7 +275,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"inventorycontainer"
 		"xpos"			"c-300"
-		
+		"ypos"			"0"
 		"zpos"			"5"
 		"wide"			"300"
 		"tall"			"350"
@@ -286,19 +286,19 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NoMatches"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"#Dynamic_Recipe_No_Matching_Items"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"125"
 			"zpos"			"1"
 			"wide"			"280"
 			"tall"			"30"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
 			"visible"		"0"
-			
-			"fgcolor"		"HudOffWhite"
+			"enabled"		"1"
+			"fgcolor"		"200 187 161 255"
 			"wrap"			"1"
 		}
 
@@ -307,39 +307,39 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"UntradableCheckBox"
 			"labelText"		"#Dynamic_Recipe_Untradable_Checkbox"
-			"Font"			"HudFontSmallest"
-			//"textAlignment"	"west"
+			"Font"			"HudFontSmallestBold"
+			"textAlignment"	"west"
 			"xpos"			"-4"
 			"ypos"			"2"
 			"zpos"			"1"
 			"wide"			"280"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			////"dulltext"		"0"
-			//"brighttext"	"0"
-			"fgcolor"		"HudOffWhite"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"fgcolor"		"200 187 161 255"
 		}
 
 		"BackpackItems"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"BackpackItems"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"#Dynamic_Recipe_Matching_Items"
-			//"textAlignment"	"west"
-			
+			"textAlignment"	"west"
+			"xpos"			"0"
 			"ypos"			"30"
 			"zpos"			"1"
 			"wide"			"280"
 			"tall"			"25"
-			
-			
-			//"visible"		"1"
-			
-			"fgcolor"		"HudOffWhite"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor"		"200 187 161 255"
 			"wrap"			"1"
 		}
 			
@@ -347,22 +347,22 @@
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"CancelButton"
-			
+			"xpos"			"0"
 			"ypos"			"318"
 			"zpos"			"20"
 			"wide"			"200"
 			"tall"			"30"
-			
-			
-			//"visible"		"1"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
 			"labelText"		"#Cancel"
-			"font"			"HudFontMediumSecondary"
+			"font"			"HudFontMediumBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"Command"		"cancel"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -372,21 +372,21 @@
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"PrevPageButton"
-			
+			"xpos"			"0"
 			"ypos"			"250"
 			"zpos"			"1"
 			"wide"			"20"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
 			"labelText"		"<"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"Command"		"prevpage"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -395,7 +395,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CurPageLabel"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"labelText"		"%backpackpage%"
 			"textAlignment"	"center"
 			"xpos"			"26"
@@ -404,10 +404,10 @@
 			"wide"			"45"
 			"tall"			"20"
 			"autoResize"	"1"
-			
-			//"visible"		"1"
-			
-			"fgcolor_override" "LightRed"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor_override" "200 80 60 255"
 		}
 		"NextPageButton"
 		{
@@ -418,16 +418,16 @@
 			"zpos"			"1"
 			"wide"			"20"
 			"tall"			"20"
-			
-			
-			//"visible"		"1"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
 			"labelText"		">"
-			"font"			"HudFontSmall"
+			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"Command"		"nextpage"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -444,8 +444,8 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"0"
-		"bgcolor_override"		"Blank"
-		"noitem_textcolor"		"TanDark"
+		"bgcolor_override"		"0 0 0 0"
+		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		
@@ -458,18 +458,18 @@
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
-			
+			"xpos"			"0"
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"
 			"tall"			"60"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
-			"fgcolor"		"TanDark"
+			"fgcolor"		"117 107 94 255"
 			"centerwrap"	"1"
 		}
 	}
@@ -485,8 +485,8 @@
 		"wide"			"54"
 		"tall"			"42"
 		"visible"		"0"
-		"bgcolor_override"		"Blank"
-		"noitem_textcolor"		"TanDark"
+		"bgcolor_override"		"0 0 0 0"
+		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		

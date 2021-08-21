@@ -5,14 +5,14 @@
 		"ControlName"	"CExpandablePanel"
 		"fieldName"		"MMPopup"
 		"xpos"			"cs-0.5"
-		
+		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"260"
 		"tall"			"70"
-		//"visible"		"1"
+		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"keyboardinputenabled"	"0"
-		//"mouseinputenabled"		"1"
+		"mouseinputenabled"		"1"
 
 		"collapsed_height"	"0"
 		"expanded_height"	"70"
@@ -24,13 +24,13 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"OuterShadow"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"-2"
 			"wide"			"f0"
 			"tall"			"f0"
-			//"visible"		"1"
-			//"PaintBackgroundType"	"0"
+			"visible"		"1"
+			"PaintBackgroundType"	"0"
 			"border"		"OuterShadowBorder"
 			"proportionaltoparent"	"1"
 
@@ -44,7 +44,7 @@
 			"ControlName"	"EditablePanel"
 			"xpos"			"cs-0.5"
 			"ypos"			"rs1"
-			
+			"zpos"			"0"
 			"wide"			"f10"
 			"tall"			"f5"
 			"visible"		"0"
@@ -59,13 +59,13 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"ChooseRematchOrRequeueContainer"
 			"xpos"			"cs-0.5"
-			
-			
+			"ypos"			"0"
+			"zpos"			"0"
 			"wide"			"f8"
 			"tall"			"f4"
 			"visible"		"0"
 			"proportionaltoparent"	"1"
-			//"mouseinputenabled"		"1"
+			"mouseinputenabled"		"1"
 
 			"pinCorner"		"2"
 			"autoResize"	"1"
@@ -79,7 +79,7 @@
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
-				//"visible"		"1"
+				"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"border"		"ReplayDefaultBorder"
 				"proportionaltoparent"	"1"
@@ -89,14 +89,14 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"LeaderContainer"
-				
-				
-				
+				"xpos"			"0"
+				"ypos"			"0"
+				"zpos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
-				//"visible"		"1"
+				"visible"		"1"
 				"proportionaltoparent"	"1"
-				//"mouseinputenabled"		"1"
+				"mouseinputenabled"		"1"
 
 				"RematchButton"
 				{
@@ -107,19 +107,19 @@
 					"zpos"			"100"
 					"wide"			"80"
 					"tall"			"15"
-					
+					"autoResize"	"0"
 					"pinCorner"		"3"
-					//"visible"		"1"
-					
-					
-					"font"			"HudFontSmallest"
+					"visible"		"1"
+					"enabled"		"1"
+					"tabPosition"	"0"
+					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
-					////"dulltext"		"0"
-					//"brighttext"	"0"
+					"dulltext"		"0"
+					"brighttext"	"0"
 					"Command"		"rematch"
 					"proportionaltoparent"	"1"
 					"labeltext"		"#TF_Matchmaking_RollingQueue_Rematch"
-					//"mouseinputenabled"	"1"
+					"mouseinputenabled"	"1"
 					"keyboardinputenabled"	"0"
 					"actionsignallevel"	"3"
 
@@ -136,19 +136,19 @@
 					"zpos"			"100"
 					"wide"			"140"
 					"tall"			"15"
-					
+					"autoResize"	"0"
 					"pinCorner"		"3"
-					//"visible"		"1"
-					
-					
-					"font"			"HudFontSmallest"
+					"visible"		"1"
+					"enabled"		"1"
+					"tabPosition"	"0"
+					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
-					////"dulltext"		"0"
-					//"brighttext"	"0"
+					"dulltext"		"0"
+					"brighttext"	"0"
 					"Command"		"new_match"
 					"proportionaltoparent"	"1"
 					"labeltext"		"#TF_Matchmaking_RollingQueue_Requeue"
-					//"mouseinputenabled"	"1"
+					"mouseinputenabled"	"1"
 					"keyboardinputenabled"	"0"
 					"actionsignallevel"	"3"
 
@@ -161,14 +161,14 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"NonLeaderContainer"
-				
-				
-				
+				"xpos"			"0"
+				"ypos"			"0"
+				"zpos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"0"
 				"proportionaltoparent"	"1"
-				//"mouseinputenabled"		"1"
+				"mouseinputenabled"		"1"
 
 				"NonLeaderDesc"
 				{
@@ -179,18 +179,18 @@
 					"zpos"			"100"
 					"wide"			"f0"
 					"tall"			"20"
-					
+					"autoResize"	"0"
 					"pinCorner"		"3"
-					//"visible"		"1"
-					
-					
+					"visible"		"1"
+					"enabled"		"1"
+					"tabPosition"	"0"
 					"font"			"HudFontSmallest"
 					"textAlignment"	"center"
-					////"dulltext"		"0"
-					//"brighttext"	"0"
+					"dulltext"		"0"
+					"brighttext"	"0"
 					"proportionaltoparent"	"1"
 					"labeltext"		"#TF_Matchmaking_RollingQueue_RequeueNonLeader"
-					//"paintbackground"	"1"
+					"paintbackground"	"1"
 				}
 
 
@@ -203,22 +203,22 @@
 					"zpos"			"100"
 					"wide"			"100"
 					"tall"			"15"
-					
+					"autoResize"	"0"
 					"pinCorner"		"3"
-					//"visible"		"1"
-					
-					
-					"font"			"HudFontSmallest"
+					"visible"		"1"
+					"enabled"		"1"
+					"tabPosition"	"0"
+					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
-					////"dulltext"		"0"
-					//"brighttext"	"0"
+					"dulltext"		"0"
+					"brighttext"	"0"
 					"Command"		"leave_party"
 					"proportionaltoparent"	"1"
 					"labeltext"		"#TF_Matchmaking_RollingQueue_LeaveParty"
-					//"mouseinputenabled"	"1"
+					"mouseinputenabled"	"1"
 					"keyboardinputenabled"	"0"
 					"actionsignallevel"	"3"
-					//"paintbackground"	"1"
+					"paintbackground"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
@@ -229,14 +229,14 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"DescLabel"
-				
+				"xpos"			"0"
 				"ypos"			"7"
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				//"visible"		"1"
-				
-				"font"			"HudFontSmall"
+				"visible"		"1"
+				"enabled"		"1"
+				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_RollingQueue_MatchOver"
@@ -247,13 +247,13 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"VoteEndTimeLabel"
-				
+				"xpos"			"0"
 				"ypos"			"rs1-17"
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				//"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 				"font"			"HudFontSmallest"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
@@ -270,18 +270,18 @@
 				"zpos"			"100"
 				"wide"			"f0"
 				"tall"			"20"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
-				//"visible"		"1"
-				
-				
+				"visible"		"1"
+				"enabled"		"1"
+				"tabPosition"	"0"
 				"font"			"HudFontSmallest"
 				"textAlignment"	"center"
-				////"dulltext"		"0"
-				//"brighttext"	"0"
+				"dulltext"		"0"
+				"brighttext"	"0"
 				"proportionaltoparent"	"1"
 				"labeltext"		"%votes_needed%"
-				//"paintbackground"	"1"
+				"paintbackground"	"1"
 			}
 
 		}
@@ -291,13 +291,13 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"RematchWaitingForOthers"
 			"xpos"			"cs-0.5"
-			
-			
+			"ypos"			"0"
+			"zpos"			"0"
 			"wide"			"f8"
 			"tall"			"f4"
 			"visible"		"0"
 			"proportionaltoparent"	"1"
-			//"mouseinputenabled"		"1"
+			"mouseinputenabled"		"1"
 
 			"pinCorner"		"2"
 			"autoResize"	"1"
@@ -311,7 +311,7 @@
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
-				//"visible"		"1"
+				"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"border"		"ReplayDefaultBorder"
 				"proportionaltoparent"	"1"
@@ -321,14 +321,14 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"DescLabel"
-				
+				"xpos"			"0"
 				"ypos"			"7"
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				//"visible"		"1"
-				
-				"font"			"HudFontSmall"
+				"visible"		"1"
+				"enabled"		"1"
+				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_RollingQueue_Rematch_Waiting"
@@ -339,13 +339,13 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"VoteEndTimeLabel"
-				
+				"xpos"			"0"
 				"ypos"			"rs1-17"
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				//"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 				"font"			"HudFontSmallest"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
@@ -357,9 +357,9 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"NonLeaderContainer"
-				
-				
-				
+				"xpos"			"0"
+				"ypos"			"0"
+				"zpos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"0"
@@ -374,22 +374,22 @@
 					"zpos"			"100"
 					"wide"			"100"
 					"tall"			"15"
-					
+					"autoResize"	"0"
 					"pinCorner"		"3"
-					//"visible"		"1"
-					
-					
-					"font"			"HudFontSmallest"
+					"visible"		"1"
+					"enabled"		"1"
+					"tabPosition"	"0"
+					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
-					////"dulltext"		"0"
-					//"brighttext"	"0"
+					"dulltext"		"0"
+					"brighttext"	"0"
 					"Command"		"leave_party"
 					"proportionaltoparent"	"1"
 					"labeltext"		"#TF_Matchmaking_RollingQueue_LeaveParty"
-					//"mouseinputenabled"	"1"
+					"mouseinputenabled"	"1"
 					"keyboardinputenabled"	"0"
 					"actionsignallevel"	"3"
-					//"paintbackground"	"1"
+					"paintbackground"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
@@ -402,13 +402,13 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"SearchingContainer"
 			"xpos"			"cs-0.5"
-			
-			
+			"ypos"			"0"
+			"zpos"			"0"
 			"wide"			"f8"
 			"tall"			"f4"
 			"visible"		"0"
 			"proportionaltoparent"	"1"
-			//"mouseinputenabled"		"1"
+			"mouseinputenabled"		"1"
 
 			"pinCorner"		"2"
 			"autoResize"	"1"
@@ -422,7 +422,7 @@
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
-				//"visible"		"1"
+				"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"border"		"ReplayDefaultBorder"
 				"proportionaltoparent"	"1"
@@ -437,9 +437,9 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				//"visible"		"1"
-				
-				"font"			"HudFontSmall"
+				"visible"		"1"
+				"enabled"		"1"
+				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_RollingQueue_Start"
@@ -455,11 +455,11 @@
 				"zpos"			"1"		
 				"wide"			"o1"
 				"tall"			"40"
-				
-				
-				//"visible"		"1"
-				
-				//"paintborder"	"0"
+				"autoResize"	"0"
+				"pinCorner"		"0"
+				"visible"		"1"
+				"enabled"		"1"
+				"paintborder"	"0"
 				"image"			"animated/tf2_logo_hourglass"
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
@@ -469,14 +469,14 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"LeaderContainer"
-				
-				
-				
+				"xpos"			"0"
+				"ypos"			"0"
+				"zpos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"0"
 				"proportionaltoparent"	"1"
-				//"mouseinputenabled"		"1"
+				"mouseinputenabled"		"1"
 
 				"LeaveQueueButton"
 				{
@@ -487,22 +487,22 @@
 					"zpos"			"100"
 					"wide"			"100"
 					"tall"			"15"
-					
+					"autoResize"	"0"
 					"pinCorner"		"3"
-					//"visible"		"1"
-					
-					
-					"font"			"HudFontSmallest"
+					"visible"		"1"
+					"enabled"		"1"
+					"tabPosition"	"0"
+					"font"			"HudFontSmallestBold"
 					"textAlignment"	"center"
-					////"dulltext"		"0"
-					//"brighttext"	"0"
+					"dulltext"		"0"
+					"brighttext"	"0"
 					"Command"		"leave_queue"
 					"proportionaltoparent"	"1"
 					"labeltext"		"#TF_MM_LeaveQueue"
-					//"mouseinputenabled"	"1"
+					"mouseinputenabled"	"1"
 					"keyboardinputenabled"	"0"
 					"actionsignallevel"	"3"
-					//"paintbackground"	"1"
+					"paintbackground"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
@@ -515,13 +515,13 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"MatchReadyAndWaitingContainer"
 			"xpos"			"cs-0.5"
-			
-			
+			"ypos"			"0"
+			"zpos"			"0"
 			"wide"			"f8"
 			"tall"			"f4"
 			"visible"		"0"
 			"proportionaltoparent"	"1"
-			//"mouseinputenabled"		"1"
+			"mouseinputenabled"		"1"
 
 			"pinCorner"		"2"
 			"autoResize"	"1"
@@ -535,7 +535,7 @@
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
-				//"visible"		"1"
+				"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"border"		"ReplayDefaultBorder"
 				"proportionaltoparent"	"1"
@@ -545,14 +545,14 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"DescLabel"
-				
+				"xpos"			"0"
 				"ypos"			"7"
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				//"visible"		"1"
-				
-				"font"			"HudFontSmall"
+				"visible"		"1"
+				"enabled"		"1"
+				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_RollingQueue_NewMatchReady"
@@ -563,13 +563,13 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"AutoJoinLabel"
-				
+				"xpos"			"0"
 				"ypos"			"rs1-17"
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				//"visible"		"1"
-				
+				"visible"		"1"
+				"enabled"		"1"
 				"font"			"HudFontSmallest"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
@@ -586,22 +586,22 @@
 				"zpos"			"100"
 				"wide"			"75"
 				"tall"			"15"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
-				//"visible"		"1"
-				
-				
-				"font"			"HudFontSmallest"
+				"visible"		"1"
+				"enabled"		"1"
+				"tabPosition"	"0"
+				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
-				////"dulltext"		"0"
-				//"brighttext"	"0"
+				"dulltext"		"0"
+				"brighttext"	"0"
 				"Command"		"abandon_match"
 				"proportionaltoparent"	"1"
 				"labeltext"		"#TF_MM_Rejoin_Leave"
-				//"mouseinputenabled"	"1"
+				"mouseinputenabled"	"1"
 				"keyboardinputenabled"	"0"
 				"actionsignallevel"	"2"
-				//"paintbackground"	"1"
+				"paintbackground"	"1"
 
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -616,19 +616,19 @@
 				"zpos"			"100"
 				"wide"			"150"
 				"tall"			"15"
-				
+				"autoResize"	"0"
 				"pinCorner"		"3"
-				//"visible"		"1"
-				
-				
-				"font"			"HudFontSmallest"
+				"visible"		"1"
+				"enabled"		"1"
+				"tabPosition"	"0"
+				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
-				////"dulltext"		"0"
-				//"brighttext"	"0"
+				"dulltext"		"0"
+				"brighttext"	"0"
 				"Command"		"join_match"
 				"proportionaltoparent"	"1"
 				"labeltext"		"#TF_Matchmaking_RollingQueue_JoinNow"
-				//"mouseinputenabled"	"1"
+				"mouseinputenabled"	"1"
 				"keyboardinputenabled"	"0"
 				"actionsignallevel"	"2"
 
@@ -645,13 +645,13 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"RematchStartingContainer"
 			"xpos"			"cs-0.5"
-			
-			
+			"ypos"			"0"
+			"zpos"			"0"
 			"wide"			"f8"
 			"tall"			"f4"
 			"visible"		"0"
 			"proportionaltoparent"	"1"
-			//"mouseinputenabled"		"1"
+			"mouseinputenabled"		"1"
 
 			"pinCorner"		"2"
 			"autoResize"	"1"
@@ -665,7 +665,7 @@
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
-				//"visible"		"1"
+				"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"border"		"ReplayDefaultBorder"
 				"proportionaltoparent"	"1"
@@ -680,9 +680,9 @@
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				//"visible"		"1"
-				
-				"font"			"HudFontSmall"
+				"visible"		"1"
+				"enabled"		"1"
+				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_RollingQueue_RematchStarting"
@@ -698,11 +698,11 @@
 				"zpos"			"1"		
 				"wide"			"o1"
 				"tall"			"40"
-				
-				
-				//"visible"		"1"
-				
-				//"paintborder"	"0"
+				"autoResize"	"0"
+				"pinCorner"		"0"
+				"visible"		"1"
+				"enabled"		"1"
+				"paintborder"	"0"
 				"image"			"animated/tf2_logo_hourglass"
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"

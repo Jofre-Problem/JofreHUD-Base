@@ -1,7 +1,7 @@
-#base "../#uni_base/filesv1/timeremaininglabel/main.res"
-#base "../#uni_base/filesv1/timeremaininglabel/vis1.res"
-#base "../#uni_base/filesv1/timeremaininglabel/dull0.res"
-#base "../#uni_base/filesv1/timeremaininglabel/xpos20.res"
+//#base "../#uni_base/filesv1/timeremaininglabel/main.res"
+//#base "../#uni_base/filesv1/timeremaininglabel/vis1.res"
+//#base "../#uni_base/filesv1/timeremaininglabel/dull0.res"
+//#base "../#uni_base/filesv1/timeremaininglabel/xpos20.res"
 
 #base "../#uni_base/filesv1/cancelbutton/ctrl/btn.res"
 #base "../#uni_base/filesv1/cancelbutton/autoresize_pin.res"

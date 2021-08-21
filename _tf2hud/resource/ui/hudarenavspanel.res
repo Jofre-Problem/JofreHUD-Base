@@ -6,24 +6,24 @@
 		"fieldName"		"bluepanel"
 		"xpos"			"c-100"
 		"ypos"			"50"
-		
+		"zpos"			"0"
 		"wide"			"200"
 		"tall"			"50"
-		//"visible"		"1"
+		"visible"		"1"
 	
 		"background"
 		{
 			"ControlName"	"CTFImagePanel"
 			"fieldName"		"background"
-			
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"0"
 			"wide"			"200"
 			"tall"			"50"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"../hud/color_panel_blu"
 				
 			"src_corner_height"		"23"			// pixels inside the image
@@ -37,14 +37,14 @@
 		{
 			"ControlName"	"CAvatarImagePanel"
 			"fieldName"		"AvatarImage"
-			
+			"xpos"			"0"
 			"ypos"			"10"
 			"zpos"			"1"
 			"wide"			"58"
 			"tall"			"36"
-			//"visible"		"1"
-			
-			//"image"			""
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			""
 			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
 		}	
@@ -55,17 +55,17 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"teamname"
 			"xpos"			"30"
-			
+			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"200"
 			"tall"			"50"
-			
-			
-			//"visible"		"1"
-			
-			"font"			"HudFontMediumSecondary"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"font"			"HudFontMediumBold"
 			"labelText"		"%blueleader%"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"fgcolor"		"HudOffWhite"
 		}	
 	}
@@ -79,10 +79,10 @@
 		"zpos"			"1"
 		"wide"			"160"
 		"tall"			"40"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"font"			"HudFontMedium"
 		"labelText"		"VS"
 		"textAlignment"	"center"
@@ -95,24 +95,24 @@
 		"fieldName"		"redpanel"
 		"xpos"			"c-100"
 		"ypos"			"140"
-		
+		"zpos"			"0"
 		"wide"			"200"
 		"tall"			"50"
-		//"visible"		"1"
+		"visible"		"1"
 	
 		"background"
 		{
 			"ControlName"	"CTFImagePanel"
 			"fieldName"		"background"
-			
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"0"
 			"wide"			"200"
 			"tall"			"50"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"../hud/color_panel_red"
 				
 			"src_corner_height"		"23"			// pixels inside the image
@@ -126,14 +126,14 @@
 		{
 			"ControlName"	"CAvatarImagePanel"
 			"fieldName"		"AvatarImage"
-			
+			"xpos"			"0"
 			"ypos"			"10"
 			"zpos"			"1"
 			"wide"			"58"
 			"tall"			"36"
-			//"visible"		"1"
-			
-			//"image"			""
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			""
 			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
 		}	
@@ -143,17 +143,17 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"teamname"
 			"xpos"			"30"
-			
+			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"160"
 			"tall"			"50"
-			
-			
-			//"visible"		"1"
-			
-			"font"			"HudFontMediumSecondary"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"font"			"HudFontMediumBold"
 			"labelText"		"%redleader%"
-			//"textAlignment"	"west"
+			"textAlignment"	"west"
 			"fgcolor"		"HudOffWhite"
 		}	
 	}

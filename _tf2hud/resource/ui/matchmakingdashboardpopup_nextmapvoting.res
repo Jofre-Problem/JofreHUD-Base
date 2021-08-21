@@ -5,14 +5,14 @@
 		"ControlName"	"CExpandablePanel"
 		"fieldName"		"NextMapVoting"
 		"xpos"			"cs-0.5"
-		
+		"ypos"			"0"
 		"zpos"			"10000"
 		"wide"			"260"
 		"tall"			"80"
-		//"visible"		"1"
+		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"keyboardinputenabled"	"0"
-		//"mouseinputenabled"		"1"
+		"mouseinputenabled"		"1"
 
 		"collapsed_height"	"0"
 		"expanded_height"	"80"
@@ -24,17 +24,17 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"OuterShadow"
-			
+			"xpos"			"0"
 			"ypos"			"rs1"
 			"zpos"			"-2"
 			"wide"			"f0"
 			"tall"			"f0"
-			//"visible"		"1"
-			//"PaintBackgroundType"	"0"
+			"visible"		"1"
+			"PaintBackgroundType"	"0"
 			"border"		"OuterShadowBorder"
 			"proportionaltoparent"	"1"
 
-			
+			"pinCorner"		"0"
 			"autoResize"	"2"
 		}
 
@@ -47,7 +47,7 @@
 			"zpos"			"-1"
 			"wide"			"f5"
 			"tall"			"f5"
-			//"visible"		"1"
+			"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"ReplayDefaultBorder"
 			"proportionaltoparent"	"1"
@@ -62,15 +62,15 @@
 				"zpos"			"1000"
 				"wide"			"o1"
 				"tall"			"20"
-				
-				
-				//"visible"		"1"
-				
-				
-				"font"			"HudFontSmall"
+				"autoResize"	"0"
+				"pinCorner"		"0"
+				"visible"		"1"
+				"enabled"		"1"
+				"tabPosition"	"0"
+				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				////"dulltext"		"0"
-				//"brighttext"	"0"
+				"dulltext"		"0"
+				"brighttext"	"0"
 				"default"		"0"
 				"labeltext"		""
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -90,13 +90,13 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
-					
-					
+					"xpos"			"0"
+					"ypos"			"0"
 					"zpos"			"1"
 					"wide"			"p1"
 					"tall"			"p1"
-					//"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"image"			"glyph_store"
 					"scaleImage"	"1"
 					"proportionaltoparent" "1"
@@ -112,15 +112,15 @@
 				"zpos"			"1000"
 				"wide"			"o1"
 				"tall"			"20"
-				
-				
-				//"visible"		"1"
-				
-				
-				"font"			"HudFontSmall"
+				"autoResize"	"0"
+				"pinCorner"		"0"
+				"visible"		"1"
+				"enabled"		"1"
+				"tabPosition"	"0"
+				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				////"dulltext"		"0"
-				//"brighttext"	"0"
+				"dulltext"		"0"
+				"brighttext"	"0"
 				"default"		"0"
 				"labeltext"		""
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -140,13 +140,13 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
-					
-					
+					"xpos"			"0"
+					"ypos"			"0"
 					"zpos"			"1"
 					"wide"			"p1"
 					"tall"			"p1"
-					//"visible"		"1"
-					
+					"visible"		"1"
+					"enabled"		"1"
 					"image"			"glyph_store"
 					"scaleImage"	"1"
 					"proportionaltoparent" "1"
@@ -158,14 +158,14 @@
 			{
 				"ControlName"	"Label"
 				"fieldName"		"DescLabel"
-				
+				"xpos"			"0"
 				"ypos"			"3"
 				"wide"			"f0"
 				"zpos"			"100"
 				"tall"			"20"
-				//"visible"		"1"
-				
-				"font"			"HudFontSmall"
+				"visible"		"1"
+				"enabled"		"1"
+				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_RollingQueue_MatchOver"
@@ -194,7 +194,7 @@
 				"zpos"			"-1"
 				"wide"			"100"
 				"tall"			"60"
-				//"visible"		"1"
+				"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"proportionaltoparent"	"1"
 			}
@@ -208,7 +208,7 @@
 				"zpos"			"-1"
 				"wide"			"100"
 				"tall"			"60"
-				//"visible"		"1"
+				"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"proportionaltoparent"	"1"
 			}
@@ -222,7 +222,7 @@
 				"zpos"			"-1"
 				"wide"			"100"
 				"tall"			"60"
-				//"visible"		"1"
+				"visible"		"1"
 				"PaintBackgroundType"	"2"
 				"proportionaltoparent"	"1"
 			}

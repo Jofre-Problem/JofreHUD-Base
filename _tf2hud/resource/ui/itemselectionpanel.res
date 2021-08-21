@@ -4,18 +4,18 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ItemSelectionPanel"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"500"
 		"wide"			"f0"
 		"tall"			"480"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
-		"bgcolor_override"	"TanDarker"
+		"bgcolor_override"	"46 43 42 255"
 		
 		"item_ypos"		"60"
 		"item_ydelta"	"80"
@@ -48,8 +48,8 @@
 			"wide"			"54"
 			"tall"			"42"
 			"visible"		"0"
-			"bgcolor_override"		"Blank"
-			"noitem_textcolor"		"TanDark"
+			"bgcolor_override"		"0 0 0 0"
+			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
 			
@@ -76,14 +76,14 @@
 		}
 		"duplicatelabels_kv"
 		{
-			"font"			"ItemFontNameSmall"
+			"font"			"ItemFontNameSmallest"
 			"textAlignment"	"center"
 			"wide"			"20"
 			"tall"			"15"
 			"zpos"			"1"
-			
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"enabled"		"1"
 			"fgcolor"		"153 204 255 255"
 		}
 	}
@@ -92,54 +92,54 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CaratLabel"
-		"font"			"HudFontSmallest"
+		"font"			"HudFontSmallestBold"
 		"labelText"		">>"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"xpos"			"c-300"
 		"ypos"			"20"
 		"zpos"			"1"
 		"wide"			"20"
 		"tall"			"15"
 		"autoResize"	"1"
-		
-		//"visible"		"1"
-		
-		"fgcolor_override" "LightRed"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor_override" "200 80 60 255"
 	}
 	"ClassLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassLabel"
-		"font"			"HudFontMediumSecondary"
+		"font"			"HudFontMediumBold"
 		"labelText"		"#ClassBeingEquipped"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"xpos"			"c-280"
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"480"
 		"tall"			"25"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 	}
 
 	"NameFilterLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NameFilterLabel"
-		"font"			"HudFontSmallest"
+		"font"			"HudFontSmallestBold"
 		"labelText"		"#Store_NameFilterLabel"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"xpos"			"c+205"
-		
+		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"90"
 		"tall"			"20"
 		"autoResize"	"1"
-		
-		//"visible"		"1"
-		
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fgcolor"		"StoreDarkTan"
 	}
 
@@ -152,15 +152,15 @@
 		"zpos"		"2"
 		"wide"		"90"
 		"tall"		"19"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"tabPosition"		"1"
-		//"textHidden"		"0"
-		//"editable"		"1"
+		"textHidden"		"0"
+		"editable"		"1"
 		"unicode"		"1"
-		"fgcolor_override"	"TanDark"
+		"fgcolor_override"	"117 107 94 255"
 		"bgcolor_override"	"251 235 202 255"
 		"paintbackgroundtype" "2"
 		"font"		"HudFontSmallest"
@@ -175,11 +175,11 @@
 		"zpos"			"2"
 		"wide"			"610"
 		"tall"			"10"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
-		//"tileVertically" "0"
+		"tileVertically" "0"
 	}				
 	"BottomLine"
 	{
@@ -190,36 +190,36 @@
 		"zpos"			"2"
 		"wide"			"610"
 		"tall"			"10"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
-		//"tileVertically" "0"
+		"tileVertically" "0"
 	}				
 		
 	"ItemSlotLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ItemSlotLabel"
-		"font"			"HudFontMediumSecondary"
+		"font"			"HudFontMediumBold"
 		"labelText"		"#PrimaryWeapon"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"xpos"			"c-55"
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"375"
 		"tall"			"25"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 	}
 
 	"NoItemsLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NoItemsLabel"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"labelText"		"#NoItemsToEquip"
 		"textAlignment"	"center"
 		"xpos"			"c-300"
@@ -227,11 +227,11 @@
 		"zpos"			"10"
 		"wide"			"600"
 		"tall"			"30"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		"fgcolor_override" "LightRed"
+		"enabled"		"1"
+		"fgcolor_override" "200 80 60 255"
 	}
 	
 	"CancelButton"
@@ -243,16 +243,16 @@
 		"zpos"			"2"
 		"wide"			"200"
 		"tall"			"25"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#Cancel"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"vguicancel"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -263,19 +263,19 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"OnlyAllowUniqueQuality"
 		"labelText"		"#OnlyAllowUniqueQuality"
-		"Font"			"HudFontSmallest"
+		"Font"			"HudFontSmallestBold"
 		"textAlignment"	"east"
 		"xpos"			"c-306"
 		"ypos"			"340"
 		"zpos"			"1"
 		"wide"			"290"
 		"tall"			"25"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"enabled"		"1"
+		"dulltext"		"0"
+		"brighttext"	"0"
 	}	
 	
 	"ShowBackpack"
@@ -287,17 +287,17 @@
 		"zpos"			"20"
 		"wide"			"200"
 		"tall"			"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#Selection_ShowBackpack"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"show_backpack"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -311,17 +311,17 @@
 		"zpos"			"20"
 		"wide"			"200"
 		"tall"			"25"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#Selection_ShowSelection"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"show_selection"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -336,16 +336,16 @@
 		"zpos"			"1"
 		"wide"			"20"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"<"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"prevpage"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -355,7 +355,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurPageLabel"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"labelText"		"%backpackpage%"
 		"textAlignment"	"center"
 		"xpos"			"c220"
@@ -364,10 +364,10 @@
 		"wide"			"40"
 		"tall"			"20"
 		"autoResize"	"1"
-		
-		//"visible"		"1"
-		
-		"fgcolor_override" "LightRed"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor_override" "200 80 60 255"
 	}
 	
 	"NextPageButton"
@@ -379,16 +379,16 @@
 		"zpos"			"1"
 		"wide"			"20"
 		"tall"			"20"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		">"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"nextpage"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -404,8 +404,8 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"0"
-		"bgcolor_override"		"Blank"
-		"noitem_textcolor"		"TanDark"
+		"bgcolor_override"		"0 0 0 0"
+		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		
@@ -418,18 +418,18 @@
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
-			
+			"xpos"			"0"
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"
 			"tall"			"60"
-			
-			
-			//"visible"		"1"
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
-			"fgcolor"		"TanDark"
+			"fgcolor"		"117 107 94 255"
 			"centerwrap"	"1"
 		}
 	}

@@ -2,6 +2,6 @@
 {	
 	"MetalIcon"	
 	{
-		"iconColor"		"RedSolid"
+		"iconColor"		"255 0 0 255"
 	}
 }	

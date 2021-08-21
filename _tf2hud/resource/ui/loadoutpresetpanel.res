@@ -10,16 +10,16 @@
 			"zpos"			"20"
 			"wide"			"25"
 			"tall"			"25"
-			
-			
+			"autoResize"	"0"
+			"pinCorner"		"0"
 			"visible"		"0"
-			
-			
-			"font"			"HudFontMediumSmall"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"font"			"HudFontMediumSmallBold"
 			"textAlignment"	"center"
-			//"textinsetx"	"0"
-			////"dulltext"		"0"
-			//"brighttext"	"0"
+			"textinsetx"	"0"
+			"dulltext"		"0"
+			"brighttext"	"0"
 			"Command"		""
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"

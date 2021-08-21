@@ -10,7 +10,7 @@
 		"zpos"			"1002"
 		"wide"			"270"
 		"tall"			"f70"
-		//"visible"		"1"
+		"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -25,8 +25,8 @@
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_HeaderSpecialEvent"
-		//"textAlignment"	"west"
-		"font"			"HudFontMediumBig"
+		"textAlignment"	"west"
+		"font"			"HudFontMediumBigBold"
 		"fgcolor_override"	"TanDark"
 		
 		"mouseinputenabled"	"0"
@@ -43,8 +43,8 @@
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		"%title%"
-		//"textAlignment"	"west"
-		"font"			"HudFontMediumSmall"
+		"textAlignment"	"west"
+		"font"			"HudFontMediumSmallBold"
 		"fgcolor_override"	"Orange"
 		
 		"mouseinputenabled"	"0"
@@ -59,8 +59,8 @@
 		"zpos"			"110"
 		"wide"			"o1"
 		"tall"			"70"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 
@@ -76,7 +76,7 @@
 		"zpos"			"100"
 		"wide"			"330"
 		"tall"			"92"
-		//"visible"		"1"
+		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 
@@ -96,18 +96,18 @@
 		"wide"		"250"
 		"tall"		"o0.25"
 		"visible"	"1"
-		
+		"enabled"	"1"
 
 		"DropShadow"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"DropShadow"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"101"
 			"wide"			"f0"
 			"tall"			"f0"
-			//"visible"		"1"
+			"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"InnerShadowBorder"
 			"proportionaltoparent"	"1"
@@ -118,13 +118,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"ModeImage"
-			
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"0"
 			"wide"			"f0"
 			"tall"			"f0"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"mouseinputenabled" "0"
 			"image"			"mvm/mannup"
 			"scaleImage"	"1"
@@ -148,7 +148,7 @@
 			"ControlName"	"ScrollBar"
 			"FieldName"		"ScrollBar"
 			"xpos"			"rs1-5"
-			
+			"ypos"			"0"
 			"tall"			"f0"
 			"wide"			"5" // This gets slammed from client schme.  GG.
 			"zpos"			"1000"
@@ -183,8 +183,8 @@
 			"fgcolor_override"	"TanLight"
 			"labelText"		"%desc%"
 			"textAlignment"	"north-west"
-			
-			
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"2"
 			"wide"			"f0"
 			"tall"			"300"
@@ -205,8 +205,8 @@
 		"wide"			"f20"
 		"tall"			"20"
 		"visible"		"0"
-		
-		//"mouseinputenabled"	"1"
+		"enabled"		"1"
+		"mouseinputenabled"	"1"
 		"eatmouseinput"	"0"	
 		"showtooltipswhenmousedisabled"	"1"
 		"proportionaltoparent" "1"
@@ -221,19 +221,19 @@
 		"zpos"			"100"
 		"wide"			"f20"
 		"tall"			"20"
-		
+		"autoResize"	"0"
 		"pinCorner"		"3"
-		//"visible"		"1"
-		
-		
-		"font"			"HudFontMediumSmall"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"find_game"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_StartSearch"
-		//"mouseinputenabled"	"1"
+		"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
 

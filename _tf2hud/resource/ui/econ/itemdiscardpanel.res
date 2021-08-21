@@ -218,7 +218,7 @@
 	{
 		"ControlName"		"CBackpackPanel"
 		"fieldName"			"backpack_panel"
-		//"xpos"				"0"
+		"xpos"				"0"
 		"ypos"				"100"
 		"wide"				"f0"
 		"tall"				"400"

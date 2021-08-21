@@ -66,20 +66,7 @@
 		"command"		"Cancel"
 		"Default"		"0"
 	}
-	"Divider1"
-	{
-		"ControlName"		"Divider"
-		"fieldName"		"Divider1"
-		"xpos"		"20"
-		"ypos"		"104"
-		"wide"		"340"
-		"tall"		"2"
-		
-		
-		"visible"		"0"
-		
-		
-	}
+
 	"Label1"
 	{
 		"ControlName"		"Label"
@@ -98,18 +85,5 @@
 		"dulltext"		"1"
 		////"brighttext"		"0"
 	}
-	"BannerAd"
-	{
-		"ControlName"		"HTML"
-		"fieldName"		"BannerAd"
-		"xpos"		"20"
-		"ypos"		"136"
-		"wide"		"340"
-		"tall"		"56"
-		
-		
-		"visible"		"0"
-		
-		
-	}
+
 }

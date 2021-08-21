@@ -1,2 +1,1 @@
-#base "../_jofrehud/resource/commentarypropertiessubpanel_node.res"
-#base "../_tf2hud/resource/resource/commentarypropertiessubpanel_node.res"
+#base	"../_jofrehud/_tf2exp/null.res"

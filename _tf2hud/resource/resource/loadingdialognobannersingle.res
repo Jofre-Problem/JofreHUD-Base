@@ -66,20 +66,7 @@
 		"command"		"Cancel"
 		"Default"		"0"
 	}
-	"Divider1"
-	{
-		"ControlName"		"Divider"
-		"fieldName"		"Divider1"
-		"xpos"		"20"
-		"ypos"		"104"
-		"wide"		"340"
-		"tall"		"2"
-		
-		
-		"visible"		"0"
-		
-		
-	}
+
 	"Label1"
 	{
 		"ControlName"		"Label"
@@ -98,68 +85,6 @@
 		"dulltext"		"1"
 		////"brighttext"		"0"
 	}
-	"BannerAd"
-	{
-		"ControlName"		"HTML"
-		"fieldName"		"BannerAd"
-		"xpos"		"20"
-		"ypos"		"136"
-		"wide"		"340"
-		"tall"		"56"
-		
-		
-		"visible"		"0"
-		
-		
-	}
-	"SecondaryProgressLabel"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"SecondaryProgressLabel"
-		"xpos"		"20"
-		"ypos"		"90"
-		"wide"		"260"
-		"tall"		"24"
-		
-		
-		"visible"		"0"
-		
-		
-		"labelText"		"Label"
-		//"textAlignment"		"west"
-		"dulltext"		"1"
-		////"brighttext"		"0"
-	}
-	"Progress2"
-	{
-		"ControlName"		"ProgressBar"
-		"fieldName"		"Progress2"
-		"xpos"		"20"
-		"ypos"		"114"
-		"wide"		"260"
-		"tall"		"24"
-		
-		
-		"visible"		"0"
-		
-		
-	}
-	"TimeRemainingLabel"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"TimeRemainingLabel"
-		"xpos"		"20"
-		"ypos"		"108"
-		"wide"		"260"
-		"tall"		"24"
-		
-		
-		"visible"		"0"
-		
-		
-		"labeltext"		""
-		//"textAlignment"		"west"
-		"dulltext"		"1"
-		////"brighttext"		"0"
-	}
+
+
 }

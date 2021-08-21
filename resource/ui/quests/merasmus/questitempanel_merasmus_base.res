@@ -1,4 +1,4 @@
-//#base "..\QuestItemPanel_Base.res"
+#base "..\QuestItemPanel_Base.res"
 
 "Resource/UI/econ/QuestItemPanel.res"
 {

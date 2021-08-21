@@ -9,10 +9,10 @@
 		"zpos"			"-1"
 		"wide"			"200"
 		"tall"			"35"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../HUD/tournament_panel_brown"
 
 		"src_corner_height"	"22"				// pixels inside the image
@@ -26,19 +26,19 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"WaveCountLabel"
-		"font"			"HudFontSmallest"
+		"font"			"HudFontSmallestBold"
 		"fgcolor"		"TanLight"
 		"xpos"			"200"
 		"ypos"			"6"
 		"zpos"			"3"
 		"wide"			"200"
 		"tall"			"15"
-		////"xpos_minmode"	"110"
-		////"wide_minmode"	"-300"
-		//"visible"		"1"
-		
+		"xpos_minmode"	"110"
+		"wide_minmode"	"-300"
+		"visible"		"1"
+		"enabled"		"1"
 		"textAlignment"				"center"
-		//"textAlignment_minmode"		"west"
+		"textAlignment_minmode"		"west"
 		"labelText"					"%wave_count%"
 	}
 	
@@ -46,20 +46,20 @@
 	{
 		"ControlName"	"Panel"
 		"fieldName"		"SeparatorBar"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"1"
 		"tall"			"30"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"scaleImage"	"1"
 		"PaintBackgroundType" "2"
 		"bgcolor_override"	"TanLight"
 		
 		if_verbose
 		{
-			//"visible"		"1"
+			"visible"		"1"
 		}
 	}
 	
@@ -67,7 +67,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SupportLabel"
-		"font"			"HudFontSmallest"
+		"font"			"HudFontSmallestBold"
 		"fgcolor"		"TanLight"
 		"xpos"			"55"
 		"ypos"			"6"
@@ -75,13 +75,13 @@
 		"wide"			"60"
 		"tall"			"15"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"textAlignment"				"west"
 		"labelText"					"#TF_MVM_Support"
 		
 		if_verbose
 		{
-			//"visible"		"1"
+			"visible"		"1"
 		}		
 	}
 	
@@ -94,11 +94,11 @@
 		"zpos"			"3"
 		"wide"			"178"
 		"tall"			"10"
-		////"xpos_minmode"	"231"
-		////"ypos_minmode"	"8"
-		////"wide_minmode"	"138"
-		//"visible"		"1"
-		
+		"xpos_minmode"	"231"
+		"ypos_minmode"	"8"
+		"wide_minmode"	"138"
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../HUD/tournament_panel_blu"
 		
 		"src_corner_height"	"22"				// pixels inside the image
@@ -117,11 +117,11 @@
 		"zpos"			"3"
 		"wide"			"180"
 		"tall"			"12"
-		////"xpos_minmode"	"230"
-		////"ypos_minmode"	"7"
-		////"wide_minmode"	"140"
-		//"visible"		"1"
-		
+		"xpos_minmode"	"230"
+		"ypos_minmode"	"7"
+		"wide_minmode"	"140"
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../HUD/tournament_panel_tan"
 		
 		"src_corner_height"	"22"				// pixels inside the image

@@ -4,11 +4,13 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudAchievementTrackerItem"
+		"xpos"			"0"		[$WIN32]
+		"ypos"			"0"		[$WIN32]
 		"zpos"			"3"
 		"wide"			"280"
 		"tall"			"29"
 		"visible"		"0"
-			
+		"enabled"		"1"	
 		
 		"PaintBackgroundType"	"2"
 	}
@@ -19,7 +21,7 @@
 		"fieldName"		"AchievementName"
 		"labeltext"		""
 		"xpos"			"5"
-		
+		"ypos"			"0"
 		"wide"			"270"
 		"tall"			"10"
 		"zpos"			"4"
@@ -33,11 +35,11 @@
 		"fieldName"		"AchievementNameGlow"
 		"labeltext"		""
 		"xpos"			"5"
-		
+		"ypos"			"0"
 		"wide"			"270"
 		"tall"			"10"
 		"zpos"			"4"
-		"fgcolor_override"		"TanLight"
+		"fgcolor_override"		"235 226 202 255"
 		"font"			"AchievementTracker_NameGlow"
 		"textinsetx"	"5"
 		"textAlignment"		"north-west"
@@ -54,8 +56,8 @@
 		"tall"			"18"
 		"zpos"			"4"
 		"textinsetx"	"5"
-		"fgcolor_override"		"TanLight"
-		"font"			"ControlPointTimerSmaller"
+		"fgcolor_override"		"235 226 202 255"
+		"font"			"AchievementTracker_Desc"
 		"wrap"			"1"
 		"TextAlignment"		"north-west"
 	}
@@ -70,8 +72,8 @@
 		"tall"		"6"
 		"fillcolor"	 "250 234 201 51"
 		"zpos"			"4"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 	}
 	
 	"ProgressBar" // current completed
@@ -84,7 +86,7 @@
 		"tall"			"6"
 		"fillcolor"		"251 235 202 255"
 		"zpos"			"5"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 	}
 }

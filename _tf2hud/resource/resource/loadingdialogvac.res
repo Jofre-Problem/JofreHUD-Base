@@ -66,24 +66,7 @@
 		"command"		"Cancel"
 		"Default"		"0"
 	}
-	"TimeRemainingLabel"
-	{
-		"ControlName"		"Label"
-		"fieldName"		"TimeRemainingLabel"
-		"xpos"		"20"
-		"ypos"		"108"
-		"wide"		"260"
-		"tall"		"24"
-		
-		
-		"visible"		"0"
-		
-		
-		"labeltext"		""
-		//"textAlignment"		"west"
-		"dulltext"		"1"
-		////"brighttext"		"0"
-	}
+
 	"VACInfoLabel"
 	{
 		"ControlName"		"Label"

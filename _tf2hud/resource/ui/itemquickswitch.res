@@ -8,15 +8,15 @@
 		"ypos"			"280"
 		"wide"			"275"
 		"tall"			"160"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		
 		"PaintBackgroundType"	"2"
-		"bgcolor_override"	"TanDarker"
+		"bgcolor_override"	"46 43 42 255"
 		
 		"itempanel_xpos"	"0"
 		"itempanel_ydelta"	"0"
@@ -27,7 +27,7 @@
 			"tall"			"40"
 			"bgcolor_override"		"59 54 48 255"
 			"PaintBackgroundType"	"2"
-			//"paintborder"	"0"
+			"paintborder"	"0"
 			"text_forcesize" "2"
 			
 			"model_xpos"	"25"
@@ -40,7 +40,7 @@
 			"text_wide"		"190"
 			"name_only"		"1"
 			
-			"noitem_textcolor"		"TanDark"
+			"noitem_textcolor"		"117 107 94 255"
 		}
 	}
 	
@@ -48,54 +48,54 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CaratLabel"
-		"font"			"HudFontSmallest"
+		"font"			"HudFontSmallestBold"
 		"labelText"		">>"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"xpos"			"5"
 		"ypos"			"5"
 		"zpos"			"1"
 		"wide"			"20"
 		"tall"			"15"
 		"autoResize"	"1"
-		
-		//"visible"		"1"
-		
-		"fgcolor_override" "LightRed"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor_override" "200 80 60 255"
 	}
 	"ClassLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassLabel"
-		"font"			"HudFontSmallest"
+		"font"			"HudFontSmallestBold"
 		"labelText"		"#ClassBeingEquipped"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"xpos"			"20"
 		"ypos"			"5"
 		"zpos"			"1"
 		"wide"			"60"
 		"tall"			"15"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 	}
 
 	"ItemSlotLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ItemSlotLabel"
-		"font"			"HudFontSmallest"
+		"font"			"HudFontSmallestBold"
 		"labelText"		"#PrimaryWeapon"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"xpos"			"80"
 		"ypos"			"5"
 		"zpos"			"1"
 		"wide"			"140"
 		"tall"			"15"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 	}
 	
 	"TopLine"
@@ -107,11 +107,11 @@
 		"zpos"			"2"
 		"wide"			"265"
 		"tall"			"10"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
-		//"tileVertically" "0"
+		"tileVertically" "0"
 	}				
 		
 	"itemcontainerscroller"
@@ -133,7 +133,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"itemcontainer"
 		"xpos"			"30"
-		
+		"ypos"			"0"
 		"wide"			"240"
 		"tall"			"125"
 		"PaintBackgroundType"	"2"
@@ -143,7 +143,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CurrentlyEquippedBackground"
-			"font"			"ItemFontNameSmall"
+			"font"			"ItemFontNameSmallest"
 			"labelText"		"#QuickSwitchEquipped"
 			"textAlignment"	"north-west"
 			"xpos"			"3"
@@ -151,10 +151,10 @@
 			"zpos"			"100"
 			"wide"			"200"
 			"tall"			"40"
-			//"visible"		"1"
+			"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"fgcolor_override" "LightRed"
-			"bgcolor_override"	"Blank"
+			"fgcolor_override" "200 80 60 255"
+			"bgcolor_override"	"0 0 0 0"
 		}
 	}
 	
@@ -162,19 +162,19 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NoItemsLabel"
-		"font"			"ItemFontNameSmall"
+		"font"			"ItemFontNameSmallest"
 		"labelText"		"#NoItemsToEquip"
 		"textAlignment"	"center"
 		"xpos"			"3"
-		
+		"ypos"			"0"
 		"zpos"			"10"
 		"wide"			"220"
 		"tall"			"30"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
-		"fgcolor_override" "LightRed"
+		"enabled"		"1"
+		"fgcolor_override" "200 80 60 255"
 	}
 	
 	"loadout_preset_panel"
@@ -186,11 +186,11 @@
 		"zpos"			"20"
 		"wide"			"25"
 		"tall"			"120"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"paintbackground"	"0"
 	}
 }

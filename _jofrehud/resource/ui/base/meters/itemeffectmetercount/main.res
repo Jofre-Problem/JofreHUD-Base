@@ -9,7 +9,7 @@
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"	
-		"pinCorner"				"2"
+		//"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"

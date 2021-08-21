@@ -4,14 +4,14 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"Background"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"250"
 		"tall"			"80"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../HUD/tournament_panel_brown"
 
 		"src_corner_height"	"22"				// pixels inside the image
@@ -25,26 +25,26 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"WaveCompleteContainer"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"250"
 		"tall"			"35"
-		//"visible"		"1"
+		"visible"		"1"
 		"PaintBackgroundType" "2"
 		
 		"WaveCompleteLabelShadow"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"WaveCompleteLabelShadow"
-			"font"			"HudFontMediumSmall"
+			"font"			"HudFontMediumSmallBold"
 			"textAlignment"	"center"
 			"labelText"		"%titletext%"
 			"xpos"			"3"
 			"ypos"			"3"
 			"wide"			"245"
 			"tall"			"36"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"fgcolor"		"black"		
 			
 			// Red Background
@@ -57,16 +57,16 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"WaveCompleteLabel"
-			"font"			"HudFontMediumSmall"
+			"font"			"HudFontMediumSmallBold"
 			"textAlignment"	"center"
 			"labelText"		"%titletext%"
 			"xpos"			"2"
 			"ypos"			"2"
 			"wide"			"244"
 			"tall"			"35"
-			//"visible"		"1"
-			
-			"fgcolor"		"TanLight"		
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor"		"tanlight"		
 		}
 	}
 		
@@ -74,12 +74,12 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"CreditContainer"
-		
+		"xpos"			"0"
 		"ypos"			"30"
 		"wide"			"400"
 		"tall"			"400"
 		"autoResize"	"1"
-		//"visible"		"1"
+		"visible"		"1"
 		
 		"CreditCollectedTextLabel"
 		{
@@ -88,11 +88,11 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_CurrencyCollected"
 			"textAlignment" "north-east"
-			
+			"xpos"			"0"
 			"ypos"			"9"
 			"wide"			"105"
 			"tall"			"20"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"tanlight"
 		}
 		
 		"CreditCollectedCountLabel"
@@ -116,11 +116,11 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_Missed"
 			"textAlignment" "north-east"
-			
+			"xpos"			"0"
 			"ypos"			"21"
 			"wide"			"105"
 			"tall"			"20"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"tanlight"
 		}
 		
 		"CreditMissedCountLabel"
@@ -144,11 +144,11 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_PVE_Bonus"
 			"textAlignment" "north-east"
-			
+			"xpos"			"0"
 			"ypos"			"33"
 			"wide"			"105"
 			"tall"			"20"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"tanlight"
 		}
 		
 		"CreditBonusCountLabel"
@@ -175,7 +175,7 @@
 		"wide"			"400"
 		"tall"			"400"
 		"autoResize"	"1"
-		//"visible"		"1"
+		"visible"		"1"
 		
 		"RatingLabel"
 		{
@@ -184,18 +184,18 @@
 			"font"			"HudFontSmall"
 			"labelText"		"%ratinglabel%"
 			"textAlignment" "center"
-			
+			"xpos"			"0"
 			"ypos"			"5"
 			"wide"			"115"
 			"tall"			"20"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"tanlight"
 		}
 		
 		"RatingTextShadow"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"RatingTextShadow"
-			"font"			"HudFontMediumSecondary"
+			"font"			"HudFontMediumBold"
 			"labelText"		"%ratingscore%"
 			"textAlignment" "center"
 			"xpos"			"1"
@@ -209,10 +209,10 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"RatingText"
-			"font"			"HudFontMediumSecondary"
+			"font"			"HudFontMediumBold"
 			"labelText"		"%ratingscore%"
 			"textAlignment" "center"
-			
+			"xpos"			"0"
 			"ypos"			"19"
 			"wide"			"115"
 			"tall"			"30"
@@ -224,14 +224,14 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"RespecBackground"
-		
+		"xpos"			"0"
 		"ypos"			"80"
 		"wide"			"250"
 		"tall"			"25"
-		
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
 		"visible"		"0"
-		
+		"enabled"		"1"
 		"image"			"../HUD/tournament_panel_brown"
 
 		"src_corner_height"	"22"				// pixels inside the image
@@ -245,11 +245,11 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"RespecContainer"
-		
+		"xpos"			"0"
 		"ypos"			"80"
 		"wide"			"250"
 		"tall"			"25"
-		//"visible"		"1"
+		"visible"		"1"
 		"PaintBackgroundType" "2"
 	
 		"RespecTextLabelWin"
@@ -259,11 +259,11 @@
 			"font"			"HudFontSmall"
 			"labelText"		"#TF_PVE_Respecs"
 			"textAlignment" "center"
-			
+			"xpos"			"0"
 			"ypos"			"3"
 			"wide"			"160"
 			"tall"			"20"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"tanlight"
 		}
 		
 		"RespecCountLabel"

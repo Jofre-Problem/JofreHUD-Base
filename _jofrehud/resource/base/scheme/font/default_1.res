@@ -7,7 +7,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				
 				"tall"		"14"
 				//"antialias"	"1"

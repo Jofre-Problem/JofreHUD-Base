@@ -2,6 +2,6 @@
 {
 	"ItemBackground"
 	{
-		"iconColor"		"ProgressOffWhite"
+		"iconColor"		"231 235 205 255"
 	}	
 }	

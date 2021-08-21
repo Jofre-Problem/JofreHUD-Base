@@ -6,7 +6,7 @@
 		"zpos"			"1001"
 		"wide"			"200"
 		"tall"			"35"
-		//"visible"		"1"
+		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"border"		"ReplayDefaultBorder"
 		"paintbackground"	"0"
@@ -22,7 +22,7 @@
 		"zpos"			"101"
 		"wide"			"25"
 		"tall"			"25"
-		//"visible"		"1"
+		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"scaleImage"	"1"
 	}
@@ -40,7 +40,7 @@
 		}
 
 		"xpos"			"rs1-30"
-		
+		"ypos"			"0"
 		"wide"			"f65"
 		"tall"			"17"
 		"labelText"		"%invite%"
@@ -87,7 +87,7 @@
 		"zpos"			"104"
 		"wide"			"o1"
 		"tall"			"20"
-		//"visible"		"1"
+		"visible"		"1"
 
 		if_incoming
 		{
@@ -114,18 +114,18 @@
 		"zpos"			"100"
 		"tall"			"15"
 				
-		//"visible"		"1"
+		"visible"		"1"
 
-		
-		
-		"font"			"HudFontSmallest"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"accept"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#Notifications_Accept"
-		//"mouseinputenabled"	"1"
+		"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
 
@@ -153,18 +153,18 @@
 		"zpos"			"100"
 		"tall"			"15"
 				
-		//"visible"		"1"
+		"visible"		"1"
 
-		
-		
-		"font"			"HudFontSmallest"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"decline"
 		"proportionaltoparent"	"1"
 		"labeltext"		"%cancel_text%"
-		//"mouseinputenabled"	"1"
+		"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
 

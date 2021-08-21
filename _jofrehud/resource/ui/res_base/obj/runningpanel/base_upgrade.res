@@ -17,7 +17,7 @@
 				//"enabled"		"1"
 				"scaleImage"	"1"	
 				"icon"			"ico_metal"
-				"iconColor"		"ProgressOffWhite"
+				"iconColor"		"231 235 205 255"
 			}
 			
 			"Upgrade"

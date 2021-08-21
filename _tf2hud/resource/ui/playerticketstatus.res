@@ -9,7 +9,7 @@
 		"zpos"			"101"
 		"wide"			"26"
 		"tall"			"o1"
-		//"visible"		"1"
+		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"scaleImage"	"1"
 	}
@@ -48,13 +48,13 @@
 	{
 		// "ControlName"	"ImagePanel"
 		"fieldName"		"TourOfDutyTicket"
-		
+		"xpos"			"0"
 		"ypos"			"30"
 		"zpos"			"105"
 		"wide"			"28"
 		"tall"			"o1"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"pve/mvm_ticket_active"
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
@@ -66,13 +66,13 @@
 	{
 		// "ControlName"	"ImagePanel"
 		"fieldName"		"SquadSurplusTicket"
-		
+		"xpos"			"0"
 		"ypos"			"50"
 		"zpos"			"105"
 		"wide"			"28"
 		"tall"			"o1"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"pve/mvm_voucher_active"
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"

@@ -137,7 +137,7 @@ Scheme
 		{
 			"1"	//[$WIN32]
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"18"
 				"weight"	"500"
 				//"additive"	"0"
@@ -156,7 +156,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"35"
 				//"tall_lodef"	"40"
 				"weight"	"500"
@@ -169,7 +169,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"14"
 				"weight"	"500"
 			}
@@ -179,7 +179,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -187,7 +187,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -195,7 +195,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -204,7 +204,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"19"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -213,7 +213,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				"tall"		"19"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -227,8 +227,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [!$OSX]
-				"name"		"Segoe UI" [$OSX]
+				"name"		"Calibri" [!$OSX]
+				"name"		"Calibri" [$OSX]
 				"weight"		"1500"
 				"tall"			"16" [!$OSX]
 				"tall"			"18" [$OSX]
@@ -240,8 +240,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [!$OSX]
-				"name"		"Segoe UI" [$OSX]
+				"name"		"Calibri" [!$OSX]
+				"name"		"Calibri" [$OSX]
 				"weight"		"1500"
 				"tall"			"18" [!$OSX]
 				"tall"			"19" [$OSX]
@@ -253,8 +253,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI" [!$OSX]
-				"name"		"Segoe UI" [$OSX]
+				"name"		"Calibri" [!$OSX]
+				"name"		"Calibri" [$OSX]
 				"weight"		"1000"
 				"tall"			"14" [!$OSX]
 				"tall"			"12" [$OSX]

@@ -4,20 +4,20 @@
 	{
 		"ControlName"		"Frame"
 		"fieldName"		"giveaway_item"
-		
-		
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
-		
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
 		"settitlebarvisible"	"0"
-		//"PaintBackgroundType"	"0"
-		"bgcolor_override"	"TanDarker"
-		"infocus_bgcolor_override" "TanDarker"
-		"outoffocus_bgcolor_override" "TanDarker"
+		"PaintBackgroundType"	"0"
+		"bgcolor_override"	"46 43 42 255"
+		"infocus_bgcolor_override" "46 43 42 255"
+		"outoffocus_bgcolor_override" "46 43 42 255"
 		
 		"player_ypos"		"200"
 		"player_xoffset"	"10"
@@ -26,8 +26,8 @@
 		{
 			"wide"				"240"
 			"tall"				"22"
-			"fgcolor_local"		"LightRed"
-			"fgcolor_other"		"TanLight"
+			"fgcolor_local"		"200 80 60 255"
+			"fgcolor_other"		"235 226 202 255"
 		
 			"name_label"
 			{
@@ -35,16 +35,16 @@
 				"fieldName"		"name_label"
 				"font"			"HudFontSmallest"
 				"labelText"		"%playername%"
-				//"textAlignment"	"west"
+				"textAlignment"	"west"
 				"xpos"			"10"
 				"ypos"			"4"
 				"wide"			"200"
 				"tall"			"15"
 				"autoResize"	"1"
-				
-				//"visible"		"1"
-				
-				"fgcolor_override" "LightRed"
+				"pinCorner"		"0"
+				"visible"		"1"
+				"enabled"		"1"
+				"fgcolor_override" "200 80 60 255"
 			}
 			"score_label"
 			{
@@ -52,15 +52,15 @@
 				"fieldName"		"score_label"
 				"font"			"HudFontSmallest"
 				"labelText"		"%playerscore%"
-				//"textAlignment"	"west"
+				"textAlignment"	"west"
 				"xpos"			"220"
 				"ypos"			"4"
 				"wide"			"20"
 				"tall"			"15"
 				"autoResize"	"1"
-				
-				//"visible"		"1"
-				
+				"pinCorner"		"0"
+				"visible"		"1"
+				"enabled"		"1"
 			}
 		}
 	}
@@ -69,37 +69,37 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CaratLabel"
-		"font"			"HudFontSmallest"
+		"font"			"HudFontSmallestBold"
 		"labelText"		">>"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"xpos"			"c-300"
 		"ypos"			"20"
 		"zpos"			"1"
 		"wide"			"20"
 		"tall"			"15"
 		"autoResize"	"1"
-		
-		//"visible"		"1"
-		
-		"fgcolor_override" "LightRed"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor_override" "200 80 60 255"
 	}
 	
 	"ClassLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassLabel"
-		"font"			"HudFontMediumSecondary"
+		"font"			"HudFontMediumBold"
 		"labelText"		"REWARD GIVEAWAY"
-		//"textAlignment"	"west"
+		"textAlignment"	"west"
 		"xpos"			"c-280"
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"440"
 		"tall"			"25"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 	}
 	
 	"TopLine"
@@ -111,11 +111,11 @@
 		"zpos"			"2"
 		"wide"			"610"
 		"tall"			"10"
-		//"visible"		"1"
-		
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
-		//"tileVertically" "0"
+		"tileVertically" "0"
 	}				
 	
 	"item_panel"
@@ -126,9 +126,9 @@
 		"ypos"			"60"
 		"wide"			"200"
 		"tall"			"125"
-		//"visible"		"1"
-		"bgcolor_override"		"Blank"
-		"noitem_textcolor"		"TanDark"
+		"visible"		"1"
+		"bgcolor_override"		"0 0 0 0"
+		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		
@@ -146,23 +146,23 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"CloseButton"
-		
+		"xpos"			"0"
 		"ypos"			"420"
 		"zpos"			"6"
 		"wide"			"50"
 		"tall"			"5"
-		
+		"autoResize"	"0"
 		"pinCorner"		"2"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labelText"		"#CloseItemPanel"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"Command"		"vguicancel"
-		//"Default"		"1"
+		"default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}

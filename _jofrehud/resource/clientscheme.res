@@ -18,7 +18,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				
 				"tall"		"15"
 			}
@@ -27,7 +27,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				
 				"tall"		"15"
 			}
@@ -36,7 +36,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				
 				"tall"		"15"
 			}
@@ -45,7 +45,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"Calibri"
 				
 				tall		"47"
 			}
@@ -55,7 +55,7 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"Segoe UI"			
+				"name"		"Calibri"			
 				"tall"		"24"
 			}
 		}
@@ -63,7 +63,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"		
+				"name"		"Calibri"		
 				"tall"		"16"		
 			}
 		}							

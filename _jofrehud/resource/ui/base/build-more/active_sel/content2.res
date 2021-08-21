@@ -11,6 +11,6 @@
 		//"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg_outline"
-		"iconColor"		"TanLight"
+		"iconColor"		"235 235 235 255"
 	}	
 }	

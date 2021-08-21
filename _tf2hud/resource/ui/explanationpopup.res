@@ -4,20 +4,20 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"labelText"		"%title%"
 		"textAlignment"	"north"
 		"xpos"			"cs-0.5"
 		"ypos"			"10"
 		"wide"			"f20"
 		"tall"			"30"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"wrap"			"1"
 		"proportionaltoparent"	"1"
-		"fgcolor_override" "TanDarker"
+		"fgcolor_override" "46 43 42 255"
 		"auto_tall_tocontents"	"1"
 	}
 		
@@ -32,13 +32,13 @@
 		"ypos"			"45"
 		"wide"			"f20"
 		"tall"			"135"
-		
-		
-		//"visible"		"1"
-		
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"wrap"			"1"
 		"proportionaltoparent"	"1"
-		"fgcolor_override" "TanDarker"
+		"fgcolor_override" "46 43 42 255"
 		"auto_tall_tocontents"	"1"
 	}
 		
@@ -51,27 +51,27 @@
 		"zpos"			"10"
 		"wide"			"24"
 		"tall"			"20"
-		
-		//"visible"		"1"
-		
-		
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labeltext"		""
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"default"		"0"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"Command"		"close"
 		"proportionaltoparent"	"1"
-		
+		"autoresize"		"0"
 			
 		"paintbackground"	"0"
 			
-		"defaultFgColor_override" "TanDarker"
-		"armedFgColor_override" "LightRed"
-		"depressedFgColor_override" "TanDarker"
+		"defaultFgColor_override" "46 43 42 255"
+		"armedFgColor_override" "200 80 60 255"
+		"depressedFgColor_override" "46 43 42 255"
 			
 		"image_drawcolor"	"117 107 94 255"
 		"image_armedcolor"	"200 80 60 255"
@@ -79,13 +79,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			
+			"xpos"			"0"
 			"ypos"			"rs1"
 			"zpos"			"1"
 			"wide"			"14"
 			"tall"			"14"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"close_button"
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
@@ -97,18 +97,18 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"PrevButton"
 		"xpos"			"10"
-		
+		"ypos"			"0"
 		"zpos"			"10"
 		"wide"			"30"
 		"tall"			"30"
-		//"visible"		"1"
-		
-		
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labeltext"		""
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"default"		"0"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -118,9 +118,9 @@
 			
 		"paintbackground"	"0"
 			
-		"defaultFgColor_override" "TanDarker"
-		"armedFgColor_override" "LightRed"
-		"depressedFgColor_override" "TanDarker"
+		"defaultFgColor_override" "46 43 42 255"
+		"armedFgColor_override" "200 80 60 255"
+		"depressedFgColor_override" "46 43 42 255"
 			
 		"image_drawcolor"	"235 226 202 255"
 		"image_armedcolor"	"255 255 255 255"
@@ -128,13 +128,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			
-			
-			//"zpos"			"1"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"1"
 			"wide"			"30"
 			"tall"			"30"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"blog_back"
 			"scaleImage"	"1"
 		}				
@@ -144,19 +144,19 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"NextButton"
 		"xpos"			"rs1-5"
-		
+		"ypos"			"0"
 		"zpos"			"10"
 		"wide"			"30"
 		"tall"			"30"
-		
-		//"visible"		"1"
-		
-		
+		"autoResize"	"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
 		"labeltext"		""
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
 		"default"		"0"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -166,9 +166,9 @@
 			
 		"paintbackground"	"0"
 			
-		"defaultFgColor_override" "TanDarker"
-		"armedFgColor_override" "LightRed"
-		"depressedFgColor_override" "TanDarker"
+		"defaultFgColor_override" "46 43 42 255"
+		"armedFgColor_override" "200 80 60 255"
+		"depressedFgColor_override" "46 43 42 255"
 			
 		"image_drawcolor"	"235 226 202 255"
 		"image_armedcolor"	"255 255 255 255"
@@ -176,13 +176,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			
-			
-			//"zpos"			"1"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"1"
 			"wide"			"30"
 			"tall"			"30"
-			//"visible"		"1"
-			
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"blog_forward"
 			"scaleImage"	"1"
 		}				
@@ -191,17 +191,17 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PositionLabel"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallBold"
 		"labelText"		"%explanationnumber%"
 		"textAlignment"	"center"
 		"xpos"			"cs-0.5"
-		
+		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"300"
 		"tall"			"30"
-		//"visible"		"1"
-		
-		"fgcolor_override" "LightRed"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor_override" "200 80 60 255"
 		"proportionaltoparent"	"1"
 		"skip_autoresize"	"1"
 	}		

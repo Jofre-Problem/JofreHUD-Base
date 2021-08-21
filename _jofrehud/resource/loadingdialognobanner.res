@@ -64,5 +64,5 @@
 #base "../#uni_base/filesv1/label1/position/y109.res"
 #base "../#uni_base/filesv1/label1/label/gameui_loading.res"
 
-#base "../#uni_base/filesv1/bannerad/main.res"
-#base "../#uni_base/filesv1/bannerad/vis0.res"
+//#base "../#uni_base/filesv1/bannerad/main.res"
+//#base "../#uni_base/filesv1/bannerad/vis0.res"
