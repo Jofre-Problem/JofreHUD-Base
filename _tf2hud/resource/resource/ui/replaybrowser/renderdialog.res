@@ -47,7 +47,7 @@
 		//"zpos"			"1"
 		"wide"			"300"
 		"tall"			"25"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -443,7 +443,7 @@
 		//"zpos"			"1"
 		"wide"			"300"
 		"tall"			"10"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		"visible"		"0"
 		
@@ -485,7 +485,7 @@
 		
 		//"zpos"			"1"
 		"wide"			"220"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		"visible"		"0"
 		

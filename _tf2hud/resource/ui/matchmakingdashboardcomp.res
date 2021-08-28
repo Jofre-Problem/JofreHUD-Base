@@ -10,7 +10,7 @@
 		"zpos"			"1002"
 		"wide"			"270"
 		"tall"			"f70"
-		"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -25,8 +25,8 @@
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_HeaderCompetitive"
-		"textAlignment"	"west"
-		"font"			"HudFontMediumBigBold"
+		//"textAlignment"	"west"
+		"font"			"HudFontMediumBig"
 		"fgcolor_override"	"TanDark"
 		
 		"mouseinputenabled"	"0"
@@ -41,16 +41,16 @@
 		"zpos"			"100"
 		"wide"			"15"
 		"tall"			"o1"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"?"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"default"		"0"
 		"Command"		"show_explanations"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -68,9 +68,9 @@
 		"zpos"			"1000"
 		"wide"			"8"
 		"tall"			"8"
-		"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"image"			"info"
 		"scaleImage"	"1"	
 		"alpha"			"75"
@@ -84,7 +84,7 @@
 		"zpos"			"100"
 		"wide"			"305"
 		"tall"			"f80"
-		"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -98,8 +98,8 @@
 		"wide"			"f20"
 		"tall"			"20"
 		"visible"		"0"
-		"enabled"		"1"
-		"mouseinputenabled"	"1"
+		
+		//"mouseinputenabled"	"1"
 		"eatmouseinput"	"0"	
 		"showtooltipswhenmousedisabled"	"1"
 		"proportionaltoparent" "1"
@@ -114,19 +114,19 @@
 		"zpos"			"100"
 		"wide"			"f20"
 		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"font"			"HudFontMediumSmallBold"
+		
+		//"pinCorner"			"3"
+		//"visible"		"1"
+		
+		
+		"font"			"HudFontMediumSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"find_game"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_StartSearch"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
 

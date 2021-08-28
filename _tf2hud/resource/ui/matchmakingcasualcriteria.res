@@ -5,16 +5,16 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PlaylistBGPanel"
 		"xpos"			"cs-0.5"
-		"ypos"			"0"
+		
 		"zpos"			"-1"
 		"wide"			"p0.98"
 		"tall"			"p1"
-		"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"proportionaltoparent"	"1"
 
-		"pinCorner"		"2"
-		"autoResize"	"1"
+		//"pinCorner"			"2"
+		//"autoResize"	"1"
 
 		"RankImage"
 		{
@@ -25,8 +25,8 @@
 			"zpos"			"110"
 			"wide"			"o1"
 			"tall"			"60"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -42,7 +42,7 @@
 			"zpos"			"100"
 			"wide"			"330"
 			"tall"			"92"
-			"visible"		"1"
+			//"visible"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
@@ -61,16 +61,16 @@
 			"zpos"			"100"
 			"wide"			"15"
 			"tall"			"o1"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"labelText"		""
-			"font"			"HudFontSmallBold"
+			
+			
+			//"visible"		"1"
+			
+			
+			"labeltext"		""
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"default"		"0"
 			"Command"		"restore_search_criteria"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -88,8 +88,8 @@
 				"zpos"			"1"
 				"wide"			"11"
 				"tall"			"11"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"image"			"button_load"
 				"scaleImage"	"1"
 			}
@@ -104,16 +104,16 @@
 			"zpos"			"100"
 			"wide"			"15"
 			"tall"			"o1"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"labelText"		""
-			"font"			"HudFontSmallBold"
+			
+			
+			//"visible"		"1"
+			
+			
+			"labeltext"		""
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"default"		"0"
 			"Command"		"save_search_criteria"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -131,8 +131,8 @@
 				"zpos"			"1"
 				"wide"			"11"
 				"tall"			"11"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"image"			"button_save"
 				"scaleImage"	"1"
 			}
@@ -147,16 +147,16 @@
 			"zpos"			"100"
 			"wide"			"15"
 			"tall"			"o1"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labelText"		"?"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"default"		"0"
 			"Command"		"show_explanations"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -171,13 +171,13 @@
 			"fieldName"		"Title"
 			"xpos"		"10"
 			"ypos"		"47"
-			"zpos"		"0"
+			
 			"wide"		"f0"
 			"tall"		"20"
 			"proportionaltoparent"	"1"
 			"labeltext"		"#TF_Casual_MapSelection"
 			"textAlignment"	"north-west"
-			"font"			"HudFontMediumSmallBold"
+			"font"			"HudFontMediumSmall"
 		
 			"mouseinputenabled"	"0"
 		}
@@ -188,16 +188,16 @@
 			"fieldName"		"SelectedCount"
 			"xpos"		"10"
 			"ypos"		"33"
-			"zpos"		"0"
+			
 			"wide"		"f0"
 			"tall"		"20"
 			"proportionaltoparent"	"1"
 			"labeltext"		"%selected_maps_count%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"font"			"HudFontSmallest"
 			"fgcolor_override"	"TanDark"
 		
-			"mouseinputenabled"	"1"
+			//"mouseinputenabled"	"1"
 		}
 
 		"QueueEstimation"
@@ -206,7 +206,7 @@
 			"fieldName"		"QueueEstimation"
 			"xpos"		"rs1-5"
 			"ypos"		"18"
-			"zpos"		"0"
+			
 			"wide"		"f0"
 			"tall"		"20"
 			"proportionaltoparent"	"1"
@@ -229,7 +229,7 @@
 			"zpos"			"101"
 			"wide"			"f15"
 			"tall"			"f65"
-			"visible"		"1"
+			//"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"InnerShadowBorder"
 			"proportionaltoparent"	"1"
@@ -244,7 +244,7 @@
 			"ypos"			"65"
 			"wide"			"f15"
 			"tall"			"f65"
-			"visible"		"1"
+			//"visible"		"1"
 			"proportionaltoparent"	"1"
 			"restrict_width" "0"
 
@@ -255,7 +255,7 @@
 				"ControlName"	"ScrollBar"
 				"FieldName"		"ScrollBar"
 				"xpos"			"rs1-1"
-				"ypos"			"0"
+				
 				"tall"			"f0"
 				"wide"			"5" // This gets slammed from client schme.  GG.
 				"zpos"			"1000"

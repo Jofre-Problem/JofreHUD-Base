@@ -4,43 +4,43 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"LeaderboardEntry"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"zpos"			"2"
 		"wide"			"230"
 		"tall"			"22"
-		"visible"		"1"
+		//"visible"		"1"
 	
 		"Position"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Position"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"%position%"
-			"textAlignment"	"west"
-			"xpos"			"0"
+			//"textAlignment"	"west"
+			
 			"ypos"			"2"
 			"zpos"			"2"
 			"wide"			"16"
 			"tall"			"16"
-			"autoResize"	"1"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"wrap"			"0"
+			//"autoResize"	"1"
+			
+			//"visible"		"1"
+			
+			//"wrap"			"0"
 		}
 		"Background"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"AvatarPanel0"
 			"xpos"			"14"
-			"ypos"			"0"
+			
 			"zpos"			"2"
 			"wide"			"20"
 			"tall"			"20"
-			"visible"		"1"
+			//"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"	"117 107 94 255"
+			"bgcolor_override"	"TanDark"
 		}
 		"AvatarImage"
 		{
@@ -51,9 +51,9 @@
 			"zpos"			"3"
 			"wide"			"16"
 			"tall"			"16"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			""
+			//"visible"		"1"
+			
+			//"image"			""
 			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
 		}
@@ -61,19 +61,19 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"UserName"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"%username%"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"xpos"			"40"
 			"ypos"			"2"
 			"zpos"			"2"
 			"wide"			"180"
 			"tall"			"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"wrap"			"0"
+			
+			
+			//"visible"		"1"
+			
+			//"wrap"			"0"
 		}
 		"RankImage"
 		{
@@ -84,8 +84,8 @@
 			"zpos"			"100"
 			"wide"			"o1"
 			"tall"			"40"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"proportionaltoparent"	"1"
 		}
 		"StreamImageButton"
@@ -98,9 +98,9 @@
 			"wide"			"20"
 			"tall"			"20"
 			"visible"		"0"
-			"enabled"		"1"
+			
 			"scaleImage"	"1"
-			"labelText"		""
+			"labeltext"		""
 			"proportionaltoparent"	"1"
 			"actionsignallevel" "4"
 
@@ -116,13 +116,13 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
-				"ypos"			"0"
-				"zpos"			"1"
+				
+				
+				//"zpos"			"1"
 				"wide"			"16"
 				"tall"			"16"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"image"			"button_streaming_glb"
 				"scaleImage"	"1"
 			}

@@ -28,7 +28,7 @@
 		//"wide"		"390"
 		//"tall"		"24"
 		
-		////"autoResize"		"1"
+		//////"autoResize"		"1"
 		
 		//////"visible"		"1"
 		
@@ -68,7 +68,7 @@
 		//"wide"		"390"
 		//"tall"		"24"
 		
-		////"autoResize"		"1"
+		//////"autoResize"		"1"
 		
 		//////"visible"		"1"
 		

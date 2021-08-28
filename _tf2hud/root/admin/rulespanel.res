@@ -8,7 +8,7 @@
 		//////"ypos"		"10"
 		//"wide"		"540" 
 		//"tall"		"210"
-		//////"autoResize"	"3"
+		////////"autoResize"	"3"
 		
 		//////"visible"		"1"
 		
@@ -23,7 +23,7 @@
 		//"wide"		"80"
 		//"tall"		"24"
 		
-		//////"pinCorner"		"2"
+		////////"pinCorner"			"2"
 		//////"visible"		"1"
 		
 		//////"tabPosition"		"2"

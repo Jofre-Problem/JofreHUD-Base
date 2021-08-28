@@ -15,7 +15,7 @@
 		//"visible"		"1"
 		
 		"labelText"		"#TF_Object_tele_exit_360"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}

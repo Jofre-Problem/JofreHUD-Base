@@ -99,7 +99,7 @@
 			
 			"scaleImage"	"1"	
 			"icon"			"hud_menu_item_bg_outline"
-			"iconColor"		"231 235 205 255"
+			"iconColor"		"251 235 202 255"
 		}
 	}
 		
@@ -352,7 +352,7 @@
 		//"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Spy_Toggle"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
@@ -389,7 +389,7 @@
 		//"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Spy_Select_Disguise"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
@@ -426,7 +426,7 @@
 		//"visible"		"1"
 		
 		"labelText"		"#Cancel"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}

@@ -24,7 +24,7 @@
 			//////"ypos"			"6"
 			//"wide"			"463"
 			//"tall"			"212"
-			////"autoResize"	"3"
+			//////"autoResize"	"3"
 			
 			//"PinnedCornerOffsetX" "6"
 			//"PinnedCornerOffsetY" "6"

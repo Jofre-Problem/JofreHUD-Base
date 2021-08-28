@@ -30,8 +30,8 @@
 		"zpos"					"2"
 		"wide"					"41"
 		"tall"					"15"
-		"autoResize"			"1"
-		"pinCorner"				"2"
+		//"autoResize"			"1"
+		//"pinCorner"					"2"
 		
 		////"visible_minmode"		"0"
 		
@@ -60,7 +60,7 @@
 		
 		
 		
-		"textAlignment"			"Left"
+		//"textAlignment"			"Left"
 		//"dulltext"				"0"
 		//"brighttext"			"0"
 	}				
@@ -107,8 +107,8 @@
 			"wide"			"35"
 			"tall"			"20"
 			//"tall_lodef"	"28"
-			"autoResize"	"1"
-			"pinCorner"		"2"
+			//"autoResize"	"1"
+			//"pinCorner"			"2"
 			//"visible"		"1"
 			
 			
@@ -132,8 +132,8 @@
 			"wide"			"35"
 			"tall"			"20"
 			//"tall_lodef"	"28"
-			"autoResize"	"1"
-			"pinCorner"		"2"
+			//"autoResize"	"1"
+			//"pinCorner"			"2"
 			//"visible"		"1"
 			
 			
@@ -190,8 +190,8 @@
 			"wide"			"35"
 			"tall"			"20"
 			//"tall_lodef"	"28"
-			"autoResize"	"1"
-			"pinCorner"		"2"
+			//"autoResize"	"1"
+			//"pinCorner"			"2"
 			//"visible"		"1"
 			
 			
@@ -215,8 +215,8 @@
 			"wide"			"35"
 			"tall"			"20"
 			//"tall_lodef"	"28"
-			"autoResize"	"1"
-			"pinCorner"		"2"
+			//"autoResize"	"1"
+			//"pinCorner"			"2"
 			//"visible"		"1"
 			
 			

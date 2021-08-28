@@ -121,7 +121,7 @@
 		"zpos"			"1"
 		"wide"			"20"
 		"tall"			"15"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -672,7 +672,7 @@
 		"zpos"			"1"
 		"wide"			"45"
 		"tall"			"20"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -711,7 +711,7 @@
 		"wide"	 			"286"
 		"tall"				"50"
 		"wrap"				"1"
-		"autoResize"		"1"
+		//"autoResize"		"1"
 		
 		//"visible"			"1"
 		
@@ -745,7 +745,7 @@
 		"zpos"			"1"
 		"wide"			"286"
 		"tall"			"15"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		"visible"		"0"
 		
@@ -843,7 +843,7 @@
 	{
 		"ControlName"		"CArmoryPanel"
 		"fieldName"			"armory_panel"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"60"
 		"wide"				"f0"
 		"tall"				"400"

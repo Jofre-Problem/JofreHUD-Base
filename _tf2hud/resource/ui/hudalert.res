@@ -4,15 +4,15 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"HudAlertBG"
-		"xpos"			"0"
+		
 		"ypos"			"30"
 		"zpos"			"-1"
 		"wide"			"320"
 		"tall"			"150"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"image"			"../hud/death_panel_blue_bg"
 		"scaleImage"		"1"
 		"teambg_2"		"../hud/death_panel_red_bg"
@@ -22,21 +22,20 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"AlertLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"xpos"			"80"
 		"ypos"			"70"
-		//"ypos_hidef"	"23"
-		//"ypos_lodef"	"20"
+		////"ypos_hidef"	"23"
+		////"ypos_lodef"	"20"
 		"zpos"			"1"
-		"wide"			"230"	[$WIN32]
-		"wide"			"180"	[$X360]
+		"wide"			"230"
 		"tall"			"55"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"wrap"			"1"
-		"labelText"		""
+		"labeltext"		""
 		"textAlignment"		"North"
 	}
 	"AlertImage"
@@ -48,10 +47,10 @@
 		"zpos"			"1"
 		"wide"			"50"
 		"tall"			"50"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"image"			"../hud/ico_teambalance"
 		"scaleImage"		"1"
 	}

@@ -31,7 +31,7 @@
 		//"zpos"			"1"
 		"wide"			"324"
 		"tall"			"25"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		

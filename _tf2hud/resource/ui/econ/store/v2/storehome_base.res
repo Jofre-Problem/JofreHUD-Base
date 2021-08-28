@@ -98,7 +98,7 @@
 			"zpos"			"15"
 			"wide"			"16"
 			"tall"			"10"
-			"autoResize"	"1"
+			//"autoResize"	"1"
 				
 			"visible"		"0"
 			
@@ -149,7 +149,7 @@
 			"zpos"			"15"
 			"wide"			"16"
 			"tall"			"10"
-			"autoResize"	"1"
+			//"autoResize"	"1"
 				
 			"visible"		"0"
 			
@@ -306,7 +306,7 @@
 			"tall"				"30"
 			"textinsety"		"-5"
 			
-			"pinCorner"			"2"
+			//"pinCorner"				"2"
 			//"visible"			"1"
 			
 			
@@ -372,7 +372,7 @@
 		"zpos"			"5"
 		"wide"			"40"
 		"tall"			"20"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -415,7 +415,7 @@
 		"zpos"			"10"
 		"wide"			"160"
 		"tall"			"20"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -523,7 +523,7 @@
 		"zpos"			"100"
 		"wide"			"350"
 		"tall"			"20"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		"visible"		"0"
 		
@@ -553,7 +553,7 @@
 			
 			"wide"			"200"
 			"tall"			"20"
-			"autoresize"	"1"
+			//"autoResize"	"1"
 			
 			"visible"		"0"
 			
@@ -571,7 +571,7 @@
 			
 			"wide"			"200"
 			"tall"			"20"
-			"autoresize"	"1"
+			//"autoResize"	"1"
 			
 			"visible"		"0"
 			
@@ -589,7 +589,7 @@
 			
 			"wide"			"200"
 			"tall"			"20"
-			"autoresize"	"1"
+			//"autoResize"	"1"
 			
 			"visible"		"0"
 			

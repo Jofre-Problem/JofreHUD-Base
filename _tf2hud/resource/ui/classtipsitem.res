@@ -9,7 +9,7 @@
 		"wide"					"160"
 		"tall"					"30"
 		
-		"pinCorner"				"1"
+		//"pinCorner"					"1"
 		
 		
 		"bgcolor_override"		"Blank"
@@ -40,8 +40,8 @@
 			
 			"wrap"			"1"
 			"font"			"ChalkboardText"
-			"autoResize"	"3"
-			"pinCorner"		"1"
+			//"autoResize"	"3"
+			//"pinCorner"			"1"
 			"textAlignment"	"north-west"
 		}
 	}

@@ -8,7 +8,7 @@
 		"ypos"		"370"
 		"wide"		"310"
 		"tall"		"160"
-		"autoResize"		"3"
+		//"autoResize"		"3"
 		
 		//"visible"		"1"
 		
@@ -24,7 +24,7 @@
 		"ypos"		"25"
 		"wide"		"250"
 		"tall"		"24"
-		"autoResize"		"1"
+		//"autoResize"		"1"
 		
 		//"visible"		"1"
 		
@@ -62,7 +62,7 @@
 		"ypos"		"75"
 		"wide"		"250"
 		"tall"		"44"
-		"autoResize"		"3"
+		//"autoResize"		"3"
 		
 		//"visible"		"1"
 		
@@ -139,7 +139,7 @@
 		"wide"		"24"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"tabPosition"		"4"
@@ -161,7 +161,7 @@
 		"wide"		"24"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		"labelText"		"X"
@@ -182,7 +182,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"tabPosition"		"6"
@@ -203,7 +203,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"tabPosition"		"7"

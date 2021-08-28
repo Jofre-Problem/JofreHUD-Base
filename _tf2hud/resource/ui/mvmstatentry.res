@@ -7,10 +7,11 @@
 		"font"			"HudFontSmall"
 		"labelText"		"%labeltext%"
 		"textAlignment" "north-west"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"				"0"
+		"ypos"				"0"		
+		
 		"wide"			"70"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 	
 	"ItemValue"
@@ -21,8 +22,8 @@
 		"labelText"		"%valuetext%"
 		"textAlignment" "north-east"
 		"xpos"			"70"
-		"ypos"			"0"
+		
 		"wide"			"70"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 }

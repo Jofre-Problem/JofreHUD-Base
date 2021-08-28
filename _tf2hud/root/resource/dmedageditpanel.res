@@ -6,7 +6,7 @@
 		"fieldName"		"PropertiesSplitter"
 		//////"visible"		"1"
 		
-		//////"autoResize"	"3"
+		////////"autoResize"	"3"
 		
 		
 		//////"ypos"			"6"
@@ -23,7 +23,7 @@
 				
 				//"wide"			"463"
 				//"tall"			"212"
-				//////"autoResize"	"3"
+				////////"autoResize"	"3"
 				
 				
 				
@@ -45,7 +45,7 @@
 				
 				//"wide"			"463"
 				//"tall"			"212"
-				//////"autoResize"	"3"
+				////////"autoResize"	"3"
 				
 				
 				

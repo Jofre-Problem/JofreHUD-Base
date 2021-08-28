@@ -24,7 +24,7 @@
 			
 			//"wide"			"463"
 			//"tall"			"212"
-			//////"autoResize"	"3"
+			////////"autoResize"	"3"
 			
 			
 			
@@ -44,7 +44,7 @@
 			//"wide"			"120"
 			//"tall"			"24"
 			
-			//////"pinCorner"		"2"
+			////////"pinCorner"			"2"
 			
 			//////"labelText"		"#AssetBuilder_Compile"
 			//////"visible"		"1"
@@ -62,7 +62,7 @@
 			//"wide"			"120"
 			//"tall"			"24"
 			
-			//////"pinCorner"		"2"
+			////////"pinCorner"			"2"
 			
 			//////"labelText"		"#AssetBuilder_Publish"
 			//////"visible"		"1"
@@ -79,8 +79,8 @@
 			//////"ypos"			"60"
 			//"wide"			"120"
 			//"tall"			"24"
-			//////"autoResize"	"1"
-			//////"pinCorner"		"2"
+			////////"autoResize"	"1"
+			////////"pinCorner"			"2"
 			//"UnpinnedCornerOffsetX" "-124"
 			
 			//////"labelText"		"#AssetBuilder_Publish"
@@ -99,7 +99,7 @@
 			//"wide"			"120"
 			//"tall"			"24"
 			
-			//////"pinCorner"		"3"
+			////////"pinCorner"			"3"
 			
 			
 			//////"labelText"		"#AssetBuilder_AbortCompile"

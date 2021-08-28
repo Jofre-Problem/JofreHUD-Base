@@ -109,7 +109,7 @@
 		"zpos"			"2"
 		"wide"			"330"
 		"tall"			"40"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -130,7 +130,7 @@
 		"zpos"			"100"
 		"wide"			"33"
 		"tall"			"18"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -183,7 +183,7 @@
 		"ypos"			"200"
 		"wide"			"190"
 		"tall"			"20"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -234,7 +234,7 @@
 		"ypos"			"230"
 		"wide"			"190"
 		"tall"			"20"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -281,7 +281,7 @@
 		"zpos"			"2"
 		"wide"			"100"
 		"tall"			"15"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		

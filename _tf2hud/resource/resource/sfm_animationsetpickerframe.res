@@ -242,7 +242,7 @@
 		"ypos"		"29"
 		"wide"		"390"
 		"tall"		"340"
-		"autoResize"		"3"
+		//"autoResize"		"3"
 		
 		//"visible"		"1"
 		
@@ -257,7 +257,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -279,7 +279,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		

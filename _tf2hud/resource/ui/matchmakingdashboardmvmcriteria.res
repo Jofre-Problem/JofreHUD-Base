@@ -10,7 +10,7 @@
 		"zpos"			"1002"
 		"wide"			"420"
 		"tall"			"f70"
-		"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -23,10 +23,10 @@
 		"zpos"			"100"
 		"wide"			"410"
 		"tall"			"f50"
-		"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 	}
 
 	"BackButton"
@@ -38,19 +38,19 @@
 		"zpos"			"100"
 		"wide"			"90"
 		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"font"			"HudFontMediumSmallBold"
+		
+		//"pinCorner"			"3"
+		//"visible"		"1"
+		
+		
+		"font"			"HudFontMediumSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"back"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_Back"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		//"actionsignallevel"	"1"
 
@@ -68,8 +68,8 @@
 		"wide"			"170"
 		"tall"			"20"
 		"visible"		"0"
-		"enabled"		"1"
-		"mouseinputenabled"	"1"
+		
+		//"mouseinputenabled"	"1"
 		"eatmouseinput"	"0"	
 		"showtooltipswhenmousedisabled"	"1"
 		"proportionaltoparent" "1"
@@ -84,19 +84,19 @@
 		"zpos"			"100"
 		"wide"			"170"
 		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"font"			"HudFontMediumSmallBold"
+		
+		//"pinCorner"			"3"
+		//"visible"		"1"
+		
+		
+		"font"			"HudFontMediumSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"start_search"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_StartSearch"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
 
@@ -117,8 +117,8 @@
 		"wide"			"270"
 		"tall"			"20"
 		"visible"		"0"
-		"enabled"		"1"
-		"mouseinputenabled"	"1"
+		
+		//"mouseinputenabled"	"1"
 		"eatmouseinput"	"0"	
 		"showtooltipswhenmousedisabled"	"1"
 		"proportionaltoparent" "1"
@@ -133,19 +133,19 @@
 		"zpos"			"100"
 		"wide"			"270"
 		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"font"			"HudFontMediumSmallBold"
+		
+		//"pinCorner"			"3"
+		//"visible"		"1"
+		
+		
+		"font"			"HudFontMediumSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"start_search"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_StartSearch"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
 
@@ -165,19 +165,19 @@
 		"zpos"			"100"
 		"wide"			"f20"
 		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"font"			"HudFontMediumSmallBold"
+		
+		//"pinCorner"			"3"
+		//"visible"		"1"
+		
+		
+		"font"			"HudFontMediumSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"select_tour"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_MvM_SelectChallenge"
-		"mouseinputenabled"	"1"
+		//"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		//"actionsignallevel"	"1"
 
@@ -195,7 +195,7 @@
 		"wide"		"140"
 		"tall"		"20"
 		"font"			"HudFontSmallest"
-		"labelText"		""
+		"labeltext"		""
 		"proportionaltoparent"	"1"
 	}
 

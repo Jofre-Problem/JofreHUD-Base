@@ -9,7 +9,7 @@
 		
 		"wide"			"f0"
 		"tall"			"480"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -76,7 +76,7 @@
 		"tall"			"200"
 		//"tall_hidef"			"200"
 		//"tall_lodef"	"200"
-		"autoResize"	"3"
+		//"autoResize"	"3"
 		
 		//"visible"		"1"
 		
@@ -122,7 +122,7 @@
 		"wide"			"150"
 		"tall"			"30"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"labelText"		"#TF_Continue"
@@ -145,10 +145,10 @@
 		"wide"			"25"
 		"tall"			"25"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
@@ -167,7 +167,7 @@
 		"wide"			"150"
 		"tall"			"30"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"labelText"		"#TF_WatchIntro"
@@ -190,11 +190,11 @@
 		"wide"			"25"
 		"tall"			"25"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"labelText"		"Y"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
@@ -214,7 +214,7 @@
 		"wide"			"150"
 		"tall"			"30"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"labelText"		"#TF_Back"
@@ -236,10 +236,10 @@
 		"wide"			"25"
 		"tall"			"25"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"

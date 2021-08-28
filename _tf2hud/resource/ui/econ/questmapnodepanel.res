@@ -107,7 +107,7 @@
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
-			"autoResize"	"3"
+			//"autoResize"	"3"
 			"drawcolor"	"QuestMap_ActiveOrange"
 		}	
 
@@ -144,7 +144,7 @@
 			
 			
 			"proportionaltoparent"	"1"
-			"autoResize"	"3"
+			//"autoResize"	"3"
 			"paintbackground" "0"		
 			"eatmouseinput"	"0"		
 		}	
@@ -174,7 +174,7 @@
 			"actionsignallevel"	"1"
 			"proportionaltoparent"	"1"
 			"stay_armed_on_click"	"1"
-			"autoResize"	"3"
+			//"autoResize"	"3"
 			"paintbackground" "0"
 			"button_activation_type"	"1" // pressed
 			

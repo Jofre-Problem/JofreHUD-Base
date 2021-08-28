@@ -75,7 +75,7 @@
 		//"visible"		"1"
 		
 		"labelText"		"#Hud_menu_build_title"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
@@ -96,7 +96,7 @@
 		//"visible"		"1"
 		
 		"labelText"		"#Hud_menu_build_title"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		"dulltext"		"1"
 		//"brighttext"	"0"
 	}

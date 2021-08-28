@@ -64,8 +64,8 @@
 		"zpos"			"2"
 		"wide"			"90"
 		"tall"			"15"
-		"autoResize"	"1"
-		"pinCorner"		"2"
+		//"autoResize"	"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -94,7 +94,7 @@
 		
 		//"visible"		"1"
 		
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"fgcolor"		"White"
@@ -116,7 +116,7 @@
 		
 		//"visible"		"1"
 		
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"fgcolor"		"White"

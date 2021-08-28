@@ -43,7 +43,7 @@
 		//////"ypos"		"66"
 		//"wide"		"292"
 		//"tall"		"670"
-		////"autoResize"		"2"
+		//////"autoResize"		"2"
 		
 		//////"visible"		"1"
 		
@@ -57,7 +57,7 @@
 		//////"ypos"		"32"
 		//"wide"		"682"
 		//"tall"		"704"
-		////"autoResize"		"3"
+		//////"autoResize"		"3"
 		
 		//////"visible"		"1"
 		

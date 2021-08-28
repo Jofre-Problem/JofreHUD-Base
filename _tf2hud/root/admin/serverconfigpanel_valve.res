@@ -10,7 +10,7 @@
 		//"wide"		"100"
 		//"tall"		"20"
 		
-		////////"pinCorner"	"0"
+		//////////"pinCorner"		"0"
 		////"visible"	"1"
 		
 		//////"labelText"	"#Config_Timelimit"
@@ -42,7 +42,7 @@
 		//"wide"		"100"
 		//"tall"		"20"
 		
-		////////"pinCorner"	"0"
+		//////////"pinCorner"		"0"
 		////"visible"	"1"
 		
 		//////"labelText"	"#Config_Fraglimit"
@@ -75,7 +75,7 @@
 		//"wide"		"100"
 		//"tall"		"20"
 		
-		////////"pinCorner"	"0"
+		//////////"pinCorner"		"0"
 		////"visible"	"1"
 		
 		//////"labelText"	"#Config_Password"
@@ -149,7 +149,7 @@
 		//"wide"		"75"
 		//"tall"		"20"
 		
-		////////"pinCorner"	"0"
+		//////////"pinCorner"		"0"
 		////"visible"	"1"
 		
 		//////"labelText"	"#Config_MinRate"
@@ -181,7 +181,7 @@
 		//"wide"		"75"
 		//"tall"		"20"
 		
-		////////"pinCorner"	"0"
+		//////////"pinCorner"		"0"
 		////"visible"	"1"
 		
 		//////"labelText"	"#Config_MaxRate"

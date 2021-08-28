@@ -29,7 +29,7 @@
 		"tall"		"45"
 		////"tall_minmode"		"29"
 		
-		//"pinCorner"	"0"
+		////"pinCorner"		"0"
 		"visible"	"1"
 		
 		"fg_image"	"progress_bar_blu"

@@ -10,7 +10,7 @@
 		"zpos"			"1002"
 		"wide"			"270"
 		"tall"			"f70"
-		"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
 
@@ -23,8 +23,8 @@
 		"zpos"			"2"
 		"wide"			"o2"
 		"tall"			"100"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"mouseinputenabled" "0"
 		"image"			"mvm/mvm_logo"
 		"scaleImage"	"1"
@@ -40,18 +40,18 @@
 		"wide"		"250"
 		"tall"		"215"
 		"visible"	"1"
-		"enabled"	"1"
+		
 
 		"DropShadow"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"DropShadow"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"zpos"			"101"
 			"wide"			"f0"
 			"tall"			"f0"
-			"visible"		"1"
+			//"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"InnerShadowBorder"
 			"proportionaltoparent"	"1"
@@ -62,13 +62,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"MannUpImage"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"0"
+			
+			
+			
 			"wide"			"f0"
 			"tall"			"o1"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"mouseinputenabled" "0"
 			"image"			"mvm/mannup"
 			"scaleImage"	"1"
@@ -79,18 +79,18 @@
 		{
 			"ControlName"		"ImagePanel"
 			"fieldName"		"Gradient"
-			"xpos"		"0"
+			
 			"ypos"		"rs1"
 			"wide"		"f0"
 			"tall"		"100"
 			"zpos"	"1"
-			"visible"		"1"
-			"enabled"		"1"
-			"rotation"		"0"
+			//"visible"		"1"
+			
+			//	"rotation"		"0"
 			"proportionaltoparent"	"1"
 			"scaleimage"	"1"
 			"mouseinputenabled"	"0"
-			"alpha"		"255"
+			////"alpha"		"255"
 
 			"image"		"gradient_pure_black"
 		}
@@ -104,24 +104,24 @@
 			"zpos"			"20"
 			"wide"			"120"
 			"tall"			"25"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labelText"		"#TF_MvM_MannUp"
-			"font"			"HudFontMediumSmallBold"
+			"font"			"HudFontMediumSmall"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"Command"		"mannup"
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"
 
-			"NavUp"			"Sheet"
+			//"navUp"			"Sheet"
 			"NavDown"		"BackButton"
-			"NavLeft"		"Sheet"
-			"NavRight"		"PracticeButton"
+			//"navLeft"		"Sheet"
+			//"navRight"		"PracticeButton"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -160,19 +160,19 @@
 		"wide"		"250"
 		"tall"		"130"
 		"visible"	"1"
-		"enabled"	"1"
+		
 		"proportionaltoparent"	"1"
 
 		"DropShadow"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"DropShadow"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"zpos"			"101"
 			"wide"			"f0"
 			"tall"			"f0"
-			"visible"		"1"
+			//"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"InnerShadowBorder"
 			"proportionaltoparent"	"1"
@@ -183,13 +183,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"BootcampImage"
-			"xpos"			"0"
+			
 			"ypos"			"rs1"
-			"zpos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"o1"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"mouseinputenabled" "0"
 			"image"			"mvm/bootcamp"
 			"scaleImage"	"1"
@@ -200,18 +200,18 @@
 		{
 			"ControlName"		"ImagePanel"
 			"fieldName"		"Gradient"
-			"xpos"		"0"
+			
 			"ypos"		"rs1"
 			"wide"		"f0"
 			"tall"		"100"
 			"zpos"	"1"
-			"visible"		"1"
-			"enabled"		"1"
-			"rotation"		"0"
+			//"visible"		"1"
+			
+			//	"rotation"		"0"
 			"proportionaltoparent"	"1"
 			"scaleimage"	"1"
 			"mouseinputenabled"	"0"
-			"alpha"		"255"
+			////"alpha"		"255"
 
 			"image"		"gradient_pure_black"
 		}
@@ -225,24 +225,24 @@
 			"zpos"			"20"
 			"tall"			"25"
 			"wide"			"120"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labelText"		"#TF_MvM_BootCamp"
-			"font"			"HudFontMediumSmallBold"
+			"font"			"HudFontMediumSmall"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"Command"		"bootcamp"
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"
 
-			"NavUp"			"Sheet"
+			//"navUp"			"Sheet"
 			"NavDown"		"LearnMoreButton"
-			"NavLeft"		"PlayNowButton"
-			"NavRight"		"StartPartyButton"
+			//"navLeft"		"PlayNowButton"
+			//"navRight"		"StartPartyButton"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"

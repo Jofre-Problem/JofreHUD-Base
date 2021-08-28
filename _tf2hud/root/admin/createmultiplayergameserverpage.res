@@ -23,7 +23,7 @@
 		//////"ypos"		"112"
 		//"wide"		"170"
 		//"tall"		"24"
-		//////"autoResize"		"1"
+		////////"autoResize"		"1"
 		
 		//////"visible"		"1"
 		
@@ -41,7 +41,7 @@
 		//////"ypos"		"146"
 		//"wide"		"170"
 		//"tall"		"24"
-		//////"autoResize"		"1"
+		////////"autoResize"		"1"
 		
 		//////"visible"		"1"
 		
@@ -77,7 +77,7 @@
 		//////"ypos"		"44"
 		//"wide"		"170"
 		//"tall"		"24"
-		//////"autoResize"		"1"
+		////////"autoResize"		"1"
 		
 		//////"visible"		"1"
 		
@@ -156,7 +156,7 @@
 		//////"ypos"		"78"
 		//"wide"		"170"
 		//"tall"		"24"
-		//////"autoResize"		"1"
+		////////"autoResize"		"1"
 		
 		//////"visible"		"1"
 		
@@ -269,7 +269,7 @@
 		//////"ypos"		"248"
 		//"wide"		"170"
 		//"tall"		"24"
-		//////"autoResize"		"1"
+		////////"autoResize"		"1"
 		
 		//////"visible"		"1"
 		

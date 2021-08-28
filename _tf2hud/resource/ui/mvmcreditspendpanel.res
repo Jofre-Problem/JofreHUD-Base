@@ -4,26 +4,27 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"HeaderLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"%header%"
 		"textAlignment" "north-west"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"				"0"
+		"ypos"				"0"		
+		
 		"wide"			"300"
 		"tall"			"15"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 		
 	"TableBackground"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TableBackground"
-		"xpos"			"0"
+		"xpos"				"0"		
 		"ypos"			"14"
 		"zpos"			"-1"
 		"wide"			"190"
 		"tall"			"42"
-		"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"20 20 20 50"
 	}
 	
@@ -38,7 +39,7 @@
 		"ypos"			"15"
 		"wide"			"90"
 		"tall"			"20"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 	
 	"UpgradesCountLabel"
@@ -52,7 +53,7 @@
 		"ypos"			"15"
 		"wide"			"30"
 		"tall"			"20"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 	
 	"BuyBackLabel"
@@ -66,7 +67,7 @@
 		"ypos"			"27"
 		"wide"			"90"
 		"tall"			"20"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 	
 	"BuyBackCountLabel"
@@ -80,7 +81,7 @@
 		"ypos"			"27"
 		"wide"			"30"
 		"tall"			"20"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 	
 	"BottleLabel"
@@ -94,7 +95,7 @@
 		"ypos"			"39"
 		"wide"			"90"
 		"tall"			"20"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 	
 	"BottleCountLabel"
@@ -108,6 +109,6 @@
 		"ypos"			"39"
 		"wide"			"30"
 		"tall"			"20"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 }

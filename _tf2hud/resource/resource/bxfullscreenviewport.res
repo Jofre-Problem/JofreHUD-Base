@@ -22,7 +22,7 @@
 		//"ypos"		"0"
 		"wide"		"784"
 		"tall"		"590"
-		"autoResize"		"3"
+		//"autoResize"		"3"
 		
 		//"visible"		"1"
 		
@@ -37,8 +37,8 @@
 		//"zpos"		"1"
 		"wide"		"770"
 		"tall"		"36"
-		"autoResize"		"1"
-		"pinCorner"		"2"
+		//"autoResize"		"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -150,8 +150,8 @@
 		//"zpos"		"1"
 		"wide"		"754"
 		"tall"		"34"
-		"autoResize"		"1"
-		"pinCorner"		"2"
+		//"autoResize"		"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		

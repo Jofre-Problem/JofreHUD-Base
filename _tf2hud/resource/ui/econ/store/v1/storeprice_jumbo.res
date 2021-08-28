@@ -25,7 +25,7 @@
 		"wide"			"120"
 		"tall"			"12"
 		"textinsetx"	"4"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 			
 		//"visible"		"1"
 		
@@ -44,7 +44,7 @@
 		"wide"			"181"
 		"tall"			"12"
 		"textinsetx"	"4"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 			
 		//"visible"		"1"
 		
@@ -79,7 +79,7 @@
 		"wide"			"87"
 		"tall"			"12"
 		"textinsetx"	"8"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 			
 		//"visible"		"1"
 		

@@ -113,7 +113,7 @@
 		"tall"			"f0"
 		//"visible"		"1"
 		
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		"proportionaltoparent"	"1"
 		"textinsetx"	"23"

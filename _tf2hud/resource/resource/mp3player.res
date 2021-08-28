@@ -44,7 +44,7 @@
 		"ypos"		"55"
 		"wide"		"453"
 		"tall"		"295"
-		"autoResize"		"3"
+		//"autoResize"		"3"
 		
 		//"visible"		"1"
 		
@@ -58,8 +58,8 @@
 		"ypos"		"353"
 		"wide"		"453"
 		"tall"		"194"
-		"autoResize"		"1"
-		"pinCorner"		"2"
+		//"autoResize"		"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -73,7 +73,7 @@
 		"wide"		"64"
 		"tall"		"20"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -94,7 +94,7 @@
 		"wide"		"64"
 		"tall"		"20"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -115,7 +115,7 @@
 		"wide"		"64"
 		"tall"		"21"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -136,7 +136,7 @@
 		"wide"		"64"
 		"tall"		"20"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -157,7 +157,7 @@
 		"wide"		"80"
 		"tall"		"20"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -177,7 +177,7 @@
 		"wide"		"80"
 		"tall"		"20"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -197,7 +197,7 @@
 		"wide"		"126"
 		"tall"		"20"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -210,7 +210,7 @@
 		"ypos"		"27"
 		"wide"		"299"
 		"tall"		"16"
-		"autoResize"		"1"
+		//"autoResize"		"1"
 		
 		//"visible"		"1"
 		
@@ -231,7 +231,7 @@
 		"wide"		"71"
 		"tall"		"16"
 		
-		"pinCorner"		"1"
+		//"pinCorner"			"1"
 		//"visible"		"1"
 		
 		
@@ -249,7 +249,7 @@
 		"ypos"		"44"
 		"wide"		"388"
 		"tall"		"6"
-		"autoResize"		"1"
+		//"autoResize"		"1"
 		
 		//"visible"		"1"
 		
@@ -264,7 +264,7 @@
 		"wide"		"64"
 		"tall"		"20"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		

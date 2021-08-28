@@ -101,7 +101,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"FrontFolderContainer"
 				
-				"ypos"		"0"
+				//"ypos"		"0"
 				"zpos"		"100"
 				"wide"		"f0"
 				"tall"		"f0"
@@ -137,7 +137,7 @@
 					"ControlName"	"CInputProxyPanel"
 					"fieldName"		"FrontInputProxyPanel"
 					
-					"ypos"		"0"
+					//"ypos"		"0"
 					"zpos"		"100"
 					"wide"		"f0"
 					"tall"		"f0"

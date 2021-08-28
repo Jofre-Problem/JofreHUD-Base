@@ -12,7 +12,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"TextLabel"
-				"font"			"HudFontSmallestBold"
+				"font"			"HudFontSmallest"
 				"labelText"		"#TF_SurveyQuestion_CompInquiry"
 				"textAlignment"	"north"
 				"xpos"			"cs-0.5"
@@ -20,11 +20,11 @@
 				"zpos"			"1000"
 				"wide"			"p0.85"
 				"tall"			"30"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
-				"wrap"			"0"
+				
+				
+				//"visible"		"1"
+				
+				//"wrap"			"0"
 				"centerwrap"	"1"
 				"fgcolor_override" "TanLight"
 				"proportionaltoparent"	"1"
@@ -39,7 +39,7 @@
 				"zpos"			"-1"
 				"wide"			"350"
 				"tall"			"150"
-				"visible"		"1"
+				//"visible"		"1"
 				"proportionaltoparent"	"1"
 				"bgcolor_override"	"0 0 0 100"
 
@@ -47,12 +47,12 @@
 				{
 					"ControlName"	"EditablePanel"
 					"fieldName"		"InnerShadow"
-					"xpos"			"0"
-					"ypos"			"0"
+					
+					
 					"zpos"			"100"
 					"wide"			"f0"
 					"tall"			"f0"
-					"visible"		"1"
+					//"visible"		"1"
 					"PaintBackgroundType"	"2"
 					"border"		"InnerShadowBorder"
 					"proportionaltoparent"	"1"
@@ -68,13 +68,13 @@
 					"zpos"			"1"
 					"wide"			"15"
 					"tall"			"20"
-					"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
 					
-					"labelText"		""
+					"labeltext"		""
 					"Command"		"option0"
 				}
 
@@ -87,12 +87,12 @@
 					"zpos"			"1"
 					"wide"			"250"
 					"tall"			"20"
-					"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 					
 					"labelText"		"#TF_SurveyQuestion_CompInquiry_Answer0"
 					"font"			"HudFontSmallest"
-					"textAlignment"	"left"
+					//"textAlignment"	"Left"
 
 					"associate"		"Radio0"
 				}
@@ -106,13 +106,13 @@
 					"zpos"			"2"
 					"wide"			"15"
 					"tall"			"20"
-					"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
 
-					"labelText"		""
+					"labeltext"		""
 					"Command"		"option1"
 				}
 
@@ -125,12 +125,12 @@
 					"zpos"			"1"
 					"wide"			"250"
 					"tall"			"20"
-					"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 					
 					"labelText"		"#TF_SurveyQuestion_CompInquiry_Answer1"
 					"font"			"HudFontSmallest"
-					"textAlignment"	"left"
+					//"textAlignment"	"Left"
 				}
 
 				"Answer2" 
@@ -142,13 +142,13 @@
 					"zpos"			"3"
 					"wide"			"15"
 					"tall"			"20"
-					"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
 
-					"labelText"		""
+					"labeltext"		""
 					"Command"		"option2"
 				}
 
@@ -161,13 +161,13 @@
 					"zpos"			"1"
 					"wide"			"250"
 					"tall"			"20"
-					"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 					
 					"labelText"		"#TF_SurveyQuestion_CompInquiry_Answer2"
 					"font"			"HudFontSmallest"
-					"textAlignment"	"left"
-					"default"		"1"
+					//"textAlignment"	"Left"
+					//"Default"		"1"
 				}
 
 				"Answer3"
@@ -179,13 +179,13 @@
 					"zpos"			"4"
 					"wide"			"15"
 					"tall"			"20"
-					"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
 					
-					"labelText"		""
+					"labeltext"		""
 					"Command"		"option3"
 				}
 
@@ -198,12 +198,12 @@
 					"zpos"			"1"
 					"wide"			"250"
 					"tall"			"20"
-					"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 					
 					"labelText"		"#TF_SurveyQuestion_CompInquiry_Answer3"
 					"font"			"HudFontSmallest"
-					"textAlignment"	"left"
+					//"textAlignment"	"Left"
 				}
 
 				"Answer4"
@@ -215,13 +215,13 @@
 					"zpos"			"5"
 					"wide"			"15"
 					"tall"			"20"
-					"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
 					
-					"labelText"		""
+					"labeltext"		""
 					"Command"		"option4"
 				}
 
@@ -234,12 +234,12 @@
 					"zpos"			"1"
 					"wide"			"250"
 					"tall"			"20"
-					"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 					
 					"labelText"		"#TF_SurveyQuestion_CompInquiry_Answer4"
 					"font"			"HudFontSmallest"
-					"textAlignment"	"left"
+					//"textAlignment"	"Left"
 				}
 
 				"Answer5"
@@ -251,13 +251,13 @@
 					"zpos"			"5"
 					"wide"			"15"
 					"tall"			"20"
-					"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
 					
-					"labelText"		""
+					"labeltext"		""
 					"Command"		"option4"
 				}
 
@@ -270,12 +270,12 @@
 					"zpos"			"1"
 					"wide"			"250"
 					"tall"			"20"
-					"visible"		"1"
+					//"visible"		"1"
 					"proportionaltoparent"	"1"
 					
 					"labelText"		"#TF_SurveyQuestion_CompInquiry_Answer5"
 					"font"			"HudFontSmallest"
-					"textAlignment"	"left"
+					//"textAlignment"	"Left"
 				}
 			}
 
@@ -289,7 +289,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#AbuseReport_Submit"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				"Command"		"submit"
 				"sound_depressed"	"UI/buttonclick.wav"

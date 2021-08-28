@@ -23,7 +23,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -43,7 +43,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		

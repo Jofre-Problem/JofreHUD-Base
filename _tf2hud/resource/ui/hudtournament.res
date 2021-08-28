@@ -367,7 +367,7 @@
 					"ypos"			"7.5"
 					"wide"			"p0.5"
 					"tall"			"p0.28"
-					"autoResize"	"1"
+					//"autoResize"	"1"
 					"proportionaltoparent" "1"
 				}
 			}
@@ -927,7 +927,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"labelText"		"Y"
-		"textAlignment"	"left"
+		//"textAlignment"	"Left"
 
 		if_mvm
 		{

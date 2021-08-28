@@ -25,7 +25,7 @@
 		"ypos"			"34"
 		"wide"			"450"
 		"tall"			"365"
-		"autoResize"	"3"
+		//"autoResize"	"3"
 		
 		"visible"		"0"
 		"enabled"		"0"
@@ -95,7 +95,7 @@
 		"wide"			"124"
 		"tall"			"310"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"tabPosition"	"3"
@@ -140,7 +140,7 @@
 		"wide"			"124"
 		"tall"			"310"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"tabPosition"	"4"
@@ -184,7 +184,7 @@
 		"wide"			"124"
 		"tall"			"310"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"tabPosition"	"1"
@@ -226,7 +226,7 @@
 		"wide"			"82"
 		"tall"			"57"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"tabPosition"	"2"
@@ -271,7 +271,7 @@
 		"wide"			"150"
 		"tall"			"30"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		"visible"		"0"
 		
 		
@@ -293,10 +293,10 @@
 		"wide"			"25"
 		"tall"			"25"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		"visible"		"0"
 		
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"

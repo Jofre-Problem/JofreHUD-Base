@@ -82,7 +82,7 @@
 			
 			"wide"			"400"
 			"tall"			"300"
-			"autoResize"	"3"
+			//"autoResize"	"3"
 			
 			//"visible"		"1"
 			
@@ -116,7 +116,7 @@
 				"zpos"			"500"
 				"wide"			"f0"
 				"tall"			"f0"
-				"autoResize"	"3"
+				//"autoResize"	"3"
 				
 				//"visible"		"1"
 				
@@ -137,7 +137,7 @@
 					"zpos"			"10"
 					"wide"			"f0"
 					"tall"			"20"
-					"autoResize"	"1"
+					//"autoResize"	"1"
 					
 					//"visible"		"1"
 					
@@ -173,7 +173,7 @@
 					"zpos"			"10"
 					"wide"			"p.9"
 					"tall"			"40"
-					"autoResize"	"1"
+					//"autoResize"	"1"
 					
 					//"visible"		"1"
 					
@@ -210,7 +210,7 @@
 				"zpos"			"10"
 				"wide"			"100"
 				"tall"			"20"
-				"autoResize"	"1"
+				//"autoResize"	"1"
 				
 				//"visible"		"1"
 				
@@ -412,7 +412,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Dimmer"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"-2"
 		"wide"		"f0"
 		"tall"		"f0"
@@ -429,7 +429,7 @@
 		"ControlName"	"Button"
 		"fieldName"		"OutsideCloseButton"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"zpos"		"-1"
 		"wide"		"f0"
 		"tall"		"f0"

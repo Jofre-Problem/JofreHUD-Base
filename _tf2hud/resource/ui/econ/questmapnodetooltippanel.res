@@ -23,7 +23,7 @@
 			"zpos"			"1"
 			"wide"			"f0"
 			"tall"			"f0"
-			"autoResize"	"3"
+			//"autoResize"	"3"
 			
 			//"visible"		"1"
 			

@@ -18,9 +18,9 @@
 
 		//"tall"		"291"
 
-		////"autoResize"		"0"
+		//////"autoResize"		"0"
 
-		////"pinCorner"		"0"
+		//////"pinCorner"			"0"
 
 		////"visible"		"1"
 
@@ -50,9 +50,9 @@
 
 		//"tall"		"87"
 
-		////"autoResize"		"0"
+		//////"autoResize"		"0"
 
-		////"pinCorner"		"0"
+		//////"pinCorner"			"0"
 
 		////"visible"		"1"
 

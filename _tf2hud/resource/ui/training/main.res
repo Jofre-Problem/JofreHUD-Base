@@ -5,7 +5,7 @@
 		"ControlName"	"CTrainingDialog"
 		"fieldName"		"TrainingDialog"
 		
-		"ypos"		"0"
+		//"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"480"
 		
@@ -57,7 +57,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Background"
 			
-			"ypos"		"0"
+			//"ypos"		"0"
 			"wide"		"450"
 			"tall"		"500"
 			
@@ -80,7 +80,7 @@
 			"zpos"			"1"
 			"wide"			"450"
 			"tall"			"20"
-			"autoResize"	"1"
+			//"autoResize"	"1"
 			
 			//"visible"		"1"
 			
@@ -98,7 +98,7 @@
 			"zpos"			"1"
 			"wide"			"450"
 			"tall"			"20"
-			"autoResize"	"1"
+			//"autoResize"	"1"
 			
 			//"visible"		"1"
 			
@@ -156,7 +156,7 @@
 		{
 			"ControlName"		"CModeSelectionPanel"
 			"fieldName"			"ModeSelectionPanel"
-			"xpos"				"0"
+			//"xpos"				"0"
 			"ypos"				"80"
 			"zpos"				"2"
 			"wide"				"500"
@@ -210,7 +210,7 @@
 		{
 			"ControlName"		"CBasicTraining_ClassDetailsPanel"
 			"fieldName"			"BasicTraining_ClassDetailsPanel"
-			"xpos"				"0"
+			//"xpos"				"0"
 			"ypos"				"80"
 			"zpos"				"2"
 			"wide"				"450"
@@ -229,7 +229,7 @@
 		{
 			"ControlName"		"COfflinePractice_ModeSelectionPanel"
 			"fieldName"			"OfflinePractice_ModeSelectionPanel"
-			"xpos"				"0"
+			//"xpos"				"0"
 			"ypos"				"50"
 			"wide"				"450"
 			"tall"				"500"
@@ -262,7 +262,7 @@
 		{
 			"ControlName"		"COfflinePractice_MapSelectionPanel"
 			"fieldName"			"OfflinePractice_MapSelectionPanel"
-			"xpos"				"0"
+			//"xpos"				"0"
 			"ypos"				"50"
 			"wide"				"450"
 			"tall"				"500"

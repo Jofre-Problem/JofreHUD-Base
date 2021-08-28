@@ -26,7 +26,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
@@ -55,7 +55,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
@@ -84,7 +84,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"
@@ -899,7 +899,7 @@
 		"wide"		"260"
 		"tall"		"36"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"RoundedCorners"		"15"
 		//"pin_corner_to_sibling"		"0"
 		//"pin_to_sibling_corner"		"0"

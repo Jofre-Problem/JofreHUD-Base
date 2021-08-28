@@ -59,7 +59,7 @@
 		//"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Disguise_Title"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
@@ -80,7 +80,7 @@
 		//"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Disguise_Title"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		"dulltext"		"1"
 		//"brighttext"	"0"
 	}	
@@ -100,7 +100,7 @@
 		//"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Spy_Minus_Toggle"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}

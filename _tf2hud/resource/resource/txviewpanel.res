@@ -45,7 +45,7 @@
 		"ypos"		"30"
 		"wide"		"500"
 		"tall"		"350"
-		"autoResize"		"3"
+		//"autoResize"		"3"
 		
 		//"visible"		"1"
 		

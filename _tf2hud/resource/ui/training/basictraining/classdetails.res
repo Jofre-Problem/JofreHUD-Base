@@ -37,7 +37,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"OverlayPanel"
 		"xpos"				"20"
-		"ypos"				"0"
+		//"ypos"				"0"
 		"wide"				"300"
 		"tall"				"200"
 		
@@ -54,13 +54,13 @@
 			"fieldName"		"ClassNameLabel"
 			"font"			"HudFontMediumSecondary"
 			"labelText"		"%classname%"
-			"textAlignment"	"left"
+			//"textAlignment"	"Left"
 			"xpos"			"10"
 			
 			"zpos"			"1"
 			"wide"			"430"
 			"tall"			"20"
-			"autoResize"	"1"
+			//"autoResize"	"1"
 			
 			//"visible"		"1"
 			
@@ -72,12 +72,12 @@
 			"fieldName"		"DescLabel"
 			"font"			"HudFontSmallest"
 			"labelText"		"%description%"
-			"textAlignment"	"left"
+			//"textAlignment"	"Left"
 			"xpos"			"10"
 			"ypos"			"1"
 			"wide"			"280"
 			"tall"			"100"
-			"autoResize"	"1"
+			//"autoResize"	"1"
 			
 			//"visible"		"1"
 			
@@ -95,7 +95,7 @@
 			"ypos"			"100"
 			"wide"			"300"
 			"tall"			"15"
-			"autoResize"	"1"
+			//"autoResize"	"1"
 			
 			//"visible"		"1"
 			
@@ -152,7 +152,7 @@
 			"ypos"			"175"
 			"wide"			"70"
 			"tall"			"15"
-			"autoResize"	"1"
+			//"autoResize"	"1"
 			
 			//"visible"		"1"
 			
@@ -169,7 +169,7 @@
 			"ypos"			"175"
 			"wide"			"70"
 			"tall"			"15"
-			"autoResize"	"1"
+			//"autoResize"	"1"
 			
 			//"visible"		"1"
 			
@@ -186,7 +186,7 @@
 			"ypos"			"175"
 			"wide"			"70"
 			"tall"			"15"
-			"autoResize"	"1"
+			//"autoResize"	"1"
 			
 			//"visible"		"1"
 			

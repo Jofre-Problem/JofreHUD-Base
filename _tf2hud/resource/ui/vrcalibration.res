@@ -4,12 +4,12 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"480"
-		"visible"		"1"
+		//"visible"		"1"
 		"bgcolor_override"		"20 20 20 255"
 	}
 	
@@ -17,7 +17,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MainLabelDropShadow"
-		"font"			"HudFontBiggerBold"
+		"font"			"HudFontBig"
 		"labelText"		"#TF_VR_Calibration"
 		"textAlignment" "center"
 		"xpos"			"2"
@@ -31,14 +31,14 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MainLabel"
-		"font"			"HudFontBiggerBold"
+		"font"			"HudFontBig"
 		"labelText"		"#TF_VR_Calibration"
 		"textAlignment" "center"
-		"xpos"			"0"
+		
 		"ypos"			"75"
 		"wide"			"f0"
 		"tall"			"35"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 
 
@@ -50,15 +50,15 @@
 		"ypos"			"130"
 		"wide"			"400"
 		"tall"			"30"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
+		//"visible"		"1"
+		"bgcolor_override"		"Blank"
 		
 		"IsActive"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"IsActive"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -73,12 +73,12 @@
 			"font"			"ScoreboardMedium"
 			"labelText"		"%eyestats%"
 			"textAlignment" "center"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"wide"			"400"
 			"tall"			"35"
-			"visible"		"1"
-			"fgcolor"		"tanlight"
+			//"visible"		"1"
+			"fgcolor"		"TanLight"
 		}
 	}
 
@@ -90,15 +90,15 @@
 		"ypos"			"155"
 		"wide"			"400"
 		"tall"			"30"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
+		//"visible"		"1"
+		"bgcolor_override"		"Blank"
 		
 		"IsActive"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"IsActive"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -113,12 +113,12 @@
 			"font"			"ScoreboardMedium"
 			"labelText"		"%eyestats%"
 			"textAlignment" "center"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"wide"			"400"
 			"tall"			"35"
-			"visible"		"1"
-			"fgcolor"		"tanlight"
+			//"visible"		"1"
+			"fgcolor"		"TanLight"
 		}
 	}
 
@@ -130,15 +130,15 @@
 		"ypos"			"180"
 		"wide"			"400"
 		"tall"			"35"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
+		//"visible"		"1"
+		"bgcolor_override"		"Blank"
 		
 		"IsActive"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"IsActive"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -153,12 +153,12 @@
 			"font"			"ScoreboardMedium"
 			"labelText"		"%ipdstats%"
 			"textAlignment" "center"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"wide"			"400"
 			"tall"			"35"
-			"visible"		"1"
-			"fgcolor"		"tanlight"
+			//"visible"		"1"
+			"fgcolor"		"TanLight"
 		}
 	}
 	
@@ -171,14 +171,14 @@
 		"wide"			"400"
 		"tall"			"35"
 		"visible"		"0"				// Hidden for now, since we don't do anything with it!
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		
 		"IsActive"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"IsActive"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -193,12 +193,12 @@
 			"font"			"ScoreboardMedium"
 			"labelText"		"%eyerelief%"
 			"textAlignment" "center"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"wide"			"400"
 			"tall"			"35"
-			"visible"		"1"
-			"fgcolor"		"tanlight"
+			//"visible"		"1"
+			"fgcolor"		"TanLight"
 		}
 	}
 	
@@ -211,14 +211,14 @@
 		"wide"			"400"
 		"tall"			"35"
 		"visible"		"0"				// Hidden for now, since we don't do anything with it!
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"Blank"
 		
 		"IsActive"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"IsActive"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"f0"
@@ -233,12 +233,12 @@
 			"font"			"ScoreboardMedium"
 			"labelText"		"%eyerelief%"
 			"textAlignment" "center"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"wide"			"400"
 			"tall"			"35"
-			"visible"		"1"
-			"fgcolor"		"tanlight"
+			//"visible"		"1"
+			"fgcolor"		"TanLight"
 		}
 	}
 
@@ -251,11 +251,11 @@
 		"font"			"ScoreboardMedium"
 		"labelText"		"#TF_VR_MoveLine"		// Will be changed by code.
 		"textAlignment" "center"
-		"xpos"			"0"
+		
 		"ypos"			"215"
 		"wide"			"f0"
 		"tall"			"70"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 
 	// Main instruction text
@@ -268,11 +268,11 @@
 		"font"			"ScoreboardMedium"
 		"labelText"		"#TF_VR_UseControls"
 		"textAlignment" "center"
-		"xpos"			"0"
+		
 		"ypos"			"275"
 		"wide"			"f0"
 		"tall"			"70"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 	
 	
@@ -285,16 +285,16 @@
 		"ypos"			"340"
 		"wide"			"60"
 		"tall"			"25"
-		"autoResize"	"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"#TF_VR_LessLots"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		
@@ -311,16 +311,16 @@
 		"ypos"			"340"
 		"wide"			"60"
 		"tall"			"25"
-		"autoResize"	"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"#TF_VR_Less"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		
@@ -337,16 +337,16 @@
 		"ypos"			"340"
 		"wide"			"60"
 		"tall"			"25"
-		"autoResize"	"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"#TF_VR_More"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		
@@ -363,16 +363,16 @@
 		"ypos"			"340"
 		"wide"			"60"
 		"tall"			"25"
-		"autoResize"	"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"#TF_VR_MoreLots"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		
@@ -389,16 +389,16 @@
 		"ypos"			"380"
 		"wide"			"80"
 		"tall"			"25"
-		"autoResize"	"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"#TF_VR_NextAdjust"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		
@@ -415,16 +415,16 @@
 		"ypos"			"380"
 		"wide"			"80"
 		"tall"			"25"
-		"autoResize"	"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"#TF_VR_Close"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		

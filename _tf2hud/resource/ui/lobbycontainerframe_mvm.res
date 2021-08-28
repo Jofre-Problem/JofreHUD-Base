@@ -18,21 +18,21 @@
 		"zpos"			"2"
 		"wide"			"195"
 		"tall"			"25"
-		"autoResize"	"0"
-		//"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		////"pinCorner"			"3"
+		//"visible"		"1"
+		
+		
 		"labelText"		"#TF_MvM_LearnMore"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"learn_more"
 
-		"NavUp"			"PracticeButton"
-		"NavLeft"		"BackButton"
-		"NavRight"		"NextButton"
+		//"navUp"			"PracticeButton"
+		//"navLeft"		"BackButton"
+		//"navRight"		"NextButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -47,23 +47,23 @@
 		"zpos"			"20"
 		"wide"			"180"
 		"tall"			"40"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"#TF_MvM_MannUp"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"mannup"
 
-		"NavUp"			"Sheet"
+		//"navUp"			"Sheet"
 		"NavDown"		"BackButton"
-		"NavLeft"		"Sheet"
-		"NavRight"		"PracticeButton"
+		//"navLeft"		"Sheet"
+		//"navRight"		"PracticeButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -72,9 +72,9 @@
 		"border_armed"		"MainMenuButtonArmed"
 		"paintbackground"	"0"
 			
-		"defaultFgColor_override" "46 43 42 255"
-		"armedFgColor_override" "235 226 202 255"
-		"depressedFgColor_override" "46 43 42 255"
+		"defaultFgColor_override" "TanDarker"
+		"armedFgColor_override" "TanLight"
+		"depressedFgColor_override" "TanDarker"
 	}
 
 	"PracticeButton"
@@ -86,23 +86,23 @@
 		"zpos"			"20"
 		"wide"			"180"
 		"tall"			"40"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"#TF_MvM_BootCamp"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontMediumSecondary"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"practice"
 
-		"NavUp"			"Sheet"
+		//"navUp"			"Sheet"
 		"NavDown"		"LearnMoreButton"
-		"NavLeft"		"PlayNowButton"
-		"NavRight"		"StartPartyButton"
+		//"navLeft"		"PlayNowButton"
+		//"navRight"		"StartPartyButton"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -111,9 +111,9 @@
 		"border_armed"		"MainMenuButtonArmed"
 		"paintbackground"	"0"
 			
-		"defaultFgColor_override" "46 43 42 255"
-		"armedFgColor_override" "235 226 202 255"
-		"depressedFgColor_override" "46 43 42 255"
+		"defaultFgColor_override" "TanDarker"
+		"armedFgColor_override" "TanLight"
+		"depressedFgColor_override" "TanDarker"
 	}
 
 	"PlayWithFriendsExplanation"
@@ -125,8 +125,8 @@
 		"zpos"			"8"
 		"wide"			"200"
 		"tall"			"285"
-		"PaintBackgroundType"	"0"
-		"paintbackground"		"1"
+		//"PaintBackgroundType"	"0"
+		//"paintbackground"		"1"
 		"bgcolor_override"	"0 0 0 200"
 		"border"		"QuickplayBorder"
 
@@ -134,11 +134,11 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"PlayWithFriendsExplanationTitle"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#TF_Matchmaking_PlayWithFriends"
 			"textAlignment"	"center"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"zpos"			"10"
 			"wide"			"200"
 			"tall"			"32"
@@ -150,11 +150,11 @@
 			"fieldName"		"FriendsImage"
 			"xpos"			"10"
 			"ypos"			"32"
-			"zpos"			"0"
+			
 			"wide"			"180"
 			"tall"			"90"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"image"			"pve/mvm_friends_image"
 			"scaleImage"	"1"
 		}

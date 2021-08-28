@@ -16,9 +16,9 @@
 		"setclosebuttonvisible"	"0"
 		"settitlebarvisible"	"1"
 		//"PaintBackgroundType"	"0"
-		"bgcolor_override"				"46 43 42 0"
-		"infocus_bgcolor_override"		"46 43 42 0"
-		"outoffocus_bgcolor_override"	"46 43 42 0"
+		"bgcolor_override"				"Blank"
+		"infocus_bgcolor_override"		"Blank"
+		"outoffocus_bgcolor_override"	"Blank"
 		
 		"title"			"#Replay_Replay"
 		"title_font"	"HudFontMediumSecondary"
@@ -123,7 +123,7 @@
 		"wide"			"100"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		

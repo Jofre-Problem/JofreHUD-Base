@@ -15,9 +15,9 @@
 		
 		"settitlebarvisible"	"1"
 		//"PaintBackgroundType"	"0"
-		"bgcolor_override"				"46 43 42 0"
-		"infocus_bgcolor_override"		"46 43 42 0"
-		"outoffocus_bgcolor_override"	"46 43 42 0"
+		"bgcolor_override"				"Blank"
+		"infocus_bgcolor_override"		"Blank"
+		"outoffocus_bgcolor_override"	"Blank"
 		
 		"title"			"#StoreTitle"
 		"title_font"	"HudFontMediumSecondary"
@@ -83,7 +83,7 @@
 				"zpos"			"15"
 				"wide"			"16"
 				"tall"			"10"
-				"autoResize"	"1"
+				//"autoResize"	"1"
 				
 				//"visible"		"1"
 				
@@ -141,7 +141,7 @@
 				"zpos"			"15"
 				"wide"			"95"
 				"tall"			"60"
-				"autoResize"	"1"
+				//"autoResize"	"1"
 				
 				//"visible"		"1"
 				
@@ -160,7 +160,7 @@
 				"wide"			"250"
 				"tall"			"15"
 				"zpos"			"15"
-				"autoResize"	"1"
+				//"autoResize"	"1"
 				
 				//"visible"		"1"
 				
@@ -250,7 +250,7 @@
 			"zpos"			"1"
 			"wide"			"350"
 			"tall"			"20"
-			"autoResize"	"1"
+			//"autoResize"	"1"
 			
 			//"visible"		"1"
 			
@@ -283,7 +283,7 @@
 			"zpos"			"6"
 			"wide"			"600"
 			"tall"			"240"
-			"autoResize"	"1"
+			//"autoResize"	"1"
 			
 			"visible"		"0"
 			
@@ -382,7 +382,7 @@
 						"zpos"			"100"
 						"wide"			"425"
 						"tall"			"15"
-						"autoResize"	"1"
+						//"autoResize"	"1"
 						
 						//"visible"		"1"
 						
@@ -399,7 +399,7 @@
 						"zpos"			"100"
 						"wide"			"425"
 						"tall"			"12"
-						"autoResize"	"1"
+						//"autoResize"	"1"
 						
 						//"visible"		"1"
 						
@@ -417,7 +417,7 @@
 						"zpos"			"100"
 						"wide"			"425"
 						"tall"			"12"
-						"autoResize"	"1"
+						//"autoResize"	"1"
 						
 						//"visible"		"1"
 						
@@ -435,7 +435,7 @@
 						"zpos"			"15"
 						"wide"			"100"
 						"tall"			"60"
-						"autoResize"	"1"
+						//"autoResize"	"1"
 						
 						//"visible"		"1"
 						
@@ -458,7 +458,7 @@
 		"wide"			"200"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -483,7 +483,7 @@
 		"wide"			"130"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		

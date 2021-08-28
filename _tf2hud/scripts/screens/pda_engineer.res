@@ -14,7 +14,7 @@
 		//"visible"		"1"
 		
 		"labelText"		"1"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"paintbackground"	"0"
@@ -49,7 +49,7 @@
 		//"visible"		"1"
 		
 		"labelText"		"2"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"paintbackground"	"0"
@@ -84,7 +84,7 @@
 		//"visible"		"1"
 		
 		"labelText"		"3"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"paintbackground"	"0"
@@ -119,7 +119,7 @@
 		//"visible"		"1"
 		
 		"labelText"		"4"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"paintbackground"	"0"

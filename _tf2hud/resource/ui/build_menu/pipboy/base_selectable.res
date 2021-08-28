@@ -32,7 +32,7 @@
 		
 		"labelText"		"#TF_Empty_Slot"
 		//"labelText_lodef"		"#TF_Empty_Slot"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"fgcolor"		"black"
@@ -102,6 +102,6 @@
 		"visible"		"0"
 		
 		"labelText"		"%metal%"
-		"textAlignment"	"Left"	
+		//"textAlignment"	"Left"	
 	}
 }

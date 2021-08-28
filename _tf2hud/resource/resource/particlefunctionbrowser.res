@@ -6,7 +6,7 @@
 		"fieldName"		"FunctionBrowser"
 		//"visible"		"1"
 		
-		"AutoResize"	"3"
+		//"autoResize"	"3"
 		
 		
 		
@@ -22,7 +22,7 @@
 		"ypos"			"6"
 		"wide"			"256"
 		"tall"			"212"
-		"AutoResize"	"3"
+		//"autoResize"	"3"
 		
 		//"UnpinnedCornerOffsetX" "-6"
 		////"UnpinnedCornerOffsetY" "-6"

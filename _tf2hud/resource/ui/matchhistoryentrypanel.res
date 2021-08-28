@@ -3,8 +3,8 @@
 	"MatchEntry"
 	{
 		"fieldName"	"MatchEntry"
-		"xpos"		"0"
-		"ypos"		"0"
+		
+		//"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"17"
 		"proportionaltoparent"	"1"
@@ -15,8 +15,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Container"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"wide"			"f0"
 		"tall"			"17"
 		"proportionaltoparent"	"1"
@@ -27,8 +27,8 @@
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"EntryToggleButton"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
@@ -38,7 +38,7 @@
 			"labeltext"		""
 
 			"border_default"	"NoBorder"
-			"defaultBgColor_override"	"0 0 0 0"
+			"defaultBgColor_override"	"Blank"
 
 			"border_armed"		"NoBorder"
 			"armedBgColor_override"	"235 226 202 20"
@@ -53,7 +53,7 @@
 			"ControlName"	"Label"
 			"fieldName"		"WinLabel"
 			"xpos"			"10"
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
@@ -61,9 +61,9 @@
 			"mouseinputenabled"	"0"
 			
 			"labeltext"			"#TF_Competitive_MatchHistory_Win"
-			"font"				"HudFontSmallestBold"
+			"font"				"HudFontSmallest"
 			"fgcolor_override"	"95 164 44 255"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 		}
 
 		"LossLabel"
@@ -71,7 +71,7 @@
 			"ControlName"	"Label"
 			"fieldName"		"LossLabel"
 			"xpos"			"10"
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
@@ -79,9 +79,9 @@
 			"mouseinputenabled"	"0"
 			
 			"labeltext"			"#TF_Competitive_MatchHistory_Loss"
-			"font"				"HudFontSmallestBold"
+			"font"				"HudFontSmallest"
 			"fgcolor_override"	"141 63 63 255"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 		}
 
 		"DateLabel"
@@ -89,17 +89,17 @@
 			"ControlName"	"Label"
 			"fieldName"		"DateLabel"
 			"xpos"			"p0.2"
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
-			"visible"		"1"
+			//"visible"		"1"
 			"mouseinputenabled"	"0"
 			
 			"labeltext"			"%match_date%"
 			"font"				"MMenuPlayListDesc"
 			"fgcolor_override"	"TanLight"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 		}
 
 		"MapNameLabel"
@@ -107,17 +107,17 @@
 			"ControlName"	"Label"
 			"fieldName"		"MapNameLabel"
 			"xpos"			"p0.60"
-			"ypos"			"0"
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
-			"visible"		"1"
+			//"visible"		"1"
 			"mouseinputenabled"	"0"
 			
 			"labeltext"			"%map_name%"
 			"font"				"MMenuPlayListDesc"
 			"fgcolor_override"	"TanLight"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 		}
 
 		"KDLabel"
@@ -125,17 +125,17 @@
 			"ControlName"	"Label"
 			"fieldName"		"KDLabel"
 			"xpos"			"p0.9"
-			"ypos"			"0"
+			
 			"wide"			"100"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
-			"visible"		"1"
+			//"visible"		"1"
 			"mouseinputenabled"	"0"
 			
 			"labeltext"			"%kd_ratio%"
 			"font"				"MMenuPlayListDesc"
 			"fgcolor_override"	"TanLight"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 		}
 	}
 
@@ -143,27 +143,27 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BottomStats"
-		"xpos"			"0"
+		
 		"ypos"			"17"
 		"wide"			"f0"
 		"tall"			"0"
 		"proportionaltoparent"	"1"		
 		"bgcolor_override"	"0 0 0 190"
-		"autoresize"		"2"
-		"pincorner"			"3"
+		//"autoResize"		"2"
+		//"pinCorner"				"3"
 
 		"InnerShadow"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"InnerShadow"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"wide"			"f0"
 			"tall"			"f0"
 			"zpos"			"1"
 			"proportionaltoparent"	"1"	
-			"autoresize"		"2"
-			"pincorner"			"3"
+			//"autoResize"		"2"
+			//"pinCorner"				"3"
 			
 			"border"			"InnerShadowBorder"	
 		}
@@ -172,20 +172,20 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"SlidingStatsContainer"
-			"xpos"			"0"
+			
 			"ypos"			"rs1+17"
 			"wide"			"f0"
 			"tall"			"50"
 			"proportionaltoparent"	"1"		
 			
-			"pincorner"			"3"	// Just slide down
+			//"pinCorner"				"3"	// Just slide down
 
 			"BGImage"
 			{
 				"ControlName"	"ScalableImagePanel"
 				"fieldName"		"BGImage"
 				"xpos"			"-2"
-				"ypos"			"0"
+				
 				"wide"			"o1"
 				"tall"			"50"
 				"image"			"casual\gametype_koth"
@@ -197,7 +197,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"GradientImage"
 				"xpos"			"8"
-				"ypos"			"0"
+				
 				"zpos"			"1"
 				"wide"			"o1"
 				"tall"			"40"
@@ -225,17 +225,17 @@
 				"ControlName"	"Label"
 				"fieldName"		"KillsLabel"
 				"xpos"			"p0.2"
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"15"
 				"proportionaltoparent"	"1"
-				"visible"		"1"
+				//"visible"		"1"
 				"mouseinputenabled"	"0"
 			
 				"labeltext"			"%stat_kills%"
 				"font"				"MMenuPlayListDesc"
 				"fgcolor_override"	"TanLight"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 			}
 
 			"DeathsLabel"
@@ -247,13 +247,13 @@
 				"wide"			"f0"
 				"tall"			"15"
 				"proportionaltoparent"	"1"
-				"visible"		"1"
+				//"visible"		"1"
 				"mouseinputenabled"	"0"
 			
 				"labeltext"			"%stat_deaths%"
 				"font"				"MMenuPlayListDesc"
 				"fgcolor_override"	"TanLight"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 			}
 
 			"DamageMedal"
@@ -278,13 +278,13 @@
 				"wide"			"f0"
 				"tall"			"15"
 				"proportionaltoparent"	"1"
-				"visible"		"1"
+				//"visible"		"1"
 				"mouseinputenabled"	"0"
 			
 				"labeltext"			"%stat_damage%"
 				"font"				"MMenuPlayListDesc"
 				"fgcolor_override"	"TanLight"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 			}
 
 			// Second column
@@ -306,17 +306,17 @@
 				"ControlName"	"Label"
 				"fieldName"		"HealingLabel"
 				"xpos"			"p0.6"
-				"ypos"			"0"
+				
 				"wide"			"f0"
 				"tall"			"15"
 				"proportionaltoparent"	"1"
-				"visible"		"1"
+				//"visible"		"1"
 				"mouseinputenabled"	"0"
 			
 				"labeltext"			"%stat_healing%"
 				"font"				"MMenuPlayListDesc"
 				"fgcolor_override"	"TanLight"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 			}
 
 			"SupportMedal"
@@ -341,13 +341,13 @@
 				"wide"			"f0"
 				"tall"			"15"
 				"proportionaltoparent"	"1"
-				"visible"		"1"
+				//"visible"		"1"
 				"mouseinputenabled"	"0"
 			
 				"labeltext"			"%stat_support%"
 				"font"				"MMenuPlayListDesc"
 				"fgcolor_override"	"TanLight"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 			}
 
 			"ScoreMedal"
@@ -372,15 +372,15 @@
 				"wide"			"f0"
 				"tall"			"15"
 				"proportionaltoparent"	"1"
-				"visible"		"1"
+				//"visible"		"1"
 				"mouseinputenabled"	"0"
 
-				"pincorner"			"3"
+				//"pinCorner"				"3"
 			
 				"labeltext"			"%stat_score%"
 				"font"				"MMenuPlayListDesc"
 				"fgcolor_override"	"TanLight"
-				"textAlignment"		"west"
+				//"textAlignment"		"west"
 			}
 
 			"ClassIcons"
@@ -399,8 +399,8 @@
 				{
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"ScoutIcon"
-					"xpos"			"0"
-					"ypos"			"0"
+					
+					
 					"wide"			"p0.333"
 					"tall"			"p0.333"
 					"image"			"class_icons/filter_scout"
@@ -412,7 +412,7 @@
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"PyroIcon"
 					"xpos"			"p0.333"
-					"ypos"			"0"
+					
 					"wide"			"p0.333"
 					"tall"			"p0.333"
 					"image"			"class_icons/filter_pyro"
@@ -424,7 +424,7 @@
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"SoldierIcon"
 					"xpos"			"p0.666"
-					"ypos"			"0"
+					
 					"wide"			"p0.333"
 					"tall"			"p0.333"
 					"image"			"class_icons/filter_soldier"
@@ -436,7 +436,7 @@
 				{
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"DemoIcon"
-					"xpos"			"0"
+					
 					"ypos"			"p0.333"
 					"wide"			"p0.333"
 					"tall"			"p0.333"
@@ -473,7 +473,7 @@
 				{
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"MedicIcon"
-					"xpos"			"0"
+					
 					"ypos"			"p0.666"
 					"wide"			"p0.333"
 					"tall"			"p0.333"

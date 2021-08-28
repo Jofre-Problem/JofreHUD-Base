@@ -22,7 +22,7 @@
 		"ypos"		"30"
 		"wide"		"412"
 		"tall"		"340"
-		"autoResize"		"3"
+		//"autoResize"		"3"
 		
 		//"visible"		"1"
 		
@@ -37,7 +37,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"1"
+		//"pinCorner"			"1"
 		//"visible"		"1"
 		
 		
@@ -58,7 +58,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"1"
+		//"pinCorner"			"1"
 		//"visible"		"1"
 		
 		
@@ -80,7 +80,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"1"
+		//"pinCorner"			"1"
 		//"visible"		"1"
 		
 		
@@ -102,7 +102,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -142,7 +142,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -161,7 +161,7 @@
 		"wide"		"100"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -183,7 +183,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -205,7 +205,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -227,7 +227,7 @@
 		"wide"		"160"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -248,7 +248,7 @@
 		"wide"		"100"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -269,7 +269,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"tabPosition"		"2"
@@ -288,7 +288,7 @@
 		"wide"		"12"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -307,7 +307,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"tabPosition"		"3"
@@ -326,7 +326,7 @@
 		"wide"		"128"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -347,7 +347,7 @@
 		"wide"		"128"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -368,7 +368,7 @@
 		"wide"		"155"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"tabPosition"		"4"

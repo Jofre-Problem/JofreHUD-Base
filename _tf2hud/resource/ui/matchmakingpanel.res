@@ -10,7 +10,7 @@
 		"wide"			"350"
 		"tall"			"375"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"proportionaltoparent" "1"
 	}
 
@@ -19,26 +19,26 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MainContainer"
 		"xpos"			"40"
-		"ypos"			"0"
+		
 		"zpos"			"10"
 		"wide"			"f0"
 		"tall"			"p0.9"
 		"proportionaltoparent"	"1"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"border"		"MainMenuBGBorder"
 
 		"ModeBackgroundImage"
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"ModeBackgroundImage"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"p0.7"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"mouseinputenabled" "0"
 			"image"			"competitive/comp_background_tier001a"
 			"scaleImage"	"1"
@@ -53,11 +53,11 @@
 			"zpos"			"50"
 			"wide"			"p0.987"
 			"tall"			"1"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"bgcolor_override"	"255 255 255 252"
 			"proportionaltoparent"	"1"
 		}
@@ -66,7 +66,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"QuestLogTitle"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"#TF_Matchmaking_Title"
 			"textAlignment"	"north-west"
 			"xpos"			"105"
@@ -74,11 +74,11 @@
 			"zpos"			"2"
 			"wide"			"f0"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"wrap"			"0"
+			
+			
+			//"visible"		"1"
+			
+			//"wrap"			"0"
 			"proportionaltoparent"	"1"
 			"fgcolor"		"TanLight"
 		}
@@ -93,7 +93,7 @@
 			"wide"		"f0"
 			"tall"		"f0"
 			"visible"	"1"
-			"enabled"	"1"
+			
 			//"border"	"MainMenuHighlightBorder"
 
 			"LadderLabel"
@@ -105,11 +105,11 @@
 				"zpos"			"2"
 				"wide"			"50"
 				"tall"			"20"
-				"visible"		"1"
-				"enabled"		"1"
-				"font"			"HudFontSmallestBold"
+				//"visible"		"1"
+				
+				"font"			"HudFontSmallest"
 				//"fgcolor_override"	"89 81 71 255"
-				"textAlignment"	"west"
+				//"textAlignment"	"west"
 				"labelText"		"MODE:"
 			}
 
@@ -118,30 +118,30 @@
 			{
 				"ControlName"		"ComboBox"
 				"fieldName"			"ModeComboBox"
-				"Font"				"HudFontSmallestBold"
+				"Font"				"HudFontSmallest"
 				"xpos"				"62"
 				"ypos"				"36"
 				"zpos"				"2"
 				"wide"				"85"
 				"tall"				"15"
-				"autoResize"		"0"
-				"pinCorner"			"0"
-				"visible"			"1"
-				"enabled"			"1"
-				"textHidden"		"0"
+				
+				
+				//"visible"			"1"
+				
+				//"textHidden"		"0"
 				"editable"			"0"
 				"maxchars"			"-1"
 				"NumericInputOnly"	"0"
-				"unicode"			"0"
+				//"unicode"			"0"
 				"default"			"0"
 		
-				"fgcolor_override"	"235 226 202 255"
-				"bgcolor_override"	"0 0 0 0"
-				"disabledFgColor_override" "235 226 202 255"
-				"disabledBgColor_override" "0 0 0 0"
-				"selectionColor_override" "0 0 0 0"
-				"selectionTextColor_override" "235 226 202 255"
-				"defaultSelectionBG2Color_override" "0 0 0 0"
+				"fgcolor_override"	"TanLight"
+				"bgcolor_override"	"Blank"
+				"disabledFgColor_override" "TanLight"
+				"disabledBgColor_override" "Blank"
+				"selectionColor_override" "Blank"
+				"selectionTextColor_override" "TanLight"
+				"defaultSelectionBG2Color_override" "Blank"
 			}
 
 			"SearchButton"
@@ -153,16 +153,16 @@
 				"zpos"			"2"
 				"wide"			"160"
 				"tall"			"25"
-				"autoResize"	"0"
-				//"pinCorner"		"3"
-				"visible"		"1"
-				"enabled"		"1"
-				"tabPosition"	"0"
-				"font"			"HudFontSmallBold"
+				
+				////"pinCorner"			"3"
+				//"visible"		"1"
+				
+				
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_StartSearch"
-				"dulltext"		"0"
-				"brighttext"	"0"
+				////"dulltext"		"0"
+				//"brighttext"	"0"
 				"Command"		"search"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -177,16 +177,16 @@
 				"zpos"			"2"
 				"wide"			"160"
 				"tall"			"25"
-				"autoResize"	"0"
-				"pinCorner"		"3"
+				
+				//"pinCorner"			"3"
 				"visible"		"0"
-				"enabled"		"1"
-				"tabPosition"	"0"
-				"font"			"HudFontSmallBold"
+				
+				
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_CancelSearch"
-				"dulltext"		"0"
-				"brighttext"	"0"
+				////"dulltext"		"0"
+				//"brighttext"	"0"
 				"Command"		"stopsearch"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -203,8 +203,8 @@
 			"wide"		"300"
 			"tall"		"265"
 			"visible"	"0"
-			"PaintBackgroundType"	"0"
-			"paintbackground"		"1"
+			//"PaintBackgroundType"	"0"
+			//"paintbackground"		"1"
 			"bgcolor_override"	"0 0 0 200"
 			"border"		"QuickplayBorder"
 			"proportionaltoparent"	"1"
@@ -213,7 +213,7 @@
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"		"SearchActiveTitle"
-				"font"			"HudFontMediumBold"
+				"font"			"HudFontMediumSecondary"
 				"labelText"		"#TF_Matchmaking_Searching"
 				"xpos"		"30"
 				"ypos"		"20"
@@ -222,7 +222,7 @@
 				"tall"		"40"
 				"textAlignment"	"north-west"
 				"visible"	"1"
-				"enabled"	"1"
+				
 				"proportionaltoparent"	"1"
 			}
 
@@ -239,7 +239,7 @@
 				"tall"		"20"
 				"textAlignment"	"south-east"
 				"visible"	"1"
-				"enabled"	"1"
+				
 			}
 
 			"WorldwideColumnHead"
@@ -255,14 +255,14 @@
 				"tall"		"20"
 				"textAlignment"	"south-east"
 				"visible"	"1"
-				"enabled"	"1"
+				
 			}
 
 			"PlayersInGameLabel"
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"		"PlayersInGameLabel"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"labelText"		"#TF_Matchmaking_ActivePlayers"
 				"xpos"		"30"
 				"ypos"		"70"
@@ -271,7 +271,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-west"
 				"visible"	"1"
-				"enabled"	"1"
+				
 			}
 
 			"PlayersInGameTotalLabel"
@@ -287,7 +287,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-west"
 				"visible"	"1"
-				"enabled"	"1"
+				
 			}
 
 				"PlayersInGameTotalNearbyValue"
@@ -302,7 +302,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -318,7 +318,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -335,7 +335,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-west"
 				"visible"	"1"
-				"enabled"	"1"
+				
 			}
 
 				"PlayersInGameMatchingNearbyValue"
@@ -350,7 +350,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -366,7 +366,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -374,7 +374,7 @@
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"		"PlayersSearchingLabel"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"labelText"		"#TF_Matchmaking_SearchingPlayers"
 				"xpos"		"30"
 				"ypos"		"140"
@@ -383,7 +383,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-west"
 				"visible"	"1"
-				"enabled"	"1"
+				
 			}
 
 			"PlayersSearchingTotalLabel"
@@ -399,7 +399,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-west"
 				"visible"	"1"
-				"enabled"	"1"
+				
 			}
 
 				"PlayersSearchingTotalNearbyValue"
@@ -414,7 +414,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -430,7 +430,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -447,7 +447,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-west"
 				"visible"	"1"
-				"enabled"	"1"
+				
 			}
 
 				"PlayersSearchingMatchingNearbyValue"
@@ -462,7 +462,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -478,7 +478,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -486,7 +486,7 @@
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"		"EmptyGameserversLabel"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"labelText"		"#TF_Matchmaking_EmptyGameservers"
 				"xpos"		"30"
 				"ypos"		"210"
@@ -495,7 +495,7 @@
 				"tall"		"20"
 				"textAlignment"	"north-west"
 				"visible"	"1"
-				"enabled"	"1"
+				
 			}
 
 				"EmptyGameserversMatchingNearbyValue"
@@ -510,7 +510,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -526,7 +526,7 @@
 					"tall"		"20"
 					"textAlignment"	"north-east"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"labelText"		"?"
 				}
 
@@ -540,19 +540,19 @@
 				"wide"		"340"
 				"tall"		"60"
 				"visible"	"0"
-				"enabled"	"1"
+				
 
 				"PartyHasLeaverImage"
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"PartyHasLeaverImage"
-					"xpos"			"0"
+					
 					"ypos"			"5"
-					"zpos"			"0"
+					
 					"wide"			"50"
 					"tall"			"50"
-					"visible"		"1"
-					"enabled"		"1"
+					//"visible"		"1"
+					
 					"mouseinputenabled" "0"
 					"image"			"pve/mvm_timeout_active_large"
 					"scaleImage"	"1"
@@ -565,13 +565,13 @@
 					"font"			"HudFontSmall"
 					"labelText"		"#TF_Matchmaking_PartyPenalty"
 					"xpos"		"60"
-					"ypos"		"0"
+					//"ypos"		"0"
 					"zpos"			"2"
 					"wide"		"275"
 					"tall"		"60"
-					"textAlignment"	"west"
+					//"textAlignment"	"west"
 					"visible"	"1"
-					"enabled"	"1"
+					
 					"wrap"		"1"
 					"fgcolor_override"	"250 114 45 255"
 				}

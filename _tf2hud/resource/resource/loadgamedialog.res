@@ -24,7 +24,7 @@
 		"ypos"		"61"
 		"wide"		"444"
 		"tall"		"354"
-		"autoResize"		"3"
+		//"autoResize"		"3"
 		
 		//"visible"		"1"
 		
@@ -39,7 +39,7 @@
 		"wide"		"82"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		"enabled"		"0"
 		"tabPosition"		"2"
@@ -60,7 +60,7 @@
 		"wide"		"70"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		"tabPosition"		"3"
@@ -81,7 +81,7 @@
 		"wide"		"82"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"tabPosition"		"3"

@@ -25,7 +25,7 @@
 		"wide"		"120"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -47,7 +47,7 @@
 		"wide"		"120"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -69,7 +69,7 @@
 		"wide"		"120"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -91,7 +91,7 @@
 		"wide"		"120"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -112,7 +112,7 @@
 		"ypos"		"27"
 		"wide"		"630"
 		"tall"		"330"
-		"autoResize"		"3"
+		//"autoResize"		"3"
 		
 		//"visible"		"1"
 		

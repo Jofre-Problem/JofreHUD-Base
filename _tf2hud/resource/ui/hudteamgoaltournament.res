@@ -88,8 +88,8 @@
 			"wide"			"225"
 			"tall"			"150"
 			"wrap"			"1"
-			"autoResize"		"1"
-			"pinCorner"		"1"
+			//"autoResize"		"1"
+			//"pinCorner"			"1"
 			//"visible"		"1"
 			
 			"labeltext"		""
@@ -125,8 +125,8 @@
 			"wide"			"225"
 			"tall"			"165"
 			"wrap"			"1"
-			"autoResize"		"1"
-			"pinCorner"		"1"
+			//"autoResize"		"1"
+			//"pinCorner"			"1"
 			//"visible"		"1"
 			
 			"labeltext"		""

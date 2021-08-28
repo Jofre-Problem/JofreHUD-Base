@@ -33,7 +33,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Dimmer"
 			
-			"ypos"		"0"
+			//"ypos"		"0"
 			"zpos"		"-2"
 			"wide"		"f0"
 			"tall"		"f0"
@@ -50,7 +50,7 @@
 			"ControlName"	"Button"
 			"fieldName"		"OutsideCloseButton"
 			
-			"ypos"		"0"
+			//"ypos"		"0"
 			"zpos"		"-1"
 			"wide"		"f0"
 			"tall"		"f0"
@@ -75,7 +75,7 @@
 			"zpos"			"1"
 			"wide"			"600"
 			"tall"			"350"
-			"autoResize"	"3"
+			//"autoResize"	"3"
 			
 			//"visible"		"1"
 			
@@ -203,7 +203,7 @@
 					"wide"			"145"
 					"tall"			"20"
 					
-					"pinCorner"		"3"
+					//"pinCorner"			"3"
 					//"visible"		"1"
 					
 					
@@ -240,7 +240,7 @@
 					"wide"			"300"
 					"tall"			"20"
 					
-					"pinCorner"		"3"
+					//"pinCorner"			"3"
 					//"visible"		"1"
 					
 					
@@ -679,7 +679,7 @@
 							"wide"			"100"
 							"tall"			"26"
 							
-							"pinCorner"		"3"
+							//"pinCorner"			"3"
 							//"visible"		"1"
 							
 							
@@ -719,7 +719,7 @@
 							"wide"			"100"
 							"tall"			"26"
 							
-							"pinCorner"		"3"
+							//"pinCorner"			"3"
 							//"visible"		"1"
 							
 							
@@ -833,7 +833,7 @@
 							"wide"			"100"
 							"tall"			"26"
 							
-							"pinCorner"		"3"
+							//"pinCorner"			"3"
 							//"visible"		"1"
 							
 							
@@ -920,7 +920,7 @@
 							"wide"			"100"
 							"tall"			"26"
 							
-							"pinCorner"		"3"
+							//"pinCorner"			"3"
 							//"visible"		"1"
 							
 							
@@ -1021,7 +1021,7 @@
 						"wide"			"150"
 						"tall"			"26"
 						
-						"pinCorner"		"3"
+						//"pinCorner"			"3"
 						//"visible"		"1"
 						
 						
@@ -1073,7 +1073,7 @@
 						"wide"			"150"
 						"tall"			"26"
 						
-						"pinCorner"		"3"
+						//"pinCorner"			"3"
 						//"visible"		"1"
 						
 						

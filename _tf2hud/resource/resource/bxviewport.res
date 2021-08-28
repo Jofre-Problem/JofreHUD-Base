@@ -22,7 +22,7 @@
 		"ypos"		"34"
 		"wide"		"1124"
 		"tall"		"826"
-		"autoResize"		"3"
+		//"autoResize"		"3"
 		
 		//"visible"		"1"
 		
@@ -37,8 +37,8 @@
 		//"zpos"		"1"
 		"wide"		"1072"
 		"tall"		"36"
-		"autoResize"		"1"
-		"pinCorner"		"2"
+		//"autoResize"		"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -67,8 +67,8 @@
 		//"zpos"		"1"
 		"wide"		"1124"
 		"tall"		"34"
-		"autoResize"		"1"
-		"pinCorner"		"2"
+		//"autoResize"		"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -163,7 +163,7 @@
 		"wide"		"70"
 		"tall"		"24"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		

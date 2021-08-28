@@ -107,7 +107,7 @@
 		"zpos"			"10"
 		"wide"			"20"
 		"tall"			"15"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -126,7 +126,7 @@
 		"zpos"			"10"
 		"wide"			"175"
 		"tall"			"60"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -145,7 +145,7 @@
 		"zpos"			"10"
 		"wide"			"175"
 		"tall"			"50"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -164,7 +164,7 @@
 		"zpos"			"10"
 		"wide"			"20"
 		"tall"			"25"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -182,7 +182,7 @@
 		"zpos"			"10"
 		"wide"			"200"
 		"tall"			"25"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -218,7 +218,7 @@
 	{
 		"ControlName"		"CBackpackPanel"
 		"fieldName"			"backpack_panel"
-		"xpos"				"0"
+		//"xpos"				"0"
 		"ypos"				"100"
 		"wide"				"f0"
 		"tall"				"400"

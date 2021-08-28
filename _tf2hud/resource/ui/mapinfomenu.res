@@ -9,7 +9,7 @@
 		
 		"wide"			"f0"
 		"tall"			"480"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -76,7 +76,7 @@
 		"tall"			"200"
 		//"tall_hidef"			"200"
 		//"tall_lodef"	"200"
-		"autoResize"	"3"
+		//"autoResize"	"3"
 		
 		//"visible"		"1"
 		
@@ -122,7 +122,7 @@
 		"wide"			"150"
 		"tall"			"30"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"labelText"		"#TF_Continue"
@@ -147,7 +147,7 @@
 		"wide"			"150"
 		"tall"			"30"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"labelText"		"#TF_WatchIntro"
@@ -173,7 +173,7 @@
 		"wide"			"150"
 		"tall"			"30"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"labelText"		"#TF_Back"

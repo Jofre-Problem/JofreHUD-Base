@@ -116,7 +116,7 @@
 		"ypos"			"5"
 		"wide"			"205"
 		"tall"			"33"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -578,7 +578,7 @@
 		"zpos"			"100"
 		"wide"			"230"
 		"tall"			"55"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -718,12 +718,12 @@
 		"fieldName"		"PaintNameLabel"
 		"font"			"FontStorePrice"
 		"labelText"		"#Store_NoPaint"
-		"textAlignment"	"left"
+		//"textAlignment"	"Left"
 		"xpos"			"132"
 		"ypos"			"168"
 		"wide"			"110"
 		"tall"			"25"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -737,12 +737,12 @@
 		"fieldName"		"StyleNameLabel"
 		"font"			"FontStorePrice"
 		"labelText"		"None"
-		"textAlignment"	"left"
+		//"textAlignment"	"Left"
 		"xpos"			"132"
 		"ypos"			"148"
 		"wide"			"110"
 		"tall"			"25"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		

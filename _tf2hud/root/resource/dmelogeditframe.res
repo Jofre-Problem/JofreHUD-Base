@@ -24,8 +24,8 @@
 			//////"ypos"		"298"
 			//"wide"		"256"
 			//"tall"		"24"
-			//////"autoResize"		"1"
-			//////"pinCorner"		"2"
+			////////"autoResize"		"1"
+			////////"pinCorner"			"2"
 			//////"visible"		"1"
 			
 			//////"tabPosition"		"3"
@@ -44,7 +44,7 @@
 			//"wide"		"122"
 			//"tall"		"24"
 			
-			//////"pinCorner"		"2"
+			////////"pinCorner"			"2"
 			//////"visible"		"1"
 			
 			//////"tabPosition"		"1"
@@ -64,7 +64,7 @@
 			//"wide"		"122"
 			//"tall"		"24"
 			
-			//////"pinCorner"		"2"
+			////////"pinCorner"			"2"
 			//////"visible"		"1"
 			
 			//////"tabPosition"	"2"
@@ -83,7 +83,7 @@
 			//////"ypos"			"34"
 			//"wide"			"256"
 			//"tall"			"256"
-			//////"autoResize"	"3"
+			////////"autoResize"	"3"
 			
 			//////"visible"		"1"
 			

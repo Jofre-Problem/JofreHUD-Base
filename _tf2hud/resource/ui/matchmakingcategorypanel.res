@@ -3,8 +3,8 @@
 	"MatchmakingCategoryPanel"
 	{
 		"fieldName"				"MatchmakingCategoryPanel"
-		"xpos"					"0"
-		"ypos"					"0"
+		
+		
 		"wide"					"f0"
 		"tall"					"50"
 		"proportionaltoparent"	"1"
@@ -18,26 +18,26 @@
 	{
 		"Controlname"	"EditablePanel"
 		"fieldName"		"TopContainer"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"p1.17"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"proportionaltoparent"	"1"
 
 		"BGColor"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"BGColor"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"zpos"			"-1"
 			"wide"			"f0"
 			"tall"			"f0"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"mouseinputenabled"	"0"
 		
 			"proportionaltoparent"	"1"
@@ -48,13 +48,13 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"BGImage"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"0"
+			
+			
+			
 			"wide"			"o4"
 			"tall"			"f0"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"scaleImage"	"1"	
 			"proportionaltoparent"	"1"
 		}
@@ -63,7 +63,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"EntryToggleButton"
-			"xpos"			"0"
+			
 			"ypos"			"rs1"
 			"zpos"			"100"
 			"wide"			"f0"
@@ -73,7 +73,7 @@
 			"actionsignallevel"	"2"
 			"command"		"toggle_collapse"
 			"labeltext"		"#TF_Casual_ViewMaps"
-			"textAlignment"	"west"
+			//"textAlignment"	"west"
 			"font"	"MMenuPlayListDesc"
 			"textinsetx"	"40"
 
@@ -103,8 +103,8 @@
 				"zpos"			"1"
 				"wide"			"o1"
 				"tall"			"p.9"
-				"visible"		"1"
-				"enabled"		"1"
+				//"visible"		"1"
+				
 				"scaleImage"	"1"
 
 				"proportionaltoparent"	"1"
@@ -116,14 +116,14 @@
 			"fieldName"			"Shade"
 			"ControlName"		"EditablePanel"
 			"xpos"				"cs-0.5"
-			"ypos"				"0"
+			//"ypos"				"0"
 			"zpos"				"0"
 			"wide"				"f0"
 			"tall"				"57"
 			"mouseinputenabled"	"0"
 
 			"proportionaltoparent"	"1"
-			"bgcolor_override"	"0 0 0 0"
+			"bgcolor_override"	"Blank"
 		}
 
 		"Checkbutton"
@@ -152,16 +152,16 @@
 			"zpos"			"3"
 			"wide"			"200"
 			"tall"			"15"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"labelText"		"%title_token%"
 			"textinsetx"	"5"
 			"use_proportional_insets" "1"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"east"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			//"Default"		"1"
 			"proportionaltoparent" "1"
 			"mouseinputenabled"	"0"
 
@@ -177,16 +177,16 @@
 			"zpos"			"2"
 			"wide"			"200"
 			"tall"			"15"
-			"visible"		"1"
-			"enabled"		"1"
+			//"visible"		"1"
+			
 			"labelText"		"%title_token%"
 			"textinsetx"	"5"
 			"use_proportional_insets" "1"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"east"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
+			//"Default"		"1"
 			"proportionaltoparent" "1"
 			"mouseinputenabled"	"0"
 
@@ -205,10 +205,10 @@
 			"zpos"			"2"
 			"wide"			"120"
 			"tall"			"40"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 
 			"wrap"			"1"
 			"fgcolor_override" "TanLight"
@@ -228,10 +228,10 @@
 			"zpos"			"1"
 			"wide"			"120"
 			"tall"			"40"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 
 			"wrap"			"1"
 			"fgcolor_override" "Black"
@@ -249,7 +249,7 @@
 		"zpos"			"1"
 		"wide"			"p1.5"
 		"tall"			"1000"
-		"visible"		"1"
+		//"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"border"		"InnerShadowBorder"
 		"proportionaltoparent"	"1"
@@ -260,19 +260,19 @@
 	{
 		"Controlname"	"EditablePanel"
 		"fieldName"		"MapsContainer"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"0"
+		
+		
+		
 		"wide"			"f0"
 		"tall"			"0"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"proportionaltoparent"	"1"
 
 		"border"		"InnerShadowBorder"
 
-		"pinCorner"		"2"
-		"autoResize"	"1"
+		//"pinCorner"			"2"
+		//"autoResize"	"1"
 
 		"skip_autoresize"	"1"
 

@@ -343,7 +343,7 @@
 			"wide"			"90"
 			"tall"			"15"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -367,7 +367,7 @@
 			"wide"			"20"
 			"tall"			"15"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -427,7 +427,7 @@
 			"wide"			"90"
 			"tall"			"15"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -451,7 +451,7 @@
 			"wide"			"20"
 			"tall"			"15"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -511,7 +511,7 @@
 			"wide"			"90"
 			"tall"			"15"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -535,7 +535,7 @@
 			"wide"			"20"
 			"tall"			"15"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -595,7 +595,7 @@
 			"wide"			"90"
 			"tall"			"15"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -619,7 +619,7 @@
 			"wide"			"20"
 			"tall"			"15"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -717,7 +717,7 @@
 			"wide"			"70"
 			"tall"			"15"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -772,7 +772,7 @@
 			"wide"			"120"
 			"tall"			"15"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -810,7 +810,7 @@
 		"wide"			"200"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -834,7 +834,7 @@
 		"wide"			"200"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -858,7 +858,7 @@
 		"wide"			"200"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -883,7 +883,7 @@
 		"wide"			"200"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -907,7 +907,7 @@
 		"wide"			"200"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -942,7 +942,7 @@
 			"wide"			"200"
 			"tall"			"26"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			

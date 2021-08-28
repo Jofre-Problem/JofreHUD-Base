@@ -8,7 +8,7 @@
 		//////"ypos"			"6"
 		//"wide"			"256"
 		//"tall"			"256"
-		//////"autoResize"	"3"
+		////////"autoResize"	"3"
 		
 		//////"visible"		"1"
 		
@@ -26,7 +26,7 @@
 			
 			//"wide"			"256"
 			//"tall"			"256"
-			//////"autoResize"	"3"
+			////////"autoResize"	"3"
 			
 			
 			

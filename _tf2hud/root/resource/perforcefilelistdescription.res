@@ -22,7 +22,7 @@
 			"fieldName"		"PreviewSplitter"
 			//////"visible"		"1"
 			
-			////"autoResize"	"3"
+			//////"autoResize"	"3"
 			
 			
 			//////"ypos"			"6"
@@ -39,7 +39,7 @@
 					
 					//"wide"			"568"
 					//"tall"			"316"
-					////"autoResize"	"3"
+					//////"autoResize"	"3"
 					
 					
 					
@@ -59,7 +59,7 @@
 					
 					//"wide"			"65"
 					//"tall"			"24"
-					////"autoResize"	"1"
+					//////"autoResize"	"1"
 					
 					
 					//////"visible"		"1"
@@ -79,7 +79,7 @@
 					//////"ypos"			"26"
 					//"wide"			"75"
 					//"tall"			"24"
-					////"autoResize"	"3"
+					//////"autoResize"	"3"
 					
 					
 					//"PinnedCornerOffsetY" "26"
@@ -106,7 +106,7 @@
 			//"wide"		"122"
 			//"tall"		"24"
 			
-			//////"pinCorner"		"2"
+			////////"pinCorner"			"2"
 			//////"visible"		"1"
 			
 			//////"tabPosition"		"2"
@@ -126,7 +126,7 @@
 			//"wide"		"122"
 			//"tall"		"24"
 			
-			//////"pinCorner"		"2"
+			////////"pinCorner"			"2"
 			//////"visible"		"1"
 			
 			//////"tabPosition"		"2"

@@ -22,7 +22,7 @@
 		//////"ypos"		"10"
 		//"wide"		"382"
 		//"tall"		"264"
-		//////"autoResize"		"3"
+		////////"autoResize"		"3"
 		
 		//////"visible"		"1"
 		
@@ -39,7 +39,7 @@
 		//"wide"		"84"
 		//"tall"		"24"
 		
-		//////"pinCorner"		"1"
+		////////"pinCorner"			"1"
 		//////"visible"		"1"
 		
 		//////"tabPosition"		"5"
@@ -59,7 +59,7 @@
 		//"wide"		"84"
 		//"tall"		"24"
 		
-		//////"pinCorner"		"1"
+		////////"pinCorner"			"1"
 		//////"visible"		"1"
 		
 		//////"tabPosition"		"6"
@@ -79,7 +79,7 @@
 		//"wide"		"84"
 		//"tall"		"24"
 		
-		//////"pinCorner"		"1"
+		////////"pinCorner"			"1"
 		//////"visible"		"1"
 		
 		//////"tabPosition"		"8"
@@ -99,7 +99,7 @@
 		//"wide"		"84"
 		//"tall"		"24"
 		
-		//////"pinCorner"		"1"
+		////////"pinCorner"			"1"
 		//////"visible"		"1"
 		
 		//////"tabPosition"		"7"
@@ -119,7 +119,7 @@
 		//"wide"		"84"
 		//"tall"		"24"
 		
-		//////"pinCorner"		"1"
+		////////"pinCorner"			"1"
 		//////"visible"		"1"
 		
 		//////"tabPosition"		"4"
@@ -139,7 +139,7 @@
 		//"wide"		"75"
 		//"tall"		"24"
 		
-		//////"pinCorner"		"1"
+		////////"pinCorner"			"1"
 		//////"visible"		"1"
 		
 		//////"tabPosition"		"3"
@@ -159,7 +159,7 @@
 		//"wide"		"150"
 		//"tall"		"24"
 		
-		//////"pinCorner"		"2"
+		////////"pinCorner"			"2"
 		//////"visible"		"1"
 		
 		//////"tabPosition"		"2"
@@ -178,7 +178,7 @@
 		//"wide"		"80"
 		//"tall"		"24"
 		
-		//////"pinCorner"		"2"
+		////////"pinCorner"			"2"
 		//////"visible"		"1"
 		
 		//////"tabPosition"		"1"
@@ -197,7 +197,7 @@
 		//"wide"		"82"
 		//"tall"		"24"
 		
-		//////"pinCorner"		"1"
+		////////"pinCorner"			"1"
 		//////"visible"		"1"
 		
 		
@@ -216,7 +216,7 @@
 		//"wide"		"82"
 		//"tall"		"24"
 		
-		//////"pinCorner"		"1"
+		////////"pinCorner"			"1"
 		//////"visible"		"1"
 		
 		
@@ -235,7 +235,7 @@
 		//"wide"		"92"
 		//"tall"		"24"
 		
-		//////"pinCorner"		"2"
+		////////"pinCorner"			"2"
 		//////"visible"		"1"
 		
 		
@@ -254,7 +254,7 @@
 		//"wide"		"64"
 		//"tall"		"24"
 		
-		//////"pinCorner"		"2"
+		////////"pinCorner"			"2"
 		//////"visible"		"1"
 		
 		
@@ -292,7 +292,7 @@
 		//"wide"		"38"
 		//"tall"		"16"
 		
-		//////"pinCorner"		"2"
+		////////"pinCorner"			"2"
 		//////"visible"		"1"
 		
 		
@@ -311,7 +311,7 @@
 		//"wide"		"38"
 		//"tall"		"16"
 		
-		//////"pinCorner"		"2"
+		////////"pinCorner"			"2"
 		//////"visible"		"1"
 		
 		

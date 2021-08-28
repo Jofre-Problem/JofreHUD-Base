@@ -4,8 +4,8 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"IsCompletedImage"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"wide"			"60"
 		"tall"			"60"
 		"visible"		"0"
@@ -17,8 +17,8 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"IsCompletedHighlight"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"wide"			"60"
 		"tall"			"60"
 		"visible"		"0"
@@ -30,8 +30,8 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"NotCompletedImage"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"wide"			"60"
 		"tall"			"60"
 		"visible"		"0"
@@ -43,8 +43,8 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"NotCompletedHighlight"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"wide"			"60"
 		"tall"			"60"
 		"visible"		"0"

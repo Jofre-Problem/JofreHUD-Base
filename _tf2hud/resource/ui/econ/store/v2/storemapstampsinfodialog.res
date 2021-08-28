@@ -114,7 +114,7 @@
 			"zpos"			"5"
 			"wide"			"200"
 			"tall"			"200"
-			"autoResize"	"1"
+			//"autoResize"	"1"
 			
 			//"visible"		"1"
 			

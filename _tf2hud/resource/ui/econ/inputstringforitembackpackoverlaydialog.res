@@ -9,7 +9,7 @@
 		"ypos"					"c-165"
 		"wide"					"320"
 		"tall"					"330"
-		"bgcolor_override"		"46 43 42 0"
+		"bgcolor_override"		"Blank"
 		//"PaintBackgroundType"	"0"
 		"settitlebarvisible"	"1"
 		"border"				"GrayDialogBorder"
@@ -100,7 +100,7 @@
 		
 		"wide"			"f10"
 		"tall"			"60"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -155,7 +155,7 @@
 		
 		"wide"			"f10"
 		"tall"			"60"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -176,7 +176,7 @@
 		"wide"			"f10"
 		"tall"			"60"
 		"fgcolor"		"ItemAttribPositive"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -196,7 +196,7 @@
 		
 		"wide"			"f10"
 		"tall"			"60"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -253,7 +253,7 @@
 		"wide"			"95" //From 90
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		"tabPosition"	"2"
@@ -280,7 +280,7 @@
 		"wide"			"90"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		"tabPosition"	"1"
@@ -307,7 +307,7 @@
 		"wide"			"150"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		"tabPosition"	"2"
@@ -333,7 +333,7 @@
 		"wide"			"150"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		"tabPosition"	"2"

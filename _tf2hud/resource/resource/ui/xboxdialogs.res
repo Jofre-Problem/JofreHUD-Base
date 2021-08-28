@@ -824,7 +824,7 @@
 		"tall"			"35"
 		//"visible"		"1"
 		
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}

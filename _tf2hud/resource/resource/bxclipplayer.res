@@ -9,8 +9,8 @@
 		//"zpos"		"1"
 		"wide"		"1100"
 		"tall"		"36"
-		"autoResize"		"1"
-		"pinCorner"		"2"
+		//"autoResize"		"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -206,7 +206,7 @@
 		"wide"		"24"
 		"tall"		"24"
 		
-		"pinCorner"		"1"
+		//"pinCorner"			"1"
 		//"visible"		"1"
 		
 		
@@ -229,7 +229,7 @@
 		"wide"		"24"
 		"tall"		"24"
 		
-		"pinCorner"		"1"
+		//"pinCorner"			"1"
 		//"visible"		"1"
 		
 		

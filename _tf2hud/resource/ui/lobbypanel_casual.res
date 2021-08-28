@@ -6,18 +6,18 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"LobbyPanel"
-		"xpos"			"0"
+		
 		"ypos"			"50"
 		"wide"			"f0"
 		"tall"			"f0"
-		"autoResize"	"0"
-		"pinCorner"		"0"
+		
+		
 		"visible"		"0"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		
 		"settitlebarvisible"	"0"
-		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"46 43 42 255"
+		//"PaintBackgroundType"	"0"
+		"bgcolor_override"	"TanDarker"
 		"proportionaltoparent"	"1"
 	}
 
@@ -25,13 +25,13 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ModeBackgroundImage"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"zpos"			"-1"
 		"wide"			"f0"
 		"tall"			"p0.8"
 		"visible"		"0"
-		"enabled"		"1"
+		
 		"mouseinputenabled" "0"
 		"image"			"competitive/comp_background_tier001a"
 		"scaleImage"	"1"
@@ -46,7 +46,7 @@
 		"zpos"			"100"
 		"wide"			"260"
 		"tall"			"290"
-		"visible"		"1"
+		//"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"border"		"MainMenuBGBorder"
@@ -111,7 +111,7 @@
 
 		"PlayersInGameLabel"
 		{
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"xpos"		"10"
 		}
 
@@ -163,7 +163,7 @@
 
 		"PlayersSearchingLabel"
 		{
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"xpos"		"10"
 			"ypos"		"120"
 		}
@@ -216,7 +216,7 @@
 
 		"EmptyGameserversLabel"
 		{
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"xpos"		"10"
 			"ypos"		"170"
 		}
@@ -247,8 +247,8 @@
 
 			"PartyLowPriorityImage"
 			{
-				"xpos"			"0"
-				"ypos"			"0"
+				
+				
 				"wide"			"50"
 				"tall"			"50"
 				"scaleImage"	"1"
@@ -258,7 +258,7 @@
 			{
 				"font"		"HudFontSmallest"
 				"xpos"		"60"
-				"ypos"		"0"
+				//"ypos"		"0"
 				"zpos"		"2"
 				"wide"		"f70"
 				"tall"		"f0"

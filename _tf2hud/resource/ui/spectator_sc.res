@@ -303,7 +303,7 @@
 			//"visible"		"1"
 			
 			"labelText"		"#FreezePanel_Item"
-			"textAlignment"	"Left"
+			//"textAlignment"	"Left"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 		}

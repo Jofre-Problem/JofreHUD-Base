@@ -60,7 +60,7 @@
 		"wide"			"100"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		

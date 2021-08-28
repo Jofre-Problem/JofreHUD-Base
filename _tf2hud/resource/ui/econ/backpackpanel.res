@@ -80,7 +80,7 @@
 				"wide"			"f1"
 				"tall"			"f-3"
 				"textinsetx"	"8"
-				"autoResize"	"1"
+				//"autoResize"	"1"
 					
 				"visible"		"0"
 				
@@ -165,7 +165,7 @@
 		"zpos"			"1"
 		"wide"			"20"
 		"tall"			"15"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -269,7 +269,7 @@
 		"zpos"			"1"
 		"wide"			"90"
 		"tall"			"20"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -434,7 +434,7 @@
 	//	"zpos"			"1"
 	//	"wide"			"40"
 	//	"tall"			"20"
-	//	"autoResize"	"1"
+	//	//"autoResize"	"1"
 	//	
 	//	//"visible"		"1"
 	//	

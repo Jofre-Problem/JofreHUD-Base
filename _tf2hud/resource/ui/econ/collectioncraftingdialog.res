@@ -212,7 +212,7 @@
 				"wide"			"p0.175"
 				"tall"			"p0.085"
 				
-				"pinCorner"		"3"
+				//"pinCorner"			"3"
 				//"visible"		"1"
 				
 				

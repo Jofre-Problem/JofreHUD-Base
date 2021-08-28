@@ -23,8 +23,8 @@
 		{
 			//"paintbackground"		"1"
 			"image_drawcolor"		"255 255 255 255"
-			"image_armedcolor"		"HudWhite"
-			"image_selectedcolor"		"HudWhite"
+			"image_armedcolor"		"255 255 255 255"
+			"image_selectedcolor"		"255 255 255 255"
 			
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"

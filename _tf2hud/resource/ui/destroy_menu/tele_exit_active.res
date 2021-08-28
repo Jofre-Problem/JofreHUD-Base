@@ -15,7 +15,7 @@
 		//"visible"		"1"
 		
 		"labelText"		"#TF_Object_Tele_Exit_360"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
@@ -33,7 +33,7 @@
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg_outline"
-		"iconColor"		"231 235 205 255"
+		"iconColor"		"251 235 202 255"
 	}
 	
 	"DestroyIcon"	

@@ -16,7 +16,7 @@
 		
 		"labelText"		"#TF_Object_Sentry"
 		//"labelText_lodef"		"#TF_Object_Sentry_360"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"fgcolor"		"0 255 0 255"
@@ -90,7 +90,7 @@
 		//"visible"		"1"
 		
 		"labelText"		"%metal%"
-		"textAlignment"	"Left"	
+		//"textAlignment"	"Left"	
 		"fgcolor"		"0 255 0 255"
 	}
 	

@@ -24,7 +24,7 @@
 		"tall"		"418"
 		
 		
-		"autoResize"		"3"
+		//"autoResize"		"3"
 		
 		"visible"		"0"
 		

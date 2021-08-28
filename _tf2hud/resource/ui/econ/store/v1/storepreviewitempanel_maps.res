@@ -118,7 +118,7 @@
 		"ypos"			"5"
 		"wide"			"205"
 		"tall"			"33"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -580,7 +580,7 @@
 		"zpos"			"100"
 		"wide"			"230"
 		"tall"			"55"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		

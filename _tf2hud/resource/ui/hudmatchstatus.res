@@ -453,7 +453,7 @@
 				
 				
 				
-				"textAlignment"			"Left"
+				//"textAlignment"			"Left"
 				//"dulltext"				"0"
 				//"brighttext"			"0"
 				"bgcolor_override"	   "80 80 80 255"
@@ -473,7 +473,7 @@
 				
 				
 				
-				"textAlignment"			"Left"
+				//"textAlignment"			"Left"
 				//"dulltext"				"0"
 				//"brighttext"			"0"
 				"bgcolor_override"	   "0 0 0 0"
@@ -721,7 +721,7 @@
 			//"visible"		"1"
 			
 			
-			"autoresize"	"3"
+			//"autoResize"	"3"
 			"linespacing"	"26"
 			"linegap"		"4"
 			//"show_columns"	"1"
@@ -859,7 +859,7 @@
 			//"visible"		"1"
 			
 			
-			"autoresize"	"3"
+			//"autoResize"	"3"
 			"linespacing"	"26"
 			"linegap"		"4"
 			//"show_columns"	"1"

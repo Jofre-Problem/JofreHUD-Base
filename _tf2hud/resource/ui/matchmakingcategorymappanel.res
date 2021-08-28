@@ -3,8 +3,8 @@
 	"MatchmakingCategoryMapPanel"
 	{
 		"fieldName"				"MatchmakingCategoryMapPanel"
-		"xpos"					"0"
-		"ypos"					"0"
+		
+		
 		"wide"					"p0.5"
 		"tall"					"18"
 		"proportionaltoparent"	"1"
@@ -23,7 +23,7 @@
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		""
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"font"			"HudFontSmallest"
 		"smallcheckimage"	"1"
 
@@ -42,7 +42,7 @@
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		"%title_token%"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"font"			"HudFontSmallest"
 		"textinsetx"	"20"
 		"use_proportional_insets"	"1"
@@ -62,6 +62,6 @@
 		"progress"		"0.5"
 
 		"fgcolor_override"	"117 107 94 30"
-		"bgcolor_override"	"0 0 0 0"
+		"bgcolor_override"	"Blank"
 	}
 }

@@ -8,7 +8,7 @@
 		
 		//"wide"			"256"
 		//"tall"			"212"
-		////"autoResize"	"3"
+		//////"autoResize"	"3"
 		
 		
 		//"UnpinnedCornerOffsetY" "-60"
@@ -26,7 +26,7 @@
 		//"wide"			"60"
 		//"tall"			"24"
 		
-		//////"pinCorner"		"2"
+		////////"pinCorner"			"2"
 		//"PinnedCornerOffsetY" "-30"
 		//////"labelText"		"#AssetBuilder_AddSource"
 		//////"visible"		"1"
@@ -43,7 +43,7 @@
 		//"wide"			"60"
 		//"tall"			"24"
 		
-		//////"pinCorner"		"3"
+		////////"pinCorner"			"3"
 		//"PinnedCornerOffsetY" "-30"
 		
 		//////"labelText"		"#AssetBuilder_RemoveSource"
@@ -61,7 +61,7 @@
 		//"wide"			"30"
 		//"tall"			"24"
 		
-		//////"pinCorner"		"2"
+		////////"pinCorner"			"2"
 		
 		//////"visible"		"1"
 		
@@ -78,8 +78,8 @@
 		//"tall"		"24"
 		////"UnpinnedCornerOffsetX" "-66"
 		
-		////"autoResize"		"1"
-		//////"pinCorner"		"2"
+		//////"autoResize"		"1"
+		////////"pinCorner"			"2"
 		//////"visible"		"1"
 		
 		//////"tabPosition"		"5"
@@ -99,7 +99,7 @@
 		//"wide"			"60"
 		//"tall"			"24"
 		
-		//////"pinCorner"		"3"
+		////////"pinCorner"			"3"
 		
 		
 		//////"labelText"		"#AssetBuilder_ApplyChanges"

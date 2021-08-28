@@ -46,8 +46,8 @@
 		"zpos"					"2"
 		"wide"					"60"
 		"tall"					"15"
-		"autoResize"			"1"
-		"pinCorner"				"2"
+		//"autoResize"			"1"
+		//"pinCorner"					"2"
 		
 		////"visible_minmode"		"1"
 		////"ypos_minmode"			"24"
@@ -81,7 +81,7 @@
 		
 		
 		
-		"textAlignment"			"Left"
+		//"textAlignment"			"Left"
 		//"dulltext"				"0"
 		//"brighttext"			"0"
 	}
@@ -99,7 +99,7 @@
 		////"xpos_minmode"			"0"
 		////"wide_minmode"			"50"
 		////"tall_minmode"			"15"	
-		"pinCorner"				"2"
+		//"pinCorner"					"2"
 		
 		
 		

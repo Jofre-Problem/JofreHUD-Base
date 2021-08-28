@@ -36,7 +36,7 @@
 				"wide"			"250"
 				"tall"			"26"
 				
-				"pinCorner"		"3"
+				//"pinCorner"			"3"
 				//"visible"		"1"
 				
 				
@@ -279,7 +279,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -478,7 +478,7 @@
 		"wide"			"32"
 		"tall"			"32"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 
@@ -533,7 +533,7 @@
 			"wide"			"32"
 			"tall"			"32"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -581,7 +581,7 @@
 		"wide"			"32"
 		"tall"			"32"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -598,7 +598,7 @@
 			"wide"			"f0"
 			"tall"			"f0"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -654,7 +654,7 @@
 		"wide"			"32"
 		"tall"			"32"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -671,7 +671,7 @@
 			"wide"			"f0"
 			"tall"			"f0"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -727,7 +727,7 @@
 		"wide"			"32"
 		"tall"			"32"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 
@@ -747,7 +747,7 @@
 			"wide"			"32"
 			"tall"			"32"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -1037,7 +1037,7 @@
 			"wide"			"150"
 			"tall"			"15"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -1077,7 +1077,7 @@
 			"wide"			"20"
 			"tall"			"20"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			"visible"		"0"
 			
 			
@@ -1125,7 +1125,7 @@
 			"wide"			"20"
 			"tall"			"20"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			"visible"		"0"
 			
 			
@@ -1520,7 +1520,7 @@
 //					"wide"			"f0"
 //					"tall"			"f0"
 //					
-//					"pinCorner"		"3"
+//					//"pinCorner"			"3"
 //					//"visible"		"1"
 //					
 //					
@@ -1590,7 +1590,7 @@
 //					"wide"			"f0"
 //					"tall"			"f0"
 //					
-//					"pinCorner"		"3"
+//					//"pinCorner"			"3"
 //					//"visible"		"1"
 //					
 //					
@@ -1803,7 +1803,7 @@
 				"wide"			"250"
 				"tall"			"26"
 				
-				"pinCorner"		"3"
+				//"pinCorner"			"3"
 				//"visible"		"1"
 				
 				
@@ -1840,7 +1840,7 @@
 				"wide"			"250"
 				"tall"			"26"
 				
-				"pinCorner"		"3"
+				//"pinCorner"			"3"
 				//"visible"		"1"
 				
 				
@@ -1918,7 +1918,7 @@
 		"wide"			"250"
 		"tall"			"26"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -1968,7 +1968,7 @@
 			"wide"			"p1"
 			"tall"			"25"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -2037,7 +2037,7 @@
 			"wide"			"p1"
 			"tall"			"25"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -2104,7 +2104,7 @@
 			"wide"			"p1"
 			"tall"			"25"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -2172,7 +2172,7 @@
 			"wide"			"p1"
 			"tall"			"25"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			
@@ -2253,7 +2253,7 @@
 		"wide"			"100"
 		"tall"			"26"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -2314,7 +2314,7 @@
 		"wide"			"100"
 		"tall"			"26"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -2361,7 +2361,7 @@
 		"wide"			"30"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -2409,7 +2409,7 @@
 		"wide"			"26"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -2457,7 +2457,7 @@
 		"wide"			"30"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -2505,7 +2505,7 @@
 		"wide"			"30"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -2552,7 +2552,7 @@
 		"wide"			"30"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -2599,7 +2599,7 @@
 		"wide"			"25"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -2646,7 +2646,7 @@
 		"wide"			"30"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -2693,7 +2693,7 @@
 		"wide"			"25"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -2740,7 +2740,7 @@
 		"wide"			"30"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -2787,7 +2787,7 @@
 		"wide"			"170"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		"visible"		"0"
 		
 		

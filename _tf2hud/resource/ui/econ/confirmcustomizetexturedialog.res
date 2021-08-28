@@ -495,7 +495,7 @@
 						"ControlName"		"CExLabel"
 						"fieldName"		"FilterDescriptionLabel"
 						
-						"ypos"		"0"
+						//"ypos"		"0"
 						"wide"		"140"
 						"tall"		"80"
 						"labelText"		"#ToolCustomizeTexturePainterlyDescription"
@@ -520,7 +520,7 @@
 						"ControlName"		"CExLabel"
 						"fieldName"		"FilterDescriptionLabel"
 						
-						"ypos"		"0"
+						//"ypos"		"0"
 						"wide"		"120"
 						"tall"		"60"
 						"labelText"		"#ToolCustomizeTextureStencilDescription"

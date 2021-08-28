@@ -31,7 +31,7 @@
 		"wide"				"50"
 		"tall"				"100"
 		
-		"pinCorner"			"2"
+		//"pinCorner"				"2"
 		//"visible"			"1"
 		
 		
@@ -57,8 +57,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"HudWhite"
-		"image_selectedcolor"		"HudWhite"
+		"image_armedcolor"		"255 255 255 255"
+		"image_selectedcolor"		"255 255 255 255"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -94,13 +94,13 @@
 		"wide"			"90"
 		"tall"			"12"
 		//"tall_lodef"			"22"
-		"autoResize"	"1"
-		"pinCorner"		"2"
+		//"autoResize"	"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_Offense"
-		"textAlignment"	"left"
+		//"textAlignment"	"Left"
 		"font"			"MenuClassBuckets"
 		//"font_lodef"			"MenuMainTitle"
 		"fgcolor"		"TanDark"
@@ -120,7 +120,7 @@
 		"wide"				"50"
 		"tall"				"100"
 		
-		"pinCorner"			"2"
+		//"pinCorner"				"2"
 		//"visible"			"1"
 		
 		
@@ -147,8 +147,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"HudWhite"
-		"image_selectedcolor"		"HudWhite"
+		"image_armedcolor"		"255 255 255 255"
+		"image_selectedcolor"		"255 255 255 255"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -183,7 +183,7 @@
 		"wide"				"50"
 		"tall"				"100"
 		
-		"pinCorner"			"2"
+		//"pinCorner"				"2"
 		//"visible"			"1"
 		
 		
@@ -211,8 +211,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"HudWhite"
-		"image_selectedcolor"		"HudWhite"
+		"image_armedcolor"		"255 255 255 255"
+		"image_selectedcolor"		"255 255 255 255"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -247,7 +247,7 @@
 		"wide"				"50"
 		"tall"				"100"
 		
-		"pinCorner"			"2"
+		//"pinCorner"				"2"
 		//"visible"			"1"
 		
 		
@@ -274,8 +274,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"HudWhite"
-		"image_selectedcolor"		"HudWhite"
+		"image_armedcolor"		"255 255 255 255"
+		"image_selectedcolor"		"255 255 255 255"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -311,13 +311,13 @@
 		"wide"			"90"
 		"tall"			"12"
 		//"tall_lodef"			"22"
-		"autoResize"	"1"
-		"pinCorner"		"2"
+		//"autoResize"	"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_Defense"
-		"textAlignment"	"left"
+		//"textAlignment"	"Left"
 		"font"			"MenuClassBuckets"
 		//"font_lodef"			"MenuMainTitle"
 		"fgcolor"		"TanDark"
@@ -336,7 +336,7 @@
 		"wide"				"50"
 		"tall"				"100"
 		
-		"pinCorner"			"2"
+		//"pinCorner"				"2"
 		//"visible"			"1"
 		
 		
@@ -363,8 +363,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"HudWhite"
-		"image_selectedcolor"		"HudWhite"
+		"image_armedcolor"		"255 255 255 255"
+		"image_selectedcolor"		"255 255 255 255"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -398,7 +398,7 @@
 		"wide"				"50"
 		"tall"				"100"
 		
-		"pinCorner"			"2"
+		//"pinCorner"				"2"
 		//"visible"			"1"
 		
 		
@@ -425,8 +425,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"HudWhite"
-		"image_selectedcolor"		"HudWhite"
+		"image_armedcolor"		"255 255 255 255"
+		"image_selectedcolor"		"255 255 255 255"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -459,7 +459,7 @@
 		"wide"				"50"
 		"tall"				"100"
 		
-		"pinCorner"			"2"
+		//"pinCorner"				"2"
 		//"visible"			"1"
 		
 		
@@ -486,8 +486,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"HudWhite"
-		"image_selectedcolor"		"HudWhite"
+		"image_armedcolor"		"255 255 255 255"
+		"image_selectedcolor"		"255 255 255 255"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -523,13 +523,13 @@
 		"wide"			"90"
 		"tall"			"12"
 		//"tall_lodef"			"22"
-		"autoResize"	"1"
-		"pinCorner"		"2"
+		//"autoResize"	"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_Support"
-		"textAlignment"	"left"
+		//"textAlignment"	"Left"
 		"font"			"MenuClassBuckets"
 		//"font_lodef"			"MenuMainTitle"
 		"fgcolor"		"TanDark"
@@ -549,7 +549,7 @@
 		"wide"				"50"
 		"tall"				"100"
 		
-		"pinCorner"			"2"
+		//"pinCorner"				"2"
 		//"visible"			"1"
 		
 		
@@ -576,8 +576,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"HudWhite"
-		"image_selectedcolor"		"HudWhite"
+		"image_armedcolor"		"255 255 255 255"
+		"image_selectedcolor"		"255 255 255 255"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -612,7 +612,7 @@
 		"wide"				"50"
 		"tall"				"100"
 		
-		"pinCorner"			"2"
+		//"pinCorner"				"2"
 		//"visible"			"1"
 		
 		
@@ -639,8 +639,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"HudWhite"
-		"image_selectedcolor"		"HudWhite"
+		"image_armedcolor"		"255 255 255 255"
+		"image_selectedcolor"		"255 255 255 255"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -675,7 +675,7 @@
 		"wide"				"50"
 		"tall"				"100"
 		
-		"pinCorner"			"2"
+		//"pinCorner"				"2"
 		//"visible"			"1"
 		
 		
@@ -702,8 +702,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"HudWhite"
-		"image_selectedcolor"		"HudWhite"
+		"image_armedcolor"		"255 255 255 255"
+		"image_selectedcolor"		"255 255 255 255"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -735,7 +735,7 @@
 		"wide"			"100"
 		"tall"			"25"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -756,7 +756,7 @@
 		"wide"			"150"
 		"tall"			"25"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -776,7 +776,7 @@
 		"wide"			"110"
 		"tall"			"25"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		"visible"		"0"
 		
 		
@@ -852,13 +852,13 @@
 		"wide"			"600"
 		"tall"			"50"
 		//"tall_lodef"	"30"
-		"autoResize"	"1"
-		"pinCorner"		"2"
+		//"autoResize"	"1"
+		//"pinCorner"			"2"
 		"visible"		"0"
 		
 		
 		"labelText"		"%hint%"
-		"textAlignment"	"left"
+		//"textAlignment"	"Left"
 		"wrap"			"1"
 		"font"			"HudFontMediumSmallSecondary"
 		//"font_lodef"	"HudFontMediumSmallSecondary"
@@ -1105,13 +1105,13 @@
 		"zpos"			"10"
 		"wide"			"150"
 		"tall"			"18"
-		"autoResize"	"1"
-		"pinCorner"		"2"
+		//"autoResize"	"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
 		"labelText"		"#TF_TeamCount"
-		"textAlignment"	"left"
+		//"textAlignment"	"Left"
 		"font"			"HudFontMediumSmallSecondary"
 		"fgcolor"		"TanLight"
 	}
@@ -1125,8 +1125,8 @@
 		"zpos"			"5"
 		"wide"			"50"
 		"tall"			"12"
-		"autoResize"	"1"
-		"pinCorner"		"2"
+		//"autoResize"	"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -1145,8 +1145,8 @@
 		"zpos"			"5"
 		"wide"			"50"
 		"tall"			"12"
-		"autoResize"	"1"
-		"pinCorner"		"2"
+		//"autoResize"	"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -1165,8 +1165,8 @@
 		"zpos"			"5"
 		"wide"			"50"
 		"tall"			"12"
-		"autoResize"	"1"
-		"pinCorner"		"2"
+		//"autoResize"	"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -1185,8 +1185,8 @@
 		"zpos"			"5"
 		"wide"			"50"
 		"tall"			"12"
-		"autoResize"	"1"
-		"pinCorner"		"2"
+		//"autoResize"	"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -1205,8 +1205,8 @@
 		"zpos"			"5"
 		"wide"			"50"
 		"tall"			"12"
-		"autoResize"	"1"
-		"pinCorner"		"2"
+		//"autoResize"	"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -1225,8 +1225,8 @@
 		"zpos"			"5"
 		"wide"			"50"
 		"tall"			"12"
-		"autoResize"	"1"
-		"pinCorner"		"2"
+		//"autoResize"	"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -1245,8 +1245,8 @@
 		"zpos"			"5"
 		"wide"			"50"
 		"tall"			"12"
-		"autoResize"	"1"
-		"pinCorner"		"2"
+		//"autoResize"	"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -1265,8 +1265,8 @@
 		"zpos"			"5"
 		"wide"			"50"
 		"tall"			"12"
-		"autoResize"	"1"
-		"pinCorner"		"2"
+		//"autoResize"	"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -1285,8 +1285,8 @@
 		"zpos"			"5"
 		"wide"			"50"
 		"tall"			"12"
-		"autoResize"	"1"
-		"pinCorner"		"2"
+		//"autoResize"	"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		

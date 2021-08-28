@@ -186,7 +186,7 @@
 			"wide"				"38"
 			"tall"				"38"
 			
-			"pinCorner"			"2"
+			//"pinCorner"				"2"
 			//"visible"			"1"
 			
 			
@@ -211,7 +211,7 @@
 			
 			"image_drawcolor"		"255 255 255 77"
 			"image_armedcolor"		"255 255 255 128"
-			"image_selectedcolor"		"HudWhite"
+			"image_selectedcolor"		"255 255 255 255"
 			
 			"stayselectedonclick"	"1"
 			"keyboardinputenabled"	"0"

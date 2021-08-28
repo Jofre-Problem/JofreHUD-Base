@@ -9,8 +9,8 @@
 		"zpos"				"0"
 		"wide"				"600"
 		"tall"				"67"
-		"visible"			"1"
-		"enabled"			"1"
+		//"visible"			"1"
+		
 		
 		"verbose"			"1"
 	}
@@ -26,7 +26,7 @@
 		"ypos"			"375"
 		"wide"			"290"
 		"tall"			"20"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"TanLight"
 	}
 
 	"DifficultyContainer"
@@ -37,7 +37,7 @@
 		"ypos"			"30"
 		"wide"			"150"
 		"tall"			"20"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"DifficultyLabel"
 		{
@@ -46,25 +46,25 @@
 			"font"			"HudFontSmallest"
 			"labelText"		"#TF_MvM_Difficulty"
 			"textAlignment"	"center"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"wide"			"150"
 			"tall"			"10"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 		
 		"DifficultyValue"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"DifficultyValue"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"labelText"		"%difficultyvalue%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"9"
 			"wide"			"150"
 			"tall"			"10"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 	}
 	
@@ -77,8 +77,8 @@
 		"zpos"			"-1"
 		"wide"			"550"
 		"tall"			"150"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"image"			"../hud/tournament_panel_brown"
 		
 		"scaleImage"		"1"
@@ -98,11 +98,11 @@
 		"ypos"			"79"
 		"wide"			"530"
 		"tall"			"150"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"autoresize"	"3"
+		
+		//"visible"		"1"
+		
+		
+		//"autoResize"	"3"
 		"linespacing"	"22"
 		"textcolor"		"White"
 	}
@@ -115,21 +115,21 @@
 		"ypos"			"230"
 		"wide"			"400"
 		"tall"			"205"
-		"visible"		"1"
+		//"visible"		"1"
 		
 		"CreditStatsBackground"
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"CreditStatsBackground"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"zpos"			"-1"
 			"wide"			"400"
 			"tall"			"135"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"image"			"../HUD/tournament_panel_brown"
 
 			"src_corner_height"	"22"				// pixels inside the image
@@ -150,7 +150,7 @@
 			"ypos"			"8"
 			"wide"			"100"
 			"tall"			"25"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 		
 		"PreviousWaveCreditInfoPanel"
@@ -162,7 +162,7 @@
 			"wide"			"184"
 			"tall"			"60"
 			"wide"			"200"
-			"visible"		"1"
+			//"visible"		"1"
 		}
 		
 		"TotalGameCreditInfoPanel"
@@ -174,7 +174,7 @@
 			"wide"			"184"
 			"tall"			"60"
 			"wide"			"200"
-			"visible"		"1"
+			//"visible"		"1"
 		}
 		
 		"PreviousWaveCreditSpendPanel"
@@ -186,7 +186,7 @@
 			"wide"			"184"
 			"tall"			"60"
 			"wide"			"200"
-			"visible"		"1"
+			//"visible"		"1"
 		}
 		
 		"TotalGameCreditSpendPanel"
@@ -198,7 +198,7 @@
 			"wide"			"184"
 			"tall"			"60"
 			"wide"			"200"
-			"visible"		"1"
+			//"visible"		"1"
 		}
 
 		"RespecStatusLabel"
@@ -212,7 +212,7 @@
 			"ypos"			"8"
 			"wide"			"275"
 			"tall"			"20"
-			"fgcolor"		"tanlight"
+			"fgcolor"		"TanLight"
 		}
 	}
 }

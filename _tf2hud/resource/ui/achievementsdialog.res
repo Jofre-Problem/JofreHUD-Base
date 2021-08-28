@@ -30,7 +30,7 @@
 		"wide"		"70"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		////"visible"		"1"
 		
 		"tabPosition"		"4"
@@ -52,7 +52,7 @@
 		"wide"		"200"
 		"tall"		"24"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		////"visible"		"1"
 		
 		
@@ -73,7 +73,7 @@
 		"ypos"		"136"
 		"wide"		"600"
 		"tall"		"268"
-		"autoResize"		"3"
+		//"autoResize"		"3"
 		
 		////"visible"		"1"
 		
@@ -93,7 +93,7 @@
 		////"visible"		"1"
 		
 		
-		"autoResize"		"3"
+		//"autoResize"		"3"
 	}
 	
 	"PercentageBarBackground" //light grey overall percentage

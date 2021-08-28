@@ -9,7 +9,7 @@
 		//"zpos"			"50"
 		"wide"			"400"
 		"tall"			"100"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		////"visible"		"1"
 		

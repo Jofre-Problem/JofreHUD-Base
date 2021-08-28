@@ -34,7 +34,7 @@
 			"wide"			"30"
 			"tall"			"30"
 			
-			"pinCorner"		"1"
+			//"pinCorner"			"1"
 			//"visible"		"1"
 			
 			
@@ -80,7 +80,7 @@
 			"proportionaltoparent"	"1"
 			"command"		"newquest"
 			"labeltext"		"New Quest"
-			"PinCorner"		"2"
+			//"pinCorner"			"2"
 		}
 
 		"QuestsFilter"
@@ -107,7 +107,7 @@
 			"bgcolor_override"	"51 47 46 255"
 			"autohide_buttons" "1"
 			"proportionaltoparent"	"1"
-			"autoresize"		"2"
+			//"autoResize"		"2"
 
 			"bgcolor_override"	"0 0 0 255"
 			
@@ -122,8 +122,8 @@
 				"zpos"			"1000"
 				"nobuttons"		"1"
 				"proportionaltoparent"	"1"
-				"autoresize"		"2"
-				"pincorner"			"3"
+				//"autoResize"		"2"
+				//"pinCorner"				"3"
 
 				"Slider"
 				{
@@ -156,7 +156,7 @@
 			"proportionaltoparent"	"1"
 			"command"		"newobjcond"
 			"labeltext"		"New Objective Condition"
-			"PinCorner"		"2"
+			//"pinCorner"			"2"
 		}
 
 		"ConditionsFilter"
@@ -183,7 +183,7 @@
 			"bgcolor_override"	"51 47 46 255"
 			"autohide_buttons" "1"
 			"proportionaltoparent"	"1"
-			"autoresize"		"2"
+			//"autoResize"		"2"
 
 			"bgcolor_override"	"0 0 0 255"
 			
@@ -198,8 +198,8 @@
 				"zpos"			"1000"
 				"nobuttons"		"1"
 				"proportionaltoparent"	"1"
-				"autoresize"		"2"
-				"pincorner"			"3"
+				//"autoResize"		"2"
+				//"pinCorner"				"3"
 
 				"Slider"
 				{
@@ -236,7 +236,7 @@
 			"PaintBackgroundType"	"2"
 			"fgcolor_override"	"118 107 94 255"	// Gets copied to the scrollbar fgcolor as part of ScrollableEditablePanel
 			"bgcolor_override"	"51 47 46 255"
-			"autoresize"		"3"
+			//"autoResize"		"3"
 
 			"Scrollbar"
 			{
@@ -249,8 +249,8 @@
 				"zpos"			"1000"
 				"nobuttons"		"1"
 				"proportionaltoparent"	"1"
-				"autoresize"		"2"
-				"pincorner"			"3"
+				//"autoResize"		"2"
+				//"pinCorner"				"3"
 				
 				"Slider"
 				{

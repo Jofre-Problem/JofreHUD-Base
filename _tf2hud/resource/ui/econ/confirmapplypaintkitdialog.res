@@ -22,7 +22,7 @@
 		
 		"wide"			"360"
 		"tall"			"100"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -42,7 +42,7 @@
 		"zpos"			"6"
 		"wide"			"360"
 		"tall"			"100"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		

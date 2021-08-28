@@ -15,7 +15,7 @@
 		//"visible"		"1"
 		
 		"labelText"		"#TF_Object_Tele_Entrance_360"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"fgcolor"		"0 255 0 255"

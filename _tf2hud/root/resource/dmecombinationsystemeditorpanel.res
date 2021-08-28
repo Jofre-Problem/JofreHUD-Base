@@ -8,7 +8,7 @@
 		
 		//"wide"			"463"
 		//"tall"			"212"
-		//////"autoResize"	"3"
+		////////"autoResize"	"3"
 		
 		
 		

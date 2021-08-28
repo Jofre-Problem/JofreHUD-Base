@@ -45,7 +45,7 @@
 			"tall"		"24"
 			//"PinnedCornerOffsetX" "120"
 			//"UnpinnedCornerOffsetX" "-6"
-			"AutoResize"		"1"
+			//"autoResize"		"1"
 			
 			//"visible"		"1"
 			
@@ -66,7 +66,7 @@
 			"wide"		"122"
 			"tall"		"24"
 			
-			"pinCorner"		"2"
+			//"pinCorner"			"2"
 			//"visible"		"1"
 			
 			"tabPosition"		"2"
@@ -87,7 +87,7 @@
 			"wide"		"122"
 			"tall"		"24"
 			
-			"pinCorner"		"2"
+			//"pinCorner"			"2"
 			//"visible"		"1"
 			
 			"tabPosition"	"3"
@@ -107,7 +107,7 @@
 			"ypos"			"60"
 			"wide"			"356"
 			"tall"			"284"
-			"AutoResize"	"3"
+			//"autoResize"	"3"
 			
 			//"PinnedCornerOffsetX" "6"
 			//"PinnedCornerOffsetY" "60"

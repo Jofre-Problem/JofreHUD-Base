@@ -25,7 +25,7 @@
 			//"wide"		"122"
 			//"tall"		"24"
 			
-			//////"pinCorner"		"2"
+			////////"pinCorner"			"2"
 			//////"visible"		"1"
 			
 			//////"tabPosition"		"1"
@@ -44,7 +44,7 @@
 			//////"ypos"			"30"
 			//"wide"			"568"
 			//"tall"			"316"
-			////"autoResize"	"3"
+			//////"autoResize"	"3"
 			
 			////"UnpinnedCornerOffsetX" "-6"
 			//"UnpinnedCornerOffsetY" "-34"

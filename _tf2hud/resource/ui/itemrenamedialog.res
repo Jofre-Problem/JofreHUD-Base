@@ -3,14 +3,14 @@
 	"ItemRenameDialog"
 	{
 		"fieldName"				"ItemRenameDialog"
-		"visible"				"1"
-		"enabled"				"1"
+		
+		
 		"xpos"					"c-200"
 		"ypos"					"105"
 		"wide"					"400"
 		"tall"					"240"
-		"bgcolor_override"		"46 43 42 0"
-		"paintbackgroundtype"	"0"
+		"bgcolor_override"		"Blank"
+		//"PaintBackgroundType"	"0"
 		"settitlebarvisible"	"0"
 		"border"				"GrayDialogBorder"
 	}
@@ -25,8 +25,8 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
-		"noitem_textcolor"		"117 107 94 255"
+		"bgcolor_override"		"Blank"
+		"noitem_textcolor"		"TanDark"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		
@@ -39,18 +39,18 @@
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
-			"xpos"			"0"
+			
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"
 			"tall"			"60"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 			"centerwrap"	"1"
 		}
 	}
@@ -59,18 +59,18 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"dynamic"
 		"textAlignment"	"center"
 		"xpos"			"100"
 		"ypos"			"10"
-		"zpos"			"0"
+		
 		"wide"			"200"
 		"tall"			"60"
-		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		//"autoResize"	"1"
+		
+		//"visible"		"1"
+		
 		"centerwrap"	"1"
 	}
 	
@@ -78,18 +78,18 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ToolBG"
-		"font"			"HudFontSmallBold"
-		"labelText"		""
+		"font"			"HudFontSmall"
+		"labeltext"		""
 		"textAlignment"	"east"
 		"xpos"			"10"
 		"ypos"			"10"
 		"zpos"			"-1"
 		"wide"			"84"
 		"tall"			"64"
-		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		//"autoResize"	"1"
+		
+		//"visible"		"1"
+		
 		"paintbackground" "0"
 		"border"		"BackpackItemBorder_SelfMade"
 	}
@@ -102,11 +102,11 @@
 		"zpos"			"2"
 		"wide"			"16"
 		"tall"			"16"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"image"			"backpack_jewel_modify_target_b_g"
-		"tileImage"		"0"
-		"tileVertically" "0"
+		////"tileImage"		"0"
+		//"tileVertically" "0"
 		"drawcolor"		"112 176 74 255"
 	}				
 	"tool_modelpanel"
@@ -118,11 +118,11 @@
 		"zpos"			"1"
 		"wide"			"84"
 		"tall"			"64"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
-		"noitem_textcolor"		"117 107 94 255"
+		//"visible"		"1"
+		"bgcolor_override"		"Blank"
+		"noitem_textcolor"		"TanDark"
 		"PaintBackgroundType"	"2"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		
 		"model_xpos"	"2"
 		"model_ypos"	"5"
@@ -143,18 +143,18 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SubjectBG"
-		"font"			"HudFontSmallBold"
-		"labelText"		""
+		"font"			"HudFontSmall"
+		"labeltext"		""
 		"textAlignment"	"east"
 		"xpos"			"300"
 		"ypos"			"10"
 		"zpos"			"-1"
 		"wide"			"84"
 		"tall"			"64"
-		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		//"autoResize"	"1"
+		
+		//"visible"		"1"
+		
 		"paintbackground" "0"
 		"border"		"BackpackItemBorder_Vintage"
 	}
@@ -167,11 +167,11 @@
 		"zpos"			"2"
 		"wide"			"16"
 		"tall"			"16"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"image"			"backpack_jewel_modify_target_b_g"
-		"tileImage"		"0"
-		"tileVertically" "0"
+		////"tileImage"		"0"
+		//"tileVertically" "0"
 		"drawcolor"		"71 98 145 255"
 	}	
 	"subject_modelpanel"
@@ -183,11 +183,11 @@
 		"zpos"			"1"
 		"wide"			"84"
 		"tall"			"64"
-		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
-		"noitem_textcolor"		"117 107 94 255"
+		//"visible"		"1"
+		"bgcolor_override"		"Blank"
+		"noitem_textcolor"		"TanDark"
 		"PaintBackgroundType"	"2"
-		"paintborder"	"0"
+		//"paintborder"	"0"
 		
 		"model_xpos"	"2"
 		"model_ypos"	"5"
@@ -208,18 +208,18 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"OldItemNameBG"
-		"font"			"HudFontSmallBold"
-		"labelText"		""
+		"font"			"HudFontSmall"
+		"labeltext"		""
 		"textAlignment"	"east"
 		"xpos"			"10"
 		"ypos"			"90"
 		"zpos"			"-1"
 		"wide"			"380"
 		"tall"			"32"
-		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		//"autoResize"	"1"
+		
+		//"visible"		"1"
+		
 		"bgcolor_override" "0 0 0 255"
 		"paintbackgroundtype" "2"
 	}
@@ -227,18 +227,18 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"OldItemNameDescLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"#ToolItemRenameOldItemName"
 		"textAlignment"	"east"
 		"xpos"			"10"
 		"ypos"			"90"
-		"zpos"			"0"
+		
 		"wide"			"185"
 		"tall"			"32"
-		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		//"autoResize"	"1"
+		
+		//"visible"		"1"
+		
 		"fgcolor_override" "117 107 94 255"
 		"paintbackground" "0"
 	}
@@ -246,17 +246,17 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"OldItemNameLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"%oldname%"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"200"
 		"ypos"			"94"
 		"wide"			"180"
 		"tall"			"24"
-		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		//"autoResize"	"1"
+		
+		//"visible"		"1"
+		
 		"fgcolor_override" "117 107 94 255"
 		"paintbackground" "0"
 	}
@@ -265,18 +265,18 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NewItemNameBG"
-		"font"			"HudFontSmallBold"
-		"labelText"		""
+		"font"			"HudFontSmall"
+		"labeltext"		""
 		"textAlignment"	"east"
 		"xpos"			"10"
 		"ypos"			"130"
 		"zpos"			"-1"
 		"wide"			"380"
 		"tall"			"32"
-		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		//"autoResize"	"1"
+		
+		//"visible"		"1"
+		
 		"bgcolor_override" "0 0 0 255"
 		"paintbackgroundtype" "2"
 	}
@@ -284,18 +284,18 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NewItemNameDescLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"#ToolItemRenameNewItemName"
 		"textAlignment"	"east"
 		"xpos"			"10"
 		"ypos"			"130"
-		"zpos"			"0"
+		
 		"wide"			"185"
 		"tall"			"32"
-		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		//"autoResize"	"1"
+		
+		//"visible"		"1"
+		
 		"fgcolor_override" "117 107 94 255"
 		"paintbackground" "0"
 	}
@@ -307,23 +307,23 @@
 		"ypos"				"134"
 		"wide"				"180"
 		"tall"				"24"
-		"autoResize"		"1"
-		"pinCorner"			"0"
-		"visible"			"1"
-		"enabled"			"1"
-		"tabPosition"		"0"
-		"textHidden"		"0"
+		//"autoResize"		"1"
+		
+		//"visible"			"1"
+		
+		
+		//"textHidden"		"0"
 		"editable"			"1"
 		"maxchars"			"32"
 		"NumericInputOnly"	"0"
-		"unicode"			"0"
-		"wrap"				"0"
-		"fgcolor_override"	"235 226 202 255"
-		"bgcolor_override"	"46 43 42 255"
+		//"unicode"			"0"
+		//"wrap"				"0"
+		"fgcolor_override"	"TanLight"
+		"bgcolor_override"	"TanDarker"
 		"paintbackgroundtype" "2"
 		"labelText"			""
 		"font"				"HudFontSmall"
-		"textAlignment"		"west"
+		//"textAlignment"		"west"
 	}
 	
 	"WarningLabel"
@@ -333,16 +333,16 @@
 		"font"			"HudFontSmall"
 		"labelText"		"#ToolConfirmWarning"
 		"textAlignment"	"center"
-		"xpos"			"0"
+		
 		"ypos"			"170"
-		"zpos"			"0"
+		
 		"wide"			"400"
 		"tall"			"20"
-		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		//"autoResize"	"1"
+		
+		//"visible"		"1"
+		
+		"fgcolor_override" "LightRed"
 	}
 
 	"CancelButton"
@@ -354,16 +354,16 @@
 		"zpos"			"1"
 		"wide"			"130"
 		"tall"			"25"
-		"autoResize"	"0"
-		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		//"pinCorner"			"3"
+		//"visible"		"1"
+		
+		
 		"labelText"		"#Cancel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"default"		"0"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -379,17 +379,17 @@
 		"zpos"			"1"
 		"wide"			"130"
 		"tall"			"25"
-		"autoResize"	"0"
-		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		//"pinCorner"			"3"
+		//"visible"		"1"
+		
+		
 		"labelText"		"#CraftNameOk"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
 		"Command"		"apply"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

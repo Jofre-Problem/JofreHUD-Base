@@ -81,7 +81,7 @@
 		{
 			"fieldName"	"ItemTrackerPanel"
 			
-			"ypos"		"0"
+			//"ypos"		"0"
 			"wide"		"f0"
 			"tall"		"f0"
 			"zpos"		"11"
@@ -152,7 +152,7 @@
 					"ControlName"	"CInputProxyPanel"
 					"fieldName"		"PaperInputProxyPanel"
 					
-					"ypos"		"0"
+					//"ypos"		"0"
 					"zpos"		"100"
 					"wide"		"f0"
 					"tall"		"f0"
@@ -552,7 +552,7 @@
 					"tall"			"15"
 					//"visible"		"1"
 					
-					"pinCorner"		"3"
+					//"pinCorner"			"3"
 					//"visible"		"1"
 					
 					
@@ -644,7 +644,7 @@
 						"tall"			"15"
 						//"visible"		"1"
 						
-						"pinCorner"		"3"
+						//"pinCorner"			"3"
 						//"visible"		"1"
 						
 						
@@ -684,7 +684,7 @@
 						"tall"			"15"
 						//"visible"		"1"
 						
-						"pinCorner"		"3"
+						//"pinCorner"			"3"
 						//"visible"		"1"
 						
 						
@@ -908,7 +908,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"BackFolderContainer"
 				
-				"ypos"		"0"
+				//"ypos"		"0"
 				"zpos"		"-5"
 				"wide"		"f0"
 				"tall"		"f0"
@@ -944,7 +944,7 @@
 				"ControlName"	"EditablePanel"
 				"fieldName"		"FrontFolderContainer"
 				
-				"ypos"		"0"
+				//"ypos"		"0"
 				"zpos"		"100"
 				"wide"		"f0"
 				"tall"		"f0"
@@ -980,7 +980,7 @@
 					"ControlName"	"CInputProxyPanel"
 					"fieldName"		"FrontInputProxyPanel"
 					
-					"ypos"		"0"
+					//"ypos"		"0"
 					"zpos"		"100"
 					"wide"		"f0"
 					"tall"		"f0"

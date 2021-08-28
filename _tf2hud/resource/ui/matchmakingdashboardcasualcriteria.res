@@ -72,7 +72,7 @@
 		"wide"			"f20"
 		"tall"			"20"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		

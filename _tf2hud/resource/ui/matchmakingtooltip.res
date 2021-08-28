@@ -4,8 +4,8 @@
 	{
 	//	"ControlName"	"EditablePanel"
 		"fieldName"		"TooltipPanel"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"zpos"			"30000"
 		"wide"			"300"
 		"tall"			"100"
@@ -32,7 +32,7 @@
 
 			if_large
 			{
-				"font"	"HudFontSmallBold"
+				"font"	"HudFontSmall"
 			}
 
 			"labelText"		"%tiptext%"
@@ -42,11 +42,11 @@
 			"zpos"			"2"
 			"wide"			"140"
 			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor_override"	"235 226 202 255"
+			
+			
+			//"visible"		"1"
+			
+			"fgcolor_override"	"TanLight"
 			"auto_wide_tocontents" "1"
 			"auto_tall_tocontents"	"1"
 			"wrap"	"1"

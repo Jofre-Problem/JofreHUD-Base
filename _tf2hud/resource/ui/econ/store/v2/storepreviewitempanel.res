@@ -532,7 +532,7 @@
 		"zpos"			"1"
 		"wide"			"220"
 		"tall"			"213"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -1031,7 +1031,7 @@
 		"zpos"			"100"
 		"wide"			"230"
 		"tall"			"55"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -1283,7 +1283,7 @@
 			"wide"				"19"
 			"tall"				"19"
 			
-			"pinCorner"			"2"
+			//"pinCorner"				"2"
 			//"visible"			"1"
 			
 			
@@ -1308,7 +1308,7 @@
 			
 			"image_drawcolor"		"255 255 255 77"
 			"image_armedcolor"		"255 255 255 128"
-			"image_selectedcolor"		"HudWhite"
+			"image_selectedcolor"		"255 255 255 255"
 			
 			"stayselectedonclick"	"1"
 			"keyboardinputenabled"	"0"
@@ -1363,12 +1363,12 @@
 		"fieldName"		"CycleTextLabel"
 		"font"			"FontStorePrice"
 		"labeltext"		""
-		"textAlignment"	"left"
+		//"textAlignment"	"Left"
 		"xpos"			"c-186"
 		"ypos"			"c-126"
 		"wide"			"138"
 		"tall"			"28"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -1385,12 +1385,12 @@
 		"fieldName"		"PaintNameLabel"
 		"font"			"FontStorePrice"
 		"labelText"		"#Store_NoPaint"
-		"textAlignment"	"left"
+		//"textAlignment"	"Left"
 		"xpos"			"c-186"
 		"ypos"			"-1000"
 		"wide"			"138"
 		"tall"			"28"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		"visible"		"0"
 		
@@ -1404,12 +1404,12 @@
 		"fieldName"		"StyleNameLabel"
 		"font"			"FontStorePrice"
 		"labelText"		"None"
-		"textAlignment"	"left"
+		//"textAlignment"	"Left"
 		"xpos"			"132"
 		"ypos"			"-1000"
 		"wide"			"110"
 		"tall"			"25"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		

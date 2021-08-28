@@ -23,7 +23,7 @@
 		"ypos"			"116"
 		"wide"			"480"
 		"tall"			"240"
-		"autoResize"		"3"
+		//"autoResize"		"3"
 		
 		//"visible"		"1"
 		
@@ -37,7 +37,7 @@
 		"ypos"			"116"
 		"wide"			"480"
 		"tall"			"240"
-		"autoResize"		"3"
+		//"autoResize"		"3"
 		
 		//"visible"		"1"
 		
@@ -75,7 +75,7 @@
 		"wide"			"128"
 		"tall"			"20"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"labelText"		"#PropertyDialog_OK"

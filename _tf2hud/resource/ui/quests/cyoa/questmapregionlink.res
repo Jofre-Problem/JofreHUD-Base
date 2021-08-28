@@ -27,7 +27,7 @@
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
-			"autoResize"	"3"
+			//"autoResize"	"3"
 			"drawcolor"	"QuestMap_ActiveOrange"
 		}	
 

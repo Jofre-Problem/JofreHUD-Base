@@ -63,7 +63,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"Engineering"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
@@ -84,7 +84,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"Engineering"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		"dulltext"		"1"
 		//"brighttext"	"0"
 	}
@@ -262,7 +262,7 @@
 		
 		////"visible"		"1"
 		
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
@@ -284,7 +284,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Build_Action_Build"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
@@ -305,7 +305,7 @@
 		"visible"		"0"
 		
 		"labelText"		"#Hud_Menu_Build_Action_Build"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		"dulltext"		"1"
 		//"brighttext"	"0"
 	}
@@ -323,7 +323,7 @@
 		
 		////"visible"		"1"
 		
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
@@ -345,7 +345,7 @@
 		"visible"		"0"
 		
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
@@ -366,7 +366,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
@@ -384,7 +384,7 @@
 		
 		////"visible"		"1"
 		
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
@@ -406,7 +406,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#Cancel"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}

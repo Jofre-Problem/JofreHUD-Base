@@ -7,14 +7,14 @@
 		// Auto-centered by GenericConfirmDialog
 		"wide"			"564"
 		"tall"			"387" // Bottom of confirm button + 10 margin
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"settitlebarvisible"	"0"
-		"PaintBackgroundType"	"0"
-		"paintbackground"		"1"
+		//"PaintBackgroundType"	"0"
+		//"paintbackground"		"1"
 		"bgcolor_override"	"Econ.Dialog.BgColor"
 	}
 
@@ -22,7 +22,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ComptTitleLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"#TF_Support_Message_Title"
 		"textAlignment"	"north"
 		"proportionalToParent"  "1"
@@ -31,10 +31,10 @@
 		"zpos"			"1"
 		"wide"			"p0.9"
 		"tall"			"14"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"centerwrap"	"1"
 		"fgcolor_override" "StoreGreen"
 	}
@@ -52,10 +52,10 @@
 		"zpos"			"1"
 		"wide"			"p0.9"
 		"tall"			"301" // Size 11 font - 27 rows & change
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"wrap"			"1"
 		"fgcolor_override" "Yellow"
 	}
@@ -70,18 +70,18 @@
 		"zpos"			"20"
 		"wide"			"150"
 		"tall"			"25"
-		"default"		"1"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		//"Default"		"1"
+		
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"#TF_Support_Message_Show_Later"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"show_later"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -103,18 +103,18 @@
 		"zpos"			"20"
 		"wide"			"150"
 		"tall"			"25"
-		"default"		"1"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		//"Default"		"1"
+		
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"#TF_Support_Message_Acknowledge"
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"acknowledge"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

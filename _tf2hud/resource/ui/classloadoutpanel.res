@@ -102,7 +102,7 @@
 		"zpos"			"1"
 		"wide"			"20"
 		"tall"			"15"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -138,7 +138,7 @@
 		"zpos"			"1"
 		"wide"			"20"
 		"tall"			"15"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -410,7 +410,7 @@
 		"zpos"			"100"
 		"wide"			"140"
 		"tall"			"75"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		"visible"		"0"
 		"bgcolor_override"		"69 64 63 255"
 		"PaintBackgroundType"	"2"
@@ -446,7 +446,7 @@
 		"wide"			"25"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -484,7 +484,7 @@
 		"wide"			"25"
 		"tall"			"25"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		

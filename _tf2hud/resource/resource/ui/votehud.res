@@ -150,7 +150,7 @@
 			//"visible"		"1"
 			
 			"labeltext"		""
-			"textAlignment"	"left"
+			//"textAlignment"	"Left"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			//"font"			"ScoreboardVerySmall"
@@ -202,7 +202,7 @@
 			//"visible"		"1"
 			
 			"labeltext"		""
-			"textAlignment"	"left"
+			//"textAlignment"	"Left"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			//"font"			"ScoreboardVerySmall"
@@ -254,7 +254,7 @@
 			//"visible"		"1"
 			
 			"labeltext"		""
-			"textAlignment"	"left"
+			//"textAlignment"	"Left"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			//"font"			"ScoreboardVerySmall"
@@ -287,7 +287,7 @@
 			//"visible"		"1"
 			
 			"labeltext"		""
-			"textAlignment"	"left"
+			//"textAlignment"	"Left"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			//"font"			"ScoreboardVerySmall"
@@ -320,7 +320,7 @@
 			//"visible"		"1"
 			
 			"labeltext"		""
-			"textAlignment"	"left"
+			//"textAlignment"	"Left"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			//"font"			"ScoreboardVerySmall"
@@ -593,7 +593,7 @@
 			"wide"		"75"
 			"tall"		"24"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			"enabled"		"0"
 			"tabPosition"	"4"
@@ -614,7 +614,7 @@
 			"wide"		"75"
 			"tall"		"24"
 			
-			"pinCorner"		"3"
+			//"pinCorner"			"3"
 			//"visible"		"1"
 			
 			"tabPosition"	"4"

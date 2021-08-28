@@ -96,7 +96,7 @@
 		"tall"		"14"
 		
 		
-		//"pinCorner"	"0"
+		////"pinCorner"		"0"
 		"visible"	"1"
 		
 		"fillcolor"	"0 0 0 255"
@@ -113,7 +113,7 @@
 		"tall"		"14"
 		
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"labelText"		"Not Ready"
@@ -136,7 +136,7 @@
 		"tall"		"14"
 		
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		"labelText"		"Ready"

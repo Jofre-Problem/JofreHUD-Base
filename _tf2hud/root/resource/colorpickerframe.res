@@ -25,7 +25,7 @@
 			//"wide"		"130"
 			//"tall"		"24"
 			
-			//////"pinCorner"		"2"
+			////////"pinCorner"			"2"
 			//////"visible"		"1"
 			
 			//////"tabPosition"		"2"
@@ -45,7 +45,7 @@
 			//"wide"		"130"
 			//"tall"		"24"
 			
-			//////"pinCorner"		"2"
+			////////"pinCorner"			"2"
 			//////"visible"		"1"
 			
 			//////"tabPosition"	"3"
@@ -64,7 +64,7 @@
 			//////"ypos"			"28"
 			//"wide"			"450"
 			//"tall"			"300"
-			//////"autoResize"	"3"
+			////////"autoResize"	"3"
 			
 			//////"visible"		"1"
 			

@@ -37,7 +37,7 @@
 		//////"ypos"		"135"
 		//"wide"		"235"
 		//"tall"		"222"
-		//////"autoResize"		"3"
+		////////"autoResize"		"3"
 		
 		////////"visible"		"1"
 		////"enabled"		"0"
@@ -54,8 +54,8 @@
 		//////"ypos"		"370"
 		//"wide"		"165"
 		//"tall"		"24"
-		//////"autoResize"		"1"
-		//////"pinCorner"		"2"
+		////////"autoResize"		"1"
+		////////"pinCorner"			"2"
 		////////"visible"		"1"
 		
 		
@@ -72,7 +72,7 @@
 		//"wide"		"64"
 		//"tall"		"24"
 		
-		//////"pinCorner"		"3"
+		////////"pinCorner"			"3"
 		////////"visible"		"1"
 		
 		
@@ -167,7 +167,7 @@
 		//"wide"		"250"
 		//"tall"		"24"
 		
-		//////"pinCorner"		"2"
+		////////"pinCorner"			"2"
 		////"visible"		"0"
 		
 		
@@ -185,7 +185,7 @@
 		//"wide"		"64"
 		//"tall"		"24"
 		
-		//////"pinCorner"		"3"
+		////////"pinCorner"			"3"
 		////"visible"		"0"
 		
 		

@@ -55,8 +55,8 @@
 		"zpos"			"2"
 		"wide"			"140"
 		"tall"			"20"
-		"autoResize"	"1"
-		"pinCorner"		"2"
+		//"autoResize"	"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -77,8 +77,8 @@
 		"wide"			"60"
 		"tall"			"20"
 		//"tall_lodef"	"28"
-		"autoResize"	"1"
-		"pinCorner"		"2"
+		//"autoResize"	"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		
@@ -99,8 +99,8 @@
 		"wide"			"60"
 		"tall"			"20"
 		//"tall_lodef"	"28"
-		"autoResize"	"1"
-		"pinCorner"		"2"
+		//"autoResize"	"1"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		

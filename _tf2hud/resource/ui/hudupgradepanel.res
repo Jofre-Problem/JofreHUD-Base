@@ -4,7 +4,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudUpgradePanel"
-		
+		"xpos"				"0"
+		"ypos"				"0"
 		
 		"zpos"			"1000"
 		"wide"			"f0"

@@ -8,22 +8,22 @@
 		"ypos"			"21"
 		"wide"			"480"
 		"tall"			"60"
-		"visible"		"1"
+		//"visible"		"1"
 
 		"BlueScoreBG"
 		{
 			"ControlName"		"ImagePanel"
 			"fieldName"		"BlueScoreBG"
-			"xpos"			"0"
+			
 			"ypos"			"13"
 			"wide"			"240"
 			"tall"			"50"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"image"			"../hud/winpanel_blue_bg_team"
-			"image_lodef"	"../hud/winpanel_blue_bg_team_lodef"
+			//"image_lodef"	"../hud/winpanel_blue_bg_team_lodef"
 			"scaleImage"		"1"
 		}
 		"RedScoreBG"
@@ -34,12 +34,12 @@
 			"ypos"			"13"
 			"wide"			"240"
 			"tall"			"50"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"image"			"../hud/winpanel_red_bg_team"
-			"image_lodef"	"../hud/winpanel_red_bg_team_lodef"
+			//"image_lodef"	"../hud/winpanel_red_bg_team_lodef"
 			"scaleImage"		"1"
 		}
 		"BlueTeamLabel"
@@ -48,17 +48,17 @@
 			"fieldName"		"BlueTeamLabel"
 			"font"			"ScoreboardTeamName"
 			"labelText"		"%blueteamname%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"56"
 			"ypos"			"25"
 			"wide"			"100"
 			"tall"			"20"
-			"tall_lodef"	"24"
-			"tall_hidef"	"24"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			//"tall_lodef"	"24"
+			//"tall_hidef"	"24"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"BlueTeamScore"
 		{
@@ -72,12 +72,12 @@
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"50"
-			"tall_lodef"	"80"
-			"tall_hidef"	"75"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			//"tall_hidef"	"75"
+			
+			
+			//"visible"		"1"
+			
 		}
 		"BlueTeamScoreDropshadow"
 		{
@@ -92,12 +92,12 @@
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"50"
-			"tall_lodef"	"80"
-			"tall_hidef"	"75"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			//"tall_hidef"	"75"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"RedTeamLabel"
 		{
@@ -110,12 +110,12 @@
 			"ypos"			"28"
 			"wide"			"100"
 			"tall"			"20"
-			"tall_lodef"	"24"
-			"tall_hidef"	"24"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			//"tall_lodef"	"24"
+			//"tall_hidef"	"24"
+			
+			
+			//"visible"		"1"
+			
 		}							
 		"RedTeamScore"
 		{
@@ -123,18 +123,18 @@
 			"fieldName"		"RedTeamScore"
 			"font"			"ScoreboardTeamScore"
 			"labelText"		"%redteamscore%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"207"
 			"ypos"			"-2"
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"50"
-			"tall_lodef"	"80"
-			"tall_hidef"	"75"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			//"tall_hidef"	"75"
+			
+			
+			//"visible"		"1"
+			
 		}
 		"RedTeamScoreDropshadow"
 		{
@@ -143,18 +143,18 @@
 			"font"			"ScoreboardTeamScore"
 			"fgcolor"		"Black"
 			"labelText"		"%redteamscore%"
-			"textAlignment"		"west"
+			//"textAlignment"		"west"
 			"xpos"			"208"
 			"ypos"			"-1"
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"50"
-			"tall_lodef"	"80"
-			"tall_hidef"	"75"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			//"tall_hidef"	"75"
+			
+			
+			//"visible"		"1"
+			
 		}		
 
 	
@@ -167,10 +167,10 @@
 			"zpos"			"2"
 			"wide"			"176"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"image"			"../HUD/tournament_panel_black"
 			"scaleImage"		"1"
 	
@@ -192,14 +192,14 @@
 			"zpos"			"3"
 			"wide"			"176"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"labelText"		"%arenastreaktext%"
 			"textAlignment"		"Center"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 	}
 
@@ -209,11 +209,11 @@
 		"fieldName"		"WinPanelBG"
 		"xpos"			"-123"
 		"ypos"			"59"
-		"zpos"			"0"
+		
 		"wide"			"700"
 		"tall"			"174"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"scaleImage"		"1"	
 	}
 	"WinningTeamLabel"
@@ -221,19 +221,19 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabel"
 		"font"			"ScoreboardTeamName"
-		"xpos"			"0"
+		
 		"ypos"			"78"
 		"zpos"			"1"
 		"wide"			"442"
 		"tall"			"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"%WinningTeamLabel%"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"WinningTeamLabelDropshadow"
 	{	
@@ -246,14 +246,14 @@
 		"zpos"			"1"
 		"wide"			"442"
 		"tall"			"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"%WinningTeamLabel%"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 
 	"LosingTeamLabel"
@@ -261,19 +261,19 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabel"
 		"font"			"ScoreboardTeamName"
-		"xpos"			"0"
+		
 		"ypos"			"78"
 		"zpos"			"1"
 		"wide"			"442"
 		"tall"			"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"%LosingTeamLabel%"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"LosingTeamLabelDropshadow"
 	{	
@@ -286,33 +286,33 @@
 		"zpos"			"1"
 		"wide"			"442"
 		"tall"			"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"%LosingTeamLabel%"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"WinReasonLabel"
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinReasonLabel"
 		"font"			"ScoreboardVerySmall"
-		"xpos"			"0"
+		
 		"ypos"			"95"
 		"zpos"			"1"
 		"wide"			"442"
 		"tall"			"20"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"%WinReasonLabel%"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"DetailsLabel"
 	{	
@@ -324,14 +324,14 @@
 		"zpos"			"1"
 		"wide"			"418"
 		"tall"			"20"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"%DetailsLabel%"
 		"textAlignment"		"Center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"ShadedBar"
 	{
@@ -342,14 +342,14 @@
 		"zpos"			"2"
 		"wide"			"382"
 		"tall"			"84"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"	
+		
+		
+		//"visible"		"1"
+		
+			
 		"fillcolor"		"0 0 0 150"
-		"fillcolor_lodef"		"0 0 0 200"
-		"PaintBackgroundType"	"0"
+		//"fillcolor_lodef"		"0 0 0 200"
+		//"PaintBackgroundType"	"0"
 	}
 	"TopPlayersLabel"
 	{	
@@ -361,14 +361,14 @@
 		"zpos"			"3"
 		"wide"			"300"
 		"tall"			"20"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"%TopPlayersLabel%"
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"textAlignment"		"west"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"DamageThisRoundLabel"
 	{	
@@ -380,14 +380,14 @@
 		"zpos"			"3"
 		"wide"			"50"
 		"tall"			"20"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"#TF_Arena_Winpanel_DamageThisRound"
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"textAlignment"		"west"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"HealingThisRoundLabel"
 	{	
@@ -399,14 +399,14 @@
 		"zpos"			"3"
 		"wide"			"50"
 		"tall"			"20"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"#TF_Arena_Winpanel_HealingThisRound"
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"textAlignment"		"west"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"LifetimeThisRoundLabel"
 	{	
@@ -418,14 +418,14 @@
 		"zpos"			"3"
 		"wide"			"50"
 		"tall"			"20"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"#TF_Arena_Winpanel_TimeAliveThisRound"
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"textAlignment"		"west"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"KillingBlowsThisRoundLabel"
 	{	
@@ -437,14 +437,14 @@
 		"zpos"			"3"
 		"wide"			"50"
 		"tall"			"20"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 		"labelText"		"#TF_Arena_Winpanel_KillingBlows"
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+		//"textAlignment"		"west"
+		////"dulltext"		"0"
+		////"brighttext"		"0"
 	}
 	"HorizontalLine"
 	{
@@ -455,13 +455,13 @@
 		"zpos"			"3"
 		"wide"			"374"
 		"tall"			"1"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"	
+		
+		
+		//"visible"		"1"
+		
+			
 		"fillcolor"		"250 234 201 255"
-		"PaintBackgroundType"	"0"
+		//"PaintBackgroundType"	"0"
 	}
 
 	"ArenaWinPanelWinnersPanel"
@@ -469,10 +469,10 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"		"ArenaWinPanelWinnersPanel"
 		"xpos"			"20"
-		"ypos"			"0"
+		
 		"wide"			"500"
 		"tall"			"218"
-		"visible"		"1"
+		//"visible"		"1"
 		"zpos"			"3"
 
 		"Player1Avatar"
@@ -483,9 +483,9 @@
 			"ypos"			"141"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			""
+			//"visible"		"1"
+			
+			//"image"			""
 			"scaleImage"		"1"	
 			"color_outline"		"52 48 45 255"
 		}
@@ -497,14 +497,14 @@
 			"ypos"			"138"
 			"wide"			"115"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
-			"textAlignment"		"west"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
+			//"textAlignment"		"west"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player1Class"
 		{	
@@ -514,14 +514,14 @@
 			"ypos"			"138"
 			"wide"			"200"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
-			"textAlignment"		"west"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
+			//"textAlignment"		"west"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player1Damage"
 		{	
@@ -531,14 +531,14 @@
 			"ypos"			"138"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player1Healing"
 		{	
@@ -548,14 +548,14 @@
 			"ypos"			"138"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player1Lifetime"
 		{	
@@ -565,14 +565,14 @@
 			"ypos"			"138"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player1Kills"
 		{	
@@ -582,14 +582,14 @@
 			"ypos"			"138"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player2Avatar"	
 		{
@@ -599,9 +599,9 @@
 			"ypos"			"163"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			""
+			//"visible"		"1"
+			
+			//"image"			""
 			"scaleImage"		"1"	
 			"color_outline"		"52 48 45 255"
 		}
@@ -613,14 +613,14 @@
 			"ypos"			"160"
 			"wide"			"115"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
-			"textAlignment"		"west"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
+			//"textAlignment"		"west"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player2Class"
 		{	
@@ -630,14 +630,14 @@
 			"ypos"			"160"
 			"wide"			"200"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
-			"textAlignment"		"west"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
+			//"textAlignment"		"west"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player2Damage"
 		{	
@@ -647,14 +647,14 @@
 			"ypos"			"160"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player2Healing"
 		{	
@@ -664,14 +664,14 @@
 			"ypos"			"160"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player2Lifetime"
 		{	
@@ -681,14 +681,14 @@
 			"ypos"			"160"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player2Kills"
 		{	
@@ -698,14 +698,14 @@
 			"ypos"			"160"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player3Avatar"
 		{
@@ -715,9 +715,9 @@
 			"ypos"			"185"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			""
+			//"visible"		"1"
+			
+			//"image"			""
 			"scaleImage"		"1"	
 			"color_outline"		"52 48 45 255"
 		}
@@ -729,14 +729,14 @@
 			"ypos"			"182"
 			"wide"			"115"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
-			"textAlignment"		"west"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
+			//"textAlignment"		"west"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player3Class"
 		{	
@@ -746,14 +746,14 @@
 			"ypos"			"182"
 			"wide"			"200"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
-			"textAlignment"		"west"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
+			//"textAlignment"		"west"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player3Damage"
 		{	
@@ -763,14 +763,14 @@
 			"ypos"			"182"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player3Healing"
 		{	
@@ -780,14 +780,14 @@
 			"ypos"			"182"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player3Lifetime"
 		{	
@@ -797,14 +797,14 @@
 			"ypos"			"182"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player3Kills"
 		{	
@@ -814,14 +814,14 @@
 			"ypos"			"182"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 	}
 	"ArenaWinPanelLosersPanel"
@@ -829,10 +829,10 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"		"ArenaWinPanelLosersPanel"
 		"xpos"			"20"
-		"ypos"			"0"
+		
 		"wide"			"500"
 		"tall"			"218"
-		"visible"		"1"
+		//"visible"		"1"
 		"zpos"			"3"
 
 		"Player1Avatar"
@@ -843,9 +843,9 @@
 			"ypos"			"141"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			""
+			//"visible"		"1"
+			
+			//"image"			""
 			"scaleImage"		"1"	
 			"color_outline"		"52 48 45 255"
 		}
@@ -857,14 +857,14 @@
 			"ypos"			"138"
 			"wide"			"115"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
-			"textAlignment"		"west"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
+			//"textAlignment"		"west"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player1Class"
 		{	
@@ -874,14 +874,14 @@
 			"ypos"			"138"
 			"wide"			"200"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
-			"textAlignment"		"west"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
+			//"textAlignment"		"west"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player1Damage"
 		{	
@@ -891,14 +891,14 @@
 			"ypos"			"138"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player1Healing"
 		{	
@@ -908,14 +908,14 @@
 			"ypos"			"138"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player1Lifetime"
 		{	
@@ -925,14 +925,14 @@
 			"ypos"			"138"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player1Kills"
 		{	
@@ -942,14 +942,14 @@
 			"ypos"			"138"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player2Avatar"	
 		{
@@ -959,9 +959,9 @@
 			"ypos"			"163"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			""
+			//"visible"		"1"
+			
+			//"image"			""
 			"scaleImage"		"1"	
 			"color_outline"		"52 48 45 255"
 		}
@@ -973,14 +973,14 @@
 			"ypos"			"160"
 			"wide"			"115"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
-			"textAlignment"		"west"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
+			//"textAlignment"		"west"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player2Class"
 		{	
@@ -990,14 +990,14 @@
 			"ypos"			"160"
 			"wide"			"200"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
-			"textAlignment"		"west"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
+			//"textAlignment"		"west"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player2Damage"
 		{	
@@ -1007,14 +1007,14 @@
 			"ypos"			"160"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player2Healing"
 		{	
@@ -1024,14 +1024,14 @@
 			"ypos"			"160"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player2Lifetime"
 		{	
@@ -1041,14 +1041,14 @@
 			"ypos"			"160"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player2Kills"
 		{	
@@ -1058,14 +1058,14 @@
 			"ypos"			"160"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player3Avatar"
 		{
@@ -1075,9 +1075,9 @@
 			"ypos"			"185"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			""
+			//"visible"		"1"
+			
+			//"image"			""
 			"scaleImage"		"1"	
 			"color_outline"		"52 48 45 255"
 		}
@@ -1089,14 +1089,14 @@
 			"ypos"			"182"
 			"wide"			"115"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
-			"textAlignment"		"west"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
+			//"textAlignment"		"west"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player3Class"
 		{	
@@ -1106,14 +1106,14 @@
 			"ypos"			"182"
 			"wide"			"200"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
-			"textAlignment"		"west"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
+			//"textAlignment"		"west"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player3Damage"
 		{	
@@ -1123,14 +1123,14 @@
 			"ypos"			"182"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player3Healing"
 		{	
@@ -1140,14 +1140,14 @@
 			"ypos"			"182"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player3Lifetime"
 		{	
@@ -1157,14 +1157,14 @@
 			"ypos"			"182"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 		"Player3Kills"
 		{	
@@ -1174,14 +1174,14 @@
 			"ypos"			"182"
 			"wide"			"30"
 			"tall"			"20"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			"labeltext"		""
 			"textAlignment"		"east"
-			"dulltext"		"0"
-			"brighttext"		"0"
+			////"dulltext"		"0"
+			////"brighttext"		"0"
 		}
 	}
 }

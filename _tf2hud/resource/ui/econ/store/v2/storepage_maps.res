@@ -65,7 +65,7 @@
 		"zpos"			"5"
 		"wide"			"500"
 		"tall"			"25"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -83,7 +83,7 @@
 		"zpos"			"5"
 		"wide"			"500"
 		"tall"			"25"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		

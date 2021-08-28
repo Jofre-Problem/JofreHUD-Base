@@ -22,7 +22,7 @@
 		//"ypos"		"0"
 		"wide"		"630"
 		"tall"		"300"
-		"autoResize"		"3"
+		//"autoResize"		"3"
 		
 		//"visible"		"1"
 		

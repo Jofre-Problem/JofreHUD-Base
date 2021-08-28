@@ -33,7 +33,7 @@
 					//////"ypos"			"19"
 					//"wide"			"292"
 					//"tall"			"24"
-					////"autoResize"	"1"
+					//////"autoResize"	"1"
 					
 					////"UnpinnedCornerOffsetX" "-6"
 					//////"visible"		"1"
@@ -53,7 +53,7 @@
 					//////"ypos"			"53"
 					//"wide"			"292"
 					//"tall"			"542"
-					////"autoResize"	"3"
+					//////"autoResize"	"3"
 					
 					////"UnpinnedCornerOffsetX" "-6"
 					//"UnpinnedCornerOffsetY" "-6"
@@ -71,7 +71,7 @@
 					"fieldName"		"SequenceSplitter"
 					//////"visible"		"1"
 					
-					////"autoResize"	"3"
+					//////"autoResize"	"3"
 					
 					
 					
@@ -88,7 +88,7 @@
 							//////"ypos"			"6"
 							//"wide"			"256"
 							//"tall"			"256"
-							////"autoResize"	"3"
+							//////"autoResize"	"3"
 							
 							////"UnpinnedCornerOffsetX" "-6"
 							//"UnpinnedCornerOffsetY" "-6"
@@ -108,7 +108,7 @@
 							//////"ypos"			"6"
 							//"wide"			"256"
 							//"tall"			"256"
-							////"autoResize"	"3"
+							//////"autoResize"	"3"
 							
 							////"UnpinnedCornerOffsetX" "-6"
 							//"UnpinnedCornerOffsetY" "-6"

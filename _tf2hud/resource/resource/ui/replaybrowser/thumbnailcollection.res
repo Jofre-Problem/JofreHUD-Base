@@ -129,7 +129,7 @@
 		"wide"			"100"
 		"tall"			"12"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -157,7 +157,7 @@
 		"wide"			"100"
 		"tall"			"12"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		

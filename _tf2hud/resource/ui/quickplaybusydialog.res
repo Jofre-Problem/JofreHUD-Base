@@ -4,15 +4,15 @@
 	{
 		"ControlName"	"CQuickPlayBusyDialog"
 		"fieldName"		"QuickPlayBusyDialog"
-		"xpos"		"0"
-		"ypos"		"0"
+		
+		//"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"480"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"bgcolor_override"	"0 0 0 200"
 	}
 
@@ -22,31 +22,31 @@
 		"fieldName"		"BusyContainer"
 		"xpos"		"c-225"
 		"ypos"		"c-75"
-		"zpos"		"0"
+		
 		"wide"		"450"
 		"tall"		"150"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"PaintBackgroundType"	"0"
-		"paintbackground"		"1"
+		
+		
+		//"visible"		"1"
+		
+		
+		//"PaintBackgroundType"	"0"
+		//"paintbackground"		"1"
 		"border"				"QuickplayBorder"
 
 		"Background"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Background"
-			"xpos"		"0"
-			"ypos"		"0"
+			
+			//"ypos"		"0"
 			"wide"		"450"
 			"tall"		"150"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"bgcolor_override"	"40 37 37 255"
 		}
 
@@ -54,17 +54,17 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"15"
 			"zpos"			"1"
 			"wide"			"450"
 			"tall"			"20"
-			"autoResize"	"1"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			//"autoResize"	"1"
+			
+			//"visible"		"1"
+			
 		}
 
 		"Progress"
@@ -75,28 +75,28 @@
 			"ypos"		"40"
 			"wide"		"410"
 			"tall"		"30"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 		}
 
 		"NumServers"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumServers"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"labelText"		"%numservers%"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"75"
 			"zpos"			"1"
 			"wide"			"450"
 			"tall"			"20"
-			"autoResize"	"1"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			//"autoResize"	"1"
+			
+			//"visible"		"1"
+			
 		}
 
 		"CloseButton"
@@ -108,17 +108,17 @@
 			"zpos"			"20"
 			"wide"			"100"
 			"tall"			"25"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labelText"		"#Cancel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"Command"		"user_close"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -132,31 +132,31 @@
 		"fieldName"		"ResultsContainer"
 		"xpos"		"c-250"
 		"ypos"		"c-200"
-		"zpos"		"0"
+		
 		"wide"		"500"
 		"tall"		"400"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"PaintBackgroundType"	"0"
-		"paintbackground"		"1"
+		
+		
+		//"visible"		"1"
+		
+		
+		//"PaintBackgroundType"	"0"
+		//"paintbackground"		"1"
 		"border"				"QuickplayBorder"
 
 		"Background"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Background"
-			"xpos"		"0"
-			"ypos"		"0"
+			
+			//"ypos"		"0"
 			"wide"		"500"
 			"tall"		"400"
-			"autoResize"		"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"		"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"bgcolor_override"	"40 37 37 255"
 		}
 
@@ -164,18 +164,18 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMediumSecondary"
 			"labelText"		"#TF_MM_ResultsDialog_Title"
 			"textAlignment"	"center"
-			"xpos"			"0"
+			
 			"ypos"			"15"
 			"zpos"			"1"
 			"wide"			"500"
 			"tall"			"20"
-			"autoResize"	"1"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			//"autoResize"	"1"
+			
+			//"visible"		"1"
+			
 		}
 
 		"ServerList"
@@ -187,8 +187,8 @@
 			"zpos"			"1"
 			"wide"			"480"
 			"tall"			"300"
-			"autoResize"	"1"
-			"pinCorner"		"0"
+			//"autoResize"	"1"
+			
 		}
 
 		"ConnectButton"
@@ -200,17 +200,17 @@
 			"zpos"			"20"
 			"wide"			"150"
 			"tall"			"25"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labelText"		"#TF_Quickplay_Connect"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"Command"		"ConnectToServer"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -225,17 +225,17 @@
 			"zpos"			"20"
 			"wide"			"150"
 			"tall"			"25"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
+			
+			
+			//"visible"		"1"
+			
+			
 			"labelText"		"#Cancel"
-			"font"			"HudFontSmallBold"
+			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+			////"dulltext"		"0"
+			//"brighttext"	"0"
 			"Command"		"user_close"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"

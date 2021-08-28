@@ -212,7 +212,7 @@
 			"zpos"					"1"
 			"wide"					"o1.97"
 			"tall"					"p0.89"
-			"bgcolor_override"		"46 43 42 0"
+			"bgcolor_override"		"Blank"
 			"paintborder"			"1"
 			"paintbackgroundtype"	"1"
 			"proportionaltoparent"	"1"
@@ -651,7 +651,7 @@
 				"wide"				"19"
 				"tall"				"19"
 				
-				"pinCorner"			"2"
+				//"pinCorner"				"2"
 				"visible"			"0"
 				
 				
@@ -676,7 +676,7 @@
 			
 				"image_drawcolor"		"255 255 255 77"
 				"image_armedcolor"		"255 255 255 128"
-				"image_selectedcolor"		"HudWhite"
+				"image_selectedcolor"		"255 255 255 255"
 			
 				"stayselectedonclick"	"1"
 				"keyboardinputenabled"	"0"
@@ -807,7 +807,7 @@
 		"wide"			"p0.058"
 		"tall"			"p0.12"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -841,7 +841,7 @@
 		"wide"			"100"
 		"tall"			"20"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
@@ -874,7 +874,7 @@
 		"zpos"					"2"
 		"wide"					"f0"
 		"tall"					"250"
-		"bgcolor_override"		"46 43 42 0"
+		"bgcolor_override"		"Blank"
 		"paintborder"			"0"
 		//"PaintBackgroundType"	"0"
 		"proportionaltoparent"	"1"
@@ -933,7 +933,7 @@
 				"wide"			"p0.175"
 				"tall"			"p0.085"
 				
-				"pinCorner"		"3"
+				//"pinCorner"			"3"
 				//"visible"		"1"
 				
 				

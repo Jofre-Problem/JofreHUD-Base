@@ -15,7 +15,7 @@
 		////"visible"		"1"
 		
 		"labelText"		"#TF_Object_Sentry"
-		"textAlignment"	"Left"
+		//"textAlignment"	"Left"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 	}
@@ -33,7 +33,7 @@
 		
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg"
-		"iconColor"		"231 235 205 255"
+		"iconColor"		"251 235 202 255"
 	}
 	
 	"BuildingIcon"	
@@ -84,6 +84,6 @@
 		////"visible"		"1"
 		
 		"labelText"		"%metal%"
-		"textAlignment"	"Left"	
+		//"textAlignment"	"Left"	
 	}
 }

@@ -33,7 +33,7 @@
 		"ypos"			"2"
 		"wide"			"45"
 		"tall"			"15"
-		"autoResize"		"1"
+		//"autoResize"		"1"
 		
 		//"visible"		"1"
 		
@@ -54,8 +54,8 @@
 		"wide"	 		"260"
 		"tall"			"75"
 		"wrap"			"1"
-		"autoResize"		"1"
-		"pinCorner"		"1"
+		//"autoResize"		"1"
+		//"pinCorner"			"1"
 		//"visible"		"1"
 		
 		"labeltext"		""

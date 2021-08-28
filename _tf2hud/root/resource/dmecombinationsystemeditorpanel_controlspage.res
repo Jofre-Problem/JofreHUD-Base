@@ -21,7 +21,7 @@
 			//////"visible"		"1"
 			
 			
-			//////"autoResize"	"3"
+			////////"autoResize"	"3"
 			
 			
 			
@@ -37,7 +37,7 @@
 					//////"ypos"			"6"
 					//"wide"			"256"
 					//"tall"			"256"
-					//////"autoResize"	"3"
+					////////"autoResize"	"3"
 					
 					//"PinnedCornerOffsetX" "6"
 					//"PinnedCornerOffsetY" "6"
@@ -59,7 +59,7 @@
 					//////"ypos"			"6"
 					//"wide"			"256"
 					//"tall"			"256"
-					//////"autoResize"	"3"
+					////////"autoResize"	"3"
 					
 					//"PinnedCornerOffsetX" "6"
 					//"PinnedCornerOffsetY" "6"

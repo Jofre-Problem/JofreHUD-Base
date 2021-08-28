@@ -20,7 +20,7 @@
 			"ControlName"	"CExButton"
 			"fieldName"		"SelectButton"
 			
-			"ypos"		"0"
+			//"ypos"		"0"
 			
 			"wide"		"f0"
 			"tall"		"f0"

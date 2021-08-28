@@ -308,7 +308,7 @@
 		"wide"		"250"
 		"tall"		"27"
 		
-		"pinCorner"		"2"
+		//"pinCorner"			"2"
 		//"visible"		"1"
 		
 		

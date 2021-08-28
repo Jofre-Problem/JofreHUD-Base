@@ -4,21 +4,21 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"item_slot_panel"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"zpos"			"501"
 		"wide"			"f0"
 		"tall"			"f0"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"settitlebarvisible"	"0"
-		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"46 43 42 255"
-		"infocus_bgcolor_override" "46 43 42 255"
-		"outoffocus_bgcolor_override" "46 43 42 255"
+		//"PaintBackgroundType"	"0"
+		"bgcolor_override"	"TanDarker"
+		"infocus_bgcolor_override" "TanDarker"
+		"outoffocus_bgcolor_override" "TanDarker"
 		
 		"item_xpos_offcenter_a"	"-270"
 		"item_xpos_offcenter_b"	"165"
@@ -43,8 +43,8 @@
 			"wide"			"100"
 			"tall"			"55"
 			"visible"		"0"
-			"bgcolor_override"		"0 0 0 0"
-			"noitem_textcolor"		"117 107 94 255"
+			"bgcolor_override"		"Blank"
+			"noitem_textcolor"		"TanDark"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
 			
@@ -78,8 +78,8 @@
 		"wide"			"250"
 		"tall"			"300"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
-		"noitem_textcolor"		"117 107 94 255"
+		"bgcolor_override"		"Blank"
+		"noitem_textcolor"		"TanDark"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		
@@ -94,37 +94,37 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CaratLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		">>"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"c-300"
 		"ypos"			"20"
 		"zpos"			"1"
 		"wide"			"20"
 		"tall"			"15"
-		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		//"autoResize"	"1"
+		
+		//"visible"		"1"
+		
+		"fgcolor_override" "LightRed"
 	}
 
 	"ClassLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassLabel"
-		"font"			"HudFontMediumSmallBold"
+		"font"			"HudFontMediumSmall"
 		"labelText"		"#EditSlots"
-		"textAlignment"	"west"
+		//"textAlignment"	"west"
 		"xpos"			"c-280"
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"210"
 		"tall"			"25"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		
+		
+		//"visible"		"1"
+		
 	}
 
 	"OKButton"
@@ -136,17 +136,17 @@
 		"zpos"			"20"
 		"wide"			"100"
 		"tall"			"25"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"labelText"		"#TF_OK"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"ok"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

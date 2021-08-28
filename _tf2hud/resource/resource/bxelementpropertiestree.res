@@ -8,7 +8,7 @@
 		"ypos"		"14"
 		"wide"		"1157"
 		"tall"		"577"
-		"autoResize"		"3"
+		//"autoResize"		"3"
 		
 		//"visible"		"1"
 		
@@ -36,7 +36,7 @@
 		"ypos"		"22"
 		"wide"		"1157"
 		"tall"		"548"
-		"autoResize"		"3"
+		//"autoResize"		"3"
 		
 		//"visible"		"1"
 		
@@ -50,7 +50,7 @@
 		//"ypos"		"0"
 		"wide"		"1157"
 		"tall"		"22"
-		"autoResize"		"1"
+		//"autoResize"		"1"
 		
 		//"visible"		"1"
 		

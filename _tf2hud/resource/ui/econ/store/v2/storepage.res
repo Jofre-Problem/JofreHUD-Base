@@ -97,7 +97,7 @@
 			"zpos"			"15"
 			"wide"			"16"
 			"tall"			"10"
-			"autoResize"	"1"
+			//"autoResize"	"1"
 				
 			"visible"		"0"
 			
@@ -147,7 +147,7 @@
 			"zpos"			"15"
 			"wide"			"16"
 			"tall"			"10"
-			"autoResize"	"1"
+			//"autoResize"	"1"
 				
 			"visible"		"0"
 			
@@ -310,7 +310,7 @@
 		"zpos"			"100"
 		"wide"			"200"
 		"tall"			"40"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		"visible"		"0"
 		
@@ -359,7 +359,7 @@
 		"zpos"			"5"
 		"wide"			"40"
 		"tall"			"20"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -402,7 +402,7 @@
 		"zpos"			"5"
 		"wide"			"303"
 		"tall"			"20"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		"visible"		"0"
 		
@@ -422,7 +422,7 @@
 		"zpos"			"1"
 		"wide"			"90"
 		"tall"			"20"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -441,7 +441,7 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"20"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -460,7 +460,7 @@
 		"zpos"			"1"
 		"wide"			"150"
 		"tall"			"20"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -479,7 +479,7 @@
 		"zpos"			"1"
 		"wide"			"60"
 		"tall"			"20"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		
@@ -512,7 +512,7 @@
 			"wide"				"19"
 			"tall"				"19"
 			
-			"pinCorner"			"2"
+			//"pinCorner"				"2"
 			//"visible"			"1"
 			
 			
@@ -533,8 +533,8 @@
 			"paintborder"		"0"
 			
 			"image_drawcolor"		"255 255 255 180"
-			"image_armedcolor"		"HudWhite"
-			"image_selectedcolor"		"HudWhite"
+			"image_armedcolor"		"255 255 255 255"
+			"image_selectedcolor"		"255 255 255 255"
 			
 			"stayselectedonclick"	"1"
 			"keyboardinputenabled"	"0"
@@ -701,7 +701,7 @@
 		
 		"wide"			"200"
 		"tall"			"20"
-		"autoResize"	"1"
+		//"autoResize"	"1"
 		
 		//"visible"		"1"
 		

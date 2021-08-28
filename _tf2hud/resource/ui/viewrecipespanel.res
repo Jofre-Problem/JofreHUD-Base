@@ -9,14 +9,14 @@
 		"zpos"			"500"
 		"wide"			"400"
 		"tall"			"300"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		
+		//"visible"		"1"
+		
+		
 		"settitlebarvisible"	"0"
 		
-		"bgcolor_override"	"46 43 42 0"
+		"bgcolor_override"	"Blank"
 		
 		"recipepanel_xpos"		"0"
 		"recipepanel_ydelta"	"4"
@@ -24,25 +24,25 @@
 		
 		"recipeskv"	
 		{
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
-			"xpos"			"0"
-			"ypos"			"0"
+			
+			
 			"zpos"			"1"
 			"wide"			"300"
 			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
+			
+			
+			//"visible"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"enabled"		"1"
+			
 			"defaultFgColor_override" "117 107 94 255"
-			"defaultBgColor_override" "0 0 0 0"
-			"armedFgColor_override" "235 226 202 255"
-			"armedBgColor_override" "0 0 0 0"
+			"defaultBgColor_override" "Blank"
+			"armedFgColor_override" "TanLight"
+			"armedBgColor_override" "Blank"
 			"depressedFgColor_override" "178 82 22 255"
-			"depressedBgColor_override" "0 0 0 0"
+			"depressedBgColor_override" "Blank"
 			"auto_wide_tocontents" "1"
 			
 			"pin_to_sibling"               "CenterPositioner"
@@ -54,7 +54,7 @@
 		{
 			"wide"			"20"
 			"tall"			"20"
-			"enabled"		"1"
+			
 			"activeimage"	"checkmark"
 			"inactiveimage"	"checkmark"
 			"scaleImage"	"1"
@@ -67,22 +67,22 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontMediumBold"
-		"xpos"			"0"
+		"font"			"HudFontMediumSecondary"
+		
 		"ypos"			"10"
-		"zpos"			"0"
+		
 		"wide"			"400"
 		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"wrap"			"0"
+		
+		
+		//"visible"		"1"
+		
+		//"wrap"			"0"
 		"centerwrap"	"1"
 		"labelText"		"#CraftRecipe"
 		"textAlignment"		"center"
-		"fgcolor_override" "200 80 60 255"
-		"bgcolor_override" "0 0 0 0"
+		"fgcolor_override" "LightRed"
+		"bgcolor_override" "Blank"
 	}
 	
 	"TopLine"
@@ -94,11 +94,11 @@
 		"zpos"			"2"
 		"wide"			"380"
 		"tall"			"10"
-		"visible"		"1"
-		"enabled"		"1"
+		//"visible"		"1"
+		
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
-		"tileVertically" "0"
+		//"tileVertically" "0"
 	}				
 	
 	"recipecontainerscroller"
@@ -118,8 +118,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"recipecontainer"
-		"xpos"			"0"
-		"ypos"			"0"
+		
+		
 		"wide"			"380"
 		"tall"			"190"
 		"PaintBackgroundType"	"2"
@@ -129,19 +129,19 @@
 		{	
 			"ControlName"		"Label"
 			"fieldName"		"CenterPositioner"
-			"font"			"HudFontSmallBold"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"0"
+			"font"			"HudFontSmall"
+			
+			
+			
 			"wide"			"366"
 			"tall"			"0"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"wrap"			"0"
-			"centerwrap"	"0"
-			"labelText"		""
+			
+			
+			//"visible"		"1"
+			
+			//"wrap"			"0"
+			//"centerwrap"	"0"
+			"labeltext"		""
 			"textAlignment"		"center"
 			"bgcolor_override" "0 0 0 255"
 		}
@@ -157,8 +157,8 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
-		"noitem_textcolor"		"117 107 94 255"
+		"bgcolor_override"		"Blank"
+		"noitem_textcolor"		"TanDark"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		
@@ -171,18 +171,18 @@
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
-			"xpos"			"0"
+			
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"
 			"tall"			"60"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			
+			
+			//"visible"		"1"
+			
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
-			"fgcolor"		"117 107 94 255"
+			"fgcolor"		"TanDark"
 			"centerwrap"	"1"
 		}
 	}
@@ -191,41 +191,41 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NoRecipesLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"#CraftNoknownRecipes"
 		"textAlignment"	"center"
-		"xpos"			"0"
+		
 		"ypos"			"120"
 		"zpos"			"10"
 		"wide"			"400"
 		"tall"			"30"
-		"autoResize"	"0"
-		"pinCorner"		"0"
+		
+		
 		"visible"		"0"
-		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		
+		"fgcolor_override" "LightRed"
 	}
 	
 	"OkButton"
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"OkButton"
-		"Default"		"1"
+		//"Default"		"1"
 		"xpos"			"150"
 		"ypos"			"250"
 		"zpos"			"20"
 		"wide"			"100"
 		"tall"			"25"
-		"autoResize"	"0"
-		"pinCorner"		"2"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
+		
+		//"pinCorner"			"2"
+		//"visible"		"1"
+		
+		
 		"labelText"		"#GameUI_Ok"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
 		"Command"		"ok"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

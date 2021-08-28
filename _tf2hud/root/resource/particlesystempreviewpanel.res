@@ -7,7 +7,7 @@
 		//////"visible"		"1"
 		
 		
-		////"autoResize"	"3"
+		//////"autoResize"	"3"
 		
 		
 		
@@ -24,7 +24,7 @@
 				
 				//"wide"			"463"
 				//"tall"			"212"
-				////"autoResize"	"3"
+				//////"autoResize"	"3"
 				
 				
 				
@@ -46,7 +46,7 @@
 				
 				//"wide"			"463"
 				//"tall"			"212"
-				////"autoResize"	"3"
+				//////"autoResize"	"3"
 				
 				
 				
@@ -66,7 +66,7 @@
 				//"wide"			"165"
 				//"tall"			"24"
 				
-				//////"pinCorner"		"3"
+				////////"pinCorner"			"3"
 				//"PinnedCornerOffsetX" "-6"
 				//"PinnedCornerOffsetY" "-6"
 				//////"visible"		"1"

@@ -37,7 +37,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"1"
+		//"pinCorner"			"1"
 		//"visible"		"1"
 		
 		
@@ -58,7 +58,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"1"
+		//"pinCorner"			"1"
 		//"visible"		"1"
 		
 		
@@ -79,7 +79,7 @@
 		"wide"		"64"
 		"tall"		"24"
 		
-		"pinCorner"		"1"
+		//"pinCorner"			"1"
 		//"visible"		"1"
 		
 		
@@ -100,7 +100,7 @@
 		"wide"		"35"
 		"tall"		"20"
 		
-		"pinCorner"		"3"
+		//"pinCorner"			"3"
 		//"visible"		"1"
 		
 		
