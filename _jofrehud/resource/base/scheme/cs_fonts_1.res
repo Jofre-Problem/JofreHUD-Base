@@ -7,7 +7,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 				"tall"		"10"
 			}
@@ -17,7 +17,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 				"tall"		"7"
 			}
@@ -26,7 +26,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 				"tall"		"14"
 			}
@@ -36,8 +36,8 @@ Scheme
 //		{
 //			"1"	[$WIN32]
 //			{
-//				"name"		"Calibri"
-//				"name"		"Calibri" [$POSIX]
+//				"name"		"Segoe UI"
+//				"name"		"Segoe UI" [$POSIX]
 //				"tall"		"14"
 //				"weight"	"0"
 //				"antialias"	"1"
@@ -49,7 +49,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 				"tall"		"12"
 			}
@@ -59,7 +59,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"12"
 			}
 		}
@@ -67,7 +67,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 				"tall"		"12"
 				//"antialias"	"1"
@@ -78,7 +78,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 				"tall"		"10"
 			}

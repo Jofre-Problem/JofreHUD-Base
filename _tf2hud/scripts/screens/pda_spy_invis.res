@@ -11,10 +11,10 @@
 		"tall"			"80"
 		
 		
-		//"visible"		"1"
+		"visible"		"1"
 		
-		//"fg_image"		"flagtime_full"
-		//"bg_image"		"flagtime_empty"
+		"fg_image"		"flagtime_full"
+		"bg_image"		"flagtime_empty"
 	}	
 }
 

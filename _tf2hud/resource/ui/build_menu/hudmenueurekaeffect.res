@@ -68,27 +68,6 @@
 		//"brighttext"	"0"
 	}
 	
-	"TitleLabelDropshadow"
-	{	
-		"ControlName"	"CExLabel"
-		"fieldName"		"TitleLabelDropshadow"
-		"font"			"ChalkboardTitleBig"
-		"fgcolor"		"Black"
-		"xpos"			"70"			// align me to the left edge of the first selection
-		"ypos"			"10"
-		"zpos"			"1"
-		"wide"			"300"
-		"tall"			"38"
-		
-		
-		//"visible"		"1"
-		
-		"labelText"		"#Hud_Menu_Teleport_Title"
-		//"textAlignment"	"Left"
-		"dulltext"		"1"
-		//"brighttext"	"0"
-	}
-	
 	"CancelLabel"
 	{	
 		"ControlName"	"CExLabel"

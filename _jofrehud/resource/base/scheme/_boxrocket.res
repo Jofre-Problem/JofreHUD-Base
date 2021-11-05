@@ -154,7 +154,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 				"tall"		"32"
 				"weight"	"1000"
@@ -167,7 +167,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 				"tall"		"12"
 				"weight"	"1000"
@@ -179,9 +179,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"12"
 				"weight"	"0"
 				"antialias" "1"				
@@ -192,7 +192,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 				"tall"		"13"
 				"weight"	"0"
@@ -204,7 +204,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 				"tall"		"14"
 				"weight"	"0"
@@ -216,7 +216,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 				"tall"		"18"
 				"weight"	"0"
@@ -228,7 +228,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 				"tall"		"22"
 				"weight"	"0"

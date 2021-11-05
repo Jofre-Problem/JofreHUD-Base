@@ -6,7 +6,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 				"tall"			"20"
 			}
@@ -15,7 +15,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 				"tall"			"20"
 			}

@@ -61,6 +61,46 @@
 		
 		
 	}
+	"SwitchCamModeKeyLabel"
+	{
+		"tall"			"0"
+	}	
+	"CycleTargetRevKeyLabel"
+	{
+		"tall"			"0"
+	}
+	"SwitchCamModeLabel"
+	{
+		"tall"			"0"
+	}	
+		"CycleTargetFwdKeyLabel"
+	{
+		"tall"			"0"
+	}		
+	"SwitchCamModeKeyLabel"
+	{
+		"tall"			"0"
+	}		
+	"BuyBackLabel"
+	{
+		"tall"			"0"
+	}		
+	"ClassOrTeamLabel"
+	{
+		"tall"			"0"
+	}	
+	"CycleTargetFwdLabel"
+	{
+		"tall"			"0"
+	}	
+	"CycleTargetRevLabel"
+	{
+		"tall"			"0"
+	}	
+	"TipLabel"
+	{
+		"tall"			"0"
+	}	
 	"ReinforcementsLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -87,24 +127,6 @@
 		"font"			"HudFontMediumSmallSecondary"
 		////"font_minmode"			"HudFontSmall"
 	}
-	"BuyBackLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"BuyBackLabel"
-		
-		
-		"wide"			"400"
-		"tall"			"f0"
-		
-		
-		"visible"		"0"
-		
-		"labeltext"		""
-		"textAlignment"		"center"
-		"font"			"HudFontSmall"
-		"wrap"			"1"
-		"centerwrap"	"1"
-	}
 	"MapLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -123,175 +145,6 @@
 		
 		"labelText"		"map: cp_bridge"
 		"textAlignment"		"east"
-	}
-	"ClassOrTeamLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"ClassOrTeamLabel"
-		"xpos"			"c-85"
-		//"xpos_hidef"	"c-65"
-		//"xpos_lodef"	"40"
-		"ypos"			"68"
-		//"ypos_hidef"	"90"
-		//"ypos_lodef"	"30"	
-		"wide"			"170"
-		//"wide_hidef"	"130"
-		//"wide_lodef"	"220"
-		"tall"			"15"
-		//"tall_lodef"	"25"
-		"zpos"			"2"
-		
-		
-		//"visible"		"1"	//[$WIN32]
-		////"visible_minmode"		"0"
-		
-		
-		"labelText"		"#TF_Spectator_ChangeTeam"
-		"textAlignment"		"center"
-		//"textAlignment_lodef"		"north-west"
-		"font"			"SpectatorKeyHints"
-		//"font_hidef"	"HudFontSmallest"
-		//"font_lodef"	"HudFontSmall"
-		//"wrap_lodef"			"1"
-	}
-	"SwitchCamModeKeyLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"SwitchCamModeKeyLabel"
-		"xpos"			"5"		
-		"ypos"			"10"	
-		"wide"			"60"
-		"tall"			"20"
-		
-		
-		//"visible"		"1"	//[$WIN32]
-		////"visible_minmode"		"0"
-		
-		
-		"labelText"		"#TF_Spectator_ChangeTeam"
-		"textAlignment"		"east"
-		"font"			"SpectatorKeyHints"
-		
-	}
-	"SwitchCamModeLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"SwitchCamModeLabel"
-		"xpos"			"80"
-		"ypos"			"10"	
-		"wide"			"125"
-		"tall"			"20"
-		
-		
-		//"visible"		"1"	//[$WIN32]
-		////"visible_minmode"		"0"
-		
-		
-		"labelText"		"#TF_Spectator_SwitchCamMode"
-		//"textAlignment"		"west"
-		"font"			"SpectatorKeyHints"
-	}
-	"CycleTargetFwdKeyLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"CycleTargetFwdKeyLabel"
-		"xpos"			"5"	
-		"ypos"			"20"
-		"wide"			"60"
-		"tall"			"20"
-		
-		
-		//"visible"		"1"	//[$WIN32]
-		////"visible_minmode"		"0"
-		
-		
-		"labelText"		"#TF_Spectator_ClassOrTeamKey"
-		"textAlignment"		"east"
-		"font"			"SpectatorKeyHints"
-	}
-	"CycleTargetFwdLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"CycleTargetFwdLabel"
-		"xpos"			"80"	
-		"ypos"			"20"	
-		"wide"			"125"
-		"tall"			"20"
-		
-		
-		//"visible"		"1"	//[$WIN32]
-		////"visible_minmode"		"0"
-		
-		
-		"labelText"		"#TF_Spectator_CycleTargetFwd"
-		//"textAlignment"		"west"
-		"font"			"SpectatorKeyHints"
-	}
-	"CycleTargetRevKeyLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"CycleTargetRevKeyLabel"
-		"xpos"			"5"
-		"ypos"			"30"		
-		"wide"			"60"	
-		"tall"			"20"
-		
-		
-		//"visible"		"1"	//[$WIN32]
-		////"visible_minmode"		"0"
-		
-		
-		"labelText"		"#TF_Spectator_ClassOrTeamKey"
-		"textAlignment"		"east"
-		"font"			"SpectatorKeyHints"
-	}
-	"CycleTargetRevLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"CycleTargetRevLabel"
-		"xpos"			"80"
-		"ypos"			"30"	
-
-	
-		"wide"			"125"
-		"tall"			"20"
-		
-		
-		//"visible"		"1"	//[$WIN32]
-		////"visible_minmode"		"0"
-		
-		
-		"labelText"		"#TF_Spectator_CycleTargetRev"
-		//"textAlignment"		"west"
-		"font"			"SpectatorKeyHints"
-	}
-	"TipLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"TipLabel"
-		"xpos"			"15"
-		//"xpos_hidef"	"60"
-		//"xpos_lodef"	"45"
-		"ypos"			"r67"
-		//"ypos_lodef"		"28"
-		//"ypos_hidef"		"35"
-		"wide"			"145"
-		//"wide_hidef"	"230"
-		//"wide_lodef"	"240"
-		"tall"			"64"
-		//"tall_hidef"	"70"
-		//"tall_lodef"	"70"
-		
-		
-		//"visible"		"1"
-		////"visible_minmode"		"0"
-		
-		"labelText"		"%tip%"
-		"textAlignment"		"center"
-		"font"			"SpectatorKeyHints"
-		//"font_hidef"	"HudFontSmall"
-		//"font_lodef"	"DefaultVerySmall"
-		"wrap"			"1"
 	}
 	"itempanel"
 	{

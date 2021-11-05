@@ -11,7 +11,7 @@
 		"tall"			"36"
 		
 		
-		//"visible"		"1"
+		"visible"		"1"
 		
 		"labelText"		"1 Scout"
 		//"textAlignment"	"Left"
@@ -31,7 +31,7 @@
 		"tall"			"36"
 		
 		
-		//"visible"		"1"
+		"visible"		"1"
 		
 		"labelText"		"2 Soldier"
 		//"textAlignment"	"Left"
@@ -51,7 +51,7 @@
 		"tall"			"36"
 		
 		
-		//"visible"		"1"
+		"visible"		"1"
 		
 		"labelText"		"3 Pyro"
 		//"textAlignment"	"Left"
@@ -71,7 +71,7 @@
 		"tall"			"36"
 		
 		
-		//"visible"		"1"
+		"visible"		"1"
 		
 		"labelText"		"4 Demoman"
 		//"textAlignment"	"Left"
@@ -91,7 +91,7 @@
 		"tall"			"36"
 		
 		
-		//"visible"		"1"
+		"visible"		"1"
 		
 		"labelText"		"5 Heavy"
 		//"textAlignment"	"Left"
@@ -111,7 +111,7 @@
 		"tall"			"36"
 		
 		
-		//"visible"		"1"
+		"visible"		"1"
 		
 		"labelText"		"6 Engineer"
 		//"textAlignment"	"Left"
@@ -131,7 +131,7 @@
 		"tall"			"36"
 		
 		
-		//"visible"		"1"
+		"visible"		"1"
 		
 		"labelText"		"7 Medic"
 		//"textAlignment"	"Left"
@@ -151,7 +151,7 @@
 		"tall"			"36"
 		
 		
-		//"visible"		"1"
+		"visible"		"1"
 		
 		"labelText"		"8 Sniper"
 		//"textAlignment"	"Left"
@@ -171,7 +171,7 @@
 		"tall"			"36"
 		
 		
-		//"visible"		"1"
+		"visible"		"1"
 		
 		"labelText"		"9 Spy"
 		//"textAlignment"	"Left"
@@ -191,7 +191,7 @@
 		"tall"			"36"
 		
 		
-		//"visible"		"1"
+		"visible"		"1"
 		
 		"labelText"		"0 Cancel"
 		"textAlignment"	"Center"

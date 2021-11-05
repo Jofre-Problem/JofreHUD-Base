@@ -24,13 +24,6 @@
 #base "../base/build-more/titlelabel/content1.res"
 #base "../base/build-more/titlelabel/position/tall38.res"
 #base "../base/build-more/titlelabel/text/left.res"
-
-#base "../base/build-more/titlelabelshadow/main.res"
-#base "../base/build-more/titlelabelshadow/font/giantbold.res"
-#base "../base/build-more/titlelabelshadow/content1.res"
-#base "../base/build-more/titlelabelshadow/position/tall38.res"
-#base "../base/build-more/titlelabelshadow/text/left.res"
-
 #base "../base/build-more/cancellabel/main.res"
 #base "../base/build-more/cancellabel/ctrl/cex.res"
 #base "../base/build-more/cancellabel/autopin0.res"

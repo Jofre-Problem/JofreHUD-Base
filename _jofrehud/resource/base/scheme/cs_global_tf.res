@@ -25,7 +25,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"			
+				"name"		"Segoe UI"			
 				"tall"		"16"
 			}
 		}
@@ -33,7 +33,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 				"tall"		"16"
 				//"italic"	"0"
@@ -43,7 +43,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 				"tall"		"16"
 			}
@@ -52,7 +52,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 				"tall"		"16"
 				//"italic"	"0"

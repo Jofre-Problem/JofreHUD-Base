@@ -1,7 +1,5 @@
 "GameMenu" //[$WIN32]
 {
-	// These buttons are only shown while in-game
-	// and also are positioned by the .res file
 	"CallVoteButton"
 	{
 		"label"			""

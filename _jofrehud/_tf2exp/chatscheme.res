@@ -49,7 +49,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"12"
 			}
 		}
@@ -80,7 +80,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"12"
 				//"dropshadow"	"1"
 			}

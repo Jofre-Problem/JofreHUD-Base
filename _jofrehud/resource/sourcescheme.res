@@ -8,14 +8,14 @@ Scheme
         {
 			"1"
 			{
-			"name"           "Calibri"
+			"name"           "Segoe UI"
 			}
 		}	
 		"MainMenuFont"
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 			}
 		}
@@ -24,7 +24,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 			}
 		}
@@ -33,7 +33,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"			
+				"name"		"Segoe UI"			
 				"tall"		"14"
 			}
 		}
@@ -42,27 +42,27 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 			}
 			"2"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 			}
 			"3"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 			}
 			"4"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 			}
 			"5"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 			}
 		}
@@ -72,7 +72,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 			}
 		}
@@ -81,7 +81,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 			}
 		}
@@ -90,7 +90,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				
 			}
 		}

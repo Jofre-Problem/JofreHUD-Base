@@ -64,7 +64,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"10"
 			}
 		}
@@ -73,7 +73,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"7"
 			}
 		}
@@ -81,7 +81,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Calibri"
+				"name"		 "Segoe UI"
 				"tall"		"10"
 				//"weight"	"0"
 				//"outline"	"1"
@@ -91,7 +91,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				//"weight"	"500"
 			}
@@ -100,7 +100,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				//"weight"	"1000"
 			}
@@ -109,7 +109,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				//"weight"	"500"
 				"underline" "1"
@@ -119,7 +119,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"12"
 				//"weight"	"0"
 			}
@@ -128,7 +128,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"13"
 				//"weight"	"0"
 				//"dropshadow" "1"
@@ -138,7 +138,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"12"
 				//"weight"	"0"
 			}
@@ -148,7 +148,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"18"
 				//"weight"	"0"
 			}
@@ -157,7 +157,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"12"
 				//"weight"	"1000"
 			}
@@ -166,7 +166,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				//"weight"	"600"
 				//"antialias" "1"
@@ -176,7 +176,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Calibri"
+				"name"		 "Segoe UI"
 				"tall"		"10"
 				//"weight"	"500"
 			}
@@ -201,7 +201,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Calibri"
+				"name"		 "Segoe UI"
 				"tall"		"10"
 				//"weight"	"0"
 			}
@@ -217,7 +217,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Calibri"
+				"name"		 "Segoe UI"
 				"tall"		"10"
 				//"weight"	"0"
 				//"dropshadow" "1"
@@ -234,7 +234,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				//"weight"	"500"
 			}
@@ -243,7 +243,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				//"weight"	"500"
 			}
@@ -252,7 +252,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				////"weight"	"900"
 			}
@@ -261,7 +261,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"16"
 				////"weight"	"900"
 			}
@@ -271,7 +271,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"72"
 			}
 		}
@@ -280,7 +280,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Calibri"
+				"name"		"Segoe UI"
 				"tall"		"120"
 			}
 		}
