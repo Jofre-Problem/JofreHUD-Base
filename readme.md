@@ -47,6 +47,7 @@ TF2:
 - confirmcustomizetexturedialog.res (-> ypos "00" on line 217, 218, 378, 686 & 834)
 - hudlayout.res (HudAlert has "enable" instead of "enabled")
 - HudPasstimeBallStatus (multiple "//xpos")
+
 HL2:
 - changegamedialog.res (missing from the entire .vpk files, yet, game tries to load it)
 - askconnectpanel.res (-> wrong fieldnames on line 25)
