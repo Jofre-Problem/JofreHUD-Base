@@ -1,1 +1,1 @@
-#base "q_e_btn.res"
+#base "econ/q_e_btn.res"
