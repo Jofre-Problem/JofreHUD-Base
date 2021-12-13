@@ -1,8 +1,7 @@
 //takes priority
 "servers/InternetGamesPage.res"
 {
-	"Background"
-	{
-		//"tabposition"	"0"
-	}
-}
+"Background"
+{
+//"tabposition""0"
+}}

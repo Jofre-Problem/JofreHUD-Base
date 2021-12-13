@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"OKButton"
-	{
-		"textAlignment"		"east"
-	}	
-}	
+"OKButton"
+{
+"textAlignment""east"
+}}

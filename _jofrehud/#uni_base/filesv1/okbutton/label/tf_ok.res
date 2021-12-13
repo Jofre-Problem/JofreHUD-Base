@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"OKButton"
-	{
-		"labelText"		"#TF_OK"
-	}	
-}	
+"OKButton"
+{
+"labelText""#TF_OK"
+}}

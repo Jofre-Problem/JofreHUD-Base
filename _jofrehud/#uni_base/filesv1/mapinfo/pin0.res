@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"mapinfo"
-	{
-		//"pinCorner"		"0"
-	}
-}	
+"mapinfo"
+{
+//"pinCorner""0"
+}}

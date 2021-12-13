@@ -1,8 +1,7 @@
 "Resource/CommentaryItem.res"
 {
-	"classimage"
-	{
-		"ControlName"	"ImagePanel"
-		"scaleImage"	"1"
-	}
-}	
+"classimage"
+{
+"ControlName""ImagePanel"
+"scaleImage""1"
+}}

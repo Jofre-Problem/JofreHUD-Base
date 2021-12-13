@@ -1,8 +1,7 @@
 //takes priority
 "servers/InternetGamesPage.res"
 {
-	"ConfirmDialog"
-	{
-		"tall"			"200"
-	}
-}
+"ConfirmDialog"
+{
+"tall""200"
+}}

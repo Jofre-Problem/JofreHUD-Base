@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"CloseButton"
-	{
-		"tall"		"24"
-	}	
-}	
+"CloseButton"
+{
+"tall""24"
+}}

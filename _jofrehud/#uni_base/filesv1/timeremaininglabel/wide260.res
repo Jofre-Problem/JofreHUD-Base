@@ -1,7 +1,6 @@
 "Resource/NewOperationDialog.res"
 {
-	"TimeRemainingLabel"
-	{
-		"wide"		"260"
-	}
-}	
+"TimeRemainingLabel"
+{
+"wide""260"
+}}

@@ -1,7 +1,6 @@
 "Resource/PlayerListDialog.res"
 {
-	"Cancel"
-	{
-		"pinCorner"		"3"
-	}
-}
+"Cancel"
+{
+"pinCorner""3"
+}}

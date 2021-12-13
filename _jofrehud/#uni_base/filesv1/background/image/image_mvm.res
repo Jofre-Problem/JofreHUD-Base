@@ -1,8 +1,7 @@
 //takes priority
 "servers/InternetGamesPage.res"
 {
-	"Background"
-	{
-	"image"			"../HUD/tournament_panel_brown"
-	}
-}
+"Background"
+{
+"image""../HUD/tournament_panel_brown"
+}}

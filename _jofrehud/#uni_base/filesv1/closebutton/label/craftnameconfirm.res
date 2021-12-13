@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"CloseButton"
-	{
-		"labelText"		"#CraftNameConfirm"
-	}	
-}	
+"CloseButton"
+{
+"labelText""#CraftNameConfirm"
+}}

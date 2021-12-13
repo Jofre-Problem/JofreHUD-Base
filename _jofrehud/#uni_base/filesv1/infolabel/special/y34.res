@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"InfoLabel"
-	{
-		"ypos"		"34"
-	}	
-}	
+"InfoLabel"
+{
+"ypos""34"
+}}

@@ -1,7 +1,6 @@
 "Resource/PlayerListDialog.res"
 {
-	"Ok"
-	{
-		"command"		"okay"
-	}
-}
+"Ok"
+{
+"command""okay"
+}}

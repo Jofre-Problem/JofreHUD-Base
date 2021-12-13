@@ -1,8 +1,7 @@
 //takes priority
 "servers/InternetGamesPage.res"
 {
-	"CancelButton"
-	{
-		//"autoResize"		"0"
-	}
-}
+"CancelButton"
+{
+//"autoResize""0"
+}}

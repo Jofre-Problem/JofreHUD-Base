@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"CloseButton"
-	{
-		"labelText"		"#GameUI_Close"
-	}	
-}	
+"CloseButton"
+{
+"labelText""#GameUI_Close"
+}}

@@ -1,7 +1,6 @@
 "Resource/NewOperationDialog.res"
 {
-	"RightSideBG"
-	{
-		"xpos"			"c-140"
-	}	
-}	
+"RightSideBG"
+{
+"xpos""c-140"
+}}

@@ -1,7 +1,6 @@
 "Resource/obj_dispenser.res"
 {
-	"Divider2"
-	{
-		"tall"		"2"
-	}
-}	
+"Divider2"
+{
+"tall""2"
+}}

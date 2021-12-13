@@ -1,8 +1,7 @@
 //takes priority
 "servers/InternetGamesPage.res"
 {
-	"Button1"
-	{
-		"Default"		"1"
-	}
-}
+"Button1"
+{
+"Default""1"
+}}

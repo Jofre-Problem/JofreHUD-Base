@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"MapLabel"
-	{
-		"ControlName"		"CExLabel"
-	}	
-}	
+"MapLabel"
+{
+"ControlName""CExLabel"
+}}

@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"OKButton"
-	{
-		"zpos"		"1"
-	}	
-}	
+"OKButton"
+{
+"zpos""1"
+}}

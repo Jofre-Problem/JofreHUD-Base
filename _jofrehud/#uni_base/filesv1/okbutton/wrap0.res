@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"OKButton"
-	{
-		"wrap"		"0"
-	}	
-}	
+"OKButton"
+{
+"wrap""0"
+}}

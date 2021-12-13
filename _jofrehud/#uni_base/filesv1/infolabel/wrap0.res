@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"InfoLabel"
-	{
-		"wrap"		"0"
-	}	
-}	
+"InfoLabel"
+{
+"wrap""0"
+}}

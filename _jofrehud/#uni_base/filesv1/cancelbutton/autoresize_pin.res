@@ -1,9 +1,8 @@
 #base "auto.res"
 "servers/InternetGamesPage.res"
 {
-	"CancelButton"
-	{
+"CancelButton"
+{
 
-		//"pinCorner"		"0"
-	}
-}
+//"pinCorner""0"
+}}

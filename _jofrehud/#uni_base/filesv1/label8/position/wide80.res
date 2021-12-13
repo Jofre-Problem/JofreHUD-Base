@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"Label8"
-	{
-		"wide"		"80"
-	}	
-}	
+"Label8"
+{
+"wide""80"
+}}

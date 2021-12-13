@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"ConfirmButton"
-	{
-		//"pinCorner"		"0"
-	}	
-}	
+"ConfirmButton"
+{
+//"pinCorner""0"
+}}

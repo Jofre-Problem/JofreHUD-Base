@@ -1,8 +1,7 @@
 //takes priority
 "servers/InternetGamesPage.res"
 {
-	"Background"
-	{
-		"ControlName"	"CTFImagePanel"		
-	}
-}
+"Background"
+{
+"ControlName""CTFImagePanel"
+}}

@@ -1,7 +1,6 @@
 "Resource/CommentaryItem.res"
 {
-	"classimage"
-	{
-		"enabled"	"1"
-	}
-}	
+"classimage"
+{
+"enabled""1"
+}}

@@ -1,7 +1,6 @@
 "friends/AddFriendResultSubPanel.res"
 {
-	"Label1"
-	{
-		"textAlignment"		"west"
-	}
-}
+"Label1"
+{
+"textAlignment""west"
+}}

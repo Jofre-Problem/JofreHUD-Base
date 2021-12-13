@@ -1,8 +1,7 @@
 //takes priority
 "servers/InternetGamesPage.res"
 {
-	"Button1"
-	{
-		"tabPosition"		"4"
-	}
-}
+"Button1"
+{
+"tabPosition""4"
+}}}

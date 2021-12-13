@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"ConfirmButton"
-	{
-		"labelText"		"#IT_OK"
-	}	
-}	
+"ConfirmButton"
+{
+"labelText""#IT_OK"
+}}

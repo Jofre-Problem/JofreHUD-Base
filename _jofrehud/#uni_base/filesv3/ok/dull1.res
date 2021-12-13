@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"Ok"
-	{
-		"dulltext"		"1"
-	}	
-}	
+"Ok"
+{
+"dulltext""1"
+}}

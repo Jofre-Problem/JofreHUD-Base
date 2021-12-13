@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"mapinfo"
-	{
-		"enabled"	"1"
-	}
-}	
+"mapinfo"
+{
+"enabled""1"
+}}

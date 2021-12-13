@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"StartButton"
-	{
-		//"brighttext"		"0"
-	}	
-}	
+"StartButton"
+{
+//"brighttext""0"
+}}

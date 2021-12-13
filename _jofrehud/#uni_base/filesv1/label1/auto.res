@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"Label1"
-	{
-		//"autoResize"		"0"
-	}	
-}	
+"Label1"
+{
+//"autoResize""0"
+}}

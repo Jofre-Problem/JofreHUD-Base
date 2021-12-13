@@ -1,7 +1,6 @@
 "Resource/label_vac.res"
 {
-	"LoadingDialog"
-	{
-		"ypos"		"360"
-	}
-}	
+"LoadingDialog"
+{
+"ypos""360"
+}}

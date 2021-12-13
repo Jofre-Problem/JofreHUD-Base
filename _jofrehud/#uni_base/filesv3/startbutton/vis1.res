@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"StartButton"
-	{
-		"visible"		"1"
-	}	
-}	
+"StartButton"
+{
+"visible""1"
+}}

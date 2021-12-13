@@ -1,7 +1,6 @@
 "Resource/NewOperationDialog.res"
 {
-	"SaveButton"
-	{
-		"ypos"		"490"
-	}
-}	
+"SaveButton"
+{
+"ypos""490"
+}}

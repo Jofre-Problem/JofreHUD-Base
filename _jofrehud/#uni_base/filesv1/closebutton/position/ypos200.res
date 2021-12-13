@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"CloseButton"
-	{
-		"ypos"			"200"
-	}	
-}	
+"CloseButton"
+{
+"ypos""200"
+}}

@@ -1,7 +1,6 @@
 "Resource/PlayerListDialog.res"
 {
-	"Button2"
-	{
-		"tabPosition"		"17"
-	}
-}
+"Button2"
+{
+"tabPosition""17"
+}}

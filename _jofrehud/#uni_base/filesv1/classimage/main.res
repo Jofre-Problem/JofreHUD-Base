@@ -1,7 +1,6 @@
 "Resource/CommentaryItem.res"
 {
-	"ClassImage"
-	{
-		"FieldName"		"ClassImage"
-	}
-}	
+"ClassImage"
+{
+"FieldName""ClassImage"
+}}

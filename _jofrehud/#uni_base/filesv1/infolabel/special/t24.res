@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"InfoLabel"
-	{
-		"tall"		"24"
-	}	
-}	
+"InfoLabel"
+{
+"tall""24"
+}}

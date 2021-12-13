@@ -1,7 +1,6 @@
 "Resource/PlayerListDialog.res"
 {
-	"Cancel"
-	{
-		"tall"		"24"
-	}
-}
+"Cancel"
+{
+"tall""24"
+}}

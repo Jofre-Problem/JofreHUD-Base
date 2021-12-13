@@ -1,7 +1,6 @@
 "Resource/CommentaryItem.res"
 {
-	"DeleteButton"
-	{
-		//"enabled"		"1"
-	}
-}	
+"DeleteButton"
+{
+////"enabled""1"
+}}

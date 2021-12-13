@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"mapinfo"
-	{
-		"autoResize"	"3"
-	}
-}	
+"mapinfo"
+{
+"autoResize""3"
+}}

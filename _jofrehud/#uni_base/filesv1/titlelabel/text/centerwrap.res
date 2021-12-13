@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"TitleLabel"
-	{
-		"centerwrap"		"1"
-	}	
-}	
+"TitleLabel"
+{
+"centerwrap""1"
+}}

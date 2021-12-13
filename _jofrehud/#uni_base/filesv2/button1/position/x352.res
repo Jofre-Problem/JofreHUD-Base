@@ -1,7 +1,7 @@
 //takes priority
 "servers/InternetGamesPage.res"
 {
-	"Button1"
-	{
-		"xpos"		"352"
-	}
+"Button1"
+{
+"xpos""352"
+}}

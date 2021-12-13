@@ -1,7 +1,6 @@
 "Resource/PlayerListDialog.res"
 {
-	"Button2"
-	{
-		"wide"			"80"
-	}
-}
+"Button2"
+{
+"wide""80"
+}}

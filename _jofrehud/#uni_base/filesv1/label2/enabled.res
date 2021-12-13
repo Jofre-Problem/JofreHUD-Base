@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"Label2"
-	{
-		//"enabled"		"1"
-	}	
-}	
+"Label2"
+{
+////"enabled""1"
+}}

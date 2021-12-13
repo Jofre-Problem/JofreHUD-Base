@@ -1,7 +1,6 @@
 "Resource/label_vac.res"
 {
-	"LoadingDialog"
-	{
-		"tall"		"436"
-	}
-}	
+"LoadingDialog"
+{
+"tall""436"
+}}

@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"MapLabel"
-	{
-		"fieldName"		"MapLabel"
-	}	
-}	
+"MapLabel"
+{
+"fieldName""MapLabel"
+}}

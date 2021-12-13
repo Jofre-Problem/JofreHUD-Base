@@ -1,7 +1,6 @@
 "Resource/PlayerListDialog.res"
 {
-	"Button2"
-	{
-		"Default"		"1"
-	}
-}
+"Button2"
+{
+"Default""1"
+}}

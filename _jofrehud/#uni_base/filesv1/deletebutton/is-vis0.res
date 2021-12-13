@@ -1,7 +1,6 @@
 "Resource/CommentaryItem.res"
 {
-	"DeleteButton"
-	{
-		"visible"		"0"
-	}
-}	
+"DeleteButton"
+{
+"visible""0"
+}}

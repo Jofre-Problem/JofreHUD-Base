@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"TitleLabel"
-	{
-		"textAlignment"		"north-west"
-	}	
-}	
+"TitleLabel"
+{
+"textAlignment""north-west"
+}}

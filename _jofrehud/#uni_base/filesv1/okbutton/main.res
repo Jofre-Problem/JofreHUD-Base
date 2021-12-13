@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"OKButton"
-	{
-		"fieldName"		"OKButton"
-	}		
-}	
+"OKButton"
+{
+"fieldName""OKButton"
+}}

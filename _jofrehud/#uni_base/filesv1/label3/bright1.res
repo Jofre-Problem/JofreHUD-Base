@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"Label3"
-	{
-		"brighttext"		"1"
-	}	
-}	
+"Label3"
+{
+"brighttext""1"
+}}

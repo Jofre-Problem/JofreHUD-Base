@@ -1,7 +1,6 @@
 "Resource/PlayerListDialog.res"
 {
-	"Button2"
-	{
-		"labelText"		"#GameUI_Close"
-	}
-}
+"Button2"
+{
+"labelText""#GameUI_Close"
+}}

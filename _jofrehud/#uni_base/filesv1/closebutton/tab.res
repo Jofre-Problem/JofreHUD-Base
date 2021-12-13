@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"CloseButton"
-	{
-		"tabPosition"		"0"
-	}	
-}	
+"CloseButton"
+{
+"tabPosition""0"
+}}

@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"Label12"
-	{
-		"textAlignment"		"west"
-	}	
-}	
+"Label12"
+{
+"textAlignment""west"
+}}

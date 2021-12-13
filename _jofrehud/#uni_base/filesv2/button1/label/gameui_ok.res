@@ -1,8 +1,7 @@
 //takes priority
 "servers/InternetGamesPage.res"
 {
-	"Button1"
-	{
-		"labelText"		"#GameUI_OK"
-	}
-}
+"Button1"
+{
+"labelText""#GameUI_OK"
+}}

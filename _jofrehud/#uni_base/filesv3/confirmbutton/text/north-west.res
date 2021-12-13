@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"ConfirmButton"
-	{
-		"textAlignment"		"north-west"
-	}	
-}	
+"ConfirmButton"
+{
+"textAlignment""north-west"
+}}

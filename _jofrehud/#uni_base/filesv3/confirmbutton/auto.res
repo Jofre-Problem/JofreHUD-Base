@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"ConfirmButton"
-	{
-		//"autoResize"		"0"
-	}	
-}	
+"ConfirmButton"
+{
+//"autoResize""0"
+}}

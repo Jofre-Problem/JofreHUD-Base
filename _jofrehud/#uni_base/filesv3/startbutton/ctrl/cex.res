@@ -1,7 +1,6 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"StartButton"
-	{
-		"ControlName"		"CExButton"
-	}	
-}	
+"StartButton"
+{
+"ControlName""CExButton"
+}}
