@@ -48,6 +48,7 @@ TF2:
 - hudlayout.res (HudAlert has "enable" instead of "enabled")
 
 HL2:
+- changegamedialog.res (missing from the entire .vpk files, yet, game tries to load it)
 - askconnectpanel.res (-> wrong fieldnames on line 25)
 - bxelementpropertiestree.res (-> this on line 48 (""ElementTreeToolbar"")
 - itemtest_scheme.res (-> duplicated defined border "ScrollBarButtonBorder" on lines 576 & 735)
