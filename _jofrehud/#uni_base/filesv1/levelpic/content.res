@@ -6,7 +6,7 @@
 "ypos""40"
 "wide""168"
 "tall""106"
-}}
+}
 "LevelPic"
 {
 "xpos""10"

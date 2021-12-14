@@ -13,7 +13,7 @@
 "visible""1"
 ////"enabled""1"
 "tabPosition""0"
-}}
+}
 "frame_bottomGrip"
 {
 "ControlName""Panel"
@@ -25,7 +25,7 @@
 "visible""1"
 ////"enabled""1"
 "tabPosition""0"
-}}
+}
 "frame_leftGrip"
 {
 "ControlName""Panel"
@@ -38,7 +38,7 @@
 "visible""1"
 ////"enabled""1"
 "tabPosition""0"
-}}
+}
 "frame_rightGrip"
 {
 "ControlName""Panel"
@@ -50,7 +50,7 @@
 "visible""1"
 ////"enabled""1"
 "tabPosition""0"
-}}
+}
 "frame_tlGrip"
 {
 "ControlName""Panel"
@@ -64,7 +64,7 @@
 "visible""1"
 ////"enabled""1"
 "tabPosition""0"
-}}
+}
 "frame_trGrip"
 {
 "ControlName""Panel"
@@ -78,7 +78,7 @@
 "visible""1"
 ////"enabled""1"
 "tabPosition""0"
-}}
+}
 "frame_blGrip"
 {
 "ControlName""Panel"
@@ -92,7 +92,7 @@
 "visible""1"
 ////"enabled""1"
 "tabPosition""0"
-}}
+}
 "frame_brGrip"
 {
 "ControlName""Panel"
@@ -104,7 +104,7 @@
 "visible""1"
 ////"enabled""1"
 "tabPosition""0"
-}}
+}
 "frame_caption"
 {
 "ControlName""Panel"
@@ -117,7 +117,7 @@
 "visible""1"
 ////"enabled""1"
 "tabPosition""0"
-}}
+}
 "frame_minimize"
 {
 "ControlName""Button"
@@ -137,7 +137,7 @@
 //"brighttext""0"
 "wrap""0"
 "Default""0"
-}}
+}
 "frame_maximize"
 {
 "ControlName""Button"
@@ -157,7 +157,7 @@
 //"brighttext""0"
 "wrap""0"
 "Default""0"
-}}
+}
 "frame_mintosystray"
 {
 "ControlName""Button"
@@ -178,7 +178,7 @@
 "wrap""0"
 "Command""MinimizeToSysTray"
 "Default""0"
-}}
+}
 "frame_close"
 {
 "ControlName""Button"
@@ -197,7 +197,7 @@
 //"brighttext""0"
 "wrap""0"
 "Default""0"
-}}
+}
 "frame_menu"
 {
 "ControlName""FrameSystemButton"

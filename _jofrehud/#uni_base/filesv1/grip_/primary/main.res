@@ -9,7 +9,7 @@
 "visible""1"
 ////"enabled""1"
 "tabPosition""0"
-}}
+}
 "BottomGrip"
 {
 "ControlName""Panel"
@@ -19,7 +19,7 @@
 "visible""1"
 ////"enabled""1"
 "tabPosition""0"
-}}
+}
 "LeftGrip"
 {
 "ControlName""Panel"
@@ -29,7 +29,7 @@
 "visible""1"
 ////"enabled""1"
 "tabPosition""0"
-}}
+}
 "RightGrip"
 {
 "ControlName""Panel"

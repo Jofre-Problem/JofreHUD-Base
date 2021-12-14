@@ -8,7 +8,7 @@
 //"dulltext""0"
 "brighttext""0"
 "Command""accept"
-}}
+}
 "DeclineButton"
 {
 "fieldName""DeclineButton"

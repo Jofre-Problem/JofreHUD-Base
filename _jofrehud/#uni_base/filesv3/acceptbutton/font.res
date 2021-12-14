@@ -3,7 +3,7 @@
 "AcceptButton"
 {
 "font""HudFontSmallest"
-}}
+}
 "DeclineButton"
 {
 "font""HudFontSmallest"

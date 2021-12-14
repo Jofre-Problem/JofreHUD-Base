@@ -11,7 +11,7 @@
 "tabPosition""0"
 "textAlignment""west"
 //"dulltext""0"
-}}
+}
 "topVertLeft"
 {
 "ControlName""Label"
@@ -23,7 +23,7 @@
 "tabPosition""0"
 "textAlignment""west"
 //"dulltext""0"
-}}
+}
 "bottomHorizRight"
 {
 "ControlName""Label"
@@ -35,7 +35,7 @@
 "tabPosition""0"
 "textAlignment""west"
 //"dulltext""0"
-}}
+}
 "bottomVertRight"
 {
 "ControlName""Label"
