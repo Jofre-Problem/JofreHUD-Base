@@ -12,5 +12,3 @@
 "image""../hud/objectives_flagpanel_bg_left"
 "scaleImage""1"
 }}
-
-}
