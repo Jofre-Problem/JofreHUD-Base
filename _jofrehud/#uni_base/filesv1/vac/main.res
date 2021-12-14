@@ -14,7 +14,7 @@
 "textAlignment""west"
 //"dulltext""0"
 //"brighttext""0"
-}}
+}
 "VACImage"
 {
 "ControlName""ImagePanel"
@@ -25,7 +25,6 @@
 //"pinCorner""0"
 "visible""1"
 ////"enabled""1"
-"border"""
 "scaleimage""1"
 "image""resource/icon_vac"
 }}
