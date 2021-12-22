@@ -1,2 +1,2 @@
-#base "../_jofrehud/resource/replayevents.res"
-#base "../_tf2hud/resource/replayevents.res"
+#base "+experimental/replayevents.res"
+#base "../_jofrehud/_tf2exp/null.res"

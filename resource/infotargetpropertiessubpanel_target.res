@@ -1,1 +1,2 @@
-#base	"../_jofrehud/_tf2exp/null.res"
+#base "../_jofrehud/resource/infotargetpropertiessubpanel_target.res"
+#base "../_tf2hud/resource/resource/infotargetpropertiessubpanel_target.res"

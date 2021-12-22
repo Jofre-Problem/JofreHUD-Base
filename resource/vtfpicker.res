@@ -1,1 +1,2 @@
-#base	"../_jofrehud/_tf2exp/null.res"
+#base "../_jofrehud/resource/vtfpicker.res"
+#base "../_tf2hud/root/resource/vtfpicker.res"

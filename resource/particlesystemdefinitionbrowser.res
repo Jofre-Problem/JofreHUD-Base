@@ -1,1 +1,2 @@
-#base	"../_jofrehud/_tf2exp/null.res"
+#base "../_jofrehud/resource/particlesystemdefinitionbrowser.res"
+#base "../_tf2hud/resource/resource/particlesystemdefinitionbrowser.res"

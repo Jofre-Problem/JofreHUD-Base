@@ -1,19 +1,4 @@
-\\#base "base_active_teleport_target.res"
-
-"Resource/UI/build_menu/tele_exit_active.res"
-{
-	"ItemNameLabel"
-	{	
-		"labelText"		"#TF_Object_Tele_Exit_360"
-	}
-	
-	"BuildingIcon"	
-	{
-		"icon"			"hud_menu_tele_exit_build"
-	}
-	
-	"NumberLabel"
-	{	
-		"actionName"	"menu_right"
-	}
-}
+	#base	"..\..\..\#users\custom\resource\ui\build_menu_sc\eureka_target_tele_exit_avail.res"
+	#base	"..\..\..\_stream\resource\ui\build_menu_sc\eureka_target_tele_exit_avail.res"
+	#base	"..\..\..\_jofrehud\resource\ui\build_menu_sc\eureka_target_tele_exit_avail.res"
+	#base	"..\..\..\_tf2hud\resource\ui\build_menu_sc\eureka_target_tele_exit_avail.res"
