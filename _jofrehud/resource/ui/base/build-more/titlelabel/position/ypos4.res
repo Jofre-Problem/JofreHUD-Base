@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
 {
-	"TitleLabel"
-	{	
-		"ypos"			"4"
-	}
-}	
+"TitleLabel"
+{
+"ypos""4"
+}
+}

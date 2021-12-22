@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
 {
-	"TitleLabel"
-	{	
-		"textAlignment"	"north-west"
-	}
-}	
+"TitleLabel"
+{
+"textAlignment""north-west"
+}
+}

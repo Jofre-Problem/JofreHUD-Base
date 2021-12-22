@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"HorizontalLine"
-	{
-		//"visible"		"1"
-	}
-}	
+"HorizontalLine"
+{
+//"visible""1"
+}
+}

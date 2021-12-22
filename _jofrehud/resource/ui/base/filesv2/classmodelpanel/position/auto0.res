@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"classmodelpanel"
-	{
-		//"autoResize"		"0"
-	}
+"classmodelpanel"
+{
+//"autoResize""0"
+}
 }

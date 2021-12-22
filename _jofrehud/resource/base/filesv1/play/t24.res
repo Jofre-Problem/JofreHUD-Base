@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"Play"
-	{
-		"tall"		"24"
-	}	
-}	
+"Play"
+{
+"tall""24"
+}
+}

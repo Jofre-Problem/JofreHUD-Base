@@ -15,18 +15,18 @@
 #base "cs_global.res"
 Scheme
 {
-	BaseSettings
-	{
-		TextEntry.TextColor			"215 215 215 255"
-	}
-	Fonts
-	{
-		"ChatFont"
-		{
-			"1"
-			{
-				"tall"			"10"
-			}
-		}
-	}
+BaseSettings
+{
+"TextEntry.TextColor""215 215 215 255"
+}
+Fonts
+{
+"ChatFont"
+{
+"1"
+{
+"tall""10"
+}
+}
+}
 }

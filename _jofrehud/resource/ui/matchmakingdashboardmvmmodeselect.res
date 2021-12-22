@@ -123,8 +123,8 @@
 			//"navLeft"		"Sheet"
 			//"navRight"		"PracticeButton"
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
 			"armedFgColor_override"		"TanLight"
@@ -244,8 +244,8 @@
 			//"navLeft"		"PlayNowButton"
 			//"navRight"		"StartPartyButton"
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
 			"armedFgColor_override"		"TanLight"

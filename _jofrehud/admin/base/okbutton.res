@@ -22,7 +22,7 @@
 	//	//"autoResize"		"0"
 	//	//"pinCorner"		"0"
 	//	"visible"		"1"
-	//	//"enabled"		"1"
+	//	////"enabled"		"1"
 	//	"labelText"		"OK"
 	//	"textAlignment"		"west"
 	//	//"dulltext"		"0"

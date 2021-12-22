@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"RankPanel"
-	{
-			"matchgroup"	"MatchGroup_Ladder_6v6"
-	}
-}	
+"RankPanel"
+{
+"matchgroup""MatchGroup_Ladder_6v6"
+}
+}

@@ -1,7 +1,7 @@
 Scheme
 {
-	BaseSettings
-	{	
-	CheckButton.TextColor			"OffWhite"
-	}		
+BaseSettings
+{
+C"heckButton.TextColor""OffWhite"
+}
 }

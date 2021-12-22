@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"OkClose"
-	{
-		"Command"		"ok"
-	}
-}	
+"OkClose"
+{
+"Command""ok"
+}
+}

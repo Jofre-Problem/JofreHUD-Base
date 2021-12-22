@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
-{	
-	"NumberBg"	
-	{
-		"iconColor"		"255 255 255 128"
-	}
-}	
+{
+"NumberBg"
+{
+"iconColor""255 255 255 128"
+}
+}

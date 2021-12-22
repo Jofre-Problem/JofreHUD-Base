@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"Play"
-	{
-		//"pinCorner"		"0"
-	}	
-}	
+"Play"
+{
+//"pinCorner""0"
+}
+}

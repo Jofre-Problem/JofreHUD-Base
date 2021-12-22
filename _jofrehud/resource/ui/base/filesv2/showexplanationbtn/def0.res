@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"ShowExplanationsButton"
-	{
-		"default"		"0"
-	}
+"ShowExplanationsButton"
+{
+"default""0"
+}
 }

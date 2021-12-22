@@ -1,8 +1,8 @@
 "Resource/UI/FlagStatus.res"
 {
-	"PreviewImage"
-	{
-		"fieldName"		"PreviewImage"
-		"visible"	"1"
-	}
+"PreviewImage"
+{
+"fieldName""PreviewImage"
+"visible""1"
+}
 }

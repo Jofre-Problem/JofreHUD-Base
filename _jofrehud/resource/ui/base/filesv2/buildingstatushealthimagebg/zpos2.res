@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"BuildingStatusHealthImageBG"
-	{
-		"zpos"			"2"
-	}				
+"BuildingStatusHealthImageBG"
+{
+"zpos""2"
+}
 }

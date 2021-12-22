@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"ExplanationLabel"
-	{
-		"textAlignment"		"North"
-	}	
-}	
+"ExplanationLabel"
+{
+"textAlignment""North"
+}
+}

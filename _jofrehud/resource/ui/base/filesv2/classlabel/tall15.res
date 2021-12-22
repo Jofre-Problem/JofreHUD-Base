@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"ClassLabel"
-	{
-		"tall"		"15"
-	}	
-}	
+"ClassLabel"
+{
+"tall""15"
+}
+}

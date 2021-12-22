@@ -1,7 +1,7 @@
 "Resource/baseaction_sys.res"
 {
-	"CancelHintIcon"
-	{
-		//"pinCorner"		"0"
-	}
+"CancelHintIcon"
+{
+//"pinCorner""0"
+}
 }

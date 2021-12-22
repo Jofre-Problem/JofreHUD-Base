@@ -1,4 +1,4 @@
-//#base "../resource/#bases/1sysmenu.res"
+//#base "../resource/base/1sysmenu.res"
 #base "base/okaybutton.res"
 #base "base/okaybutton_label.res"
 #base "base/label1_main.res"

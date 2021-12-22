@@ -1,8 +1,8 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"SpectatorGUIHealth"
-	{
-		"TFFont"		"HudFontSmall"
-		"TextColor"		"HudOffWhite"
-	}			
-}	
+"SpectatorGUIHealth"
+{
+"TFFont""HudFontSmall"
+"TextColor""HudOffWhite"
+}
+}

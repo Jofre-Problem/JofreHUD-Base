@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"Icon"
-	{
-		//"visible"		"1"
-	}
+"Icon"
+{
+//"visible""1"
+}
 }

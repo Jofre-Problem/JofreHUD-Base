@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
 {
-	"TitleLabelDropshadow"
-	{	
-		"font"			"HudFontGiant"
-	}
-}	
+"TitleLabelDropshadow"
+{
+"font""HudFontGiant"
+}
+}

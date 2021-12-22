@@ -1,4 +1,4 @@
-//#base "../resource/#bases/1sysmenu.res"
+//#base "../resource/base/1sysmenu.res"
 #base "base/okbutton.res"
 #base "base/okbutton_tab.res"
 #base "base/cancelbutton_tabis3.res"
@@ -37,7 +37,7 @@
 		"tall"		"24"
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
-		//"enabled"		"1"
+		////"enabled"		"1"
 
 		"textHidden"		"0"
 		"editable"		"1"

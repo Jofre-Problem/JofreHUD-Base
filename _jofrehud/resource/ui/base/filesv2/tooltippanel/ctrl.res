@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"ToolTipPanel"
-	{
-		"ControlName"	"EditablePanel"
-	}
+"ToolTipPanel"
+{
+"ControlName""EditablePanel"
+}
 }

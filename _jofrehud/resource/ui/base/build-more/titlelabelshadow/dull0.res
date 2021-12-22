@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
 {
-	"TitleLabelDropshadow"
-	{	
-		"dulltext"	"0"
-	}
-}	
+"TitleLabelDropshadow"
+{
+"dulltext""0"
+}
+}

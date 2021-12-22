@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
 {
-	"NumberLabel"
-	{	
-		"font"			"HudMenuNumberFont"
-	}
-}	
+"NumberLabel"
+{
+"font""HudMenuNumberFont"
+}
+}

@@ -1,4 +1,4 @@
-//#base "../../resource/#bases/1sysmenu.res"
+//#base "../../resource/base/1sysmenu.res"
 #base "../chattextlog_2.res"
 #base "../textentry_2.res"
 #base "../textentry_2_yps_510.res"

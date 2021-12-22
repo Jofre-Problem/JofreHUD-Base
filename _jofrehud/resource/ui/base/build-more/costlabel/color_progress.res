@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
-{	
-	"CostLabel"	
-	{
-			"fgcolor"		"ProgressOffWhite"
-	}
-}	
+{
+"CostLabel"
+{
+"fgcolor""ProgressOffWhite"
+}
+}

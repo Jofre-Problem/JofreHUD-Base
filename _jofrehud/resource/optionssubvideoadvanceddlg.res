@@ -23,7 +23,7 @@
 #base "../#uni_base/filesv1/button2/def/command-close.res"
 #base "../#uni_base/filesv1/divider2/main.res"
 #base "../#uni_base/filesv1/divider2/tallis2.res"
-#base "../#uni_base/filesv1/fovslider/main.res
+#base "../#uni_base/filesv1/fovslider/main.res"
 
 #base "../#uni_base/filesv2/button1/main.res"
 

@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
-{	
-	"MetalIcon"	
-	{
-		"iconColor"		"255 0 0 255"
-	}
-}	
+{
+"MetalIcon"
+{
+"iconColor""255 0 0 255"
+}
+}

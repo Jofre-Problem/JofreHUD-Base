@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"OkClose"
-	{
-		"textAlignment"		"west"
-	}
-}	
+"OkClose"
+{
+"textAlignment""west"
+}
+}

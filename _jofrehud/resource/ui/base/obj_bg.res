@@ -6,11 +6,11 @@
 #base "../../../#uni_base/filesv1/background/position/y_0.res"
 "Resource/baseaction_sys.res"
 {
-	"Background"
-	{
-		"ControlName"	"CIconPanel"
-		"zpos"			"-1"
-		"wide"			"120"
-		"iconColor"		"255 255 255 255"
-	}
+"Background"
+{
+"ControlName""CIconPanel"
+"zpos""-1"
+"wide""120"
+"iconColor""255 255 255 255"
+}
 }

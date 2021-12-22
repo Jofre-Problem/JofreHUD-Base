@@ -1,8 +1,8 @@
 Scheme
 {
-	BaseSettings
-	{	
-	FrameTitleBar.DisabledBgColor	"Blank"
+BaseSettings
+{
+"FrameTitleBar.DisabledBgColor""Blank"
 
-	}		
+}
 }

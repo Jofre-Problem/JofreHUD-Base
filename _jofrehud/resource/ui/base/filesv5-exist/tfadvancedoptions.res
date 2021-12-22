@@ -1,6 +1,6 @@
 "resource/ui/replayinput.res"
 {
-	"TFAdvancedOptionsDialog"
-	{
-	}
+"TFAdvancedOptionsDialog"
+{
+}
 }

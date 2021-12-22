@@ -1,7 +1,7 @@
 "Resource/UI/ItemRenameConfirmationDialog.res"
 {
-	"text"
-	{
-		//"visible"		"1"
-	}
+"text"
+{
+//"visible""1"
+}
 }

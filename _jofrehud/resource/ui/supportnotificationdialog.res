@@ -11,7 +11,7 @@
 #base "../../#uni_base/filesv1/titlelabel/enabled.res"
 
 #base "../../#uni_base/filesv3/confirmbutton/ctrl/cex.res"
-#base "../../#uni_base/filesv3/confirmbutton/ctrl/main.res"
+#base "../../#uni_base/filesv3/confirmbutton/main.res"
 #base "../../#uni_base/filesv3/confirmbutton/position/zpos20.res"
 #base "../../#uni_base/filesv3/confirmbutton/position/tall25.res"
 #base "../../#uni_base/filesv3/confirmbutton/def1.res"

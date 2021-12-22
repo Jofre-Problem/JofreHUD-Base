@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
 {
-	"TitleLabelDropshadow"
-	{	
-		"tall"			"38"
-	}
-}	
+"TitleLabelDropshadow"
+{
+"tall""38"
+}
+}

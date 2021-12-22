@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"MapName"
-	{
-		"wide"		"90"
-	}
-}	
+"MapName"
+{
+"wide""90"
+}
+}

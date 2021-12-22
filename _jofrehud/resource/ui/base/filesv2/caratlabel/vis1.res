@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"CaratLabel"
-	{
-		"visible" "1"
-	}
-}	
+"CaratLabel"
+{
+"visible" "1"
+}
+}

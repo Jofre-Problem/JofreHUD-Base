@@ -1,7 +1,7 @@
 "Resource/baseaction_sys.res"
 {
-	"CancelHintLabel"
-	{
-		"xpos"			"42"
-	}
+"CancelHintLabel"
+{
+"xpos""42"
+}
 }

@@ -2,5 +2,5 @@
 #base "base/filesv1/rankpanel/main.res"
 #base "base/filesv1/rankpanel/cpvp.res"
 #base "base/filesv1/rankpanel/content1.res"
-#base "base/filesv1/rankpanel/show.res"
+#base "base/filesv1/rankpanel/show_name0.res"
 #base "base/filesv1/rankpanel/matchgroup_12.res"

@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
-{	
-	"MainBackground"	
-	{
-		"fieldName"		"MainBackground"
-	}
-}	
+{
+"MainBackground"
+{
+"fieldName""MainBackground"
+}
+}

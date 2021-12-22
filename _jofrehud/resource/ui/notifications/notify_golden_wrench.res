@@ -1,4 +1,4 @@
-#base "base/notifcation.res"
+#base "base/notification.res"
 #base "base/icon/xp_7.res"
 
 #base "base/bg/wide_140.res"

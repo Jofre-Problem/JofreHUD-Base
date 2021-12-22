@@ -11,7 +11,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"0"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"labelText"		""
 		"textAlignment"		"center"
 		"font"			"HudFontSmall"

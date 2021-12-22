@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"ToolTipPanel"
-	{
-		"tall"			"50"
-	}
+"ToolTipPanel"
+{
+"tall""50"
+}
 }

@@ -2,5 +2,5 @@
 {
 "InfoLabel"
 {
-"labelText"""
+"labelText" ""
 }}

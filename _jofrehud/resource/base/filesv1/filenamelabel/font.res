@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"FileNameLabel"
-	{
-		"font"			"DefaultVerySmall"
-	}
-}	
+"FileNameLabel"
+{
+"font""DefaultVerySmall"
+}
+}

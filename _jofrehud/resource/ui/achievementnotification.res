@@ -1,4 +1,4 @@
-#base "notifications/base/notifcation.res"
+#base "notifications/base/notification.res"
 #base "notifications/base/icon/yp_9.res"
 #base "notifications/base/icon/wt_20.res"
 #base "../../#uni_base/filesv1/titlelabel/controlname/label.res"
@@ -9,6 +9,6 @@
 #base "../../#uni_base/filesv1/titlelabel/enabled.res"
 #base "../../#uni_base/filesv1/titlelabel/text/center.res"
 #base "../../#uni_base/filesv1/titlelabel/dull0.res"
-#base "../../#uni_base/filesv1/titlelabel/bright0.res"
+#base "../../#uni_base/filesv1/titlelabel/bright.res"
 #base "../../#uni_base/filesv1/titlelabel/position/tall20.res"
 #base "../../#uni_base/filesv1/titlelabel/position/wide220.res"

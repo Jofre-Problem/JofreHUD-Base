@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"ConfirmLabel"
-	{
-		"centerwrap"	"1"
-	}
-}	
+"ConfirmLabel"
+{
+"centerwrap""1"
+}
+}

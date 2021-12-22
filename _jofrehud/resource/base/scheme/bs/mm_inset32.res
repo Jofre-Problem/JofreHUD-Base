@@ -1,8 +1,8 @@
 
 Scheme
 {
-	BaseSettings
-	{	
-		MainMenu.Inset				"32"
-	}		
+BaseSettings
+{
+"MainMenu.Inset""32"
+}
 }

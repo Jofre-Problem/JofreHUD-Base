@@ -18,7 +18,7 @@
 			"wide"			"45"
 			"tall"			"110"		
 			//"visible"		"1"
-			//"enabled"		"1"
+			////"enabled"		"1"
 			"scaleImage"	"1"	
 			"icon"			"hud_menu_item_bg_outline"
 			"iconColor"		"231 235 205 255"

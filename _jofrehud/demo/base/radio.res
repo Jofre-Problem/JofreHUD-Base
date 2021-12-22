@@ -11,7 +11,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 
 		"textAlignment"		"west"
 		"default"		"0"
@@ -21,7 +21,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 
 	}
@@ -34,7 +34,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 	}	
 	"RadioDesc3"
@@ -45,7 +45,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 	}	
 	"RadioDesc4"
@@ -57,7 +57,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 	}
 

@@ -1,4 +1,4 @@
-#base "../../../../#bases/reloadscheme.res"
+#base "../../../../base/reloadscheme.res"
 #base "../../../base/filesv1/itemrename/mouseoveritem.res"
 "Resource/UI/StoreHome_Winter2.res"
 {
@@ -234,8 +234,8 @@
 		//"brighttext"	"0"
 		//"Default"		"1"
 		"Command"		"startshopping"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 	
 	"TextContainerPanel"

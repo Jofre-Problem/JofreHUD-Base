@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"classmodelpanel"
-	{
-		//"pinCorner"		"0"
-	}
+"classmodelpanel"
+{
+//"pinCorner""0"
+}
 }

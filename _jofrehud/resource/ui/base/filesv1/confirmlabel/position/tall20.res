@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"ConfirmLabel"
-	{
-		"tall"	"20"
-	}
-}	
+"ConfirmLabel"
+{
+"tall""20"
+}
+}

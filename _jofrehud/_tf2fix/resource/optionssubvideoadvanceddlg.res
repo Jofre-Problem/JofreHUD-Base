@@ -813,8 +813,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"Label11"
 		"xpos"		"18"
-		"ypos"		"442" [!$OSX]
-		"ypos"		"310" [$OSX]
+		"ypos"		"442"
 		"wide"		"280"
 		"tall"		"24"
 		
@@ -892,7 +891,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"11"
+		//test1//"tabPosition"		"11"
 		"leftText"		"0.00"
 		"rightText"		"1.00"
 		"minvalue"		"75"

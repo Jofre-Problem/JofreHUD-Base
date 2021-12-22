@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"ReplayList"
-	{
-		"fieldName"			"ReplayList"
-	}	
-}	
+"ReplayList"
+{
+"fieldName""ReplayList"
+}
+}

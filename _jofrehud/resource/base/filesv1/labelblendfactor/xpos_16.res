@@ -1,7 +1,7 @@
 "Resource/baseaction_grip.res"
 {
-	"LabelBlendFactor"
-	{
-		"xpos"		"16"
-	}
+"LabelBlendFactor"
+{
+"xpos""16"
+}
 }

@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"PlayerStatusHealthBonusImage"
-	{
-		"zpos"			"3"
-	}				
+"PlayerStatusHealthBonusImage"
+{
+"zpos""3"
+}
 }

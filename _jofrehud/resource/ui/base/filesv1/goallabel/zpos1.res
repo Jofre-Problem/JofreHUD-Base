@@ -1,7 +1,7 @@
 "Resource/baseaction_sys.res"
 {
-	"GoalLabel"
-	{	
-		"zpos"		"1"
-	}
+"GoalLabel"
+{
+"zpos""1"
+}
 }

@@ -1,6 +1,6 @@
 "resource/ui/replayinput.res"
 {
-	"MutePlayerDialog"
-	{
-	}
+"MutePlayerDialog"
+{
+}
 }

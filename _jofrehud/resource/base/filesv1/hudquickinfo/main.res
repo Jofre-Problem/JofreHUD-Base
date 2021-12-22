@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	HUDQuickInfo
-	{
-		"fieldName" "HUDQuickInfo"
-	}
-}	
+HUDQuickInfo
+{
+"fieldName" "HUDQuickInfo"
+}
+}

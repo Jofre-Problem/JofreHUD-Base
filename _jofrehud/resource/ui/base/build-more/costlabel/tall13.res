@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
 {
-	"CostLabel"
-	{	
-		"tall"			"13"
-	}
-}	
+"CostLabel"
+{
+"tall""13"
+}
+}

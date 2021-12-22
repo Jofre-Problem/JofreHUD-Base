@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
 {
-	"TitleLabelDropshadow"
-	{	
-		"textAlignment"	"Left"
-	}
-}	
+"TitleLabelDropshadow"
+{
+"textAlignment""Left"
+}
+}

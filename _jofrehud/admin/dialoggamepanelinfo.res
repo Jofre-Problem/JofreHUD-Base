@@ -1,4 +1,4 @@
-//#base "../resource/#bases/1sysmenu.res"
+//#base "../resource/base/1sysmenu.res"
 #base "base/graphpanel.res"
 #base "base/serverlog.res"
 #base "base/playerlist.res"
@@ -16,7 +16,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"0"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 	}
 	"ServerConfigPanel"
@@ -30,7 +30,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"0"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 	}
 	"BudgetPanel"
@@ -56,7 +56,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 	}
 }

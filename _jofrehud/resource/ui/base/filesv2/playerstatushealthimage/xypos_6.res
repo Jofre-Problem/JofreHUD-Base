@@ -1,8 +1,8 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"PlayerStatusHealthImage"
-	{
-		"xpos"			"6"
-		"ypos"			"6"
-	}				
+"PlayerStatusHealthImage"
+{
+"xpos""6"
+"ypos""6"
+}
 }

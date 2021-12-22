@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"CaratLabel"
-	{
-		"ypos"			"20"
-	}
-}	
+"CaratLabel"
+{
+"ypos""20"
+}
+}

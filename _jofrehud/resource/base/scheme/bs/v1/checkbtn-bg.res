@@ -1,7 +1,7 @@
 Scheme
 {
-	BaseSettings
-	{	
-	CheckButton.BgColor				"TransparentBlack"
-	}		
+BaseSettings
+{
+"CheckButton.BgColor""TransparentBlack"
+}
 }

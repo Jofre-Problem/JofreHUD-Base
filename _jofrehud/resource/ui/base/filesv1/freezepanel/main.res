@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	FreezePanel
-	{
-		"fieldName"				"FreezePanel"
-	}
-}	
+FreezePanel
+{
+"fieldName""FreezePanel"
+}
+}

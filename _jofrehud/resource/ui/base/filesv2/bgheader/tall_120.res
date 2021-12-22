@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"BackgroundHeader"
-	{
-		"tall"			"120"
-	}	
+"BackgroundHeader"
+{
+"tall""120"
+}
 }

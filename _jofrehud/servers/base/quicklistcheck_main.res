@@ -11,7 +11,7 @@
 		//"autoResize"		"0"
 		"PinCorner"		"2"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"6"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_QuickListCheck"

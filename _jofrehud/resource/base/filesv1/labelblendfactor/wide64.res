@@ -1,7 +1,7 @@
 "Resource/baseaction_grip.res"
 {
-	"LabelBlendFactor"
-	{
-		"wide"		"64"
-	}
+"LabelBlendFactor"
+{
+"wide""64"
+}
 }

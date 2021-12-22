@@ -1,8 +1,8 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"SpectatorGUIHealth"
-	{
-		//"visible"		"1"
-		//"enabled"		"1"	
-	}		
-}	
+"SpectatorGUIHealth"
+{
+//"visible""1"
+////"enabled""1"
+}
+}

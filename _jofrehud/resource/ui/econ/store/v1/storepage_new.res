@@ -1,4 +1,4 @@
-#base "../../../../#bases/reload_scheme.res"
+#base "../../../../base/reload_scheme.res"
 #base "base/showexplanationbtn.res"
 #base "../vjofre/itempreviewbtn_1.res"
 #base "../vjofre/storepreviewitem_1.res"

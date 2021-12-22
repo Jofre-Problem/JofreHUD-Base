@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"Play"
-	{
-		"Command"		"play"
-	}	
-}	
+"Play"
+{
+"Command""play"
+}
+}

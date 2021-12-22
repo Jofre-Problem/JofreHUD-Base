@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"RankPanel"
-	{
-		"ypos"			"-147"
-	}
-}	
+"RankPanel"
+{
+"ypos""-147"
+}
+}

@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
-{	
-	"MainBackground"
-	{
-		"ypos"	"10"
-	}
-}	
+{
+"MainBackground"
+{
+"ypos""10"
+}
+}

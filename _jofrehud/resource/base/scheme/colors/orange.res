@@ -1,8 +1,8 @@
 
 Scheme
 {
-	Colors
-	{	
-		"Orange"			"255 155 0 255"
-	}		
+Colors
+{
+"Orange""255 155 0 255"
+}
 }

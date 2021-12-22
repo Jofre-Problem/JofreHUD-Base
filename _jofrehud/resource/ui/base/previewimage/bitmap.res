@@ -1,7 +1,7 @@
 "Resource/UI/FlagStatus.res"
 {
-	"PreviewImage"
-	{
-		"ControlName"		"CBitmapPanel"
-	}
+"PreviewImage"
+{
+"ControlName""CBitmapPanel"
+}
 }

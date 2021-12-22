@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
-{	
-	"MainBackground"	
-	{
-		//"enabled"		"1"
-	}
-}	
+{
+"MainBackground"
+{
+////"enabled""1"
+}
+}

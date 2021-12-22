@@ -9,7 +9,7 @@
 		"tall"			"20"
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"labelText"		"#TF_Spectator_CycleTargetFwd"
 		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"

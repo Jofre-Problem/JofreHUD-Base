@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
 {
-	"TitleLabel"
-	{	
-		"textAlignment"	"Left"
-	}
-}	
+"TitleLabel"
+{
+"textAlignment""Left"
+}
+}

@@ -24,5 +24,3 @@
 #base "base/filesv2/playerstatushealthvalue/font.res"
 #base "base/filesv2/playerstatushealthvalue/wt20.res"
 #base "base/filesv2/playerstatushealthvalue/xypos_6.res"
-
-#base "res_base/spectatorguihealth.res"

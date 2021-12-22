@@ -1,4 +1,4 @@
-//#base "#bases/1sysmenu.res"
+//#base "base/1sysmenu.res"
 #base "../#uni_base/filesv1/label1/main.res"
 #base "../#uni_base/filesv1/label1/auto.res"
 #base "../#uni_base/filesv1/label1/pin.res"

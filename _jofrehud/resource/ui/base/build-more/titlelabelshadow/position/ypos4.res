@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
 {
-	"TitleLabelDropshadow"
-	{	
-		"ypos"			"4"
-	}
-}	
+"TitleLabelDropshadow"
+{
+"ypos""4"
+}
+}

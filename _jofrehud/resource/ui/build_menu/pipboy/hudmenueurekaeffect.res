@@ -17,7 +17,7 @@
 
 #base "../../base/build-more/titlelabel/main.res"
 #base "../../base/build-more/titlelabel/font/giant.res"
-#base "../../base/build-more/titlelabel/position/content1.res"
+#base "../../base/build-more/titlelabel/position/3198135.res"
 #base "../../base/build-more/titlelabel/position/tall38.res"
 s"
 #base "../../base/build-more/titlelabel/text/left.res"

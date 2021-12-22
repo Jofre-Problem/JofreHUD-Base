@@ -12,7 +12,7 @@
 			"wide"			"8"
 			"tall"			"8"
 			"visible"		"0"
-			//"enabled"		"1"
+			////"enabled"		"1"
 			"scaleImage"	"1"	
 			"icon"			"obj_status_upgrade_1"
 			"iconColor"		"255 255 255 255"

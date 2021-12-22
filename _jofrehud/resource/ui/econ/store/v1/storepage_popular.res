@@ -1,4 +1,4 @@
-#base "../../../../#bases/reload_scheme.res"
+#base "../../../../base/reload_scheme.res"
 #base "base/showexplanationbtn.res"
 #base "../vjofre/curpagelabel_1.res"
 #base "../vjofre/previewbg_1.res"

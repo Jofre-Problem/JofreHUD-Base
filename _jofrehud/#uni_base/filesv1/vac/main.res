@@ -25,6 +25,7 @@
 //"pinCorner""0"
 "visible""1"
 ////"enabled""1"
+//"border"""
 "scaleimage""1"
 "image""resource/icon_vac"
 }}

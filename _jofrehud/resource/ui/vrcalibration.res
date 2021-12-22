@@ -16,7 +16,7 @@
 #base "../../#uni_base/filesv1/closebutton/auto.res"
 #base "../../#uni_base/filesv1/closebutton/dull0.res"
 #base "../../#uni_base/filesv1/closebutton/bright0.res"
-#base "../../#uni_base/filesv1/closebutton/tab0.res"
+#base "../../#uni_base/filesv1/closebutton/tab.res"
 #base "../../#uni_base/filesv1/closebutton/cmd/close.res"
 #base "../../#uni_base/filesv1/closebutton/font/hudfontsmallbold.res"
 #base "../../#uni_base/filesv1/closebutton/sound.res"

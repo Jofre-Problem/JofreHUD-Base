@@ -13,7 +13,7 @@ Scheme
 		}		
 		/////////////////////////////////////
 		// TF2 MISSING FONT FOR ALL THESE YEARS
-		// xboxdialogs.res and build engi stuff / replay stuff
+		// xboxdialogs.res" and build engi stuff / replay stuff
 		"HudMenuNumberFont"	
 		{
 			"1"

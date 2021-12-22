@@ -1,9 +1,9 @@
 
 Scheme
 {
-	BaseSettings
-	{	
-		GraphPanel.FgColor				"White"
-		GraphPanel.BgColor				"TransparentBlack"
-	}		
+BaseSettings
+{
+"GraphPanel.FgColor""White"
+"GraphPanel.BgColor""TransparentBlack"
+}
 }

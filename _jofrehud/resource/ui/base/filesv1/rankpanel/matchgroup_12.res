@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"RankPanel"
-	{
-		"matchgroup"	"MatchGroup_Casual_12v12"
-	}
-}	
+"RankPanel"
+{
+"matchgroup""MatchGroup_Casual_12v12"
+}
+}

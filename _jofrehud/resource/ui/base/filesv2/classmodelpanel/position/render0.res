@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"classmodelpanel"
-	{
-		"render_texture"	"0"
-	}
+"classmodelpanel"
+{
+"render_texture""0"
+}
 }

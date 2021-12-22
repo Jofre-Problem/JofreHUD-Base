@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"ExplanationLabel"
-	{
-		"ControlName"	"Label"
-	}	
-}	
+"ExplanationLabel"
+{
+"ControlName""Label"
+}
+}

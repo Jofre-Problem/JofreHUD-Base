@@ -1,8 +1,8 @@
 
 Scheme
 {
-	BaseSettings
-	{	
-		ScrollBar.Wide					17
-	}		
+BaseSettings
+{
+"ScrollBar.Wide"  "17"
+}
 }

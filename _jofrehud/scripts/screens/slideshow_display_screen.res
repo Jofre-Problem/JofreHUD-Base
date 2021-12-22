@@ -12,9 +12,9 @@
 		"zpos"			"-3"
 		"wide"			"256"
 		"tall"			"128"
-		//"autoResize"	"0"
+		////"autoResize"	"0"
 		"visible"		"0"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"scaleImage"	"0"
 		"fillcolor"		"255 255 255 255"
 	}

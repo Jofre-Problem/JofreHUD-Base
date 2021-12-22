@@ -30,7 +30,7 @@
 #base "../../../#uni_base/filesv1/titlelabel/enabled.res"
 
 #base "../../../#uni_base/filesv3/confirmbutton/ctrl/cex.res"
-#base "../../../#uni_base/filesv3/confirmbutton/ctrl/main.res"
+#base "../../../#uni_base/filesv3/confirmbutton/main.res"
 #base "../../../#uni_base/filesv3/confirmbutton/position/tall40.res"
 #base "../../../#uni_base/filesv3/confirmbutton/auto.res"
 #base "../../../#uni_base/filesv3/confirmbutton/pin.res"

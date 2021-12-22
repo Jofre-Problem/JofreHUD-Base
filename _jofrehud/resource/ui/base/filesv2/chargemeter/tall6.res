@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"ChargeMeter"
-	{
-		"tall"			"6"
-	}				
+"ChargeMeter"
+{
+"tall""6"
+}
 }

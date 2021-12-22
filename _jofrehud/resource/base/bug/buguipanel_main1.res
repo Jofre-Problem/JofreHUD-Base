@@ -1,9 +1,9 @@
 "Resource\BugUIPanel.res"
 {
-	"BugUIPanel"
-	{
-		"xpos"		"340"
-		"ypos"		"272"
-		"wide"		"600"
-	}
-}	
+"BugUIPanel"
+{
+"xpos""340"
+"ypos""272"
+"wide""600"
+}
+}

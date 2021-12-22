@@ -10,7 +10,7 @@
 		//"autoResize"		"0"
 		"pinCorner"		"2"
 		"visible"		"0"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 		"labelText"		"Last message received at:"
 		"textAlignment"		"west"

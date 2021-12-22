@@ -1,8 +1,8 @@
 
 Scheme
 {
-	Colors
-	{	
-	//	"DullWhite"			"0 0 0 100"
-	}		
+Colors
+{
+//"DullWhite""0 0 0 100"
+}
 }

@@ -1,8 +1,8 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"RecipeItemModelPanel"
-	{
-		"ControlName"	"CItemModelPanel"
-		"fieldName"		"RecipeItemModelPanel"
-	}
-}	
+"RecipeItemModelPanel"
+{
+"ControlName""CItemModelPanel"
+"fieldName""RecipeItemModelPanel"
+}
+}

@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"CaratLabel"
-	{
-		"xpos"			"c-300"
-	}
-}	
+"CaratLabel"
+{
+"xpos""c-300"
+}
+}

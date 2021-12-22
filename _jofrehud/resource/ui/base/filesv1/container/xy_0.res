@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"Container"
-	{
-		"zpos"		"1"
-	}						
-}	
+"Container"
+{
+"zpos""1"
+}
+}

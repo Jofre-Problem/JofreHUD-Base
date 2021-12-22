@@ -1,7 +1,7 @@
 "Resource/PlayerListDialog.res"
 {
-	"Clip Slider"
-	{
-		"wide"		"1544"
-	}
+"Clip Slider"
+{
+"wide""1544"
+}
 }

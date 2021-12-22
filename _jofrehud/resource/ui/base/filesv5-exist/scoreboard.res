@@ -1,7 +1,7 @@
 "Resource/UI/Scoreboard.res"
 {
-	"scores"
-	{
-	
-	}
+"scores"
+{
+
+}
 }

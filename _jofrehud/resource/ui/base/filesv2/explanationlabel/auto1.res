@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"ExplanationLabel"
-	{
-		"autoresize"		"1"
-	}	
-}	
+"ExplanationLabel"
+{
+"autoresize""1"
+}
+}

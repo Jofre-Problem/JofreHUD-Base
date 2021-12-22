@@ -1,8 +1,8 @@
 "Resource/EngineVGuiLayout.res"
 {
-	ReplayReminder
-	{
-		"fieldName"		"ReplayReminder"
-		"visible"		"0"
-	}		
-}	
+ReplayReminder
+{
+"fieldName""ReplayReminder"
+"visible""0"
+}
+}

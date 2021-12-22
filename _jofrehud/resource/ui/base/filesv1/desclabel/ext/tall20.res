@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"DescriptionLabel"
-	{
-		"tall"	"20"
-	}
-}	
+"DescriptionLabel"
+{
+"tall""20"
+}
+}

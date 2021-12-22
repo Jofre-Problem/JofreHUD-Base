@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"ProgressBar"
-	{
-		"scaleImage"	"1"	
-	}		
-}	
+"ProgressBar"
+{
+"scaleImage""1"
+}
+}

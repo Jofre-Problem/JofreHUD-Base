@@ -8,7 +8,7 @@
 		"wide"			"76"
 		"tall"			"24"
 		//"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"image"			"../hud/color_panel_brown"
 		"scaleImage"		"1"	
 		"teambg_2"		"../hud/color_panel_blu"	// Reversed, due to showing killer's name
@@ -30,7 +30,7 @@
 		"wide"			"20"
 		"tall"			"10"
 		//"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"image"			"../hud/freezecam_callout_arrow"
 		"scaleImage"	"1"	
 	}
@@ -42,7 +42,7 @@
 		"zpos"			"2"
 		//"pinCorner"		"0"
 		//"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"textAlignment"	"center"
 		//"dulltext"		"0"
 		"brighttext"	"0"

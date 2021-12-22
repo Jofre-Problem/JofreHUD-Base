@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"FileNameLabel"
-	{
-		"textAlignment"		"west"
-	}
-}	
+"FileNameLabel"
+{
+"textAlignment""west"
+}
+}

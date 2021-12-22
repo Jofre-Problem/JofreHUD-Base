@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"DescriptionLabel"
-	{
-		"visible"	"1"
-	}
-}	
+"DescriptionLabel"
+{
+"visible""1"
+}
+}

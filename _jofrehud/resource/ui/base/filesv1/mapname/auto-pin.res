@@ -1,8 +1,8 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"mapname"
-	{
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
-	}
-}	
+"mapname"
+{
+////"autoResize""0"
+//"pinCorner""0"
+}
+}

@@ -1,8 +1,8 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"mapname"
-	{
-		"visible"		"0"
-		"enabled"		"0"
-	}				
-}	
+"mapname"
+{
+"visible""0"
+"enabled""0"
+}
+}

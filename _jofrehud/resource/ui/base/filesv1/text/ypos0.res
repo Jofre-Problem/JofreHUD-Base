@@ -1,7 +1,7 @@
 "Resource/UI/ItemRenameConfirmationDialog.res"
 {
-	"text"
-	{
-		"ypos"		"0"
-	}
+"text"
+{
+"ypos""0"
+}
 }

@@ -1,7 +1,7 @@
 "resource/ui/replayinput.res"
 {
-	MainMenuOverride
-	{
-	}
+MainMenuOverride
+{
+}
 // base stuff like rankmodelpanel and rankpanel breaks if this is not included :/
 }

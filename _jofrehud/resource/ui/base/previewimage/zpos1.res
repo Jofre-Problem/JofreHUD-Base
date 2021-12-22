@@ -1,7 +1,7 @@
 "Resource/UI/FlagStatus.res"
 {
-	"PreviewImage"
-	{
-		"zpos"			"1"
-	}		
+"PreviewImage"
+{
+"zpos""1"
+}
 }

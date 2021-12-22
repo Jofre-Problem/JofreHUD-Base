@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
-{	
-	"MainBackground"	
-	{
-		"scaleImage"	"1"	
-	}
-}	
+{
+"MainBackground"
+{
+"scaleImage""1"
+}
+}

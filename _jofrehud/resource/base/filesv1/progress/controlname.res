@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"progress"
-	{
-		"ControlName"		"ProgressBar"
-	}
-}	
+"progress"
+{
+"ControlName""ProgressBar"
+}
+}

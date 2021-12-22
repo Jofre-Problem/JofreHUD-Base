@@ -1,10 +1,10 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"DialogFrame"
-	{
-		"ItemNameLabel"
-		{
-			"xpos"			"240"
-		}		
-	}	
-}	
+"DialogFrame"
+{
+"ItemNameLabel"
+{
+"xpos""240"
+}
+}
+}

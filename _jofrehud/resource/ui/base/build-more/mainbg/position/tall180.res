@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
-{	
-	"MainBackground"
-	{
-		"tall"	"180"
-	}
-}	
+{
+"MainBackground"
+{
+"tall""180"
+}
+}

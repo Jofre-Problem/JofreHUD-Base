@@ -816,7 +816,7 @@
 		//"pinCorner"		"3"
 		//"visible"		"0"
 		
-		//"tabPosition"		"11"
+		////test1//"tabPosition"		"11"
 		////"labelText"		"8"
 		////"textAlignment"		"west"
 	} 

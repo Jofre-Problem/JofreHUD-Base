@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"CaratLabel"
-	{
-		"font"			"HudFontMediumSmall"
-	}
-}	
+"CaratLabel"
+{
+"font""HudFontMediumSmall"
+}
+}

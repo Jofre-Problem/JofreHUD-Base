@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"PlayerListScroller"
-	{
-		"ypos"			"80"
-	}	
-}	
+"PlayerListScroller"
+{
+"ypos""80"
+}
+}

@@ -5,8 +5,8 @@
 
 Scheme
 {
-	BaseSettings
-	{
-		"BgColor"			"Transparent"		// basically the bg color of SPY WATCH
-	}	
+BaseSettings
+{
+"BgColor""Transparent"// basically the bg color of SPY WATCH
+}
 }

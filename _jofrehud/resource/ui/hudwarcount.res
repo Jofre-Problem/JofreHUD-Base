@@ -13,4 +13,4 @@
 #base "../../#uni_base/filesv1/titlelabel/enabled.res"
 #base "../../#uni_base/filesv1/titlelabel/text/north.res"
 #base "../../#uni_base/filesv1/titlelabel/dull0.res"
-#base "../../#uni_base/filesv1/titlelabel/bright0.res"
+#base "../../#uni_base/filesv1/titlelabel/bright.res"

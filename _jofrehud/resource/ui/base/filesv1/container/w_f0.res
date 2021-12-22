@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"Container"
-	{
-		"wide"			"f0"
-	}						
-}	
+"Container"
+{
+"wide""f0"
+}
+}

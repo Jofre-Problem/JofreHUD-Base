@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"classmodelpanel"
-	{
-		"allow_manip"		"1"
-	}
+"classmodelpanel"
+{
+"allow_manip""1"
+}
 }

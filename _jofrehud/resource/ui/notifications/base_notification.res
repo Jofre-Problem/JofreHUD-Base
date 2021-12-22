@@ -1,4 +1,4 @@
-#base "base/notifcation.res"
+#base "base/notification.res"
 #base "base/icon/xp_7.res"
 #base "base/icon/yp_9.res"
 #base "base/icon/wt_20.res"

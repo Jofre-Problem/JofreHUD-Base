@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"MapName"
-	{
-	//	"textAlignment"	"west"
-	}
-}	
+"MapName"
+{
+//"textAlignment""west"
+}
+}

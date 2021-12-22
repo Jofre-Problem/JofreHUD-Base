@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"CaratLabel"
-	{
-		//"autoResize"		"0"
-	}
-}	
+"CaratLabel"
+{
+//"autoResize""0"
+}
+}

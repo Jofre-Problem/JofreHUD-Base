@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"classmodelpanel"
-	{
-		"allow_rot"		"1"
-	}
+"classmodelpanel"
+{
+"allow_rot""1"
+}
 }

@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"DescriptionLabel"
-	{
-		"wide"	"330"
-	}
-}	
+"DescriptionLabel"
+{
+"wide""330"
+}
+}

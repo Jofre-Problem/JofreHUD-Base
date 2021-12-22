@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"FooterLine"
-	{
-		"zpos"			"2"
-	}
+"FooterLine"
+{
+"zpos""2"
+}
 }

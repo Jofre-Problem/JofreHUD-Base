@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"DescriptionLabel"
-	{
-		"enabled"	"1"
-	}
-}	
+"DescriptionLabel"
+{
+"enabled""1"
+}
+}

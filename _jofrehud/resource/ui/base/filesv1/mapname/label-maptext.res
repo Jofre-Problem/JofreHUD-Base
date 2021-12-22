@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"mapname"
-	{
-		"labelText"		"%mapname%"
-	}
-}	
+"mapname"
+{
+"labelText""%mapname%"
+}
+}

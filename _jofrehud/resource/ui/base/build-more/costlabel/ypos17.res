@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
 {
-	"CostLabel"
-	{	
-		"ypos"			"17"
-	}
-}	
+"CostLabel"
+{
+"ypos""17"
+}
+}

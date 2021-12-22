@@ -1,8 +1,8 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"ProgressBar"
-	{
-		//"autoResize"	"0"
-		//"pinCorner"	"0"
-	}		
-}	
+"ProgressBar"
+{
+////"autoResize""0"
+//"pinCorner""0"
+}
+}

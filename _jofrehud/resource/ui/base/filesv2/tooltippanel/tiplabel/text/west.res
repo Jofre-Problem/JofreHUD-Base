@@ -1,10 +1,10 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"ToolTipPanel"
-	{
-		"TipLabel"
-		{
-			"textAlignment"	"west"
-		}		
-	}
+"ToolTipPanel"
+{
+"TipLabel"
+{
+"textAlignment""west"
+}
+}
 }

@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"RankPanel"
-	{
-		"xpos"			"cs-0.5"
-	}
-}	
+"RankPanel"
+{
+"xpos""cs-0.5"
+}
+}

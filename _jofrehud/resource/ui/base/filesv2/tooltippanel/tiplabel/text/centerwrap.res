@@ -1,10 +1,10 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"ToolTipPanel"
-	{
-		"TipLabel"
-		{
-			"centerwrap"	"1"
-		}		
-	}
+"ToolTipPanel"
+{
+"TipLabel"
+{
+"centerwrap""1"
+}
+}
 }

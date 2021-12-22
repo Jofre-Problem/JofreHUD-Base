@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"progress"
-	{
-		"progress"		"0"
-	}
-}	
+"progress"
+{
+"progress""0"
+}
+}

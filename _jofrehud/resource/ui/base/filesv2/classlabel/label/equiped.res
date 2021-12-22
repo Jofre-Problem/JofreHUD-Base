@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"ClassLabel"
-	{
-	"labelText"		"#ClassBeingEquipped"
-	}	
-}	
+"ClassLabel"
+{
+"labelText""#ClassBeingEquipped"
+}
+}

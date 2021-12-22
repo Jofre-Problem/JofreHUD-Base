@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
 {
-	"ItemBackground"
-	{
-		"ypos"			"0"
-	}
-}	
+"ItemBackground"
+{
+"ypos""0"
+}
+}

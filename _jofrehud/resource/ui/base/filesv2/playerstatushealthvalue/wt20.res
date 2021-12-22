@@ -1,8 +1,8 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"PlayerStatusHealthValue"
-	{
-		"wide"			"20"
-		"tall"			"10"
-	}				
+"PlayerStatusHealthValue"
+{
+"wide""20"
+"tall""10"
+}
 }

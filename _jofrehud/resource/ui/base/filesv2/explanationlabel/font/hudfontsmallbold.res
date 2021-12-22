@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"ExplanationLabel"
-	{
-		"font"		"HudFontSmall"
-	}	
-}	
+"ExplanationLabel"
+{
+"font""HudFontSmall"
+}
+}

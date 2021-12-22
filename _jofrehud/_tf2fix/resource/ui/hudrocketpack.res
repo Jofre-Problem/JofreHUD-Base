@@ -5,9 +5,9 @@
 		"fieldName"		"huditemeffectmeter"
 		//"visible"		"1"
 		
-		"xpos"			"r265"	[$WIN32]
+		"xpos"			"r265"
 		//"xpos_minmode"	"r90"	[$WIN32]
-		"ypos"			"r54"	[$WIN32]
+		"ypos"			"r54"	
 		//"ypos_minmode"	"r85"	[$WIN32]
 		"wide"			"94"
 		"tall"			"45"

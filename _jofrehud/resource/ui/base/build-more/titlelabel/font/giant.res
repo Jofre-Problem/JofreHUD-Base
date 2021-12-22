@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
 {
-	"TitleLabel"
-	{	
-		"font"			"HudFontGiant"
-	}
-}	
+"TitleLabel"
+{
+"font""HudFontGiant"
+}
+}

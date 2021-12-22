@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"RankPanel"
-	{
-		"ControlName"	"CMinipvprankpanel"
-	}
-}	
+"RankPanel"
+{
+"ControlName""CMinipvprankpanel"
+}
+}

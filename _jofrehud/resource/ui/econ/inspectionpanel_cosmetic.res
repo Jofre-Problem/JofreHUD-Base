@@ -8,7 +8,7 @@
 #base "../../../#uni_base/filesv1/closebutton/enabled.res"
 #base "../../../#uni_base/filesv1/closebutton/ctrl/ceximage.res"
 #base "../../../#uni_base/filesv1/closebutton/def0.res"
-#base "../../../#uni_base/filesv1/closebutton/tab0.res"
+#base "../../../#uni_base/filesv1/closebutton/tab.res"
 #base "../../../#uni_base/filesv1/closebutton/dull0.res"
 #base "../../../#uni_base/filesv1/closebutton/bright0.res"
 #base "../../../#uni_base/filesv1/closebutton/sound.res"

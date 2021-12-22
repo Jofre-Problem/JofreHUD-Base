@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"ShowExplanationsButton"
-	{
-		"zpos"		"100"
-	}
+"ShowExplanationsButton"
+{
+"zpos""100"
+}
 }

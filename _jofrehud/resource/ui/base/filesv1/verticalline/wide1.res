@@ -1,8 +1,8 @@
 "Resource/UI/ItemRenameConfirmationDialog.res"
 {
-	"VerticalLine"
-	{
-		"wide"	"1"
-	}
+"VerticalLine"
+{
+"wide""1"
+}
 
 }

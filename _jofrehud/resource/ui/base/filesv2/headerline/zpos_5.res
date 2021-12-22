@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"HeaderLine"
-	{
-		"zpos"			"5"
-	}
+"HeaderLine"
+{
+"zpos""5"
+}
 }

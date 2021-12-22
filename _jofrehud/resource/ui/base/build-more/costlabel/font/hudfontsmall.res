@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
 {
-	"CostLabel"
-	{	
-		"font"			"HudFontSmall"
-	}
-}	
+"CostLabel"
+{
+"font""HudFontSmall"
+}
+}

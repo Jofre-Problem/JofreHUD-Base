@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"FileNameLabel"
-	{
-		"tall"		"24"
-	}
-}	
+"FileNameLabel"
+{
+"tall""24"
+}
+}

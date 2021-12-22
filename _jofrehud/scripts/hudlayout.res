@@ -1,6 +1,6 @@
 	#base "../#uni_base/filesv1/hudchat/main.res"
-	#base "../resource/ui/base/filesv1/huditemeffectmeter/main_fg.res"
-	#base "../resource/ui/base/filesv1/huditemeffectmeter/main_main.res"
+	#base "../resource/ui/base/meters/huditemeffectmeter/main_fg.res"
+	#base "../resource/ui/base/meters/huditemeffectmeter/main_main.res"
 	#base "../resource/ui/base/filesv1/freezepanel/main.res"
 	#base "../resource/ui/base/filesv1/itemattributetracker/main.res"
 	#base "../resource/ui/base/filesv1/queuehudstatus/main.res"

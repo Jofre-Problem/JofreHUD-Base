@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"CaratLabel"
-	{
-		"font"			"ReplayMediumSmall"
-	}
-}	
+"CaratLabel"
+{
+"font""ReplayMediumSmall"
+}
+}

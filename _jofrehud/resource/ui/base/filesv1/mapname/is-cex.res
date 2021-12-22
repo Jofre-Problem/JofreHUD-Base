@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"MapName"
-	{
-		"ControlName"	"CExLabel"
-	}
-}	
+"MapName"
+{
+"ControlName""CExLabel"
+}
+}

@@ -7,5 +7,5 @@
 #base "base/build-more/cancellabel/visenabled1.res"
 #base "base/build-more/cancellabel/position/zpos2.res"
 #base "base/build-more/cancellabel/position/tall13.res"
-#base "base/build-more/cancellabel/font/default.res"
+#base "base/build-more/cancellabel/font/def.res"
 #base "base/build-more/cancellabel/text/east.res"

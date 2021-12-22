@@ -1,1 +1,1 @@
-#base "../#bases/1pluginmenu.res"
+#base "../base/1pluginmenu.res"

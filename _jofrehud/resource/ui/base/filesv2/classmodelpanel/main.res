@@ -1,8 +1,8 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"classmodelpanel"
-	{
-		"ControlName"	"CTFPlayerModelPanel"
-		"fieldName"		"classmodelpanel"
-	}
+"classmodelpanel"
+{
+"ControlName""CTFPlayerModelPanel"
+"fieldName""classmodelpanel"
+}
 }

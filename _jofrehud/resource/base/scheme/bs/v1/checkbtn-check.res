@@ -1,7 +1,7 @@
 Scheme
 {
-	BaseSettings
-	{	
-	CheckButton.Check				"White"	
-	}		
+BaseSettings
+{
+"CheckButton.Check""White"
+}
 }

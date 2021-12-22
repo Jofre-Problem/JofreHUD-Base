@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"Play"
-	{
-		"Default"		"0"
-	}	
-}	
+"Play"
+{
+"Default""0"
+}
+}

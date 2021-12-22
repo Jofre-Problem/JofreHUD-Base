@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"DescriptionLabel"
-	{
-		//"autoResize"	"0"
-	}
-}	
+"DescriptionLabel"
+{
+////"autoResize""0"
+}
+}

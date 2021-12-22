@@ -1,8 +1,8 @@
 "Resource/EngineVGuiLayout.res"
 {
-	CHealthAccountPanel
-	{
-		"fieldName"				"CHealthAccountPanel"
+CHealthAccountPanel
+{
+"fieldName""CHealthAccountPanel"
 
-	}
-}	
+}
+}

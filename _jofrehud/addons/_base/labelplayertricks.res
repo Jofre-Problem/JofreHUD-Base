@@ -13,7 +13,7 @@
 		"labelText"		""		
 		"textAlignment"		"west"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 	}
 	"LabelPlayerTricks1"
 	{
@@ -28,7 +28,7 @@
 		"labelText"		""		
 		"textAlignment"		"west"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 	}
 	"LabelPlayerTricks2"
 	{
@@ -43,7 +43,7 @@
 		"labelText"		""		
 		"textAlignment"		"west"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 	}
 	"LabelPlayerTricks3"
 	{
@@ -58,6 +58,6 @@
 		"labelText"		""		
 		"textAlignment"		"west"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 	}
 }

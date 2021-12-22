@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
 {
-	"CostLabel"
-	{	
-		//"visible"		"1"
-	}
-}	
+"CostLabel"
+{
+//"visible""1"
+}
+}

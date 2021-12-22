@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"ConfirmLabel"
-	{
-		"ypos"			"80"
-	}
-}	
+"ConfirmLabel"
+{
+"ypos""80"
+}
+}

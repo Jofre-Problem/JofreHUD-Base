@@ -1,8 +1,8 @@
 "Resource/UI/ItemRenameConfirmationDialog.res"
 {
-	"VerticalLine"
-	{
-		"ControlName"		"EditablePanel"
-	}
+"VerticalLine"
+{
+"ControlName""EditablePanel"
+}
 
 }

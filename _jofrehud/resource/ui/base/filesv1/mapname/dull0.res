@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"MapName"
-	{
-		//"dulltext"		"0"
-	}
-}	
+"MapName"
+{
+//"dulltext""0"
+}
+}

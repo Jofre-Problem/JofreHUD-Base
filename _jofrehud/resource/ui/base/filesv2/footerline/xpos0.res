@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"FooterLine"
-	{
-		//"xpos"			"0"
-	}
+"FooterLine"
+{
+//"xpos""0"
+}
 }

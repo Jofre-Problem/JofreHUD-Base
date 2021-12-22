@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"ClassLabel"
-	{
-		"zpos" "1"
-	}
-}	
+"ClassLabel"
+{
+"zpos" "1"
+}
+}

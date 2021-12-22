@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"DescriptionLabel"
-	{
-		"font"			"HudFontSmallest"
-	}
-}	
+"DescriptionLabel"
+{
+"font""HudFontSmallest"
+}
+}

@@ -29,7 +29,7 @@
 #base "../../../#uni_base/filesv1/titlelabel/text/north.res"
 
 #base "../../#uni_base/filesv3/confirmbutton/ctrl/cex.res"
-#base "../../#uni_base/filesv3/confirmbutton/ctrl/main.res"
+#base "../../#uni_base/filesv3/confirmbutton/main.res"
 #base "../../#uni_base/filesv3/confirmbutton/position/tall25.res"
 #base "../../#uni_base/filesv3/confirmbutton/auto.res"
 #base "../../#uni_base/filesv3/confirmbutton/pin.res"
@@ -68,8 +68,8 @@
 	//	////"dulltext"		"0"
 	//	//"brighttext"	"0"
 	//	"Command"		"confirm"
-	//	"sound_depressed"	"UI/buttonclick.wav"
-	//	"sound_released"	"UI/buttonclickrelease.wav"
+	//	//"sound_depressed"	"UI/buttonclick.wav"
+	//	//"sound_released"	"UI/buttonclickrelease.wav"
 	}	
 	"Icon"
 	{

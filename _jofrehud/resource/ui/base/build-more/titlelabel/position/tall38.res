@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
 {
-	"TitleLabel"
-	{	
-		"tall"			"38"
-	}
-}	
+"TitleLabel"
+{
+"tall""38"
+}
+}

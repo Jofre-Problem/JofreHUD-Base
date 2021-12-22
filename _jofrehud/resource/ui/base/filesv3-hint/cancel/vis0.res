@@ -1,7 +1,7 @@
 "Resource/baseaction_sys.res"
 {
-	"CancelHintIcon"
-	{
-		"visible"		"0"
-	}
+"CancelHintIcon"
+{
+"visible""0"
+}
 }

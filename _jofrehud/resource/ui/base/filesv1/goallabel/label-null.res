@@ -1,7 +1,7 @@
 "Resource/baseaction_sys.res"
 {
-	"GoalLabel"
-	{	
-		"labelText"		""
-	}
+"GoalLabel"
+{
+"labelText" ""
+}
 }

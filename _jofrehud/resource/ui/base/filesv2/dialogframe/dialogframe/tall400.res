@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"DialogFrame"
-	{
-		"tall"			"400"	
-	}	
-}	
+"DialogFrame"
+{
+"tall""400"
+}
+}

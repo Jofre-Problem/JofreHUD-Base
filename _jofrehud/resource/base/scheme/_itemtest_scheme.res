@@ -17,14 +17,14 @@
 #base "colors/offwhite.res"
 Scheme
 {
-	BaseSettings
-	{
-		Label.TextInsetX				4
-		Label.TextInsetY				4
-		StatusLabel.ValidColor			"0 192 0 255"
-		StatusLabel.InvalidColor		"192 0 0 255"
-		Menu.FgColor			"160 170 149 255"
-		Menu.ArmedFgColor		"White"
-		PanelListPanel.autohide_scrollbar	1
-	}
+BaseSettings
+{
+Label.TextInsetX 4
+Label.TextInsetY 4
+StatusLabel.ValidColor "0 192 0 255"
+StatusLabel.InvalidColor "192 0 0 255"
+Menu.FgColor "160 170 149 255"
+Menu.ArmedFgColor "White"
+PanelListPanel.autohide_scrollbar 1
+}
 }

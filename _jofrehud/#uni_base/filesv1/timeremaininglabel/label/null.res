@@ -2,5 +2,5 @@
 {
 "TimeRemainingLabel"
 {
-"labeltext"""
+"labelText" ""
 }}

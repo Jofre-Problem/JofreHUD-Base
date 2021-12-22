@@ -20,7 +20,7 @@
 
 #base "../base/build-more/titlelabelshadow/main.res"
 #base "../base/build-more/titlelabelshadow/font/giantbold.res"
-#base "../base/build-more/titlelabelshadow/content1.res"
+#base "../base/build-more/titlelabelshadow/position/content1.res"
 #base "../base/build-more/titlelabelshadow/position/tall38.res"
 #base "../base/build-more/titlelabelshadow/text/left.res"
 
@@ -33,7 +33,7 @@
 #base "../base/build-more/cancellabel/position/wide200.res"
 #base "../base/build-more/cancellabel/position/tall13.res"
 #base "../base/build-more/cancellabel/position/ypos49.res"
-#base "../base/build-more/cancellabel/font/default.res"
+#base "../base/build-more/cancellabel/font/def.res"
 #base "../base/build-more/cancellabel/text/east.res"
 
 #base "../base/class_item/main.res"

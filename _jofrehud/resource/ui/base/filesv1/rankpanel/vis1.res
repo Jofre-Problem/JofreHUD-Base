@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"RankPanel"
-	{
-		//"visible"		"1"
-	}
-}	
+"RankPanel"
+{
+//"visible""1"
+}
+}

@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"MapName"
-	{
-		"tall"		"24"
-	}
-}	
+"MapName"
+{
+"tall""24"
+}
+}

@@ -5,7 +5,7 @@
 #base "../#uni_base/filesv1/loadinglabel/position/w380.res"
 #base "../#uni_base/filesv1/loadinglabel/position/t220.res"
 
-//#base "#bases/1sysmenu.res"
+//#base "base/1sysmenu.res"
 
 #base "../#uni_base/filesv1/infolabel/main.res"
 #base "../#uni_base/filesv1/infolabel/ctrl/label.res"
@@ -48,7 +48,7 @@
 #base "../#uni_base/filesv1/cancelbutton/position/w72.res"
 #base "../#uni_base/filesv1/cancelbutton/position/t24.res"
 
-#base "#bases/1divider.res"
+#base "base/1divider.res"
 
 #base "../#uni_base/filesv1/label1/main.res"
 #base "../#uni_base/filesv1/label1/auto.res"

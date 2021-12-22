@@ -1,8 +1,8 @@
 
 Scheme
 {
-	BaseSettings
-	{	
-		MainMenu.TextColor			"White"
-	}		
+BaseSettings
+{
+"MainMenu.TextColor"  "White"
+}
 }

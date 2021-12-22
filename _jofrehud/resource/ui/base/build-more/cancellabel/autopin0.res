@@ -2,7 +2,7 @@
 {
 	"CancelLabel"
 	{	
-		//"autoResize"	"0"
+		////"autoResize"	"0"
 		//"pinCorner"		"0"
 	}
 }	

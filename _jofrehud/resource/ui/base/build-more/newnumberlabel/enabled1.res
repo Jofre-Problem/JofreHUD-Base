@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
 {
-	"NewNumberLabel"
-	{	
-		//"enabled"		"1"
-	}
-}	
+"NewNumberLabel"
+{
+////"enabled""1"
+}
+}

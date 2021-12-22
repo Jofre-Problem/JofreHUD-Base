@@ -29,7 +29,7 @@
 #base "../../#uni_base/filesv1/titlelabel/text/north.res"
 
 #base "../../#uni_base/filesv3/confirmbutton/ctrl/cex.res"
-#base "../../#uni_base/filesv3/confirmbutton/ctrl/main.res"
+#base "../../#uni_base/filesv3/confirmbutton/main.res"
 #base "../../#uni_base/filesv3/confirmbutton/position/xpos10.res"
 #base "../../#uni_base/filesv3/confirmbutton/position/ypos185.res"
 #base "../../#uni_base/filesv3/confirmbutton/position/zpos20.res"

@@ -1,10 +1,10 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"ToolTipPanel"
-	{
-		"TipLabel"
-		{
-			"xpos"			"20"
-		}		
-	}
+"ToolTipPanel"
+{
+"TipLabel"
+{
+"xpos""20"
+}
+}
 }

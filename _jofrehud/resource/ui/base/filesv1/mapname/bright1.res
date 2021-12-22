@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"MapName"
-	{
-		"brighttext"	"1"
-	}
-}	
+"MapName"
+{
+"brighttext""1"
+}
+}

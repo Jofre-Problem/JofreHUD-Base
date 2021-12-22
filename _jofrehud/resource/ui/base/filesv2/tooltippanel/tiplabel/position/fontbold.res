@@ -1,10 +1,10 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"ToolTipPanel"
-	{
-		"TipLabel"
-		{
-			"font"			"HudFontSmallest"
-		}		
-	}
+"ToolTipPanel"
+{
+"TipLabel"
+{
+"font""HudFontSmallest"
+}
+}
 }

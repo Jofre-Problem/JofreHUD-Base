@@ -1,7 +1,7 @@
 "Resource/baseaction_grip.res"
 {
-	"BlendFactorSlider"
-	{
-		"wide"				"130"
-	}			
+"BlendFactorSlider"
+{
+"wide""130"
+}
 }

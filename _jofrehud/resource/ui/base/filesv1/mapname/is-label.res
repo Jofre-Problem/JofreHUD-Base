@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"MapName"
-	{
-		"ControlName"	"Label"
-	}
-}	
+"MapName"
+{
+"ControlName""Label"
+}
+}

@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"classmodelpanel"
-	{
-		"fov"		"12"
-	}
+"classmodelpanel"
+{
+"fov""12"
+}
 }

@@ -1,8 +1,8 @@
 
 Scheme
 {
-	BaseSettings
-	{	
-		FrameTitleBar.Font				"UiBold"
-	}		
+BaseSettings
+{
+"FrameTitleBar.Font""UiBold"
+}
 }

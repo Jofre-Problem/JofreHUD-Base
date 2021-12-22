@@ -1,8 +1,8 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"SpectatorGUIHealth"
-	{
-		"ControlName"		"EditablePanel"
-		"fieldName"		"SpectatorGUIHealth"
-	}	
-}	
+"SpectatorGUIHealth"
+{
+"ControlName""EditablePanel"
+"fieldName""SpectatorGUIHealth"
+}
+}

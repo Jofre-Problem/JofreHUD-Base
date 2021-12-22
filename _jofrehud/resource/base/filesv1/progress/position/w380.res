@@ -1,7 +1,7 @@
 "Resource/label_vac.res"
 {
-	"progress"
-	{
-		"wide"		"380"
-	}
-}	
+"progress"
+{
+"wide""380"
+}
+}

@@ -1,8 +1,8 @@
 
 Scheme
 {
-	Colors
-	{	
-	//	"OffWhite"			"0 0 0 50"
-	}		
+Colors
+{
+//"OffWhite""0 0 0 50"
+}
 }

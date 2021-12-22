@@ -1,8 +1,8 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"BuildingStatusHealthImageBG"
-	{
-		"wide"			"28"
-		"tall"			"28"
-	}				
+"BuildingStatusHealthImageBG"
+{
+"wide""28"
+"tall""28"
+}
 }

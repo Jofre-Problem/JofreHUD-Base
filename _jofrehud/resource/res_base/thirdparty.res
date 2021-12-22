@@ -42,52 +42,52 @@
 #base "../../#uni_base/filesv1/label3/text/north-west.res"
 "resource/OptionsSubVideoThirdPartyDlg.res"
 {
-	"Label3"
-	{
-		"xpos"		"15"
-		"ypos"		"90"
-		"wide"		"460"
-		"labelText"		"#GameUI_Miles_Voice"
-		"font"		"DefaultSmall"
-	}
-	"Button2"
-	{
-		"xpos"		"400"
-		"ypos"		"170"
-	}
-	"Label2"
-	{
-		"xpos"		"90"
-		"ypos"		"120"
-		"wide"		"460"
-		"labelText"		"#GameUI_Bink"
-		"font"		"DefaultSmall"
-	}
-	"Label1"
-	{
-		"xpos"		"15"
-		"ypos"		"50"
-		"tall"		"40"
-		"labelText"		"#GameUI_Miles_Audio"
-		"font"		"DefaultSmall"
-	}
+"Label3"
+{
+"xpos""15"
+"ypos""90"
+"wide""460"
+"labelText""#GameUI_Miles_Voice"
+"font""DefaultSmall"
+}
+"Button2"
+{
+"xpos""400"
+"ypos""170"
+}
+"Label2"
+{
+"xpos""90"
+"ypos""120"
+"wide""460"
+"labelText""#GameUI_Bink"
+"font""DefaultSmall"
+}
+"Label1"
+{
+"xpos""15"
+"ypos""50"
+"tall""40"
+"labelText""#GameUI_Miles_Audio"
+"font""DefaultSmall"
+}
 
 
 
-	"BinkImage"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"BinkImage"
-		"xpos"		"15"
-		"ypos"		"120"
-		"wide"		"64"
-		"tall"		"64"
-		//"autoResize"	"0"
-		//"pinCorner"		"0"
-		//"visible"		"1"
-		//"enabled"		"1"
-		"textAlignment"		"west"
-		"image"			"techcredits/bink"
-		"scaleImage"	"1"
-	}
+"BinkImage"
+{
+"ControlName""ImagePanel"
+"fieldName""BinkImage"
+"xpos""15"
+"ypos""120"
+"wide""64"
+"tall""64"
+////"autoResize""0"
+//"pinCorner""0"
+//"visible""1"
+////"enabled""1"
+"textAlignment""west"
+"image""techcredits/bink"
+"scaleImage""1"
+}
 }

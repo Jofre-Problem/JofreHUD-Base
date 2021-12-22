@@ -8,8 +8,8 @@
 #base "bs/title_t-s-p.res"
 Scheme
 {
-	BaseSettings
-	{
-		"BgColor"			"ControlBG"		// color that URL's show up in chat window
-	}	
+BaseSettings
+{
+"BgColor""ControlBG"// color that URL's show up in chat window
+}
 }

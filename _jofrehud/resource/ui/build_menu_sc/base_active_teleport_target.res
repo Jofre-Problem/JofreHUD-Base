@@ -1,5 +1,5 @@
 #base "../base/build-more/itemnamelabel/main.res"
-#base "../base/build-more/itemnamelabel/content1.res"
+#base "../base/build-more/itemnamelabel/content1(608415).res"
 // 6 0 84 15
 #base "../base/build-more/itembg/main.res"
 #base "../base/build-more/itembg/content1.res"

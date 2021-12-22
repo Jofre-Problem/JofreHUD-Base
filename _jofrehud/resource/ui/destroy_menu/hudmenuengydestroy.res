@@ -24,7 +24,7 @@
 
 #base "../base/build-more/titlelabelshadow/main.res"
 #base "../base/build-more/titlelabelshadow/font/giantbold.res"
-#base "../base/build-more/titlelabelshadow/content1.res"
+#base "../base/build-more/titlelabelshadow/position/content1.res"
 #base "../base/build-more/titlelabelshadow/position/tall35.res"
 #base "../base/build-more/titlelabelshadow/text/left.res"
 

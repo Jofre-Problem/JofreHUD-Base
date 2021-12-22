@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"ExplanationLabel"
-	{
-		"ypos"		"50"
-	}	
-}	
+"ExplanationLabel"
+{
+"ypos""50"
+}
+}

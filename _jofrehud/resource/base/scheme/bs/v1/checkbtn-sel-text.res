@@ -1,7 +1,7 @@
 Scheme
 {
-	BaseSettings
-	{	
-	CheckButton.SelectedTextColor	"White"
-	}		
+BaseSettings
+{
+"CheckButton.SelectedTextColor""White"
+}
 }

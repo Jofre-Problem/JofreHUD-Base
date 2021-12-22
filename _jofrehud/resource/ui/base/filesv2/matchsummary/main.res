@@ -1,8 +1,8 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"MatchSummary"
-	{
-		"fieldName"		"MatchSummary"
-		"visible"		"0"	
-	}
+"MatchSummary"
+{
+"fieldName""MatchSummary"
+"visible""0"
+}
 }

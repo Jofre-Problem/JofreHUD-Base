@@ -1,15 +1,16 @@
+#base "../base/build-more/360_sc/main.res"
 //#base "../base/filesv3-hint/build.res"
 ////#base "../base/filesv3-hint/buttonlegend.res"
 //#base "../base/filesv3-hint/prevhinticon.res"
-//#base "../base/filesv3-hint/cancel/main.res"
-//#base "../base/filesv3-hint/cancel/is_csc.res"
-//#base "../base/filesv3-hint/cancel/wd25.res"
-//#base "../base/filesv3-hint/cancel/vis1.res"
-//#base "../base/filesv3-hint/cancel/pin0.res"
+#base "../base/filesv3-hint/cancel/main.res"
+#base "../base/filesv3-hint/cancel/is_csc.res"
+#base "../base/filesv3-hint/cancel/wd25.res"
+#base "../base/filesv3-hint/cancel/vis1.res"
+#base "../base/filesv3-hint/cancel/pin0.res"
 
-//#base "../base/filesv3-hint/cancel-label/main.res"
-//#base "../base/filesv3-hint/cancel-label/x_pos42.res"
-//#base "../base/filesv3-hint/cancel-label/ypos151.res"
+#base "../base/filesv3-hint/cancel-label/main.res"
+#base "../base/filesv3-hint/cancel-label/x_pos42.res"
+#base "../base/filesv3-hint/cancel-label/ypos151.res"
 
 #base "../base/build-more/mainbg/main.res"
 #base "../base/build-more/mainbg/position/wide450.res"
@@ -18,7 +19,7 @@
 #base "../base/build-more/mainbg/ctrl_other.res"
 #base "../base/build-more/mainbg/image/scale.res"
 #base "../base/build-more/mainbg/image/color1.res"
-#base "../base/build-more/mainbg/image/content1.res"
+#base "../base/build-more/mainbg/image/hud_menu_bg.res"
 
 #base "../base/build-more/buildicon/main.res"
 #base "../base/build-more/buildiconshadow/main.res"
@@ -31,7 +32,7 @@
 
 #base "../base/build-more/titlelabelshadow/main.res"
 #base "../base/build-more/titlelabelshadow/font/giantbold.res"
-#base "../base/build-more/titlelabelshadow/content1.res"
+#base "../base/build-more/titlelabelshadow/position/content1.res"
 #base "../base/build-more/titlelabelshadow/position/tall38.res"
 #base "../base/build-more/titlelabelshadow/text/left.res"
 

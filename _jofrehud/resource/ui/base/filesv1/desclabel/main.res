@@ -1,8 +1,8 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"DescriptionLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"DescriptionLabel"
-	}
-}	
+"DescriptionLabel"
+{
+"ControlName""CExLabel"
+"fieldName""DescriptionLabel"
+}
+}

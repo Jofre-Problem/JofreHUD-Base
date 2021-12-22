@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"Icon"
-	{
-		//"enabled"		"1"
-	}
+"Icon"
+{
+////"enabled""1"
+}
 }

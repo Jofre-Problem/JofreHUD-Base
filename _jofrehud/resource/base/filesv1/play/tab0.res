@@ -1,7 +1,7 @@
 "Resource/EngineVGuiLayout.res"
 {
-	"Play"
-	{
-		"tabposition"		"0"
-	}	
-}	
+"Play"
+{
+"tabposition""0"
+}
+}

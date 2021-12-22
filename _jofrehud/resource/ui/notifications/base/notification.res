@@ -6,7 +6,7 @@
 		
 		"zpos"			"-1"
 		
-		
+		"wide"	"0"
 		////"visible"		"1"
 		
 		"scaleImage"	"1"

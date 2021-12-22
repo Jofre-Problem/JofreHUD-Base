@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
 {
-	"ToolTipPanel"
-	{
-		"ypos"			"0"
-	}
+"ToolTipPanel"
+{
+"ypos""0"
+}
 }

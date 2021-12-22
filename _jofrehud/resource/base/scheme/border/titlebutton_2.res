@@ -1,11 +1,11 @@
 
 Scheme
 {
-	Borders
-	{	
-		TitleButtonDisabledBorder
-		{
-			"backgroundtype" "0"
-		}
-	}		
+Borders
+{
+TitleButtonDisabledBorder
+{
+"backgroundtype" "0"
+}
+}
 }

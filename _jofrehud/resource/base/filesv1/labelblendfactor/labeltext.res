@@ -1,7 +1,7 @@
 "Resource/baseaction_grip.res"
 {
-	"LabelBlendFactor"
-	{
-		"labelText"		"Blend Factor:"
-	}
+"LabelBlendFactor"
+{
+"labelText""Blend Factor:"
+}
 }

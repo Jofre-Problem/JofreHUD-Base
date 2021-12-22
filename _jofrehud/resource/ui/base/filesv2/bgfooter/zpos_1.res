@@ -1,7 +1,7 @@
 "Resource/UI/CharInfoPanel.res"
-{			
-	"BackgroundFooter"
-	{
-		"zpos"			"1"
-	}		
+{
+"BackgroundFooter"
+{
+"zpos""1"
+}
 }
