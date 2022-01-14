@@ -1,5 +1,7 @@
 ![jofrehudlogo](https://user-images.githubusercontent.com/70734327/109319137-89b9ba80-781c-11eb-9c43-3c257831e053.png)
 
+## WARNING: This HUD contains bugs on certain parts, so use it your own risk.
+
 ## TF2 Interface focused on a fully optimization of the game.
 
 After many tweaks and edits I made for make this a "perfect" hud, I decided to make it like the default one.
