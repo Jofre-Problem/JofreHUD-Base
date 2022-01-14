@@ -1,84 +1,84 @@
 #base "..\QuestObjectivePanel_InGame_Base.res"
 
 "Resource/UI/HudAchievementTrackerItem.res"
-{	
-	"QuestObjectiveTextPanel"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"QuestObjectiveTextPanel"
-		"xpos"			"cs-0.5"		
-				
-		"zpos"			"3"
-		"wide"			"148"
-		"tall"			"18"
-		//"visible"		"1"
-			
-		"proportionaltoparent"	"1"
-		"map_view"	"1"
-		
-		"PaintBackgroundType"	"2"
+{
+"QuestObjectiveTextPanel"
+{
+"ControlName""EditablePanel"
+"fieldName""QuestObjectiveTextPanel"
+"xpos""cs-0.5"
 
-		"enabled_text_color_override"		"TanLight"
-		"disabled_text_color_override"		"TanDark"
+"zpos""3"
+"wide""148"
+"tall""18"
+//"visible""1"
 
-		"normal_token"		"#QuestObjective_Required"
-		"advanced_token"	"#QuestObjective_Optional"
-	}
+"proportionaltoparent""1"
+"map_view""1"
 
-	"AttribGlow"
-	{
-		"ControlName"	"Label"
-		"fieldName"		"AttribGlow"
-		"labeltext"		"%attr_desc%"
-		"xpos"			"rs1"
-		
-		"wide"			"f0"
-		"tall"			"18"
-		"zpos"			"5"
-		//"textinsetx"	"0"
-		"font"			"ControlPointTimerSmaller"
-		"alpha"			"0"
+"PaintBackgroundType""2"
 
-		"TextAlignment"		"north-west"
-		"proportionaltoparent" "1"
-		"wrap"			"1"
-	}
-	
-	"AttribDesc"
-	{
-		"ControlName"	"Label"
-		"fieldName"		"AttribDesc"
-		"labeltext"		"%attr_desc%"
-		"xpos"			"rs1"
-		
-		"wide"			"f0"
-		"tall"			"18"
-		"zpos"			"4"
-		//"textinsetx"	"0"
-		"font"			"ControlPointTimerSmaller"
+"enabled_text_color_override""TanLight"
+"disabled_text_color_override""TanDark"
 
-		"TextAlignment"		"north-west"
-		"proportionaltoparent" "1"
-		"wrap"			"1"
-	}
+"normal_token""#QuestObjective_Required"
+"advanced_token""#QuestObjective_Optional"
+}
 
-	"AttribBlur"
-	{
-		"ControlName"	"Label"
-		"fieldName"		"AttribBlur"
-		"labeltext"		"%attr_desc%"
-		"xpos"			"rs1"
-		
-		"wide"			"f0"
-		"tall"			"10"
-		"zpos"			"3"
-		//"visible"		"1"
-		"alpha"			"0"
-		"font"			"ControlPointTimerSmaller"
-		//"textinsetx"	"0"
-		"textAlignment"		"north-west"
-		"proportionaltoparent" "1"
-		"fgcolor_override"	"White"
-		"wrap"			"1"
-	}
+"AttribGlow"
+{
+"ControlName""Label"
+"fieldName""AttribGlow"
+"labeltext""%attr_desc%"
+"xpos""rs1"
+
+"wide""f0"
+"tall""18"
+"zpos""5"
+//"textinsetx""0"
+"font""ControlPointTimerSmaller"
+"alpha""0"
+
+"TextAlignment""north-west"
+"proportionaltoparent" "1"
+"wrap""1"
+}
+
+"AttribDesc"
+{
+"ControlName""Label"
+"fieldName""AttribDesc"
+"labeltext""%attr_desc%"
+"xpos""rs1"
+
+"wide""f0"
+"tall""18"
+"zpos""4"
+//"textinsetx""0"
+"font""ControlPointTimerSmaller"
+
+"TextAlignment""north-west"
+"proportionaltoparent" "1"
+"wrap""1"
+}
+
+"AttribBlur"
+{
+"ControlName""Label"
+"fieldName""AttribBlur"
+"labeltext""%attr_desc%"
+"xpos""rs1"
+
+"wide""f0"
+"tall""10"
+"zpos""3"
+//"visible""1"
+"alpha""0"
+"font""ControlPointTimerSmaller"
+//"textinsetx""0"
+"textAlignment""north-west"
+"proportionaltoparent" "1"
+"fgcolor_override""White"
+"wrap""1"
+}
 }

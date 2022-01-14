@@ -1,52 +1,52 @@
 "Resource/UI/XPSourcePanel.res"
-{		
-	"Indicator"
-	{
-		"fieldName"		"Indicator"
+{
+"Indicator"
+{
+"fieldName""Indicator"
 
-		"xpos"			"cs-0.5"
-		"ypos"			"cs-0.5"
-		"wide"			"200"
-		"tall"			"25"
-		"zpos"			"9999"
-		"visible"		"0"
-		"proportionaltoparent"	"1"
-		"mouseinputenabled"	"0"
-	}
+"xpos""cs-0.5"
+"ypos""cs-0.5"
+"wide""200"
+"tall""25"
+"zpos""9999"
+"visible""0"
+"proportionaltoparent""1"
+"mouseinputenabled""0"
+}
 
-	"SourceLabel"
-	{
-		"ControlName"			"Label"
-		"FieldName"				"SourceLabel"
-		"xpos"					"cs-0.5"
-		"ypos"					"rs1"
-		"zpos"					"1"
-		"wide"					"f0"
-		"tall"					"f0"
-		"proportionaltoparent"	"1"
+"SourceLabel"
+{
+"ControlName""Label"
+"FieldName""SourceLabel"
+"xpos""cs-0.5"
+"ypos""rs1"
+"zpos""1"
+"wide""f0"
+"tall""f0"
+"proportionaltoparent""1"
 
-		"labelText"				"%source%"
-		"fgcolor_override"		"CreditsGreen"
+"labelText""%source%"
+"fgcolor_override""CreditsGreen"
 
-		"font"			"XPSource"
-		"textAlignment"	"south"
-	}
+"font""XPSource"
+"textAlignment""south"
+}
 
-	"SourceLabelGlow"
-	{
-		"ControlName"			"Label"
-		"FieldName"				"SourceLabelGlow"
-		"xpos"					"cs-0.5"
-		"ypos"					"rs1"
-		
-		"wide"					"f0"
-		"tall"					"f0"
-		"proportionaltoparent"	"1"
+"SourceLabelGlow"
+{
+"ControlName""Label"
+"FieldName""SourceLabelGlow"
+"xpos""cs-0.5"
+"ypos""rs1"
 
-		"labelText"				"%source%"
-		"fgcolor_override"		"CreditsGreen"
+"wide""f0"
+"tall""f0"
+"proportionaltoparent""1"
 
-		"font"			"XPSource_Glow"
-		"textAlignment"	"south"
-	}
+"labelText""%source%"
+"fgcolor_override""CreditsGreen"
+
+"font""XPSource_Glow"
+"textAlignment""south"
+}
 }

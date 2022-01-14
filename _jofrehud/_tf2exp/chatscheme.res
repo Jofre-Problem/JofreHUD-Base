@@ -33,15 +33,6 @@ Scheme
 		TFColors.ChatTextTeamBlue	"153 204 255 255"
 		TFColors.ChatTextTeamRed	"255 63 53 255"
 	}
-
-	//////////////////////// BITMAP FONT FILES /////////////////////////////
-	//
-	// Bitmap Fonts are ****VERY*** expensive static memory resources so they are purposely sparse
-
-
-	//////////////////////// FONTS /////////////////////////////
-	//
-	// describes all the fonts
 	Fonts
 	{
 
@@ -80,13 +71,38 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
-				"tall"		"12"
-				//"dropshadow"	"1"
+				"name"			"Segoe UI"
+				"tall"			"14"
+
+			}
+
+			"2"
+			{
+				"name"			"Segoe UI"
+				"tall"			"15"
+
+			}
+
+			"3"
+			{
+				"name"			"Segoe UI"
+				"tall"			"19"
+	
+			}
+
+			"4"
+			{
+				"name"			"Segoe UI"
+				"tall"			"20"
+
+			}
+
+			"5"
+			{
+				"name"			"Segoe UI"
+				"tall"			"23"
 			}
 		}
-
-
 	}
 
 	//

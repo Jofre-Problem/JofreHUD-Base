@@ -40,7 +40,7 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"CancelButton"
 		"xpos"			"r190"
-		//"xpos_hidef"			"r200"
+		////"xpos_hidef"			"r200"
 		"ypos"			"r40"
 		////"ypos_lodef"			"r64"
 		//"ypos_hidef"			"r54"

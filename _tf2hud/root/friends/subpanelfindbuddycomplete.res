@@ -2,74 +2,74 @@
 
 {
 
-	"SubPanelFindBuddyComplete"
+"SubPanelFindBuddyComplete"
 
-	{
+{
 
-		"ControlName"		"WizardSubPanel"
+"ControlName""WizardSubPanel"
 
-		"fieldName"		"SubPanelFindBuddyComplete"
+"fieldName""SubPanelFindBuddyComplete"
 
-		////"xpos"		"5"
+////"xpos""5"
 
-		////"ypos"		"29"
+////"ypos""29"
 
-		//"wide"		"470"
+"wide""470"
 
-		//"tall"		"291"
+"tall""291"
 
-		//////"autoResize"		"0"
+//////"autoResize""0"
 
-		//////"pinCorner"			"0"
+//////"pinCorner""0"
 
-		////"visible"		"1"
+//////"visible""1"
 
-		////"enabled"		"1"
+//////"enabled""1"
 
-		////"tabPosition"		"1"
+////"tabPosition""1"
 
-		//"WizardWide"		"0"
+//"WizardWide""0"
 
-		"WizardTall"		"0"
+"WizardTall""0"
 
-	}
+}
 
-	"InfoText"
+"InfoText"
 
-	{
+{
 
-		"ControlName"		"Label"
+"ControlName""Label"
 
-		"fieldName"		"InfoText"
+"fieldName""InfoText"
 
-		////"xpos"		"32"
+////"xpos""32"
 
-		////"ypos"		"32"
+////"ypos""32"
 
-		//"wide"		"380"
+"wide""380"
 
-		//"tall"		"87"
+"tall""87"
 
-		//////"autoResize"		"0"
+//////"autoResize""0"
 
-		//////"pinCorner"			"0"
+//////"pinCorner""0"
 
-		////"visible"		"1"
+//////"visible""1"
 
-		////"enabled"		"1"
+//////"enabled""1"
 
-		////"tabPosition"		"0"
+////"tabPosition""0"
 
-		////"labelText"		"#TrackerUI_AuthRequestSent"
+////"labelText""#TrackerUI_AuthRequestSent"
 
-		////"textAlignment"		"north-west"
+////"textAlignment""north-west"
 
-		////"dulltext"		"0"
+//////"dulltext""0"
 
-		////"brighttext"		"0"
+//////"brighttext""0"
 
-		//"wrap"		"1"
+//"wrap""1"
 
-	}
+}
 
 }

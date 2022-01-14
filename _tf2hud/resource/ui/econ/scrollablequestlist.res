@@ -1,101 +1,101 @@
 "Resource/UI/econ/ScrollableQuestList.res"
 {
-	"Container"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"Container"
-		
-		
-		"zpos"			"1"
-		"wide"			"f0"
-		"tall"			"f0"
-		//"visible"		"1"
-		
-		"proportionaltoparent" "1"
+"Container"
+{
+"ControlName""EditablePanel"
+"fieldName""Container"
 
-		"ItemAd"
-		{
-			"ControlName"			"CCyclingAdContainerPanel"
-			"fieldName"				"ItemAd"
-			"xpos"					"cs-0.5"
-			"ypos"					"r80"
-			"zpos"					"100"
-			"wide"					"p0.9"
-			"tall"					"60"
-			"visible"				"0"
-			
-			"scaleImage"			"1"
-			"proportionaltoparent"	"1"
 
-			"bgcolor_override"		"0 0 0 255"
+"zpos""1"
+"wide""f0"
+"tall""f0"
+//"visible""1"
 
-			"items"
-			{
-				"0"
-				{
-					"item"		"Unused Summer 2015 Operation Pass"
-					"show_market"	"0"
-				}
-			}
-		}
+"proportionaltoparent" "1"
 
-		"SelectButton"
-		{
-			"ControlName"	"CExButton"
-			"fieldName"		"SelectButton"
-			
-			//"ypos"		"0"
-			
-			"wide"		"f0"
-			"tall"		"f0"
-			//"visible"		"1"
-			
-			"textAlignment"	"east"
-			"labelText"			""
+"ItemAd"
+{
+"ControlName""CCyclingAdContainerPanel"
+"fieldName""ItemAd"
+"xpos""cs-0.5"
+"ypos""r80"
+"zpos""100"
+"wide""p0.9"
+"tall""60"
+"visible""0"
 
-			"proportionaltoparent"	"1"
-			"paintbackground"	"0"
-			"command"	"deselect_all"
-			"actionsignallevel" "2"
-		}
-	}
+"scaleImage""1"
+"proportionaltoparent""1"
 
-	"BackgroundFolderImage"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"BackgroundFolderImage"
-		
-		
-		"zpos"			"-100"
-		"wide"			"f0"
-		"tall"			"o1"
-		//"visible"		"1"
-		
-		"scaleImage"	"1"
-		"image"			"contracts\contracts_base1"
-		"proportionaltoparent"	"1"
+"bgcolor_override""0 0 0 255"
 
-		"mouseinputenabled"	"0"
-		"keyboardinputenabled" "0"
-	}
+"items"
+{
+"0"
+{
+"item""Unused Summer 2015 Operation Pass"
+"show_market""0"
+}
+}
+}
 
-	"EmptyLabel"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"EmptyLabel"
-		"font"			"HudFontSmall"
-		"labelText"		"%noquests%"
-		"xpos"			"cs-0.5"
-		"ypos"			"p0.5"
-		"zpos"			"20"
-		"wide"			"p1"
-		"tall"			"64"
-		
-		
-		"visible"		"0"
-		
-		"centerwrap"	"1"
-		"proportionaltoparent"	"1"
-		"mouseinputenabled"	"0"
-	}
+"SelectButton"
+{
+"ControlName""CExButton"
+"fieldName""SelectButton"
+
+//"ypos""0"
+
+"wide""f0"
+"tall""f0"
+//"visible""1"
+
+"textAlignment""east"
+"labelText" ""
+
+"proportionaltoparent""1"
+"paintbackground""0"
+"command""deselect_all"
+"actionsignallevel" "2"
+}
+}
+
+"BackgroundFolderImage"
+{
+"ControlName""ImagePanel"
+"fieldName""BackgroundFolderImage"
+
+
+"zpos""-100"
+"wide""f0"
+"tall""o1"
+//"visible""1"
+
+"scaleImage""1"
+"image""contracts\contracts_base1"
+"proportionaltoparent""1"
+
+"mouseinputenabled""0"
+"keyboardinputenabled" "0"
+}
+
+"EmptyLabel"
+{
+"ControlName""CExLabel"
+"fieldName""EmptyLabel"
+"font""HudFontSmall"
+"labelText""%noquests%"
+"xpos""cs-0.5"
+"ypos""p0.5"
+"zpos""20"
+"wide""p1"
+"tall""64"
+
+
+"visible""0"
+
+"centerwrap""1"
+"proportionaltoparent""1"
+"mouseinputenabled""0"
+}
 }

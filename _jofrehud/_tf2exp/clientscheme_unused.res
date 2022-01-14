@@ -30,7 +30,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"44"
-				//"tall_lodef"	"52"
+				////"tall_lodef"	"52"
 				//"weight"	"500"
 				//"additive"	"0"
 				//"antialias" "1"
@@ -42,7 +42,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"35"
-				//"tall_lodef"	"40"
+				////"tall_lodef"	"40"
 				//"weight"	"500"
 				//"additive"	"0"
 				//"antialias" "1"
@@ -394,7 +394,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"11"
-				//"tall_lodef"	"14"
+				////"tall_lodef"	"14"
 				//"antialias" "1"
 				//"weight"	"500"
 			}

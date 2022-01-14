@@ -48,88 +48,88 @@ Scheme
 		ExpandButton.Color				"OrangeZ"
 
 
-		IfmWorkspace.BgColor            "50 70 50 90"
+		IfmWorkspace.BgColor            "Blank"
 
 		MenuBar.BgColor					"IfmMenuDarkDim"
 
 
 
 		MainMenu.TextColor			"White"
-		MainMenu.ArmedTextColor		"200 200 200 255"
-		MainMenu.DepressedTextColor	"192 186 80 255"
+		MainMenu.ArmedTextColor		"Blank"
+		MainMenu.DepressedTextColor	"Blank"
 		MainMenu.MenuItemHeight		"16"
 		MainMenu.Inset				"32"
 		MainMenu.Backdrop			"Blank"
 		// basically the shadow when you open console
 
-		Console.TextColor			"35 240 55 255"
+		Console.TextColor			"Blank"
 		Console.DevTextColor		"White"
 
 		NewGame.TextColor			"White"
 		NewGame.FillColor			"Black"
-		NewGame.SelectionColor		"255 155 0 255"
+		NewGame.SelectionColor		"Blank"
 		NewGame.SelectionColor		"Black"
 		NewGame.DisabledColor		"Blank"
 
-		DragDrop.DragFrame			"255 255 255 192"
-		DragDrop.DropFrame			"150 255 150 255"
+		DragDrop.DragFrame			"Blank"
+		DragDrop.DropFrame			"Blank"
 		
-		AttributeWidget.DirtyBgColor "100 100 200 63"
+		AttributeWidget.DirtyBgColor "Blank"
 		
-		Clip.Selected				"255 155 0 255"
-		Clip.Unselected				"150 150 150 255"
+		Clip.Selected				"Blank
+		Clip.Unselected				"Blank"
 		
 		Clip.BgColor				"Blank"
-		Clip.ActiveBgColor			"255 255 255 50"
+		Clip.ActiveBgColor			"Blank"
 		
-		Clip.TrackBorder			"0 0 0 255"
+		Clip.TrackBorder			"Blank"
 		
 		// Color at insert cursor when dropping tracks onto a timeline view
-		Clip.DropTimeColor			"255 255 255 255"
-		Clip.DropTimeColorBg		"0 0 0 192"
-		Clip.DropTimeColorBorder	"255 255 255 192"
+		Clip.DropTimeColor			"Blank"
+		Clip.DropTimeColorBg		"Blank"
+		Clip.DropTimeColorBorder	"Blank"
 		
-		Clip.StartDragColor			"0 255 255 128"
+		Clip.StartDragColor		"Blank"
 		
-		KeyBoardEditor.AlteredBinding		"100 255 100 255"
+		KeyBoardEditor.AlteredBinding	"Blank"
 		StatusBar.BgColor 			"IfmMenuDarkDim"
 		
-		FilmStrip.FilmBgColor		"75 75 220 128"
-		FilmStrip.AudioBgColor		"75 220 75 128"
-		FilmStrip.FXBgColor			"220 75 75 128"
-		FilmStrip.ChannelsBgColor	"220 200 75 128"
-		FilmStrip.FgColor			"31 31 31 128"
+		FilmStrip.FilmBgColor	"Blank"
+		FilmStrip.AudioBgColor		"Blank"
+		FilmStrip.FXBgColor			"Blank"
+		FilmStrip.ChannelsBgColor	"Blank"
+		FilmStrip.FgColor			"Blank"
 
 		TimeCode.BorderColor		"Black"
 		
-		TimeCode.SubClipFgColor		"255 0 100 255"
-		TimeCode.SubClipBgColor		"255 255 255 63"
+		TimeCode.SubClipFgColor		"Blank"
+		TimeCode.SubClipBgColor		"Blank"
 
-		TimeCode.ClipFgColor		"100 100 255 255"
-		TimeCode.ClipBgColor		"255 255 255 63"
+		TimeCode.ClipFgColor		"Blank"
+		TimeCode.ClipBgColor		"Blank"
 		
-		IFM.CurrentTimeScrubber		"100 150 255 192"  // In the timeline views, the grabbable scrubber color
-		IFM.CurrentTimeScrubberOutline	"Blank"  // In the timeline views, the outline around the bar and scrubber
-		IFM.CurrentTimeBarColor		"100 150 255 192" 
+		IFM.CurrentTimeScrubber		"Blank"
+		IFM.CurrentTimeScrubberOutline	"Blank"
+		IFM.CurrentTimeBarColor		"Blank"
 		
-		IFM.ClipTransitionBgColor	"180 180 255 192"
+		IFM.ClipTransitionBgColor	"Blank"
 		
-		IFM.TimeLineBgColor			"0 0 0 128"
+		IFM.TimeLineBgColor			"Blank"
 			
-		IFM.TimeLineTickMajor		"255 255 63 192"
-		IFM.TimeLineTickMinor		"255 255 63 127"
-		IFM.TimeLineTickLabelColor	"255 255 255 127"
+		IFM.TimeLineTickMajor		"Blank"
+		IFM.TimeLineTickMinor		"Blank"
+		IFM.TimeLineTickLabelColor	"Blank"
 		
-		IFMConsole.TextColor		"216 222 211 255"
-		IFMConsole.DevTextColor		"196 181 80 255"
+		IFMConsole.TextColor		"Blank"
+		IFMConsole.DevTextColor		"Blank"
 		
 		// It just oscillates between these two
-		IFMDrop.BlinkCursor1		"255 255 0 255"
-		IFMDrop.BlinkCursor2		"100 100 100 255"
+		IFMDrop.BlinkCursor1		"Blank"
+		IFMDrop.BlinkCursor2		"Blank"
 		
-		IFM.CurveOtherLayer			"150 150 150 255"
-		IFM.CurveBaseLayer			"0 255 255 255"
-		IFM.CurveWriteLayer			"220 200 50 255"
+		IFM.CurveOtherLayer		"Blank"
+		IFM.CurveBaseLayer		"Blank"
+		IFM.CurveWriteLayer		"Blank"
 	}
 
 	//

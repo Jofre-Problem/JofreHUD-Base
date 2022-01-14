@@ -14,135 +14,135 @@
 // Server events
 ///////////
 
-	"server_spawn"				// send once a server starts
-	{
-		"hostname"	"string"	// public host name
-		"address"	"string"	// hostame, IP or DNS name	
-		"ip"		"long"
-		"port"		"short"		// server port
-		"game"		"string"	// game dir 
-		"mapname"	"string"	// map name
-		"maxplayers"	"long"		// max players
-		"os"		"string"	// WIN32, LINUX
-		"dedicated"	"bool"		// true if dedicated server
-		"password"	"bool"		// true if password protected
-	}
+"server_spawn"// send once a server starts
+{
+"hostname""string"// public host name
+"address""string"// hostame, IP or DNS name
+"ip""long"
+"port""short"// server port
+"game""string"// game dir 
+"mapname""string"// map name
+"maxplayers""long"// max players
+"os""string"// WIN32, LINUX
+"dedicated""bool"// true if dedicated server
+"password""bool"// true if password protected
+}
 
-	"server_changelevel_failed"
-	{
-		"levelname"	"string"	// The level name that failed changelevel
-	}
+"server_changelevel_failed"
+{
+"levelname""string"// The level name that failed changelevel
+}
 
-	"server_shutdown" 			// server shut down	
-	{
-		"reason"	"string"	// reason why server was shut down
-	}
-	
-	"server_cvar" 				// a server console var has changed
-	{
-		"cvarname"	"string"	// cvar name, eg "mp_roundtime"		
-		"cvarvalue"	"string"	// new cvar value
-	}
-	
-	"server_message"			// a generic server message
-	{
-		"text"		"string"	// the message text
-	}
+"server_shutdown" // server shut down
+{
+"reason""string"// reason why server was shut down
+}
 
-	"server_addban"
-	{
-		"name"		"string"	// player name
-		"userid"	"short"		// user ID on server
-		"networkid"	"string"	// player network (i.e steam) id
-		"ip"		"string"	// IP address
-		"duration"	"string"	// length of the ban
-		"by"		"string"	// banned by...
-		"kicked"	"bool"		// whether the player was also kicked
-	}
+"server_cvar" // a server console var has changed
+{
+"cvarname""string"// cvar name, eg "mp_roundtime"
+"cvarvalue""string"// new cvar value
+}
 
-	"server_removeban"
-	{
-		"networkid"	"string"	// player network (i.e steam) id
-		"ip"		"string"	// IP address
-		"by"		"string"	// removed by...
-	}
-	
-	"player_connect"			// a new client connected - we should only really have server listeners for this, due to the IP being exposed
-	{
-		"name"		"string"	// player name		
-		"index"		"byte"		// player slot (entity index-1)
-		"userid"	"short"		// user ID on server (unique on server)
-		"networkid" "string" // player network (i.e steam) id
-		"address"	"string"	// ip:port
-		"bot"		"short"		// is a bot
-	}
+"server_message"// a generic server message
+{
+"text""string"// the message text
+}
 
-	"player_connect_client"		// a new client connected
-	{
-		"name"		"string"	// player name		
-		"index"		"byte"		// player slot (entity index-1)
-		"userid"	"short"		// user ID on server (unique on server)
-		"networkid" "string" // player network (i.e steam) id
-		"bot"		"short"		// is a bot
-	}
-	
-	"player_info"				// a player changed his name
-	{
-		"name"			"string"	// player name		
-		"index"			"byte"		// player slot (entity index-1)
-		"userid"		"short"		// user ID on server (unique on server)
-		"networkid"		"string"	// player network (i.e steam) id
-		"bot"			"bool"		// true if player is a AI bot
-	}
-	
-	"player_disconnect"			// a client was disconnected
-	{
-		"userid"	"short"		// user ID on server
-		"reason"	"string"	// "self", "kick", "ban", "cheat", "error"
-		"name"		"string"	// player name
-		"networkid"	"string"	// player network (i.e steam) id
-		"bot"		"short"		// is a bot
-	}
+"server_addban"
+{
+"name""string"// player name
+"userid""short"// user ID on server
+"networkid""string"// player network (i.e steam) id
+"ip""string"// IP address
+"duration""string"// length of the ban
+"by""string"// banned by...
+"kicked""bool"// whether the player was also kicked
+}
 
-	"player_activate"
-	{
-		"userid"	"short"		// user ID on server
-	}
+"server_removeban"
+{
+"networkid""string"// player network (i.e steam) id
+"ip""string"// IP address
+"by""string"// removed by...
+}
 
-	"player_say"
-	{
-		"userid"	"short"		// user ID on server
-		"text"		"string"	// the say text
-	}
-	
-	"client_disconnect"			// client side disconnect message
-	{
-		"message"	"string"		// Why are we disconnecting?  This could be a localization token or an English-language string
-	}
+"player_connect"// a new client connected - we should only really have server listeners for this, due to the IP being exposed
+{
+"name""string"// player name
+"index""byte"// player slot (entity index-1)
+"userid""short"// user ID on server (unique on server)
+"networkid" "string" // player network (i.e steam) id
+"address""string"// ip:port
+"bot""short"// is a bot
+}
 
-	"client_beginconnect"			// client tries to connect to server
-	{
-		"address"	"string"		// Name we used to connect to the server
-		"ip"		"long"
-		"port"		"short"			// server port
-		"source"	"string"		// what caused us to attempt this connection?  (blank for general command line, "serverbrowser", "quickplay", etc)
-	}
+"player_connect_client"// a new client connected
+{
+"name""string"// player name
+"index""byte"// player slot (entity index-1)
+"userid""short"// user ID on server (unique on server)
+"networkid" "string" // player network (i.e steam) id
+"bot""short"// is a bot
+}
 
-	"client_connected"			// client has completed the challenge / handshake process and is in SIGNONSTATE_CONNECTED
-	{
-		"address"	"string"		// Name we used to connect to the server
-		"ip"		"long"
-		"port"		"short"			// server port
-	}
+"player_info"// a player changed his name
+{
+"name""string"// player name
+"index""byte"// player slot (entity index-1)
+"userid""short"// user ID on server (unique on server)
+"networkid""string"// player network (i.e steam) id
+"bot""bool"// true if player is a AI bot
+}
 
-	"client_fullconnect"
-	{
-		"address"	"string"		// Name we used to connect to the server
-		"ip"		"long"
-		"port"		"short"			// server port
-	}
+"player_disconnect"// a client was disconnected
+{
+"userid""short"// user ID on server
+"reason""string"// "self", "kick", "ban", "cheat", "error"
+"name""string"// player name
+"networkid""string"// player network (i.e steam) id
+"bot""short"// is a bot
+}
 
-	"host_quit"
-	{
-	}
+"player_activate"
+{
+"userid""short"// user ID on server
+}
+
+"player_say"
+{
+"userid""short"// user ID on server
+"text""string"// the say text
+}
+
+"client_disconnect"// client side disconnect message
+{
+"message""string"// Why are we disconnecting?This could be a localization token or an English-language string
+}
+
+"client_beginconnect"// client tries to connect to server
+{
+"address""string"// Name we used to connect to the server
+"ip""long"
+"port""short"// server port
+"source""string"// what caused us to attempt this connection?(blank for general command line, "serverbrowser", "quickplay", etc)
+}
+
+"client_connected"// client has completed the challenge / handshake process and is in SIGNONSTATE_CONNECTED
+{
+"address""string"// Name we used to connect to the server
+"ip""long"
+"port""short"// server port
+}
+
+"client_fullconnect"
+{
+"address""string"// Name we used to connect to the server
+"ip""long"
+"port""short"// server port
+}
+
+"host_quit"
+{
+}
 }

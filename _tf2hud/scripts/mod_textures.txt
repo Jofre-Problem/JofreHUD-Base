@@ -1714,10 +1714,10 @@ TextureData
 
 "crosshair_default"
 {
-"file"  "sprites/crosshairs"
-"x"   "32"
-"y"   "0"
-"width"  "32"
+"file""sprites/crosshairs"
+"x""32"
+"y""0"
+"width""32"
 "height" "32"
 }
 

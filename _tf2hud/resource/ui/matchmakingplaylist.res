@@ -1,176 +1,176 @@
 "Resource/UI/MatchMakingDashboardCasualCriteria.res"
 {
-	"EventEntry"
-	{
-		"ControlName"	"CEventPlayListEntry"
-		"fieldName"		"EventEntry"
-		
-		"ypos"			"3"
-		"tall"			"45"
-		"wide"			"255"
-		"proportionaltoparent"	"1"
+"EventEntry"
+{
+"ControlName""CEventPlayListEntry"
+"fieldName""EventEntry"
 
-		"button_command"	"play_event"
-	}
+"ypos""3"
+"tall""45"
+"wide""255"
+"proportionaltoparent""1"
 
-	"CasualEntry"
-	{
-		"ControlName"	"CPlayListEntry"
-		"fieldName"		"CasualEntry"
-		
-		"ypos"			"3"
-		"tall"			"45"
-		"wide"			"255"
-		"proportionaltoparent"	"1"
+"button_command""play_event"
+}
 
-		"image_name"		"main_menu/main_menu_button_casual"
-		"button_token"		"#MMenu_PlayList_Casual_Button"
-		"button_command"	"play_casual"
-		"desc_token"		"#MMenu_PlayList_Casual_Desc"
-		"matchgroup"		"7" // k_eTFMatchGroup_Casual_12v12
+"CasualEntry"
+{
+"ControlName""CPlayListEntry"
+"fieldName""CasualEntry"
 
-		if_event
-		{
-			"ypos"			"53"
-		}
-	}
+"ypos""3"
+"tall""45"
+"wide""255"
+"proportionaltoparent""1"
 
-	"CompetitiveEntry"
-	{
-		"ControlName"	"CPlayListEntry"
-		"fieldName"		"CompetitiveEntry"
-		
-		"ypos"			"53"
-		"tall"			"45"
-		"wide"			"255"
-		"proportionaltoparent"	"1"
+"image_name""main_menu/main_menu_button_casual"
+"button_token""#MMenu_PlayList_Casual_Button"
+"button_command""play_casual"
+"desc_token""#MMenu_PlayList_Casual_Desc"
+"matchgroup""7" // k_eTFMatchGroup_Casual_12v12
 
-		"image_name"		"main_menu/main_menu_button_competitive"
-		"button_token"		"#MMenu_PlayList_Competitive_Button"
-		"button_command"	"play_competitive"
-		"desc_token"		"#MMenu_PlayList_Competitive_Desc"
-		"matchgroup"		"2" // k_eTFMatchGroup_Ladder_6v6
+if_event
+{
+"ypos""53"
+}
+}
 
-		if_event
-		{
-			"ypos"			"103"
-		}
-	}
+"CompetitiveEntry"
+{
+"ControlName""CPlayListEntry"
+"fieldName""CompetitiveEntry"
 
-	"MvMEntry"
-	{
-		"ControlName"	"CPlayListEntry"
-		"fieldName"		"MvMEntry"
-		
-		"ypos"			"103"
-		"tall"			"45"
-		"wide"			"255"
-		"proportionaltoparent"	"1"
+"ypos""53"
+"tall""45"
+"wide""255"
+"proportionaltoparent""1"
 
-		"image_name"		"main_menu/main_menu_button_mvm"
-		"button_token"		"#MMenu_PlayList_MvM_Button"
-		"button_command"	"play_mvm"
-		"desc_token"		"#MMenu_PlayList_MvM_Desc"
-		"matchgroup"		"1" // k_eTFMatchGroup_MvM_MannUp
+"image_name""main_menu/main_menu_button_competitive"
+"button_token""#MMenu_PlayList_Competitive_Button"
+"button_command""play_competitive"
+"desc_token""#MMenu_PlayList_Competitive_Desc"
+"matchgroup""2" // k_eTFMatchGroup_Ladder_6v6
 
-		if_event
-		{
-			"ypos"			"153"
-		}
-	}
+if_event
+{
+"ypos""103"
+}
+}
 
-	"ServerBrowserEntry"
-	{
-		"ControlName"	"CPlayListEntry"
-		"fieldName"		"ServerBrowserEntry"
-		
-		"ypos"			"153"
-		"tall"			"45"
-		"wide"			"255"
-		"proportionaltoparent"	"1"
+"MvMEntry"
+{
+"ControlName""CPlayListEntry"
+"fieldName""MvMEntry"
 
-		"image_name"		"main_menu/main_menu_button_community_server"
-		"button_token"		"#MMenu_PlayList_ServerBrowser_Button"
-		"button_command"	"play_community"
-		"desc_token"		"#MMenu_PlayList_ServerBrowser_Desc"
+"ypos""103"
+"tall""45"
+"wide""255"
+"proportionaltoparent""1"
 
-		if_event
-		{
-			"ypos"			"203"
-		}
-	}
+"image_name""main_menu/main_menu_button_mvm"
+"button_token""#MMenu_PlayList_MvM_Button"
+"button_command""play_mvm"
+"desc_token""#MMenu_PlayList_MvM_Desc"
+"matchgroup""1" // k_eTFMatchGroup_MvM_MannUp
 
-	"TrainingEntry"
-	{
-		"ControlName"	"CPlayListEntry"
-		"fieldName"		"TrainingEntry"
-		
-		"ypos"			"203"
-		"tall"			"45"
-		"wide"			"255"
-		"proportionaltoparent"	"1"
+if_event
+{
+"ypos""153"
+}
+}
 
-		"image_name"		"main_menu/main_menu_button_training"
-		"button_token"		"#MMenu_PlayList_Training_Button"
-		"button_command"	"play_training"
-		"desc_token"		"#MMenu_PlayList_Training_Desc"
+"ServerBrowserEntry"
+{
+"ControlName""CPlayListEntry"
+"fieldName""ServerBrowserEntry"
 
-		if_event
-		{
-			"ypos"			"253"
-		}
-	}
+"ypos""153"
+"tall""45"
+"wide""255"
+"proportionaltoparent""1"
 
-	"CreateServerEntry"
-	{
-		"ControlName"	"CPlayListEntry"
-		"fieldName"		"CreateServerEntry"
-		
-		"ypos"			"253"
-		"tall"			"45"
-		"wide"			"255"
-		"proportionaltoparent"	"1"
+"image_name""main_menu/main_menu_button_community_server"
+"button_token""#MMenu_PlayList_ServerBrowser_Button"
+"button_command""play_community"
+"desc_token""#MMenu_PlayList_ServerBrowser_Desc"
 
-		"image_name"		"main_menu/main_menu_button_custom_server"
-		"button_token"		"#MMenu_PlayList_CreateServer_Button"
-		"button_command"	"create_server"
-		"desc_token"		"#MMenu_PlayList_CreateServer_Desc"
+if_event
+{
+"ypos""203"
+}
+}
 
-		if_event
-		{
-			"ypos"			"303"
-		}
-	}
+"TrainingEntry"
+{
+"ControlName""CPlayListEntry"
+"fieldName""TrainingEntry"
 
-	"ScrollBar"
-	{
-		"ControlName"	"ScrollBar"
-		"FieldName"		"ScrollBar"
-		"xpos"			"rs1-1"
-		
-		"tall"			"f0"
-		"wide"			"5" // This gets slammed from client schme.  GG.
-		"zpos"			"1000"
-		"nobuttons"		"1"
-		"proportionaltoparent"	"1"
+"ypos""203"
+"tall""45"
+"wide""255"
+"proportionaltoparent""1"
 
-		"Slider"
-		{
-			"fgcolor_override"	"TanDark"
-		}
-		
-		"UpButton"
-		{
-			"ControlName"	"Button"
-			"FieldName"		"UpButton"
-			"visible"		"0"
-		}
-		
-		"DownButton"
-		{
-			"ControlName"	"Button"
-			"FieldName"		"DownButton"
-			"visible"		"0"
-		}
-	}
+"image_name""main_menu/main_menu_button_training"
+"button_token""#MMenu_PlayList_Training_Button"
+"button_command""play_training"
+"desc_token""#MMenu_PlayList_Training_Desc"
+
+if_event
+{
+"ypos""253"
+}
+}
+
+"CreateServerEntry"
+{
+"ControlName""CPlayListEntry"
+"fieldName""CreateServerEntry"
+
+"ypos""253"
+"tall""45"
+"wide""255"
+"proportionaltoparent""1"
+
+"image_name""main_menu/main_menu_button_custom_server"
+"button_token""#MMenu_PlayList_CreateServer_Button"
+"button_command""create_server"
+"desc_token""#MMenu_PlayList_CreateServer_Desc"
+
+if_event
+{
+"ypos""303"
+}
+}
+
+"ScrollBar"
+{
+"ControlName""ScrollBar"
+"FieldName""ScrollBar"
+"xpos""rs1-1"
+
+"tall""f0"
+"wide""5" // This gets slammed from client schme.GG.
+"zpos""1000"
+"nobuttons""1"
+"proportionaltoparent""1"
+
+"Slider"
+{
+"fgcolor_override""TanDark"
+}
+
+"UpButton"
+{
+"ControlName""Button"
+"FieldName""UpButton"
+"visible""0"
+}
+
+"DownButton"
+{
+"ControlName""Button"
+"FieldName""DownButton"
+"visible""0"
+}
+}
 }

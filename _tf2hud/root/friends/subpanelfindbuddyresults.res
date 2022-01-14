@@ -2,39 +2,39 @@
 
 {
 
-	"SubPanelFindBuddyResults"
+"SubPanelFindBuddyResults"
 
-	{
+{
 
-		"ControlName"		"CSubPanelFindBuddyResults"
+"ControlName""CSubPanelFindBuddyResults"
 
-		"fieldName"		"SubPanelFindBuddyResults"
-
-
-	}
-
-	"Table"
-
-	{
-
-		"ControlName"		"ListPanel"
-
-		"fieldName"		"Table"
+"fieldName""SubPanelFindBuddyResults"
 
 
+}
 
-	}
+"Table"
 
-	"InfoText"
+{
 
-	{
+"ControlName""ListPanel"
 
-		"ControlName"		"Label"
-
-		"fieldName"		"InfoText"
+"fieldName""Table"
 
 
 
-	}
+}
+
+"InfoText"
+
+{
+
+"ControlName""Label"
+
+"fieldName""InfoText"
+
+
+
+}
 
 }

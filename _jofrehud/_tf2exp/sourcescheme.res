@@ -50,7 +50,7 @@ Scheme
 		Button.ArmedTextColor			"TFDarkBrown"
 		Button.ArmedBgColor				"TFTanBright"
 		Button.DepressedTextColor		"TFDarkBrown"
-		Button.DepressedBgColor			"TFTanLight"	
+		Button.DepressedBgColor			"TFTanLight"
 		Button.FocusBorderColor			"TransparentBlack"
 		
 		CheckButton.TextColor			"TFTextBright"
@@ -59,9 +59,9 @@ Scheme
 		CheckButton.HighlightFgColor		"TFTextMedium"
 		CheckButton.ArmedBgColor		"Blank"
 		CheckButton.DepressedBgColor		"Blank"
-		CheckButton.Border1  			"Border.Dark" 		// the left checkbutton border
-		CheckButton.Border2  			"Border.Bright"		// the right checkbutton border
-		CheckButton.Check				"TFTanBright"	// color of the check itself
+		CheckButton.Border1  			"Border.Dark"
+		CheckButton.Border2  			"Border.Bright"
+		CheckButton.Check				"TFTanBright"
 		CheckButton.DisabledBgColor	    "ListBG"
 
 		ToggleButton.SelectedTextColor	"TFTextBright"
@@ -89,8 +89,8 @@ Scheme
 		Label.TextBrightColor			"TFTextBright"
 		Label.SelectedTextColor			"TFTextBright"
 		Label.BgColor					"Blank"
-		Label.DisabledFgColor1			"TFTextDull"	
-		Label.DisabledFgColor2			"Blank"	
+		Label.DisabledFgColor1			"TFTextDull"
+		Label.DisabledFgColor2			"Blank"
 		
 		ListPanel.TextColor					"TFTextBright"
 		ListPanel.BgColor					"ListBG"
@@ -115,10 +115,10 @@ Scheme
 		ScrollBarButton.DepressedFgColor	"TFDarkBrown"
 		ScrollBarButton.DepressedBgColor	"TFTanLight"
 
-		ScrollBarSlider.BgColor				"TFTanMedium"		// this isn't really used
-		ScrollBarSlider.FgColor				"TFTanLight"		// handle with which the slider is grabbed
+		ScrollBarSlider.BgColor				"TFTanMedium"
+		ScrollBarSlider.FgColor				"TFTanLight"
 		
-		Slider.NobColor				"TFTanLight"		
+		Slider.NobColor				"TFTanLight"
 		Slider.TextColor			"TFTextBright"
 		Slider.TrackColor			"ListBG"
 		Slider.DisabledTextColor1	"TFTextMediumDark"

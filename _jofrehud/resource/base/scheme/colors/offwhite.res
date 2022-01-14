@@ -3,6 +3,6 @@ Scheme
 {
 Colors
 {
-//"OffWhite""0 0 0 50"
+"OffWhite""216 216 216 255"
 }
 }

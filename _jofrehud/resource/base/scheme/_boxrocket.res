@@ -65,19 +65,19 @@ BaseSettings
 // vgui_controls color specifications
 
 
-ExpandButton.Color"OrangeZ"
+ExpandButton.Color  "OrangeZ"
 
 
 IfmWorkspace.BgColor            "50 70 50 90"
 
-MenuBar.BgColor"IfmMenuDarkDim"
+MenuBar.BgColor "IfmMenuDarkDim"
 
-Menu.TextColor"OrangeZ"
-Menu.BgColor"IfmMenuDarkDim"
-Menu.ArmedTextColor"IfmMenuDark"
-Menu.ArmedBgColor"OrangeZ"
-Menu.SeparatorColor"DullWhite"
-Menu.TextInset"6"
+Menu.TextColor  "OrangeZ"
+Menu.BgColor    "IfmMenuDarkDim"
+Menu.ArmedTextColor "IfmMenuDark"
+Menu.ArmedBgColor   "OrangeZ"
+Menu.SeparatorColor "DullWhite"
+Menu.TextInset  "6"
 // Menu.Font                       "UiBoldSmall"
 
 
@@ -86,65 +86,65 @@ Menu.TextInset"6"
 //MainMenu.MenuItemHeight"30"
 
 
-DragDrop.DragFrame"255 255 255 192"
-DragDrop.DropFrame"150 255 150 255"
+DragDrop.DragFrame  "255 255 255 192"
+DragDrop.DropFrame  "150 255 150 255"
 
 AttributeWidget.DirtyBgColor "100 100 200 63"
 
-Clip.Selected"255 155 0 255"
-Clip.Unselected"150 150 150 255"
+		Clip.Selected				"Blank
+		Clip.Unselected				"Blank"
+		
+		Clip.BgColor				"Blank"
+		Clip.ActiveBgColor			"Blank"
+		
+		Clip.TrackBorder			"Blank"
+		
+		// Color at insert cursor when dropping tracks onto a timeline view
+		Clip.DropTimeColor			"Blank"
+		Clip.DropTimeColorBg		"Blank"
+		Clip.DropTimeColorBorder	"Blank"
+		
+		Clip.StartDragColor		"Blank"
+		
+		KeyBoardEditor.AlteredBinding	"Blank"
+		StatusBar.BgColor 			"IfmMenuDarkDim"
+		
+		FilmStrip.FilmBgColor	"Blank"
+		FilmStrip.AudioBgColor		"Blank"
+		FilmStrip.FXBgColor			"Blank"
+		FilmStrip.ChannelsBgColor	"Blank"
+		FilmStrip.FgColor			"Blank"
 
-Clip.BgColor"Blank"
-Clip.ActiveBgColor"255 255 255 50"
+		TimeCode.BorderColor		"Black"
+		
+		TimeCode.SubClipFgColor		"Blank"
+		TimeCode.SubClipBgColor		"Blank"
 
-Clip.TrackBorder"0 0 0 255"
+		TimeCode.ClipFgColor		"Blank"
+		TimeCode.ClipBgColor		"Blank"
 
-// Color at insert cursor when dropping tracks onto a timeline view
-Clip.DropTimeColor"255 255 255 255"
-Clip.DropTimeColorBg"0 0 0 192"
-Clip.DropTimeColorBorder"255 255 255 192"
-
-Clip.StartDragColor"0 255 255 128"
-
-KeyBoardEditor.AlteredBinding"100 255 100 255"
-StatusBar.BgColor "IfmMenuDarkDim"
-
-FilmStrip.FilmBgColor"75 75 220 128"
-FilmStrip.AudioBgColor"75 220 75 128"
-FilmStrip.FXBgColor"220 75 75 128"
-FilmStrip.ChannelsBgColor"220 200 75 128"
-FilmStrip.FgColor"31 31 31 128"
-
-TimeCode.BorderColor"0 0 0 255"
-
-TimeCode.SubClipFgColor"255 0 100 255"
-TimeCode.SubClipBgColor"255 255 255 63"
-
-TimeCode.ClipFgColor"100 100 255 255"
-TimeCode.ClipBgColor"255 255 255 63"
-
-IFM.CurrentTimeScrubber"100 150 255 192"  // In the timeline views, the grabbable scrubber color
-IFM.CurrentTimeScrubberOutline"Blank"  // In the timeline views, the outline around the bar and scrubber
-IFM.CurrentTimeBarColor"100 150 255 192" 
-
-IFM.ClipTransitionBgColor"180 180 255 192"
-
-IFM.TimeLineBgColor"0 0 0 128"
-
-IFM.TimeLineTickMajor"255 255 63 192"
-IFM.TimeLineTickMinor"255 255 63 127"
-IFM.TimeLineTickLabelColor"255 255 255 127"
-
-IFMConsole.TextColor"216 222 211 255"
-IFMConsole.DevTextColor"196 181 80 255"
-
-// It just oscillates between these two
-IFMDrop.BlinkCursor1"255 255 0 255"
-IFMDrop.BlinkCursor2"100 100 100 255"
-
-IFM.CurveOtherLayer"150 150 150 255"
-IFM.CurveBaseLayer"0 255 255 255"
-IFM.CurveWriteLayer"220 200 50 255"
+		IFM.CurrentTimeScrubber		"Blank"
+		IFM.CurrentTimeScrubberOutline	"Blank"
+		IFM.CurrentTimeBarColor		"Blank"
+		
+		IFM.ClipTransitionBgColor	"Blank"
+		
+		IFM.TimeLineBgColor			"Blank"
+			
+		IFM.TimeLineTickMajor		"Blank"
+		IFM.TimeLineTickMinor		"Blank"
+		IFM.TimeLineTickLabelColor	"Blank"
+		
+		IFMConsole.TextColor		"Blank"
+		IFMConsole.DevTextColor		"Blank"
+		
+		// It just oscillates between these two
+		IFMDrop.BlinkCursor1		"Blank"
+		IFMDrop.BlinkCursor2		"Blank"
+		
+		IFM.CurveOtherLayer		"Blank"
+		IFM.CurveBaseLayer		"Blank"
+		IFM.CurveWriteLayer		"Blank"
 }
 
 Fonts

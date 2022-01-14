@@ -256,8 +256,8 @@ Scheme
 				//"tall"		"14" [$LINUX]
 				//"tall"		"11" [$OSX]
 				//"tall"		 "10"
-				//"tall_lodef" "15"
-				//"tall_hidef" "20"
+				////"tall_lodef" "15"
+				////"tall_hidef" "20"
 				"weight"	 "0"
 				"outline"	 "1"
 			}
@@ -359,7 +359,7 @@ Scheme
 			{
 				"name"			"Segoe UI"
 				//"tall"			"20"
-				//"tall_hidef"	"28"
+				////"tall_hidef"	"28"
 				"weight"		"2000"
 				"outline"		"1"
 			}
@@ -370,7 +370,7 @@ Scheme
 			{
 				"name"			"Segoe UI"
 				//"tall"			"20"
-				//"tall_hidef"	"28"
+				////"tall_hidef"	"28"
 				"weight"		"2000"
 				"blur"			"3"
 				//"blur_hidef"	"5"
@@ -395,7 +395,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				//"tall"			"14"
-				//"tall_hidef"	"20"
+				////"tall_hidef"	"20"
 				"weight"	"1200"
 				"antialias" "1"
 				"outline" "1"
@@ -686,7 +686,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				//"tall"			"16"
-				//"tall_hidef"	"24"
+				////"tall_hidef"	"24"
 				"weight"		"900"
 				"antialias"		"1"
 			}
@@ -698,7 +698,7 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				//"tall"			"16"
-				//"tall_hidef"	"24"
+				////"tall_hidef"	"24"
 				"weight"		"900"
 				"blur"			"3"
 				//"blur_hidef"	"5"
@@ -803,7 +803,7 @@ Scheme
 				"name"		"Segoe UI" [!$POSIX]
 				"name"		"Segoe UI" [$POSIX]
 				//"tall"		"35"
-				//"tall_lodef"	"40"
+				////"tall_lodef"	"40"
 				"weight"	"500"
 				//"additive"	"0"
 				"antialias" "1"
